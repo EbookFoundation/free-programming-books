@@ -6,7 +6,7 @@ Bản dịch Tiếng Việt:
 
 - Tôi đã cố gắng dịch chính xác, nhưng khó có thể tránh khỏi một số sai sót, mong các bạn lượng thứ.
 
-- Mọi ý kiến, đóng góp về bản dịch, vui lòng [tạo một issue mới](/issues/new) hoặc bạn có thể chỉnh sửa và tạo pull Request.
+- Mọi ý kiến, đóng góp về bản dịch, vui lòng [tạo một issue mới](/issues/new) hoặc bạn có thể chỉnh sửa và tạo Pull Request (PR).
 
 ---
 
@@ -33,7 +33,7 @@ Bằng cách đóng góp, bạn đồng ý tôn trọng [Quy Tắc Ứng Xử](C
     - *Sách* : PDF, HTML, ePub, một trang web dựa trên gitbook.io, một kho lưu trữ Git, v.v.
     - *Khóa Học* : Một khóa học là một tài liệu học tập, không phải là sách. [Đây là một khóa học](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
     - *Hướng Dẫn Trực Quan* : Một trang web cho phép người dùng lập trình hoặc chạy chương trình dựa trên kết quả và đánh giá. Ví dụ: [Try Haskell](http://tryhaskell.org), [Try GitHub](http://try.github.io).
-    - *Playgrounds* : are online and interactive websites, games or desktop software for learning programming. Write, compile (or run), and share code snippets. Playgrounds often allow you to fork and get your hands dirty by playing with code.
+    - *Playgrounds* : các trang web, trò chơi hoặc phần mềm máy tính trực tuyến cho việc học lập trình. Viết, biên dịch (hoặc chạy), và chia sẻ các đoạn mã. Playgrounds thường cho phép bạn fork và nhúng tay chơi đùa với các dòng code.
     - *Podcasts và Screencasts* : Podcasts và screencasts.
     - *Bài Tập & Cuộc Thi Lập Trình* : Trang web hoặc phần mềm cho phép bạn đánh giá kỹ năng lập trình của mình bằng cách giải quyết các vấn đề đơn giản hoặc phức tạp, có hoặc không có đánh giá mã nguồn, có hoặc không so sánh kết quả với những người khác.
 
@@ -65,8 +65,8 @@ Bằng cách đóng góp, bạn đồng ý tôn trọng [Quy Tắc Ứng Xử](C
 - ưu tiên các commit nhỏ (atomic commits - một commit chỉ có thêm, xóa hoặc sửa) hơn các commit lớn. Không cần phải giấu các commits của bạn trước khi gửi PR. (Chúng tôi sẽ không bao giờ thực thi những thứ này vì nó thuận tiện sau này cho người bảo trì)
 - nếu sách cũ, hãy bao gồm ngày xuất bản cùng với tên sách.
 - bao gồm tên tác giả hoặc tên nếu thích hợp. Bạn có thể rút ngắn danh sách tác giả với "`et al.`".
-- nếu cuốn sách chưa hoàn thành và vẫn đang được hoàn thiện, hãy thêm ký hiệu "`đang xử lý`", như được mô tả [dưới đây](#in_process).
-- if a resource is restored using the [*Internet Archive's Wayback Machine*](https://web.archive.org) (or similar), add the "`archived`" notation, as described [below](#archived). The best versions to use are recent and complete.
+- nếu cuốn sách chưa hoàn thành và vẫn đang được hoàn thiện, hãy thêm chú thích "`đang xử lý`", như được mô tả [dưới đây](#in_process).
+- nếu tài nguyên được khôi phục bằng cách sử dụng [*Internet Archive's Wayback Machine*](https://web.archive.org) (hoặc tương tự), hãy thêm chú thích "`lưu trữ`", như được mô tả [bên dưới](#archived). Các phiên bản tốt nhất để sử dụng là gần đây và hoàn chỉnh.
 - nếu địa chỉ email hoặc thiết lập tài khoản được yêu cầu trước khi kích hoạt tải xuống, hãy thêm ghi chú phù hợp với ngôn ngữ trong ngoặc đơn, ví dụ: `(địa chỉ email *được yêu cầu*, không bắt buộc)`.
 
 
@@ -103,7 +103,7 @@ Ví dụ:
     TỐT: * [Một cuốn sách tuyệt vời khác](http://example.com/book.html)
     ```
 
-- Nếu bao gồm tác giả, hãy sử dụng ` - ` (dấu gạch ngang được bao quanh bởi các khoảng trắng):
+- Nếu bao gồm tác giả, hãy sử dụng `-` (dấu gạch ngang được bao quanh bởi các khoảng trắng):
 
     ```text
     TỆ : * [Một cuốn sách tuyệt vời khác](http://example.com/book.html)- John Doe
@@ -124,7 +124,7 @@ Ví dụ:
     TỐT: * [Một cuốn sách rất tuyệt vời](https://example.org/book.pdf) - Jane Roe (PDF)
     ```
 
-- Nhiều định dạng:
+- Nhiều định dạng (Chúng tôi ưu tiên một liên kết duy nhất cho mỗi tài nguyên. Khi không có duy nhất một liên kết nào có thể dễ dàng truy cập vào các định dạng khác nhau, nhiều liên kết có thể được sử dụng. Nhưng mỗi liên kết thêm vào đều tạo ra khó khăn trong bảo trì nên chúng tôi cố gắng tránh điều đó.):
 
     ```text
     TỆ : * [Một cuốn sách tuyệt vời khác](http://example.com/)- John Doe (HTML)
@@ -145,23 +145,23 @@ Ví dụ:
     TỐT: * [Sách sẽ sớm trở nên tuyệt vời](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)
     ```
 
-- <a id="archived"></a>Archived link:
+- <a id="archived"></a>Liên kết đã lưu trữ:
 
     ```text
     TỐT: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
     ```
 
-### Alphabetical order
+### Thứ tự bảng chữ cái
 
-- When there are multiple titles beginning with the same letter order them by the second, and so on. For example: `aa` comes before `ab`.
-- `one two` comes before `onetwo`
+- Khi có nhiều tiêu đề bắt đầu bằng cùng một chữ cái, hãy sắp xếp chúng theo thứ tự thứ hai, v.v. Ví dụ: `aa` đứng trước` ab`.
+- `một hai` đến trước `mộthai`
 
-If you see a misplaced link, check the linter error message to know which lines should be swapped.
+Nếu bạn thấy một liên kết bị đặt sai vị trí, hãy kiểm tra thông báo lỗi với linter để biết dòng nào nên được hoán đổi.
 
 
 ### Ghi Chú
 
-Mặc dù những điều cơ bản tương đối đơn giản, nhưng có sự đa dạng lớn trong các nguồn mà chúng tôi liệt kê. Dưới đây là một số lưu ý về cách chúng ta phân loại những sự đa dạng này.
+Mặc dù những điều cơ bản tương đối đơn giản, nhưng có sự đa dạng lớn trong các nguồn mà chúng tôi liệt kê. Dưới đây là một số lưu ý về cách chúng tôi phân loại những sự đa dạng này.
 
 
 #### Metadata
@@ -173,7 +173,7 @@ Danh sách của chúng tôi cung cấp một metadata: tiêu đề, URL, ngư�
 
 - Không được phát minh ra tiêu đề. Chúng tôi cố gắng lấy các tiêu đề từ chính các nguồn tài liệu đó; những người đóng góp được khuyến cáo không phát minh ra tiêu đề hoặc chỉnh sửa chúng nếu điều này có thể tránh được. Một ngoại lệ là đối với các tác phẩm cũ hơn; nếu họ chủ yếu quan tâm đến lịch sử, thêm số năm vào trong dấu ngoặc đơn nằm trong tiêu đề sẽ giúp người dùng biết liệu họ có quan tâm hay không.
 - Không sử dụng tiêu đề viết HOA TOÀN BỘ. Thông thường, viết hoa tiêu đề là phù hợp, nhưng khi không chắc chắn, hãy sử dụng chữ viết hoa từ nguồn.
-- No emojis.
+- Không emojis.
 
 
 ##### Các Liên Kết
@@ -188,24 +188,32 @@ Danh sách của chúng tôi cung cấp một metadata: tiêu đề, URL, ngư�
 ##### Người Sáng Tạo
 
 - Chúng tôi muốn ghi công những người tạo ra các tài liệu miễn phí nếu thích hợp, bao gồm cả những người dịch!
-- Đối với các tác phẩm đã dịch, tác giả gốc nên được ghi công. We recommend using [MARC relators](https://loc.gov/marc/relators/relaterm.html) to credit creators other than authors, as in this example:
+- Đối với các tác phẩm đã dịch, tác giả gốc nên được đề cập. Chúng tôi cân nhắc sử dụng [MARC relators](https://loc.gov/marc/relators/relaterm.html) để đề cập tới người sáng tạo không phải tác giả, như ví dụ dưới đây:
 
     ```markdown
     * [A Translated Book](http://example.com/book-vi.html) - John Doe, `trl.:` Mike The Translator
     ```
 
-    here, the annotation `trl.:` uses the MARC relator code for "translator".
-- Use a comma `,` to delimit each item in the author list.
-- You can shorten author lists with "`et al.`".
+    ở đây, chú thích `trl.:` sử dụng MARC liên quan đến "người dịch".
+- Sử dụng một dấu phẩu `,` để phân định mỗi tác giả trong danh sách tác giả.
+- Bạn có thể rút ngắn tác giả với "`et al.`".
 - Chúng tôi không cho phép liên kết bởi Người sáng tạo.
-- Đối với các tác phẩm tổng hợp hoặc phối lại, "người sáng tạo" có thể cần mô tả. Ví dụ: sách "GoalKicker" or "RIP Tutorial" được ghi là "`Được tổng hợp từ tài liệu StackOverflow`" (bằng tiếng anh: "`Compiled from StackOverflow documentation`").
+- Đối với các tác phẩm tổng hợp hoặc phối lại, "người sáng tạo" có thể cần mô tả. Ví dụ: sách "GoalKicker" hoặc "RIP Tutorial" được ghi là "`Được tổng hợp từ tài liệu StackOverflow`" (tiếng Anh là "`Compiled from StackOverflow documentation`").
+- Chúng tôi không sử dụng kính ngữ như "GS (Giáo sử)" hoặc "Tiến sĩ" trong tên người sáng tạo.
+
+
+##### Các khóa học và thử nghiệm có giới hạn thời gian
+
+- Chúng tôi không liệt kê những danh sách mà chúng tôi sẽ cần loại bỏ trong sáu tháng.
+- Nếu một khóa học có thời gian hoặc thời lượng ghi danh giới hạn, chúng tôi sẽ không liệt kê nó.
+- Chúng tôi không thể liệt kê các tài nguyên miễn phí trong một khoảng thời gian giới hạn.
 
 
 ##### Nền Tảng và Ghi Chú Truy Cập
 
 - Các khóa học. Đặc biệt đối với danh sách khóa học của chúng tôi, nền tảng là một phần quan trọng của mô tả tài liệu. Điều này là do các khóa học nền tảng có khả năng chi trả và mô hình truy cập khác nhau. Mặc dù chúng tôi thường không liệt kê một cuốn sách yêu cầu đăng ký, nhưng nhiều nền tảng khóa học có khả năng không hoạt động nếu không có một số loại tài khoản. Các nền tảng khóa học ví dụ bao gồm Coursera, EdX, Udacity và Udemy. Khi một khóa học phụ thuộc vào một nền tảng, tên nền tảng phải được liệt kê trong ngoặc đơn.
-- YouTube. Chúng tôi có nhiều khóa học bao gồm các danh sách phát trên YouTube. Chúng tôi không cho rằng YouTube như một nền tảng, chúng tôi cố gắng liệt kê người sáng tạo nội dung trên YouTube, thường là một nền tảng phụ.
-- Video trên YouTube. Chúng tôi thường không có các liên kết đến các video YouTube riêng lẻ trừ khi chúng dài hơn một giờ và có cấu trúc giống như một khóa học hoặc một hướng dẫn.
+- Video trên YouTube. Chúng tôi thường không liên kết đến các video YouTube riêng lẻ trừ khi chúng dài hơn một giờ và có cấu trúc giống như một khóa học hoặc một hướng dẫn. Nếu đúng như vậy, hãy nhớ ghi chú nó trong phần mô tả PR.
+- Không có liên kết rút gọn (tức là youtu.be/xxxx)!
 - Leanpub. Leanpub lưu trữ sách với nhiều mô hình truy cập. Đôi khi một cuốn sách có thể được đọc mà không cần đăng ký; đôi khi một cuốn sách yêu cầu tài khoản Leanpub để được truy cập miễn phí. Do chất lượng của sách và sự hỗn hợp và tính linh hoạt của các mô hình truy cập Leanpub, chúng tôi cho phép liệt kê mô hình sau cùng với ghi chú truy cập `*(yêu cầu tài khoản Leanpub hoặc email hợp lệ)*`.
 
 

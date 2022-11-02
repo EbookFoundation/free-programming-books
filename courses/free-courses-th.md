@@ -54,11 +54,13 @@
 #### NodeJS
 
 * [สอน Node.js เบื้องต้น](https://www.youtube.com/playlist?list=PLoTScYm9O0GERtEdsPHK5Q-cdor5ADnyM) - pracertcbs
+* [สอน Nodejs เบื้องต้น](https://www.youtube.com/watch?v=mDezAkh5gcE) - Kong Ruksiam
 * [สอน Nodejs เบื้องต้น สำหรับผู้เริ่มต้นศึกษา Nodejs](https://www.youtube.com/playlist?list=PLEE74DyIkwEkWkVWy3TbjrTICVF_eUdyc) - Kong Ruksiam
 
 
 #### React
 
+* [สอน React](https://www.youtube.com/playlist?list=PL_xSQKvnccpn-C2fZNJtCykO24yqFWkDn) - Zinglecode
 * [สอน React.JS Tutorial](https://www.youtube.com/playlist?list=PLjPfp4Ph3gBo5SmWJXwv4oKDfeTXA7xgw) - CMDev
 
 
@@ -67,6 +69,11 @@
 * [เมื่อได้รับภารกิจสร้างระบบเข้าร่วม Event ผ่าน Line Liff](https://www.youtube.com/playlist?list=PLSy2hExy-WZN_fJSBbX7bsrAWsm3sbQg-) - CodeTraveler
 * [สอนเขียน VueJS](https://www.youtube.com/playlist?list=PLjPfp4Ph3gBry3sJDNrbqor5ikjwGDJ_7) - CMDev
 * [สอน VueJS + NuxtJS ตั้งแต่ 0~99](https://www.youtube.com/playlist?list=PLXm-UJjVcJCMd24NIQTPcqHhfnK-QbPmD) - Geekstart
+
+
+### Kotlin
+
+* [Getting started with Kotlin](https://www.skooldio.com/courses/getting-started-with-kotlin) - Somkiat Kijwongwattana
 
 
 ### Python
@@ -89,3 +96,5 @@
 #### Angular
 
 * [มือใหม่หัดใช้ Angular](https://priefydev.wordpress.com/tag/angular/) - Priefy Dev.
+
+

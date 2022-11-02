@@ -1412,7 +1412,7 @@
 
 > :information_source: See also &#8230; [Blockchain](#blockchain), [Solidity](#solidity)
 
-* [Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course](https://www.youtube.com/watch?v=gyMwXuJrbJQ) - freeCodeCamp, `tch.:` Patrick Collins
+* [Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course](https://www.youtube.com/watch?v=gyMwXuJrbJQ) - Patrick Collins (freeCodeCamp)
 
 
 ### Windows Phone

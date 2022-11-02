@@ -18,17 +18,21 @@
 * [JavaScript](#javascript)
     * [React](#react)
 * [LaTeX](#latex)
+* [Linux](#linux)
 * [Mathematik](#mathematik)
 * [Meta-Lists](#meta-lists)
 * [MySQL](#mysql)
 * [Neo4j](#neo4j)
 * [PHP](#php)
+    * [Joomla](#joomla)
     * [Symfony](#symfony)
 * [Python](#python)
     * [Django](#django)
+* [R](#r)
 * [Ruby on Rails](#ruby-on-rails)
 * [Scilab](#scilab)
 * [Scratch](#scratch)
+* [Shell](#shell)
 * [UML](#uml)
 * [Unabhängig von der Programmiersprache](#unabh%C3%A4ngig-von-der-programmiersprache)
 * [Unix](#unix)
@@ -63,12 +67,12 @@
 
 * [C-Programmierung](https://de.wikibooks.org/wiki/C-Programmierung) - Wikibooks (HTML)
 * [C von A bis Z](http://openbook.rheinwerk-verlag.de/c_von_a_bis_z) - Jürgen Wolf (Online)
-* [Socket Programmierung in C](http://www.tobscore.com/socket-programmierung-in-c) - Brian "Beej Jorgensen" Hall, Übersetzt von Tobias Kerst (HTML)
 * [Softwareentwicklung in C](https://web.archive.org/web/20190214185910/http://www.asc.tuwien.ac.at/~eprog/download/schmaranz.pdf) - Klaus Schmaranz (PDF)
 
 
 ### <a id="csharp"></a>C\#
 
+* [Einführung in das Programmieren mit C#](https://www.uni-trier.de/universitaet/wichtige-anlaufstellen/zimk/downloads-broschueren/programmierung/c) - Bernhard Baltes-Götz (PDF)
 * [Programmieren in C#: Einführung](http://www.highscore.de/csharp/einfuehrung)
 * [Visual C# 2012](http://openbook.rheinwerk-verlag.de/visual_csharp_2012) - Andreas Kühnel (Online)
 
@@ -128,13 +132,15 @@
 
 ### Java
 
+* [Einführung in das Programmieren mit Java](https://www.uni-trier.de/universitaet/wichtige-anlaufstellen/zimk/downloads-broschueren/programmierung/java) - Bernhard Baltes-Götz, Johannes Götz (PDF)
 * [EJB 3 für Umsteiger: Neuerungen und Änderungen gegenüber dem EJB-2.x-Standard](http://bsd.de/e3fu/umfrage.html) - Heiko W. Rupp
 * [Java 7 Mehr als eine Insel](http://openbook.rheinwerk-verlag.de/java7) - Christian Ullenboom (Online)
 * [Java ist auch eine Insel](http://openbook.rheinwerk-verlag.de/javainsel) - Christian Ullenboom (Online)
 * [Java SE 8 Standard-Bibliothek](http://openbook.rheinwerk-verlag.de/java8) - Christian Ullenboom (Online)
 * [Java Tutorial - Java lernen leicht gemacht](https://java-tutorial.org/index.php) - Björn und Britta Petri
-* [Programmieren Java: Aufbau](http://www.highscore.de/java/aufbau)
-* [Programmieren Java: Einführung](http://www.highscore.de/java/einfuehrung)
+* [Nebenläufige Programmierung mit Java](https://www.assets.dpunkt.de/openbooks/Hettel_Nebenlaeufige%20Programmierung%20mit%20Java_Broschuere.pdf) - Jörg Hettel und Manh Tien Tran (PDF)
+* [Programmieren Java: Aufbau](http://www.highscore.de/java/aufbau) - Boris Schäling (HTML)
+* [Programmieren Java: Einführung](http://www.highscore.de/java/einfuehrung) - Boris Schäling (HTML)
 * [Testgetriebene Entwicklung mit JUnit & FIT](http://www.frankwestphal.de/ftp/Westphal_Testgetriebene_Entwicklung.pdf) - Frank Westphal (PDF)
 
 
@@ -142,7 +148,7 @@
 
 * [JavaScript](http://www.peterkropff.de/site/javascript/javascript.htm) - Peter Kropff (Grundlagen, AJAX, DOM, OOP) (Online, PDF)
 * [JavaScript und AJAX](http://openbook.rheinwerk-verlag.de/javascript_ajax) - Christian Wenz (Online)
-* [Webseiten erstellen mit Javascript](http://www.highscore.de/javascript)
+* [Webseiten erstellen mit Javascript](http://www.highscore.de/javascript) - Boris Schäling (HTML)
 
 
 #### React
@@ -152,9 +158,15 @@
 
 ### LaTeX
 
-* [LaTeX - eine Einführung und ein bißchen mehr...](http://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a026_latex_einf.pdf) - Manuela Jürgens, Thomas Feuerstack (PDF)
+* [LaTeX - eine Einführung und ein bisschen mehr ...](http://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a026_latex_einf.pdf) - Manuela Jürgens, Thomas Feuerstack (PDF)
 * [LaTeX - Forteschrittene Anwendungen (oder: Neues von den Hobbits)](http://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a027_latex_fort.pdf) - Manuela Jürgens (PDF)
-* [LaTeX : Referenz der Umgebungen, Makros, Längen und Zähler](http://www.lehmanns.de/page/latexreferenz)
+* [LaTeX : Referenz der Umgebungen, Makros, Längen und Zähler](http://www.lehmanns.de/page/latexreferenz) - Herbert Voß (PDF)
+
+
+### Linux
+
+* [Debian GNU/Linux Anwenderhandbuch](https://debiananwenderhandbuch.de) - Frank Ronneburg (HTML)
+* [Linux - Das umfassende Handbuch](https://openbook.rheinwerk-verlag.de/linux/) - Johannes Plötner, Steffen Wendzel (HTML)
 
 
 ### Mathematik
@@ -184,6 +196,11 @@
 * [Praktischer Einstieg in MySQL mit PHP](http://examples.oreilly.de/openbooks/pdf_einmysql2ger.pdf) - Sascha Kersken (PDF)
 
 
+#### Joomla
+
+* [Joomla! 3 - Das umfassende Handbuch](https://openbook.rheinwerk-verlag.de/joomla_3/) - Richard Eisenmenger
+
+
 #### Symfony
 
 * [Symfony: Auf der Überholspur](https://symfony.com/doc/current/the-fast-track/de/index.html) (Online)
@@ -203,9 +220,14 @@
 * [Django Girls Tutorial](https://tutorial.djangogirls.org/de) (1.11) (HTML) (:construction: *in process*)
 
 
+#### R
+
+* [Einführung in R](https://methodenlehre.github.io/einfuehrung-in-R/) - Andrew Ellis, Boris Mayer (HTML)
+
+
 ### Ruby on Rails
 
-* [Praxiswissen Ruby](http://www.oreilly.de/german/freebooks/rubybasger/pdf_rubybasger.pdf) (PDF)
+* [Praxiswissen Ruby](https://web.archive.org/web/20160328183933/https://oreilly.de/german/freebooks/rubybasger/pdf_rubybasger.pdf) - Sascha Kersken (PDF) *(:card_file_box: archived)*
 * [Praxiswissen Ruby On Rails](http://examples.oreilly.de/openbooks/pdf_rubyonrailsbasger.pdf) - Denny Carl (PDF)
 * [Rails Kochbuch](http://examples.oreilly.de/openbooks/pdf_railsckbkger.pdf) - Rob Orsini (PDF)
 * [Ruby on Rails 2](http://openbook.rheinwerk-verlag.de/ruby_on_rails/) - Hussein Morsy, Tanja Otto (Online)
@@ -222,9 +244,14 @@
 * [Kreative Informatik mit Scratch](http://eis.ph-noe.ac.at/kreativeinformatik)
 
 
+### Shell
+
+* [Shell-Programmierung](https://openbook.rheinwerk-verlag.de/shell_programmierung/) - Jürgen Wolf
+
+
 ### UML
 
-* [Der moderne Softwareentwicklungsprozess mit UML](http://www.highscore.de/uml)
+* [Der moderne Softwareentwicklungsprozess mit UML](http://www.highscore.de/uml) - Boris Schäling (HTML)
 
 
 ### Unabhängig von der Programmiersprache
@@ -249,6 +276,5 @@
 
 ### Visual Basic
 
-* [Einstieg in Visual Basic 2010](http://openbook.rheinwerk-verlag.de/einstieg_vb_2010) - Thomas Theis (Online)
 * [Einstieg in Visual Basic 2012](http://openbook.rheinwerk-verlag.de/einstieg_vb_2012) - Thomas Theis (Online)
 * [Visual Basic 2008](http://openbook.rheinwerk-verlag.de/visualbasic_2008) Andreas Kuehnel, Stephan Leibbrandt (Online)

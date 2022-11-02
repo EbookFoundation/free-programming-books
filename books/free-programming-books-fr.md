@@ -3,7 +3,7 @@
 * [0 - Méta-listes](#0---méta-listes)
 * [1 - Non dépendant du langage](#1---non-dépendant-du-langage)
     * [Algorithmique](#algorithmique)
-    * [IDE et éditeurs de texte](#ide-and-editors)
+    * [IDE et éditeurs de texte](#ide-et-editeurs-de-texte)
     * [Logiciels libres](#logiciels-libres)
     * [Makefile](#makefile)
     * [Pédagogie pour les enfants et adolescents](#pédagogie-pour-enfants-et-adolescents)

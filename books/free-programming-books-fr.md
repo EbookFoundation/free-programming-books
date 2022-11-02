@@ -6,7 +6,7 @@
     * [IDE et éditeurs de texte](#ide-et-editeurs-de-texte)
     * [Logiciels libres](#logiciels-libres)
     * [Makefile](#makefile)
-    * [Pédagogie pour les enfants et adolescents](#pédagogie-pour-enfants-et-adolescents)
+    * [Pédagogie pour les enfants et adolescents](#pédagogie-pour-les-enfants-et-adolescents)
     * [Théorie des langages](#théorie-des-langages)
 * [Ada](#ada)
 * [Assembleur](#assembleur)

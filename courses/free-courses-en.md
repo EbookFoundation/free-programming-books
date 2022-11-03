@@ -1229,7 +1229,6 @@
 * [RESTful API with Ruby On Rails 5](https://www.udemy.com/course/restful-api-with-ruby-on-rails-5/) - Udemy
 * [Ruby on Rails a Beginners Guide](https://www.udemy.com/course/ruby-on-rails-a-beginners-guide-free) - Stephen Chesnowitz (Udemy)
 * [Ruby Tutorial](https://www.w3resource.com/ruby/)
-* [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com)
 
 
 ### Rust

@@ -365,6 +365,7 @@
 
 #### Flask
 
+* [Flask Cheat Sheet](https://codeinsightacademy.com/blog/python/flask-cheat-sheet) - Code Insight Academy (HTML)
 * [Flask Cheatsheet](https://www.codewithharry.com/blogpost/flask-cheatsheet/) - Code with Harry (HTML)
 
 

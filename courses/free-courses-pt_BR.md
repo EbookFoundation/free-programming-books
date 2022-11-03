@@ -347,6 +347,7 @@
 ### React Native
 
 * [Aprenda React Native](https://www.youtube.com/playlist?list=PL8fIRnD1uUSnRqz3E2caAWDqbtIFXmNtW) - Canal Geek Dev (YouTube)
+* [Curso React Native (aprendiz)](https://www.youtube.com/playlist?list=PLdDT8if5attEd4sRnZBIkNihR-_tE612_) - One Bit Code
 
 
 ### Ruby

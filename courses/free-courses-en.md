@@ -146,7 +146,7 @@
 * [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms) - UC San Diego, HSE University
 * [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM) - William Fiset (freeCodeCamp)
 * [Data Structures in C++ - For Beginners](https://www.udemy.com/course/data-structures-for-beginners-c-plusplus) - Pedro Mercado (Udemy)
-* [Data Structures \| Python](https://www.youtube.com/playlist?list=PLzgPDYo_3xukPJdH6hVQ6Iic7KiJuoA-l) - Amulya\'s Academy
+* [Data Structures \| Python](https://www.youtube.com/playlist?list=PLzgPDYo_3xukPJdH6hVQ6Iic7KiJuoA-l) - Amulya’s Academy
 * [Dynamic Programming](https://www.youtube.com/playlist?list=PLMCXHnjXnTnto1pZVvH7rbZ9W5neZ7Yhc) - Gaurav Sen
 * [Dynamic Programming](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsAsbafOroUBnNV8fhZa7P4u) - WilliamFiset
 * [Graph Series by Striver \| C++ \| Java \| Interview Centric \| Algorithms \| Problems](https://www.youtube.com/playlist?list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn) - take U forward
@@ -154,10 +154,10 @@
 * [Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) - Brynn Claypoole, Horatio Thomas (Udacity)
 * [JavaScript Algorithms and Data Structures](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP) - Codevolution
 * [Learn DS and Algorithms](https://www.programiz.com/dsa) - Programiz
-* [MIT\'s Design and Analysis of Algorithms (Spring 2012)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2012) - Dana Moshkovitz, Bruce Tidor
-* [MIT\'s Design and Analysis of Algorithms (Spring 2015)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015) - Erik Demaine, Srini Devadas, Nancy Lynch
-* [MIT\'s Introduction to Algorithms (Fall 2011)](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
-* [MIT\'s Introduction to Algorithms (SMA 5503) (Fall 2005)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005) - Charles Leiserson, Erik Demaine
+* [MIT’s Design and Analysis of Algorithms (Spring 2012)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2012) - Dana Moshkovitz, Bruce Tidor
+* [MIT’s Design and Analysis of Algorithms (Spring 2015)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015) - Erik Demaine, Srini Devadas, Nancy Lynch
+* [MIT’s Introduction to Algorithms (Fall 2011)](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
+* [MIT’s Introduction to Algorithms (SMA 5503) (Fall 2005)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005) - Charles Leiserson, Erik Demaine
 * [Online Java + DSA + Interview preparation course](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ) - Kunal Kushwaha
 * [Princeton University Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1)
 * [Princeton University Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)

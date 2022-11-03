@@ -9,6 +9,7 @@
 * [Git](#git)
 * [Go](#go)
 * [Güvenlik ve Gizlilik](#guvenlik-ve-gizlilik)
+* [Haskell](#haskell)
 * [HTML and CSS](#html-and-css)
 * [iOS](#ios)
 * [Java](#java)
@@ -76,6 +77,11 @@
 * [Özgür Yazılım Derneği Güvenlik Rehberi](https://guvenlik.oyd.org.tr) - Filiz Akin, et al.
 
 
+### Haskell
+
+* [Zor Yoldan Haskell](https://github.com/joom/zor-yoldan-haskell) - Yann Esposito,  `trl.:` Joomy Korkut
+
+
 ### HTML and CSS
 
 * [CSS Giriş](http://sercaneraslan.com/css/) - Sercan Eraslan
@@ -127,7 +133,6 @@
 
 ### Python
 
-* [Bilgisayar Bilimcisi Gibi Düşünmek-Python3 ile Öğrenme](https://www.ofenerci.github.io/thinkcspy-tr) - Peter Wentworth, Jeffrey Elkner, Allen B. Downey ve Chris Meyers
 * [Python Programlama Dili](https://python-istihza.yazbel.com) - YazBel Yazılım Belgelendirme Projesi - Python 3
 
 

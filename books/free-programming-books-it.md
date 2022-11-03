@@ -112,7 +112,7 @@
 ### <a id="cpp"></a>C++
 
 * [Dispense del corso di Programmazione I con Laboratorio](https://www.dmi.unipg.it/~baioletti/didattica/materiale/dispense-progr1-c++.pdf) - Marco Baioletti
- (PDF) (Università degli Studi di Perugia)
+ (PDF)
 * [Il linguaggio C++](https://hpc-forge.cineca.it/files/CoursesDev/public/2012%20Autumn/Introduzione%20alla%20programmazioni%20a%20oggetti%20in%20C++/corsocpp.pdf) (PDF)
 
 

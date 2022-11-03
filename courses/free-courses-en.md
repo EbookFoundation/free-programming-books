@@ -57,6 +57,7 @@
     * [Svelte](#svelte)
     * [Three.js](#threejs)
     * [Vue.js](#vuejs)
+    * [Webpack](#webpack)
 * [Julia](#julia) 
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
@@ -917,6 +918,11 @@
 * [Vue.js Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8At1) - The Net Ninja (YouTube)
 * [Vue.js Tutorial for Beginners](https://www.youtube.com/playlist?list=PL8p2I9GklV47GZrhYwnnStpx_B5GqL1Aq) - Code Step By Step
 * [Vuex for Everyone](https://vueschool.io/courses/vuex-for-everyone)
+
+
+#### Webpack
+
+* [Learn Webpack Course](https://www.classcentral.com/course/youtube-learn-webpack-course-45823/classroom) - Colt Steele
 
 
 ### Julia

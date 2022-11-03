@@ -31,6 +31,7 @@
 * [Python](#python)
 * [Ruby](#ruby)
 * [Rust](#rust)
+* [Swift](#swift)
 
 
 ### Android
@@ -54,6 +55,7 @@
 * [C++ Series](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) - The Cherno (screencast)
 * [C++ Standard Library](https://www.youtube.com/playlist?list=PL5jc9xFGsL8G3y3ywuFSvOuNm3GjBwdkb) - Bo Qian (screencast)
 * [C++ STL by example](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp5oH3mrr4IlFBn03rjS-gN1) - Douglas Schmidt (screencast)
+* [C++ STL: The ONLY Video You Need | Compulsory for DSA/CP](https://www.youtube.com/watch?v=PZogbfU4X5E) - Utkarsh Gupta (screencast)
 * [CppCast](http://cppcast.com) - Conor Hoekstra, Jason Turner, JeanHeyd Meneide, Matt Godbolt, Rob Irving (podcast)
 
 
@@ -228,6 +230,8 @@
 #### React.js
 
 * [Chats with Kent C. Dodds](https://kentcdodds.com/chats) - Kent C. Dodds (podcast)
+* [Epic React](https://epicreact.dev/podcast) - Kent C. Dodds (podcast)
+* [React Native Nerds](https://www.reactnativenerds.com) - Spencer Carli, Jonathan Wheat (podcast)
 * [React Native Radio](https://www.reactnativeradio.com/episodes) - Jamon Holmgren, Robin Heinze, Mazen Chami, Jon Major (podcast)
 * [React Podcast](https://reactpodcast.simplecast.fm) - Michael Chan (podcast)
 * [React Round Up](https://reactroundup.com/episodes) - Carl Mungazi, Charles Max Wood, TJ VanToll, Paige Niedringhaus, Jack Herrington, et al. (podcast)
@@ -253,6 +257,7 @@
 * [baseCS](https://www.codenewbie.org/basecs) - Vaidehi Joshi, Saron Yitbarek (podcast based on [a series of posts on medium](https://medium.com/basecs))
 * [Between \| Screens Podcast](https://soundcloud.com/between-screens) - Ed Wassermann (podcast)
 * [BSDTalk](https://bsdtalk.blogspot.com) - Will Backman (podcast)
+* [Clean Code Lessons by Robert C. Martin](https://www.youtube.com/watch?v=7EmboKQH8lM&list=PLdpsE-GEhYVn_81kDPo1mwE73UgYCeMLu) - Robert C. Martin
 * [CodeNewbie](https://www.codenewbie.org/podcast) - CodeNewbie Team (podcast)
 * [CodePen Radio](https://blog.codepen.io/radio/) - CodePen Team (podcast)
 * [Coding Blocks](https://www.codingblocks.net) - Michael Outlaw, Joe Zack, Allen Underwood (podcast)
@@ -263,6 +268,7 @@
 * [Developer On Fire](https://developeronfire.com) - Dave Rael (podcast)
 * [Developer Tea](https://developertea.com) - Jonathan Cutrell (podcast)
 * [DevelopersHangout](https://www.developershangout.io) - Eric J Silva (podcast)
+* [Does Not Compute](https://dnc.show) - Sean Washington, Rockwell Schrock (podcast)
 * [Domain Driven Design Europe](https://dddeurope.com/videos/) (screencast)
     * [Domain Driven Design Europe - 2017](https://2017.dddeurope.com/#videos) (screencast)
 * [FLOSS WEEKLY](https://twit.tv/shows/floss-weekly) - Doc Searls, Aaron Newcomb, Dan Lynch, Simon Phipps, Jonathan Bennett, Shawn Powers, Katherine Druckman (podcast)
@@ -281,7 +287,7 @@
 * [.NET Rocks!](https://www.dotnetrocks.com) - Carl Franklin, Richard Campbell (podcast)
 * [Open Source System Podcast](https://opensourcesystempodcast.vf.io) - Vlad Filippov, Kyle Robinson Young, Tim Branyen, Darcy Clarke, Mike Taylor, Alex Sexton, Jason Etcovitch (podcast)
 * [Programming Throwdown](https://www.programmingthrowdown.com) - Jason Gauci, Patrick Wheeler (podcast)
-* [Reactive](https://reactive.audio) - Kahlil Lechelt, Raquel Vélez, Henning Glatter-Götz (podcast)
+* [Reactive](https://podcasts.apple.com/us/podcast/reactive/id1020286000) - Kahlil Lechelt, Raquel Vélez, Henning Glatter-Götz (podcast)
 * [Security Now](https://www.grc.com/securitynow.htm) - Steve Gibson, Leo Laporte (podcast)
 * [Shop Talk Show](https://shoptalkshow.com) - Dave Rupert, Chris Coyier (podcast)
 * [Smashing podcast](https://podcast.smashingmagazine.com) - Drew McLellan, Smashing Magazine Team (podcast)
@@ -289,7 +295,7 @@
 * [Software Engineering Daily](https://softwareengineeringdaily.com) - Jeff Meyerson, Alex DeBrie, Lee Atchison, Jocelyn Byrne Houle, Mike Bifulco, Sean Falconer, et al. (podcast)
 * [Software Engineering Radio](https://www.se-radio.net) - Robert Blumen, Jeff Doolittle, Felienne Hermans, Gavin Henry, Jeremy Jung, Nikhil Krishna, Priyanka Raghavan, Kanchan Shringi, Philip Winston (podcast)
 * [Syscast Podcast](https://podcast.sysca.st) - Mattias Geniar (podcast)
-* [Talking Code](https://www.talkingcode.com) - Josh Smith, Venkat Dinavahi (podcast)
+* [Talking Code](https://podcasts.apple.com/us/podcast/talking-code/id988073177) - Josh Smith, Venkat Dinavahi (podcast)
 * [Talks at Google](https://www.youtube.com/playlist?list=PLGGpadyh0wS7XnpWK8ofxWhL7F72KcDRj) - Google (screencast)
 * [Testing In The Pub](https://testingpodcast.com/category/testing-in-the-pub/) - Stephen Janaway, Dan Ashby (podcast)
 * [The Big Web Show](https://bigwebshow.fireside.fm) - Jeffrey Zeldman (podcast)
@@ -304,7 +310,6 @@
 * [The Podcast from DZone.com: "For Developers, by Developers"](https://soundcloud.com/john-esposito-23072673) - John Esposito (podcast)
 * [The Silver Bullet Security Podcast with Gary McGraw](http://www.computer.org/web/computingnow/silverbullet) - Gary McGraw (podcast)
 * [The Stack Overflow Podcast](https://stackoverflow.blog/podcast/) - The Stack Overflow team (podcast)
-* [The Web Ahead](https://5by5.tv/webahead) - Jen Simmons (podcast)
 * [The Web Platform](https://thewebplatform.libsyn.com) - Erik Isaksen, Justin Ribeiro, Danny Blue, Amal Hussein, Leon Revill, et al. (podcast)
 * [Thinking with Tanay](https://anchor.fm/tanaypratap) - Tanay Pratap (podcast)
 * [This Developer's Life](https://thisdeveloperslife.com) - Rob Conery, Scott Hanselman (podcast)
@@ -393,3 +398,8 @@
 * [New Rustacean](http://www.newrustacean.com) - Chris Krycho (podcast)
 * [Rusty Radio](https://soundcloud.com/posix4e) - Alex Newman (podcast)
 * [The Rustacean Station Podcast](https://rustacean-station.org) - Allen Wyma, Tim McNamara, Sean Chen, et al. (podcast)
+
+
+### Swift
+
+* [Swift by Sundell](https://www.swiftbysundell.com/podcast/) - John Sundell (podcast)

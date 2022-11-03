@@ -39,12 +39,12 @@
 * [Redis](#redis)
 * [SASS / SCSS](#sass--scss)
 * [Solidity](#solidity)
+* [Terraform](#terraform)
 * [Typescript](#typescript)
 
 
 ### Android
 
-* [Belajar Android Jetpack Pro](https://www.dicoding.com/academies/129) - Dicoding, membutuhkan registrasi
 * [Belajar Android Studio](https://www.malasngoding.com/category/android-studio/) - Muzanni (Malas Ngoding)
 * [Belajar Fundamental Aplikasi Android](https://www.dicoding.com/academies/14) - Dicoding, membutuhkan registrasi
 * [Belajar Membuat Aplikasi Android untuk Pemula](https://www.dicoding.com/academies/51) - Dicoding, membutuhkan registrasi
@@ -112,6 +112,8 @@
 ### Docker
 
 * [Belajar Docker untuk Pemula](https://www.youtube.com/playlist?list=PL4SGTPmSY0qkxCTe3Gd0wA-bQZChXhsNI) - Giri Kuncoro (YouTube)
+* [Mengenal Container dan Docker Sampai Jago Dalam 2 Jam](https://www.youtube.com/watch?v=26O6Ke03j3Y) - Imre Nagi
+* [Pengembangan Microservice Dengan Docker Compose](https://www.youtube.com/watch?v=ALGVV5cGUtc) - Imre Nagi
 * [Tutorial Docker untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH-A7jBmdertzbeACuQWvQao) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 
 
@@ -124,6 +126,7 @@
 
 * [Belajar Fundamental Aplikasi Flutter](https://www.dicoding.com/academies/195) - Dicoding, membutuhkan registrasi
 * [Belajar Membuat Aplikasi Flutter untuk Pemula](https://www.dicoding.com/academies/159) - Dicoding, membutuhkan registrasi
+* [Fast Track Flutter Beginner](https://www.youtube.com/playlist?list=PL7jdfftn7HKup1bG852c13H6nxpJpmZzP) - Kuldii Project
 * [Flutter Developer: Basic State Management](https://buildwithangga.com/kelas/flutter-developer-basic-state-management) - Tasya Agnes (BuildWithAngga) *(phone number and email address required)*
 * [Flutter for Designer](https://buildwithangga.com/kelas/flutter-for-designer-design-to-code) - Rifqi Eka (BuildWithAngga) *(phone number and email address required)*
 * [Flutter Membangun Website](https://buildwithangga.com/kelas/flutter-membangun-website-sederhana) - Rifqi Eka (BuildWithAngga) *(phone number and email address required)*
@@ -140,6 +143,7 @@
 * [Belajar GIT (Source Code Management)](https://www.youtube.com/playlist?list=PL8bBYpHH3RI6BlCzFTMQvt7sGSycUj7S-) - Eka Putra, UpKoding (YouTube)
 * [GIT & GITHUB](https://www.youtube.com/playlist?list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf) - Sandhika Galih, Web Programming UNPAS (YouTube)
 * [Git Tutorial - Bahasa Indonesia](https://www.youtube.com/playlist?list=PL-CtdCApEFH_lYGV8hxqjtKmFA_xeLupq) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
+* [Jago Git Dalam 2 Jam](https://www.youtube.com/watch?v=KGSfUgaiVNI) - Imre Nagi
 * [Source Code Management untuk Pemula](https://www.dicoding.com/academies/116) - Dicoding, membutuhkan registrasi
 * [Tutorial GIT Bahasa Indonesia Lengkap](https://www.youtube.com/playlist?list=PL1aMeb5UP_PHXTV_Xpt-19x_rVPXrymOM) - IDStack (YouTube)
 
@@ -167,6 +171,8 @@
 * [Belajar CSS](https://alwaysngoding.com/belajar-css/teori) - Muhammad Saleh Solahudin, Always Ngoding (account *required*)
 * [Belajar FLEXBOX](https://www.youtube.com/playlist?list=PLFIM0718LjIU1lWlM34j6E9fMlrrSGZ1k) - Web Programming UNPAS
 * [Belajar HTML](https://alwaysngoding.com/belajar-html/teori) -  Muhammad Saleh Solahudin, Always Ngoding (account *required*)
+* [Belajar HTML 5](https://www.youtube.com/playlist?list=PLFIM0718LjIX-K5eeHRImnZhPUMhsw9A7) - Sandhika Galih, Web Programming UNPAS
+* [Belajar TAILWINDCSS](https://youtube.com/playlist?list=PLFIM0718LjIUHFRMzPJ0wGjx9_NlC5d1h) - Web Programming UNPAS
 * [CSS Dasar](https://www.youtube.com/playlist?list=PLFIM0718LjIUBrbm6Gdh6k7ZUvPIAZm7p) - Web Programming UNPAS
 * [CSS Grid](https://www.youtube.com/playlist?list=PLFIM0718LjIXmbwX0dEsoRVX-PC16vmuw) - Web Programming UNPAS
 * [CSS Layouting](https://www.youtube.com/playlist?list=PLFIM0718LjIVCmrSWbZPKCccCkfFw-Naa) - Web Programming UNPAS
@@ -211,9 +217,11 @@
 * [JavaScript dan DOM (Document Object Model)](https://www.youtube.com/playlist?list=PLFIM0718LjIWB3YRoQbQh82ZewAGtE2-3) - Web Programming UNPAS
 * [JavaScript Dasar](https://www.malasngoding.com/category/javascript/) - Diki Alfarabi Hadi (Malas Ngoding)
 * [JavaScript Lanjutan](https://www.youtube.com/playlist?list=PLFIM0718LjIUGpY8wmE41W7rTJo_3Y46-) - Web Programming UNPAS
+* [JavaScript Module](https://devsaurus.com/javascript-module) - Devsaurus
 * [JavaScript Tutorial Bahasa Indonesia](https://www.youtube.com/playlist?list=PL-CtdCApEFH8SS0Gsj9_a0cC0jypFEoSg) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 * [Main Main JavaScript](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCyd70hT8jYl24bLuPpH9iR) - Sekolah Koding
 * [Tutorial AngularJS Indonesia](https://www.youtube.com/playlist?list=PLohWNsc-n1L-3ffIaGRAjbTQm7bh9F9FG) - Windu Purnomo (YouTube)
+* [Tutorial NextJS Bahasa Indonesia](https://www.youtube.com/playlist?list=PLU4DS8KR-LJ3-zouYHHknPq1G5VTB8PRf) - Prawito Hudoro
 * [Tutorial programming dari nol (Javascript)](https://www.youtube.com/playlist?list=PLwF5TtGsdsBdTJdjzZp1Wdog1DNcHZdDu) - Pintar Programming (YouTube)
 * [Tutorial Svelte Indonesia](https://youtube.com/playlist?list=PLH1gH0TmFBBhWp2pn6vRhUVVC1txQuTZE) - Ipung Purwono, Ipung Dev Academy
 
@@ -231,6 +239,7 @@
 
 * [Belajar React JS Dari Awal Buat Yang Nggak Jago JavaScript](https://www.youtube.com/watch?v=JS5w4rUbjQE) - array id
 * [Belajar ReactJS Bahasa Indonesia](https://www.youtube.com/playlist?list=PLCZlgfAG0GXALZIcEe2t3XVuQ50JYbsbA) - Sekolah Koding
+* [Belajar Testing Pada React Dengan Jest dan RTL](https://www.youtube.com/playlist?list=PLU4DS8KR-LJ1e5H4bX6rCTwBvSl2cll6a) - Prawito Hudoro
 * [Mari Kita Belajar Basic React JS](https://www.youtube.com/playlist?list=PLRKMmwY3-5MwXT8zMPbezhDnTM3cTA5cZ) - Irsyad A. Panjaitan, Parsinta (YouTube)
 * [React JS Dasar Bahasa Indonesia](https://www.youtube.com/playlist?list=PLIan8aHxsPj0XtJjWW04hN24fWXrCpLkY) - Wahidev Academy
 * [ReactJS-Firebase Tutorial](https://www.youtube.com/playlist?list=PLU4DS8KR-LJ2CnIvj7tI0zoijDSgR1m9j) - Prawito Hudoro
@@ -273,6 +282,7 @@
 
 ### Linux
 
+* [Belajar linux fundamentals](https://youtube.com/playlist?list=PLbLqbqNn7VYpnd7FggSeq18AgE4gdsy2F) - ID-Networkers
 * [Linux Pemula](https://www.youtube.com/playlist?list=PLACzo3mGgHK_D2wkGu4AvUAQiqLC30PTz) - LINUXcare
 * [Tutorial Terminal Linux Bahasa Indonesia](https://www.youtube.com/playlist?list=PLy1BHEa_Wr-cpjWY5uOqsMxQwiQrRnC8B) - ArtAway
 
@@ -280,6 +290,7 @@
 ### Machine Learning
 
 * [Belajar Dasar Visualisasi Data](https://www.dicoding.com/academies/177) - Dicoding, membutuhkan registrasi
+* [Belajar Machine Learning Dari Awal Buat Yang Ga Jago Matematika](https://www.youtube.com/watch?v=WH1SduDRL_Y&t=2s) - array id (Youtube)
 * [Classic Time Series Forecasting \| Indonesia](https://www.youtube.com/playlist?list=PLGn1wRmlR3Ms7wr2zgtcC4LaE_NHQAEjx) - Wira DKP, JCOp Untuk Indonesia (YouTube)
 * [Nusantech Webinar - Introduction to Machine Learning](https://www.youtube.com/watch?v=SezDD2ULQ1o) - Nusantech, Galuh Sahid 
 * [Tutorial Belajar Machine Learning Dasar \| Python Scikit-Learn](https://www.youtube.com/playlist?list=PL2O3HdJI4voHNEv59SdXKRQVRZAFmwN9E) - Setia Budi, Indonesia Belajar (YouTube)
@@ -287,6 +298,7 @@
 
 ### Microservices
 
+* [Belajar Microservices untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH-MtoBwQ0F3xNG21yjt5Kvs) - Programmer Zaman Now
 * [Microservice Architecture Web Development](https://buildwithangga.com/kelas/microservice-architecture-web-development?thumbnail=nk4neM2UyG.49&main_leads=browse) - BuildWithAngga
 * [Training Microservices 2020](https://www.youtube.com/playlist?list=PL9oC_cq7OYbywbzkB_2tSr3DQqNfXiM7R) - Artivisi
 
@@ -321,6 +333,7 @@
 * [Tutorial Codeigniter](https://www.youtube.com/playlist?list=PLce3Eyp7oY9_5lzhkUtrV6ygriYcttMlg) - Framework Indonesia
 * [TUTORIAL CODEIGNITER 4](https://youtube.com/playlist?list=PLFIM0718LjIUkkIq1Ub6B5dYNb6IlMvtc) - Sandhika Galih (Web Programming UNPAS)
 * [Tutorial Codeigniter 4 Indonesia](https://youtube.com/playlist?list=PL1aMeb5UP_PFkC4mY3prujavZBehsWAC3) - IDStack
+* [Tutorial Membuat CRUD CodeIgniter 4 & Bootstrap](https://santrikoding.com/tutorial-set/crud-codeigniter-4) - Fika Ridaul Maulayya (Santri Koding)
 * [Tutorial Sistem Informasi Akademik dengan Codeigniter](https://www.youtube.com/playlist?list=PLce3Eyp7oY9_hXzGACf988F1ojvQlYmB0) - Framework Indonesia
 
 
@@ -342,13 +355,17 @@
 
 ### Python
 
+* [#LiveSeminggu (Python Dasar)](https://www.youtube.com/playlist?list=PLl-Zj2iuqlwviXEWkyT08NbK54kpa5cvu) - NgodingPython
+* [Belajar Bahasa Pemrograman Python Dasar](https://www.udemy.com/course/belajar-bahasa-pemrograman-python-dasar/) - Cahyo Adhi (Udemy)
 * [Belajar Pemrograman Python untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_HY6bL3JER8WJOxz1nb3_H) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
+* [Belajar python bahasa Indonesia](https://sekolahkoding.com/track/belajar-python-bahasa-indonesia) - Sekolah Koding
 * [Belajar Python Bahasa Indonesia [Dasar]](https://www.youtube.com/playlist?list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1) - Kelas Terbuka
 * [Belajar Python Bahasa Indonesia [Versi Baru]](https://www.youtube.com/playlist?list=PLZS-MHyEIRo59lUBwU-XHH7Ymmb04ffOY) - Kelas Terbuka
 * [Intro to Python](https://www.youtube.com/playlist?list=PLM4Qh7PEStOmBHR6Ey0BzPf3XNsPuSXL-) - Tensaitech Academy
 * [OpenCV untuk Pemula](https://www.youtube.com/playlist?list=PLl-Zj2iuqlwt4cBsBy_Ej7gNlXdQ7blCB) - NgodingPython
+* [Python](https://codesaya.com/python/) - CodeSaya
+* [Python (dasar)](https://www.youtube.com/playlist?list=PLT2AwM1dOOUe27iCPe68Z0qwwDeNyJawN) - beecoder id *(Dalam Proses)*
 * [Tutorial Belajar Python Pandas](https://www.youtube.com/playlist?list=PL2O3HdJI4voGdD_9xhVCTBoDTDNHpajm5) - Indonesia Belajar
-* [Tutorial Python Bahasa Indonesia](https://www.youtube.com/playlist?list=PLCZlgfAG0GXDc9Wcsi2fUn0pAr41GDL6m) - Sekolah Koding
 * [Tutorial Python Beginner Bahasa Indonesia](https://www.youtube.com/watch?v=rWC2iFlN3TM) - Agung Setiawan
 * [Tutorial Python GUI dengan TKinter](https://www.youtube.com/playlist?list=PL2O3HdJI4voHjX09IpdsiSBNnLRaR-CbJ) - Indonesia Belajar
 * [Tutorial Python OOP Object Oriented Programming Bahasa Indonesia - Full Course](https://www.youtube.com/watch?v=b6Y5CzFM0Oc) - Agung Setiawan
@@ -381,6 +398,7 @@
 ### SASS / SCSS
 
 * [Belajar Menggunakan SASS](https://youtube.com/playlist?list=PLRKMmwY3-5Mxzx31JO3V9JJ8GLdUXYqt0) - Irsyad A. Panjaitan (Parsinta)
+* [Belajar Sass Biar Nulis Kode CSS Jadi "Absurd"](https://www.youtube.com/watch?v=kNA_wWbBCLc) - array id
 * [Tutorial SASS](https://www.youtube.com/playlist?list=PLFIM0718LjIUqemgG97MAOK0J_berlQM5) - Web Programming UNPAS
 
 
@@ -388,6 +406,11 @@
 
 * [Ethereum Blockchain Tutorial Bahasa Indonesia](https://www.youtube.com/playlist?list=PLNl8QwXqW_lvWSc3n3geFSbBtmJvEl4nz) - Odoo Indonesia vITraining
 * [Tutorial Blockchain Bahasa Indonesia](https://www.youtube.com/playlist?list=PLH1gH0TmFBBhvZi4kEqU6kCjyv_y8qBae) - Ipung DEV Academy (YouTube)
+
+
+### Terraform
+
+* [Belajar Terraform untuk Pemula](https://www.youtube.com/playlist?list=PL4SGTPmSY0qngs44Ssc0RHO9h4fmZ9JUb) - Giri Kuncoro
 
 
 ### TypeScript

@@ -922,6 +922,7 @@
 
 * [Decision Making Under Uncertainty using POMDPs.jl](https://www.youtube.com/playlist?list=PLP8iPy9hna6QPqk4N8eBk0oXzLrLbOtTA) - The Julia Programming Language
 * [GeoStats.jl Tutorials](https://www.youtube.com/playlist?list=PLsH4hc788Z1f1e61DN3EV9AhDlpbhhanw) - Julio Hoffimann (YouTube)
+* [Introduction to DataFrames.jl](https://juliaacademy.com/p/introduction-to-dataframes-jl) - Bogumił Kamiński (JuliaAcademy)
 * [Julia Tutorials (Basic)](https://www.youtube.com/playlist?list=PLP8iPy9hna6SCcFv3FvY_qjAmtTsNYHQE) - The Julia Programming Language (YouTube)
 
 

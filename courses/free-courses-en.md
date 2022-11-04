@@ -323,6 +323,7 @@
 ### Clojure
 
 * [Clojure language Tutorial - for Beginners](https://www.youtube.com/watch?v=zFPiPBIkAcQ)
+* [Clojure Tutorial](https://www.youtube.com/watch?v=ciGyHkDuPAE) - Derek Banas
 * [Functional Programming with Clojure](http://mooc.fi/courses/2014/clojure/)
 * [Poetry of Programming - Clojure for Beginners](https://youtube.com/playlist?list=PLI-mrGTUXmHXeKhy6UGdDxIKwM8L4MTbq) - Attila EGRI-NAGY
 
@@ -965,6 +966,7 @@
 
 * [Learn Lua in 15 Minutes](http://tylerneylon.com/a/learn-lua/) - Tyler Neylon (HTML)
 * [Lua Interactive Crash Course](https://web.archive.org/web/20201111225216/luatut.com/crash_course.html)
+* [Lua Tutorial](https://www.youtube.com/watch?v=iMacxZQMPXs) - Derek Banas
 
 
 ### Machine Learning

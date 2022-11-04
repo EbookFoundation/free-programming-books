@@ -4,10 +4,12 @@
 * [Android](#android)
 * [ASP.NET](#asp)
 * [Bash](#bash)
+* [Blazor](#blazor)
 * [Bootstrap](#bootstrap)
 * [C](#c)
 * [C#](#csharp)
 * [Cấu trúc dữ liệu và Giải thuật](#cautrucdulieuvagiaithuat)
+* [Flutter](#flutter)
 * [Git](#git)
 * [Go](#go)
 * [HTML and CSS](#html-and-css)
@@ -54,11 +56,17 @@
 
 * [Làm dự án với ASP.NET Core 3.1](https://tedu.com.vn/khoa-hoc/lam-du-an-voi-aspnet-core-31-34.html) - TEDU
 * [Lập trình ASP.NET Core từ căn bản đến nâng cao](https://tedu.com.vn/khoa-hoc/lap-trinh-aspnet-core-tu-co-ban-den-nang-cao-33.html) - TEDU
+* [Lập trình dự án Website bán hàng ASP.NET MVC 4](https://tedu.com.vn/khoa-hoc/lap-trinh-du-an-website-ban-hang-aspnet-mvc-4-1.html) - TEDU
 
 
 ### Bash
 
 * [Khóa học Bash Shell cơ bản cho người mới](https://nguyenvanhieu.vn/hoc-bash-shell-co-ban)
+
+
+### Blazor
+
+* [Blazor căn bản](https://tedu.com.vn/khoa-hoc/xay-dung-ung-dung-mobile-voi-flutter-can-ban-31.html) - TEDU
 
 
 ### Bootstrap
@@ -98,15 +106,22 @@
 * [Cấu trúc dữ liệu và Giải thuật](https://www.youtube.com/playlist?list=PLoaAbmGPgTSNMAzkKBHkh2mLuBk54II5L) - Ông Dev
 
 
+### Flutter
+
+* [Flutter căn bản](https://tedu.com.vn/khoa-hoc/xay-dung-ung-dung-mobile-voi-flutter-can-ban-31.html) - TEDU
+
+
 ### Git
 
 * [Cách sử dụng Git trong THỰC TẾ \| Github](https://www.youtube.com/watch?v=O5uT6p6VWjY) - Ông Dev
 * [Git - from Zero to Hero](https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-viFVtaVps_h_Emi2wQyE7q) - CodersX
+* [Quản lý source code trong dự án với GIT](https://tedu.com.vn/khoa-hoc/quan-ly-source-code-trong-du-an-voi-git-8.html) - TEDU
 * [Từ gà tới pro Git và Github trong 20 phút - Tự học Git siêu tốc](https://www.youtube.com/watch?v=1JuYQgpbrW0) - Phạm Huy Hoàng (toidicodedao)
 
 
 ### Go
 
+* [Go Language Advanced Programming](https://github.com/zalopay-oss/go-advanced) - Zalopay
 * [Lập trình Golang](https://www.youtube.com/playlist?list=PLVDJsRQrTUz5icsxSfKdymhghOtLNFn-k) - Code4Func
 
 
@@ -114,14 +129,18 @@
 
 * [CSS Cơ Bản](https://www.codehub.com.vn/CSS-Co-Ban) - Codehub
 * [CSS Cơ Bản](https://www.youtube.com/playlist?list=PLl4nkmb3a8w1cnIhegAj5_mE8w_mbYvY4) - Thạch Phạm
+* [Học HTML](https://www.codehub.com.vn/Hoc-HTML) - Codehub
+* [HTML](https://www.codehub.com.vn/HTML) - Codehub
 * [HTML Cơ Bản](https://www.codehub.com.vn/HTML-Co-Ban) - Codehub
 * [HTML Cơ Bản](https://www.youtube.com/playlist?list=PLl4nkmb3a8w135_M4YRPzYD9_6tERz3ce) - Thạch Phạm
+* [Tự Học Thiết Kế Website với HTML và CSS](https://www.codehub.com.vn/Tu-Hoc-Thiet-Ke-Website-voi-HTML-va-CSS) - Codehub
 
 
 ### Java
 
 * [Học Lập Trình Java Cơ Bản](https://www.youtube.com/playlist?list=PLE1qPKuGSJaB4DMiP4wYbLjfszqKg89lL) - Thân Triệu
 * [Khóa học lập trình JavaFX](https://www.youtube.com/playlist?list=PL33lvabfss1yRgFCgFXjtYaGAuDJjjH-j) - Kteam
+* [Lập trình Java căn bản](https://tedu.com.vn/video/bai-1-gioi-thieu-tong-quan-ve-java-520.html) - TEDU
 
 
 ### JavaScript
@@ -129,19 +148,22 @@
 * [JavaScript A-Z 2020](https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-uPZnTdScfuH0xD-O6Kb-V-) - CodersX
 * [JavaScript Advanced 2020](https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-tVbSFcv-p1yOaHiG8fo0kP) - CodersX
 * [JavaScript Cơ Bản](https://www.codehub.com.vn/JavaScript-Co-Ban) - Codehub
+* [Tự Học Thiết Kế Website với HTML, CSS và JavaScript](https://www.codehub.com.vn/Tu-Hoc-Thiet-Ke-Website-voi-HTML-CSS-va-JavaScript/Tao-Hieu-Ung-Accordion) - Codehub
 
 
 #### AngularJS
 
 > :information_source: See also &#8230; [Angular](#angular)
 
+* [AngularJS cho người mới bắt đầu](https://tedu.com.vn/khoa-hoc/angularjs-cho-nguoi-moi-bat-dau-5.html) - TEDU
 * [AngularJS Cơ Bản](https://www.youtube.com/playlist?list=PLRhlTlpDUWsw70vZAkJgALJ1yhgYsqDGx) - TEDU
+* [Làm dự án với WebAPI, AngularJS và EF Code First](https://tedu.com.vn/khoa-hoc/lam-du-an-thuc-te-voi-webapi-angularjs-va-entity-framework-code-first-7.html) - TEDU
 
 
 #### jQuery
 
 * [jQuery Cơ Bản](https://www.codehub.com.vn/jQuery-Co-Ban) - Codehub
-* [jQuery Cơ bản](https://www.youtube.com/playlist?list=PLRhlTlpDUWsyAGY7FDGSndEhOD3F2Ruhm) - TEDU
+* [Lập trình jQuery từ cơ bản đến nâng cao](https://www.youtube.com/playlist?list=PLRhlTlpDUWsyAGY7FDGSndEhOD3F2Ruhm) - TEDU
 
 
 #### Vue.js
@@ -180,6 +202,8 @@
 
 ### PHP
 
+* [Học PHP qua các hàm thông dụng](https://www.codehub.com.vn/PHP) - Codehub
+* [Lập Trình Website Với PHP và MySQL](https://www.codehub.com.vn/Lap-Trinh-Website-Voi-PHP-va-MySQL) - Codehub
 * [PHP Cơ Bản](https://www.codehub.com.vn/PHP-Co-Ban) - Codehub
 * [PHP Cơ Bản](https://www.youtube.com/playlist?list=PLU4OBh9yHE940f_T2IyAWHAjXhMxYFZky) - RHP Team
 * [Tự học PHP - Các đối tượng khác trong PHP](https://www.youtube.com/playlist?list=PLv6GftO355Av7YIhRHajDEWCHq1viEKEy) - ZendVN
@@ -202,6 +226,7 @@
 * [Học redux cơ bản 2020](https://www.youtube.com/playlist?list=PLeS7aZkL6GOvCz3GiOtvtDXChJRuebb7S) - Easy Frontend
 * [Khóa Học Fullstack SERN (SQL, Express.js, React.js, Node.js) Web Developer](https://youtube.com/playlist?list=PLncHg6Kn2JT6E38Z3kit9Hnif1xC_9VqI) - Hỏi Dân IT
 * [Khóa Học Lập Trình React.js - Redux](https://www.youtube.com/playlist?list=PLJ5qtRQovuEOoKffoCBzTfvzMTTORnoyp) - nghiepuit
+* [Khoá học ReactJS căn bản](https://tedu.com.vn/khoa-hoc/khoa-hoc-reactjs-can-ban-25.html) - TEDU
 * [Lập trình ReactJS với Redux](https://www.youtube.com/playlist?list=PLzrVYRai0riQFEN586LOz3eMv2Rgy6WXS) - Khoa Phạm
 * [React.js Cơ Bản](https://www.youtube.com/playlist?list=PLzrVYRai0riSPcINVFvaCaM7Ul55DzpLd)
 * [ReactJS - Demo các project trong khóa học](https://www.youtube.com/playlist?list=PLv6GftO355Av08p6Zi1I67VYw47nMS8xO) - ZendVN - Học Lập Trình Online
@@ -248,8 +273,10 @@
 
 > :information_source: See also &#8230; [AngularJS](#angularjs)
 
+* [Angular 2 căn bản](https://tedu.com.vn/khoa-hoc/khoa-hoc-angular-2-can-ban-10.html) - TEDU
 * [Angular 2 Cơ Bản](https://tedu.com.vn/khoa-hoc/khoa-hoc-angular2-can-ban-10.html) - TEDU
 * [Angular 4 Cơ Bản](https://www.youtube.com/playlist?list=PLzrVYRai0riTA1m7Dasg8eraBr6R9nFgC) - Khoa Phạm
+* [Làm dự án thực tế với Angular 2+ Web API](https://tedu.com.vn/khoa-hoc/lam-du-an-thuc-te-voi-angular-2-web-api-13.html) - TEDU
 * [Tự học Angular 2020](https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-uBQaBU8wMLo2CrFkE-9VIZ) - CodersX
 * [Tự học Angular 5](https://www.youtube.com/playlist?list=PLWBrqglnjNl1qQw2nH5O1A8W_DVC3xo-V) - Nguyen Duc Hoang
 

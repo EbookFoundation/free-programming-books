@@ -4,14 +4,15 @@
 * [C#](#csharp)
 * [C++](#cpp)
 * [Git](#git)
+* [HTML and CSS](#html-and-css)
 * [JavaScript](#javascript)
-  * [NodeJS](#nodejs)
-  * [React](#react)
-  * [Vue.js](#vuejs)
+    * [NodeJS](#nodejs)
+    * [React](#react)
+    * [Vue.js](#vuejs)
 * [Python](#python)
-* [Ruby](#Ruby)
+* [Ruby](#ruby)
 * [TypeScript](#typescript)
-  * [Angular](#angular)
+    * [Angular](#angular)
 
 
 ### C
@@ -36,21 +37,30 @@
 * [สอน git และ github เบื้องต้น](https://www.youtube.com/playlist?list=PLoTScYm9O0GGsV1ZAyP4m_iyAbflQrKrX) - prasertcbs
 
 
+### HTML and CSS
+
+* [คอร์สเรียนภาษา CSS](https://youtube.com/playlist?list=PLtfWtWKHvrn8GxLV6Sws3cAZgmvUynxwz) - BARCODE
+* [ภาษา HTML](https://youtube.com/playlist?list=PLxN7ZT-opr0KPGJPlh6DhZrz0z031ZObQ) - nana สาระ
+
+
 ### JavaScript
 
 * [จาวาสคริปต์เบื้องต้น](https://phyblas.hinaboshi.com/saraban/javascript) - Phyblas
 * [ภาษา JavaScript](http://marcuscode.com/lang/javascript) - MarcusCode
+* [สอนพื้นฐาน JavaScript ทั้งหมดแบบจบในคลิปเดียว !!](https://www.youtube.com/watch?v=PGZ7QiKdumo) - BorntoDev
 * [สอน JavaScript](https://www.youtube.com/playlist?list=PL_xSQKvnccplgKmdtqizMGRh11witheTM) - Zinglecode
 
 
 #### NodeJS
 
 * [สอน Node.js เบื้องต้น](https://www.youtube.com/playlist?list=PLoTScYm9O0GERtEdsPHK5Q-cdor5ADnyM) - pracertcbs
+* [สอน Nodejs เบื้องต้น](https://www.youtube.com/watch?v=mDezAkh5gcE) - Kong Ruksiam
 * [สอน Nodejs เบื้องต้น สำหรับผู้เริ่มต้นศึกษา Nodejs](https://www.youtube.com/playlist?list=PLEE74DyIkwEkWkVWy3TbjrTICVF_eUdyc) - Kong Ruksiam
 
 
 #### React
 
+* [สอน React](https://www.youtube.com/playlist?list=PL_xSQKvnccpn-C2fZNJtCykO24yqFWkDn) - Zinglecode
 * [สอน React.JS Tutorial](https://www.youtube.com/playlist?list=PLjPfp4Ph3gBo5SmWJXwv4oKDfeTXA7xgw) - CMDev
 
 
@@ -59,6 +69,11 @@
 * [เมื่อได้รับภารกิจสร้างระบบเข้าร่วม Event ผ่าน Line Liff](https://www.youtube.com/playlist?list=PLSy2hExy-WZN_fJSBbX7bsrAWsm3sbQg-) - CodeTraveler
 * [สอนเขียน VueJS](https://www.youtube.com/playlist?list=PLjPfp4Ph3gBry3sJDNrbqor5ikjwGDJ_7) - CMDev
 * [สอน VueJS + NuxtJS ตั้งแต่ 0~99](https://www.youtube.com/playlist?list=PLXm-UJjVcJCMd24NIQTPcqHhfnK-QbPmD) - Geekstart
+
+
+### Kotlin
+
+* [Getting started with Kotlin](https://www.skooldio.com/courses/getting-started-with-kotlin) - Somkiat Kijwongwattana
 
 
 ### Python
@@ -81,3 +96,5 @@
 #### Angular
 
 * [มือใหม่หัดใช้ Angular](https://priefydev.wordpress.com/tag/angular/) - Priefy Dev.
+
+

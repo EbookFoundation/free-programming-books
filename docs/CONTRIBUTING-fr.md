@@ -18,11 +18,12 @@ En contribuant, vous acceptez de respecter le [Code de Contrat](CODE_OF_CONDUCT-
 2. Vous n'êtes pas obligé de connaître Git : si vous avez trouvé quelque chose d'intéressant qui n'est *pas déjà dans ce repositoire*, veuillez ouvrir un [Problème](https://github.com/EbookFoundation/free-programming-books/issues) avec vos propositions de liens.
     - Si vous savez Git, Forkez le repo et envoyez vos Pull Requests (PR).
 
-3. Nous avons 5 types de listes. Choisissez le bon:
+3. Nous avons 6 types de listes. Choisissez le bon:
 
     - *Livres* : PDF, HTML, ePub, un site basé sur gitlivre.io, un repositoire Git, etc.
     - *Cours* : Un cours est un matériel d'apprentissage qui n'est pas un livre. [Ceci est un cours](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
     - *Tutoriels interactifs* : Un site Web interactif qui permet à l'utilisateur de saisir du code ou des commandes et d'évaluer le résultat (par "évaluer" nous ne voulons pas dire "noter"). par exemple : [Essayez Haskell](http://tryhaskell.org), [Essayez GitHub](http://try.github.io).
+    - *Les terrains de jeux* : Ce sont des sites Web en ligne et interactifs, des jeux ou des logiciels de bureau pour l'apprentissage de la programmation. Écrivez, compilez (ou exécutez) et partagez des morceaux de code. Les terrains de jeux vous permettent souvent de forker et de vous salir les mains en jouant avec du code.
     - *Podcasts et Screencasts* : Podcasts et screencasts.
     - *Ensembles de Problèmes et Programmation Compétitive* : Un site Web ou un logiciel qui vous permet d'évaluer vos compétences en programmation en résolvant des problèmes simples ou complexes, avec ou sans revue de code, avec ou sans comparaison des résultats avec d'autres utilisateurs.
 
@@ -31,12 +32,12 @@ En contribuant, vous acceptez de respecter le [Code de Contrat](CODE_OF_CONDUCT-
 5. GitHub Actions exécutera des tests pour s'assurer que vos **listes sont classées par ordre alphabétique** et que **les règles de formatage sont respectées**. **Assurez-vous** de vérifier que vos modifications passent les tests.
 
 
-### Directrices
+### Directrives
 
 - assurez-vous qu'un livre est gratuit. Vérifiez si nécessaire. Cela aide les administrateurs si vous commentez dans le PR pourquoi vous pensez que le livre est gratuit.
 - nous n'acceptons pas les fichiers hébergés sur Google Drive, Dropbox, Mega, Scribd, Issuu et autres plateformes de téléchargement de fichiers similaires.
-- insérez vos liens par ordre alphabétique. Si vous voyez un lien égaré, veuillez le réorganiser et soumettre un PR
-- utiliser le lien avec la source la plus autoritaire (c'est-à-dire que le site de l'auteur est meilleur que le site de l'éditeur, qui est meilleur qu'un site tiers)
+- insérez vos liens par ordre alphabétique, comme décrit [ci-dessous](#alphabetical-order).
+- utilisez le lien avec la source la plus autoritaire (c'est-à-dire que le site de l'auteur est meilleur que le site de l'éditeur, qui est meilleur qu'un site tiers)
     - pas de services d'hébergement de fichiers (cela inclut (mais n'est pas limité à) les liens Dropbox et Google Drive)
 - préférez toujours un lien `https` à un `http` - tant qu'ils sont sur le même domaine et servent le même contenu
 - sur les domaines root, supprimez la barre oblique finale: `http://exemple.com` au lieu de `http://exemple.com/`
@@ -49,12 +50,13 @@ En contribuant, vous acceptez de respecter le [Code de Contrat](CODE_OF_CONDUCT-
     3. *supprimez-le* sinon.
 - si un lien existe dans plusieurs formats, ajoutez un lien séparé avec une note sur chaque format
 - si une ressource existe à différents endroits sur Internet
-    - utiliser le lien avec la source la plus autoritaire (c'est-à-dire que le site de l'auteur est meilleur que le site de l'éditeur, qui est meilleur qu'un site tiers)
+    - utilisez le lien avec la source la plus autoritaire (c'est-à-dire que le site de l'auteur est meilleur que le site de l'éditeur, qui est meilleur qu'un site tiers)
     - s'ils renvoient à des éditions différentes et que vous jugez que ces éditions sont suffisamment différentes pour qu'elles valent la peine d'être conservées, ajoutez un lien séparé avec une note sur chaque édition (voir [Problème #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) pour contribuer à la discussion sur le formatage).
-- préférer les commits atomiques (un commit par ajout/suppression/modification) aux plus gros commits. Pas besoin d'écraser vos commits avant de soumettre un PR. (Nous n'appliquerons jamais cette règle car c'est juste une question de commodité pour les responsables)
+- préférez les commits atomiques (un commit par ajout/suppression/modification) aux plus gros commits. Pas besoin d'écraser vos commits avant de soumettre un PR. (Nous n'appliquerons jamais cette règle car c'est juste une question de commodité pour les responsables)
 - si le livre est plus ancien, indiquez la date de parution avec le titre.
 - incluez le ou les noms de l'auteur, le cas échéant. Vous pouvez raccourcir les listes d'auteurs avec "`et al.`".
 - si le livre n'est pas terminé, et est toujours en cours de travail, ajoutez la notation "`en cours`", comme décrit [ci-dessous](#in_process).
+- si une ressource est restaurée à l'aide de l'[*Internet Archive's Wayback Machine*](https://web.archive.org) (ou similaire), ajoutez la mention "`archived`", comme décrit [ci-dessous](#archived). Les meilleures versions à utiliser sont récentes et complètes.
 - si une adresse e-mail ou la configuration d'un compte est demandée avant l'activation du téléchargement, ajoutez des notes adaptées à la langue entre parenthèses, par exemple: `(adresse e-mail *demandée*, non obligatoire)`.
 
 
@@ -133,6 +135,20 @@ Exemple:
     BIEN   : * [Sera bientôt un livre génial](http://exemple.com/livre2.html) - John Doe (HTML) (:construction: *in process*)
     ```
 
+- <a id="archived"></a>Lien archivé:
+
+    ```text
+    BIEN   : * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
+    ```
+
+### <a id="alphabetical-order"></a>Ordre alphabétique
+
+- Lorsque plusieurs titres commencent par la même lettre, organisez-les par la seconde, et ainsi de suite. Par exemple: `aa` vient avant `ab`.
+
+- `un deux` vient avant `undeux`
+
+Si vous voyez un lien mal placé, vérifiez le message d'erreur du linter pour savoir quelles lignes doivent être échangées.
+
 
 ### Remarques
 
@@ -148,6 +164,7 @@ Nos listes fournissent un ensemble minimal de métadonnées : titres, URL, créa
 
 - Pas de titres inventés. Nous essayons de prendre les titres des ressources elles-mêmes ; les contributeurs sont avertis de ne pas inventer de titres ou de ne pas les utiliser éditorialement si cela peut être évité. Une exception est pour les œuvres plus anciennes; s'ils présentent principalement un intérêt historique, une année entre parenthèses ajoutée au titre aide les utilisateurs à savoir s'ils présentent un intérêt.
 - Pas de titres TOUTES EN MAJUSCULES. Habituellement, la casse du titre est appropriée, mais en cas de doute, utilisez la majuscule de la source
+- N'utilisez pas d'émoticônes.
 
 
 ##### URLs
@@ -162,9 +179,17 @@ Nos listes fournissent un ensemble minimal de métadonnées : titres, URL, créa
 ##### Créateurs
 
 - Nous voulons créditer les créateurs de ressources gratuites le cas échéant, y compris les traducteurs !
-- Pour les œuvres traduites, l'auteur original doit être crédité.
+- Pour les œuvres traduites, l'auteur original doit être crédité. Pour créditer les créateurs qui ne sont pas auteurs, nous recommandons d'utiliser [MARC relators](https://loc.gov/marc/relators/relaterm.html), comme dans cet exemple:
+
+    ```markdown
+    * [A Translated Book](http://example.com/book-fr.html) - John Doe, `trl.:` Mike The Translator
+    ```
+
+    ici, l'annotation `trl.:` utilise le code de MARC relator pour "traducteur".
+- Mettez une virgule `,` pour délimiter chaque élément de la liste des auteurs.
+- Vous pouvez raccourcir les listes d'auteurs avec "`et al.`".
 - Nous n'autorisons pas les liens pour les créateurs.
-- Pour les compilations ou les travaux remixés, le "créateur" peut avoir besoin d'une description. Par exemple, les livres "GoalKicker" sont crédités comme "`Compilé à partir de la documentation StackOverflow`" (en anglais: `Compiled from StackOverflow documentation`).
+- Pour les compilations ou les travaux remixés, le "créateur" peut avoir besoin d'une description. Par exemple, les livres "GoalKicker" ou "RIP Tutorial" sont crédités comme "`Compilé à partir de la documentation StackOverflow`" (en anglais: `Compiled from StackOverflow documentation`).
 
 
 ##### Plateformes et notes d'accès
@@ -191,7 +216,7 @@ Parce qu'Internet est vaste, nous n'incluons pas dans nos listes:
 - des vidéos qui ne sont pas des cours ou des screencasts.
 - les chapitres du livre
 - échantillons teaser de livres
-- Canaux IRC ou Telegram
+- canaux IRC ou Telegram
 - Slacks ou listes de diffusion
 
 Nos listes de programmation compétitive ne sont pas aussi strictes sur ces exclusions. La portée du repo est déterminée par la communauté ; si vous souhaitez suggérer un changement ou un ajout à la portée, veuillez utiliser un issue pour faire la suggestion.

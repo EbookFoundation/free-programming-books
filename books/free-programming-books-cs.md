@@ -4,22 +4,22 @@
 * [C#](#csharp)
 * [C++](#cpp)
 * [Git](#git)
-* [HTML](#html)
+* [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [Language Agnostic](#language-agnostic)
-  * [Algoritmy a datové struktury](#algoritmy-a-datove-struktury)
-  * [Bezpečnost](#bezpecnost)
-  * [Matematika](#matematika)
-  * [Právo](#pravo)
-  * [Regulární výrazy](#regularni-vyrazy)
-  * [Sítě](#site)
+    * [Algoritmy a datové struktury](#algoritmy-a-datove-struktury)
+    * [Bezpečnost](#bezpecnost)
+    * [Matematika](#matematika)
+    * [Právo](#pravo)
+    * [Regulární výrazy](#regularni-vyrazy)
+    * [Sítě](#site)
 * [LaTeX](#latex)
 * [Linux](#linux)
-  * [Distribuce](#distribuce)
+    * [Distribuce](#distribuce)
 * [OpenSource](#opensource)
 * [PHP](#php)
 * [Python](#python)
-  * [Django](#django)
+    * [Django](#django)
 * [Ruby](#ruby)
 * [TeX](#tex)
 * [Unity](#unity)
@@ -34,7 +34,6 @@
 
 ### <a id="csharp"></a>C\#
 
-* [Programovací jazyk C#](http://www.cs.vsb.cz/behalek/vyuka/pcsharp/text.pdf) - Marek Běhálek (PDF)
 * [Systémové programování v jazyce C#](https://phoenix.inf.upol.cz/esf/ucebni/sysprog.pdf) (PDF)
 
 
@@ -52,10 +51,10 @@
 
 ### Git
 
-* [Pro Git](https://knihy.nic.cz/#ProGit) - Scott Chacon (PDF, EPUB, MOBI)
+* [Pro Git](https://knihy.nic.cz/#ProGit) - Scott Chacon, `trl.:` Ondrej Filip (PDF, EPUB, MOBI)
 
 
-### HTML
+### HTML and CSS
 
 * [Ponořme se do HTML5](https://knihy.nic.cz/#HTML5) - Mark Pilgrim (PDF)
 

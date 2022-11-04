@@ -18,11 +18,12 @@
 2. 你不需要会 Git：如果你发现了一些有趣的东西 *尚未出现在本仓库* 中，请开一个[Issue](https://github.com/EbookFoundation/free-programming-books/issues)进行主题讨论。
     * 如果你已经知晓Git，请Fork本仓库并提交Pull Request (PR)。
 
-3. 这里有5种列表，请选择正确的一个：
+3. 这里有6种列表，请选择正确的一个：
 
     * *Books* ：PDF、HTML、ePub、基于一个 gitbook.io的站点、一个Git仓库等等。
     * *Courses* ：课程是一种学习材料，而不是一本书 [This is a course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)。
     * *Interactive Tutorials* ：一个交互式网站，它允许用户输入代码或命令并对结果进行评估。例如：[Try Haskell](http://tryhaskell.org)，[Try GitHub](http://try.github.io)。
+    * *Playgrounds* : Playgrounds 可能是学习编程的在线交互式网站、游戏或桌面软件。你可以在上面编写、编译、运行或分享代码片段。Playgrounds 通常允许你 fork 代码然后在其中尽情的编写代码。
     * *Podcasts and Screencasts* ：播客和视频。
     * *Problem Sets & Competitive Programming* ：一个网站或软件，让你通过解决简单或复杂的问题来评估你的编程技能，有或没有代码审查，有或没有与其他用户对比结果。
 
@@ -35,7 +36,7 @@
 
 * 确保你提交的每一本书都是免费的。如有需要请做Double-check。如果你在PR中注明为什么你认为这本书是免费的，这将对管理员是很有帮助的。
 * 我们不接受存储在Google Drive、Dropbox、Mega、Scribd、Issuu和其他类似文件上传平台上的文件。
-* 请按照字母顺序插入链接。如果你看到一个错位的链接，请重新对他进行排序并提交一个PR。
+* 请按照字母顺序插入链接, as described [below](#alphabetical-order).
 * 使用最权威来源的链接(意思是原作者的网站比编辑的网站好，比第三方网站好)。
     * 没有文件托管服务(包括(但不限于)Dropbox和谷歌驱动器链接)。
 * 优先选择使用 `https` 链接，而不是 `http` 链接 -- 只要它们位于相同的域并提供相同的内容。
@@ -55,6 +56,7 @@
 * 如果一本书比较旧，请在书名中注明出版日期。
 * 包含作者的名字或适当的名字。中文版本可以用 “`等`” (“`et al.`”) 缩短作者列表。
 * 如果一本书还没有完成，并且仍在编写中，则需添加 “`in process`” 符号，参见[下文](#in_process)所述。
+- if a resource is restored using the [*Internet Archive's Wayback Machine*](https://web.archive.org) (or similar), add the "`archived`" notation, as described [below](#archived). The best versions to use are recent and complete.
 * 如果在开始下载之前需要电子邮件地址或帐户设置，请在括号中添加合适的语言描述，例如：`(*需要*电子邮件，但不是必须的)`。
 
 
@@ -148,3 +150,129 @@
     正确：* [马上出版的一本书](http://example.com/book2.html) - 张显宗 (HTML) (:construction: *编写中*)
     正确：* [马上出版的一本书](http://example.com/book2.html) - 张显宗 (HTML) (:construction: *翻译中*)
     ```
+
+- <a id="archived"></a>Archived link:
+
+    ```text
+    正确: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
+    ```
+
+### Alphabetical order
+
+- When there are multiple titles beginning with the same letter order them by the second, and so on. For example: `aa` comes before `ab`.
+- `one two` comes before `onetwo`
+
+If you see a misplaced link, check the linter error message to know which lines should be swapped.
+
+
+### Notes
+
+While the basics are relatively simple, there is a great diversity in the resources we list. Here are some notes on how we deal with this diversity.
+
+
+#### Metadata
+
+Our lists provide a minimal set of metadata: titles, URLs, creators, platforms, and access notes.
+
+
+##### Titles
+
+- No invented titles. We try to take titles from the resources themselves; contributors are admonished not to invent titles or use them editorially if this can be avoided. An exception is for older works; if they are primarily of historical interest, a year in parentheses appended to the title helps users know if they are of interest.
+- No ALLCAPS titles. Usually title case is appropriate, but when doubt use the capitalization from the source
+- No emojis.
+
+
+##### URLs
+
+- We don't permit shortened URLs.
+- Tracking codes must be removed from the URL.
+- International URLs should be escaped. Browser bars typically render these to Unicode, but use copy and paste, please.
+- Secure (`https`) URLs are always preferred over non-secure (`http`) urls where HTTPS has been implemented.
+- We don't like URLs that point to webpages that don't host the listed resource, but instead point elsewhere.
+
+
+##### Creators
+
+- We want to credit the creators of free resources where appropriate, including translators!
+- For translated works the original author should be credited. We recommend using [MARC relators](https://loc.gov/marc/relators/relaterm.html) to credit creators other than authors, as in this example:
+
+    ```markdown
+    * [A Translated Book](http://example.com/book-zh.html) - John Doe, `trl.:` Mike The Translator
+    ```
+
+    here, the annotation `trl.:` uses the MARC relator code for "translator".
+- Use a comma `,` to delimit each item in the author list.
+- You can shorten author lists with "`et al.`".
+- We do not permit links for Creators.
+- For compilation or remixed works, the "creator" may need a description. For example, "GoalKicker" or "RIP Tutorial" books are credited as "`Compiled from StackOverflow documentation`".
+
+
+##### Platforms and Access Notes
+
+- Courses. Especially for our course lists, the platform is an important part of the resource description. This is because course platforms have different affordances and access models. While we usually won't list a book that requires a registration, many course platforms have affordances that don't work without some sort of account. Example course platforms include Coursera, EdX, Udacity, and Udemy. When a course depends on a platform, the platform name should be listed in parentheses.
+- YouTube. We have many courses which consist of YouTube playlists. We do not list YouTube as a platform, we try to list the YouTube creator, which is often a sub-platform.
+- YouTube videos. We usually don't link to individual YouTube videos unless they are more than an hour long and are structured like a course or a tutorial.
+- Leanpub. Leanpub hosts books with a variety of access models. Sometimes a book can be read without registration; sometimes a book requires a Leanpub account for free access. Given quality of the books and the mixture and fluidity of Leanpub access models, we permit listing of the latter with the access note `*(Leanpub account or valid email requested)*`.
+
+
+#### Genres
+
+The first rule in deciding which list a resource belongs in is to see how the resource describes itself. If it calls itself a book, then maybe it's a book.
+
+
+##### Genres we don't list
+
+Because the Internet is vast, we don't include in our lists:
+
+- blogs
+- blog posts
+- articles
+- websites (except for those that host LOTS of items that we list).
+- videos that aren't courses or screencasts.
+- book chapters
+- teaser samples from books
+- IRC or Telegram channels
+- Slacks or mailing lists
+
+Our competitive programming lists are not as strict about these exclusions. The scope of the repo is determined by the community; if you want to suggest a change or addition to the scope, please use an issue to make the suggestion.
+
+
+##### Books vs. Other Stuff
+
+We're not that fussy about book-ness. Here are some attributes that signify that a resource is a book:
+
+- it has an ISBN (International Standard Book Number)
+- it has a Table of Contents
+- a downloadable version is offered, especially ePub files.
+- it has editions
+- it doesn't depend on interactive content or videos
+- it tries to comprehensively cover a topic
+- it's self-contained
+
+There are lots of books that we list that don't have these attributes; it can depend on context.
+
+
+##### Books vs. Courses
+
+Sometimes these can be hard to distinguish!
+
+Courses often have associated textbooks, which we would list in our books lists. Courses have lectures, exercises, tests, notes or other didactic aids. A single lecture or video by itself is not a course. A powerpoint is not a course.
+
+
+##### Interactive Tutorials vs. Other stuff
+
+If you can print it out and retain its essence, it's not an Interactive Tutorial.
+
+
+### Automation
+
+- Formatting rules enforcement is automated via [GitHub Actions](https://github.com/features/actions) using [fpb-lint](https://github.com/vhf/free-programming-books-lint) (see [`.github/workflows/fpb-lint.yml`](../.github/workflows/fpb-lint.yml))
+- URL validation uses [awesome_bot](https://github.com/dkhamsing/awesome_bot)
+- To trigger URL validation, push a commit that includes a commit message containing `check_urls=file_to_check`:
+
+    ```properties
+    check_urls=free-programming-books.md free-programming-books-zh.md
+    ```
+
+- You may specify more than one file to check, using a single space to separate each entry.
+- If you specify more than one file, results of the build are based on the result of the last file checked. You should be aware that you may get passing green builds due to this so be sure to inspect the build log at the end of the Pull Request by clicking on "Show all checks" -> "Details".

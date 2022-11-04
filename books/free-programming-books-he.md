@@ -1,9 +1,10 @@
 ### Index
 
 * [ללא תלות בשפה](#ללא-תלות-בשפה)
-  * [מערכות הפעלה](#מערכות-הפעלה)
-  * [רשתות](#רשתות)
+    * [מערכות הפעלה](#מערכות-הפעלה)
+    * [רשתות](#רשתות)
 * [Assembly](#assembly)
+* [C](#c)
 * [C#](#csharp)
 * [Java](#java)
 * [Python](#python)
@@ -24,6 +25,11 @@
 ### Assembly
 
 * [ארגון המחשב ושפת סף](https://data.cyber.org.il/assembly/assembly_book.pdf) – ברק גונן, המרכז לחינוך סייבר (PDF)
+
+
+### C 
+
+* [ספר לימוד שפה עילית (שפת C)](https://moked.education.gov.il/MafmarFiles/C_LangIG_3Version.pdf) - מרק טסליצקי (PDF)
 
 
 ### <a id="csharp"></a>C\#

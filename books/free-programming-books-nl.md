@@ -5,7 +5,7 @@
 * [COBOL](#cobol)
 * [Java](#java)
 * [PHP](#php)
-  * [Symfony](#symfony)
+    * [Symfony](#symfony)
 * [Python](#python)
 * [Scratch](#scratch)
 

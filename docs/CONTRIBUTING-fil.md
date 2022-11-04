@@ -18,11 +18,12 @@ Sa pamamagitan ng pag-aambag sumasang-ayon kang igalang ang [Code of Conduct](CO
 2. Hindi mo kailangang malaman ang Git: kung nakakita ka ng isang bagay na interesado na *wala pa sa repo na ito*, mangyaring magbukas ng [Issue](https://github.com/EbookFoundation/free-programming-books/issues) kasama ang iyong mga proposisyon ng link.
     - Kung alam mo ang Git, mangyaring Fork ang repo at magpadala ng mga Pull Request (PR).
 
-3. Mayroon kaming 5 uri ng mga listahan. Piliin ang tama:
+3. Mayroon kaming 6 uri ng mga listahan. Piliin ang tama:
 
     - *Mga libro* : PDF, HTML, ePub, isang site na nakabatay sa gitbook.io, a Git repo, etc.
     - *Kurso* : Ang kurso ay isang materyal sa pag-aaral na hindi isang libro. [This is a course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
     - *Mga Interactive na Tutorial* : Isang interactive na website na nagbibigay-daan sa user na mag-type ng code o command at suriin ang resulta (sa pamamagitan ng "suriin" hindi namin ibig sabihin ay "grado"). e.g.: [Try Haskell](http://tryhaskell.org), [Try GitHub](http://try.github.io).
+    - *Playgrounds* : are online and interactive websites, games or desktop software for learning programming. Write, compile (or run), and share code snippets. Playgrounds often allow you to fork and get your hands dirty by playing with code.
     - *Mga Podcast at Screencast* : Mga podcast at screencast.
     - *Mga Set ng Problema at Kompetisyon sa Programming* : Isang website o software na nagbibigay-daan sa iyong tasahin ang iyong mga kasanayan sa programming sa pamamagitan ng paglutas ng mga simple o kumplikadong problema, mayroon man o walang code review, mayroon man o walang paghahambing ng mga resulta sa ibang mga user.
 
@@ -36,7 +37,7 @@ Sa pamamagitan ng pag-aambag sumasang-ayon kang igalang ang [Code of Conduct](CO
 
 - siguraduhin na ang isang libro ay libre. I-double check kung kinakailangan. Nakakatulong ito sa mga admin kung magkomento ka sa PR kung bakit sa tingin mo ay libre ang libro.
 - hindi kami tumatanggap ng mga file na naka-host sa Google Drive, Dropbox, Mega, Scribd, Issuu at iba pang katulad na mga platform sa pag-upload ng file
-- ipasok ang iyong mga link sa alphabetical order. Kung makakita ka ng maling lugar na link, mangyaring muling ayusin ito at magsumite ng PR
+- ipasok ang iyong mga link sa alphabetical order, as described [below](#alphabetical-order).
 - gamitin ang link na may pinakamakapangyarihang pinagmulan (ibig sabihin ang website ng may-akda ay mas mahusay kaysa sa website ng editor, na mas mahusay kaysa sa isang third party na website)
     - walang mga serbisyo sa pagho-host ng file (kabilang dito ang (ngunit hindi limitado sa) mga link ng Dropbox at Google Drive)
 - palaging mas gusto ang isang link na `https` kaysa sa isang link na `http` -- hangga't sila ay nasa parehong domain at naghahatid ng parehong nilalaman
@@ -142,6 +143,13 @@ Halimbawa:
     GOOD: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
     ```
 
+### Alphabetical order
+
+- When there are multiple titles beginning with the same letter order them by the second, and so on. For example: `aa` comes before `ab`.
+- `one two` comes before `onetwo`
+
+If you see a misplaced link, check the linter error message to know which lines should be swapped.
+
 
 ### Mga Tala
 
@@ -157,6 +165,7 @@ Nagbibigay ang aming mga listahan ng kaunting hanay ng metadata: mga pamagat, UR
 
 - Walang naimbentong pamagat. Sinusubukan naming kumuha ng mga pamagat mula sa mga mapagkukunan mismo; ang mga nag-aambag ay pinapayuhan na huwag mag-imbento ng mga pamagat o gamitin ang mga ito sa editoryal kung ito ay maiiwasan. Ang isang pagbubukod ay para sa mas lumang mga gawa; kung pangunahin ang mga ito sa makasaysayang interes, ang isang taon sa panaklong na nakadugtong sa pamagat ay tumutulong sa mga user na malaman kung sila ay interesado.
 - Walang pamagat ng ALLCAPS. Kadalasan ay angkop ang title case, ngunit kapag may pagdududa, gamitin ang capitalization mula sa source
+- No emojis.
 
 
 ##### URLs
@@ -171,7 +180,15 @@ Nagbibigay ang aming mga listahan ng kaunting hanay ng metadata: mga pamagat, UR
 ##### Mga tagalikha
 
 - Gusto naming pasalamatan ang mga lumikha ng mga libreng mapagkukunan kung saan naaangkop, kabilang ang mga tagasalin!
-- Para sa mga isinaling gawa ang orihinal na may-akda ay dapat na kredito.
+- Para sa mga isinaling gawa ang orihinal na may-akda ay dapat na kredito. We recommend using [MARC relators](https://loc.gov/marc/relators/relaterm.html) to credit creators other than authors, as in this example:
+
+    ```markdown
+    * [A Translated Book](http://example.com/book-fil.html) - John Doe, `trl.:` Mike The Translator
+    ```
+
+    here, the annotation `trl.:` uses the MARC relator code for "translator".
+- Use a comma `,` to delimit each item in the author list.
+- You can shorten author lists with "`et al.`".
 - Hindi namin pinahihintulutan ang mga link para sa Mga Tagalikha.
 - Para sa compilation o remixed na mga gawa, maaaring kailanganin ng "creator" ang isang paglalarawan. Halimbawa, ang mga aklat na "GoalKicker" o "RIP Tutorial" ay kinikilala bilang "`Compiled from StackOverflow Documentation`".
 

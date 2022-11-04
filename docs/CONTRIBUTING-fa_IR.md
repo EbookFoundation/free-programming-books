@@ -20,11 +20,12 @@
 2. نیاز نیست گیت بلد باشید: اگر چیز جذابی پیدا کردید که *در این مخزن وجود ندارد*، یک [Issue](https://github.com/EbookFoundation/free-programming-books/issues) با نوشتن لینک‌ها درست کنید.
     * اگر Git را می شناسید، لطفاً مخزن را Fork کنید و درخواست های کششی (PR) ارسال کنید.
 
-3. ما پنج نوع فهرست داریم. فهرست درست را انتخاب کنید:
+3. ما شش نوع فهرست داریم. فهرست درست را انتخاب کنید:
 
     * *کتاب‌ها* : PDF، HTML، ePub، سایت بر اساس gitbook.io، یک مخزن گیت و غیره.
     * *دوره‌ها* : دوره محتوایی آموزشی است که کتاب نیست. مثلا [این یک دوره است](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
     * *آموزش‌های تعاملی* : وبسایتی تعاملی که به کاربر اجازه‌ی تایپ کد یا دستور می‌دهد و نتیجه را ارزیابی می‌کند (منظور ما از "ارزیابی"، "نمره‌دهی" نیست). مثلا: [Try Haskell](http://tryhaskell.org), [Try GitHub](http://try.github.io).
+    - *Playgrounds* : are online and interactive websites, games or desktop software for learning programming. Write, compile (or run), and share code snippets. Playgrounds often allow you to fork and get your hands dirty by playing with code.
     * *پادکست‌ها و اسکرین‌کست‌ها*
     * *مجموعه مشکلات و برنامه‌نویسی رقابتی* : وبسایت یا نرم‌افزاری که به شما امکان بررسی مهارت‌های برنامه‌نویسی را با کمک حل مشکلات ساده یا پیچیده، با یا بدون بررسی کد، با یا بدون مقایسه‌ی نتایج با کاربران دیگر می‌دهد.
 
@@ -38,7 +39,7 @@
 
 * مطمئن شوید که یک کتاب رایگان است. اگر لازم بود، دوباره هم بررسی کنید. اگر درباره‌ی علت این که فکر می‌کنید کتاب رایگان است در پول‌ریکوئست (PR)، کامنت بگذارید، به ادمین‌ها کمک کرده‌اید.
 * ما فایل‌هایی را قبول نمی‌کنیم که روی گوگل‌درایو، دراپ‌باکس، مگا، اسکریبد، ایسیو یا پلتفرم‌های آپلود فایل مشابه قرار دارند
-* لینک‌های خود را به ترتیب الفبایی وارد کنید. اگر لینکی را خارج از ترتیب درست دیدید، لطفا مرتیش کنید و یک پی‌آر ثبت کنید
+* لینک‌های خود را به ترتیب الفبایی وارد کنید, همان طور که در [زیر](#ترتیب-الفبایی) توضیح داده شده است.
 * از لینک معتبرترین منبع استفاده کنید (این یعنی وبسایت نویسنده بهتر از وبسایت ویراستار و وبسایت ویراستار بهتر از وبسایت سوم شخص است)
     * از سرویس‌های اشتراک‌گذاری فایل استفاده نکنید (این سرویس‌ها شامل (و نه محدود به) لینک‌های دراپ‌باکس و گوگل‌درایو است)
 * همیشه یک لینک `https` به یک لینک `http` ترجیح داده می‌شود -- تا وقتی که هر دو لینک دامنه‌ی یکسانی داشته باشند و محتوای یکسانی نمایش دهند.
@@ -58,6 +59,7 @@
 * اگر کتاب قدیمی است، تاریخ انتشار را در کنار عنوان بنویسید.
 * نام نویسنده یا نویسندگان را در صورت امکان بنویسید. می‌توانید فهرست نویسندگان را با "و همکاران" (به انگلیسی: "`et al.`") کوتاه کنید.
 * اگر کتاب هنوز تمام نشده است و هنوز روی آن کار می‌شود، عبارت "`in process`" را همان طور که در [پایین صفحه](#in_process) آمده به آن اضافه کنید.
+- if a resource is restored using the [*Internet Archive's Wayback Machine*](https://web.archive.org) (or similar), add the "`archived`" notation, as described [below](#archived). The best versions to use are recent and complete.
 * اگر پیش از دانلود، نشانی ایمیل یا ساخت حساب کاربری خواسته می‌شود، در پرانتز توضیح متناسبی بنویسید. مثلا: `(نشانی ایمیل *خواسته می‌شود* اما اجباری نیست)`.
 
 
@@ -136,6 +138,118 @@
     ```text
     خوب: * [کتابی که عالی خواهدشد](http://example.com/book2.html) - نام نویسنده (HTML) (:construction: *in process*)
     ```
+
+- <a id="archived"></a>Archived link:
+
+    ```text
+    خوب: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
+    ```
+
+### ترتیب الفبایی
+
+- وقتی چند عنوان با حرف یکسانی شروع می‌شوند، آنها را به ترتیب حرف دوم مرتب کنید و به همین ترتیب برای حرف‌های بعدی. مثلا `aa` قبل از `ab` می‌آید.
+- همچنین `one two` قبل از `onetwo` می‌آید.
+
+اگر لینکی را در جای نادرست دیدید، پیام خطای linter را ببینید تا بفهمید کدام خط‌ها باید جابجا شوند.
+
+
+### Notes
+
+While the basics are relatively simple, there is a great diversity in the resources we list. Here are some notes on how we deal with this diversity.
+
+
+#### Metadata
+
+Our lists provide a minimal set of metadata: titles, URLs, creators, platforms, and access notes.
+
+
+##### Titles
+
+- No invented titles. We try to take titles from the resources themselves; contributors are admonished not to invent titles or use them editorially if this can be avoided. An exception is for older works; if they are primarily of historical interest, a year in parentheses appended to the title helps users know if they are of interest.
+- No ALLCAPS titles. Usually title case is appropriate, but when doubt use the capitalization from the source
+- No emojis.
+
+
+##### URLs
+
+- We don't permit shortened URLs.
+- Tracking codes must be removed from the URL.
+- International URLs should be escaped. Browser bars typically render these to Unicode, but use copy and paste, please.
+- Secure (`https`) URLs are always preferred over non-secure (`http`) urls where HTTPS has been implemented.
+- We don't like URLs that point to webpages that don't host the listed resource, but instead point elsewhere.
+
+
+##### Creators
+
+- We want to credit the creators of free resources where appropriate, including translators!
+- For translated works the original author should be credited. We recommend using [MARC relators](https://loc.gov/marc/relators/relaterm.html) to credit creators other than authors, as in this example:
+
+    ```markdown
+    * [A Translated Book](http://example.com/book-fa_IR.html) - John Doe, `trl.:` Mike The Translator
+    ```
+
+    here, the annotation `trl.:` uses the MARC relator code for "translator".
+- Use a comma `,` to delimit each item in the author list.
+- You can shorten author lists with "`et al.`".
+- We do not permit links for Creators.
+- For compilation or remixed works, the "creator" may need a description. For example, "GoalKicker" or "RIP Tutorial" books are credited as "`Compiled from StackOverflow documentation`".
+
+
+##### Platforms and Access Notes
+
+- Courses. Especially for our course lists, the platform is an important part of the resource description. This is because course platforms have different affordances and access models. While we usually won't list a book that requires a registration, many course platforms have affordances that don't work without some sort of account. Example course platforms include Coursera, EdX, Udacity, and Udemy. When a course depends on a platform, the platform name should be listed in parentheses.
+- YouTube. We have many courses which consist of YouTube playlists. We do not list YouTube as a platform, we try to list the YouTube creator, which is often a sub-platform.
+- YouTube videos. We usually don't link to individual YouTube videos unless they are more than an hour long and are structured like a course or a tutorial.
+- Leanpub. Leanpub hosts books with a variety of access models. Sometimes a book can be read without registration; sometimes a book requires a Leanpub account for free access. Given quality of the books and the mixture and fluidity of Leanpub access models, we permit listing of the latter with the access note `*(Leanpub account or valid email requested)*`.
+
+
+#### Genres
+
+The first rule in deciding which list a resource belongs in is to see how the resource describes itself. If it calls itself a book, then maybe it's a book.
+
+
+##### Genres we don't list
+
+Because the Internet is vast, we don't include in our lists:
+
+- blogs
+- blog posts
+- articles
+- websites (except for those that host LOTS of items that we list).
+- videos that aren't courses or screencasts.
+- book chapters
+- teaser samples from books
+- IRC or Telegram channels
+- Slacks or mailing lists
+
+Our competitive programming lists are not as strict about these exclusions. The scope of the repo is determined by the community; if you want to suggest a change or addition to the scope, please use an issue to make the suggestion.
+
+
+##### Books vs. Other Stuff
+
+We're not that fussy about book-ness. Here are some attributes that signify that a resource is a book:
+
+- it has an ISBN (International Standard Book Number)
+- it has a Table of Contents
+- a downloadable version is offered, especially ePub files.
+- it has editions
+- it doesn't depend on interactive content or videos
+- it tries to comprehensively cover a topic
+- it's self-contained
+
+There are lots of books that we list that don't have these attributes; it can depend on context.
+
+
+##### Books vs. Courses
+
+Sometimes these can be hard to distinguish!
+
+Courses often have associated textbooks, which we would list in our books lists. Courses have lectures, exercises, tests, notes or other didactic aids. A single lecture or video by itself is not a course. A powerpoint is not a course.
+
+
+##### Interactive Tutorials vs. Other stuff
+
+If you can print it out and retain its essence, it's not an Interactive Tutorial.
 
 
 ### خودکارسازی

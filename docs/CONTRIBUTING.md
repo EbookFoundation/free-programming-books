@@ -18,11 +18,12 @@ By contributing you agree to respect the [Code of Conduct](CODE_OF_CONDUCT.md) o
 2. You don't have to know Git: if you found something of interest which is *not already in this repo*, please open an [Issue](https://github.com/EbookFoundation/free-programming-books/issues) with your links propositions.
     - If you know Git, please Fork the repo and send Pull Requests (PR).
 
-3. We have 5 kinds of lists. Choose the right one:
+3. We have 6 kinds of lists. Choose the right one:
 
     - *Books* : PDF, HTML, ePub, a gitbook.io based site, a Git repo, etc.
     - *Courses* : A course is a learning material which is not a book. [This is a course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
     - *Interactive Tutorials* : An interactive website which lets the user type code or commands and evaluates the result (by "evaluate" we don't mean "grade"). e.g.: [Try Haskell](http://tryhaskell.org), [Try GitHub](http://try.github.io).
+    - *Playgrounds* : are online and interactive websites, games or desktop software for learning programming. Write, compile (or run), and share code snippets. Playgrounds often allow you to fork and get your hands dirty by playing with code.
     - *Podcasts and Screencasts* : Podcasts and screencasts.
     - *Problem Sets & Competitive Programming* : A website or software which lets you assess your programming skills by solving simple or complex problems, with or without code review, with or without comparing the results with other users.
 
@@ -35,7 +36,7 @@ By contributing you agree to respect the [Code of Conduct](CODE_OF_CONDUCT.md) o
 
 - make sure a book is free. Double-check if needed. It helps the admins if you comment in the PR as to why you think the book is free.
 - we don't accept files hosted on Google Drive, Dropbox, Mega, Scribd, Issuu and other similar file upload platforms
-- insert your links in alphabetical order. If you see a misplaced link, please reorder it and submit a PR
+- insert your links in alphabetical order, as described [below](#alphabetical-order).
 - use the link with the most authoritative source (meaning the author's website is better than the editor's website, which is better than a third party website)
     - no file hosting services (this includes (but is not limited to) Dropbox and Google Drive links)
 - always prefer a `https` link over a `http` one -- as long as they are on the same domain and serve the same content
@@ -113,7 +114,7 @@ Example:
     GOOD: * [A Very Awesome Book](https://example.org/book.pdf) - Jane Roe (PDF)
     ```
 
-- Multiple formats:
+- Multiple formats (We prefer a single link for each resource. When there is no single link with easy access to different formats, multiple links may make sense. But every link we add creates maintenance burden so we try to avoid it.):
 
     ```text
     BAD : * [Another Awesome Book](http://example.com/)- John Doe (HTML)
@@ -140,6 +141,13 @@ Example:
     GOOD: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
     ```
 
+### Alphabetical order
+
+- When there are multiple titles beginning with the same letter order them by the second, and so on. For example: `aa` comes before `ab`.
+- `one two` comes before `onetwo`
+
+If you see a misplaced link, check the linter error message to know which lines should be swapped.
+
 
 ### Notes
 
@@ -155,6 +163,7 @@ Our lists provide a minimal set of metadata: titles, URLs, creators, platforms, 
 
 - No invented titles. We try to take titles from the resources themselves; contributors are admonished not to invent titles or use them editorially if this can be avoided. An exception is for older works; if they are primarily of historical interest, a year in parentheses appended to the title helps users know if they are of interest.
 - No ALLCAPS titles. Usually title case is appropriate, but when doubt use the capitalization from the source
+- No emojis.
 
 
 ##### URLs
@@ -169,16 +178,33 @@ Our lists provide a minimal set of metadata: titles, URLs, creators, platforms, 
 ##### Creators
 
 - We want to credit the creators of free resources where appropriate, including translators!
-- For translated works the original author should be credited.
+- For translated works the original author should be credited. We recommend using [MARC relators](https://loc.gov/marc/relators/relaterm.html) to credit creators other than authors, as in this example:
+
+    ```markdown
+    * [A Translated Book](http://example.com/book.html) - John Doe, `trl.:` Mike The Translator
+    ```
+
+    here, the annotation `trl.:` uses the MARC relator code for "translator".
+- Use a comma `,` to delimit each item in the author list.
+- You can shorten author lists with "`et al.`".
 - We do not permit links for Creators.
 - For compilation or remixed works, the "creator" may need a description. For example, "GoalKicker" or "RIP Tutorial" books are credited as "`Compiled from StackOverflow documentation`".
+- We do not include honorifics such as "Prof." or "Dr." in creator names.
+
+
+##### Time-limited Courses and Trials
+
+- We don't list things that we'll need to remove in six months.
+- If a course has a limited enrollment period or duration, we won't list it.
+- We can't list resources that are free for a limited period.
 
 
 ##### Platforms and Access Notes
 
 - Courses. Especially for our course lists, the platform is an important part of the resource description. This is because course platforms have different affordances and access models. While we usually won't list a book that requires a registration, many course platforms have affordances that don't work without some sort of account. Example course platforms include Coursera, EdX, Udacity, and Udemy. When a course depends on a platform, the platform name should be listed in parentheses.
 - YouTube. We have many courses which consist of YouTube playlists. We do not list YouTube as a platform, we try to list the YouTube creator, which is often a sub-platform.
-- YouTube videos. We usually don't link to individual YouTube videos unless they are more than an hour long and are structured like a course or a tutorial.
+- YouTube videos. We usually don't link to individual YouTube videos unless they are more than an hour long and are structured like a course or a tutorial. If this is the case, be sure to make a note of it in the PR description.
+- No shortened (i.e. youtu.be/xxxx) links!
 - Leanpub. Leanpub hosts books with a variety of access models. Sometimes a book can be read without registration; sometimes a book requires a Leanpub account for free access. Given quality of the books and the mixture and fluidity of Leanpub access models, we permit listing of the latter with the access note `*(Leanpub account or valid email requested)*`.
 
 

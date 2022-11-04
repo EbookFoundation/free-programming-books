@@ -18,11 +18,12 @@ I collaboratori accettano di rispettare il [Codice di Comportamento](CODE_OF_CON
 2. Non devi conoscere Git: se trovi qualcosa di interessante che che non è *ancora in questa repo*, apri un [Issue](https://github.com/EbookFoundation/free-programming-books/issues) con il link della risorsa.
     - Se conosci Git, forka questa repository e crea una Pull Request (PR).
 
-3. Abbiamo 5 tipi di liste. Scegli quella giusta:
+3. Abbiamo 6 tipi di liste. Scegli quella giusta:
 
     - *Libri* : PDF, HTML, ePub, gitbook.io, una Git repo, etc.
     - *Corsi* : Un corso è del materiale gratuito che non è un libro. [Questo è un corso](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
     - *Tutorial Interattivi* : Un sito interattivo permette all'utente di scrivere codice o comandi e analizzarne il risultato. esempi: [Try Haskell](http://tryhaskell.org), [Try GitHub](http://try.github.io).
+    - *Playgrounds* : Sono siti, giochi o applicazioni online ed interattive per imparare a programmare. Scrivi, compila (o esegui) e condividi codice. I playgrounds spesso ti permettono di forkare una repository e sporcarti le mani "giocando" con il codice.
     - *Podcasts e Screencasts* : Podcasts and screencasts.
     - *Set di problemi & Programmazione competitiva* : Un sito o software che ti permette di valutare le tue skills da programmatore risolvendo problemi semplici o complessi, con o senza la revisione del codice, con o senza la comparazione del risultato con gli altri utenti.
 
@@ -36,7 +37,7 @@ I collaboratori accettano di rispettare il [Codice di Comportamento](CODE_OF_CON
 
 - assicurati che il libro sia gratuito. Controlla più volte se necessario. Commentare nella PR il perché pensi che il libro sia gratuito aiuta gli admin.
 - non accettiamo file hostati su Google Drive, Dropbox, Mega, Scribd, Issuu e altre piattaforme simili per l'upload dei file
-- inserisci i link ordinandoli alfabeticamente. Se sbagli la posizione di un link, riordinalo e invia la PR
+- inserisci i link ordinandoli alfabeticamente, come descritto [sotto](#alphabetical-order).
 - usa il link più "autorevole" per segnalare la risorsa (significa che il sito web dell'autore è migliore del sito web dell'editore, che è migliore di un sito web di terze parti)
     - nessun servizio di file hosting (questo include (ma non è limitato a) link di Dropbox e Google Drive)
 - preferisci sempre un link `https` rispetto ad un `http` -- purché si trovino sullo stesso dominio e contengano lo stesso contenuto
@@ -142,6 +143,13 @@ Esempi:
     CORRETTO : * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
     ```
 
+### Ordinamento alfabetico
+
+- Quando ci sono più titoli che iniziano con la stessa lettera devi ordinarli in base alla seconda, e così via. Per esempio: `aa` viene prima di `ab`. 
+- `one two` viene prima di `onetwo`
+
+Se vedi un link messo male, controlla gli errori dati dal linter per scoprire quali linee devi scambiare.
+
 
 ### Note
 
@@ -157,6 +165,7 @@ I nostri elenchi forniscono un set minimo di metadati: titoli, URLs, autori, pia
 
 - Non inventiamo i titoli. Cerchiamo di prendere i titoli dalla risorsa originale; i contributori sono invitati a non inventare titoli o usarli editorialmente se questo può essere evitato. Un'eccezione è per i libri più vecchi; se sono principalmente di interesse storico, l'anno tra parentesi inserito nel titolo aiuta gli utenti a capire se sono interessati a quella risorsa.
 - Niente titoli completamente in MAIUSCOLO. Di solito il title case è appropriato, ma in caso di dubbio usa le maiuscole utilizzate nella fonte.
+- Niente emoji.
 
 
 ##### URLs
@@ -171,7 +180,15 @@ I nostri elenchi forniscono un set minimo di metadati: titoli, URLs, autori, pia
 ##### Autori
 
 - Vogliamo dare i crediti agli autori ove appropriato, anche ai traduttori!
-- Per i lavori tradotti, l'autore originale dovrebbe essere incluso.
+- Per i lavori tradotti, l'autore originale dovrebbe essere incluso. Consigliamo di usare [MARC relators](https://loc.gov/marc/relators/relaterm.html) per accreditare autori diversi dal creatore, per esempio:
+
+    ```markdown
+    * [Un libro tradotto](http://example.com/book-it.html) - John Doe, `trl.:` Mike The Translator
+    ```
+
+    qui, l'annotazione `trl.:` usa il codice MARC relativo ai "traduttori".
+- Usa l virgola `,` per separare ogni elemento nella lista degli autori
+- Puoi accorciare la lista degli autori scrivendo "`et al.`" (e altri).
 - Non permettiamo collegamenti per gli autori.
 - Per le compilation o remix, il "creatore" potrebbe aver bisogno di una descrizione. Ad esempio, i libri "GoalKicker" o "RIP Tutorial" sono accreditati come "`Compiled from StackOverflow documentation`".
 

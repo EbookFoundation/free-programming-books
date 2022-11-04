@@ -31,6 +31,7 @@
 * [Python](#python)
 * [Ruby](#ruby)
 * [Rust](#rust)
+* [Swift](#swift)
 
 
 ### Android
@@ -54,6 +55,7 @@
 * [C++ Series](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) - The Cherno (screencast)
 * [C++ Standard Library](https://www.youtube.com/playlist?list=PL5jc9xFGsL8G3y3ywuFSvOuNm3GjBwdkb) - Bo Qian (screencast)
 * [C++ STL by example](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp5oH3mrr4IlFBn03rjS-gN1) - Douglas Schmidt (screencast)
+* [C++ STL: The ONLY Video You Need | Compulsory for DSA/CP](https://www.youtube.com/watch?v=PZogbfU4X5E) - Utkarsh Gupta (screencast)
 * [CppCast](http://cppcast.com) - Conor Hoekstra, Jason Turner, JeanHeyd Meneide, Matt Godbolt, Rob Irving (podcast)
 
 
@@ -255,6 +257,7 @@
 * [baseCS](https://www.codenewbie.org/basecs) - Vaidehi Joshi, Saron Yitbarek (podcast based on [a series of posts on medium](https://medium.com/basecs))
 * [Between \| Screens Podcast](https://soundcloud.com/between-screens) - Ed Wassermann (podcast)
 * [BSDTalk](https://bsdtalk.blogspot.com) - Will Backman (podcast)
+* [Clean Code Lessons by Robert C. Martin](https://www.youtube.com/watch?v=7EmboKQH8lM&list=PLdpsE-GEhYVn_81kDPo1mwE73UgYCeMLu) - Robert C. Martin
 * [CodeNewbie](https://www.codenewbie.org/podcast) - CodeNewbie Team (podcast)
 * [CodePen Radio](https://blog.codepen.io/radio/) - CodePen Team (podcast)
 * [Coding Blocks](https://www.codingblocks.net) - Michael Outlaw, Joe Zack, Allen Underwood (podcast)
@@ -265,6 +268,7 @@
 * [Developer On Fire](https://developeronfire.com) - Dave Rael (podcast)
 * [Developer Tea](https://developertea.com) - Jonathan Cutrell (podcast)
 * [DevelopersHangout](https://www.developershangout.io) - Eric J Silva (podcast)
+* [Does Not Compute](https://dnc.show) - Sean Washington, Rockwell Schrock (podcast)
 * [Domain Driven Design Europe](https://dddeurope.com/videos/) (screencast)
     * [Domain Driven Design Europe - 2017](https://2017.dddeurope.com/#videos) (screencast)
 * [FLOSS WEEKLY](https://twit.tv/shows/floss-weekly) - Doc Searls, Aaron Newcomb, Dan Lynch, Simon Phipps, Jonathan Bennett, Shawn Powers, Katherine Druckman (podcast)
@@ -394,3 +398,8 @@
 * [New Rustacean](http://www.newrustacean.com) - Chris Krycho (podcast)
 * [Rusty Radio](https://soundcloud.com/posix4e) - Alex Newman (podcast)
 * [The Rustacean Station Podcast](https://rustacean-station.org) - Allen Wyma, Tim McNamara, Sean Chen, et al. (podcast)
+
+
+### Swift
+
+* [Swift by Sundell](https://www.swiftbysundell.com/podcast/) - John Sundell (podcast)

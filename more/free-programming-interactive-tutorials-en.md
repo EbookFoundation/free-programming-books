@@ -50,7 +50,6 @@
 * [XML](#xml)
 
 
-
 ### Ada
 
 * [Introduction to Ada](https://learn.adacore.com/courses/intro-to-ada/index.html) - Adacore

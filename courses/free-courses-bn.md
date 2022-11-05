@@ -147,7 +147,6 @@ Shikkhangon BD
 * [Java Bangla (বাংলা) tutorial for beginners](https://youtube.com/playlist?list=PL82MewGFQkx1jjozz7I98Yjanw8n6p9HP) - Time & Training
 
 
-
 ### JavaScript
 
 * [DOM: Client Side Javascript](https://www.youtube.com/playlist?list=PL_XxuZqN0xVA10Q5UxbhG3zTPpe_ZdDGg) - Stack Learner

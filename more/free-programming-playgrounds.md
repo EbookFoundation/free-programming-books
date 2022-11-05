@@ -2,6 +2,7 @@
 
 * [APL](#apl)
 * [Assembly](#assembly)
+* [Bash/Shell](#bash)
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
@@ -62,6 +63,13 @@
 * [Educational Visual CPU Simulator](https://github.com/Belotti01/CPU-Visual-Simulator) - Renato Cortinovis, Nicola Preda, Jonathan Cancelli, Alessandro Belotti, Davide Riva (JAVA, JAR)
 
 
+### <a id="bash"</a>Bash/Shell
+
+* [Bash Crawl](https://gitlab.com/slackermedia/bashcrawl)
+* [Terminal Quest](https://github.com/KanoComputing/terminal-quest)
+* [Wargames](https://overthewire.org/wargames/)
+
+
 ### <a id="c"></a>C
 
 * [InterviewBit - Online C Compiler IDE](https://www.interviewbit.com/online-c-compiler/)
@@ -72,6 +80,7 @@
 
 ### <a id="csharp"></a>C\#
 
+* [codebattle](https://codebattle.hexlet.io/)
 * [Programiz - Online Compiler](https://www.programiz.com/csharp-programming/online-compiler/)
 * [SoloLearn](https://code.sololearn.com/csharp)
 
@@ -138,6 +147,7 @@
 ### Git
 
 * [Git](https://learngitbranching.js.org/?NODEMO)
+* [ohmygit](https://ohmygit.org/)
 
 
 ### Go
@@ -153,12 +163,26 @@
 
 ### HTML and CSS
 
+* [100 days of CSS](https://100dayscss.com/)
 * [CodePen](https://codepen.io)
 * [CSSdeck](https://cssdeck.com)
+* [CSS Battle](https://cssbattle.dev/)
+* [CSS Challenges](https://css-challenges.com/)
+* [CSS Diner](https://flukeout.github.io/)
+* [CSS Speedrun](https://css-speedrun.netlify.app/)
 * [Dabblet](https://dabblet.com)
+* [Flexbox Adventure](https://codingfantasy.com/games/flexboxadventure/play)
 * [Flexy Boxes](https://the-echoplex.net/flexyboxes/)
+* [Flexbox Defense](http://www.flexboxdefense.com/)
+* [Flexbox Froggy](https://flexboxfroggy.com/)
+* [Flexbox Zombies](https://mastery.games/flexboxzombies)
+* [Grid Attack](https://codingfantasy.com/games/css-grid-attack/play)
+* [Guess CSS](https://www.guess-css.app/)
+* [Grid Garden](https://cssgridgarden.com/)
+* [Knights of the Flexbox Table](https://knightsoftheflexboxtable.com/)
 * [SoloLearn](https://code.sololearn.com/web#css)
 * [Tailwind Play](https://play.tailwindcss.com)
+* [w3schools](https://www.w3schools.com/)
 
 
 ### Ionic

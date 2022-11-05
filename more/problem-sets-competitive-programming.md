@@ -32,7 +32,7 @@
 * [Dimik](https://dimikoj.com)
 * [DMOJ](https://dmoj.ca)
 * [E-olymp](https://www.e-olymp.com/en/)
-* [Exercism](https://exercism.org/)
+* [Exercism](https://exercism.org)
 * [Facebook Hackercup](https://www.facebook.com/hackercup)
 * [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam)
 * [Google Kickstart](https://codingcompetitions.withgoogle.com/kickstart)

@@ -141,10 +141,11 @@ Shikkhangon BD
 ### Java
 
 * [Java Bangla Tutorials \| CORE Java \| Complete OOP](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa) - Anisul Islam
+* [Java Basic Syntax Bangla Tutorial](https://youtube.com/playlist?list=PLdl6zXgLsy3xCae1uL6rJ8Ay9sIiyBy5I) - Bangla Coding Tutor
 * [Java Swing Bangla Tutorials](https://www.youtube.com/playlist?list=PLgH5QX0i9K3rAHKr6IteF5kdgN6BorH9l) - Anisul Islam
 * [জাভা এন্টারপ্রাইজ এডিশন](https://dimikcomputing.com/course/javaee-online-course/) - দ্বিমিক কম্পিউটিং
 * [Java Bangla (বাংলা) tutorial for beginners](https://youtube.com/playlist?list=PL82MewGFQkx1jjozz7I98Yjanw8n6p9HP) - Time & Training
-* [Java Basic Syntax Bangla Tutorial](https://youtube.com/playlist?list=PLdl6zXgLsy3xCae1uL6rJ8Ay9sIiyBy5I) - Bangla Coding Tutor
+
 
 
 ### JavaScript

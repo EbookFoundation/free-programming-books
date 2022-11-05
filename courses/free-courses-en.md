@@ -960,6 +960,7 @@
 * [Linux Tutorials and Projects](https://www.udemy.com/course/linux-tutorials/) - Jason Cannon (Udemy)
 * [Red Hat Enterprise Linux Technical Overview](https://www.udemy.com/course/red-hat-enterprise-linux-technical-overview/) - Red Hat Inc. (Udemy)
 * [The Linux Basics: Beginner to Sysadmin, Step by Step](https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK)
+* [Linux Course](https://selflearning.io/study-material/fundamentals-of-linux) - by selflearning.io
 
 
 ### Lua
@@ -1038,6 +1039,7 @@
 * [Computer Networking Course](https://www.youtube.com/watch?v=qiQR5rTSshw) - Brian Farrell (FreeCodeCamp.org)
 * [Computer Networking Full Course](https://www.youtube.com/watch?v=IPvYjXCsTg8) - Kunal Kushwaha
 * [Computer Networks 5e](https://media.pearsoncmg.com/ph/streaming/esm/tanenbaum5e_videonotes/tanenbaum_videoNotes.html) - Andrew Tanenbaum, David Wetherall (Pearson)
+* [Networking Course](https://selflearning.io/study-material/networking) - by selflearning.io
 
 
 ### Objective-C
@@ -1285,6 +1287,9 @@
 * [The Complete Cyber Security & Hacking Course](https://academy.ehacking.net/p/cyber-security-training-hacking-course) - INSEC-TECHS (EH Academy)
 * [WireShark for Ethical Hacking](https://www.udemy.com/course/wireshark-for-ethical-hacking-new) - Musab Zayadneh (Udemy)
 * [Zero to Hero: A Practical Network Penetration Testing Course](https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj) - The Cyber Mentor
+* [Website Penetration Testing](https://selflearning.io/study-material/website-penetration-testing) - by selflearning.io
+* [Mobile Penetration Testing](https://selflearning.io/study-material/mobile-penetration-testing) - by selflearning.io
+* [ccna Course](https://selflearning.io/study-material/ccna) - by selflearning.io
 
 
 ### Software Engineering

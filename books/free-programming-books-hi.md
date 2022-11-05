@@ -16,6 +16,11 @@
 * [C Tutorial/Notes \| Hindi](https://programming-tutorial-hindi.blogspot.com/p/index.html) - Hridayesh Kumar Gupta
 
 
+### C
+
+* [C in Hindi \| Hindi](https://onlineaavedan.com/study_material/1543909480.pdf) - Kuldeep Chand (PDF)
+
+
 ### <a id="cpp"></a>C++
 
 * [C++ Brief Notes \| Hindi](https://ehindistudy.com/2020/12/01/cpp-notes-in-hindi/) - Yugal Joshi

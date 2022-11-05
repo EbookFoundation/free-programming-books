@@ -98,7 +98,7 @@
 ### Operating Systems
 
 * [المقدمة في تحليل وتصميم أنظمة](https://librebooks.org/intro-to-os-analysis-and-design/) - Ahmed Lexis 
-* [أنظمة التشغيل للمبرمجين](https://academy.hsoub.com/files/24-أنظمة-التشغيل-للمبرمجين/) - Allen B. Downey، ترجمة علا عباس (PDF)
+* [أنظمة التشغيل للمبرمجين](https://academy.hsoub.com/files/24-أنظمة-التشغيل-للمبرمجين/) - Allen B. Downey ,ترجمة علا عباس (PDF)
 
 
 ### PHP

@@ -4,9 +4,10 @@
 * [C++](#cpp)
 
 
-### <a id="c"></a>C
+### C
 
 * [C in Hindi \| Hindi](https://onlineaavedan.com/study_material/1543909480.pdf) - Kuldeep Chand
+
 
 ### <a id="cpp"></a>C++
 

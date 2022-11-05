@@ -1036,10 +1036,13 @@
 
 ### Networking
 
+* [CCNA Course](https://selflearning.io/study-material/ccna) - selflearning.io
 * [Computer Networking Course](https://www.youtube.com/watch?v=qiQR5rTSshw) - Brian Farrell (FreeCodeCamp.org)
 * [Computer Networking Full Course](https://www.youtube.com/watch?v=IPvYjXCsTg8) - Kunal Kushwaha
 * [Computer Networks 5e](https://media.pearsoncmg.com/ph/streaming/esm/tanenbaum5e_videonotes/tanenbaum_videoNotes.html) - Andrew Tanenbaum, David Wetherall (Pearson)
-* [Networking Course](https://selflearning.io/study-material/networking) - by selflearning.io
+* [FREE CCNA 200-301 Complete Course 2021](https://www.youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P) - NetworkChuck
+* [Full Series |200-301 Free Cisco Video Training 2020](https://youtube.com/playlist?list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ) - NetworKing 
+* [Networking Course](https://selflearning.io/study-material/networking) - selflearning.io
 
 
 ### Objective-C
@@ -1247,7 +1250,9 @@
 * [Intro to Rust](https://www.youtube.com/playlist?list=PLJbE2Yu2zumDF6BX6_RdPisRVHgzV02NW) - Tensor Programming
 * [Learn Rust from scratch](https://www.educative.io/courses/learn-rust-from-scratch) - Educative.io
 * [Rust Basics](https://www.youtube.com/playlist?list=PLlcnQQJK8SUjApd95LIcd3K9XXmE-IeCS) - Engineer Man
+* [Rust Books](https://github.com/sger/RustBooks) - Books
 * [Rust Crash Course](https://www.youtube.com/watch?v=zF34dRivLOw) - Traversy Media
+* [Rust Learnings](https://github.com/ctjhoa/rust-learning) - a list of awesome rust learning material
 * [Rust Programming Tutorial](https://www.youtube.com/playlist?list=PLzMcBGfZo4-nyLTlSRBvo0zjSnCnqjHYQ) - Tech With Tim
 * [Rust Projects](https://www.youtube.com/playlist?list=PLJbE2Yu2zumDD5vy2BuSHvFZU0a6RDmgb) - Tensor Programming
 * [Rust Tutorial](https://www.youtube.com/playlist?list=PLLqEtX6ql2EyPAZ1M2_C0GgVd4A-_L4_5) - Doug Milford
@@ -1280,16 +1285,15 @@
 * [Introduction to Information Security](https://www.udacity.com/course/intro-to-information-security--ud459) - Wenke Lee, Mustaque Ahamad, Catherine Gamboa (Udacity)
 * [Learn Ethical Haacking From Scratch](https://www.udemy.com/course/learn-ethical-haacking-from-scratch) - Uzma Aslam (Udemy)
 * [Linux for Hackers and Pentesters](https://www.udemy.com/course/linux-for-hackers-and-pentesters) - Rajneesh Gupta (Udemy)
+* [Mobile Penetration Testing](https://selflearning.io/study-material/mobile-penetration-testing) - by selflearning.io
 * [Modern Binary Exploitation](https://github.com/RPISEC/MBE) - RPISEC
 * [Stanford Cryptography I](https://www.coursera.org/course/crypto) - Dan Boneh
 * [Stanford Cryptography II](https://www.coursera.org/course/crypto2) - Dan Boneh
 * [Start Ethical Hacking with Parrot Security OS (Alt. to Kali)](https://www.udemy.com/course/ethical-hacking-with-parrot-security-os) - Seyed Farshid Miri (Udemy)
 * [The Complete Cyber Security & Hacking Course](https://academy.ehacking.net/p/cyber-security-training-hacking-course) - INSEC-TECHS (EH Academy)
+* [Website Penetration Testing](https://selflearning.io/study-material/website-penetration-testing) - selflearning.io
 * [WireShark for Ethical Hacking](https://www.udemy.com/course/wireshark-for-ethical-hacking-new) - Musab Zayadneh (Udemy)
 * [Zero to Hero: A Practical Network Penetration Testing Course](https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj) - The Cyber Mentor
-* [Website Penetration Testing](https://selflearning.io/study-material/website-penetration-testing) - by selflearning.io
-* [Mobile Penetration Testing](https://selflearning.io/study-material/mobile-penetration-testing) - by selflearning.io
-* [ccna Course](https://selflearning.io/study-material/ccna) - by selflearning.io
 
 
 ### Software Engineering

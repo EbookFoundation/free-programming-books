@@ -67,21 +67,21 @@
 
 * [Bash Crawl](https://gitlab.com/slackermedia/bashcrawl)
 * [Terminal Quest](https://github.com/KanoComputing/terminal-quest)
-* [Wargames](https://overthewire.org/wargames/)
+* [Wargames](https://overthewire.org/wargames)
 
 
 ### <a id="c"></a>C
 
-* [InterviewBit - Online C Compiler IDE](https://www.interviewbit.com/online-c-compiler/)
-* [JDoodle - Online C Compiler IDE](https://www.jdoodle.com/c-online-compiler/)
-* [Programiz - Online C Compiler](https://www.programiz.com/c-programming/online-compiler/)
+* [InterviewBit - Online C Compiler IDE](https://www.interviewbit.com/online-c-compiler)
+* [JDoodle - Online C Compiler IDE](https://www.jdoodle.com/c-online-compiler)
+* [Programiz - Online C Compiler](https://www.programiz.com/c-programming/online-compiler)
 * [SoloLearn](https://code.sololearn.com/c)
 
 
 ### <a id="csharp"></a>C\#
 
-* [codebattle](https://codebattle.hexlet.io/)
-* [Programiz - Online Compiler](https://www.programiz.com/csharp-programming/online-compiler/)
+* [codebattle](https://codebattle.hexlet.io)
+* [Programiz - Online Compiler](https://www.programiz.com/csharp-programming/online-compiler)
 * [SoloLearn](https://code.sololearn.com/csharp)
 
 
@@ -89,7 +89,7 @@
 
 * [Coding Blocks](https://ide.codingblocks.com)
 * [Coding Minutes](https://ide.codingminutes.com)
-* [InterviewBit](https://www.interviewbit.com/online-cpp-compiler/)
+* [InterviewBit](https://www.interviewbit.com/online-cpp-compiler)
 * [LabStack](https://code.labstack.com/cpp)
 * [OnlineGDB](https://www.onlinegdb.com/online_c++_compiler)
 * [SoloLearn](https://code.sololearn.com/cpp)
@@ -119,7 +119,7 @@
 
 ### DevOps
 
-* [KodeKloud](https://kodekloud.com/kodekloud-engineer/)
+* [KodeKloud](https://kodekloud.com/kodekloud-engineer)
 
 
 ### Docker
@@ -147,7 +147,7 @@
 ### Git
 
 * [Git](https://learngitbranching.js.org/?NODEMO)
-* [ohmygit](https://ohmygit.org/)
+* [ohmygit](https://ohmygit.org)
 
 
 ### Go

@@ -167,7 +167,7 @@
 * [CodePen](https://codepen.io)
 * [CSS Battle](https://cssbattle.dev)
 * [CSS Challenges](https://css-challenges.com)
-* [CSSdeck](https://cssdeck.com)
+* [CSS Deck](https://cssdeck.com)
 * [CSS Diner](https://flukeout.github.io)
 * [CSS Speedrun](https://css-speedrun.netlify.app)
 * [Dabblet](https://dabblet.com)

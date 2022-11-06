@@ -415,7 +415,6 @@
 * [An Introduction to Data Science](https://www.udemy.com/course/an-introduction-to-data-science/
 * [Apache Airflow Tutorials](https://www.youtube.com/playlist?list=PLYizQ5FvN6pvIOcOd6dFZu3lQqc6zBGp2) - Tuan Vu (YouTube)
 * [Applied Data Science with Python](https://cognitiveclass.ai/learn/data-science-with-python) - CognitiveClass.ai
-* [Career path for Data Scientist](https://www.mygreatlearning.com/academy/career-paths/data-scientist) - Great Learning
 * [CS250: Python for Data Science](https://learn.saylor.org/course/view.php?id=504) - Saylor Academy
 * [Data Analysis and Visualization](https://www.udacity.com/course/data-analysis-and-visualization--ud404) - Georgia Tech (Udacity)
 * [Data Analysis with Python: Zero to Pandas](https://jovian.ai/learn/data-analysis-with-python-zero-to-pandas) (Jovian)

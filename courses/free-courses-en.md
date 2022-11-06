@@ -440,7 +440,6 @@
 * [More Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/moredataminingwithweka/)
 * [NICO 101 - Introduction to Programming for Big Data](https://github.com/amarallab/Amaral_Lab_Intro_to_Data_Science) - Luis Amaral, Helio Tejedor, Luiz Alves
 * [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-3)
-* [Understanding Data Science](https://app.datacamp.com/learn/courses/data-science-for-everyone?tap_a=5644-dce66f&tap_s=1105403-195eb4&utm_medium=affiliate&utm_source=javinpaul1) - DataCamp
 
 
 ### Databases

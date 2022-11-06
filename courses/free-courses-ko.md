@@ -175,14 +175,15 @@
 ### Linux
 
 * [리눅스 및 커널 프로그래밍](http://www.kocw.net/home/search/kemView.do?kemId=1266434) (금오공대 최태영)
-* [Linux Kernel Basic](https://jihooyim1.gitbooks.io/linuxbasic/content) - Jihoo Yim (gitbook)
 
 
 ### Machine Learning
 
-* [머신러닝/딥러닝 입문](https://www.youtube.com/playlist?list=PLBXuLgInP-5m_vn9ycXHRl7hlsd1huqmS)
+* [머신러닝/딥러닝 입문 youtube playlist](https://www.youtube.com/playlist?list=PLBXuLgInP-5m_vn9ycXHRl7hlsd1huqmS) - 윤인성
+* [모두를 위한 머신러닝/딥러닝 강의](https://hunkim.github.io/ml/) - Sung Kim
 * [파이토치(PyTorch) 튜토리얼 한국어 번역](https://tutorials.pytorch.kr) (HTML) (:construction: *in process* - *번역 진행 중*)
-* [Python tensorflow & 머신러닝 기초 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdAbnmLH9yh03cw9UQU_o7PO)
+* [파이토치로 시작하는 딥러닝 기초](https://www.boostcourse.org/ai214) - boostcourse
+* [Python tensorflow & 머신러닝 기초 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdAbnmLH9yh03cw9UQU_o7PO) (동빈나)
 
 
 ### Mathematics

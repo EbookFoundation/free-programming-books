@@ -10,12 +10,12 @@
 * [C++](#cpp)
 * [Cloud Computing](#cloud-computing)
 * [Compiler Design](#compiler-design)
-* [Database Management Systems](#database-management-systems)
 * [Data Science](#data-science)
 * [Data Structures and Algorithms](#data-structures-and-algorithms)
+* [Database Management Systems](#database-management-systems)
 * [Ethical Hacking](#ethical-hacking)
-* [HTML and CSS](#html-and-css)
-* [Java](#java)
+* [Flutter](#flutter)
+* [HTML and CSS](#html-and-css)* [Java](#java)
 * [Javascript](#javascript)
     * [ExpressJS](#expressjs)
     * [NextJS](#nextjs)
@@ -125,6 +125,18 @@
 * [CSS Tutorials in telugu || CSS in Telugu by Kotha Abhishek](https://www.youtube.com/playlist?list=PLv_sM9ZH4RUVjmxTl5PysFSxJ6VQbdnRc) - Chintu Tutorials
 
 
+### <a id="ds"></a>Data Structures
+
+* [Stacks and Queues in Telugu || Data Structures in Telugu](https://www.youtube.com/playlist?list=PLXj4XH7LcRfBJVCGguyIFbyj__hDSSBm9) - Sudhakar Atchala (YouTube)
+
+
+### Flutter
+
+* [Dart & Flutter Tutorials in Telugu](https://www.youtube.com/playlist?list=PLv_sM9ZH4RUXoDYMCpMwHNHz875lzTRcH) - Kotha Abhishek (Chintu Tutorials)
+* [Dart Tutorial for Flutter in Telugu](https://www.youtube.com/watch?v=TvSK-451TcA) - Sai Gopi (Sai Gopi)
+* [Flutter Andorid App Beginner Tutorials Telugu](https://www.youtube.com/playlist?list=PLbVPygGblyBwT55MkWTpFeBJdyymx1MIV) - Vamshee (codewithvamshee)
+
+
 ### Java
 
 * [Core Java in Telugu Language](https://www.youtube.com/playlist?list=PLacgMXFs7kl8wrP2mPyJgsWVk-FP31qq1) - H Y R Tutorials
@@ -192,10 +204,12 @@
 
 ### Python
 
+* [Free Programming Fundamentals Tutorial - programming బిగినర్స్ ప్రోగ్రామింగ్ in telugu తెలుగు python - Udemy](https://www.udemy.com/course/programming-for-kids-in-telugu) - Saarvani R (Udemy)
 * [Full Python Tutorial in Telugu | Telugu Web Guru](https://www.youtube.com/playlist?list=PLh6Yk2rpZu2JgeekeyLRQcwZsfLNbW8zQ) - Telugu Web Guru
+* [Object oriented programming with python- Telugu Web Guru](https://www.youtube.com/playlist?list=PLh6Yk2rpZu2JgeekeyLRQcwZsfLNbW8zQ) -Telugu Web Guru (You Tube)
 * [Python in Telugu - Step by Step Tutorials](https://www.youtube.com/playlist?list=PLC2mgeYbYNm-3aTUq98pbmrA3P1_m-aJR) - Telugu Computer World
 * [Python in Telugu For Beginners - Complete Tutorial in 10 Hours](https://www.youtube.com/watch?v=fP9IvI4qu80) - Telugu Computer World
-* [Free Programming Fundamentals Tutorial - programming బిగినర్స్ ప్రోగ్రామింగ్ in telugu తెలుగు python - Udemy](https://www.udemy.com/course/programming-for-kids-in-telugu) - Saarvani R (Udemy)
+* [Python in Telugu - Step by Step Tutorials](https://www.youtube.com/playlist?list=PLC2mgeYbYNm-3aTUq98pbmrA3P1_m-aJR) - Telugu Computer World (YouTube)
 
 
 ### R

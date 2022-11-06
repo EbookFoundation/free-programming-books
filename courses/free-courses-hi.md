@@ -60,6 +60,7 @@
 * [All Sorting algorithms and Programs](https://www.youtube.com/playlist?list=PLsFNQxKNzefK_DAUwnQwBizOmcY7aDLoY) - Saurabh Shukla
 * [Binary Search \| Interview Questions \| Coding \| Tutorials \| Algorithm](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2) - Aditya Verma
 * [Binary Trees - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHYxUk8dSu2_G7MR1PaGXN4) - Pepcoding
+* [Bit Manipulation - Level 2](https://youtube.com/playlist?list=PL-Jc9J83PIiFJRioti3ZV7QabwoJK6eKe) - Pepecoding
 * [Data Structures and Algorithms in Python](https://www.youtube.com/playlist?list=PLyMom0n-MBrpakdIZvnhd6PFUCKNAyKo1) - Jovian
 * [Design And Analysis Of Algorithms](https://youtube.com/playlist?list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa) - Gate Smashers
 * [Dynamic Programming Playlist \| Coding \| Interview Questions \| Tutorials \| Algorithm](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go) - Aditya Verma

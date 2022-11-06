@@ -166,10 +166,10 @@
 ### Go
 
 * [cht.sh Go Cheatsheet](https://cht.sh/go/:learn) (HTML)
-* [Go Cheatsheet](https://devhints.io/go) - devhints, Rico Santa Cruz (HTML)
-* [Go Handbook](https://thevalleyofcode.pages.dev/go-handbook.pdf) - Flavio Copes, The Valley of Code (PDF)
-* [Go Cheatsheet](https://products.golangdojo.com/golang-cheat-sheet-by-golang-dojo) - Golang CheatSheet by golang-dojo (PDF)
 * [Go Bangla Cheatsheet](https://devsonket.com/go) - devsonket (HTML)
+* [Go Cheatsheet](https://devhints.io/go) - devhints, Rico Santa Cruz (HTML)
+* [Go Cheatsheet](https://products.golangdojo.com/golang-cheat-sheet-by-golang-dojo) - Golang CheatSheet by golang-dojo (PDF)
+* [Go Handbook](https://thevalleyofcode.pages.dev/go-handbook.pdf) - Flavio Copes, The Valley of Code (PDF)
 
 
 ### GraphQL

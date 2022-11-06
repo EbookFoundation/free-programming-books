@@ -371,7 +371,6 @@
 * [Understanding Data Science](https://app.datacamp.com/learn/courses/data-science-for-everyone?tap_a=5644-dce66f&tap_s=1105403-195eb4&utm_medium=affiliate&utm_source=javinpaul1) - DataCamp
 
 
-
 ### Databases
 
 * [Database Systems](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/) (MIT's opencourseware)
@@ -1031,6 +1030,7 @@
 * [R Programming](https://www.coursera.org/course/rprog)
 * [R Programming Tutorial](https://www.youtube.com/watch?v=_V8eKsto3Ug) - Barton Poulson (freeCodeCamp)
 * [R Tutorial For Beginners \| Edureka](https://www.youtube.com/watch?v=fDRa82lxzaU) - Edureka!
+* [Statistics and R](https://pll.harvard.edu/course/statistics-and-r?delta=0) - Harward University
 
 
 ### Robotics

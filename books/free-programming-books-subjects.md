@@ -286,7 +286,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 
 ### Differential Privacy
 
-* [Programming Differential Privacy](https://programming-dp.com/) - Joseph Near, Chiké Abuah (HTML, PDF)
+* [Programming Differential Privacy](https://programming-dp.com) - Joseph Near, Chiké Abuah (HTML, PDF)
 
 
 ### Game Development

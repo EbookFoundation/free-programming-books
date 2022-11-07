@@ -147,7 +147,7 @@
 
 * [Engenharia de Software - Uma Abordagem Profissional](https://web.icmc.usp.br/SCATUSU/Boletim_aquisicao/Boletim_Julho_2019/capas_julho_2019/Pressman_Engenharia0001.pdf) - Roger S. Pressman, Bruce R. Maxim (PDF)
 * [Engenharia de Software Moderna](https://engsoftmoderna.info) - Marco Tulio Valente (HTML)
-
+* [Engenharia de Software](https://www.facom.ufu.br/~william/Disciplinas%202018-2/BSI-GSI030-EngenhariaSoftware/Livro/engenhariaSoftwareSommerville.pdf) - Ian Sommerville (PDF)
 
 #### Metodologias de Desenvolvimento de Software
 

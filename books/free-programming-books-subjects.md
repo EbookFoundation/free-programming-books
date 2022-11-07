@@ -42,7 +42,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Regular Expressions](#regular-expressions)
 * [Reverse Engineering](#reverse-engineering)
 * [Search Engines](#search-engines)
-* [Security & Privacy](#security-privacy)
+* [Security & Privacy](#security--privacy)
 * [Software Architecture](#software-architecture)
 * [Standards](#standards)
 * [Theoretical Computer Science](#theoretical-computer-science)

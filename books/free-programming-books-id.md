@@ -13,6 +13,7 @@
 * [IDE and editors](#ide-and-editors)
 * [Java](#java)
 * [JavaScript](#javascript)
+    * [Next.js](#nextjs)
     * [React.js](#reactjs)
     * [Vue.js](#vuejs)
 * [Node.js](#nodejs)
@@ -113,6 +114,11 @@
 * [Tutorial Dasar Javascript untuk Pemula](https://www.petanikode.com/tutorial/javascript/) *(Dalam Proses)*
 * [Tutorial JavaScript Modern](https://id.javascript.info) - Ilya Kantor
 * [Tutorial JavaScript Pemrograman Berorientasi Objek](https://www.youtube.com/watch?v=SDROba_M42g) - Programmer Zaman Now
+
+
+#### Next.js
+
+* [Tutorial Next Js](https://santrikoding.com/kategori/next-js) - SantriKoding.com
 
 
 #### Vue.js

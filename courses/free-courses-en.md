@@ -323,6 +323,7 @@
 ### Clojure
 
 * [Clojure language Tutorial - for Beginners](https://www.youtube.com/watch?v=zFPiPBIkAcQ)
+* [Clojure Tutorial](https://www.youtube.com/watch?v=ciGyHkDuPAE) - Derek Banas
 * [Functional Programming with Clojure](http://mooc.fi/courses/2014/clojure/)
 * [Poetry of Programming - Clojure for Beginners](https://youtube.com/playlist?list=PLI-mrGTUXmHXeKhy6UGdDxIKwM8L4MTbq) - Attila EGRI-NAGY
 
@@ -411,6 +412,7 @@
 ### Data Science
 
 * [Advanced Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/advanceddataminingwithweka/)
+* [An Introduction to Data Science](https://www.udemy.com/course/an-introduction-to-data-science/)
 * [Apache Airflow Tutorials](https://www.youtube.com/playlist?list=PLYizQ5FvN6pvIOcOd6dFZu3lQqc6zBGp2) - Tuan Vu (YouTube)
 * [Applied Data Science with Python](https://cognitiveclass.ai/learn/data-science-with-python) - CognitiveClass.ai
 * [CS250: Python for Data Science](https://learn.saylor.org/course/view.php?id=504) - Saylor Academy
@@ -429,7 +431,11 @@
 * [Datavis 2020](https://www.youtube.com/playlist?list=PL9yYRbwpkykuK6LSMLH3bAaPpXaDUXcLV) - Curran Kelleher
 * [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) (Coursera)
 * [Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170) - Udacity
+* [Intro to Data Science](https://www.udacity.com/course/intro-to-data-science--ud359) - Udacity
+* [Introduction to Data Science](https://alison.com/course/introduction-to-data-science-revised) - Alison
+* [Introduction to Data Science](https://www.simplilearn.com/data-science-free-course-for-beginners-skillup) - SkillUp by Simplilearn
 * [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) - Christopher Brooks (Coursera)
+* [Learn Data Science Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=ua-CiDNNj30) - Barton Poulson (FreeCodeCamp.org)
 * [MIT's Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) - Eric Grimson, John Guttag, Ana Bell (MIT OpenCourseWare)
 * [More Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/moredataminingwithweka/)
 * [NICO 101 - Introduction to Programming for Big Data](https://github.com/amarallab/Amaral_Lab_Intro_to_Data_Science) - Luis Amaral, Helio Tejedor, Luiz Alves
@@ -771,6 +777,7 @@
 * [JavaScript Coding Challenges](https://youtube.com/playlist?list=PLgBH1CvjOA63ROz8Wqd7RDD0qpvGXF8x5) - Florin Pop (YouTube)
 * [Javascript course](https://www.youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD) - Hitesh Choudhary
 * [Javascript Essentials](https://www.udemy.com/javascript-essentials/) - Lawrence Turton (Udemy)
+* [Javascript Fundamentals](https://www.udemy.com/course/javascriptfundamentals) - Bharath Thippireddy (Udemy)
 * [JavaScript Mini Course 2020](https://www.udemy.com/course/javascript-essentials-mini-course/) - Kalob Taulien (Udemy)
 * [JavaScript Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET) - The Net Ninja
 * [JavaScript Tutorial for beginners](https://www.youtube.com/watch?v=W6NZfCO5SIk) - Moshfegh Hamedani (Programming with Mosh)
@@ -965,6 +972,7 @@
 
 * [Learn Lua in 15 Minutes](http://tylerneylon.com/a/learn-lua/) - Tyler Neylon (HTML)
 * [Lua Interactive Crash Course](https://web.archive.org/web/20201111225216/luatut.com/crash_course.html)
+* [Lua Tutorial](https://www.youtube.com/watch?v=iMacxZQMPXs) - Derek Banas
 
 
 ### Machine Learning
@@ -996,6 +1004,7 @@
 * [PyTorch tutorials](https://pytorch.org/tutorials) - PyTorch.org
 * [Stanford SEE 229 - Machine Learning](https://see.stanford.edu/Course/CS229)
 * [Stanford University Machine Learning](https://www.coursera.org/learn/machine-learning)
+* [Statistics for Applications](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/) - MIT OpenCourseWare
 * [Understand Machine Learning Engineering by Building Projects](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp) - Alexey Grigorev
 
 

@@ -178,6 +178,7 @@
 ### GraphQL
 
 * [GraphQL Cheat Sheet](https://licor.me/post/graphql) - Chuanrong Li (HTML)
+* [GraphQL Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html) - Jim Manico, Jakub Maćkowski (HTML) 
 * [GraphQL Cheat Sheet](https://simplecheatsheet.com/tag/graphql-cheat-sheet) - Simple Cheat Sheet (HTML)
 * [GraphQL Cheatsheet](https://devhints.io/graphql) - devhints, Rico Santa Cruz (HTML)
 

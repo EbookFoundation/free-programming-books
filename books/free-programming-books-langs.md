@@ -837,7 +837,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 ### GraphQL
 
 * [Fullstack GraphQL](https://github.com/GraphQLCollege/fullstack-graphql)
-* [Learning graphqL](https://riptutorial.com/Download/graphql.pdf) (PDF)
+* [Learning graphqL](https://riptutorial.com/Download/graphql.pdf) - Compiled from StackOverflow Documentation (PDF)
 
 
 ### Groovy
@@ -1373,7 +1373,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 #### Vue.js
 
 * [30 Days Of Vue](https://www.newline.co/30-days-of-vue) - Hassan Djirdeh (HTML; *email required for PDF*)
-* [Learning Vue.js](https://riptutorial.com/Download/vue-js.pdf) (PDF)
+* [Learning Vue.js](https://riptutorial.com/Download/vue-js.pdf) - Compiled from StackOverflow Documentation (PDF)
 * [The Vue.js Handbook](https://flaviocopes.com/page/vue-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
 
 
@@ -1401,7 +1401,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Kotlin Notes for Professionals](https://goalkicker.com/KotlinBook/) - Compiled from StackOverflow documentation (PDF)
 * [Kotlin Official Documentation](https://kotlinlang.org/docs/reference/)
 * [Kotlin Quick Reference](https://kotlin-quick-reference.com) - Alvin Alexander (gitbook)
-* [Learning Kotlin](https://riptutorial.com/Download/kotlin.pdf) (PDF)
+* [Learning Kotlin](https://riptutorial.com/Download/kotlin.pdf) - Compiled from StackOverflow Documentation (PDF)
 
 
 ### LaTeX / TeX
@@ -1516,7 +1516,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 
 ### Lua
 
-* [Learning Lua ebook](https://riptutorial.com/Download/lua.pdf) - Rip Tutorial (Compiled from StackOverflow documentation) (PDF)
+* [Learning Lua ebook](https://riptutorial.com/Download/lua.pdf) - Compiled from StackOverflow Documentation (PDF)
 * [Lua 5.3 Reference Manual](http://www.lua.org/manual/5.3/)
 * [Lua Programming](https://en.wikibooks.org/wiki/Lua_Programming) - Wikibooks
 * [Lua Tutorial](http://www.tutorialspoint.com/lua/) - Tutorials Point (HTML, PDF)
@@ -1957,6 +1957,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Introduction to Scientific Programming with Python](https://library.oapen.org/bitstream/id/56d27e73-e92a-4398-8198-239be7aacc93/2020_Book_IntroductionToScientificProgra.pdf) - Joakim Sundnes (PDF)
 * [Invent Your Own Computer Games With Python](https://inventwithpython.com/invent4thed/) - Al Sweigart (3.4)
 * [Learn Python, Break Python](http://learnpythonbreakpython.com)
+* [Learn Python in Y minutes](https://learnxinyminutes.com/docs/python/) - LearnXinYMinutes (HTML)
 * [Learn Python Programming, Second Edition](https://www.packtpub.com/free-ebooks/learn-python-programming-second-edition) - Fabrizio Romano (Packt account *required*)
 * [Learn Python the Right Way](https://learnpythontherightway.com)
 * [Learn to Program Using Python](https://web.archive.org/web/20201224032210/https://www.ida.liu.se/~732A47/literature/PythonBook.pdf) - Cody Jackson (PDF) *(:card_file_box: archived)*

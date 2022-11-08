@@ -36,7 +36,7 @@
 
 #### React Native
 
-* [REACT NATIVE RAAMISTIKU KASUTAMINE MOBIILIRAKENDUSE UNISPOTTER NÄITEL](https://digikogu.taltech.ee/en/Download/fa57d958-b6eb-4bf9-a39c-ba843f3d4c30) - Roger Kerse
+* [React Native Raamistiku Kasutamine Mobiilirakenduse Unispotter Näitel](https://digikogu.taltech.ee/en/Download/fa57d958-b6eb-4bf9-a39c-ba843f3d4c30) - Roger Kerse
 
 
 ##### Vue 

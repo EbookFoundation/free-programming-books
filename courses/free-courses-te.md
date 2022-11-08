@@ -155,32 +155,32 @@
 
 #### ExpressJS
 
-    * [Express JS In Telugu](https://www.youtube.com/playlist?list=PLxS8q3V3GDdzobKWCoXVYFsXlb5kyq4_N) - WhatsMySugesstion
-    * [Express JS in Telugu | express.js Tutorial for Beginners in Telugu](https://www.youtube.com/watch?v=_jgN80P6YII) - Telugu Skillhub
+* [Express JS In Telugu](https://www.youtube.com/playlist?list=PLxS8q3V3GDdzobKWCoXVYFsXlb5kyq4_N) - WhatsMySugesstion
+* [Express JS in Telugu | express.js Tutorial for Beginners in Telugu](https://www.youtube.com/watch?v=_jgN80P6YII) - Telugu Skillhub
 
 
 #### NextJS
     
-    * [1 What is Next js In Telugu | next js | btech in telugu](https://www.youtube.com/watch?v=9jcX6w1xHJY) - B TECH IN TELUGU
-    * [Next.js Crash Course in Telugu | Next.js in Telugu](https://www.youtube.com/watch?v=yqJlmkgroik) - Telugu Skillhub
+* [1 What is Next js In Telugu | next js | btech in telugu](https://www.youtube.com/watch?v=9jcX6w1xHJY) - B TECH IN TELUGU
+* [Next.js Crash Course in Telugu | Next.js in Telugu](https://www.youtube.com/watch?v=yqJlmkgroik) - Telugu Skillhub
 
 
-    #### NodeJS
+#### NodeJS
 
-    * [NodeJS Tutorial](https://www.youtube.com/watch?v=MY2Vxtfn5Tw) - Telugu Skillhub
-    * [Node JS in Telugu | Node.js Tutorial for Beginners in Telugu](https://www.youtube.com/playlist?list=PLYnehuuSeAHtu27M2By66v6kJpF_oDR5I) - Know something!!!
-
-
-    #### ReactJS
-
-    * [React JS In Telugu](https://www.youtube.com/watch?v=1r79Eqw6tfg) - Telugu Skillhub
-    * [React JS In Telugu (Playlist)](https://www.youtube.com/playlist?list=PLWnZ0qt0PImVaDkDbF96dnRGO0_lXVLKf) - Telugu Skillhub
+* [NodeJS Tutorial](https://www.youtube.com/watch?v=MY2Vxtfn5Tw) - Telugu Skillhub
+* [Node JS in Telugu | Node.js Tutorial for Beginners in Telugu](https://www.youtube.com/playlist?list=PLYnehuuSeAHtu27M2By66v6kJpF_oDR5I) - Know something!!!
 
 
-    #### VueJS
+#### ReactJS
 
-    * [VUE JS IN TELUGU](https://www.youtube.com/playlist?list=PLO7Oa5iXf4Qjd9AjhYSkOoY4aPe1pkKzk) - TeluguTechSteps
-    * [Vue js Tutorials //Vue js tutorial for beginners in Telugu // Easy Learning Channel](https://www.youtube.com/watch?v=JvtuSh5fllA) - Easy Learning Channel
+* [React JS In Telugu](https://www.youtube.com/watch?v=1r79Eqw6tfg) - Telugu Skillhub
+* [React JS In Telugu (Playlist)](https://www.youtube.com/playlist?list=PLWnZ0qt0PImVaDkDbF96dnRGO0_lXVLKf) - Telugu Skillhub
+
+
+#### VueJS
+
+* [VUE JS IN TELUGU](https://www.youtube.com/playlist?list=PLO7Oa5iXf4Qjd9AjhYSkOoY4aPe1pkKzk) - TeluguTechSteps
+* [Vue js Tutorials //Vue js tutorial for beginners in Telugu // Easy Learning Channel](https://www.youtube.com/watch?v=JvtuSh5fllA) - Easy Learning Channel
 
 
 ### Laravel

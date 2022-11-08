@@ -5,7 +5,7 @@
 * [Java](#java)
 * [JavaScript](#javascript)
     * [Vue](#vue)
-    * [React Native](#react native)
+    * [React Native](#react-native)
 * [PHP](#php)
 * [Python](#python)
 * [R](#r)

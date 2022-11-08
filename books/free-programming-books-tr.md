@@ -9,6 +9,7 @@
 * [Git](#git)
 * [Go](#go)
 * [Güvenlik ve Gizlilik](#guvenlik-ve-gizlilik)
+* [Haskell](#haskell)
 * [HTML and CSS](#html-and-css)
 * [iOS](#ios)
 * [Java](#java)
@@ -74,6 +75,11 @@
 ### Güvenlik ve Gizlilik
 
 * [Özgür Yazılım Derneği Güvenlik Rehberi](https://guvenlik.oyd.org.tr) - Filiz Akin, et al.
+
+
+### Haskell
+
+* [Zor Yoldan Haskell](https://github.com/joom/zor-yoldan-haskell) - Yann Esposito,  `trl.:` Joomy Korkut
 
 
 ### HTML and CSS

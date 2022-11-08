@@ -10,6 +10,7 @@
 * [Machine Learning](#machine-learning)
 * [Misc](#misc)
 * [Python](#python)
+* [Sql](#sql)
 
 
 ### Algorithms
@@ -56,6 +57,7 @@
 ### Misc
 
 * [SL3 Framework - Code For Brain](https://web.archive.org/web/20201024204437/https://sl3.app) - Stack Learners *(:card_file_box: archived)*
+* [কেমনে করে সিস্টেম ডিজাইন?](https://imtiaz-hossain-emu.gitbook.io/system-design/) = Imtiaz Hossain Emu
 * [ডেভসংকেত: বাংলা চিটশিটের ভান্ডার](https://devsonket.com) - Devsonket Team
 
 
@@ -64,3 +66,9 @@
 * [পাইথন প্রোগ্রামিং বই](http://pybook.subeen.com) - Tamim Shahriar Subeen
 * [বাংলায় পাইথন](https://python.howtocode.dev) - Nuhil Mehdy
 * [সহজ ভাষায় পাইথন ৩](https://python.maateen.me) - Maksudur Rahman Maateen
+
+
+### Sql
+
+* [এসকিউএল পরিচিতি(SQL Introduction in Bangla)](https://www.sattacademy.com/sql/sql-intro.php) - Satt Academy
+

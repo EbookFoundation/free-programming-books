@@ -8,9 +8,11 @@
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
-* [Machine Learning](#machinelearning)
+* [Machine Learning](#machine-learning)
 * [PHP](#php)
 * [Python](#python)
+* [R](#r)
+* [Solidity](#solidity)
 * [SQL](#sql)
 
 
@@ -34,6 +36,7 @@
 ### <a id="cpp"></a>C++
 
 * [C++ Programming in Tamil](https://youtube.com/playlist?list=PLWbtDrDnmTHBPD-Dt5BJi7iP11x6UvgU0) - CS in Tamil
+* [C++ Programming in Tamil](https://www.youtube.com/playlist?list=PLYM2_EX_xVvUppW1kS91ZNEI20k1V1liI) - Logic First Tamil
 
 
 ### <a id="dsa"></a>Data Structures and Algorithms
@@ -52,12 +55,14 @@ CSE Tamila by Eezytutorials
 ### Java
 
 * [Java Programming in Tamil](https://www.youtube.com/playlist?list=PLWbtDrDnmTHCsK36VMtXasfeo4qQg3Mjo) - CS in Tamil
+* [Java Programming in Tamil](https://www.youtube.com/playlist?list=PLIFRUdRwOM08fR11AtNx674tXpUmgy7lD) - SANTRA TECHSPOT
 * [Learn Java in Tamil](https://youtube.com/playlist?list=PLYM2_EX_xVvVXm005Gt5unmqW6GGMjHxa) - Logic First Tamil
 
 
 ### JavaScript
 
 * [Javascript (ES6) Tutorials in Tamil](https://youtube.com/playlist?list=PLB8qmogP8oMwFdeaeThAbsR9Vh-873SWb) - Coda - Programming In Tamil
+* [JavaScript Crash Course From Scratch to Advanced in Tamil](https://www.youtube.com/playlist?list=PLyYcNnaAVG5IIyPjuzWOgqFxDORHqRN2W) - selva tutorials
 * [Javascript Full Course in Tamil - in Depth Javascript Tutorials in Tamil](https://youtube.com/playlist?list=PLpYn3LR7eQI3hjh129Bkqkw7onut28hTK) - Tamil Developer
 * [JavaScript in Tamil](https://youtube.com/playlist?list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa) - CyberDude Networks Pvt. Ltd.
 
@@ -66,18 +71,31 @@ CSE Tamila by Eezytutorials
 
 * [Introduction to Machine Learning(Tamil)](https://www.youtube.com/playlist?list=PLyqSpQzTE6M-9thAeyB2mRFYvvW8AWxXX) - IIT Madras NPTEL
 * [Machine Learning in Tamil](https://www.youtube.com/playlist?list=PLJtSFa-YIedYu2QfQaHJJBLT096RxtMHD) - Majaa Matrix
+* [Machine Learning in Tamil](https://youtube.com/playlist?list=PL5itdT07Pm8wxRaPWljPntnBmnOs4ExDM) - Nithya Duraisamy
 
 
 ### PHP
 
 * [PHP for beginners In Tamil](https://youtube.com/playlist?list=PL4unWLKFsZfcq_D-sEy0pR4Sl_yipy6Jt) - Tutor Joe's Stanley
+* [PHP in Tamil](https://www.youtube.com/playlist?list=PLmjuBlzAWCzz8Timg5RP6c-JMemYWRXvV) - Collectiva Knowledge Academy
 * [PHP Tutorial In Tamil](https://youtube.com/playlist?list=PL4unWLKFsZfdrMitLmm8N-idlYQkSCvT9) - Tutor Joe's Stanley
 
 
 ### Python
 
 * [Python in Tamil for Beginners](https://youtube.com/playlist?list=PLA2UBjeRwle3OLO3qmXTbmCvuTlqhHRVb) - GURUKULA
+* [Python Programming in Tami](https://www.youtube.com/playlist?list=PLWbtDrDnmTHBdEnUKuLNdH2-zKSDD8OA4) - CS in Tamil
 * [Python Tutorial in Tamil](https://youtube.com/playlist?list=PLIFRUdRwOM0_hcLruKbsHWnU5P2uLBgsp) - SANTRA TECHSPOT
+
+
+### R
+
+* [R Tutorial in Tamil](https://youtube.com/playlist?list=PL4unWLKFsZfeGbK28rfPDeDDD_OJGjMCC) - Tutor Joe's Stanley
+
+
+### Solidity
+
+* [Solidity tutorial for complete beginners](https://youtube.com/playlist?list=PLl2NTvGeqw2ZRNLU25-yodXK86EXWV6on) - Ork
 
 
 ### SQL

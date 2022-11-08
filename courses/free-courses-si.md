@@ -8,7 +8,6 @@
     * [React](#react)
 
 
-
 ### ASP.NET Core
 
 * [WEB API-ASP.NET Core in Sinhala](https://youtube.com/playlist?list=PLvvtf05eMZ2CpeAsq93DqWJHHyvCSa2Qn) - Fiqri Ismail

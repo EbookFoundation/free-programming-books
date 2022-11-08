@@ -64,8 +64,8 @@
 ### SQL
 
 * [Andmebaaside alused](https://enos.itcollege.ee/~priit/1.%20Andmebaasid/1.%20Loengumaterjalid/) - IT-Kolledži õppematerjal
-* [SQL päringute koostamine, analüüsimine  ja optimeerimine](https://comserv.cs.ut.ee/home/files/Ivanova_Informaatika_2017.pdf?study=ATILoputoo&reference=C408CC06DE4620A985CDF60C2678C97AE45017AB) - Anastassia Ivanova (PDF)
 * [SQL päringud ühetabelilisel andmebaasil](https://sisu.ut.ee/ajalooandmebaasid/sql-p%C3%A4ringud) - Tartu Ülikooli õppematerjal
+* [SQL päringute koostamine, analüüsimine  ja optimeerimine](https://comserv.cs.ut.ee/home/files/Ivanova_Informaatika_2017.pdf?study=ATILoputoo&reference=C408CC06DE4620A985CDF60C2678C97AE45017AB) - Anastassia Ivanova (PDF)
 
 
 ### WebGL

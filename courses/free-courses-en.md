@@ -549,6 +549,7 @@
 * [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=pTFZFxd4hOI) - Programming with Mosh!
 * [Docker Tutorial for Beginners](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBkvpSIgwchk0glHLz7CQ-7) - Thenewboston
 * [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=fqMOX6JJhGo) - Mumshad Mannambeth (freeCodeCamp)
+* [Docker Tutorial for Beginners - What is Docker? Introduction to Containers](https://www.youtube.com/watch?v=17Bl31rlnRM) - Kunal Kushwaha
 * [Docker Tutorial for Beginners \[FULL COURSE in 3 Hours\]](https://www.youtube.com/watch?v=3c-iBn73dDE) - TechWorld with Nana
 * [Docker Tutorial for Beginners \| Full Course \[2021\]](https://www.youtube.com/watch?v=p28piYY_wv8) - Amigoscode
 * [Docker Tutorial Videos \| DevOps Tool](https://www.youtube.com/playlist?list=PL9ooVrP1hQOHUKuqGuiWLQoJ-LD25KxI5) - edureka!
@@ -649,6 +650,7 @@
 * [Gophercises: Free Coding Exercises for Budding Gophers](https://gophercises.com) - Jon Calhoun (email address *required*)
 * [Learn Go \| Learn Go Programming](https://golangr.com) - golangr.com
 * [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU) - Michael Van Sickle (freeCodeCamp)
+* [Learn Go Programming by Building 11 Projects – Full Course](https://www.youtube.com/watch?v=jFfo23yIWac) - Akhil Sharma  (FreeCodeCamp)
 * [Let's go with golang](https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa) - Hitesh Choudhary
 
 

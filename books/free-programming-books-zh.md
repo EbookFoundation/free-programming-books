@@ -90,7 +90,6 @@
 * [Git - 简易指南](https://rogerdudler.github.io/git-guide/index.zh.html) - Roger Dudler, `trl.:` 罗杰·杜德勒 (HTML)
 * [Git 参考手册](http://gitref.justjavac.com) - CHEN Yangjian
 * [Git-Cheat-Sheet](https://github.com/flyhigher139/Git-Cheat-Sheet) - flyhigher139
-* [Git Community Book 中文版](http://gitbook.liuhui998.com) - Scott Chacon, `trl:` Liu Hui
 * [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html) - Daniel Kummer, et al.
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/) - Ben Lynn, `trl.:` 俊杰, 萌和江薇, et al. (HTML)
 * [Git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000) - 廖雪峰
@@ -328,6 +327,7 @@
 * [100个gcc小技巧](https://github.com/hellogcc/100-gcc-tips/blob/master/src/index.md)
 * [100个gdb小技巧](https://github.com/hellogcc/100-gdb-tips/blob/master/src/index.md)
 * [简单易懂的C魔法](https://web.archive.org/web/20210413213859/http://www.nowamagic.net/librarys/books/contents/c) *(:card_file_box: archived)*
+* [現代 C++ 101](https://hackmd.io/@Luminous-Coder/CppTutorial-zh-tw) - Luminous-Coder (:construction: *in process*)
 * [像计算机科学家一样思考（C++版)](http://www.ituring.com.cn/book/1203) (《How To Think Like a Computer Scientist: C++ Version》中文版)
 * [C 语言编程透视](https://tinylab.gitbooks.io/cbook/content/)
 * [C/C++ Primer](https://github.com/andycai/cprimer) - andycai
@@ -607,7 +607,6 @@
 
 ### PHP
 
-* [深入理解 PHP 内核](http://www.php-internals.com/book/)
 * [CodeIgniter 使用手冊](https://web.archive.org/web/20210624143822/https://codeigniter.org.tw/userguide3/) *(:card_file_box: archived)*
 * [Composer中文文档](http://docs.phpcomposer.com)
 * [Phalcon7中文文档](https://web.archive.org/web/20220330065727/myleftstudio.com/) *(:card_file_box: archived)*

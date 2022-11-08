@@ -1,6 +1,7 @@
 ### Index
 
 * [0 - Language Agnostic](#0---language-agnostic)
+    * [Архитектура приложений](#Архитектура-приложений)
     * [Облачные Вычисления](#Облачные-вычисления)
     * [Парадигмы Программирования](#Парадигмы-программирования)
     * [Работа c cетью](#Работа-с-сетью)
@@ -76,9 +77,7 @@
 
 ### 0 - Language Agnostic
 
-* [3D-моделирование в Blender](https://younglinux.info/blender.php) - C. Шапошникова
 * [Введение в методы машинной обработки данных](https://mkurnosov.net/docs/dsa-book-2020.pdf) - Курносов М.Г. (PDF)
-* [Занимательное программирование. Самоучитель](http://padabum.com/x.php?id=35055) - Мозговой М.В. (PDF)
 * [Операционные системы](https://vseloved.github.io/pdf/os-ru.pdf) - Всеволод Дёмкин (PDF)
 * [Параллельные технологии](http://www.inp.nsk.su/~baldin/Parallel/index.html)
 * [Программирование: введение в профессию](http://stolyarov.info/books/programming_intro) - Столяров Андрей Викторович (PDF)
@@ -91,6 +90,11 @@
 * [Scrum и XP: заметки с передовой](http://scrum.org.ua/wp-content/uploads/2008/12/scrum_xp-from-the-trenches-rus-final.pdf) (PDF)
 
 
+#### Архитектура приложений
+
+* [The API](https://twirl.github.io/The-API-Book/index.ru.html) - Сергей Константинов (HTML, PDF, EPUB)
+
+
 #### Облачные вычисления
 
 * [Программирование Cloud Native. Микросервисы, Docker и Kubernetes](https://ipsoftware.ru/books/cloud-k8s/) - Иван Портянкин (PDF, EPUB, MOBI)
@@ -101,6 +105,7 @@
 
 * [Введение в функциональное программирование](http://funprog-ru.github.io) - John Harrison
 * [Практика функционального программирования](https://www.fprog.ru) - журнал
+* [Рефакторинг на максималках](https://github.com/bespoyasov/refactor-like-a-superhero-online-book/blob/main/manuscript-ru/README.md) - Александр Беспоясов
 
 
 #### Работа с сетью
@@ -130,7 +135,6 @@
 
 * [Ассемблер в Linux для программистов C](https://ru.wikibooks.org/wiki/Ассемблер_в_Linux_для_программистов_C) - Викиучебник
 * [Ассемблер для чайников](http://av-assembler.ru/asm/afd/assembler-for-dummy.htm)
-* [Микропроцессоры и вычислительные комплексы семейства "Эльбрус"](http://www.mcst.ru/doc/book_121130.pdf) (PDF)
 * [Программирование на языке ассемблера NASM для ОС Unix](http://www.stolyarov.info/books/pdf/nasm_unix.pdf) - Андрей Столяров (PDF)
 
 

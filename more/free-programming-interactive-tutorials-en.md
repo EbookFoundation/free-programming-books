@@ -15,6 +15,7 @@
 * [Git](#git)
 * [GLSL](#glsl)
 * [Go](#go)
+* [GraphQL](#graphql)
 * [Haskell](#haskell)
 * [HTML and CSS](#html-and-css)
     * [Bootstrap](#bootstrap)
@@ -39,6 +40,7 @@
 * [PHP](#php)
 * [PostgreSQL](#postgresql)
 * [Python](#python)
+    * [Jupyter](#jupyter)
 * [R](#r)
 * [Regular Expressions](#regular-expressions)
 * [Ruby](#ruby)
@@ -123,6 +125,7 @@
 * [Data Science Foundations](https://skillsbuild.org/students/course-catalog/data-science) - IBM SkillBuild *(email address required)*
 * [Data Science Tutorial](https://www.w3schools.com/datascience/default.asp) - W3Schools
 * [Essential Linear Algebra for Data Science and Machine Learning](https://www.kdnuggets.com/2021/05/essential-linear-algebra-data-science-machine-learning.html) - KDnuggets
+* [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/) - Dan Margalit, Joseph Rabinoff (HTML, PDF)
 * [Top 10 Data Science Projects for Beginners - KDnuggets](https://www.kdnuggets.com/2021/06/top-10-data-science-projects-beginners.html)
 
 
@@ -156,6 +159,11 @@
 * [Learn Go](https://www.codecademy.com/learn/learn-go) - Google, Robert Griesemer, Rob Pike, and Ken Thompson (Codecademy) *(account required)*
 * [Start using Go](https://docs.microsoft.com/en-us/learn/paths/go-first-steps/) - Microsoft
 * [The Go Tutorial](http://tour.golang.org)
+
+
+### GraphQL
+
+* [Apollo Odyssey](https://www.apollographql.com/tutorials/)
 
 
 ### Haskell
@@ -193,6 +201,7 @@
 * [Bootstrap 5 Tutorial](https://www.w3schools.com/bootstrap5/) - W3Schools
 * [Bootstrap Tutorial](https://www.tutlane.com/tutorial/bootstrap) - tutlane
 * [Front End Development Libraries Certification: Bootstrap](https://www.freecodecamp.org/learn/front-end-libraries/bootstrap) - freeCodeCamp
+* [Get started with Bootstrap](https://getbootstrap.com/docs) - Bootstrap
 
 
 ### Java
@@ -218,6 +227,7 @@
 * [JavaScript Tutorial](https://www.scaler.com/topics/javascript/) - Scaler Topics
 * [Javascripting](https://github.com/sethvincent/javascripting)
 * [Learn JavaScript](http://www.learn-js.org)
+* [Learn JavaScript](https://learnjavascript.online)
 * [Learn knockout.js](http://learn.knockoutjs.com)
 * [Learn to Code for Free – Grasshopper](https://grasshopper.app)
 * [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
@@ -350,6 +360,13 @@
 * [Python Tutorial](https://www.w3schools.com/python) - W3Schools
 * [Python Tutorial](https://www.scaler.com/topics/python/) - Scaler Topics
 * [Scientific Computing with Python Certification](https://www.freecodecamp.org/learn/scientific-computing-with-python/) - freeCodeCamp
+
+
+### Jupyter
+
+* [Data-Quest](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) - Benjamin Pryke 
+* [Jupyter](https://docs.jupyter.org)
+* [Learn Jupyter](https://jupyter-notebook.readthedocs.io) - Read the Docs
 
 
 ### R

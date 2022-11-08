@@ -4,7 +4,6 @@
 * [C Sharp](#c-sharp)
 * [Java](#java)
 * [JavaScript](#javascript)
-    * [Angular](#angular)
     * [Vue](#vue)
     * [React Native](#react native)
 * [PHP](#php)
@@ -34,17 +33,16 @@
 
 * [JavaScript](http://puhang.tpt.edu.ee/raamatud/JavaScript_konspekt.pdf) - Jüri Puhang (PDF)
 
-##### Angular
-
-* [Angular](http://www.cs.tlu.ee/teemad/get_file.php?id=400) - Tallinna Ülikooli õppematerjal
 
 #### React Native
 
 * [REACT NATIVE RAAMISTIKU KASUTAMINE MOBIILIRAKENDUSE UNISPOTTER NÄITEL](https://digikogu.taltech.ee/en/Download/fa57d958-b6eb-4bf9-a39c-ba843f3d4c30) - Roger Kerse
 
+
 ##### Vue 
 
 * [Vue](http://www.cs.tlu.ee/teemaderegister/get_file.php?id=715) - Tallinna ülikooli õppematerjal
+
 
 ### PHP
 

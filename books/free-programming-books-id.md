@@ -13,6 +13,7 @@
 * [IDE and editors](#ide-and-editors)
 * [Java](#java)
 * [JavaScript](#javascript)
+    * [Next.js](#nextjs)
     * [React.js](#reactjs)
     * [Vue.js](#vuejs)
 * [Node.js](#nodejs)
@@ -115,6 +116,11 @@
 * [Tutorial JavaScript Pemrograman Berorientasi Objek](https://www.youtube.com/watch?v=SDROba_M42g) - Programmer Zaman Now
 
 
+#### Next.js
+
+* [Tutorial Next Js](https://santrikoding.com/kategori/next-js) - SantriKoding.com
+
+
 #### Vue.js
 
 * [Belajar Vue.js](https://variancode.com/belajar-vue-js/) - Varian Hermianto
@@ -184,6 +190,7 @@
 * [Dasar Pengenalan Pemrograman Python](https://play.google.com/store/books/details/Rolly_Maulana_Awangga_Dasar_dasar_Python?id=YpzDDwAAQBAJ) - Rolly Maulana AwanggaRayhan *(Membutuhkan akun Google Play Books atau email yang valid)*
 * [Kursus Singkat Machine Learning dengan TensorFlow API](https://developers.google.com/machine-learning/crash-course?hl=id)
 * [Python Untuk Pemula](https://santrikoding.com/ebook/python-untuk-pemula) - Rizqi Maulana
+* [Tutorial Dasar Pemrograman Python](https://www.petanikode.com/tutorial/python/) - Petani Kode, Ahmad Muhardian
 * [Tutorial Python](https://docs.python.org/id/3.8/tutorial/)
 * [Workshop Python 101](http://sakti.github.io/python101/)
 

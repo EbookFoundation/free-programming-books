@@ -598,9 +598,9 @@
 * [Build a Personal Website with Dash](https://dash.generalassemb.ly)
 * [Build a Quiz App with HTML, CSS, and JavaScript](https://www.udemy.com/course/build-a-quiz-app-with-html-css-and-javascript) - James Quick (Udemy)
 * [Build a responsive website with Webflow](https://www.bloc.io/tutorials/webflow-tutorial-design-responsive-sites-with-webflow)
-* [Build Responsive Web Design - Interactive Tutorial](https://www.freecodecamp.org/learn/2022/responsive-web-design) - FreeCodeCamp
 * [Build a SaaS landing page using Skeleton](https://www.bloc.io/tutorials/jottly-a-beginner-s-guide-to-html-css-skeleton-and-animate-css)
 * [Build Dynamic Websites](https://web.archive.org/web/20210812200413/http://cs75.tv/2010/fall/) - David J. Malan [(YouTube)](https://www.youtube.com/playlist?list=PLvJoKWRPIu8GhAhDBAH0BFB9BS7YxM1WT)
+* [Build Responsive Web Design - Interactive Tutorial](https://www.freecodecamp.org/learn/2022/responsive-web-design) - FreeCodeCamp
 * [Code Your First Game: Arcade Classic in JavaScript on Canvas](https://www.udemy.com/code-your-first-game/) - Chris DeLeon (Udemy)
 * [Complete HTML/CSS BootCamp](https://frontendmasters.com/bootcamp/) - FrontEnd Masters
 * [Conquering freeCodeCamp's Curriculum](https://youtube.com/playlist?list=PLgBH1CvjOA62oNEVgz-dECiCZCE_Q3ZFH) - Florin Pop (YouTube)

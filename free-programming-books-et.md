@@ -4,8 +4,9 @@
 * [C Sharp](#c-sharp)
 * [Java](#java)
 * [JavaScript](#javascript)
-    * [Vue](#vue)
+    * [AngularJS](#angularjs)
     * [React Native](#react-native)
+    * [Vue](#vue)
 * [PHP](#php)
 * [Python](#python)
 * [R](#r)
@@ -51,6 +52,7 @@
 
 ### Python
 
+* [Programmeerimise õpik](https://progeopik.cs.ut.ee) - Tartu Ülikooli Arvutiteaduse Instituut
 * [Pyglet](https://www.etera.ee/zoom/59563/view?page=1&p=separate) - Videomängu arendamine Pythoni multimeedia teegi pyglet näitel
 * [Pythoni algteadmised](https://courses.cs.ut.ee/MTAT.03.100/2012_fall/uploads/opik/00_eessona.html) - Tartu Ülikooli Arvutiteaduse Instituut
 * [Pythoni wikiraamat](https://et.wikibooks.org/wiki/Python) - Wikiõpikud

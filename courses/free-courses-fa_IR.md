@@ -42,8 +42,8 @@
 
 ### HTML and CSS
 
-* [آموزش html](https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-html-mk1263) - محمدحسین سیدآقایی
 * [آموزش css](https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-css-mk1265) - محمدحسین سیدآقایی
+* [آموزش html](https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-html-mk1263) - محمدحسین سیدآقایی
 
 
 ### Java

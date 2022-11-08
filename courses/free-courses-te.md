@@ -159,7 +159,7 @@
     * [Express JS in Telugu | express.js Tutorial for Beginners in Telugu](https://www.youtube.com/watch?v=_jgN80P6YII) - Telugu Skillhub
 
 
-    #### NextJS
+#### NextJS
     
     * [1 What is Next js In Telugu | next js | btech in telugu](https://www.youtube.com/watch?v=9jcX6w1xHJY) - B TECH IN TELUGU
     * [Next.js Crash Course in Telugu | Next.js in Telugu](https://www.youtube.com/watch?v=yqJlmkgroik) - Telugu Skillhub

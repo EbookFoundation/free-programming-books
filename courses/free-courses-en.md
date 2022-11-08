@@ -1146,6 +1146,7 @@
 * [Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org)
 * [Learn Python For Free](https://scrimba.com/learn/python) - Olof Paulson (Scrimba)
 * [Learn Python From Scratch](https://www.udemy.com/learn-python-from-scratch-w/) - MD. Hasanur Rahaman Hasib (Udemy)
+* [Learn Python Programming](https://www.programiz.com/python-programming) - Programiz
 * [Learn Python Programming - Python Course](https://www.youtube.com/watch?v=f79MRyMsjrQ) - Programming With Mosh
 * [Learn Python Tutorial](https://www.kaggle.com/learn/python) (Kaggle)
 * [Learn to program in Python](https://www.codecademy.com/learn/python)

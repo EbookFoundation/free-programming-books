@@ -111,6 +111,8 @@
 
 
 ### Flutter
+
+* [Criando seu primeiro App com Flutter](https://balta.io/cursos/criando-seu-primeiro-app-com-flutter) - Andre Baltieri (balta.io)
 * [Curso Arquitetura no Flutter - 2022](https://www.youtube.com/playlist?list=PLRpTFz5_57cvCYRhHUui2Bis-5Ybh78TS) - Deivid Willyan (YouTube)
 * [Curso COMPLETO de Flutter](https://youtube.com/playlist?list=PLlBnICoI-g-d-J57QIz6Tx5xtUDGQdBFB) - Flutterando (YouTube)
 * [Curso Flutter Básico \[NV1\] - 2022](https://www.youtube.com/playlist?list=PLRpTFz5_57cvo0CHf-AnojOvpznz8YO7S) - Deivid Willyan (YouTube)
@@ -367,6 +369,8 @@
 
 
 #### Angular
+
+* [Começando com Angular](https://balta.io/cursos/comecando-com-angular) - Andre Baltieri (balta.io)
 * [Curso Angular 9](https://www.youtube.com/playlist?list=PLdPPE0hUkt0rPyAkdhHIIquKbwrGUkvw3) - Cod3r (YouTube)
 * [Curso de Angular](https://loiane.training/curso/angular/) - Loiane Groner
 

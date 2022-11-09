@@ -382,7 +382,7 @@
 
 ### Salesforce
 
-* [Salesforce Solutioning] (https://www.pluralsight.com/courses/play-by-play-diagramming-salesforce-solutions by Matthew Morris and Don Robins)
+* [Salesforce Solutioning](https://www.pluralsight.com/courses/play-by-play-diagramming-salesforce-solutions) - Matthew Morris and Don Robins
 
 
 ### Scala

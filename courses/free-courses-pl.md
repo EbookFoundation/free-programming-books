@@ -18,6 +18,8 @@
 
 ### 0 - Niezależne od języka programowania
 * [OSDev](https://www.youtube.com/playlist?list=PLGhEqiD7wAd5D-fe-Qz027_1yAH3rFMYF) - Gynvael Coldwind
+
+
 ### Assembly Language
 
 * [Gynvael's Asm (PL)](https://www.youtube.com/playlist?list=PL7CA8FE35B665D4DD) - Gynvael Coldwind

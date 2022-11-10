@@ -22,7 +22,6 @@
 ### Go
 
 * [ภาษา Go ตอน 1 ติดตั้ง และ Run Hello World](https://medium.com/odds-team/%E0%B8%AA%E0%B8%A3%E0%B8%B8%E0%B8%9B%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%9E%E0%B8%B7%E0%B9%89%E0%B8%99%E0%B8%90%E0%B8%B2%E0%B8%99%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2-go-%E0%B9%81%E0%B8%9A%E0%B8%9A-step-by-step-%E0%B8%88%E0%B8%B2%E0%B8%81-course-pre-ultimate-go-by-p-yod-%E0%B8%95%E0%B8%AD%E0%B8%99-1-%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87-%E0%B9%81%E0%B8%A5%E0%B8%B0-d9ac7913e9a4) - Chaiyarin Niamsuwan
-* [An Introduction to programming in Go](https://www.dropbox.com/sh/is3hwdqa1dpsb99/AACb9QvxPEUo1Z-tD0Nz2KNZa?dl=0) - Caleb Doxsey
 * [A Tour of Go](https://go-tour-th.appspot.com/tour/list) - พลัฏฐ์ อัญชลีชไมกร
 
 
@@ -46,6 +45,5 @@
 
 ### Python
 
-* [Programming Expert with Python](https://drive.google.com/file/d/0B6N6HcO5p2-9ck50d3d4bG9MRnc/view?usp=sharing&resourcekey=0-T1LaEEp7tQANUSx7iNYgpA) -  ผศ.ดร.สุชาติ คุ้มมะณี
 * [Python ๑๐๑](https://www.cp.eng.chula.ac.th/books/python101/) - กิตติภณ พละการ, กิตติภพ พละการ, สมชาย ประสิทธิ์จูตระกูล, สุกรี สินธุภิญโญ
-* [Python Programming for Networking and Security](https://drive.google.com/drive/folders/1zRR4KAS0H_Kn5_PVYTIGCRPEALO6R2SO?fbclid=IwAR2RBY1d-3_q1_7YzEPZgjRlInParIrIu6uQfXQ2cwmI2HIsKIP7grj2F5k) - ผศ.ดร.สุชาติ คุ้มมะณี
+* [Python Programming for Networking and Security](https://www.mebmarket.com/ebook-216597-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%81%E0%B8%81%E0%B8%A3%E0%B8%A1%E0%B9%84%E0%B8%9E%E0%B8%98%E0%B8%AD%E0%B8%99%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%A3%E0%B8%B0%E0%B8%9A%E0%B8%9A%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B8%AD%E0%B8%82%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%9B%E0%B8%A5%E0%B8%AD%E0%B8%94%E0%B8%A0%E0%B8%B1%E0%B8%A2-Python-Programming-for-Networking-and-Security?fbclid=IwAR31YnSXlslGcjCEvwdhSEf8tI1LXm9e9bjwVNnb6F2kHYGAynFoUHoLxeU) - ผศ.ดร.สุชาติ คุ้มมะณี

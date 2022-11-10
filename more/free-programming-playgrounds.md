@@ -23,6 +23,7 @@
     * [AngularJS](#angularjs)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
+* [Multiple Languages](#multiple-languages)
 * [.Net](#dotnet)
 * [Nim](#nim)
 * [Node.js](#nodejs)
@@ -105,6 +106,11 @@
 
 * [DartPad](https://dartpad.dev)
 * [Replit](https://replit.com/languages/dart)
+
+
+### DevOps
+
+* [KodeKloud](https://kodekloud.com/kodekloud-engineer/)
 
 
 ### Docker
@@ -206,6 +212,11 @@
 * [Play with Kubernetes](https://labs.play-with-k8s.com)
 
 
+### Multiple Languages
+
+* [CodeChef](https://www.codechef.com/ide)
+
+
 ### <a id="dotnet"></a>.NET
 
 * [.NET Fiddle](https://dotnetfiddle.net)
@@ -220,6 +231,7 @@
 
 * [Hello Node - (Glitch)](https://glitch.new/node) *(Account requested, not required)*
 * [Ideone](https://ideone.com)
+* [MDX Playground](https://mdxjs.com/playground)
 * [SoloLearn](https://code.sololearn.com/nodejs)
 
 
@@ -342,6 +354,7 @@
 
 * [Playground](https://www.typescriptlang.org/play/index.html)
 * [StackBlitz](https://stackblitz.com/fork/typescript)
+* [TypeScript: TS Playground](https://www.typescriptlang.org/play)
 
 
 #### Angular

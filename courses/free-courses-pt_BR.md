@@ -126,6 +126,7 @@
 
 ### Git
 
+* [Curso de Git](https://www.youtube.com/playlist?list=PLucm8g_ezqNq0dOgug6paAkH0AQSJPlIe) - Bóson Treinamentos
 * [Curso de Git e GitHub: grátis, prático e sem usar comandos no terminal](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA) - Gustavo Guanabara (YouTube)
 * [Git e contribuições para projetos Open Source](https://www.udemy.com/course/git-e-github/) - Bruno Orlandi (Udemy)
 * [Git e Github para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/) - Willian Justen de Vasconcellos (Udemy)
@@ -138,6 +139,7 @@
 * [Curso de Introdução a Linguagem Go (Golang)](https://www.youtube.com/playlist?list=PLXFk6ROPeWoAvLMyJ_PPfu8oF0-N_NgEI) - EuProgramador (YouTube)
 * [Curso Golang](https://www.youtube.com/playlist?list=PL3IMfVHTpXw14FL_TRIdHfeYTeOet1GS9) - Universo Mainframe (YouTube)
 * [Go - Aprenda a Programar (Curso)](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg) - Ellen Körbes (YouTube)
+* [Go 101 (Curso)](https://www.youtube.com/playlist?list=PLHPgIIn9ls6-1l7h8RUClMKPHi4NoKeQF) - Tiago Temporin
 
 
 ### Gulp
@@ -171,6 +173,7 @@
 
 ### Ionic
 
+* [Curso IONIC 6 🚀 - De 0 a PRO](https://www.youtube.com/playlist?list=PLsngLoGbAagFEG-jwlpPhGsLzMSQ0tadP) - Randy Varela
 * [Desenvolvimento com Ionic 3 + WebComponents com StencilJS](https://www.udemy.com/ionic-3-e-webcomponents-com-stenciljs/) - Gabriel Barreto (Udemy)
 * [Ionic 3 para iniciantes](https://www.udemy.com/ionic-3-para-iniciantes/) - Charles dos Santos França (Udemy)
 
@@ -222,6 +225,7 @@
 ### Kotlin
 
 * [Aprenda Kotlin do zero - Módulo Básico](https://www.udemy.com/kotlin-aprenda-do-zero-modulo-basico/) - Pedro Massango (Udemy)
+* [Curso de Kotlin - Básico](https://www.youtube.com/playlist?list=PLlGFv5gh9fBIJ8SEaQ_AKon-uenAlUbjE) - Rapadura Dev
 * [Curso de Kotlin 2020 \| Básico](https://www.youtube.com/playlist?list=PLPs3nlHFeKTr-aDDvUxU971rPSVTyQ6Bn) - Douglas Motta (YouTube)
 * [Curso de Kotlin 2021](https://www.youtube.com/playlist?list=PL9dOBCBB2d-hhioxKoL6ODVILWcWuas8b) - Devaria (YouTube)
 * [Desenvolvedor Kotlin Iniciante](https://www.udemy.com/desenvolvedor-kotlin-iniciante/) - Gabriel Ferrari, Adriano Sacardo (Udemy)
@@ -343,6 +347,7 @@
 ### React Native
 
 * [Aprenda React Native](https://www.youtube.com/playlist?list=PL8fIRnD1uUSnRqz3E2caAWDqbtIFXmNtW) - Canal Geek Dev (YouTube)
+* [Curso React Native (aprendiz)](https://www.youtube.com/playlist?list=PLdDT8if5attEd4sRnZBIkNihR-_tE612_) - One Bit Code
 
 
 ### Ruby

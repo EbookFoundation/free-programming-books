@@ -1,6 +1,7 @@
 ### Index
 
 * [Algoritmalar](#algoritmalar)
+* [C#](#c-sharp)
 * [HTML and CSS](#html-and-css)
 * [IDE and editors](#ide-and-editors)
 * [Java](#java)
@@ -13,9 +14,17 @@
 
 ### Algoritmalar
 
+* [Algoritma Analizi](https://www.youtube.com/playlist?list=PLh9ECzBB8tJPTWIUbZjHZMMGuZcpHUv5h) - BilgisayarKavramlari
 * [Algoritmalara giriş](https://acikders.tuba.gov.tr/course/view.php?id=133) - Charles Leiserson / Erik Demaine (Çev. Ali Yazıcı - Haluk Ar)
 * [Algoritmaları Anlamak](https://www.youtube.com/playlist?list=PLR_3k5Bkz0SBA9PoV6DrxpghD7pqPScGJ) - Fatih Özkaynak
 * [On Derste Algoritma ve Programlama](https://www.youtube.com/playlist?list=PLKnjBHu2xXNNiJdlhiEl_RMkK0PbJ1_DB) - Murat Yücedağ
+
+
+### <a id='c-sharp'></a>C#
+
+* [C# Başlangıç ve İleri Düzey Eğitimi \| Console Dersleri \| Form Dersleri](https://www.youtube.com/playlist?list=PLURN6mxdcwL960S-bRuf1F6K09yzNjgcn) - Enes Bayram
+* [C# Dersleri](https://www.youtube.com/playlist?list=PLKnjBHu2xXNPkeQtMOJczzEO6LK5OV35K) - Murat Yücedağ
+* [C# Dersleri \| Visual Studio 2022 ile C# Programlama \| C# Giriş](https://www.youtube.com/playlist?list=PLi1BmHvgBkxIYweLR52cRJnit4AEEugn4) - Yazılım Teknolojileri Akademisi
 
 
 ### HTML and CSS
@@ -37,6 +46,7 @@
 * [JavaScript Dersleri](https://javascript.sitesi.web.tr) - Murat Eliçalişkan
 * [JavaScript Dersleri](https://www.youtube.com/playlist?list=PLdYLIhwDacdFC-Yrz7hscxwmOpuhnMigs) - Mustafa Filiz
 * [JavaScript Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx6PqKkqSPwph57HNN4RWgR2) - Hakan Yalçınkaya \| Kodluyoruz
+* [JavaScript Programlama Dersleri](https://www.youtube.com/playlist?list=PLXuv2PShkuHws6qBQiX1fwEdBA25XOze-) - Sadık Turan
 
 
 ### Java

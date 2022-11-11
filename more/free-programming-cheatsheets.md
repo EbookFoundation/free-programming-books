@@ -193,13 +193,14 @@
 * [CSS Grid Cheatsheet](https://css-tricks.com/snippets/css/complete-guide-grid/) - Chris House (HTML)
 * [FLEX: A simple visual cheatsheet for flexbox](https://flexbox.malven.co) - Chris Malven (HTML)
 * [GRID: A simple visual cheatsheet for CSS Grid Layout](https://grid.malven.co) - Chris Malven (HTML)
+* [Flexbox pattern cheatsheet](https://flexbox-pattern-cheatsheet.kevinpowell.co) - Kevin Powell (PDF, email address *requested*)
 * [HTML & CSS Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/) - Emmet Documentation (HTML, [PDF]( https://docs.emmet.io/cheatsheet-a5.pdf))
 * [HTML CheatSheet](https://htmlcheatsheet.com) - htmlcheatsheet.com (HTML, [PDF](https://htmlcheatsheet.com/HTML-Cheat-Sheet.pdf))
 * [HTML Cheatsheet](https://www.codewithharry.com/blogpost/html-cheatsheet/) - CodeWithHarry (HTML)
 * [SCSS CheatSheet](https://devhints.io/sass) - devhints, Rico Santa Cruz (HTML)
 * [SEO CheatSheet](https://learn-the-web.algonquindesign.ca/topics/seo-cheat-sheet/) - Algonquin Design (HTML)
 
-* [Flexbox pattern cheatsheet](https://flexbox-pattern-cheatsheet.kevinpowell.co) - Kevin Powell (PDF)
+
 
 ### IDE and editors
 

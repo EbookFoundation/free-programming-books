@@ -20,7 +20,6 @@ This page is available as an easy-to-read website. Access it by clicking on [![h
   </form>
 </div>
 
-
 ## Intro
 
 This list was originally a clone of [StackOverflow - List of Freely Available Programming Books](https://web.archive.org/web/20140606191453/http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926) with contributions from Karan Bhangui and George Stocker.
@@ -58,14 +57,16 @@ Click on these badges to see how you might be able to help:
 
 </div>
 
-
 ## How to Share
 
-+ [Share on Twitter](http://twitter.com/intent/tweet?text=https://github.com/EbookFoundation/free-programming-books%0AFree%20Programming%20Books)
-+ [Share on Facebook](https://www.facebook.com/share.php?u=https%3A%2F%2Fgithub.com%2FEbookFoundation%2Ffree-programming-books&p[images][0]=&p[title]=Free%20Programming%20Books&p[summary]=)
-+ [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/EbookFoundation/free-programming-books&title=Free%20Programming%20Books&summary=&source=)
-+ [Share on Telegram](https://t.me/share/url?url=https://github.com/EbookFoundation/free-programming-books)
+<div align="left" markdown="1">
 
+<a href="http://twitter.com/intent/tweet?text=https://github.com/EbookFoundation/free-programming-books%0AFree%20Programming%20Books">Share on Twitter</a><br>
+<a href="https://www.facebook.com/share.php?u=https%3A%2F%2Fgithub.com%2FEbookFoundation%2Ffree-programming-books&p[images][0]=&p[title]=Free%20Programming%20Books&p[summary]=">Share on Facebook</a><br>
+<a href="http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/EbookFoundation/free-programming-books&title=Free%20Programming%20Books&summary=&source=">Share on LinkedIn</a><br>
+<a href="https://t.me/share/url?url=https://github.com/EbookFoundation/free-programming-books">Share on Telegram</a><br>
+
+</div>
 
 ## Resources
 
@@ -77,7 +78,6 @@ This project lists books and other resources grouped by genres:
 
 [English, By Subject](books/free-programming-books-subjects.md)
 
-
 #### Other Languages
 
 + [Arabic / al arabiya / العربية](books/free-programming-books-ar.md)
@@ -87,6 +87,7 @@ This project lists books and other resources grouped by genres:
 + [Burmese / မြန်မာဘာသာ](books/free-programming-books-my.md)
 + [Chinese / 中文](books/free-programming-books-zh.md)
 + [Czech / čeština / český jazyk](books/free-programming-books-cs.md)
++ [Catalan / catalan/ català](books/free-programming-books-ca.md)
 + [Danish / dansk](books/free-programming-books-da.md)
 + [Dutch / Nederlands](books/free-programming-books-nl.md)
 + [Estonian / eesti keel](books/free-programming-books-et.md)
@@ -120,20 +121,18 @@ This project lists books and other resources grouped by genres:
 + [Ukrainian / Українська](books/free-programming-books-uk.md)
 + [Vietnamese / Tiếng Việt](books/free-programming-books-vi.md)
 
-
 ### Cheat Sheets
 
 + [All Languages](more/free-programming-cheatsheets.md)
-
 
 ### Free Online Courses
 
 + [Arabic / al arabiya / العربية](courses/free-courses-ar.md)
 + [Bengali / বাংলা](courses/free-courses-bn.md)
 + [Bulgarian / български](courses/free-courses-bg.md)
-+ [Chinese](courses/free-courses-zh.md)
++ [Chinese / 中文](courses/free-courses-zh.md)
 + [English](courses/free-courses-en.md)
-+ [Finnish](courses/free-courses-fi.md)
++ [Finnish / suomi / suomen kieli](courses/free-courses-fi.md)
 + [French / français](courses/free-courses-fr.md)
 + [German / Deutsch](courses/free-courses-de.md)
 + [Greek / ελληνικά](courses/free-courses-el.md)
@@ -147,6 +146,7 @@ This project lists books and other resources grouped by genres:
 + [Korean / 한국어 [韓國語]](courses/free-courses-ko.md)
 + [Malayalam / മലയാളം](courses/free-courses-ml.md)
 + [Nepali / नेपाली](courses/free-courses-ne.md)
++ [Norwegian / Norsk](courses/free-courses-no.md)
 + [Persian / Farsi (Iran) / فارسى](courses/free-courses-fa_IR.md)
 + [Polish / polski / język polski / polszczyzna](courses/free-courses-pl.md)
 + [Portuguese (Brazil)](courses/free-courses-pt_BR.md)
@@ -156,6 +156,7 @@ This project lists books and other resources grouped by genres:
 + [Spanish / español / castellano](courses/free-courses-es.md)
 + [Swedish / svenska](courses/free-courses-sv.md)
 + [Tamil / தமிழ்](courses/free-courses-ta.md)
++ [Telugu / తెలుగు](courses/free-courses-te.md)
 + [Thai / ภาษาไทย](courses/free-courses-th.md)
 + [Turkish / Türkçe](courses/free-courses-tr.md)
 + [Ukrainian / Українська](courses/free-courses-uk.md)
@@ -183,6 +184,7 @@ Free Podcasts and Screencasts:
 + [Arabic / al Arabiya / العربية](casts/free-podcasts-screencasts-ar.md)
 + [Chinese / 中文](casts/free-podcasts-screencasts-zh.md)
 + [Czech / čeština / český jazyk](casts/free-podcasts-screencasts-cs.md)
++ [Dutch / Nederlands](casts/free-podcasts-screencasts-nl.md)
 + [English](casts/free-podcasts-screencasts-en.md)
 + [Finnish / Suomi](casts/free-podcasts-screencasts-fi.md)
 + [French / français](casts/free-podcasts-screencasts-fr.md)
@@ -197,6 +199,7 @@ Free Podcasts and Screencasts:
 + [Spanish / español / castellano](casts/free-podcasts-screencasts-es.md)
 + [Swedish / Svenska](casts/free-podcasts-screencasts-sv.md)
 + [Turkish / Türkçe](casts/free-podcasts-screencasts-tr.md)
++ [Ukrainian / Українська](casts/free-podcasts-screencasts-uk.md)
 
 
 ### Programming Playgrounds

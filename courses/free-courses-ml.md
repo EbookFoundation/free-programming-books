@@ -4,6 +4,7 @@
 * [Bash and Shell](#bash-and-shell)
 * [C](#c)
 * [C++](#cpp)
+* [Compiler Design](#compiler-design)
 * [Data Structure](#data-structure)
 * [Flutter](#flutter)
 * [Git](#git)
@@ -13,6 +14,7 @@
 * [JavaScript](#javascript)
     * [Node.js](#nodejs)
     * [React](#react)
+* [Kotlin](#kotlin)
 * [PHP](#php)
 * [Python](#python)
     * [Django](#django)
@@ -33,11 +35,17 @@
 
 * [C programming malayalam tutorial](https://youtube.com/playlist?list=PL1JrLEBAapUXh0dSzCk3dvQtGmjT9fBBj) - Yes Tech Media
 * [C programming for beginners in malayalam quarantine learning programming malayalam](https://youtube.com/playlist?list=PLBKJGko2JEdEVpp5vyyfKYdv3r2GC777i) - Tintu Vlogger
+* [C Programming](https://www.youtube.com/playlist?list=PLwe8bwPXjlLtUxDFwafx_XvheCUmrP2cM) - Learn CSE Malayalam (YouTube)
 
 
 ### <a id="cpp"></a>C++
 
 * [C++ Malayalam Tutorial Full](https://youtube.com/playlist?list=PL1JrLEBAapUXVcHV3rO-g-N4gBHcBe2c-) - Yes Tech Media
+
+
+### Compiler Design
+
+* [Compiler Design](https://www.youtube.com/playlist?list=PLwe8bwPXjlLtPlbzxU_SICYI3PeYpEAtJ) -  Learn CSE Malayalam (YouTube)
 
 
 ### Data Structure
@@ -92,6 +100,12 @@
 * [React Challenge](https://youtube.com/playlist?list=PLY-ecO2csVHfgVM9sChmUirqK7BXUBX9P) - Brototype Malayalam
 * [React JS - Malayalam Tutorial - by Yes Tech Media](https://youtube.com/playlist?list=PL1JrLEBAapUX44d5zzl0hf7vX7caSCidT) - Yes Tech Media
 * [React js malayalam tutorial](https://youtube.com/playlist?list=PL4KwFGqvN4nuKJ3bJSP-LcchabWJtPtE8) - Debug Media
+
+
+### Kotlin
+
+* [Kotlin Malayalam | Kotlin programming Tutorials for android malayalam](https://www.youtube.com/playlist?list=PLaP7lUdqAGYPpEutAk6o1jKC08Rc5xMXs) - CODEAVIAL (YouTube)
+* [Kotlin / Android App Development](https://www.youtube.com/playlist?list=PLefF9wgiOa4WFRP4IvRCZre7xLjRkJdlQ) - Nikin Sk (YouTube)
 
 
 ### PHP

@@ -72,6 +72,7 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
   - [आचार संहिता](CODE_OF_CONDUCT-np.md) 
   - [How-to](HOWTO-np.md) 
 - Norwegian / Norsk
+  - [How-to](HOWTO-no.md)
 - Persian / Farsi (Iran) / فارسى
   - [مرام‌نامه‌ی](CODE_OF_CONDUCT-fa_IR.md)
   - [Contributing](CONTRIBUTING-fa_IR.md)

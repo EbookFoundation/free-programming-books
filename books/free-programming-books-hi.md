@@ -21,8 +21,6 @@
 
 * [C in Hindi \| Hindi](https://onlineaavedan.com/study_material/1543909480.pdf) - Kuldeep Chand (PDF)
 
-* [Python](#py)
-
 
 ### <a id="cpp"></a>C++
 

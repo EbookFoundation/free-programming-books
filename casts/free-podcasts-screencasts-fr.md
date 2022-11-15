@@ -26,4 +26,4 @@
 * [Message à caractère informatique](https://www.clever-cloud.com/fr/podcast) (podcast)
 * [NoLimitSecu](https://www.nolimitsecu.fr) (podcast)
 * [Programmez!](https://podcast.ausha.co/poddev) magazine Programmez! (podcast)
-* [SaaS Club](https://podcast.ausha.co/saas-club) Les recettes françaises du logiciel service (podcast)
+* [SaaS Club](https://podcast.ausha.co/saas-club) - Les recettes françaises du logiciel service (podcast)

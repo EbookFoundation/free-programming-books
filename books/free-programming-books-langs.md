@@ -2403,12 +2403,13 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Developing Time-Oriented Database Applications in SQL](https://www2.cs.arizona.edu/~rts/tdbbook.pdf) - Richard T. Snodgrass (PDF)
 * [Essential SQL](https://www.programming-books.io/essential/sql) - Krzysztof Kowalczyk and  Stack Overflow Documentation project (HTML)
 * [Introduction to SQL](https://github.com/bobbyiliev/introduction-to-sql) - Bobby Iliev (Markdown, PDF)
-* [SQL For Web Nerds](http://philip.greenspun.com/sql/)
+* [Oracle8i Concepts: Chapter 15 - SQL and PL/SQL](https://docs.oracle.com/cd/A87860_01/doc/server.817/a76965/c14sqlpl.htm#5943) - Lefty Leverenz, Diana Rehfield, Cathy Baird (HTML)
+* [SQL For Web Nerds](http://philip.greenspun.com/sql/) - Philip Greenspun (HTML)
 * [SQL Notes for Professionals](http://goalkicker.com/SQLBook/) - Compiled from StackOverflow Documentation (PDF)
-* [SQL Queries Succinctly](https://www.syncfusion.com/ebooks/sql_queries_succinctly) - Nick Harrison
+* [SQL Queries Succinctly](https://www.syncfusion.com/ebooks/sql_queries_succinctly) - Nick Harrison (PDF)
 * [SQL Tutorial](https://www.scaler.com/topics/sql/) - Scaler
-* [SQLite Tutorial](https://www.tutorialspoint.com/sqlite/)
-* [Use The Index, Luke!: A Guide To SQL Database Performance](http://use-the-index-luke.com)
+* [SQLite Tutorial](https://www.tutorialspoint.com/sqlite/) (HTML, PDF)
+* [Use The Index, Luke!: A Guide To SQL Database Performance](https://use-the-index-luke.com) - Markus Winand (HTML)
 
 
 ### SQL Server

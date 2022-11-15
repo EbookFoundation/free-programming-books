@@ -15,7 +15,7 @@
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
 * [Linux](#linux)
-\* [.NET Framework](#net-framework)
+* [.NET Framework](#net-framework)
 * [Python](#python)
     * [Django](#django)
 * [R](#r)

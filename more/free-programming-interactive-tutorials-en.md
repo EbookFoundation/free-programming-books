@@ -15,6 +15,7 @@
 * [Git](#git)
 * [GLSL](#glsl)
 * [Go](#go)
+* [GraphQL](#graphql)
 * [Haskell](#haskell)
 * [HTML and CSS](#html-and-css)
     * [Bootstrap](#bootstrap)
@@ -39,6 +40,7 @@
 * [PHP](#php)
 * [PostgreSQL](#postgresql)
 * [Python](#python)
+    * [Jupyter](#jupyter)
 * [R](#r)
 * [Regular Expressions](#regular-expressions)
 * [Ruby](#ruby)
@@ -123,6 +125,7 @@
 * [Data Science Foundations](https://skillsbuild.org/students/course-catalog/data-science) - IBM SkillBuild *(email address required)*
 * [Data Science Tutorial](https://www.w3schools.com/datascience/default.asp) - W3Schools
 * [Essential Linear Algebra for Data Science and Machine Learning](https://www.kdnuggets.com/2021/05/essential-linear-algebra-data-science-machine-learning.html) - KDnuggets
+* [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/) - Dan Margalit, Joseph Rabinoff (HTML, PDF)
 * [Top 10 Data Science Projects for Beginners - KDnuggets](https://www.kdnuggets.com/2021/06/top-10-data-science-projects-beginners.html)
 
 
@@ -156,6 +159,11 @@
 * [Learn Go](https://www.codecademy.com/learn/learn-go) - Google, Robert Griesemer, Rob Pike, and Ken Thompson (Codecademy) *(account required)*
 * [Start using Go](https://docs.microsoft.com/en-us/learn/paths/go-first-steps/) - Microsoft
 * [The Go Tutorial](http://tour.golang.org)
+
+
+### GraphQL
+
+* [Apollo Odyssey](https://www.apollographql.com/tutorials/)
 
 
 ### Haskell
@@ -203,6 +211,7 @@
 * [Java Tutorial](https://www.w3schools.com/java) - W3Schools
 * [Java Tutorial](https://www.scaler.com/topics/java/) - Scaler Topics
 * [Learn Java](http://www.learnjavaonline.org)
+* [Learn Java](https://www.javatpoint.com/java-tutorial) - Java T Point
 * [Learneroo Java tutorial](https://www.learneroo.com/modules/11)
 
 
@@ -219,6 +228,7 @@
 * [JavaScript Tutorial](https://www.scaler.com/topics/javascript/) - Scaler Topics
 * [Javascripting](https://github.com/sethvincent/javascripting)
 * [Learn JavaScript](http://www.learn-js.org)
+* [Learn JavaScript](https://learnjavascript.online)
 * [Learn knockout.js](http://learn.knockoutjs.com)
 * [Learn to Code for Free – Grasshopper](https://grasshopper.app)
 * [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
@@ -343,6 +353,7 @@
 * [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html)
 * [Learn Python](http://www.learnpython.org)
 * [Learn Python Step by Step](http://www.techbeamers.com/python-tutorial-step-by-step)
+* [Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python) - FreeCodeCamp
 * [Python for Everybody - Interactive](https://runestone.academy/runestone/books/published/py4e-int/index.html) - Barbara Ericson
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
 * [Python Pandas Tutorial: A Complete Introduction for Beginners](https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/) - George McIntire, Brendan Martin, Lauren Washington
@@ -351,6 +362,13 @@
 * [Python Tutorial](https://www.w3schools.com/python) - W3Schools
 * [Python Tutorial](https://www.scaler.com/topics/python/) - Scaler Topics
 * [Scientific Computing with Python Certification](https://www.freecodecamp.org/learn/scientific-computing-with-python/) - freeCodeCamp
+
+
+### Jupyter
+
+* [Data-Quest](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) - Benjamin Pryke 
+* [Jupyter](https://docs.jupyter.org)
+* [Learn Jupyter](https://jupyter-notebook.readthedocs.io) - Read the Docs
 
 
 ### R

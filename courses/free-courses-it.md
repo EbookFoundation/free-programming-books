@@ -37,12 +37,12 @@
 
 ### Android
 
-* [Corso Java - Android](https://www.youtube.com/playlist?list=PL0qAPtx8YtJeqmBWbE1Rbac2QWHoPCjR2) - F. Camuso (YouTube)
+* [Corso Java - Android](https://www.youtube.com/playlist?list=PL0qAPtx8YtJeqmBWbE1Rbac2QWHoPCjR2) - Fabrizio Camuso (YouTube)
 
 
 ### Algoritmi e Strutture Dati
 
-* [AlgoMOOC - Algoritmi quotidiani](https://www.youtube.com/playlist?list=PLjTV6y5YWc5HNnLyXkzUe9IlkG2n6guxU) - A. Bogliolo
+* [AlgoMOOC - Algoritmi quotidiani](https://www.youtube.com/playlist?list=PLjTV6y5YWc5HNnLyXkzUe9IlkG2n6guxU) - Alessandro Bogliolo
 * [Algoritmi e Programmazione (C)](https://www.youtube.com/playlist?list=PLUFFnpJdi99nqESTPaxlPMOF7yEEb8_sS) - P. Camurati, G. Cabodi, Politecnico di Torino
 * [Algoritmi e Strutture Dati](https://www.youtube.com/playlist?list=PLO4y9a8lTpK2TViOKbk-NjDBvL4RXDwYY) - R. Grossi, Università di Pisa
 
@@ -50,7 +50,7 @@
 ### Architettura degli Elaboratori
 
 * [Architettura degli Elaboratori](https://www.youtube.com/playlist?list=PLhEwqlL10MqMYYiR5NqMblyyQr1ss-b8q) - A. Sperduti, Università di Padova
-* [CArcMOOC - Computer Architecture UniurbIT](https://www.youtube.com/playlist?list=PLjTV6y5YWc5H2fefaz78qCeSKWj-k_-pY) - A. Bogliolo, Università di Urbino
+* [CArcMOOC - Computer Architecture UniurbIT](https://www.youtube.com/playlist?list=PLjTV6y5YWc5H2fefaz78qCeSKWj-k_-pY) - Alessandro Bogliolo, Università di Urbino
 
 
 ### Assembly
@@ -71,24 +71,24 @@
 
 ### <a id="cpp"></a>C++
 
-* [C++ 11](https://www.youtube.com/playlist?list=PL0qAPtx8YtJfZpJD7uFxAXglkiHSEhktG) - F. Camuso
-* [C++ libreria QT - playlist 1](https://www.youtube.com/playlist?list=PL0qAPtx8YtJdH4GVwL_3QeJjPcz3DHE2t) - F. Camuso
+* [C++ 11](https://www.youtube.com/playlist?list=PL0qAPtx8YtJfZpJD7uFxAXglkiHSEhktG) - Fabrizio Camuso
+* [C++ libreria QT - playlist 1](https://www.youtube.com/playlist?list=PL0qAPtx8YtJdH4GVwL_3QeJjPcz3DHE2t) - Fabrizio Camuso
 
 
 ### Database
 
 * [Basi di Dati](https://www.youtube.com/playlist?list=PLAQopGWlIcyZ7CN1sefdnCusfoodLP931) - T. Catarci, Università La Sapienza di Roma
-* [Corso progettazione database](https://www.youtube.com/playlist?list=PL0qAPtx8YtJcJPSV4sOfhLtPbtQ-yycFH) - F. Camuso
+* [Corso progettazione database](https://www.youtube.com/playlist?list=PL0qAPtx8YtJcJPSV4sOfhLtPbtQ-yycFH) - Fabrizio Camuso
 
 
 #### SQL
 
-* [Corso SQL](https://www.youtube.com/playlist?list=PLE555DB6188C967AC) - F. Camuso
+* [Corso SQL](https://www.youtube.com/playlist?list=PLE555DB6188C967AC) - Fabrizio Camuso
 
 
 ### Delphi
 
-* [Videocorso Delphi/Lazarus](https://www.youtube.com/playlist?list=PLF75FB30719A09FA2) - F. Camuso
+* [Videocorso Delphi/Lazarus](https://www.youtube.com/playlist?list=PLF75FB30719A09FA2) - Fabrizio Camuso
 
 
 ### DevOps
@@ -100,24 +100,26 @@
 
 #### Arduino
 
-* [Arduino Cookbook - Corso di Arduino (400+ video)](https://www.youtube.com/playlist?list=PL9_01HM23dGEDNNfR6BtlDWD8DDoAcLOT) - P. Aliverti
+* [Arduino Cookbook - Corso di Arduino (400+ video)](https://www.youtube.com/playlist?list=PL9_01HM23dGEDNNfR6BtlDWD8DDoAcLOT) - Paolo Aliverti
 * [Corso Arduino 2014](https://www.youtube.com/playlist?list=PLA27EZBY5vePO9T6YP3rH8LTTdylz69VE) - POuL Politecnico di Milano
 
 
 ### Generale
 
 * [Automi e Linguaggi Formali](https://www.youtube.com/playlist?list=PLhEwqlL10MqNz1pA7R5jnB_gsMIhDOe5X) - Davide Bresolin, Gilberto Filè, Università di Padova
+* [Concetti di Informatica](https://www.youtube.com/playlist?list=PLCbSCJEIR6CpTx_nIWA3N3TEdyoRBzWCt) - Mauro Cicolella
 * [Fondamenti di Informatica](https://www.youtube.com/playlist?list=PLUL1bzfXcbX3g2cIcTFdmvj5yawQtUOxJ) - C. De Stefano, Università di Cassino e del Lazio Meridionale
-* [Informatica](https://didattica.polito.it/pls/portal30/sviluppo.videolezioni.vis?cor=232) - M. Mezzalama, Politecnico di Torino
+* [Informatica](https://didattica.polito.it/pls/portal30/sviluppo.videolezioni.vis?cor=232) - Marco Mezzalama, Politecnico di Torino
 * [Informatica di Base - Corso intensivo](https://www.youtube.com/playlist?list=PLG31HS6yEI8dv6TUmv9w0W6YmEAQm0P2q) - G. Pellegrini Parisi
 * [Informatica I - Modelli dell'Informatica](https://www.youtube.com/playlist?list=PLAQopGWlIcyalkb2baN9mnotsdBm5Vbkc) - A. Marchetti Spaccamela, Università La Sapienza di Roma
 * [Sistemi di Calcolo](https://www.youtube.com/playlist?list=PLAQopGWlIcybT12h7fjVvlGAeSqOKDnTA) - C. Demetrescu, Università La Sapienza di Roma
-* [Teoria dell'informazione](https://www.youtube.com/playlist?list=PL0qAPtx8YtJeGo5g4Esi7tm6kHPRivkvb) - F. Camuso
+* [Teoria dell'informazione](https://www.youtube.com/playlist?list=PL0qAPtx8YtJeGo5g4Esi7tm6kHPRivkvb) - Fabrizio Camuso
 
 
 ### Java
 
 * [Corso di Java Spring Framework](https://www.youtube.com/playlist?list=PLCbSCJEIR6CqgCLyVzqp49xOm8A5YDTKA) - Mauro Cicolella
+* [Corso di JPA Java Persistence API](https://www.youtube.com/playlist?list=PLCbSCJEIR6Co1aPvFfPuIsRGouF9D0Jk3) - Mauro Cicolella
 * [Design Patterns in Java](https://www.youtube.com/playlist?list=PLCbSCJEIR6Cq-ac90TGvJ8Wo8TtyZ4nhu) - Mauro Cicolella
 * [Esercitazioni di Spring Boot](https://www.youtube.com/playlist?list=PLCbSCJEIR6CpGchit9OCI6fX_qVYs78d_) - Mauro Cicolella
 * [Java EE](https://www.youtube.com/playlist?list=PLjGYWJ4Dcy-erfReHXB9Ush0cREGSmyIe) - Sonia Zorba
@@ -126,30 +128,31 @@
 
 ### JavaScript
 
-* [Corso base di Javascript](https://www.youtube.com/playlist?list=PLFLSwyN4GsWmcBvMr5tzsJy9TI8DbfWC5) - S. Tocci
+* [Corso base di Javascript](https://www.youtube.com/playlist?list=PLFLSwyN4GsWmcBvMr5tzsJy9TI8DbfWC5) - Simona Tocci
 * [Corso di JavaScript](https://www.youtube.com/playlist?list=PLG5caACNVwzpIhlLACNZd6BvABWv_Ti4I) - Lacerba
-* [Corso Javascript (ES6)](https://www.youtube.com/playlist?list=PL0qAPtx8YtJceyk5_NpNvLbbkrmfX9kkw) - F. Camuso
+* [Corso Javascript (ES6)](https://www.youtube.com/playlist?list=PL0qAPtx8YtJceyk5_NpNvLbbkrmfX9kkw) - Fabrizio Camuso
+* [Corso Javascript Completo 2022](https://www.youtube.com/playlist?list=PLP5MAKLy8lP9FUx06-avV66mS8LXz7_Bb) - Edoardo Midali
 
 
 #### Vue.js
 
-* [Vue 2.x (corso base)](https://www.youtube.com/playlist?list=PL0qAPtx8YtJdUH44fvkzVxy9waP23I_bE) - F. Camuso
+* [Vue 2.x (corso base)](https://www.youtube.com/playlist?list=PL0qAPtx8YtJdUH44fvkzVxy9waP23I_bE) - Fabrizio Camuso
 
 
 ### Machine Learning
 
-* [Machine Learning in italiano col Pollo Watzlawick](https://www.youtube.com/playlist?list=PLa-sizbCyh93c0nSPAb8k5ZZeOq4SBIl9) - P. Savastano
+* [Machine Learning in italiano col Pollo Watzlawick](https://www.youtube.com/playlist?list=PLa-sizbCyh93c0nSPAb8k5ZZeOq4SBIl9) - Piero Savastano
 
 
 ### Misto
 
-* [Api Rest vs GraphQL: La mini-serie per gli impazienti](https://www.youtube.com/playlist?list=PL2zaZp2LZxlv2XxmLm4dGP1tHfMjj7-kN) - D. Balinzo
+* [Api Rest vs GraphQL: La mini-serie per gli impazienti](https://www.youtube.com/playlist?list=PL2zaZp2LZxlv2XxmLm4dGP1tHfMjj7-kN) - Dario Balinzo
 * [Programmazione Basic Commodore 64](https://www.youtube.com/playlist?list=PLCbSCJEIR6CrVT003ytijkO6kUrCT9VIT) - Mauro Cicolella
 
 
 ### Mobile
 
-* [DART & FLUTTER (per il mobile)](https://www.youtube.com/playlist?list=PL0qAPtx8YtJftaLnIroe7q9udsc9_qg6x) - F. Camuso
+* [DART & FLUTTER (per il mobile)](https://www.youtube.com/playlist?list=PL0qAPtx8YtJftaLnIroe7q9udsc9_qg6x) - Fabrizio Camuso
 
 
 ### Networking
@@ -160,13 +163,14 @@
 ### Pascal
 
 * [Corso di programmazione in Pascal](https://www.youtube.com/playlist?list=PLO4y9a8lTpK1DS45Wljy0l5rMtVNIesRJ) - R. Rizzi, Università di Verona
-* [Videocorso Pascal (Turbo e FPC)](https://www.youtube.com/playlist?list=PLC98ABC853EAEFD7F) - F. Camuso
+* [Videocorso Pascal (Turbo e FPC)](https://www.youtube.com/playlist?list=PLC98ABC853EAEFD7F) - Fabrizio Camuso
 
 
 ### Python
 
 * [Corso Python 2016](https://www.youtube.com/playlist?list=PLA27EZBY5veOa-dbNIetJvyrAuoVy4zDD) - POuL Politecnico di Milano
-* [Corso rapido Python per principianti e per esempi](https://www.youtube.com/playlist?list=PL0qAPtx8YtJdbiBCoj4j6x_Ai6Vu9j5r9) - F. Camuso
+* [Corso rapido Python per principianti e per esempi](https://www.youtube.com/playlist?list=PL0qAPtx8YtJdbiBCoj4j6x_Ai6Vu9j5r9) - Fabrizio Camuso
+* [Le Basi di Python - Corso Completo](https://www.programmareinpython.it/video-corso-python-base/) - Michele Saba
 
 
 ### Programmazione
@@ -183,7 +187,7 @@
 
 ### Sistemi Informativi
 
-* [Sistemi Informativi Aziendali](https://didattica.polito.it/pls/portal30/sviluppo.videolezioni.vis?cor=233) - F. Corno, Politecnico di Torino
+* [Sistemi Informativi Aziendali](https://didattica.polito.it/pls/portal30/sviluppo.videolezioni.vis?cor=233) - Fulvio Corno, Politecnico di Torino
 
 
 ### Sistemi Operativi
@@ -212,7 +216,7 @@
 ### Web
 
 * [Computer grafica 2017/2018](https://www.youtube.com/playlist?list=PLUFFnpJdi99kXjntQ0LNPnLbRLjKzmQaC) - A. Bottino, Politecnico di Torino
-* [Progettazione di applicazioni Web](https://www.youtube.com/playlist?list=PLE0AA1735F10543A6) - F. Corno, S. Di Carlo, Politecnico di Torino
+* [Progettazione di applicazioni Web](https://www.youtube.com/playlist?list=PLE0AA1735F10543A6) - Fulvio Corno, S. Di Carlo, Politecnico di Torino
 
 
 ### Workshop

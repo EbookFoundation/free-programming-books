@@ -56,6 +56,7 @@ Durch Deine Mitwirkung verpflichtest Du Dich, dem [Verhaltenskodex](CODE_OF_COND
 - Vermerke das Datum der Veröffentlichung im Titel, wenn es sich um ein älteres Buch handelt.
 - Erfasse gegebenenfalls den Namen des oder der Autoren. Eine längere Liste von Autoren kann mit dem Zusatz "`et al.`" gekürzt werden.
 - Wenn das Buch noch nicht fertiggestellt ist und sich noch in Bearbeitung befindet, füge wie [unten](#in_process) beschrieben einen "`in process`" Hinweis hinzu.
+- if a resource is restored using the [*Internet Archive's Wayback Machine*](https://web.archive.org) (or similar), add the "`archived`" notation, as described [below](#archived). The best versions to use are recent and complete.
 - Wenn eine funktionierende E-Mail Adresse oder das Einrichten eines Benutzerkontos vor Aktivierung des Downloads erbeten wird, sollten angemessene Hinweise in Klammern angegeben werden, z.&nbsp;B.: `(E-Mail Adresse *erbeten*, nicht erforderlich)`.
 
 
@@ -134,6 +135,12 @@ Beispiel:
     RICHTIG: * [Wird bald ein tolles Buch sein](http://example.com/book2.html) - John Doe (HTML) *(:construction: in Bearbeitung)*
     ```
 
+- <a id="archived"></a>Archived link:
+
+    ```text
+    RICHTIG: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
+    ```
+
 ### Alphabetische Sortierung
 
 - Wenn mehrere Titel mit demselben Buchstaben beginnen, sortiere sie nach dem zweiten Buchstaben und so weiter. Zum Beispiel folgt `ab` nach `aa`.
@@ -171,9 +178,17 @@ Unsere Listen enthalten einen minimalen Satz an Metadaten: Titel, URLs, Autoren,
 ##### Urheber
 
 - Wir wollen alle Urheber kostenloser Inhalte angemessen nennen, inklusive eventueller Übersetzer!
-- For übersetzte Werke sollte der Autor des ursprünglichen Werks genannt werden.
+- For übersetzte Werke sollte der Autor des ursprünglichen Werks genannt werden. We recommend using [MARC relators](https://loc.gov/marc/relators/relaterm.html) to credit creators other than authors, as in this example:
+
+    ```markdown
+    * [A Translated Book](http://example.com/book-de.html) - John Doe, `trl.:` Mike The Translator
+    ```
+
+    here, the annotation `trl.:` uses the MARC relator code for "translator".
+- Use a comma `,` to delimit each item in the author list.
+- You can shorten author lists with "`et al.`".
 - Wir erlauben keine Links für Urheber.
-- Für Sammlungen oder neu zusammengestellte Werke, benötigt der "Urheber" eventuell eine Beschreibung. Bücher von "GoalKicker" werden z.&nbsp;B. als "`Zusammengestellt aus StackOverflow Dokumentationen`" (auf englisch: "`Compiled from StackOverflow documentation`") gekennzeichnet.
+- Für Sammlungen oder neu zusammengestellte Werke, benötigt der "Urheber" eventuell eine Beschreibung. Bücher von "GoalKicker" oder "RIP Tutorial" werden z.&nbsp;B. als "`Zusammengestellt aus StackOverflow Dokumentationen`" (auf englisch: "`Compiled from StackOverflow documentation`") gekennzeichnet.
 
 
 ##### Plattformen und Zugriffshinweise

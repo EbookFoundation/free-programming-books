@@ -9,13 +9,13 @@
 * [Git](#git)
 * [Go](#go)
 * [Güvenlik ve Gizlilik](#guvenlik-ve-gizlilik)
+* [Haskell](#haskell)
 * [HTML and CSS](#html-and-css)
 * [iOS](#ios)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
 * [Linux](#linux)
-* [Matlab](#matlab)
 * [.NET Framework](#net-framework)
 * [Python](#python)
     * [Django](#django)
@@ -62,8 +62,8 @@
 
 ### Git
 
-* [git - basit rehber](https://www.rogerdudler.github.io/git-guide/index.tr.html) - Roger Dudler
-* [Git 101](https://www.gitbook.com/book/aliozgur/git101/details) - Ali Özgür
+* [git - basit rehber](https://rogerdudler.github.io/git-guide/index.tr.html) - Roger Dudler (HTML)
+* [Git 101](https://aliozgur.gitbooks.io/git101/) - Ali Özgür (GitBook)
 
 
 ### Go
@@ -74,6 +74,11 @@
 ### Güvenlik ve Gizlilik
 
 * [Özgür Yazılım Derneği Güvenlik Rehberi](https://guvenlik.oyd.org.tr) - Filiz Akin, et al.
+
+
+### Haskell
+
+* [Zor Yoldan Haskell](https://github.com/joom/zor-yoldan-haskell) - Yann Esposito,  `trl.:` Joomy Korkut
 
 
 ### HTML and CSS
@@ -115,11 +120,6 @@
 * [Linux Sistem Yöneticisinin Kılavuzu](http://www.belgeler.org/sag/sag.html)
 
 
-### Matlab
-
-* [Matlab Programlamaya Giris](https://web.archive.org/web/20210727221605/https://ismailari.com/blog/matlab-programlamaya-giris/) - İsmail Arı *(:card_file_box: archived)*
-
-
 ### .NET Framework
 
 * [ASP.NET Core El Kitabı](https://sahin.gitbook.io/asp-net-core-el-kitab)
@@ -127,7 +127,6 @@
 
 ### Python
 
-* [Bilgisayar Bilimcisi Gibi Düşünmek-Python3 ile Öğrenme](https://www.ofenerci.github.io/thinkcspy-tr) - Peter Wentworth, Jeffrey Elkner, Allen B. Downey ve Chris Meyers
 * [Python Programlama Dili](https://python-istihza.yazbel.com) - YazBel Yazılım Belgelendirme Projesi - Python 3
 
 
@@ -141,7 +140,7 @@
 ### R
 
 * [Ekonometriye Yeni Başlayanlar için Kısa bir R Kılavuzu](https://www.github.com/emraher/eybkbrk) - Emrah Er
-* [R for Data Science](http://tr.r4ds.hadley.nz) - Garrett Grolemund, Hadley Wickham, `trad.:` İsmail Bekar, `trad.:` Nurbahar Usta, `trad.:` Bilgecan Şen
+* [R for Data Science](http://tr.r4ds.hadley.nz) - Garrett Grolemund, Hadley Wickham, `trl.:` İsmail Bekar, `trl.:` Nurbahar Usta, `trl.:` Bilgecan Şen
 * [R ile Programlamaya Giriş ve Uygulamalar (2014)](http://inet-tr.org.tr/inetconf19/sunum/16.pdf) - Mustafa Gökçe Baydoğan, Berk Orbay, Uzay Çetin (PDF)
 
 

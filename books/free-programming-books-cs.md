@@ -34,7 +34,6 @@
 
 ### <a id="csharp"></a>C\#
 
-* [Programovací jazyk C#](http://www.cs.vsb.cz/behalek/vyuka/pcsharp/text.pdf) - Marek Běhálek (PDF)
 * [Systémové programování v jazyce C#](https://phoenix.inf.upol.cz/esf/ucebni/sysprog.pdf) (PDF)
 
 
@@ -52,7 +51,7 @@
 
 ### Git
 
-* [Pro Git](https://knihy.nic.cz/#ProGit) - Scott Chacon (PDF, EPUB, MOBI)
+* [Pro Git](https://knihy.nic.cz/#ProGit) - Scott Chacon, `trl.:` Ondrej Filip (PDF, EPUB, MOBI)
 
 
 ### HTML and CSS
@@ -72,6 +71,7 @@
 
 * [Báječný svět elektronického podpisu](https://knihy.nic.cz) - Jiří Peterka (PDF, EPUB, MOBI)
 * [Buď pánem svého prostoru](https://knihy.nic.cz) - Linda McCarthy a Denise Weldon-Siviy (PDF)
+* [Výkladový slovník Kybernetické bezpečnosti](https://www.cybersecurity.cz/data/slovnik_v310.pdf) - Petr Jirásek, Luděk Novák, Josef Požár (PDF)
 
 
 #### Matematika

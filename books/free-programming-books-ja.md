@@ -300,7 +300,6 @@
 
 ### CoffeeScript
 
-* [CoffeeScript 言語リファレンス](http://memo.sappari.org/coffeescript/coffeescript-langref)
 * [CoffeeScript基礎文法最速マスター](https://blog.bokuweb.me/entry/2015/01/06/190240) - id:bokuweb
 * [The Little Book on CoffeeScript](https://minghai.github.io/library/coffeescript) - Alex MacCaw, Narumi Katoh(翻訳)
 * [基本操作逆引きリファレンス（CoffeeScript）](https://kyu-mu.net/coffeescript/revref) - 飯塚直
@@ -330,14 +329,14 @@
 
 ### Git
 
-* [git - 簡単ガイド](https://rogerdudler.github.io/git-guide/index.ja.html) - Roger Dudler, @nacho4d(翻訳)
+* [git - 簡単ガイド](https://rogerdudler.github.io/git-guide/index.ja.html) - Roger Dudler, `trl.:` @nacho4d (HTML)
 * [Git ユーザマニュアル (バージョン 1.5.3 以降用)](https://cdn8.atwikiimg.com/git_jp/pub/git-manual-jp/Documentation/user-manual.html) - Yasuaki Narita
-* [GitHubカンニング・ペーパー](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ja.md) - Tim Green, marocchino(翻訳)
-* [Pro Git](http://git-scm.com/book/ja/) - Scott Chacon, 高木正弘 他(翻訳) ([PDF](https://raw.github.com/progit-ja/progit/master/progit.ja.pdf), [EPUB](https://raw.github.com/progit-ja/progit/master/progit.ja.epub), [MOBI](https://raw.github.com/progit-ja/progit/master/progit.ja.mobi))
+* [GitHubカンニング・ペーパー](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ja.md) - Tim Green, `trl.:` marocchino (HTML)
+* [Pro Git](http://git-scm.com/book/ja/) - Scott Chacon, `trl.:` 高木正弘 他 ([PDF](https://raw.github.com/progit-ja/progit/master/progit.ja.pdf), [EPUB](https://raw.github.com/progit-ja/progit/master/progit.ja.epub), [MOBI](https://raw.github.com/progit-ja/progit/master/progit.ja.mobi))
 * [Steins;Git 第二版](https://o2project.github.io/steins-git) - Shota Kubota
 * [サルでもわかるGit入門](https://backlog.com/ja/git-tutorial) - 株式会社ヌーラボ
 * [デザイナのための Git](https://github.com/hatena/Git-for-Designers) - はてな教科書
-* [図解 Git](https://marklodato.github.io/visual-git-guide/index-ja.html) - Mark Lodato, Kazu Yamamoto(翻訳)
+* [図解 Git](https://marklodato.github.io/visual-git-guide/index-ja.html) - Mark Lodato, `trl.:` Kazu Yamamoto
 
 
 ### Go
@@ -360,13 +359,11 @@
 #### Gradle
 
 * [Gradle 日本語ドキュメント](http://gradle.monochromeroad.com/docs) - Hayashi Masatoshi, Sekiya Kazuchika, Sue Nobuhiro, Mochida Shinya ([PDF](http://gradle.monochromeroad.com/docs/userguide/userguide.pdf))
-* [ビルドツールGradleスタートアップガイドの紹介](https://www.ntts.co.jp/column/tec/java_03/) - 鈴木雅貴
 
 
 #### Grails
 
 * [Grailsフレームワーク 日本語リファレンス](https://grails.jp/doc/latest) - T.Yamamoto, Japanese Grails Doc Translating Team. Special thanks to NTT Software
-* [Grailsを用いたファイルアップローダ作成](https://www.ntts.co.jp/column/tec/java_02/) - 須藤悠
 
 
 #### Spock Framework
@@ -405,7 +402,6 @@
 * [JavaScript Plugin Architecture](https://azu.gitbooks.io/javascript-plugin-architecture/content) - azu
 * [JavaScript Primer](https://jsprimer.net) - azu, Suguru Inatomi
 * [JavaScript Promiseの本](https://azu.github.io/promises-book) - azu
-* [JavaScript style guide](https://developer.mozilla.org/ja/docs/JavaScript_style_guide) - MDN
 * [JavaScript 基礎文法最速マスター](https://gifnksm.hatenablog.jp/entry/20100131/1264934942) - id:gifnksm
 * [JavaScript 言語リファレンス](https://msdn.microsoft.com/ja-jp/library/d1et7k7c.aspx) - MSDN Library
 * [Mozilla Developer Network 日本語ドキュメント](https://developer.mozilla.org/ja/docs/Web/JavaScript) - MDN
@@ -517,8 +513,6 @@
 
 * [Google Objective-C スタイルガイド 日本語訳](http://www.textdrop.net/google-styleguide-ja/objcguide.xml) - Mike Pinkerton, Greg Miller, Dave MacLachlan, Takashi Sasai(翻訳)
 * [Objective-C 2.0 基礎文法最速マスター](https://marycore.jp/prog/objective-c/basic-syntax) - @_marycore
-* [Objective-C によるプログラミング](https://developer.apple.com/jp/devcenter/ios/library/documentation/ProgrammingWithObjectiveC.pdf) - Apple Developer (PDF)
-* [Objective-C プログラミングの概念](https://developer.apple.com/jp/devcenter/ios/library/documentation/CocoaEncyclopedia.pdf) - Apple Developer (PDF)
 * [Objective-C プログラミング言語](https://developer.apple.com/jp/documentation/ProgrammingWithObjectiveC.pdf) - Apple Developer (PDF)
 * [Objective-C 最速基礎文法マスター](https://fn7.hatenadiary.org/entry/20100203/1265207098) - id:fn7
 
@@ -544,7 +538,7 @@
 * [PHP によるデザインパターン入門](https://web.archive.org/web/20140703001758/http://www.doyouphp.jp/book/book_phpdp.shtml)
 * [PHP マニュアル](https://www.php.net/manual/ja) - The PHP Group
 * [PHP 基礎文法最速マスター](https://www.1x1.jp/blog/2010/01/php-basic-syntax.html) - 新原雅司
-* [PHP4徹底攻略改訂版](https://prev.net-newbie.com/support/pdf2/)
+* [PHP4徹底攻略改訂版](https://net-newbie.com/prev/support/pdf2/)
 * [PSR-2 – コーディングスタイルガイド](https://github.com/maosanhioro/fig-standards/blob/master/translation/PSR-2-coding-style-guide.md) - maosanhioro
 
 
@@ -613,8 +607,6 @@
 * [Rチュートリアルセミナーテキスト](http://psycho.edu.yamaguchi-u.ac.jp/wordpress/wp-content/uploads/2014/01/R_tutorial20131.pdf) - 小杉考司, 押江隆 (PDF)
 * [Rによる統計解析の基礎](https://minato.sip21c.org/statlib/stat.pdf) - 中澤港 (PDF)
 * [Rによる保健医療データ解析演習](http://minato.sip21c.org/msb/medstatbook.pdf) - 中澤港 (PDF)
-* [統計解析ソフトRのスクリプト集](https://nuss.nagoya-u.ac.jp/index.php/s/kN6ZxsyReNzRPlM) - 石井秀宗 (PDF)
-* [統計解析フリーソフトRの備忘録](http://cse.naro.affrc.go.jp/takezawa/r-tips.pdf) - 竹澤邦夫 (PDF)
 * [無料統計ソフトRで心理学](http://blue.zero.jp/yokumura/Rhtml/Haebera2002.html) - 奥村泰之
 
 

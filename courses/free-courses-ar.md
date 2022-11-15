@@ -71,6 +71,7 @@
 ### AWS
 
 * [كورس كامل بالعربى مع المهندس عيسى أبوشريف](https://www.youtube.com/playlist?list=PLOoZRfEtk6kWSM_l9xMjDh-_MJXl03-pf) - Eissa AbuSherif
+* [لمتابعة الكورس كامل ](https://www.youtube.com/playlist?list=PLCIJjtzQPZJ_yv1T4eKYsY1hZxcYSjhGY) - Eng-Mohammed Oday
 
 
 ### Bootstrap
@@ -381,6 +382,7 @@
 * [دورة انشاء برنامج فواتير php- laravel&rlm;](https://www.youtube.com/playlist?list=PLftLUHfDSiZ7pKXkpGCoZATm5rF6msj5A) - Mora Soft
 * [دورة Laravel 6/7/8 PHP&rlm;](https://www.youtube.com/playlist?list=PLMYF6NkLrdN8V2JKIMxqMsZNPsgUj3WOK) - Muhammed Essa
 * [كورس اساسيات لارافيل 9](https://www.youtube.com/playlist?list=PLftLUHfDSiZ4GfPZxaFDsA7ejUzD7SpWa) - Mora Soft
+* [لارافيل للمبتدئين](https://www.youtube.com/playlist?list=PLWCBAKY7-4buQazvDjeZhjLl54UqbF3lM) - Ahmed Abd El Ftah
 * [مشروع لارافل متجر الكتروني متعدد التجار واللغات متكامل - تطبيقات لارافل عمليه](https://www.youtube.com/playlist?list=PLCm7ZeRfGSP7DCb-NamG2tt7uQUfxP2va) - Professional Code
 * [API-Course-For-Beginners&rlm;](https://www.youtube.com/playlist?list=PLftLUHfDSiZ6MfN8UhhcXDhh64eejvIKK) - Mora Soft
 * [Build and deploy laravel realtime application on AWS for FREE (Arabic)&rlm;](https://www.youtube.com/playlist?list=PL7IXur3gcVAT4wUbA3KpOSSDm3j_n-qw5) - Ibrahim Konsowa
@@ -459,5 +461,11 @@
 * [Arabic Angular 7 from A to R احتراف الانجولار](https://www.youtube.com/playlist?list=PLL2zWZTDFZzjSjy7yeJwpj2QkJd8NKo-O) - KMR Script&rlm; (YouTube)
 * [Arabic Angular and Firebase App تطبيق انجولار وفايربيز](https://www.youtube.com/playlist?list=PLL2zWZTDFZzh2WEmc3fH_O4y4N05ZCqB2) - KMR Script&rlm; (YouTube)
 * [Arabic NgRx (Angular + Redux)&rlm;](https://www.youtube.com/playlist?list=PLL2zWZTDFZzhW10baUv1esvrowMwbfd5H) - KMR Script&rlm; (YouTube)
+
+
+### iOS
+
+* [iOS & Xcode دورة برمجة تطبيقات الايفون باستخدام لغة سويفت  ](https://www.youtube.com/playlist?list=PLQaOY10EEc8bNbEBMyiJU1I-GIgs1LQfj) - بامبرمج
+
 
 </div>

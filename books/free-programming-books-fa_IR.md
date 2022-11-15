@@ -21,7 +21,7 @@
 
 ### شبکه
 
-* آلبرت لازلو باراباسی - [علم شبکه](http://networksciencebook.com)
+* [علم شبکه](http://networksciencebook.com) - آلبرت لازلو باراباسی
 
 
 ### مهندسی نرم‌افزار

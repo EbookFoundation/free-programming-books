@@ -1,4 +1,4 @@
-*[Доступно на других языках](README.md#
+*[Доступно на других языках](README.md#translations)*
 
 
 <!----><a id="contributor-license-agreement"></a>
@@ -10,7 +10,7 @@
 <!----><a id="contributor-code-of-conduct"></a>
 ## Кодекс поведения автора
 
-Принимая участие, вы соглашаетесь соблюдать [Кодекс поведения](CODE_OF_CONDUCT-ru.md) этого репозитория. ([translations](README.md#
+Принимая участие, вы соглашаетесь соблюдать [Кодекс поведения](CODE_OF_CONDUCT-ru.md) этого репозитория. ([translations](README.md#translations)*
 
 
 <!----><a id="in-a-nutshell"></a>
@@ -60,6 +60,7 @@
 - Если книга более старая, укажите дату публикации в названии.
 - Укажите имя автора или имена там, где это необходимо. Вы можете сократить списки авторов с помощью «`и др.`» («`et al.`»).
 - если книга не закончена, и работа над ней продолжается, добавьте пометку «`в процессе`», как описано [ниже](#in_process).
+- if a resource is restored using the [*Internet Archive's Wayback Machine*](https://web.archive.org) (or similar), add the "`archived`" notation, as described [below](#archived). The best versions to use are recent and complete.
 - если перед загрузкой запрашивается адрес электронной почты или настройка учетной записи, добавьте в скобки примечания на соответствующем языке, например: `(адрес электронной почты *запрашивают*, но он не требуется для загрузки)`.
 
 
@@ -139,12 +140,18 @@
     ХОРОШО: * [Скоро будет отличная книга](http://example.com/book2.html) - Джон Доу (HTML) *(:construction: in process)*
     ```
 
-### Alphabetical order
+- <a id="archived"></a>Archived link:
 
-- When there are multiple titles beginning with the same letter order them by the second, and so on. For example: `aa` comes before `ab`.
-- `one two` comes before `onetwo`
+    ```text
+    ХОРОШО: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
+    ```
 
-If you see a misplaced link, check the linter error message to know which lines should be swapped.
+### Алфавитный порядок
+
+- Если есть несколько названий, начинающихся на одну и ту же букву, упорядочьте их (названия) по второй букве, и так далее. Например: `aa` должно располагаться перед `ab`.
+- `one two` должно располагаться перед `onetwo`
+
+Если вы видите неправильную ссылку, то проверьте сообщение линтера об ошибке, чтобы знать, какие строки следует поменять местами.
 
 
 <!----><a id="notes"></a>
@@ -164,11 +171,11 @@ If you see a misplaced link, check the linter error message to know which lines 
 
 - Никаких вымышленных названий. Мы стараемся брать названия с самих ресурсов; призываем авторов пулреквестов не придумывать заголовки и не использовать их в редакционных целях, если этого можно избежать. Исключение составляют более старые работы; если они представляют в первую очередь исторический интерес, год в скобках, добавленный к названию, помогает пользователям узнать, представляют ли они интерес.
 - Избегайте заголовков ПОЛНОСТЬЮ ЗАГЛАВНЫМИ БУКВАМИ. Обычно уместен регистр заголовка, но в случае сомнений используйте заглавные буквы из источника.
-- No emojis.
+- Не используйте эмодзи (смайлики).
 
 
 <!----><a id="urls"></a>
-##### URLs
+##### URL-адреса
 
 - Мы не разрешаем сокращенные URL-адреса.
 - Коды отслеживания должны быть удалены из URL.
@@ -178,12 +185,20 @@ If you see a misplaced link, check the linter error message to know which lines 
 
 
 <!----><a id="creators"></a>
-##### Creators
+##### Создатели
 
 - Хотим поблагодарить создателей бесплатных ресурсов, где это возможно, в том числе переводчиков!
-- Для переведенных работ следует указать оригинального автора.
+- Для переведенных работ следует указать оригинального автора. Мы рекомендуем использовать [MARC relators](https://loc.gov/marc/relators/relaterm.html) чтобы отблагодарить других создателей, кроме авторов, как в этом примере:
+
+    ```markdown
+    * [A Translated Book](http://example.com/book-ru.html) - John Doe, `trl.:` Mike The Translator
+    ```
+
+    здесь сокращение `trl.:` используется MARC relator code для слова "translator" ("переводчик").
+- Используйте запятые `,` для разграничения каждого элемента в списке авторов.
+- Вы можете сокращать списки авторов с помощью "`et al.`".
 - Мы не разрешаем ссылки на авторов.
-- Для подборок и смешенных изданий «создателю» может потребоваться описание. Например, книги «GoalKicker» считаются «`Скомпилированными из документации StackOverflow`» ("на английском: «`Compiled from StackOverflow documentation`»).
+- Для подборок и смешенных изданий «создателю» может потребоваться описание. Например, книги «GoalKicker» или «RIP Tutorial» считаются «`Скомпилированными из документации StackOverflow`» ("на английском: «`Compiled from StackOverflow documentation`»).
 
 
 <!----><a id="platforms-and-access-notes"></a>

@@ -1,6 +1,7 @@
 ### Index
 
 * [0 - Language Agnostic](#0---language-agnostic)
+    * [Архитектура приложений](#Архитектура-приложений)
     * [Облачные Вычисления](#Облачные-вычисления)
     * [Парадигмы Программирования](#Парадигмы-программирования)
     * [Работа c cетью](#Работа-с-сетью)
@@ -76,9 +77,7 @@
 
 ### 0 - Language Agnostic
 
-* [3D-моделирование в Blender](https://younglinux.info/blender.php) - C. Шапошникова
 * [Введение в методы машинной обработки данных](https://mkurnosov.net/docs/dsa-book-2020.pdf) - Курносов М.Г. (PDF)
-* [Занимательное программирование. Самоучитель](http://padabum.com/x.php?id=35055) - Мозговой М.В. (PDF)
 * [Операционные системы](https://vseloved.github.io/pdf/os-ru.pdf) - Всеволод Дёмкин (PDF)
 * [Параллельные технологии](http://www.inp.nsk.su/~baldin/Parallel/index.html)
 * [Программирование: введение в профессию](http://stolyarov.info/books/programming_intro) - Столяров Андрей Викторович (PDF)
@@ -91,6 +90,11 @@
 * [Scrum и XP: заметки с передовой](http://scrum.org.ua/wp-content/uploads/2008/12/scrum_xp-from-the-trenches-rus-final.pdf) (PDF)
 
 
+#### Архитектура приложений
+
+* [The API](https://twirl.github.io/The-API-Book/index.ru.html) - Сергей Константинов (HTML, PDF, EPUB)
+
+
 #### Облачные вычисления
 
 * [Программирование Cloud Native. Микросервисы, Docker и Kubernetes](https://ipsoftware.ru/books/cloud-k8s/) - Иван Портянкин (PDF, EPUB, MOBI)
@@ -101,6 +105,7 @@
 
 * [Введение в функциональное программирование](http://funprog-ru.github.io) - John Harrison
 * [Практика функционального программирования](https://www.fprog.ru) - журнал
+* [Рефакторинг на максималках](https://github.com/bespoyasov/refactor-like-a-superhero-online-book/blob/main/manuscript-ru/README.md) - Александр Беспоясов
 
 
 #### Работа с сетью
@@ -130,7 +135,6 @@
 
 * [Ассемблер в Linux для программистов C](https://ru.wikibooks.org/wiki/Ассемблер_в_Linux_для_программистов_C) - Викиучебник
 * [Ассемблер для чайников](http://av-assembler.ru/asm/afd/assembler-for-dummy.htm)
-* [Микропроцессоры и вычислительные комплексы семейства "Эльбрус"](http://www.mcst.ru/doc/book_121130.pdf) (PDF)
 * [Программирование на языке ассемблера NASM для ОС Unix](http://www.stolyarov.info/books/pdf/nasm_unix.pdf) - Андрей Столяров (PDF)
 
 
@@ -197,10 +201,10 @@
 
 ### Git
 
-* [Волшебство Git](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru) - Ben Lynn
-* [Простое руководство по работе с Git](http://rogerdudler.github.io/git-guide/index.ru.html)
-* [Руководство по Git](http://proselyte.net/tutorials/git) - Евгений Сулейманов
-* [Pro Git](http://git-scm.com/book/ru/v2)
+* [Волшебство Git](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru) - Ben Lynn, `trl.:` Tikhon Tarnavsky, `trl.:` Mikhail Dymskov, et al. (HTML)
+* [Простое руководство по работе с Git](https://rogerdudler.github.io/git-guide/index.ru.html) - Roger Dudler, `trl.:` Dmitry Wolf (HTML)
+* [Руководство по Git](https://proselyte.net/tutorials/git) - Евгений Сулейманов (HTML)
+* [Pro Git](http://git-scm.com/book/ru/) - Scott Chacon, Ben Straub, et al. (HTML, PDF, EPUB, Kindle)
 
 
 ### Go
@@ -346,7 +350,7 @@
 
 #### React
 
-* [Перевод документации](https://learn-reactjs.ru/home)
+* [Перевод документации](https://ru.reactjs.org/docs/getting-started.html)
 * [Руководство по React](https://metanit.com/web/react) - Евгений Попов
 * [Уроки по React](https://codedzen.ru/category/uroki/react)
 * [Учебник по фреймворку React](http://old.code.mu/books/advanced/javascript/react/)
@@ -355,7 +359,7 @@
 
 #### Vue.js
 
-* [Перевод документации](https://ru.vuejs.org)
+* [Перевод документации](https://v3.ru.vuejs.org)
 * [Руководство по Vue.js](https://metanit.com/web/vuejs) - Евгений Попов
 * [VueJS Учебник](https://coderlessons.com/tutorials/veb-razrabotka/vyuchit-vuejs/vuejs-uchebnik) - CoderLessons.com
 
@@ -519,8 +523,8 @@
 ### Rust
 
 * [Растономикон](https://github.com/ruRust/rustonomicon)
-* [Язык программирования Rust](http://rurust.github.io/rust_book_ru)
-* [Rust на примерах](https://rurust.github.io/rust-by-example-ru)
+* [Язык программирования Rust](https://doc.rust-lang.ru/book/)
+* [Rust на примерах](https://doc.rust-lang.ru/stable/rust-by-example/index.html)
 * [Rust Tutorial](https://coderlessons.com/tutorials/kompiuternoe-programmirovanie/nauchitsia-programmirovaniiu-na-rust/rust-tutorial) - CoderLessons.com
 
 
@@ -576,13 +580,12 @@
 ### Swift
 
 * [Документация и туториалы](https://swiftbook.ru)
-* [Documentation](https://swift.org/documentation)
 * [Swift Tutorial](https://coderlessons.com/tutorials/kompiuternoe-programmirovanie/nauchites-programmirovaniiu-swift/swift-tutorial) - CoderLessons.com
 
 
 ### TypeScript
 
-* [Перевод официальной документации Typescript](http://typescript-lang.ru/docs/) - George Kiselev
+* [Карманная книга по TypeScript](https://typescript-handbook.ru) - Igor Agapov
 * [Руководство по TypeScript](https://metanit.com/web/typescript) - Евгений Попов
 
 
@@ -597,7 +600,7 @@
 
 ### Unix
 
-* [Beyond Linux From Scratch (version * [Архитектура операционной системы Unix](http://lib.ru/BACH) - Maurice J. Bach
+* [Архитектура операционной системы Unix](http://lib.ru/BACH) - Maurice J. Bach, `trl.:` Крюкова А. В.
 * [Введение в системное администрирование UNIX](http://lib.ru/unixhelp) - Мошков Максим Евгеньевич
 * [Внутреннее устройство Ядра Linux 2.4](http://www.opennet.ru/docs/RUS/lki) - Tigran Aivazian
 * [Перевод Linux kernel and C library.](http://man-pages-ru.sourceforge.net)
@@ -605,6 +608,6 @@
 * [Руководство программиста для Linux](http://www.opennet.ru/docs/RUS/Lpg) - Sven Goldt, Matt Welsh
 * [Энциклопедия программиста Linux](http://www.opennet.ru/docs/RUS/lpg) - Алексей Паутов
 * [Энциклопедия разработчика модулей ядра Linux](http://www.opennet.ru/docs/RUS/lkmpg) - Ori Pomerantz
-2011-12-30)](http://rus-linux.net/nlib.php?name=/MyLDP/BOOKS/BLFS-ru/blfs-ru-index.html)
+* [Beyond Linux From Scratch (version 2011-12-30)](http://rus-linux.net/nlib.php?name=/MyLDP/BOOKS/BLFS-ru/blfs-ru-index.html) - The BLFS Development Team, `trl.:` Н.Ромоданов, `trl.:` Сергея Каминского, `trl.:` Александра Андреева
 * [Linux From Scratch (version 6.8)](http://rus-linux.net/nlib.php?name=/MyLDP/BOOKS/LFS-BOOK-6.8-ru/lfs-6.8-ru-index.html)
 * [The Linux Kernel Module Programming Guide](http://www.opennet.ru/docs/RUS/lkmpg26) - Peter Jay Salzman, Michael Burian, Ori Pomerantz

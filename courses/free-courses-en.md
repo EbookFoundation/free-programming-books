@@ -324,6 +324,7 @@
 * [Introduction to C++](https://www.edx.org/course/introduction-to-c-3) - Microsoft (edX) (:card_file_box: *archived*)
 * [Sololearn C++](https://www.sololearn.com/learning/1051) - *registration required*
 
+
 ### Clojure
 
 * [Clojure language Tutorial - for Beginners](https://www.youtube.com/watch?v=zFPiPBIkAcQ)

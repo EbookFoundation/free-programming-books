@@ -28,6 +28,7 @@
 * [Coderbyte](https://coderbyte.com)
 * [Codewars](http://www.codewars.com)
 * [Codingame](https://www.codingame.com/start)
+* [Competitive Programming Cheat Sheet](https://medium.com/cheat-sheets/cheat-sheet-for-competitive-programming-with-c-f2e8156d5aa9)
 * [CSES Problem Set](https://cses.fi/problemset)
 * [Dimik](https://dimikoj.com)
 * [DMOJ](https://dmoj.ca)

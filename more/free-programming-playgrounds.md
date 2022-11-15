@@ -73,7 +73,7 @@
 ### <a id="csharp"></a>C\#
 
 * [codebattle](https://codebattle.hexlet.io)
-* [Programiz - Online Compiler](https://www.programiz.com/csharp-programming/online-compiler)
+* [Programiz - Online Compiler](https://www.programiz.com/csharp-programming/online-compiler/)
 * [SoloLearn](https://code.sololearn.com/csharp)
 
 

@@ -1277,7 +1277,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Mixu's Node Book](http://book.mixu.net/node/)
 * [Node Design Patterns](https://ia801309.us.archive.org/5/items/HandbookOfNeuralComputingApplicationsPDFStormRG/Node.js%20Design%20Patterns%20-%20Casciaro,%20Mario%20%5BPDF%5D%5BStormRG%5D.pdf) - Mario Casciaro (PDF)
 * [Node Documentation](https://nodejs.org/en/docs/) (PDF)
-* [Node For Embedded System](https://www.pdfdrive.com/nodejs-for-embedded-systems-using-web-technologies-to-build-connected-devices-e157056110.html) - Pactrick Mulder and Kelsey Breseman (PDF)
 * [Node: Up and Running](https://www.oreilly.com/library/view/node-up-and/9781449332235/) - Tom Hughes-Croucher
 * [Node.js Notes for Professionals](http://goalkicker.com/NodeJSBook) - Compiled from StackOverflow Documentation (PDF)
 * [Node.js Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/nodejs) (PDF, Kindle) (email address *requested*, not required)

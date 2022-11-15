@@ -41,6 +41,6 @@
 
 ### Javascript
 
-* [Javascript](https://marplo.net/javascript)
+* [Curs si Tutoriale JavaScript](https://marplo.net/javascript)
 
 

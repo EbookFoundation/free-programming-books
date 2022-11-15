@@ -2409,7 +2409,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Essential SQL](https://www.programming-books.io/essential/sql) - Krzysztof Kowalczyk and  Stack Overflow Documentation project (HTML)
 * [Introduction to SQL](https://github.com/bobbyiliev/introduction-to-sql) - Bobby Iliev (Markdown, PDF)
 * [Oracle8i Concepts: Chapter 15 - SQL and PL/SQL](https://docs.oracle.com/cd/A87860_01/doc/server.817/a76965/c14sqlpl.htm#5943) - Lefty Leverenz, Diana Rehfield, Cathy Baird (HTML)
-* [SQL For Web Nerds](http://philip.greenspun.com/sql/) - [Philip Greenspun](philg@mit.edu) (HTML)
+* [SQL For Web Nerds](http://philip.greenspun.com/sql/) - Philip Greenspun (HTML)
 * [SQL Notes for Professionals](http://goalkicker.com/SQLBook/) - Compiled from StackOverflow Documentation (PDF)
 * [SQL Queries Succinctly](https://www.syncfusion.com/ebooks/sql_queries_succinctly) - Nick Harrison (PDF)
 * [SQL Tutorial](https://www.scaler.com/topics/sql/) - Scaler

@@ -2271,7 +2271,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 ### Sage
 
 * [Sage for Power Users](http://wstein.org/books/sagebook/sagebook.pdf) - William Stein (PDF)
-* [The Sage Manuals](http://www.sagemath.org/doc)
+* [The Sage Manuals](http://www.sagemath.org/doc/)
 
 
 ### Scala

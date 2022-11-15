@@ -13,6 +13,8 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
   - [How-to](HOWTO-bs.md)
 - Bulgarian / български
 - Burmese / မြန်မာဘာသာ
+- Catalan
+  - [Contribuir](CONTRIBUTING-ca.md)
 - Chinese / 中文
   - [贡献者行为准则](CODE_OF_CONDUCT-zh.md)
   - [Contributing](CONTRIBUTING-zh.md)
@@ -35,7 +37,7 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
   - [Contributing](CONTRIBUTING-fil.md)
   - [How-to](HOWTO-fil.md)
 - French / français
-  - [Code de Contrat](CODE_OF_CONDUCT-fr.md)
+  - [Code de Conduite](CODE_OF_CONDUCT-fr.md)
   - [Contributing](CONTRIBUTING-fr.md)
   - [How-to](HOWTO-fr.md)
 - German / Deutsch
@@ -69,9 +71,11 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
   - [How-to](HOWTO-ko.md)
 - Malayalam / മലയാളം
 - Nepali / नेपाली
-  - [आचार संहिता](CODE_OF_CONDUCT-np.md) 
+  - [आचार संहिता](CODE_OF_CONDUCT-np.md)
+  - [Contributing](CONTRIBUTING-np.md)
   - [How-to](HOWTO-np.md) 
 - Norwegian / Norsk
+    - [Etiske Retningslinjer](CODE_OF_CONDUCT-no.md)  
 - Persian / Farsi (Iran) / فارسى
   - [مرام‌نامه‌ی](CODE_OF_CONDUCT-fa_IR.md)
   - [Contributing](CONTRIBUTING-fa_IR.md)

@@ -34,6 +34,7 @@
 
 * [โครงสร้างข้อมูลฉบับวาจาจาวา](https://www.cp.eng.chula.ac.th/books/ds-vjjv/) - สมชาย ประสิทธิ์จูตระกูล
 * [แบบฝึกปฏิบัติฉบับวาจาจาวา](https://www.cp.eng.chula.ac.th/books/java101-lb/) - สมชาย ประสิทธิ์จูตระกูล
+* [เริ่มเรียนเขียนโปรแกรมฉบับวาจาจาวา](https://www.cp.eng.chula.ac.th/wp-content/uploads/2022/01/JavaProg_vjjv_3.0.1.pdf) - สมชาย ประสิทธิ์จูตระกูล (PDF)
 * [เริ่มเรียนเขียนโปรแกรม: ฉบับวาจาจาวา](https://www.cp.eng.chula.ac.th/books/bp-vjjv/) - สมชาย ประสิทธิ์จูตระกูล
 * [Java Programming Concept](http://it.e-tech.ac.th/poohdevil/JavaConcepts/) - Rungrote Phonkam
 

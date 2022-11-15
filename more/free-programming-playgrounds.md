@@ -65,7 +65,7 @@
 ### <a id="c"></a>C
 
 * [InterviewBit - Online C Compiler IDE](https://www.interviewbit.com/online-c-compiler)
-* [JDoodle - Online C Compiler IDE](https://www.jdoodle.com/c-online-compiler)
+* [JDoodle - Online C Compiler IDE](https://www.jdoodle.com/c-online-compiler/)
 * [Programiz - Online C Compiler](https://www.programiz.com/c-programming/online-compiler)
 * [SoloLearn](https://code.sololearn.com/c)
 

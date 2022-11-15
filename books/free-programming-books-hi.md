@@ -1,6 +1,5 @@
 ### Index
 
-* [C](#c)
 * [C++](#cpp)
 * [Data Structure and Algorithms](#data-structure-and-algorithms)
 * [Java](#java)
@@ -15,11 +14,6 @@
 * [C language Notes by sbistudy.com\| Hindi](https://www.sbistudy.com/c-language-notes-in-hindi/) - Shivom Classes
 * [C Tutorial by Masterprogramming.in \| Hindi](https://masterprogramming.in/learn-c-language-tutorial-in-hindi/) - Jeetu Sahu
 * [C Tutorial/Notes \| Hindi](https://programming-tutorial-hindi.blogspot.com/p/index.html) - Hridayesh Kumar Gupta
-
-
-### C
-
-* [C in Hindi \| Hindi](https://onlineaavedan.com/study_material/1543909480.pdf) - Kuldeep Chand (PDF)
 
 
 ### <a id="cpp"></a>C++

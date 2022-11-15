@@ -3,6 +3,7 @@
 * [Ajax](#ajax)
 * [C](#c)
 * [HTML and CSS](#html-and-css)
+* [Javascript](#javascript)
 * [MySQL](#mysql)
 * [PHP](#php)
 * [Scratch](#scratch)

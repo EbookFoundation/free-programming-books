@@ -12,8 +12,6 @@
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
-* [MATLAB](#MATLAB)
-* [Simulink](#Simulink)
 * [Clojure](#clojure)
 * [Cloud Computing](#cloud-computing)
     * [AWS](#aws)
@@ -65,6 +63,7 @@
 * [Machine Learning](#machine-learning)
 * [Markdown](#markdown)
 * [Matlab](#matlab)
+    * [Simulink](#simulink)
 * [Misc](#misc)
 * [.NET](#net)
 * [Networking](#networking)
@@ -308,22 +307,6 @@
 * [Google's C++ Course](https://developers.google.com/edu/c++/)
 * [Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) (MIT's opencourseware)
 * [Introduction to C++](https://www.edx.org/course/introduction-to-c-3) - Microsoft (edX) (:card_file_box: *archived*)
-
-
-### MATLAB
-
-* [MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) - Renee Bach
-* [MATLAB Fundamentals](https://matlabacademy.mathworks.com/details/matlab-fundamentals/mlbe) - Erin Byrne
-* [MATLAB for Data Processing and Visualization](https://matlabacademy.mathworks.com/details/matlab-for-data-processing-and-visualization/mlvi) - Renee Bach
-* [MATLAB Programming Techniques](https://matlabacademy.mathworks.com/details/matlab-programming-techniques/mlpr) - Matt Tearle
-
-
-### Simulink
-
-* [Simulink Onramp](https://matlabacademy.mathworks.com/details/simulink-onramp/simulink) - Alisha Schor
-* [Simulink Fundamentals](https://matlabacademy.mathworks.com/details/simulink-fundamentals/slbe) - Alisha Schor, Zhi Wang
-* [Circuit Simulation Onramp](https://matlabacademy.mathworks.com/details/circuit-simulation-onramp/circuits) - Alisha Schor
-* [Simscape Onramp](https://matlabacademy.mathworks.com/details/simscape-onramp/simscape) - Alisha Schor
 
 
 ### Clojure
@@ -984,9 +967,19 @@
 
 * [Data Processing and Feature Engineering with MATLAB](https://www.coursera.org/learn/feature-engineering-matlab) (coursera)
 * [Introduction to Matlab in English](https://www.youtube.com/playlist?list=PLGED90Y_uL1KLpdRmVtwfpNoYCWU9RPkK) - Mohammed Mohammed
-* [MATLAB and Simulink Training](https://matlabacademy.mathworks.com)
+* [MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) - Renee Bach
+* [MATLAB Fundamentals](https://matlabacademy.mathworks.com/details/matlab-fundamentals/mlbe) - Erin Byrne
+* [MATLAB for Data Processing and Visualization](https://matlabacademy.mathworks.com/details/matlab-for-data-processing-and-visualization/mlvi) - Renee Bach
 * [MATLAB Programming for Numerical Computation NPTEL](https://www.youtube.com/playlist?list=PLRWKj4sFG7-6_Xr9yqg6SMr_F80KdFVhN) - Niket Kaisare NPTEL (YouTube)
+* [MATLAB Programming Techniques](https://matlabacademy.mathworks.com/details/matlab-programming-techniques/mlpr) - Matt Tearle
 * [MIT 18.S997 Introduction to MATLAB Programming](http://ocw.mit.edu/courses/mathematics/18-s997-introduction-to-matlab-programming-fall-2011/)
+
+
+#### Simulink
+
+* [Circuit Simulation Onramp](https://matlabacademy.mathworks.com/details/circuit-simulation-onramp/circuits) - Alisha Schor
+* [Simulink Fundamentals](https://matlabacademy.mathworks.com/details/simulink-fundamentals/slbe) - Alisha Schor, Zhi Wang
+* [Simulink Onramp](https://matlabacademy.mathworks.com/details/simulink-onramp/simulink) - Alisha Schor
 
 
 ### Misc

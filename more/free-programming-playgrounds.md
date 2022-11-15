@@ -81,7 +81,7 @@
 
 * [Coding Blocks](https://ide.codingblocks.com)
 * [Coding Minutes](https://ide.codingminutes.com)
-* [InterviewBit](https://www.interviewbit.com/online-cpp-compiler)
+* [InterviewBit](https://www.interviewbit.com/online-cpp-compiler/)
 * [LabStack](https://code.labstack.com/cpp)
 * [OnlineGDB](https://www.onlinegdb.com/online_c++_compiler)
 * [SoloLearn](https://code.sololearn.com/cpp)

@@ -1283,7 +1283,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Practical Node.js: Building Real-World Scalable Web Apps](https://github.com/azat-co/practicalnode) - Azat Mardan
 * [The Node Beginner Book](http://nodebeginner.org)
 * [The Node.js Handbook](https://flaviocopes.com/page/node-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
-This appears not to be an authorized distribution. Please see docs/CONTRIBUTING.md guidelines.
 
 
 #### Nuxt.js

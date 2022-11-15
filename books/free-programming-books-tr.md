@@ -16,7 +16,6 @@
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
 * [Linux](#linux)
-* [Matlab](#matlab)
 * [.NET Framework](#net-framework)
 * [Python](#python)
     * [Django](#django)
@@ -119,11 +118,6 @@
 * [GNU Linux Komutlari](https://www.fullportal.org/GNULINUX/Komutlar/GNULINUXKOMUTLAR.pdf) (PDF)
 * [Linux Belgeleri](http://www.belgeler.org/howto/howtos.html)
 * [Linux Sistem Yöneticisinin Kılavuzu](http://www.belgeler.org/sag/sag.html)
-
-
-### Matlab
-
-* [Matlab Programlamaya Giris](https://web.archive.org/web/20210727221605/https://ismailari.com/blog/matlab-programlamaya-giris/) - İsmail Arı *(:card_file_box: archived)*
 
 
 ### .NET Framework

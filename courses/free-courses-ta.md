@@ -12,6 +12,7 @@
 * [PHP](#php)
 * [Python](#python)
 * [R](#r)
+* [Solidity](#solidity)
 * [SQL](#sql)
 
 
@@ -76,18 +77,25 @@ CSE Tamila by Eezytutorials
 ### PHP
 
 * [PHP for beginners In Tamil](https://youtube.com/playlist?list=PL4unWLKFsZfcq_D-sEy0pR4Sl_yipy6Jt) - Tutor Joe's Stanley
+* [PHP in Tamil](https://www.youtube.com/playlist?list=PLmjuBlzAWCzz8Timg5RP6c-JMemYWRXvV) - Collectiva Knowledge Academy
 * [PHP Tutorial In Tamil](https://youtube.com/playlist?list=PL4unWLKFsZfdrMitLmm8N-idlYQkSCvT9) - Tutor Joe's Stanley
 
 
 ### Python
 
 * [Python in Tamil for Beginners](https://youtube.com/playlist?list=PLA2UBjeRwle3OLO3qmXTbmCvuTlqhHRVb) - GURUKULA
+* [Python Programming in Tami](https://www.youtube.com/playlist?list=PLWbtDrDnmTHBdEnUKuLNdH2-zKSDD8OA4) - CS in Tamil
 * [Python Tutorial in Tamil](https://youtube.com/playlist?list=PLIFRUdRwOM0_hcLruKbsHWnU5P2uLBgsp) - SANTRA TECHSPOT
 
 
 ### R
 
 * [R Tutorial in Tamil](https://youtube.com/playlist?list=PL4unWLKFsZfeGbK28rfPDeDDD_OJGjMCC) - Tutor Joe's Stanley
+
+
+### Solidity
+
+* [Solidity tutorial for complete beginners](https://youtube.com/playlist?list=PLl2NTvGeqw2ZRNLU25-yodXK86EXWV6on) - Ork
 
 
 ### SQL

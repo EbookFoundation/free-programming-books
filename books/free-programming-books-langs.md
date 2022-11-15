@@ -515,7 +515,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [C++ Programming](https://en.wikibooks.org/wiki/C%2B%2B_Programming) - Panic, et al.
 * [C++ Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/cplusplus) (PDF, Kindle) (email address *requested*, not required)
 * [C++ Tricks](http://www.bordoon.com/cplusplus/book_wrapper.html)
-* [C++ Tutorial](https://www.w3schools.com/cpp)
 * [C++ Tutorial](https://www.cprogramming.com/tutorial/c++-tutorial.html)
 * [C++ Tutorial for Beginners - Full Course](https://youtu.be/vLnPwxZdW4Y)
 * [C++ Tutorial for Beginners - Learn C++ in 1 Hour](https://youtu.be/ZzaPdXTrSb8) 

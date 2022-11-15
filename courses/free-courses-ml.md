@@ -137,4 +137,4 @@
 #### Flask
 
 * [Python Flask Malayalam Tutorial](https://youtube.com/playlist?list=PL1JrLEBAapUU-HCC1f5x8YiGEMoZdGl0e) - Yes Tech Media
-* [Web Development with Python Flask](https://www.youtube.com/playlist?list=PLQzHWfiB9fWccYbgcomf5bWTGV7DPqTtB) - Learn Programming In Malayalam (YouTube)
+* [Web Development with Python Flask](https://www.youtube.com/playlist?list=PLQzHWfiB9fWccYbgcomf5bWTGV7DPqTtB) - Learn Programming In Malayalam

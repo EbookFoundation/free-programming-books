@@ -1,6 +1,7 @@
 ### Index
 
 * [0 - Language Agnostic](#0---language-agnostic)
+    * [Архитектура приложений](#Архитектура-приложений)
     * [Облачные Вычисления](#Облачные-вычисления)
     * [Парадигмы Программирования](#Парадигмы-программирования)
     * [Работа c cетью](#Работа-с-сетью)
@@ -87,6 +88,11 @@
 * [Эффективные алгоритмы и сложность вычислений](http://discopal.ispras.ru/Ru.book-advanced-algorithms.htm) - Кузюрин Н.Н., Фомин С.А.
 * [E-maxx.ru: Сборник алгоритмов с примерами на C++](http://e-maxx.ru/upload/e-maxx_algo.pdf) (PDF)
 * [Scrum и XP: заметки с передовой](http://scrum.org.ua/wp-content/uploads/2008/12/scrum_xp-from-the-trenches-rus-final.pdf) (PDF)
+
+
+#### Архитектура приложений
+
+* [The API](https://twirl.github.io/The-API-Book/index.ru.html) - Сергей Константинов (HTML, PDF, EPUB)
 
 
 #### Облачные вычисления

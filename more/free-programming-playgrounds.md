@@ -2,7 +2,6 @@
 
 * [APL](#apl)
 * [Assembly](#assembly)
-* [Bash/Shell](#bash)
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
@@ -61,13 +60,6 @@
 ### Assembly
 
 * [Educational Visual CPU Simulator](https://github.com/Belotti01/CPU-Visual-Simulator) - Renato Cortinovis, Nicola Preda, Jonathan Cancelli, Alessandro Belotti, Davide Riva (JAVA, JAR)
-
-
-### <a id="bash"></a>Bash/Shell
-
-* [Bash Crawl](https://gitlab.com/slackermedia/bashcrawl)
-* [Terminal Quest](https://github.com/KanoComputing/terminal-quest)
-* [Wargames](https://overthewire.org/wargames)
 
 
 ### <a id="c"></a>C

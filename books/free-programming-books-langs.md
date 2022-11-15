@@ -2248,11 +2248,12 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Easy Rust](https://dhghomon.github.io/easy_rust/) - David McLeod (HTML, PDF)
 * [From JavaScript to Rust ebook](https://github.com/wasmflow/node-to-rust/raw/HEAD/from-javascript-to-rust.pdf) - Jarrod Overson (PDF)
 * [Guide to Rustc Development](https://rustc-dev-guide.rust-lang.org)
-* [Learn Rust in Y minutes](https://learnxinyminutes.com/docs/rust/)
+* [Learn Rust in Y minutes](https://learnxinyminutes.com/docs/rust)
 * [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists) - Alexis Beingessner
 * [Learning Rust Ebook](https://riptutorial.com/Download/rust.pdf) - StackOverflow Contributors (PDF)
 * [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example)
 * [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook)
+* [Rust Design Patterns](https://rust-unofficial.github.io/patterns)
 * [Rust for Rubyists](https://web.archive.org/web/20190520171322/http://www.rustforrubyists.com/book) - Steve Klabnik
 * [Rust For Systems Programmers](https://github.com/nrc/r4cppp) - Nick Cameron
 * [The Embedded Rust Book](https://docs.rust-embedded.org/book/intro/index.html)
@@ -2263,46 +2264,47 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [The Rust RFC Book](https://rust-lang.github.io/rfcs)
 * [The Rustc Book](https://doc.rust-lang.org/rustc)
 * [The Rustonomicon](https://doc.rust-lang.org/nomicon)
+* [Welcome to Rust-101](https://www.ralfj.de/projects/rust-101/main.html)
 * [Why Rust?](https://www.oreilly.com/content/why-rust)
 
 
 ### Sage
 
 * [Sage for Power Users](http://wstein.org/books/sagebook/sagebook.pdf) - William Stein (PDF)
-* [The Sage Manuals](http://www.sagemath.org/doc/)
+* [The Sage Manuals](http://www.sagemath.org/doc)
 
 
 ### Scala
 
 * [A Scala Tutorial for Java programmers](https://docs.scala-lang.org/tutorials/scala-for-java-programmers.html) (PDF)
-* [Another tour of Scala](https://web.archive.org/web/20190629103826/http://naildrivin5.com/scalatour/) - David Copeland
-* [Creative Scala](http://underscore.io/books/creative-scala/) - Noel Welsh, Dave Gurnell (PDF, HTML, EPUB) (email address *requested*, not required)
+* [Another tour of Scala](https://web.archive.org/web/20190629103826/http://naildrivin5.com/scalatour) - David Copeland
+* [Creative Scala](http://underscore.io/books/creative-scala) - Noel Welsh, Dave Gurnell (PDF, HTML, EPUB) (email address *requested*, not required)
 * [EAI Patterns with Actor Model](https://github.com/alexanderfefelov/eai-patterns-with-actor-model) - Vaughn Vernon
-* [Effective Scala](https://twitter.github.io/effectivescala/)
-* [Essential Scala](http://underscore.io/books/essential-scala/) - Noel Welsh, Dave Gurnell (PDF, HTML, EPUB) (email address *requested*, not required)
+* [Effective Scala](https://twitter.github.io/effectivescala)
+* [Essential Scala](http://underscore.io/books/essential-scala) - Noel Welsh, Dave Gurnell (PDF, HTML, EPUB) (email address *requested*, not required)
 * [Functional Programming for Mortals](https://leanpub.com/fpmortals/read) - Sam Halliday
 * [Functional Programming, Simplified (Scala edition)](https://alvinalexander.com/photos/functional-programming-simplied-free-pdf-preview) - Alvin Alexander (free preview (400 pages from 595), PDF)
 * [Hello, Scala](https://alvinalexander.com/photos/hello-scala-free-pdf-preview) - Alvin Alexander (free preview (120 pages from 257), PDF)
-* [Learning Scala in small bites](http://matt.might.net/articles/learning-scala-in-small-bites/)
-* [Learning Scalaz](http://eed3si9n.com/learning-scalaz/)
-* [Pro Scala: Monadic Design Patterns for the Web](https://github.com/leithaus/XTrace/tree/monadic/src/main/book/content/)
-* [Programming in Scala, First Edition](http://www.artima.com/pins1ed/) - M. Odersky, L. Spoon, B. Venners
+* [Learning Scala in small bites](http://matt.might.net/articles/learning-scala-in-small-bites)
+* [Learning Scalaz](http://eed3si9n.com/learning-scalaz)
+* [Pro Scala: Monadic Design Patterns for the Web](https://github.com/leithaus/XTrace/tree/monadic/src/main/book/content)
+* [Programming in Scala, First Edition](http://www.artima.com/pins1ed) - M. Odersky, L. Spoon, B. Venners
 * [Pure functional HTTP APIs in Scala](https://leanpub.com/pfhais/read) - Jens Grassel
-* [PythonToScala](https://wrobstory.gitbooks.io/python-to-scala/content/) - Rob Story
-* [S-99: Ninety-Nine Scala Problems](http://aperiodic.net/phil/scala/s-99/) - Phil! Gold
+* [PythonToScala](https://wrobstory.gitbooks.io/python-to-scala/content) - Rob Story
+* [S-99: Ninety-Nine Scala Problems](http://aperiodic.net/phil/scala/s-99) - Phil! Gold
 * [Scala & Design Patterns: Exploring Language Expressivity](http://www.scala-lang.org/old/sites/default/files/FrederikThesis.pdf) - Fredrik Skeel Løkke (PDF)
-* [Scala Book](https://alvinalexander.com/scala/scala-book-free/) - Alvin Alexander (PDF, MOBI, HTML, EPUB)
+* [Scala Book](https://alvinalexander.com/scala/scala-book-free) - Alvin Alexander (PDF, MOBI, HTML, EPUB)
 * [Scala By Example](https://www.scala-lang.org/old/sites/default/files/linuxsoft_archives/docu/files/ScalaByExample.pdf) - M. Odersky (PDF)
 * [Scala Cookbook: Bonus Chapters](http://examples.oreilly.com/9781449339616-files/Scala_Cookbook_bonus_chapters.pdf) - Alvin Alexander (PDF)
 * [Scala for Perl 5 Programmers](https://github.com/garu/scala-for-perl5-programmers) - Breno G. de Oliveira
-* [Scala School by Twitter](http://twitter.github.io/scala_school/)
+* [Scala School by Twitter](http://twitter.github.io/scala_school)
 * [Scala Succinctly](https://www.syncfusion.com/ebooks/scala_succinctly) - Chris Rose
-* [Scala Tutorial](https://www.tutorialspoint.com/scala/) - Tutorials Point (HTML, PDF)
+* [Scala Tutorial](https://www.tutorialspoint.com/scala) - Tutorials Point (HTML, PDF)
 * [Scala with Cats 2](https://www.scalawithcats.com) - Noel Welsh, Dave Gurnell (PDF, HTML, EPUB)
 * [tetrix in Scala](http://eed3si9n.com/tetrix-in-scala-html5-book)
 * [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html) - Daniel Westheide
-* [The Type Astronaut's Guide to Shapeless](http://underscore.io/books/shapeless-guide/) - Dave Gurnell (PDF, HTML, EPUB) (email address *requested*, not required)
-* [Xtrace](https://github.com/leithaus/XTrace/tree/monadic/src/main/book/content/)
+* [The Type Astronaut's Guide to Shapeless](http://underscore.io/books/shapeless-guide) - Dave Gurnell (PDF, HTML, EPUB) (email address *requested*, not required)
+* [Xtrace](https://github.com/leithaus/XTrace/tree/monadic/src/main/book/content)
 
 
 #### Lift

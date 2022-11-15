@@ -516,7 +516,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [C++ Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/cplusplus) (PDF, Kindle) (email address *requested*, not required)
 * [C++ Tricks](http://www.bordoon.com/cplusplus/book_wrapper.html)
 * [C++ Tutorial](https://www.cprogramming.com/tutorial/c++-tutorial.html)
-* [C++ Tutorial for Beginners - Full Course](https://youtu.be/vLnPwxZdW4Y)
 * [C++ Tutorial for Beginners - Learn C++ in 1 Hour](https://youtu.be/ZzaPdXTrSb8) 
 * [CS106X Programming Abstractions in C++](http://web.stanford.edu/class/cs106x/)
 * [Elements of Programming](http://elementsofprogramming.com) - Alexander Stepanov, Paul McJones (PDF)

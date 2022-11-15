@@ -6,6 +6,7 @@
 * [C#](#csharp)
 * [C++](#cpp)
 * [ClojureScript](#clojurescript)
+* [ColdFusion](#coldfusion)
 * [Crystal](#crystal)
 * [Dart](#dart)
 * [Docker](#docker)
@@ -22,6 +23,7 @@
     * [AngularJS](#angularjs)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
+* [Multiple Languages](#multiple-languages)
 * [.Net](#dotnet)
 * [Nim](#nim)
 * [Node.js](#nodejs)
@@ -90,6 +92,11 @@
 * [Web REPL](http://clojurescript.net)
 
 
+### ColdFusion
+
+* [TryCF](https://trycf.com)
+
+
 ### Crystal
 
 * [Compile & run code in Crystal](https://play.crystal-lang.org/#/cr)
@@ -99,6 +106,11 @@
 
 * [DartPad](https://dartpad.dev)
 * [Replit](https://replit.com/languages/dart)
+
+
+### DevOps
+
+* [KodeKloud](https://kodekloud.com/kodekloud-engineer/)
 
 
 ### Docker
@@ -166,6 +178,7 @@
 
 ### JavaScript
 
+* [CodeHS](https://codehs.com/explore/sandbox/javascript)
 * [CodePen](https://codepen.io)
 * [CodeSandbox.io](https://codesandbox.io)
 * [Esfiddle](https://esfiddle.net)
@@ -175,6 +188,7 @@
 * [JSBin](https://jsbin.com)
 * [JSFiddle](https://jsfiddle.net)
 * [OneCompiler](https://onecompiler.com/javascript)
+* [PlayCode](https://playcode.io/javascript)
 * [Plunker](https://plnkr.co)
 * [SoloLearn](https://code.sololearn.com/web#javascript)
 
@@ -198,6 +212,11 @@
 * [Play with Kubernetes](https://labs.play-with-k8s.com)
 
 
+### Multiple Languages
+
+* [CodeChef](https://www.codechef.com/ide)
+
+
 ### <a id="dotnet"></a>.NET
 
 * [.NET Fiddle](https://dotnetfiddle.net)
@@ -212,6 +231,7 @@
 
 * [Hello Node - (Glitch)](https://glitch.new/node) *(Account requested, not required)*
 * [Ideone](https://ideone.com)
+* [MDX Playground](https://mdxjs.com/playground)
 * [SoloLearn](https://code.sololearn.com/nodejs)
 
 
@@ -296,7 +316,7 @@
 
 ### Scala
 
-* [ScalaFiddle.io](https://scalafiddle.io)
+* [JDoodle](https://www.jdoodle.com/compile-scala-online)
 * [Scastie](https://scastie.scala-lang.org)
 
 
@@ -315,6 +335,7 @@
 
 * [Extends Class](https://extendsclass.com/sqlite-browser.html)
 * [SQLFiddle](http://sqlfiddle.com)
+* [SQLite Online](https://sqliteonline.com)
 
 
 ### Svelte
@@ -333,6 +354,7 @@
 
 * [Playground](https://www.typescriptlang.org/play/index.html)
 * [StackBlitz](https://stackblitz.com/fork/typescript)
+* [TypeScript: TS Playground](https://www.typescriptlang.org/play)
 
 
 #### Angular

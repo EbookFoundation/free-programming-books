@@ -111,7 +111,7 @@
 
 ### DevOps
 
-* [KodeKloud](https://kodekloud.com/kodekloud-engineer)
+* [KodeKloud](https://kodekloud.com/kodekloud-engineer/)
 
 
 ### Docker

@@ -79,7 +79,6 @@
 * [C 언어 초보 강의](https://www.youtube.com/playlist?list=PLMsa_0kAjjrdiwQykI8eb3H4IRxLTqCnP) - 나도코딩 (YouTube)
 * [C언어 기초 프로그래밍 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdDNHeulKC6JM25MmZVS_3nT)
 * [C언어 코딩도장](https://dojang.io/course/view.php?id=2)
-* ```
 
 
 ### <a id="csharp"></a>C\#

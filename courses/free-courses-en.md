@@ -908,6 +908,7 @@
 * [Kubernetes Tutorial for Beginners](https://www.youtube.com/playlist?list=PLy7NrYWoggjziYQIDorlXjTvvwweTYoNC) - TechWorld with Nana
 * [Fundamentals of Containers, Kubernetes, and Red Hat OpenShift](https://www.edx.org/course/fundamentals-of-containers-kubernetes-and-red-hat) - edX
 
+
 ### Linux
 
 * [Introduction To Linux](https://www.edx.org/course/introduction-to-linux/) - The Linux Foundation (edx)

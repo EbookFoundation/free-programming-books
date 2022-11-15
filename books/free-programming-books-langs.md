@@ -2293,7 +2293,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [PythonToScala](https://wrobstory.gitbooks.io/python-to-scala/content) - Rob Story
 * [S-99: Ninety-Nine Scala Problems](http://aperiodic.net/phil/scala/s-99/) - Phil! Gold
 * [Scala & Design Patterns: Exploring Language Expressivity](http://www.scala-lang.org/old/sites/default/files/FrederikThesis.pdf) - Fredrik Skeel Løkke (PDF)
-* [Scala Book](https://alvinalexander.com/scala/scala-book-free) - Alvin Alexander (PDF, MOBI, HTML, EPUB)
+* [Scala Book](https://alvinalexander.com/scala/scala-book-free/) - Alvin Alexander (PDF, MOBI, HTML, EPUB)
 * [Scala By Example](https://www.scala-lang.org/old/sites/default/files/linuxsoft_archives/docu/files/ScalaByExample.pdf) - M. Odersky (PDF)
 * [Scala Cookbook: Bonus Chapters](http://examples.oreilly.com/9781449339616-files/Scala_Cookbook_bonus_chapters.pdf) - Alvin Alexander (PDF)
 * [Scala for Perl 5 Programmers](https://github.com/garu/scala-for-perl5-programmers) - Breno G. de Oliveira

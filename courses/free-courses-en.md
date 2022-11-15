@@ -904,7 +904,7 @@
 ### Kubernetes
 
 * [Kubernetes Core Concepts](https://kube.academy/paths/kubernetes-core-concepts) - KubeAcademy (VMware)
-* [Kubernetes Full Course](https://www.youtube.com/watch?v=0j-iIW3_sbg) - Edureka (youtube)
+* [Kubernetes Full Course in 7 Hours](https://www.youtube.com/watch?v=0j-iIW3_sbg) - Edureka
 * [Kubernetes Tutorial for Beginners](https://www.youtube.com/playlist?list=PLy7NrYWoggjziYQIDorlXjTvvwweTYoNC) - TechWorld with Nana
 
 

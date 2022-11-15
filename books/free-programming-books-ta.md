@@ -51,7 +51,7 @@
 
 ### Selenium
 
-* [எளிய தமிழில் Selenium](https://freetamilebooks.com/ebooks/learn-selenium-in-tamil/) - Nithya Durai (PDF)
+* [எளிய தமிழில் Selenium](https://freetamilebooks.com/ebooks/learn-selenium-in-tamil/) - து.நித்யா (PDF)
 
 
 ### Software Architecture

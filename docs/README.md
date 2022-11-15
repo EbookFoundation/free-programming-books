@@ -13,6 +13,8 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
   - [How-to](HOWTO-bs.md)
 - Bulgarian / български
 - Burmese / မြန်မာဘာသာ
+- Catalan
+  - [Contribuir](CONTRIBUTING-ca.md)
 - Chinese / 中文
   - [贡献者行为准则](CODE_OF_CONDUCT-zh.md)
   - [Contributing](CONTRIBUTING-zh.md)

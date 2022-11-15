@@ -1,5 +1,6 @@
 ### Index
 
+* [0 - Niezależne od języka programowania](#0---niezale%C5%BCne-od-j%C4%99zyka-programowania)
 * [Assembly Language](#assembly-language)
 * [Bash](#bash)
 * [Brainfuck](#brainfuck)
@@ -14,6 +15,11 @@
 * [PHP](#php)
 * [Python](#python)
 * [Swift](#swift)
+
+
+### 0 - Niezależne od języka programowania
+
+* [OSDev](https://www.youtube.com/playlist?list=PLGhEqiD7wAd5D-fe-Qz027_1yAH3rFMYF) - Gynvael Coldwind
 
 
 ### Assembly Language

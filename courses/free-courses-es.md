@@ -46,6 +46,7 @@
 ### Arduino
 
 * [Arduino, creando aplicaciones](https://www.coursera.org/learn/arduino-aplicaciones)
+* [Curso Arduino desde cero en Español fácil y didáctico](https://www.youtube.com/playlist?list=PLkjnQ3NFTPnY1eNyLDGi547gkVui1vyn2) - Bitwise Ar
 
 
 ### Bases de Datos
@@ -195,6 +196,7 @@
 
 ### Programación Web & Móvil
 
+* [Angular: Convierte cualquier template HTML en una WebAPP - Gratis](https://www.udemy.com/course/html-hacia-angular/) - Fernando Herrera (Udemy)
 * [Aplicaciones Web Avanzadas (2014)](http://ocw.uv.es/ingenieria-y-arquitectura/aplicaciones-web-avanzadas/Course_listing)
 * [Bootcamp Angular gratis](https://open-bootcamp.com/cursos/angular) - Open Bootcamp
 * [CSS Básico a Avanzado](https://www.pildorasinformaticas.es/course/css-avanzado-desde-0) - Juan Díaz (Píldoras Informáticas)

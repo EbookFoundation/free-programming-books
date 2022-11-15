@@ -31,6 +31,7 @@
 * [DevOps](#devops)
     * [Ansible](#ansible)
     * [Chef](#chef)
+    * [Jenkins](#jenkins)
 * [Digital Electronics](#digital-electronics)
 * [Docker](#docker)
 * [Elastic](#elastic)
@@ -519,7 +520,7 @@
 * [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611) - Karl Krueger, Dwayne Lessner, Gundega Dekena (Udacity)
 
 
-### Ansible
+#### Ansible
 
 * [Ansible + GCP](https://www.udemy.com/course/ansible-gcp) - Rohit Abraham (Udemy)
 * [Ansible Basics: An Automation Technical Overview](https://www.udemy.com/course/ansible-basics-an-automation-technical-overview) - Red Hat, Inc. (Udemy)
@@ -530,10 +531,20 @@
 * [Use Ansible with Amazon Web Services](https://www.udemy.com/course/ansible-aws) - Rohit Abraham (Udemy)
 
 
-### Chef
+#### Chef
 
 * [CHEF Tutorial](https://www.youtube.com/playlist?list=PLsgnv1SN76ILtD3TnVtXpX1hmwjyY9OuT) - Online Tutorials
 * [Learning Chef](https://www.youtube.com/playlist?list=PLKK5zTDXqzFM53J6-rikDrqbbY0Pu-9SP) - Nathen Harvey
+
+
+#### Jenkins
+
+* [FREE Advanced Jenkins in K8s (Docker in Docker)](https://www.udemy.com/course/free-advanced-jenkins-in-k8s-docker-in-docker) -  CS Career Kaizen (Udemy)
+* [Jenkins](https://youtube.com/playlist?list=PLhW3qG5bs-L_ZCOA4zNPSoGbnVQ-rp_dG) - Automation Step by Step
+* [Jenkins for Beginners](https://www.udemy.com/course/jenkins-for-beginners-n) - Musab Zayadneh (Udemy)
+* [Jenkins Tutorial](https://www.mygreatlearning.com/academy/learn-for-free/courses/jenkins-tutorial) (Great Learning)
+* [Jenkins Tutorial Step by Step](https://www.youtube.com/playlist?list=PL8VbCbavWfeGt_Hyq0h9Pymi9DTGowd5X) - The Testing Academy
+* [Jenkins Tutorial Video [2022 updated]](https://www.youtube.com/playlist?list=PLEiEAq2VkUUKGrfcoNYRgqam5YBERN8xa) - Simplilearn
 
 
 ### Digital Electronics

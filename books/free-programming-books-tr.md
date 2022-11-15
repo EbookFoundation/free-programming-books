@@ -9,13 +9,13 @@
 * [Git](#git)
 * [Go](#go)
 * [Güvenlik ve Gizlilik](#guvenlik-ve-gizlilik)
+* [Haskell](#haskell)
 * [HTML and CSS](#html-and-css)
 * [iOS](#ios)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
 * [Linux](#linux)
-* [Matlab](#matlab)
 * [.NET Framework](#net-framework)
 * [Python](#python)
     * [Django](#django)
@@ -76,6 +76,11 @@
 * [Özgür Yazılım Derneği Güvenlik Rehberi](https://guvenlik.oyd.org.tr) - Filiz Akin, et al.
 
 
+### Haskell
+
+* [Zor Yoldan Haskell](https://github.com/joom/zor-yoldan-haskell) - Yann Esposito,  `trl.:` Joomy Korkut
+
+
 ### HTML and CSS
 
 * [CSS Giriş](http://sercaneraslan.com/css/) - Sercan Eraslan
@@ -113,11 +118,6 @@
 * [GNU Linux Komutlari](https://www.fullportal.org/GNULINUX/Komutlar/GNULINUXKOMUTLAR.pdf) (PDF)
 * [Linux Belgeleri](http://www.belgeler.org/howto/howtos.html)
 * [Linux Sistem Yöneticisinin Kılavuzu](http://www.belgeler.org/sag/sag.html)
-
-
-### Matlab
-
-* [Matlab Programlamaya Giris](https://web.archive.org/web/20210727221605/https://ismailari.com/blog/matlab-programlamaya-giris/) - İsmail Arı *(:card_file_box: archived)*
 
 
 ### .NET Framework

@@ -1,6 +1,7 @@
 ### Index
 
 * [0 - Language Agnostic](#0---language-agnostic)
+    * [Архитектура приложений](#Архитектура-приложений)
     * [Облачные Вычисления](#Облачные-вычисления)
     * [Парадигмы Программирования](#Парадигмы-программирования)
     * [Работа c cетью](#Работа-с-сетью)
@@ -89,6 +90,11 @@
 * [Scrum и XP: заметки с передовой](http://scrum.org.ua/wp-content/uploads/2008/12/scrum_xp-from-the-trenches-rus-final.pdf) (PDF)
 
 
+#### Архитектура приложений
+
+* [The API](https://twirl.github.io/The-API-Book/index.ru.html) - Сергей Константинов (HTML, PDF, EPUB)
+
+
 #### Облачные вычисления
 
 * [Программирование Cloud Native. Микросервисы, Docker и Kubernetes](https://ipsoftware.ru/books/cloud-k8s/) - Иван Портянкин (PDF, EPUB, MOBI)
@@ -99,6 +105,7 @@
 
 * [Введение в функциональное программирование](http://funprog-ru.github.io) - John Harrison
 * [Практика функционального программирования](https://www.fprog.ru) - журнал
+* [Рефакторинг на максималках](https://github.com/bespoyasov/refactor-like-a-superhero-online-book/blob/main/manuscript-ru/README.md) - Александр Беспоясов
 
 
 #### Работа с сетью

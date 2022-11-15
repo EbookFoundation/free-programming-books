@@ -87,7 +87,7 @@
 
 * [JavaScript Malayalam Tutorial](https://www.youtube.com/watch?v=3mjwtu4_0uk) - Yes Tech Media
 * [javascript tutorial in malayalam](https://youtube.com/playlist?list=PLBKJGko2JEdF4irCbI5BdHIEfxEdfMNqA) - Tintu Vlogger
-* [JavaScript Malayalam Tutorials For Beginners](https://www.youtube.com/playlist?list=PLQzHWfiB9fWdQ6qcl5Vo4JPOA3kxpCJ3A) - Learn Programming In Malayalam (YouTube)
+* [JavaScript Malayalam Tutorials For Beginners](https://www.youtube.com/playlist?list=PLQzHWfiB9fWdQ6qcl5Vo4JPOA3kxpCJ3A) - Learn Programming In Malayalam
 
 
 #### Node.js

@@ -1136,7 +1136,6 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [JavaScript Spessore](https://web.archive.org/web/20160325064800/https://leanpub.com/javascript-spessore/read) - Reginald Braithwaite (HTML)
 * [JavaScript Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/javascript) - Cody Lindley (PDF, Kindle; email address *requested*, not required)
 * [JavaScript the Right Way](https://github.com/braziljs/js-the-right-way) - William Oliveira, Allan Esquina (HTML)
-* [Javascript Tutorial](https://www.w3schools.com/js)
 * [Javascript Tutorial](https://www.tutorialspoint.com/javascript/index.htm)
 * [JavaScript Tutorial for Beginners - Full Course in 8 Hours [2020]](https://youtu.be/Qqx_wzMmFeA) 
 * [JavaScript Wikibook](https://en.wikibooks.org/wiki/JavaScript) - Wikibooks (HTML, PDF)

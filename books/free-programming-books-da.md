@@ -26,6 +26,7 @@
 ### Java
 
 * [Objektorienteret programmering i Java](http://javabog.dk) - Jacob Nordfalk
+* [The Complete Reference Java](http://javabog.dk) - Swaminaryan
 
 
 ### Pascal

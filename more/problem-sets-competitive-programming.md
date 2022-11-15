@@ -133,5 +133,5 @@
 * [Timus Online Judge](http://acm.timus.ru)
 * [Topic wise multiple choice questions in computer science](https://www.geeksforgeeks.org/quiz-corner-gq/#C%20Programming%20Mock%20Tests) - Geeks For Geeks
 * [UVa Online Judge](https://uva.onlinejudge.org/index.php?Itemid=8&option=com_onlinejudge)
-* [Школа программиста](https://acmp.ru)
 * [Vulnhub.com](https://www.vulnhub.com)
+* [Школа программиста](https://acmp.ru)

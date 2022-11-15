@@ -5,6 +5,7 @@
 * [Go](#go)
 * [IoT (internet of things)](#iot-internet-of-things)
 * [Java](#java)
+* [PHP](#PHP)
 * [Python](#python)
 
 
@@ -33,7 +34,13 @@
 
 * [โครงสร้างข้อมูลฉบับวาจาจาวา](https://www.cp.eng.chula.ac.th/books/ds-vjjv/) - สมชาย ประสิทธิ์จูตระกูล
 * [แบบฝึกปฏิบัติฉบับวาจาจาวา](https://www.cp.eng.chula.ac.th/books/java101-lb/) - สมชาย ประสิทธิ์จูตระกูล
+* [เริ่มเรียนเขียนโปรแกรม: ฉบับวาจาจาวา](https://www.cp.eng.chula.ac.th/books/bp-vjjv/) - สมชาย ประสิทธิ์จูตระกูล
 * [Java Programming Concept](http://it.e-tech.ac.th/poohdevil/JavaConcepts/) - Rungrote Phonkam
+
+
+### PHP
+
+* [พื้นฐานภาษา PHP](http://marcuscode.com/lang/php) - MarcusCode
 
 
 ### Python

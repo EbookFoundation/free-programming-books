@@ -112,7 +112,7 @@
 
 ### MySQL
 
-* [MySQL Malayalam Tutorials for beginners](https://www.youtube.com/playlist?list=PLQzHWfiB9fWcxc10XNwm7CeOEMrjVr8a9) - Learn Programming In Malayalam (YouTube)
+* [MySQL Malayalam Tutorials for beginners](https://www.youtube.com/playlist?list=PLQzHWfiB9fWcxc10XNwm7CeOEMrjVr8a9) - Learn Programming In Malayalam
 
 
 ### PHP

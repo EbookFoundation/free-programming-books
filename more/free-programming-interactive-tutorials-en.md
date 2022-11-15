@@ -338,7 +338,7 @@
 
 #### Laravel
 
-* [Laravel Bootcamp](http://bootcamp.laravel.com) - Laravel Team (HTML)
+* [Learn the PHP Framework for Web Artisans](http://bootcamp.laravel.com) - Laravel Team
 
 
 ### PostgreSQL

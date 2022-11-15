@@ -2291,7 +2291,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Programming in Scala, First Edition](http://www.artima.com/pins1ed) - M. Odersky, L. Spoon, B. Venners
 * [Pure functional HTTP APIs in Scala](https://leanpub.com/pfhais/read) - Jens Grassel
 * [PythonToScala](https://wrobstory.gitbooks.io/python-to-scala/content) - Rob Story
-* [S-99: Ninety-Nine Scala Problems](http://aperiodic.net/phil/scala/s-99) - Phil! Gold
+* [S-99: Ninety-Nine Scala Problems](http://aperiodic.net/phil/scala/s-99/) - Phil! Gold
 * [Scala & Design Patterns: Exploring Language Expressivity](http://www.scala-lang.org/old/sites/default/files/FrederikThesis.pdf) - Fredrik Skeel Løkke (PDF)
 * [Scala Book](https://alvinalexander.com/scala/scala-book-free) - Alvin Alexander (PDF, MOBI, HTML, EPUB)
 * [Scala By Example](https://www.scala-lang.org/old/sites/default/files/linuxsoft_archives/docu/files/ScalaByExample.pdf) - M. Odersky (PDF)

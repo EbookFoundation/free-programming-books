@@ -8,6 +8,7 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
   - [How-to](HOWTO-ar.md)
 - Azerbaijani / Азәрбајҹан дили / آذربايجانجا ديلي
 - Bengali / বাংলা
+  - [Code of Conduct](CODE_OF_CONDUCT-bn.md)
   - [How-to](HOWTO-bn.md)
 - Bosnian / bosanski jezik
   - [How-to](HOWTO-bs.md)

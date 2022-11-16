@@ -67,6 +67,7 @@
 * [Machine Learning](#machine-learning)
 * [Markdown](#markdown)
 * [Matlab](#matlab)
+    * [Simulink](#simulink)
 * [Misc](#misc)
 * [.NET](#net)
 * [Networking](#networking)
@@ -1059,9 +1060,19 @@
 * [Data Processing and Feature Engineering with MATLAB](https://www.coursera.org/learn/feature-engineering-matlab) (coursera)
 * [Image Processing Using Matlab](https://youtube.com/playlist?list=PLEo-jHOqGNyUWoCSD3l3V-FjX9PnHvx5n) - Rashi Agarwal
 * [Introduction to Matlab in English](https://www.youtube.com/playlist?list=PLGED90Y_uL1KLpdRmVtwfpNoYCWU9RPkK) - Mohammed Mohammed
-* [MATLAB and Simulink Training](https://matlabacademy.mathworks.com)
+* [MATLAB for Data Processing and Visualization](https://matlabacademy.mathworks.com/details/matlab-for-data-processing-and-visualization/mlvi) - Renee Bach
+* [MATLAB Fundamentals](https://matlabacademy.mathworks.com/details/matlab-fundamentals/mlbe) - Erin Byrne
+* [MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) - Renee Bach
 * [MATLAB Programming for Numerical Computation NPTEL](https://www.youtube.com/playlist?list=PLRWKj4sFG7-6_Xr9yqg6SMr_F80KdFVhN) - Niket Kaisare NPTEL (YouTube)
+* [MATLAB Programming Techniques](https://matlabacademy.mathworks.com/details/matlab-programming-techniques/mlpr) - Matt Tearle
 * [MIT 18.S997 Introduction to MATLAB Programming](http://ocw.mit.edu/courses/mathematics/18-s997-introduction-to-matlab-programming-fall-2011/)
+
+
+#### Simulink
+
+* [Circuit Simulation Onramp](https://matlabacademy.mathworks.com/details/circuit-simulation-onramp/circuits) - Alisha Schor
+* [Simulink Fundamentals](https://matlabacademy.mathworks.com/details/simulink-fundamentals/slbe) - Alisha Schor, Zhi Wang
+* [Simulink Onramp](https://matlabacademy.mathworks.com/details/simulink-onramp/simulink) - Alisha Schor
 
 
 ### Misc

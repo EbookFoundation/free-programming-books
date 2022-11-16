@@ -70,6 +70,7 @@
 * [Komple React, Redux ve Hooks Dersleri](https://www.youtube.com/playlist?list=PLqG356ExoxZXEW9h1uTWCwqLLTJ_bO5Be) - Engin Demiroğ
 * [React Dersleri](https://www.youtube.com/playlist?list=PLIHume2cwmHeydP0GkOzSxJHT1ph1BrWj) - Mustafa Murat Coşkun
 * [Sıfırdan Uygulamalı React Geliştirme: Hooks,Redux & Firebase](https://www.youtube.com/playlist?list=PLXuv2PShkuHzbwIbcT29XZJBLyx3nWDzb) - Sadık Turan
+* [Yeni Başlayanlar İçin React](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq_eyixSZ4sVI1x6d7akLpsy) - Arin Yazilim
 
 
 ### Temel programlama

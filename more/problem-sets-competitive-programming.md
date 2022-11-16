@@ -65,6 +65,7 @@
 * [HackThisSite](https://www.hackthissite.org) (email address *requested*)
 * [Overthewire Wargames fungame to practice CTF](https://overthewire.org/wargames/bandit)
 * [Picoctf](https://picoctf.org/resources.html) (email address *requested*)
+* [SmashtheStack](http://www.smashthestack.org/wargames.html)
 * [TryHackMe](https://tryhackme.com) (email address *requested*)
 
 
@@ -134,4 +135,5 @@
 * [Timus Online Judge](http://acm.timus.ru)
 * [Topic wise multiple choice questions in computer science](https://www.geeksforgeeks.org/quiz-corner-gq/#C%20Programming%20Mock%20Tests) - Geeks For Geeks
 * [UVa Online Judge](https://uva.onlinejudge.org/index.php?Itemid=8&option=com_onlinejudge)
+* [Vulnhub.com](https://www.vulnhub.com)
 * [Школа программиста](https://acmp.ru)

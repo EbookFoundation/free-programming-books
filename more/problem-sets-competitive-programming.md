@@ -16,7 +16,6 @@
 * [AtCoder](https://atcoder.jp)
 * [beecrowd](https://www.beecrowd.com.br)
 * [Binary Search](https://binarysearch.com)
-* [Caribbean Online Judge](http://coj.uci.cu)
 * [COCI](https://hsin.hr/coci/)
 * [Codeabbey](http://www.codeabbey.com)
 * [Codechef](https://www.codechef.com/contests)

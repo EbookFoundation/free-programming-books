@@ -51,6 +51,7 @@
 
 ### Java
 
+* [Java Başlangıç ve İleri Düzey Eğitimi \| Console Dersleri \| Eclipse](https://www.youtube.com/playlist?list=PLURN6mxdcwL-l4FHKhu0Ex2zHvxd-7Nlx) - Enes Bayram
 * [JAVA Dersleri](https://www.youtube.com/playlist?list=PLqG356ExoxZUGwbqoJEKSMnaxVJe4Uvf8) - Engin Demiroğ
 * [Java Dersleri ve Nesne Yönelimli Programlama](https://www.youtube.com/playlist?list=PLEcJSEQK_cD5KHgg9sXumeg659hAr2j4W) - Kodlama Vakti
 * [Java Programlama](https://www.youtube.com/playlist?list=PLIHume2cwmHctrHFHADb0slNyn95x2M4I) - Mustafa Murat Coşkun

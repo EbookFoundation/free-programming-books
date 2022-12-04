@@ -890,7 +890,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Haskell Tutorial and Cookbook](https://markwatson.com/books/haskell-cookbook-site/) - Mark Watson
 * [Haskell web Programming](http://yannesposito.com/Scratch/fr/blog/Yesod-tutorial-for-newbies/) (Yesod tutorial)
 * [Learn Haskell Fast and Hard](http://yannesposito.com/Scratch/en/blog/Haskell-the-Hard-Way/) - Yann Esposito
-* [Learn You a Haskell for Great Good](http://learnyouahaskell.com) - Miran Lipovaca
+* [Learn You a Haskell for Great Good](http://learnyouahaskell.com) - Miran Lipovača
 * [Parallel and Concurrent Programming in Haskell](https://www.oreilly.com/library/view/parallel-and-concurrent/9781449335939/) - Simon Marlow
 * [Real World Haskell](http://book.realworldhaskell.org) - Bryan O'Sullivan, Don Stewart, John Goerzen
 * [Speeding Through Haskell](http://www.sthaskell.com) - Arya Popescu

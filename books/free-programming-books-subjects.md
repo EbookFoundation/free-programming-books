@@ -878,6 +878,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [A git Primer](https://danielmiessler.com/study/git/) - Daniel Miessler
 * [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-en.html) - Mark Lodato
 * [Conversational Git](http://blog.anvard.org/conversational-git/) - Alan Hohn
+* [get-git](https://get-git.readthedocs.io/en/latest/) - Arialdo Martini (HTML, PDF, EPUB)
 * [git - the simple guide](http://rogerdudler.github.io/git-guide/) - Roger Dudler (HTML)
 * [Git cookbook](https://git.seveas.net/about.html) - Dennis Kaarsemaker (HTML)
 * [Git for Computer Scientists](http://eagain.net/articles/git-for-computer-scientists/) - Tommi Virtanen

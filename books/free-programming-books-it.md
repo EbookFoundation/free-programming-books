@@ -65,6 +65,7 @@
 #### Sistemi di controllo versione
 
 * [Controllo di Versione con Subversion](https://svnbook.red-bean.com/index.it.html) - Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato (HTML, PDF)
+* [get-git](https://get-git.readthedocs.io/it/latest/) - Arialdo Martini (HTML, PDF, EPUB)
 * [Pro Git](https://git-scm.com/book/it) - Scott Chacon, Ben Straub (HTML, PDF, EPUB)
 
 

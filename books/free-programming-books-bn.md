@@ -11,6 +11,8 @@
 * [Misc](#misc)
 * [Python](#python)
 * [Sql](#sql)
+* [Sql](#sql)
+* [Sql](#sql)
 
 
 ### Algorithms

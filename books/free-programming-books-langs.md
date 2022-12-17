@@ -577,7 +577,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [ClojureScript Koans](http://clojurescriptkoans.com)
 * [ClojureScript Unraveled](https://funcool.github.io/clojurescript-unraveled/) (HTML)
 * [Data Sorcery with Clojure](http://data-sorcery.org/contents/)
-* [Learn ClojureScript](https://www.learn-clojurescript.com/) - Andrew Meredith
+* [Learn ClojureScript](https://www.learn-clojurescript.com) - Andrew Meredith
 * [Modern cljs](https://github.com/magomimmo/modern-cljs)
 * [SICP Distilled - An idiosyncratic tour of SICP in Clojure](http://www.sicpdistilled.com)
 * [The Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide)
@@ -1997,6 +1997,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Python 3 Official Documentation](https://docs.python.org/3/download.html) (PDF, EPUB, HTML, TEXT) (3.x)
 * [Python 3 Tutorial](https://github.com/Akuli/python-tutorial)
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook) - Jake VanderPlas (HTML, Jupyter Notebooks)
+* [Python for Astronomers](https://prappleizer.github.io/textbook.pdf) - Imad Pasha, Christopher Agostino (PDF)
 * [Python for Data Analysis](https://wesmckinney.com/book/) - Wes McKinney
 * [Python for Everybody](http://py4e.com/book) - Charles Russell Severance (PDF, EPUB, HTML) (3.x)
 * [Python for Informatics: Exploring Information](http://www.pythonlearn.com/book.php) - Charles Russell Severance (2.7.5)

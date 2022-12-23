@@ -11,4 +11,5 @@
 * [Dev Env](https://devenv.pl/podcast) - Adrian Piętka, Bartłomiej Michalski, Mateusz Konieczny (podcast)
 * [DevTalk](https://devstyle.pl/category/podcast)
 * [Piątki po deployu](https://piatkipodeployu.pl) - Mateusz Anioła, Miłosz Kusiciel (podcast)
+* [Porozmawiajmy o IT](https://porozmawiajmyoit.pl) - Krzysztof Kempiński (podcast)
 * [Rozmowa Kontrolowana](https://www.youtube.com/playlist?list=PLTKLAGr6FHxOcW4NRX3BCkU7Zml92WU1u) - Zaufana Trzecia Strona (screencast)

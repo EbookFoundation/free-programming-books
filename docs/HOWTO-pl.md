@@ -31,4 +31,4 @@ Nie wahaj się zadawać pytań; każdy kontrybutor zaczynał od pierwszego PR. M
 
 Nawet jeśli jesteś doświadczonym współtwórcą open source, mogą ci się zdarzyć potknięcia. Po przesłaniu swojego PR, ***GitHub Actions* uruchomi *linter*, często znajdując drobne problemy z odstępami lub alfabetyzacją**. Jeśli pojawi się zielony przycisk, wszystko jest gotowe do przeglądu, ale jeśli nie, kliknij „Szczegóły” pod kontrolką, która pozwoli dowiedzieć się co nie spodobało się linterowi. Napraw problem i dodaj zatwierdzenie do gałęzi z której utworzyłeś swój PR. 
 
-Na koniec, jeśli nie masz pewności, czy zasób, który chcesz dodać, jest odpowiedni dla `Free-Programming-Books`, przeczytaj wytyczne w [CONTRIBUTING](CONTRIBUTING-pl.md) *(po angielsku)*. ([tłumaczenia](README.md#translations) w innych językach)
+Na koniec, jeśli nie masz pewności, czy zasób, który chcesz dodać, jest odpowiedni dla `Free-Programming-Books`, przeczytaj wytyczne w [CONTRIBUTING](CONTRIBUTING.md) *(po angielsku)*. ([tłumaczenia](README.md#translations) w innych językach)

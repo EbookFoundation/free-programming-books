@@ -40,7 +40,7 @@ jobs:
 
       - name: Get changed files
         id: changed-files
-        uses: tj-actions/changed-files@v30.0.0
+        uses: tj-actions/changed-files@v35.2.0
         with:
           separator: " "
 

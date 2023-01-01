@@ -38,7 +38,7 @@
 
 ### Go
 
-* [کتاب آزاد آموزش زبان گو](https://book.gofarsi.ir/) - [مخزن کتاب](https://github.com/GoFarsi/book)
+* [کتاب آزاد آموزش زبان گو](https://book.gofarsi.ir) - [مخزن کتاب](https://github.com/GoFarsi/book)
 
 ### Java
 

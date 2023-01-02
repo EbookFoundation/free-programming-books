@@ -4,7 +4,7 @@
 * [C++](#cpp)
 * [Java](#java)
 
-###  <a id="C"></a>C Language
+###  C
 
 
 * [C Language Tutorial in Gujarati](https://youtube.com/playlist?list=PLWZSJXNkvgSekYRJNXITMtniu1A9Ad1ip) - Dr.Ashwin R. Dobariya

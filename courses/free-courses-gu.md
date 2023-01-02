@@ -1,6 +1,6 @@
 ### Index 
 
-* [C Language](#C)
+* [C](#c)
 * [C++](#cpp)
 * [Java Language](#Java)
 

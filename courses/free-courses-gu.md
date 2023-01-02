@@ -10,7 +10,7 @@
 * [C Language Tutorial in Gujarati](https://youtube.com/playlist?list=PLWZSJXNkvgSekYRJNXITMtniu1A9Ad1ip) - Dr.Ashwin R. Dobariya
 * [C Programming - Tutorials - (Gujarati)](https://youtube.com/playlist?list=PLWRTD8rr8hL1ewzfAZhi1aUGF2OyYqtFk) - Altus Education
 
-###  <a id="C++"></a>C++ Language
+###  <a id="cpp"></a>C++ 
 
 * [C++ Language Tutorial in Gujarati](https://youtube.com/playlist?list=PL3goAh_xm0h6y_eQb3nvH-R8Sge3E7CmK) - NextX Group
 

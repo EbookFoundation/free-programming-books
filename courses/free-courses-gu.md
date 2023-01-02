@@ -1,7 +1,7 @@
 ### Index 
 
 * [C Language](#C)
-* [C++ Language](#C++)
+* [C++](#cpp)
 * [Java Language](#Java)
 
 ###  <a id="C"></a>C Language

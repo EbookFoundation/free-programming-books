@@ -7,7 +7,7 @@
 ###  C
 
 
-* [C Language Tutorial in Gujarati](https://youtube.com/playlist?list=PLWZSJXNkvgSekYRJNXITMtniu1A9Ad1ip) - Dr.Ashwin R. Dobariya
+* [Programming in C (Practical)](https://youtube.com/playlist?list=PLWZSJXNkvgSekYRJNXITMtniu1A9Ad1ip) - Ashwin R. Dobariya
 * [C Programming - Tutorials - (Gujarati)](https://youtube.com/playlist?list=PLWRTD8rr8hL1ewzfAZhi1aUGF2OyYqtFk) - Altus Education
 
 ###  <a id="cpp"></a>C++ 

@@ -14,6 +14,6 @@
 
 * [C++ Language Tutorial in Gujarati](https://youtube.com/playlist?list=PL3goAh_xm0h6y_eQb3nvH-R8Sge3E7CmK) - NextX Group
 
-###  <a id="Java"></a>Java Language
+###  Java
 
 * [Java Language Tutorial in Gujarati](https://youtube.com/playlist?list=PLoLM2nmBY8ibBAIwpFWn5WdXZtmh4OZYf) - Information Technology 

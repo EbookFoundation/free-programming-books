@@ -2,7 +2,7 @@
 
 * [C](#c)
 * [C++](#cpp)
-* [Java Language](#Java)
+* [Java](#java)
 
 ###  <a id="C"></a>C Language
 

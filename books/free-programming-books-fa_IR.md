@@ -1,4 +1,6 @@
-### فهرست
+<div dir="rtl" markdown="1">
+
+### Index
 
 * [Cloud Computing](#cloud-computing)
 * [Software Engineering](#software-engineering)
@@ -89,3 +91,6 @@
 * [تحلیل شبکه‌های اجتماعی در R](http://cran.r-project.org/doc/contrib/Raeesi-SNA_in_R_in_Farsi.pdf) (PDF)
 * [راهنمای زبان R](http://cran.r-project.org/doc/contrib/Mousavi-R-lang_in_Farsi.pdf) (PDF)
 * [موضعات ویژه در R](http://cran.r-project.org/doc/contrib/Mousavi-R_topics_in_Farsi.pdf) (PDF)
+
+
+</div>

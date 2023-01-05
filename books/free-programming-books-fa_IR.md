@@ -8,7 +8,6 @@
 * [LaTeX](#latex)
 * [Linux](#linux)
 * [PHP](#php)
-    * [Symfony](#symfony)
 * [Python](#python)
     * [Django](#django)
 * [R](#r)
@@ -60,9 +59,6 @@
 
 
 ### PHP
-
-
-#### Symfony
 
 * [سیمفونی ۵: سریع‌ترین مسیر](https://web.archive.org/web/20210122133755/https://symfony.com/doc/current/the-fast-track/fa/index.html) *(:card_file_box: archived)*
 

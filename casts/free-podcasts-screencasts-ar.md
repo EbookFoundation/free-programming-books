@@ -11,4 +11,4 @@
 * [null++: بالعربي](https://nullplus.plus) - Mohamed Luay, Ahmad Alfy (podcast)
 * [The Egyptian Guy](https://anchor.fm/refaie) - Mohamed Refaie (podcast)
 * [The Weekly Noob](https://theweeklynoob.netlify.app) - Nabil Tharwat (podcast)
-* [Your Big Brother Metwally](https://anchor.fm/metwally) - Ahmed Metwally (podcast)
+* [أخوك الكبير متولي](https://anchor.fm/metwally) - Ahmed Metwally (podcast)

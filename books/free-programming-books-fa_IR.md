@@ -1,5 +1,3 @@
-<div dir="rtl" markdown="1">
-
 ### Index
 
 * [Cloud Computing](#cloud-computing)
@@ -15,7 +13,6 @@
     * [Django](#django)
 * [R](#r)
 * [Software Engineering](#software-engineering)
-
 
 
 ### Cloud Computing
@@ -64,6 +61,7 @@
 
 ### PHP
 
+
 #### Symfony
 
 * [سیمفونی ۵: سریع‌ترین مسیر](https://web.archive.org/web/20210122133755/https://symfony.com/doc/current/the-fast-track/fa/index.html) *(:card_file_box: archived)*
@@ -92,6 +90,3 @@
 * [الگوهای طراحی](https://holosen.net/what-is-design-pattern/) - Hossein Badrnezhad *(نیاز به ثبت نام دارد)*
 * [الگوهای طراحی در برنامه‌نویسی شیء‌گرا](https://github.com/khajavi/Practical-Design-Patterns)
 * [ترجمه آزاد کتاب کد تمیز](https://codetamiz.vercel.app) - Robert C. Martin, et al.
-
-
-</div>

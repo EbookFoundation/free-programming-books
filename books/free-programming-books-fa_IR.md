@@ -3,9 +3,8 @@
 ### Index
 
 * [Cloud Computing](#cloud-computing)
-* [Software Engineering](#software-engineering)
-* [HTML and CSS](#html-and-css)
 * [Go](#go)
+* [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
@@ -15,6 +14,8 @@
 * [Python](#python)
     * [Django](#django)
 * [R](#r)
+* [Software Engineering](#software-engineering)
+
 
 
 ### Cloud Computing
@@ -27,21 +28,14 @@
 * [علم شبکه](http://networksciencebook.com) - آلبرت لازلو باراباسی
 
 
-### Software Engineering
+### Go
 
-* [الگوهای طراحی](https://holosen.net/what-is-design-pattern/) - Hossein Badrnezhad *(نیاز به ثبت نام دارد)*
-* [الگوهای طراحی در برنامه‌نویسی شیء‌گرا](https://github.com/khajavi/Practical-Design-Patterns)
-* [ترجمه آزاد کتاب کد تمیز](https://codetamiz.vercel.app) - Robert C. Martin, et al.
+* [کتاب آزاد آموزش زبان گو](https://book.gofarsi.ir)
 
 
 ### HTML and CSS
 
 * [یادگیری پیکربندی با CSS](http://fa.learnlayout.com)
-
-
-### Go
-
-* [کتاب آزاد آموزش زبان گو](https://book.gofarsi.ir)
 
 
 ### Java
@@ -91,6 +85,13 @@
 * [تحلیل شبکه‌های اجتماعی در R](http://cran.r-project.org/doc/contrib/Raeesi-SNA_in_R_in_Farsi.pdf) (PDF)
 * [راهنمای زبان R](http://cran.r-project.org/doc/contrib/Mousavi-R-lang_in_Farsi.pdf) (PDF)
 * [موضعات ویژه در R](http://cran.r-project.org/doc/contrib/Mousavi-R_topics_in_Farsi.pdf) (PDF)
+
+
+### Software Engineering
+
+* [الگوهای طراحی](https://holosen.net/what-is-design-pattern/) - Hossein Badrnezhad *(نیاز به ثبت نام دارد)*
+* [الگوهای طراحی در برنامه‌نویسی شیء‌گرا](https://github.com/khajavi/Practical-Design-Patterns)
+* [ترجمه آزاد کتاب کد تمیز](https://codetamiz.vercel.app) - Robert C. Martin, et al.
 
 
 </div>

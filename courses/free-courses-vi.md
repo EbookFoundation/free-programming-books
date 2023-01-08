@@ -3,6 +3,7 @@
 * [AJAX](#ajax)
 * [Android](#android)
 * [ASP.NET](#asp)
+* [AutoIt](#autoit)
 * [Bash](#bash)
 * [Blazor](#blazor)
 * [Bootstrap](#bootstrap)
@@ -57,6 +58,11 @@
 * [Làm dự án với ASP.NET Core 3.1](https://tedu.com.vn/khoa-hoc/lam-du-an-voi-aspnet-core-31-34.html) - TEDU
 * [Lập trình ASP.NET Core từ căn bản đến nâng cao](https://tedu.com.vn/khoa-hoc/lap-trinh-aspnet-core-tu-co-ban-den-nang-cao-33.html) - TEDU
 * [Lập trình dự án Website bán hàng ASP.NET MVC 4](https://tedu.com.vn/khoa-hoc/lap-trinh-du-an-website-ban-hang-aspnet-mvc-4-1.html) - TEDU
+
+
+### AutoIt
+
+* [Học lập trình AutoIt](https://j2team.teachable.com/p/hoc-lap-trinh-autoit) - J2TEAM *yêu cầu đăng ký*
 
 
 ### Bash

@@ -47,6 +47,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Standards](#standards)
 * [Theoretical Computer Science](#theoretical-computer-science)
 * [Version Control Systems](#version-control-systems)
+* [Virtual Reality](#virtual-reality)
 * [Web Performance](#web-performance)
 * [Web Services](#web-services)
 * [Workflow](#workflow)
@@ -914,6 +915,13 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Subversion Version Control](http://ptgmedia.pearsoncmg.com/images/0131855182/downloads/Nagel_book.pdf) - William Nagel (PDF)
 * [Think Like (a) Git: A Guide for the Perplexed](http://think-like-a-git.net) - Sam Livingston-Gray
 * [Version Control with Subversion](https://svnbook.red-bean.com/index.en.html) - Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato
+
+
+### Virtual Reality
+
+* [AUGMENTED REALITY](https://library.oapen.org/bitstream/id/f922c42d-ad74-4af1-953c-02c7518f37a7/628401.pdf) - José María Ariso (Ed.)
+* [VIRTUAL REALITY](http://msl.cs.uiuc.edu/vr/vrbook.pdf) - Steven M. LaValle
+* [Extended Reality in Practice](https://bernardmarr.com/wp-content/uploads/2022/05/Extended-Reality-in-Practice-1.pdf) - Bernard Marr
 
 
 ### Web Performance

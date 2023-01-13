@@ -1411,6 +1411,7 @@ That section got so big, we decided to split it into its own file, the [BY SUBJE
 * [Kotlin Official Documentation](https://kotlinlang.org/docs/reference/)
 * [Kotlin Quick Reference](https://kotlin-quick-reference.com) - Alvin Alexander (gitbook)
 * [Learning Kotlin](https://riptutorial.com/Download/kotlin.pdf) - Compiled from StackOverflow Documentation (PDF)
+* [Programming Kotlin](https://dokumen.pub/programming-kotlin-create-elegant-expressive-and-performant-jvm-and-android-applications-1nbsped-1680506358-9781680506358.html) - Venkat Subramaniam (PDF)
 
 
 ### LaTeX / TeX

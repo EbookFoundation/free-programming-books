@@ -751,6 +751,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [The Nature of Code](https://natureofcode.com/book) - Daniel Shiffman (HTML)
 * [Think Complexity](https://greenteapress.com/wp/think-complexity-2e/) - - Allen B. Downey (2nd Edition) (PDF, HTML)
 
+
 ### Programming Paradigms
 
 * [Flow based Programming](http://jpaulmorrison.com/fbp/) - J Paul Morrison

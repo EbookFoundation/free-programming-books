@@ -902,12 +902,12 @@
 * [React Testing Library Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gm4_-5UsNmLqMosM-dzuvQ) - The Net Ninja
 * [React Tutorials](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkArDMazoARtNz1aMwNWmvC) - freeCodeCamp
 * [ReactJS - Tutorial for Beginners](https://www.youtube.com/watch?v=Ke90Tje7VS0) - Mosh Hamedani (Programming with Mosh)
-* [ReactJS Tutorials](https://www.geeksforgeeks.org/reactjs-tutorials) - GeeksforGeeks
 * [ReactJS Basics](https://www.youtube.com/playlist?list=PLe30vg_FG4OSw8SIcLVci-jB_-W1ZkLYp) - Bitfumes
 * [ReactJS Course For Beginners 2022](https://www.youtube.com/playlist?list=PLpPqplz6dKxW5ZfERUPoYTtNUNvrEebAR) - PedroTech
 * [ReactJS Frontend Web Development For Beginners](https://www.udemy.com/course/react-tutorial/) - Ryan Dhungel (Udemy)
 * [ReactJS Full Course for Beginners \| Complete All-in-One Tutorial \| 9 Hours](https://www.youtube.com/watch?v=RVFAyFWO4go) - Dave Gray
 * [ReactJS Tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3) - Codevolution
+* [ReactJS Tutorials](https://www.geeksforgeeks.org/reactjs-tutorials) - GeeksforGeeks
 * [Start Using React to Build Web Applications](https://egghead.io/courses/react-fundamentals) - Joe Maddalone
 * [The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react) - Kent C. Dodds
 

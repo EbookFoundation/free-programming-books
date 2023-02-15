@@ -453,6 +453,7 @@
 
 ### Databases
 
+* [CMU Advanced Database Systems](https://youtube.com/replaylist?list=PLSE8ODhjZXjYzlLMbX3cR0sxWnRM7CLFn) - CMU Database Group
 * [CMU Intro to Database Systems](https://youtube.com/playlist?list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf) - CMU Database Group
 * [Database Systems](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/) (MIT's opencourseware)
 * [Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis)](https://www.youtube.com/watch?v=4cWkVbC2bNE) - Professor Immanuel Trummer, freeCodeCamp.org (YouTube)
@@ -1179,6 +1180,7 @@
 * [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110) (Udacity)
 * [Introduction To Python Programming](https://www.udemy.com/course/pythonforbeginnersintro/) - Avinash Jain, The Codex (Udemy)
 * [Introduction to Scripting in Python Specialization](https://www.coursera.org/specializations/introduction-scripting-in-python) (Coursera)
+* [Learn Django by Building an Online Marketplace](https://www.youtube.com/watch?v=ZxMB6Njs3ck&t=4204s)
 * [Learn Python](https://pythonspot.com)
 * [Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org)
 * [Learn Python For Free](https://scrimba.com/learn/python) - Olof Paulson (Scrimba)

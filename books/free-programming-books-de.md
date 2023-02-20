@@ -92,7 +92,7 @@
 
 ### Delphi
 
-* [Delphi-Starter](https://web.archive.org/web/https://downloads.delphi-treff.de/DelphiStarter.pdf) - Florian Hämmerle, Martin Strohal, Christian Rehn, Andreas Hausladen (PDF) *(:card_file_box: archived)*    
+* [Delphi-Starter](https://web.archive.org/web/20170714162427/https://downloads.delphi-treff.de/DelphiStarter.pdf) - Florian Hämmerle, Martin Strohal, Christian Rehn, Andreas Hausladen (PDF) *(:card_file_box: archived)*    
 
 
 ### Git

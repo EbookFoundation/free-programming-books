@@ -86,16 +86,13 @@ runs:
           }
         }
 
-        # set multiline output (the way of prevent script injection)
+        # set multiline output (the way of prevent script injection is with random delimiters)
         # https://docs.github.com/en/actions/using-workflows/workflow-commands-for-github-actions#multiline-strings
         # https://github.com/orgs/community/discussions/26288#discussioncomment-3876281
         $delimiter = (openssl rand -hex 8) | Out-String
-        echo "1=$EOF"
-        echo "2=$env:EOF"
-        echo "3=$delimiter"
-        echo "text<<$env:EOF" >> $env:GITHUB_OUTPUT
+        echo "text<<$delimiter" >> $env:GITHUB_OUTPUT
         echo "$text" >> $env:GITHUB_OUTPUT
-        echo "$env:EOF" >> $env:GITHUB_OUTPUT
+        echo "$delimiter" >> $env:GITHUB_OUTPUT
 
 
     - name: Write output

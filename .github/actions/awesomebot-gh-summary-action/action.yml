@@ -87,9 +87,9 @@ runs:
         }
 
         # HACK to single line strings (https://trstringer.com/github-actions-multiline-strings/)
-        $text = $text -replace "`%","%25"
-        $text = $text -replace "`n","%0A"
-        $text = $text -replace "`r","%25"
+        #$text = $text -replace "`%","%25"
+        #$text = $text -replace "`n","%0A"
+        #$text = $text -replace "`r","%25"
         # set output
         echo "text=$text" >> $env:GITHUB_OUTPUT
 

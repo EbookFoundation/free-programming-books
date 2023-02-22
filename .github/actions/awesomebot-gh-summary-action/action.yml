@@ -91,7 +91,7 @@ runs:
         $text = $text -replace "`n","%0A"
         $text = $text -replace "`r","%25"
         # set output
-        echo "::set-output name=text::$text"
+        echo "text=$text" >> $env:GITHUB_OUTPUT
 
 
     - name: Write output

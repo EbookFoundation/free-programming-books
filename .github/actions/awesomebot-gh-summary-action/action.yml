@@ -86,12 +86,11 @@ runs:
           }
         }
 
-        # HACK to single line strings (https://trstringer.com/github-actions-multiline-strings/)
-        #$text = $text -replace "`%","%25"
-        #$text = $text -replace "`n","%0A"
-        #$text = $text -replace "`r","%25"
-        # set output
-        echo "text=$text" >> $env:GITHUB_OUTPUT
+        # set multiline output
+        # https://docs.github.com/en/actions/using-workflows/workflow-commands-for-github-actions#multiline-strings
+        echo "text<<$EOF" >> $env:GITHUB_OUTPUT
+        echo "$text" >> $env:GITHUB_OUTPUT
+        echo "$EOF" >> $env:GITHUB_OUTPUT
 
 
     - name: Write output

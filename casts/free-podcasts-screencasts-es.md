@@ -1,5 +1,6 @@
 ### Index
 
+* [Bases de Datos](#bases-de-datos)
 * [Ciencia de Datos](#ciencia-de-datos)
 * [Desarrollo Web](#desarrollo-web)
 * [Frontend](#frontend)
@@ -9,10 +10,15 @@
 * [Variados](#variados)
 
 
+### Bases de Datos
+
+* [Conceptos fundamentales: Bases de datos relacionales](https://www.youtube.com/playlist?list=PLzSFZWTjelbJ01UciHPAWTqUFWesoGr9A) - Programación y más (screencast)
+
+
 ### Ciencia de Datos
 
 * [BigDateame](https://bigdateame.com) - Iker Gómez García (podcast)
-* [DataFuturologyEspanol](https://www.datafuturology.com/data-futurology-espanol) - Felipe Flores (podcast)
+* [DataFuturologyEspanol](https://podcasts.apple.com/es/podcast/data-futurology-espa%C3%B1ol/id1523527265) - Felipe Flores (podcast)
 * [DataLatam](http://www.datalatam.com) - Diego May, Frans van Dunné (podcast)
 * [SoyData](https://www.ivoox.com/podcast-soydata-ciencia-datos-a-tu_sq_f1414925_1.html) (podcast)
 
@@ -44,6 +50,7 @@
 * [Aprende de los expertos en The Dojo MX](https://www.youtube.com/playlist?list=PLfeFnTZNTVDO5UwcIvWherSLxuBuK6ve4) - Héctor Iván Patricio Moreno (screencast)
 * [Commit.fm](https://anchor.fm/khriztianmoreno) - Cristian Moreno (podcast) *(Última Actualización: Julio 2020)*
 * [Descargas de mi mente](https://www.ivoox.com/podcast-descargas-mi-mente_sq_f1584288_1.html) - Juan Ángel (podcast)
+* [DevTalles](https://open.spotify.com/show/0jrfxcnCrD7N9tlA0BGJp5) - Fernando Herrera (podcast)
 * [Domain-Driven Design](https://www.youtube.com/playlist?list=PLZVwXPbHD1KMsiA7ahRSbIwS3QMsQ0SbL) - Codely.TV (screencast)
 * [La Buhardilla Geek](https://www.ivoox.com/podcast-buhardilla-geek_sq_f1465450_1.html) - Juan Ángel Romero, Luis Miguel López (podcast)
 * [Maestría JS](https://anchor.fm/maestriajs) - Carlos Rojas (podcast) *(Última Actualización: Mayo 2020)*
@@ -53,6 +60,7 @@
 ### Software Libre
 
 * [Compilando Podcast](https://compilando.audio) - Paco Estrada (podcast)
+* [Mangocast](https://www.mangocast.net) - Lucho Benitez, Pablo Santa Cruz, Miguel Balsevich, Luis Corvalán, Rolando Natalizia (podcast)
 * [Podcast Linux](https://podcastlinux.com) - Juan Febles (podcast)
 
 

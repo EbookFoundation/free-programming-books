@@ -1,5 +1,6 @@
 ### Index
 
+* [0 - Niezależne od języka programowania](#0---niezale%C5%BCne-od-j%C4%99zyka-programowania)
 * [Assembly Language](#assembly-language)
 * [Bash](#bash)
 * [Brainfuck](#brainfuck)
@@ -14,6 +15,11 @@
 * [PHP](#php)
 * [Python](#python)
 * [Swift](#swift)
+
+
+### 0 - Niezależne od języka programowania
+
+* [OSDev](https://www.youtube.com/playlist?list=PLGhEqiD7wAd5D-fe-Qz027_1yAH3rFMYF) - Gynvael Coldwind
 
 
 ### Assembly Language
@@ -66,6 +72,7 @@
 * [Java GUI: programowanie Graficznego Interfejsu Użytkownika](https://www.youtube.com/playlist?list=PL3298E3EB8CFDE9BA)
 * [Kurs JavaFX od podstaw](https://www.youtube.com/playlist?list=PLpzwMkmxJDUwQuQR7Rezut5UE_8UGDxkU)
 * [Kurs programowania Java](https://www.youtube.com/playlist?list=PLED70A92187B1406A)
+* [Kurs programowania w Javie od podstaw](https://programovanie.pl) - Michał Łoza (email address *requested*, not required)
 * [Kurs programowania w języku Java (od podstaw!)](https://www.youtube.com/playlist?list=PLTs20Q-BTEMMJHb4GWFT34PAWxYyzndIY)
 
 
@@ -92,7 +99,9 @@
 * [Kurs PHP](https://www.youtube.com/playlist?list=PLE974A9BEF34A967A)
 * [Kurs PHP](https://www.youtube.com/playlist?list=PLD54FE15FA250C6C0)
 * [Kurs PHP. Programowanie backendowe](https://www.youtube.com/playlist?list=PLOYHgt8dIdox81dbm1JWXQbm2geG1V2uh) - Mirosław Zelent, Damian Stelmach
+* [Nauka PHP online](https://kursphp.com/nauka-php-online) - Marcin Wesel
 * [PHP - Kurs wideo](https://www.youtube.com/playlist?list=PLbOPmSDkHx2qfl91W8DFF3jhgjhWv6fkm)
+* [PHP Challenge - Szkoła IT Coders Lab](https://coderslab.pl/pl/php-challenge/wstep) - Coders Lab
 * [PHP dla początkujących - cały kurs](https://www.youtube.com/playlist?list=PL3pH4hKPTCS2XfwSI1VTRvP8xNtzY3gpi)
 * [Programowanie obiektowe w języku PHP5 (Szkolenie wideo)](https://www.youtube.com/playlist?list=PL_nu3rOfoPo4HIKGae-kSrJL-ebG7vyQ6)
 

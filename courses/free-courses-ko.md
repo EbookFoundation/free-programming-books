@@ -17,7 +17,6 @@
 * [Java](#java)
 * [JavaScript](#javascript)
     * [AngularJS](#angularjs)
-    * [Node.js](#nodejs)
     * [React.js](#reactjs)
 * [Kotlin](#kotlin)
 * [Linux](#linux)
@@ -38,6 +37,7 @@
 * [Swift](#swift)
 * [Unreal Engine](#unreal-engine)
 * [Web Development](#web-development)
+* [WebRTC](#webrtc)
 * [Windows](#windows)
 
 
@@ -77,7 +77,6 @@
 * [씹어먹는 C++](https://modoocode.com/135) - 이재범
 * [최호성의 C 프로그래밍](https://www.youtube.com/playlist?list=PLXvgR_grOs1BiznAEkzQdA9tlcA06qx75)
 * [C 언어 초보 강의](https://www.youtube.com/playlist?list=PLMsa_0kAjjrdiwQykI8eb3H4IRxLTqCnP) - 나도코딩 (YouTube)
-* [C++ 프로그래밍 강좌](https://www.youtube.com/playlist?list=PLJRimEWvctNAfE5JrkwswQv6Yy4abqDl2)
 * [C언어 기초 프로그래밍 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdDNHeulKC6JM25MmZVS_3nT)
 * [C언어 코딩도장](https://dojang.io/course/view.php?id=2)
 
@@ -108,7 +107,7 @@
 
 ### Git
 
-* [지옥에서 온 Git](https://www.opentutorials.org/course/2708) (생활코딩)
+* [GIT1](https://www.opentutorials.org/course/3837) - 생활코딩
 
 
 ### Go
@@ -131,7 +130,6 @@
 ### iOS
 
 * [iPhone 프로그래밍](https://www.youtube.com/playlist?list=PL9mhQYIlKEhdQ8viJACIwxIcUiXU2lMLX) (T 아카데미)
-* [Swfit로 시작하는 아이폰 앱 개발 교과서](https://www.youtube.com/playlist?list=PL9kzervdzKxzBQ4UsMy4H_PANaTEApq_X)
 
 
 ### Java
@@ -139,7 +137,7 @@
 * [Do it! Java 프로그래밍 입문](https://www.youtube.com/playlist?list=PLG7te9eYUi7typZrH4fqXvs4E22ZFn1Nj)
 * [Java 기초 프로그래밍 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdBjfCADjCc41aD4G0bmdl4R)
 * [Java 리듬게임 만들기 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdDySO3wDqMYGKMVH4Qa4QhR)
-* [Java 입문수업](https://www.opentutorials.org/course/1223) (생활코딩)
+* [Java 입문수업](https://www.opentutorials.org/course/3930) (생활코딩)
 * [Java with 인크레파스](https://www.youtube.com/playlist?list=PLa4r6B21Ny5ld_PTqzzqDMxxoj7l0z7Xp)
 
 
@@ -153,11 +151,6 @@
 #### AngularJS
 
 * [AngularJS](https://www.youtube.com/playlist?list=PLs_XsVQJKaBk_JN5RctLmmVrGwEzpzqaj) - 양재동 코드랩 (YouTube)
-
-
-#### Node.js
-
-* [모던 웹을 위한 Node.js 프로그래밍](https://www.youtube.com/playlist?list=PL9kzervdzKxy-c7UQgZbnZIr14DCPM87j)
 
 
 #### React.js
@@ -174,19 +167,21 @@
 ### Linux
 
 * [리눅스 및 커널 프로그래밍](http://www.kocw.net/home/search/kemView.do?kemId=1266434) (금오공대 최태영)
-* [Linux Kernel Basic](https://jihooyim1.gitbooks.io/linuxbasic/content) - Jihoo Yim (gitbook)
 
 
 ### Machine Learning
 
-* [머신러닝/딥러닝 입문](https://www.youtube.com/playlist?list=PLBXuLgInP-5m_vn9ycXHRl7hlsd1huqmS)
+* [머신러닝/딥러닝 입문 youtube playlist](https://www.youtube.com/playlist?list=PLBXuLgInP-5m_vn9ycXHRl7hlsd1huqmS) - 윤인성
+* [모두를 위한 머신러닝/딥러닝 강의](https://hunkim.github.io/ml/) - Sung Kim
 * [파이토치(PyTorch) 튜토리얼 한국어 번역](https://tutorials.pytorch.kr) (HTML) (:construction: *in process* - *번역 진행 중*)
-* [Python tensorflow & 머신러닝 기초 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdAbnmLH9yh03cw9UQU_o7PO)
+* [파이토치로 시작하는 딥러닝 기초](https://www.boostcourse.org/ai214) - boostcourse
+* [Python tensorflow & 머신러닝 기초 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdAbnmLH9yh03cw9UQU_o7PO) (동빈나)
 
 
 ### Mathematics
 
 * [수치해석](http://www.kocw.net/home/search/kemView.do?kemId=1297704) (국민대 김상철)
+* [수치해석 강의 동영상](https://youtube.com/playlist?list=PLczEhXyH_pUfKl9SPn-9j3K7olfBj5cpl) - 내가 이해한 기계공학 (WIU of Mech)
 * [전산수학1](http://www.kocw.net/home/search/kemView.do?kemId=1296081) (고려대 주재걸)
 
 
@@ -210,6 +205,7 @@
 
 ### PHP
 
+* [PHP](https://youtube.com/playlist?list=PLuHgQVnccGMDzq8zAwEY5lvwDWXWTZjB6) - 생활코딩
 * [PHP 프로그래밍](https://www.youtube.com/playlist?list=PLYNsYgev6U96jzS7AjBn5p7i_owJHqfyW)
 
 
@@ -257,7 +253,6 @@
 ### Spring
 
 * [스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8) (김영한)
-* [Spring 강좌](https://www.youtube.com/playlist?list=PLY9pe3iUjRrRiJeg0jw22yW1G5yzAdiqC)
 
 
 ### Swift
@@ -283,6 +278,11 @@
 * [Web2-PHP](https://www.opentutorials.org/course/3130) (생활코딩)
 * [Web2-Python](https://www.opentutorials.org/course/3256) (생활코딩)
 * [Web3-PHP & MySQL](https://www.youtube.com/playlist?list=PLuHgQVnccGMA5836CvWfieEQy0T0ov6Jh) (생활코딩)
+
+
+### WebRTC
+
+* [줌 클론코딩](https://nomadcoders.co/noom) - Nicolás Serrano Arévalo (Nomad Coders) (email address *required*)
 
 
 ### Windows

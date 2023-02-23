@@ -3,9 +3,9 @@
 * [Ajax](#ajax)
 * [C](#c)
 * [HTML and CSS](#html-and-css)
+* [Javascript](#javascript)
 * [MySQL](#mysql)
 * [PHP](#php)
-    * [Symfony](#symfony)
 * [Scratch](#scratch)
 
 
@@ -34,11 +34,13 @@
 * [PHP](http://php.punctsivirgula.ro)
 
 
-#### Symfony
-
-* [Symfony 5: Curs rapid](https://symfony.com/doc/current/the-fast-track/ro/index.html)
-
-
 ### Scratch
 
 * [Informatica Creativa](http://scratched.gse.harvard.edu/resources/informatica-creativa-0)
+
+
+### Javascript
+
+* [Curs si Tutoriale JavaScript](https://marplo.net/javascript)
+
+

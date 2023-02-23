@@ -50,14 +50,17 @@ jobs:
         run: |
           echo "${{ steps.changed-files.outputs.all_changed_files }}"  \
             | jq --raw-output '. | join(" ")'  \
-            | sed -e 's/^/::set-output name=files::/'
+            | sed -e 's/^/files=/'  \
+            >> $GITHUB_OUTPUT
           echo "${{ steps.changed-files.outputs.all_changed_files }}"  \
             | jq --raw-output '. | length'  \
-            | sed -e 's/^/::set-output name=files-len::/'
+            | sed -e 's/^/files-len=/'  \
+            >> $GITHUB_OUTPUT
       - id: set-matrix
         run: |
           echo "{\"file\":${{ steps.changed-files.outputs.all_changed_files }}}"  \
-            | sed -e 's/^/::set-output name=matrix::/'
+            | sed -e 's/^/matrix=/'  \
+            >> $GITHUB_OUTPUT
 
 
   check-urls:

@@ -86,12 +86,13 @@ runs:
           }
         }
 
-        # HACK to single line strings (https://trstringer.com/github-actions-multiline-strings/)
-        $text = $text -replace "`%","%25"
-        $text = $text -replace "`n","%0A"
-        $text = $text -replace "`r","%25"
-        # set output
-        echo "::set-output name=text::$text"
+        # set multiline output (the way of prevent script injection is with random delimiters)
+        # https://docs.github.com/en/actions/using-workflows/workflow-commands-for-github-actions#multiline-strings
+        # https://github.com/orgs/community/discussions/26288#discussioncomment-3876281
+        $delimiter = (openssl rand -hex 8) | Out-String
+        echo "text<<$delimiter" >> $env:GITHUB_OUTPUT
+        echo "$text" >> $env:GITHUB_OUTPUT
+        echo "$delimiter" >> $env:GITHUB_OUTPUT
 
 
     - name: Write output

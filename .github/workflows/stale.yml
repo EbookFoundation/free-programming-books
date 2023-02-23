@@ -81,7 +81,7 @@ jobs:
           stale-pr-label: " "
 
       - name: Print outputs for issues
-        run: echo ${{ join(steps.stale-issues.outputs.*, ',') }}
+        run: echo ${{ format('{0},{1}', toJSON(steps.stale-issues.outputs.staled-issues-prs), toJSON(steps.stale-issues.outputs.closed-issues-prs)) }}
 
       - name: Stale Pull Requests
         uses: actions/stale@v7
@@ -120,7 +120,7 @@ jobs:
           stale-issue-label: " "
 
       - name: Print outputs for PRs
-        run: echo ${{ join(steps.stale-prs.outputs.*, ',') }}
+        run: echo ${{ format('{0},{1}', toJSON(steps.stale-prs.outputs.staled-issues-prs), toJSON(steps.stale-prs.outputs.closed-issues-prs)) }}
 
       ## Removing private properties from each JSON object and compute array length
       ## TODO: Delete these set-* workarounds when resolve actions/stale#806 ?
@@ -129,17 +129,21 @@ jobs:
         run: |
           echo $INPUT_ISSUES  \
             | jq --compact-output --raw-output 'del(.[] | .[to_entries[] | .key | select(startswith("_"))])'  \
-            | sed -e 's/^/::set-output name=issues::/'
+            | sed -e 's/^/issues=/'  \
+            >> $GITHUB_OUTPUT
           echo $INPUT_ISSUES  \
             | jq --raw-output '. | length'  \
-            | sed -e 's/^/::set-output name=issues-len::/'
+            | sed -e 's/^/issues-len=/'  \
+            >> $GITHUB_OUTPUT
 
           echo $INPUT_PRS  \
             | jq --compact-output --raw-output 'del(.[] | .[to_entries[] | .key | select(startswith("_"))])'  \
-            | sed -e 's/^/::set-output name=prs::/'
+            | sed -e 's/^/prs=/'  \
+            >> $GITHUB_OUTPUT
           echo $INPUT_PRS  \
             | jq --raw-output '. | length'  \
-            | sed -e 's/^/::set-output name=prs-len::/'
+            | sed -e 's/^/prs-len=/'  \
+            >> $GITHUB_OUTPUT
         env:
           INPUT_ISSUES: ${{ steps.stale-issues.outputs.staled-issues-prs }}
           INPUT_PRS:    ${{ steps.stale-prs.outputs.staled-issues-prs }}
@@ -148,17 +152,21 @@ jobs:
         run: |
           echo $INPUT_ISSUES  \
             | jq --compact-output --raw-output 'del(.[] | .[to_entries[] | .key | select(startswith("_"))])'  \
-            | sed -e 's/^/::set-output name=issues::/'
+            | sed -e 's/^/issues=/'  \
+            >> $GITHUB_OUTPUT
           echo $INPUT_ISSUES  \
             | jq --raw-output '. | length'  \
-            | sed -e 's/^/::set-output name=issues-len::/'
+            | sed -e 's/^/issues-len=/'  \
+            >> $GITHUB_OUTPUT
 
           echo $INPUT_PRS  \
             | jq --compact-output --raw-output 'del(.[] | .[to_entries[] | .key | select(startswith("_"))])'  \
-            | sed -e 's/^/::set-output name=prs::/'
+            | sed -e 's/^/prs=/'  \
+            >> $GITHUB_OUTPUT
           echo $INPUT_PRS  \
             | jq --raw-output '. | length'  \
-            | sed -e 's/^/::set-output name=prs-len::/'
+            | sed -e 's/^/prs-len=/'  \
+            >> $GITHUB_OUTPUT
         env:
           INPUT_ISSUES: ${{ steps.stale-issues.outputs.closed-issues-prs }}
           INPUT_PRS:    ${{ steps.stale-prs.outputs.closed-issues-prs }}

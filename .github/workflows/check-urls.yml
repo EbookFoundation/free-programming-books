@@ -29,9 +29,9 @@ jobs:
       - name: Determine workflow parameters
         id: init-params
         run: |
-          echo "::set-output name=fetch_depth::0";
+          echo "fetch_depth=0" >> $GITHUB_OUTPUT
           if [ "${{ github.event_name }}" == "pull_request" ]; then
-            echo "::set-output name=fetch_depth::0";
+            echo "fetch_depth=0" >> $GITHUB_OUTPUT
           fi
 
       - uses: actions/checkout@v3

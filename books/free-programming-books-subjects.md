@@ -47,7 +47,6 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Standards](#standards)
 * [Theoretical Computer Science](#theoretical-computer-science)
 * [Version Control Systems](#version-control-systems)
-* [Virtual Reality](#virtual-reality)
 * [Web Performance](#web-performance)
 * [Web Services](#web-services)
 * [Workflow](#workflow)
@@ -300,10 +299,12 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 ### Graphics Programming
 
 * [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - David Lettier (Git) [(HTML)](https://lettier.github.io/3d-game-shaders-for-beginners)
+* [Augmented Reality](https://library.oapen.org/bitstream/id/f922c42d-ad74-4af1-953c-02c7518f37a7/628401.pdf) - José María Ariso (Ed.)
 * [Blender 3D: Noob to Pro](https://en.wikibooks.org/wiki/Blender_3D%3A_Noob_to_Pro) - Wikibooks
 * [Blender Manual](https://docs.blender.org/manual/en/latest)
 * [Computer Graphics from scratch](http://gabrielgambetta.com/computer-graphics-from-scratch) - Gabriel Gambetta (:construction: *in process*)
 * [DirectX manual](http://user.xmission.com/~legalize/book/download/index.html) (draft)
+* [Extended Reality in Practice](https://bernardmarr.com/wp-content/uploads/2022/05/Extended-Reality-in-Practice-1.pdf) - Bernard Marr
 * [GPU Gems](https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html)
 * [Graphics Programming Black Book](http://www.gamedev.net/page/resources/_/technical/graphics-programming-and-theory/graphics-programming-black-book-r1698) - Michael Abrash
 * [Introduction to Modern OpenGL](https://open.gl) - Alexander Overvoorde (HTML, EPUB, PDF) (C++)
@@ -318,6 +319,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Ray Tracing in One Weekend](https://raytracing.github.io) - Peter Shirley (HTML)
 * [ShaderX series](http://www.realtimerendering.com/resources/shaderx/) - Wolfgang Engel
 * [Tutorials for modern OpenGL](http://www.opengl-tutorial.org)
+* [Virtual Reality](http://msl.cs.uiuc.edu/vr/vrbook.pdf) - Steven M. LaValle
 * [WebGL Insights](http://webglinsights.com) - Patrick Cozzi, et al.
 
 
@@ -915,13 +917,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Subversion Version Control](http://ptgmedia.pearsoncmg.com/images/0131855182/downloads/Nagel_book.pdf) - William Nagel (PDF)
 * [Think Like (a) Git: A Guide for the Perplexed](http://think-like-a-git.net) - Sam Livingston-Gray
 * [Version Control with Subversion](https://svnbook.red-bean.com/index.en.html) - Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato
-
-
-### Virtual Reality
-
-* [AUGMENTED REALITY](https://library.oapen.org/bitstream/id/f922c42d-ad74-4af1-953c-02c7518f37a7/628401.pdf) - José María Ariso (Ed.)
-* [VIRTUAL REALITY](http://msl.cs.uiuc.edu/vr/vrbook.pdf) - Steven M. LaValle
-* [Extended Reality in Practice](https://bernardmarr.com/wp-content/uploads/2022/05/Extended-Reality-in-Practice-1.pdf) - Bernard Marr
 
 
 ### Web Performance

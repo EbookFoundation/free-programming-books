@@ -299,12 +299,11 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 ### Graphics Programming
 
 * [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - David Lettier (Git) [(HTML)](https://lettier.github.io/3d-game-shaders-for-beginners)
-* [Augmented Reality](https://www.researchgate.net/publication/227164365_Augmented_Reality_An_Overview) - Julie Carmigniani and Borko Furht
 * [Blender 3D: Noob to Pro](https://en.wikibooks.org/wiki/Blender_3D%3A_Noob_to_Pro) - Wikibooks
 * [Blender Manual](https://docs.blender.org/manual/en/latest)
 * [Computer Graphics from scratch](http://gabrielgambetta.com/computer-graphics-from-scratch) - Gabriel Gambetta (:construction: *in process*)
 * [DirectX manual](http://user.xmission.com/~legalize/book/download/index.html) (draft)
-* [Extended Reality](https://www.researchgate.net/publication/362525560_A_Review_of_Extended_Reality_XR_Technologies_in_the_Future_of_Human_Education_Current_Trend_and_Future_Opportunity) - Ahmed Jamah Ahmed Alnagrat
+* [Extended Reality in practice](https://bernardmarr.com/wp-content/uploads/2022/05/Extended-Reality-in-Practice-1.pdf) - Bernard Marr
 * [GPU Gems](https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html)
 * [Graphics Programming Black Book](http://www.gamedev.net/page/resources/_/technical/graphics-programming-and-theory/graphics-programming-black-book-r1698) - Michael Abrash
 * [Introduction to Modern OpenGL](https://open.gl) - Alexander Overvoorde (HTML, EPUB, PDF) (C++)
@@ -319,7 +318,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Ray Tracing in One Weekend](https://raytracing.github.io) - Peter Shirley (HTML)
 * [ShaderX series](http://www.realtimerendering.com/resources/shaderx/) - Wolfgang Engel
 * [Tutorials for modern OpenGL](http://www.opengl-tutorial.org)
-* [Virtual Reality](http://lavalle.pl/vr/) - Steven M. LaValle
+* [Virtual and Augmented Reality](https://www.cambridgescholars.com/resources/pdfs/978-1-5275-4813-8-sample.pdf) - Zeynep Tacgin
 * [WebGL Insights](http://webglinsights.com) - Patrick Cozzi, et al.
 
 

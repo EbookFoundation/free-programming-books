@@ -301,8 +301,8 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - David Lettier (Git) [(HTML)](https://lettier.github.io/3d-game-shaders-for-beginners)
 * [Blender 3D: Noob to Pro](https://en.wikibooks.org/wiki/Blender_3D%3A_Noob_to_Pro) - Wikibooks
 * [Blender Manual](https://docs.blender.org/manual/en/latest)
-* [Computer Graphics from scratch](http://gabrielgambetta.com/computer-graphics-from-scratch) - Gabriel Gambetta (:construction: *in process*)
 * [CGI Programming on the World Wide Web](https://www.oreilly.com/openbook/cgi/) - Shishir Gundavaram
+* [Computer Graphics from scratch](http://gabrielgambetta.com/computer-graphics-from-scratch) - Gabriel Gambetta (:construction: *in process*)
 * [DirectX manual](http://user.xmission.com/~legalize/book/download/index.html) (draft)
 * [GPU Gems](https://developer.nvidia.com/gpugems/GPUGems/gpugems_pref01.html)
 * [Graphics Programming Black Book](http://www.gamedev.net/page/resources/_/technical/graphics-programming-and-theory/graphics-programming-black-book-r1698) - Michael Abrash

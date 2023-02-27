@@ -299,7 +299,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 ### Graphics Programming
 
 * [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - David Lettier (Git) [(HTML)](https://lettier.github.io/3d-game-shaders-for-beginners)
-* [3D Math Primer for Graphics and Game Development ](https://gamemath.com/) - Fletcher Dunn and Ian Parberry
+* [3D Math Primer for Graphics and Game Development ](https://gamemath.com) - Fletcher Dunn and Ian Parberry
 * [Blender 3D: Noob to Pro](https://en.wikibooks.org/wiki/Blender_3D%3A_Noob_to_Pro) - Wikibooks
 * [Blender Manual](https://docs.blender.org/manual/en/latest)
 * [Computer Graphics from scratch](http://gabrielgambetta.com/computer-graphics-from-scratch) - Gabriel Gambetta (:construction: *in process*)
@@ -316,7 +316,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Notes for a Computer Graphics Programming Course](https://www.cs.csustan.edu/~rsc/CS3600F00/Notes.pdf) - Dr. Steve Cunningham (PDF)
 * [OpenGL](http://www.songho.ca/opengl/index.html) - Concepts and illustrations
 * [Ray Tracing in One Weekend](https://raytracing.github.io) - Peter Shirley (HTML)
-* [Real Time Rendering](https://www.realtimerendering.com/) - Tomas Akenine-M¨oller
+* [Real Time Rendering](https://www.realtimerendering.com) - Tomas Akenine-M¨oller
 * [ShaderX series](http://www.realtimerendering.com/resources/shaderx/) - Wolfgang Engel
 * [Tutorials for modern OpenGL](http://www.opengl-tutorial.org)
 * [Virtual Reality](http://lavalle.pl/vr/) - Steven M. LaValle

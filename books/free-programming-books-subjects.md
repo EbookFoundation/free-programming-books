@@ -315,8 +315,8 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Notes for a Computer Graphics Programming Course](https://www.cs.csustan.edu/~rsc/CS3600F00/Notes.pdf) - Dr. Steve Cunningham (PDF)
 * [OpenGL](http://www.songho.ca/opengl/index.html) - Concepts and illustrations
 * [Physically Based Rendering, Third Edition: from Theory to Implementation](https://www.pbr-book.org/3ed-2018/contents) - Matt Pharr
-* [Ray Tracing in One Weekend](https://raytracing.github.io) - Peter Shirley (HTML)
 * [Ray Tracing Gems Series](https://www.realtimerendering.com/raytracinggems/) - Eric Haines, Adam Marrs
+* [Ray Tracing in One Weekend](https://raytracing.github.io) - Peter Shirley (HTML)
 * [ShaderX series](http://www.realtimerendering.com/resources/shaderx/) - Wolfgang Engel
 * [Tutorials for modern OpenGL](http://www.opengl-tutorial.org)
 * [Virtual Reality](http://lavalle.pl/vr/) - Steven M. LaValle

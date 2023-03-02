@@ -51,6 +51,7 @@
 
 ### Algorithms & Data Structures
 
+* [بالعربي CS50T كورس \|\| CS50T in Arabic&rlm;](https://www.youtube.com/playlist?list=PLnrlZUDQofUvLtIMvVxZRYYju7ni0Xsxq) - Coders Camp - Rasha Abdeen
 * [سلسة الخوارزميات وحل المشاكل المستوى الاول](https://www.youtube.com/playlist?list=PL3X--QIIK-OEUIwbQU79V76RHelBUQKiz) - Programming Advices
 * [Algorithms - Full Coures In Arabic&rlm;](https://www.youtube.com/playlist?list=PLwCMLs3sjOY6KH-8c9F-lMWn-r02hyoV_) - Hard-Code
 * [Algorithms Design & Analysis&rlm;](https://www.youtube.com/playlist?list=PLEBRPBUkZ4maAlTZw3eZFwfwIGXaln0in) - FCI-Career-Build
@@ -59,13 +60,12 @@
 * [CS Master - Level 2- Dive into the Computer كيف يعمل الكمبيوتر](https://www.youtube.com/playlist?list=PLL2zWZTDFZziX_xS2bbGfLAOHVmlzURhF) - KMR Script
 * [CS50 in Arabic&rlm;](https://www.youtube.com/playlist?list=PLL2zWZTDFZzibJ49gBM2owqCzda8meSNj) - KMR Script
 * [CS50 In Arabic&rlm;](https://www.youtube.com/playlist?list=PLnrlZUDQofUv7JE4QIahAyztrQU9bnJmd) - Coders Camp - Rasha Abdeen
-* [بالعربي CS50T كورس \|\| CS50T in Arabic&rlm;](https://www.youtube.com/playlist?list=PLnrlZUDQofUvLtIMvVxZRYYju7ni0Xsxq) - Coders Camp - Rasha Abdeen
 * [Cs50 In Arabic 2022 \| كورس cs50 بالعربي كامل](https://www.youtube.com/playlist?list=PLknwEmKsW8OvsdJ64v5YljHNtt100kN6w) - Abdelrahman Gamal&rlm; (:construction: *in process*)
 * [Data structure&rlm;](https://www.youtube.com/playlist?list=PLIxq078xdGdZWUXwumK9lbEn3kKwKLTwx) - Nehal Elsamoly
 * [Data Structure&rlm;](https://www.youtube.com/playlist?list=PLwCMLs3sjOY4UQq4vXgGPwGLVX1Y5faaS) - Hard-Code
 * [Data Structure : JavaScript (leetcode problem solving)&rlm;](https://www.youtube.com/playlist?list=PLS-MrzRLZtmdIHJ-Osvv_sJO1Msc4VM_7) - Shadow Coding
-* [Data Structures and Algorithms&rlm;](https://www.youtube.com/playlist?list=PL0vtyWBHY2NVOtPYuz0rNw6kmuLmVZ780) - Tarek Alabd&rlm; (:construction: *in process*)
 * [Data Structure C++&lrm;&rlm;](https://www.youtube.com/playlist?list=PLsGJzJ8SQXTcsXRVviurGei0lf_t_I4D8) - Mega Code
+* [Data Structures and Algorithms&rlm;](https://www.youtube.com/playlist?list=PL0vtyWBHY2NVOtPYuz0rNw6kmuLmVZ780) - Tarek Alabd&rlm; (:construction: *in process*)
 * [Data Structures Full Course In Arabic&rlm;](https://www.youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp) - Adel Nasim
 * [grokking-algorithms&rlm;](https://www.youtube.com/playlist?list=PLIxq078xdGdZl38Yx2IhYc_YpKjx7MAXW) - Nehal Elsamoly&rlm; (:construction: *in process*)
 * [Problem solving (Arabic)&rlm;](https://www.youtube.com/playlist?list=PLYknlDiw2kSwdDhTSDoX7ZoVEle8nbZdk) - Muhammed Afifi
@@ -95,8 +95,8 @@
 
 ### C
 
-* [Introduction to Programming ( C Language - مقدمة في البرمجة ( لغة السي](https://www.youtube.com/playlist?list=PLMm8EjqH1EFXI8wByY0umF_DQON2S9uws) - Ahmed Sallam
 * [Data Structures In Arabic Using C&rlm;](https://www.youtube.com/playlist?list=PLEBRPBUkZ4mb6lVqSLRQ7mvSFRcoR7-XV) - FCI-Career-Build
+* [Introduction to Programming ( C Language - مقدمة في البرمجة ( لغة السي](https://www.youtube.com/playlist?list=PLMm8EjqH1EFXI8wByY0umF_DQON2S9uws) - Ahmed Sallam
 
 
 ### <a id="csharp"></a>C#&lrm;
@@ -152,6 +152,7 @@
 * [Database Design](https://www.youtube.com/playlist?list=PLkzDzmo9y3VHDFKp7LuXd-FwbefvTL5o0) - تخاريف مبرمج
 * [Designing Data Intensive Applications بالعربي](https://www.youtube.com/playlist?list=PLTRDUPO2OmIljJwE9XMYE_XEgEIWZDCuQ) - Ahmed Elemam
 
+
 #### NoSQL
 
 * [Mongodb - دورة تعلم](https://www.youtube.com/playlist?list=PLfDx4cQoUNObp1ujQRNooNiadKdlflevM) - Algorithm Academy
@@ -184,8 +185,8 @@
 
 ### Elastic
 
-* [Elastic بالعربي](https://www.youtube.com/playlist?list=PLZd2bo_SbAm87XtU1K1p_uxqJBjaQJAY1) - Ismail Anjrini
 * [Elastic 5&rlm;](https://www.youtube.com/playlist?list=PLZd2bo_SbAm-Z4WBo9-_mWLyjjwDioux-) - Ismail Anjrini
+* [Elastic بالعربي](https://www.youtube.com/playlist?list=PLZd2bo_SbAm87XtU1K1p_uxqJBjaQJAY1) - Ismail Anjrini
 
 
 ### Flutter
@@ -490,9 +491,9 @@
 
 ### RegEx
 
+* [التعابير النمطية‌ \| REGEX&rlm;](https://www.youtube.com/playlist?list=PLt0HRIA9i35v2W3JFiCIeUMC4GoD9titN) - Learn With Naw
 * [Crash Course - Regular Expression - Regex \| دورة مكثفة - التعابير النظامية](https://www.youtube.com/playlist?list=PLBPdtL8DZBZISjop48YSJ82FF-2uIhe-f) - Abdallah Alfaham • عبد الله الفحام
 * [Regular Expression tutorial - Arabic&rlm;](https://www.youtube.com/playlist?list=PLwCMLs3sjOY4aVMg7hgQGHyQBZnHgFjJk) - Hard-Code
-* [التعابير النمطية‌ \| REGEX](https://www.youtube.com/playlist?list=PLt0HRIA9i35v2W3JFiCIeUMC4GoD9titN) - Learn With Naw
 
 
 ### Software Architecture

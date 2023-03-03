@@ -368,7 +368,7 @@
 * [11 القسم الحادي عشر : تنسر فلو و كيراس TensorFlow & Keras&rlm;](https://www.youtube.com/playlist?list=PL6-3IRz2XF5VbuU2T0gS_mFhCpKmLxvCP) - Hesham Asem
 * [12 القسم الثاني عشر : تطبيقات عملية من كاجل و جيتهاب Kaggle & Github&rlm;](https://www.youtube.com/playlist?list=PL6-3IRz2XF5XA13ZqfacovmyOLjYwwhMt) - Hesham Asem
 * [13 ML Helper Tutorials برنامج المساعد في تعليم الآلة](https://www.youtube.com/playlist?list=PL6-3IRz2XF5VdA0sd-nLM0LMzhfivfwmu) - Hesham Asem
-* [Introduction to Machine Learning&rlm;](https://www.youtube.com/playlist?list=PL5JZLxl_tFCdOXYNVz7Wl7XyFR67q658r) - Dr. Khaled Mostafa Elsayed
+* [Introduction to Machine Learning&rlm;](https://www.youtube.com/playlist?list=PL5JZLxl_tFCdOXYNVz7Wl7XyFR67q658r) - Khaled Mostafa Elsayed
 
 
 ## Microservice 
@@ -387,8 +387,8 @@
 * [26 NLP-06 تجميع البيانات](https://www.youtube.com/playlist?list=PL6-3IRz2XF5UsyOPThnWFKUzSkrQwQHJ0) - Hesham Asem
 * [27 NLP-07 الشبكات العصبية المتكررة](https://www.youtube.com/playlist?list=PL6-3IRz2XF5XZCwISqNQPFFns9bnx2wUG) - Hesham Asem
 * [28 NLP-08 تكنيكات حديثة في المعالجة اللغوية الطبيعية](https://www.youtube.com/playlist?list=PL6-3IRz2XF5XHsUtAUid97yRi011KSDBZ) - Hesham Asem
-* [Convolutional Neural Network (CNN)&rlm;](https://www.youtube.com/playlist?list=PL5JZLxl_tFCcKucpxtkwbneqAvHaPOCK6) - Dr. Khaled Mostafa Elsayed
-* [NLP-Transformers&rlm;](https://www.youtube.com/playlist?list=PL5JZLxl_tFCd-ixMkn_CJPQhhQRFhZXjY) - Dr.KhaledMostafa Elsayed
+* [Convolutional Neural Network (CNN)&rlm;](https://www.youtube.com/playlist?list=PL5JZLxl_tFCcKucpxtkwbneqAvHaPOCK6) - Khaled Mostafa Elsayed
+* [NLP-Transformers&rlm;](https://www.youtube.com/playlist?list=PL5JZLxl_tFCd-ixMkn_CJPQhhQRFhZXjY) - Khaled Mostafa Elsayed
 
 
 ### .NET

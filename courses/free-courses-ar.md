@@ -15,6 +15,8 @@
     * [NoSQL](#nosql)
     * [SQL](#sql)
 * [Deep Learning](#deep-learning)
+* [DevOps](#devops)
+* [Elastic](#elastic)
 * [Flutter](#flutter)
 * [Game Development](#game-development)
 * [Git](#git)
@@ -24,10 +26,12 @@
     * [Gulp.js](#gulpjs)
     * [jQuery](#jquery)
     * [NodeJS](#nodejs)
+    * [Nuxt.js](#nuxtjs)
     * [PugJs](#pugjs)
     * [React.js](#reactjs)
     * [Vue.js](#vuejs)
 * [Machine Learning](#machine-learning)
+* [Microservice](#microservice)
 * [Natural Language Programming](#natural-language-programming)
 * [.NET](#net)
 * [Operating Systems](#operating-systems)
@@ -38,6 +42,8 @@
     * [Django](#django)
     * [Flask](#flask)
 * [R](#r)
+* [RabbitMQ](#rabbitmq)
+* [Redis](#redis)
 * [Software Architecture](#software-architecture)
 * [TypeScript](#typescript)
     * [Angular](#angular)
@@ -45,17 +51,21 @@
 
 ### Algorithms & Data Structures
 
+* [بالعربي CS50T كورس \|\| CS50T in Arabic&rlm;](https://www.youtube.com/playlist?list=PLnrlZUDQofUvLtIMvVxZRYYju7ni0Xsxq) - Coders Camp - Rasha Abdeen
+* [سلسة الخوارزميات وحل المشاكل المستوى الاول](https://www.youtube.com/playlist?list=PL3X--QIIK-OEUIwbQU79V76RHelBUQKiz) - Programming Advices
 * [Algorithms - Full Coures In Arabic&rlm;](https://www.youtube.com/playlist?list=PLwCMLs3sjOY6KH-8c9F-lMWn-r02hyoV_) - Hard-Code
+* [Algorithms Design & Analysis&rlm;](https://www.youtube.com/playlist?list=PLEBRPBUkZ4maAlTZw3eZFwfwIGXaln0in) - FCI-Career-Build
 * [C++ Data Structures - تراكيب البيانات](https://www.youtube.com/playlist?list=PL1DUmTEdeA6JlommmGP5wicYLxX5PVCQt) - محمد الدسوقي
 * [CS Master - Level 1- Algorithms & Data Structures الخوارزميات وهياكل البيانات](https://www.youtube.com/playlist?list=PLL2zWZTDFZzjxarUL23ydiOgibhRipGYC) - KMR Script
 * [CS Master - Level 2- Dive into the Computer كيف يعمل الكمبيوتر](https://www.youtube.com/playlist?list=PLL2zWZTDFZziX_xS2bbGfLAOHVmlzURhF) - KMR Script
 * [CS50 in Arabic&rlm;](https://www.youtube.com/playlist?list=PLL2zWZTDFZzibJ49gBM2owqCzda8meSNj) - KMR Script
-* [CS50 In Arabic&rlm;](https://www.youtube.com/playlist?list=PLnrlZUDQofUv7JE4QIahAyztrQU9bnJmd) - Coders Camp
+* [CS50 In Arabic&rlm;](https://www.youtube.com/playlist?list=PLnrlZUDQofUv7JE4QIahAyztrQU9bnJmd) - Coders Camp - Rasha Abdeen
 * [Cs50 In Arabic 2022 \| كورس cs50 بالعربي كامل](https://www.youtube.com/playlist?list=PLknwEmKsW8OvsdJ64v5YljHNtt100kN6w) - Abdelrahman Gamal&rlm; (:construction: *in process*)
 * [Data structure&rlm;](https://www.youtube.com/playlist?list=PLIxq078xdGdZWUXwumK9lbEn3kKwKLTwx) - Nehal Elsamoly
-* [Data Structure&rlm;](https://www.youtube.com/playlist?list=PLwCMLs3sjOY4UQq4vXgGPwGLVX1Y5faaS) - Hard Code
+* [Data Structure&rlm;](https://www.youtube.com/playlist?list=PLwCMLs3sjOY4UQq4vXgGPwGLVX1Y5faaS) - Hard-Code
 * [Data Structure : JavaScript (leetcode problem solving)&rlm;](https://www.youtube.com/playlist?list=PLS-MrzRLZtmdIHJ-Osvv_sJO1Msc4VM_7) - Shadow Coding
 * [Data Structure C++&lrm;&rlm;](https://www.youtube.com/playlist?list=PLsGJzJ8SQXTcsXRVviurGei0lf_t_I4D8) - Mega Code
+* [Data Structures and Algorithms&rlm;](https://www.youtube.com/playlist?list=PL0vtyWBHY2NVOtPYuz0rNw6kmuLmVZ780) - Tarek Alabd&rlm; (:construction: *in process*)
 * [Data Structures Full Course In Arabic&rlm;](https://www.youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp) - Adel Nasim
 * [grokking-algorithms&rlm;](https://www.youtube.com/playlist?list=PLIxq078xdGdZl38Yx2IhYc_YpKjx7MAXW) - Nehal Elsamoly&rlm; (:construction: *in process*)
 * [Problem solving (Arabic)&rlm;](https://www.youtube.com/playlist?list=PLYknlDiw2kSwdDhTSDoX7ZoVEle8nbZdk) - Muhammed Afifi
@@ -85,6 +95,7 @@
 
 ### C
 
+* [Data Structures In Arabic Using C&rlm;](https://www.youtube.com/playlist?list=PLEBRPBUkZ4mb6lVqSLRQ7mvSFRcoR7-XV) - FCI-Career-Build
 * [Introduction to Programming ( C Language - مقدمة في البرمجة ( لغة السي](https://www.youtube.com/playlist?list=PLMm8EjqH1EFXI8wByY0umF_DQON2S9uws) - Ahmed Sallam
 
 
@@ -100,6 +111,7 @@
 
 ### <a id="cpp"></a>C++&lrm;
 
+* [\[ أصول البرمجة \] - شرح المؤشرات ( Pointers ) في لغة C/C++&lrm;&rlm;](https://www.youtube.com/playlist?list=PLwCMLs3sjOY6z3264DylWHcHBtmEjUWrA) - Hard-Code
 * [كورس البرمجة للمبتدئين بلغة C++&lrm;&rlm;](https://www.youtube.com/playlist?list=PL0vtyWBHY2NXXdrLompmAnxOaEfcAVmQi) - Tarek Alabd
 * [Arabic C++ For kids & beginners (برمجة لصغار السن والمبتدئيين)](https://www.youtube.com/playlist?list=PLPt2dINI2MIbwnEoeHZnUHeUHjTd8x4F3) - Arabic Competitive Programming
 * [Basics of OOP with C++&lrm;&rlm;](https://www.youtube.com/playlist?list=PL0vtyWBHY2NVdm59YZTEEuXqVQZtUAgoD) - Tarek Alabd
@@ -114,6 +126,8 @@
 * [C++ Programming From Scratch In Arabic&rlm;](https://www.youtube.com/playlist?list=PLCInYL3l2AajFAiw4s1U4QbGszcQ-rAb3) - Adel Nasim
 * [CS Master - Level 0 - Intro to CS مقدمة لعلوم الحاسب](https://www.youtube.com/playlist?list=PLL2zWZTDFZzivM2GAL3HpuFrHlLwp6FoO) - KMR Script
 * [CS Master - Level 4 - Object Oriented Programming & Design Patterns&rlm;](https://www.youtube.com/playlist?list=PLL2zWZTDFZzhul3X8djkfXzUxl7Cw7-sF) - KMR Script
+* [Fundamentals Of Programming With C++&lrm;&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS) - Elzero Web School 
+* [Introduction to Programming Using C++&lrm;&rlm;](https://www.youtube.com/playlist?list=PL3X--QIIK-OFIRbOHbOXbcfSAvw198lUy) - Programming Advices
 * [Modern c++&lrm;&rlm;](https://www.youtube.com/playlist?list=PLkH1REggdbJpykrlVYYRteEstS6F4VNtP) - Moatasem El Sayed&rlm; (:construction: *in process*)
 * [Object-Oriented Programming C++ in Arabic&rlm;](https://www.youtube.com/playlist?list=PLCInYL3l2Aaiq1oLvi9TlWtArJyAuCVow) - Adel Nasim
 * [Object-Oriented Programming with C++&lrm;&rlm;](https://www.youtube.com/playlist?list=PLMm8EjqH1EFXG_-EgmKb1gxW5S4XaQYaE) - Ahmed Sallam
@@ -136,6 +150,7 @@
 * [CS Master - Level 3 - Databases قواعد البيانات](https://www.youtube.com/playlist?list=PLL2zWZTDFZzhXQ1bcYlO3PtN4MsLiG-gy) - KMR Script
 * [Database 1 - المقرر النظرى - Fundamentals of Database Systems](https://www.youtube.com/playlist?list=PL37D52B7714788190) - محمد الدسوقى
 * [Database Design](https://www.youtube.com/playlist?list=PLkzDzmo9y3VHDFKp7LuXd-FwbefvTL5o0) - تخاريف مبرمج
+* [Designing Data Intensive Applications بالعربي](https://www.youtube.com/playlist?list=PLTRDUPO2OmIljJwE9XMYE_XEgEIWZDCuQ) - Ahmed Elemam
 
 
 #### NoSQL
@@ -163,6 +178,17 @@
 * [18 الكورس الخامس : الشبكات العصبية المتكررة RNN&rlm;](https://www.youtube.com/playlist?list=PL6-3IRz2XF5WTcrGAWlZUL9sOGYgSsON_) - Hesham Asem
 
 
+### DevOps
+
+* [GitOps and K8s بالعربي](https://www.youtube.com/playlist?list=PLTRDUPO2OmInz2Fo41zwnoR1IArx70Hig) - Ahmed Elemam
+
+
+### Elastic
+
+* [Elastic 5&rlm;](https://www.youtube.com/playlist?list=PLZd2bo_SbAm-Z4WBo9-_mWLyjjwDioux-) - Ismail Anjrini
+* [Elastic بالعربي](https://www.youtube.com/playlist?list=PLZd2bo_SbAm87XtU1K1p_uxqJBjaQJAY1) - Ismail Anjrini
+
+
 ### Flutter
 
 * [Advanced Flutter Tutorial - build E commerce App&rlm;](https://www.youtube.com/playlist?list=PLGVaNq6mHiniedDoXJd35XFBNvJAoq-xe) - Scholar Tech
@@ -177,6 +203,7 @@
 
 ### Game Development
 
+* [شرح محرك الألعاب Godot&rlm;](https://www.youtube.com/playlist?list=PLqBd9au_wtU3eX7mLVuLLOt9sfbDWlJsq) - Ahmed Mo'nis
 * [Godot - تعلم الأساسيات لتصميم الألعاب](https://www.youtube.com/playlist?list=PLXUEZFpQn01Hp06m0MxlMzj8x5Y2n9Dek) - SpriteSheet
 * [Godot Engine&rlm;](https://www.youtube.com/playlist?list=PLU8IixMdsBbm7qblHP6rEENpOPK0SAxes) - Whales State
 * [Unity 2D Game&rlm;](https://www.youtube.com/playlist?list=PLltZRmsFXWnLp98IIM1CISQYWowq87YSp) - 6wrni
@@ -186,7 +213,9 @@
 ### Git
 
 * [Basic course for Git](https://www.youtube.com/playlist?list=PLYyqC4bNbCIeCHLTRtwdLpQvle_zIavZ-) - أكاديمية ترميز
+* [Git & Github in Arabic \| Git & Github كورس تعلم](https://www.youtube.com/playlist?list=PL_aOZuct6oAogr4UMkWddU7leOXw0QKJS) - Khalid Elshafie
 * [Git and Github&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF) - Elzero Web School
+* [Git GitHub & Bitbucket&rlm;](https://www.youtube.com/playlist?list=PL1FWK-sgJ9elQBDq5EtQ8AJFTlfqCJfEX) - Bashir Pro
 * [GitHub - تعلم العمل المشترك على](https://www.youtube.com/playlist?list=PLF8OvnCBlEY0CRqKiYKwOtrH-75MGIuyM) - TheNewBaghdad
 * [Learn Git in Arabic&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNOYVfQs_NFNyykcqkaJ_plmK) - Algorithm Academy
 
@@ -221,6 +250,7 @@
 * [JAVA Programming Course Level 3 Graphic User Interface By Arabic](https://www.youtube.com/playlist?list=PLnzqK5HvcpwRhWDkdkM4jSTPW3CgxKH8G) - محمد شوشان
 * [JAVA Programming Course Level 4 Connect Database and JAVA By Arabic](https://www.youtube.com/playlist?list=PLnzqK5HvcpwTmQTPK54W95WyNzT-33MR0) - محمد شوشان
 * [JAVA Programming Full Project by Arabic (uni_staff project) \|(المشروع الختامي بالجافا كاملا بشرح عربي )](https://www.youtube.com/playlist?list=PLnzqK5HvcpwQbsAGChtjlNPLVv6kTEXRG) - محمد شوشان
+* [Java SE 8 Core Features&rlm;](https://www.youtube.com/playlist?list=PLEBRPBUkZ4mZ-5ziYzaoK1leOLYHpqPXJ) - FCI-Career-Build
 * [Java Tutorial for beginners- full course  -تعلم البرمجة- جافا](https://www.youtube.com/playlist?list=PLwAjM63H9bRuXIojpKDei4dVLRcvqP8V7) - genial code
 * [Learn JAVA Programming From Scratch In Arabic&rlm;](https://www.youtube.com/playlist?list=PLCInYL3l2AajYlZGzU_LVrHdoouf8W6ZN) - Adel Nasim
 * [Object-Oriented Programming JAVA in Arabic&rlm;](https://www.youtube.com/playlist?list=PLCInYL3l2AagY7fFlhCrjpLiIFybW3yQv) - Adel Nasim
@@ -288,6 +318,11 @@
 * [REST API Node.js&rlm;](https://www.youtube.com/playlist?list=PLGhZWewM_75ILwl15d0Cn-W_XHpnKbNHL) - Emam Academy
 
 
+#### Nuxt.js
+
+* [Nuxt.js Course&rlm;](https://www.youtube.com/playlist?list=PLLXntwspGdhCBdax1ZJTEX6Gg5vCwOSUL) - Mahmoud Zohdi \- محمود زهدي
+
+
 #### PugJs
 
 * [Learn PugJs&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxckfbgAzwwxeoeBfi0y724) - Elzero Web School
@@ -333,6 +368,13 @@
 * [11 القسم الحادي عشر : تنسر فلو و كيراس TensorFlow & Keras&rlm;](https://www.youtube.com/playlist?list=PL6-3IRz2XF5VbuU2T0gS_mFhCpKmLxvCP) - Hesham Asem
 * [12 القسم الثاني عشر : تطبيقات عملية من كاجل و جيتهاب Kaggle & Github&rlm;](https://www.youtube.com/playlist?list=PL6-3IRz2XF5XA13ZqfacovmyOLjYwwhMt) - Hesham Asem
 * [13 ML Helper Tutorials برنامج المساعد في تعليم الآلة](https://www.youtube.com/playlist?list=PL6-3IRz2XF5VdA0sd-nLM0LMzhfivfwmu) - Hesham Asem
+* [Introduction to Machine Learning&rlm;](https://www.youtube.com/playlist?list=PL5JZLxl_tFCdOXYNVz7Wl7XyFR67q658r) - Khaled Mostafa Elsayed
+
+
+## Microservice 
+
+* [Microservice بالعربي](https://www.youtube.com/playlist?list=PLZd2bo_SbAm-LKJ_x_OuOZtuwEFqbJ5B7) - Ismail Anjrini
+* [Microservices Architecture in Arabic&rlm;](https://www.youtube.com/playlist?list=PLgAqrVq84PDdfiDow3YVsgc1q34JD415Z) - Software Architecture Talks in Arabic
 
 
 ### Natural Language Programming
@@ -345,6 +387,8 @@
 * [26 NLP-06 تجميع البيانات](https://www.youtube.com/playlist?list=PL6-3IRz2XF5UsyOPThnWFKUzSkrQwQHJ0) - Hesham Asem
 * [27 NLP-07 الشبكات العصبية المتكررة](https://www.youtube.com/playlist?list=PL6-3IRz2XF5XZCwISqNQPFFns9bnx2wUG) - Hesham Asem
 * [28 NLP-08 تكنيكات حديثة في المعالجة اللغوية الطبيعية](https://www.youtube.com/playlist?list=PL6-3IRz2XF5XHsUtAUid97yRi011KSDBZ) - Hesham Asem
+* [Convolutional Neural Network (CNN)&rlm;](https://www.youtube.com/playlist?list=PL5JZLxl_tFCcKucpxtkwbneqAvHaPOCK6) - Khaled Mostafa Elsayed
+* [NLP-Transformers&rlm;](https://www.youtube.com/playlist?list=PL5JZLxl_tFCd-ixMkn_CJPQhhQRFhZXjY) - Khaled Mostafa Elsayed
 
 
 ### .NET
@@ -391,6 +435,7 @@
 * [Laravel 8 payment gateway - الدفع الالكتروني باستخدام لارافل 8 - الدفع البنكي بلارافل](https://www.youtube.com/playlist?list=PLCm7ZeRfGSP4wtrnHHJyf8a7E26I3ZrPG) - Professional Code
 * [Laravel 8 Tutorial - دورة لارافيل 8 باللغة العربية من الصفر الى الاحتراف](https://www.youtube.com/playlist?list=PLd4ZH7drWj7DAt5osYlsya3sscPoERtGC) - Mohammed Mustafa
 * [Laravel API Complete Tutorial -شرح laravel API- شرح API لارافل - كورس - شرح laravel api باملثة عملية](https://www.youtube.com/playlist?list=PLCm7ZeRfGSP5e07XG-waxCb2kLq7M4J5m) - Professional Code
+* [Laravel Arabic Tutorial (بالعربي)](https://www.youtube.com/playlist?list=PL_aOZuct6oAoloeFcwrIy5w5fJ5rVOGG8) - Khalid Elshafie
 * [Laravel in Arabic Framework 2020 - شرح لارافل دوره لارافل بالعربي المتكاملة بمشروع متجر](https://www.youtube.com/playlist?list=PLCm7ZeRfGSP4NNEikwx3wUAskQHB3p-LK) - Professional Code
 * [laravel websockets tutorial realtime notifications - chatting webscokets with node.js without any price&rlm;](https://www.youtube.com/playlist?list=PLCm7ZeRfGSP43uz7u3096X9QY4Gs_oAFt) - Professional Code
 * [Mastering Laravel&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy_mAhY0x8cHf8oSGPKsEKP) - Elzero Web School
@@ -405,6 +450,7 @@
 ### Python
 
 * [تعلم أساسيات البرمجة](https://www.youtube.com/playlist?list=PLvGNfY-tFUN8HRLDE-D2sXvIgYwspdmFE) - غريب الشيخ \|\| Ghareeb Elshaik
+* [كورس بايثون من الصفر \| سلسلة دروس لغة البايثون \| python](https://www.youtube.com/playlist?list=PLYyqC4bNbCIcxKO_r77w5MN1SRRnnfvNQ) - أكاديمية ترميز
 * [Learn Python3&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNOazcliAXXivOrg9GiAVuoQg) - Algorithm Academy
 * [Master Python from Beginner to Advanced in Arabic - دورة تعلم بايثون من الصفر كاملة للمبتدئين](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ) - Codezilla
 * [Mastering Python&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs) - Elzero Web School
@@ -430,6 +476,24 @@
 ### R
 
 * [R Tutorial For Beginners](https://www.youtube.com/playlist?list=PL1DUmTEdeA6LKTMW3wrlT3GiFMCL_r_Sn) - محمد الدسوقي
+
+
+### RabbitMQ
+
+* [RabbitMQ بالعربي](https://www.youtube.com/playlist?list=PLZd2bo_SbAm9uJ2J5ryEOZV7ojLwGkATc) - Ismail Anjrini
+
+
+### Redis
+
+* [Redis بالعربي](https://www.youtube.com/playlist?list=PLZd2bo_SbAm_ijqLfnx94qkmytbWjUQ-h) - Ismail Anjrini
+* [Redis in 5 Minutes&rlm;](https://www.youtube.com/playlist?list=PLZd2bo_SbAm-5J9eQ2cdOoyKAr_H2LxNY) - Ismail Anjrini
+
+
+### RegEx
+
+* [التعابير النمطية‌ \| REGEX&rlm;](https://www.youtube.com/playlist?list=PLt0HRIA9i35v2W3JFiCIeUMC4GoD9titN) - Learn With Naw
+* [Crash Course - Regular Expression - Regex \| دورة مكثفة - التعابير النظامية](https://www.youtube.com/playlist?list=PLBPdtL8DZBZISjop48YSJ82FF-2uIhe-f) - Abdallah Alfaham • عبد الله الفحام
+* [Regular Expression tutorial - Arabic&rlm;](https://www.youtube.com/playlist?list=PLwCMLs3sjOY4aVMg7hgQGHyQBZnHgFjJk) - Hard-Code
 
 
 ### Software Architecture

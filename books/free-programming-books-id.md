@@ -146,7 +146,7 @@
 
 ### NoSQL
 
-* [MongoDB Untuk Indonesia](https://kristories.gitbooks.io/pengantar-mongodb/content/)
+* [MongoDB Untuk Indonesia: Memahami Konsep dan Implementasi MongoDB](https://kristories.gumroad.com/l/mongodb-untuk-indonesia) - Wahyu Kristianto (PDF, email address *requested*, not required)
 
 
 ### Pemrograman Fungsional

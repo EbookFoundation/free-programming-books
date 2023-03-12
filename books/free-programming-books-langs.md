@@ -434,7 +434,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Brainfuck
 
-* [Brainfuck Programming Language](https://bits-quark.org/2012/files/TheBrainfuckProgrammingLanguageTutorial.pdf) - bits-quark.org
+* [Brainfuck Programming Language](https://bits-quark.org/2012/files/TheBrainfuckProgrammingLanguageTutorial.pdf) - bits-quark.org (PDF)
 
 
 ### C

@@ -28,6 +28,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Basic](#basic)
 * [BeanShell](#beanshell)
 * [BETA](#beta)
+* [Brainfuck](#brainfuck)
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
@@ -429,6 +430,11 @@ Books on general-purpose programming that don't focus on a specific language are
 * [MIA 99-41: BETA Language Modifications - Reference Manual](https://beta.cs.au.dk/Manuals/latest/beta/beta-index.html) - Mjølner Informatics
 * [MIA 99-42: The Fragment System: Further Specification](https://beta.cs.au.dk/Manuals/latest/beta/fragment.html) - Mjølner Informatics
 * [Object-Oriented Programming in the BETA Programming Language](https://beta.cs.au.dk/Books/) - Ole Lehrmann Madsen, Birger Møller-Pedersen, Kristen Nygaard
+
+
+### Brainfuck
+
+* [Brainfuck Programming Language](https://bits-quark.org/2012/files/TheBrainfuckProgrammingLanguageTutorial.pdf) - bits-quark.org
 
 
 ### C

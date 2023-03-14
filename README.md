@@ -24,7 +24,7 @@ This page is available as an easy-to-read website. Access it by clicking on [![h
 
 This list was originally a clone of [StackOverflow - List of Freely Available Programming Books](https://web.archive.org/web/20140606191453/http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926) with contributions from Karan Bhangui and George Stocker.
 
-The list was moved to GitHub by Victor Felder for collaborative updating and maintenance. It has grown to become one of [GitHub's most popular repositories](https://octoverse.github.com/), with 243,000+ stars, about 9,700 watchers, more than 7,100 commits, 1,900+ contributors, and 50,000+ forks.
+The list was moved to GitHub by Victor Felder for collaborative updating and maintenance. It has grown to become one of [GitHub's most popular repositories](https://octoverse.github.com/), with 271,000+ stars, about 9,700 watchers, more than 8,300 commits, 2,400+ contributors, and 54,000+ forks.
 
 <div align="center" markdown="1">
 

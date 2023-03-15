@@ -83,6 +83,7 @@
 * [C Reference Card (ANSI)](https://users.ece.utexas.edu/~adnan/c-refcard.pdf) (PDF)
 * [Systems Programming Cheat Sheet](https://github.com/jstrieb/systems-programming-cheat-sheet) (HTML)
 * [The C Cheat Sheet: An Introduction to Programming in C](https://sites.ualberta.ca/~ygu/courses/geoph624/codes/C.CheatSheet.pdf) - Andrew Sterian (PDF)
+* [C Language Notes for Professionals](https://drive.google.com/file/d/1THNFnO1nnTfmRt95V38xU82flOLds5NE/view?usp=sharing)(PDF)
 
 
 ### <a id="csharp"></a>C\#

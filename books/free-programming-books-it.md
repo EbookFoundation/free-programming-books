@@ -230,7 +230,8 @@
 
 #### Symfony
 
-* [Symfony 5: guida rapida](https://symfony.com/doc/5.0/the-fast-track/it/index.html)
+* [Symfony 6.2: guida rapida](https://symfony.com/doc/current/the-fast-track/it/index.html)
+* [Symfony 5.4: guida rapida](https://symfony.com/doc/5.4/the-fast-track/it/index.html)
 
 
 ### Python

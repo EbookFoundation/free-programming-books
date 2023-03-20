@@ -151,6 +151,10 @@
 * [PHP](https://pl.wikibooks.org/wiki/PHP) - Wikibooks
 * [PHP: The Right Way](http://pl.phptherightway.com) - Josh Lockhart
 
+#### Symfony
+
+* [Symfony 6.2: Szybki start](https://symfony.com/doc/current/the-fast-track/pl/index.html) - Fabien Potencier
+* [Symfony 5.4: Szybki start](https://symfony.com/doc/5.4/the-fast-track/pl/index.html) - Fabien Potencier
 
 ### Prolog
 

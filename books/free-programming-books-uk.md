@@ -7,6 +7,7 @@
     * [React](#react)
 * [Language Agnostic](#language-agnostic)
 * [PHP](#php)
+    * [Symfony](#symfony)
 * [Python](#python)
     * [Django](#django)
 * [Ruby](#ruby)
@@ -44,8 +45,9 @@
 
 ### PHP
 
-* [Symfony 6.2: Швидкий старт](https://symfony.com/doc/current/the-fast-track/uk/index.html) - Symfony SAS
+#### Symfony
 * [Symfony 5.4: Швидкий старт](https://symfony.com/doc/5.4/the-fast-track/uk/index.html) - Symfony SAS
+* [Symfony 6.2: Швидкий старт](https://symfony.com/doc/current/the-fast-track/uk/index.html) - Symfony SAS
 
 
 ### Python

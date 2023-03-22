@@ -1339,7 +1339,7 @@
 * [Learn Ethical Haacking From Scratch](https://www.udemy.com/course/learn-ethical-haacking-from-scratch) - Uzma Aslam (Udemy)
 * [Linux for Hackers and Pentesters](https://www.udemy.com/course/linux-for-hackers-and-pentesters) - Rajneesh Gupta (Udemy)
 * [Modern Binary Exploitation](https://github.com/RPISEC/MBE) - RPISEC
-* [SecDim - Learn AppSec through Games](https://play.secdim.com) - Hamza (SecDim)
+* [SecDim - Learn AppSec](https://learn.secdim.com) - Hamza (SecDim)
 * [Stanford Cryptography I](https://www.coursera.org/course/crypto) - Dan Boneh
 * [Stanford Cryptography II](https://www.coursera.org/course/crypto2) - Dan Boneh
 * [Start Ethical Hacking with Parrot Security OS (Alt. to Kali)](https://www.udemy.com/course/ethical-hacking-with-parrot-security-os) - Seyed Farshid Miri (Udemy)

@@ -40,6 +40,7 @@
 * [RxJS](#rxjs)
 * [Scala](#scala)
 * [Scratch](#scratch)
+* [Security](#security)
 * [Solidity](#solidity)
 * [SQL](#sql)
 * [Svelte](#svelte)
@@ -324,6 +325,9 @@
 
 * [Scratch.mit.edu](https://scratch.mit.edu/create)
 
+### Security
+
+* [SecDim - Learn AppSec through Games](https://play.secdim.com) - Hamza (SecDim)
 
 ### Solidity
 

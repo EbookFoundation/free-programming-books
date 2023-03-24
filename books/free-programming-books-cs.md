@@ -76,7 +76,7 @@
 
 #### Matematika
 
-* [Diskrétní matematika](http://math.feld.cvut.cz/habala/teaching/dma.htm) - Petr Habala (PDFs)
+* [Diskrétní matematika](https://math.fel.cvut.cz/cz/lide/habala/teaching/dma.html) - Petr Habala (PDFs)
 * [Matematika SŠ](http://www.realisticky.cz/ucebnice.php?id=3) - Martin Krynický (PDFs)
 
 

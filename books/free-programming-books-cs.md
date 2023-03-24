@@ -129,7 +129,7 @@
 
 ### Python
 
-* [Ponořme se do Pythonu 3](http://diveintopython3.py.cz/index.html) - Mark Pilgrim
+* [Ponořme se do Pythonu 3](https://knihy.nic.cz/files/nic/edice/mark_pilgrim_dip3_ver3.pdf) - Mark Pilgrim
 * [Učebnice jazyka Python](http://i.iinfo.cz/files/root/k/Ucebnice_jazyka_Python.pdf) (PDF)
 
 

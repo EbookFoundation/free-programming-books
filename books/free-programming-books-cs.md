@@ -76,7 +76,7 @@
 
 #### Matematika
 
-* [Diskrétní matematika](http://math.feld.cvut.cz/habala/teaching/dma.htm) - Petr Habala (PDFs)
+* [Diskrétní matematika](https://math.fel.cvut.cz/cz/lide/habala/teaching/dma.html) - Petr Habala (PDFs)
 * [Matematika SŠ](http://www.realisticky.cz/ucebnice.php?id=3) - Martin Krynický (PDFs)
 
 
@@ -129,7 +129,7 @@
 
 ### Python
 
-* [Ponořme se do Pythonu 3](http://diveintopython3.py.cz/index.html) - Mark Pilgrim
+* [Ponořme se do Pythonu 3](https://knihy.nic.cz/files/nic/edice/mark_pilgrim_dip3_ver3.pdf) - Mark Pilgrim (PDF)
 * [Učebnice jazyka Python](http://i.iinfo.cz/files/root/k/Ucebnice_jazyka_Python.pdf) (PDF)
 
 

@@ -2130,17 +2130,17 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Efficient R programming](https://csgillespie.github.io/efficientR/) - Colin Gillespie, Robin Lovelace
 * [Forecasting: Principles and Practice](https://otexts.com/fpp3/) - Rob J Hyndman, George Athanasopoulos
 * [Functional Programming](https://dcl-prog.stanford.edu) - Sara Altman, Bill Behrman, Hadley Wickham
-* [Geocomputation with R](https://geocompr.robinlovelace.net) - RobinLovelace, Jakub Nowosad, Jannes Muenchow
+* [Geocomputation with R](https://r.geocompx.org) - Robin Lovelace, Jakub Nowosad, Jannes Muenchow
 * [Introduction to Probability and Statistics Using R](https://github.com/gjkerns/IPSUR) - G. Jay Kerns (PDF)
 * [Learning Statistics with R](https://learningstatisticswithr.com/book/) - Danielle Navarro
 * [Mastering Software Development in R](https://bookdown.org/rdpeng/RProgDA/) - Roger D. Peng, Sean Kross, and Brooke Anderson 
 * [ModernDive](https://ismayc.github.io/moderndiver-book/) - Chester Ismay, Albert Y. Kim
 * [Practical Regression and Anova using R](http://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) - Julian J. Faraway (PDF)
-* [R for Data Science](http://r4ds.had.co.nz) - Garrett Grolemund, Hadley Wickham
+* [R for Data Science](https://r4ds.hadley.nz) - Hadley Wickham, Mine Çetinkaya-Rundel, Garrett Grolemund
 * [R for Spatial Analysis](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/spatialEpiBook.pdf) (PDF)
 * [R Language for Programmers](http://www.johndcook.com/blog/r_language_for_programmers) - John D. Cook
 * [R Notes for Professionals](https://goalkicker.com/RBook/) - Compiled from StackOverflow Documentation (PDF)
-* [R Packages](http://r-pkgs.had.co.nz) - Hadley Wickham
+* [R Packages](https://r-pkgs.org) - Hadley Wickham, Jenny Bryan
 * [R Practicals](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/R/practicalsBookNoAns.pdf) (PDF)
 * [R Programming](https://en.wikibooks.org/wiki/R_Programming) - Wikibooks
 * [R Programming for Data Science](https://bookdown.org/rdpeng/rprogdatascience/) - Roger D. Peng 
@@ -2151,6 +2151,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) - Patrick Burns (PDF)
 * [The R Language](http://stat.ethz.ch/R-manual/R-patched/doc/html)
 * [The R Manuals](http://cran.r-project.org/manuals.html)
+* [Tidy Modelling with R](https://www.tmwr.org) - Max Kuhn and Julia Silge
 * [Tidy Text Mining with R](http://tidytextmining.com) - Julia Silge, David Robinson
 
 

@@ -30,6 +30,7 @@
     * [Django](#django)
 * [R](#r)
 * [Ruby on Rails](#ruby-on-rails)
+* [Rust](#rust)
 * [Scilab](#scilab)
 * [Scratch](#scratch)
 * [Shell](#shell)
@@ -232,6 +233,11 @@
 * [Rails Kochbuch](http://examples.oreilly.de/openbooks/pdf_railsckbkger.pdf) - Rob Orsini (PDF)
 * [Ruby on Rails 2](http://openbook.rheinwerk-verlag.de/ruby_on_rails/) - Hussein Morsy, Tanja Otto (Online)
 * [Ruby on Rails 3.2 für Ein-, Um- und Quereinsteiger](http://ruby-auf-schienen.de/3.2/) (Online)
+
+
+### Rust
+
+* [Die Programmiersprache Rust](https://rust-lang-de.github.io/rustbook-de/) - Steve Klabnik, Carol Nichols, Übersetzung durch die Rust-Gemeinschaft (HTML)
 
 
 ### Scilab

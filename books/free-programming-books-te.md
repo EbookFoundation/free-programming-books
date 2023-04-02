@@ -6,7 +6,7 @@
 
 ### 0 - Meta-Lists
 
-* [Books - Telugu](https://sites.google.com/nptel.iitm.ac.in/translated-ebook/telugu)
+* 
 
 
 ### <a id="c"></a>C

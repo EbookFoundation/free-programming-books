@@ -81,7 +81,6 @@
 ### AWS
 
 * [AWS Certified Solutions Architect - Associate By Eng-Mohammed Oday | Arabic](https://www.youtube.com/playlist?list=PLCIJjtzQPZJ_yv1T4eKYsY1hZxcYSjhGY) - Free4arab | Information Technology
-
 * [AWS SAA-C02 - كورس كامل بالعربي مع المهندس عيسى أبو شريف](youtube.com/playlist?list=PLOoZRfEtk6kWSM_l9xMjDh-_MJXl03-pf) - AWS Riyadh User Group
 
 

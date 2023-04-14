@@ -4,6 +4,7 @@
 * [C#](#csharp)
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
+    * [Spring Boot](#spring-boot)
 * [JavaScript](#javascript)
     * [React](#react)
 
@@ -27,7 +28,15 @@
 
 * [Object Oriented Programming ](https://youtube.com/playlist?list=PLqeCu_1ZdDl63h6YR3QsxcGOB7yDS7i3b) - LankaDroid Programming Kuppiya (YouTube)
 * [Sinhala Java Netbeans Lessons](https://youtube.com/playlist?list=PLA3ZeQncjeVu9VHevp2SmPCQ9muVO3fEB) - Chanux Bro
+* [Java](https://www.youtube.com/watch?v=tzOw8vke1jA&list=PLuhSdp06EMkLgaWqSPZKLqePVw-dtqaTT) - Masith Prasanga
 
+
+#### Spring Boot
+
+* [REST API with Spring Boot](https://www.youtube.com/watch?v=IMiFZfh_9B4&list=PLuhSdp06EMkIhKEo_H-IjrG0cozCuS9lE) - Masith Prasanga
+* [Spring Boot Sinhala Tutorial](https://www.youtube.com/watch?v=VE5aos5FYrY&list=PLXl26drr64lU77PQDUPbOjebLiW0qHurS) - Simple Root
+* [Spring Boot in Sinhala](https://www.youtube.com/watch?v=KD68esrHZWY&list=PLtoqJbwHBeHw-MI1YhvtscwReRsu9yTGJ) - Haritha Weerathunga
+* [Spring Boot Sinhala Tutorial](https://www.youtube.com/watch?v=F_HmN-Vf7e0&list=PLiJlOcc7NYnvz091WjQdSqUMqv5B55Grx) - ProgrammingClass
 
 ### JavaScript
 

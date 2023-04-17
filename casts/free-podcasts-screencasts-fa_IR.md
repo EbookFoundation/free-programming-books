@@ -6,7 +6,7 @@
 
 ### Programming News
 
-* [Code Naline -  کد نالین](https://youtube.com/@techwithtori) - (podcast)
+* [Code Naline -  کد نالین](https://youtube.com/@techwithtori) - (videocast)
 * [پادکست کافه برنامه نویس](https://anchor.fm/codemy) - CafeCodemy (podcast)
 
 

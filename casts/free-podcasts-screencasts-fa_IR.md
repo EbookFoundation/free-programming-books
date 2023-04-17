@@ -5,7 +5,7 @@
 
 ### Programming News
 
-*  [ کد نالین](https://youtube.com/@techwithtori) - CodeNaline (videocast)
+*  [کد نالین](https://youtube.com/@techwithtori) - CodeNaline (videocast)
 *   [پادکست کافه برنامه نویس](https://anchor.fm/codemy) - CafeCodemy (podcast)
 
 ### Technology

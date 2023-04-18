@@ -46,7 +46,7 @@ jobs:
       pull-requests: write
     steps:
       - name: Stale issues
-        uses: actions/stale@v7
+        uses: actions/stale@v8
         id: stale-issues
         with:
           debug-only: ${{ github.event.inputs.debug-only == 'true' }}
@@ -84,7 +84,7 @@ jobs:
         run: echo ${{ format('{0},{1}', toJSON(steps.stale-issues.outputs.staled-issues-prs), toJSON(steps.stale-issues.outputs.closed-issues-prs)) }}
 
       - name: Stale Pull Requests
-        uses: actions/stale@v7
+        uses: actions/stale@v8
         id: stale-prs
         with:
           debug-only: ${{ github.event.inputs.debug-only == 'true' }}

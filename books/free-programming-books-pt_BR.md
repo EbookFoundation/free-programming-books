@@ -53,6 +53,7 @@
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [Shell / Bash Script](#shell--bash)
+* [Small Basic](#small-basic)
 * [TypeScript](#typescript)
     * [Angular](#angular)
 
@@ -422,6 +423,11 @@
 * [Introdução ao Shell Script](http://aurelio.net/shell/apostila-introducao-shell.pdf) - Aurelio Marinho Jargas (PDF)
 * [Pequena introdução ao linux e ao Shell Script](https://www.telecom.uff.br/pet/petws/downloads/apostilas/LINUX.pdf) (PDF)
 * [Pequeno Manual do Programador GNU/Bash](https://blauaraujo.com/downloads/pmpgb.pdf) - Blau Araújo (PDF)
+
+
+### Small Basic
+
+* [Programação de computadores para iniciantes com Small Basic](https://github.com/J-AugustoManzano/livro_Small-Basic-1.2) - José Augusto N. G. Manzano (PDF)
 
 
 ### TypeScript

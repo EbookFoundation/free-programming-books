@@ -337,6 +337,7 @@
 ### Lisp
 
 * [Introdução a linguagem LISP](http://www.dca.fee.unicamp.br/courses/EA072/lisp9596/Lisp9596.html) (HTML)
+* [Linguagem LISP - Primeiros passos com Common LISP (CL)](https://github.com/J-AugustoManzano/livro_LISP) - José Augusto N. G. Manzano (PDF - Link na seção `Sobre` do repositório no GitHub)
 
 
 ### Lua

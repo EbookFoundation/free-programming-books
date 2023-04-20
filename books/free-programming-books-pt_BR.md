@@ -38,6 +38,7 @@
     * [Node.js](#nodejs)
     * [React](#react)
     * [Vue.js](#vuejs)
+* [Julia](#julia)
 * [Kubernetes](#kubernetes)
 * [LaTeX](#latex)
 * [Lisp](#lisp)
@@ -313,6 +314,11 @@
 * [Documentação pt-BR](https://br.vuejs.org/v2/guide/)
 * [Vue.js na prática](https://leanpub.com/livro-vue) - Daniel Schmitz, Daniel Pedrinha Georgii (Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo nos formatos PDF, EPUB, MOBI ou pelo próprio site)
 * [VueJS: Filtro para criar URL’s amigáveis](http://web.archive.org/web/20160331162636/http://carlosgartner.com.br/vuejs-filtro-para-criar-urls-amigaveis/)
+
+
+#### Julia
+
+* [Programação de Computadores com Linguagem Julia](https://github.com/J-AugustoManzano/LivroLinJulia) - José Augusto N. G. Manzano (PDF)
 
 
 ### Kubernetes

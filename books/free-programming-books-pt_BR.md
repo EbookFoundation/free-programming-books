@@ -8,6 +8,8 @@
 * [Android](#android)
 * [Arduino](#arduino)
 * [Assembly](#assembly)
+* [Basic](#basic)
+    * [Small Basic](#small-basic)
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
@@ -53,7 +55,6 @@
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [Shell / Bash Script](#shell--bash)
-* [Small Basic](#small-basic)
 * [TypeScript](#typescript)
     * [Angular](#angular)
 
@@ -103,6 +104,14 @@
 * [Assembly x86](https://mentebinaria.gitbook.io/assembly-x86/) - Luis Felipe, Mente Binária (gitbook)
 * [Execução de Programas: Como funcionam carregadores, ligadores e interpretadores](https://www.inf.ufpr.br/bmuller/assets/docs/livroSB.pdf) - Bruno Müller Junior (PDF)
 * [Linguagem Assembly: Introdução ao padrão Intel 8086](https://github.com/J-AugustoManzano/livro_Assembly-Intro-8086) - José Augusto N. G. Manzano (PDF)
+
+
+### Basic
+
+
+#### Small Basic
+
+* [Programação de computadores para iniciantes com Small Basic](https://github.com/J-AugustoManzano/livro_Small-Basic-1.2) - José Augusto N. G. Manzano (PDF)
 
 
 ### C
@@ -423,11 +432,6 @@
 * [Introdução ao Shell Script](http://aurelio.net/shell/apostila-introducao-shell.pdf) - Aurelio Marinho Jargas (PDF)
 * [Pequena introdução ao linux e ao Shell Script](https://www.telecom.uff.br/pet/petws/downloads/apostilas/LINUX.pdf) (PDF)
 * [Pequeno Manual do Programador GNU/Bash](https://blauaraujo.com/downloads/pmpgb.pdf) - Blau Araújo (PDF)
-
-
-### Small Basic
-
-* [Programação de computadores para iniciantes com Small Basic](https://github.com/J-AugustoManzano/livro_Small-Basic-1.2) - José Augusto N. G. Manzano (PDF)
 
 
 ### TypeScript

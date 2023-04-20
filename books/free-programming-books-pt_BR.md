@@ -344,6 +344,7 @@
 ### Logo
 
 * [Academia da Tartaruga](https://github.com/J-AugustoManzano/livro_AcadTat) - José Augusto N. G. Manzano (PDF)
+* [Linguagem Logo: Introdução com UCBLogo 6.2.2](https://github.com/J-AugustoManzano/livro_Logo-Intro-UCBLogo) - José Augusto N. G. Manzano (PDF)
 
 
 ### Lua

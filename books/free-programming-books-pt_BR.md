@@ -9,7 +9,6 @@
 * [Arduino](#arduino)
 * [Assembly](#assembly)
 * [Basic](#basic)
-    * [Small Basic](#small-basic)
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
@@ -107,8 +106,6 @@
 
 
 ### Basic
-
-#### Small Basic
 
 * [Programação de computadores para iniciantes com Small Basic](https://github.com/J-AugustoManzano/livro_Small-Basic-1.2) - José Augusto N. G. Manzano (PDF)
 

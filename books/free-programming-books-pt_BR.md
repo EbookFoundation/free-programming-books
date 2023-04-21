@@ -8,6 +8,7 @@
 * [Android](#android)
 * [Arduino](#arduino)
 * [Assembly](#assembly)
+* [Basic](#basic)
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
@@ -38,9 +39,11 @@
     * [Node.js](#nodejs)
     * [React](#react)
     * [Vue.js](#vuejs)
+* [Julia](#julia)
 * [Kubernetes](#kubernetes)
 * [LaTeX](#latex)
 * [Lisp](#lisp)
+* [Logo](#logo)
 * [Lua](#lua)
 * [Pascal](#pascal)
 * [PHP](#php)
@@ -99,6 +102,12 @@
 
 * [Assembly x86](https://mentebinaria.gitbook.io/assembly-x86/) - Luis Felipe, Mente Binária (gitbook)
 * [Execução de Programas: Como funcionam carregadores, ligadores e interpretadores](https://www.inf.ufpr.br/bmuller/assets/docs/livroSB.pdf) - Bruno Müller Junior (PDF)
+* [Linguagem Assembly: Introdução ao padrão Intel 8086](https://github.com/J-AugustoManzano/livro_Assembly-Intro-8086) - José Augusto N. G. Manzano (PDF)
+
+
+### Basic
+
+* [Programação de computadores para iniciantes com Small Basic](https://github.com/J-AugustoManzano/livro_Small-Basic-1.2) - José Augusto N. G. Manzano (PDF)
 
 
 ### C
@@ -314,6 +323,11 @@
 * [VueJS: Filtro para criar URL’s amigáveis](http://web.archive.org/web/20160331162636/http://carlosgartner.com.br/vuejs-filtro-para-criar-urls-amigaveis/)
 
 
+### Julia
+
+* [Programação de Computadores com Linguagem Julia](https://github.com/J-AugustoManzano/LivroLinJulia) - José Augusto N. G. Manzano (PDF)
+
+
 ### Kubernetes
 
 * [Descomplicando Kubernetes](https://livro.descomplicandokubernetes.com.br) - Jeferson Fernando
@@ -330,6 +344,13 @@
 ### Lisp
 
 * [Introdução a linguagem LISP](http://www.dca.fee.unicamp.br/courses/EA072/lisp9596/Lisp9596.html) (HTML)
+* [Linguagem LISP - Primeiros passos com Common LISP (CL)](https://novo.manzano.pro.br/wp/download/linguagem-lisp-primeiros-passos-com-common-lisp-cl/) - José Augusto N. G. Manzano (PDF)
+
+
+### Logo
+
+* [Academia da Tartaruga](https://github.com/J-AugustoManzano/livro_AcadTat) - José Augusto N. G. Manzano (PDF)
+* [Linguagem Logo: Introdução com UCBLogo 6.2.2](https://github.com/J-AugustoManzano/livro_Logo-Intro-UCBLogo) - José Augusto N. G. Manzano (PDF)
 
 
 ### Lua

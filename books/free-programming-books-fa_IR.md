@@ -69,7 +69,7 @@
 
 ### Python
 
-* [پایتون به پارسی](https://python.coderz.ir/) - سعید درویش (HTML)
+* [پایتون به پارسی](https://python.coderz.ir) - سعید درویش (HTML)
 
 
 #### Django

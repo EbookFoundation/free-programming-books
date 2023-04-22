@@ -69,7 +69,8 @@
 
 ### Python
 
-* [کتاب پایتون به پارسی (آنلاین)](https://python.coderz.ir)
+* [پایتون به پارسی](https://python.coderz.ir/) - سعید درویش (HTML)
+
 
 #### Django
 

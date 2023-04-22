@@ -69,8 +69,7 @@
 
 ### Python
 
-* [کتاب آزاد آموزش پایتون](http://python.coderz.ir)
-
+* [کتاب پایتون به پارسی (آنلاین)](https://python.coderz.ir)
 
 #### Django
 

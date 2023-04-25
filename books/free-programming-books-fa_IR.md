@@ -8,9 +8,9 @@
 * [LaTeX](#latex)
 * [Linux](#linux)
 * [PHP](#php)
-    * [Symfony](#symfony)
+* [Symfony](#symfony)
 * [Python](#python)
-    * [Django](#django)
+* [Django](#django)
 * [R](#r)
 
 

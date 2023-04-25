@@ -40,9 +40,9 @@
 
 * [آموزش  برنامه‌نویسی جاوا](https://javacup.ir/javacup-training-videos/)
 * [آموزش جاوا از صفر](https://toplearn.com/courses/85/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AC%D8%A7%D9%88%D8%A7-%D8%A7%D8%B2-%D8%B5%D9%81%D8%B1)
-* [آموزش jdbc (دیتابیس در جاوا)](https://javapro.ir/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-JDBC-%D8%AF%DB%8C%D8%AA%D8%A7%D8%A8%DB%8C%D8%B3-%D8%AF%D8%B1-%D8%AC%D8%A7%D9%88%D8%A7)
+* [آموزش jdbc (دیتابیس در جاوا)](https://b2n.ir/j02632)
 * [آموزش JavaFX](https://javapro.ir/JavaFX-programming-training)
-* [آموزش java swing](https://javapro.ir/%DA%AF%D8%B1%D8%A7%D9%81%DB%8C%DA%A9-%D8%AF%D8%B1-%D8%AC%D8%A7%D9%88%D8%A7)
+* [آموزش java swing](https://b2n.ir/m55557)
 * [آموزش hibernate](https://github.com/raaminz/training/tree/master/slides/hibernate)
 * [آموزش spring](https://github.com/raaminz/training/tree/master/slides/spring)
 ### JavaScript

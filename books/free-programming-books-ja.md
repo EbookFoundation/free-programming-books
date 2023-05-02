@@ -1,7 +1,7 @@
 ### Index
 
 * [0 - 言語非依存](#0---%e8%a8%80%e8%aa%9e%e9%9d%9e%e4%be%9d%e5%ad%98)
-    * [IDE and editors](#ide-and-editors)
+    * [IDE とエディター](#ide-and-editors)
     * [アクセシビリティ](#%e3%82%a2%e3%82%af%e3%82%bb%e3%82%b7%e3%83%93%e3%83%aa%e3%83%86%e3%82%a3)
     * [オープンソースエコシステム](#%e3%82%aa%e3%83%bc%e3%83%97%e3%83%b3%e3%82%bd%e3%83%bc%e3%82%b9%e3%82%a8%e3%82%b3%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0)
     * [ガベージコレクション](#%e3%82%ac%e3%83%99%e3%83%bc%e3%82%b8%e3%82%b3%e3%83%ac%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3)
@@ -87,7 +87,7 @@
 
 ### 0 - 言語非依存
 
-#### IDE and editors
+#### <a id="ide-and-editors"></a>IDE とエディター
 
 * [Vim スクリプトリファレンス](https://nanasi.jp/code.html) - 小見拓
 * [Vim スクリプト基礎文法最速マスター](https://thinca.hatenablog.com/entry/20100201/1265009821) - id:thinca

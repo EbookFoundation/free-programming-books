@@ -48,6 +48,7 @@
     * [jQuery](#jquery)
     * [Node.js](#nodejs)
     * [React](#react)
+    * [Svelte](#svelte)
 * [Julia](#julia)
 * [LaTeX](#latex)
 * [Linux](#linux)
@@ -409,6 +410,7 @@
 * [お気楽 JavaScript プログラミング超入門](http://www.nct9.ne.jp/m_hiroi/light/javascript.html) - 広井誠
 * [とほほのJavaScriptリファレンス](https://www.tohoho-web.com/js) - 杜甫々
 * [一撃必殺JavaScript日本語リファレンス](http://www.openspc2.org/JavaScript) - 古籏一浩
+* [現代の JavaScript チュートリアル](https://ja.javascript.info) - Ilya Kantor
 * [中上級者になるためのJavaScript](https://kenju.gitbooks.io/js_step-up-to-intermediate) - Kenju
 
 
@@ -444,6 +446,12 @@
 
 * [React 0.13 日本語リファレンス](https://js.studio-kingdom.com/react) - @tomof(翻訳)
 * [チュートリアル：React の導入](https://ja.reactjs.org/tutorial/tutorial.html) - Facebook Inc.
+
+
+#### Svelte
+
+* [Svelte Tutorial](https://svelte.jp/tutorial/basics) - Svelte.dev
+* [Svelte をはじめる](https://developer.mozilla.org/ja/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started) - MDN
 
 
 ### Julia

@@ -13,7 +13,7 @@
 * [Nakerah Podcast](https://nakerah.net/podcast) - Nakerah Network (podcast)
 * [null++: بالعربي](https://nullplus.plus) - Mohamed Luay, Ahmad Alfy (podcast)
 * [Podcast with Ghareeb Elshaikh](https://youtube.com/playlist?list=PLvGNfY-tFUN-mGlfovyGACjPVmkzAsQFJ) - Ghareeb Elshaikh (podcast)
-* [Tech Podcast بالعربي](https://anchor.fm/ahmedelemam) - Ahmed Elemam (podcast)
+* [Tech Podcast بالعربي](https://anchor.fm/ahmdelemam) - Ahmed Elemam (podcast)
 * [The Egyptian Guy](https://anchor.fm/refaie) - Mohamed Refaie (podcast)
 * [The Weekly Noob](https://theweeklynoob.netlify.app) - Nabil Tharwat (podcast)
 

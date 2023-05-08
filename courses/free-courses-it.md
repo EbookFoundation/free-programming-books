@@ -217,6 +217,9 @@
 ### Web
 
 * [Computer grafica 2017/2018](https://www.youtube.com/playlist?list=PLUFFnpJdi99kXjntQ0LNPnLbRLjKzmQaC) - A. Bottino, Politecnico di Torino
+* [Corso CSS 3 Completo 2023](https://www.youtube.com/playlist?list=PLP5MAKLy8lP-a0MG-MFHKCISmj2Wg4vT6) - Edoardo Midali
+* [Corso HTML 5 Completo 2023](https://www.youtube.com/playlist?list=PLP5MAKLy8lP8U-yYn6J4hGfcee4Tirieg) - Edoardo Midali
+* [Corso SEO Italiano 2023](https://www.youtube.com/playlist?list=PLP5MAKLy8lP9OpFQyF2LnTWgtcoDLgYm7) - Edoardo Midali
 * [Progettazione di applicazioni Web](https://www.youtube.com/playlist?list=PLE0AA1735F10543A6) - Fulvio Corno, S. Di Carlo, Politecnico di Torino
 
 

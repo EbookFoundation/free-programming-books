@@ -7,7 +7,7 @@
     * [Spring Boot](#spring-boot)
 * [JavaScript](#javascript)
     * [React](#react)
-
+* [PHP](#php)
 
 ### ASP.NET Core
 
@@ -35,13 +35,16 @@
 
 * [JavaScript Tutorial in Sinhala](https://youtube.com/playlist?list=PLYmyc7wRFoQjxkHAzHh1UIdU7ZdjTQvQt) - BestJobsLK
 
+### PHP
+
+* [PHP FULL COURSE IN SINHALA | 2022](https://www.youtube.com/watch?v=RdxtOQUflrk) - AUK Learning Center
 
 #### React
 
 * [Fundamentals \| React JS in Sinhala](https://youtube.com/playlist?list=PLvvtf05eMZ2DpDyWwmAjEuicvVxx4vIYB) - Fiqri Ismail
 * [MERN Stack Developer - Beginners](https://www.youtube.com/playlist?list=PLvfC6i-hEZBnqqF7giszuYI0iqenU5NY0) -  TechWithGeorge
 * [REACT | MERN CRUD App in Sinhala](https://youtube.com/playlist?list=PLtoqJbwHBeHzAooLCGOzYVE9mkAeCnT9y) - Haritha Weerathunga
-
+* [REACT JS FULL COURSE IN SINHALA | 2023](https://www.youtube.com/watch?v=tM02uzhHDPI&t=759s) -  AUK Learning Center
 
 #### Spring Boot
 

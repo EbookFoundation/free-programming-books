@@ -37,6 +37,7 @@
 * [C programming malayalam tutorial](https://youtube.com/playlist?list=PL1JrLEBAapUXh0dSzCk3dvQtGmjT9fBBj) - Yes Tech Media
 * [C programming for beginners in malayalam quarantine learning programming malayalam](https://youtube.com/playlist?list=PLBKJGko2JEdEVpp5vyyfKYdv3r2GC777i) - Tintu Vlogger
 * [C Programming](https://www.youtube.com/playlist?list=PLwe8bwPXjlLtUxDFwafx_XvheCUmrP2cM) - Learn CSE Malayalam (YouTube)
+* [C programming](https://www.youtube.com/playlist?list=PLY-ecO2csVHeKaBI7lAM1jbIPU8K6fUxY) - Brototype malayalam
 
 
 ### <a id="cpp"></a>C++
@@ -57,17 +58,21 @@
 ### Flutter
 
 * [Flutter Malayalam Tutorial Series](https://youtube.com/playlist?list=PLY-ecO2csVHcUlBVvIMAa3dbja12TFJiN) - Brototype Malayalam
+* [Flutter Malayalam Tutorial](https://www.youtube.com/watch?v=l0f7olpevO0&list=PL1JrLEBAapUWv_JSolgE5pdcDKWw80wKA) - Yes Tech Media
+* [Flutter Beginner Tutorials](https://www.youtube.com/playlist?list=PLr11YFCnWCCMQYU8z3Gol2gVA2nBtoKVo) - Mallu Developer
 
 
 ### Git
 
 * [Git Tutorial Malayalam \| Best Malayalam Git Tutorial \| Date With Git](https://youtube.com/playlist?list=PLY-ecO2csVHdLhAO6TERaMJXP8aqyWVt-) - Brototype Malayalam
-* [git malayalam tutorial github](https://youtube.com/playlist?list=PL4KwFGqvN4nsAlTIl6FcEubM2CtHW7zTC) - Debug Media
+* [Git malayalam tutorial github](https://youtube.com/playlist?list=PL4KwFGqvN4nsAlTIl6FcEubM2CtHW7zTC) - Debug Media
+* [Git Tutorial - Malayalam](https://www.youtube.com/playlist?list=PLQzJEzrRmXOW7pKbwpicijzUdxZmDgqNL) - Code Malayalam
 
 
 ### HTML and CSS
 
 * [CSS Malayalam Tutorial Full Course](https://youtube.com/playlist?list=PL1JrLEBAapUVvE-oCkKD5QhGG8nb0hhZk) - Yes Tech Media
+* [Learn CSS by doing the projects](https://www.youtube.com/playlist?list=PLCOzHVsG8mkp3ZrXMzgLusYQpCdMbpLcj) - Web Diary
 * [css malayalam tutorial](https://youtube.com/playlist?list=PL4KwFGqvN4ntbMZdiSS0nFXo49KZCCcdw) - Debug Media
 * [HTML Tutorial Malayalam Full](https://youtube.com/playlist?list=PL1JrLEBAapUVyMVQp6SmpytH1HPeCiNPH) - Yes Tech Media
 * [html malayalam tutorial](https://youtube.com/playlist?list=PL4KwFGqvN4nupwUNXQs2Dn0za5a8ijVPH) - Debug Media
@@ -76,11 +81,13 @@
 #### Bootstrap
 
 * [BOOTSTRAP Malayalam Tutorial](https://youtube.com/playlist?list=PL1JrLEBAapUWqs_HbcYngAOmpPbiccqNy) - Yes Tech Media
+* [Bootstrap Malayalam Tutorials](https://www.youtube.com/playlist?list=PLDavEIls6jrsC9EEox1WWvOlktDJcEUo6) - Malayalam Tutorials
 
 
 ### Java
 
 * [Java Programming Malayalam Tutorial](https://youtube.com/playlist?list=PL1JrLEBAapUXndScHzvMaSVOspebvFOsH) - Yes Tech Media
+* [Java](https://www.youtube.com/playlist?list=PLY-ecO2csVHeKaBI7lAM1jbIPU8K6fUxY) - Brototype
 
 
 ### JavaScript
@@ -88,6 +95,7 @@
 * [JavaScript Malayalam Tutorial](https://www.youtube.com/watch?v=3mjwtu4_0uk) - Yes Tech Media
 * [javascript tutorial in malayalam](https://youtube.com/playlist?list=PLBKJGko2JEdF4irCbI5BdHIEfxEdfMNqA) - Tintu Vlogger
 * [JavaScript Malayalam Tutorials For Beginners](https://www.youtube.com/playlist?list=PLQzHWfiB9fWdQ6qcl5Vo4JPOA3kxpCJ3A) - Learn Programming In Malayalam
+* [Javascript learn with doing projects](https://www.youtube.com/playlist?list=PLCOzHVsG8mkowATYScNYIuYLw-E9U-d7z) - Web Diary
 
 
 #### Node.js
@@ -102,6 +110,7 @@
 * [React Challenge](https://youtube.com/playlist?list=PLY-ecO2csVHfgVM9sChmUirqK7BXUBX9P) - Brototype Malayalam
 * [React JS - Malayalam Tutorial - by Yes Tech Media](https://youtube.com/playlist?list=PL1JrLEBAapUX44d5zzl0hf7vX7caSCidT) - Yes Tech Media
 * [React js malayalam tutorial](https://youtube.com/playlist?list=PL4KwFGqvN4nuKJ3bJSP-LcchabWJtPtE8) - Debug Media
+* [React in malayalam](https://www.youtube.com/playlist?list=PLCOzHVsG8mkrePHYn73VBEK4dqwa4W7LU) - Web Diary
 
 
 ### Kotlin
@@ -113,6 +122,8 @@
 ### MySQL
 
 * [MySQL Malayalam Tutorials for beginners](https://www.youtube.com/playlist?list=PLQzHWfiB9fWcxc10XNwm7CeOEMrjVr8a9) - Learn Programming In Malayalam
+* [Mysql Malayalam tutorial series](https://www.youtube.com/playlist?list=PLBKJGko2JEdFKFGGVaveL5IOxxSNq3eBS) - Tintu Vlogger
+* [SQL / MYSQL Malayalam Tutorial Full Course](https://www.youtube.com/playlist?list=PL1JrLEBAapUXMuDKwPVVzhlBge9fdxV51) - Yes Tech Media
 
 
 ### PHP
@@ -132,6 +143,7 @@
 
 * [Python Django malayalam tutorial](https://www.youtube.com/watch?v=Obu5qj9sdaE) - Tintu Vlogger
 * [Python Django Tutorial for Beginners in malayalam](https://www.youtube.com/playlist?list=PLbasZIkCgHJGXEjcatJ3aO1NpS2PsOtoQ) - Code Band
+* [Python Django malayalam](https://www.youtube.com/playlist?list=PLFUS7KFPLkNYStmg2qIUGctQ2OOO0Mw63) - DotPy Media
 
 
 #### Flask

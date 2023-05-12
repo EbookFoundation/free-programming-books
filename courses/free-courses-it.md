@@ -63,6 +63,7 @@
 
 * [Programmazione di sistema - Bash](https://www.youtube.com/playlist?list=PLhlcRDRHVUzR-5TKDC1VPMtyhEyyQ5uwy) - Nicola Bicocchi (YouTube)
 
+
 ### C
 
 * [Corso di programmazione in C](https://www.youtube.com/playlist?list=PLO4y9a8lTpK2ugwPRLN_1oOrlzX9Zc9It) - R. Rizzi, Università di Verona

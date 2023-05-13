@@ -38,7 +38,7 @@
 
 ### Android
 
-* [Corso Java - Android](https://www.youtube.com/playlist?list=PL0qAPtx8YtJeqmBWbE1Rbac2QWHoPCjR2) - Fabrizio Camuso (YouTube)
+* [Corso Java - Android](https://www.youtube.com/playlist?list=PL0qAPtx8YtJeqmBWbE1Rbac2QWHoPCjR2) - Fabrizio Camuso
 
 
 ### Algoritmi e Strutture Dati

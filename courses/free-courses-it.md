@@ -160,6 +160,8 @@
 
 ### Mobile
 
+* [Corso Dart Italiano 2023](https://www.youtube.com/playlist?list=PLP5MAKLy8lP9VP6KL4Q9ClYCuGhet59Od) - Edoardo Midali
+* [Corso Flutter Italiano 2023](https://www.youtube.com/playlist?list=PLP5MAKLy8lP93TzdGqBnuc2dK02Mz6-VH) - Edoardo Midali
 * [DART & FLUTTER (per il mobile)](https://www.youtube.com/playlist?list=PL0qAPtx8YtJftaLnIroe7q9udsc9_qg6x) - Fabrizio Camuso
 
 

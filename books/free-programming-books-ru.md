@@ -269,33 +269,33 @@
 
 #### Hibernate
 
+* [Hibernate](https://hibernate.org/orm/documentation/)
 * [Руководство по Hibernate](http://proselyte.net/tutorials/hibernate-tutorial) - Евгений Сулейманов
-* [Hibernate](https://easyjava.ru/data/hibernate/)
 
 
 #### JDBC
 
 * [Руководство по JDBC](http://proselyte.net/tutorials/jdbc) - Евгений Сулейманов
-* [JDBC и Spring JDBC](https://easyjava.ru/data/jdbc/)
+* [JDBC и Spring JDBC](https://docs.spring.io/spring-data/jdbc/docs/current/reference/html/)
 
 
 #### JUnit
 
 * [Руководство по JUnit](http://proselyte.net/tutorials/junit) - Евгений Сулейманов
-* [JUnit 4](https://easyjava.ru/testirovanie/junit-2/)
+* [JUnit 5](https://junit.org/junit5/docs/current/user-guide/)
 
 
 #### Maven
 
 * [Руководство по Maven](http://proselyte.net/tutorials/maven) - Евгений Сулейманов
-* [Apache Maven](https://easyjava.ru/ekosistema/sredstva-sborki/apache-maven/)
+* [Apache Maven](https://maven.apache.org/guides/index.html)
 * [Maven Tutorial](https://coderlessons.com/tutorials/java-tekhnologii/uchitsia-maven/maven-nastroika-sredy) - CoderLessons.com
 
 
 #### Spring
 
 * [Руководство по Spring](http://proselyte.net/tutorials/spring-tutorial-full-version) - Евгений Сулейманов
-* [Spring Framework](https://easyjava.ru/spring/)
+* [Spring Framework](https://docs.spring.io/spring-framework/reference/)
 * [Spring MVC Tutorial](https://coderlessons.com/tutorials/java-tekhnologii/uchis-spring-mvc/spring-mvc-tutorial) - CoderLessons.com
 
 

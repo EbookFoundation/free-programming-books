@@ -8,6 +8,8 @@
     * [Управление конфигурациями](#управление-конфигурациями)
     * [Экосистема открытого исходного кода](#экосистема-открытого-исходного-кода)
     * [IDE and editors](#ide-and-editors)
+* [Angular](#angular)
+* [Android](#android)
 * [Assembly](#assembly)
 * [Bash](#bash)
 * [C](#c)
@@ -24,7 +26,6 @@
 * [HTML and CSS](#html-and-css)
     * [Bootstrap](#bootstrap)
 * [Java](#java)
-    * [Android](#android)
     * [EasyMock](#easymock)
     * [Hibernate](#hibernate)
     * [JDBC](#jdbc)
@@ -33,7 +34,6 @@
     * [Spring](#spring)
     * [Swing UI](#swing-ui)
 * [JavaScript](#javascript)
-    * [AngularJS](#angularjs)
     * [jQuery](#jquery)
     * [Node.js](#nodejs)
     * [nuxt.js](#nuxtjs)
@@ -71,7 +71,6 @@
     * [PostgreSQL](#postgresql)
 * [Swift](#swift)
 * [TypeScript](#typescript)
-    * [Angular](#angular)
 * [Unix](#unix)
 
 
@@ -129,6 +128,19 @@
 
 * [Поваренная Книга Vim](http://www.opennet.ru/docs/RUS/vim_cookbook) - Steve Oualline
 * [Просто о Vim](http://rus-linux.net/MyLDP/BOOKS/Vim/prosto-o-vim.pdf) - Swaroop (PDF)
+
+
+#### Android
+
+* [Программирование под Android](https://metanit.com/java/android) - Евгений Попов
+* [Уроки по Android](http://startandroid.ru/ru/uroki/vse-uroki-spiskom.html)
+
+
+#### Angular
+
+* [Справочник Angular](https://angdev.ru/doc/setup-and-configuration/)
+* [Русская версия документация Angular 10](https://angular24.ru) - Alexey Okhrimenko
+* [Angular 5. Полное руководство](https://bxnotes.ru/conspect/angular-5-the-complete-guide/) - Maximilian Schwarzmüller
 
 
 ### Assembly
@@ -256,11 +268,6 @@
 * [Java Programming for Kids, Parents and Grandparents](http://myflex.org/books/java4kids/java4kids.htm) - Yakov Fain
 
 
-#### Android
-
-* [Программирование под Android](https://metanit.com/java/android) - Евгений Попов
-* [Уроки по Android](http://startandroid.ru/ru/uroki/vse-uroki-spiskom.html)
-
 
 #### EasyMock
 
@@ -315,16 +322,8 @@
 * [Современный учебник JavaScript](http://learn.javascript.ru) - Илья Кантор
 * [Учебник по Javascript](https://coderlessons.com/tutorials/veb-razrabotka/uchit-javascript/uchebnik-po-javascript) - CoderLessons.com
 * [JavaScript и jQuery](https://html5book.ru/javascript-jquery) - Елена Назарова
-* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ru) - Иво Ветцель
-
-
-#### AngularJS
-
-> :information_source: See also &#8230; [Angular](#angular)
-
-* [Онлайн-руководство по AngularJS](https://metanit.com/web/angular) - Евгений Попов
-* [Перевод документации](http://angular-doc.herokuapp.com)
-* [AngularJS Tutorial](https://coderlessons.com/tutorials/veb-razrabotka/vyuchit-angularjs/angularjs-tutorial) - CoderLessons.com
+* [JavaScript Garden](https://shamansir.github.io/JavaScript-Garden/ru/) - Иво Ветцель
+* [Паттерны для масштабируемых JavaScript-приложений](https://largescalejs.ru/) - Эдди Османи
 
 
 #### jQuery
@@ -586,15 +585,6 @@
 
 * [Карманная книга по TypeScript](https://typescript-handbook.ru) - Igor Agapov
 * [Руководство по TypeScript](https://metanit.com/web/typescript) - Евгений Попов
-
-
-#### Angular
-
-> :information_source: See also &#8230; [AngularJS](#angularjs)
-
-* [Руководство по Angular](https://metanit.com/web/angular2) - Евгений Попов
-* [Русская версия документация Angular 10](https://angular24.ru) - Alexey Okhrimenko
-* [Angular 5. Полное руководство](https://bxnotes.ru/conspect/angular-5-the-complete-guide/) - Maximilian Schwarzmüller
 
 
 ### Unix

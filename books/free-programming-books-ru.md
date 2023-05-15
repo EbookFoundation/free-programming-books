@@ -336,6 +336,9 @@
 
 #### Node.js
 
+* [Документация Node.js](https://nodejs.org/ru/docs)
+* [Книга Node.js в действии](https://linux-doc.ru/webrtc/lab/book/node_js_in_action_2014.pdf) - Марк Хартер
+* [Полное руководство по Node.js](https://nodejsdev.ru/guides/freecodecamp/)
 * [Руководство по Node.js](https://metanit.com/web/nodejs) - Евгений Попов
 * [Учебник Node.js](https://coderlessons.com/tutorials/veb-razrabotka/uchebnik-node-js/uchebnik-node-js) - CoderLessons.com
 * [Node.js для начинающих](http://nodebeginner.ru) - Manuel Kiessling
@@ -348,6 +351,7 @@
 
 #### React
 
+* [Официальная документация](https://react.dev/)
 * [Перевод документации](https://ru.reactjs.org/docs/getting-started.html)
 * [Руководство по React](https://metanit.com/web/react) - Евгений Попов
 * [Уроки по React](https://codedzen.ru/category/uroki/react)
@@ -371,6 +375,7 @@
 
 ### LaTeX
 
+* [Основы LaTeX](http://tug.ctan.org/info/russian/basiclatex-ru/BasicLatex.pdf)
 * [LaTeX за три дня](http://www.stolyarov.info/books/pdf/latex3days.pdf) - Андрей Столяров (PDF)
 * [LaTeX, GNU/Linux и русский стиль (сборник статей)](http://www.inp.nsk.su/~baldin/LaTeX/index.html)
 
@@ -388,6 +393,7 @@
 
 ### .NET
 
+* [Документация по .NET](https://learn.microsoft.com/ru-ru/dotnet/) - Microsoft Learn
 * [Руководство по ADO.NET и работе с базами данных](https://metanit.com/sharp/adonet) - Евгений Попов
 * [Руководство по ASP.NET Core 2.0](https://metanit.com/sharp/aspnet5) - Евгений Попов
 * [Руководство по ASP.NET MVC 5](https://metanit.com/sharp/mvc5) - Евгений Попов
@@ -421,7 +427,7 @@
 
 * [Архитектура сложных веб-приложений. С примерами на Laravel](https://github.com/adelf/acwa_book_ru) - Adel Faizrakhmanov (PDF, EPUB, Kindle)
 * [Руководство по PHP](http://docs.php.net/manual/ru)
-* [Руководство по PHPUnit](https://phpunit.readthedocs.io/ru/latest/)
+* [Руководство по PHPUnit](https://phpunit-documentation-russian.readthedocs.io/ru/latest/)
 * [Самоучитель (учебник) по PHP](http://www.php-s.ru/self-teacher)
 * [Учебник по PHP](https://coderlessons.com/tutorials/veb-razrabotka/vyuchit-php/uchebnik-po-php)
 * [Учебник по PHP 7](https://coderlessons.com/tutorials/veb-razrabotka/vyuchit-php-7/uchebnik-po-php-7)
@@ -436,7 +442,7 @@
 
 #### CodeIgniter
 
-* [CodeIgniter](http://codeigniter3.info) - Игорь Букша
+* [CodeIgniter](https://codeigniter3.ru/guide/tutorial/index) - Игорь Букша
 * [CodeIgniter — Основные понятия](https://coderlessons.com/tutorials/veb-razrabotka/vyuchit-codeigniter/codeigniter-osnovnye-poniatiia)
 * [CodeIgniter фреймворк](https://coderlessons.com/tutorials/veb-razrabotka/codeigniter-freimvork/codeigniter-freimvork)
 
@@ -450,8 +456,8 @@
 
 #### Symfony
 
+* [Документация Symfony](https://symfony.ru/doc/current/index.html)
 * [Учебник по Symfony](https://coderlessons.com/tutorials/veb-razrabotka/uchit-symfony/uchebnik-po-symfony)
-* [Symfony 5. Быстрый старт](https://symfony.com/doc/5.0/the-fast-track/ru/index.html)
 
 
 ### Python
@@ -464,16 +470,16 @@
 * [Укус Питона](http://wombat.org.ua/AByteOfPython) - Swaroop C H
 * [Учебник Python 2.6](https://ru.wikibooks.org/wiki/Учебник_Python_2.6) - Викиучебник
 * [Problem Solving with Algorithms and Data Structures](https://aliev.github.io/runestone)
-* [Python. Введение в объектно-ориентированное программирование](https://younglinux.info/oopython.php) - C. Шапошникова
-* [Python. Введение в программирование](https://younglinux.info/python.php) - C. Шапошникова
+* [Автостопом по Python](https://codernet.ru/books/python/avtostopom_po_python_kennet_rejtc_tanya_shlyusser/) - Кеннет Рейтц, Таня Шлюссер
 * [Python. Уроки](https://devpractice.ru/book-python-lessons) - Абдрахманов М.И.
 * [Python. unittest](https://devpractice.ru/book-python-unittest) - Абдрахманов М.И
-* [Tkinter. Программирование графического интерфейса](https://younglinux.info/tkinter.php) - C. Шапошникова
+* [Tkinter. Программирование графического интерфейса](https://younglinux.info/tkinter/course) - C. Шапошникова
 
 
 #### Django
 
 * [Руководство по веб-фреймворку Django](https://metanit.com/python/django) - Евгений Попов
+* [Документация Django](https://django.fun/ru/docs/django/4.1/)
 * [Руководство Django Girls](https://tutorial.djangogirls.org/ru) (1.11) (HTML) (:construction: *в процессе написания*)
 
 
@@ -501,7 +507,7 @@
 ### Ruby
 
 * [Руководство пользователя](http://linux.yaroslavl.ru/docs/prog/ruby.html) - matz
-* [Учись программировать](http://www.shokhirev.com/mikhail/ruby/ltp/title.html) - Крис Пайн
+* [Учись программировать](https://codernet.ru/books/ruby/learn_to_program_kris_pajn/) - Крис Пайн
 * [Ruby](https://ru.wikibooks.org/wiki/Ruby) - Викиучебник
 * [Ruby за двадцать минут](https://www.ruby-lang.org/ru/documentation/quickstart)
 * [Ruby Book](https://github.com/Krugloff/rus_ruby_book) - Круглов А.
@@ -509,7 +515,7 @@
 
 #### RSpec
 
-* [Better Specs (RSpec Guidelines with Ruby)](http://betterspecs.org/ru)
+* [Better Specs (RSpec Guidelines with Ruby)](http://betterspecs.org)
 
 
 #### Ruby on Rails
@@ -536,8 +542,8 @@
 
 ### Scilab
 
-* [Введение в Scilab](http://forge.scilab.org/index.php/p/docintrotoscilab/downloads)
-* [Программирование в Scilab](http://forge.scilab.org/index.php/p/docprogscilab/downloads)
+* [Введение в Scilab](http://www.bourabai.ru/library/scilab_start.pdf)
+* [Программирование в Scilab](https://teacher.ucoz.net/Lection/Scilab/glava_9.pdf)
 
 
 ### Scratch
@@ -556,6 +562,7 @@
 * [Руководство по MS SQL Server 2017](https://metanit.com/sql/sqlserver) - Евгений Попов
 * [Руководство по SQL](http://proselyte.net/tutorials/sql) - Евгений Сулейманов
 * [Язык SQL. Базовый курс](https://postgrespro.ru/education/books/sqlprimer) (PDF)
+* [SQL. Сборник рецептов.](https://codernet.ru/books/sql/sql_sbornik_receptov_entoni_molinaro/) (PDF) - Энтони Молинаро
 
 
 #### FirebirdSQL
@@ -579,16 +586,23 @@
 
 * [Документация и туториалы](https://swiftbook.ru)
 * [Swift Tutorial](https://coderlessons.com/tutorials/kompiuternoe-programmirovanie/nauchites-programmirovaniiu-swift/swift-tutorial) - CoderLessons.com
+* [Документация и туториалы](https://swiftbook.ru)
+* [Swift. Основы разработки приложений под iOS и macOS.](https://codernet.ru/books/swift/swift_osnovy_razrabotki_prilozheniy_pod_ios_i_macos_v_usov/) - Василий Усов
 
 
 ### TypeScript
 
-* [Карманная книга по TypeScript](https://typescript-handbook.ru) - Igor Agapov
+* [Карманная книга по TypeScript](https://my-js.org/docs/guide/ts/) - Igor Agapov
 * [Руководство по TypeScript](https://metanit.com/web/typescript) - Евгений Попов
+* [Эффективный TypeScript: 62 способа улучшить код.](https://codernet.ru/books/typescript/62_sposoba_uluchshit_kod_den_vanderkam/) - Дэн Вандеркам
+* [Angular и TypeScript. Сайтостроение для профессионалов.](hhttps://codernet.ru/books/typescript/angular_i_typescript_saytostroenie_dlya_professionalov/) - Яков Файн, Антон Моисеев
 
 
 ### Unix
 
+* [Программирование в Linux. Самоучитель.](https://codernet.ru/books/linux/programmirovanie_v_linux_samouchitel/) - Иванов Н. Н
+* [Командная строка Linux и автоматизация рутинных задач.](https://codernet.ru/books/linux/komandnaya_stroka_linux_i_avtomatizaciya_rutinnyx_zadach/) - Денис Колисниченко
+* [Ubuntu и Debian Linux для продвинутых.](https://codernet.ru/books/linux/ubuntu_i_debian_linux_dlya_prodvinutyx/) - Негус К., Казн Ф
 * [Архитектура операционной системы Unix](http://lib.ru/BACH) - Maurice J. Bach, `trl.:` Крюкова А. В.
 * [Введение в системное администрирование UNIX](http://lib.ru/unixhelp) - Мошков Максим Евгеньевич
 * [Внутреннее устройство Ядра Linux 2.4](http://www.opennet.ru/docs/RUS/lki) - Tigran Aivazian

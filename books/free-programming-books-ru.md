@@ -201,10 +201,10 @@
 
 ### Git
 
+* [Pro Git](http://git-scm.com/book/ru/) - Scott Chacon, Ben Straub, et al. (HTML, PDF, EPUB, Kindle)
 * [Волшебство Git](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/ru) - Ben Lynn, `trl.:` Tikhon Tarnavsky, `trl.:` Mikhail Dymskov, et al. (HTML)
 * [Простое руководство по работе с Git](https://rogerdudler.github.io/git-guide/index.ru.html) - Roger Dudler, `trl.:` Dmitry Wolf (HTML)
 * [Руководство по Git](https://proselyte.net/tutorials/git) - Евгений Сулейманов (HTML)
-* [Pro Git](http://git-scm.com/book/ru/) - Scott Chacon, Ben Straub, et al. (HTML, PDF, EPUB, Kindle)
 
 
 ### Go

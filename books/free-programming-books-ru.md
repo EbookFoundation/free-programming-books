@@ -223,7 +223,7 @@
 * [Учебник по Haskell](http://anton-k.github.io/ru-haskell-book/book/home.html) - Антон Холомьёв
 * [Язык и библиотеки Haskell 98](http://www.haskell.ru) - Simon Peyton Jones
 * [Язык программирования Haskell: Учимся быть ленивыми](https://github.com/Number571/Haskell/tree/master/Book) - Г. Коваленко
-* [Developing Web Applications with Haskell and Yesod](https://bitbucket.org/darkus/yesod/downloads) - Майкл Сноймен
+* [Developing Web Applications with Haskell and Yesod](https://www.pdfdrive.com/developing-web-apps-with-haskell-and-yesod-safety-driven-web-development-d179110611.html) - Майкл Сноймен
 * [Haskell: введение в функциональное программирование](https://wiki.nsunc.com/_export/html/haskell) - В.Н. Власов
 
 

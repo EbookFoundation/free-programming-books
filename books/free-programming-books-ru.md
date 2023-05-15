@@ -264,7 +264,7 @@
 
 #### EasyMock
 
-* [EasyMock 3](https://easyjava.ru/testirovanie/easymock/)
+* [EasyMock](https://easymock.org/user-guide.html)
 
 
 #### Hibernate

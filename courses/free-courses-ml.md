@@ -170,12 +170,6 @@
 * [Linux Malayalam](https://www.youtube.com/playlist?list=PLmFap_OoBJh6ZIbXANxdBYAlKCCAngX5o) - Tech Trivandrum
 
 
-### Linux
-
-* [Learn Linux Malayalam](https://www.youtube.com/playlist?list=PLQzHWfiB9fWcImNxiu-wgnurqLM3fKNDY) - Learn Programming In Malayalam
-* [Linux Malayalam](https://www.youtube.com/playlist?list=PLmFap_OoBJh6ZIbXANxdBYAlKCCAngX5o) - Tech Trivandrum
-
-
 ### MySQL
 
 * [Mysql Malayalam tutorial series](https://www.youtube.com/playlist?list=PLBKJGko2JEdFKFGGVaveL5IOxxSNq3eBS) - Tintu Vlogger

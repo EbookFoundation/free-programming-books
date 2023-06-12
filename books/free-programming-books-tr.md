@@ -6,6 +6,7 @@
 * [C++](#cpp)
 * [D](#d)
 * [Dart](#dart)
+* [Django](#django)
 * [Git](#git)
 * [Go](#go)
 * [Güvenlik ve Gizlilik](#guvenlik-ve-gizlilik)
@@ -19,7 +20,6 @@
 * [Linux](#linux)
 * [.NET Framework](#net-framework)
 * [Python](#python)
-* [Django](#django)
 * [R](#r)
 * [Ruby](#ruby)
 * [Rust](#rust)
@@ -60,6 +60,13 @@
 ### Dart
 
 * [Dart - Merhaba Dünya](https://www.dartogreniyorum.blogspot.com.tr/2013/03/yeniden-dart.html?view=sidebar)
+
+
+### Django
+
+* [Django](https://web.archive.org/web/20210302105925/https://www.pythondersleri.com/p/django-egitim-serisi.html) - Python Dersleri *(:card_file_box: archived)*
+* [Django Egitimi](https://web.archive.org/web/20210802025720/https://gokmengorgen.net/django-notes/) *(:card_file_box: archived)*
+* [Django Girls Eğitimi](https://tutorial.djangogirls.org/tr) (1.11) (HTML) (:construction: *in process*)
 
 
 ### Git
@@ -135,13 +142,6 @@
 ### Python
 
 * [Python Programlama Dili](https://python-istihza.yazbel.com) - YazBel Yazılım Belgelendirme Projesi - Python 3
-
-
-### Django
-
-* [Django](https://web.archive.org/web/20210302105925/https://www.pythondersleri.com/p/django-egitim-serisi.html) - Python Dersleri *(:card_file_box: archived)*
-* [Django Egitimi](https://web.archive.org/web/20210802025720/https://gokmengorgen.net/django-notes/) *(:card_file_box: archived)*
-* [Django Girls Eğitimi](https://tutorial.djangogirls.org/tr) (1.11) (HTML) (:construction: *in process*)
 
 
 ### R

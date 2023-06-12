@@ -14,6 +14,7 @@
 * [iOS](#ios)
 * [Java](#java)
 * [JavaScript](#javascript)
+* [Kubernetes](#kubernetes)
 * [LaTeX](#latex)
 * [Linux](#linux)
 * [.NET Framework](#net-framework)
@@ -22,7 +23,7 @@
 * [R](#r)
 * [Ruby](#ruby)
 * [Rust](#rust)
-* [Kubernetes](#kubernetes)
+
 
 
 ### Algoritma ve Veri Yapıları
@@ -108,6 +109,11 @@
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/tr)
 
 
+### Kubernetes
+
+* [Kubernetes Türkçe Dokümantasyon](https://github.com/Furkan-Gulsen/kubernetes-docs) - Muhammed Furkan Gülşen
+
+
 ### LaTeX
 
 * [İnce bir LaTeX2ε Elkitabı](http://www.ctan.org/tex-archive/info/lshort/turkish)
@@ -158,8 +164,3 @@
 
 * [Rust ile CHIP-8 Emülatörü Geliştirme](https://onur.github.io/chip8) - Onur Aslan
 * [Rust'a Giriş](https://github.s3.amazonaws.com/downloads/vertexclique/vertexclique.github.io/Rusta-Giris-v1.pdf) - Mahmut Bulut (PDF)
-
-
-### Kubernetes
-
-* [Kubernetes Türkçe Dokümantasyon](https://github.com/Furkan-Gulsen/kubernetes-docs) - Muhammed Furkan Gülşen

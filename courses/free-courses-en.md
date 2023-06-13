@@ -40,6 +40,7 @@
 * [Game Development](#game-development)
 * [Git](#git)
 * [Go](#go)
+* [Graph Theory](#graph-theory)
 * [Haskell](#haskell)
 * [HTML and CSS](#html-and-css)
     * [Bootstrap](#bootstrap)
@@ -669,6 +670,12 @@
 * [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU) - Michael Van Sickle (freeCodeCamp)
 * [Learn Go Programming by Building 11 Projects – Full Course](https://www.youtube.com/watch?v=jFfo23yIWac) - Akhil Sharma  (FreeCodeCamp)
 * [Let's go with golang](https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa) - Hitesh Choudhary
+
+
+### Graph Theory
+
+* [Graph Theory](https://youtube.com/playlist?list=PLztBpqftvzxXBhbYxoaZJmnZF6AUQr1mH) - Wrath of Math
+* [Graph Theory - DM](https://youtube.com/playlist?list=PLYrahs7hsYIQiSNxTfZndQz7jWPXsA1ur) - SCCI Labs IIT Ropar
 
 
 ### Haskell

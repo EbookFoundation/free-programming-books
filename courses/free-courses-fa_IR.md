@@ -2,8 +2,7 @@
 
 * [Blockchain](#blockchain)
 * [C, C++](#c)
-* * [C#](#c-sharp)
-    * [.NET Core](#dotnetcore)
+* [C#](#csharp)
 * [Git](#git)
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
@@ -36,11 +35,9 @@
 * [درس اصول برنامه‌نویسی سی و سی پلاس پلاس از دانشگاه صنعتی اصفهان](https://maktabkhooneh.org/course/%D8%A7%D8%B5%D9%88%D9%84-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-C-%D9%88-C-mk68) - Kiarash Bazargan
 
 
-### C-Sharp
+### <a id="csharp"></a>C\#
 
-#### DotNetCore
 * [دوره مقدماتی دات نت 5 تحت وب](https://bugeto.net/courses/free-introductory-asp-dot-net-core-training-course) - Ehsan Babaei *(نیاز به ثبت نام دارد)*
-
 
 
 ### Git

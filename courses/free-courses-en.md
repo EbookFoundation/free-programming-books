@@ -40,6 +40,7 @@
 * [Game Development](#game-development)
 * [Git](#git)
 * [Go](#go)
+* [Graph Theory](#graph-theory)
 * [Haskell](#haskell)
 * [HTML and CSS](#html-and-css)
     * [Bootstrap](#bootstrap)
@@ -671,6 +672,12 @@
 * [Let's go with golang](https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa) - Hitesh Choudhary
 
 
+### Graph Theory
+
+* [Graph Theory](https://youtube.com/playlist?list=PLztBpqftvzxXBhbYxoaZJmnZF6AUQr1mH) - Wrath of Math
+* [Graph Theory - DM](https://youtube.com/playlist?list=PLYrahs7hsYIQiSNxTfZndQz7jWPXsA1ur) - SCCI Labs IIT Ropar
+
+
 ### Haskell
 
 * [Advanced Functional Programming in Haskell](http://www.cs.nott.ac.uk/~pszgmh/afp.html) - Graham Hutton
@@ -1115,6 +1122,7 @@
 
 * [Berkeley's CS 162: Operating Systems and Systems Programming](https://www.youtube.com/watch?v=feAOZuID1HM)
 * [Berkeley's CS 194: What is an Operating System?](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs194-spring2013-berkeley.html)
+* [MIT 6.S081: Operating System Engineering(Fall 2020)](https://pdos.csail.mit.edu/6.S081/2020/schedule.html) - Frans Kaashoek, Robert Morris
 * [Operating System](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O) - Neso Academy
 
 

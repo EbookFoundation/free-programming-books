@@ -126,8 +126,8 @@
 
 * [Data Science Foundations](https://skillsbuild.org/students/course-catalog/data-science) - IBM SkillBuild *(email address required)*
 * [Data Science Tutorial](https://www.w3schools.com/datascience/default.asp) - W3Schools
-* [Data Science Tutorial for Beginners](https://www.scaler.com/topics/data-science/) - Scaler Topics *free course*
-* [Data Science Tutorial for Beginners - Video Course](https://www.scaler.com/topics/course/python-for-data-science/) course by Yash Sinha - Scaler Topics  *free course*
+* [Data Science Tutorial for Beginners](https://www.scaler.com/topics/data-science/) - Scaler Topics *(free course)*
+* [Data Science Tutorial for Beginners - Video Course](https://www.scaler.com/topics/course/python-for-data-science/) - course by Yash Sinha Scaler Topics  *(free course)*
 * [Essential Linear Algebra for Data Science and Machine Learning](https://www.kdnuggets.com/2021/05/essential-linear-algebra-data-science-machine-learning.html) - KDnuggets
 * [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/) - Dan Margalit, Joseph Rabinoff (HTML, PDF)
 * [Top 10 Data Science Projects for Beginners - KDnuggets](https://www.kdnuggets.com/2021/06/top-10-data-science-projects-beginners.html)
@@ -144,7 +144,6 @@
 * [git-game-v2](https://github.com/git-game/git-game-v2)
 * [Git Tutorial](https://www.w3schools.com/git/) - W3Schools
 * [Githug](https://github.com/Gazler/githug) (Tutorial in shell)
-* [Git Tutorial](https://www.scaler.com/topics/git/) - Scaler Topics *free course*
 * [Learn Git Branching](https://learngitbranching.js.org)
 * [Learn git concepts, not commands](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc) - Nico Riedmann, Dev.to
 * [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)

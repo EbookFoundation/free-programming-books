@@ -65,6 +65,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Goalkicker](https://goalkicker.com) - Programming Notes for Professionals books
 * [IBM Redbooks](http://www.redbooks.ibm.com)
 * [InfoQ Minibooks](http://www.infoq.com/minibooks/)
+* [InTech: Computer and Information Science](https://www.intechopen.com/subjects/9)
 * [JSBooks - directory of free javascript ebooks](https://github.com/revolunet/JSbooks)
 * [Learn X in Y minutes](https://learnxinyminutes.com)
 * [Learneroo Resources to Learn Programming](https://www.learneroo.com/modules/12/nodes/96)
@@ -176,6 +177,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/) *(account required)*
 * [Distributed Systems 3rd edition](https://www.distributed-systems.net/index.php/books/ds3/) - Maarten van Steen, Andrew S. Tanenbaum *(email address required)*
 * [How to optimize storage costs using Amazon S3](https://aws.amazon.com/s3/cloud-storage-cost-optimization-ebook/) - AWS (PDF)
+* [Kubernetes Hardening Guidance](https://media.defense.gov/2022/Aug/29/2003066362/-1/-1/0/CTR_KUBERNETES_HARDENING_GUIDANCE_1.2_20220829.PDF) - NSA, CISA (PDF)
 * [Learn Azure in a Month of Lunches](https://clouddamcdnprodep.azureedge.net/gdc/2014519/original) - Iain Foulds (PDF)
 * [Monitoring Modern Infrastructure](https://www.datadoghq.com/ebook/monitoring-modern-infrastructure/) *(account required)*
 * [Multi-tenant Applications for the Cloud, 3rd Edition](http://www.microsoft.com/en-us/download/details.aspx?id=29263)
@@ -312,6 +314,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Learn OpenGL](https://learnopengl.com) - Joey de Vries
 * [Learn OpenGL RS](https://github.com/bwasty/learn-opengl-rs) - Benjamin Wasty, et al. (:construction: *in process*) (Rust)
 * [Learning Modern 3D Graphics Programming](https://web.archive.org/web/20150225192611/http://www.arcsynthesis.org/gltut/index.html) - Jason L. McKesson (draft)
+* [Notes for a Computer Graphics Programming Course](https://dokumen.tips/documents/computer-grafics-notes.html) - Dr. Steve Cunningham (PDF)
 * [OpenGL](http://www.songho.ca/opengl/index.html) - Concepts and illustrations
 * [Physically Based Rendering, Third Edition: from Theory to Implementation](https://www.pbr-book.org) - Matt Pharr, Wenzel Jakob, Greg Humphreys
 * [Ray Tracing Gems](https://www.realtimerendering.com/raytracinggems/rtg/index.html) - Eric Haines, Tomas Akenine-Möller

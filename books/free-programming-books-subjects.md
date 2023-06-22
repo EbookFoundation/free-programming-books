@@ -55,16 +55,15 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 
 ### 0 - Meta-Lists
 
-* [atariarchives.org](http://www.atariarchives.org) atariarchives.org makes books, information, and software for Atari and other classic computers available on the Web.
+* [Atariarchives.org](https://www.atariarchives.org) atariarchives.org makes books, information, and software for Atari and other classic computers available on the Web.
 * [Bento](https://www.bento.io)
 * [Bitsavers.org](http://bitsavers.trailing-edge.com)
 * [Code Catalog: A Collection of Code Examples from Prominent Open Source Projects](https://codecatalog.org) (HTML)
-* [conceptf1.blogspot.com](http://conceptf1.blogspot.com/2013/11/list-of-freely-available-programming.html)
-* [Free Smalltalk Books, collected by Stéphane Ducasse](http://stephane.ducasse.free.fr/FreeBooks.html)
-* [Free Tech Books](http://www.freetechbooks.com)
+* [conceptf1.blogspot.com](https://conceptf1.blogspot.com/2013/11/list-of-freely-available-programming.html)
+* [Free Tech Books](https://www.freetechbooks.com)
 * [Goalkicker](https://goalkicker.com) - Programming Notes for Professionals books
-* [IBM Redbooks](http://www.redbooks.ibm.com)
-* [InfoQ Minibooks](http://www.infoq.com/minibooks/)
+* [IBM Redbooks](https://www.redbooks.ibm.com)
+* [InfoQ Minibooks](https://www.infoq.com/minibooks/)
 * [InTech: Computer and Information Science](https://www.intechopen.com/subjects/9)
 * [JSBooks - directory of free javascript ebooks](https://github.com/revolunet/JSbooks)
 * [Learn X in Y minutes](https://learnxinyminutes.com)
@@ -74,16 +73,16 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Microsoft Technologies 1, including books on Windows Azure, SharePoint, Visual Studio Guide, Windows phone development, ASP.net, Office365, etc. collection by Eric Ligman](https://blogs.msdn.microsoft.com/mssmallbiz/2012/07/27/large-collection-of-free-microsoft-ebooks-for-you-including-sharepoint-visual-studio-windows-phone-windows-8-office-365-office-2010-sql-server-2012-azure-and-more/)
 * [Microsoft Technologies 2, including books on Windows Azure, SharePoint, Visual Studio Guide, Windows phone development, ASP.net, etc. collection by Eric Ligman](https://blogs.msdn.microsoft.com/mssmallbiz/2012/07/30/another-large-collection-of-free-microsoft-ebooks-and-resource-kits-for-you-including-sharepoint-2013-office-2013-office-365-duet-2-0-azure-cloud-windows-phone-lync-dynamics-crm-and-more/)
 * [Microsoft Technologies 3, DevOps for ASP.NET Core Developers](https://raw.githubusercontent.com/dotnet-architecture/eBooks/main/current/devops-aspnet-core/DevOps-for-ASP.NET-Core-Developers.pdf) - Cam Soper, Scott Addie, Colin Dembovsky (PDF)
-* [O'Reilly's Open Books Project](http://www.oreilly.com/openbook/)
+* [O'Reilly's Open Books Project](https://www.oreilly.com/openbook/)
 * [Papers we love](https://github.com/papers-we-love/papers-we-love)
-* [Red Gate Books](http://www.red-gate.com/community/books/index)
+* [Red Gate Books](https://www.red-gate.com/hub/books/)
 * [Rip Tutorials](https://riptutorial.com/ebook)
 * [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks/)
-* [TechBeamers.com](http://www.techbeamers.com)
+* [TechBeamers.com](https://www.techbeamers.com)
 * [TechBooksForFree.com](https://www.techbooksforfree.com)
-* [The Definitive C++ Book Guide and List](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
+* [The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 * [Theassayer.org](http://theassayer.org)
-* [Tutorials Point](http://www.tutorialspoint.com)
+* [Tutorials Point](https://www.tutorialspoint.com)
 
 
 ### Algorithms & Data Structures

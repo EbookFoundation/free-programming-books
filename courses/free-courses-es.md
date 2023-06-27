@@ -219,7 +219,7 @@
 
 ### Redes
 
-* [Aplicaciones y servicios en redes](https://ocw.unican.es/course/view.php?id=32)
+* [Aplicaciones y servicios en redes](https://ocw.unican.es/course/view.php?id=148)
 * [Conmutación (2012)](http://ocw.bib.upct.es/course/view.php?id=129)
 * [Dimensionamiento y planificación de redes (2015)](https://ocw.unican.es/course/view.php?id=19)
 * [Diseño y operación de redes telemáticas (2015)](https://ocw.unican.es/course/view.php?id=22)

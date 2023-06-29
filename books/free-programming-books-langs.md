@@ -1177,7 +1177,6 @@ Books on general-purpose programming that don't focus on a specific language are
 > :information_source: See also &#8230; [Angular](#angular)
 
 * [Angular 1 Style Guide](https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md) - John Papa (HTML)
-* [Angular for the jQuery developer](http://www.ng-newsletter.com.s3-website-us-east-1.amazonaws.com/posts/angular-for-the-jquery-developer.html) - ng-newsletter, Ari Lerner, David Wu, Nate Murray (HTML)
 * [Angular Testing Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/angular-testing-succinctly) - Joseph D. Booth (HTML)
 * [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/) - Nicholas Johnson (HTML)
 * [AngularJS Guide](https://docs.angularjs.org/guide/) (HTML)
@@ -1193,7 +1192,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 #### Backbone.js
 
-* [A pragmatic guide to Backbone.js apps](http://pragmatic-backbone.com)
+* [A pragmatic guide to Backbone.js apps](https://web.archive.org/web/20220301161730/http://pragmatic-backbone.com/) - Julio Ody (HTML) *(:card_file_box: archived)*
 * [Backbonejs Tutorials](https://cdnjs.com/libraries/backbone.js/tutorials/)
 * [Building Single Page Web Apps with Backbone.js](https://singlepagebook.supportbee.com) (:construction: *in process*)
 * [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
@@ -1203,7 +1202,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 #### Booty5.js
 
-* [The Booty5 HTML5 Game Maker Manual](http://booty5.com/booty5-free-html-game-maker-e-book-manual/)
+* [The Booty5 HTML5 Game Maker Manual](http://booty5.com/Booty5_HTML5_Game_Maker_Manual.pdf) - Mat Hopwood (PDF)
 
 
 #### D3.js
@@ -1240,7 +1239,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [AngularJs vs EmberJs](https://angularjs-emberjs-compare.bguiz.com) - Brendan Graetz (HTML)
 * [Ember App with RailsApi](https://dockyard.com/blog/ember/2013/01/07/building-an-ember-app-with-rails-api-part-1)
 * [Ember.js - Getting started](https://guides.emberjs.com/release/)
-* [Vic Ramon's Ember Tutorial](http://ember.vicramon.com)
+* [Vic Ramon's Ember Tutorial](https://web.archive.org/web/20210619071520/https://ember.vicramon.com/) - Vic Ramon (HTML) *(:card_file_box: archived)*
 * [yoember.com](https://yoember.com)
 
 
@@ -1293,7 +1292,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [From Containers to Kubernetes with Node.js](https://www.digitalocean.com/community/books/from-containers-to-kubernetes-with-node-js-ebook) - Kathleen Juell (PDF, EPUB)
 * [Full Stack JavaScript: Learn Backbone.js, Node.js and MongoDB](https://github.com/azat-co/fullstack-javascript) - Azat Mardan
 * [How To Code in Node.js - eBook](https://www.digitalocean.com/community/books/how-to-code-in-node-js-ebook) - David Landup, Marcus Sanatan @ Stack Abuse, Digital Ocean (PDF, EPUB)
-* [Introduction to Node.js](https://nodejs.dev/learn) (HTML)
+* [Introduction to Node.js](https://nodejs.dev/en/learn/) (HTML)
 * [Mastering Node](https://github.com/visionmedia/masteringnode) - visionmedia ([PDF](https://github.com/visionmedia/masteringnode/blob/master/book.pdf))
 * [Mixu's Node Book](http://book.mixu.net/node/)
 * [Node Documentation](https://nodejs.org/en/docs/) (PDF)
@@ -1331,7 +1330,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [React-Bits](https://github.com/vasanthk/react-bits)
 * [React Book, your beginner guide to React](https://github.com/softchris/react-book/) - Chris Noring
 * [React Enlightenment](https://www.reactenlightenment.com) - Cody Lindley (HTML)
-* [React In-depth: An exploration of UI development](https://developmentarc.gitbooks.io/react-indepth/content/)
+* [React In-depth: An exploration of UI development](https://developmentarc.gitbooks.io/react-indepth/content/) - James Polanco, Aaron Pedersen (HTML)
 * [React in patterns](https://krasimir.gitbooks.io/react-in-patterns/content) - Krasimir Tsonev
 * [React JS Notes for Professionals](https://goalkicker.com/ReactJSBook/) - Compiled from StackOverflow Documentation (PDF)
 * [React Primer Draft](https://github.com/mikechau/react-primer-draft)

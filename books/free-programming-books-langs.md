@@ -643,8 +643,8 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### CUDA
 
-* [CUDA C Best Practices Guide](https://www.serc.iisc.ac.in/serc_web/wp-content/uploads/2019/05/CUDA_C_Best_Practices_Guide111.pdf) - Nvidia (PDF)
-* [CUDA C Programming Guide](https://www3.nd.edu/~zxu2/acms60212-40212/CUDA_C_Programming_Guide.pdf) - Nvidia (PDF)
+* [CUDA C Best Practices Guide](https://web.archive.org/web/20170517050133/https://docs.nvidia.com/pdf/CUDA_C_Best_Practices_Guide.pdf) - Nvidia (PDF) *(:card_file_box: archived)*
+* [CUDA C Programming Guide](https://web.archive.org/web/20181228130113/https://docs.nvidia.com/cuda/pdf/CUDA_C_Programming_Guide.pdf) - Nvidia (PDF) *(:card_file_box: archived)*
 * [CUDA C++ Best Practices Guide](https://docs.nvidia.com/cuda/pdf/CUDA_C_Best_Practices_Guide.pdf) - Nvidia (PDF)
 * [CUDA C++ Programming guide](https://docs.nvidia.com/cuda/pdf/CUDA_C_Programming_Guide.pdf) - Nvidia (PDF)
 * [OpenCL Programming Guide for CUDA Architecture](http://www.nvidia.com/content/cudazone/download/OpenCL/NVIDIA_OpenCL_ProgrammingGuide.pdf) - Nvidia (PDF)

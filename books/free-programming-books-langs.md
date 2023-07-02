@@ -335,6 +335,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [PC Assembly Language](http://pacman128.github.io/pcasm/) - P. A. Carter
 * [Programming from the Ground Up](https://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf) - Jonathan Bartlett (PDF)
 * [Ralf Brown's Interrupt List](http://www.ctyme.com/rbrown.htm)
+* [Run Down On x86 Intel Assembly Course](https://web.archive.org/web/20220829120322/https://github.com/Ret2LC/x86-assembly) - Ret2LC *(:card_file_box: archived)*
 * [Software optimization resources](http://www.agner.org/optimize/) - A. Fog
 * [The Art of Assembly Language (2003)](https://web.archive.org/web/20120525102637/http://maven.smith.edu/~thiebaut/ArtOfAssembly/artofasm.html) - Randall Hyde (PDF)
 * [The Grain Docs](https://grain-lang.org/docs/)
@@ -462,7 +463,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Let us C](https://archive.org/download/let-us-c/LET%20US%20C.pdf) - Yashavant Kanetkar (PDF) *(:card_file_box: latest 14th edition)*
 * [Modeling with Data](https://ben.klemens.org/pdfs/gsl_stats.pdf) - Ben Klemens (PDF)
 * [Modern C](https://gustedt.gitlabpages.inria.fr/modern-c/) - Jens Gustedt (PDF)
-* [Object-Oriented Programming With ANSI-C (1993)](https://www.cs.rit.edu/~ats/books/ooc.pdf) - Axel-Tobias Schreiner (PDF)
+* [Object-Oriented Programming With ANSI-C (1993)](https://web.archive.org/web/20211105200913/http://www.planetpdf.com/codecuts/pdfs/ooc.pdf) - Axel-Tobias Schreiner (PDF) *(:card_file_box: archived)*
 * [Programming in C](http://ee.hawaii.edu/~tep/EE160/Book/PDF/) - Bharat Kinariwala & Tep Dobry
 * [Programming in C](https://www.freetechbooks.com/programming-in-c-t1337.html) - Kishori Mundargi
 * [Structures and C](https://www.smashwords.com/books/view/644937) - Prakash Hegade
@@ -670,6 +671,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 * [Data Management for Analytics and Applications (2021)](https://bookdown.org/kokkodis/book/) - Marios Kokkodis
 * [Database Management System](https://mrcet.com/downloads/digital_notes/ECE/III%20Year/DATABASE%20MANAGEMENT%20SYSTEMS.pdf) - Malla Reddy College of Engineering and Technology (PDF)
+* [Database Management Systems eBooks For All Edition](https://web.archive.org/web/20220326082908/http://www.lincoste.com/ebooks/english/pdf/computers/database_management_systems.pdf) - Various Contributors (PDF) *(:card_file_box: archived)*
 
 
 ### Delphi / Pascal
@@ -1134,7 +1136,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [JavaScript for Impatient Programmers (ES2022 edition)](https://exploringjs.com/impatient-js/) - Axel Rauschmayer (HTML)
 * [JavaScript from ES5 to ESNext](https://flaviocopes.com/page/es5-to-esnext/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
 * [JavaScript Fundamentals, Plus a Dash Of JQuery - for dinner ladies](http://nicholasjohnson.com/javascript-book/) - Nicholas Johnson (HTML)
-* [JavaScript Garden](https://shamansir.github.io/JavaScript-Garden/) - Ivo Wetzel, Zhang Yi Jiang (HTML)
+* [JavaScript Garden](https://web.archive.org/web/20220202200707/http://bonsaiden.github.io/JavaScript-Garden/) - Ivo Wetzel, Zhang Yi Jiang (HTML) *(:card_file_box: archived)*
 * [JavaScript Handbook](https://thevalleyofcode.com/js/) - Flavio Copes (HTML, PDF)
 * [JavaScript Interview #35](https://gumroad.com/l/javascript-interview-35) - Coderslang Master (PDF, email address *requested*, not required)
 * [JavaScript Notes for Professionals](https://goalkicker.com/JavaScriptBook/) - Compiled from StackOverflow documentation (PDF)

@@ -318,7 +318,7 @@
 * [C++ Compilation, Linking, and Makefiles](https://youtube.com/playlist?list=PLNUvpxaaFJ_i6BYqbxTVeK5AOcFzQbboQ) - Amy Larson
 * [C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210) - Catherine Gamboa (Udacity)
 * [C++ Programming](https://www.youtube.com/playlist?list=PLBlnK6fEyqRh6isJ01MBnbNpV3ZsktSyS) - Neso Academy
-* [C++ Programming](https://www.youtube.com/watch?v=IsAoIqnNia4&list=PLfu_Bpi_zcDOtpXhhxL-P1wu0VkwNRXwC&pp=iAQB) - Kody Simpson
+* [C++ Programming](https://www.youtube.com/playlist?list=PLfu_Bpi_zcDOtpXhhxL-P1wu0VkwNRXwC) - Kody Simpson
 * [C++ Programming Course - Beginner to Advanced](https://www.youtube.com/watch?v=8jLOx1hD3_o) - Daniel Gakwaya (freeCodeCamp)
 * [C++ Programming Tutorial for Beginners (For Absolute Beginners)](https://www.youtube.com/playlist?list=PLS1QulWo1RIYSyC6w2-rDssprPrEsgtVK) - ProgrammingKnowledge
 * [C++ Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWoVZWSN-ze3VVtIfZfXwAGM) - The Bad Tutorials
@@ -775,7 +775,7 @@
 * [Java Programming](https://testautomationu.applitools.com/java-programming-course/) - Angie Jones (Applitools)
 * [Java Programming](https://java-programming.mooc.fi) - University of Helsinki
 * [Java Programming](https://youtube.com/playlist?list=PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5) - Neso Academy
-* [Java Programming](https://www.youtube.com/watch?v=2XE7OWv4Tdg&list=PLfu_Bpi_zcDPNy6qznvbkGZi7eP_0EL77&pp=iAQB) - Kody Simpson
+* [Java Programming](https://www.youtube.com/playlist?list=PLfu_Bpi_zcDPNy6qznvbkGZi7eP_0EL77) - Kody Simpson
 * [Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282) - Cezanne Camacho, Asser Samak (Udacity) (account *required*)
 * [Java Programming Basics](https://www.udemy.com/course/java-programming-basics/) - Charles Mulic (Udemy)
 * [Java Programming: Solving Problems with Software](https://www.coursera.org/learn/java-programming) (Coursera)

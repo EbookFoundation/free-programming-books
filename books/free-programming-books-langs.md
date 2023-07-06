@@ -1302,6 +1302,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Introduction to Node.js](https://nodejs.dev/learn) (HTML)
 * [Mastering Node](https://github.com/visionmedia/masteringnode) - visionmedia ([PDF](https://github.com/visionmedia/masteringnode/blob/master/book.pdf))
 * [Mixu's Node Book](http://book.mixu.net/node/)
+* [Node.JS Best Practices](https://github.com/goldbergyoni/nodebestpractices) - Yoni Goldberg, et al. (GitHub Repository) 
 * [Node Documentation](https://nodejs.org/en/docs/) (PDF)
 * [Node: Up and Running](https://www.oreilly.com/library/view/node-up-and/9781449332235/) - Tom Hughes-Croucher
 * [Node.js Design Patterns](https://ia801309.us.archive.org/5/items/HandbookOfNeuralComputingApplicationsPDFStormRG/Node.js%20Design%20Patterns%20-%20Casciaro,%20Mario%20%5BPDF%5D%5BStormRG%5D.pdf) - Mario Casciaro (PDF)

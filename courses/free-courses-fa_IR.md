@@ -57,8 +57,10 @@
 * [آموزش  برنامه‌نویسی جاوا](https://javacup.ir/javacup-training-videos) - Java Cup
 * [آموزش جاوا - سکان‌آکادمی](https://sokanacademy.com/courses/java) - Behzad Moradi
 * [آموزش جاوا از صفر](https://toplearn.com/courses/85/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AC%D8%A7%D9%88%D8%A7-%D8%A7%D8%B2-%D8%B5%D9%81%D8%B1) - Mohammad Ghari
+* [آموزش ديتابيس در جاوا](https://b2n.ir/j02632)
 * [برنامه نویسی پیشرفته(جاوا)](https://maktabkhooneh.org/course/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-%D8%AC%D8%A7%D9%88%D8%A7-mk242) - Gholamali Nejad Hajali Irani
 * [برنامه‌نویسی حرفه‌ای تحت وب در جاوا](https://maktabkhooneh.org/course/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-%D8%AA%D8%AD%D8%AA-%D9%88%D8%A8-%D8%AF%D8%B1-%D8%AC%D8%A7%D9%88%D8%A7-mk282) - Gholamali Nejad Hajali Irani
+  
 
 
 ### JavaScript

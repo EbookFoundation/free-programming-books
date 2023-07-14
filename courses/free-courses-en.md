@@ -351,7 +351,18 @@
 * [AWS Certified Cloud Practitioner Course](https://youtube.com/playlist?list=PLt1SIbA8guuvfvUDVLpJepmbnYpOfYCIB) - Stephane Maarek
 * [AWS Tutorial For Beginners](https://youtube.com/playlist?list=PLEiEAq2VkUULlNtIFhEQHo8gacvme35rz) - Simplilearn
 * [Cloud Computing Basics with AWS](https://trailhead.salesforce.com/content/learn/modules/aws-cloud) - Trailhead (Salesforce) (email address *required*)
-* [Deploying Spring Boot Applications With AWS ECS Fargate (Free Course)](https://javatodev.com/deploying-spring-boot-applications-with-aws-ecs/) - Chinthaka Dinadasa (javatodev)
+* [Deploying Spring Boot Applications With AWS ECS Fargate (Free Course) - Course Outline](https://javatodev.com/deploying-spring-boot-applications-with-aws-ecs/) - Chinthaka Dinadasa (javatodev)
+    - [Setting Up AWS VPC For Fargate Deployment](https://javatodev.com/setting-up-aws-vpc-for-fargate-deployment/)
+    - [Publishing Docker Images On Amazon ECR](https://javatodev.com/using-amazon-ecr-for-publishing-docker-images/)
+    - [Deploying Amazon RDS MySQL Database](https://javatodev.com/deploying-amazon-rds-mysql-database/)
+    - [Creating Security Groups For ECS Deployment](https://javatodev.com/creating-security-groups-for-ecs-deployment/)
+    - [Creating Security Groups For ECS Deployment](https://javatodev.com/creating-security-groups-for-ecs-deployment/)
+    - [Creating Cluster For ECS Fargate Deployment](https://javatodev.com/creating-ecs-cluster-for-fargate-deployment/)
+    - [Creating Task Definitions For ECS Deployment](https://javatodev.com/creating-task-definitions-for-ecs-deployment/)
+    - [Deploying Service To The ECS Fargate](https://javatodev.com/service-deployment-ecs-cluster/)
+    - [Pointing Route 53 Domain To The Application Load Balancer](https://javatodev.com/pointing-custom-domain-to-application-load-balancer-with-route-53/)
+    - [Requesting SSL Certificate From AWS Certificate Manager](https://javatodev.com/requesting-ssl-certificate-from-aws-certificate-manager/)
+    - [Enabling HTTPS Traffic To AWS Application Load Balancer](https://javatodev.com/enabling-https-traffic-to-aws-application-load-balancer/)
 
 
 #### Azure

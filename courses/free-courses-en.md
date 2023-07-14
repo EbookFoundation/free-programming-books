@@ -363,7 +363,6 @@
     9. [Pointing Route 53 Domain To The Application Load Balancer](https://javatodev.com/pointing-custom-domain-to-application-load-balancer-with-route-53/)
     10. [Requesting SSL Certificate From AWS Certificate Manager](https://javatodev.com/requesting-ssl-certificate-from-aws-certificate-manager/)
     11. [Enabling HTTPS Traffic To AWS Application Load Balancer](https://javatodev.com/enabling-https-traffic-to-aws-application-load-balancer/)
-* [Deploying Spring Boot Applications With AWS ECS Fargate (Free Course)](https://javatodev.com/deploying-spring-boot-applications-with-aws-ecs/) - Chinthaka Dinadasa (javatodev)
 
 
 #### Azure

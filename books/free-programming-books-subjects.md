@@ -117,7 +117,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Planning Algorithms](http://lavalle.pl/planning/) -  Steven M. LaValle
 * [Problems on Algorithms (Second Edition)](http://ianparberry.com/books/free/license.html) - Ian Parberry (use form at bottom of license)
 * [Purely Functional Data Structures (1996)](https://web.archive.org/web/20210917054102/http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf) - Chris Okasaki (PDF) *(:card_file_box: archived)*
-* [Sequential and parallel sorting algorithms](https://www.inf.hs-flensburg.de/lang/algorithmen/sortieren/algoen.htm) - Prof. Hans Werner Lang (HTML)
+* [Sequential and parallel sorting algorithms](https://www.inf.hs-flensburg.de/lang/algorithmen/sortieren/algoen.htm) - Hans Werner Lang (HTML)
 * [Text Algorithms](https://igm.univ-mlv.fr/~mac/REC/text-algorithms.pdf) -  Maxime Crochemore, Wojciech Rytter (PDF)
 * [The Algorithm Design Manual](https://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK/BOOK.HTM) - Steven S. Skiena (HTML)
 * [The Design of Approximation Algorithms](https://www.designofapproxalgs.com/book.pdf) - David P. Williamson, David B. Shmoys (PDF)

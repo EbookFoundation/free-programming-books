@@ -55,16 +55,16 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 
 ### 0 - Meta-Lists
 
-* [atariarchives.org](http://www.atariarchives.org) atariarchives.org makes books, information, and software for Atari and other classic computers available on the Web.
+* [Atariarchives.org](https://www.atariarchives.org) - Atariarchives.org makes books, information, and software for Atari and other classic computers available on the Web.
 * [Bento](https://www.bento.io)
 * [Bitsavers.org](http://bitsavers.trailing-edge.com)
-* [Code Catalog: A Collection of Code Examples from Prominent Open Source Projects](https://codecatalog.org) (HTML)
-* [conceptf1.blogspot.com](http://conceptf1.blogspot.com/2013/11/list-of-freely-available-programming.html)
-* [Free Smalltalk Books, collected by Stéphane Ducasse](http://stephane.ducasse.free.fr/FreeBooks.html)
-* [Free Tech Books](http://www.freetechbooks.com)
+* [Code Catalog: A Collection of Code Examples from Prominent Open Source Projects](https://codecatalog.org)
+* [conceptf1.blogspot.com](https://conceptf1.blogspot.com/2013/11/list-of-freely-available-programming.html)
+* [Free Tech Books](https://www.freetechbooks.com)
 * [Goalkicker](https://goalkicker.com) - Programming Notes for Professionals books
-* [IBM Redbooks](http://www.redbooks.ibm.com)
-* [InfoQ Minibooks](http://www.infoq.com/minibooks/)
+* [IBM Redbooks](https://www.redbooks.ibm.com)
+* [InfoQ Minibooks](https://www.infoq.com/minibooks/)
+* [InTech: Computer and Information Science](https://www.intechopen.com/subjects/9)
 * [JSBooks - directory of free javascript ebooks](https://github.com/revolunet/JSbooks)
 * [Learn X in Y minutes](https://learnxinyminutes.com)
 * [Learneroo Resources to Learn Programming](https://www.learneroo.com/modules/12/nodes/96)
@@ -73,73 +73,69 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Microsoft Technologies 1, including books on Windows Azure, SharePoint, Visual Studio Guide, Windows phone development, ASP.net, Office365, etc. collection by Eric Ligman](https://blogs.msdn.microsoft.com/mssmallbiz/2012/07/27/large-collection-of-free-microsoft-ebooks-for-you-including-sharepoint-visual-studio-windows-phone-windows-8-office-365-office-2010-sql-server-2012-azure-and-more/)
 * [Microsoft Technologies 2, including books on Windows Azure, SharePoint, Visual Studio Guide, Windows phone development, ASP.net, etc. collection by Eric Ligman](https://blogs.msdn.microsoft.com/mssmallbiz/2012/07/30/another-large-collection-of-free-microsoft-ebooks-and-resource-kits-for-you-including-sharepoint-2013-office-2013-office-365-duet-2-0-azure-cloud-windows-phone-lync-dynamics-crm-and-more/)
 * [Microsoft Technologies 3, DevOps for ASP.NET Core Developers](https://raw.githubusercontent.com/dotnet-architecture/eBooks/main/current/devops-aspnet-core/DevOps-for-ASP.NET-Core-Developers.pdf) - Cam Soper, Scott Addie, Colin Dembovsky (PDF)
-* [O'Reilly's Open Books Project](http://www.oreilly.com/openbook/)
+* [O'Reilly's Open Books Project](https://www.oreilly.com/openbook/)
 * [Papers we love](https://github.com/papers-we-love/papers-we-love)
-* [Red Gate Books](http://www.red-gate.com/community/books/index)
+* [Red Gate Books](https://www.red-gate.com/hub/books/)
 * [Rip Tutorials](https://riptutorial.com/ebook)
 * [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks/)
-* [TechBeamers.com](http://www.techbeamers.com)
+* [TechBeamers.com](https://www.techbeamers.com)
 * [TechBooksForFree.com](https://www.techbooksforfree.com)
-* [The Definitive C++ Book Guide and List](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
+* [The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 * [Theassayer.org](http://theassayer.org)
-* [Tutorials Point](http://www.tutorialspoint.com)
+* [Tutorials Point](https://www.tutorialspoint.com)
+* [Visualgo: Algorithm and Data Structure Visualization](http://visualgo.net) - Visualise data structures and algorithms through animation
 
 
 ### Algorithms & Data Structures
 
-* [A Field Guide To Genetic Programming](https://web.archive.org/web/20191020195105/http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/poli08_fieldguide.pdf) - Riccardo Poli, et al. (PDF) *(:card_file_box: archived)*
-* [Algorithm Design](https://archive.org/details/AlgorithmDesign1stEditionByJonKleinbergAndEvaTardos2005PDF) - Jon Kleinberg, Éva Tardos (PDF)
-* [Algorithmic Graph Theory](http://code.google.com/p/graphbook/) - David Joyner, Minh Van Nguyen, David Phillips (PDF)
+* [A Field Guide To Genetic Programming](https://web.archive.org/web/20191020195105/http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/poli08_fieldguide.pdf) - Riccardo Poli, William B. Langdon, Nicholas F. McPhee (PDF) *(:card_file_box: archived)*
+* [Algorithm Design](https://archive.org/details/AlgorithmDesign1stEditionByJonKleinbergAndEvaTardos2005PDF) - Jon Kleinberg, Éva Tardos
+* [Algorithmic Graph Theory](https://code.google.com/p/graphbook/) - David Joyner, Minh Van Nguyen, David Phillips (PDF)
 * [Algorithms](https://en.wikibooks.org/wiki/Algorithms) - Wikibooks
 * [Algorithms, 4th Edition](http://algs4.cs.princeton.edu/home/) - Robert Sedgewick, Kevin Wayne
 * [Algorithms and Automatic Computing Machines (1963)](https://archive.org/details/Algorithms_And_Automatic_Computing_Machines) - B. A. Trakhtenbrot
 * [Algorithms and Complexity](https://www.math.upenn.edu/~wilf/AlgoComp.pdf) - Herbert S. Wilf (PDF)
-* [Algorithms Course Materials](http://jeffe.cs.illinois.edu/teaching/algorithms/) - Jeff Erickson
+* [Algorithms Course Materials](https://jeffe.cs.illinois.edu/teaching/algorithms/) - Jeff Erickson
 * [Algorithms Notes for Professionals](https://goalkicker.com/AlgorithmsBook) - Compiled from StackOverflow Documentation (PDF)
-* [Analysis and Design of Algorithms](http://www.cse.iitd.ernet.in/~ssen/csl356/admin356.html) - Sandeep Sen, IIT Delhi
-* [Animated Algorithm and Data Structure Visualization](http://visualgo.net) (Resource)
-* [Annotated Algorithms in Python: Applications in Physics, Biology, and Finance](https://github.com/mdipierro/nlib) - Massimo di Pierro
-* [Binary Trees](http://cslibrary.stanford.edu/110/BinaryTrees.pdf) (PDF)
+* [Annotated Algorithms in Python: Applications in Physics, Biology, and Finance](https://github.com/mdipierro/nlib) - Massimo Di Pierro
+* [Binary Trees](http://cslibrary.stanford.edu/110/BinaryTrees.pdf) - Nick Parlante (PDF)
 * [Data Structures](https://adityacse.weebly.com/uploads/2/4/0/7/24078687/data-structures.pdf) - Aditya CSE (PDF)
 * [Data Structures](https://en.wikibooks.org/wiki/Data_Structures) - Wikibooks
-* [Data Structures](http://www.cse.iitd.ernet.in/~suban/cs130/index.html) - Prof. Subhashis Banerjee, IIT Delhi
 * [Data Structures (Into Java)](https://inst.eecs.berkeley.edu/~cs61b/fa14/book2/data-structures.pdf) - Paul N. Hilfinger (PDF)
-* [Data Structures and Algorithms: Annotated Reference with Examples](https://web.archive.org/web/20170715160229/http://dotnetslackers.com/Community/files/folders/data-structures-and-algorithms/entry30283.aspx) - G. Barnett, L. Del Tongo (PDF) *(:card_file_box: archived)*
-* [Data Structures and Algorithms Tutorial](https://www.tutorialspoint.com/data_structures_algorithms/) - Tutorials Point (HTML, PDF)
-* [Data Structures Succinctly Part 1, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart1) (PDF, Kindle) (email address *requested*, not required)
-* [Data Structures Succinctly Part 2, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart2) (PDF, Kindle) (email address *requested*, not required)
-* [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY) - Larry LIU Xinyu
+* [Data Structures and Algorithms: Annotated Reference with Examples](https://web.archive.org/web/20170715160229/http://dotnetslackers.com/Community/files/folders/data-structures-and-algorithms/entry30283.aspx) - G. Barnett, L. Del Tongo *(:card_file_box: archived)*
+* [Data Structures Succinctly Part 1, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart1) - Robert Horvick
+* [Data Structures Succinctly Part 2, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart2) - Robert Horvick
+* [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY) - Larry Liu Xinyu (PDF)
 * [Essential Algorithms](https://www.programming-books.io/essential/algorithms/) - Krzysztof Kowalczyk and  Stack Overflow Documentation project (HTML)
 * [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html) - Al Aho, Jeff Ullman
-* [Geometry Algorithms](http://geomalgorithms.com) - Dan Sunday
-* [Lectures Notes on Algorithm Analysis and Computational Complexity (Fourth Edition)](http://ianparberry.com/books/free/license.html) - Ian Parberry (use form at bottom of license)
-* [LEDA: A Platform for Combinatorial and Geometric Computing](http://people.mpi-inf.mpg.de/~mehlhorn/LEDAbook.html) - K. Mehlhorn, et al. (HTML)
+* [Lectures Notes on Algorithm Analysis and Computational Complexity (Fourth Edition)](https://ianparberry.com/books/free/license.html) - Ian Parberry (use form at bottom of license)
+* [LEDA: A Platform for Combinatorial and Geometric Computing](http://people.mpi-inf.mpg.de/~mehlhorn/LEDAbook.html) - K. Mehlhorn, St. Näher
 * [Linked List Basics](http://cslibrary.stanford.edu/103/LinkedListBasics.pdf) - Nick Parlante (PDF)
 * [Linked List Problems](http://cslibrary.stanford.edu/105/LinkedListProblems.pdf) - Nick Parlante (PDF)
-* [Matters Computational: Ideas, Algorithms, Source Code](http://www.jjj.de/fxt/fxtbook.pdf) (PDF)
-* [Open Data Structures: An Introduction](http://opendatastructures.org) - Pat Morin
-* [Planning Algorithms](http://planning.cs.uiuc.edu)
+* [Matters Computational: Ideas, Algorithms, Source Code](https://www.jjj.de/fxt/fxtbook.pdf) - Jörg Arndt (PDF)
+* [Open Data Structures: An Introduction](https://opendatastructures.org) - Pat Morin
+* [Planning Algorithms](http://lavalle.pl/planning/) -  Steven M. LaValle
 * [Problems on Algorithms (Second Edition)](http://ianparberry.com/books/free/license.html) - Ian Parberry (use form at bottom of license)
 * [Purely Functional Data Structures (1996)](https://web.archive.org/web/20210917054102/http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf) - Chris Okasaki (PDF) *(:card_file_box: archived)*
-* [Sequential and parallel sorting algorithms](https://www.inf.hs-flensburg.de/lang/algorithmen/sortieren/algoen.htm) (HTML)
-* [Text Algorithms](http://igm.univ-mlv.fr/~mac/REC/text-algorithms.pdf) (PDF)
-* [The Algorithm Design Manual](http://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK/BOOK.HTM) - Steven S. Skiena (HTML)
-* [The Design of Approximation Algorithms](http://www.designofapproxalgs.com/book.pdf) - David P. Williamson, David B. Shmoys (PDF)
+* [Sequential and parallel sorting algorithms](https://www.inf.hs-flensburg.de/lang/algorithmen/sortieren/algoen.htm) - Hans Werner Lang (HTML)
+* [Text Algorithms](https://igm.univ-mlv.fr/~mac/REC/text-algorithms.pdf) -  Maxime Crochemore, Wojciech Rytter (PDF)
+* [The Algorithm Design Manual](https://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK/BOOK.HTM) - Steven S. Skiena (HTML)
+* [The Design of Approximation Algorithms](https://www.designofapproxalgs.com/book.pdf) - David P. Williamson, David B. Shmoys (PDF)
 * [The Great Tree List Recursion Problem](http://cslibrary.stanford.edu/109/TreeListRecursion.pdf) - Nick Parlante (PDF)
 * [The Kademlia Protocol Succinctly](https://www.syncfusion.com/ebooks/kademlia_protocol_succinctly) - Marc Clifton
-* [Think Complexity](https://greenteapress.com/wp/think-complexity-2e/) - Allen B. Downey (2nd Edition) (PDF, HTML)
+* [Think Complexity (2nd Edition)](https://greenteapress.com/wp/think-complexity-2e/) - Allen B. Downey
 
 
 ### Artificial Intelligence
 
-* [Artificial Intelligence for a Better Future: An Ecosystem Perspective on the Ethics of AI and Emerging Digital Technologies](https://link.springer.com/book/10.1007/978-3-030-69978-9) - Bernd Carsten Stahl (PDF)
+* [Artificial Intelligence for a Better Future: An Ecosystem Perspective on the Ethics of AI and Emerging Digital Technologies](https://link.springer.com/book/10.1007/978-3-030-69978-9) - Bernd Carsten Stahl (PDF, EPUB)
 * [Artificial Intelligence: Foundations of Computational Agents (2010), 1st Edition](https://artint.info/aifca1e.html) - David L. Poole, Alan K. Mackworth @ Cambridge University Press (HTML)
 * [Artificial Intelligence: Foundations of Computational Agents (2017), 2nd Edition](https://artint.info) - David L. Poole, Alan K. Mackworth @ Cambridge University Press (HTML, Slides)
 * [Getting Started with Artificial Intelligence , 2nd Edition](https://www.ibm.com/downloads/cas/OJ6WX73V) - Tom Markiewicz, Josh Zheng (PDF)
-* [Graph Representational Learning Book](https://www.cs.mcgill.ca/~wlh/grl_book/) - William L. Hamilton (HTML, PDF)
+* [Graph Representational Learning Book](https://www.cs.mcgill.ca/~wlh/grl_book/) - William L. Hamilton
 * [Introduction to Autonomous Robots](https://github.com/correll/Introduction-to-Autonomous-Robots/releases) - Nikolaus Correll (PDF)
 * [Machine Learning For Dummies®, IBM Limited Edition](https://www.ibm.com/downloads/cas/GB8ZMQZ3) - Daniel Kirsch, Judith Hurwitz (PDF)
-* [On the Path to AI: Law’s prophecies and the conceptual foundations of the machine learning age](https://link.springer.com/book/10.1007/978-3-030-43582-0) - Thomas D. Grant, Damon J. Wischik (PDF)
+* [On the Path to AI: Law’s prophecies and the conceptual foundations of the machine learning age](https://link.springer.com/book/10.1007/978-3-030-43582-0) - Thomas D. Grant, Damon J. Wischik (PDF, EPUB)
 * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - Cam Davidson-Pilon (HTML, Jupyter Notebook)
 * [The History of Artificial Intelligence](https://courses.cs.washington.edu/courses/csep590/06au/projects/history-ai.pdf) - Chris Smith, Brian McGuire, Ting Huang, Gary Yang (PDF)
 * [The Quest for Artificial Intelligence: A History of Ideas and Achievements](http://ai.stanford.edu/~nilsson/QAI/qai.pdf) - Nils J. Nilsson (PDF)
@@ -176,6 +172,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Designing Distributed Systems](https://azure.microsoft.com/en-us/resources/designing-distributed-systems/) *(account required)*
 * [Distributed Systems 3rd edition](https://www.distributed-systems.net/index.php/books/ds3/) - Maarten van Steen, Andrew S. Tanenbaum *(email address required)*
 * [How to optimize storage costs using Amazon S3](https://aws.amazon.com/s3/cloud-storage-cost-optimization-ebook/) - AWS (PDF)
+* [Kubernetes Hardening Guidance](https://media.defense.gov/2022/Aug/29/2003066362/-1/-1/0/CTR_KUBERNETES_HARDENING_GUIDANCE_1.2_20220829.PDF) - NSA, CISA (PDF)
 * [Learn Azure in a Month of Lunches](https://clouddamcdnprodep.azureedge.net/gdc/2014519/original) - Iain Foulds (PDF)
 * [Monitoring Modern Infrastructure](https://www.datadoghq.com/ebook/monitoring-modern-infrastructure/) *(account required)*
 * [Multi-tenant Applications for the Cloud, 3rd Edition](http://www.microsoft.com/en-us/download/details.aspx?id=29263)
@@ -312,6 +309,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Learn OpenGL](https://learnopengl.com) - Joey de Vries
 * [Learn OpenGL RS](https://github.com/bwasty/learn-opengl-rs) - Benjamin Wasty, et al. (:construction: *in process*) (Rust)
 * [Learning Modern 3D Graphics Programming](https://web.archive.org/web/20150225192611/http://www.arcsynthesis.org/gltut/index.html) - Jason L. McKesson (draft) *(:card_file_box: archived)*
+* [Notes for a Computer Graphics Programming Course](https://dokumen.tips/documents/computer-grafics-notes.html) - Steve Cunningham (PDF)
 * [OpenGL](http://www.songho.ca/opengl/index.html) - Concepts and illustrations
 * [Physically Based Rendering, Third Edition: from Theory to Implementation](https://www.pbr-book.org) - Matt Pharr, Wenzel Jakob, Greg Humphreys
 * [Ray Tracing Gems](https://www.realtimerendering.com/raytracinggems/rtg/index.html) - Eric Haines, Tomas Akenine-Möller

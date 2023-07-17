@@ -2021,7 +2021,6 @@ Books on general-purpose programming that don't focus on a specific language are
     * [Python Module of the Week](https://pymotw.com/2/) (2.x)
 * [Python Notes for Professionals](http://goalkicker.com/PythonBook/) - Compiled from StackOverflow documentation (PDF)
 * [Python Practice Book](http://anandology.com/python-practice-book/index.html) (2.7.1)
-* [Python Practice Projects](http://pythonpracticeprojects.com)
 * [Python Programming](https://en.wikibooks.org/wiki/Python_Programming) - Wikibooks (2.7)
 * [Python Programming](https://upload.wikimedia.org/wikipedia/commons/9/91/Python_Programming.pdf) - Wikibooks (PDF) (2.6)
 * [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html) - Qingkai Kong, Timmy Siauw, Alexandre Bayen (3.7)

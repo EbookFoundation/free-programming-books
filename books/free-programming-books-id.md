@@ -97,6 +97,7 @@
 ### IDE and editors
 
 * [Dokumentasi Emacs Bahasa Indonesia](https://github.com/kholidfu/emacs_doc) - Kholid Fuadi
+* [Pengantar Vi iMproved: Sebuah panduan praktikal Vim sebagai editor teks sehari-hari](https://github.com/nauvalazhar/pengantar-vi-improved) - Muhamad Nauval Azhar
 
 
 ### Java

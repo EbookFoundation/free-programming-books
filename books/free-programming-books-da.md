@@ -26,7 +26,7 @@
 
 ### Delphi
 
-* [Programmering Med Delphi 7](https://delphi-books.com/en/Programmering-Med-Delphi-7.html) - Ole Witt-Hansen
+* [Programmering Med Delphi 7](http://olewitthansen.dk/Datalogi/ProgrammeringMedDelphi.pdf) - Ole Witt-Hansen (PDF)
 
 
 ### Java

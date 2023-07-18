@@ -162,7 +162,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 
 
 ### Cloud Computing
-
+* [AWS for Beginners](https://douran.academy/wp-content/uploads/ebooks/aws-for-beginners.pdf) (PDF)
 * [AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework) (PDF, HTML)
 * [Azure for Architects, Third Edition](https://azure.microsoft.com/en-us/resources/azure-for-architects/) (PDF) *(email address or account required)*
 * [Azure Functions Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/azure-functions-succinctly) (PDF, Kindle) (email address requested, not required)

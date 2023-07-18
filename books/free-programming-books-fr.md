@@ -243,7 +243,7 @@
 
 ### Pascal - Object Pascal
 
-* [J'apprends à programmer en Pascal Objet](https://lazarus.developpez.com/livre/livre-pascal-objet/) - Gilles Vasseur, Jean-Luc Gofflot
+* [J'apprends à programmer en Pascal Objet](https://lazarus.developpez.com/livre/livre-pascal-objet/) - Gilles Vasseur, Jean-Luc Gofflot (PDF, EPUB) (email address required)
 
 
 ### Perl

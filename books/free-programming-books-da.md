@@ -3,6 +3,7 @@
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
+* [Delphi](#delphi)
 * [Java](#java)
 * [Pascal](#pascal)
 
@@ -21,6 +22,11 @@
 ### <a id="cpp"></a>C++
 
 * [Notes about C++](http://people.cs.aau.dk/~normark/ap/index.html) - Kurt Nørmark (HTML)
+
+
+### Delphi
+
+* [Programmering Med Delphi 7](https://delphi-books.com/en/Programmering-Med-Delphi-7.html) - Ole Witt-Hansen
 
 
 ### Java

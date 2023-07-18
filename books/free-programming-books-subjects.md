@@ -178,6 +178,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Multi-tenant Applications for the Cloud, 3rd Edition](http://www.microsoft.com/en-us/download/details.aspx?id=29263)
 * [OpenStack Operations Guide](https://docs.openstack.org/ops-guide/index.html)
 * [Streamline microservice management with Istio Service Mesh](https://developers.redhat.com/books/introducing-istio-service-mesh-microservices/) *(account required)*
+* [The Definnitive Guide to Cloud Computing](http://eddiejackson.net/web_documents/The_Definitive_Guide_to_Cloud_Computing.pdf) - Dan Sullivan (PDF)
 * [The Developer’s Guide to Azure](https://azure.microsoft.com/en-us/campaigns/developer-guide/)
 
 

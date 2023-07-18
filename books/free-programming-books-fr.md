@@ -32,6 +32,7 @@
 * [Lua](#lua)
 * [Mathématiques](#math%C3%A9matiques)
 * [Meteor](#meteor)
+* [Pascal - Object Pascal](#pascal)
 * [Perl](#perl)
 * [PHP](#php)
     * [Symfony](#symfony)
@@ -238,6 +239,11 @@
 ### Meteor
 
 * [Apprendre Meteor](https://mquandalle.gitbooks.io/apprendre-meteor/content/) - Maxime Quandalle
+
+
+### Pascal - Object Pascal
+
+* [J'apprends à programmer en Pascal Objet](https://lazarus.developpez.com/livre/livre-pascal-objet/) - Gilles Vasseur, Jean-Luc Gofflot
 
 
 ### Perl

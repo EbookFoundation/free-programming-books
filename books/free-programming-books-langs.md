@@ -174,6 +174,7 @@ Books on general-purpose programming that don't focus on a specific language are
     * [Flask](#flask)
     * [Kivy](#kivy)
     * [Pandas](#pandas)
+    * [PyOpenCl](#pyopencl)
     * [Pyramid](#pyramid)
     * [Tornado](#tornado)
 * [Q#](#q-sharp)

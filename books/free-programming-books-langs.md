@@ -2099,6 +2099,12 @@ Books on general-purpose programming that don't focus on a specific language are
 * [pandas: powerful Python data analysis toolkit](https://pandas.pydata.org/docs) - Wes McKinney, the Pandas Development Team (HTML, PDF)
 
 
+#### PyOpenCl
+
+* [Programming GPUs with Python: PyOpenCL and PyCUDA](http://homepages.math.uic.edu/~jan/mcs572f16/mcs572notes/lec29.html)
+* [PyOpenCl Documentation](https://documen.tician.de/pyopencl/)
+
+
 #### Pyramid
 
 * [Quick Tutorial for Pyramid](http://docs.pylonsproject.org/projects/pyramid/en/latest/quick_tutorial/index.html#quick-tutorial)

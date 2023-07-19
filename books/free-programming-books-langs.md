@@ -511,6 +511,7 @@ Books on general-purpose programming that don't focus on a specific language are
 ### <a id="cpp"></a>C++
 
 * [A Complete Guide to Standard C++ Algorithms](https://github.com/HappyCerberus/book-cpp-algorithms) - Šimon Tóth (PDF, LaTeX)
+* [An Introduction to the USA Computing Olympiad, C++ Edition](https://darrenyao.com/usacobook/cpp.pdf) - Darren Yao (PDF)
 * [C++ Annotations](https://fbb-git.gitlab.io/cppannotations) - Frank B. Brokken (HTML, PDF)
 * [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) - `edt.:` Bjarne Stroustrup, Herb Sutter
 * [C++ For Programmers](https://tfetimes.com/wp-content/uploads/2015/04/c-for-c-programmers.pdf) - JT Kalnay (PDF)
@@ -1027,6 +1028,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 * [3D Programming in Java](http://www.mat.uniroma2.it/~picard/SMC/didattica/materiali_did/Java/Java_3D/Java_3D_Programming.pdf) - Daniel Selman (PDF)
 * [A Practical Introduction to Data Structures and Algorithm Analysis Third Edition (Java Version)](https://people.cs.vt.edu/shaffer/Book/Java3e20100119.pdf) - Clifford A. Shaffer (PDF)
+* [An Introduction to the USA Computing Olympiad, Java Edition](https://darrenyao.com/usacobook/java.pdf) - Darren Yao (PDF)
 * [Apache Jakarta Commons: Reusable Java Components](http://ptgmedia.pearsoncmg.com/images/0131478303/downloads/Iverson_book.pdf) - Will Iverson (PDF)
 * [Artificial Intelligence - Foundations of Computational Agents, Second Edition](https://artint.info/2e/html/ArtInt2e.html) - David L. Poole, Alan K. Mackworth
 * [Building Back-End Web Apps with Java, JPA and JSF](https://web-engineering.info/tech/JavaJpaJsf/book/) - Mircea Diaconescu, Gerd Wagner (HTML,PDF)

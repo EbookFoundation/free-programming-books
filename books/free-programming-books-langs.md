@@ -2101,8 +2101,8 @@ Books on general-purpose programming that don't focus on a specific language are
 
 #### PyOpenCl
 
-* [Programming GPUs with Python: PyOpenCL and PyCUDA](http://homepages.math.uic.edu/~jan/mcs572f16/mcs572notes/lec29.html)
-* [PyOpenCl Documentation](https://documen.tician.de/pyopencl/)
+* [Programming GPUs with Python: PyOpenCL and PyCUDA](http://homepages.math.uic.edu/~jan/mcs572f16/mcs572notes/lec29.html) - Jan Verschelde, University of Illinois Chicago (HTML)
+* [PyOpenCl Documentation](https://documen.tician.de/pyopencl/) - Andreas Kloeckner (HTML)
 
 
 #### Pyramid

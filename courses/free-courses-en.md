@@ -352,7 +352,7 @@
 * [AWS Tutorial For Beginners](https://youtube.com/playlist?list=PLEiEAq2VkUULlNtIFhEQHo8gacvme35rz) - Simplilearn
 * [Cloud Computing Basics with AWS](https://trailhead.salesforce.com/content/learn/modules/aws-cloud) - Trailhead (Salesforce) (email address *required*)
 * [Deploying Spring Boot Applications With AWS ECS Fargate (Free Course)](https://javatodev.com/deploying-spring-boot-applications-with-aws-ecs/) - Chinthaka Dinadasa (javatodev)
-* [How to Build AWS VPC Using Terraform – Step By Step (Free Course)](https://javatodev.com/how-to-build-aws-vpc-using-terraform-step-by-step/) - Chinthaka Dinadasa (javatodev)
+* [How to Build AWS VPC Using Terraform – Step By Step](https://javatodev.com/how-to-build-aws-vpc-using-terraform-step-by-step/) - Chinthaka Dinadasa (javatodev)
 
 
 #### Azure

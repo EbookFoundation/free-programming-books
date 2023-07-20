@@ -174,6 +174,7 @@ Books on general-purpose programming that don't focus on a specific language are
     * [Flask](#flask)
     * [Kivy](#kivy)
     * [Pandas](#pandas)
+    * [PyOpenCl](#pyopencl)
     * [Pyramid](#pyramid)
     * [Tornado](#tornado)
 * [Q#](#q-sharp)
@@ -2096,6 +2097,12 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Best Pandas Tutorial \| Learn with 50 Examples](https://www.listendata.com/2017/12/python-pandas-tutorial.html) - Ekta Aggarwal (HTML)
 * [Learn Pandas](https://bitbucket.org/hrojas/learn-pandas) - Hernan Rojas (0.18.1)
 * [pandas: powerful Python data analysis toolkit](https://pandas.pydata.org/docs) - Wes McKinney, the Pandas Development Team (HTML, PDF)
+
+
+#### PyOpenCl
+
+* [Programming GPUs with Python: PyOpenCL and PyCUDA](http://homepages.math.uic.edu/~jan/mcs572f16/mcs572notes/lec29.html) - Jan Verschelde, University of Illinois Chicago (HTML)
+* [PyOpenCl Documentation](https://documen.tician.de/pyopencl/) - Andreas Kloeckner (HTML)
 
 
 #### Pyramid

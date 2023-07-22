@@ -817,7 +817,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Using C on the UNIX System](http://www.bitsinthewind.com/about-dac/publications/using-c-on-the-unix-system) - David A. Curry
 
 
-
 ### Git
 
 * [git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/) - John Wiegley

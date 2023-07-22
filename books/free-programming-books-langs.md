@@ -821,6 +821,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 * [git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/) - John Wiegley
 * [Learn version control with git](https://www.git-tower.com/learn/git/ebook)  - Tower
+* [Pro git](https://git-scm.com/book/en/v2) - Scott Chacon and Ben Straub
 
 
 ### Go

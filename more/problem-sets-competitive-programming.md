@@ -69,7 +69,7 @@
 ### Data science
 
 * [AIcrowd](https://www.aicrowd.com)
-* [CodaLab](https://competitions.codalab.org)
+* [CodaLab](https://codalab.lisn.upsaclay.fr)
 * [CrowdANALYTIX](https://www.crowdanalytix.com/community)
 * [DrivenData](https://www.drivendata.org)
 * [Kaggle](https://www.kaggle.com)

@@ -170,11 +170,6 @@
 * [Linux - Das umfassende Handbuch](https://openbook.rheinwerk-verlag.de/linux/) - Johannes Plötner, Steffen Wendzel (HTML)
 
 
-### Mathematik
-
-* [Calcul mathématique avec SAGE](http://www.loria.fr/~zimmerma/sagebook/CalculDeutsch.pdf) - Paul Zimmermann, et al. (PDF)
-
-
 ### Meta-Lists
 
 * [Galileo Computing - openbook](https://www.rheinwerk-verlag.de/openbook)
@@ -238,6 +233,11 @@
 ### Rust
 
 * [Die Programmiersprache Rust](https://rust-lang-de.github.io/rustbook-de/) - Steve Klabnik, Carol Nichols, Übersetzung durch die Rust-Gemeinschaft (HTML)
+
+
+### Sage
+
+* [Rechnen mit SageMath](https://www.loria.fr/~zimmerma/sagebook/CalculDeutsch.pdf) - Paul Zimmermann, et al. (PDF)
 
 
 ### Scilab

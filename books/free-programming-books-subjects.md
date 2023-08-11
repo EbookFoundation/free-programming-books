@@ -705,7 +705,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Xv6, a simple Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2022/xv6.html) - Russ Cox, Frans Kaashoek and Robert Morris (PDF, HTML)
 * [Operating Systems: Three Easy Pieces](https://drdineshsharma.com/Operating%20Systems.pdf) - Remzy H. Arpacci-Dusseau, Andrea C. Arpacci-Dusseau  (pdf)
 * [Operating System Concepts](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)- Silberschatz, Galvin, Gagne (pdf)
-* [Modern Operating Systems](https://csc-knu.github.io/sys-prog/books/Andrew%20S.%20Tanenbaum%20-%20Modern%20Operating%20Systems.pdf) - Tannenbaum, Bos (pdf
+* [Modern Operating Systems](https://csc-knu.github.io/sys-prog/books/Andrew%20S.%20Tanenbaum%20-%20Modern%20Operating%20Systems.pdf) - Tannenbaum, Bos (pdf)
 * [15+ Free Operating System Books](https://www.infobooks.org/free-pdf-books/computers/operating-systems/) 
 * [Operating Systems: An Introduction](https://docplayer.net/186755178-Operating-systems-an-introduction-by-r-garg-g-verma.html)  - R. Garg, G Verna 
 * [Introduction to Linux: A Hands on Guide](https://tldp.org/LDP/intro-linux/intro-linux.pdf) - Machtelt Garrells (pdf)
@@ -718,19 +718,19 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Operating System Design: The Xinu Approach](https://pdfs.semanticscholar.org/fe11/d3534950c811b05d3b8ddb0832046ac04f6f.pdf) - Douglas Comer (pdf)
 * [Understanding Operating Systems](https://doc.lagout.org/operating%20system%20/linux/Understanding%20Operating%20Systems.pdf) - Ida M. Flynn, Ann McIver McHoes (pdf) 
 * [Linux Bible](https://edu.anarcho-copy.org/Against%20Security%20-%20Self%20Security/linux-bible-christopher-negus-10th.pdf)  - Christopher Negus  (pdf)
-* [Understanding the Linux Kernel](https://doc.lagout.org/operating%20system%20/linux/Understanding%nux%20Kernel.pdf)  - Daniel P. Bovet and Marco Cesati
+* [Understanding the Linux Kernel](https://doc.lagout.org/operating%20system%20/linux/Understanding%nux%20Kernel.pdf)  - Daniel P. Bovet and Marco Cesati (pdf)
 * [Design and Implementation of the FreeBSD kernrel](https://docs.freebsd.org/en/books/design-44bsd/) - HTML 
-* [Unix and Linux System Administration Handbook](https://mog.dog/files/SP2019/2017%20Nemeth%20Evi%20etal%20-%20UNIX%20and%20Linux%20System%20Administration%20Handbook%5B5thED%5D_Rell.pdf) - Nemeth, Snyder,Hein, Whaley, Makin (pfd)
+* [Unix and Linux System Administration Handbook](https://mog.dog/files/SP2019/2017%20Nemeth%20Evi%20etal%20-%20UNIX%20and%20Linux%20System%20Administration%20Handbook%5B5thED%5D_Rell.pdf) - Nemeth, Snyder,Hein, Whaley, Makin (pdd)
 * [How to Make a Computer Operating System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)  - in C++
 * [Intermezzos](https://intermezzos.github.io/book/) - A follow along book to build IntermezzosOS in Rust
 * [Linux in a Nutshell](http://www.kroah.com/lkn/) - Greg Kroah Hartman . Covers the entire range of kernel tasks, available as chapters or one PDF
-* [The Little Book about OS Development](http://littleosbook.github.io/) - by Erik Helin and Adam Renberg
+* [The Little Book about OS Development](http://littleosbook.github.io) - by Erik Helin and Adam Renberg
 * [Think OS](http://greenteapress.com/thinkos/) -  A Brief Introduction to Operating Systems by Allen B. Downey
 * [Operating System Develpment Series](http://www.brokenthorn.com/Resources/OSDevIndex.html) - OS from the ground up in C
-* [xv6: a simple, Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2019/xv6/book-riscv-rev0.pdf) - Book for Xv6
+* [xv6: a simple, Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2019/xv6/book-riscv-rev0.pdf) - Book for Xv6 (pdf)
 * [Operating Systems: From 0 to 1](https://tuhdo.github.io/os01/) - Bootstrap yourself to write an OS from scratch by Do Hoang Tu
 * [Linux Device Drivers 4th Edition](https://www.amazon.in/Linux-Device-Drivers-Jessica-Mckellar/dp/1449371612) - Alessandro Rubini et al
-* [Essential Linux Device Drivers](https://github.com/amitkumar3968/tech-books-pdf/blob/master/Linux/Essential%20Linux%20Device%20Drivers.pdf) - Sreekrishnan Venkateswaran
+* [Essential Linux Device Drivers](https://github.com/amitkumar3968/tech-books-pdf/blob/master/Linux/Essential%20Linux%20Device%20Drivers.pdf) - Sreekrishnan Venkateswaran (pdf)
 
 ### Parallel Programming
 

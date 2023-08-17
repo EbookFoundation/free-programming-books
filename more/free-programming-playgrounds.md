@@ -84,6 +84,7 @@
 * [LabStack](https://code.labstack.com/cpp)
 * [OnlineGDB](https://www.onlinegdb.com/online_c++_compiler)
 * [SoloLearn](https://code.sololearn.com/cpp)
+* [cpp compiler](https://www.codinguru.online/compiler/cpp)
 
 
 ### ClojureScript
@@ -144,6 +145,7 @@
 
 * [Go Playground](https://play.golang.org)
 * [SoloLearn](https://code.sololearn.com/go)
+* [Go compiler](https://www.codinguru.online/compiler/go)
 
 
 ### Haskell
@@ -159,6 +161,7 @@
 * [Flexy Boxes](https://the-echoplex.net/flexyboxes/)
 * [SoloLearn](https://code.sololearn.com/web#css)
 * [Tailwind Play](https://play.tailwindcss.com)
+* [HTML, CSS, Js compiler](https://www.codinguru.online/compiler/html)
 
 
 ### Ionic
@@ -174,6 +177,7 @@
 * [Programiz - Online Java Compiler](https://www.programiz.com/java-programming/online-compiler/)
 * [repl.it](https://repl.it) (_including a separate Java/Swing_)
 * [SoloLearn](https://code.sololearn.com/java)
+* [Codinguru - Online Java Compiler](https://www.codinguru.online/compiler/java)
 
 
 ### JavaScript
@@ -191,6 +195,7 @@
 * [PlayCode](https://playcode.io/javascript)
 * [Plunker](https://plnkr.co)
 * [SoloLearn](https://code.sololearn.com/web#javascript)
+* [javascript compiler](https://www.codinguru.online/compiler/javascript)
 
 
 #### AngularJS
@@ -233,6 +238,7 @@
 * [Ideone](https://ideone.com)
 * [MDX Playground](https://mdxjs.com/playground)
 * [SoloLearn](https://code.sololearn.com/nodejs)
+* [Nodejs compiler](https://www.codinguru.online/compiler/javascript)
 
 
 ### OCaml
@@ -253,6 +259,7 @@
 * [PHPFiddle](https://phpfiddle.org)
 * [PHPTester](http://phptester.net)
 * [SoloLearn](https://code.sololearn.com/php)
+* [php online compiler](https://www.codinguru.online/compiler/php)
 
 
 ### Python
@@ -267,6 +274,7 @@
 * [Repl.it - NiceDualPoint](https://repl.it/repls/NiceDualPoint#main.py)
 * [SoloLearn](https://code.sololearn.com/python)
 * [Try Python](https://trypython.jcubic.pl) - Jakub T. Jankiewicz
+* [python online compiler](https://www.codinguru.online/compiler/python)
 
 
 ### R
@@ -274,6 +282,7 @@
 * [R-Fiddle](http://www.r-fiddle.org)
 * [Rextester](https://rextester.com/l/r_online_compiler)
 * [SoloLearn](https://code.sololearn.com/r)
+* [R compiler](https://www.codinguru.online/compiler/R)
 
 
 ### React
@@ -368,3 +377,7 @@
 ### V
 
 * [V Playground](https://play.vlang.io) - vlang.io
+
+### Markdown
+
+* [Markdown compiler](https://www.codinguru.online/compiler/markdown)

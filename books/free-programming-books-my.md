@@ -1,6 +1,5 @@
 ### Index
 
-* [Index](#index)
 * [Blockchain](#blockchain)
 * [Go](#go)
 * [HTML and CSS](#html-and-css)

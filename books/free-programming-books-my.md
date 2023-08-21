@@ -25,7 +25,7 @@
 
 * [Bootstrap - On Point](https://eimaung.com/bootstrap/) - Ei Maung (PDF)
 * [HTML](https://books.saturngod.net/HTML5/) - Saturngod
-* [HTML & CSS - Beginner To Super Beginner](https://lwinmoepaing.github.io/books/) - Lwin Moe Paing
+* [HTML & CSS - Beginner To Super Beginner](https://lwinmoepaing.github.io/books/) - Lwin Moe Paing (PDF)
 
 ### JavaScript
 

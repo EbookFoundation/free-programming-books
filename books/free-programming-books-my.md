@@ -1,14 +1,14 @@
 ### Index
 
-- [Index](#index)
-- [Blockchain](#blockchain)
-- [Go](#go)
-- [HTML and CSS](#html-and-css)
-- [JavaScript](#javascript)
-- [Linux](#linux)
-- [PHP](#php)
-- [Python](#python)
-- [Web Development](#web-development)
+* [Index](#index)
+* [Blockchain](#blockchain)
+* [Go](#go)
+* [HTML and CSS](#html-and-css)
+* [JavaScript](#javascript)
+* [Linux](#linux)
+* [PHP](#php)
+* [Python](#python)
+* [Web Development](#web-development)
 
 
 ### Blockchain

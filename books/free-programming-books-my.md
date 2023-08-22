@@ -1,6 +1,5 @@
 ### Index
 
-* [Index](#index)
 * [Blockchain](#blockchain)
 * [C++](#c)
 * [Go](#go)

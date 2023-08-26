@@ -474,8 +474,8 @@
 * [Google JavaScript 代码风格指南](https://web.archive.org/web/20200415002735/bq69.com/blog/articles/script/868/google-javascript-style-guide.html) *(:card_file_box: archived)*
 * [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com)
 * [javascript 的 12 个怪癖](https://github.com/justjavac/12-javascript-quirks)
-* [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 * [JavaScript 教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1022910821149312)
+* [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 * [《JavaScript 模式》](https://github.com/jayli/javascript-patterns) (《JavaScript patterns》译本)
 * [JavaScript 原理](https://web.archive.org/web/20170112164945/http://typeof.net/s/jsmech/)
 * [JavaScript Promise迷你书](http://liubin.github.io/promises-book/)

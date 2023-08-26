@@ -448,6 +448,7 @@
 * [H2 Database 教程](https://github.com/waylau/h2-database-doc)
 * [Java 编程思想](https://java.quanke.name) - quanke
 * [Java 编码规范](https://github.com/waylau/java-code-conventions)
+* [Java 教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1252599548343744)
 * [Java Servlet 3.1 规范](https://github.com/waylau/servlet-3.1-specification)
 * [Jersey 2.x 用户指南](https://github.com/waylau/Jersey-2.x-User-Guide)
 * [JSSE 参考指南](https://github.com/waylau/jsse-reference-guide)
@@ -459,7 +460,6 @@
 * [REST 实战](https://github.com/waylau/rest-in-action)
 * [Spring Boot参考指南](https://github.com/qibaoguang/Spring-Boot-Reference-Guide) (:construction: *翻译中*)
 * [Spring Framework 4.x参考文档](https://github.com/waylau/spring-framework-4-reference)
-* [Java教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1252599548343744)
 
 
 ### JavaScript
@@ -476,10 +476,10 @@
 * [javascript 的 12 个怪癖](https://github.com/justjavac/12-javascript-quirks)
 * [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 * [《JavaScript 模式》](https://github.com/jayli/javascript-patterns) (《JavaScript patterns》译本)
+* [JavaScript 教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1022910821149312)
 * [JavaScript 原理](https://web.archive.org/web/20170112164945/http://typeof.net/s/jsmech/)
 * [JavaScript Promise迷你书](http://liubin.github.io/promises-book/)
 * [JavaScript编程指南](http://pij.robinqu.me) ([源码](https://github.com/RobinQu/Programing-In-Javascript))
-* [JavaScript教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1022910821149312)
 
 
 #### AngularJS

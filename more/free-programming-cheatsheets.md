@@ -171,7 +171,7 @@
 * [cht.sh Go Cheatsheet](https://cht.sh/go/:learn) (HTML)
 * [Go Cheatsheet](https://devhints.io/go) - devhints, Rico Santa Cruz (HTML)
 * [Go Dojo Cheatsheet](https://products.golangdojo.com/golang-cheat-sheet-by-golang-dojo) - Golang CheatSheet by golang-dojo (PDF)
-* [Go Handbook](https://thevalleyofcode.pages.dev/go-handbook.pdf) - Flavio Copes, The Valley of Code (PDF)
+* [The Go Handbook](https://flaviocopes.com/book/go/) - Flavio Copes
 * [গো \| ডেভ সংকেত<](https://devsonket.com/go) - devsonket (HTML)
 
 
@@ -249,7 +249,7 @@
 #### Next.js
 
 * [Next.js Cheatsheet - handy snippets and tips](https://gourav.io/blog/nextjs-cheatsheet) - Gourav Goyal (HTML)
-* [Ultimate Next.js Handbook](https://thevalleyofcode.pages.dev/next-handbook.pdf) - Flavio Copes, The Valley of Code (PDF)
+* [The Next.js Handbook](https://flaviocopes.com/book/next/) - Flavio Copes
 
 
 #### Nuxt.js

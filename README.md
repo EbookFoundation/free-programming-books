@@ -90,6 +90,7 @@ This project lists books and other resources grouped by genres:
 + [Catalan / catalan/ català](books/free-programming-books-ca.md)
 + [Danish / dansk](books/free-programming-books-da.md)
 + [Dutch / Nederlands](books/free-programming-books-nl.md)
++ [English ](books/free-programming-books-en.md)
 + [Estonian / eesti keel](books/free-programming-books-et.md)
 + [Finnish / suomi / suomen kieli](books/free-programming-books-fi.md)
 + [French / français](books/free-programming-books-fr.md)

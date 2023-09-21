@@ -7,6 +7,7 @@
 * [Artificial Intelligence](#artificial-intelligence)
 * [Assembly](#assembly)
 * [AutoIt](#autoit)
+* [Ballerina](#ballerina)
 * [Bash / Shell](#bash--shell)
 * [Blockchain](#blockchain)
 * [C](#c)
@@ -257,6 +258,17 @@
 
 * [AutoIt Scripting Tutorial](https://www.youtube.com/playlist?list=PL4Jcq5zn02jKpjX0nqI1_fS7mEEb5tw6z) - TutsTeach
 * [AutoIt Tutorials](https://www.youtube.com/playlist?list=PL1DCD109B801D0DE6) - 403forbidden403
+
+### Ballerina 
+
+* [Integration with Ballerina](https://www.youtube.com/playlist?list=PL7JOecNWBb0KTB3vBz9Dkpc676HzhEDkN) - Shafreen Anfer
+* [Ballerina Language Basics](https://www.youtube.com/playlist?list=PL7JOecNWBb0L4CCqT3awXQUgf6Djl-Oxg) - Sasindu Alahakoon
+* [Ballerina Language Tables Basics](https://www.youtube.com/playlist?list=PL7JOecNWBb0K--nPJCEQILMt4ZlpkfvHU) - Sasindu Alahakoon
+* [Ballerina Integrated Query Basics](https://www.youtube.com/playlist?list=PL7JOecNWBb0Lld0QfwGW4EKZEoeduyHKD) - Sasindu Alahakoon
+* [XML Manipulation in Ballerina](https://www.youtube.com/playlist?list=PL7JOecNWBb0JxniVXOwROaeFRlDvGd6nj) - Gimantha Bandara
+* [Package Management in Ballerina](https://www.youtube.com/playlist?list=PL7JOecNWBb0LjuZZ8OXzN5apFqlCb6tnY) - Asma Jabir
+* [Testing in Ballerina](https://www.youtube.com/playlist?list=PL7JOecNWBb0ISsKnSaDjv0IIID-ztuu43) - Fathima Dilhasha
+* [Ballerina Code to Cloud](https://www.youtube.com/playlist?list=PL7JOecNWBb0I1YcKwNEyMewhiSvwhM4in) - Anjana Supun
 
 
 ### Bash / Shell

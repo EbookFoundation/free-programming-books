@@ -3,6 +3,7 @@
 * [C++](#cpp)
 * [Data Structure and Algorithms](#data-structure-and-algorithms)
 * [Java](#java)
+* [Kalaam](#kalaam)
 * [Linux](#linux)
 * [Networking](#networking)
 * [Php](#php)
@@ -31,6 +32,10 @@
 ### Java
 
 * [Java \| Hindi](https://www.learnhindituts.com/java) - LearnHindiTuts.com
+
+### Kalaam
+
+ *[Programming Language made in hindi](https://www.kalaam.io/) - Swanand Kadam
 
 
 ### Linux

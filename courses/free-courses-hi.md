@@ -33,6 +33,7 @@
     * [Node.js](#nodejs)
     * [React](#react)
     * [Vue.js](#vuejs)
+* [Kalaam](#kalaam)
 * [Kotlin](#kotlin)
 * [Linux](#linux)
 * [Machine Learning](#machine-learning)
@@ -55,7 +56,8 @@
 * [Swift](#swift)
 * [System Design](#system-design)
 
-
+### Kalaam
+ *[Programming Language made in hindi](https://www.kalaam.io/) - Swanand Kadam
 ### Algorithms
 
 * [All Sorting algorithms and Programs](https://www.youtube.com/playlist?list=PLsFNQxKNzefK_DAUwnQwBizOmcY7aDLoY) - Saurabh Shukla
@@ -369,6 +371,8 @@
 
 * [Vue js tutorial in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV45qwTH-mdzllUuFRJO-euYn) - Code Step By Step
 * [Vue JS Tutorials in Hindi](https://www.youtube.com/playlist?list=PLbGui_ZYuhih5ItBhn2cTncaS24_Kgeui) - Rajesh Kumar, Geeky Shows
+
+  
 
 
 ### Kotlin

@@ -37,7 +37,6 @@
 
  *[Programming Language made in hindi](https://www.kalaam.io/) - Swanand Kadam
 
-
 ### Linux
 
 * [Linux Commands \| Hindi](https://ehindistudy.com/2022/06/24/linux-commands-hindi/) - Vinay Bhatt

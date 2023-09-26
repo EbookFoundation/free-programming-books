@@ -416,11 +416,11 @@
 
 ### CyberShield
 
-* [Preparing for your digital life in the 21st Century](https://www.open.edu/openlearn/science-maths-technology/preparing-your-digital-life-the-21st-century/content-section-0?intro=1) *(email address required)*
+* [Gamified Intelligent Cyber Aptitude and Skills Training (GICAST)](https://www.open.edu/openlearn/mod/oucontent/view.php?id=104793) *(email address required)*
 * [Introduction to cyber security: stay safe online](https://www.open.edu/openlearn/mod/oucontent/view.php?id=50885)
 * [Learning from major cyber security incidents](https://www.open.edu/openlearn/science-maths-technology/learning-major-cyber-security-incidents/content-section-0?intro=1) *(email address required)*
 * [Learning from major cyber security incidents](https://www.open.edu/openlearn/science-maths-technology/learning-major-cyber-security-incidents/content-section-0?intro=1) *(email address required)*
-* [Gamified Intelligent Cyber Aptitude and Skills Training (GICAST)](https://www.open.edu/openlearn/mod/oucontent/view.php?id=104793) *(email address required)*
+* [Preparing for your digital life in the 21st Century](https://www.open.edu/openlearn/science-maths-technology/preparing-your-digital-life-the-21st-century/content-section-0?intro=1) *(email address required)*
 * [Social media and networks in health and social care](https://www.open.edu/openlearn/health-sports-psychology/social-media-and-networks-health-and-social-care/content-section-0?intro=1) *(email address required)*
 * [The psychology of cybercrime](https://www.open.edu/openlearn/health-sports-psychology/psychology/the-psychology-cybercrime/content-section-0?intro=1) *(email address required)*
 
@@ -592,10 +592,10 @@
 
 ### Digital Computing
 
-* [Introducing computing and IT](https://www.open.edu/openlearn/digital-computing/introducing-computing-and-it/content-section-0?intro=1)
-* [Systems thinking and practice](https://www.open.edu/openlearn/digital-computing/systems-thinking-and-practice/content-section-0?intro=1)
-* [Network security](https://www.open.edu/openlearn/digital-computing/network-security/content-section-0?intro=1)
 * [Hybrid working: skills for digital transformation](https://www.open.edu/openlearn/digital-computing/hybrid-working-skills-digital-transformation/content-section-0?intro=1)
+* [Introducing computing and IT](https://www.open.edu/openlearn/digital-computing/introducing-computing-and-it/content-section-0?intro=1)
+* [Network security](https://www.open.edu/openlearn/digital-computing/network-security/content-section-0?intro=1)
+* [Systems thinking and practice](https://www.open.edu/openlearn/digital-computing/systems-thinking-and-practice/content-section-0?intro=1)
 
 
 ### Elastic

@@ -112,7 +112,6 @@
 * [YAML](#yaml)
 
 
-
 ### 0 - MOOC
 
 * [class central](https://www.classcentral.com)

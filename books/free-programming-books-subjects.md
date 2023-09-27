@@ -334,7 +334,6 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Web Style Guide Online](https://www.webstyleguide.com/wsg3/index.html) - Patrick J. Lynch, Sarah Horton
 
 
-
 ### IDE and editors
 
 > :information_source: See also &#8230; [Emacs Lisp](free-programming-books-langs.md#emacs-lisp), [Regular Expressions](#regular-expressions)

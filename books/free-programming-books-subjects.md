@@ -331,6 +331,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Search User Interfaces](http://searchuserinterfaces.com/book/) - Marti A. Hearst
 * [Web Design Primer](https://pressbooks.library.ryerson.ca/webdesign/) - Richard Adams, Ahmed Sagarwala
 * [Web Style Guide Online](https://www.webstyleguide.com/wsg3/index.html) - Patrick J. Lynch, Sarah Horton
+* [InVision Design Engineering Handbook (PDF)](https://marketing.invisionapp-cdn.com/www-assets.invisionapp.com/epubs/InVision_DesignEngineeringHandbook.pdf) (Email address requested, but content is free) - Natalya Shelburne, Adekunle Oduye, Kim Williams, Eddie Lou, and Caren Litherland
 
 
 ### IDE and editors

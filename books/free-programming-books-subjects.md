@@ -568,6 +568,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Communicating Sequential Processes](http://www.usingcsp.com/cspbook.pdf) - Tony Hoare (PDF)
 * [Confessions of an Unintentional CTO: Lessons in Growing a Web App](http://www.jackkinsella.ie/books/confessions_of_an_unintentional_cto) - Jack Kinsella
 * [Culture \& Empire: Digital Revolution](http://hintjens.com/books) - Pieter Hintjens (PDF)
+* [Design Engineering Handbook](https://marketing.invisionapp-cdn.com/www-assets.invisionapp.com/epubs/InVision_DesignEngineeringHandbook.pdf) - Natalya S., Adekunle O., Kim W. (PDF)
 * [Design With FontForge](http://designwithfontforge.com/en-US/index.html)
 * [Designing Interfaces](http://designinginterfaces.com) - Jennifer Tidwell
 * [DevDocs](http://devdocs.io) - Documents for Developers in 1 place

@@ -262,6 +262,7 @@
 
 ### Ballerina 
 
+* [[Introductory]Integration with Ballerina](https://www.youtube.com/playlist?list=PL7JOecNWBb0KTB3vBz9Dkpc676HzhEDkN) - Shafreen Anfer
 * [Ballerina Code to Cloud](https://www.youtube.com/playlist?list=PL7JOecNWBb0I1YcKwNEyMewhiSvwhM4in) - Anjana Supun
 * [Ballerina Integrated Query Basics](https://www.youtube.com/playlist?list=PL7JOecNWBb0Lld0QfwGW4EKZEoeduyHKD) - Sasindu Alahakoon
 * [Ballerina Programming Language Basics](https://www.youtube.com/playlist?list=PL7JOecNWBb0L4CCqT3awXQUgf6Djl-Oxg) - Sasindu Alahakoon
@@ -269,7 +270,7 @@
 * [Package Management in Ballerina](https://www.youtube.com/playlist?list=PL7JOecNWBb0LjuZZ8OXzN5apFqlCb6tnY) - Asma Jabir
 * [Testing in Ballerina](https://www.youtube.com/playlist?list=PL7JOecNWBb0ISsKnSaDjv0IIID-ztuu43) - Fathima Dilhasha
 * [XML Manipulation in Ballerina](https://www.youtube.com/playlist?list=PL7JOecNWBb0JxniVXOwROaeFRlDvGd6nj) - Gimantha Bandara
-* [[Introductory]Integration with Ballerina](https://www.youtube.com/playlist?list=PL7JOecNWBb0KTB3vBz9Dkpc676HzhEDkN) - Shafreen Anfer
+
 
 ### Bash / Shell
 

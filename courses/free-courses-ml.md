@@ -28,8 +28,7 @@
 * [Python](#python)
     * [Django](#django)
     * [Flask](#flask)
-    * [Numpy](#numpy)
-    * [Open Cv](#opencv)
+
 
 
 ### Android
@@ -199,6 +198,11 @@
 * [Python Programming Malayalam Tutorial](https://www.youtube.com/watch?v=ihnWXGPxNEk) - Yes Tech Media
 * [Python Tutorial Malayalam \| Best Malayalam Python Programming Tutorial](https://youtube.com/playlist?list=PLY-ecO2csVHfbpOmWamlb8Mujjdnl1jks) - Brototype Malayalam 
 
+* [Python Numpy Malayalam Tutorial](https://www.youtube.com/watch?v=hFElF8hXM6Y&list=PL1JrLEBAapUVkjt4Q1R_ZFFRT_80WBCyx) - Yes Tech Media
+
+
+* [OpenCV-Python Computer Vision](https://www.youtube.com/watch?v=HWCeboOV1Rg&list=PL1JrLEBAapUWeV2O_wVIrX4BdWvJpepz7) - Yes Tech Media
+
 
 #### Django
 
@@ -212,10 +216,4 @@
 * [Python Flask Malayalam Tutorial](https://youtube.com/playlist?list=PL1JrLEBAapUU-HCC1f5x8YiGEMoZdGl0e) - Yes Tech Media
 * [Web Development with Python Flask](https://www.youtube.com/playlist?list=PLQzHWfiB9fWccYbgcomf5bWTGV7DPqTtB) - Learn Programming In Malayalam
 
-#### Numpy
 
-* [Python Numpy Malayalam Tutorial](https://www.youtube.com/watch?v=hFElF8hXM6Y&list=PL1JrLEBAapUVkjt4Q1R_ZFFRT_80WBCyx) - Yes Tech Media
-
-#### OpenCv
-
-* [OpenCV-Python Computer Vision](https://www.youtube.com/watch?v=HWCeboOV1Rg&list=PL1JrLEBAapUWeV2O_wVIrX4BdWvJpepz7) - Yes Tech Media

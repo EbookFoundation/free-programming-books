@@ -375,6 +375,8 @@
 * [Python Tutorial](https://www.w3schools.com/python) - W3Schools
 * [Python Tutorial](https://www.scaler.com/topics/python/) - Scaler Topics
 * [Scientific Computing with Python Certification](https://www.freecodecamp.org/learn/scientific-computing-with-python/) - freeCodeCamp
+* [Learn Python the Hard Way](https://learnpythonthehardway.org/python3/) - Learn Python the Hard Way
+* [A Byte of Python](https://python.swaroopch.com/) - Byte of Python
 
 
 ### Jupyter

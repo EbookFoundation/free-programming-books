@@ -66,7 +66,7 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
 - Kazakh / қазақша
 - Khmer / Cambodian / ខ្មែរ
   - [How-to](HOWTO-km.md)
-- Korean / 한국어 [韓國語]
+- Korean / 한국어
   - [행동강령](CODE_OF_CONDUCT-ko.md)
   - [Contributing](CONTRIBUTING-ko.md)
   - [How-to](HOWTO-ko.md)

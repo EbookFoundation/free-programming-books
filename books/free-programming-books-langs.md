@@ -2226,7 +2226,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Ruby Hacking Guide](http://ruby-hacking-guide.github.io)
 * [Ruby in Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
 * [Ruby Koans](http://www.rubykoans.com)
-* [Ruby Learning](http://rubylearning.com)
+* [Ruby Learning](http://rubylearning.github.io)
 * [Ruby Notes for Professionals](https://goalkicker.com/RubyBook/) - Compiled from StackOverflow Documentation (PDF)
 * [Ruby one-liners cookbook](https://learnbyexample.github.io/learn_ruby_oneliners/) - Sundeep Agarwal
 * [Ruby Style Guide](https://github.com/airbnb/ruby) - Airbnb

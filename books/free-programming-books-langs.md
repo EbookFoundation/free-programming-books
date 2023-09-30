@@ -2054,6 +2054,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Web2py: Complete Reference Manual, 6th Edition (pre-release)](http://web2py.com/book) (2.5 - 2.x)
 * [Cracking codes with Python](https://inventwithpython.com/cracking/) - Al Sweigart (HTML)
 
+
 #### Django
 
 * [All-Auth](https://django-allauth.readthedocs.io/en/latest/overview.html) (HTML)

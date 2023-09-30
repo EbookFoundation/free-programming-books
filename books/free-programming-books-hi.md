@@ -24,8 +24,9 @@
 
 
 ### Data Structure and Algorithms
-
+> #### Data Structures
 * [Data Structure with C \| Hindi](http://www.bccfalna.com/IOC-AllEBooks/DSnAinHindi.pdf) - Kuldeep Chand (PDF)
+> #### Algorithms
 
 
 ### Java

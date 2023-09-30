@@ -17,6 +17,7 @@
 * [Computer Organization and Architecture](#computer-organization-and-architecture)
 * [Data Structures](#data-structures)
 * [Databases](#databases)
+* [Database Management System](#dbms)
 * [DevOps](#devops)
 * [Flutter](#flutter)
 * [Game Development](#game-development)
@@ -217,6 +218,9 @@
 * [DBMS (Database Management System) Complete Playlist](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y) - Gate Smashers
 * [DBMS Lectures in Hindi](https://www.youtube.com/playlist?list=PL0s3O6GgLL5dg3bZhTicr5zUITPAlZNjj) - Last moment tuitions 
 * [DBMS Placements Series 2022](https://www.youtube.com/playlist?list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU) - CodeHelp - by Babbar
+
+### Database Management System
+* [DBMS for GATE/Engineering Exams (Complete Playlist)]([https://www.youtube.com/playlist?list=PLmXKhU9FNesR1rSES7oLdJaNFgmuj0SYV](https://www.youtube.com/watch?v=kBdlM6hNDAE&list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y)) - Gate Smashers
 
 
 ### DevOps

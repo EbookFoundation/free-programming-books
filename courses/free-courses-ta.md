@@ -12,6 +12,7 @@
 * [PHP](#php)
 * [Python](#python)
 * [R](#r)
+* [React](#react)
 * [Solidity](#solidity)
 * [SQL](#sql)
 
@@ -92,6 +93,13 @@ CSE Tamila by Eezytutorials
 
 * [R Tutorial in Tamil](https://youtube.com/playlist?list=PL4unWLKFsZfeGbK28rfPDeDDD_OJGjMCC) - Tutor Joe's Stanley
 
+
+### React
+
+* [Learn React JS Full course and Build awesome websites](https://youtu.be/uLQRrc6ODaY) - Tamil Hacks 2.0 
+* [React JS Course in Tamil](https://youtu.be/EVdh8DCLnA0) - JVL code
+* [React JS Full Course](https://youtu.be/qJNWUKaid8U?list=PLtMr2pEysMV7DdPChnkF9Mmgdya1uR8sQ) - VJ TECHNO WIZARD
+* [React JS Tutorial for beginners in Tamil 2023](https://youtu.be/Uv7cKlZFXU8) - Balachandra
 
 ### Solidity
 

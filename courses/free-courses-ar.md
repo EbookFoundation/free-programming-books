@@ -183,6 +183,7 @@
 * [GitOps and K8s بالعربي](https://www.youtube.com/playlist?list=PLTRDUPO2OmInz2Fo41zwnoR1IArx70Hig) - Ahmed Elemam
 * [Kubernetes بالعربي](https://www.youtube.com/playlist?list=PLX1bW_GeBRhDCHijCrMO5F-oHg52rRBpl) - Codographia
 
+
 ### Elastic
 
 * [Elastic 5&rlm;](https://www.youtube.com/playlist?list=PLZd2bo_SbAm-Z4WBo9-_mWLyjjwDioux-) - Ismail Anjrini

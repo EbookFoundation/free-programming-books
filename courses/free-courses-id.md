@@ -372,6 +372,7 @@
 * [Tutorial Python GUI dengan TKinter](https://www.youtube.com/playlist?list=PL2O3HdJI4voHjX09IpdsiSBNnLRaR-CbJ) - Indonesia Belajar
 * [Tutorial Python OOP Object Oriented Programming Bahasa Indonesia - Full Course](https://www.youtube.com/watch?v=b6Y5CzFM0Oc) - Agung Setiawan
 * [Visualisasi Data dalam Pemrograman Python (Matplotlib)](https://www.youtube.com/playlist?list=PL2O3HdJI4voHrfoMFvkDeblmjarDN8nC8) - Indonesia Belajar
+* [Tutorial Dasar Pemrograman Python](https://www.petanikode.com/tutorial/python/) - Petani Kode
 
 
 ### Django

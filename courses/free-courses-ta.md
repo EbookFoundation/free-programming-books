@@ -96,10 +96,10 @@ CSE Tamila by Eezytutorials
 
 ### React
 
-* [Learn React JS Full course and Build awesome websites](https://youtu.be/uLQRrc6ODaY) - Tamil Hacks 2.0 
-* [React JS Course in Tamil](https://youtu.be/EVdh8DCLnA0) - JVL code
-* [React JS Full Course](https://youtu.be/qJNWUKaid8U?list=PLtMr2pEysMV7DdPChnkF9Mmgdya1uR8sQ) - VJ TECHNO WIZARD
-* [React JS Tutorial for beginners in Tamil 2023](https://youtu.be/Uv7cKlZFXU8) - Balachandra
+* [Learn React JS Full course and Build awesome websites](https://www.youtube.com/watch?v=uLQRrc6ODaY) - Tamil Hacks 2.0 
+* [React JS Course in Tamil](https://www.youtube.com/watch?v=EVdh8DCLnA0) - JVL code
+* [React JS Full Course](https://www.youtube.com/watch?v=qJNWUKaid8U&list=PLtMr2pEysMV7DdPChnkF9Mmgdya1uR8sQ) - VJ TECHNO WIZARD
+* [React JS Tutorial for beginners in Tamil 2023](https://www.youtube.com/watch?v=Uv7cKlZFXU8) - Balachandra
 
 
 ### Solidity

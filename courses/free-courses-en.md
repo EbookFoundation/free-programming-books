@@ -1012,8 +1012,8 @@
 * [Kotlin Newbie To Pro](https://www.youtube.com/playlist?list=PLQkwcJG4YTCRSQikwhtoApYs9ij_Hc5Z9) - Philipp Lackner
 * [One hour Kotlin guide for beginners](https://www.udemy.com/course/one-hour-kotlin-guide-for-beginners) - Tutlets Kkang (Udemy)
 * [Track: Kotlin Basics](https://hyperskill.org/tracks/18) - Hyperskill, JetBrains (Hyperskill)
-* [Kotlin - Beginners](https://www.youtube.com/watch?v=Org0vh-VSgA&list=PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh)-telusko
-* [Kotlin Tutorial - Beginners](https://www.youtube.com/watch?v=TEXaoSC_8lQ)-Amigoscode
+* [Kotlin - Beginners](https://www.youtube.com/watch?v=Org0vh-VSgA&list=PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh) - Telusko
+* [Kotlin Tutorial - Beginners](https://www.youtube.com/watch?v=TEXaoSC_8lQ) - Amigoscode
 
 
 ### Kubernetes

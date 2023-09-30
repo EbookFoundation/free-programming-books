@@ -1044,6 +1044,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Introduction to Programming Using Java](http://math.hws.edu/javanotes) - David J. Eck (HTML, PDF, ePUB + exercises)
 * [Introduction to Programming Using Java (5th Edition - final version, 2010 Jun)](https://math.hws.edu/eck/cs124/javanotes5) - David J. Eck (HTML, PDF, ePUB + exercises)
 * [Java Application Development on Linux (2005)](https://ptgmedia.pearsoncmg.com/images/013143697X/downloads/013143697X_book.pdf) - Carl Albing, Michael Schwarz (PDF)
+* [Java Interview Questions And Answers](https://pralinkhaira.github.io/E-Books/Java-Interview-Questions.pdf) - Stathis Maneas, (PDF)
 * [Java, Java, Java Object-Oriented Problem Solving](https://archive.org/details/JavaJavaJavaObject-orientedProblemSolving/page/n0) - R. Morelli, R.Walde
 * [Java Language and Virtual Machine Specifications](https://docs.oracle.com/javase/specs/) - James Gosling, et al.
 * [Java Masters](https://javamasters.io/servlets) - Java Masters (HTML)
@@ -1070,7 +1071,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Welcome to the Java Workshop (2006)](http://javaworkshop.sourceforge.net) - Trevor Miller
 * [What’s New in Java 8](https://leanpub.com/whatsnewinjava8/read) - Adam L. Davis
 * [Writing Advanced Applications for the Java 2 Platform](http://www.pawlan.com/monica/books/AdvBk.pdf) - Calvin Austin, Monica Pawlan (PDF)
-* [Java Interview Questions And Answers](https://pralinkhaira.github.io/E-Books/Java-Interview-Questions.pdf) - Stathis Maneas, (PDF)
 
 
 #### Codename One

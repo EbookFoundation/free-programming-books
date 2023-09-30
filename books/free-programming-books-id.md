@@ -103,6 +103,7 @@
 ### Java
 
 * [Java Desktop](https://github.com/ifnu/buku-java-desktop/raw/master/java-desktop-ifnu-bima.pdf) - Ifnu Bima (PDF)
+* [Kumpulan E-Book Belajar Java Bahasa Indonesia Lengkap](https://blog.cilsy.id/2013/02/download-ebook-belajar-java-bahasa.html) - Cilsy (PDF)
 * [Memulai Java Enterprise dengan Spring Boot](https://raw.githubusercontent.com/teten-nugraha/free-ebook-springboot-basic/master/Memulai%20Java%20Enterprise%20dengan%20Spring%20Boot.pdf) - Teten Nugraha (PDF)
 * [Pemrograman Java](https://blog.rosihanari.net/download-tutorial-java-se-gratis/) - Rosihan Ari Yuana
 

@@ -1948,7 +1948,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Composing Programs](http://composingprograms.com) (3.x)
 * [Computational and Inferential Thinking](https://inferentialthinking.com/chapters/intro.html) - Ani Adhikari, John DeNero, David Wagner (HTML)
 * [Cracking Codes with Python](https://inventwithpython.com/cracking/) - Al Sweigart (3.6)
-* [Cracking Codes With Python](https://inventwithpython.com/cracking/) - Al Sweigart (HTML)
 * [Data Structures and Algorithms in Python](https://web.archive.org/web/20161016153130/http://www.brpreiss.com/books/opus7/html/book.html) - B. R. Preiss (PDF) *(:card_file_box: archived)*
 * [Dive into Python 3](https://diveintopython3.problemsolving.io) - Mark Pilgrim (3.0)
     * [Dive into Python](https://linux.die.net/diveintopython/html/toc/index.html) - Mark Pilgrim (2.3)
@@ -2030,6 +2029,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html) - Qingkai Kong, Timmy Siauw, Alexandre Bayen (3.7)
 * [Python Programming Exercises, Gently Explained](https://inventwithpython.com/PythonProgrammingExercisesGentlyExplained.pdf) - Al Sweigart (PDF)
 * [Python Tutorial](https://www.tutorialspoint.com/python/) - Tutorials Point (HTML, PDF)
+* [Real World Python](https://books.google.co.in/books?id=7IUBEAAAQBAJ&lpg=PR4&pg=PR12#v=onepage&q&f=true) - Lee Vaughan
 * [Scientific Visualization: Python + Matplotlib](https://github.com/rougier/scientific-visualization-book) - Nicolas P. Rougier (PDF)
 * [Scipy Lecture Notes](http://scipy-lectures.github.io)
 * [SICP in Python](http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/) (3.2)

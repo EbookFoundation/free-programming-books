@@ -38,6 +38,7 @@
 ### C
 
 * [Belajar Pemrograman C untuk Pemula](https://www.petanikode.com/tutorial/c/) - Ahmad Muhardian (:construction: *in process*)
+* [Pemrograman Bahasa C dengan Turbo C](https://drive.google.com/file/d/0B1m6WDCkR1OIZkFmNWpIaE9jMW8/view?usp=sharing) - Achmad Solichin
 * [Tutorial Belajar Bahasa Pemrograman C Untuk Pemula](https://www.duniailkom.com/tutorial-belajar-bahasa-pemrograman-c-bagi-pemula/) - Duniailkom
 
 

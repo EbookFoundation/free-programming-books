@@ -1616,8 +1616,8 @@ Books on general-purpose programming that don't focus on a specific language are
 ### MySQL
 
 * [Essential MySQL](https://www.programming-books.io/essential/mysql/) - Krzysztof Kowalczyk, StackOverflow Contributors
+* [Learning MySQL](http://160592857366.free.fr/joe/ebooks/ShareData/Learning%20MySQL.pdf) - Seyed M.M. “Saied” Tahaghoghi and Hugh E. Williams (PDF)
 * [MySQL 8.0 Tutorial Excerpt](https://dev.mysql.com/doc/mysql-tutorial-excerpt/8.0/en/tutorial.html) (HTML) [(PDF)](https://downloads.mysql.com/docs/mysql-tutorial-excerpt-8.0-en.pdf)
-* [MySQL by Examples for Beginners](https://www.freebookcentre.net/database-books-download/MySQL-by-Examples-for-Beginners.html) - NA Pages (PDF)
 * [MySQL Notes for Professionals](https://goalkicker.com/MySQLBook/) - Compiled from StackOverflow Documentation (PDF)
 
 

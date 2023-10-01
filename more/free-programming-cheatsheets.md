@@ -77,7 +77,7 @@
 * [getting start with AI](http://sabiod.lis-lab.fr/pub/machinelearningAIDeep_resume.pdf) (PDF)
 * [how to start with Artificial Intelligence](https://www.techrepublic.com/article/artificial-intelligence-cheat-sheet/) techrepublic.com (HTML)
 
-  
+
 ### C
 
 * [C Language Cheat Sheet](https://www.codewithharry.com/blogpost/c-cheatsheet/) - CodeWithHarry(HTML)

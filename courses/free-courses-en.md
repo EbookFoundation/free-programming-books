@@ -243,7 +243,7 @@
 * [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow) - DeepLearning.ai (Coursera)
 * [MIT Deep Learning and Artificial Intelligence Lectures](https://deeplearning.mit.edu) - Lex Fridman, et al.
 * [MIT's Artificial Intelligence](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) - Prof. Patrick Henry Winston (MIT OpenCourseWare)
-
+* [Artificial Intelligence](https://www.youtube.com/watch?v=RqbDCWZ077I&list=PL1Xmyl4aKTRjsEIvwpRWjuLHh9UEOF8Mb) -  Zeeshan Usmani
 
 ### Assembly
 

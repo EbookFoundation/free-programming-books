@@ -1481,6 +1481,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [The Linux Commands Handbook](https://flaviocopes.com/page/linux-commands-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
 * [The Linux Development Platform](http://ptgmedia.pearsoncmg.com/imprint_downloads/informit/perens/0130091154.pdf) (PDF)
 * [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
+* [The Linux Programming Interface](https://static1.squarespace.com/static/59c4375b8a02c798d1cce06f/t/59cfb6a032601e11ca5b1cbe/1506784947301/The+Linux+Programming+Interface.pdf)(PDF)
 * [The Linux System Administrator's Guide](http://www.tldp.org/LDP/sag/html/index.html)
 * [Ubuntu Pocket Guide and Reference](http://www.ubuntupocketguide.com/index_main.html)
 * [Ubuntu Server Guide](https://help.ubuntu.com/20.04/serverguide/serverguide.pdf) (PDF)
@@ -1488,7 +1489,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [UNIX Systems Programming for SVR4](http://www.bitsinthewind.com/about-dac/publications/unix-systems-programming) - David A. Curry
 * [Upstart Intro, Cookbook and Best Practises](http://upstart.ubuntu.com/cookbook/)
 * [What Every Programmer Should Know About Memory](http://www.akkadia.org/drepper/cpumemory.pdf) (PDF)
-* [The Linux Programming Interface](https://static1.squarespace.com/static/59c4375b8a02c798d1cce06f/t/59cfb6a032601e11ca5b1cbe/1506784947301/The+Linux+Programming+Interface.pdf)(PDF)
   
 
 

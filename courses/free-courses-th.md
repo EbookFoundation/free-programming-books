@@ -107,10 +107,6 @@
 * [สอน Ruby on Rails ตั้งแต่ 0~99](https://www.youtube.com/playlist?list=PLXm-UJjVcJCPxawSeVSYP1bsP_0_iMpQJ) - Geekstart
 
 
-### TypeScript
-
-* [สอน TypeScript Basic to Advance](https://www.youtube.com/playlist?list=PLEE74DyIkwEn4NOiqo43uxvSzyE0eyUQj) - Kong Ruksiam
-
 
 #### Angular
 

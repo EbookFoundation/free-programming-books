@@ -23,6 +23,7 @@
 ### HTML and CSS
 
 * [HTML සිංහලෙන්](https://youtube.com/playlist?list=PLWAgeLqk4SjDlN6nHs91rECgx4PbzfoZh) - SL Geek School
+* [Complete Web Development Course A-Z Sinhala](https://youtube.com/playlist?list=PLXNgqM9ig24cCjY_iELEL5uf_azyRbQ6n&feature=shared) - Uditha Sanjaya
 
 
 ### Java

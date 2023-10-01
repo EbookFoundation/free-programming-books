@@ -541,6 +541,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Think Stats: Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/) - Allen B. Downey (using Python)
 * [Vector Calculus](http://www.mecmath.net) - Michael Corral
 * [Yet Another Introductory Number Theory Textbook](https://www.poritz.net/jonathan/share/yaintt.pdf) - Jonathan A. Poritz (PDF)
+* [Guide to Discrete Mathematics- 2016.pdf](https://github.com/EbookFoundation/free-programming-books/files/12776913/Guide.to.Discrete.Mathematics-.2016.pdf)
 
 
 ### Mathematics For Computer Science

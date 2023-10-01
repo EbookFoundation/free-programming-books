@@ -146,6 +146,11 @@
 * [Django2 All In One Course - دوره کامل جنگو و مهندسی بک اند](https://www.youtube.com/playlist?list=PLGlWjLcdLyGyqEqh9rBQ-9toPsFeHWrMr) - Boby Cloud
 
 
+### FastAPI
+
+* [آموزش FastAPI](https://www.youtube.com/playlist?list=PL7MXODW7Gj1c1jviyYkRHKNeU_9BK0Ud7) - TorhamDev : Tech With Tori
+
+
 ### Flask
 
 * [آموزش توسعه وب با فریم‌ورک فلسک](https://www.youtube.com/playlist?list=PLdUn5H7OTUk1WYCrDJpNGpJ2GFWd7yZaw) - Alireza Ayinmehr

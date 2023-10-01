@@ -244,6 +244,11 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Kubernetes for Full-Stack Developers](https://www.digitalocean.com/community/books/digitalocean-ebook-kubernetes-for-full-stack-developers) - Jamon Camisso, Hanif Jetha, Katherine Juell (PDF, EPUB)
 * [Uncomplicating Kubernetes](https://livro.descomplicandokubernetes.com.br/en/) - Jeferson Fernando
 
+### Cryptography
+
+* [Cryptography Made Simple- 2016.pdf](https://github.com/EbookFoundation/free-programming-books/files/12776894/Cryptography.Made.Simple-.2016.pdf)
+
+
 
 ### Data Science
 

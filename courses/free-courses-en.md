@@ -324,7 +324,7 @@
 * [Fundamentals of Programming: Understanding C#](https://www.udemy.com/course/understandingc/) - Jesse Dietrichson (Udemy)
 * [Learn C#](https://www.sololearn.com/learning/1080) - *registration required*
 * [Learn how to program: C# and .NET](https://www.learnhowtoprogram.com/c-and-net) - Epicodus Inc.
-
+* [ASP.NET Core 2.2 & 3 REST API Tutorial](https://youtube.com/playlist?list=PLUOequmGnXxOgmSDWU7Tl6iQTsOtyjtwU&si=3XHU6BnqwxePAt54) - Nick Chapsas
 
 ### <a id="cpp"></a>C++
 

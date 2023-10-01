@@ -42,5 +42,3 @@
 ### Javascript
 
 * [Curs si Tutoriale JavaScript](https://marplo.net/javascript)
-
-

@@ -353,7 +353,7 @@
 * [Tutorial Laravel 5.7 Dasar bahasa Indonesia](https://www.malasngoding.com/category/laravel/) - Diki Alfarabi Hadi (Malas Ngoding)
 * [Tutorial Laravel 7.x Dasar](https://www.youtube.com/playlist?list=PLCZlgfAG0GXBucXejxeeqCe_NWZS-67q_) - Sekolah Koding
 * [Tutorial Laravel Bahasa Indonesia](https://id-laravel.com) - ID Laravel
-
+* [Tutorial Laravel Livewire 3](https://santrikoding.com/tutorial-set/tutorial-laravel-livewire-3) - Santrikoding
 
 ### Python
 

@@ -649,6 +649,7 @@
 
 ### Git
 
+* [Collaborate with others with Markdown and GitHub Pages](https://learn.microsoft.com/en-us/training/modules/intro-to-git/) - Microsoft Learn
 * [Bento Git Learning Track](https://bento.io/topic/git) (Bento)
 * [Bento GitHub Learning Track](https://bento.io/topic/github) (Bento)
 * [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics) - Kunal Kushwaha
@@ -665,7 +666,6 @@
 * [Git Tutorial - Learn Command-line Git & GitHub](https://www.youtube.com/playlist?list=PLpcSpRrAaOarEpNz71TSfNVd0eQmsZSgN) - LearnWebCode
 * [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE) - Moshfegh Hamedani (Programming with Mosh)
 * [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775) (Udacity)
-* [Introduction to Git](https://learn.microsoft.com/en-us/training/modules/intro-to-git/) - Microsoft Learn
 * [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) - Google (Coursera)
 * [Introduction to GitHub](https://learn.microsoft.com/en-us/training/modules/introduction-to-github/) - Microsoft Learn
 * [Introduction to version control with Git](https://learn.microsoft.com/en-us/training/paths/intro-to-vc-git/) - Microsoft Learn
@@ -717,7 +717,6 @@
 * [Build a SaaS landing page using Skeleton](https://www.bloc.io/tutorials/jottly-a-beginner-s-guide-to-html-css-skeleton-and-animate-css)
 * [Build Dynamic Websites](https://web.archive.org/web/20210812200413/http://cs75.tv/2010/fall/) - David J. Malan [(YouTube)](https://www.youtube.com/playlist?list=PLvJoKWRPIu8GhAhDBAH0BFB9BS7YxM1WT)
 * [Build web pages with HTML and CSS for beginners](https://learn.microsoft.com/en-us/training/paths/build-web-pages-html-css-for-beginners/) - Microsoft Learn
-* [Build your first HTML webpage](https://learn.microsoft.com/en-us/training/modules/build-first-html-webpage/) - Microsoft Learn
 * [Code Your First Game: Arcade Classic in JavaScript on Canvas](https://www.udemy.com/code-your-first-game/) - Chris DeLeon (Udemy)
 * [Complete HTML/CSS BootCamp](https://frontendmasters.com/bootcamp/) - FrontEnd Masters
 * [Conquering freeCodeCamp's Curriculum](https://youtube.com/playlist?list=PLgBH1CvjOA62oNEVgz-dECiCZCE_Q3ZFH) - Florin Pop

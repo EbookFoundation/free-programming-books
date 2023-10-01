@@ -245,6 +245,11 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Uncomplicating Kubernetes](https://livro.descomplicandokubernetes.com.br/en/) - Jeferson Fernando
 
 
+### Cryptography
+
+* [Cryptography Made Simple 2016](https://github.com/EbookFoundation/free-programming-books/files/12777008/Cryptography.Made.Simple-.2016.pdf) - Nigel P. Smart (PDF)
+
+
 ### Data Science
 
 * [A Programmer's Guide to Data Mining](http://guidetodatamining.com) - Ron Zacharski (Draft)

@@ -48,6 +48,7 @@
 * [MERN Stack Developer - Beginners](https://www.youtube.com/playlist?list=PLvfC6i-hEZBnqqF7giszuYI0iqenU5NY0) -  TechWithGeorge
 * [REACT | MERN CRUD App in Sinhala](https://youtube.com/playlist?list=PLtoqJbwHBeHzAooLCGOzYVE9mkAeCnT9y) - Haritha Weerathunga
 * [React JS Full Course in Sinhala | 2023](https://www.youtube.com/watch?v=tM02uzhHDPI&t=759s) -  AUK Learning Center
+* [React Js Tutorial - Sinhala](https://youtube.com/playlist?list=PL68g11dFe-_VDZNEjp3E4lD_OWaEEj0PY&feature=shared) - Code With Banchi 
 
 
 #### Spring Boot

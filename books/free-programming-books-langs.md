@@ -818,7 +818,9 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Go
 
-* [An Introduction to Programming in Go](http://www.golang-book.com)
+* [Introducing Go(O Reilley)](https://library.kre.dp.ua/Books/2-4%20kurs/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F%20%2B%20%D0%BC%D0%BE%D0%B2%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F/Go%20Web/Introducing%20Go%40bzd_channel.pdf) - Caleb Doxsey
+* [An Introduction to Programming in Go](http://www.golang-book.com) - Caleb Doxsey
+* [Concurrency in Go(O Reilly)](https://edu.anarcho-copy.org/Programming%20Languages/Go/Concurrency%20in%20Go.pdf) - Katherine Cox-Buday
 * [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/)
 * [Building Web Apps with Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
 * [Darker Corners of Go](https://rytisbiel.com/2021/03/06/darker-corners-of-go/) - Rytis Bieliunas

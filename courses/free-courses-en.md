@@ -649,6 +649,7 @@
 
 ### Git
 
+* [A Collaborate with others with Markdown and GitHub Pages](https://learn.microsoft.com/en-us/training/paths/collaborate-markdown-github-pages/) - Microsoft Learn
 * [Bento Git Learning Track](https://bento.io/topic/git) (Bento)
 * [Bento GitHub Learning Track](https://bento.io/topic/github) (Bento)
 * [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics) - Kunal Kushwaha
@@ -668,7 +669,6 @@
 * [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) - Google (Coursera)
 * [Introduction to version control with Git](https://learn.microsoft.com/en-us/training/paths/intro-to-vc-git/) - Microsoft Learn
 * [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud) - Atlassian
-* [Collaborate with others with Markdown and GitHub Pages](https://learn.microsoft.com/en-us/training/paths/collaborate-markdown-github-pages/) - Microsoft Learn
 
 
 ### Go

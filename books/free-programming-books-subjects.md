@@ -485,6 +485,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Foundations of Constructive Probability Theory](https://arxiv.org/pdf/1906.01803.pdf) - Yuen-Kwok Chan (PDF)
 * [Geometry with an Introduction to Cosmic Topology](https://mphitchman.com) - Michael P. Hitchman
 * [Graph Theory](http://compalg.inf.elte.hu/~tony/Oktatas/TDK/FINAL/)
+* [Guide To Discrete Mathematics](https://github.com/EbookFoundation/free-programming-books/files/12776960/Guide.to.Discrete.Mathematics-.2016.pdf) - David Gries (PDF)
 * [How We Got from There to Here: A Story of Real Analysis](https://milneopentextbooks.org/how-we-got-from-there-to-here-a-story-of-real-analysis/) - Robert Rogers, Eugene Boman
 * [Introduction to Modern Statistics](https://openintro-ims.netlify.app) - Mine Çetinkaya-Rundel, Johanna Hardin (HTML, PDF) (email address required for PDF)
 * [Introduction to Probability](https://math.dartmouth.edu/~prob/prob/prob.pdf) - Charles M. Grinstead, J. Laurie Snell (PDF)
@@ -541,7 +542,6 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Think Stats: Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/) - Allen B. Downey (using Python)
 * [Vector Calculus](http://www.mecmath.net) - Michael Corral
 * [Yet Another Introductory Number Theory Textbook](https://www.poritz.net/jonathan/share/yaintt.pdf) - Jonathan A. Poritz (PDF)
-* [Guide To Discrete Mathematics](https://github.com/EbookFoundation/free-programming-books/files/12776960/Guide.to.Discrete.Mathematics-.2016.pdf) - David Gries (PDF)
 
 
 

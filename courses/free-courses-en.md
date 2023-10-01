@@ -667,7 +667,6 @@
 * [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE) - Moshfegh Hamedani (Programming with Mosh)
 * [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775) (Udacity)
 * [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) - Google (Coursera)
-* [Introduction to GitHub](https://learn.microsoft.com/en-us/training/modules/introduction-to-github/) - Microsoft Learn
 * [Introduction to version control with Git](https://learn.microsoft.com/en-us/training/paths/intro-to-vc-git/) - Microsoft Learn
 * [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud) - Atlassian
 

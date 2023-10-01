@@ -1980,6 +1980,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Learn Python in Y minutes](https://learnxinyminutes.com/docs/python/) - LearnXinYMinutes (HTML)
 * [Learn Python Programming, Second Edition](https://www.packtpub.com/free-ebooks/learn-python-programming-second-edition) - Fabrizio Romano (Packt account *required*)
 * [Learn Python the Right Way](https://learnpythontherightway.com)
+* [Learn Python Visiually](https://archive.org/details/learn-python-visually_compress/mode/2up) - Ivelin Demirov
 * [Learn to Program Using Python](https://web.archive.org/web/20201224032210/https://www.ida.liu.se/~732A47/literature/PythonBook.pdf) - Cody Jackson (PDF) *(:card_file_box: archived)*
 * [Learning to Program](http://www.alan-g.me.uk)
 * [Lectures on scientific computing with python](https://github.com/jrjohansson/scientific-python-lectures) - J.R. Johansson (2.7)
@@ -2029,7 +2030,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html) - Qingkai Kong, Timmy Siauw, Alexandre Bayen (3.7)
 * [Python Programming Exercises, Gently Explained](https://inventwithpython.com/PythonProgrammingExercisesGentlyExplained.pdf) - Al Sweigart (PDF)
 * [Python Tutorial](https://www.tutorialspoint.com/python/) - Tutorials Point (HTML, PDF)
-* [Real World Python](https://books.google.co.in/books?id=7IUBEAAAQBAJ&lpg=PR4&pg=PR12#v=onepage&q&f=true) - Lee Vaughan
 * [Scientific Visualization: Python + Matplotlib](https://github.com/rougier/scientific-visualization-book) - Nicolas P. Rougier (PDF)
 * [Scipy Lecture Notes](http://scipy-lectures.github.io)
 * [SICP in Python](http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/) (3.2)

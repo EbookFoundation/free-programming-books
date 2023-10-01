@@ -312,23 +312,17 @@
 * [Java Tutorials For Beginners In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q) - CodeWithHarry
 * [Spring Boot Tutorial For Beginners (in Hindi)](https://www.youtube.com/playlist?list=PL5mjp3QjkuoLPS-L28yKCKyzCMX8WRVno) - ProgRank
 
-
-#### Spring 
 * [Spring  tutorial Basic to Advance in Hindi](https://youtube.com/playlist?list=PL0zysOflRCekeiERASkpi-crREVensZGS&si=4CUSOjAiSUIhwIOp) - Learn Code With Durgesh
-#### Spring Boot
+
 * [Spring Boot tutorial basic in Hindi](https://youtube.com/playlist?list=PL0zysOflRCelmjxj-g4jLr3WKraSU_e8q&si=nZizMDReuxWBM3hB) - Learn Code With Durgesh
 
-#### Hibernate
 * [Hibernate tutorial Basic to Advance in Hindi](https://youtube.com/playlist?list=PL0zysOflRCekX8OO7V7pGQ9kxZ28JyJlk&si=thD-RnaLu6VPDpDr) - Learn Code With Durgesh
 
-#### Servlet and Jsp (Server Side Programming in Java)
 * [Servlet and Jsp (Server Side Programming in Java)](https://youtube.com/playlist?list=PL0zysOflRCel5BSXoslpfDawe8FyyOSZb&si=pyUQrpB8bp-pbrR7) - Learn Code With Durgesh
 
-#### AWS Hosting Tutorial | Deploying Java Applications on Amazon EC2 in hindi
 * [AWS Hosting Tutorial | Deploying Java Applications on Amazon EC2 in hindi
 ](https://youtube.com/playlist?list=PL0zysOflRCek6D-kLRM48rhyvTEbc60nc&si=9ILVhPNVuvemweEJ) - Learn Code With Durgesh
 
-#### Spring MVC Tutorial Step by Step [Hindi]
 * [Spring MVC Tutorial Step by Step [Hindi]](https://youtube.com/playlist?list=PL0zysOflRCelAb51IrexpUSeB0dpr9p6g&si=r5qz_JtErMKdL-WG7) - Learn Code With Durgesh
 
 ### JavaScript

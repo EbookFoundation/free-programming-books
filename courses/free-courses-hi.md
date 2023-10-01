@@ -54,6 +54,7 @@
 * [Software Engineering](#software-engineering)
 * [Swift](#swift)
 * [System Design](#system-design)
+* [DBMS](#database-management-system)
 
 
 ### Algorithms
@@ -523,3 +524,8 @@
 
 * [System Analysis and Design](https://www.youtube.com/playlist?list=PLWxTHN2c_6cbuRXdCpsYYMxy0N4SSfIX9) - TJ WEBDEV
 * [System Analysis and Design](https://www.youtube.com/playlist?list=PLi81x6d2Os_8Sa8HifiFruWK6wmgG3Wrg) - Gursimran Singh Dhillon
+
+### Database Management System
+
+* [DBMS (Database Management system) Complete Playlist](https://youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y&si=853bC8_mW9UZcPLE) - Gate Smashers
+* [DBMS | Database Management System Tutorials with Notes](https://youtube.com/playlist?list=PLqcuf9-ILPYAjSxpAssMGrWsTOE5-111e&si=jB2W4yy8ZJSW0dp-) - CS Engineering Gyan

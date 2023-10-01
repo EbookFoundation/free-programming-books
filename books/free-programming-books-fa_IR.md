@@ -72,7 +72,6 @@
 * [پایتون به پارسی](https://python.coderz.ir) - سعید درویش (HTML)
 
 
-
 #### Django
 
 * [کتاب جنگو برای حرفه‌ای‌ها](https://github.com/mthri/dfp-persian)

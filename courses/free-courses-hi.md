@@ -314,8 +314,9 @@
 * [Spring Boot tutorial basic in Hindi](https://youtube.com/playlist?list=PL0zysOflRCelmjxj-g4jLr3WKraSU_e8q&si=nZizMDReuxWBM3hB) - Learn Code With Durgesh
 * [Spring Boot Tutorial For Beginners (in Hindi)](https://www.youtube.com/playlist?list=PL5mjp3QjkuoLPS-L28yKCKyzCMX8WRVno) - ProgRank
 * [Spring MVC Tutorial Step by Step [Hindi]](https://youtube.com/playlist?list=PL0zysOflRCelAb51IrexpUSeB0dpr9p6g&si=r5qz_JtErMKdL-WG7) - Learn Code With Durgesh
-* [Spring tutorial Basic to Advance in Hindi](https://youtube.com/playlist?list=PL0zysOflRCekeiERASkpi-crREVensZGS&si=4CUSOjAiSUIhwIOp) - Learn Code With Durgesh
 * [Servlet and Jsp (Server Side Programming in Java)](https://youtube.com/playlist?list=PL0zysOflRCel5BSXoslpfDawe8FyyOSZb&si=pyUQrpB8bp-pbrR7) - Learn Code With Durgesh
+* [Spring tutorial Basic to Advance in Hindi](https://youtube.com/playlist?list=PL0zysOflRCekeiERASkpi-crREVensZGS&si=4CUSOjAiSUIhwIOp) - Learn Code With Durgesh
+
 
 
 ### JavaScript

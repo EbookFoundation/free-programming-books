@@ -236,6 +236,7 @@
 * [Flutter Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ) - The Net Ninja
 * [Flutter Tutorial For Beginners in Hindi](https://youtube.com/playlist?list=PLMkkZSS5OjPIwDyHHKVex6zr008U1-sWM) - Geeks Rank
 * [Flutter Widgets in Hindi](https://www.youtube.com/playlist?list=PLz7ymP4HzwSH3vAnhDWLkO2TLbwGeigl7) - Ahirlog
+* [Master Flutter in Just 8 Hours | Full Course Hindi](https://www.youtube.com/watch?v=j-LOab_PzzU&t=4818s) - Codepur
 
 
 ### Game Development

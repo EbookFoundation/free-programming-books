@@ -2008,6 +2008,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Python 2.7 quick reference](https://web.archive.org/web/20171013204449/http://infohost.nmt.edu/tcc/help/pubs/python27/python27.pdf) - John W. Shipman (PDF) (2.7) *(:card_file_box: archived)*
 * [Python 3 Official Documentation](https://docs.python.org/3/download.html) (PDF, EPUB, HTML, TEXT) (3.x)
 * [Python 3 Tutorial](https://github.com/Akuli/python-tutorial)
+* [Python Cookbook, Third Edition](https://bedford-computing.co.uk/learning/wp-content/uploads/2015/10/Python-Cookbook-3rd-Edition.pdf) - David Beazley, Brian K. Jones (PDF)
 * [Python Crash Course: A Hands-On, Project-Based Introduction to Programming (2nd Edition)](https://bedford-computing.co.uk/learning/wp-content/uploads/2015/10/No.Starch.Python.Oct_.2015.ISBN_.1593276036.pdf) - Eric Matthes (PDF)
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook) - Jake VanderPlas (HTML, Jupyter Notebooks)
 * [Python for Astronomers](https://prappleizer.github.io/textbook.pdf) - Imad Pasha, Christopher Agostino (PDF)

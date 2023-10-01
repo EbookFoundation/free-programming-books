@@ -482,6 +482,7 @@ Books on general-purpose programming that don't focus on a specific language are
 ### <a id="csharp"></a>C\#
 
 * [Architect Modern Web Applications with ASP.NET Core and Azure](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/) - Steve "ardalis" Smith
+* [C# 10 in a Nutshell](file:///S:/Books/References_Books-master/References_Books-master/C%23%205.0%20in%20a%20Nutshell.pdf) - Joseph Albahari (PDF)
 * [C# Features Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/c-sharp-features-succinctly) - Dirk Strauss (HTML)
 * [C# Notes for Professionals](http://goalkicker.com/CSharpBook/) - Compiled from StackOverflow documentation (PDF)
 * [C# Programming](https://en.wikibooks.org/wiki/C_Sharp_Programming) - Wikibooks

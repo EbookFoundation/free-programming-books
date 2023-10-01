@@ -279,6 +279,8 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Readings in Database Systems, 5th Ed.](http://www.redbook.io)
 * [Temporal Database Management](http://people.cs.aau.dk/~csj/Thesis/) - Christian S. Jensen
 * [The Theory of Relational Databases](http://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html)
+* [Principles of Database and Knowledge-base Systems](https://www.sti-innsbruck.at/sites/default/files/Knowledge-Representation-Search-and-Rules/principles-of-database-and-knowledge-base-systems-volume-1-1.pdf) - J.D Ullman
+* [Fundamentals of Database Systems Seventh Edition](https://www.auhd.edu.ye/upfiles/elibrary/Azal2020-01-22-12-28-11-76901.pdf) - Elmasri, Navathe
 
 
 ### Game Development

@@ -1958,6 +1958,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Fundamentals of Python Programming](https://web.archive.org/web/20191005170430/http://python.cs.southern.edu/pythonbook/pythonbook.pdf) - Richard L. Halterman (PDF) (:construction: *in process*) *(:card_file_box: archived)*
 * [Google's Python Class](https://developers.google.com/edu/python/) (2.4 - 2.x)
 * [Google's Python Style Guide](https://google.github.io/styleguide/pyguide.html)
+* [Guide to Prompt Engineering](https://codeahoy.com/learn/promptengineering/toc) - CodeAhoy (HTML)
 * [Hadoop with Python](https://www.oreilly.com/learning/hadoop-with-python) - Zachary Radtka, Donald Miner
 * [Hands-On Natural Language Processing with Python](https://www.packtpub.com/free-ebook/hands-on-natural-language-processing-with-python/9781789139495) - Rajesh Arumugam, Rajalingappaa Shanmugamani (Packt account *required*)
 * [Hands-on Python 3 Tutorial](https://anh.cs.luc.edu/handsonPythonTutorial) - Andrew N. Harrington (HTML)

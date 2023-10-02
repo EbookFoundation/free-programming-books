@@ -1,6 +1,8 @@
 ### Index
 
 * [Blockchain](#blockchain)
+* [Data Structures and Algorithms](#data-structures-and-algorithms)
+* [Git and GitHub](#git-and-github)
 * [Go](#go)
 * [HTML and CSS](#html-and-css)
 * [JavaScript](#javascript)
@@ -9,12 +11,19 @@
 * [Python](#python)
 * [Rust](#rust)
 * [Web Development](#web-development)
-* [Data Structures and Algorithms](#data-structures-and-algorithms)
-* [Git and GitHub](#git-and-github)
+
 
 ### Blockchain
 
 * [Bitcoin - On Point](https://eimaung.com/bitcoin/) - Ei Maung (PDF)
+
+### Data Structures and Algorithms
+
+* [DSA-Early Release](https://mega.nz/folder/JjsjGLLA#gXbDwDzfX7GpiX0ztExI3A/file/Q2tE3IZT) - Win Htut
+
+### Git and GitHub
+
+* [Git and GitHub](https://mega.nz/folder/JjsjGLLA#gXbDwDzfX7GpiX0ztExI3A/file/kjlyVQQJ) - Win Htut
 
 ### Go
 
@@ -56,11 +65,3 @@
 * [Professional Web Developer 2022](https://eimaung.com/pwd2022/) - Ei Maung (PDF)
 * [Rockstar Developer](http://eimaung.com/rockstar-developer) - Ei Maung (PDF)
 * [Web Programming](https://mega.nz/folder/JjsjGLLA#gXbDwDzfX7GpiX0ztExI3A/file/sykGSaiZ) - Win Htut
-
-### Data Structures and Algorithms
-
-* [DSA-Early Release](https://mega.nz/folder/JjsjGLLA#gXbDwDzfX7GpiX0ztExI3A/file/Q2tE3IZT) - Win Htut
-
-### Git and GitHub
-
-* [Git and GitHub](https://mega.nz/folder/JjsjGLLA#gXbDwDzfX7GpiX0ztExI3A/file/kjlyVQQJ) - Win Htut

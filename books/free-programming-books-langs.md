@@ -10,6 +10,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [ABAP](#abap)
 * [Ada](#ada)
 * [Agda](#agda)
+* [AL](#agda)
 * [Alef](#alef)
 * [Android](#android)
 * [APL](#apl)
@@ -252,6 +253,11 @@ Books on general-purpose programming that don't focus on a specific language are
 
 * [Agda Tutorial](http://people.inf.elte.hu/divip/AgdaTutorial/Index.html)
 * [Programming Language Foundations in Agda](https://plfa.github.io) - Philip Wadler, Wen Kokke
+
+
+### AL
+
+* [Programming in AL for Beginners](https://github.com/mynavblog/ALForBeginners) - Krzysztof Bialowas
 
 
 ### Alef

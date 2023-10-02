@@ -395,6 +395,8 @@
 * [Machine Learning in Hindi](https://www.youtube.com/playlist?list=PLPbgcxheSpE0aBsefANDYe2X_-tyJbBMr) - Codebasics Hindi
 * [Machine Learning Tutorial using Python in Hindi 2022](https://www.youtube.com/playlist?list=PLfP3JxW-T70Hh7j17_NLzjZ8CejSPx40V) - Indian AI Production 
 * [Machine Learning Tutorials For Beginners Using Python in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ai6fAMHp-acBmJONT7Y4BSG) - CodeWithHarry
+* [100 Days Of Machine Learning](https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH) - CampusX
+* [100 Days Of Deep Learning](https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn) - CampusX
 
 
 ### Mathematics

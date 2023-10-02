@@ -185,6 +185,8 @@
 * [Stanford University Algorithms: Design and Analysis, Part 2](https://online.stanford.edu/courses/soe-ycs0001-algorithms-design-and-analysis-part-2)
 * [Trees by Striver \| C++ \| Java \| Placements \| Binary Trees and Traversals \| Problems](https://www.youtube.com/playlist?list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk) - take U forward
 
+ [ Data Structures Full Course Using C and C++ By FreeCodeCamp ](https://www.youtube.com/watch?v=B31LgI4Y4DQ)
+
 
 ### Android
 

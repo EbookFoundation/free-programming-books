@@ -13,8 +13,11 @@
 * [IDE and editors](#ide-and-editors)
 * [Java](#java)
 * [JavaScript](#javascript)
+    * [Angular](#angular)
+    * [Deno](#deno)
     * [Next.js](#nextjs)
     * [React.js](#reactjs)
+    * [TypeScript](#typescript)
     * [Vue.js](#vuejs)
 * [Node.js](#nodejs)
 * [NoSQL](#nosql)
@@ -22,11 +25,7 @@
 * [Pemrograman Kompetitif](#pemrograman-kompetitif)
 * [PHP](#php)
 * [Python](#python)
-* [React](#react)
 * [Solidity](#solidity)
-* [TypeScript](#typescript)
-    * [Angular](#angular)
-    * [Deno](#deno)
 
 
 ### Android
@@ -117,20 +116,39 @@
 * [Tutorial JavaScript Modern](https://id.javascript.info) - Ilya Kantor
 
 
+#### Angular
+
+* [Tutorial Angular Indonesia](https://degananda.com/tutorial-angular-indonesia-daftar-isi-download-pdf/) - Degananda Ferdian Priyambada (HTML)
+* [Tutorial Series Belajar Angular 2019](https://www.bewoksatukosong.com/2019/09/tutorial-series-belajar-angular-2019.html) - Bewok Satu Kosong (HTML)
+
+
+#### Deno
+
+* [Belajar Dengan Jenius Deno](https://raw.githubusercontent.com/gungunfebrianza/Belajar-Dengan-Jenius-DenoTheWKWKLand/master/Belajar%20Dengan%20Jenius%20Deno.pdf) - Gun Gun Febrianza (PDF)
+
+
 #### Next.js
 
 * [Tutorial Next Js](https://santrikoding.com/kategori/next-js) - SantriKoding.com
+
+
+#### React.js
+
+* [Dokumentasi React Bahasa Indonesia](https://id.reactjs.org)
+* [React JS Untuk Pemula](https://masputih.com/2021/05/ebook-gratis-reactjs-untuk-pemula) *(Membutuhkan akun Leanpub atau email yang valid)*
+* [React Redux Tutorial Untuk Pemula](https://medium.com/codeacademia/tutorial-redux-bagian-i-membuat-todo-list-c26a979d0a1f) - Yudi Krisnandi
+* [Tutorial React JS Untuk Pemula (React Hooks)](https://mfikri.com/artikel/reactjs-pemula) - Mfikri
+
+
+#### TypeScript
+
+* [TypeScript untuk Pemula, Bagian 1: Memulai](https://code.tutsplus.com/id/tutorials/typescript-for-beginners-getting-started--cms-29329) - Tutsplus (HTML)
 
 
 #### Vue.js
 
 * [Belajar Vue.js](https://variancode.com/belajar-vue-js/) - Varian Hermianto
 * [Dokumentasi Vue Bahasa Indonesia](https://github.com/vuejs-id/docs)
-
-
-#### React.js
-
-* [Tutorial React JS Untuk Pemula (React Hooks)](https://mfikri.com/artikel/reactjs-pemula) - Mfikri
 
 
 ### MySQL
@@ -160,6 +178,7 @@
 ### Pemrograman Kompetitif
 
 * [Pemrograman Kompetitif Dasar](https://ksn.toki.id/data/pemrograman-kompetitif-dasar.pdf) - William Gozali, Alham Fikri Aji (PDF)
+* [Referensi Pemrograman Bahasa Pascal](https://toki.id/download/referensi-pemrograman-bahasa-pascal/) - Tim Pembina Toki (PDF)
 
 
 ### PHP
@@ -192,29 +211,6 @@
 * [Workshop Python 101](http://sakti.github.io/python101/)
 
 
-### React
-
-* [Dokumentasi React Bahasa Indonesia](https://id.reactjs.org)
-* [React JS Untuk Pemula](https://masputih.com/2021/05/ebook-gratis-reactjs-untuk-pemula) *(Membutuhkan akun Leanpub atau email yang valid)*
-* [React Redux Tutorial Untuk Pemula](https://medium.com/codeacademia/tutorial-redux-bagian-i-membuat-todo-list-c26a979d0a1f) - Yudi Krisnandi
-
-
 ### Solidity
 
 * [Smart Contract Blockchain pada E-Voting](https://www.researchgate.net/publication/337961765_Smart_Contract_Blockchain_pada_E-Voting) - Ajib Susanto (HTML, PDF)
-
-
-### TypeScript
-
-* [TypeScript untuk Pemula, Bagian 1: Memulai](https://code.tutsplus.com/id/tutorials/typescript-for-beginners-getting-started--cms-29329) - Tutsplus (HTML)
-
-
-#### Angular
-
-* [Tutorial Angular Indonesia](https://degananda.com/tutorial-angular-indonesia-daftar-isi-download-pdf/) - Degananda Ferdian Priyambada (HTML)
-* [Tutorial Series Belajar Angular 2019](https://www.bewoksatukosong.com/2019/09/tutorial-series-belajar-angular-2019.html) - Bewok Satu Kosong (HTML)
-
-
-#### Deno
-
-* [Belajar Dengan Jenius Deno](https://raw.githubusercontent.com/gungunfebrianza/Belajar-Dengan-Jenius-DenoTheWKWKLand/master/Belajar%20Dengan%20Jenius%20Deno.pdf) - Gun Gun Febrianza (PDF)

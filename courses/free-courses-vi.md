@@ -33,6 +33,7 @@
 * [TypeScript](#typescript)
     * [Angular](#angular)
 * [Unity](#unity)
+* [Web Development](#web-development)
 * [Wordpress](#wordpress)
 * [XML](#xml)
 
@@ -299,6 +300,11 @@
 * [Học Lập Trình Game Unity3D - Game Sprider Cave](https://www.youtube.com/playlist?list=PLzrVYRai0riT-fZ_Wgi_NrELvqzbASetQ) - Khoa Phạm
 * [Học Lập Trình Game Unity3D - Zombie Hunter](https://www.youtube.com/playlist?list=PL33lvabfss1zGxMf1P-ReSoOoFN7L_jo0) - K team
 * [Lập Trình Game 2D Trên Unity3D](https://www.youtube.com/playlist?list=PLl-dkipSQUGcQQgvh9j8a75Sz4zx9vWo8) - U DEV
+
+
+### Web Development
+
+* [Lập Trình Web Cơ Bản](https://www.youtube.com/playlist?list=PLiyVagO7GfBE3_b-4lJEVk7iq1pHQ-xcM) - J2Team
 
 
 ### Wordpress

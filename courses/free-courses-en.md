@@ -570,6 +570,7 @@
 * [Jenkins Tutorial](https://www.mygreatlearning.com/academy/learn-for-free/courses/jenkins-tutorial) (Great Learning)
 * [Jenkins Tutorial Step by Step](https://www.youtube.com/playlist?list=PL8VbCbavWfeGt_Hyq0h9Pymi9DTGowd5X) - The Testing Academy
 * [Jenkins Tutorial Video [2022 updated]](https://www.youtube.com/playlist?list=PLEiEAq2VkUUKGrfcoNYRgqam5YBERN8xa) - Simplilearn
+* [Jenkins Zero to Hero](https://www.youtube.com/playlist?list=PLdpzxOOAlwvJDIAQZtMjUUbiVUDfGaCIX) - Abhishek Veeramalla
 
 
 ### Digital Electronics

@@ -39,8 +39,7 @@
 
 ### Deep-Learning
 
-* [ספר על למידת מכונה ולמידה עמוקה](https://github.com/AvrahamRaviv/Deep-Learning-in-Hebrew) – אברהם רביב 
-ומייק ארליסון
+* [ספר על למידת מכונה ולמידה עמוקה](https://github.com/AvrahamRaviv/Deep-Learning-in-Hebrew) – אברהם רביב ומייק ארליסון
 
 
 ### Java

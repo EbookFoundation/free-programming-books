@@ -7,7 +7,10 @@
 * [Linux](#linux)
 * [PHP](#php)
 * [Python](#python)
+* [Rust](#rust)
 * [Web Development](#web-development)
+* [Data structures and algorithms](#data-structures-and-algorithms)
+* [Git and Github](#git-and-github)
 
 
 ### Blockchain
@@ -48,6 +51,12 @@
 ### Python
 
 * [Programming Basic For Beginner](http://books.saturngod.net/programming_basic/) - Saturngod
+* [Python Basic to Advanced](https://mega.nz/folder/JjsjGLLA#gXbDwDzfX7GpiX0ztExI3A/file/9y9kkISb) -Win Htut
+  
+
+### Rust
+
+* [Rust-2023](https://mega.nz/folder/JjsjGLLA#gXbDwDzfX7GpiX0ztExI3A/file/FutADIJb)-Win Htut
 
 
 ### Web Development
@@ -55,3 +64,16 @@
 * [Professional Web Developer](http://eimaung.com/professional-web-developer) - Ei Maung (PDF)
 * [Professional Web Developer 2022](https://eimaung.com/pwd2022/) - Ei Maung (PDF)
 * [Rockstar Developer](http://eimaung.com/rockstar-developer) - Ei Maung (PDF)
+* [Web Programming](https://mega.nz/folder/JjsjGLLA#gXbDwDzfX7GpiX0ztExI3A/file/sykGSaiZ) - Win Htut
+
+
+## Data structures and Algorithm
+
+* [DSA-EarlyRelease](https://mega.nz/folder/JjsjGLLA#gXbDwDzfX7GpiX0ztExI3A/file/Q2tE3IZT) - Win Htut
+
+
+## Git and Github
+
+* [Git and Github](https://mega.nz/folder/JjsjGLLA#gXbDwDzfX7GpiX0ztExI3A/file/kjlyVQQJ) - Win Htut
+
+

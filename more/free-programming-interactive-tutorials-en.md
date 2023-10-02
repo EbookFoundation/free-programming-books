@@ -263,7 +263,9 @@
 * [React Tutorial](https://react-tutorial.app)
 * [React Tutorial](https://www.w3schools.com/react/) - W3Schools
 * [React Tutorial](https://www.scaler.com/topics/react/) - Scaler Topics
-
+* [React Tutorial](https://react-tutorial.app/) - React Tutorial
+* [React Tutorial: Learn React JS](https://scrimba.com/learn/learnreact) - Srimba
+* [React 18 Tutorial And Project Course](https://www.udemy.com/course/react-tutorial-and-projects-course/) - Udemy
 
 #### Redux
 

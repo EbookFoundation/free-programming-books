@@ -77,11 +77,9 @@ CSE Tamila by Eezytutorials
 
 ### Node JS
 
-* [Node JS Developer Course in Tamil](https://www.youtube.com/watch?v=7hTtRfoAcLk) - JVL Code
-* [Node JS for Beginners in Tamil](https://www.youtube.com/watch?v=vZY5Ap5Bsp8) - JVL Code
 * [Node JS in Tamil](https://youtube.com/playlist?list=PLDVMunJ3DBrNAZtl0cJiNytPE2-8MAmoc&si=z23m0cL3jA7J50f9) - Each One Teach One
 * [Node JS Tamil Tutorial](https://youtube.com/playlist?list=PLfD4W8QfMd5CfPbiP2os4lpK2470C8Bva&si=3_z8uf-13KyOoEj-) - MaanavaN Learn Code
-* [Node Js Tutorial for beginners in Tamil 2023](https://www.youtube.com/watch?v=SdyzXQoQO18) - Balachandra
+* [Node JS Tutorial in Tamil](https://youtube.com/playlist?list=PLyYcNnaAVG5Jewkwv4iH5WR-IDNlUON29&si=Y1th95p1GubFjnAl) - selva tutorials
 
 
 ### PHP

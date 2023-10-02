@@ -855,7 +855,6 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Groovy
 
-
 #### Gradle
 
 *   [Building Java Projects with Gradle](http://spring.io/guides/gs/gradle/)
@@ -986,6 +985,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 *   [The Implementation of the Icon Programming Language](http://www.cs.arizona.edu/icon/ibsale.htm)
 
+
 ### iOS
 
 *   [Cocoa Dev Central](http://cocoadevcentral.com)
@@ -1065,7 +1065,7 @@ Books on general-purpose programming that don't focus on a specific language are
 *   [The Java Web Scraping Handbook](https://www.scrapingbee.com/java-webscraping-book) - Kevin Sahin (PDF, HTML)
 *   [Think Data Structures: Algorithms and Information Retrieval in Java](https://greenteapress.com/wp/think-data-structures/) - Allen B. Downey (PDF, HTML)
 *   [Think Java: How to Think Like a Computer Scientist, 2nd Edition](https://greenteapress.com/wp/think-java-2e/) - Allen B. Downey, Chris Mayfield (HTML, PDF) [(Interactive version by Trinket)](https://books.trinket.io/thinkjava2/)
-    -   [Think Java: How to Think Like a Computer Scientist](https://greenteapress.com/wp/think-java/) - Allen B. Downey, Chris Mayfield (HTML, PDF) [(Interactive version by Trinket)](https://books.trinket.io/thinkjava/)
+    *   [Think Java: How to Think Like a Computer Scientist](https://greenteapress.com/wp/think-java/) - Allen B. Downey, Chris Mayfield (HTML, PDF) [(Interactive version by Trinket)](https://books.trinket.io/thinkjava/)
 *   [Using RxJava 2 Tutorial](https://www.vogella.com/tutorials/RxJava/article.html) - Lars Vogel, Simon Scholz (HTML)
 *   [Welcome to Java for Python Programmers](https://runestone.academy/runestone/books/published/java4python/index.html) - Brad Miller
 *   [Welcome to the Java Workshop (2006)](http://javaworkshop.sourceforge.net) - Trevor Miller
@@ -1115,7 +1115,6 @@ Books on general-purpose programming that don't focus on a specific language are
 
 
 ### JavaScript
-
 
 *   [Airbnb JavaScript Style Guide](https://airbnb.io/javascript/) - Airbnb (HTML)
 *   [Basic JavaScript for the impatient programmer](http://www.2ality.com/2013/06/basic-javascript.html) - Dr. Axel Rauschmayer (HTML)
@@ -1248,7 +1247,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Understanding JavaScript OOP](http://robotlolita.me/2011/10/09/understanding-javascript-oop.html) - Quil (HTML)
 * [Understanding the DOM — Document Object Model](https://www.digitalocean.com/community/books/understanding-the-dom-document-object-model-ebook) - Tania Rascia (PDF, EPUB)
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Kyle Simpson (HTML, PDF, EPUB, MOBI
-
 
 
 #### AngularJS
@@ -1493,7 +1491,6 @@ Books on general-purpose programming that don't focus on a specific language are
 
 
 ### LaTeX / TeX
-
 
 #### LaTeX
 
@@ -1992,7 +1989,6 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Python
 
-
 *   [100 Page Python Intro](https://learnbyexample.github.io/100_page_python_intro/) - Sundeep Agarwal
 *   [20 Python Libraries You Aren't Using (But Should)](https://www.oreilly.com/learning/20-python-libraries-you-arent-using-but-should) - Caleb Hattingh
 *   [A Beginner's Python Tutorial](https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial) - Wikibooks
@@ -2021,7 +2017,7 @@ Books on general-purpose programming that don't focus on a specific language are
 *   [Cracking Codes with Python](https://inventwithpython.com/cracking/) - Al Sweigart (3.6)
 *   [Data Structures and Algorithms in Python](https://web.archive.org/web/20161016153130/http://www.brpreiss.com/books/opus7/html/book.html) - B. R. Preiss (PDF) _(:card_file_box: archived)_
 *   [Dive into Python 3](https://diveintopython3.problemsolving.io) - Mark Pilgrim (3.0)
-    -   [Dive into Python](https://linux.die.net/diveintopython/html/toc/index.html) - Mark Pilgrim (2.3)
+    *   [Dive into Python](https://linux.die.net/diveintopython/html/toc/index.html) - Mark Pilgrim (2.3)
 *   [Essential Python](https://www.programming-books.io/essential/python/) - Krzysztof Kowalczyk, StackOverflow Contributors
 *   [From Python to NumPy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/) - Nicolas P. Rougier (3.6)
 *   [Full Stack Python](https://www.fullstackpython.com) - Matt Makai
@@ -2126,8 +2122,8 @@ Books on general-purpose programming that don't focus on a specific language are
 * [100 Page Python Intro](https://learnbyexample.github.io/100_page_python_intro/) - Sundeep Agarwal
 * [20 Python Libraries You Aren't Using (But Should)](https://www.oreilly.com/learning/20-python-libraries-you-arent-using-but-should) - Caleb Hattingh
 * [A Beginner's Python Tutorial](https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial) - Wikibooks
-* [A Byte of Python](https://python.swaroopch.com) (3.x) (HTML, PDF, EPUB, Mobi)
 * [A Guide to Python's Magic Methods](https://github.com/RafeKettler/magicmethods) - Rafe Kettler
+* [A Byte of Python](https://python.swaroopch.com) (3.x) (HTML, PDF, EPUB, Mobi)
 * [A Practical Introduction to Python Programming](https://www.brianheinold.net/python/) - Brian Heinold (HTML, PDF, Exercises sources)
 * [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) - Jake VanderPlas
 * [An Introduction to Statistical Learning with Applications in Python](https://hastie.su.domains/ISLP/ISLP_website.pdf) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, Jonathan Taylor (PDF)
@@ -2254,8 +2250,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Tiny Python 3.6 Notebook](https://github.com/mattharrison/Tiny-Python-3.6-Notebook) - Matt Harrison (3.6)
 * [Tiny Python Projects](http://tinypythonprojects.com/Tiny_Python_Projects.pdf) - Ken Youens-Clark(PDF)
 * [Web2py: Complete Reference Manual, 6th Edition (pre-release)](http://web2py.com/book) (2.5 - 2.x)
-
-
 
 
 #### Django
@@ -2697,8 +2691,8 @@ Books on general-purpose programming that don't focus on a specific language are
 *   [Swift Handbook](https://thevalleyofcode.com/swift/) - Flavio Copes (HTML, PDF)
 *   [Swift Notes for Professionals](https://goalkicker.com/SwiftBook/) - Compiled from StackOverflow Documentation (PDF)
 *   [The Swift Programming Language](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html) (HTML)
-    -   [The Swift Programming Language (Swift 5.7)](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11) - Apple Inc. (iBook)
-    -   [Using Swift with Cocoa and Objective-C](https://itunes.apple.com/us/book/using-swift-cocoa-objective/id888894773?mt=11) - Apple Inc. (iBook)
+    *   [The Swift Programming Language (Swift 5.7)](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11) - Apple Inc. (iBook)
+    *   [Using Swift with Cocoa and Objective-C](https://itunes.apple.com/us/book/using-swift-cocoa-objective/id888894773?mt=11) - Apple Inc. (iBook)
 
 
 #### Vapor

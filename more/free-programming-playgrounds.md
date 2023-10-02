@@ -250,7 +250,6 @@
 
 * [Codepad](http://codepad.org/?lang=PHP)
 * [ExtendsClass](https://extendsclass.com/php.html)
-* [PHPFiddle](https://phpfiddle.org)
 * [PHPTester](http://phptester.net)
 * [SoloLearn](https://code.sololearn.com/php)
 

@@ -74,6 +74,7 @@
 
 * [Programiz - Online Compiler](https://www.programiz.com/csharp-programming/online-compiler/)
 * [SoloLearn](https://code.sololearn.com/csharp)
+* [OnlineGDB](https://www.onlinegdb.com/online_csharp_compiler)
 
 
 ### <a id="cpp"></a>C++
@@ -174,6 +175,7 @@
 * [Programiz - Online Java Compiler](https://www.programiz.com/java-programming/online-compiler/)
 * [repl.it](https://repl.it) (_including a separate Java/Swing_)
 * [SoloLearn](https://code.sololearn.com/java)
+* [OnlineGDB](https://www.onlinegdb.com/online_java_compiler)
 
 
 ### JavaScript
@@ -274,6 +276,7 @@
 * [R-Fiddle](http://www.r-fiddle.org)
 * [Rextester](https://rextester.com/l/r_online_compiler)
 * [SoloLearn](https://code.sololearn.com/r)
+* [myCompiler](https://www.mycompiler.io/online-r-compiler)
 
 
 ### React

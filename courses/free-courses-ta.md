@@ -5,6 +5,7 @@
 * [C](#c)
 * [C++](#cpp)
 * [Data Structures and Algorithms](#dsa)
+* [Express JS](#express-js)
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -45,6 +46,12 @@
 
 * [தமிழில் Data Structures and Algorithms](https://youtube.com/playlist?list=PL_UqaR55i1797oG0BL0wtxdPpa_NYNFLz) - 
 CSE Tamila by Eezytutorials
+
+
+### Express JS
+
+* [Express JS Course in Tamil](https://youtube.com/playlist?list=PLN00Qh4gtjNtwr6Syq7eKDTmd-fKQPEiO&si=wMFg55V0T1ztHesh) - Programming Line
+* [Express JS Tutorial In Tamil](https://youtube.com/playlist?list=PLtMr2pEysMV6ArKDOGVmjQxjW-RcdxFHE&si=CR4PI0sjOcAUnXut) - VJ Techno Wizard
 
 
 ### HTML and CSS

@@ -1459,6 +1459,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Advanced Linux Programming](https://mentorembedded.github.io/advancedlinuxprogramming/) (PDF)
 * [Adventures with the Linux Command Line](http://linuxcommand.org/lc3_adventures.php) - William E. Shotts Jr.
 * [Automated Linux From Scratch](http://www.linuxfromscratch.org/alfs/download.html)
+* [Debian GNU/Linux: Guide to Installation and Usage](https://www.gutenberg.org/cache/epub/6527/pg6527-images.html) - John Goerzen, Ossama Othman (HTML)
 * [Getting Started with Ubuntu](http://ubuntu-manual.org)
 * [GNU Autoconf, Automake and Libtool](http://www.sourceware.org/autobook/download.html)
 * [Hardened Linux From Scratch](http://www.linuxfromscratch.org/hlfs/download.html)

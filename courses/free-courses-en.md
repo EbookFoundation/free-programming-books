@@ -331,6 +331,7 @@
 
 ### <a id="cpp"></a>C++
 
+* [C++](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) - The Cherno
 * [C++ Compilation, Linking, and Makefiles](https://youtube.com/playlist?list=PLNUvpxaaFJ_i6BYqbxTVeK5AOcFzQbboQ) - Amy Larson
 * [C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210) - Catherine Gamboa (Udacity)
 * [C++ Programming](https://www.youtube.com/playlist?list=PLBlnK6fEyqRh6isJ01MBnbNpV3ZsktSyS) - Neso Academy

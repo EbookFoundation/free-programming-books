@@ -48,10 +48,8 @@ CSE Tamila by Eezytutorials
 
 ### Express JS
 
-* [Express JS for Beginners in Tamil](https://www.youtube.com/watch?v=KUoBYPMbaps) - JVL Code
-* [Express JS Tutorial for beginners in Tamil 2023](https://www.youtube.com/watch?v=bo3fi5se1OM&t=346s) - Balachandra
-* [Express JS Tutorial In Tamil](https://youtube.com/playlist?list=PLtMr2pEysMV6ArKDOGVmjQxjW-RcdxFHE&si=6kWOYeMAjN0Gaq7D) - VJ TECHNO WIZARDz
-* [Learn Express JS in Tamil](https://www.youtube.com/watch?v=cemZsJe6MBc) - Programming Line
+* [Express JS Course in Tamil](https://youtube.com/playlist?list=PLN00Qh4gtjNtwr6Syq7eKDTmd-fKQPEiO&si=wMFg55V0T1ztHesh) - Programming Line
+* [Express JS Tutorial In Tamil](https://youtube.com/playlist?list=PLtMr2pEysMV6ArKDOGVmjQxjW-RcdxFHE&si=CR4PI0sjOcAUnXut) - VJ TECHNO WIZARDz
 
 
 ### HTML and CSS

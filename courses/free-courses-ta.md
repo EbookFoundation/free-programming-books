@@ -43,7 +43,7 @@
 
 * [தமிழில் Data Structures and Algorithms](https://youtube.com/playlist?list=PL_UqaR55i1797oG0BL0wtxdPpa_NYNFLz) - 
 CSE Tamila by Eezytutorials
-* [Data Structures and Algorithms in Tamil](https://www.youtube.com/playlist?list=PLYM2_EX_xVvX7_AmNY-Deacp3rT3MIXnE) - Logic First Tamil
+* [Data Structures and Algorithms in Java](https://www.youtube.com/playlist?list=PLYM2_EX_xVvX7_AmNY-Deacp3rT3MIXnE) - Logic First Tamil
 
 
 ### HTML and CSS
@@ -66,7 +66,7 @@ CSE Tamila by Eezytutorials
 * [JavaScript Crash Course From Scratch to Advanced in Tamil](https://www.youtube.com/playlist?list=PLyYcNnaAVG5IIyPjuzWOgqFxDORHqRN2W) - selva tutorials
 * [Javascript Full Course in Tamil - in Depth Javascript Tutorials in Tamil](https://youtube.com/playlist?list=PLpYn3LR7eQI3hjh129Bkqkw7onut28hTK) - Tamil Developer
 * [JavaScript in Tamil](https://youtube.com/playlist?list=PL73Obo20O_7ihsIM5K-hHYPrcqkkdQcLa) - CyberDude Networks Pvt. Ltd.
-* [Learn JavaScript in Tamil](https://www.youtube.com/playlist?list=PLYM2_EX_xVvWA3nMtsoLclwDtVS_rLk6O) - Logic First Tamil
+* [JavaScript](https://www.youtube.com/playlist?list=PLYM2_EX_xVvWA3nMtsoLclwDtVS_rLk6O) - Logic First Tamil
 
 
 ### Machine Learning

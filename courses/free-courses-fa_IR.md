@@ -141,9 +141,15 @@
 
 ### Django
 
+* [آموزش مقدماتی Django Rest Framework (DRF)](https://www.youtube.com/playlist?list=PL7MXODW7Gj1eGnm4dXnydgqSDb3pLpg9v) - TorhamDev : Tech With Tori
 * [دوره اموزش جنگو مقدماتی تا پیشرفته](https://www.youtube.com/playlist?list=PLAt10Vana3YeAwS_LyLCeu7chml8eP8bh) - Mehran Tarif (Silicium)
 * [سوکت نویسی با کتابخانه جنگو چنلز](https://www.youtube.com/playlist?list=PLRU2zoAmuzJ2GD68st5SinXXv_Gv1lWRm) - Shahriar Shariati
 * [Django2 All In One Course - دوره کامل جنگو و مهندسی بک اند](https://www.youtube.com/playlist?list=PLGlWjLcdLyGyqEqh9rBQ-9toPsFeHWrMr) - Boby Cloud
+
+
+### FastAPI
+
+* [آموزش FastAPI](https://www.youtube.com/playlist?list=PL7MXODW7Gj1c1jviyYkRHKNeU_9BK0Ud7) - TorhamDev : Tech With Tori
 
 
 ### Flask

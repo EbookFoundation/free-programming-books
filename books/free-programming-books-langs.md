@@ -10,7 +10,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [ABAP](#abap)
 * [Ada](#ada)
 * [Agda](#agda)
-* [AL](#agda)
+* [AL](#al)
 * [Alef](#alef)
 * [Android](#android)
 * [APL](#apl)

@@ -400,18 +400,6 @@
 
 ### Computer Science
 
-*   [Berkeley's CS 61A: Taught using SICP](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?tab=collection)
-*   [Computer Networking - Network Engineering](https://www.youtube.com/watch?v=qiQR5rTSshw) - Brian Ferrill (FreeCodeCamp)
-*   [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/) - David J. Malan (Harvard OpenCourseWare and edX)
-*   [Discrete Mathematics for Computer Science Specialization](https://www.youtube.com/playlist?list=PLtS8Ubq2bIlXO4qEM5BOsBy6xWQNVFu8l) - My Lesson
-*   [Introduction to Augmented Reality and ARCore](https://www.coursera.org/learn/ar) - Daydream
-*   [LouvainX Paradigms of Computer Programming – Abstraction and Concurrency](https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-2x-1#!)
-*   [LouvainX Paradigms of Computer Programming – Fundamentals](https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-1x-1)
-*   [MIT 6.824 Distributed Systems (Spring 2020)](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
-*   [MIT's Computer Language Engineering](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-sma-5502-fall-2005/lecture-notes/)
-*   [MIT's Introduction to Computer Science and Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) - John Guttag (MIT OpenCourseWare)
-*   [MIT's Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) - Ana Bell, Eric Grimson, John Guttag (MIT OpenCourseWare)
-*   [MIT's Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
 * [Berkeley's CS  61A: Taught using SICP](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?tab=collection)
 * [Computer Networking - Network Engineering](https://www.youtube.com/watch?v=qiQR5rTSshw) - Brian Ferrill (FreeCodeCamp)
 * [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/) - David J. Malan (Harvard OpenCourseWare and edX)

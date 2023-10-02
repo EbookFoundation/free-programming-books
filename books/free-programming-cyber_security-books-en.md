@@ -7,13 +7,6 @@
 
 * [Level-1](#level-1)
 * [Level-2](#level-2)
-* [Java](#java)
-* [Linux](#linux)
-* [Networking](#networking)
-* [Php](#php)
-* [Python](#python)
-
-------------------------------------------------------------------
 
 ### Level-1
 
@@ -43,7 +36,6 @@
 
 [HHS_en01_Being_a_Hacker.pdf](https://github.com/iam-joshi/free-programming-books/files/12777792/HHS_en01_Being_a_Hacker.pdf)
 
-------------------------------------------------------------------
 
 ### Level-2
 

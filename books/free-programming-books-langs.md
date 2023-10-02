@@ -1951,7 +1951,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Data Structures and Algorithms in Python](https://web.archive.org/web/20161016153130/http://www.brpreiss.com/books/opus7/html/book.html) - B. R. Preiss (PDF) *(:card_file_box: archived)*
 * [Dive into Python 3](https://diveintopython3.problemsolving.io) - Mark Pilgrim (3.0)
     * [Dive into Python](https://linux.die.net/diveintopython/html/toc/index.html) - Mark Pilgrim (2.3)
-* [Doing math with python](https://doingmathwithpython.github.io) - Amit Saha
+* [Doing math with python](https://drive.google.com/file/d/1RGLwtzXI59Jamcs3ck0MfATg7HYxINQd/view?usp=sharing) - Amit Saha (PDF)
 * [Essential Python](https://www.programming-books.io/essential/python/) - Krzysztof Kowalczyk, StackOverflow Contributors
 * [From Python to NumPy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/) - Nicolas P. Rougier (3.6)
 * [Full Stack Python](https://www.fullstackpython.com) - Matt Makai

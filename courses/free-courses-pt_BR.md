@@ -203,8 +203,8 @@
 
 ### JavaScript
 
-* [Curso Javascript Completo 2023 [Iniciantes] + 14 Mini-Projetos](https://www.youtube.com/watch?v=i6Oi-YtXnAU) - Jhonatan de Souza
 * [Curso de Javascript Completo](https://www.youtube.com/playlist?list=PL2Fdisxwzt_d590u3uad46W-kHA0PTjjw) - Programação Web
+* [Curso Javascript Completo 2023 [Iniciantes] + 14 Mini-Projetos](https://www.youtube.com/watch?v=i6Oi-YtXnAU) - Jhonatan de Souza
 * [Curso Grátis de JavaScript e ECMAScript para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) - Gustavo Guanabara (Curso em Vídeo)
 * [Fast & Furious](https://www.youtube.com/playlist?list=PLy5T05I_eQYOoUz2TtAqq35RLCc-xBZCe) - Codecasts
 * [Kubernetes para Devs Javascript](https://www.youtube.com/watch?v=Co1xmcQS6Bw&list=PLqFwRPueWb5ccEFVx5vOvrKlYT_uQ3aQw) - Erick Wendel e Lucas Santos
@@ -219,6 +219,7 @@
 * [Curso Intensivo de Next.js & React](https://www.cod3r.com.br/courses/curso-intensivo-next-react) - Leonardo Leitão (Cod3r)
 * [Curso Intensivo de React e Next 13](https://www.youtube.com/playlist?list=PLdPPE0hUkt0q_XT8zDe313e27wFQ-k9fe) - Cod3r Cursos
 * [Next js 13.4 Masterclass Prático c/ Stripe e Shadcn-ui](https://www.youtube.com/watch?v=b0AinejyevM&list=PLR8OzKI52ppWoTRvAmB_FQPPlHS0otV7V&index=19) - DeveloperDeck101
+
 
 #### Vue.js
 

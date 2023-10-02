@@ -9,6 +9,7 @@
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Machine Learning](#machine-learning)
+* [Node JS](#node-js)
 * [PHP](#php)
 * [Python](#python)
 * [R](#r)
@@ -73,6 +74,13 @@ CSE Tamila by Eezytutorials
 * [Introduction to Machine Learning(Tamil)](https://www.youtube.com/playlist?list=PLyqSpQzTE6M-9thAeyB2mRFYvvW8AWxXX) - IIT Madras NPTEL
 * [Machine Learning in Tamil](https://www.youtube.com/playlist?list=PLJtSFa-YIedYu2QfQaHJJBLT096RxtMHD) - Majaa Matrix
 * [Machine Learning in Tamil](https://youtube.com/playlist?list=PL5itdT07Pm8wxRaPWljPntnBmnOs4ExDM) - Nithya Duraisamy
+
+
+### Node JS
+
+* [Node JS in Tamil](https://youtube.com/playlist?list=PLDVMunJ3DBrNAZtl0cJiNytPE2-8MAmoc&si=z23m0cL3jA7J50f9) - Each One Teach One
+* [Node JS Tamil Tutorial](https://youtube.com/playlist?list=PLfD4W8QfMd5CfPbiP2os4lpK2470C8Bva&si=3_z8uf-13KyOoEj-) - MaanavaN Learn Code
+* [Node JS Tutorial in Tamil](https://youtube.com/playlist?list=PLyYcNnaAVG5Jewkwv4iH5WR-IDNlUON29&si=Y1th95p1GubFjnAl) - selva tutorials
 
 
 ### PHP

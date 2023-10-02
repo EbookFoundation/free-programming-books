@@ -2575,6 +2575,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Unix for Poets](http://web.stanford.edu/class/cs124/kwc-unix-for-poets.pdf) - Kenneth Ward Church (PDF)
 * [Unix Toolbox](https://web.archive.org/web/20210912091852/https://cb.vu/unixtoolbox.xhtml) - Colin Barschel *(:card_file_box: archived)*
 * [UNIX Tutorial for Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix/)
+* [The Design Of Unix Operating System](https://abhyass.files.wordpress.com/2016/09/thedesignofunixoperatingsystem_m_bach.pdf)
 
 
 ### V

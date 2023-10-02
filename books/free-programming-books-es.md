@@ -31,6 +31,7 @@
 * [Matemáticas](#matem%C3%A1ticas)
 * [.NET (C# Visual Studio)](#net-c--visual-studio)
 * [NoSQL](#nosql)
+    * [DynamoDB](#dynamodb)
     * [MongoDB](#mongodb)
     * [Redis](#redis)
 * [Perl](#perl)
@@ -280,6 +281,10 @@
 
 
 ### NoSQL
+
+#### DynamoDB
+
+* [Aprendizaje amazon-dynamodb](https://riptutorial.com/Download/amazon-dynamodb-es.pdf) - StackOverflow Contributors (PDF)
 
 #### MongoDB
 

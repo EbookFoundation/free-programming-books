@@ -354,6 +354,7 @@
 * [Tutorial Laravel 7.x Dasar](https://www.youtube.com/playlist?list=PLCZlgfAG0GXBucXejxeeqCe_NWZS-67q_) - Sekolah Koding
 * [Tutorial Laravel Bahasa Indonesia](https://id-laravel.com) - ID Laravel
 * [Tutorial Laravel Livewire 3](https://santrikoding.com/tutorial-set/tutorial-laravel-livewire-3) - Santrikoding
+* [Tutorial Restful API Laravel 10](https://santrikoding.com/tutorial-set/tutorial-restful-api-laravel-10) - Santrikoding
 
 ### Python
 

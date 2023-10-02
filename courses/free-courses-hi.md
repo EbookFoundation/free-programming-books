@@ -147,6 +147,7 @@
 
 ### <a id="cpp"></a>C++
 
+* [C++ and DSA Foundation Course](https://youtube.com/playlist?list=PLxgZQoSe9cg0df_GxVjz3DD_Gck5tMXAd&si=frggLn7z_DWtYv6I) - College Wallah
 * [C++ Full Course \| C++ Tutorial \| Data Structures & Algorithms](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ) - Apna College
 * [C++ Full Course \|Complete C++ Placement DSA Course\| Data Structures & Algorithms](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA) - CodeHelp - by Babbar
 * [C++ Programming in Hindi](https://www.mygreatlearning.com/academy/learn-for-free/courses/c-programming-in-hindi1) - Bharani Akella (My Great Learning)
@@ -304,6 +305,7 @@
 * [Core Java Programming (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhij8Oplrvjt_RlDliZQgdxoV) - Rajesh Kumar, Geeky Shows
 * [Java + DS + Algorithms](https://www.youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s) - Apni Kaksha (Anuj)
 * [Java + DSA](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop) - Apna College
+* [Java and DSA Foundation Course](https://youtube.com/playlist?list=PLxgZQoSe9cg00xyG5gzb5BMkOClkch7Gr&si=ctLRknqelKTSI5Lh) - College Wallah
 * [Java Foundation Course \| Hindi](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFj7YSPl2ulcpwy-mwj1SSk) - Pepcoding
 * [Java Live Community Class](https://www.youtube.com/playlist?list=PLsyeobzWxl7pyuXTES7ZqncOI_X0mgKgK) - Navin Reddy (Telusko)
 * [Java Programming Tutorial (HINDI/URDU)](https://www.youtube.com/playlist?list=PLiOa6ike4WAHljIOitb3vR0nXQgneUedR) - Vikas Pandey, Easytuts4you

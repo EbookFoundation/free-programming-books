@@ -182,6 +182,57 @@
 -   [Stanford University Algorithms: Design and Analysis, Part 2](https://online.stanford.edu/courses/soe-ycs0001-algorithms-design-and-analysis-part-2)
 -   [Trees by Striver \| C++ \| Java \| Placements \| Binary Trees and Traversals \| Problems](https://www.youtube.com/playlist?list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk) - take U forward
 
+* [Advanced Data Structures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/) - Erik Demaine
+* [Advanced Data Structures](https://www.youtube.com/playlist?list=PLv9sD0fPjvSHqIOLTIvHJWjkdH0IdzmXT) - Uzair Javed Akhtar
+* [Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) - Abdul Bari
+* [Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0) - Pasan Premaratne, Jay McGavren (freeCodeCamp)
+* [Analysis of Algorithms (CSE 373)](https://www3.cs.stonybrook.edu/~skiena/373/videos) - Steven Skiena
+* [Berkeley University CS 61B: Data Structures](http://datastructur.es/sp16/)
+* [Berkeley's CS 61B: Data Structures](https://archive.org/details/ucberkeley_webcast_QMV45tHCYNI)
+* [Binary Trees - by LoveBabbar](https://youtube.com/playlist?list=PLDzeHZWIZsTo87y1ytEAqp7wYlEP3nner) - CodeHelp - by Babbar
+* [C Programming & Data Structures](https://youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM) - Neso Academy
+* [Codechef Solutions](https://www.youtube.com/playlist?list=PLRKOqqzwh75huOam-77G1v9uHjO9WWBRX) - Endeavour Monk
+* [Complete C++ Placement DSA Course](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA) - CodeHelp - by Babbar
+* [Computer Sc - Programming and Data Structure](https://www.youtube.com/playlist?list=PLD9781AC5EBC9FA16) - P.P. Chakraborty
+* [Data Structure and Algorithm](https://www.youtube.com/playlist?list=PLLvKknWU7N4y_eGpQdg1Y-hORO7cxtoLU) - Lalit Vashistha
+* [Data Structures](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) - mycodeschool
+* [Data Structures](https://stepik.org/course/579/syllabus) - Niema Moshiri, Liz Izhikevich (Stepik)
+* [Data Structures](https://youtube.com/playlist?list=PLBlnK6fEyqRj9lld8sWIUNwlKfdUoPd1Y) - Neso Academy
+* [Data Structures \| Python](https://www.youtube.com/playlist?list=PLzgPDYo_3xukPJdH6hVQ6Iic7KiJuoA-l) - Amulya's Academy
+* [Data Structures and Algorithms](https://youtube.com/playlist?list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H) - CS Dojo
+* [Data Structures and Algorithms](https://www.youtube.com/playlist?list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU) - Jenny's lectures CS/IT NET&JRF
+* [Data Structures and Algorithms](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/?no-filter=true) - Tech Dev Guide by Google
+* [Data Structures And Algorithms DSA In JAVA Full Course](https://www.youtube.com/playlist?list=PLrk5tgtnMN6StFV60jlQ9W-RXyHppbp8G) - Coding Ninjas
+* [Data Structures and Algorithms for Beginners](https://www.youtube.com/watch?v=BBpAmxU_NQo) - Mosh Hamedani (Programming with Mosh)
+* [Data Structures and Algorithms Full Course](https://www.youtube.com/watch?v=LcKqYoX8uH4) - Simplilearn (YouTube, Video length 7:13:56)
+* [Data Structures and Algorithms in Java Full Course](https://youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d) - Dinesh Varyani (YouTube playlist)
+* [Data Structures and Algorithms in Python Full Course for Beginners](https://www.youtube.com/watch?v=pkYVOmU3MgA) - Aakash N S (freeCodeCamp)
+* [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms) - UC San Diego, HSE University
+* [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM) - William Fiset (freeCodeCamp)
+* [Data Structures in C++ - For Beginners](https://www.udemy.com/course/data-structures-for-beginners-c-plusplus) - Pedro Mercado (Udemy)
+* [Dynamic Programming](https://www.youtube.com/playlist?list=PLMCXHnjXnTnto1pZVvH7rbZ9W5neZ7Yhc) - Gaurav Sen
+* [Dynamic Programming](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsAsbafOroUBnNV8fhZa7P4u) - WilliamFiset
+* [Graph Series by Striver \| C++ \| Java \| Interview Centric \| Algorithms \| Problems](https://www.youtube.com/playlist?list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn) - take U forward
+* [Graph Theory playlist](https://youtube.com/playlist?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P) - WilliamFiset
+* [IIT Bombay Foundation of Data Structures (CS213.1x)](https://courses.edx.org/courses/course-v1:IITBombayX+CS213.1x+1T2017/course/)
+* [Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) - Brynn Claypoole, Horatio Thomas (Udacity)
+* [JavaScript Algorithms and Data Structures](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP) - Codevolution
+* [Learn DS and Algorithms](https://www.programiz.com/dsa) - Programiz
+* [MIT's Design and Analysis of Algorithms (Spring 2012)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2012) - Dana Moshkovitz, Bruce Tidor
+* [MIT's Design and Analysis of Algorithms (Spring 2015)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015) - Erik Demaine, Srini Devadas, Nancy Lynch
+* [MIT's Introduction to Algorithms (Fall 2011)](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
+* [MIT's Introduction to Algorithms (SMA 5503) (Fall 2005)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005) - Charles Leiserson, Erik Demaine
+* [MIT's Introduction to Algorithms (Spring 2020)](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) - Erik Demaine, Jason Ku, Justin Solomon
+* [Online Java + DSA + Interview preparation course](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ) - Kunal Kushwaha
+* [Princeton University Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1)
+* [Princeton University Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
+* [Red Black Tree in Data Structures](https://youtube.com/playlist?list=PLPzfPcir5uPT8KFST1Ba3vN6k9yKE9ZK4) - NG Tutorials
+* [Sorting Algorithms](https://www.youtube.com/playlist?list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U) - mycodeschool
+* [Stanford University Algorithms: Design and Analysis, Part 1](https://online.stanford.edu/courses/soe-ycsalgorithms1-algorithms-design-and-analysis-part-1)
+* [Stanford University Algorithms: Design and Analysis, Part 2](https://online.stanford.edu/courses/soe-ycs0001-algorithms-design-and-analysis-part-2)
+* [Trees by Striver \| C++ \| Java \| Placements \| Binary Trees and Traversals \| Problems](https://www.youtube.com/playlist?list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk) - take U forward
+
+
 ### Android
 
 -   [Advanced Android App Development](https://www.udacity.com/course/advanced-android-app-development--ud855) (Udacity)
@@ -302,6 +353,7 @@
 
 ### <a id="csharp"></a>C\#
 
+
 -   [Building a microservice architecture with ASP.NET Core - Gill Cleeren - NDC London 2022](https://www.youtube.com/watch?v=SR53SKIUYPA) - Gill Cleeren
 -   [C# 101](https://channel9.msdn.com/Series/CSharp-101) - Scott Hanselman, Kendra Havens (Microsoft)
 -   [C# Programming All-in-One Tutorial Series (6 HOURS!)](https://www.youtube.com/watch?v=qOruiBrXlAw) - Caleb Curry
@@ -312,6 +364,18 @@
 -   [Fundamentals of Programming: Understanding C#](https://www.udemy.com/course/understandingc/) - Jesse Dietrichson (Udemy)
 -   [Learn C#](https://www.sololearn.com/learning/1080) - _registration required_
 -   [Learn how to program: C# and .NET](https://www.learnhowtoprogram.com/c-and-net) - Epicodus Inc.
+* [ASP.NET Core 2.2 & 3 REST API Tutorial](https://youtube.com/playlist?list=PLUOequmGnXxOgmSDWU7Tl6iQTsOtyjtwU&si=3XHU6BnqwxePAt54) - Nick Chapsas
+* [Building a microservice architecture with ASP.NET Core - Gill Cleeren - NDC London 2022](https://www.youtube.com/watch?v=SR53SKIUYPA) - Gill Cleeren
+* [C# 101](https://channel9.msdn.com/Series/CSharp-101) - Scott Hanselman, Kendra Havens (Microsoft)
+* [C# Programming All-in-One Tutorial Series (6 HOURS!)](https://www.youtube.com/watch?v=qOruiBrXlAw) - Caleb Curry
+* [C# Programming Language (Console Applications)](https://youtube.com/playlist?list=PLX07l0qxoHFLZftsVKyj3k9kfMca2uaPR) - Learning Never Ends
+* [C# Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=GhQdlIFylQ8) - Mike Dane (freeCodeCamp)
+* [C# Tutorial For Beginners - Learn C# Basics in 1 Hour](https://www.youtube.com/watch?v=gfkTfcpWqAY) - Moshfegh Hamedani (Programming with Mosh)
+* [Domain-Driven Refactoring - Jimmy Bogard - NDC London 2022](https://www.youtube.com/watch?v=f64tZ90Dntg) - Jimmy Bogard
+* [Fundamentals of Programming: Understanding C#](https://www.udemy.com/course/understandingc/) - Jesse Dietrichson (Udemy)
+* [Learn C#](https://www.sololearn.com/learning/1080) - *registration required*
+* [Learn how to program: C# and .NET](https://www.learnhowtoprogram.com/c-and-net) - Epicodus Inc.
+
 
 ### <a id="cpp"></a>C++
 
@@ -377,6 +441,7 @@
 
 ### Computer Science
 
+
 -   [Berkeley's CS 61A: Taught using SICP](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?tab=collection)
 -   [Computer Networking - Network Engineering](https://www.youtube.com/watch?v=qiQR5rTSshw) - Brian Ferrill (FreeCodeCamp)
 -   [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/) - David J. Malan (Harvard OpenCourseWare and edX)
@@ -389,6 +454,21 @@
 -   [MIT's Introduction to Computer Science and Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) - John Guttag (MIT OpenCourseWare)
 -   [MIT's Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) - Ana Bell, Eric Grimson, John Guttag (MIT OpenCourseWare)
 -   [MIT's Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
+* [Berkeley's CS  61A: Taught using SICP](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?tab=collection)
+* [Computer Networking - Network Engineering](https://www.youtube.com/watch?v=qiQR5rTSshw) - Brian Ferrill (FreeCodeCamp)
+* [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/) - David J. Malan (Harvard OpenCourseWare and edX)
+* [Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212) - Peter Norvig (Udacity)
+* [Discrete Mathematics for Computer Science Specialization](https://www.youtube.com/playlist?list=PLtS8Ubq2bIlXO4qEM5BOsBy6xWQNVFu8l) - My Lesson
+* [Introduction to Augmented Reality and ARCore](https://www.coursera.org/learn/ar) - Daydream
+* [LouvainX Paradigms of Computer Programming – Abstraction and Concurrency](https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-2x-1#!)
+* [LouvainX Paradigms of Computer Programming – Fundamentals](https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-1x-1)
+* [MIT 6.824 Distributed Systems (Spring 2020)](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
+* [MIT's Computer Language Engineering](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-sma-5502-fall-2005/lecture-notes/)
+* [MIT's Introduction to Computer Science and Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) - John Guttag (MIT OpenCourseWare)
+* [MIT's Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) - Ana Bell, Eric Grimson, John Guttag (MIT OpenCourseWare)
+* [MIT's Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
+
+
 
 ### Cryptography
 
@@ -729,6 +809,7 @@
 
 ### Java
 
+
 -   [Advanced Software Construction in Java](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.2x+1T2017/about) - MIT Open Learning Library
 -   [Building Microservices With Spring Boot – Free Course With Practical Project](https://javatodev.com/building-microservices-with-spring-boot-free-course-with-practical-project/) Chinthaka Dinadasa (javatodev)
 -   [Central Connecticut State University, Introduction to CS Using Java](http://chortle.ccsu.edu/CS151/cs151java.html)
@@ -767,6 +848,47 @@
 -   [Software Construction in Java](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.1x+3T2016/about) - MIT Open Learning Library
 -   [Spring 5 Core - An Ultimate Guide](https://www.udemy.com/learn-spring-5-core-from-scratch/) - Somnath Musib (Udemy)
 -   [What is Java?](https://sagecode.net/java/index.html) - Elucian Moise (Sage-Code)
+* [Advanced Software Construction in Java](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.2x+1T2017/about) - MIT Open Learning Library
+* [Building Microservices With Spring Boot – Free Course With Practical Project](https://javatodev.com/building-microservices-with-spring-boot-free-course-with-practical-project/) Chinthaka Dinadasa (javatodev)
+* [Central Connecticut State University, Introduction to CS Using Java](http://chortle.ccsu.edu/CS151/cs151java.html)
+* [CS106A - Programming Methodology](https://see.stanford.edu/Course/CS106A) (Stanford)
+* [Fundamentals of Java EE Development](https://www.edx.org/course/fundamentals-of-java-ee-development) -  Will Dinyes (edX)
+* [Introduction to Java](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/)
+* [Introduction to Java + DSA](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ) - Kunal Kushwaha
+* [Java Beginner](https://youtube.com/playlist?list=PLkeaG1zpPTHiMjczpmZ6ALd46VjjiQJ_8) - Coding with John
+* [Java Design Patterns and Architecture](https://www.udemy.com/course/java-design-patterns-tutorial) - John Purcell (Udemy)
+* [Java for Complete Beginners](http://courses.caveofprogramming.com/courses/java-for-complete-beginners)
+* [Java for Mobile Devices - Introducing Codename One](https://codenameone.teachable.com/p/java-for-mobile-devices-introducing-codename-one)
+* [Java Online Training \| Edureka](https://www.youtube.com/watch?v=hBh_CC5y8-s) (Edureka)
+* [Java Persistence API (JPA) Complete Tutorial](https://www.youtube.com/playlist?list=PL6oD2syjfW7COL__RNrWl4S97vNcqh3mO) - Giuseppe Scaramuzzino
+* [Java Programming](https://testautomationu.applitools.com/java-programming-course/) - Angie Jones (Applitools)
+* [Java Programming](https://java-programming.mooc.fi) - University of Helsinki
+* [Java Programming](https://youtube.com/playlist?list=PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5) - Neso Academy
+* [Java Programming](https://www.youtube.com/playlist?list=PLfu_Bpi_zcDPNy6qznvbkGZi7eP_0EL77) - Kody Simpson
+* [Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282) - Cezanne Camacho, Asser Samak (Udacity) (account *required*)
+* [Java Programming Basics](https://www.udemy.com/course/java-programming-basics/) - Charles Mulic (Udemy)
+* [Java Programming: Solving Problems with Software](https://www.coursera.org/learn/java-programming) (Coursera)
+* [Java Server Tutorials - Happy Coding](https://happycoding.io/tutorials/java-server/) - Kevin Workman
+* [Java tutorial for beginners](https://youtube.com/playlist?list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1) - Bro Code
+* [Java Tutorial for Beginners](https://www.youtube.com/watch?v=eIrMbAQSU34) - Programming with Mosh
+* [Java Tutorial For Beginners](https://youtube.com/playlist?list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK) - Telusko
+* [Java Tutorial for Complete Beginners](https://www.udemy.com/course/java-tutorial/) - John Purcell (Udemy)
+* [JSP (Java server pages) and servlet basics](https://www.udemy.com/course/jsp-servlet-free/) - StudyEasy Organisation, Chaand Sheikh (Udemy)
+* [Learn how to program: Java](https://www.learnhowtoprogram.com/java-june-2017) - Epicodus Inc.
+* [Learn Java](https://www.sololearn.com/learning/1068) - Sololearn *(email address required)*
+* [Learn Java Programming](https://www.programiz.com/java-programming) - Programiz
+* [Most Asked Core Java Frequently Asked Questions](https://www.youtube.com/playlist?list=PLyHJZXNdCXscoyL5XEZoHHZ86_6h3GWE1) - Code Decode
+* [Object Oriented Programming (OOP) In Java Course](https://www.youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk) - Kunal Kushwaha
+* [Object-Oriented programming with Java, part I](https://moocfi.github.io/courses/2013/programming-part-1/)
+* [Object-Oriented programming with Java, part II](https://moocfi.github.io/courses/2013/programming-part-2/)
+* [Princeton Algorithms, Part 1](https://www.coursera.org/course/algs4partI)
+* [Problem Solving With Java](https://www.udacity.com/course/intro-to-java-programming--cs046) (Udacity)
+* [Programming in Java](https://nptel.ac.in/courses/106/105/106105191/) - Prof. Debasis Samanta (NPTEL)
+* [Software Construction in Java](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.1x+3T2016/about) - MIT Open Learning Library
+* [Spring 5 Core - An Ultimate Guide](https://www.udemy.com/learn-spring-5-core-from-scratch/) - Somnath Musib (Udemy)
+* [What is Java?](https://sagecode.net/java/index.html) - Elucian Moise (Sage-Code)
+
+
 
 ### JavaScript
 

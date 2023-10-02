@@ -1116,6 +1116,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### JavaScript
 
+
 -   [Airbnb JavaScript Style Guide](https://airbnb.io/javascript/) - Airbnb (HTML)
 -   [Basic JavaScript for the impatient programmer](http://www.2ality.com/2013/06/basic-javascript.html) - Dr. Axel Rauschmayer (HTML)
 -   [Book of Modern Frontend Tooling](https://github.com/tooling/book-of-modern-frontend-tooling) - Various (HTML)
@@ -1181,6 +1182,73 @@ Books on general-purpose programming that don't focus on a specific language are
 -   [Understanding JavaScript OOP](http://robotlolita.me/2011/10/09/understanding-javascript-oop.html) - Quil (HTML)
 -   [Understanding the DOM — Document Object Model](https://www.digitalocean.com/community/books/understanding-the-dom-document-object-model-ebook) - Tania Rascia (PDF, EPUB)
 -   [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Kyle Simpson (HTML, PDF, EPUB, MOBI)
+* [Airbnb JavaScript Style Guide](https://airbnb.io/javascript/) - Airbnb (HTML)
+* [Basic JavaScript for the impatient programmer](http://www.2ality.com/2013/06/basic-javascript.html) - Dr. Axel Rauschmayer (HTML)
+* [Book of Modern Frontend Tooling](https://github.com/tooling/book-of-modern-frontend-tooling) - Various (HTML)
+* [Building Front-End Web Apps with Plain JavaScript](https://web-engineering.info/JsFrontendApp-Book) - Gerd Wagner (HTML,PDF)
+* [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) - Ryan McDermott (HTML)
+* [Crockford's JavaScript](http://www.crockford.com/javascript/) - Douglas Crockford (HTML)
+* [Deep JavaScript: Theory and techniques](https://exploringjs.com/deep-js) - Dr. Axel Rauschmayer (HTML)
+* [Designing Scalable JavaScript Applications](https://www.manning.com/books/designing-scalable-javascript-applications) - Emmit Scott (PDF+livebook)
+* [Dev Docs](https://devdocs.io/javascript/) - Various (HTML)
+* [DOM Enlightenment](https://frontendmasters.com/guides/javascript-enlightenment/) - Cody Linley
+* [Eloquent JavaScript 3rd edition](http://eloquentjavascript.net) - Marijn Haverbeke (HTML, PDF, EPUB, MOBI)
+* [Essential Javascript](https://www.programming-books.io/essential/javascript/) - Krzysztof Kowalczyk, StackOverflow Contributors
+* [Exploring ES6](http://exploringjs.com/es6/) - Dr. Axel Rauschmayer (HTML)
+* [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS) - Kyle Simpson (HTML)
+* [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml) - Aaron Whyte, Bob Jervis, Dan Pupius, Erik Arvidsson, Fritz Schneider, Robby Walker (HTML)
+* [Human JavaScript](http://read.humanjavascript.com/ch01-introduction.html) - Henrik Joreteg (HTML)
+* [JavaScript (ES2015+) Enlightenment](https://frontendmasters.com/guides/javascript-enlightenment/) - Cody Lindley (HTML)
+* [JavaScript Allongé](https://leanpub.com/javascript-allonge/read) - Reginald Braithwaite (HTML)
+* [JavaScript Bible](http://media.wiley.com/product_ancillary/28/07645334/DOWNLOAD/all.pdf) - Danny Goodman (PDF)
+* [JavaScript Challenges Book](https://tcorral.github.io/javascript-challenges-book/) - Tomás Corral Casas (HTML)
+* [JavaScript ES6 and beyond](https://github.com/AlbertoMontalesi/JavaScript-es6-and-beyond-ebook) - Alberto Montalesi (PDF, epub)
+* [JavaScript For Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - Microsoft
+* [JavaScript For Cats](http://jsforcats.com) - Maxwell Ogden (HTML)
+* [JavaScript for Impatient Programmers (ES2020 edition)](https://exploringjs.com/impatient-js/toc.html) - Dr. Axel Rauschmayer (HTML)
+* [JavaScript for Impatient Programmers (ES2022 edition)](https://exploringjs.com/impatient-js/) - Axel Rauschmayer (HTML)
+* [JavaScript from ES5 to ESNext](https://flaviocopes.com/page/es5-to-esnext/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
+* [JavaScript Fundamentals, Plus a Dash Of JQuery - for dinner ladies](http://nicholasjohnson.com/javascript-book/) - Nicholas Johnson (HTML)
+* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) - Tim Ruffles (HTML)
+* [JavaScript Handbook](https://thevalleyofcode.com/js/) - Flavio Copes (HTML, PDF)
+* [JavaScript Interview #35](https://gumroad.com/l/javascript-interview-35) - Coderslang Master (PDF, email address *requested*, not required)
+* [JavaScript Notes for Professionals](https://goalkicker.com/JavaScriptBook/) - Compiled from StackOverflow documentation (PDF)
+* [JavaScript Patterns Collection](http://shichuan.github.io/javascript-patterns/) - Shi Chuan (HTML)
+* [JavaScript Spessore](https://web.archive.org/web/20160325064800/https://leanpub.com/javascript-spessore/read) - Reginald Braithwaite (HTML) *(:card_file_box: archived)*
+* [JavaScript Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/javascript) - Cody Lindley (PDF, Kindle; email address *requested*, not required)
+* [JavaScript the Right Way](https://github.com/braziljs/js-the-right-way) - William Oliveira, Allan Esquina (HTML)
+* [Javascript Tutorial](https://www.tutorialspoint.com/javascript/index.htm)
+* [JavaScript Wikibook](https://en.wikibooks.org/wiki/JavaScript) - Wikibooks (HTML, PDF)
+* [JavaScript with Classes](https://diogoeichert.github.io/JSwC.epub) - Diogo Eichert (EPUB)
+* [jQuery Fundamentals](http://jqfundamentals.com) - Bocoup (HTML)
+* [JS Robots](https://web.archive.org/web/20201029045339/http://markdaggett.com/images/ExpertJavaScript-ch6.pdf) - Mark Daggett (PDF) *(:card_file_box: archived)*
+* [Leaflet Tips and Tricks: Interactive Maps Made Easy](https://leanpub.com/leaflet-tips-and-tricks/read) - Malcolm Maclean (HTML)
+* [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) - Addy Osmani (HTML)
+* [Let's Learn ES6](https://bubblin.io/cover/let-s-learn-es6-by-ryan-christiani#frontmatter) - Ryan Christiani (Superbook format)
+* [Managing Space and Time with JavaScript - Book 1: The Basics](http://www.noelrappin.com) - Noel Rappin (dead link)
+* [Modern JavaScript](https://www.modernjs.com) - Daniel Rubio
+* [Mozilla Developer Network's JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) - Mozilla Developer Network contributors (HTML)
+* [MythBusters JS](https://mythbusters.js.org) - Kiko Beats (HTML)
+* [Neural Networks with JavaScript Succinctly](https://www.syncfusion.com/ebooks/neural-networks-with-javascript-succinctly) - James McCaffrey (PDF, EPUB, MOBI)
+* [Oh My JS](https://web.archive.org/web/20150317231950/https://leanpub.com/ohmyjs/read) - Azat Mardanov (HTML) *(:card_file_box: archived)*
+* [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/) - Addy Osmani (HTML)
+* [Practical Modern JavaScript](https://github.com/mjavascript/practical-modern-javascript) - Nicolas Bevacqua (HTML)
+* [Professor Frisby’s Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/) - Brian Lonsdorf (HTML)
+* [Robust Client-Side JavaScript](https://molily.de/robust-javascript/) - Matthias Schäfer (HTML, EPUB)
+* [Single page apps in depth](http://singlepageappbook.com) - Mixu (HTML)
+* [Speaking JavaScript](http://speakingjs.com/es5/) - Dr. Axel Rauschmayer
+* [Standard ECMA-262 ECMAScript 2016 Language Specification](https://www.ecma-international.org/publications/standards/Ecma-262.htm) - Ecma International (HTML,PDF)
+* [The Code Challenge Book](https://s3.amazonaws.com/coderbytestaticimages/CoderbyteEbook.pdf) - Daniel Borowski (PDF)
+* [The JavaScript Beginner's Handbook](https://flaviocopes.com/page/javascript-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
+* [The JavaScript Way](https://github.com/bpesquet/thejsway) - Baptiste Pesquet
+* [The Modern JavaScript Tutorial](https://javascript.info) - Ilya Kantor (HTML)
+* [The Problem with Native JavaScript APIs](https://www.oreilly.com/programming/free/native-javascript-apis.csp) - Nicholas C. Zakas (PDF, email address *requested*)
+* [Thinking in JavaScript](https://www.amazon.com/Thinking-JavaScript-Aravind-Shenoy-ebook/dp/B00JUI6LUQ) - Aravind Shenoy (Kindle)
+* [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read) - Nicholas C. Zakas (HTML)
+* [Understanding JavaScript OOP](http://robotlolita.me/2011/10/09/understanding-javascript-oop.html) - Quil (HTML)
+* [Understanding the DOM — Document Object Model](https://www.digitalocean.com/community/books/understanding-the-dom-document-object-model-ebook) - Tania Rascia (PDF, EPUB)
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Kyle Simpson (HTML, PDF, EPUB, MOBI
+
 
 
 #### AngularJS
@@ -1924,6 +1992,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Python
 
+
 -   [100 Page Python Intro](https://learnbyexample.github.io/100_page_python_intro/) - Sundeep Agarwal
 -   [20 Python Libraries You Aren't Using (But Should)](https://www.oreilly.com/learning/20-python-libraries-you-arent-using-but-should) - Caleb Hattingh
 -   [A Beginner's Python Tutorial](https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial) - Wikibooks
@@ -2054,6 +2123,139 @@ Books on general-purpose programming that don't focus on a specific language are
 -   [Tiny Python 3.6 Notebook](https://github.com/mattharrison/Tiny-Python-3.6-Notebook) - Matt Harrison (3.6)
 -   [Tiny Python Projects](http://tinypythonprojects.com/Tiny_Python_Projects.pdf) - Ken Youens-Clark(PDF)
 -   [Web2py: Complete Reference Manual, 6th Edition (pre-release)](http://web2py.com/book) (2.5 - 2.x)
+* [100 Page Python Intro](https://learnbyexample.github.io/100_page_python_intro/) - Sundeep Agarwal
+* [20 Python Libraries You Aren't Using (But Should)](https://www.oreilly.com/learning/20-python-libraries-you-arent-using-but-should) - Caleb Hattingh
+* [A Beginner's Python Tutorial](https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial) - Wikibooks
+* [A Byte of Python](https://python.swaroopch.com) (3.x) (HTML, PDF, EPUB, Mobi)
+* [A Guide to Python's Magic Methods](https://github.com/RafeKettler/magicmethods) - Rafe Kettler
+* [A Practical Introduction to Python Programming](https://www.brianheinold.net/python/) - Brian Heinold (HTML, PDF, Exercises sources)
+* [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) - Jake VanderPlas
+* [An Introduction to Statistical Learning with Applications in Python](https://hastie.su.domains/ISLP/ISLP_website.pdf) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, Jonathan Taylor (PDF)
+* [Architecture Patterns with Python](https://www.cosmicpython.com/book/preface.html) - Harry J.W. Percival, Bob Gregory (HTML)
+* [Automate the Boring Stuff with Python, 2nd Edition: Practical Programming for Total Beginners](https://automatetheboringstuff.com/2e/chapter0/) - Al Sweigart (3.8)
+    * [Automate the Boring Stuff with Python: Practical Programming for Total Beginners](https://automatetheboringstuff.com/chapter0/) - Al Sweigart (3.4)
+* [Beej's Guide to Python Programming - For Beginners](http://beej.us/guide/bgpython/) - Brian "Beej Jorgensen" Hall (HTML,PDF)
+* [Beyond the Basic Stuff with Python](https://inventwithpython.com/beyond/) - Al Sweigart (3.x)
+* [Biopython Tutorial and Cookbook](https://biopython.org/DIST/docs/tutorial/Tutorial.pdf) (PDF)
+* [Build applications in Python the antitextbook](http://github.com/thewhitetulip/build-app-with-python-antitextbook) (3.x) (HTML, PDF, EPUB, Mobi)
+* [Building Data Products: The Ultimate Guide](https://resources.montecarlodata.com/c/ebook-building-data-products?x=gEwOdf) (HTML, EPUB)
+* [Building Skills in Object-Oriented Design, V4](https://slott56.github.io/building-skills-oo-design-book/build/html/) - Steven F. Lott (3.7)
+    * [Building Skills in Object-Oriented Design, Release 2.2.1](https://web.archive.org/web/20150824204101/http://buildingskills.itmaybeahack.com/book/oodesign-python-2.2/latex/BuildingSkillsinOODesign.pdf) - Steven F. Lott (PDF) (2.2.1) *(:card_file_box: archived)*
+    * [Building Skills in Object-Oriented Design, Release 3.1](https://web.archive.org/web/20160322093622/http://buildingskills.itmaybeahack.com/book/oodesign-3.1/latex/BuildingSkillsinObject-OrientedDesign.pdf) - Steven F. Lott (PDF) (3.1) *(:card_file_box: archived)*
+* [Building Skills in Python](https://web.archive.org/web/20190918094202/http://www.itmaybeahack.com/book/python-2.6/latex/BuildingSkillsinPython.pdf) - Steven F. Lott (PDF) (2.6) *(:card_file_box: archived)*
+* [Clean Architectures in Python - A practical approach to better software design (2022)](https://www.thedigitalcatbooks.com/pycabook-introduction/) - Leonardo Giordani (3.x) (PDF)
+* [Code Like a Pythonista: Idiomatic Python](https://web.archive.org/web/20180411011411/http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html) - David Goodger *(:card_file_box: archived)*
+* [CodeCademy Python](https://www.codecademy.com/learn/python)
+* [Composing Programs](http://composingprograms.com) (3.x)
+* [Computational and Inferential Thinking](https://inferentialthinking.com/chapters/intro.html) - Ani Adhikari, John DeNero, David Wagner (HTML)
+* [Cracking Codes with Python](https://inventwithpython.com/cracking/) - Al Sweigart (3.6)
+* [Data Structures and Algorithms in Python](https://web.archive.org/web/20161016153130/http://www.brpreiss.com/books/opus7/html/book.html) - B. R. Preiss (PDF) *(:card_file_box: archived)*
+* [Dive into Python 3](https://diveintopython3.problemsolving.io) - Mark Pilgrim (3.0)
+    * [Dive into Python](https://linux.die.net/diveintopython/html/toc/index.html) - Mark Pilgrim (2.3)
+* [Essential Python](https://www.programming-books.io/essential/python/) - Krzysztof Kowalczyk, StackOverflow Contributors
+* [From Python to NumPy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/) - Nicolas P. Rougier (3.6)
+* [Full Stack Python](https://www.fullstackpython.com) - Matt Makai
+* [Functional Programming in Python](https://www.oreilly.com/ideas/functional-programming-in-python) - David Mertz
+* [Fundamentals of Python Programming](https://web.archive.org/web/20191005170430/http://python.cs.southern.edu/pythonbook/pythonbook.pdf) - Richard L. Halterman (PDF) (:construction: *in process*) *(:card_file_box: archived)*
+* [Google's Python Class](https://developers.google.com/edu/python/) (2.4 - 2.x)
+* [Google's Python Style Guide](https://google.github.io/styleguide/pyguide.html)
+* [Hadoop with Python](https://www.oreilly.com/learning/hadoop-with-python) - Zachary Radtka, Donald Miner
+* [Hands-On Natural Language Processing with Python](https://www.packtpub.com/free-ebook/hands-on-natural-language-processing-with-python/9781789139495) - Rajesh Arumugam, Rajalingappaa Shanmugamani (Packt account *required*)
+* [Hands-on Python 3 Tutorial](https://anh.cs.luc.edu/handsonPythonTutorial) - Andrew N. Harrington (HTML)
+* [Hitchhiker's Guide to Python!](http://docs.python-guide.org/en/latest/) (2.6)
+* [How to Code in Python 3](https://assets.digitalocean.com/books/python/how-to-code-in-python.pdf) - Lisa Tagliaferri (PDF)
+* [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](https://runestone.academy/runestone/books/published/thinkcspy/index.html) - Brad Miller, David Ranum, Jeffrey Elkner, Peter Wentworth, Allen B. Downey, Chris Meyers, Dario Mitchell (3.2)
+    * [How to Think Like a Computer Scientist: Learning with Python 1st Edition](https://greenteapress.com/wp/learning-with-python/) - Allen B. Downey, Jeff Elkner, Chris Meyers (2.4) (HTML, PDF)
+    * [How to Think Like a Computer Scientist: Learning with Python 2nd Edition](https://openbookproject.net/thinkcs/python/english2e/) - Jeffrey Elkner, Allen B. Downey, Chris Meyers (Using Python 2.x)
+    * [How to Think Like a Computer Scientist: Learning with Python 3 (RLE)](https://openbookproject.net/thinkcs/python/english3e/) - Peter Wentworth, Jeffrey Elkner, Allen B. Downey, Chris Meyers [(PDF)](https://www.ict.ru.ac.za/Resources/cspw/thinkcspy3/thinkcspy3.pdf)
+* [Inside The Python Virtual Machine](https://leanpub.com/insidethepythonvirtualmachine/read) - Obi Ike-Nwosu (HTML)
+* [Intermediate Python](https://book.pythontips.com/en/latest/) - Muhammad Yasoob Ullah Khalid (1st edition)
+* [Introduction to Programming with Python](http://opentechschool.github.io/python-beginners/en/) (3.3)
+    * [Introduction to Programming Using Python](http://python-ebook.blogspot.co.uk) - Cody Jackson (1st edition) (2.3)
+* [Introduction to Python](http://kracekumar.com/post/71171551647/introduction-to-python) - Kracekumar (2.7.3)
+* [Introduction to Python for Econometrics, Statistics and Numerical Analysis](https://www.kevinsheppard.com/files/teaching/python/notes/python_introduction_2020.pdf) - Kevin Sheppard (PDF) (3.8)
+* [Introduction to Scientific Programming with Python](https://library.oapen.org/bitstream/id/56d27e73-e92a-4398-8198-239be7aacc93/2020_Book_IntroductionToScientificProgra.pdf) - Joakim Sundnes (PDF)
+* [Invent Your Own Computer Games With Python](https://inventwithpython.com/invent4thed/) - Al Sweigart (3.4)
+* [Learn Python 3](https://github.com/animator/learn-python) - Ankit Mahato (PDF, HTML, Markdown)
+* [Learn Python, Break Python](http://learnpythonbreakpython.com)
+* [Learn Python in Y minutes](https://learnxinyminutes.com/docs/python/) - LearnXinYMinutes (HTML)
+* [Learn Python Programming, Second Edition](https://www.packtpub.com/free-ebooks/learn-python-programming-second-edition) - Fabrizio Romano (Packt account *required*)
+* [Learn Python the Right Way](https://learnpythontherightway.com)
+* [Learn to Program Using Python](https://web.archive.org/web/20201224032210/https://www.ida.liu.se/~732A47/literature/PythonBook.pdf) - Cody Jackson (PDF) *(:card_file_box: archived)*
+* [Learning to Program](http://www.alan-g.me.uk)
+* [Lectures on scientific computing with python](https://github.com/jrjohansson/scientific-python-lectures) - J.R. Johansson (2.7)
+* [Making Games with Python & Pygame](https://inventwithpython.com/pygame/chapters/) - Al Sweigart (3.2)
+* [Math for programmers (using python)](https://akuli.github.io/math-tutorial/)
+* [Modeling and Simulation in Python](https://greenteapress.com/wp/modsimpy/) - Allen B. Downey (PDF)
+* [Modeling Creativity: Case Studies in Python](https://arxiv.org/pdf/1410.0281.pdf) - Tom D. De Smedt (PDF)
+* [Natural Language Processing (NLP) with Python — Tutorial](https://medium.com/towards-artificial-intelligence/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0) (PDF)
+* [Natural Language Processing with Python](http://www.nltk.org/book/) (3.x)
+* [Non-Programmer's Tutorial for Python 3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3) - Wikibooks (3.3)
+    * [Non-Programmer's Tutorial for Python 2.6](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_2.6) - Wikibooks (2.6)
+* [Official NumPy Reference](https://numpy.org/doc/stable/numpy-ref.pdf) - The NumPy Community (PDF)
+* [Picking a Python Version: A Manifesto](https://www.oreilly.com/ideas/picking-a-python-version) - David Mertz
+* [Porting to Python 3: An In-Depth Guide](http://python3porting.com) (2.6 - 2.x & 3.1 - 3.x)
+* [Practical Programming in Python](https://launchpadlibrarian.net/165489933/PracticalProgrammingPython2014.pdf) - Jeffrey Elkner (PDF)
+* [Practice Python Projects](https://learnbyexample.github.io/practice_python_projects/) - Sundeep Agarwal
+* [Pro Python Advanced coding techniques and tools](https://archive.org/download/python-books/Apress.Pro.Python.Advanced.Coding.Techniques.And.Tools.Jun.2010.ISBN.1430227575.pdf) - Marty Alchin (PDF)
+* [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds3/index.html) - Bradley N. Miller, David L. Ranum (3.x)
+* [Program Arcade Games With Python And Pygame](http://programarcadegames.com) (3.3)
+* [Programming Computer Vision with Python](http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf) (PDF)
+* [Programming for Non-Programmers, Release 2.6.2](https://web.archive.org/web/20180921063136/http://buildingskills.itmaybeahack.com/book/programming-2.6/latex/ProgrammingforNon-Programmers.pdf) - Steven F. Lott (PDF) (2.6) *(:card_file_box: archived)*
+* [PySDR: A Guide to SDR and DSP using Python](https://pysdr.org) - Dr. Marc Lichtman (3.x)
+* [Python 101](https://python101.pythonlibrary.org) - Michael Driscoll (HTML, TEXT)
+* [Python 2 Official Documentation](https://docs.python.org/2/download.html) (PDF, HTML, TEXT) (2.x)
+* [Python 2.7 quick reference](https://web.archive.org/web/20171013204449/http://infohost.nmt.edu/tcc/help/pubs/python27/python27.pdf) - John W. Shipman (PDF) (2.7) *(:card_file_box: archived)*
+* [Python 3 Official Documentation](https://docs.python.org/3/download.html) (PDF, EPUB, HTML, TEXT) (3.x)
+* [Python 3 Tutorial](https://github.com/Akuli/python-tutorial)
+* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook) - Jake VanderPlas (HTML, Jupyter Notebooks)
+* [Python for Astronomers](https://prappleizer.github.io/textbook.pdf) - Imad Pasha, Christopher Agostino (PDF)
+* [Python for Data Analysis](https://wesmckinney.com/book/) - Wes McKinney
+* [Python for Everybody](http://py4e.com/book) - Charles Russell Severance (PDF, EPUB, HTML) (3.x)
+* [Python for Informatics: Exploring Information](http://www.pythonlearn.com/book.php) - Charles Russell Severance (2.7.5)
+* [Python for network engineers](https://pyneng.readthedocs.io/en/latest/) - Natasha Samoylenko
+* [Python for you and me](http://pymbook.readthedocs.org/en/latest/) (2.7.3)
+* [Python for you and me](http://pymbook.readthedocs.org/en/py3/) (3.x)
+* [Python Idioms](https://bennuttall.com/files/python-idioms-2014-01-16.pdf) (PDF)
+* [Python in Education](https://www.oreilly.com/ideas/python-in-education) - Nicholas Tollervey
+* [Python in Hydrology](http://www.greenteapress.com/pythonhydro/pythonhydro.html) - Sat Kumar Tomer
+* [Python Koans](https://github.com/gregmalcolm/python_koans) (2.7 or 3.x)
+* [Python Machine Learning By Example](https://www.packtpub.com/free-ebooks/python-machine-learning-example) - Yuxi (Hayden) Liu (Packt account *required*)
+* [Python Module of the Week](https://pymotw.com/3/) (3.x)
+    * [Python Module of the Week](https://pymotw.com/2/) (2.x)
+* [Python Notes for Professionals](http://goalkicker.com/PythonBook/) - Compiled from StackOverflow documentation (PDF)
+* [Python Practice Book](http://anandology.com/python-practice-book/index.html) (2.7.1)
+* [Python Programming](https://en.wikibooks.org/wiki/Python_Programming) - Wikibooks (2.7)
+* [Python Programming](https://upload.wikimedia.org/wikipedia/commons/9/91/Python_Programming.pdf) - Wikibooks (PDF) (2.6)
+* [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html) - Qingkai Kong, Timmy Siauw, Alexandre Bayen (3.7)
+* [Python Programming Exercises, Gently Explained](https://inventwithpython.com/PythonProgrammingExercisesGentlyExplained.pdf) - Al Sweigart (PDF)
+* [Python Tutorial](https://www.tutorialspoint.com/python/) - Tutorials Point (HTML, PDF)
+* [Scientific Visualization: Python + Matplotlib](https://github.com/rougier/scientific-visualization-book) - Nicolas P. Rougier (PDF)
+* [Scipy Lecture Notes](http://scipy-lectures.github.io)
+* [SICP in Python](http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/) (3.2)
+* [Slither into Python: An introduction to Python for beginners](https://web.archive.org/web/20210411065902/https://www.slitherintopython.com/) (3.7) *(:card_file_box: archived)*
+* [Supporting Python 3: An In-Depth Guide](http://python3porting.com) (2.6 - 2.x & 3.1 - 3.x)
+* [Test-Driven Web Development with Python: Obey the Testing Goat! using Django, Selenium and JavaScript](http://www.obeythetestinggoat.com/pages/book.html) - Harry J.W. Percival (HTML) *(3.3 - 3.x)*
+* [Text Processing in Python](http://gnosis.cx/TPiP/) - David Mertz (2.3 - 2.x)
+* [The Big Book of Small Python Projects](https://inventwithpython.com/bigbookpython/) - Al Sweigart
+* [The Coder's Apprentice: Learning Programming with Python 3](http://www.spronck.net/pythonbook/) - Pieter Spronck (PDF) (3.x)
+* [The Definitive Guide to Jython, Python for the Java Platform](https://jython.readthedocs.io/en/latest/) - Josh Juneau, Jim Baker, Victor Ng, Leo Soto, Frank Wierzbicki (2.5)
+* [The Little Book of Python Anti-Patterns](http://docs.quantifiedcode.com/python-anti-patterns/) ([Source](https://github.com/quantifiedcode/python-anti-patterns))
+* [The Programming Historian](http://niche-canada.org/research/niche-digital-infrastructure-project/the-programming-historian/) - William J. Turkel, Adam Crymble and Alan MacEachern
+* [The Python Coding Book](https://thepythoncodingbook.com) - Stephen Gruppetta (HTML)
+* [The Python GTK+ 3 Tutorial](http://python-gtk-3-tutorial.readthedocs.org/en/latest/)
+* [The Python Handbook](https://flaviocopes.com/page/python-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
+* [The Recursive Book of Recursion](https://inventwithpython.com/recursion/) - Al Swigart (HTML) (3.x)
+* [The Standard Python Library](https://web.archive.org/web/20200626001242/http://effbot.org/librarybook/) - Fredrik Lundh *(:card_file_box: archived)*
+* [Think Complexity](https://greenteapress.com/wp/think-complexity-2e/) - Allen B. Downey (2nd Edition) (PDF, HTML)
+* [Think DSP - Digital Signal Processing in Python](https://greenteapress.com/wp/think-dsp/) - Allen B. Downey (PDF, HTML)
+* [Think Python 2nd Edition](https://greenteapress.com/wp/think-python-2e/) - Allen B. Downey (3.x) (HTML, PDF)
+    * [Think Python First Edition](https://greenteapress.com/wp/think-python/) - Allen B. Downey (2.x) (HTML, PDF)
+* [Tiny Python 3.6 Notebook](https://github.com/mattharrison/Tiny-Python-3.6-Notebook) - Matt Harrison (3.6)
+* [Tiny Python Projects](http://tinypythonprojects.com/Tiny_Python_Projects.pdf) - Ken Youens-Clark(PDF)
+* [Web2py: Complete Reference Manual, 6th Edition (pre-release)](http://web2py.com/book) (2.5 - 2.x)
+
+
 
 
 #### Django

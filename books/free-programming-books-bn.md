@@ -47,7 +47,8 @@
 ### JavaScript
 
 * [হাতেকলমে জাভাস্ক্রিপ্ট: সম্পূর্ণ বাংলায় হাতেকলমে জাভাস্ক্রিপ্ট শিখুন](https://zonayed.js.org) - Zonayed Ahmed (HTML)
-* [জাভাস্ক্রিপ্ট টিউটোরিয়াল](https://www.webcoachbd.com/javascript-tutorials) - Webcoachbd Team
+* [জাভাস্ক্রিপ্ট টিউটোরিয়াল](https://www.webcoachbd.com/javascript-tutorials) - Webcoachbd Team (HTML)
+
 ### Machine Learning
 
 * [শূন্য থেকে পাইথন মেশিন লার্নিং: হাতেকলমে সাইকিট-লার্ন](https://raqueeb.gitbook.io/scikit-learn/) - Rakibul Hassan (HTML, [Jupyter Notebook](https://github.com/raqueeb/ml-python)) (gitbook)

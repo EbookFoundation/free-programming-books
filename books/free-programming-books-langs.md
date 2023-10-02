@@ -1422,6 +1422,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Kotlin Official Documentation](https://kotlinlang.org/docs/reference/)
 * [Kotlin Quick Reference](https://kotlin-quick-reference.com) - Alvin Alexander (gitbook)
 * [Learning Kotlin](https://riptutorial.com/Download/kotlin.pdf) - Compiled from StackOverflow Documentation (PDF)
+* [kotlin in action](https://github.com/cjnhust/ebook_collection/blob/master/Kotlin%20in%20Action.pdf) -  Dmitry Jemerov,Svetlana Isakova (PDF) 
 
 
 ### LaTeX / TeX

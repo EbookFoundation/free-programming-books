@@ -14,8 +14,8 @@
 
 ### Algorithms
 
-* [Dynamic Programming Book «ডাইনামিক প্রোগ্রামিং বই»](https://dp-bn.github.io) - Tasmeem Reza, Mamnoon Siam (PDF, [LaTeX](https://github.com/Bruteforceman/dynamic-progamming-book))
 - [Data Structure and Algorithm «ডাটা স্ট্রাকচার এবং অ্যালগরিদম»](https://pdfhost.io/v/8f0HRV.Nw_Data_Structure_Algorithm_6631_BDeBooksCom) - M M  Tofayel Ahmad (PDF)
+* [Dynamic Programming Book «ডাইনামিক প্রোগ্রামিং বই»](https://dp-bn.github.io) - Tasmeem Reza, Mamnoon Siam (PDF, [LaTeX](https://github.com/Bruteforceman/dynamic-progamming-book))
 
 ### C
 

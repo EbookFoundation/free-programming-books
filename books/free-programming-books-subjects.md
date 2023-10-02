@@ -39,6 +39,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Professional Development](#professional-development)
 * [Programming](#programming)
 * [Programming Paradigms](#programming-paradigms)
+* [Prompt Engineering](#prompt-engineering)
 * [Quantum Computing](#quantum-computing)
 * [Regular Expressions](#regular-expressions)
 * [Reverse Engineering](#reverse-engineering)
@@ -760,6 +761,11 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/) - Mostly Adequate Core Team
 * [The Pure Function Pipeline Data Flow v3.0 ---- the Grand Unified Programming Theory](https://github.com/linpengcheng/PurefunctionPipelineDataflow) - Lin Pengcheng
 * [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
+
+
+### Prompt Engineering
+
+* [Guide to Prompt Engineering](https://codeahoy.com/learn/promptengineering/toc) - CodeAhoy (HTML)
 
 
 ### Quantum Computing

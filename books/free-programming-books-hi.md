@@ -7,6 +7,7 @@
 * [Networking](#networking)
 * [Php](#php)
 * [Python](#python)
+* [SQL](#sql)
 
 
 ### <a id="c"></a>C
@@ -56,4 +57,9 @@
 ### Python
 
 * [Python Notes PDF by ehindistudy.com \| Hindi](https://drive.google.com/file/d/1cnJ6Uksso2UXwC5OHBAGk3miMzSveBvr/view) - Yugal Joshi (PDF)
+
+
+### SQL
+
+* [SQL Notes PDF by ehindistudy.com \| Hindi](https://drive.google.com/file/d/1uaaQtb5dYUrnNMNHqT3iNn5Qb-e5DGXa/view) - Kantilal R. Jain (PDF)
 

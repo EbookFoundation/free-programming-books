@@ -1193,10 +1193,13 @@
 
 * [Learning Processing: A Beginner's Guide to Programming Images, Animation, and Interaction](https://www.youtube.com/c/TheCodingTrain/playlists?view=50&sort=dd&shelf_id=10) - The Coding Train
 
+
 ### Postgresql
+
 *[Learn Database Administration - PostgreSQL Database Administration (DBA) for Beginners](https://www.youtube.com/watch?v=aUfPf-clLLs) -
 Databases A2Z
 *[How to Install and configuration PostgreSQL on Ubuntu Linux](https://www.youtube.com/watch?v=-LwI4HMR_Eg) - ProgrammingKnowledge
+
 
 ### Python
 

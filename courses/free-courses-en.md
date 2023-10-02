@@ -183,6 +183,7 @@
 * [Sorting Algorithms](https://www.youtube.com/playlist?list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U) - mycodeschool
 * [Stanford University Algorithms: Design and Analysis, Part 1](https://online.stanford.edu/courses/soe-ycsalgorithms1-algorithms-design-and-analysis-part-1)
 * [Stanford University Algorithms: Design and Analysis, Part 2](https://online.stanford.edu/courses/soe-ycs0001-algorithms-design-and-analysis-part-2)
+* [Strivers A2Z-DSA Course \| DSA Playlist \| Placements](https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz) - take U forward
 * [Trees by Striver \| C++ \| Java \| Placements \| Binary Trees and Traversals \| Problems](https://www.youtube.com/playlist?list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk) - take U forward
 
 
@@ -654,25 +655,27 @@
 
 ### Git
 
-*   [Bento Git Learning Track](https://bento.io/topic/git) (Bento)
-*   [Bento GitHub Learning Track](https://bento.io/topic/github) (Bento)
-*   [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics) - Kunal Kushwaha
-*   [Foundations of Git - Certification Course](https://learn.gitkraken.com/courses/git-foundations) - Axosoft (GitKraken) _(account or email address required)_
-*   [Git](https://www.youtube.com/playlist?list=PLFBirL3MAv29Vy_L7MmV2QaZLvAadFPHR) - Gwendolyn Faraday
-*   [Git & GitHub](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF) - Briana Marie, freeCodeCamp.org
-*   [Git & GitHub](https://www.youtube.com/playlist?list=PLhW3qG5bs-L8OlICbNX9u4MZ3rAt5c5GG) - Raghav Pal, Automation Step by Step
-*   [Git & GitHub Crash Course](https://www.udemy.com/course/git-and-github-crash-course-creating-a-repository-from-scratch/) - Kalob Taulien (Udemy)
-*   [Git & GitHub Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR) (The Net Ninja)
-*   [Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
-*   [GIT for beginners](https://www.eduonix.com/git-for-beginners) - Maksym Rudnyi (Eduonix Learning Solutions) _(account or email address required)_
-*   [Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git](https://www.youtube.com/watch?v=Uszj_k0DGsg) - Tobias Günther
-*   [Git How To](https://githowto.com) - Alexander Shvets
-*   [Git Tutorial - Learn Command-line Git & GitHub](https://www.youtube.com/playlist?list=PLpcSpRrAaOarEpNz71TSfNVd0eQmsZSgN) - LearnWebCode
-*   [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE) - Moshfegh Hamedani (Programming with Mosh)
-*   [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775) (Udacity)
-*   [Introduction to Git](https://learn.microsoft.com/en-us/training/modules/intro-to-git/) - Microsoft Learn
-*   [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) - Google (Coursera)
-*   [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud) - Atlassian
+* [Bento Git Learning Track](https://bento.io/topic/git) (Bento)
+* [Bento GitHub Learning Track](https://bento.io/topic/github) (Bento)
+* [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics) - Kunal Kushwaha
+* [Foundations of Git - Certification Course](https://learn.gitkraken.com/courses/git-foundations) - Axosoft (GitKraken) *(account or email address required)*
+* [Git](https://www.youtube.com/playlist?list=PLFBirL3MAv29Vy_L7MmV2QaZLvAadFPHR) - Gwendolyn Faraday
+* [Git & GitHub](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF) - Briana Marie, freeCodeCamp.org
+* [Git & GitHub](https://www.youtube.com/playlist?list=PLhW3qG5bs-L8OlICbNX9u4MZ3rAt5c5GG) - Raghav Pal, Automation Step by Step
+* [Git & GitHub Complete Guide](https://www.udemy.com/course/git-n-github-complete-guide) (Udemy)
+* [Git & GitHub Crash Course](https://www.udemy.com/course/git-and-github-crash-course-creating-a-repository-from-scratch/) - Kalob Taulien (Udemy)
+* [Git & GitHub Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR) (The Net Ninja)
+* [Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+* [GIT for beginners](https://www.eduonix.com/git-for-beginners) - Maksym Rudnyi (Eduonix Learning Solutions) *(account or email address required)*
+* [Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git](https://www.youtube.com/watch?v=Uszj_k0DGsg) - Tobias Günther
+* [Git How To](https://githowto.com) - Alexander Shvets
+* [Git Tutorial - Learn Command-line Git & GitHub](https://www.youtube.com/playlist?list=PLpcSpRrAaOarEpNz71TSfNVd0eQmsZSgN) - LearnWebCode
+* [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE) - Moshfegh Hamedani (Programming with Mosh)
+* [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775) (Udacity)
+* [Introduction to Git](https://learn.microsoft.com/en-us/training/modules/intro-to-git/) - Microsoft Learn
+* [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) - Google (Coursera)
+* [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud) - Atlassian
+
 
 
 ### Go
@@ -1426,13 +1429,14 @@
 
 ### Terraform
 
-*   [terraform + AWS](https://www.udemy.com/course/terraform-aws) - Rohit Abraham (Udemy)
-*   [Terraform + GCP](https://www.udemy.com/course/terraform-gcp) - Rohit Abraham (Udemy)
-*   [Terraform 101](https://www.udemy.com/course/terraform-101) - Jacob Jones (Udemy)
-*   [Terraform on Azure - Basic Tutorial](https://www.udemy.com/course/terraform-on-azure-basic-tutorial) - Rahul Sawant (Udemy)
-*   [Terraform Tutorial for Beginners](https://www.youtube.com/watch?v=YcJ9IeukJL8) - KodeKloud
-*   [Terraform tutorial for beginners Videos in English by Techworld with Murali](https://www.youtube.com/playlist?list=PLuJTeEt6HH9fUj7oRRLT0g1ttVl--Fv1T) - Murali
-*   [Terraform Tutorials](https://www.youtube.com/playlist?list=PL2qzCKTbjutKff_ns750TFESQc44nlULv) - Narendra
+* [terraform + AWS](https://www.udemy.com/course/terraform-aws) - Rohit Abraham (Udemy)
+* [Terraform + GCP](https://www.udemy.com/course/terraform-gcp) - Rohit Abraham (Udemy)
+* [Terraform 101](https://www.udemy.com/course/terraform-101) - Jacob Jones (Udemy)
+* [Terraform on Azure - Basic Tutorial](https://www.udemy.com/course/terraform-on-azure-basic-tutorial) - Rahul Sawant (Udemy)
+* [Terraform Tutorial for Beginners](https://www.youtube.com/watch?v=YcJ9IeukJL8) - KodeKloud
+* [Terraform tutorial for beginners Videos in English by Techworld with Murali](https://www.youtube.com/playlist?list=PLuJTeEt6HH9fUj7oRRLT0g1ttVl--Fv1T) - Murali
+* [Terraform Tutorials](https://www.youtube.com/playlist?list=PL2qzCKTbjutKff_ns750TFESQc44nlULv) - Narendra
+* [Terraform Zero to Hero](https://www.youtube.com/playlist?list=PLdpzxOOAlwvI0O4PeKVV1-yJoX2AqIWuf) - Abhishek Veeramalla
 
 
 ### Theory

@@ -175,6 +175,7 @@
 * [MIT's Design and Analysis of Algorithms (Spring 2015)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015) - Erik Demaine, Srini Devadas, Nancy Lynch
 * [MIT's Introduction to Algorithms (Fall 2011)](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
 * [MIT's Introduction to Algorithms (SMA 5503) (Fall 2005)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005) - Charles Leiserson, Erik Demaine
+* [MIT's Introduction to Algorithms (Spring 2020)](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) - Erik Demaine, Jason Ku, Justin Solomon
 * [Online Java + DSA + Interview preparation course](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ) - Kunal Kushwaha
 * [Princeton University Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1)
 * [Princeton University Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
@@ -314,6 +315,7 @@
 
 ### <a id="csharp"></a>C\#
 
+* [ASP.NET Core 2.2 & 3 REST API Tutorial](https://youtube.com/playlist?list=PLUOequmGnXxOgmSDWU7Tl6iQTsOtyjtwU&si=3XHU6BnqwxePAt54) - Nick Chapsas
 * [Building a microservice architecture with ASP.NET Core - Gill Cleeren - NDC London 2022](https://www.youtube.com/watch?v=SR53SKIUYPA) - Gill Cleeren
 * [C# 101](https://channel9.msdn.com/Series/CSharp-101) - Scott Hanselman, Kendra Havens (Microsoft)
 * [C# Programming All-in-One Tutorial Series (6 HOURS!)](https://www.youtube.com/watch?v=qOruiBrXlAw) - Caleb Curry
@@ -401,6 +403,7 @@
 * [Berkeley's CS  61A: Taught using SICP](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?tab=collection)
 * [Computer Networking - Network Engineering](https://www.youtube.com/watch?v=qiQR5rTSshw) - Brian Ferrill (FreeCodeCamp)
 * [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/) - David J. Malan (Harvard OpenCourseWare and edX)
+* [Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212) - Peter Norvig (Udacity)
 * [Discrete Mathematics for Computer Science Specialization](https://www.youtube.com/playlist?list=PLtS8Ubq2bIlXO4qEM5BOsBy6xWQNVFu8l) - My Lesson
 * [Introduction to Augmented Reality and ARCore](https://www.coursera.org/learn/ar) - Daydream
 * [LouvainX Paradigms of Computer Programming – Abstraction and Concurrency](https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-2x-1#!)
@@ -803,6 +806,7 @@
 * [Learn how to program: Java](https://www.learnhowtoprogram.com/java-june-2017) - Epicodus Inc.
 * [Learn Java](https://www.sololearn.com/learning/1068) - Sololearn *(email address required)*
 * [Learn Java Programming](https://www.programiz.com/java-programming) - Programiz
+* [Most Asked Core Java Frequently Asked Questions](https://www.youtube.com/playlist?list=PLyHJZXNdCXscoyL5XEZoHHZ86_6h3GWE1) - Code Decode
 * [Object Oriented Programming (OOP) In Java Course](https://www.youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk) - Kunal Kushwaha
 * [Object-Oriented programming with Java, part I](https://moocfi.github.io/courses/2013/programming-part-1/)
 * [Object-Oriented programming with Java, part II](https://moocfi.github.io/courses/2013/programming-part-2/)

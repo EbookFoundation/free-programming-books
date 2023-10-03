@@ -1,31 +1,34 @@
 ### Index
 
-* [Android](#android)
-* [C](#c)
-* [C#](#csharp)
-* [C++](#cpp)
-* [CodeIgniter](#codeigniter)
-* [Flutter](#flutter)
-* [Git](#git)
-* [Go](#go)
-* [HTML and CSS](#html-and-css)
-    * [Bootstrap](#bootstrap)
-* [IDE and editors](#ide-and-editors)
-* [Java](#java)
-* [JavaScript](#javascript)
-    * [Angular](#angular)
-    * [Deno](#deno)
-    * [Next.js](#nextjs)
-    * [React.js](#reactjs)
-    * [TypeScript](#typescript)
-    * [Vue.js](#vuejs)
-* [Node.js](#nodejs)
-* [NoSQL](#nosql)
-* [Pemrograman Fungsional](#pemrograman-fungsional)
-* [Pemrograman Kompetitif](#pemrograman-kompetitif)
-* [PHP](#php)
-* [Python](#python)
-* [Solidity](#solidity)
+- [Index](#index)
+- [Android](#android)
+- [C](#c)
+- [C#](#c-1)
+- [C++](#c-2)
+- [CodeIgniter](#codeigniter)
+- [Flutter](#flutter)
+- [Git](#git)
+- [Go](#go)
+- [HTML and CSS](#html-and-css)
+  - [Bootstrap](#bootstrap)
+- [IDE and editors](#ide-and-editors)
+- [Java](#java)
+- [JavaScript](#javascript)
+  - [Angular](#angular)
+  - [Deno](#deno)
+  - [Next.js](#nextjs)
+  - [React.js](#reactjs)
+  - [TypeScript](#typescript)
+  - [Vue.js](#vuejs)
+- [MySQL](#mysql)
+- [Node.js](#nodejs)
+- [NoSQL](#nosql)
+- [Pemrograman Fungsional](#pemrograman-fungsional)
+- [Pemrograman Kompetitif](#pemrograman-kompetitif)
+- [PHP](#php)
+- [Python](#python)
+- [Rust](#rust)
+- [Solidity](#solidity)
 
 
 ### Android
@@ -209,6 +212,13 @@
 * [Tutorial Dasar Pemrograman Python](https://www.petanikode.com/tutorial/python/) - Petani Kode, Ahmad Muhardian
 * [Tutorial Python](https://docs.python.org/id/3.8/tutorial/)
 * [Workshop Python 101](http://sakti.github.io/python101/)
+
+
+### Rust
+
+* [Belajar Rust](https://belajar-rust.vercel.app/) - evilfactorylabs
+* [Dasar Pemrograman Rust](https://dasarpemrogramanrust.novalagung.com/) - Noval Agung Prayogo
+* [Easy Rust Indonesia](https://github.com/ariandy/easy-rust-indonesia) - ariandy
 
 
 ### Solidity

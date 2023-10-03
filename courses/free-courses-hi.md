@@ -301,23 +301,22 @@
 
 ### Java
 
-* [AWS Hosting Tutorial | Deploying Java Applications on Amazon EC2 in Hindi](https://youtube.com/playlist?list=PL0zysOflRCek6D-kLRM48rhyvTEbc60nc&si=9ILVhPNVuvemweEJ) - Learn Code With Durgesh
+* [AWS Hosting Tutorial | Deploying Java Applications on Amazon EC2 in Hindi](https://youtube.com/playlist?list=PL0zysOflRCek6D-kLRM48rhyvTEbc60nc) - Learn Code With Durgesh
 * [Core Java Programming (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhij8Oplrvjt_RlDliZQgdxoV) - Rajesh Kumar, Geeky Shows
-* [Hibernate tutorial Basic to Advance in Hindi](https://youtube.com/playlist?list=PL0zysOflRCekX8OO7V7pGQ9kxZ28JyJlk&si=thD-RnaLu6VPDpDr) - Learn Code With Durgesh
+* [Hibernate tutorial Basic to Advance in Hindi](https://youtube.com/playlist?list=PL0zysOflRCekX8OO7V7pGQ9kxZ28JyJlk) - Learn Code With Durgesh
 * [Java + DS + Algorithms](https://www.youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s) - Apni Kaksha (Anuj)
 * [Java + DSA](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop) - Apna College
-* [Java and DSA Foundation Course](https://youtube.com/playlist?list=PLxgZQoSe9cg00xyG5gzb5BMkOClkch7Gr&si=ctLRknqelKTSI5Lh) - College Wallah
-* [Java Foundation Course Hindi](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFj7YSPl2ulcpwy-mwj1SSk) - Pepcoding
+* [Java Foundation Course | Hindi](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFj7YSPl2ulcpwy-mwj1SSk) - Pepcoding
 * [Java Live Community Class](https://www.youtube.com/playlist?list=PLsyeobzWxl7pyuXTES7ZqncOI_X0mgKgK) - Navin Reddy (Telusko)
 * [Java Programming Tutorial (HINDI/URDU)](https://www.youtube.com/playlist?list=PLiOa6ike4WAHljIOitb3vR0nXQgneUedR) - Vikas Pandey, Easytuts4you
 * [Java Tutorial](https://youtube.com/playlist?list=PLX9Zi6XTqOKQ7TdRz0QynGIKuMV9Q2H8E) - Saurabh Shukla Sir
 * [Java Tutorials for Beginners](https://www.youtube.com/playlist?list=PLlhM4lkb2sEhfuXL-2BDrJ67WkUdQ2v9b) - Deepak Panwar, Smart Programming
 * [Java Tutorials For Beginners In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q) - CodeWithHarry
-* [Servlet and Jsp](https://youtube.com/playlist?list=PL0zysOflRCel5BSXoslpfDawe8FyyOSZb&si=pyUQrpB8bp-pbrR7) - Learn Code With Durgesh
-* [Spring Boot tutorial basic in Hindi](https://youtube.com/playlist?list=PL0zysOflRCelmjxj-g4jLr3WKraSU_e8q&si=nZizMDReuxWBM3hB) - Learn Code With Durgesh
+* [Servlet and Jsp](https://youtube.com/playlist?list=PL0zysOflRCel5BSXoslpfDawe8FyyOSZb) - Learn Code With Durgesh
+* [Spring Boot tutorial basic in Hindi](https://youtube.com/playlist?list=PL0zysOflRCelmjxj-g4jLr3WKraSU_e8q) - Learn Code With Durgesh
 * [Spring Boot Tutorial For Beginners (in Hindi)](https://www.youtube.com/playlist?list=PL5mjp3QjkuoLPS-L28yKCKyzCMX8WRVno) - ProgRank
-* [Spring MVC Tutorial Step by Step [Hindi]](https://youtube.com/playlist?list=PL0zysOflRCelAb51IrexpUSeB0dpr9p6g&si=r5qz_JtErMKdL-WG7) - Learn Code With Durgesh
-* [Spring tutorial Basic to Advance in Hindi](https://youtube.com/playlist?list=PL0zysOflRCekeiERASkpi-crREVensZGS&si=4CUSOjAiSUIhwIOp) - Learn Code With Durgesh
+* [Spring MVC Tutorial Step by Step [Hindi]](https://youtube.com/playlist?list=PL0zysOflRCelAb51IrexpUSeB0dpr9p6g) - Learn Code With Durgesh
+* [Spring tutorial Basic to Advance in Hindi](https://youtube.com/playlist?list=PL0zysOflRCekeiERASkpi-crREVensZGS) - Learn Code With Durgesh
 
 
 ### JavaScript

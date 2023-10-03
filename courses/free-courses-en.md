@@ -344,7 +344,7 @@
 * [Google's C++ Course](https://developers.google.com/edu/c++/)
 * [Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) (MIT's opencourseware)
 * [Introduction to C++](https://www.edx.org/course/introduction-to-c-3) - Microsoft (edX) (:card_file_box: *archived*)
-* [Object Oriented Programming (OOP) in C++](https://youtu.be/wN0x9eZLix4) - Saldina Nurak (freeCodeCamp)
+* [Object Oriented Programming (OOP) in C++]([https://youtu.be/wN0x9eZLix4](https://www.youtube.com/watch?v=iVLQeWbgbXs&list=PL43pGnjiVwgTJg7uz8KUGdXRdGKE0W_jN)) - Saldina Nurak (CodeBeauty)
 * [Sololearn C++](https://www.sololearn.com/learning/1051) - *registration required*
 
 

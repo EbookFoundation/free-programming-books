@@ -1391,6 +1391,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 
 #### SvelteKit
+
 * [Beginner SvelteKit](https://vercel.com/docs/beginner-sveltekit) - Steph Dietz, Vercel
 * [Svelte & SvelteKit Tutorial](https://learn.svelte.dev/tutorial) - Learn Svelte (svelte.dev)
 

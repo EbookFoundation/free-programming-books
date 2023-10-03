@@ -971,8 +971,8 @@
 #### Svelte
 
 * [Learn Svelte](https://www.youtube.com/playlist?list=PLA9WiRZ-IS_ylnMYxIFCsZN6xVVSvLuHk) - Joy of Code
-* [Learn the Svelte JavaScript Framework](https://www.youtube.com/watch?v=ujbE0mzX-CU) - Noah Glaser, freeCodeCamp
 * [Learn Svelte Full Course](https://www.youtube.com/watch?v=UGBJHYpHPvA) - Lihau Tan, freeCodeCamp
+* [Learn the Svelte JavaScript Framework](https://www.youtube.com/watch?v=ujbE0mzX-CU) - Noah Glaser, freeCodeCamp
 * [Svelte Crash Course](https://www.youtube.com/watch?v=3TVy6GdtNuQ) - Traversy Media
 * [Svelte Tutorial](https://www.youtube.com/watch?v=vhGiGqZ78Rs) - Beau Carnes, freeCodeCamp
 * [Svelte Tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwiYZOsc2D8AO1MYwLjZQrKx) - Codevolution

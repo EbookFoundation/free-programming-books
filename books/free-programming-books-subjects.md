@@ -359,11 +359,13 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 -   [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
 -   [Deep Learning](http://www.deeplearningbook.org) - Ian Goodfellow, Yoshua Bengio, Aaron Courville
 -   [Deep Learning for Coders with Fastai and PyTorch](https://github.com/fastai/fastbook) - Jeremy Howard, Sylvain Gugger (Jupyter Notebooks)
+-   [Distributed Machine Learning Patterns](http://176.119.25.72/main/3781000/a21fe92699747f6682271fc98a0cf60d/Yuan%20Tang%20-%20Distributed%20Machine%20Learning%20Patterns%20%28MEAP%20V07%29-Manning%20Publications%20%282023%29.pdf) - Yuan Tang
 -   [Dive into Deep Learning](http://d2l.ai)
 -   [Explorations in Parallel Distributed Processing: A Handbook of Models, Programs, and Exercises](https://web.stanford.edu/group/pdplab/pdphandbook) - James L. McClelland
 -   [Foundations of Machine Learning, Second Edition](https://mitpress.ublish.com/ebook/foundations-of-machine-learning--2-preview/7093/Cover) - Mehryar Mohri, Afshin Rostamizadeh, Ameet Talwalkar
 -   [Free and Open Machine Learning](https://nocomplexity.com/documents/fossml/) - Maikel Mardjan (HTML)
 -   [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/) - Carl Edward Rasmussen, Christopher K.I. Williams
+-   [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow Concepts, Tools, and Techniques to Build Intelligent Systems](http://library.lol/main/2391108A195CB4B1DD5C61C785D376A2) - Aurélien Géron
 -   [IBM Machine Learning for Dummies](https://www.ibm.com/downloads/cas/GB8ZMQZ3) - Judith Hurwitz, Daniel Kirsch
 -   [Information Theory, Inference, and Learning Algorithms](http://www.inference.phy.cam.ac.uk/itila/) - David J.C. MacKay
 -   [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) - Christoph Molnar
@@ -373,6 +375,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 -   [Learn Tensorflow](https://bitbucket.org/hrojas/learn-tensorflow) - Jupyter Notebooks
 -   [Learning Deep Architectures for AI](https://mila.quebec/wp-content/uploads/2019/08/TR1312.pdf) - Yoshua Bengio (PDF)
 -   [Machine Learning](http://www.intechopen.com/books/machine_learning)
+-   [Machine Learning and Deep Learning in Natural Language Processing](http://library.lol/main/4E09F138F3DF0F60DD57B2F1BAC707D0) - Anitha S. Pillai, Roberto Tedesco
 -   [Machine Learning for Beginners](https://github.com/Microsoft/ML-For-Beginners) - Microsoft
 -   [Machine Learning for Data Streams](https://moa.cms.waikato.ac.nz/book-html/) - Albert Bifet, Ricard Gavaldà, Geoff Holmes, Bernhard Pfahringer
 -   [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/) - Danny Friedman (HTML, PDF, Jupyter Book)
@@ -394,8 +397,6 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 -   [The Python Game Book](https://web.archive.org/web/20210308080726/https://thepythongamebook.com/en%3Astart) - Horst Jens _(:card_file_box: archived)_
 -   [Top 10 Machine Learning Algorithms Every Engineer Should Know](https://www.dezyre.com/article/top-10-machine-learning-algorithms/202) - Binny Mathews, Omair Aasim
 -   [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) - Shai Shalev-Shwartz, Shai Ben-David
--   [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow Concepts, Tools, and Techniques to Build Intelligent Systems](http://library.lol/main/2391108A195CB4B1DD5C61C785D376A2) - Aurélien Géron
--   [Machine Learning and Deep Learning in Natural Language Processing](http://library.lol/main/4E09F138F3DF0F60DD57B2F1BAC707D0) - Anitha S. Pillai, Roberto Tedesco
 
 ### Mathematics
 

@@ -897,7 +897,7 @@
 * [Mastering Next.js](https://masteringnextjs.com)
 * [Next.js for Beginners - Full Course](https://www.youtube.com/watch?v=1WmNXEVia8I) - Kapehe (FreeCodeCamp)
 * [Next.js Tutorial for Beginners](https://youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH) - Codevolution
-* [Next.js Tutorial for React Developers](https://www.youtube.com/watch?v=843nec-IvW0) - Dave Gray
+* [Next.js Tutorial for React Devs ]([https://www.youtube.com/watch?v=843nec-IvW0](https://youtube.com/playlist?list=PL0Zuz27SZ-6Pk-QJIdGd1tGZEzy9RTgtj&si=aRI4WuATH55lYS1c)) - Dave Gray
 
 
 #### NodeJS

@@ -98,6 +98,7 @@
 
 * [Artificial Intelligence (Complete Playlist)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiHGhOHV-nwb0HR5US5GFKFI) - Gate Smashers
 * [Artificial Intelligence Lectures Hindi](https://www.youtube.com/playlist?list=PLV8vIYTIdSnYsdt0Dh9KkD9WFEi7nVgbe) - Easy Engineering Classes
+* [Artificial Intelligence Tutorial (Eng-Hindi) \| University Exam specific](https://www.youtube.com/playlist?list=PLuAADu3OvBt4nfy1700X_Jb2n8rPQ-eLV) - Er Sahil ka Gyan
 * [Playlist to Artificial Intelligence](https://www.youtube.com/playlist?list=PLPIwNooIb9vgB1DQEftkKA3qOdeC4vonA) - Perfect Computer Engineer
 
 
@@ -147,7 +148,7 @@
 
 ### <a id="cpp"></a>C++
 
-* [C++ and DSA Foundation Course](https://youtube.com/playlist?list=PLxgZQoSe9cg0df_GxVjz3DD_Gck5tMXAd&si=frggLn7z_DWtYv6I) - College Wallah
+* [C++ and DSA Foundation Course](https://youtube.com/playlist?list=PLxgZQoSe9cg0df_GxVjz3DD_Gck5tMXAd) - College Wallah
 * [C++ Full Course \| C++ Tutorial \| Data Structures & Algorithms](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ) - Apna College
 * [C++ Full Course \|Complete C++ Placement DSA Course\| Data Structures & Algorithms](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA) - CodeHelp - by Babbar
 * [C++ Programming in Hindi](https://www.mygreatlearning.com/academy/learn-for-free/courses/c-programming-in-hindi1) - Bharani Akella (My Great Learning)
@@ -312,8 +313,8 @@
 * [Java Tutorial](https://youtube.com/playlist?list=PLX9Zi6XTqOKQ7TdRz0QynGIKuMV9Q2H8E) - Saurabh Shukla Sir
 * [Java Tutorials for Beginners](https://www.youtube.com/playlist?list=PLlhM4lkb2sEhfuXL-2BDrJ67WkUdQ2v9b) - Deepak Panwar, Smart Programming
 * [Java Tutorials For Beginners In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q) - CodeWithHarry
-* [Servlet and Jsp](https://youtube.com/playlist?list=PL0zysOflRCel5BSXoslpfDawe8FyyOSZb) - Learn Code With Durgesh
 * [Spring Boot tutorial basic in Hindi](https://youtube.com/playlist?list=PL0zysOflRCelmjxj-g4jLr3WKraSU_e8q) - Learn Code With Durgesh
+* [Microservice Tutorial in Hindi 2023](https://www.youtube.com/playlist?list=PL0zysOflRCelb2Y4WOVckFC6B050BzV0D) - Learn Code With Durgesh
 * [Spring Boot Tutorial For Beginners (in Hindi)](https://www.youtube.com/playlist?list=PL5mjp3QjkuoLPS-L28yKCKyzCMX8WRVno) - ProgRank
 * [Spring MVC Tutorial Step by Step [Hindi]](https://youtube.com/playlist?list=PL0zysOflRCelAb51IrexpUSeB0dpr9p6g) - Learn Code With Durgesh
 * [Spring tutorial Basic to Advance in Hindi](https://youtube.com/playlist?list=PL0zysOflRCekeiERASkpi-crREVensZGS) - Learn Code With Durgesh
@@ -321,6 +322,7 @@
 
 ### JavaScript
 
+* [Chai aur Javascript हिन्दी](https://www.youtube.com/playlist?list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37) - Chai aur Code (Hitesh Choudhary)
 * [JavaScript \| Beginning to Mastery Complete Tutorial](https://www.youtube.com/watch?v=chx9Rs41W6g&list=PLwgFb6VsUj_n15Cg_y2ULKfsOR1XiQqPx) - Harshit Vashisth
 * [JavaScript Introduction Tutorial in Hindi / Urdu](https://www.youtube.com/playlist?list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf) - Yahoo Baba
 * [JavaScript Tutorial for Beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4) - Telusko
@@ -389,10 +391,13 @@
 * [Linux Full Course (Beginner to Advanced) \| Learn Linux in Hindi](https://www.youtube.com/playlist?list=PLjVLYmrlmjGcsZGJWeo8ec4yIBLX2KeyR) - WsCube Tech
 * [Linux Tutorial For Beginners in Hindi](https://www.youtube.com/playlist?list=PLSntPnamABVEi_K1gxbOEwXVz09pY9qb8) - Ankit Tiwari
 * [Linux Tutorial For Beginners in Hindi](https://www.youtube.com/watch?v=_tCY-c-sPZc) - CodeWithHarry
+* [Linux Tutorials For Beginners in Hindi](https://www.youtube.com/playlist?list=PL0tP8lerTbX3eUtBFS0Ir4_aFqKuXWjYZ) - M Prashant
 
 
 ### Machine Learning
 
+* [100 Days Of Deep Learning](https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn) - CampusX
+* [100 Days Of Machine Learning](https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH) - CampusX
 * [Intro to Machine Learning](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHioMKxmCxzpXdNfLE4TVjD) - Pepcoding
 * [Machine Learning](https://www.youtube.com/playlist?list=PLYwpaL_SFmcBhOEPwf5cFwqo5B-cP9G4P) - 5 Minutes Engineering
 * [Machine Learning Full Course](https://www.youtube.com/watch?v=IoZGSQ07e8g) - Bharani Akella, Great Learning

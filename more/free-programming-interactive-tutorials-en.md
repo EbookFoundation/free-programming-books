@@ -301,7 +301,7 @@
 
 ### Linux
 
-* [Linux Journey - Fun and Easy](https://linuxjourney.com/) - Cindy Quach
+* [Linux Journey - Fun and Easy](https://linuxjourney.com) - Cindy Quach
 
 
 ### Lisp

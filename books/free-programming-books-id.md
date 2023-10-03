@@ -108,7 +108,6 @@
 * [Pemrograman Java](https://blog.rosihanari.net/download-tutorial-java-se-gratis/) - Rosihan Ari Yuana
 
 
-
 ### JavaScript
 
 * [Javascript Guide](https://gilacoding.com/upload/file/Javascript%20Guide.pdf) - Desrizal (PDF)

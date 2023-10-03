@@ -40,6 +40,7 @@
 
 * [ספר על למידת מכונה ולמידה עמוקה](https://github.com/AvrahamRaviv/Deep-Learning-in-Hebrew) – אברהם רביב ומייק ארליסון
 
+
 ### Python
 
 * [תכנות בשפת פייתון](https://data.cyber.org.il/python/python_book.pdf) – ברק גונן, המרכז לחינוך סייבר (PDF)

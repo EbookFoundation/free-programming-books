@@ -62,7 +62,7 @@
 * [HackThisSite](https://www.hackthissite.org) (email address *requested*)
 * [Overthewire Wargames fungame to practice CTF](https://overthewire.org/wargames/bandit)
 * [Picoctf](https://picoctf.org/resources.html) (email address *requested*)
-* [SmashtheStack](http://www.smashthestack.org/wargames.html)
+* [SmashTheStack](http://www.smashthestack.org/main.html#wargames)
 * [TryHackMe](https://tryhackme.com) (email address *requested*)
 
 

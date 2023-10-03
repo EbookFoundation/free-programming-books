@@ -414,12 +414,13 @@
 
 ### Cryptography
 
+* [Advanced Diploma in Cryptography](https://alison.com/course/advanced-diploma-in-cryptography) -NPTEL
 * [Introduction to Cryptography](https://open.ruhr-uni-bochum.de/en/lernangebot/introduction-cryptography) (Christof Paar)
 * [Stanford Cryptography I](https://www.coursera.org/course/crypto) - Dan Boneh
 * [Stanford Cryptography II](https://www.coursera.org/course/crypto2) - Dan Boneh
 
 
-### Cuda
+###Cuda
 
 * [Intro to Parallel Programming Using CUDA to Harness the Power of GPUs](https://www.udacity.com/course/intro-to-parallel-programming--cs344) (Udacity)
 
@@ -618,7 +619,7 @@
 ### Fortran
 
 * [Fortran Tutorial](https://www.youtube.com/watch?v=__2UgFNYgf8) - Derek Banas
-
+* [Learn Fortan Free Course](https://fortran-lang.org/learn/) - Fortan-lang.org
 
 ### Game Development
 
@@ -692,7 +693,7 @@
 
 * [Graph Theory](https://youtube.com/playlist?list=PLztBpqftvzxXBhbYxoaZJmnZF6AUQr1mH) - Wrath of Math
 * [Graph Theory - DM](https://youtube.com/playlist?list=PLYrahs7hsYIQiSNxTfZndQz7jWPXsA1ur) - SCCI Labs IIT Ropar
-
+* [Intoductio to Graph Theory](https://www.classcentral.com/course/graphs-9213) - UC San Diego
 
 ### Haskell
 
@@ -966,7 +967,7 @@
 #### Three.js
 
 * [Three.js Tutorial Crash Course](https://www.youtube.com/watch?v=YK1Sw_hnm58) - Chris Courses
-
+* [Three.JS Primer Course](https://www.udemy.com/course/the-threejs-primer) - Udemy
 
 #### Vue.js
 

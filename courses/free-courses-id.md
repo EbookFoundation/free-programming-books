@@ -33,9 +33,9 @@
   * [Codeigniter](#codeigniter)
   * [Laravel](#laravel)
 * [Python](#python)
-* [Django](#django)
-* [Flask](#flask)
-* [PyTorch](#pytorch)
+  * [Django](#django)
+  * [Flask](#flask)
+  * [PyTorch](#pytorch)
 * [Redis](#redis)
 * [Rust](#rust)
 * [SASS / SCSS](#sass--scss)
@@ -403,6 +403,7 @@
 ### Rust
 
 * [Belajar Rust](https://www.youtube.com/playlist?list=PLIfsrcorUur10nUSHVq9Mb4yWu87_5lZn) - Dev Activity
+
 
 ### SASS / SCSS
 

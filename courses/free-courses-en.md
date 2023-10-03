@@ -364,7 +364,7 @@
 #### AWS
 
 * [AWS Certified Cloud Practitioner Course](https://youtube.com/playlist?list=PLt1SIbA8guuvfvUDVLpJepmbnYpOfYCIB) - Stephane Maarek
-* [AWS Cloud Technical Essentials](https://www.coursera.org/learn/aws-cloud-technical-essentials) - AWS (Coursera)
+* [AWS Cloud Technical Essentials](https://www.youtube.com/playlist?list=PLiOKisJtnuNsfVFNx15YFYmmAhmsc_3me) - Hojat Gazestani
 * [AWS Power Hour: Architecting](https://pages.awscloud.com/traincert-twitch-power-hour-architecting.html?saa=sec&sec=prep) - AWS
 * [AWS Tutorial For Beginners](https://youtube.com/playlist?list=PLEiEAq2VkUULlNtIFhEQHo8gacvme35rz) - Simplilearn
 * [Cloud Computing Basics with AWS](https://trailhead.salesforce.com/content/learn/modules/aws-cloud) - Trailhead (Salesforce) (email address *required*)

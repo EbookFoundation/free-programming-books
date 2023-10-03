@@ -1002,6 +1002,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 * [IoT in five days- V1.1](https://github.com/marcozennaro/IPv6-WSN-book/tree/master/Releases) (PDF, EPUB)
 * [Mastering Internet of Things](https://www.packtpub.com/free-ebooks/mastering-internet-things) - Peter Waher (Packt account *required*)
+* [Internet of Things & its Application](https://drive.google.com/file/d/1okHvh2ZSuq4pMPEJruxhXTzBwJapYNkf/view) - M.Anantha Guptha (PDF)
 
 
 ### Isabelle/HOL

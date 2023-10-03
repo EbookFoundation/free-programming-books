@@ -1,6 +1,5 @@
 ### Index
 
-* [Index](#index)
 * [Android](#android)
 * [Apache Kafka](#apache-kafka)
 * [AR / VR](#ar--vr)

@@ -209,7 +209,7 @@
 * [Linked Lists - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_) - Pepcoding
 * [Simplified DSA with FRAZ](https://www.youtube.com/playlist?list=PLKZaSt2df1gy75J3irj89a2vSGqeQdtDA) - Fraz
 * [Stack Playlist \| Interview Questions \| Coding \| Tutorials \| Data Structures](https://www.youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd) - Aditya Verma 
-
+* [Data Structures and Algorithms](https://youtu.be/AT14lCXuMKI?si=cubF_ZiTYJ1EfXcL) - Jenny's Lectures CS IT
 
 ### Databases
 

@@ -359,6 +359,7 @@
 ### Cloud Computing
 
 * [Cloud Computing and Development](https://uaceit.com/courses/cloud-computing-and-development) - Ashwin Kumar Ramaswamy (UAceIt) (email address *required*)
+* [Cloud Computing course](https://www.youtube.com/playlist?list=PLShJJCRzJWxhz7SfG4hpaBD5bKOloWx9J) - nptel course
 * [Cloud Computing Full Course In 11 Hours \| Cloud Computing Tutorial For Beginners](https://www.youtube.com/watch?v=2LaAJq1lB1Q) - Edureka!
 * [Introduction to Cloud](https://cognitiveclass.ai/courses/introduction-to-cloud) - CognitiveClass.ai
 
@@ -421,9 +422,12 @@
 
 ### Cryptography
 
+* [Cryptography & Network Security](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgJU3EsOYDTW7m6SUmW6kII) - Neso Academy
+* [Foundations of Cryptography](https://www.youtube.com/playlist?list=PLgMDNELGJ1CbdGLyn7OrVAP-IKg-0q2U2) - nptel course
 * [Introduction to Cryptography](https://open.ruhr-uni-bochum.de/en/lernangebot/introduction-cryptography) (Christof Paar)
 * [Stanford Cryptography I](https://www.coursera.org/course/crypto) - Dan Boneh
 * [Stanford Cryptography II](https://www.coursera.org/course/crypto2) - Dan Boneh
+* [Undertanding Cryptography](https://www.youtube.com/playlist?list=PL2jrku-ebl3H50FiEPr4erSJiJHURM9BX) - Dr Christof Paar
 
 
 ### Cuda
@@ -508,6 +512,7 @@
 * [Learn SQL](https://www.sololearn.com/learning/1060) - *registration required*
 * [Learn SQL: SQL Tutorial for Beginners](https://www.programiz.com/sql) - Programiz
 * [MySQL Tutorial for Beginners [Full Course]](https://www.youtube.com/watch?v=7S_tz1z_5bA) - Moshfegh Hamedani (Programming with Mosh)
+* [SQL complete course](https://www.youtube.com/playlist?list=PLLQPIumE5cE-gzU5hChH1V3H93x4UOlHR) - nptel course
 * [SQL Foundations](https://www.udemy.com/course/sql-essentials-for-beginners/) - Sagar Uppuluri (Udemy)
 * [SQL Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWr_6xTfF2FrIw-NAOo3iWMy)
 * [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY) - Mike Dane (freeCodeCamp)

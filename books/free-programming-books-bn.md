@@ -16,7 +16,7 @@
 ### Algorithms
 
 * [Dynamic Programming Book «ডাইনামিক প্রোগ্রামিং বই»](https://dp-bn.github.io) - Tasmeem Reza, Mamnoon Siam (PDF, [LaTeX](https://github.com/Bruteforceman/dynamic-progamming-book))
-* [Introduction to Algorithms](PDF, https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf) - THOMAS H. CORMEN, CHARLES E. LEISERSON, RONALD L.RIVEST, CLIFFORD STEIN
+* [Introduction to Algorithms](PDF, [Introduction to Algorithms]https://edutechlearners.com/download/Introduction_to_algorithms-3rd%20Edition.pdf) - THOMAS H. CORMEN, CHARLES E. LEISERSON, RONALD L.RIVEST, CLIFFORD STEIN
 
 
 ### C

@@ -27,6 +27,7 @@
 * [Data Science](#data-science)
 * [Databases](#databases)
     * [NoSQL](#nosql)
+    * [Postgresql](#postgresql)
     * [SQL](#sql)
 * [Deep Learning](#deep-learning)
 * [DevOps](#devops)
@@ -80,7 +81,6 @@
 * [Pharo](#pharo)
 * [PHP](#php)
 * [PLC - Programmable logic controllers](#plc---programmable-logic-controllers)
-* [Postgresql](#postgresql)
 * [Processing](#processing)
 * [Python](#python)
     * [Django](#django)
@@ -492,7 +492,14 @@
 * [MongoDB University](https://university.mongodb.com) - MongoDB, Inc. (email address *required*)
 * [Neo4j (Graph Database) Crash Course](https://www.youtube.com/watch?v=8jNPelugC2s) - Laith Academy
 * [Neo4j Graph Database Tutorial](https://www.youtube.com/playlist?list=PLqfPEK2RTgChcOZ6qHgSfwiBPCz2Bzdjh) - Satish C J
-* [Redis University](https://university.redis.com) - Redis Inc. *(email address required)*
+* [Redis University](https://university.redis.com) - Redis Inc. *(email address required)
+
+
+### Postgresql
+
+*[Learn Database Administration - PostgreSQL Database Administration (DBA) for Beginners](https://www.youtube.com/watch?v=aUfPf-clLLs) -
+Databases A2Z
+*[How to Install and configuration PostgreSQL on Ubuntu Linux](https://www.youtube.com/watch?v=-LwI4HMR_Eg) - ProgrammingKnowledge
 
 
 #### SQL
@@ -1192,13 +1199,6 @@
 ### Processing
 
 * [Learning Processing: A Beginner's Guide to Programming Images, Animation, and Interaction](https://www.youtube.com/c/TheCodingTrain/playlists?view=50&sort=dd&shelf_id=10) - The Coding Train
-
-
-### Postgresql
-
-*[Learn Database Administration - PostgreSQL Database Administration (DBA) for Beginners](https://www.youtube.com/watch?v=aUfPf-clLLs) -
-Databases A2Z
-*[How to Install and configuration PostgreSQL on Ubuntu Linux](https://www.youtube.com/watch?v=-LwI4HMR_Eg) - ProgrammingKnowledge
 
 
 ### Python

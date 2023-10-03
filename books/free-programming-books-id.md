@@ -216,8 +216,8 @@
 
 ### Rust
 
-* [Belajar Rust](https://belajar-rust.vercel.app/) - evilfactorylabs
-* [Dasar Pemrograman Rust](https://dasarpemrogramanrust.novalagung.com/) - Noval Agung Prayogo
+* [Belajar Rust](https://belajar-rust.vercel.app) - evilfactorylabs
+* [Dasar Pemrograman Rust](https://dasarpemrogramanrust.novalagung.com) - Noval Agung Prayogo
 * [Easy Rust Indonesia](https://github.com/ariandy/easy-rust-indonesia) - ariandy
 
 

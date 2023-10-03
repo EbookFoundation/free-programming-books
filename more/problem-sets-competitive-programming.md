@@ -53,15 +53,15 @@
 
 ### Capture the flag
 
--   [CTFlearn](https://ctflearn.com) (email address _requested_)
--   [Google CTF](https://capturetheflag.withgoogle.com) (email address _requested_)
--   [Hacker101](https://ctf.hacker101.com) (email address _requested_)
--   [Hackthebox](https://www.hackthebox.eu) (email address _requested_)
--   [HackThisSite](https://www.hackthissite.org) (email address _requested_)
--   [Overthewire Wargames fungame to practice CTF](https://overthewire.org/wargames/bandit)
--   [Picoctf](https://picoctf.org/resources.html) (email address _requested_)
--   [SmashtheStack](http://www.smashthestack.org/wargames.html)
--   [TryHackMe](https://tryhackme.com) (email address _requested_)
+- [CTFlearn](https://ctflearn.com) (email address *requested*)
+- [Google CTF](https://capturetheflag.withgoogle.com) (email address *requested*)
+- [Hacker101](https://ctf.hacker101.com) (email address *requested*)
+- [Hackthebox](https://www.hackthebox.eu) (email address *requested*)
+- [HackThisSite](https://www.hackthissite.org) (email address *requested*)
+- [Overthewire Wargames fungame to practice CTF](https://overthewire.org/wargames/bandit)
+- [Picoctf](https://picoctf.org/resources.html) (email address *requested*)
+- [SmashTheStack](http://www.smashthestack.org/main.html#wargames)
+- [TryHackMe](https://tryhackme.com) (email address *requested*)
 
 ### Data science
 

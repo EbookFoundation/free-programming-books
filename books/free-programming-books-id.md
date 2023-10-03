@@ -1,6 +1,5 @@
 ### Index
 
-* [Index](#index)
 * [Android](#android)
 * [C](#c)
 * [C#](#c-1)

@@ -47,7 +47,7 @@
 ### JavaScript
 
 * [হাতেকলমে জাভাস্ক্রিপ্ট: সম্পূর্ণ বাংলায় হাতেকলমে জাভাস্ক্রিপ্ট শিখুন](https://zonayed.js.org) - Zonayed Ahmed (HTML)
-
+* [জাভাস্ক্রিপ্ট টিউটোরিয়াল](https://www.webcoachbd.com/javascript-tutorials) - Webcoachbd Team (HTML)
 
 ### Machine Learning
 

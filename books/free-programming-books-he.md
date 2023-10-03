@@ -44,7 +44,7 @@
 
 ### Java
 
-* [המדריך הישראלי לג׳אווה](https://javabook.co.il/wordpress/?page_id=10) – חיים מיכאל
+* [המדריך הישראלי לג׳אווה](https://github.com/3R1Dev/Chaim-Michael-Guide-to-Java) – חיים מיכאל
 
 
 ### Python

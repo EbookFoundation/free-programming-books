@@ -162,7 +162,7 @@ Shikkhangon BD
 * [JS Bangla Tutorial Series for Beginners](https://www.youtube.com/playlist?list=PLHiZ4m8vCp9OkrURufHpGUUTBjJhO9Ghy) - Sumit Saha (Learn with Sumit)
 * [Modern JavaScript ES6 Bangla Tutorial](https://www.youtube.com/playlist?list=PLHiZ4m8vCp9MFjMRp9EEHWKArbi0wdgXG) - Sumit Saha (Learn with Sumit)
 * [Play with DOM - Bangla](https://www.youtube.com/playlist?list=PLHiZ4m8vCp9MJDxMOzhYVuTrO1b5n-Tq_) - Sumit Saha (Learn with Sumit)
-
+* [JavaScript Tutorial For Beginners](https://www.youtube.com/playlist?list=PLNMnAEqLBwmodUM0HlExxtYERNS2YARhW) - Hablu Programmer
 
 #### Angular
 

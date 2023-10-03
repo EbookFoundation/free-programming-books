@@ -59,6 +59,7 @@
 
 ### Software Libre
 
+* [Atareao con Linux](https://atareao.es/podcast) - Lorenzo Carbonell (podcast)
 * [Compilando Podcast](https://compilando.audio) - Paco Estrada (podcast)
 * [Mangocast](https://www.mangocast.net) - Lucho Benitez, Pablo Santa Cruz, Miguel Balsevich, Luis Corvalán, Rolando Natalizia (podcast)
 * [Podcast Linux](https://podcastlinux.com) - Juan Febles (podcast)

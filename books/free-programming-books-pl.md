@@ -115,7 +115,6 @@
 ### JavaScript
 
 * [JavaScript](https://pl.wikibooks.org/wiki/JavaScript) - Wikibooks
-* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/pl)
 * [JavaScript. I wszystko jasne](http://shebang.pl/kursy/wszystko-jasne/) - Marijn Haverbeke, Łukasz Piwko
 * [Wstęp - JavaScript](http://www.kurshtml.edu.pl/js/index.html) - Sławomir Kokłowski
 

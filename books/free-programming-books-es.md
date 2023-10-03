@@ -284,7 +284,7 @@
 
 #### DynamoDB
 
-* [Aprendizaje amazon-dynamodb](https://riptutorial.com/Download/amazon-dynamodb-es.pdf) - StackOverflow Contributors (PDF)
+* [Aprendizaje amazon-dynamodb](https://riptutorial.com/Download/amazon-dynamodb-es.pdf) - Compiled from StackOverflow documentation (PDF)
 
 
 #### MongoDB

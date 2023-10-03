@@ -299,6 +299,11 @@
 * [Learn LaTeX in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 
 
+### Linux
+
+* [Linux Journey - Fun and Easy](https://linuxjourney.com/) - Cindy Quach
+
+
 ### Lisp
 
 * [Lisp Koans](https://github.com/google/lisp-koans)

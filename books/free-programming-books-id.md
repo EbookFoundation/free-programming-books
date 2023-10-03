@@ -25,6 +25,7 @@
 * [Pemrograman Kompetitif](#pemrograman-kompetitif)
 * [PHP](#php)
 * [Python](#python)
+* [Rust](#rust)
 * [Solidity](#solidity)
 
 
@@ -210,6 +211,8 @@
 * [Tutorial Python](https://docs.python.org/id/3.8/tutorial/)
 * [Workshop Python 101](http://sakti.github.io/python101/)
 
+### Rust
+* [Belajar Rust Untuk Pemula](https://dasarpemrogramanrust.novalagung.com/)
 
 ### Solidity
 

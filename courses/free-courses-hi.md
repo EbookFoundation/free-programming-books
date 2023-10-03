@@ -452,7 +452,7 @@
 
 ### Python
 
-* [100 Days of Code (Hindi) - Python Course](https://replit.com/learn/code-with-harry-100-doc) - replit
+* [100 Days of Code (Hindi) - Python Course](https://replit.com/learn/code-with-harry-100-doc) - replit & CodeWithHarry
 * [Advance Python (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhijd1hUF2VWiKt8FHNBa7kGb) - Rajesh Kumar, Geeky Shows
 * [Class 12 Board \| Python \| Computer Science](https://www.youtube.com/playlist?list=PLKKfKV1b9e8oyESqu5mrGN-eDxHdNoi_j) - Apni Kaksha
 * [Complete Python tutorial in Hindi](https://www.youtube.com/playlist?list=PLmRclvVt5DtmcLF3ywxKg692lhfD6SUOr) - codeitup

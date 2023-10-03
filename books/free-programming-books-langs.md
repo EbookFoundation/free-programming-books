@@ -2502,6 +2502,7 @@ Books on general-purpose programming that don't focus on a specific language are
     * [Using Swift with Cocoa and Objective-C](https://itunes.apple.com/us/book/using-swift-cocoa-objective/id888894773?mt=11) - Apple Inc. (iBook)
 * [The Swift Programming Language (Official Swift book by Apple)](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/) (HTML)
 
+
 #### Vapor
 
 * [Vapor 3 Tutorial For Beginners](https://theswiftdev.com/2018/04/09/vapor-3-tutorial-for-beginners) - Tibor Bödecs

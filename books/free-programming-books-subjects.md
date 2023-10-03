@@ -380,7 +380,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
 * [Deep Learning](http://www.deeplearningbook.org) - Ian Goodfellow, Yoshua Bengio, Aaron Courville
 * [Deep Learning for Coders with Fastai and PyTorch](https://github.com/fastai/fastbook) - Jeremy Howard, Sylvain Gugger (Jupyter Notebooks)
-* [Distributed Machine Learning Patterns](http://176.119.25.72/main/3781000/a21fe92699747f6682271fc98a0cf60d/Yuan%20Tang%20-%20Distributed%20Machine%20Learning%20Patterns%20%28MEAP%20V07%29-Manning%20Publications%20%282023%29.pdf) - Yuan Tang
+* [Distributed Machine Learning Patterns](http://176.119.25.72/main/3781000/a21fe92699747f6682271fc98a0cf60d/Yuan%20Tang%20-%20Distributed%20Machine%20Learning%20Patterns%20%28MEAP%20V07%29-Manning%20Publications%20%282023%29.pdf) - Yuan Tang (PDF)
 * [Dive into Deep Learning](http://d2l.ai)
 * [Explorations in Parallel Distributed Processing: A Handbook of Models, Programs, and Exercises](https://web.stanford.edu/group/pdplab/pdphandbook) - James L. McClelland
 * [Foundations of Machine Learning, Second Edition](https://mitpress.ublish.com/ebook/foundations-of-machine-learning--2-preview/7093/Cover) - Mehryar Mohri, Afshin Rostamizadeh, Ameet Talwalkar

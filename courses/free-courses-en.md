@@ -970,7 +970,9 @@
 
 #### Svelte
 
+* [Beginner SvelteKit](https://vercel.com/docs/beginner-sveltekit) - Steph Dietz, Vercel
 * [Learn the Svelte JavaScript Framework](https://www.youtube.com/watch?v=ujbE0mzX-CU) - Noah Glaser, freeCodeCamp
+* [Learn Svelte Full Course](https://www.youtube.com/watch?v=UGBJHYpHPvA) - Lihau Tan, freeCodeCamp
 * [Svelte Tutorial](https://www.youtube.com/watch?v=vhGiGqZ78Rs) - Beau Carnes, freeCodeCamp
 
 

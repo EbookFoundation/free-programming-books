@@ -414,13 +414,13 @@
 
 ### Cryptography
 
-* [Advanced Diploma in Cryptography](https://alison.com/course/advanced-diploma-in-cryptography) -NPTEL
+* [Advanced Diploma in Cryptography](https://alison.com/course/advanced-diploma-in-cryptography) - NPTEL
 * [Introduction to Cryptography](https://open.ruhr-uni-bochum.de/en/lernangebot/introduction-cryptography) (Christof Paar)
 * [Stanford Cryptography I](https://www.coursera.org/course/crypto) - Dan Boneh
 * [Stanford Cryptography II](https://www.coursera.org/course/crypto2) - Dan Boneh
 
 
-###Cuda
+### Cuda
 
 * [Intro to Parallel Programming Using CUDA to Harness the Power of GPUs](https://www.udacity.com/course/intro-to-parallel-programming--cs344) (Udacity)
 
@@ -621,9 +621,10 @@
 * [Fortran Tutorial](https://www.youtube.com/watch?v=__2UgFNYgf8) - Derek Banas
 * [Learn Fortan Free Course](https://fortran-lang.org/learn/) - Fortan-lang.org
 
+
 ### Game Development
 
-* [[Beginner] Make an RPG](https://www.youtube.com/playlist?list=PL9FzW-m48fn2ug_FSNnfozQs3qYlBNyTd) - HeartBeast
+* [Beginner Make an RPG](https://www.youtube.com/playlist?list=PL9FzW-m48fn2ug_FSNnfozQs3qYlBNyTd) - HeartBeast
 * [2D Hack-n-Slash Course (Complete Course) - GameMaker Studio 2](https://www.youtube.com/playlist?list=PL9FzW-m48fn0mblTG_KFDg81AMXDPKBE5) - HeartBeast
 * [CS50 2019 - Games Track](https://www.youtube.com/playlist?list=PLhQjrBD2T382mHvZB-hSYWvoLzYQzT_Pb) - David J. Malan (Harvard OpenCourseWare)
 * [CS50's Introduction to Game Development](https://cs50.harvard.edu/games/) - Colton Ogden (Harvard OpenCourseWare and edX)
@@ -694,6 +695,7 @@
 * [Graph Theory](https://youtube.com/playlist?list=PLztBpqftvzxXBhbYxoaZJmnZF6AUQr1mH) - Wrath of Math
 * [Graph Theory - DM](https://youtube.com/playlist?list=PLYrahs7hsYIQiSNxTfZndQz7jWPXsA1ur) - SCCI Labs IIT Ropar
 * [Intoductio to Graph Theory](https://www.classcentral.com/course/graphs-9213) - UC San Diego
+
 
 ### Haskell
 
@@ -968,6 +970,7 @@
 
 * [Three.js Tutorial Crash Course](https://www.youtube.com/watch?v=YK1Sw_hnm58) - Chris Courses
 * [Three.JS Primer Course](https://www.udemy.com/course/the-threejs-primer) - Udemy
+
 
 #### Vue.js
 

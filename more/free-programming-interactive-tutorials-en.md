@@ -206,6 +206,7 @@
 * [Bootstrap Tutorial](https://www.tutlane.com/tutorial/bootstrap) - tutlane
 * [Front End Development Libraries Certification: Bootstrap](https://www.freecodecamp.org/learn/front-end-libraries/bootstrap) - freeCodeCamp
 * [Get started with Bootstrap](https://getbootstrap.com/docs) - Bootstrap
+* [Learn Bootstrap Tutorial](https://www.javatpoint.com/bootstrap-tutorial) - JavaTPoint
 
 
 ### Java

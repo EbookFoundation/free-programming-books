@@ -1,4 +1,4 @@
-# List of Free Learning Resources In Many Languages
+# List Of Free Learning Resources In Many Languages
 
 <div align="center" markdown="1">
 
@@ -19,6 +19,7 @@ This page is available as an easy-to-read website. Access it by clicking on [![h
     <input type="submit" id="submit" name="submit" value="Search" />
   </form>
 </div>
+
 
 ## Intro
 
@@ -57,7 +58,8 @@ Click on these badges to see how you might be able to help:
 
 </div>
 
-## How to Share
+
+## How To Share
 
 <div align="left" markdown="1">
 
@@ -68,15 +70,18 @@ Click on these badges to see how you might be able to help:
 
 </div>
 
+
 ## Resources
 
 This project lists books and other resources grouped by genres:
+
 
 ### Books
 
 [English, By Programming Language](books/free-programming-books-langs.md)
 
 [English, By Subject](books/free-programming-books-subjects.md)
+
 
 #### Other Languages
 
@@ -121,9 +126,11 @@ This project lists books and other resources grouped by genres:
 + [Ukrainian / Українська](books/free-programming-books-uk.md)
 + [Vietnamese / Tiếng Việt](books/free-programming-books-vi.md)
 
+
 ### Cheat Sheets
 
 + [All Languages](more/free-programming-cheatsheets.md)
+
 
 ### Free Online Courses
 
@@ -178,7 +185,7 @@ This project lists books and other resources grouped by genres:
 + [Problem Sets](more/problem-sets-competitive-programming.md)
 
 
-### Podcast - Screencast
+### Podcast and Screencast
 
 Free Podcasts and Screencasts:
 

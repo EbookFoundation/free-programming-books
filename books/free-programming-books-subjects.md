@@ -1,7 +1,7 @@
 ## BY SUBJECT
 
-This list, organized by subject, is for books that cover a programming-related subject in a programming-language agnostic way.    
-Books that cover a specific programming language can be found in the  [BY PROGRAMMING LANGUAGE](free-programming-books-langs.md) list.
+This list, organized by subject, is for books that cover a programming-related subject in a programming-language agnostic way.
+Books that cover a specific programming language can be found in the [BY PROGRAMMING LANGUAGE](free-programming-books-langs.md) list.
 
 
 ### Index
@@ -39,6 +39,7 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Professional Development](#professional-development)
 * [Programming](#programming)
 * [Programming Paradigms](#programming-paradigms)
+* [Prompt Engineering](#prompt-engineering)
 * [Quantum Computing](#quantum-computing)
 * [Regular Expressions](#regular-expressions)
 * [Reverse Engineering](#reverse-engineering)
@@ -229,7 +230,6 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/) - Richard Szeliski
 * [Computer Vision: Foundations and Applications](http://vision.stanford.edu/teaching/cs131_fall1718/files/cs131-class-notes.pdf) - Ranjay Krishna (PDF)
 * [Computer Vision: Models, Learning, and Inference](http://www.computervisionmodels.com) - Simon J.D. Prince
-* [DALLE-E 2 prompt book](https://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book.pdf) - Dallery.Gallery, Guy Parson(PDF)
 * [Programming Computer Vision with Python](http://programmingcomputervision.com) - Jan Erik Solem
 
 
@@ -760,6 +760,13 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/) - Mostly Adequate Core Team
 * [The Pure Function Pipeline Data Flow v3.0 ---- the Grand Unified Programming Theory](https://github.com/linpengcheng/PurefunctionPipelineDataflow) - Lin Pengcheng
 * [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
+
+
+### Prompt Engineering
+
+* [DALLE-E 2 prompt book](https://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book.pdf) - Dallery.Gallery, Guy Parson (PDF)
+* [Guide to Prompt Engineering](https://codeahoy.com/learn/promptengineering/toc) - CodeAhoy (HTML)
+* [Prompt Engineering Guide](https://www.promptingguide.ai) - DAIR.AI (HTML)
 
 
 ### Quantum Computing

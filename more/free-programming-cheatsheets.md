@@ -74,9 +74,10 @@
 
 ### Artificial Intelligence
 
-* [What is Artificial Intelligence?](https://intelligencereborn.com/ArtificialIntelligence.html) IntelligenceReborn (HTML)
-* [how to start with Artificial Intelligence](https://www.techrepublic.com/article/artificial-intelligence-cheat-sheet/) techrepublic.com (Article)
-* [getting start with AI](http://sabiod.lis-lab.fr/pub/machinelearningAIDeep_resume.pdf) - pdf.
+* [getting start with AI](http://sabiod.lis-lab.fr/pub/machinelearningAIDeep_resume.pdf) (PDF)
+* [how to start with Artificial Intelligence](https://www.techrepublic.com/article/artificial-intelligence-cheat-sheet/) techrepublic.com (HTML)
+
+
 ### C
 
 * [C Language Cheat Sheet](https://www.codewithharry.com/blogpost/c-cheatsheet/) - CodeWithHarry(HTML)
@@ -115,9 +116,9 @@
 
 ### Data Science
 
-* [Cheatsheets for Data Scientists](https://www.datacamp.com/community/data-science-cheatsheets) - Datacamp (PDF)
-* [Cheatsheet for Data](https://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf) - Python For Data Science (PDF)
-* [collecting data science cheat sheet](https://towardsdatascience.com/collecting-data-science-cheat-sheets-d2cdff092855) - medium.com (important article to learn DS)  
+* [Cheatsheet for Data](https://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf) - (PDF)
+* [collecting data science cheat sheet](https://towardsdatascience.com/collecting-data-science-cheat-sheets-d2cdff092855) - medium.com (HMTL)  
+
 
 ### <a id="data-structures-and-algorithms"></a>Data Structures and Algorithms
 

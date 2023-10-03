@@ -424,7 +424,6 @@
 * [Stanford Cryptography I](https://www.coursera.org/course/crypto) - Dan Boneh
 * [Stanford Cryptography II](https://www.coursera.org/course/crypto2) - Dan Boneh
 
-
 ### Cuda
 
 * [Intro to Parallel Programming Using CUDA to Harness the Power of GPUs](https://www.udacity.com/course/intro-to-parallel-programming--cs344) (Udacity)
@@ -979,8 +978,8 @@
 
 #### Three.js
 
+* [Three.js Primer Course](https://www.udemy.com/course/the-threejs-primer) - Udemy
 * [Three.js Tutorial Crash Course](https://www.youtube.com/watch?v=YK1Sw_hnm58) - Chris Courses
-* [Three.JS Primer Course](https://www.udemy.com/course/the-threejs-primer) - Udemy
 
 
 #### Vue.js

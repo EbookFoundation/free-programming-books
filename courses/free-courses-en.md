@@ -419,7 +419,7 @@
 
 ### Cryptography
 
-* [Advanced Diploma in Cryptography](https://alison.com/course/advanced-diploma-in-cryptography) - NPTEL
+* [Advanced Diploma in Cryptography](https://alison.com/course/advanced-diploma-in-cryptography) - nptel
 * [Introduction to Cryptography](https://open.ruhr-uni-bochum.de/en/lernangebot/introduction-cryptography) (Christof Paar)
 * [Stanford Cryptography I](https://www.coursera.org/course/crypto) - Dan Boneh
 * [Stanford Cryptography II](https://www.coursera.org/course/crypto2) - Dan Boneh
@@ -630,7 +630,7 @@
 
 ### Game Development
 
-* [Beginner Make an RPG](https://www.youtube.com/playlist?list=PL9FzW-m48fn2ug_FSNnfozQs3qYlBNyTd) - HeartBeast
+* [[Beginner]Make an RPG](https://www.youtube.com/playlist?list=PL9FzW-m48fn2ug_FSNnfozQs3qYlBNyTd) - HeartBeast
 * [2D Hack-n-Slash Course (Complete Course) - GameMaker Studio 2](https://www.youtube.com/playlist?list=PL9FzW-m48fn0mblTG_KFDg81AMXDPKBE5) - HeartBeast
 * [CS50 2019 - Games Track](https://www.youtube.com/playlist?list=PLhQjrBD2T382mHvZB-hSYWvoLzYQzT_Pb) - David J. Malan (Harvard OpenCourseWare)
 * [CS50's Introduction to Game Development](https://cs50.harvard.edu/games/) - Colton Ogden (Harvard OpenCourseWare and edX)

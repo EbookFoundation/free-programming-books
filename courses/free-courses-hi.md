@@ -274,6 +274,7 @@
 * [HTML Tutorial in Hindi \| Complete HTML Course For Beginners to Advanced](https://www.youtube.com/watch?v=QXPWs00RD3A) - Vishwajeet Kumar (Tech Gun)
 * [Web Development Course](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n) - Apna College
 * [Web Development Tutorials for Beginners in Hindi: HTML, CSS, JavaScript and more](https://www.youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg) - CodeWithHarry
+* [HTML & CSS Full Course for Free | Beginner to Pro](https://youtu.be/8-UkksHULhA?si=P_z9OkKDbeyy70dm) - Azad Chaiwala
 
 
 #### Bootstrap

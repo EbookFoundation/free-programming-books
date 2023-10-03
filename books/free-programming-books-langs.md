@@ -110,6 +110,7 @@ Books on general-purpose programming that don't focus on a specific language are
     * [Next.js](#nextjs)
     * [Node.js](#nodejs)
     * [Nuxt.js](#nuxtjs)
+    * [NativeScript](#nativescript)
     * [Om](#om)
     * [React](#react)
     * [React Native](#react-native)

@@ -523,7 +523,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [C++ Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/cplusplus) (PDF, Kindle) (email address *requested*, not required)
 * [C++ Tricks](http://www.bordoon.com/cplusplus/book_wrapper.html)
 * [C++ Tutorial](https://www.cprogramming.com/tutorial/c++-tutorial.html) - Alex Allain
-* [Cpp_STL_ReferenceManual](https://www.cppreference.com/Cpp_STL_ReferenceManual.pdf) (PDF)
+* [Cpp STL ReferenceManual](https://www.cppreference.com/Cpp_STL_ReferenceManual.pdf) - cppreference.com (PDF)
 * [CS106X Programming Abstractions in C++](http://web.stanford.edu/class/cs106x/)
 * [Elements of Programming](http://elementsofprogramming.com) - Alexander Stepanov, Paul McJones (PDF)
 * [Essential C++](https://www.programming-books.io/essential/cpp/) - Krzysztof Kowalczyk, StackOverflow Contributors

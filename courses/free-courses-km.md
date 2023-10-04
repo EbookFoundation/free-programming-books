@@ -27,16 +27,16 @@
 ### JavaScript
 
 * [មេរៀន JavaScript Speak khmer](https://youtube.com/playlist?list=PLWrsrLN26mWZiRcn4O-cphCw-AyoWumhq) - រៀនIT
-* [អនុវត្ត​កូដ Javascript](https://youtube.com/playlist?list=PLuEdNLfGOtnVmKfCI1gC6xHqJ_T9F85DW&si=cbbCi2zp_GoLcneK) - Khode Academy
-* [Javascript - បង្កើត​អន្តរកម្ម​គេហទំព័រ](https://youtube.com/playlist?list=PLuEdNLfGOtnUoeb8D2itGMIZayTi9ViOv&si=wxALcNb-i_4189KK) - Khode Academy
-* [ES6 - ជំនាន់​ថ្មី​របស់ Javascript](https://youtube.com/playlist?list=PLuEdNLfGOtnVOKm51qK8Gmx0tT-KbJoNd&si=-QXNo_NVAykbjPIt) - Khode Academy
-* [React.js - Web UI ជំនាន់​ថ្មី](https://youtube.com/playlist?list=PLuEdNLfGOtnVLr4irXpTsUiWtAq3PJHLy&si=VUszt37e9HanrZyU) - Khode Academy
-* [Node.js - Server-Side Javascript](https://youtube.com/playlist?list=PLuEdNLfGOtnW-wD7kT3rqZWrI_PlR3nsk&si=7XtDzjdviR42VyXJ) - Khode Academy
+* [អនុវត្ត​កូដ Javascript](https://youtube.com/playlist?list=PLuEdNLfGOtnVmKfCI1gC6xHqJ_T9F85DW) - Khode Academy
+* [ES6 - ជំនាន់​ថ្មី​របស់ Javascript](https://youtube.com/playlist?list=PLuEdNLfGOtnVOKm51qK8Gmx0tT-KbJoNd) - Khode Academy
+* [Javascript - បង្កើត​អន្តរកម្ម​គេហទំព័រ](https://youtube.com/playlist?list=PLuEdNLfGOtnUoeb8D2itGMIZayTi9ViOv) - Khode Academy
+* [Node.js - Server-Side Javascript](https://youtube.com/playlist?list=PLuEdNLfGOtnW-wD7kT3rqZWrI_PlR3nsk) - Khode Academy
+* [React.js - Web UI ជំនាន់​ថ្មី](https://youtube.com/playlist?list=PLuEdNLfGOtnVLr4irXpTsUiWtAq3PJHLy) - Khode Academy
 
 
 ### PHP
 
-* [PHP - កម្មវិធី​គេហទំព័រ](https://youtube.com/playlist?list=PLuEdNLfGOtnVsMxiXgZUuvqFKIavgZ-Bv&si=4p2obQA7R2-IxwMz) - Khode Academy
+* [PHP - កម្មវិធី​គេហទំព័រ](https://youtube.com/playlist?list=PLuEdNLfGOtnVsMxiXgZUuvqFKIavgZ-Bv) - Khode Academy
 
 
 ### Web Development

@@ -149,10 +149,10 @@ Contoh:
 
 ### Alphabetical order
 
-- When there are multiple titles beginning with the same letter order them by the second, and so on. For example: `aa` comes before `ab`.
-- `one two` comes before `onetwo`
+- Ketika terdapat beberapa judul yang dimulai dengan huruf yang sama, urutkan berdasarkan yang kedua, dan seterusnya. Sebagai contoh: `aa` muncul sebelum `ab`.
+- `one two` muncul sebelum `onetwo`
 
-If you see a misplaced link, check the linter error message to know which lines should be swapped.
+Jika Anda melihat tautan yang salah tempat, periksa pesan kesalahan linter untuk mengetahui baris mana yang harus ditukar.
 
 
 <!----><a id="notes"></a>
@@ -187,15 +187,15 @@ Daftar kami menyediakan kumpulan metadata minimal: judul, URL, pembuat, platform
 ##### Pencipta
 
 - Kami ingin menghargai pencipta sumber daya gratis jika perlu, termasuk penerjemah!
-- Untuk karya terjemahan penulis asli harus dikreditkan. We recommend using [MARC relators](https://loc.gov/marc/relators/relaterm.html) to credit creators other than authors, as in this example:
+- Untuk karya terjemahan penulis asli harus dikreditkan. Kami rekomendasikan memakai [MARC relators](https://loc.gov/marc/relators/relaterm.html) untuk memberi kredit kepada pencipta selain penulis, seperti dalam contoh ini:
 
     ```markdown
     * [A Translated Book](http://example.com/book-id.html) - John Doe, `trl.:` Mike The Translator
     ```
 
-    here, the annotation `trl.:` uses the MARC relator code for "translator".
-- Use a comma `,` to delimit each item in the author list.
-- You can shorten author lists with "`et al.`".
+    disini, anotasi `trl.:` memakai kode MARC relator untuk "penerjemah".
+- Gunakan koma `,` untuk membatasi setiap item dalam daftar penulis.
+- Anda dapat mempersingkat daftar penulis dengan "`et al.`".
 - Kami tidak mengizinkan tautan untuk Kreator.
 - Untuk karya kompilasi atau remix, "pencipta" mungkin memerlukan deskripsi. Misalnya, buku "GoalKicker" atau "RIP Tutorial" dikreditkan sebagai "`Dikompilasi dari dokumentasi StackOverflow`" (dalam Bahasa Inggris: `Compiled from StackOverflow documentation`).
 

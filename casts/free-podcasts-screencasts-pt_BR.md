@@ -32,7 +32,8 @@
 ### DataScience
 
 * [Data Hackers](https://datahackers.com.br/podcast) (podcast)
-* [Data Science Academy](http://datascienceacademy.com.br/blog/podcast-dsa/) (podcast)
+* [Data Science Academy](https://blog.dsacademy.com.br/podcast-dsa-2/) (podcast)
+* [Intervalo de Confiança](https://rss.podomatic.net/rss/intervalodeconfianca.podomatic.com/rss2.xml) (podcast)
 * [Let's Data](https://www.youtube.com/playlist?list=PLn_z5E4dh_Lj5eogejMxfOiNX3nOhmhmM) - Bernardo Lago, Felipe Schiavon, Leon Silva (screencast)
 * [Pizza de Dados](https://pizzadedados.com) (podcast)
 * [Programação Dinâmica - Machine Learning em Python](https://www.youtube.com/playlist?list=PL5TJqBvpXQv5CBxLkdqmou_86syFK7U3Q) (screencast)
@@ -62,7 +63,7 @@
 ### iOS
 
 * [Build Failed](https://twitter.com/buildfailedcast) (podcast)
-* [CocoaHeads](http://www.cocoaheads.com.br/podcasts) (podcast)
+* [CocoaHeads](https://podcasts-brasileiros.com/podcast/cocoaheads-brasil) (podcast)
 
 
 ### Java
@@ -84,9 +85,11 @@
 * [Hipsters Ponto Tech](http://hipsters.tech) (podcast)
 * [Lambda3](https://blog.lambda3.com.br/category/podcast) (podcast)
 * [NerdTech (Jovem Nerd)](https://jovemnerd.com.br/playlist/nerdtech) (podcast)
+* [OsProgramadores](https://anchor.fm/osprogramadores) (podcast)
 * [PODebug](http://www.podebug.com) (podcast)
 * [PodProgramar](https://mundopodcast.com.br/podprogramar) (podcast)
 * [podTag](https://podtag.com.br) (podcast)
+* [Pull reCast](https://www.youtube.com/channel/UC4FvW-Q6kVLeZuvhGb4txrQ) - Alan Braz, Matheus Bitencourt (screencast)
 * [Screencast DevMedia - Lazy Load](https://www.youtube.com/playlist?list=PLi75dzoFwEbo89TG5IaD4ODYPeJK9uxA5) (screencast)
 * [Screencasts - Andre Baltieri](https://www.youtube.com/playlist?list=PLTMuY7ptzFISwigIWpZQtp6b0TuEEvqLC) (screencast)
 

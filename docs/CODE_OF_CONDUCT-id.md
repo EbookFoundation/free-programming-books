@@ -1,27 +1,26 @@
 # Kode Etik Kontributor
 
-Sebagai kontributor dan pengelola proyek ini, dan untuk kepentingan
-membina komunitas yang terbuka dan ramah, kami berjanji untuk menghormati semua orang yang
+Sebagai kontributor dan pengelola proyek ini, kami berjanji untuk menghormati semua orang yang
 berkontribusi melalui pelaporan masalah, memposting permintaan fitur, memperbarui
-dokumentasi, pengajuan pull request atau patch, dan aktivitas lainnya.
+dokumentasi, pengajuan pull request atau patch, dan aktivitas lainnya demi kepentingan
+menjaga komunitas yang terbuka dan ramah.
 
-Kami berkomitmen untuk menjadikan partisipasi dalam proyek ini bebas dari pelecehan
-pengalaman untuk semua orang, terlepas dari tingkat pengalaman, jenis kelamin, jenis kelamin
-identitas dan ekspresi, orientasi seksual, disabilitas, penampilan pribadi,
-ukuran tubuh, ras, etnis, usia, agama, atau kebangsaan.
+Kami berkomitmen agar partisipasi dalam proyek ini bebas dari pelecehan
+pengalaman untuk semua orang, terlepas dari tingkat pengalaman, jenis kelamin,
+identitas dan ekspresi, orientasi seksual, disabilitas, penampilan diri,
+ukuran tubuh, ras, etnis, usia, agama, dan/ kebangsaan.
 
-Contoh perilaku yang tidak dapat diterima oleh peserta meliputi:
+Contoh perilaku partisipan yang tidak dapat diterima meliputi:
 
 * Penggunaan bahasa atau citra seksual
 * Serangan pribadi
-* Komentar troll atau menghina/menghina
+* Komentar troll atau menghina
 * Pelecehan publik atau pribadi
-* Memublikasikan informasi pribadi orang lain, seperti fisik atau elektronik
-  alamat, tanpa izin eksplisit
+* Memublikasikan informasi pribadi orang lain, seperti fisik atau alamat elektronik, tanpa izin eksplisit
 * Perilaku tidak etis atau tidak profesional lainnya
 
 Pengelola proyek memiliki hak dan tanggung jawab untuk menghapus, mengedit, atau
-tolak komentar, komit, kode, suntingan wiki, masalah, dan kontribusi lainnya
+menolak komentar, komit, kode, suntingan wiki, masalah, dan kontribusi lainnya
 yang tidak sesuai dengan Kode Etik ini, atau melarang sementara atau
 secara permanen setiap kontributor untuk perilaku lain yang mereka anggap tidak pantas,
 mengancam, menyinggung, atau berbahaya.

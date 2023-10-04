@@ -8,13 +8,13 @@
 * [DB & DBMS](#db--dbms)
 * [HTML and CSS](#html-and-css)
 * [Introduction to Programming in Arabic](#introduction-to-programming-in-arabic)
+* [Java](#java)
 * [JavaScript](#javascript)
     * [Vue.js](#vuejs)
 * [Linux](#linux)
 * [Open Source Software](#open-source-software)
 * [Operating System](#operating-systems)
 * [PHP](#php)
-    * [Symfony](#symfony)
 * [Python](#python)
 * [Raspberry Pi](#raspberry-pi)
 * [Ruby](#ruby)
@@ -23,7 +23,6 @@
 * [SEO](#seo)
 * [SQL](#sql)
     * [PostgreSQL](#postgresql)
-* [UI/UX](#uiux)
 
 
 ### Arduino
@@ -59,6 +58,12 @@
 * [مختصر دليل لغات البرمجة](https://alyassen.github.io/Brief-guide-to-programming-languages-v1.2.4.pdf) - Ali Al-Yassen&rlm; (PDF)
 
 
+### Java
+
+* [تفهيم الخوارزميات – الجزء الأول](https://librebooks.org/tafheem-alkhawazimyat/) - جمال بن نوار (PDF)
+* [تفهيم الخوارزميات – الجزء الثاني](https://librebooks.org/tafheem-alkhawazimyat-p2/) - جمال بن نوار (PDF)
+
+
 ### JavaScript
 
 * [تعلم JavaScript&rlm;](https://itwadi.com/node/3002) - Cody Lindley, عبداللطيف ايمش (PDF)
@@ -82,28 +87,23 @@
 
 ### Open Source Software
 
-* [الأبعاد الاستراتيجية للبرمجيات الحرة مفتوحة المصدر](http://librebooks.org/strategic-dimensions-of-free-and-open-source-software/)
-* [الحريات الرقمية - المفاهيم الرئيسية](http://librebooks.org/digital-freedoms-main-concepts/)
-* [المصادر المفتوحة خيارات بلا حدود](http://librebooks.org/opensource-ultimate-options/)
-* [تعرف على البرمجيات الحرة](http://librebooks.org/know-free-software/)
-* [دليل البرمجيات الحرة مفتوحة](http://librebooks.org/free-opensource-guide/)
-* [نبذة عن رخص البرمجيات الحرة](http://librebooks.org/bref-about-foss-licenses/)
+* [الأبعاد الاستراتيجية للبرمجيات الحرة مفتوحة المصدر](https://librebooks.org/strategic-dimensions-of-free-and-open-source-software/) - فيجن للأنظمة المتقدمة (PDF)
+* [الحريات الرقمية - المفاهيم الرئيسية](https://librebooks.org/digital-freedoms-main-concepts/) - محمد الطاهر (PDF)
+* [المصادر المفتوحة خيارات بلا حدود](https://librebooks.org/opensource-ultimate-options/) - محمد أنس طويلة (PDF)
+* [تعرف على البرمجيات الحرة](https://librebooks.org/know-free-software/) - فهد السعيدي (PDF)
+* [دليل البرمجيات الحرة مفتوحة](https://www.freeopensourceguide.com) - أحمد م. أبوزيد (PDF)
+* [نبذة عن رخص البرمجيات الحرة](https://librebooks.org/bref-about-foss-licenses/) - جلال شفرور (PDF)
 
 
 ### Operating Systems
 
-* [المقدمة في تحليل وتصميم أنظمة](http://librebooks.org/intro-to-os-analysis-and-design/)
-* [أنظمة التشغيل للمبرمجين](https://academy.hsoub.com/files/24-أنظمة-التشغيل-للمبرمجين/) - Allen B. Downey، ترجمة علا عباس (PDF)
+* [المقدمة في تحليل وتصميم أنظمة](https://librebooks.org/intro-to-os-analysis-and-design/) - Ahmed Lexis 
+* [أنظمة التشغيل للمبرمجين](https://academy.hsoub.com/files/24-أنظمة-التشغيل-للمبرمجين/) - Allen B. Downey ,ترجمة علا عباس (PDF)
 
 
 ### PHP
 
-* [تعلم البرمجة بلغة PHP](http://librebooks.org/learn-programming-with-php/)
-
-
-#### Symfony
-
-* [سيمفوني 5 : المسار السريع](https://symfony.com/doc/5.0/the-fast-track/ar/index.html)
+* [تعلم البرمجة بلغة PHP](https://librebooks.org/learn-programming-with-php/) - Ahmed Abu Al-Saud , Abdul Latif Amish
 
 
 ### Python
@@ -114,30 +114,31 @@
 ### Raspberry Pi
 
 * [احترف الرازبيري باي](https://www.ev-center.com/uploads/2/1/2/6/21261678/كتاب_احترف_الرازبيري_باي.pdf) (PDF)
-* [راسبيري باي السهل](http://librebooks.org/simply-raspberry-pi/)
+* [راسبيري باي السهل](https://librebooks.org/simply-raspberry-pi/) - Abdullah Ali Abdullah (PDF)
 
 
 ### Ruby
 
-* [مقدمة في روبي](http://librebooks.org/intro-to-ruby/)
+* [مقدمة في روبي](https://librebooks.org/intro-to-ruby/) - Ahmed Youssef (PDF)
 
 
 ### Scratch
 
-* [كتاب احترف سكراتش](http://www.ev-center.com/uploads/2/1/2/6/21261678/scratch.pdf) (PDF)
+* [تعلم البرمجة مع القط سكراتش](https://librebooks.org/learn-programming-with-scratch-cat/) - نورا حاتم (PDF)
+* [كتاب احترف سكراتش](https://www.ev-center.com/uploads/2/1/2/6/21261678/scratch.pdf) (PDF)
 
 
 ### Security
 
 * [تأمين الشبكات اللاسلكية للمستخدم المنزلي](https://mohamedation.github.io/securing-wifi) - Mohamed Adel&rlm; (HTML)
-* [تقنيات الاختراق المادي](http://librebooks.org/physical-hacking-techniques/)
+* [تقنيات الاختراق المادي](https://librebooks.org/physical-hacking-techniques/) - Abdullah Ali Abdullah (PDF)
 * [دليل الأمان الرقمي](https://academy.hsoub.com/files/20-%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%A3%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A/)
-* [عُدَّة الأمان الرقمي](http://librebooks.org/security-in-a-box/)
+* [عُدَّة الأمان الرقمي](https://librebooks.org/security-in-a-box/) - working group 
 
 
 ### SEO
 
-* [تحسين محركات البحث SEO - دليل المبتدئين](http://librebooks.org/search-engine-optimization-seo-starter-guide-ar/)
+* [تحسين محركات البحث SEO - دليل المبتدئين](https://librebooks.org/search-engine-optimization-seo-starter-guide-ar/) - The Google
 
 
 ### SQL
@@ -150,9 +151,5 @@
 * [الدليل العملي إلى قواعد بيانات PostgreSQL&rlm;](https://academy.hsoub.com/files/18-%D8%A7%D9%84%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D9%8A-%D8%A5%D9%84%D9%89-%D9%82%D9%88%D8%A7%D8%B9%D8%AF-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-postgresql/) - Craig Kerstiens، مصطفى عطا العايش (PDF)
 * [بوستجريسكل كتاب الوصفات](https://itwadi.com/PostgreSQL_Cookbook) - Chitij Chauhan&rlm; (PDF)
 
-
-### UI/UX
-
-* [مدخل إلى تجربة المستخدم](https://academy.hsoub.com/files/11-مدخل-إلى-تجربة-المستخدم-user-experience-ux/)
 
 </div>

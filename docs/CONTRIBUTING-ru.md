@@ -1,4 +1,4 @@
-*[Доступно на других языках](README.md#
+*[Доступно на других языках](README.md#translations)*
 
 
 <!----><a id="contributor-license-agreement"></a>
@@ -10,7 +10,7 @@
 <!----><a id="contributor-code-of-conduct"></a>
 ## Кодекс поведения автора
 
-Принимая участие, вы соглашаетесь соблюдать [Кодекс поведения](CODE_OF_CONDUCT-ru.md) этого репозитория. ([translations](README.md#
+Принимая участие, вы соглашаетесь соблюдать [Кодекс поведения](CODE_OF_CONDUCT-ru.md) этого репозитория. ([translations](README.md#translations)*
 
 
 <!----><a id="in-a-nutshell"></a>
@@ -146,12 +146,12 @@
     ХОРОШО: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
     ```
 
-### Alphabetical order
+### Алфавитный порядок
 
-- When there are multiple titles beginning with the same letter order them by the second, and so on. For example: `aa` comes before `ab`.
-- `one two` comes before `onetwo`
+- Если есть несколько названий, начинающихся на одну и ту же букву, упорядочьте их (названия) по второй букве, и так далее. Например: `aa` должно располагаться перед `ab`.
+- `one two` должно располагаться перед `onetwo`
 
-If you see a misplaced link, check the linter error message to know which lines should be swapped.
+Если вы видите неправильную ссылку, то проверьте сообщение линтера об ошибке, чтобы знать, какие строки следует поменять местами.
 
 
 <!----><a id="notes"></a>
@@ -171,11 +171,11 @@ If you see a misplaced link, check the linter error message to know which lines 
 
 - Никаких вымышленных названий. Мы стараемся брать названия с самих ресурсов; призываем авторов пулреквестов не придумывать заголовки и не использовать их в редакционных целях, если этого можно избежать. Исключение составляют более старые работы; если они представляют в первую очередь исторический интерес, год в скобках, добавленный к названию, помогает пользователям узнать, представляют ли они интерес.
 - Избегайте заголовков ПОЛНОСТЬЮ ЗАГЛАВНЫМИ БУКВАМИ. Обычно уместен регистр заголовка, но в случае сомнений используйте заглавные буквы из источника.
-- No emojis.
+- Не используйте эмодзи (смайлики).
 
 
 <!----><a id="urls"></a>
-##### URLs
+##### URL-адреса
 
 - Мы не разрешаем сокращенные URL-адреса.
 - Коды отслеживания должны быть удалены из URL.
@@ -185,18 +185,18 @@ If you see a misplaced link, check the linter error message to know which lines 
 
 
 <!----><a id="creators"></a>
-##### Creators
+##### Создатели
 
 - Хотим поблагодарить создателей бесплатных ресурсов, где это возможно, в том числе переводчиков!
-- Для переведенных работ следует указать оригинального автора. We recommend using [MARC relators](https://loc.gov/marc/relators/relaterm.html) to credit creators other than authors, as in this example:
+- Для переведенных работ следует указать оригинального автора. Мы рекомендуем использовать [MARC relators](https://loc.gov/marc/relators/relaterm.html) чтобы отблагодарить других создателей, кроме авторов, как в этом примере:
 
     ```markdown
     * [A Translated Book](http://example.com/book-ru.html) - John Doe, `trl.:` Mike The Translator
     ```
 
-    here, the annotation `trl.:` uses the MARC relator code for "translator".
-- Use a comma `,` to delimit each item in the author list.
-- You can shorten author lists with "`et al.`".
+    здесь сокращение `trl.:` используется MARC relator code для слова "translator" ("переводчик").
+- Используйте запятые `,` для разграничения каждого элемента в списке авторов.
+- Вы можете сокращать списки авторов с помощью "`et al.`".
 - Мы не разрешаем ссылки на авторов.
 - Для подборок и смешенных изданий «создателю» может потребоваться описание. Например, книги «GoalKicker» или «RIP Tutorial» считаются «`Скомпилированными из документации StackOverflow`» ("на английском: «`Compiled from StackOverflow documentation`»).
 

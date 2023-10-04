@@ -6,6 +6,7 @@
 * [C#](#csharp)
 * [C++](#cpp)
 * [ClojureScript](#clojurescript)
+* [ColdFusion](#coldfusion)
 * [Crystal](#crystal)
 * [Dart](#dart)
 * [Docker](#docker)
@@ -22,6 +23,7 @@
     * [AngularJS](#angularjs)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
+* [Multiple Languages](#multiple-languages)
 * [.Net](#dotnet)
 * [Nim](#nim)
 * [Node.js](#nodejs)
@@ -70,11 +72,14 @@
 
 ### <a id="csharp"></a>C\#
 
+* [OnlineGDB](https://www.onlinegdb.com/online_csharp_compiler)
+* [Programiz - Online Compiler](https://www.programiz.com/csharp-programming/online-compiler/)
 * [SoloLearn](https://code.sololearn.com/csharp)
 
 
 ### <a id="cpp"></a>C++
 
+* [Coding Blocks](https://ide.codingblocks.com)
 * [Coding Minutes](https://ide.codingminutes.com)
 * [InterviewBit](https://www.interviewbit.com/online-cpp-compiler/)
 * [LabStack](https://code.labstack.com/cpp)
@@ -88,6 +93,11 @@
 * [Web REPL](http://clojurescript.net)
 
 
+### ColdFusion
+
+* [TryCF](https://trycf.com)
+
+
 ### Crystal
 
 * [Compile & run code in Crystal](https://play.crystal-lang.org/#/cr)
@@ -96,6 +106,12 @@
 ### Dart
 
 * [DartPad](https://dartpad.dev)
+* [Replit](https://replit.com/languages/dart)
+
+
+### DevOps
+
+* [KodeKloud](https://kodekloud.com/kodekloud-engineer/)
 
 
 ### Docker
@@ -156,6 +172,7 @@
 * [InterviewBit - Online Java Compiler IDE](https://www.interviewbit.com/online-java-compiler/)
 * [JDoodle - Online Java Compiler Advanced IDE](https://www.jdoodle.com/online-java-compiler-ide/)
 * [JDoodle - Online Java Compiler IDE](https://www.jdoodle.com/online-java-compiler/)
+* [OnlineGDB](https://www.onlinegdb.com/online_java_compiler)
 * [Programiz - Online Java Compiler](https://www.programiz.com/java-programming/online-compiler/)
 * [repl.it](https://repl.it) (_including a separate Java/Swing_)
 * [SoloLearn](https://code.sololearn.com/java)
@@ -163,6 +180,7 @@
 
 ### JavaScript
 
+* [CodeHS](https://codehs.com/explore/sandbox/javascript)
 * [CodePen](https://codepen.io)
 * [CodeSandbox.io](https://codesandbox.io)
 * [Esfiddle](https://esfiddle.net)
@@ -171,6 +189,8 @@
 * [InterviewBit - Online JavaScript Compiler IDE](https://www.interviewbit.com/online-javascript-compiler/)
 * [JSBin](https://jsbin.com)
 * [JSFiddle](https://jsfiddle.net)
+* [OneCompiler](https://onecompiler.com/javascript)
+* [PlayCode](https://playcode.io/javascript)
 * [Plunker](https://plnkr.co)
 * [SoloLearn](https://code.sololearn.com/web#javascript)
 
@@ -194,6 +214,11 @@
 * [Play with Kubernetes](https://labs.play-with-k8s.com)
 
 
+### Multiple Languages
+
+* [CodeChef](https://www.codechef.com/ide)
+
+
 ### <a id="dotnet"></a>.NET
 
 * [.NET Fiddle](https://dotnetfiddle.net)
@@ -208,6 +233,7 @@
 
 * [Hello Node - (Glitch)](https://glitch.new/node) *(Account requested, not required)*
 * [Ideone](https://ideone.com)
+* [MDX Playground](https://mdxjs.com/playground)
 * [SoloLearn](https://code.sololearn.com/nodejs)
 
 
@@ -226,7 +252,6 @@
 
 * [Codepad](http://codepad.org/?lang=PHP)
 * [ExtendsClass](https://extendsclass.com/php.html)
-* [PHPFiddle](https://phpfiddle.org)
 * [PHPTester](http://phptester.net)
 * [SoloLearn](https://code.sololearn.com/php)
 
@@ -235,8 +260,11 @@
 
 * [Codepad](http://codepad.org/?lang=Python)
 * [InterviewBit - Online Python Compiler IDE](https://www.interviewbit.com/online-python-compiler/)
+* [OnlineGDB](https://www.onlinegdb.com/online_python_compiler)
 * [Programiz.com](https://www.programiz.com/python-programming/online-compiler/)
+* [Pynative.com](https://pynative.com/online-python-code-editor-to-execute-python-code/)
 * [Python Trinket](https://trinket.io/python)
+* [Python Tutor](https://pythontutor.com)
 * [Python.org Shell](https://www.python.org/shell)
 * [Repl.it - NiceDualPoint](https://repl.it/repls/NiceDualPoint#main.py)
 * [SoloLearn](https://code.sololearn.com/python)
@@ -245,6 +273,7 @@
 
 ### R
 
+* [myCompiler](https://www.mycompiler.io/online-r-compiler)
 * [R-Fiddle](http://www.r-fiddle.org)
 * [Rextester](https://rextester.com/l/r_online_compiler)
 * [SoloLearn](https://code.sololearn.com/r)
@@ -290,7 +319,7 @@
 
 ### Scala
 
-* [ScalaFiddle.io](https://scalafiddle.io)
+* [JDoodle](https://www.jdoodle.com/compile-scala-online)
 * [Scastie](https://scastie.scala-lang.org)
 
 
@@ -309,6 +338,7 @@
 
 * [Extends Class](https://extendsclass.com/sqlite-browser.html)
 * [SQLFiddle](http://sqlfiddle.com)
+* [SQLite Online](https://sqliteonline.com)
 
 
 ### Svelte
@@ -327,11 +357,7 @@
 
 * [Playground](https://www.typescriptlang.org/play/index.html)
 * [StackBlitz](https://stackblitz.com/fork/typescript)
-
-
-### V
-
-* [V Playground](https://play.vlang.io) - vlang.io
+* [TypeScript: TS Playground](https://www.typescriptlang.org/play)
 
 
 #### Angular
@@ -340,3 +366,8 @@
 
 * [Plunker](https://plnkr.co)
 * [StackBlitz](https://stackblitz.com/fork/angular)
+
+
+### V
+
+* [V Playground](https://play.vlang.io) - vlang.io

@@ -51,13 +51,13 @@
 
 ### LaTeX
 
-* [مقدمه ای نه چندان کوتاه بر LaTeX](http://www.ctan.org/tex-archive/info/lshort/persian)
+* [مقدمه‌ای نه چندان کوتاه بر LaTeX](http://www.ctan.org/tex-archive/info/lshort/persian)
 
 
 ### Linux
 
 * [فقط برای تفریح؛ داستان یک انقلابی اتفاقی](https://linuxstory.ir)
-* [لینوکس و زندگی؛‌ درس هایی برای گیک های جوان](https://linuxbook.ir)
+* [لینوکس و زندگی؛‌ درس‌هایی برای گیک های جوان](https://linuxbook.ir)
 
 
 ### PHP
@@ -69,12 +69,12 @@
 
 ### Python
 
-* [کتاب آزاد آموزش پایتون](http://python.coderz.ir)
+* [پایتون به پارسی](https://python.coderz.ir) - سعید درویش (HTML)
 
 
 #### Django
 
-* [کتاب جنگو برای حرفه ای ها](https://github.com/mthri/dfp-persian)
+* [کتاب جنگو برای حرفه‌ای‌ها](https://github.com/mthri/dfp-persian)
 * [کتاب جنگو برای API](https://github.com/ftg-iran/dfa-persian)
 
 

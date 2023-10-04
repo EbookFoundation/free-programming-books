@@ -33,4 +33,4 @@ NOTE: Contribution spikes use to match with the [Hacktoberfest event](https://ha
 
 Om du har erfarenhet som bidragsgivare på andra projekt med öppen källkod finns det några saker du kan göra för att få det att fungera. När den skickats till PR, utför ***GitHub Actions* en *linter*; som hittar en meny för att hitta små problem med utrymme, utrymme, syntax eller läskunnighet**. Om denna slutliga integrationsprocess ska slutföras kommer ljuset och allt är klart för din granskning; men om inte, klicka på "Detaljer för detaljer" som ger det exakta genomsnittet av det du tappade. Lösningen på detta problem och summan av förändringarna i din PR innebär ett nytt engagemang.
 
-I slutändan, om det inte finns någon garanti för att resursen för vilket aggregatet används för `Free-Programming-Books`, kan det definitivt hittas i [CONTRIBUTING](CONTRIBUTING.md). ([translations](README.md#translations))
+I slutändan, om det inte finns någon garanti för att resursen för vilket aggregatet används för `Free-Programming-Books`, kan det definitivt hittas i [CONTRIBUTING](CONTRIBUTING-sv.md). ([translations](README.md#translations))

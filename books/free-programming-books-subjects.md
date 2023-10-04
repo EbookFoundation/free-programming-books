@@ -240,10 +240,10 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Docker Jumpstart](https://odewahn.github.io/docker-jumpstart/) - Andrew Odewahn
 * [Docker Tutorial](https://people.irisa.fr/Anthony.Baire/docker-tutorial.pdf) - Anthony Baire (PDF)
 * [Docker Tutorial](https://www.tutorialspoint.com/docker/) - Tutorials Point (HTML, PDF)
+* [Dotnet Microservices Architecture for Containerized NET Applications](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/container-docker-introduction/) - Cesar de la Torre, Bill Wagner, Mike Rousos (HTML, PDF)
 * [Kubernetes Deployment & Security Patterns](https://resources.linuxfoundation.org/LF+Projects/CNCF/TheNewStack_Book2_KubernetesDeploymentAndSecurityPatterns.pdf) - Alex Williams (PDF)
 * [Kubernetes for Full-Stack Developers](https://www.digitalocean.com/community/books/digitalocean-ebook-kubernetes-for-full-stack-developers) - Jamon Camisso, Hanif Jetha, Katherine Juell (PDF, EPUB)
 * [Uncomplicating Kubernetes](https://livro.descomplicandokubernetes.com.br/en/) - Jeferson Fernando
-* [.NET Microservices Architecture for Containerized NET Applications](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/container-docker-introduction/) - Cesar de la Torre, Bill Wagner, Mike Rousos (HTML, PDF)
 
 
 ### Data Science

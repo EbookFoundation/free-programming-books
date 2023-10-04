@@ -716,7 +716,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Introduction to Parallel Computing](https://hpc.llnl.gov/documentation/tutorials/introduction-parallel-computing-tutorial) - Blaise Barney
 * [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html) - Paul E. McKenney
 * [Programming on Parallel Machines; GPU, Multicore, Clusters and More](http://heather.cs.ucdavis.edu/parprocbook) - Norm Matloff
-    Kerridge (PDF) (email address *requested*, not required)
+Kerridge (PDF) (email address *requested*, not required)
 * [The OpenCL Programming Book](https://us.fixstars.com/products/opencl/book/OpenCLProgrammingBook/contents/)
 
 
@@ -841,7 +841,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Domain Driven Design Quickly](http://www.infoq.com/minibooks/domain-driven-design-quickly)
 * [Domain-Driven Design Reference](https://www.domainlanguage.com/ddd/reference) - Eric Evans
 * [DSL Engineering: Designing, Implementing and Using Domain-Specific Languages](http://dslbook.org) - Markus Voelter
-* [Exploring CQRS and Event Sourcing](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/jj554200(v=pandp.10)>) - Dominic Betts, Julián Domínguez, Grigori Melnik, Mani Subramanian, Fernando Simonazzi ([EPUB, PDF](http://www.microsoft.com/en-us/download/details.aspx?id=34774) - [code samples](http://go.microsoft.com/fwlink/p/?linkid=258571))
+* [Exploring CQRS and Event Sourcing](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/jj554200(v=pandp.10)) - Dominic Betts, Julián Domínguez, Grigori Melnik, Mani Subramanian, Fernando Simonazzi ([EPUB, PDF](http://www.microsoft.com/en-us/download/details.aspx?id=34774) - [code samples](http://go.microsoft.com/fwlink/p/?linkid=258571))
 * [Guide to the Software Engineering Body of Knowledge](https://www.computer.org/education/bodies-of-knowledge/software-engineering/v3) (email adddress *requested*)
 * [How to Design Programs](http://www.htdp.org)
 * [How to Write Unmaintainable Code](http://mindprod.com/jgloss/unmain.html)

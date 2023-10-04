@@ -202,10 +202,10 @@
 * [HTML Tutorial](https://www.w3schools.com/html/) - W3Schools
 * [HTML Tutorial](https://www.scaler.com/topics/html/) - Scaler Topics
 * [Knights of the Flexbox Table](https://knightsoftheflexboxtable.com)
+* [Lear advanced html and css](https://www.theodinproject.com/paths/full-stack-javascript/courses/advanced-html-and-css) - THE ODIN PROJECT
 * [Learn by doing beginner projects](https://dash.generalassemb.ly)
 * [Learn CSS: an evergreen CSS course and reference to level up your styling expertise](https://web.dev/learn/css/) - Andy Bell, Rachel Andrew, Una Kravets, Adam Argyle, Rob Dodson, Jiwoong Lee, et al. (web.dev)
 * [Learn HTML & CSS interactively](https://www.codecademy.com/learn/web)
-* [Lear Advanced html and css](https://www.theodinproject.com/paths/full-stack-javascript/courses/advanced-html-and-css) - THE ODIN PROJECT
 * [Lear Intermediate html and css](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css) - THE ODIN PROJECT
 * [Prototyping a professional website](https://www.codecademy.com/learn/make-a-website)
 * [Responsive Web Design Certification](https://www.freecodecamp.org/learn/responsive-web-design/) - freeCodeCamp

@@ -797,6 +797,7 @@
 * [Central Connecticut State University, Introduction to CS Using Java](http://chortle.ccsu.edu/CS151/cs151java.html)
 * [CS106A - Programming Methodology](https://see.stanford.edu/Course/CS106A) (Stanford)
 * [Fundamentals of Java EE Development](https://www.edx.org/course/fundamentals-of-java-ee-development) -  Will Dinyes (edX)
+* [Hibernate Tutorial for Beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7qBZtsEvp_n2A7sJs2MpF3r) - Telusko (Navin Reddy)
 * [Introduction to Java](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/)
 * [Introduction to Java + DSA](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ) - Kunal Kushwaha
 * [Java Beginner](https://youtube.com/playlist?list=PLkeaG1zpPTHiMjczpmZ6ALd46VjjiQJ_8) - Coding with John

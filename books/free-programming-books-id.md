@@ -25,6 +25,7 @@
 * [Pemrograman Kompetitif](#pemrograman-kompetitif)
 * [PHP](#php)
 * [Python](#python)
+* [Rust](#rust)
 * [Solidity](#solidity)
 
 
@@ -209,6 +210,13 @@
 * [Tutorial Dasar Pemrograman Python](https://www.petanikode.com/tutorial/python/) - Petani Kode, Ahmad Muhardian
 * [Tutorial Python](https://docs.python.org/id/3.8/tutorial/)
 * [Workshop Python 101](http://sakti.github.io/python101/)
+
+
+### Rust
+
+* [Belajar Rust](https://belajar-rust.vercel.app) - evilfactorylabs
+* [Dasar Pemrograman Rust](https://dasarpemrogramanrust.novalagung.com) - Noval Agung Prayogo
+* [Easy Rust Indonesia](https://github.com/ariandy/easy-rust-indonesia) - ariandy
 
 
 ### Solidity

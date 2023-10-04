@@ -8,8 +8,8 @@
 * [C++](#cpp)
 * [Clojure](#clojure)
 * [Cloud Computing](#cloud-computing)
-* [CoffeeScript](#coffeescript)
 * [cmd](#cmd)
+* [CoffeeScript](#coffeescript)
 * [Dart](#dart)
 * [Data Science](#data-science)
 * [DevOps](#devops)
@@ -32,8 +32,8 @@
 * [Language Agnostic](#language-agnostic)
     * [Operating Systems](#operating-systems)
 * [LaTeX](#latex)
-* [Lisp](#lisp)
 * [Linux](#linux)
+* [Lisp](#lisp)
 * [Markdown](#markdown)
 * [MATLAB](#matlab)
 * [Node](#node)
@@ -122,9 +122,9 @@
 
 ### cmd
 
-* [Command Challenge](https://cmdchallenge.com/) - Command Challenge
+* [Command Challenge](https://cmdchallenge.com) - Command Challenge
 
- 
+
 ### Dart
 
 * [Dart Official Codelabs](https://dart.dev/codelabs) - Dart
@@ -143,9 +143,9 @@
 
 ### DevOps
 
-* [DevOps Dream](https://devops.games/) - DevOps Dream
-* [DevOps Party Games](https://devopspartygames.com/) - DevOps Party Games
-  
+* [DevOps Dream](https://devops.games) - DevOps Dream
+* [DevOps Party Games](https://devopspartygames.com) - DevOps Party Games
+
 
 ### Erlang
 
@@ -205,10 +205,10 @@
 * [Learn by doing beginner projects](https://dash.generalassemb.ly)
 * [Learn CSS: an evergreen CSS course and reference to level up your styling expertise](https://web.dev/learn/css/) - Andy Bell, Rachel Andrew, Una Kravets, Adam Argyle, Rob Dodson, Jiwoong Lee, et al. (web.dev)
 * [Learn HTML & CSS interactively](https://www.codecademy.com/learn/web)
+* [Lear Advanced html and css](https://www.theodinproject.com/paths/full-stack-javascript/courses/advanced-html-and-css) - THE ODIN PROJECT
+* [Lear Intermediate html and css](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css) - THE ODIN PROJECT
 * [Prototyping a professional website](https://www.codecademy.com/learn/make-a-website)
 * [Responsive Web Design Certification](https://www.freecodecamp.org/learn/responsive-web-design/) - freeCodeCamp
-* [Lear Intermediate html and css](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css) - THE ODIN PROJECT
-* [Lear Advanced html and css](https://www.theodinproject.com/paths/full-stack-javascript/courses/advanced-html-and-css) - THE ODIN PROJECT  
 
 
 ### IDE and editors
@@ -367,10 +367,10 @@
 
 * [Learn the PHP Framework for Web Artisans](http://bootcamp.laravel.com) - Laravel Team
 
-  
+
 ### Linux
 
-* [OverTheWire](https://overthewire.org/wargames/) - OverTheWire
+* [OverTheWire](https://overthewire.org) - OverTheWire
 
 
 ### PostgreSQL

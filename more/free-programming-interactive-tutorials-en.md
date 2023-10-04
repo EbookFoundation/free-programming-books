@@ -379,7 +379,7 @@
 
 ### Jupyter
 
-* [Data-Quest](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) - Benjamin Pryke 
+* [Data-Quest](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) - Benjamin Pryke
 * [Jupyter](https://docs.jupyter.org)
 * [Learn Jupyter](https://jupyter-notebook.readthedocs.io) - Read the Docs
 
@@ -436,7 +436,7 @@
 * [SQL Tutorial](https://www.w3schools.com/sql) - W3Schools
 * [SQL Tutorial](https://www.scaler.com/topics/sql/) - Scaler Topics
 * [SQLBolt](http://sqlbolt.com)
-
+* [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial)
 
 ### XML
 

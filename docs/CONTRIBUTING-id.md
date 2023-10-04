@@ -39,7 +39,7 @@ Dengan berkontribusi, Anda setuju untuk menghormati [Kode Etik](CODE_OF_CONDUCT-
 ### Pedoman
 
 - Pastikan bahwa buku yang Anda tambahkan benar-benar gratis. Periksa dua kali jika perlu. Ini akan membantu para admin jika Anda memberikan komentar di PR mengenai alasan Anda menganggap buku tersebut gratis.
-- Kami tidak menerima file yang dihosting di Google Drive, Dropbox, Mega, Scribd, Issuu, dan platform unggah file serupa lainnya.
+- Kami tidak menerima file yang bersumber dari Google Drive, Dropbox, Mega, Scribd, Issuu, dan platform unggah file serupa lainnya.
 - Masukkan tautan Anda dalam urutan alfabetis, seperti yang dijelaskan [di bawah](#alphabetical-order).
 - Gunakan tautan dengan sumber yang paling otoritatif (artinya situs web penulis lebih baik daripada situs web penyunting, yang lebih baik daripada situs web pihak ketiga).
     - Jangan gunakan layanan hosting file (termasuk namun tidak terbatas pada tautan Dropbox dan Google Drive).

@@ -512,7 +512,7 @@
 * [Learn SQL](https://www.sololearn.com/learning/1060) - *registration required*
 * [Learn SQL: SQL Tutorial for Beginners](https://www.programiz.com/sql) - Programiz
 * [MySQL Tutorial for Beginners [Full Course]](https://www.youtube.com/watch?v=7S_tz1z_5bA) - Moshfegh Hamedani (Programming with Mosh)
-* [SQL complete course](https://www.youtube.com/playlist?list=PLLQPIumE5cE-gzU5hChH1V3H93x4UOlHR) - nptel course
+* [SQL NPTEL](https://www.youtube.com/playlist?list=PLLQPIumE5cE-gzU5hChH1V3H93x4UOlHR)
 * [SQL Foundations](https://www.udemy.com/course/sql-essentials-for-beginners/) - Sagar Uppuluri (Udemy)
 * [SQL Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWr_6xTfF2FrIw-NAOo3iWMy)
 * [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY) - Mike Dane (freeCodeCamp)

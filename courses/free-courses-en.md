@@ -399,6 +399,7 @@
 ### Computer Organization and Architecture
 
 * [Advanced Computer Architecture](https://www.youtube.com/playlist?list=PL1iLu2CSC9EWZMIh4_V5dGroMAwA84Lmz) - Smruti R. Sarangi
+* [Computer Architecture](https://www.coursera.org/learn/comparch) - Princeton University (Coursera)
 * [Computer Organization & Architecture (COA)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgLLlzdgiTUKULKJPYc0A4q) - Neso Academy
 
 

@@ -207,7 +207,7 @@
 * [Curso Grátis de JavaScript e ECMAScript para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) - Gustavo Guanabara (Curso em Vídeo)
 * [Curso Javascript Completo 2023 [Iniciantes] + 14 Mini-Projetos](https://www.youtube.com/watch?v=i6Oi-YtXnAU) - Jhonatan de Souza
 * [Fast & Furious](https://www.youtube.com/playlist?list=PLy5T05I_eQYOoUz2TtAqq35RLCc-xBZCe) - Codecasts
-* [Kubernetes para Devs Javascript](https://www.youtube.com/playlist?list=PLqFwRPueWb5ccEFVx5vOvrKlYT_uQ3aQw) - Erick Wendel e Lucas Santos
+* [Kubernetes para Devs Javascript](https://www.youtube.com/playlist?list=PLqFwRPueWb5ccEFVx5vOvrKlYT_uQ3aQw) - Erick Wendel, Lucas Santos
 * [TDD na prática - (Live Coding)](https://www.youtube.com/watch?v=sg1zFpNM5Jw) - Diego Fernandes e Rodrigo Manguinho
 * [Testes no NodeJS aplicando TDD com Jest](https://www.youtube.com/watch?v=2G_mWfG0DZE) - Diego Fernandes
 

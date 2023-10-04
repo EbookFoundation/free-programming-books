@@ -6,6 +6,7 @@
 * [C++](#cpp)
 * [D](#d)
 * [Dart](#dart)
+* [Fortran](#fortran)
 * [Git](#git)
 * [Go](#go)
 * [Güvenlik ve Gizlilik](#guvenlik-ve-gizlilik)
@@ -58,6 +59,11 @@
 ### Dart
 
 * [Dart - Merhaba Dünya](https://www.dartogreniyorum.blogspot.com.tr/2013/03/yeniden-dart.html?view=sidebar)
+
+
+### Fortran
+
+* [Fortran Programlama Diline Giriş](http://dosyalar.ersoykardesler.net/yayinlar/Fortran_Programlama_Diline_Giris.pdf)
 
 
 ### Git

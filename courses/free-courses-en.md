@@ -48,8 +48,10 @@
 * [iOS](#ios)
 * [Java](#java)
 * [JavaScript](#javascript)
-    * [AngularJS](#angularjs)
+    * [Angular](#angular)
+        * [AngularJS](#angularjs)
     * [D3.js](#d3js)
+    * [Deno](#deno)
     * [Electron](#electron)
     * [jQuery](#jquery)
     * [Next.js](#nextjs)
@@ -59,9 +61,10 @@
     * [Redux](#redux)
     * [Svelte](#svelte)
     * [Three.js](#threejs)
+    * [TypeScript](#typescript)
     * [Vue.js](#vuejs)
     * [Webpack](#webpack)
-* [Julia](#julia) 
+* [Julia](#julia)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
 * [Linux](#linux)
@@ -101,9 +104,6 @@
 * [System Design](#system-design)
 * [Terraform](#terraform)
 * [Theory](#theory)
-* [TypeScript](#typescript)
-    * [Angular](#angular)
-    * [Deno](#deno)
 * [Verilog / VHDL / SystemVerilog](#verilog--vhdl--systemverilog)
 * [Web Development](#web-development)
 * [Web3](#web3)
@@ -872,9 +872,22 @@
 * [Vanilla JavaScript](https://www.youtube.com/playlist?list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX) - Brad Traversy, Traversy Media
 
 
-#### AngularJS
+#### Angular
 
-> :information_source: See also &#8230; [Angular](#angular)
+* [Angular 12 / 13 tutorial](https://www.youtube.com/playlist?list=PL8p2I9GklV47eNpoo4Fr6fkags72a8F0v) - Code Step By Step
+* [Angular 12 Course](https://www.youtube.com/playlist?list=PLjsBk8SIQEi-RqkglLcn19TaeeopcuDXV) - Slobodan Gajic
+* [Angular 6 Tutorials](https://www.youtube.com/playlist?list=PLYxzS__5yYQlqCmHqDyW3yo5V79C7eaTe) - codedamn
+* [Angular Complete Course Guide](https://youtube.com/playlist?list=PL_euSNU_eLbeAJxvVdJn5lhPWX9IWHhxs) - Leela Web Dev
+* [Angular Courses](https://www.youtube.com/playlist?list=PLTjRvDozrdlxAhsPP4ZYtt3G8KbJ449oT) - Moshfegh Hamedani (Programming with Mosh)
+* [Angular Crash Course 2021](https://www.youtube.com/watch?v=3dHNOWTI7H8) - Brad Traversy, Traversy Media
+* [Angular Fast Crash Course](https://www.udemy.com/angular-fast-crash-course/) - Edwin Diaz, Coding Faculty Solutions (Udemy)
+* [Angular for Beginners](https://www.udemy.com/course/angular-for-beginners-course/) - Angular University (Udemy)
+* [Angular Tutorial For Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ) - Codevolution
+* [Angular Tutorial for Beginners - Web Framework with Typescript Course](https://www.youtube.com/watch?v=AAu8bjj6-UI) - Slobodan Gajic, freeCodeCamp
+* [Learn Angular 5 from Scratch](https://www.udemy.com/course/angular-5/) - Gary Simon (Udemy)
+
+
+##### AngularJS
 
 * [AngularJS Tutorial for Beginners](https://www.youtube.com/watch?v=9b9pLgaSQuI) - Yaakov Chaikin (My Lesson)
 * [AngularJS Tutorials](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gsJS5QgFT2IvWIX78dV3_v) - The Net Ninja
@@ -887,6 +900,12 @@
 
 * [D3 101](https://www.youtube.com/playlist?list=PL9yYRbwpkykvjkfuRslECO9c1qTq3GgUb) - Curran Kelleher
 * [Learn D3](https://www.codecademy.com/learn/learn-d3) - Codecademy *(account required)*
+
+
+#### Deno
+
+* [Deno Beginner](https://denobeginner.com) - Ahmad Awais (email address *required*)
+* [Deno Course - Better than Node.js?](https://www.youtube.com/watch?v=TQUy8ENesGY) - The Codeholic, freeCodeCamp
 
 
 #### Electron
@@ -983,6 +1002,17 @@
 #### Three.js
 
 * [Three.js Tutorial Crash Course](https://www.youtube.com/watch?v=YK1Sw_hnm58) - Chris Courses
+
+
+### TypeScript
+
+* [Beginner's Typescript](https://www.totaltypescript.com/tutorials/beginners-typescript) - Matt Pocock
+* [ES6 and Typescript Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV) - Codevolution, Vishwas Gopinath
+* [Introduction to TypeScript](https://www.udemy.com/typescript/) - Daniel Stern (Udemy)
+* [Learn TypeScript](https://www.codecademy.com/learn/learn-typescript) - (CodeAcademy)
+* [TypeScript Course for Beginners- Learn TypeScript from Scratch!](https://www.youtube.com/watch?v=BwuLxPH8IDs) - Academind
+* [TypeScript Fast Crash Course](https://www.udemy.com/typescript-fast-crash-course/) - Edwin Diaz, Coding Faculty Solutions (Udemy)
+* [TypeScript Tutorial for Beginners - 2022](https://www.youtube.com/watch?v=d56mG7DezGs) - Programming with Mosh
 
 
 #### Vue.js
@@ -1456,40 +1486,6 @@
 * [Automata Theory](https://online.stanford.edu/courses/soe-ycsautomata-automata-theory)
 * [Formal Languages & Automata Theory](https://www.youtube.com/playlist?list=PLLvKknWU7N4zvTGcw9N2_7eZSTTkryb0U) - Lalit Vashistha
 * [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313) (Udacity)
-
-
-### TypeScript
-
-* [Beginner's Typescript](https://www.totaltypescript.com/tutorials/beginners-typescript) - Matt Pocock
-* [ES6 and Typescript Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV) - Codevolution, Vishwas Gopinath
-* [Introduction to TypeScript](https://www.udemy.com/typescript/) - Daniel Stern (Udemy)
-* [Learn TypeScript](https://www.codecademy.com/learn/learn-typescript) - (CodeAcademy)
-* [TypeScript Course for Beginners- Learn TypeScript from Scratch!](https://www.youtube.com/watch?v=BwuLxPH8IDs) - Academind
-* [TypeScript Fast Crash Course](https://www.udemy.com/typescript-fast-crash-course/) - Edwin Diaz, Coding Faculty Solutions (Udemy)
-* [TypeScript Tutorial for Beginners - 2022](https://www.youtube.com/watch?v=d56mG7DezGs) - Programming with Mosh
-
-
-#### Angular
-
-> :information_source: See also &#8230; [AngularJS](#angularjs)
-
-* [Angular 12 / 13 tutorial](https://www.youtube.com/playlist?list=PL8p2I9GklV47eNpoo4Fr6fkags72a8F0v) - Code Step By Step
-* [Angular 12 Course](https://www.youtube.com/playlist?list=PLjsBk8SIQEi-RqkglLcn19TaeeopcuDXV) - Slobodan Gajic
-* [Angular 6 Tutorials](https://www.youtube.com/playlist?list=PLYxzS__5yYQlqCmHqDyW3yo5V79C7eaTe) - codedamn
-* [Angular Complete Course Guide](https://youtube.com/playlist?list=PL_euSNU_eLbeAJxvVdJn5lhPWX9IWHhxs) - Leela Web Dev
-* [Angular Courses](https://www.youtube.com/playlist?list=PLTjRvDozrdlxAhsPP4ZYtt3G8KbJ449oT) - Moshfegh Hamedani (Programming with Mosh)
-* [Angular Crash Course 2021](https://www.youtube.com/watch?v=3dHNOWTI7H8) - Brad Traversy, Traversy Media
-* [Angular Fast Crash Course](https://www.udemy.com/angular-fast-crash-course/) - Edwin Diaz, Coding Faculty Solutions (Udemy)
-* [Angular for Beginners](https://www.udemy.com/course/angular-for-beginners-course/) - Angular University (Udemy)
-* [Angular Tutorial For Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ) - Codevolution
-* [Angular Tutorial for Beginners - Web Framework with Typescript Course](https://www.youtube.com/watch?v=AAu8bjj6-UI) - Slobodan Gajic, freeCodeCamp
-* [Learn Angular 5 from Scratch](https://www.udemy.com/course/angular-5/) - Gary Simon (Udemy)
-
-
-#### Deno
-
-* [Deno Beginner](https://denobeginner.com) - Ahmad Awais (email address *required*)
-* [Deno Course - Better than Node.js?](https://www.youtube.com/watch?v=TQUy8ENesGY) - The Codeholic, freeCodeCamp
 
 
 ### Verilog / VHDL / SystemVerilog

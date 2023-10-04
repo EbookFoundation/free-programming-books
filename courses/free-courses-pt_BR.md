@@ -67,7 +67,7 @@
 * [C# e Windows Forms: Consultar CEP no WebService dos Correios](https://www.udemy.com/webservice-correios/) - Gilseone Moraes, Training4All Cursos (Udemy)
 * [C# e Windows Forms: Encurtando URLs com a API do Bitly](https://www.udemy.com/bitly-api/) - Gilseone Moraes, Training4All Cursos (Udemy)
 * [C# e Windows Forms: Utilizando Formulários MDI Parent](https://www.udemy.com/formularios-mdi/) - Gilseone Moraes, Training4All Cursos (Udemy)
-* [Curso de C# / .NET Para Iniciantes](https://youtu.be/oTivhgjbhIg) - Fredi
+* [Curso de C# / .NET Para Iniciantes](https://www.youtube.com/playlist?list=PLkhtU8XJLj-5q4fcgUkjmrICOqWsgWNJr) - Fredi
 * [Fundamentos do C#](https://balta.io/cursos/fundamentos-csharp) - André Baltieri (Balta.io)
 * [Iniciando com ASP.NET Core](https://desenvolvedor.io/curso-online-iniciando-com-asp-net-core) - Eduardo Pires (Desenvolvedor.io)
 * [Introdução ao Entity Framework Core](https://desenvolvedor.io/curso-online-introducao-entity-framework-core) - Rafael Almeida (Desenvolvedor.io)

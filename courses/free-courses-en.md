@@ -981,7 +981,7 @@
 
 #### SvelteKit
 
-* [Beginner SvelteKit](https://www.youtube.com/playlist?list=PLtgYhHmUIr3qDB2eTzY-nuBH1W5tOK8a4) - Steph Dietz, Vercel
+* [Beginner SvelteKit](https://www.youtube.com/playlist?list=PLtgYhHmUIr3qDB2eTzY-nuBH1W5tOK8a4) - Steph Dietz
 * [Learn How To Build Modern Web Apps With SvelteKit](https://www.youtube.com/watch?v=MoGkX4RvZ38) - Joy of Code
 * [Mastering SvelteKit with Geoff Rich | JS Drops](https://www.youtube.com/watch?v=MaF8kRbHbi0) - Geoff Rich, This Dot Media
 * [SvelteKit For Beginners](https://www.youtube.com/playlist?list=PLA9WiRZ-IS_zXZZyW4qfj0akvOAtk6MFS) - Joy of Code

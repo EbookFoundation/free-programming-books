@@ -23,3 +23,8 @@
 ### PHP
 
 * [Programmera i PHP](https://sv.wikibooks.org/wiki/Programmera_i_PHP) - Wikibooks
+
+
+### Pythnon
+
+* [Programmera i Python](https://sv.wikibooks.org/wiki/Programmera_i_Python) - Wikibooks

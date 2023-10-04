@@ -1,11 +1,10 @@
 ### Index
 
-- [Index](#index)
-- [Competitive Programming](#competitive-programming)
-- [Capture the flag](#capture-the-flag)
-- [Data science](#data-science)
-- [Information security](#information-security)
-- [Problem Sets](#problem-sets)
+* [Competitive Programming](#competitive-programming)
+* [CTF Capture the Flag](#capture-the-flag)
+* [Data science](#data-science)
+* [Information security](#information-security)
+* [Problem Sets](#problem-sets)
 
 
 ### Competitive Programming
@@ -135,3 +134,4 @@
 * [UVa Online Judge](https://uva.onlinejudge.org/index.php?Itemid=8&option=com_onlinejudge)
 * [Vulnhub.com](https://www.vulnhub.com)
 * [Школа программиста](https://acmp.ru)
+

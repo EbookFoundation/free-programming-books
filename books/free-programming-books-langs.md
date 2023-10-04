@@ -1193,13 +1193,13 @@ Books on general-purpose programming that don't focus on a specific language are
 * [AngularJS Guide](https://docs.angularjs.org/guide/) (HTML)
 * [AngularJS Material Designing](https://material.angularjs.org/latest/) (HTML)
 * [AngularJS Notes for Professionals](https://goalkicker.com/AngularJSBook) - Compiled from StackOverflow Documentation ([PDF](https://goalkicker.com/AngularJSBook/AngularJSNotesForProfessionals.pdf))
+* [Angular2 Notes for Professionals](https://goalkicker.com/Angular2Book) - Compiled from StackOverflow Documentation ([PDF](https://goalkicker.com/Angular2Book/Angular2NotesForProfessionals.pdf))
 * [AngularJS Style Guide for teams](https://github.com/toddmotto/angularjs-styleguide) - Todd Motto (HTML)
 * [AngularJS Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/angularjs) - Frederik Dietz (PDF, EPUB, Kindle) (email address *requested*, not required)
 * [AngularJS Tutorial](https://docs.angularjs.org/tutorial) (HTML)
 * [AngularJS vs EmberJs](https://angularjs-emberjs-compare.bguiz.com) - Brendan Graetz (HTML)
 * [Seven-Part Introduction to AngularJS](http://ngokevin.com/blog/angular-1/) - Keving Ngo (HTML, [:package: demos, open-sourced examples](https://github.com/ngokevin/angularbook))
 * [Unit Testing Best Practices in AngularJS](http://andyshora.com/unit-testing-best-practices-angularjs.html) - Andy Shora (HTML)
-* [Angular2 Notes for Professionals](https://goalkicker.com/Angular2Book) - Compiled from StackOverflow Documentation ([PDF](https://goalkicker.com/Angular2Book/Angular2NotesForProfessionals.pdf))
 
 #### Backbone.js
 

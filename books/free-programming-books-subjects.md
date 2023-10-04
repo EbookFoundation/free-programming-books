@@ -403,8 +403,8 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Machine Learning with Python](https://www.tutorialspoint.com/machine_learning_with_python/) - Tutorials Point (HTML, [PDF](https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_tutorial.pdf))
 * [Mathematics for Machine Learning](https://gwthomas.github.io/docs/math4ml.pdf) - Garrett Thomas (PDF)
 * [Mathematics for Machine Learning](https://mml-book.github.io) - Marc Peter Deisenroth, A Aldo Faisal, Cheng Soon Ong
-* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
 * [Neural Network Design (2nd Edition)](https://hagan.okstate.edu/NNDesign.pdf) - Martin T. Hagan, Howard B. Demuth, Mark H. Beale, Orlando De Jesús (PDF)
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
 * [Practitioners guide to MLOps](https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf) - Khalid Samala, Jarek Kazmierczak, Donna Schut (PDF)
 * [Probabilistic Machine Learning - An Introduction](https://github.com/probml/pml-book/releases/latest/download/book1.pdf) - Kevin P. Murphy (PDF)
 * [Probabilistic Models in the Study of Language](http://idiom.ucsd.edu/~rlevy/pmsl_textbook/text.html) (Draft, with R code)

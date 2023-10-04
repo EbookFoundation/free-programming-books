@@ -9,8 +9,10 @@
 * [Clojure](#clojure)
 * [Cloud Computing](#cloud-computing)
 * [CoffeeScript](#coffeescript)
+* [cmd](#cmd)
 * [Dart](#dart)
 * [Data Science](#data-science)
+* [DevOps](#devops)
 * [Erlang](#erlang)
 * [Git](#git)
 * [GLSL](#glsl)
@@ -31,6 +33,7 @@
     * [Operating Systems](#operating-systems)
 * [LaTeX](#latex)
 * [Lisp](#lisp)
+* [Linux](#linux)
 * [Markdown](#markdown)
 * [MATLAB](#matlab)
 * [Node](#node)
@@ -117,6 +120,11 @@
 * [Smooth CoffeeScript, Interactive Edition](http://autotelicum.github.io/Smooth-CoffeeScript/interactive/interactive-coffeescript.html)
 
 
+### cmd
+
+* [Command Challenge](https://cmdchallenge.com/) - Command Challenge
+
+ 
 ### Dart
 
 * [Dart Official Codelabs](https://dart.dev/codelabs) - Dart
@@ -132,6 +140,12 @@
 * [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/) - Dan Margalit, Joseph Rabinoff (HTML, PDF)
 * [Top 10 Data Science Projects for Beginners - KDnuggets](https://www.kdnuggets.com/2021/06/top-10-data-science-projects-beginners.html)
 
+
+### DevOps
+
+* [DevOps Dream](https://devops.games/) - DevOps Dream
+* [DevOps Party Games](https://devopspartygames.com/) - DevOps Party Games
+  
 
 ### Erlang
 
@@ -193,6 +207,8 @@
 * [Learn HTML & CSS interactively](https://www.codecademy.com/learn/web)
 * [Prototyping a professional website](https://www.codecademy.com/learn/make-a-website)
 * [Responsive Web Design Certification](https://www.freecodecamp.org/learn/responsive-web-design/) - freeCodeCamp
+* [Lear Intermediate html and css](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css) - THE ODIN PROJECT
+* [Lear Advanced html and css](https://www.theodinproject.com/paths/full-stack-javascript/courses/advanced-html-and-css) - THE ODIN PROJECT  
 
 
 ### IDE and editors
@@ -350,6 +366,11 @@
 #### Laravel
 
 * [Learn the PHP Framework for Web Artisans](http://bootcamp.laravel.com) - Laravel Team
+
+  
+### Linux
+
+* [OverTheWire](https://overthewire.org/wargames/) - OverTheWire
 
 
 ### PostgreSQL

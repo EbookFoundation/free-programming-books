@@ -37,6 +37,7 @@
     * [Flask](#flask)
     * [PyTorch](#pytorch)
 * [Redis](#redis)
+* [Rust](#rust)
 * [SASS / SCSS](#sass--scss)
 * [Solidity](#solidity)
 * [Terraform](#terraform)
@@ -397,6 +398,11 @@
 ### Redis
 
 * [Belajar Redis](https://www.youtube.com/playlist?list=PL-CtdCApEFH-7hBhz1Q-4rKIQntJoBNX3) - Eko Kurniawan Khannedy, Programmer Zaman Now
+
+
+### Rust
+
+* [Belajar Rust](https://www.youtube.com/playlist?list=PLIfsrcorUur10nUSHVq9Mb4yWu87_5lZn) - Dev Activity
 
 
 ### SASS / SCSS

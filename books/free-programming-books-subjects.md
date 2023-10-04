@@ -121,6 +121,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Sequential and parallel sorting algorithms](https://www.inf.hs-flensburg.de/lang/algorithmen/sortieren/algoen.htm) - Hans Werner Lang (HTML)
 * [Text Algorithms](https://igm.univ-mlv.fr/~mac/REC/text-algorithms.pdf) -  Maxime Crochemore, Wojciech Rytter (PDF)
 * [The Algorithm Design Manual](https://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK/BOOK.HTM) - Steven S. Skiena (HTML)
+* [The Art of Computer Programming (1997)](https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/The%20Art%20of%20Computer%20Programming%20(vol.%201_%20Fundamental%20Algorithms)%20(3rd%20ed.)%20%5BKnuth%201997-07-17%5D.pdf) - Donald Knuth (PDF)
 * [The Design of Approximation Algorithms](https://www.designofapproxalgs.com/book.pdf) - David P. Williamson, David B. Shmoys (PDF)
 * [The Great Tree List Recursion Problem](http://cslibrary.stanford.edu/109/TreeListRecursion.pdf) - Nick Parlante (PDF)
 * [The Kademlia Protocol Succinctly](https://www.syncfusion.com/ebooks/kademlia_protocol_succinctly) - Marc Clifton

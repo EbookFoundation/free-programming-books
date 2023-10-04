@@ -554,7 +554,6 @@ Books that cover a specific programming language can be found in the  [BY PROGRA
 * [Isomorphism -- Mathematics of Programming](https://github.com/liuxinyu95/unplugged) - Larry LIU Xinyu
 * [Mathematics for Computer Science](https://courses.csail.mit.edu/6.042/spring18/mcs.pdf) - Eric Lehman, F. Thomson Leighton, Albert R. Meyer (PDF)
 
-[Guide to Discrete Mathematics- 2016.pdf](https://github.com/EbookFoundation/free-programming-books/files/12776933/Guide.to.Discrete.Mathematics-.2016.pdf)
 
 ### Misc
 

@@ -1502,8 +1502,8 @@
 * [Apollo Graph Developer - Associate Certification](https://www.apollographql.com/tutorials/certifications/apollo-graph-associate) - Odyssey Apollo
 * [Apollo Graph Developer - Professional Certification](https://www.apollographql.com/tutorials/certifications/apollo-graph-professional) - Odyssey Apollo
 * [ASP.NET Core Tutorial For Beginners](https://www.youtube.com/playlist?list=PL6n9fhu94yhVkdrusLaQsfERmL_Jh4XmU) - Venkat (Pragim Technologies)
-* [Bun Crash Course 2023 with HTMX example](https://www.youtube.com/watch?v=zNE5H6nOeCI) - Kaizen Codes
 * [Bun Crash Course | JavaScript Runtime, Bundler & Transpiler](https://www.youtube.com/watch?v=U4JVw8K19uY) - Traversy Media
+* [Bun Crash Course 2023 with HTMX example](https://www.youtube.com/watch?v=zNE5H6nOeCI) - Kaizen Codes
 * [Command Line Power User - for web developers](https://commandlinepoweruser.com) - WesBos (email address *required*)
 * [Create a Professional Website with Velo by Wix](https://www.codecademy.com/learn/create-a-professional-website-with-velo-by-wix) - Codecademy
 * [CS50’s Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/) - Brian Yu, David J. Malan (edX Harvard CS50)

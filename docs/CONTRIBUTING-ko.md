@@ -6,7 +6,7 @@
 이 프로젝트의 기여자들은 리포지토리의 [약관](../LICENSE) 에 동의하는 것으로 간주됩니다.
 
 
-## 기여자 행도 강령
+## 기여자 행동 강령
 
 이 리포지토리 기여함으로서, 모든 기여자는 이 [행동강령](CODE_OF_CONDUCT-ko.md) 에 동의한 것으로 간주됩니다. ([translations](README.md#translations))
 
@@ -23,20 +23,20 @@
     - *책* : PDF, HTML, ePub, gitbook.io 기반 웹사이트, 깃 리포지토리, 등.
     - *강좌* : 여기서 강좌는 책이 아닌 교육 도구를 칭합니다. [강좌 예시](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
     - *상호작용을 할 수 있는 강좌* : 사용자가 코드를 입력하거나 명령어를 입력하여 평가 받을 수 있는 웹사이트를 칭합니다(평가는 채점이 아닙니다). 예시: [Try Haskell](http://tryhaskell.org), [Try GitHub](http://try.github.io).
-    - *Playgrounds* : are online and interactive websites, games or desktop software for learning programming. Write, compile (or run), and share code snippets. Playgrounds often allow you to fork and get your hands dirty by playing with code.
+    - *플레이그라운드* : 플레이그라운드는 프로그래밍 학습을 위한 온라인 대화형 웹사이트, 게임 또는 데스크톱 소프트웨어입니다. 코드 스니펫을 작성, 컴파일 (또는 실행) 및 공유할 수 있습니다. 플레이그라운드는 종종 포크한 코드를 직접 만져보고 가지고 놀 수 있는 기회를 제공합니다.
     - *팟캐스트와 화면 녹화*
     - *문제집 & 경쟁하며 배우는 프로그래밍* : 문제를 풂으로서 프로그래밍 실력을 향상시키는데 도움을 주는 소프트웨어 또는 웹사이트를 칭합니다. 해당 소프트웨어 또는 웹사이트는 동료가 주체가 되는 코드 검토를 포함할 수 있습니다.
 
 4. 아래의 [가이드라인](#가이드라인) 을 참조하고 [마크다운 규격](#규격) 을 준수하여 주십시오.
 
-5. GitHub Actions는 각각의 **리스트가 오름차순인지**, 또한 **마크다운 규격이 준수되었는지** 검수할 것입니다. 각 제출이 검수를 통과하**는지 확인해**주십시오.
+5. GitHub Actions는 각각의 **리스트가 오름차순인지**, 또한 **마크다운 규격이 준수되었는지** 검수할 것입니다. 각 제출이 검수를 **통과하는지 확인**해주십시오.
 
 
 ### 가이드라인
 
 - 책이 무료인지 반드시 확인해 주십시오. 해당 책이 무료라고 생각하는 이유를 PR의 comment에 포함하는 것은 관리자들에게 큰 도움이 됩니다.
 - 저희는 Google Drive, Dropbox, Mega, Scribd, Issuu 또는 유사한 파일 공유 시스템에 업로드된 파일들을 수락하지 않습니다.
-- 바로가기를 오름차순으로 정렬해 주십시오, as described [below](#alphabetical-order).
+- [아래](#alphabetical-order)에 명시되어 있다시피, 바로가기를 오름차순으로 정렬해 주십시오.
 - 가능한 가장 원작자에 가까운 바로가기를 사용해주세요(작가의 웹사이트가 편집자의 웹사이트보다 낫고, 제 3자의 웹사이트보다는 편집자의 것이 낫습니다).
 - 동일한 내용을 포함한다는 전제하에 `https` 주소를 `http`주소보다 우선시 해주십시오
 - 루트 도메인을 사용할 때는, 마지막에 붙는 /를 배제하여주십시오. (`http://example.com` 가 `http://example.com/`보다 낫습니다)
@@ -52,7 +52,7 @@
 - 만약 오래된 책이라면, 출판일을 제목과 함께 포함하세요.
 - 작가(들)의 이름을 명시하십시오. "`et al.`"을 사용하여 단축할 수 있습니다.
 - 만약 책이 아직 완결되지 않았다면, [아래](#in_process)에 명시되어 있다시피, "`in process`" 표시를 추가하십시오.
-- if a resource is restored using the [*Internet Archive's Wayback Machine*](https://web.archive.org) (or similar), add the "`archived`" notation, as described [below](#archived). The best versions to use are recent and complete.
+- 만약 자료가 [*인터넷 아카이브 웨이백 머신*](https://web.archive.org) (또는 유사한 서비스) 을 이용해 복원된 것이라면, [아래](#archived)에 명시되어 있다시피,  "`archived`" 표시를 추가하십시오. 자료를 사용하기에 가장 좋은 버젼은 최신의 완성된 버전입니다.
 - 만약 이메일 주소 또는 계정 생성이 다운로드 이전에 요청된다면, 별도의 노트를 첨부하세요. 예: `(이메일 주소 *요청됨*, 필요 없음)`.
 
 
@@ -131,18 +131,18 @@
     GOOD: * [Will Be An Awesome Book Soon](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)
     ```
 
-- <a id="archived"></a>Archived link:
+- <a id="archived"></a>아카이브된 링크:
 
     ```text
     GOOD: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
     ```
 
-### Alphabetical order
+### 알파벳 순서
 
-- When there are multiple titles beginning with the same letter order them by the second, and so on. For example: `aa` comes before `ab`.
-- `one two` comes before `onetwo`
+- 같은 알파벳으로 시작하는 제목이 여러 개 있는 경우 두 번째 알파벳의 순서로 정렬합니다. 예시: aa가 ab 앞에옵니다. 
+- `one two` 는 `onetwo` 의 앞에옵니다.
 
-If you see a misplaced link, check the linter error message to know which lines should be swapped.
+만약 링크가 잘못 배치된 것을 발견한다면, 링크 오류 메시지를 확인하여 어떤 줄들을 바꿔야하는지 확인하세요.
 
 
 ### 노트(쪽지)
@@ -159,7 +159,7 @@ If you see a misplaced link, check the linter error message to know which lines 
 
 - 원제를 사용하세요. 저희는 원작(원본)의 제목을 사용하기를 원합니다. 기여자들은 가능한 원제에 가깝거나 동일한 제목을 제공하여야 합니다. 예외는 오래된 책들입니다. 독자들의 더 쉬운 이해와 검색을 위해 현대의 언어로 제목을 새로 짓는 것은 허가됩니다.
 - 대문자로만 이루어진 제목은 금지됩니다. 대부분 경우에 title case가 허가되지만, 확실하지 않다면 자료에 명시된 방식으로 기술하세요.
-- No emojis.
+- 이모티콘은 사용할 수 없습니다.
 
 
 ##### 바로가기 주소
@@ -174,15 +174,15 @@ If you see a misplaced link, check the linter error message to know which lines 
 ##### 제작자
 
 - 저희는 무료로 자료들을 배포하는 제작자들(번역가들 포함)에게 감사함을 표합니다!
-- 번역된 자료들의 경우, 원작자들이 우선적으로 명시되어야 합니다. We recommend using [MARC relators](https://loc.gov/marc/relators/relaterm.html) to credit creators other than authors, as in this example:
+- 번역된 자료들의 경우, 원작자들이 우선적으로 명시되어야 합니다. 저희는 창작자들과 작가들에게 공을 돌리기 위해 [MARC relators](https://loc.gov/marc/relators/relaterm.html) 을 사용하는 것을 권장합니다. 방법은 다음 예시와 같습니다:
 
     ```markdown
     * [A Translated Book](http://example.com/book-ko.html) - John Doe, `trl.:` Mike The Translator
     ```
 
-    here, the annotation `trl.:` uses the MARC relator code for "translator".
-- Use a comma `,` to delimit each item in the author list.
-- You can shorten author lists with "`et al.`".
+    여기서, `trl.:` 표기는 "번역자" 에 대한 MARC relator 코드를 사용합니다.
+- 쉼표 `,` 를 사용하여 저자 목록의 각 항목을 구분합니다.
+- "`et al.`" 을 사용하여 저자 목록을 줄일 수 있습니다.
 - 제작자들의 정보로 향하는 바로가기 주소는 허가되지 않습니다.
 - 여러 작업물이 조합된 자료의 경우, "제작자"는 설명이 필요할 수 있습니다. 예를 들어, "GoalKicker" or "RIP Tutorial" 책들의 제작자들은 "`Compiled from StackOverflow documentation`"로 명시되어야 합니다.
 

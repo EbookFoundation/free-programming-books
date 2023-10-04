@@ -1199,7 +1199,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [AngularJS vs EmberJs](https://angularjs-emberjs-compare.bguiz.com) - Brendan Graetz (HTML)
 * [Seven-Part Introduction to AngularJS](http://ngokevin.com/blog/angular-1/) - Keving Ngo (HTML, [:package: demos, open-sourced examples](https://github.com/ngokevin/angularbook))
 * [Unit Testing Best Practices in AngularJS](http://andyshora.com/unit-testing-best-practices-angularjs.html) - Andy Shora (HTML)
-* [Angular 2 Notes for Professionals]([https://goalkicker.com/Angular2Book]) - Compiled from StackOverflow Documentation ([PDF]([https://goalkicker.com/Angular2Book/Angular2NotesForProfessionals.pdf])
+* [Angular2 Notes for Professionals](https://goalkicker.com/Angular2Book) - Compiled from StackOverflow Documentation ([PDF](https://goalkicker.com/Angular2Book/Angular2NotesForProfessionals.pdf))
 
 #### Backbone.js
 

@@ -518,7 +518,6 @@
 * [Advanced NLP using spaCy](https://course.spacy.io) - Ines Montani
 * [Complete Deep Learning](https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi) - Krish Naik
 * [Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io)
-* [Stanford CS 230: Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb) (Stanford University)
 * [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu)
 * [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) (coursera)
 * [Deep Learning with PyTorch](https://www.youtube.com/playlist?list=PLWKjhJtqVAbm3T2Eq1_KgloC7ogdXxdRa) - Aakash N. S., freeCodeCamp.org
@@ -532,11 +531,12 @@
 * [Introduction to Reinforcement learning with David Silver](https://www.youtube.com/playlist?list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB) - David Silver
 * [MIT 6.S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu)
 * [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com) - Alexander Amini, Ava Soleimany
-* [Stanford CS 224N: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) (Stanford University)
 * [NYU Deep Learning SP21](https://youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI) Alfredo Canziani
 * [Practical Deep Learning For Coders taught](http://www.fast.ai) - Jeremy Howard
 * [Practical Deep Learning for Coders, v3 (using fastai library)](https://course.fast.ai)
 * [Self-Paced Courses for Deep Learning](https://developer.nvidia.com/deep-learning-courses)
+* [Stanford CS 230: Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb) (Stanford University)
+* [Stanford CS 224N: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) (Stanford University)
 * [Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/tutorial)
 * [What is Deep Learning](https://www.udacity.com/course/deep-learning--ud730) (Udacity)
 

@@ -430,7 +430,6 @@
 * [Stanford Cryptography II](https://www.coursera.org/course/crypto2) - Dan Boneh
 
 
-
 ### Cuda
 
 * [Intro to Parallel Programming Using CUDA to Harness the Power of GPUs](https://www.udacity.com/course/intro-to-parallel-programming--cs344) (Udacity)

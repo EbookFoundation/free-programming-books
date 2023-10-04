@@ -235,8 +235,8 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 
 ### Containers
 
-* [.NET-Microservices-Architecture-for-Containerized-NET-Applications](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/container-docker-introduction/) - Cesar de la Torre, Bill Wagner, Mike Rousos (HTML, PDF)
 * [CI/CD for Monorepos: Effectively building, testing, and deploying code with monorepos](https://github.com/semaphoreci/book-monorepo-cicd) - Pablo Tomas Fernandez Zavalia, Marko Anastasov, SemaphoreCI (PDF, EPUB, Kindle)
+* [.NET-Microservices-Architecture-for-Containerized-NET-Applications](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/container-docker-introduction/) - Cesar de la Torre, Bill Wagner, Mike Rousos (HTML, PDF)
 * [CI/CD with Docker and Kubernetes Book](https://github.com/semaphoreci/book-cicd-docker-kubernetes) - Marko Anastasov, Jérôme Petazzoni, Pablo Tom F. Zavalia, SemaphoreCI (PDF, EPUB, Kindle)
 * [Docker Jumpstart](https://odewahn.github.io/docker-jumpstart/) - Andrew Odewahn
 * [Docker Tutorial](https://people.irisa.fr/Anthony.Baire/docker-tutorial.pdf) - Anthony Baire (PDF)

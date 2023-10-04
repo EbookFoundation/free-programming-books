@@ -10,7 +10,11 @@
 * [Selenium](#selenium)
 * [Software Architecture](#software-architecture)
 * [Wordpress](#wordpress)
-
+* [Pandas Python](#pandas-python)
+* [Computer Vision](#computer-vision)
+* [IOT](#iot)
+* [AR/VR/MR](#ar-vr-mr)
+* [C Programming Language](#c-programming-language)
 
 ### Hadoop
 
@@ -28,7 +32,7 @@
 * [எளிய தமிழில் JavaScript](https://freetamilebooks.com/ebooks/learn-javascript-in-tamil/)
 
 
-### MachineLearning
+### Machine Learning
 
 * [எளிய தமிழில் ML](https://freetamilebooks.com/ebooks/learn_machine_learning_in_tamil/)
 
@@ -62,3 +66,23 @@
 ### WordPress
 
 * [எளிய தமிழில் WordPress](https://freetamilebooks.com/ebooks/learn-wordpress-in-tamil/)
+
+### Pandas Python
+
+* [எளிய தமிழில் Pandas](https://freetamilebooks.com/ebooks/learn_pandas_in_tamil/)
+
+### Computer Vision
+
+* [எளிய தமிழில் Computer Vision](https://freetamilebooks.com/ebooks/computer_vision/)
+
+### IOT
+
+* [எளிய தமிழில் IOT](https://freetamilebooks.com/ebooks/iot/)
+
+### AR VR MR
+
+* [எளிய தமிழில் VR/AR/MR](https://freetamilebooks.com/ebooks/vr_ar_mr/)
+
+### C Programming Language
+
+* [C Programming Language Tamil](https://www.researchgate.net/publication/350738560_C_Programming_Language_Tamil-_tamila)

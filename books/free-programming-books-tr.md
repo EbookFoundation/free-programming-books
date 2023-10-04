@@ -63,7 +63,7 @@
 
 ### Fortran
 
-* [Fortran Programlama Diline Giriş](http://dosyalar.ersoykardesler.net/yayinlar/Fortran_Programlama_Diline_Giris.pdf)
+* [Fortran Programlama Diline Giriş](http://dosyalar.ersoykardesler.net/yayinlar/Fortran_Programlama_Diline_Giris.pdf) (PDF)
 
 
 ### Git

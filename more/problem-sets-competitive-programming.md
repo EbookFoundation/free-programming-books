@@ -10,8 +10,8 @@
 ### Competitive Programming
 
 * [4Clojure](http://www.4clojure.com)
+* [A Way to Practice Competitive Programming](https://github.com/E869120/Competitive-Programming/blob/master/%5BTutorial%5D%20A%20Way%20to%20Practice%20Competitive%20Programming.pdf) - Masataka Yoneda (PDF)
 * [A2 Online Judge](https://a2oj.netlify.app)
-* [A Way to Practice Competitive Programming](https://github.com/E869120/Competitive-Programming/blob/master/%5BTutorial%5D%20A%20Way%20to%20Practice%20Competitive%20Programming.pdf)
 * [Algorithms for Competitive Programming](https://cp-algorithms.com)
 * [APL Problem Solving Competition](https://contest.dyalog.com)
 * [AtCoder](https://atcoder.jp)

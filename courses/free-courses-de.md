@@ -1,5 +1,7 @@
 ### Index
 
+* [Ansible](#ansible)
+* [Bash](#bash)
 * [C](#c)
 * [C++](#cpp)
 * [Haskell](#haskell)
@@ -11,7 +13,18 @@
 * [Python](#python)
 * [Rust](#rust)
 * [Spieleentwicklung](#spieleentwicklung)
+* [SQL](#sql)
 * [TypeScript](#typescript)
+
+
+### Ansible
+
+* [Ansible Tutorial](https://www.redhat.com/de/topics/automation/learning-ansible-tutorial) - RedHat
+
+
+### Bash
+
+* [Bash-Scripting Grundkurs](https://www.ernstlx.com/linux90script.html)
 
 
 ### <a id="cpp"></a>C++
@@ -75,6 +88,11 @@
 ### Spieleentwicklung
 
 * [Unreal Engine 4 Tutorial Deutsch/German](https://www.youtube.com/playlist?list=PLNmsVeXQZj7olLCliQ05e6hvEOl6sbBgv) - The Morpheus Tutorials
+
+
+### SQL
+
+* [SQL-Grundlagen](https://wiki.selfhtml.org/wiki/Datenbank/SQL-Grundlagen) - SelfHTML
 
 
 ### TypeScript

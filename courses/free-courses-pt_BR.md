@@ -208,17 +208,15 @@
 * [Curso Javascript Completo 2023 [Iniciantes] + 14 Mini-Projetos](https://www.youtube.com/watch?v=i6Oi-YtXnAU) - Jhonatan de Souza
 * [Fast & Furious](https://www.youtube.com/playlist?list=PLy5T05I_eQYOoUz2TtAqq35RLCc-xBZCe) - Codecasts
 * [Kubernetes para Devs Javascript](https://www.youtube.com/playlist?list=PLqFwRPueWb5ccEFVx5vOvrKlYT_uQ3aQw) - Erick Wendel, Lucas Santos
-* [TDD na prática - (Live Coding)](https://www.youtube.com/watch?v=sg1zFpNM5Jw) - Diego Fernandes e Rodrigo Manguinho
 * [Testes no NodeJS aplicando TDD com Jest](https://www.youtube.com/watch?v=2G_mWfG0DZE) - Diego Fernandes
 
 
 #### React
 
-* [Aprenda Next.js,GraphQL e Leaflet na prática!](https://www.youtube.com/watch?v=WOqF_pSzyvQ&list=PLlAbYrWSYTiPlXj6USip_lCPzONUATJbE&pp=iAQB) - Willian Justen
+* [Aprenda Next.js,GraphQL e Leaflet na prática!](https://www.youtube.com/playlist?list=PLR8OzKI52ppWoTRvAmB_FQPPlHS0otV7V) - Willian Justen
 * [Bootcamp da Brainn de React](https://www.youtube.com/playlist?list=PLF7Mi9HNzvVmzOyDyl--xQVdi60jxduU1) - Canal Brainn Co.
 * [Curso Intensivo de Next.js & React](https://www.cod3r.com.br/courses/curso-intensivo-next-react) - Leonardo Leitão (Cod3r)
-* [Curso Intensivo de React e Next 13](https://www.youtube.com/playlist?list=PLdPPE0hUkt0q_XT8zDe313e27wFQ-k9fe) - Cod3r Cursos
-* [Next js 13.4 Masterclass Prático c/ Stripe e Shadcn-ui](https://www.youtube.com/watch?v=b0AinejyevM&list=PLR8OzKI52ppWoTRvAmB_FQPPlHS0otV7V&index=19) - DeveloperDeck101
+* [Next js 13.4 Masterclass Prático c/ Stripe e Shadcn-ui](https://www.youtube.com/playlist?list=PLR8OzKI52ppWoTRvAmB_FQPPlHS0otV7V) - DeveloperDeck101
 
 
 #### Vue.js

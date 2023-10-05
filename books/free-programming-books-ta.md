@@ -19,59 +19,59 @@
 
 ### AR VR MR
 
-* [எளிய தமிழில் VR/AR/MR](https://freetamilebooks.com/ebooks/vr_ar_mr/)
+* [எளிய தமிழில் VR/AR/MR](https://freetamilebooks.com/ebooks/vr_ar_mr/) - இரா.அசோகன் (PDF)
 
 
 ### C Programming Language
 
-* [C Programming Language Tamil](https://www.researchgate.net/publication/350738560_C_Programming_Language_Tamil-_tamila)
+* [C Programming Language Tamil](https://www.tamilpdfbooks.com/download.php?id=19978#pdf) - Sivalingam M (PDF)
 
 
 ### Computer Vision
 
-* [எளிய தமிழில் Computer Vision](https://freetamilebooks.com/ebooks/computer_vision/)
+* [எளிய தமிழில் Computer Vision](https://freetamilebooks.com/ebooks/computer_vision/) - இரா.அசோகன் (PDF)
 
 
 ### Hadoop
 
-* [எளிய தமிழில் Big Data](https://freetamilebooks.com/ebooks/learn-bigdata-in-tamil)
+* [எளிய தமிழில் Big Data](https://freetamilebooks.com/ebooks/learn-bigdata-in-tamil) - து. நித்யா (PDF)
 
 
 ### HTML and CSS
 
 * [எளிய தமிழில் CSS](https://freetamilebooks.com/ebooks/learn-css-in-tamil/) - Kaniyam Foundation (PDF)
-* [எளிய தமிழில் HTML](https://freetamilebooks.com/htmlbooks/html-book/Learn-HTML-in-Tamil.html)
+* [எளிய தமிழில் HTML](https://freetamilebooks.com/htmlbooks/html-book/Learn-HTML-in-Tamil.html) = Th . Srinivasan (PDF)
 
 
 ### IOT
 
-* [எளிய தமிழில் IOT](https://freetamilebooks.com/ebooks/iot/)
+* [எளிய தமிழில் IOT](https://freetamilebooks.com/ebooks/iot/) - இரா.அசோகன் (PDF)
 
 
 ### JavaScript
 
-* [எளிய தமிழில் JavaScript](https://freetamilebooks.com/ebooks/learn-javascript-in-tamil/)
+* [எளிய தமிழில் JavaScript](https://freetamilebooks.com/ebooks/learn-javascript-in-tamil/) - து.நித்யா (PDF)
 
 
 ### Machine Learning
 
-* [எளிய தமிழில் ML](https://freetamilebooks.com/ebooks/learn_machine_learning_in_tamil/)
+* [எளிய தமிழில் ML](https://freetamilebooks.com/ebooks/learn_machine_learning_in_tamil/) - து. நித்யா (PDF)
 
 
 ### MySQL
 
-* [எளிய தமிழில் MySQL ](https://freetamilebooks.com/ebooks/learn-mysql-in-tamil)
-* [எளிய தமிழில் MySQL – பாகம் 2 ](https://freetamilebooks.com/ebooks/learn-mysql-in-tamil-part-2)
+* [எளிய தமிழில் MySQL ](https://freetamilebooks.com/ebooks/learn-mysql-in-tamil) - து.நித்யா (PDF)
+* [எளிய தமிழில் MySQL – பாகம் 2 ](https://freetamilebooks.com/ebooks/learn-mysql-in-tamil-part-2) - து.நித்யா (PDF)
 
 
 ### Pandas Python
 
-* [எளிய தமிழில் Pandas](https://freetamilebooks.com/ebooks/learn_pandas_in_tamil/)
+* [எளிய தமிழில் Pandas](https://freetamilebooks.com/ebooks/learn_pandas_in_tamil/) - து. நித்யா (PDF)
 
 
 ### PHP
 
-* [எளிய தமிழில் PHP](https://freetamilebooks.com/ebooks/learn-php-in-tamil/)
+* [எளிய தமிழில் PHP](https://freetamilebooks.com/ebooks/learn-php-in-tamil/) - த.சீனிவாசன் (PDF)
 
 
 ### Ruby
@@ -86,9 +86,9 @@
 
 ### Software Architecture
 
-* [எளிய தமிழில் Agile/Scrum](https://freetamilebooks.com/ebooks/learn-agine-scrum-in-tamil)
+* [எளிய தமிழில் Agile/Scrum](https://freetamilebooks.com/ebooks/learn-agine-scrum-in-tamil) - த.சீனிவாசன் (PDF)
 
 
 ### WordPress
 
-* [எளிய தமிழில் WordPress](https://freetamilebooks.com/ebooks/learn-wordpress-in-tamil/)
+* [எளிய தமிழில் WordPress](https://freetamilebooks.com/ebooks/learn-wordpress-in-tamil/) - த.சீனிவாசன் (PDF)

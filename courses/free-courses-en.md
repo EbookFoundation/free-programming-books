@@ -970,6 +970,8 @@
 
 #### Svelte
 
+* [Beginner SvelteKit](https://www.youtube.com/playlist?list=PLtgYhHmUIr3qDB2eTzY-nuBH1W5tOK8a4) - Steph Dietz
+* [Learn How To Build Modern Web Apps With SvelteKit](https://www.youtube.com/watch?v=MoGkX4RvZ38) - Joy of Code
 * [Learn Svelte](https://www.youtube.com/playlist?list=PLA9WiRZ-IS_ylnMYxIFCsZN6xVVSvLuHk) - Joy of Code
 * [Learn Svelte Full Course](https://www.youtube.com/watch?v=UGBJHYpHPvA) - Lihau Tan, freeCodeCamp
 * [Learn the Svelte JavaScript Framework](https://www.youtube.com/watch?v=ujbE0mzX-CU) - Noah Glaser, freeCodeCamp
@@ -977,13 +979,6 @@
 * [Svelte Tutorial](https://www.youtube.com/watch?v=vhGiGqZ78Rs) - Beau Carnes, freeCodeCamp
 * [Svelte Tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwiYZOsc2D8AO1MYwLjZQrKx) - Codevolution
 * [Svelte Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO) - The Net Ninja
-
-
-#### SvelteKit
-
-* [Beginner SvelteKit](https://www.youtube.com/playlist?list=PLtgYhHmUIr3qDB2eTzY-nuBH1W5tOK8a4) - Steph Dietz
-* [Learn How To Build Modern Web Apps With SvelteKit](https://www.youtube.com/watch?v=MoGkX4RvZ38) - Joy of Code
-* [Mastering SvelteKit with Geoff Rich | JS Drops](https://www.youtube.com/watch?v=MaF8kRbHbi0) - Geoff Rich, This Dot Media
 * [SvelteKit For Beginners](https://www.youtube.com/playlist?list=PLA9WiRZ-IS_zXZZyW4qfj0akvOAtk6MFS) - Joy of Code
 * [SvelteKit Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjifDNQYYWI6i06D7PjF0Ua) - Codevolution
 * [SvelteKit Tutorial (Crash Course)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hpM9ARM59Ve3jqcb54dqiP) - The Net Ninja

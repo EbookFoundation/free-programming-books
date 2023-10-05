@@ -1385,14 +1385,10 @@ Books on general-purpose programming that don't focus on a specific language are
 
 #### Svelte
 
+* [Beginner SvelteKit](https://vercel.com/docs/beginner-sveltekit) - Steph Dietz
 * [Getting started with Svelte](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started) - MDN Web Docs
 * [Svelte Tutorial](https://svelte.dev/tutorial/basics) - Svelte.dev
 * [The Svelte Handbook](https://flaviocopes.com/page/svelte-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
-
-
-#### SvelteKit
-
-* [Beginner SvelteKit](https://vercel.com/docs/beginner-sveltekit) - Steph Dietz
 
 
 #### Vue.js

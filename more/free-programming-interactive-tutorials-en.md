@@ -270,6 +270,11 @@
 * [Front End Development Libraries: Redux](https://www.freecodecamp.org/learn/front-end-development-libraries/redux) - freeCodeCamp
 
 
+#### Svelte
+
+* [Interactive Svelte Tutorial](https://learn.svelte.dev/tutorial/welcome-to-svelte) - svelte.dev
+
+
 ### Kotlin
 
 * [Kotlin tutorial](https://kotlinlang.org/docs/tutorials/)

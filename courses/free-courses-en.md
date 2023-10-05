@@ -535,8 +535,8 @@
 * [Practical Deep Learning For Coders taught](http://www.fast.ai) - Jeremy Howard
 * [Practical Deep Learning for Coders, v3 (using fastai library)](https://course.fast.ai)
 * [Self-Paced Courses for Deep Learning](https://developer.nvidia.com/deep-learning-courses)
-* [Stanford CS 224N: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) (Stanford University)
-* [Stanford CS230: Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb) (Stanford University)
+* [Stanford CS 224N: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) (Stanford Online)
+* [Stanford CS230: Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb) (Stanford Online)
 * [Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/tutorial)
 * [What is Deep Learning](https://www.udacity.com/course/deep-learning--ud730) (Udacity)
 

@@ -18,7 +18,7 @@
     * [AWS](#aws)
     * [Azure](#azure)
     * [IBM](#ibm)
-* [Compilers](#compilers)
+* [Compilers design](#compilers)
 * [Computer Organization and Architecture](#computer-organization-and-architecture)
 * [Computer Science](#computer-science)
 * [Cryptography](#cryptography)

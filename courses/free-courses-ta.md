@@ -127,7 +127,8 @@ CSE Tamila by Eezytutorials
 
 ### <a id="spring-boot"></a>Spring Boot
 
-* [Spring Boot in Tamil](https://www.youtube.com/playlist?list=PLgWpUXNR_WCc_VontznRnCUdul5Zp1x3c) - Payilagam
+* [Spring Boot Complete/Full Course in Tamil for Beginners from Basics](https://www.youtube.com/playlist?list=PLgWpUXNR_WCc_VontznRnCUdul5Zp1x3c) - Payilagam
+* [Spring Boot Beginners Tutorial in Tamil](https://www.youtube.com/playlist?list=PLgWpUXNR_WCc_VontznRnCUdul5Zp1x3c) - Code Simple
 
 
 ### SQL

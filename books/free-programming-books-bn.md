@@ -47,6 +47,7 @@
 ### JavaScript
 
 * [হাতেকলমে জাভাস্ক্রিপ্ট: সম্পূর্ণ বাংলায় হাতেকলমে জাভাস্ক্রিপ্ট শিখুন](https://zonayed.js.org) - Zonayed Ahmed (HTML)
+* [জাভাস্ক্রিপ্ট বাংলা ই-বুক](https://toaz.info/doc-view-2) - MD Abdulla Al Faruk
 
 
 ### Machine Learning

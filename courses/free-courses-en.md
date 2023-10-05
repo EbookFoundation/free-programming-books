@@ -411,7 +411,7 @@
 
 * [Berkeley's CS  61A: Taught using SICP](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?tab=collection)
 * [Computer Networking - Network Engineering](https://www.youtube.com/watch?v=qiQR5rTSshw) - Brian Ferrill (FreeCodeCamp)
-* [CS50's Computer Science for Business Professionals](https://pll.harvard.edu/course/cs50s-computer-science-business-professio) - David J. Malan (Harvard University Course on edX)
+* [CS50's Computer Science for Business Professionals](https://pll.harvard.edu/course/cs50s-computer-science-business-professionals) - David J. Malan (Harvard University Course on edX)
 * [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/) - David J. Malan (Harvard OpenCourseWare and edX)
 * [Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212) - Peter Norvig (Udacity)
 * [Discrete Mathematics for Computer Science Specialization](https://www.youtube.com/playlist?list=PLtS8Ubq2bIlXO4qEM5BOsBy6xWQNVFu8l) - My Lesson

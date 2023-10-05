@@ -170,6 +170,7 @@
 * [Microservices architecture](https://docs.microsoft.com/pt-br/dotnet/architecture/microservices/) (PDF)
 * [Modernizing existing .NET apps](https://docs.microsoft.com/pt-br/dotnet/architecture/modernize-with-azure-containers/) (PDF)
 
+
 #### Outros
 
 * [CI - Integração Contínua Sem Desculpa](https://ci.mrprompt.com.br)

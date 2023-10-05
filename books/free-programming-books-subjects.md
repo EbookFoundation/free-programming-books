@@ -777,6 +777,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Quantum Algorithms](https://arxiv.org/pdf/0808.0369v1) - Michele Mosca (PDF)
 * [Quantum Computing for the Quantum Curious](https://link.springer.com/book/10.1007/978-3-030-61601-4) - Ciaran Hughes, Joshua Isaacson, Anastasia Perry, Ranbel F. Sun, Jessica Turner (HTML, PDF, EPUB)
 * [The Functional Analysis of Quantum Information Theory](https://arxiv.org/abs/1410.7188) - Ved Prakash Gupta, Prabha Mandayam, V. S. Sunder (PDF)
+* [The Physics of Quantum Mechanics](https://www-thphys.physics.ox.ac.uk/people/JamesBinney/qb.pdf) - James Binney, David Skinner (PDF)
 
 
 ### Regular Expressions

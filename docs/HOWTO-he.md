@@ -22,7 +22,7 @@
 אל תהססו לשאול שאלות; כל תורם קוד מתחיל עם ה-PR הראשון שלו. אז... למה שלא תצטרף [לקהילה הגדלה שלנו](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books)
 
 <details align="center" markdown="1">
-<summary>לחץ כאן כדי לראות את כמות אנשים במהלך הזמן.</summary>
+<summary>לחץ כאן כדי לראות את כמות האנשים במהלך הזמן.</summary>
 
 [![EbookFoundation/free-programming-books's Contributor over time Graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books)
 
@@ -32,7 +32,7 @@
 
 אפילו אם אתה תורם לקוד פתוח שכבר מנוסה, יש דברים שיכולים לשגע אותך. ברגע שהגשת את ה-PR שלך, ***GitHub actions* יריצו את *הלינטר (linter)* שלך, ובדכ ימצאו דברים קטנים על רווחים ושמות באנגלית**. אם יש לך אור ירוק, הכל מוכן ל-review; אבל אם לא, תלחץ על "פרטים" מתחת לבדיקה שנכשלה כדי למצוא למה הלינטר לא עבד, ותתקן את הבעיה עם קומיט חדש ל-branch של ה-PR
 
-בסוף, אם אתה אל בטוח שהמשאב שאתה רוצה להוסיף מתאים בשביל `Free-Programming-Books`, תקרא את הקווים המנחים ב [CONTRIBUTING - תורמים](CONTRIBUTING.md) *זמין גם ב ([תרגומים](README.md#translations) )* 
+בסוף, אם אתה לא בטוח שהמשאב שאתה רוצה להוסיף מתאים בשביל `Free-Programming-Books`, תקרא את הקווים המנחים ב [CONTRIBUTING - תורמים](CONTRIBUTING.md) *זמין גם ב ([תרגומים](README.md#translations) )* 
 
 Finally, if you're not sure that the resource you want to add is appropriate for `Free-Programming-Books`, read through the guidelines in [CONTRIBUTING](CONTRIBUTING.md) *([translations](README.md#translations) also available)*.
 </div>

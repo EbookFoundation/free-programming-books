@@ -1022,6 +1022,7 @@
 #### Three.js
 
 * [Three.js Tutorial Crash Course](https://www.youtube.com/watch?v=YK1Sw_hnm58) - Chris Courses
+* [Three.js Tutorials](https://www.youtube.com/watch?v=xJAfLdUgdc4&list=PLjcjAqAnHd1EIxV4FSZIiJZvsdrBc1Xho) - Wael Yasmina
 
 
 ### TypeScript

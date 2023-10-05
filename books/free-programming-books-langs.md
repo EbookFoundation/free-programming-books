@@ -1468,6 +1468,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Linux 101 Hacks](http://thegeekstuff.s3.amazonaws.com/files/linux-101-hacks.zip) - Ramesh Natarajan (PDF)
 * [Linux Advanced Routing & Traffic Control HOWTO](http://lartc.org)
 * [Linux Appliance Design: A Hands-On Guide to Building Linux Appliances](http://librta.org/book.html) - Bob Smith, John Hardin, Graham Phillips, Bill Pierce (PDF, EPUB, MOBI)
+* [Linux Basics for Hackers - Getting Started with Networking, Scripting, and Security in Kali](https://kea.nu/files/textbooks/humblesec/linuxbasicsforhackers.pdf) - OccupyTheWeb (PDF)
 * [Linux commands Notes for Professionals](https://goalkicker.com/LinuxBook/) - Compiled from StackOverflow documentation (PDF)
 * [Linux Device Drivers, Third Edition](http://lwn.net/Kernel/LDD3/) - Jonathan Corbet, Alessandro Rubini, Greg Kroah-Hartman
 * [Linux from Scratch](http://www.linuxfromscratch.org/lfs/view/stable/)

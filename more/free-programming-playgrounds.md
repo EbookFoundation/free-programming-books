@@ -114,9 +114,9 @@
 
 ### DevOps
 
-* [KodeKloud](https://kodekloud.com/kodekloud-engineer/)
 * [DevOps Dream](https://devops.games) - DevOps Dream
 * [DevOps Party Games](https://devopspartygames.com) - DevOps Party Games
+* [KodeKloud](https://kodekloud.com/kodekloud-engineer/)
 
 
 ### Docker

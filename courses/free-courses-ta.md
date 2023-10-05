@@ -16,6 +16,7 @@
 * [R](#r)
 * [React](#react)
 * [Solidity](#solidity)
+* [Spring Boot](#spring-boot)
 * [SQL](#sql)
 
 
@@ -122,6 +123,12 @@ CSE Tamila by Eezytutorials
 ### Solidity
 
 * [Solidity tutorial for complete beginners](https://youtube.com/playlist?list=PLl2NTvGeqw2ZRNLU25-yodXK86EXWV6on) - Ork
+
+
+### <a id="spring-boot"></a>Spring Boot
+
+* [Spring Boot Complete/Full Course in Tamil for Beginners from Basics](https://www.youtube.com/playlist?list=PLgWpUXNR_WCc_VontznRnCUdul5Zp1x3c) - Payilagam
+* [Spring Boot Beginners Tutorial in Tamil](https://www.youtube.com/playlist?list=PLgWpUXNR_WCc_VontznRnCUdul5Zp1x3c) - Code Simple
 
 
 ### SQL

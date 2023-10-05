@@ -435,8 +435,8 @@
 
 ### Cuda
 
-* [Intro to Parallel Programming Using CUDA to Harness the Power of GPUs](https://www.udacity.com/course/intro-to-parallel-programming--cs344) (Udacity)
 * [CUDA programming Masterclass with C++](https://www.udemy.com/course/cuda-programming-masterclass/) (Udemy)
+* [Intro to Parallel Programming Using CUDA to Harness the Power of GPUs](https://www.udacity.com/course/intro-to-parallel-programming--cs344) (Udacity)
 * [Introduction to Parallel Programming with CUDA](https://www.coursera.org/learn/introduction-to-parallel-programming-with-cuda) (Coursera)
 * [Parallel Computing with Nvidia CUDA](https://www.youtube.com/watch?v=zSCdTOKrnII) (Youtube)
 
@@ -638,8 +638,8 @@
 
 ### Fortran
 
-* [Fortran Tutorial](https://www.youtube.com/watch?v=__2UgFNYgf8) - Derek Banas
 * [Fortran For Beginners](https://www.udemy.com/course/fortran-for-beginners/) - Brad Richardson (Udemy)
+* [Fortran Tutorial](https://www.youtube.com/watch?v=__2UgFNYgf8) - Derek Banas
 * [Intermediate Fortran](https://www.udemy.com/course/intermediate-fortran/) - Brad Richardson (Udemy)
 
 

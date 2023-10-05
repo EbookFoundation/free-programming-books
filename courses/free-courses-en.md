@@ -48,8 +48,10 @@
 * [iOS](#ios)
 * [Java](#java)
 * [JavaScript](#javascript)
-    * [AngularJS](#angularjs)
+    * [Angular](#angular)
+        * [AngularJS](#angularjs)
     * [D3.js](#d3js)
+    * [Deno](#deno)
     * [Electron](#electron)
     * [jQuery](#jquery)
     * [Next.js](#nextjs)
@@ -59,9 +61,10 @@
     * [Redux](#redux)
     * [Svelte](#svelte)
     * [Three.js](#threejs)
+    * [TypeScript](#typescript)
     * [Vue.js](#vuejs)
     * [Webpack](#webpack)
-* [Julia](#julia) 
+* [Julia](#julia)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
 * [Linux](#linux)
@@ -101,9 +104,6 @@
 * [System Design](#system-design)
 * [Terraform](#terraform)
 * [Theory](#theory)
-* [TypeScript](#typescript)
-    * [Angular](#angular)
-    * [Deno](#deno)
 * [Verilog / VHDL / SystemVerilog](#verilog--vhdl--systemverilog)
 * [Web Development](#web-development)
 * [Web3](#web3)
@@ -181,8 +181,10 @@
 * [Princeton University Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
 * [Red Black Tree in Data Structures](https://youtube.com/playlist?list=PLPzfPcir5uPT8KFST1Ba3vN6k9yKE9ZK4) - NG Tutorials
 * [Sorting Algorithms](https://www.youtube.com/playlist?list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U) - mycodeschool
+* [Sorting Algorithms](https://www.youtube.com/playlist?list=PLzgPDYo_3xunyLTJlmoH8IAUvet4-Ka0y) - Amulya's Academy
 * [Stanford University Algorithms: Design and Analysis, Part 1](https://online.stanford.edu/courses/soe-ycsalgorithms1-algorithms-design-and-analysis-part-1)
 * [Stanford University Algorithms: Design and Analysis, Part 2](https://online.stanford.edu/courses/soe-ycs0001-algorithms-design-and-analysis-part-2)
+* [Strivers A2Z-DSA Course \| DSA Playlist \| Placements](https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz) - take U forward
 * [Trees by Striver \| C++ \| Java \| Placements \| Binary Trees and Traversals \| Problems](https://www.youtube.com/playlist?list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk) - take U forward
 
 
@@ -330,8 +332,11 @@
 
 ### <a id="cpp"></a>C++
 
+* [C++](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) - The Cherno
 * [C++ Compilation, Linking, and Makefiles](https://youtube.com/playlist?list=PLNUvpxaaFJ_i6BYqbxTVeK5AOcFzQbboQ) - Amy Larson
 * [C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210) - Catherine Gamboa (Udacity)
+* [C++ GUI applications (beginner to advanced)](https://www.youtube.com/playlist?list=PL43pGnjiVwgQakzRxpt2amqN9f7-tRtc_) - Saldina Nurak (CodeBeauty)
+* [C++ Object-Oriented Programming](https://www.youtube.com/playlist?list=PL43pGnjiVwgTJg7uz8KUGdXRdGKE0W_jN) - Saldina Nurak (CodeBeauty)
 * [C++ Programming](https://www.youtube.com/playlist?list=PLBlnK6fEyqRh6isJ01MBnbNpV3ZsktSyS) - Neso Academy
 * [C++ Programming](https://www.youtube.com/playlist?list=PLfu_Bpi_zcDOtpXhhxL-P1wu0VkwNRXwC) - Kody Simpson
 * [C++ Programming Course - Beginner to Advanced](https://www.youtube.com/watch?v=8jLOx1hD3_o) - Daniel Gakwaya (freeCodeCamp)
@@ -359,12 +364,15 @@
 * [Cloud Computing and Development](https://uaceit.com/courses/cloud-computing-and-development) - Ashwin Kumar Ramaswamy (UAceIt) (email address *required*)
 * [Cloud Computing Full Course In 11 Hours \| Cloud Computing Tutorial For Beginners](https://www.youtube.com/watch?v=2LaAJq1lB1Q) - Edureka!
 * [Introduction to Cloud](https://cognitiveclass.ai/courses/introduction-to-cloud) - CognitiveClass.ai
+* [NPTEL-CloudComputing](https://www.youtube.com/playlist?list=PLShJJCRzJWxhz7SfG4hpaBD5bKOloWx9J) - Manish Narula
 
 
 #### AWS
 
 * [AWS Certified Cloud Practitioner Course](https://youtube.com/playlist?list=PLt1SIbA8guuvfvUDVLpJepmbnYpOfYCIB) - Stephane Maarek
+* [AWS Power Hour: Architecting](https://pages.awscloud.com/traincert-twitch-power-hour-architecting.html?saa=sec&sec=prep) - AWS
 * [AWS Tutorial For Beginners](https://youtube.com/playlist?list=PLEiEAq2VkUULlNtIFhEQHo8gacvme35rz) - Simplilearn
+* [AWS Zero to Hero](https://www.youtube.com/playlist?list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze) - Abhishek Veeramalla
 * [Cloud Computing Basics with AWS](https://trailhead.salesforce.com/content/learn/modules/aws-cloud) - Trailhead (Salesforce) (email address *required*)
 * [Deploying Spring Boot Applications With AWS ECS Fargate (Free Course)](https://javatodev.com/deploying-spring-boot-applications-with-aws-ecs/) - Chinthaka Dinadasa (javatodev)
 * [How to Build AWS VPC Using Terraform – Step By Step](https://javatodev.com/how-to-build-aws-vpc-using-terraform-step-by-step/) - Chinthaka Dinadasa (javatodev)
@@ -417,6 +425,9 @@
 
 ### Cryptography
 
+* [Cryptography & Network Security](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgJU3EsOYDTW7m6SUmW6kII) - Neso Academy
+* [Cryptography Lecture Series](https://www.youtube.com/playlist?list=PL2jrku-ebl3H50FiEPr4erSJiJHURM9BX) - Christof Paar
+* [Foundations of Cryptography](https://www.youtube.com/playlist?list=PLgMDNELGJ1CbdGLyn7OrVAP-IKg-0q2U2) - NPTEL  Indian Institute of Science, Bengaluru
 * [Introduction to Cryptography](https://open.ruhr-uni-bochum.de/en/lernangebot/introduction-cryptography) (Christof Paar)
 * [Stanford Cryptography I](https://www.coursera.org/course/crypto) - Dan Boneh
 * [Stanford Cryptography II](https://www.coursera.org/course/crypto2) - Dan Boneh
@@ -505,6 +516,7 @@
 * [Learn SQL: SQL Tutorial for Beginners](https://www.programiz.com/sql) - Programiz
 * [MySQL Tutorial for Beginners [Full Course]](https://www.youtube.com/watch?v=7S_tz1z_5bA) - Moshfegh Hamedani (Programming with Mosh)
 * [SQL Foundations](https://www.udemy.com/course/sql-essentials-for-beginners/) - Sagar Uppuluri (Udemy)
+* [SQL NPTEL](https://www.youtube.com/playlist?list=PLLQPIumE5cE-gzU5hChH1V3H93x4UOlHR)
 * [SQL Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWr_6xTfF2FrIw-NAOo3iWMy)
 * [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY) - Mike Dane (freeCodeCamp)
 
@@ -521,6 +533,7 @@
 * [Deep Learning With Tensorflow 2.0 and Keras](https://youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO) - codebasics
 * [Deep Multi-Task and Meta Learning](https://cs330.stanford.edu) - Chelsea Finn (Stanford University)
 * [Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/) - Sergey Levine
+* [Deep Reinforcement Learning Course - Hugging Face](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
 * [Exploring Fairness in Machine Learning for International Development](https://ocw.mit.edu/resources/res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020) - Dr. Richard Fletcher, Prof. Daniel Frey, Dr. Mike Teodorescu, Amit Gandhi, Audace Nakeshimana (MIT OpenCourseWare)
 * [Full Stack Computer Vision Tutorial with Tensorflow, Python, Tensorflow.JS with React.JS](https://www.youtube.com/playlist?list=PLgNJO2hghbmhUeJuv7PyVYgzhlgt2TcSr) - Nicholas Renotte
 * [Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning) - Ryan Holbrook
@@ -538,6 +551,7 @@
 ### DevOps
 
 * [AWS DevOps Engineer Learning Plan](https://explore.skillbuilder.aws/learn/public/learning_plan/view/85/devops-engineering-learning-plan?la=sec&sec=lp) - AWS
+* [Complete DevOps Zero to Hero Course](https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa) - Abhishek Veeramalla
 * [DevOps Bootcamp](https://www.youtube.com/playlist?list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak) - Kunal Kushwaha
 * [DevOps Full Course ](https://www.youtube.com/watch?v=lpk7VpGqkKw) - Simplilearn
 * [DevOps Tutorial for Beginners](https://www.youtube.com/playlist?list=PLVHgQku8Z934suC9LSE6vaAKjOH_MfRbE) - Intellipaat
@@ -565,10 +579,11 @@
 
 * [FREE Advanced Jenkins in K8s (Docker in Docker)](https://www.udemy.com/course/free-advanced-jenkins-in-k8s-docker-in-docker) -  CS Career Kaizen (Udemy)
 * [Jenkins](https://youtube.com/playlist?list=PLhW3qG5bs-L_ZCOA4zNPSoGbnVQ-rp_dG) - Automation Step by Step
-* [Jenkins for Beginners](https://www.udemy.com/course/jenkins-for-beginners-n) - Musab Zayadneh (Udemy)
+* [Jenkins \| Step-by-Step for Complete Beginners](https://www.udemy.com/course/jenkins-step-by-step-for-complete-beginners/) - Raghav Pal (Udemy)
 * [Jenkins Tutorial](https://www.mygreatlearning.com/academy/learn-for-free/courses/jenkins-tutorial) (Great Learning)
 * [Jenkins Tutorial Step by Step](https://www.youtube.com/playlist?list=PL8VbCbavWfeGt_Hyq0h9Pymi9DTGowd5X) - The Testing Academy
 * [Jenkins Tutorial Video [2022 updated]](https://www.youtube.com/playlist?list=PLEiEAq2VkUUKGrfcoNYRgqam5YBERN8xa) - Simplilearn
+* [Jenkins Zero to Hero](https://www.youtube.com/playlist?list=PLdpzxOOAlwvJDIAQZtMjUUbiVUDfGaCIX) - Abhishek Veeramalla
 
 
 ### Digital Electronics
@@ -659,6 +674,7 @@
 * [Git](https://www.youtube.com/playlist?list=PLFBirL3MAv29Vy_L7MmV2QaZLvAadFPHR) - Gwendolyn Faraday
 * [Git & GitHub](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF) - Briana Marie, freeCodeCamp.org
 * [Git & GitHub](https://www.youtube.com/playlist?list=PLhW3qG5bs-L8OlICbNX9u4MZ3rAt5c5GG) - Raghav Pal, Automation Step by Step
+* [Git & GitHub Complete Guide](https://www.udemy.com/course/git-n-github-complete-guide) (Udemy)
 * [Git & GitHub Crash Course](https://www.udemy.com/course/git-and-github-crash-course-creating-a-repository-from-scratch/) - Kalob Taulien (Udemy)
 * [Git & GitHub Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR) (The Net Ninja)
 * [Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
@@ -741,6 +757,7 @@
 * [Learn HTML5 Programming From Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)
 * [Learn to style HTML using CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 * [Responsive Web Design with HTML5 and CSS3 - Advanced](https://www.udemy.com/course/responsive-web-design-with-html5-and-css3-advanced/) - Udemy
+* [Sass Tutorial - Build Your Own CSS Library](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jxJX7vojNVK-o8ubDZEcNb) - The Net Ninja
 * [Structuring the web with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 * [Tailwind CSS Tutorial](https://youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw) - The Net Ninja
 * [Web Development By Doing: HTML / CSS From Scratch](https://www.udemy.com/course/web-development-learn-by-doing-html5-css3-from-scratch-introductory/) - Udemy
@@ -782,6 +799,7 @@
 * [Central Connecticut State University, Introduction to CS Using Java](http://chortle.ccsu.edu/CS151/cs151java.html)
 * [CS106A - Programming Methodology](https://see.stanford.edu/Course/CS106A) (Stanford)
 * [Fundamentals of Java EE Development](https://www.edx.org/course/fundamentals-of-java-ee-development) -  Will Dinyes (edX)
+* [Hibernate Tutorial for Beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7qBZtsEvp_n2A7sJs2MpF3r) - Telusko (Navin Reddy)
 * [Introduction to Java](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/)
 * [Introduction to Java + DSA](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ) - Kunal Kushwaha
 * [Java Beginner](https://youtube.com/playlist?list=PLkeaG1zpPTHiMjczpmZ6ALd46VjjiQJ_8) - Coding with John
@@ -813,8 +831,11 @@
 * [Princeton Algorithms, Part 1](https://www.coursera.org/course/algs4partI)
 * [Problem Solving With Java](https://www.udacity.com/course/intro-to-java-programming--cs046) (Udacity)
 * [Programming in Java](https://nptel.ac.in/courses/106/105/106105191/) - Prof. Debasis Samanta (NPTEL)
+* [Servlet & JSP Tutorial Full Course](https://www.youtube.com/watch?v=OuBUUkQfBYM) - Telusko (Navin Reddy)
 * [Software Construction in Java](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.1x+3T2016/about) - MIT Open Learning Library
 * [Spring 5 Core - An Ultimate Guide](https://www.udemy.com/learn-spring-5-core-from-scratch/) - Somnath Musib (Udemy)
+* [Spring Boot Tutorials](https://www.youtube.com/playlist?list=PLhfxuQVMs-nx3YQa3XJ9-4g_EoK0J8WhU) - Daily Code Buffer (Shabbir Dawoodi)
+* [Spring Boot Tutorials Full Course](https://www.youtube.com/watch?v=35EQXmHKZYs) - Telusko (Navin Reddy)
 * [What is Java?](https://sagecode.net/java/index.html) - Elucian Moise (Sage-Code)
 
 
@@ -827,6 +848,7 @@
 * [Cycle.js Fundamentals](https://egghead.io/courses/cycle-js-fundamentals) - André Staltz
 * [ES6 and Typescript Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV) - Codevolution, Vishwas Gopinath
 * [Functional Programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) - Mattias Petter Johansson «Fun Fun Function»
+* [Gentle Introduction to JavaScript](https://youtube.com/playlist?list=PLErOmyzRKOCpmitTOazq3_p74Y-yTQB6A) - Deborah Kurata
 * [Intro to JavaScript ES6 programming](https://www.youtube.com/playlist?list=PL-xu4i_QDSxcoDNeh8rx5-pHCCTOg0XsI)
 * [Intro To JavaScript Unit Testing & BDD](https://www.youtube.com/watch?v=u5cLK1UrFyQ) - Traversy Media
 * [Introduction to ES6+](https://scrimba.com/learn/introtoes6) - Dylan C. Israel (Scrimba)
@@ -860,9 +882,22 @@
 * [Vanilla JavaScript](https://www.youtube.com/playlist?list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX) - Brad Traversy, Traversy Media
 
 
-#### AngularJS
+#### Angular
 
-> :information_source: See also &#8230; [Angular](#angular)
+* [Angular 12 / 13 tutorial](https://www.youtube.com/playlist?list=PL8p2I9GklV47eNpoo4Fr6fkags72a8F0v) - Code Step By Step
+* [Angular 12 Course](https://www.youtube.com/playlist?list=PLjsBk8SIQEi-RqkglLcn19TaeeopcuDXV) - Slobodan Gajic
+* [Angular 6 Tutorials](https://www.youtube.com/playlist?list=PLYxzS__5yYQlqCmHqDyW3yo5V79C7eaTe) - codedamn
+* [Angular Complete Course Guide](https://youtube.com/playlist?list=PL_euSNU_eLbeAJxvVdJn5lhPWX9IWHhxs) - Leela Web Dev
+* [Angular Courses](https://www.youtube.com/playlist?list=PLTjRvDozrdlxAhsPP4ZYtt3G8KbJ449oT) - Moshfegh Hamedani (Programming with Mosh)
+* [Angular Crash Course 2021](https://www.youtube.com/watch?v=3dHNOWTI7H8) - Brad Traversy, Traversy Media
+* [Angular Fast Crash Course](https://www.udemy.com/angular-fast-crash-course/) - Edwin Diaz, Coding Faculty Solutions (Udemy)
+* [Angular for Beginners](https://www.udemy.com/course/angular-for-beginners-course/) - Angular University (Udemy)
+* [Angular Tutorial For Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ) - Codevolution
+* [Angular Tutorial for Beginners - Web Framework with Typescript Course](https://www.youtube.com/watch?v=AAu8bjj6-UI) - Slobodan Gajic, freeCodeCamp
+* [Learn Angular 5 from Scratch](https://www.udemy.com/course/angular-5/) - Gary Simon (Udemy)
+
+
+##### AngularJS
 
 * [AngularJS Tutorial for Beginners](https://www.youtube.com/watch?v=9b9pLgaSQuI) - Yaakov Chaikin (My Lesson)
 * [AngularJS Tutorials](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gsJS5QgFT2IvWIX78dV3_v) - The Net Ninja
@@ -875,6 +910,12 @@
 
 * [D3 101](https://www.youtube.com/playlist?list=PL9yYRbwpkykvjkfuRslECO9c1qTq3GgUb) - Curran Kelleher
 * [Learn D3](https://www.codecademy.com/learn/learn-d3) - Codecademy *(account required)*
+
+
+#### Deno
+
+* [Deno Beginner](https://denobeginner.com) - Ahmad Awais (email address *required*)
+* [Deno Course - Better than Node.js?](https://www.youtube.com/watch?v=TQUy8ENesGY) - The Codeholic, freeCodeCamp
 
 
 #### Electron
@@ -891,6 +932,7 @@
 
 #### Next.js
 
+* [Complete Next.js Course For Beginners](https://www.youtube.com/playlist?list=PLynWqC6VC9KOvExUuzhTFsWaxnpP_97BD) - Daily Tuition
 * [Master Next JS by Building Real Projects](https://www.youtube.com/playlist?list=PL6QREj8te1P7gixBDSU8JLvQndTEEX3c3) - JavaScript Mastery
 * [Mastering Next.js](https://masteringnextjs.com)
 * [Next.js for Beginners - Full Course](https://www.youtube.com/watch?v=1WmNXEVia8I) - Kapehe (FreeCodeCamp)
@@ -963,13 +1005,34 @@
 
 #### Svelte
 
+* [Beginner SvelteKit](https://www.youtube.com/playlist?list=PLtgYhHmUIr3qDB2eTzY-nuBH1W5tOK8a4) - Steph Dietz
+* [Learn How To Build Modern Web Apps With SvelteKit](https://www.youtube.com/watch?v=MoGkX4RvZ38) - Joy of Code
+* [Learn Svelte](https://www.youtube.com/playlist?list=PLA9WiRZ-IS_ylnMYxIFCsZN6xVVSvLuHk) - Joy of Code
+* [Learn Svelte Full Course](https://www.youtube.com/watch?v=UGBJHYpHPvA) - Lihau Tan, freeCodeCamp
 * [Learn the Svelte JavaScript Framework](https://www.youtube.com/watch?v=ujbE0mzX-CU) - Noah Glaser, freeCodeCamp
+* [Svelte Crash Course](https://www.youtube.com/watch?v=3TVy6GdtNuQ) - Traversy Media
 * [Svelte Tutorial](https://www.youtube.com/watch?v=vhGiGqZ78Rs) - Beau Carnes, freeCodeCamp
+* [Svelte Tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwiYZOsc2D8AO1MYwLjZQrKx) - Codevolution
+* [Svelte Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO) - The Net Ninja
+* [SvelteKit For Beginners](https://www.youtube.com/playlist?list=PLA9WiRZ-IS_zXZZyW4qfj0akvOAtk6MFS) - Joy of Code
+* [SvelteKit Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjifDNQYYWI6i06D7PjF0Ua) - Codevolution
+* [SvelteKit Tutorial (Crash Course)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hpM9ARM59Ve3jqcb54dqiP) - The Net Ninja
 
 
 #### Three.js
 
 * [Three.js Tutorial Crash Course](https://www.youtube.com/watch?v=YK1Sw_hnm58) - Chris Courses
+
+
+### TypeScript
+
+* [Beginner's Typescript](https://www.totaltypescript.com/tutorials/beginners-typescript) - Matt Pocock
+* [ES6 and Typescript Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV) - Codevolution, Vishwas Gopinath
+* [Introduction to TypeScript](https://www.udemy.com/typescript/) - Daniel Stern (Udemy)
+* [Learn TypeScript](https://www.codecademy.com/learn/learn-typescript) - (CodeAcademy)
+* [TypeScript Course for Beginners- Learn TypeScript from Scratch!](https://www.youtube.com/watch?v=BwuLxPH8IDs) - Academind
+* [TypeScript Fast Crash Course](https://www.udemy.com/typescript-fast-crash-course/) - Edwin Diaz, Coding Faculty Solutions (Udemy)
+* [TypeScript Tutorial for Beginners - 2022](https://www.youtube.com/watch?v=d56mG7DezGs) - Programming with Mosh
 
 
 #### Vue.js
@@ -1014,6 +1077,7 @@
 * [Kotlin Course - Tutorial for Beginners](https://www.youtube.com/watch?v=F9UC9DY-vIU) - Nate Ebel, freeCodeCamp
 * [Kotlin for Java Developers](https://www.coursera.org/learn/kotlin-for-java-developers) - Svetlana Isakova, Andrey Breslav (Coursera)
 * [Kotlin Newbie To Pro](https://www.youtube.com/playlist?list=PLQkwcJG4YTCRSQikwhtoApYs9ij_Hc5Z9) - Philipp Lackner
+* [Kotlin Tutorial for Beginners: Basics and Fundamentals for Android](https://www.youtube.com/playlist?list=PLlxmoA0rQ-LwgK1JsnMsakYNACYGa1cjR) - Smartherd
 * [One hour Kotlin guide for beginners](https://www.udemy.com/course/one-hour-kotlin-guide-for-beginners) - Tutlets Kkang (Udemy)
 * [Track: Kotlin Basics](https://hyperskill.org/tracks/18) - Hyperskill, JetBrains (Hyperskill)
 
@@ -1063,6 +1127,7 @@
 * [Introduction to Machine Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about) - MIT Open Learning Library
 * [Machine Learning](https://www.sololearn.com/Course/machine-learning) (SoloLearn) *(account required)*
 * [Machine Learning](https://youtube.com/playlist?list=PL7T06JEc5PF5Vuz1U7lEEaFPOExDbKVEh) - Nerd's Lesson
+* [Machine Learning](https://youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF) - StatQuest with Josh Starmer
 * [Machine Learning — Andrew Ng, Stanford University](https://youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) - Andrew Ng
 * [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 * [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) - Andrew Ng, Eddy Shyu, Aarti Bagul, Geoff Ladwig (Coursera)
@@ -1124,6 +1189,8 @@
 
 ### Networking
 
+* [CompTIA N10-008 Network+ Training Course](https://www.youtube.com/playlist?list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G) - Professor Messer
+* [Computer Networking: A Top-Down Approach 8th edition](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) - Jim Kurose, Keith Ross 
 * [Computer Networking Course](https://www.youtube.com/watch?v=qiQR5rTSshw) - Brian Farrell (FreeCodeCamp.org)
 * [Computer Networking Full Course - OSI Model Deep Dive with Real Life Examples](https://www.youtube.com/watch?v=IPvYjXCsTg8) - Kunal Kushwaha
 * [Computer Networks 5e](https://media.pearsoncmg.com/ph/streaming/esm/tanenbaum5e_videonotes/tanenbaum_videoNotes.html) - Andrew Tanenbaum, David Wetherall (Pearson)
@@ -1431,6 +1498,7 @@
 * [Terraform Tutorial for Beginners](https://www.youtube.com/watch?v=YcJ9IeukJL8) - KodeKloud
 * [Terraform tutorial for beginners Videos in English by Techworld with Murali](https://www.youtube.com/playlist?list=PLuJTeEt6HH9fUj7oRRLT0g1ttVl--Fv1T) - Murali
 * [Terraform Tutorials](https://www.youtube.com/playlist?list=PL2qzCKTbjutKff_ns750TFESQc44nlULv) - Narendra
+* [Terraform Zero to Hero](https://www.youtube.com/playlist?list=PLdpzxOOAlwvI0O4PeKVV1-yJoX2AqIWuf) - Abhishek Veeramalla
 
 
 ### Theory
@@ -1438,40 +1506,6 @@
 * [Automata Theory](https://online.stanford.edu/courses/soe-ycsautomata-automata-theory)
 * [Formal Languages & Automata Theory](https://www.youtube.com/playlist?list=PLLvKknWU7N4zvTGcw9N2_7eZSTTkryb0U) - Lalit Vashistha
 * [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313) (Udacity)
-
-
-### TypeScript
-
-* [Beginner's Typescript](https://www.totaltypescript.com/tutorials/beginners-typescript) - Matt Pocock
-* [ES6 and Typescript Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV) - Codevolution, Vishwas Gopinath
-* [Introduction to TypeScript](https://www.udemy.com/typescript/) - Daniel Stern (Udemy)
-* [Learn TypeScript](https://www.codecademy.com/learn/learn-typescript) - (CodeAcademy)
-* [TypeScript Course for Beginners- Learn TypeScript from Scratch!](https://www.youtube.com/watch?v=BwuLxPH8IDs) - Academind
-* [TypeScript Fast Crash Course](https://www.udemy.com/typescript-fast-crash-course/) - Edwin Diaz, Coding Faculty Solutions (Udemy)
-* [TypeScript Tutorial for Beginners - 2022](https://www.youtube.com/watch?v=d56mG7DezGs) - Programming with Mosh
-
-
-#### Angular
-
-> :information_source: See also &#8230; [AngularJS](#angularjs)
-
-* [Angular 12 / 13 tutorial](https://www.youtube.com/playlist?list=PL8p2I9GklV47eNpoo4Fr6fkags72a8F0v) - Code Step By Step
-* [Angular 12 Course](https://www.youtube.com/playlist?list=PLjsBk8SIQEi-RqkglLcn19TaeeopcuDXV) - Slobodan Gajic
-* [Angular 6 Tutorials](https://www.youtube.com/playlist?list=PLYxzS__5yYQlqCmHqDyW3yo5V79C7eaTe) - codedamn
-* [Angular Complete Course Guide](https://youtube.com/playlist?list=PL_euSNU_eLbeAJxvVdJn5lhPWX9IWHhxs) - Leela Web Dev
-* [Angular Courses](https://www.youtube.com/playlist?list=PLTjRvDozrdlxAhsPP4ZYtt3G8KbJ449oT) - Moshfegh Hamedani (Programming with Mosh)
-* [Angular Crash Course 2021](https://www.youtube.com/watch?v=3dHNOWTI7H8) - Brad Traversy, Traversy Media
-* [Angular Fast Crash Course](https://www.udemy.com/angular-fast-crash-course/) - Edwin Diaz, Coding Faculty Solutions (Udemy)
-* [Angular for Beginners](https://www.udemy.com/course/angular-for-beginners-course/) - Angular University (Udemy)
-* [Angular Tutorial For Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ) - Codevolution
-* [Angular Tutorial for Beginners - Web Framework with Typescript Course](https://www.youtube.com/watch?v=AAu8bjj6-UI) - Slobodan Gajic, freeCodeCamp
-* [Learn Angular 5 from Scratch](https://www.udemy.com/course/angular-5/) - Gary Simon (Udemy)
-
-
-#### Deno
-
-* [Deno Beginner](https://denobeginner.com) - Ahmad Awais (email address *required*)
-* [Deno Course - Better than Node.js?](https://www.youtube.com/watch?v=TQUy8ENesGY) - The Codeholic, freeCodeCamp
 
 
 ### Verilog / VHDL / SystemVerilog

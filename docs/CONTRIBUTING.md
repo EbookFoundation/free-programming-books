@@ -3,7 +3,7 @@
 
 ## Contributor License Agreement
 
-By contributing you agree to the [LICENSE](../LICENSE) of this repository.
+By contributing, you agree to the [LICENSE](../LICENSE) of this repository.
 
 
 ## Contributor Code of Conduct
@@ -15,17 +15,17 @@ By contributing you agree to respect the [Code of Conduct](CODE_OF_CONDUCT.md) o
 
 1. "A link to easily download a book" is not always a link to a *free* book. Please only contribute free content. Make sure it's free. We do not accept links to pages that *require* working email addresses to obtain books, but we welcome listings that request them.
 
-2. You don't have to know Git: if you found something of interest which is *not already in this repo*, please open an [Issue](https://github.com/EbookFoundation/free-programming-books/issues) with your links propositions.
+2. You don't have to know Git: if you found something of interest that is *not already in this repo*, please open an [Issue](https://github.com/EbookFoundation/free-programming-books/issues) with your links propositions.
     - If you know Git, please Fork the repo and send Pull Requests (PR).
 
 3. We have 6 kinds of lists. Choose the right one:
 
-    - *Books* : PDF, HTML, ePub, a gitbook.io based site, a Git repo, etc.
+    - *Books*: PDF, HTML, ePub, a gitbook.io based site, a Git repo, etc.
     - *Courses* : A course is a learning material which is not a book. [This is a course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
-    - *Interactive Tutorials* : An interactive website which lets the user type code or commands and evaluates the result (by "evaluate" we don't mean "grade"). e.g.: [Try Haskell](http://tryhaskell.org), [Try Git](https://learngitbranching.js.org).
-    - *Playgrounds* : are online and interactive websites, games or desktop software for learning programming. Write, compile (or run), and share code snippets. Playgrounds often allow you to fork and get your hands dirty by playing with code.
+    - *Interactive Tutorials*: An interactive website which lets the user type code or commands and evaluates the result (by "evaluate" we don't mean "grade"). e.g.: [Try Haskell](http://tryhaskell.org), [Try Git](https://learngitbranching.js.org).
+    - *Playgrounds*: are online and interactive websites, games, or desktop software for learning programming. Write, compile (or run), and share code snippets. Playgrounds often allow you to fork and get your hands dirty by playing with code.
     - *Podcasts and Screencasts* : Podcasts and screencasts.
-    - *Problem Sets & Competitive Programming* : A website or software which lets you assess your programming skills by solving simple or complex problems, with or without code review, with or without comparing the results with other users.
+    - *Problem Sets & Competitive Programming*: A website or software that lets you assess your programming skills by solving simple or complex problems, with or without code review, with or without comparing the results with other users.
 
 4. Make sure to follow the [guidelines below](#guidelines) and respect the [Markdown formatting](#formatting) of the files.
 
@@ -35,9 +35,9 @@ By contributing you agree to respect the [Code of Conduct](CODE_OF_CONDUCT.md) o
 ### Guidelines
 
 - make sure a book is free. Double-check if needed. It helps the admins if you comment in the PR as to why you think the book is free.
-- we don't accept files hosted on Google Drive, Dropbox, Mega, Scribd, Issuu and other similar file upload platforms
+- we don't accept files hosted on Google Drive, Dropbox, Mega, Scribd, Issuu, and other similar file upload platforms
 - insert your links in alphabetical order, as described [below](#alphabetical-order).
-- use the link with the most authoritative source (meaning the author's website is better than the editor's website, which is better than a third party website)
+- use the link with the most authoritative source (meaning the author's website is better than the editor's website, which is better than a third-party website)
     - no file hosting services (this includes (but is not limited to) Dropbox and Google Drive links)
 - always prefer a `https` link over a `http` one -- as long as they are on the same domain and serve the same content
 - on root domains, strip the trailing slash: `http://example.com` instead of `http://example.com/`
@@ -50,11 +50,11 @@ By contributing you agree to respect the [Code of Conduct](CODE_OF_CONDUCT.md) o
     3. *remove it* otherwise.
 - if a link exists in multiple format, add a separate link with a note about each format
 - if a resource exists at different places on the Internet
-    - use the link with the most authoritative source (meaning author's website is better than editor's website is better than third party website)
+    - use the link with the most authoritative source (meaning the author's website is better than the editor's website is better than third-party website)
     - if they link to different editions, and you judge these editions are different enough to be worth keeping them, add a separate link with a note about each edition (see [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) to contribute to the discussion on formatting).
 - prefer atomic commits (one commit by addition/deletion/modification) over bigger commits. No need to squash your commits before submitting a PR. (We will never enforce this rule as it's just a matter of convenience for the maintainers)
 - if the book is older, include the publication date with the title.
-- include the author name or names where appropriate. You can shorten author lists with "`et al.`".
+- include the author's name or names where appropriate. You can shorten author lists with "`et al.`".
 - if the book is not finished, and is still being worked on, add the "`in process`" notation, as described [below](#in_process).
 - if a resource is restored using the [*Internet Archive's Wayback Machine*](https://web.archive.org) (or similar), add the "`archived`" notation, as described [below](#archived). The best versions to use are recent and complete.
 - if an email address or account setup is requested before download is enabled, add language-appropriate notes in parentheses, e.g.: `(email address *requested*, not required)`.
@@ -68,8 +68,8 @@ By contributing you agree to respect the [Code of Conduct](CODE_OF_CONDUCT.md) o
 
 The idea is to have:
 
-- `2` empty lines between last link and new section.
-- `1` empty line between heading & first link of its section.
+- `2` empty lines between the last link and the new section.
+- `1` empty line between the heading & first link of its section.
 - `0` empty line between two links.
 - `1` empty line at the end of each `.md` file.
 
@@ -201,7 +201,7 @@ Our lists provide a minimal set of metadata: titles, URLs, creators, platforms, 
 
 ##### Platforms and Access Notes
 
-- Courses. Especially for our course lists, the platform is an important part of the resource description. This is because course platforms have different affordances and access models. While we usually won't list a book that requires a registration, many course platforms have affordances that don't work without some sort of account. Example course platforms include Coursera, EdX, Udacity, and Udemy. When a course depends on a platform, the platform name should be listed in parentheses.
+- Courses. Especially for our course lists, the platform is an important part of the resource description. This is because course platforms have different affordances and access models. While we usually won't list a book that requires registration, many course platforms have affordances that don't work without some sort of account. Example course platforms include Coursera, EdX, Udacity, and Udemy. When a course depends on a platform, the platform name should be listed in parentheses.
 - YouTube. We have many courses which consist of YouTube playlists. We do not list YouTube as a platform, we try to list the YouTube creator, which is often a sub-platform.
 - YouTube videos. We usually don't link to individual YouTube videos unless they are more than an hour long and are structured like a course or a tutorial. If this is the case, be sure to make a note of it in the PR description.
 - No shortened (i.e. youtu.be/xxxx) links!

@@ -2,7 +2,10 @@
 
 * [C](#c)
 * [C++](#cpp)
+* [Fortran](#fortran)
+* [MATLAB](#matlab)
 * [PHP](#php)
+* [Python](#python)
 
 
 ### C
@@ -30,6 +33,6 @@
 * [Programmera i PHP](https://sv.wikibooks.org/wiki/Programmera_i_PHP) - Wikibooks
 
 
-### Pythnon
+### Python
 
 * [Programmera i Python](https://sv.wikibooks.org/wiki/Programmera_i_Python) - Wikibooks

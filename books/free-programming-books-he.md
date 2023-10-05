@@ -18,7 +18,8 @@
 
 #### רשתות
 
-* [רשתות מחשבים](https://data.cyber.org.il/networks/networks.pdf) – עומר רוזנבוים, ברק גונן, שלומי הוד, המרכז לחינוך סייבר (PDF)
+* [רשתות מחשבים](https://data.cyber.org.il/networks/networks.pdf) –  עומר רוזנבוים, ברק גונן, שלומי הוד, המרכז לחינוך סייבר גרסה 3.2(PDF)
+* [ רשתות מחשבים פייתון 2.7](https://data.cyber.org.il/networks/networks_py27.pdf) – עומר רוזנבוים, ברק גונן, שלומי הוד, המרכז לחינוך סייבר גרסה 2.32(PDF)
 
 
 ### Assembly

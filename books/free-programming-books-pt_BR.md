@@ -230,7 +230,7 @@
 * [Java para Desenvolvimento Web](http://www.caelum.com.br/apostila-java-web/) - Caelum
 * [Programação Orientada a Objetos: Uma Abordagem com Java](https://www.dca.fee.unicamp.br/cursos/PooJava/Aulas/poojava.pdf) - Ivan Luiz Marques Ricarte (PDF)
 * [Programação para iniciantes](https://s3.amazonaws.com/algaworks-assets/ebooks/algaworks-livro-programacao-para-iniciantes-v1.1.pdf) Alexandre Afonso (PDF)
-*[Java Básico e Oriêntação a Objeto](https://canal.cecierj.edu.br/012016/d7d8367338445d5a49b4d5a49f6ad2b9.pdf) - Fundação CECIERJ
+* [Java Básico e Oriêntação a Objeto](https://canal.cecierj.edu.br/012016/d7d8367338445d5a49b4d5a49f6ad2b9.pdf) - Fundação CECIERJ
 
 
 ### JavaScript

@@ -20,6 +20,7 @@
 * [Ionic](#ionic)
 * [Java](#java)
 * [JavaScript](#javascript)
+    * [React](#react)
     * [Vue.js](#vuejs)
 * [Jekyll](#jekyll)
 * [Kotlin](#kotlin)
@@ -67,6 +68,7 @@
 * [C# e Windows Forms: Consultar CEP no WebService dos Correios](https://www.udemy.com/webservice-correios/) - Gilseone Moraes, Training4All Cursos (Udemy)
 * [C# e Windows Forms: Encurtando URLs com a API do Bitly](https://www.udemy.com/bitly-api/) - Gilseone Moraes, Training4All Cursos (Udemy)
 * [C# e Windows Forms: Utilizando Formulários MDI Parent](https://www.udemy.com/formularios-mdi/) - Gilseone Moraes, Training4All Cursos (Udemy)
+* [Curso de C# / .NET Para Iniciantes](https://www.youtube.com/playlist?list=PLkhtU8XJLj-5q4fcgUkjmrICOqWsgWNJr) - Fredi
 * [Fundamentos do C#](https://balta.io/cursos/fundamentos-csharp) - André Baltieri (Balta.io)
 * [Iniciando com ASP.NET Core](https://desenvolvedor.io/curso-online-iniciando-com-asp-net-core) - Eduardo Pires (Desenvolvedor.io)
 * [Introdução ao Entity Framework Core](https://desenvolvedor.io/curso-online-introducao-entity-framework-core) - Rafael Almeida (Desenvolvedor.io)
@@ -140,6 +142,7 @@
 * [Curso Golang](https://www.youtube.com/playlist?list=PL3IMfVHTpXw14FL_TRIdHfeYTeOet1GS9) - Universo Mainframe
 * [Go - Aprenda a Programar (Curso)](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg) - Ellen Körbes
 * [Go 101 (Curso)](https://www.youtube.com/playlist?list=PLHPgIIn9ls6-1l7h8RUClMKPHi4NoKeQF) - Tiago Temporin
+* [Golang do Zero](https://www.youtube.com/playlist?list=PL5aY_NrL1rjucQqO21QH8KclsLDYu1BIg) - Full Cycle
 
 
 ### Gulp
@@ -201,11 +204,20 @@
 
 ### JavaScript
 
-* [Bootcamp da Brainn de React](https://www.youtube.com/playlist?list=PLF7Mi9HNzvVmzOyDyl--xQVdi60jxduU1) - Canal Brainn Co.
 * [Curso de Javascript Completo](https://www.youtube.com/playlist?list=PL2Fdisxwzt_d590u3uad46W-kHA0PTjjw) - Programação Web
 * [Curso Grátis de JavaScript e ECMAScript para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) - Gustavo Guanabara (Curso em Vídeo)
-* [Curso Intensivo de Next.js & React](https://www.cod3r.com.br/courses/curso-intensivo-next-react) - Leonardo Leitão (Cod3r)
+* [Curso Javascript Completo 2023 [Iniciantes] + 14 Mini-Projetos](https://www.youtube.com/watch?v=i6Oi-YtXnAU) - Jhonatan de Souza
 * [Fast & Furious](https://www.youtube.com/playlist?list=PLy5T05I_eQYOoUz2TtAqq35RLCc-xBZCe) - Codecasts
+* [Kubernetes para Devs Javascript](https://www.youtube.com/playlist?list=PLqFwRPueWb5ccEFVx5vOvrKlYT_uQ3aQw) - Erick Wendel, Lucas Santos
+* [Testes no NodeJS aplicando TDD com Jest](https://www.youtube.com/watch?v=2G_mWfG0DZE) - Diego Fernandes
+
+
+#### React
+
+* [Aprenda Next.js,GraphQL e Leaflet na prática!](https://www.youtube.com/playlist?list=PLR8OzKI52ppWoTRvAmB_FQPPlHS0otV7V) - Willian Justen
+* [Bootcamp da Brainn de React](https://www.youtube.com/playlist?list=PLF7Mi9HNzvVmzOyDyl--xQVdi60jxduU1) - Canal Brainn Co.
+* [Curso Intensivo de Next.js & React](https://www.cod3r.com.br/courses/curso-intensivo-next-react) - Leonardo Leitão (Cod3r)
+* [Next js 13.4 Masterclass Prático c/ Stripe e Shadcn-ui](https://www.youtube.com/playlist?list=PLR8OzKI52ppWoTRvAmB_FQPPlHS0otV7V) - DeveloperDeck101
 
 
 #### Vue.js
@@ -297,6 +309,7 @@
 ### Programação
 
 * [Algoritmos de Ordenação](https://www.youtube.com/playlist?list=PLzZut2slkqywtFxqTY8AQwIG65h_2oMBL) - Bruno Ribas
+* [Curso Lógica de Programação Completo 2023 [Iniciantes] + Desafios + Muita prática](https://www.youtube.com/watch?v=iF2MdbrTiBM) - Jonathan de Souza
 
 
 ### Python

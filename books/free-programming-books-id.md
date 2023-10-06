@@ -65,7 +65,6 @@
 * [Memahami Sintaks Dasar](https://www.kevintekno.com/2023/10/tutorial-dart-memahami-sintaks-dasar.html) - Kevin Tekno (HTML)
 * [Pengenalan dan Instalasi Dart](https://www.kevintekno.com/2023/09/tutorial-dart-pengenalan-dan-installasi.html) - Kevin Tekno (HTML)
 
-
 ### Flutter
 
 * [Belajar Flutter](https://belajarflutter.com) - Herry Prasetyo (HTML)

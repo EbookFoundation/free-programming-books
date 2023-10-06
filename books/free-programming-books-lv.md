@@ -14,3 +14,11 @@
 
 * [Programmēšanas pamati ar valodu Python](http://home.lu.lv/~janiszu/courses/python/python3.pdf) - Jānis Zuters (PDF)
 * [Programmēšanas valoda "Python" iesācējiem](https://www.alvils.info/e-gramatas/programmesanas-valoda-python-iesacejiem/) - Alvils Bērziņš
+* [Python Crash Course](https://www.booksfree.org/python-crash-course-by-eric-matthes-pdf-free-download/) - Eric Matthes
+* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) -  Al Sweigart
+* [Learn Python the Hard Way](https://learnpythonthehardway.org/python3/) -Zed A. Shaw
+
+###Javascript
+* [Eloquent JavaScript](https://www.lapabooks.com/book/eloquent-javascript/) - Marijn Haverbeke
+*  [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Kyle Simpson
+*  [Speaking JavaScript](http://speakingjs.com/es5/index.html)- Dr. Axel Rauschmayer

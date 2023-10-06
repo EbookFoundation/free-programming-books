@@ -14,7 +14,7 @@ This page is available as an easy-to-read website. Access it by clicking on [![h
 
 <div align="center">
   <form action="https://ebookfoundation.github.io/free-programming-books-search">
-    <input type="text" id="fpbSearch" name="search" placeholder="Search Book or Author"/>
+    <input type="text" id="fpbSearch" name="search" required placeholder="Search Book or Author"/>
     <label for="submit"> </label>
     <input type="submit" id="submit" name="submit" value="Search" />
   </form>

@@ -4,11 +4,9 @@
 * [C](#c)
 * [Python](#python)
 
-
 ### 0 - Meta-Lists
 
 * [Books - Telugu](https://sites.google.com/nptel.iitm.ac.in/translated-ebook/telugu)
-
 
 ### <a id="c"></a>C
 
@@ -17,4 +15,3 @@
 ### <a id="python"></a>Python
 
 * [Python Course in Telugu: 30 days challenge](https://www.youtube.com/playlist?list=PLNgoFk5SYUglQOaXSY8lAlPXmK6tQBHaw) - Vamsi Bhavani
-

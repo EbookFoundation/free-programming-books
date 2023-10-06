@@ -58,4 +58,3 @@
 #### WordPress
 
 * [WordPress Complete Tutorial In Nepali](https://www.youtube.com/playlist?list=PL2OJkQtHPRie2xyBApANdVp_LUz4v7xIG) - Technology Channel
-

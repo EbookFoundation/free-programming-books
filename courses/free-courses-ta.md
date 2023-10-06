@@ -69,6 +69,7 @@ CSE Tamila by Eezytutorials
 * [Learn Java in Tamil](https://youtube.com/playlist?list=PLYM2_EX_xVvVXm005Gt5unmqW6GGMjHxa) - Logic First Tamil
 * [Spring Boot Beginners Tutorial in Tamil](https://www.youtube.com/playlist?list=PLhbl8CrGKCBNVzNXhoWdmni_sEAqZdLt9) - Code Simple
 * [Spring Boot Complete/Full Course in Tamil for Beginners from Basics](https://www.youtube.com/playlist?list=PLgWpUXNR_WCc_VontznRnCUdul5Zp1x3c) - Payilagam
+* [Spring Boot Tutorial For Beginners In Tamil](https://www.youtube.com/playlist?list=PL5wfQQ0ZyOimwU4V9g7OWTehyBoeDJGRG) - Frontend Forever
 
 
 ### JavaScript

@@ -214,7 +214,6 @@
 ### Databases
 
 * [3.1 DBMS In Hindi (Complete Playlist)](https://www.youtube.com/playlist?list=PLmXKhU9FNesR1rSES7oLdJaNFgmuj0SYV) - Knowledge Gate
-* [Database Management Systems](https://www.youtube.com/watch?v=6Iu45VZGQDk&list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ) - Neso Academy
 * [Database Management System (DBMS)](https://www.youtube.com/playlist?list=PLrjkTql3jnm-CLxHftqLgkrZbM8fUt0vn) - Education 4u
 * [Database Management System (DBMS) in Hindi](https://www.youtube.com/watch?v=xy138_iUfaI&list=PLAOnhLRjMTMDigfUzaAAQo7lbfScPFtHs) - The Crazy Programmer
 * [DBMS (Database Management System)](https://www.youtube.com/playlist?list=PLdo5W4Nhv31b33kF46f9aFjoJPOkdlsRc) - Jenny's lectures CS/IT NET&JRF

@@ -5,6 +5,7 @@
 * [C#](#csharp)
 * [C++](#cpp)
 * [CodeIgniter](#codeigniter)
+* [Dart](#dart)
 * [Flutter](#flutter)
 * [Git](#git)
 * [Go](#go)
@@ -59,6 +60,10 @@
 * [Panduan Pengguna CodeIgniter Indonesia](https://codeigniter-id.github.io/user-guide/) - CodeIgniter Indonesia
 * [Tutorial CodeIgniter 3 & 4](https://www.petanikode.com/tutorial/codeigniter/) *(Dalam Proses)*
 * [Tutorial CodeIgniter 4](http://mfikri.com/artikel/tutorial-codeigniter4)
+
+### Dart
+* [Pengenalan dan Instalasi Dart](https://www.kevintekno.com/2023/09/tutorial-dart-pengenalan-dan-installasi.html) - Kevin Tekno (HTML)
+* [Memahami Sintaks Dasar](https://www.kevintekno.com/2023/10/tutorial-dart-memahami-sintaks-dasar.html) - Kevin Tekno (HTML)
 
 
 ### Flutter

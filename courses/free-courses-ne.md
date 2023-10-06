@@ -10,8 +10,6 @@
 * [Java](#java)
 * [WordPress](#wordpress)
 
-
-
 ### JavaScript
 
 * [JavaScript](https://www.youtube.com/playlist?list=PLckS_N3kOwFH-GCqCd6i-vPo-Z75DcOnc) - EverydayKarma 🇳🇵

@@ -3,12 +3,13 @@
 * [JavaScript](#javascript)
     * [Node.js](#nodejs)
     * [React](#react)
-* [Flutter](#flutter)
 * [SQL](#sql)
+* [Flutter](#flutter)
 * [C](#c)
 * [C++](#c++)
 * [Java](#java)
 * [WordPress](#wordpress)
+
 
 ### JavaScript
 
@@ -29,14 +30,14 @@
 * [React Complete Tutorial In Nepali](https://www.youtube.com/watch?v=HWrgr3ecDa0&t=432s) - Technology Channel
 
 
-#### Flutter
-
-* [Flutter Complete Tutorial In Nepali](https://www.youtube.com/watch?v=N0cDdu32IaA&list=PL2OJkQtHPRicxyldFGNJRRG4WwNe0Kjqe&index=1) - Technology Channel
-
-
 #### SQL
 
 * [SQL Full Course In Nepali](https://www.youtube.com/watch?v=Lt52pYaoSR8&list=PL2OJkQtHPRicxyldFGNJRRG4WwNe0Kjqe&index=2) - Technology Channel
+
+
+#### Flutter
+
+* [Flutter Complete Tutorial In Nepali](https://www.youtube.com/watch?v=N0cDdu32IaA&list=PL2OJkQtHPRicxyldFGNJRRG4WwNe0Kjqe&index=1) - Technology Channel
 
 
 #### C

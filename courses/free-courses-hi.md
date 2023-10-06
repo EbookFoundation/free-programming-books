@@ -215,7 +215,7 @@
 
 * [3.1 DBMS In Hindi (Complete Playlist)](https://www.youtube.com/playlist?list=PLmXKhU9FNesR1rSES7oLdJaNFgmuj0SYV) - Knowledge Gate
 * [Database Management System (DBMS)](https://www.youtube.com/playlist?list=PLrjkTql3jnm-CLxHftqLgkrZbM8fUt0vn) - Education 4u
-* [Database Management System (DBMS) in Hindi](https://www.youtube.com/watch?v=xy138_iUfaI&list=PLAOnhLRjMTMDigfUzaAAQo7lbfScPFtHs) - The Crazy Programmer
+* [Database Management System (DBMS) in Hindi](https://www.youtube.com/watch?v=xy138_iUfaI&list=PLAOnhLRjMTMDigfUzaAAQo7lbfScPFtHs) - Jitendra Ajmedha, The Crazy Programmer
 * [DBMS (Database Management System)](https://www.youtube.com/playlist?list=PLdo5W4Nhv31b33kF46f9aFjoJPOkdlsRc) - Jenny's lectures CS/IT NET&JRF
 * [DBMS (Database Management System) Complete Playlist](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y) - Gate Smashers
 * [DBMS Lectures in Hindi](https://www.youtube.com/playlist?list=PL0s3O6GgLL5dg3bZhTicr5zUITPAlZNjj) - Last moment tuitions 
@@ -245,7 +245,7 @@
 
 * [Complete Course on Python Game Development](https://www.youtube.com/watch?v=Wg9J5kiX0wY) - Techonical Infotech Pvt. Ltd.
 * [Game Development Course](https://www.youtube.com/playlist?list=PLBh8phtAyHPUY9fqgs1w6aHJALJ3_fMSc) - Farhan Aqeel
-* [Game development in Hindi From Beginning to Advance](https://www.youtube.com/playlist?list=PLdOT12odxrUrUExBUuM5KoN0fAnOdzH1L) - Logical Programmer
+* [Game development in Hindi From Beginning to Advance](https://www.youtube.com/playlist?list=PLdOT12odxrUrUExBUuM5KoN0fAnOdzH1L) - Suryadev Chaturvedi, Logical Programmer
 
 
 ### Git and GitHub

@@ -660,6 +660,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 
 ### Open Source Ecosystem
 
+* [500 lines or less](https://github.com/aosabook/500lines) - Build from Source Code
 * [Contributing to opensource: the right way](https://github.com/Mte90/Contribute-to-opensource-the-right-way) - Daniele Scasciafratte
 * [Data Journalism Handbook](http://datajournalismhandbook.org)
 * [Free as in Freedom: Richard Stallman and the free software revolution](https://archive.org/details/faif-2.0) - Sam Williams (PDF)

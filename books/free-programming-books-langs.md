@@ -1421,7 +1421,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Kotlin Notes for Professionals](https://goalkicker.com/KotlinBook/) - Compiled from StackOverflow documentation (PDF)
 * [Kotlin Official Documentation](https://kotlinlang.org/docs/reference/)
 * [Kotlin Quick Reference](https://kotlin-quick-reference.com) - Alvin Alexander (gitbook)
-* [Learn Kotlin Programming](https://www.programiz.com/kotlin-programming) - Programiz, Kotlin Structured Modular Online Resource
+* [Learn Kotlin Programming](https://www.programiz.com/kotlin-programming) - Programiz
 * [Learning Kotlin](https://riptutorial.com/Download/kotlin.pdf) - Compiled from StackOverflow Documentation (PDF)
 
 

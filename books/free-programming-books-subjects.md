@@ -238,13 +238,13 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 
 * [CI/CD for Monorepos: Effectively building, testing, and deploying code with monorepos](https://github.com/semaphoreci/book-monorepo-cicd) - Pablo Tomas Fernandez Zavalia, Marko Anastasov, SemaphoreCI (PDF, EPUB, Kindle)
 * [CI/CD with Docker and Kubernetes Book](https://github.com/semaphoreci/book-cicd-docker-kubernetes) - Marko Anastasov, Jérôme Petazzoni, Pablo Tom F. Zavalia, SemaphoreCI (PDF, EPUB, Kindle)
+* [Docker in Action Second Edition](https://dokumen.pub/qdownload/docker-in-action-2nbsped-1617294764-978-1617294761-i-7376350.html) - Jeff Nicoloff
 * [Docker Jumpstart](https://odewahn.github.io/docker-jumpstart/) - Andrew Odewahn
 * [Docker Tutorial](https://people.irisa.fr/Anthony.Baire/docker-tutorial.pdf) - Anthony Baire (PDF)
 * [Docker Tutorial](https://www.tutorialspoint.com/docker/) - Tutorials Point (HTML, PDF)
 * [Kubernetes Deployment & Security Patterns](https://resources.linuxfoundation.org/LF+Projects/CNCF/TheNewStack_Book2_KubernetesDeploymentAndSecurityPatterns.pdf) - Alex Williams (PDF)
 * [Kubernetes for Full-Stack Developers](https://www.digitalocean.com/community/books/digitalocean-ebook-kubernetes-for-full-stack-developers) - Jamon Camisso, Hanif Jetha, Katherine Juell (PDF, EPUB)
 * [Uncomplicating Kubernetes](https://livro.descomplicandokubernetes.com.br/en/) - Jeferson Fernando
-* [Docker in Action Second Edition](https://dokumen.pub/qdownload/docker-in-action-2nbsped-1617294764-978-1617294761-i-7376350.html) - Jeff Nicoloff
 
 
 ### Data Science

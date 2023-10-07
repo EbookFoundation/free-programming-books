@@ -161,6 +161,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 ### Cellular Automata
 
 * [A New Kind of Science](https://www.wolframscience.com/nksonline/toc.html) - Stephen Wolfram
+* [Cellular Automata: A Discrete View of the World](https://www.texnology.com/joel.pdf) - Joel L. Schiff
 
 
 ### Cloud Computing

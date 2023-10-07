@@ -75,6 +75,7 @@ Shikkhangon BD
 
 * [Competitive Programming Course in Bengali](https://www.youtube.com/channel/UCozCCU3b1HmcmCf2gLN_7HA/videos) - Bangladesh IOI team
 * [Data Structures and Algorithms in Bangla](https://www.youtube.com/playlist?list=PLym69wpbTIIEOesltWGUsVnY9HDWbJit_) - Tamim Shahriar
+* [Competitive Programming by BD CP server](https://www.youtube.com/@BangladeshCPServer-BCS/videos) - Bangladesh CP Server
 
 
 ### Dart

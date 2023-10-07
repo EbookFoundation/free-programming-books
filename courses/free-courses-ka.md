@@ -16,29 +16,29 @@ ADVANCED - ಕ್ಲಾಸ್ ಓಪ್ಸ್ ಆನುವಂಶಿಕತೆಯ�
 
 ### C
 
-* [ಸಿ ಕನ್ನಡದಲ್ಲಿ ಪ್ರೋಗ್ರಾಮಿಂಗ್ ಕೋರ್ಸ್](https://youtu.be/OvyNtFgn8T0?si=Bb0rLk3Cfl0zMcaU) (BEGINNER - INTERMEDIATE) - The Coding Class - Yuvraj Madha
-* [ಸಿ ಕನ್ನಡದಲ್ಲಿ ಪ್ರೋಗ್ರಾಮಿಂಗ್ ಕೋರ್ಸ್](https://youtu.be/MhRzCX18mDE?si=vp89xBkxJxB1PdfZ) (BEGINNER - INTERMEDIATE) - Script Kiddie
+* [Complete C Language Course in KANNADA](https://youtu.be/OvyNtFgn8T0?si=Bb0rLk3Cfl0zMcaU)  - The Coding Class: Yuvraj Madha
+* [C programming in Kannada](https://youtu.be/MhRzCX18mDE?si=vp89xBkxJxB1PdfZ) - Script Kiddie
 
 
 ### HTML and CSS
 
-* [ಕನ್ನಡದಲ್ಲಿ HTML / CSS ಕೋರ್ಸ್](https://youtu.be/wAqQScpoOMQ?si=Lx8zLwW1lm-sqBeL) (INTERMEDIATE) - Learn Tech in Kannada
-* [ಕನ್ನಡದಲ್ಲಿ CSS ಕೋರ್ಸ್](https://youtu.be/wAqQScpoOMQ?si=uy3-r66e08HbFUVV) (BEGINNER) - DEBUG CODING
+* [CSS in Kannada (ಕನ್ನಡದಲ್ಲಿ) - Beginner to Advanced.](https://youtu.be/wAqQScpoOMQ?si=Lx8zLwW1lm-sqBeL)  - DEBUG CODING
+* [HTML and CSS in Kannada || Web Designing in Kannada || CSS in Kannada || Html in Kannada](https://youtube.com/playlist?list=PLBVoFEaXQzK3F2BN7ZbXb_EpnDMAlJsPo&si=xrva9ZdT93aR4n2N) - Learn Tech in Kannada
 
 
 ### JavaScript
 
-* [Javascript. ಸುಧಾರಿತ ಜಾವಾಸ್ಕ್ರಿಪ್ಟ್‌ಗೆ ಹರಿಕಾರ](https://youtu.be/ZAUBSF34Lpg?si=m6xftWc4y6GIhzqU) (BEGINNER - ADVANCED) - Learn Tech in Kannada
-* [Javascript. ಕನ್ನಡದಲ್ಲಿ ಜಾವಾಸ್ಕ್ರಿಪ್ಟ್ ಕೋರ್ಸ್](https://youtu.be/ZAUBSF34Lpg?si=m6xftWc4y6GIhzqU) (BEGINNER) - Script Kiddie
+* [Javascript tutorial in Kannada || Javascript in Kannada || Complete Javascript in Kannada](https://youtube.com/playlist?list=PLBVoFEaXQzK0ybl-O3g_2_PswaLzNGbb8&si=EwrfyaDqm6G3MJnb)  - Learn Tech in Kannada
+* [JavaScript course in Kannada](https://youtube.com/playlist?list=PLUZkVL-W-8GJVkp8Az0SAWqmDPv5b2Tn9&si=BsVZ8lpgZi024CXr)  - Script Kiddie
 
 
 ### PLC
 
-* [PLC ಪ್ರೋಗ್ರಾಮಿಂಗ್‌ನ ಮೂಲಭೂತ ಅಂಶಗಳು](https://youtube.com/playlist?list=PLM-fDuwhsV0nAyn-B06TTbDW78HL3pNiw&si=zaboqVNmCvXMdk6F) (BEGINNER) - DevelUp Technical
+* [PLC tutorial for beginners](https://youtube.com/playlist?list=PLM-fDuwhsV0nAyn-B06TTbDW78HL3pNiw&si=zaboqVNmCvXMdk6F)  - DevelUp Technical
 
 
 ### Python
 
-* [Python ಸುಧಾರಿತ ಕೋರ್ಸ್‌ಗೆ ಹರಿಕಾರ.](https://youtu.be/MhktLoePTiY?si=bEP4D8NEVoBdb0GX) (BEGINNER - ADVANCED) -  Engineering in Kannada
-* [Python ಸುಧಾರಿತ ಕೋರ್ಸ್‌ಗೆ ಹರಿಕಾರ.](https://youtube.com/playlist?list=PLUZkVL-W-8GKpo--HuELu27Lkc308fNXe&si=NS4YhygcUNHqtTwm) 
-(BEGINNER -ADVANCED) - Script Kiddie
+* [Learn Python in Kannada](https://youtu.be/MhktLoePTiY?si=bEP4D8NEVoBdb0GX) (BEGINNER - ADVANCED) -  Engineering in Kannada
+* [python complete course in Kannada](https://youtube.com/playlist?list=PLUZkVL-W-8GKpo--HuELu27Lkc308fNXe&si=NS4YhygcUNHqtTwm) 
+ - Script Kiddie

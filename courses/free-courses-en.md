@@ -1365,7 +1365,7 @@
 
 ### Scala
 
-* [Effective Programming in Scala]([https://www.coursera.org/course/reactive](https://www.classcentral.com/course/effective-scala-39307))
+* [Effective Programming in Scala](https://www.classcentral.com/course/effective-scala-39307)
 * [Functional Programming in Scala Specialization](https://www.coursera.org/course/reactive)
 
 

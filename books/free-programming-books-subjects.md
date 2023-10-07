@@ -244,6 +244,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Kubernetes Deployment & Security Patterns](https://resources.linuxfoundation.org/LF+Projects/CNCF/TheNewStack_Book2_KubernetesDeploymentAndSecurityPatterns.pdf) - Alex Williams (PDF)
 * [Kubernetes for Full-Stack Developers](https://www.digitalocean.com/community/books/digitalocean-ebook-kubernetes-for-full-stack-developers) - Jamon Camisso, Hanif Jetha, Katherine Juell (PDF, EPUB)
 * [Uncomplicating Kubernetes](https://livro.descomplicandokubernetes.com.br/en/) - Jeferson Fernando
+* [Docker in Action Second Edition](https://dokumen.pub/qdownload/docker-in-action-2nbsped-1617294764-978-1617294761-i-7376350.html) - Jeff Nicoloff
 
 
 ### Data Science

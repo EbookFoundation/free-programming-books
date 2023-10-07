@@ -9,12 +9,12 @@
     * [Bootstrap](#bootstrap)
 * [Java](#java)
 * [JavaScript](#javascript)
+    * [TypeScript](#typescript)
 * [Künstliche Intelligenz](#künstliche-intelligenz)
 * [Python](#python)
 * [Rust](#rust)
 * [Spieleentwicklung](#spieleentwicklung)
 * [SQL](#sql)
-* [TypeScript](#typescript)
 
 
 ### Ansible
@@ -66,6 +66,12 @@
 * [JavaScript Lernen für Anfänger bis Profis](https://www.youtube.com/playlist?list=PLNmsVeXQZj7qOfMI2ZNk-LXUAiXKrwDIi) - The Morpheus Tutorials
 
 
+#### TypeScript
+
+* [Erstellen von JavaScript-Anwendungen mithilfe von TypeScript](https://docs.microsoft.com/de-de/learn/paths/build-javascript-applications-typescript/) - Microsoft
+* [TypeScript lernen: Eine Einführung in 80 Minuten](https://www.youtube.com/watch?v=_CaGUZNEobk) - Golo Roden
+
+
 ### Künstliche Intelligenz
 
 * [Elements of AI](https://www.elementsofai.de)
@@ -93,9 +99,3 @@
 ### SQL
 
 * [SQL-Grundlagen](https://wiki.selfhtml.org/wiki/Datenbank/SQL-Grundlagen) - SelfHTML
-
-
-### TypeScript
-
-* [Erstellen von JavaScript-Anwendungen mithilfe von TypeScript](https://docs.microsoft.com/de-de/learn/paths/build-javascript-applications-typescript/) - Microsoft
-* [TypeScript lernen: Eine Einführung in 80 Minuten](https://www.youtube.com/watch?v=_CaGUZNEobk) - Golo Roden

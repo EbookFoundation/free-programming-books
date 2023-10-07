@@ -55,7 +55,7 @@
 * [C Programming Bangla Tutorial Course](https://www.youtube.com/playlist?list=PLgH5QX0i9K3pCMBZcul1fta6UivHDbXvz) - Anisul Islam
 * [C Programming Bangla Tutorial](https://youtube.com/playlist?list=PLdl6zXgLsy3zwNjSMiYlOZOr20sykTfgo) - Bangla Coding Tutor
 * [Pattern Printing in C](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oTxQhx2kejYmQn6qtRULCD) - Anisul Islam
-
+* [C Programming Bangla Tutorial For Beginners 2023](https://youtube.com/playlist?list=PLNMnAEqLBwmrwDSycdTLsvZBhmK5kOtgV&si=N4c5Snw-UjlxG_k9) - Hablu Programmer
 
 ### <a id="csharp"></a>C\#
 
@@ -74,7 +74,6 @@ Shikkhangon BD
 ### Competitive Programming
 
 * [Competitive Programming Course in Bengali](https://www.youtube.com/channel/UCozCCU3b1HmcmCf2gLN_7HA/videos) - Bangladesh IOI team
-* [Competitive Programming by BD CP server](https://www.youtube.com/@BangladeshCPServer-BCS/videos) - Bangladesh CP Server
 * [Data Structures and Algorithms in Bangla](https://www.youtube.com/playlist?list=PLym69wpbTIIEOesltWGUsVnY9HDWbJit_) - Tamim Shahriar
 
 

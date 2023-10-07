@@ -127,6 +127,7 @@
 
 * [Corso di Java Spring Framework](https://www.youtube.com/playlist?list=PLCbSCJEIR6CqgCLyVzqp49xOm8A5YDTKA) - Mauro Cicolella
 * [Corso di JPA Java Persistence API](https://www.youtube.com/playlist?list=PLCbSCJEIR6Co1aPvFfPuIsRGouF9D0Jk3) - Mauro Cicolella
+* [Corso Java in Italiano COMPLETO 2023/2024](https://www.youtube.com/playlist?list=PLUnSLr48xh3CAuL_Q0VAjthv0WbPuQQRR) - Code Brothers
 * [Design Patterns in Java](https://www.youtube.com/playlist?list=PLCbSCJEIR6Cq-ac90TGvJ8Wo8TtyZ4nhu) - Mauro Cicolella
 * [Esercitazioni di Spring Boot](https://www.youtube.com/playlist?list=PLCbSCJEIR6CpGchit9OCI6fX_qVYs78d_) - Mauro Cicolella
 * [Java EE](https://www.youtube.com/playlist?list=PLjGYWJ4Dcy-erfReHXB9Ush0cREGSmyIe) - Sonia Zorba
@@ -229,6 +230,7 @@
 * [Computer grafica 2017/2018](https://www.youtube.com/playlist?list=PLUFFnpJdi99kXjntQ0LNPnLbRLjKzmQaC) - A. Bottino, Politecnico di Torino
 * [Corso CSS 3 Completo 2023](https://www.youtube.com/playlist?list=PLP5MAKLy8lP-a0MG-MFHKCISmj2Wg4vT6) - Edoardo Midali
 * [Corso HTML 5 Completo 2023](https://www.youtube.com/playlist?list=PLP5MAKLy8lP8U-yYn6J4hGfcee4Tirieg) - Edoardo Midali
+* [Corso HTML 5 Italiano 2023](https://www.youtube.com/playlist?list=PL6PilnEO6HWbTXL8nLSkp-875H-x-vhEo) - Manuel Ricci
 * [Corso SEO Italiano 2023](https://www.youtube.com/playlist?list=PLP5MAKLy8lP9OpFQyF2LnTWgtcoDLgYm7) - Edoardo Midali
 * [Progettazione di applicazioni Web](https://www.youtube.com/playlist?list=PLE0AA1735F10543A6) - Fulvio Corno, S. Di Carlo, Politecnico di Torino
 

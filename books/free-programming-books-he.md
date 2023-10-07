@@ -6,7 +6,6 @@
 * [Assembly](#assembly)
 * [C](#c)
 * [C#](#csharp)
-* [Java](#java)
 * [Python](#python)
 
 
@@ -40,11 +39,6 @@
 ### Deep-Learning
 
 * [ספר על למידת מכונה ולמידה עמוקה](https://github.com/AvrahamRaviv/Deep-Learning-in-Hebrew) – אברהם רביב ומייק ארליסון
-
-
-### Java
-
-* [המדריך הישראלי לג׳אווה](https://javabook.co.il/wordpress/?page_id=10) – חיים מיכאל
 
 
 ### Python

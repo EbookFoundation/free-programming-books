@@ -29,7 +29,7 @@
     * [NoSQL](#nosql)
     * [SQL](#sql)
 * [Deep Learning](#deep-learning)
-* [DevOps](#devops)f
+* [DevOps](#devops)
     * [Ansible](#ansible)
     * [Chef](#chef)
     * [Jenkins](#jenkins)

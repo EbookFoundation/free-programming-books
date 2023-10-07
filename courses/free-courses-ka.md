@@ -1,4 +1,5 @@
 ### Index
+
 * [C](#c)
 * [HTML and CSS](#html-and-css)
 * [JavaScript](#javascript)
@@ -6,7 +7,7 @@
 * [Python](#python)
 
 
-### Деңгейлер
+### ಮಟ್ಟಗಳು
 
 BEGINNER - ಪೈಥಾನ್‌ನಲ್ಲಿ ಯಾವುದೇ ಪೂರ್ವ ಜ್ಞಾನದ ಅಗತ್ಯವಿಲ್ಲ
 INTERMEDIATE - ಪೈಥಾನ್‌ನಲ್ಲಿ ಮೂಲಭೂತ ಜ್ಞಾನದ ಅಗತ್ಯವಿದೆ

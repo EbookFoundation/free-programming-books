@@ -1,9 +1,10 @@
 name: free-programming-books-lint
 
-on: [push, pull_request]
+on: [pull_request]
 
 permissions:
   contents: read
+  pull-requests: write
 
 jobs:
   build:
@@ -18,6 +19,7 @@ jobs:
           node-version: '16.x'
       - name: Install fpb-lint
         run: npm install -g free-programming-books-lint
+
       - name: Lint books
         id: books
         run: fpb-lint ./books/
@@ -35,13 +37,41 @@ jobs:
         run: fpb-lint ./more/
         continue-on-error: true
 
-      - name: Comment PR
+      - name: Delete PR Comment
+        if: steps.books.outcome == 'success' && steps.casts.outcome == 'success' && steps.courses.outcome == 'success' && steps.more.outcome == 'success'
+        uses: thollander/actions-comment-pull-request@v2
+        with:
+          message: |
+            🎉 Thank you for fixing the lint issues.
+
+            Somone will review this PR as soon as possible.
+          comment_tag: fpb-lint
+          mode: delete
+          create_if_not_exists: false
+
+      - name: Exit on success
+        if: steps.books.outcome == 'success' && steps.casts.outcome == 'success' && steps.courses.outcome == 'success' && steps.more.outcome == 'success'
+        run: exit 0
+      
+      - name: Get Pull Request Number
+        id: pr_number
+        run: echo "::set-output name=pull_request_number::$(gh pr view --json number -q .number || echo "")"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Post PR Comment
         if: steps.books.outcome == 'failure' || steps.casts.outcome == 'failure' || steps.courses.outcome == 'failure' || steps.more.outcome == 'failure'
         uses: thollander/actions-comment-pull-request@v2
         with:
+          pr_number: ${{ steps.pr_number.outputs.pull_request_number }}
+          comment_tag: fpb-lint
           message: |
             Oh no 😟! Lint issues have been found.
 
             Please 🙏, take a moment and address the lint issues.
 
             Thanks in advance for your effort and patience ❤️!
+
+      - name: Exit on fail
+        if: steps.books.outcome == 'failure' || steps.casts.outcome == 'failure' || steps.courses.outcome == 'failure' || steps.more.outcome == 'failure'
+        run: exit 1

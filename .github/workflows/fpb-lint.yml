@@ -21,18 +21,22 @@ jobs:
       - name: Lint books
         id: books
         run: fpb-lint ./books/
+        continue-on-error: true
       - name: Lint casts
         id: casts
         run: fpb-lint ./casts/
+        continue-on-error: true
       - name: Lint courses
         id: courses
         run: fpb-lint ./courses/
+        continue-on-error: true
       - name: Lint more
         id: more
         run: fpb-lint ./more/
+        continue-on-error: true
 
       - name: Comment PR
-        if: steps.books.outputs.status == 'failure' || steps.casts.outputs.status == 'failure' || steps.courses.outputs.status == 'failure' || steps.more.outputs.status == 'failure'
+        if: steps.books.outcome == 'failure' || steps.casts.outcome == 'failure' || steps.courses.outcome == 'failure' || steps.more.outcome == 'failure'
         uses: thollander/actions-comment-pull-request@v2
         with:
           message: |

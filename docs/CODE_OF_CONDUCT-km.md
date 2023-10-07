@@ -40,9 +40,8 @@
 ឧប្បត្តិហេតុ។
 
 
-ក្រមសីលធម៌នេះត្រូវបានកែសម្រួលពី [Contributor Covenant][homepage],
-កំណែ 1.3.0, មាននៅ https://contributor-covenant.org/version/1/3/0/
+This Code of Conduct is adapted from the [សន្ធិសញ្ញាអ្នករួមចំណែក][homepage], កំណែ 1.3.0, មាននៅ https://contributor-covenant.org/version/1/3/0/
 
-[ទំព័រដើម]: https://contributor-covenant.org
+[homepage]: https://contributor-covenant.org
 
 [ការបកប្រែ](README.md#translations)

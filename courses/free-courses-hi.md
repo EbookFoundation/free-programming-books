@@ -116,9 +116,10 @@
 
 ### AWS  
 
-* [AWS Tutorials - AWS tutorials For Beginners - AWS Certification - AWS Training - In Hindi](https://www.youtube.com/playlist?list=PL6XT0grm_TfgtwtwUit305qS-HhDvb4du) - Gaurav Sharma
-* [AWS Tutorial For Beginners | AWS Full Course - Learn AWS In 10 Hours | AWS Training | Edureka](https://www.youtube.com/watch?v=k1RI5locZE4&t=1002s) - Edureka
 * [AWS Complete Tutorial 2023 | Learn Amazon Web Services from Scratch | Cloud Computing | @SCALER](https://www.youtube.com/watch?v=B8i49C8fC3E&t=9031s) - SCALER
+* [AWS Tutorial For Beginners | AWS Full Course - Learn AWS In 10 Hours | AWS Training | Edureka](https://www.youtube.com/watch?v=k1RI5locZE4&t=1002s) - Edureka
+* [AWS Tutorials - AWS tutorials For Beginners - AWS Certification - AWS Training - In Hindi](https://www.youtube.com/playlist?list=PL6XT0grm_TfgtwtwUit305qS-HhDvb4du) - Gaurav Sharma
+
 
 
 ### Bash and Shell

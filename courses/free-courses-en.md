@@ -1222,7 +1222,6 @@
 * [Operating System](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O) - Neso Academy
 
 
-
 ### Perl
 
 * [Perl Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWpqRBcStwV0NwMA3nXMh5GC)

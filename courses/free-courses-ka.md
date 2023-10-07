@@ -42,4 +42,5 @@ ADVANCED - ಕ್ಲಾಸ್ ಓಪ್ಸ್ ಆನುವಂಶಿಕತೆಯ�
 
 * [Python ಸುಧಾರಿತ ಕೋರ್ಸ್‌ಗೆ ಹರಿಕಾರ.](https://youtu.be/MhktLoePTiY?si=bEP4D8NEVoBdb0GX) (BEGINNER - ADVANCED) -  Engineering in Kannada
 
-* [Python ಸುಧಾರಿತ ಕೋರ್ಸ್‌ಗೆ ಹರಿಕಾರ.](https://youtube.com/playlist?list=PLUZkVL-W-8GKpo--HuELu27Lkc308fNXe&si=NS4YhygcUNHqtTwm) (BEGINNER - ADVANCED)- Script Kiddie
+* [Python ಸುಧಾರಿತ ಕೋರ್ಸ್‌ಗೆ ಹರಿಕಾರ.](https://youtube.com/playlist?list=PLUZkVL-W-8GKpo--HuELu27Lkc308fNXe&si=NS4YhygcUNHqtTwm) 
+(BEGINNER -ADVANCED) - Script Kiddie

@@ -44,7 +44,8 @@
 
 ### JavaScript
 
-* [জাভাস্ক্রিপ্ট ল্যাঙ্গুয়েজের এর ব্যাসিক, অ্যাডভান্স](https://js.howtocode.dev/) - Nuhil Mehdi (howtocode.dev)
+* [জাভাস্ক্রিপ্ট ল্যাঙ্গুয়েজের এর ব্যাসিক, অ্যাডভান্স](https://js.howtocode.dev) - Nuhil Mehdi (howtocode.dev)
+
 
 ### Machine Learning
 

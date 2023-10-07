@@ -350,12 +350,12 @@ Books on general-purpose programming that don't focus on a specific language are
 
 #### Non-X86
 
+* [Beginners Introduction to the Assembly Language of ATMEL-AVR-Microprocessors](http://www.avr-asm-download.de/beginner_en.pdf) - Gerhard Schmidt (PDF)
 * [Easy 6502](http://skilldrick.github.io/easy6502/) - Nick Morgan
 * [Machine Code for Beginners [Z80 and 6502 CPUs]](https://usborne.com/browse-books/features/computer-and-coding-books/) - Lisa Watts, Mike Wharton (PDF) *(scroll to bottom and click on book cover)*
 * [Machine Language for Beginners](https://archive.org/details/ataribooks-machine-language-for-beginners) - Richard Mansfield
 * [MIPS Assembly Language Programming Using QtSpim](http://www.egr.unlv.edu/~ed/MIPStextSMv11.pdf) - Ed Jorgensen (PDF)
-* [Programmed Introduction to MIPS Assembly Language](http://chortle.ccsu.edu/AssemblyTutorial/index.html)
-* [Beginners Introduction to the Assembly Language of ATMEL-AVR-Microprocessors](http://www.avr-asm-download.de/beginner_en.pdf) - Gerhard Schmidt (PDF) 
+* [Programmed Introduction to MIPS Assembly Language](http://chortle.ccsu.edu/AssemblyTutorial/index.html) 
 * [The Second Book of Machine Language](http://www.atariarchives.org/2bml/)
 
 

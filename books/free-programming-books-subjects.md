@@ -253,6 +253,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Data Mining Algorithms In R](https://en.wikibooks.org/wiki/Data_Mining_Algorithms_In_R) - Wikibooks
 * [Data Science at the Command Line](https://datascienceatthecommandline.com/2e/) - Jeroen Janssens
 * [Elements of Data Science](https://allendowney.github.io/ElementsOfDataScience/README.html) - Allen B. Downey
+* [Fast AI for data Science and Machine learning](https://www.fast.ai/) - Fast AI
 * [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf) - Avrim Blum, John Hopcroft, Ravindran Kannan (PDF)
 * [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) - Claus O. Wilke (HTML)
 * [Hands-On Data Visualization](https://handsondataviz.org) - Jack Dougherty, Ilya Ilyankou (HTML)
@@ -291,9 +292,15 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Game AI Pro](https://www.gameaipro.com) - Steve Rabin
 * [Game Design with AGS](https://ensadi.github.io/AGSBook/) - Dave Ensminger, A. G. Madi
 * [Game Programming Patterns](https://gameprogrammingpatterns.com) - Bob Nystrom
+* [Godot Engine](https://godotengine.org/) - Godot Engine Contributors
 * [Level up your code with game programming patterns](https://resources.unity.com/games/level-up-your-code-with-game-programming-patterns) - Unity (HTML & PDF)
 * [Procedural Content Generation in Games](https://pcgbook.com) - Noor Shaker, Julian Togelius, Mark Nelson
 
+### General Programming
+
+* [Codecademy](https://www.codecademy.com/) - Codecademy Team
+* [Exercism](https://exercism.io/) - Exercism Contributors
+* [LeetCode](https://leetcode.com/) - LeetCode Community
 
 ### Graphics Programming
 
@@ -771,6 +778,11 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Guide to Prompt Engineering](https://codeahoy.com/learn/promptengineering/toc) - CodeAhoy (HTML)
 * [Prompt Engineering Guide](https://www.promptingguide.ai) - DAIR.AI (HTML)
 
+### Python
+
+* [Automate the Boring Stuff with Python](https://www.theodinproject.com/) - AI Sweigart
+*[Python.org Official Documentation](https://www.python.org/) - Python Software Foundation
+
 
 ### Quantum Computing
 
@@ -933,6 +945,12 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Subversion Version Control](http://ptgmedia.pearsoncmg.com/images/0131855182/downloads/Nagel_book.pdf) - William Nagel (PDF)
 * [Think Like (a) Git: A Guide for the Perplexed](http://think-like-a-git.net) - Sam Livingston-Gray
 * [Version Control with Subversion](https://svnbook.red-bean.com/index.en.html) - Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato
+
+### Web Development
+
+* [The Odin Project](https://www.theodinproject.com/) - The Odin Project
+* [FreeCodeCamp](https://www.freecodecamp.org/) - FreeCodeCamp
+* [MDN Web Docs](https://developer.mozilla.org/) - Mozilla developers Network
 
 
 ### Web Performance

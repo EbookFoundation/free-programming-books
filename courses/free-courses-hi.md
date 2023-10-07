@@ -6,6 +6,7 @@
 * [Arduino](#arduino)
 * [Artificial Intelligence](#artificial-intelligence)
 * [Assembly](#assembly)
+* [AWS](#aws)
 * [Bash and Shell](#bash-and-shell)
 * [Blockchain](#blockchain)
 * [C](#c)
@@ -111,6 +112,13 @@
 
 * [Assembly Language Programming Tutorials in Urdu Hindi](https://www.youtube.com/playlist?list=PLR2FqYUVaFJpHPw1ExSVJZFNlXzJYGAT1) - Programology
 * [x64 Assembly Language](https://www.youtube.com/playlist?list=PL-DxAN1jsRa-3KzeQeEeoL_XpUHKfPL1u) - The Cyber Expert
+
+
+### AWS  
+
+* [AWS Tutorials - AWS tutorials For Beginners - AWS Certification - AWS Training - In Hindi](https://www.youtube.com/playlist?list=PL6XT0grm_TfgtwtwUit305qS-HhDvb4du) - Gaurav Sharma
+* [AWS Tutorial For Beginners | AWS Full Course - Learn AWS In 10 Hours | AWS Training | Edureka](https://www.youtube.com/watch?v=k1RI5locZE4&t=1002s) - Edureka
+* [AWS Complete Tutorial 2023 | Learn Amazon Web Services from Scratch | Cloud Computing | @SCALER](https://www.youtube.com/watch?v=B8i49C8fC3E&t=9031s) - SCALER
 
 
 ### Bash and Shell

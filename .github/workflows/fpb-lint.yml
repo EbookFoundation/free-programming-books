@@ -11,13 +11,33 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v4
-    - name: Use Node.js
-      uses: actions/setup-node@v3
-      with:
-        node-version: '16.x'
-    - run: npm install -g free-programming-books-lint
-    - run: fpb-lint ./books/
-    - run: fpb-lint ./casts/
-    - run: fpb-lint ./courses/
-    - run: fpb-lint ./more/
+      - uses: actions/checkout@v4
+      - name: Use Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16.x'
+      - name: Install fpb-lint
+        run: npm install -g free-programming-books-lint
+      - name: Lint books
+        id: books
+        run: fpb-lint ./books/
+      - name: Lint casts
+        id: casts
+        run: fpb-lint ./casts/
+      - name: Lint courses
+        id: courses
+        run: fpb-lint ./courses/
+      - name: Lint more
+        id: more
+        run: fpb-lint ./more/
+
+      - name: Comment PR
+        if: steps.books.outputs.status == 'failure' || steps.casts.outputs.status == 'failure' || steps.courses.outputs.status == 'failure' || steps.more.outputs.status == 'failure'
+        uses: thollander/actions-comment-pull-request@v2
+        with:
+          message: |
+            Oh no 😟! Lint issues have been found.
+
+            Please 🙏, take a moment and address the lint issues.
+
+            Thanks in advance for your effort and patience ❤️!

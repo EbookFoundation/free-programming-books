@@ -18,7 +18,7 @@
 
 ### Design Pattern
 
-* [Design Patterns](https://designpatterns.saturngod.net/) - Saturngod
+* [Design Patterns](https://designpatterns.saturngod.net) - Saturngod
 
 
 ### Go

@@ -524,6 +524,7 @@
 ### Software Engineering
 
 * [Software Engineering](https://www.youtube.com/playlist?list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2) - Gate Smashers
+* [Software Engineering](https://www.youtube.com/playlist?list=PLmXKhU9FNesTrw7n8ouPsSLEcduRlENHr) - KNOWLEDGE GATE(You Tube)
 * [Software Engineering Lectures](https://youtube.com/playlist?list=PLV8vIYTIdSnat3WCO9jfehtZyjnxb74wm) - Easy Engineering Classes
 
 

@@ -200,13 +200,13 @@
 * [Data Structure And Algorithms Course | DSA Tutorial in Hindi](https://www.youtube.com/playlist?list=PLmGElG-9wxc9Us6IK6Qy-KHlG_F3IS6Q9) - ScoreShala
 * [Data Structure Programs \| Hindi](https://www.youtube.com/playlist?list=PLsFNQxKNzefJU-Sj__mljvrmJHZVKWbEm) - Saurabh Shukla
 * [Data Structures and Algorithms Course in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi) - CodeWithHarry
-* [Data Structures Using Java for Interview Preperations](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&si=y2djZoQ_GKx-KzBP) - Kunal Kushwaha
 * [DSA-One Course- The Complete Data Structure and Algorithms Course](https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p) - Anuj Bhaiya
 * [Functions and Arrays - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHOV7lm2uSw4ZiVsIRsGS6r) - Pepcoding
 * [Graph Data Structure & Algorithms Full Course In Hindi](https://www.youtube.com/playlist?list=PLzjZaW71kMwSrxEtvK5uQnfNQ9UjGGzA-) - Hello World
 * [Heap Playlist Interview Questions Coding Tutorials Data Structures](https://youtube.com/playlist?list=PL_z_8CaSLPWdtY9W22VjnPxG30CXNZpI9) - Aditya Verma 
 * [Java + Data Structures + Algorithms](https://www.youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s) - Apni Kaksha
 * [Java + DSA](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop) - Apna College
+* [Java + DSA + Interview Preparation Course](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ) - Kunal Kushwaha
 * [Linked Lists - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_) - Pepcoding
 * [Simplified DSA with FRAZ](https://www.youtube.com/playlist?list=PLKZaSt2df1gy75J3irj89a2vSGqeQdtDA) - Fraz
 * [Stack Playlist \| Interview Questions \| Coding \| Tutorials \| Data Structures](https://www.youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd) - Aditya Verma 

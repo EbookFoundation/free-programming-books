@@ -1221,6 +1221,7 @@
 * [Berkeley's CS 194: What is an Operating System?](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs194-spring2013-berkeley.html)
 * [MIT 6.S081: Operating System Engineering(Fall 2020)](https://pdos.csail.mit.edu/6.S081/2020/schedule.html) - Frans Kaashoek, Robert Morris
 * [Operating System](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O) - Neso Academy
+* [Operating Systems](https://www.youtube.com/playlist?list=PLdo5W4Nhv31a5ucW_S1K3-x6ztBRD-PNa) - Jenny's Lectures CS IT
 
 
 ### Perl

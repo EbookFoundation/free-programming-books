@@ -70,6 +70,7 @@
 ### Python
 
 * [پایتون به پارسی](https://python.coderz.ir) - سعید درویش (HTML)
+* [ترجمه آزاد کتاب Asyncio in Python](https://github.com/ftg-iran/aip-persian)
 
 
 #### Django

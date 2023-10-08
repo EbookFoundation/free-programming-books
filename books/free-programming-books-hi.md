@@ -1,6 +1,8 @@
 ### Index
 
+* [C](#c)
 * [C++](#cpp)
+* [Computer architecture](#computer-arhitecture)
 * [Data Structure and Algorithms](#data-structure-and-algorithms)
 * [Java](#java)
 * [Linux](#linux)
@@ -9,7 +11,7 @@
 * [Python](#python)
 
 
-### <a id="c"></a>C
+### C
 
 * [C language Notes by sbistudy.com\| Hindi](https://www.sbistudy.com/c-language-notes-in-hindi/) - Shivom Classes
 * [C Tutorial by Masterprogramming.in \| Hindi](https://masterprogramming.in/learn-c-language-tutorial-in-hindi/) - Jeetu Sahu
@@ -21,6 +23,11 @@
 * [C++ Brief Notes \| Hindi](https://ehindistudy.com/2020/12/01/cpp-notes-in-hindi/) - Yugal Joshi
 * [C++ in Hindi \| Hindi](https://www.bccfalna.com/IOC-AllEBooks/CPPinHindi.pdf) - Kuldeep Chand (PDF)
 * [C++ Introduction Book \| Hindi](https://ncsmindia.com/wp-content/uploads/2012/04/c++-hindi.pdf) - NCMS India (PDF)
+
+
+### Computer arhitecture
+
+* [कम्प्यूटर सिस्टम आर्किटेक्चर](https://www.aicte-india.org/sites/default/files/HINDI_BOOKS/BOOK%208.pdf) - डॉ. एस. एस. श्रीवास्तव, उच्च शिक्षा उत्कृष्टता संस्थान, भोपाल (म. प्र. ) (PDF)
 
 
 ### Data Structure and Algorithms

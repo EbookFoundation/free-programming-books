@@ -32,5 +32,5 @@
 
 ### Python
 
-* [Learn Python in Kannada](https://youtu.be/MhktLoePTiY?si=bEP4D8NEVoBdb0GX) (BEGINNER - ADVANCED) - Engineering in Kannada
+* [Learn Python in Kannada](https://youtu.be/MhktLoePTiY?si=bEP4D8NEVoBdb0GX) - Engineering in Kannada
 * [python complete course in Kannada](https://youtube.com/playlist?list=PLUZkVL-W-8GKpo--HuELu27Lkc308fNXe&si=NS4YhygcUNHqtTwm) - script kiddie

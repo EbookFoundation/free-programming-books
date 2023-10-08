@@ -91,6 +91,7 @@ jobs:
               repo: context.repo.repo,
               name: "linter error"
             })
+        continue-on-error: true
 
       - name: Exit on success
         if: steps.books.outcome == 'success' && steps.casts.outcome == 'success' && steps.courses.outcome == 'success' && steps.more.outcome == 'success'

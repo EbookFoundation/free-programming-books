@@ -162,8 +162,8 @@
 * [CSSdeck](https://cssdeck.com)
 * [Dabblet](https://dabblet.com)
 * [Flexy Boxes](https://the-echoplex.net/flexyboxes/)
-* [Learn advanced html and css](https://www.theodinproject.com/paths/full-stack-javascript/courses/advanced-html-and-css) - THE ODIN PROJECT
-* [Learn Intermediate html and css](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css) - THE ODIN PROJECT
+* [Learn advanced html and css](https://www.theodinproject.com/paths/full-stack-javascript/courses/advanced-html-and-css) - The Odin Project
+* [Learn Intermediate html and css](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css) - The Odin Project
 * [SoloLearn](https://code.sololearn.com/web#css)
 * [Tailwind Play](https://play.tailwindcss.com)
 

@@ -2596,7 +2596,7 @@ Books on general-purpose programming that don't focus on a specific language are
 ### Vala
 
 * [Vala Documentation](https://wiki.gnome.org/Projects/Vala/Documentation)
-  
+
 
 ### Verilog
 

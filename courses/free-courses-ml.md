@@ -6,6 +6,7 @@
 * [C++](#cpp)
 * [C#](#csharp)
 * [Compiler Design](#compiler-design)
+* [Computer Networks](#computer-networks)
 * [Data Structure](#data-structure)
 * [Docker](#docker)
 * [Flutter](#flutter)
@@ -64,6 +65,13 @@
 ### Compiler Design
 
 * [Compiler Design](https://www.youtube.com/playlist?list=PLwe8bwPXjlLtPlbzxU_SICYI3PeYpEAtJ) -  Learn CSE Malayalam
+
+
+### Computer Networks
+
+* [COMPUTER NETWORKS - S5](https://www.youtube.com/playlist?list=PLI74-7rtCb9BRUw6JzCm_wwLdQJc3jSwO) -  EDULINE CSE KNOWLEDGE SHARING PLATFORM
+* [CCNA MALAYALAM TUTORIAL(S)](https://www.youtube.com/playlist?list=PLO7o5VCTCpe-7jj04hLM002hQM5J-f3tl) -  Networking Malayalam
+* [Computer Network (CN)](https://www.youtube.com/playlist?list=PLrjkTql3jnm-iqlEOuVTkmCaRP8F2H3-u) -  Education 4u
 
 
 ### Data Structure

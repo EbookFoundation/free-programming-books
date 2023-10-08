@@ -9,7 +9,7 @@
 
 ### Competitive Programming
 
-* [4Clojure](http://www.4clojure.com)
+* [A Way to Practice Competitive Programming](https://github.com/E869120/Competitive-Programming/blob/master/%5BTutorial%5D%20A%20Way%20to%20Practice%20Competitive%20Programming.pdf) - Masataka Yoneda (PDF)
 * [A2 Online Judge](https://a2oj.netlify.app)
 * [Algorithms for Competitive Programming](https://cp-algorithms.com)
 * [APL Problem Solving Competition](https://contest.dyalog.com)
@@ -62,7 +62,7 @@
 * [HackThisSite](https://www.hackthissite.org) (email address *requested*)
 * [Overthewire Wargames fungame to practice CTF](https://overthewire.org/wargames/bandit)
 * [Picoctf](https://picoctf.org/resources.html) (email address *requested*)
-* [SmashtheStack](http://www.smashthestack.org/wargames.html)
+* [SmashTheStack](http://www.smashthestack.org/main.html#wargames)
 * [TryHackMe](https://tryhackme.com) (email address *requested*)
 
 
@@ -108,6 +108,7 @@
 * [Edabit](https://edabit.com)
 * [Exercism](http://exercism.io)
 * [Geeks For Geeks](https://practice.geeksforgeeks.org)
+* [Grind 75](https://www.techinterviewhandbook.org/grind75)
 * [Hacker.org](http://www.hacker.org)
 * [HackerEarth](https://www.hackerearth.com)
 * [HDU Online Judge](http://acm.hdu.edu.cn)
@@ -133,3 +134,4 @@
 * [UVa Online Judge](https://uva.onlinejudge.org/index.php?Itemid=8&option=com_onlinejudge)
 * [Vulnhub.com](https://www.vulnhub.com)
 * [Школа программиста](https://acmp.ru)
+

@@ -20,7 +20,6 @@
 
 ### C
 
-* [Computer Programming «কম্পিউটার প্রোগ্রামিং ১ম খণ্ড»](https://cpbook.subeen.com) - Tamim Shahriar Subeen (HTML)
 * [বাংলায় C প্রোগ্রামিং ল্যাঙ্গুয়েজ শেখার কোর্স](https://c.howtocode.dev) - Jakir Hossain, et al.
 
 
@@ -44,11 +43,6 @@
 * [বাংলায় জাভা প্রোগ্রামিং শেখার কোর্স](http://java.howtocode.dev) - Bazlur Rahman, et al. (howtocode.dev)
 
 
-### JavaScript
-
-* [হাতেকলমে জাভাস্ক্রিপ্ট: সম্পূর্ণ বাংলায় হাতেকলমে জাভাস্ক্রিপ্ট শিখুন](https://zonayed.js.org) - Zonayed Ahmed (HTML)
-
-
 ### Machine Learning
 
 * [শূন্য থেকে পাইথন মেশিন লার্নিং: হাতেকলমে সাইকিট-লার্ন](https://raqueeb.gitbook.io/scikit-learn/) - Rakibul Hassan (HTML, [Jupyter Notebook](https://github.com/raqueeb/ml-python)) (gitbook)
@@ -64,7 +58,6 @@
 
 ### Python
 
-* [পাইথন প্রোগ্রামিং বই](http://pybook.subeen.com) - Tamim Shahriar Subeen
 * [বাংলায় পাইথন](https://python.howtocode.dev) - Nuhil Mehdy
 * [সহজ ভাষায় পাইথন ৩](https://python.maateen.me) - Maksudur Rahman Maateen
 * [হুকুশ পাকুশের প্রোগ্রামিং শিক্ষা](https://hukush-pakush.com) - Ikram Mahmud (HTML)
@@ -73,4 +66,5 @@
 ### Sql
 
 * [এসকিউএল পরিচিতি(SQL Introduction in Bangla)](https://www.sattacademy.com/sql/sql-intro.php) - Satt Academy
+* [বাংলায় SQL টিউটোরিয়াল](https://sql.howtocode.dev) - Saiful, et al.
 

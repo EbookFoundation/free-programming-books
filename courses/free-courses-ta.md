@@ -5,13 +5,16 @@
 * [C](#c)
 * [C++](#cpp)
 * [Data Structures and Algorithms](#dsa)
+* [Express JS](#express-js)
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Machine Learning](#machine-learning)
+* [Node JS](#node-js)
 * [PHP](#php)
 * [Python](#python)
 * [R](#r)
+* [React](#react)
 * [Solidity](#solidity)
 * [SQL](#sql)
 
@@ -43,6 +46,13 @@
 
 * [தமிழில் Data Structures and Algorithms](https://youtube.com/playlist?list=PL_UqaR55i1797oG0BL0wtxdPpa_NYNFLz) - 
 CSE Tamila by Eezytutorials
+* [Data Structures and Algorithms in Java](https://www.youtube.com/playlist?list=PLYM2_EX_xVvX7_AmNY-Deacp3rT3MIXnE) - Logic First Tamil
+
+
+### Express JS
+
+* [Express JS Course in Tamil](https://youtube.com/playlist?list=PLN00Qh4gtjNtwr6Syq7eKDTmd-fKQPEiO&si=wMFg55V0T1ztHesh) - Programming Line
+* [Express JS Tutorial In Tamil](https://youtube.com/playlist?list=PLtMr2pEysMV6ArKDOGVmjQxjW-RcdxFHE&si=CR4PI0sjOcAUnXut) - VJ Techno Wizard
 
 
 ### HTML and CSS
@@ -57,10 +67,14 @@ CSE Tamila by Eezytutorials
 * [Java Programming in Tamil](https://www.youtube.com/playlist?list=PLWbtDrDnmTHCsK36VMtXasfeo4qQg3Mjo) - CS in Tamil
 * [Java Programming in Tamil](https://www.youtube.com/playlist?list=PLIFRUdRwOM08fR11AtNx674tXpUmgy7lD) - SANTRA TECHSPOT
 * [Learn Java in Tamil](https://youtube.com/playlist?list=PLYM2_EX_xVvVXm005Gt5unmqW6GGMjHxa) - Logic First Tamil
+* [Spring Boot Beginners Tutorial in Tamil](https://www.youtube.com/playlist?list=PLhbl8CrGKCBNVzNXhoWdmni_sEAqZdLt9) - Code Simple
+* [Spring Boot Complete/Full Course in Tamil for Beginners from Basics](https://www.youtube.com/playlist?list=PLgWpUXNR_WCc_VontznRnCUdul5Zp1x3c) - Payilagam
+* [Spring Boot Tutorial For Beginners In Tamil](https://www.youtube.com/playlist?list=PL5wfQQ0ZyOimwU4V9g7OWTehyBoeDJGRG) - Frontend Forever
 
 
 ### JavaScript
 
+* [JavaScript](https://www.youtube.com/playlist?list=PLYM2_EX_xVvWA3nMtsoLclwDtVS_rLk6O) - Logic First Tamil
 * [Javascript (ES6) Tutorials in Tamil](https://youtube.com/playlist?list=PLB8qmogP8oMwFdeaeThAbsR9Vh-873SWb) - Coda - Programming In Tamil
 * [JavaScript Crash Course From Scratch to Advanced in Tamil](https://www.youtube.com/playlist?list=PLyYcNnaAVG5IIyPjuzWOgqFxDORHqRN2W) - selva tutorials
 * [Javascript Full Course in Tamil - in Depth Javascript Tutorials in Tamil](https://youtube.com/playlist?list=PLpYn3LR7eQI3hjh129Bkqkw7onut28hTK) - Tamil Developer
@@ -74,6 +88,13 @@ CSE Tamila by Eezytutorials
 * [Machine Learning in Tamil](https://youtube.com/playlist?list=PL5itdT07Pm8wxRaPWljPntnBmnOs4ExDM) - Nithya Duraisamy
 
 
+### Node JS
+
+* [Node JS in Tamil](https://youtube.com/playlist?list=PLDVMunJ3DBrNAZtl0cJiNytPE2-8MAmoc&si=z23m0cL3jA7J50f9) - Each One Teach One
+* [Node JS Tamil Tutorial](https://youtube.com/playlist?list=PLfD4W8QfMd5CfPbiP2os4lpK2470C8Bva&si=3_z8uf-13KyOoEj-) - MaanavaN Learn Code
+* [Node JS Tutorial in Tamil](https://youtube.com/playlist?list=PLyYcNnaAVG5Jewkwv4iH5WR-IDNlUON29&si=Y1th95p1GubFjnAl) - selva tutorials
+
+
 ### PHP
 
 * [PHP for beginners In Tamil](https://youtube.com/playlist?list=PL4unWLKFsZfcq_D-sEy0pR4Sl_yipy6Jt) - Tutor Joe's Stanley
@@ -83,6 +104,7 @@ CSE Tamila by Eezytutorials
 
 ### Python
 
+* [Python DJango in Tamil - Full Course](https://www.youtube.com/playlist?list=PLgWpUXNR_WCch5K1nkemWWsm3rvr-7YmO) - Payilagam
 * [Python in Tamil for Beginners](https://youtube.com/playlist?list=PLA2UBjeRwle3OLO3qmXTbmCvuTlqhHRVb) - GURUKULA
 * [Python Programming in Tami](https://www.youtube.com/playlist?list=PLWbtDrDnmTHBdEnUKuLNdH2-zKSDD8OA4) - CS in Tamil
 * [Python Tutorial in Tamil](https://youtube.com/playlist?list=PLIFRUdRwOM0_hcLruKbsHWnU5P2uLBgsp) - SANTRA TECHSPOT
@@ -91,6 +113,14 @@ CSE Tamila by Eezytutorials
 ### R
 
 * [R Tutorial in Tamil](https://youtube.com/playlist?list=PL4unWLKFsZfeGbK28rfPDeDDD_OJGjMCC) - Tutor Joe's Stanley
+
+
+### React
+
+* [React](https://youtube.com/playlist?list=PL7BQ4lqtgECTVwBbEjQ63FPx76WYDbiwh&si=PxoLxQoXVCqi1zav) - JVL code
+* [React Basics Tamil](https://youtube.com/playlist?list=PLQeZxRj52I-HntAkC29CgxGRT9Z_-oa91&si=oe9UoqzeaUDYyoy6) - Tamil Coding Wizard
+* [React JS Tamil Tutorial for Beginners](https://youtube.com/playlist?list=PLfD4W8QfMd5DbFccLzRFeG0QjWWHGTT3-&si=X3CgUFk3PxeqA8YD) - MaanavaN Learn Code
+* [React JS Tutorial Tamil](https://youtube.com/playlist?list=PLtMr2pEysMV7DdPChnkF9Mmgdya1uR8sQ&si=ZNop81SRBf9eTGvK) - VJ Techno Wizard
 
 
 ### Solidity

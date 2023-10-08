@@ -37,6 +37,7 @@
     * [Flask](#flask)
     * [PyTorch](#pytorch)
 * [Redis](#redis)
+* [Rust](#rust)
 * [SASS / SCSS](#sass--scss)
 * [Solidity](#solidity)
 * [Terraform](#terraform)
@@ -221,6 +222,7 @@
 * [JavaScript Module](https://devsaurus.com/javascript-module) - Devsaurus
 * [JavaScript Tutorial Bahasa Indonesia](https://www.youtube.com/playlist?list=PL-CtdCApEFH8SS0Gsj9_a0cC0jypFEoSg) - Eko Kurniawan Khannedy, Programmer Zaman Now
 * [Main Main JavaScript](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCyd70hT8jYl24bLuPpH9iR) - Sekolah Koding
+* [Nest JS Tutorial Indonesia](https://youtube.com/playlist?list=PL9At9z2rvOC8phs2qV4Fysy8cejzg6pU0) - Ekky Ridyanto (Balademy)
 * [Tutorial AngularJS Indonesia](https://www.youtube.com/playlist?list=PLohWNsc-n1L-3ffIaGRAjbTQm7bh9F9FG) - Windu Purnomo
 * [Tutorial JavaScript Pemrograman Berorientasi Objek](https://www.youtube.com/watch?v=SDROba_M42g) - Programmer Zaman Now
 * [Tutorial NextJS Bahasa Indonesia](https://www.youtube.com/playlist?list=PLU4DS8KR-LJ3-zouYHHknPq1G5VTB8PRf) - Prawito Hudoro
@@ -353,6 +355,7 @@
 * [Tutorial Laravel 5.7 Dasar bahasa Indonesia](https://www.malasngoding.com/category/laravel/) - Diki Alfarabi Hadi (Malas Ngoding)
 * [Tutorial Laravel 7.x Dasar](https://www.youtube.com/playlist?list=PLCZlgfAG0GXBucXejxeeqCe_NWZS-67q_) - Sekolah Koding
 * [Tutorial Laravel Bahasa Indonesia](https://id-laravel.com) - ID Laravel
+* [Tutorial Restful API Laravel 10](https://santrikoding.com/tutorial-set/tutorial-restful-api-laravel-10) - Santrikoding
 
 
 ### Python
@@ -396,6 +399,11 @@
 ### Redis
 
 * [Belajar Redis](https://www.youtube.com/playlist?list=PL-CtdCApEFH-7hBhz1Q-4rKIQntJoBNX3) - Eko Kurniawan Khannedy, Programmer Zaman Now
+
+
+### Rust
+
+* [Belajar Rust](https://www.youtube.com/playlist?list=PLIfsrcorUur10nUSHVq9Mb4yWu87_5lZn) - Dev Activity
 
 
 ### SASS / SCSS

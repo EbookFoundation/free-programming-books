@@ -781,6 +781,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Learn Quantum Computation using Qiskit](https://qiskit.org/textbook/preface.html) - Frank Harkins, et al. (HTML)
 * [Quantum Algorithms](https://arxiv.org/pdf/0808.0369v1) - Michele Mosca (PDF)
 * [Quantum Computing for the Quantum Curious](https://link.springer.com/book/10.1007/978-3-030-61601-4) - Ciaran Hughes, Joshua Isaacson, Anastasia Perry, Ranbel F. Sun, Jessica Turner (HTML, PDF, EPUB)
+* [Quantum Information Theory](https://markwilde.com/qit-notes.pdf) - Mark M. Wilde (PDF)
 * [The Functional Analysis of Quantum Information Theory](https://arxiv.org/abs/1410.7188) - Ved Prakash Gupta, Prabha Mandayam, V. S. Sunder (PDF)
 
 

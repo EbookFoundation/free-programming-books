@@ -1177,6 +1177,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [The JavaScript Beginner's Handbook](https://flaviocopes.com/page/javascript-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
 * [The JavaScript Way](https://github.com/bpesquet/thejsway) - Baptiste Pesquet
 * [The Modern JavaScript Tutorial](https://javascript.info) - Ilya Kantor (HTML)
+* [The Principles of Object-Oriented JavaScript](http://www.r-5.org/files/books/computers/languages/escss/fp/Nicholas_C_Zakas-The_Principles_of_JavaScript-EN.pdf) - by Nicholas C. Zakas
 * [The Problem with Native JavaScript APIs](https://www.oreilly.com/programming/free/native-javascript-apis.csp) - Nicholas C. Zakas (PDF, email address *requested*)
 * [Thinking in JavaScript](https://www.amazon.com/Thinking-JavaScript-Aravind-Shenoy-ebook/dp/B00JUI6LUQ) - Aravind Shenoy (Kindle)
 * [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read) - Nicholas C. Zakas (HTML)

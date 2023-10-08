@@ -108,6 +108,7 @@
 * [Web Development](#web-development)
 * [Web3](#web3)
 * [Windows Phone](#windows-phone)
+* [WordPress](#wordpress)
 * [YAML](#yaml)
 
 

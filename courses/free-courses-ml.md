@@ -1,5 +1,6 @@
 ### Index
 
+
 * [Android](#android)
 * [Bash and Shell](#bash-and-shell)
 * [C](#c)
@@ -28,7 +29,6 @@
 * [Python](#python)
     * [Django](#django)
     * [Flask](#flask)
-
 
 
 ### Android

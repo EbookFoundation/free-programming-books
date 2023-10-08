@@ -8,12 +8,12 @@
 
 പുതിയ സംഭാവകരെ ഞങ്ങൾ സ്വാഗതം ചെയ്യുന്നു; GitHub-ൽ അവരുടെ ആദ്യത്തെ പുൾ അഭ്യർത്ഥന (പിആർ) നടത്തുന്നവർ പോലും. നിങ്ങൾ അത്തരത്തിലൊരാളാണെങ്കിൽ, സഹായിച്ചേക്കാവുന്ന ചില ഉറവിടങ്ങൾ ഇതാ:
 
-•[പുൾ അഭ്യർത്ഥനകളെക്കുറിച്ച്](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
-•[ഒരു പുൾ അഭ്യർത്ഥന സൃഷ്ടിക്കുന്നു](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
-•[GitHub ഹലോ വേൾഡ്](https://docs.github.com/en/get-started/quickstart/hello-world)
-•[തുടക്കക്കാർക്കുള്ള YouTube - GitHub ട്യൂട്ടോറിയൽ](https://www.youtube.com/watch?v=0fKg7e37bQE)
-•[YouTube - എങ്ങനെ ഒരു GitHub റിപ്പോ ഫോർക്ക് ചെയ്യുകയും ഒരു പുൾ അഭ്യർത്ഥന സമർപ്പിക്കുകയും ചെയ്യാം](https://www.youtube.com/watch?v=G1I3HF4YWEw)
-•[YouTube - മാർക്ക്ഡൗൺ ക്രാഷ് കോഴ്സ്](https://www.youtube.com/watch?v=HUBNt18RFbo)
+• [പുൾ അഭ്യർത്ഥനകളെക്കുറിച്ച്](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
+• [ഒരു പുൾ അഭ്യർത്ഥന സൃഷ്ടിക്കുന്നു](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
+• [GitHub ഹലോ വേൾഡ്](https://docs.github.com/en/get-started/quickstart/hello-world)
+• [തുടക്കക്കാർക്കുള്ള YouTube - GitHub ട്യൂട്ടോറിയൽ](https://www.youtube.com/watch?v=0fKg7e37bQE)
+• [YouTube - എങ്ങനെ ഒരു GitHub റിപ്പോ ഫോർക്ക് ചെയ്യുകയും ഒരു പുൾ അഭ്യർത്ഥന സമർപ്പിക്കുകയും ചെയ്യാം](https://www.youtube.com/watch?v=G1I3HF4YWEw)
+• [YouTube - മാർക്ക്ഡൗൺ ക്രാഷ് കോഴ്സ്](https://www.youtube.com/watch?v=HUBNt18RFbo)
 
 ചോദ്യങ്ങൾ ചോദിക്കാൻ മടിക്കരുത്; എല്ലാ സംഭാവകരും ഒരു ആദ്യ PR-ൽ ആരംഭിച്ചു. അതിനാൽ... എന്തുകൊണ്ട് നമ്മുടെ [വലിയ, വളരുന്ന](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books) സമൂഹത്തിൽ ചേരുന്നില്ല.
 

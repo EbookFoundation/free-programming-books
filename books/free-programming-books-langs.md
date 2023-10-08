@@ -218,6 +218,7 @@ Books on general-purpose programming that don't focus on a specific language are
     * [Deno](#deno)
 * [Unix](#unix)
 * [V](#v)
+* [Vala](#vala)
 * [Verilog](#verilog)
 * [VHDL](#vhdl)
 * [Visual Basic](#visual-basic)
@@ -2591,6 +2592,11 @@ Books on general-purpose programming that don't focus on a specific language are
 
 * [V Documentation](https://github.com/vlang/v/blob/HEAD/doc/docs.md) - vlang.io (Markdown)
 
+
+### Vala
+
+* [Vala Documentation](https://wiki.gnome.org/Projects/Vala/Documentation)
+  
 
 ### Verilog
 

@@ -37,6 +37,12 @@ jobs:
         run: fpb-lint ./more/
         continue-on-error: true
 
+      - name: Get Pull Request Number
+        id: pr_number
+        run: echo "::set-output name=pull_request_number::$(gh pr view --json number -q .number || echo "")"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Delete PR Comment
         if: steps.books.outcome == 'success' && steps.casts.outcome == 'success' && steps.courses.outcome == 'success' && steps.more.outcome == 'success'
         uses: thollander/actions-comment-pull-request@v2
@@ -48,12 +54,6 @@ jobs:
           comment_tag: fpb-lint
           mode: delete
           create_if_not_exists: false
-      
-      - name: Get Pull Request Number
-        id: pr_number
-        run: echo "::set-output name=pull_request_number::$(gh pr view --json number -q .number || echo "")"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Post PR Comment
         if: steps.books.outcome == 'failure' || steps.casts.outcome == 'failure' || steps.courses.outcome == 'failure' || steps.more.outcome == 'failure'
@@ -68,15 +68,28 @@ jobs:
 
             Thanks in advance for your effort and patience ❤️!
 
-      - name: Label PR
+      - name: Add Label
+        if: steps.books.outcome == 'failure' || steps.casts.outcome == 'failure' || steps.courses.outcome == 'failure' || steps.more.outcome == 'failure'
         uses: actions/github-script@v6
         with:
           script: |
-            github.rest.issues.addLabels({
+            github.rest.issues.deleteLabel({
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
-              labels: ["linter error"]
+              name: "linter error"
+            })
+
+      - name: Remove Label
+        if: steps.books.outcome == 'success' && steps.casts.outcome == 'success' && steps.courses.outcome == 'success' && steps.more.outcome == 'success'
+        uses: actions/github-script@v6
+        with:
+          script: |
+            github.rest.issues.deleteLabel({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              name: "linter error"
             })
 
       - name: Exit on success

@@ -16,7 +16,6 @@
 * [Compiler Design](#compiler-design)
 * [Computer Graphics](#computer-graphics)
 * [Computer Organization and Architecture](#computer-organization-and-architecture)
-* [Cyber Security](#cyber-security)
 * [Data Structures](#data-structures)
 * [Databases](#databases)
 * [DevOps](#devops)
@@ -56,6 +55,7 @@
 * [Ruby](#ruby)
     * [Ruby on Rails](#ruby-on-rails)
 * [Rust](#rust)
+* [Security](#security)
 * [Software Engineering](#software-engineering)
 * [Swift](#swift)
 * [System Design](#system-design)
@@ -154,8 +154,7 @@
 ### <a id="asp.net"></a>ASP.NET
 
 * [ASP .Net in Hindi](https://www.youtube.com/playlist?list=PLbsXhdgwIKL1g2vE86yGBK_RYuqt98yWL) - ComputerHindiNotes
-* [ASP.NET CORE 6.0 TUTORIALS IN HINDI](https://www.youtube.com/playlist?list=PL18HZjtdIA4DiYGQj1zst6myBAVE3wgMg) - Technology Keeda
-* [ASP.NET CORE TUTORIALS IN HINDI](https://www.youtube.com/playlist?list=PL18HZjtdIA4Al-wYHC-i2TA-lgXLvHVmB) - Technology Keeda
+* [ASP.NET Core Tutorials in Hindi](https://www.youtube.com/playlist?list=PL18HZjtdIA4Al-wYHC-i2TA-lgXLvHVmB) - Technology Keeda
 * [ASP.NET Course 2023](https://www.youtube.com/playlist?list=PLMoluEXvWXK6Q1h-5vVX4tzX7-O2FdgZA) - Coder Baba
 
 
@@ -202,15 +201,6 @@
 * [Computer Organization and Architecture](https://www.youtube.com/playlist?list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX) - Gate Smashers
 * [Computer Organization and Architecture Lectures in Hindi](https://www.youtube.com/playlist?list=PLV8vIYTIdSnar4uzz-4TIlgyFJ2m18NE3) - Easy Engineering Classes
 * [Introduction to Computer Organization and Architecture](https://youtube.com/playlist?list=PLBlnK6fEyqRjC2nTHdeUtWFkoiPVespkc) - Neso Academy
-
-
-### Cyber Security
-
-* [cyber security course for beginners - Urdu/Hindi](https://www.youtube.com/playlist?list=PLKJfBg0XdWkevCEJ64RK11LylBNX2-zbk) - hashintelligence
-* [Cyber Security Tutorial In Hindi](https://www.youtube.com/playlist?list=PL-JvKqQx2AteIbm-z4X709scVr9OaHpIY) - University Academy
-* [Cyber Security Tutorials In HIndi](https://www.youtube.com/playlist?list=PL0fjgIGwLMWTFmZoLdEPoI9azA-osxcQj) - TechChip
-* [Ethical Hacking Full Couse || Cyber Security in Hindi](https://www.youtube.com/playlist?list=PLa2xctTiNSCibSUhgYI2RT_loUJP9rDN6) - Masters in IT
-* [Information And Cyber Security](https://www.youtube.com/playlist?list=PLYwpaL_SFmcArHtWmbs_vXX6soTK3WEJw) - 5 Minutes Engineering
 
 
 ### Data Structures
@@ -348,7 +338,7 @@
 ### Spring Boot
 
 * [Spring Boot In Hindi](https://www.youtube.com/playlist?list=PLJc-LD5TzDQToG2MOYDAuCl-JFZoMBxgC) - ekumeed help
-* [Spring Boot Tutorial | Full Course In Hindi | Java Spring boot Framework](https://www.youtube.com/playlist?list=PLnfapp4Woqprxl6N1r4Gkq87Lkn-IEZ0z) - AndroJava Tech4U
+* [Spring Boot Tutorial (Full Course In Hindi)](https://www.youtube.com/playlist?list=PLnfapp4Woqprxl6N1r4Gkq87Lkn-IEZ0z) - AndroJava Tech4U
 * [Spring Boot Tutorial For Beginners (in Hindi)](https://www.youtube.com/playlist?list=PL5mjp3QjkuoLPS-L28yKCKyzCMX8WRVno) - ProgRank
 * [Spring Boot Tutorial in Hindi](https://www.youtube.com/playlist?list=PL0zysOflRCelmjxj-g4jLr3WKraSU_e8q) - Learn Code With Durgesh
 * [Spring Boot Tutorials In Hindi](https://www.youtube.com/playlist?list=PLwIi8rEnGr6x4U68rbPoFTYvWMjGt4egL) - KK HindiGyan
@@ -507,7 +497,7 @@
 ### Laravel
 
 * [Laravel (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhijEqjCa63l0GkWh5EsG5iTR) - Geeky Shows
-* [Laravel 10 Tutorial Course in Hindi / Urdu](PL0b6OzIxLPbz7JK_YYrRJ1KxlGG4diZHJ) - Yahoo Baba
+* [Laravel 10 Tutorial Course in Hindi / Urdu](https://www.youtube.com/playlist?list=PL0b6OzIxLPbz7JK_YYrRJ1KxlGG4diZHJ) - Yahoo Baba
 * [Laravel 9 Course in Hindi/Urdu](https://www.youtube.com/playlist?list=PLDc9bt_00KcLME8wcKFNCF-9nP21L2nB2) - Career Development Lab
 * [Laravel 9 tutorial in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV44dF7G_uPK_9ZHCQon15flp) - Code Step By Step
 * [Laravel Framework Complete Tutorial for Beginners to Pro [HINDI]](https://www.youtube.com/playlist?list=PLjVLYmrlmjGfh2rwJjrmKNHzGxCZwBsqj) - WsCube Tech
@@ -571,6 +561,15 @@
 ### Rust
 
 * [Rust Complete Tutorial In Hindi](https://www.youtube.com/playlist?list=PLRuqvIc0eAmp8Lv6M4BKQWEinvCuqdVFP) - One Two Coding
+
+
+### Security
+
+* [cyber security course for beginners - Urdu/Hindi](https://www.youtube.com/playlist?list=PLKJfBg0XdWkevCEJ64RK11LylBNX2-zbk) - hashintelligence
+* [Cyber Security Tutorial In Hindi](https://www.youtube.com/playlist?list=PL-JvKqQx2AteIbm-z4X709scVr9OaHpIY) - University Academy
+* [Cyber Security Tutorials In HIndi](https://www.youtube.com/playlist?list=PL0fjgIGwLMWTFmZoLdEPoI9azA-osxcQj) - TechChip
+* [Ethical Hacking Full Couse (Cyber Security in Hindi)](https://www.youtube.com/playlist?list=PLa2xctTiNSCibSUhgYI2RT_loUJP9rDN6) - Masters in IT
+* [Information And Cyber Security](https://www.youtube.com/playlist?list=PLYwpaL_SFmcArHtWmbs_vXX6soTK3WEJw) - 5 Minutes Engineering
 
 
 ### Software Engineering

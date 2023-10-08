@@ -1793,7 +1793,9 @@ Books on general-purpose programming that don't focus on a specific language are
 
 * [An Introduction to the PHP Programming Language](https://codeahoy.com/learn/php/toc/) - CodeAhoy (HTML)
 * [Clean Code PHP](https://github.com/jupeter/clean-code-php)
+* [Design Patterns in PHP and Laravel](https://www.pdfdrive.com/design-patterns-in-php-and-laravel-e55291610.html) - Kelt Dockins (PDF)
 * [Essential PHP](https://www.programming-books.io/essential/php/) - Krzysztof Kowalczyk, StackOverflow Contributors
+* [Learning PHP, MySQL & JavaScript: With jQuery, CSS & HTML5](https://www.pdfdrive.com/learning-php-mysql-javascript-with-jquery-css-html5-e188490793.html) - Nixon Robin (PDF)
 * [PHP 5 Power Programming](http://www.informit.com/content/images/013147149X/downloads/013147149X_book.pdf) (PDF)
 * [PHP Apprentice](https://phpapprentice.com) - Andrew Davis *(:construction: in process)*
 * [PHP Best Practices](https://phpbestpractices.org)
@@ -1809,15 +1811,13 @@ Books on general-purpose programming that don't focus on a specific language are
 * [PHPUnit Manual](https://phpunit.de/manual/current/en/phpunit-book.pdf) - Sebastian Bergmann (PDF)
 * [Practical PHP Programming](http://www.hackingwithphp.com)
 * [Practical PHP Testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
+* [Pro PHP and jQuery, 2nd Edition](https://www.pdfdrive.com/pro-php-and-jquery-2nd-edition-take-your-dynamic-php-7-apps-to-the-next-level-by-adding-a-javascript-layer-using-jquery-e168116222.html) -  Jason Lengstorf & Keith Wald (PDF)
+* [Practical PHP 7, MySQL 8, and MariaDB Website Databases: A Simplified Approach to Developing ](https://www.pdfdrive.com/practical-php-7-mysql-8-and-mariadb-website-databases-a-simplified-approach-to-developing-database-driven-websites-e187206125.html) - Adrian W. West & Steve Prettyman (PDF)
+* [PHP 7 Zend Certification Study Guide: Ace the ZCE 2017-PHP Exam](https://www.pdfdrive.com/php-7-zend-certification-study-guide-ace-the-zce-2017-php-exam-e183172004.html) -  Andrew Beak (PDF)
+* [PHP Objects, Patterns, and Practice](https://www.pdfdrive.com/php-objects-patterns-and-practice-e188490653.html) - MATT ZANDSTRA (PDF)
 * [Survive The Deep End: PHP Security](https://phpsecurity.readthedocs.org/en/latest/)
 * [Using Libsodium in PHP Projects](https://paragonie.com/book/pecl-libsodium)
-* [Pro PHP and jQuery, 2nd Edition](https://www.pdfdrive.com/pro-php-and-jquery-2nd-edition-take-your-dynamic-php-7-apps-to-the-next-level-by-adding-a-javascript-layer-using-jquery-e168116222.html) -  Jason Lengstorf & Keith Wald (PDF)
-* [Learning PHP, MySQL & JavaScript: With jQuery, CSS & HTML5](https://www.pdfdrive.com/learning-php-mysql-javascript-with-jquery-css-html5-e188490793.html) - Nixon Robin (PDF)
-* [PHP 7 Zend Certification Study Guide: Ace the ZCE 2017-PHP Exam](https://www.pdfdrive.com/php-7-zend-certification-study-guide-ace-the-zce-2017-php-exam-e183172004.html) -  Andrew Beak (PDF)
-* [Practical PHP 7, MySQL 8, and MariaDB Website Databases: A Simplified Approach to Developing ](https://www.pdfdrive.com/practical-php-7-mysql-8-and-mariadb-website-databases-a-simplified-approach-to-developing-database-driven-websites-e187206125.html) - Adrian W. West & Steve Prettyman (PDF)
-* [Design Patterns in PHP and Laravel](https://www.pdfdrive.com/design-patterns-in-php-and-laravel-e55291610.html) - Kelt Dockins (PDF)
-* [PHP Notes for Professionals book](https://books.goalkicker.com/PHPBook/) - (PDF)
-* [PHP Objects, Patterns, and Practice](https://www.pdfdrive.com/php-objects-patterns-and-practice-e188490653.html) - MATT ZANDSTRA (PDF)
+
 
 
 #### CakePHP
@@ -1840,6 +1840,7 @@ Books on general-purpose programming that don't focus on a specific language are
 #### Laravel
 
 * [100 (and counting) Laravel Quick Tips](https://laraveldaily.com/wp-content/uploads/2020/04/laravel-tips-2020-04.pdf) - Povilas Korop / LaravelDaily Team (PDF)
+* [Design Patterns in PHP and Laravel](https://www.pdfdrive.com/design-patterns-in-php-and-laravel-e55291610.html) - Kelt Dockins (PDF)
 * [Laravel Best Practices](http://www.laravelbestpractices.com)
 * [Laravel: Code Bright](http://daylerees.com/codebright) - Dayle Rees
 * [Laravel: Code Happy](http://daylerees.com/codehappy) - Dayle Rees
@@ -1848,7 +1849,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Learning Laravel](https://riptutorial.com/Download/laravel.pdf) - Compiled from StackOverflow Documentation (PDF)
 * [Laravel: Up & Running: A Framework for Building Modern PHP Apps - Second Edition](https://www.pdfdrive.com/laravel-up-running-a-framework-for-building-modern-php-apps-e189833029.html) - Matt Stauffer (PDF)
 * [Laravel: Up & Running: A Framework for Building Modern PHP Apps - First Edition](https://www.pdfdrive.com/laravel-up-and-running-a-framework-for-building-modern-php-apps-e185389478.html) - Matt Stauffer (PDF)
-* [Design Patterns in PHP and Laravel](https://www.pdfdrive.com/design-patterns-in-php-and-laravel-e55291610.html) - Kelt Dockins (PDF)
 
 
 #### Symfony

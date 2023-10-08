@@ -1,6 +1,5 @@
 ### Index
 
-
 * [Android](#android)
 * [Bash and Shell](#bash-and-shell)
 * [C](#c)

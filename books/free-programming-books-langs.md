@@ -1819,7 +1819,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Using Libsodium in PHP Projects](https://paragonie.com/book/pecl-libsodium)
 
 
-
 #### CakePHP
 
 * [CakePHP Cookbook 2.x](http://book.cakephp.org/2.0/_downloads/en/CakePHPCookbook.pdf) (PDF)

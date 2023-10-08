@@ -48,10 +48,6 @@ jobs:
           comment_tag: fpb-lint
           mode: delete
           create_if_not_exists: false
-
-      - name: Exit on success
-        if: steps.books.outcome == 'success' && steps.casts.outcome == 'success' && steps.courses.outcome == 'success' && steps.more.outcome == 'success'
-        run: exit 0
       
       - name: Get Pull Request Number
         id: pr_number
@@ -71,6 +67,21 @@ jobs:
             Please 🙏, take a moment and address the lint issues.
 
             Thanks in advance for your effort and patience ❤️!
+
+      - name: Label PR
+        uses: actions/github-script@v6
+        with:
+          script: |
+            github.rest.issues.addLabels({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              labels: ["linter error"]
+            })
+
+      - name: Exit on success
+        if: steps.books.outcome == 'success' && steps.casts.outcome == 'success' && steps.courses.outcome == 'success' && steps.more.outcome == 'success'
+        run: exit 0
 
       - name: Exit on fail
         if: steps.books.outcome == 'failure' || steps.casts.outcome == 'failure' || steps.courses.outcome == 'failure' || steps.more.outcome == 'failure'

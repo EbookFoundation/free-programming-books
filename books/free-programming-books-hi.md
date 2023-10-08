@@ -28,7 +28,7 @@
 
 ### Computer architecture
 
-* [कम्प्यूटर सिस्टम आर्किटेक्चर](https://www.aicte-india.org/sites/default/files/HINDI_BOOKS/BOOK%208.pdf) - डॉ. एस. एस. श्रीवास्तव, उच्च शिक्षा उत्कृष्टता संस्थान, भोपाल (म. प्र. ) (PDF)
+* [कम्प्यूटर सिस्टम आर्किटेक्चर](https://www.aicte-india.org/sites/default/files/HINDI_BOOKS/BOOK%207.pdf) - डॉ. एस. एस. श्रीवास्तव, उच्च शिक्षा उत्कृष्टता संस्थान, भोपाल (म. प्र. ) (PDF)
 * [Computer architecture and organization notes](https://drive.google.com/file/d/1aE0mIBpmjansb9onxpw4Fh9xfGYPI96B/view) - eHindiStudy.com
 * [Objective questions on Computer Organization and architecture](https://testbook.com/objective-questions/hn/mcq-on-computer-organization-and-architecture--5eea6a0a39140f30f369dacc) - TestBook.com
 

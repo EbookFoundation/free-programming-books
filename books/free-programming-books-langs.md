@@ -33,7 +33,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [C++](#cpp)
 * [Carbon](#carbon)
 * [Chapel](#chapel)
-* [Cilk](#cilk)
 * [Clojure](#clojure)
 * [CMake](#cmake)
 * [COBOL](#cobol)

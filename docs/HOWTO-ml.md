@@ -1,5 +1,6 @@
 # എങ്ങനെ- ഒറ്റനോട്ടത്തിൽ
 <div align="right" markdown="1">
+    
     *[ഇത് മറ്റ് ഭാഷകളിൽ വായിക്കുക](README.md#translations)*
 </div>
 

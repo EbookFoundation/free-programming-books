@@ -1,9 +1,9 @@
 ### Index
 
 * [Blockchain](#blockchain)
-* [Design Pattern](#design-pattern)
 * [Go](#go)
 * [HTML and CSS](#html-and-css)
+* [Java](#java)
 * [JavaScript](#javascript)
 * [Linux](#linux)
 * [PHP](#php)
@@ -16,11 +16,6 @@
 * [Bitcoin - On Point](https://eimaung.com/bitcoin/) - Ei Maung (PDF)
 
 
-### Design Pattern
-
-* [Design Patterns](https://designpatterns.saturngod.net) - Saturngod
-
-
 ### Go
 
 * [The Little Go Book](https://github.com/nainglinaung/the-little-go-book) - Karl Seguin, `trl.:` Naing Lin Aung ([HTML](https://github.com/nainglinaung/the-little-go-book/blob/master/mm/go.md), [PDF](https://github.com/nainglinaung/the-little-go-book/blob/master/mm/go.pdf), [EPUB](https://github.com/nainglinaung/the-little-go-book/blob/master/mm/go.epub))
@@ -31,6 +26,11 @@
 * [Bootstrap - On Point](https://eimaung.com/bootstrap/) - Ei Maung (PDF)
 * [HTML](https://books.saturngod.net/HTML5/) - Saturngod
 * [HTML & CSS - Beginner To Super Beginner](https://lwinmoepaing.github.io/books/) - Lwin Moe Paing (PDF)
+
+
+### Java
+
+* [Design Patterns](https://designpatterns.saturngod.net) - Saturngod
 
 
 ### JavaScript

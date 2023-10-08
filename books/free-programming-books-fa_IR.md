@@ -75,6 +75,7 @@
 
 #### Django
 
+* [ترجمه آزاد کتاب Django Design Patterns and Best Practices](https://github.com/ftg-iran/ddpabp-persian)
 * [کتاب جنگو برای حرفه‌ای‌ها](https://github.com/mthri/dfp-persian)
 * [کتاب جنگو برای API](https://github.com/ftg-iran/dfa-persian)
 

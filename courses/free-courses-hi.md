@@ -54,6 +54,7 @@
 * [Software Engineering](#software-engineering)
 * [Swift](#swift)
 * [System Design](#system-design)
+* [TypeScript](#typescript)
 
 
 ### Algorithms
@@ -78,7 +79,6 @@
 ### Android
 
 * [Android App Development Course (Beginner to Advanced) \| WsCube Tech 2.0](https://www.youtube.com/playlist?list=PLjVLYmrlmjGdDps6HAwOOVoAtBPAgIOXL) - WsCube Tech
-* [Android App Development Full Course in Hindi](https://youtube.com/playlist?list=PLRu7mEBdW7fAUNtaiPoTCCgWXSlqwqdSP) - Geeky Hub
 * [Android Development Tutorial for Beginners](https://www.youtube.com/playlist?list=PLUcsbZa0qzu3Mri2tL1FzZy-5SX75UJfb) - Anuj Bhaiya
 * [Android Development Tutorials in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9aiL0kysYlfSOUgY5rNlOhUd) - CodeWithHarry
 * [Android Development With KOTLIN \| Android App Development Course In Hindi](https://www.youtube.com/playlist?list=PL6Fr59UplGvL7q7P3Hg6nYzS45gld-CCI) - Zain Farhan
@@ -219,10 +219,12 @@
 * [DBMS (Database Management System) Complete Playlist](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y) - Gate Smashers
 * [DBMS Lectures in Hindi](https://www.youtube.com/playlist?list=PL0s3O6GgLL5dg3bZhTicr5zUITPAlZNjj) - Last moment tuitions 
 * [DBMS Placements Series 2022](https://www.youtube.com/playlist?list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU) - CodeHelp - by Babbar
+* [SQL Tutorial in Hindi](https://www.youtube.com/playlist?list=PLdOKnrf8EcP17p05q13WXbHO5Z_JfXNpw) - Rishabh Mishra
 
 
 ### DevOps
 
+* [Complete DevOps Zero to Hero Course](https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa) - Abhishek.Veeramalla
 * [DevOps Training Tutorials For Beginners in Hindi](https://www.youtube.com/playlist?list=PLYEK_dHOjwtODYB46wFuc34muw9Gl5X5x) - Linux Wale Guruji
 * [DevOps Training Videos in Hindi](https://www.youtube.com/playlist?list=PLQbQOmlGYH3sxlq9ugoq1ipNFP7tus5Gd) - edureka! Hindi
 * [DevOps Tutorials in Hindi/Urdu \| Devops सीखने का सबसे आसान तरीका \| Complete Devops including Git,Jenkins,Maven,Chef,docker,Ansible and Kubernetes](https://www.youtube.com/playlist?list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10) - Bhupinder Rajput, Technical Guftgu
@@ -248,6 +250,7 @@
 
 ### Git and GitHub
 
+* [Complete Git and Github Tutorials for Beginners](https://www.youtube.com/watch?v=Ez8F0nW6S-w) - Apna College
 * [Complete Git Tutorials For Beginners In Hindi](https://youtube.com/playlist?list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi) - CodeWithHarry
 * [Git & GitHub Tutorial For Beginners In Hindi](https://www.youtube.com/watch?v=gwWKnnCMQ5c) - CodeWithHarry
 * [Git & GitHub Tutorial in Hindi](https://www.youtube.com/watch?v=NR_A2gCxaLE) - Edureka! Hindi
@@ -324,6 +327,7 @@
 * [JavaScript Introduction Tutorial in Hindi / Urdu](https://www.youtube.com/playlist?list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf) - Yahoo Baba
 * [JavaScript Tutorial for Beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4) - Telusko
 * [JavaScript Tutorial for Beginners (In Hindi)](https://www.youtube.com/playlist?list=PLwGdqUZWnOp1hqyT6h7pY0RlXIIGlE5U0) - Vinod Bahadur Thapa (Thapa Technical)
+* [JavaScript Tutorial for beginners in Hindi / Urdu](https://www.youtube.com/playlist?list=PLw9zMOoodWb5YB2TqrboVoSBkCKaOsvE_) - Husain Sir
 * [JavaScript Tutorials for Beginners in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR) - CodeWithHarry
 * [JavaScript Tutorials In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL) - CodeWithHarry
 * [Namaste JavaScript](https://youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP) - Akshay Saini
@@ -420,6 +424,7 @@
 ### Mongo DB
 
 * [Mongo DB full course for beginners](https://youtube.com/playlist?list=PLwGdqUZWnOp1P9xSsJg7g3AY0CUjs-WOa) -Thapa Technical
+* [MongoDB playlist in Hindi](https://youtube.com/playlist?list=PLA3GkZPtsafZydhN4nP0h7hw7PQuLsBv1&si=4Je3O9WkMYMu9cWO) - Engineering Digest
 * [MongoDB Tutorial for Beginners (Hindi)](https://www.youtube.com/playlist?list=PLgPJX9sVy92xUxpTFgAOSBHdBwIdxav39) - CS Geeks
 * [MongoDB tutorial in hindi](https://www.youtube.com/playlist?list=PLolI8AY2AS9aaE4Vx0adwfwUh3XiuVewX) - Code Improve
 * [MongoDB Tutorial in Hindi 2022](https://www.youtube.com/playlist?list=PLQDioScEMUhkcqbgJ4ap2k4zg3sT_-Bbc) - Programming Experience
@@ -531,3 +536,8 @@
 
 * [System Analysis and Design](https://www.youtube.com/playlist?list=PLWxTHN2c_6cbuRXdCpsYYMxy0N4SSfIX9) - TJ WEBDEV
 * [System Analysis and Design](https://www.youtube.com/playlist?list=PLi81x6d2Os_8Sa8HifiFruWK6wmgG3Wrg) - Gursimran Singh Dhillon
+
+
+### TypeScript
+
+* [Typescript Tutorial for Beginners in Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp0xfHQFmlL52b_6-QZ0mnk_) - Thapa Technical

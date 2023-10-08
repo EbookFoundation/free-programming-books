@@ -92,6 +92,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [A Field Guide To Genetic Programming](https://web.archive.org/web/20191020195105/http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/poli08_fieldguide.pdf) - Riccardo Poli, William B. Langdon, Nicholas F. McPhee (PDF) *(:card_file_box: archived)*
 * [Algorithm Design](https://archive.org/details/AlgorithmDesign1stEditionByJonKleinbergAndEvaTardos2005PDF) - Jon Kleinberg, Éva Tardos
 * [Algorithmic Graph Theory](https://code.google.com/p/graphbook/) - David Joyner, Minh Van Nguyen, David Phillips (PDF)
+* [Algorithmic Thinking](https://labuladong.gitbook.io/algo-en) - Donglai Fu
 * [Algorithms](https://en.wikibooks.org/wiki/Algorithms) - Wikibooks
 * [Algorithms, 4th Edition](http://algs4.cs.princeton.edu/home/) - Robert Sedgewick, Kevin Wayne
 * [Algorithms and Automatic Computing Machines (1963)](https://archive.org/details/Algorithms_And_Automatic_Computing_Machines) - B. A. Trakhtenbrot
@@ -103,6 +104,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Data Structures](https://adityacse.weebly.com/uploads/2/4/0/7/24078687/data-structures.pdf) - Aditya CSE (PDF)
 * [Data Structures](https://en.wikibooks.org/wiki/Data_Structures) - Wikibooks
 * [Data Structures (Into Java)](https://inst.eecs.berkeley.edu/~cs61b/fa14/book2/data-structures.pdf) - Paul N. Hilfinger (PDF)
+* [Data Structures and Algorithm Analysis in C++](https://people.cs.vt.edu/~shaffer/Book/C++3elatest.pdf) - Clifford A. Shaffer (PDF)
 * [Data Structures and Algorithms: Annotated Reference with Examples](https://web.archive.org/web/20170715160229/http://dotnetslackers.com/Community/files/folders/data-structures-and-algorithms/entry30283.aspx) - G. Barnett, L. Del Tongo *(:card_file_box: archived)*
 * [Data Structures Succinctly Part 1, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart1) - Robert Horvick
 * [Data Structures Succinctly Part 2, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart2) - Robert Horvick
@@ -240,6 +242,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Docker Jumpstart](https://odewahn.github.io/docker-jumpstart/) - Andrew Odewahn
 * [Docker Tutorial](https://people.irisa.fr/Anthony.Baire/docker-tutorial.pdf) - Anthony Baire (PDF)
 * [Docker Tutorial](https://www.tutorialspoint.com/docker/) - Tutorials Point (HTML, PDF)
+* [Dotnet Microservices Architecture for Containerized NET Applications](https://aka.ms/microservicesebook) - Cesar de la Torre, Bill Wagner, Mike Rousos (PDF)
 * [Kubernetes Deployment & Security Patterns](https://resources.linuxfoundation.org/LF+Projects/CNCF/TheNewStack_Book2_KubernetesDeploymentAndSecurityPatterns.pdf) - Alex Williams (PDF)
 * [Kubernetes for Full-Stack Developers](https://www.digitalocean.com/community/books/digitalocean-ebook-kubernetes-for-full-stack-developers) - Jamon Camisso, Hanif Jetha, Katherine Juell (PDF, EPUB)
 * [Uncomplicating Kubernetes](https://livro.descomplicandokubernetes.com.br/en/) - Jeferson Fernando
@@ -660,6 +663,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 
 ### Open Source Ecosystem
 
+* [500 lines or less](https://github.com/aosabook/500lines) - Build from Source Code
 * [Contributing to opensource: the right way](https://github.com/Mte90/Contribute-to-opensource-the-right-way) - Daniele Scasciafratte
 * [Data Journalism Handbook](http://datajournalismhandbook.org)
 * [Free as in Freedom: Richard Stallman and the free software revolution](https://archive.org/details/faif-2.0) - Sam Williams (PDF)
@@ -773,6 +777,7 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Quantum Computing
 
 * [Introduction to Classical and Quantum Computing](http://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf) - Thomas G. Wong (PDF)
+* [Introduction to Quantum Information](https://www.gla.ac.uk/media/Media_344957_smxx.pdf) - Stephen M. Barnett (PDF)
 * [Learn Quantum Computation using Qiskit](https://qiskit.org/textbook/preface.html) - Frank Harkins, et al. (HTML)
 * [Quantum Algorithms](https://arxiv.org/pdf/0808.0369v1) - Michele Mosca (PDF)
 * [Quantum Computing for the Quantum Curious](https://link.springer.com/book/10.1007/978-3-030-61601-4) - Ciaran Hughes, Joshua Isaacson, Anastasia Perry, Ranbel F. Sun, Jessica Turner (HTML, PDF, EPUB)

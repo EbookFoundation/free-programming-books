@@ -559,7 +559,7 @@
 
 * [CHEF Tutorial](https://www.youtube.com/playlist?list=PLsgnv1SN76ILtD3TnVtXpX1hmwjyY9OuT) - Online Tutorials
 * [Learning Chef](https://www.youtube.com/playlist?list=PLKK5zTDXqzFM53J6-rikDrqbbY0Pu-9SP) - Nathen Harvey
-* [Chef Tutorial – Transform Infrastructure Into Code](https://www.edureka.co/blog/chef-tutorial) - edureka
+* [Chef Tutorial – Transform Infrastructure Into Code](https://www.edureka.co/blog/chef-tutorial) - Edureka
 
 
 #### Jenkins

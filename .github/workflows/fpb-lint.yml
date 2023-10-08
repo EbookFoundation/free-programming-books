@@ -74,10 +74,21 @@ jobs:
         with:
           script: |
             github.rest.issues.deleteLabel({
-              issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
+              issue_number: context.issue.number,
               name: "linter error"
+            })
+        
+      - name: Get Label
+        if: steps.books.outcome == 'success' && steps.casts.outcome == 'success' && steps.courses.outcome == 'success' && steps.more.outcome == 'success'
+        uses: actions/github-script@v6
+        with:
+          script: |
+            github.rest.issues.listLabelsOnIssue({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
             })
 
       - name: Remove Label
@@ -86,12 +97,11 @@ jobs:
         with:
           script: |
             github.rest.issues.deleteLabel({
-              issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
+              issue_number: context.issue.number,
               name: "linter error"
             })
-        continue-on-error: true
 
       - name: Exit on success
         if: steps.books.outcome == 'success' && steps.casts.outcome == 'success' && steps.courses.outcome == 'success' && steps.more.outcome == 'success'

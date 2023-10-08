@@ -1811,11 +1811,19 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Practical PHP Testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
 * [Survive The Deep End: PHP Security](https://phpsecurity.readthedocs.org/en/latest/)
 * [Using Libsodium in PHP Projects](https://paragonie.com/book/pecl-libsodium)
+* [Pro PHP and jQuery, 2nd Edition](https://www.pdfdrive.com/pro-php-and-jquery-2nd-edition-take-your-dynamic-php-7-apps-to-the-next-level-by-adding-a-javascript-layer-using-jquery-e168116222.html) -  Jason Lengstorf & Keith Wald (PDF)
+* [Learning PHP, MySQL & JavaScript: With jQuery, CSS & HTML5](https://www.pdfdrive.com/learning-php-mysql-javascript-with-jquery-css-html5-e188490793.html) - Nixon Robin (PDF)
+* [PHP 7 Zend Certification Study Guide: Ace the ZCE 2017-PHP Exam](https://www.pdfdrive.com/php-7-zend-certification-study-guide-ace-the-zce-2017-php-exam-e183172004.html) -  Andrew Beak (PDF)
+* [Practical PHP 7, MySQL 8, and MariaDB Website Databases: A Simplified Approach to Developing ](https://www.pdfdrive.com/practical-php-7-mysql-8-and-mariadb-website-databases-a-simplified-approach-to-developing-database-driven-websites-e187206125.html) - Adrian W. West & Steve Prettyman (PDF)
+* [Design Patterns in PHP and Laravel](https://www.pdfdrive.com/design-patterns-in-php-and-laravel-e55291610.html) - Kelt Dockins (PDF)
+* [PHP Notes for Professionals book](https://books.goalkicker.com/PHPBook/) - (PDF)
+* [PHP Objects, Patterns, and Practice](https://www.pdfdrive.com/php-objects-patterns-and-practice-e188490653.html) - MATT ZANDSTRA (PDF)
 
 
 #### CakePHP
 
 * [CakePHP Cookbook 2.x](http://book.cakephp.org/2.0/_downloads/en/CakePHPCookbook.pdf) (PDF)
+* [Learn CakePHP: With Unit Testing](https://www.pdfdrive.com/learn-cakephp-with-unit-testing-e183822850.html) - Rādhārādhya Dāsa (PDF)
 
 
 #### CodeIgniter
@@ -1838,6 +1846,9 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Laravel: Code Smart](https://daylerees.com/codesmart/) - Dayle Rees
 * [Laravel Tips and Tricks](https://github.com/bobbyiliev/laravel-tips-and-tricks-ebook) - Bobby Iliev (Markdown, PDF)
 * [Learning Laravel](https://riptutorial.com/Download/laravel.pdf) - Compiled from StackOverflow Documentation (PDF)
+* [Laravel: Up & Running: A Framework for Building Modern PHP Apps - Second Edition](https://www.pdfdrive.com/laravel-up-running-a-framework-for-building-modern-php-apps-e189833029.html) - Matt Stauffer (PDF)
+* [Laravel: Up & Running: A Framework for Building Modern PHP Apps - First Edition](https://www.pdfdrive.com/laravel-up-and-running-a-framework-for-building-modern-php-apps-e185389478.html) - Matt Stauffer (PDF)
+* [Design Patterns in PHP and Laravel](https://www.pdfdrive.com/design-patterns-in-php-and-laravel-e55291610.html) - Kelt Dockins (PDF)
 
 
 #### Symfony

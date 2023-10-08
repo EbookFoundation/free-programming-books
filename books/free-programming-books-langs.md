@@ -562,10 +562,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Chapel Tutorial for Programmers](http://web.archive.org/web/20150310075109/http://cs.colby.edu/kgburke/?resource=chapelTutorial) *(:card_file_box: archived)*
 
 
-### Cilk
-
-
-
 ### Clojure
 
 * [Clojure](https://clojure-book.gitlab.io) - Karthikeyan A K

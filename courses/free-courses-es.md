@@ -1,5 +1,6 @@
 ### Índice
 
+* [ABAP](#abap)
 * [Android](#android)
 * [Arduino](#arduino)
 * [Bases de Datos](#bases-de-datos)
@@ -16,12 +17,19 @@
 * [Redes](#redes)
 * [Redes de telefonía](#redes-de-telefon&#x00ED;a)
 * [Robótica](#rob&#x00F3;tica)
+* [SAP](#Sap)
 * [Seguridad](#seguridad)
 * [Servidores](#servidores)
 * [Sistemas de gestión de contenidos / CMS](#sistemas-de-gesti&#x00F3;n-de-contenidos--cms)
 * [Técnico de Software & Hardware](#t&#x00E9;cnico-de-software--hardware)
 * [Videojuegos](#videojuegos)
+* [VS Code](#VS-Code)
 * [Web & Webmaster](#web--webmaster)
+
+
+### ABAP
+
+* [SAP ABAP Programación Iniciación](https://www.udemy.com/course/sap-abap-iniciacion-a-la-programacion/) - Logali Group
 
 
 ### Android
@@ -32,12 +40,13 @@
 * [Aprende a programar tu primera app](https://www.edx.org/es/course/jugando-con-android-aprende-programar-tu-uamx-android301x-4)
 * [Introducción a la programación Android](https://www.edx.org/es/course/android-introduccion-la-programacion-upvalenciax-aip201x-1)
 * [Introducción a la programación Android](https://campusvirtual.ull.es/ocw/course/view.php?id=130)
-* [Material Design con Android Studio](https://www.youtube.com/playlist?list=PLEtcGQaT56ch37mnavd8p5cbnkDvXLGsX) - Jesús Conde (YouTube)
+* [Material Design con Android Studio](https://www.youtube.com/playlist?list=PLEtcGQaT56ch37mnavd8p5cbnkDvXLGsX) - Jesús Conde
 
 
 ### Arduino
 
 * [Arduino, creando aplicaciones](https://www.coursera.org/learn/arduino-aplicaciones)
+* [Curso Arduino desde cero en Español fácil y didáctico](https://www.youtube.com/playlist?list=PLkjnQ3NFTPnY1eNyLDGi547gkVui1vyn2) - Bitwise Ar
 
 
 ### Bases de Datos
@@ -75,7 +84,7 @@
 ### Control de Versiones
 
 * [Git & GitHub](https://www.pildorasinformaticas.es/course/curso-de-git-github) - Juan Díaz (Píldoras Informáticas)
-* [Git & GitHub](https://www.youtube.com/playlist?list=PLPl81lqbj-4I8i-x2b5_MG58tZfgKmJls) - Ignacio Gutiérrez, BlueWeb (YouTube)
+* [Git & GitHub](https://www.youtube.com/playlist?list=PLPl81lqbj-4I8i-x2b5_MG58tZfgKmJls) - Ignacio Gutiérrez, BlueWeb
 
 
 ### Flujos de Trabajo
@@ -150,6 +159,7 @@
 * [Clojure](https://programadorwebvalencia.com/cursos/clojure/introducci%C3%B3n/) - Andros Fenollosa (Programador Web Valencia)
 * [Curso C#](https://www.pildorasinformaticas.es/course/curso-c) - Juan Díaz (Píldoras Informáticas)
 * [Curso de JavaScript Gratis](https://codigofacilito.com/cursos/javascript) - Código Facilito
+* [Curso de PHP/MySQL](https://www.youtube.com/playlist?list=PLU8oAlHdN5BkinrODGXToK9oPAlnJxmW_) - Juan Díaz (Píldoras informáticas) 
 * [Curso de Python gratis y con certificación](https://edutin.com/curso-de-python-4276) - Edutin
 * [Curso Gratis de Programación Básica](https://platzi.com/clases/programacion-basica/) - Platzi
 * [Curso Gratis de Ruby](https://codigofacilito.com/cursos/ruby-2) - Código Facilito
@@ -174,7 +184,7 @@
 * [Programación en lenguaje ADA (2010)](https://ocw.unican.es/course/view.php?id=185)
 * [Programación en lenguaje Java (2008)](http://ocw.uc3m.es/historico/programacion-java)
 * [Programación en lenguaje Java (2009)](https://ocw.unican.es/course/view.php?id=217)
-* [Programación en lenguaje Java (2015)](https://ocw.unican.es/course/view.php?id=26)
+* [Programación en lenguaje Java (2015)](https://ocw.unican.es/course/view.php?id=240)
 * [Programación en paralelo -Perl- (2012)](https://campusvirtual.ull.es/ocw/course/view.php?id=44)
 * [Programación para principiantes - primeros pasos](https://www.udemy.com/course/programacion-para-principiantes) - Fernando Herrera (Udemy)
 * [Programación POO (2011)](https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-3-2011.html)
@@ -186,17 +196,19 @@
 
 ### Programación Web & Móvil
 
+* [Angular: Convierte cualquier template HTML en una WebAPP - Gratis](https://www.udemy.com/course/html-hacia-angular/) - Fernando Herrera (Udemy)
 * [Aplicaciones Web Avanzadas (2014)](http://ocw.uv.es/ingenieria-y-arquitectura/aplicaciones-web-avanzadas/Course_listing)
+* [Bootcamp Angular gratis](https://open-bootcamp.com/cursos/angular) - Open Bootcamp
 * [CSS Básico a Avanzado](https://www.pildorasinformaticas.es/course/css-avanzado-desde-0) - Juan Díaz (Píldoras Informáticas)
 * [Curso gratuito de JavaScript](https://argentinaprograma.com) - Fabricio Sodano (Argentina Programa)
-* [Curso gratuito de Next.js y Firebase](https://www.youtube.com/playlist?list=PLV8x_i1fqBw1VR86y4C72xMGJ8ifjBwJ6) - Miguel Ángel Durán «midudev» (YouTube)
+* [Curso gratuito de Next.js y Firebase](https://www.youtube.com/playlist?list=PLV8x_i1fqBw1VR86y4C72xMGJ8ifjBwJ6) - Miguel Ángel Durán «midudev»
 * [Curso JSON. De Novato a Experto](https://www.youtube.com/playlist?list=PLrDTf5qnZdEAiHO19QB9hq5QXAef1h8oY) - Camilo Martínez "Equimancho"
-* [Curso React.js desde cero - Crea una aplicación paso a paso](https://www.youtube.com/playlist?list=PLV8x_i1fqBw0B008sQn79YxCjkHJU84pC) - Miguel Ángel Durán «midudev» (YouTube)
+* [Curso React.js desde cero - Crea una aplicación paso a paso](https://www.youtube.com/playlist?list=PLV8x_i1fqBw0B008sQn79YxCjkHJU84pC) - Miguel Ángel Durán «midudev»
 * [Detección de objetos](https://www.coursera.org/learn/deteccion-objetos)
 * [Diseño Web - Principios de CSS](https://programadorwebvalencia.com/cursos/css/introducci%C3%B3n/) - Andros Fenollosa (Programador Web Valencia)
 * [Diseño Web - Principios de HTML](https://programadorwebvalencia.com/cursos/html/introducci%C3%B3n/) - Andros Fenollosa (Programador Web Valencia)
 * [Full Stack open: profundización en el desarrollo web moderno](https://fullstackopen.com/es/) - Universidad de Helsinki, Houston Inc., Terveystalo, Elisa, K-ryhmä, Unity Technologies, Konecranes
-* [FullStack JavaScript Bootcamp \| JavaScript, React.js, GraphQL, Node.js, TypeScript y +](https://www.youtube.com/playlist?list=PLV8x_i1fqBw0Kn_fBIZTa3wS_VZAqddX7) - Miguel Ángel Durán «midudev» (YouTube)
+* [FullStack JavaScript Bootcamp \| JavaScript, React.js, GraphQL, Node.js, TypeScript y +](https://www.youtube.com/playlist?list=PLV8x_i1fqBw0Kn_fBIZTa3wS_VZAqddX7) - Miguel Ángel Durán «midudev»
 * [HTML 5](https://www.pildorasinformaticas.es/course/html-5) - Juan Díaz (Píldoras Informáticas)
 * [Introducción a HTML & CSS](https://www.aulaclic.es/html/index.htm) (HTML)
 * [PHP MySql Módulo 1](https://www.pildorasinformaticas.es/course/php-mysql) - Juan Díaz (Píldoras Informáticas)
@@ -207,7 +219,7 @@
 
 ### Redes
 
-* [Aplicaciones y servicios en redes](https://ocw.unican.es/course/view.php?id=32)
+* [Aplicaciones y servicios en redes](https://ocw.unican.es/course/view.php?id=148)
 * [Conmutación (2012)](http://ocw.bib.upct.es/course/view.php?id=129)
 * [Dimensionamiento y planificación de redes (2015)](https://ocw.unican.es/course/view.php?id=19)
 * [Diseño y operación de redes telemáticas (2015)](https://ocw.unican.es/course/view.php?id=22)
@@ -248,7 +260,7 @@
 
 ### Sistemas de gestión de contenidos / CMS
 
-* [CURSO de WORDPRESS (Desde Cero) - 2020](https://www.youtube.com/playlist?list=PLs-v5LWbw7JnwF9RquAuuxLi-Ha1rths6) - Academia Coder (YouTube)
+* [CURSO de WORDPRESS (Desde Cero) - 2020](https://www.youtube.com/playlist?list=PLs-v5LWbw7JnwF9RquAuuxLi-Ha1rths6) - Academia Coder
 
 
 ### Técnico de Software & Hardware
@@ -273,6 +285,12 @@
 * [Scratch. Una introducción a la programación](https://www.coursera.org/learn/a-programar)
 
 
+### VS Code
+
+* [Visual Studio Code: Mejora tu velocidad para codificar](https://www.udemy.com/course/vscode-mejora-tu-velocidad-para-codificar/) - Fernando Herrera
+
+
 ### Web & Webmaster
 
 * [Como crear y administrar un curso en MOODLE - TecNMx](https://mooc.tecnm.mx/courses/course-v1:TecNM+CCACM-003+2022-3/about) (TecNMx)
+* [Visual Studio Code: Mejora tu velocidad para codificar](https://www.udemy.com/course/vscode-mejora-tu-velocidad-para-codificar/) - Fernando Herrera (udemy)

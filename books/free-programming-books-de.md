@@ -18,7 +18,7 @@
 * [JavaScript](#javascript)
     * [React](#react)
 * [LaTeX](#latex)
-* [Mathematik](#mathematik)
+* [Linux](#linux)
 * [Meta-Lists](#meta-lists)
 * [MySQL](#mysql)
 * [Neo4j](#neo4j)
@@ -27,12 +27,15 @@
     * [Symfony](#symfony)
 * [Python](#python)
     * [Django](#django)
+* [R](#r)
 * [Ruby on Rails](#ruby-on-rails)
+* [Rust](#rust)
+* [Sage](#sage)
 * [Scilab](#scilab)
 * [Scratch](#scratch)
 * [Shell](#shell)
 * [UML](#uml)
-* [Unabhängig von der Programmiersprache](#unabh%C3%A4ngig-von-der-programmiersprache)
+* [Unabhängig der Programmiersprache](#unabhängig-der-programmiersprache)
 * [Unix](#unix)
 * [VHDL](#vhdl)
 * [Visual Basic](#visual-basic)
@@ -65,7 +68,6 @@
 
 * [C-Programmierung](https://de.wikibooks.org/wiki/C-Programmierung) - Wikibooks (HTML)
 * [C von A bis Z](http://openbook.rheinwerk-verlag.de/c_von_a_bis_z) - Jürgen Wolf (Online)
-* [Socket Programmierung in C](http://www.tobscore.com/socket-programmierung-in-c) - Brian "Beej Jorgensen" Hall, Übersetzt von Tobias Kerst (HTML)
 * [Softwareentwicklung in C](https://web.archive.org/web/20190214185910/http://www.asc.tuwien.ac.at/~eprog/download/schmaranz.pdf) - Klaus Schmaranz (PDF)
 
 
@@ -91,7 +93,7 @@
 
 ### Delphi
 
-* [Delphi-Starter](https://web.archive.org/web/https://downloads.delphi-treff.de/DelphiStarter.pdf) - Florian Hämmerle, Martin Strohal, Christian Rehn, Andreas Hausladen (PDF) *(:card_file_box: archived)*    
+* [Delphi-Starter](https://web.archive.org/web/20170714162427/https://downloads.delphi-treff.de/DelphiStarter.pdf) - Florian Hämmerle, Martin Strohal, Christian Rehn, Andreas Hausladen (PDF) *(:card_file_box: archived)*
 
 
 ### Git
@@ -137,8 +139,9 @@
 * [Java ist auch eine Insel](http://openbook.rheinwerk-verlag.de/javainsel) - Christian Ullenboom (Online)
 * [Java SE 8 Standard-Bibliothek](http://openbook.rheinwerk-verlag.de/java8) - Christian Ullenboom (Online)
 * [Java Tutorial - Java lernen leicht gemacht](https://java-tutorial.org/index.php) - Björn und Britta Petri
-* [Programmieren Java: Aufbau](http://www.highscore.de/java/aufbau)
-* [Programmieren Java: Einführung](http://www.highscore.de/java/einfuehrung)
+* [Nebenläufige Programmierung mit Java](https://www.assets.dpunkt.de/openbooks/Hettel_Nebenlaeufige%20Programmierung%20mit%20Java_Broschuere.pdf) - Jörg Hettel und Manh Tien Tran (PDF)
+* [Programmieren Java: Aufbau](http://www.highscore.de/java/aufbau) - Boris Schäling (HTML)
+* [Programmieren Java: Einführung](http://www.highscore.de/java/einfuehrung) - Boris Schäling (HTML)
 * [Testgetriebene Entwicklung mit JUnit & FIT](http://www.frankwestphal.de/ftp/Westphal_Testgetriebene_Entwicklung.pdf) - Frank Westphal (PDF)
 
 
@@ -146,7 +149,7 @@
 
 * [JavaScript](http://www.peterkropff.de/site/javascript/javascript.htm) - Peter Kropff (Grundlagen, AJAX, DOM, OOP) (Online, PDF)
 * [JavaScript und AJAX](http://openbook.rheinwerk-verlag.de/javascript_ajax) - Christian Wenz (Online)
-* [Webseiten erstellen mit Javascript](http://www.highscore.de/javascript)
+* [Webseiten erstellen mit Javascript](http://www.highscore.de/javascript) - Boris Schäling (HTML)
 
 
 #### React
@@ -158,12 +161,13 @@
 
 * [LaTeX - eine Einführung und ein bisschen mehr ...](http://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a026_latex_einf.pdf) - Manuela Jürgens, Thomas Feuerstack (PDF)
 * [LaTeX - Forteschrittene Anwendungen (oder: Neues von den Hobbits)](http://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a027_latex_fort.pdf) - Manuela Jürgens (PDF)
-* [LaTeX : Referenz der Umgebungen, Makros, Längen und Zähler](http://www.lehmanns.de/page/latexreferenz)
+* [LaTeX : Referenz der Umgebungen, Makros, Längen und Zähler](http://www.lehmanns.de/page/latexreferenz) - Herbert Voß (PDF)
 
 
-### Mathematik
+### Linux
 
-* [Calcul mathématique avec SAGE](http://www.loria.fr/~zimmerma/sagebook/CalculDeutsch.pdf) - Paul Zimmermann, et al. (PDF)
+* [Debian GNU/Linux Anwenderhandbuch](https://debiananwenderhandbuch.de) - Frank Ronneburg (HTML)
+* [Linux - Das umfassende Handbuch](https://openbook.rheinwerk-verlag.de/linux/) - Johannes Plötner, Steffen Wendzel (HTML)
 
 
 ### Meta-Lists
@@ -212,6 +216,11 @@
 * [Django Girls Tutorial](https://tutorial.djangogirls.org/de) (1.11) (HTML) (:construction: *in process*)
 
 
+### R
+
+* [Einführung in R](https://methodenlehre.github.io/einfuehrung-in-R/) - Andrew Ellis, Boris Mayer (HTML)
+
+
 ### Ruby on Rails
 
 * [Praxiswissen Ruby](https://web.archive.org/web/20160328183933/https://oreilly.de/german/freebooks/rubybasger/pdf_rubybasger.pdf) - Sascha Kersken (PDF) *(:card_file_box: archived)*
@@ -219,6 +228,16 @@
 * [Rails Kochbuch](http://examples.oreilly.de/openbooks/pdf_railsckbkger.pdf) - Rob Orsini (PDF)
 * [Ruby on Rails 2](http://openbook.rheinwerk-verlag.de/ruby_on_rails/) - Hussein Morsy, Tanja Otto (Online)
 * [Ruby on Rails 3.2 für Ein-, Um- und Quereinsteiger](http://ruby-auf-schienen.de/3.2/) (Online)
+
+
+### Rust
+
+* [Die Programmiersprache Rust](https://rust-lang-de.github.io/rustbook-de/) - Steve Klabnik, Carol Nichols, Übersetzung durch die Rust-Gemeinschaft (HTML)
+
+
+### Sage
+
+* [Rechnen mit SageMath](https://www.loria.fr/~zimmerma/sagebook/CalculDeutsch.pdf) - Paul Zimmermann, et al. (PDF)
 
 
 ### Scilab
@@ -238,10 +257,10 @@
 
 ### UML
 
-* [Der moderne Softwareentwicklungsprozess mit UML](http://www.highscore.de/uml)
+* [Der moderne Softwareentwicklungsprozess mit UML](http://www.highscore.de/uml) - Boris Schäling (HTML)
 
 
-### Unabhängig von der Programmiersprache
+### Unabhängig der Programmiersprache
 
 * [Clean Code Developer: Eine Initiative für mehr Professionalität in der Softwareentwicklung](http://clean-code-developer.de) (Online)
 * [IT-Handbuch für Fachinformatiker](http://openbook.rheinwerk-verlag.de/it_handbuch) - Sascha Kersken (Online)

@@ -3,12 +3,12 @@
 
 ## Acordo de Licença do Contribuidor
 
-Ao contribuir você concorda com a [LICENSE](../LICENSE) deste repositório.
+Ao contribuir você concorda com a [LICENÇA](../LICENSE) deste repositório.
 
 
 ## Código de Conduta do Contribuidor
 
-Ao contribuir você concorda em respeitar o [Código de Conduta](CODE_OF_CONDUCT-pt_BR.md) deste repositório. ([translations](README.md#translations))
+Ao contribuir você concorda em respeitar o [Código de Conduta](CODE_OF_CONDUCT-pt_BR.md) deste repositório. ([traduções](README.md#translations))
 
 
 ## Em poucas palavras
@@ -23,8 +23,8 @@ Ao contribuir você concorda em respeitar o [Código de Conduta](CODE_OF_CONDUCT
     - *Livros*: PDF, HTML, ePub, sites baseados no gitbook.io, um repositório Git, etc.
     - *Cursos*: Um curso é um material didático que não é um livro. [Isso é um curso](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
     - *Tutoriais Interativos*: Um site interativo que permite ao usuário digitar código ou comandos e computa o resulta (por "computar" não queremos dizer "avaliar"). Por exemplo: [Try Haskell](http://tryhaskell.org), [Try GitHub](http://try.github.io).
-    - *Playgrounds* : are online and interactive websites, games or desktop software for learning programming. Write, compile (or run), and share code snippets. Playgrounds often allow you to fork and get your hands dirty by playing with code.
-    - *Podcasts e Screencasts* : Podcasts e screencasts.
+    - *Playgrounds* : são websites interativos, jogos ou aplicativos para aprender programação. Escreve, compila (ou roda), e compartilha techos de código. Playgrounds quase sempre permitem que se realize um _fork_ no código e coloque a mão na massa.
+    - *Podcasts e Screencasts* : Podcasts e Vídeocasts.
     - *Conjuntos de Problemas e Programação Competitiva* : Um site ou software que permite avaliar suas habilidades de programação através da resolução de problemas simples ou complexos, com ou sem revisão de código, com ou sem comparação de resultados com outros usuários.
 
 4. Certifique-se de seguir as [diretrizes abaixo](#diretrizes) e respeitar a [formatação de Markdown](#formatação) dos arquivos.
@@ -36,9 +36,9 @@ Ao contribuir você concorda em respeitar o [Código de Conduta](CODE_OF_CONDUCT
 
 - certifique-se de que o livro é gratuito. Verifique múltiplas vezes se necessário. Comentar no PR por quê você acha que o livro é gratuito ajuda os administradores.
 - não aceitamos arquivos hospedados no Google Drive, Dropbox, Mega, Scribd, Issuu e outras plataformas similares de _upload_ de arquivos.
-- insira seus _links_ em ordem alfabética, as described [below](#alphabetical-order).
+- insira seus _links_ em ordem alfabética, como descrito [abaixo](#alphabetical-order).
 - use o _link_ com a fonte mais oficial (isso significa que o site do próprio autor é melhor que o site da editora, que é melhor que sites de terceiros)
-    - sem serviços de hospedagem de arquivos (isso inclui (mas não se limita a) _links_ do Dropbox e Google Drive)
+    - sem serviços de hospedagem de arquivos (isso inclui, mas não se limita a, _links_ do Dropbox e Google Drive)
 - sempre prefira um _link_ `https` em vez de `http` -- desde que estejam no mesmo domínio e sirvam o mesmo conteúdo.
 - em domínios raiz, remova a barra final: `http://exemplo.com` ao invés de `http://exemplo.com/`
 - sempre prefira o _link_ mais curto: `http://exemplo.com/dir/` é melhor que `http://exemplo.com/dir/index.html`
@@ -56,13 +56,13 @@ Ao contribuir você concorda em respeitar o [Código de Conduta](CODE_OF_CONDUCT
 - se o livro for mais antigo, inclua a data de publicação no título.
 - inclua o(s) nome(s) do(s) autor(es) onde for apropriado. Você pode encurtar a lista de autores com "`et al`".
 - se o livro não estiver completo, e ainda está sendo escrito, adicione a notação "`in process`", como descrito [abaixo](#in_process).
-- if a resource is restored using the [*Internet Archive's Wayback Machine*](https://web.archive.org) (or similar), add the "`archived`" notation, as described [below](#archived). The best versions to use are recent and complete.
+- Se um recurso for restaurado utilizando a [*Internet Archive's Wayback Machine*](https://web.archive.org) (ou similar), adicione a notação "`archived`", como descrito [abaixo](#archived). As melhores versões para uso são recentes e completas.
 - se um endereço de email ou configuração de conta for solicitado antes que o _download_ seja habilitado, adicione uma observação no idioma apropriado e entre parênteses. Por exemplo: `(endereço de email é *pedido*, não obrigatório)`.
 
 
 ### Formatação
 
-- Todas as listas são arquivos `.md`. Tente aprender a sintaxe de  [Markdown](https://guides.github.com/features/mastering-markdown/). É simples!
+- Todas as listas são arquivos `.md`. Tente aprender a sintaxe de [Markdown](https://guides.github.com/features/mastering-markdown/). É simples!
 - Todas as listas começam com um Índice. A ideia é listar e "_linkar_" todas as seções e subseções lá. Mantenha-o em ordem alfabética.
 - Seções são títulos de nível 3 (`###`), e subseções são títulos de nível 4 (`####`).
 
@@ -143,10 +143,10 @@ Exemplo:
 
 ### Alphabetical order
 
-- When there are multiple titles beginning with the same letter order them by the second, and so on. For example: `aa` comes before `ab`.
-- `one two` comes before `onetwo`
+- Quando há múltiplos títulos começando com a mesma letra, ordene-os pela segunda letra e assim por diante. Por exemplo: `aa` vem antes de `ab`.
+- `um dois` vem antes de `umdois`
 
-If you see a misplaced link, check the linter error message to know which lines should be swapped.
+Se observar um link no lugar errado, verifique a mensagem de erro no linter para saber quais linhas devem ser trocadas.
 
 
 ### Observações
@@ -163,7 +163,7 @@ Nossas listas fornecem um conjunto mínimo de metadados: títulos, URLs, criador
 
 - Sem títulos inventados. Tentamos utilizar os títulos dos próprios materiais; contribuidores são aconselhados a não inventar títulos ou usá-los editorialmente se possível evitar. Uma exceção é para trabalhos antigos; se forem primariamente de interesse histórico, o ano entre parênteses adicionado ao título ajuda os usuários a saber se é de seu interesse.
 - Sem título EM CAIXA ALTA. Normalmente "_title case_" é apropriado. Em caso de dúvida, use a capitalização da fonte.
-- No emojis.
+- Nada de emojis.
 
 
 ##### URLs
@@ -171,22 +171,22 @@ Nossas listas fornecem um conjunto mínimo de metadados: títulos, URLs, criador
 - Não permitimos encurtadores de URLs.
 - Códigos de rastreamento devem ser removidos da URL.
 - URLs internacionais devem ser escapadas. Barras de endereço dos navegadores normalmente renderizam eles em Unicode, mas use copiar e colar, por favor.
-- URLs seguras (`https`) sempre são preferidas no lugar de URLs não-seguras (`http`) quando HTTPS estiver disponível.
+- URLs seguras (`https`) sempre são preferidas no lugar de URLs não-seguras (`http`) quando a HTTPS estiver disponível.
 - Não gostamos de URLs que apontam para páginas que não hospedam o material listado, mas apontam para outro lugar.
 
 
 ##### Criadores
 
 - Queremos creditar os criadores do material gratuito apropriadamente, incluindo tradutores!
-- Para trabalhos traduzidos, o autor original deve ser creditado. We recommend using [MARC relators](https://loc.gov/marc/relators/relaterm.html) to credit creators other than authors, as in this example:
+- Para trabalhos traduzidos, o autor original deve ser creditado. Recomendamos utilizar [MARC relators](https://loc.gov/marc/relators/relaterm.html) para creditar criadores tanto quanto autores, como no exemplo:
 
     ```markdown
-    * [A Translated Book](http://example.com/book-pt_BR.html) - John Doe, `trl.:` Mike The Translator
+    * [Um Livro Traduzido](http://example.com/book-pt_BR.html) - Fulano de Tal, `trl.:` Beltrano O Tradutor
     ```
 
-    here, the annotation `trl.:` uses the MARC relator code for "translator".
-- Use a comma `,` to delimit each item in the author list.
-- You can shorten author lists with "`et al.`".
+    aqui a marcação `trl.:` utiliza o código MARC ralator para "tradutor".
+- Use vírgula `,` para delimitar cada ítem na lista de autores.
+- Você pode encurtar a lista de autores com "`et al.`".
 - Não permitimos _links_ para Criadores.
 - Para compilações ou trabalhos remixados, o "criador" pode precisar de uma descrição. Por exemplo, os livros "GoalKicker" ou "RIP Tutorial" são creditados como "`Compilado da documento do StackOverflow`" (em inglês: "`Compiled from StackOverflow documentation`").
 
@@ -211,7 +211,7 @@ Dada a vastidão da Internet, não incluimos em nossas listas:
 - blogs
 - posts de blog
 - artigos
-- sites (exceto aquela que hospedam MUITOS dos items que listamos).
+- sites (exceto aquela que hospedam MUITOS dos ítens que listamos).
 - vídeos que não são cursos ou screencasts.
 - capítulos de livros.
 - amostras de livros

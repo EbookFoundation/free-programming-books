@@ -3,10 +3,10 @@
 * [0 - Méta-listes](#0---méta-listes)
 * [1 - Non dépendant du langage](#1---non-dépendant-du-langage)
     * [Algorithmique](#algorithmique)
-    * [IDE and editors](#ide-and-editors)
+    * [IDE et éditeurs de texte](#ide-et-editeurs-de-texte)
     * [Logiciels libres](#logiciels-libres)
     * [Makefile](#makefile)
-    * [Pédagogie pour enfants et adolescents](#pédagogie-pour-enfants-et-adolescents)
+    * [Pédagogie pour les enfants et adolescents](#pédagogie-pour-les-enfants-et-adolescents)
     * [Théorie des langages](#théorie-des-langages)
 * [Ada](#ada)
 * [Assembleur](#assembleur)
@@ -67,7 +67,7 @@
 * [Prologin](https://prologin.org)
 
 
-#### IDE and editors
+#### IDE et éditeurs de texte
 
 * [Learn Vim Progressively](http://yannesposito.com/Scratch/fr/blog/Learn-Vim-Progressively/) - Yann Esposito
 * [Vim pour les humains](https://vimebook.com/fr) - Vincent Jousse (le livre n'est pas **gratuit** mais **à prix libre**)
@@ -87,7 +87,7 @@
 * [Introduction aux Makefile](http://eric.bachard.free.fr/UTBM_LO22/P07/C/Documentation/C/make/intro_makefile.pdf) (PDF)
 
 
-#### Pédagogie pour enfants et adolescents
+#### Pédagogie pour les enfants et adolescents
 
 * [Activités débranchées](https://pixees.fr/?cat=612) Catalogue de ressource pour apprendre l'informatique sans ordinateur.
 * [Apprendre l'informatique sans ordinateur](https://interstices.info/enseigner-et-apprendre-les-sciences-informatiques-a-lecole/) - Tim Bell, Ian H. Witten, `trl.:` Mike Fellows
@@ -224,11 +224,6 @@
 * [Traité de programmation en Common Lisp](http://dept-info.labri.fr/~strandh/Teaching/Programmation-Symbolique/Common/Book/HTML/programmation.html) - Robert Strandh, Irène Durand
 
 
-### Mathématiques
-
-* [Calcul mathématique avec Sage](https://web.archive.org/web/20210715234128/http://sagebook.gforge.inria.fr/) - Paul Zimmermann, et al. *(:card_file_box: archived)*
-
-
 ### Lua
 
 * [Introduction à la programmation Lua](http://www.luteus.biz/Download/LoriotPro_Doc/LUA/LUA_Training_FR/Introduction_Programmation.html)
@@ -254,7 +249,8 @@
 
 #### Symfony
 
-* [En route pour Symfony 5](https://symfony.com/doc/5.0/the-fast-track/fr/index.html) - Fabien Potencier
+* [En route pour Symfony 5.4](https://symfony.com/doc/5.4/the-fast-track/fr/index.html) - Fabien Potencier
+* [En route pour Symfony 6.2](https://symfony.com/doc/current/the-fast-track/fr/index.html) - Fabien Potencier
 
 
 ### Processing
@@ -265,7 +261,7 @@
 ### Python
 
 * [Apprendre à programmer avec Python](http://inforef.be/swi/python.htm) - Gerard Swinnen
-* [Introduction à la programmation](https://self-learning.info.ucl.ac.be/index/info1-exercises) (Inscription gratuite sur le site. Pour réaliser les exercices sur INGInious.org, créez-vous un compte gratuitement et lier ensuite votre compte self-learning à votre compte INGInious. )
+* [Introduction à la programmation](https://self-learning.info.ucl.ac.be/index/info1-exercises) (Inscription gratuite sur le site. Pour réaliser les exercices sur INGInious.org, créez-vous un compte gratuitement et liez ensuite votre compte self-learning à votre compte INGInious. )
 * [Le guide de l’auto-stoppeur pour Python!](https://python-guide-fr.readthedocs.io/fr/latest/) - Kenneth Reitz
 * [Une introduction à Python 3](https://perso.limsi.fr/pointal/python:courspython3) - Bob Cordeau, Laurent Pointal
 
@@ -284,7 +280,7 @@
 ### Ruby
 
 * [Ruby en vingt minutes](https://www.ruby-lang.org/fr/documentation/quickstart/)
-* [Venir à Ruby après un autre language](https://www.ruby-lang.org/fr/documentation/ruby-from-other-languages/)
+* [Venir à Ruby après un autre langage](https://www.ruby-lang.org/fr/documentation/ruby-from-other-languages/)
 
 
 #### Ruby on Rails
@@ -300,7 +296,7 @@
 
 ### Sage
 
-* [Calcul mathématique avec Sage](https://hal.inria.fr/inria-00540485/file/sagebook-web-20130530.pdf) - A. Casamayou, N. Cohen, G. Connan, T. Dumont, L. Fousse, F. Maltey, M. Meulien, M. Mezzarobba, C. Pernet, N. M. Thiéry, P. Zimmermann (PDF)
+* [Calcul mathématique avec Sage](https://hal.inria.fr/inria-00540485/file/sagebook-web-20130530.pdf) - P. Zimmermann, et al. (PDF)
 
 
 ### Scilab

@@ -176,7 +176,7 @@
 * [Java SE Módulo 2](https://www.pildorasinformaticas.es/course/java-desde-0/java-desde-0-modulo-2) - Juan Díaz (Píldoras Informáticas)
 * [Java SE Módulo 3](https://www.pildorasinformaticas.es/course/java-desde-0/java-desde-0-modulo-3) - Juan Díaz (Píldoras Informáticas)
 * [Java SE Módulo 4](https://www.pildorasinformaticas.es/course/java-desde-0/java-desde-0-modulo-4) - Juan Díaz (Píldoras Informáticas)
-* [Java script INICIACIÓN](https://edutin.com/curso-de-javascript-4284) By Edutin Academy USA
+* * [Java script INICIACIÓN](https://edutin.com/curso-de-javascript-4284) By Edutin Academy USA
 * [JavaScript Básico a Avanzado](https://www.pildorasinformaticas.es/course/javascript-desde-0) - Juan Díaz (Píldoras Informáticas)
 * [Linux y Bash](https://aprendeaprogramar.com/course/view.php?id=10) - Javier Hernandez (Aprendeaprogramar.com)
 * [Lógica de programación](https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=7929) - Carlos Slim Foundation (cuenta requerida)

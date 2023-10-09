@@ -54,6 +54,7 @@
 * [C - All you need to know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVASsjyqiNzgjUWHbDkN2Scy) - Stack Learner
 * [C Programming Bangla Tutorial Course](https://www.youtube.com/playlist?list=PLgH5QX0i9K3pCMBZcul1fta6UivHDbXvz) - Anisul Islam
 * [C Programming Bangla Tutorial](https://youtube.com/playlist?list=PLdl6zXgLsy3zwNjSMiYlOZOr20sykTfgo) - Bangla Coding Tutor
+* [C Programming Bangla Tutorial For Beginners 2023](https://youtube.com/playlist?list=PLNMnAEqLBwmrwDSycdTLsvZBhmK5kOtgV) - Hablu Programmer
 * [Pattern Printing in C](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oTxQhx2kejYmQn6qtRULCD) - Anisul Islam
 * [C Programming in Bangla - from Zero to Hero](https://www.udemy.com/course/c-programming-in-bangla/) - Ministry of Codes (MoC), Prapty Rahman
 
@@ -86,6 +87,7 @@ Shikkhangon BD
 
 ### Docker
 
+* [Docker Tutorial](https://www.youtube.com/playlist?list=PLSNRR4BKcowAuPUEja_ZZUE5Szn1rx90f) - Procoder BD
 * [Docker Tutorial Course](https://www.youtube.com/playlist?list=PLEYpvDF6qy8Yo9SpzhniLCjgRIxCpo2ku) - Foyzul Karim
 
 
@@ -197,6 +199,7 @@ Shikkhangon BD
 
 * [React - Redux Complete Course](https://www.youtube.com/playlist?list=PL_XxuZqN0xVAvcGzTEAyPSOqgUQA08rNB) - Stack Learner
 * [React JS Tutorial Bangla Series for Beginners](https://www.youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr) - Sumit Saha (Learn with Sumit)
+* [React JS Bangla Tutorial \| React Tutorial For Beginners](https://www.youtube.com/playlist?list=PLNMnAEqLBwmqvuLEb5fVyGfcdMMlrEsHL) - Hablu Programmer
 * [Understand ReactJS Advanced Features](https://www.youtube.com/playlist?list=PL_XxuZqN0xVBaeF3qUyvr2AxoXGwDd5cx) - Stack Learner
 * [Understand ReactJS Core Features](https://www.youtube.com/playlist?list=PL_XxuZqN0xVBANld2gDEE6_0G886zavUs) - Stack Learner
 

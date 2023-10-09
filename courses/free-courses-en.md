@@ -166,6 +166,7 @@
 * [Data Structures in C++ - For Beginners](https://www.udemy.com/course/data-structures-for-beginners-c-plusplus) - Pedro Mercado (Udemy)
 * [Dynamic Programming](https://www.youtube.com/playlist?list=PLMCXHnjXnTnto1pZVvH7rbZ9W5neZ7Yhc) - Gaurav Sen
 * [Dynamic Programming](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsAsbafOroUBnNV8fhZa7P4u) - WilliamFiset
+* [Dynamic Programming Playlist \| Interview Questions \| Recursion \| Tabulation \| Striver \| C++ \| Java \| DSA \| Placements](https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY) - take U forward
 * [Graph Series by Striver \| C++ \| Java \| Interview Centric \| Algorithms \| Problems](https://www.youtube.com/playlist?list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn) - take U forward
 * [Graph Theory playlist](https://youtube.com/playlist?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P) - WilliamFiset
 * [IIT Bombay Foundation of Data Structures (CS213.1x)](https://courses.edx.org/courses/course-v1:IITBombayX+CS213.1x+1T2017/course/)
@@ -247,6 +248,7 @@
 * [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow) - DeepLearning.ai (Coursera)
 * [MIT Deep Learning and Artificial Intelligence Lectures](https://deeplearning.mit.edu) - Lex Fridman, et al.
 * [MIT's Artificial Intelligence](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) - Prof. Patrick Henry Winston (MIT OpenCourseWare)
+* [Stanford CS221: Artificial Intelligence: Principles and Techniques \| Autumn 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX) - Stanford Online
 
 
 ### Assembly
@@ -351,6 +353,7 @@
 * [Google's C++ Course](https://developers.google.com/edu/c++/)
 * [Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) (MIT's opencourseware)
 * [Introduction to C++](https://www.edx.org/course/introduction-to-c-3) - Microsoft (edX) (:card_file_box: *archived*)
+* [Learn C++ With Me](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lmGC8VW0iu6qfMHjy7gLQ3) - Tech With Tim
 * [Sololearn C++](https://www.sololearn.com/learning/1051) - *registration required*
 
 
@@ -490,6 +493,7 @@
 
 ### Databases
 
+* [15-721 Advanced Database Systems (Spring 2023)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYzlLMbX3cR0sxWnRM7CLFn) - CMU Database Group
 * [CMU Intro to Database Systems](https://youtube.com/playlist?list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf) - CMU Database Group
 * [Database Systems](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/) (MIT's opencourseware)
 * [Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis)](https://www.youtube.com/watch?v=4cWkVbC2bNE) - Professor Immanuel Trummer, freeCodeCamp.org
@@ -1305,6 +1309,7 @@
 * [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) (Udacity)
 * [Python 101 – Introduction to Programming](https://www.tutorialspoint.com/python_101_andndash_introduction_to_programming/index.asp) - Zenva (Tutorials Point)
 * [Python 3](https://www.sololearn.com/Course/Python/) (SoloLearn)
+* [Python 3 Programming Tutorials for Beginners](https://youtube.com/playlist?list=PLeo1K3hjS3uv5U-Lmlnucd7gqF-3ehIh0) - Codebasics
 * [Python And Cryptocurrency: Build 5 Real World Applications](https://www.udemy.com/course/coinmarketcap/) Ian Annase (Udemy)
 * [Python Built in Functions A to Z Tutorial and Examples](https://www.youtube.com/playlist?list=PLrJGwAG1U62RW_hGGnk7xXG0LciHkT54X) - Brainy Things
 * [Python Course](https://www.python-course.eu)
@@ -1405,6 +1410,7 @@
 * [Learn Ruby](https://www.learnrubyonline.org)
 * [RESTful API with Ruby On Rails 5](https://www.udemy.com/course/restful-api-with-ruby-on-rails-5/) - Udemy
 * [Ruby on Rails a Beginners Guide](https://www.udemy.com/course/ruby-on-rails-a-beginners-guide-free) - Stephen Chesnowitz (Udemy)
+* [Ruby Programming Language - Full Course](https://www.youtube.com/watch?v=t_ispmWmdjY) - Mike Dane (freeCodeCamp.org)
 * [Ruby Tutorial](https://www.w3resource.com/ruby/)
 
 
@@ -1517,6 +1523,7 @@
 * [Automata Theory](https://online.stanford.edu/courses/soe-ycsautomata-automata-theory)
 * [Formal Languages & Automata Theory](https://www.youtube.com/playlist?list=PLLvKknWU7N4zvTGcw9N2_7eZSTTkryb0U) - Lalit Vashistha
 * [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313) (Udacity)
+* [Theory of Computation & Automata Theory](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev) - Neso Academy
 
 
 ### Verilog / VHDL / SystemVerilog

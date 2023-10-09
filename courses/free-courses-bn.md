@@ -122,6 +122,7 @@ Shikkhangon BD
 * [HTML Complete Course in Bangla 2021(Beginner to Advanced)](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oHBr5dsumGwjUxByN5Lnw3) - Anisul Islam
 * [HTML Tutorial in Bangla](https://w3programmers.com/bangla/html-basics/) - w3programmers
 * [HTML Bangla Tutorial](https://www.youtube.com/playlist?list=PLm64fbD5OnxuObyOVSxcM0TUcBLDF2w64) - Moshiur
+* [HTML5 \| HTML Tutorial For Beginners](https://www.youtube.com/playlist?list=PLNMnAEqLBwmo2aAHG1hT41QCgYV3366gp) - Hablu Programmer
 
 
 #### Bootstrap

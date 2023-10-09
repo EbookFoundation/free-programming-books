@@ -891,6 +891,7 @@
 * [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899) - Google, Michael Wales (Udacity)
 * [Programming Foundations with Javascript, HTML and CSS](https://www.coursera.org/learn/duke-programming-web) - Owen Astrachan, Robert Duvall, Andrew D. Hilton, Susan H. Rodger (Coursera)
 * [The 10 Days of JavaScript](https://www.youtube.com/playlist?list=PLpcSpRrAaOaoIqHQddZOdbRrzr5dJtgSs) - Brad Schiff, LearnWebCode
+* [The Modern Javascript Tutorial](https://javascript.info/)
 * [Understanding RxJS](https://youtube.com/playlist?list=PL55RiY5tL51pHpagYcrN9ubNLVXF8rGVi) - Academind
 * [Vanilla JavaScript](https://www.youtube.com/playlist?list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX) - Brad Traversy, Traversy Media
 
@@ -1569,6 +1570,7 @@
 
 > :information_source: See also &#8230; [Blockchain](#blockchain), [Solidity](#solidity)
 
+* [CryptoZombies Courses](https://cryptozombies.io/en/course)
 * [Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course](https://www.youtube.com/watch?v=gyMwXuJrbJQ) - Patrick Collins (freeCodeCamp)
 
 

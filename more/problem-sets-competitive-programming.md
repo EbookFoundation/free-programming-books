@@ -110,6 +110,8 @@
 * [Coding Ninjas Guided Paths](https://www.codingninjas.com/codestudio/guided-paths/data-structures-algorithms)
 * [CSES Problem Set](https://cses.fi/problemset/)
 * [DSA Learning Series](https://www.codechef.com/LEARNDSA)
+* [DSA by Shradha Didi & Aman Bhaiya
+]([https://www.codechef.com/LEARNDSA](https://docs.google.com/spreadsheets/d/1hXserPuxVoWMG9Hs7y8wVdRCJTcj3xMBAEYUOXQ5Xag/edit#gid=0))
 * [Dynamic A2OJ Ladder](https://a2oj.herokuapp.com)
 * [Edabit](https://edabit.com)
 * [Exercism](http://exercism.io)

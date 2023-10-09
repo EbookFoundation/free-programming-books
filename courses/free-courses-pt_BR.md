@@ -262,6 +262,7 @@
 
 ### Machine Learning
 
+* [Curso Data Science e Machine Learning](https://youtube.com/playlist?list=PLFE-LjWAAP9R4G0WOXWuha4P5cCvw7hGB) - Data ICMC
 * [Curso Deep Learning](https://www.youtube.com/playlist?list=PLSZEVLiOtIgF19_cPrvhJC2bWn-dUh1zB) - Deep Learning Brasil
 * [Machine Learning e Data Science: O Guia para Iniciantes](https://www.udemy.com/course/guia-iniciantes-machine-learning-data-science/) - Jones Granatyr (Udemy)
 * [Neural Networks e Deep Learning para Leigos: Sem Mistérios!](https://www.udemy.com/course/neural-networks-e-deep-learnig-para-leigos/) - Fernando Amaral (Udemy)

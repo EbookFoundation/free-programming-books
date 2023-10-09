@@ -406,7 +406,7 @@
 * [React Native Tutorial in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV468O2wk-n8Q1KmtMhnHHj4C) - Code Step By Step
 * [React Native Tutorial In Hindi - 2023](https://www.youtube.com/playlist?list=PLvN7nvnjkvpQribRyQ4r0FYZxKsPLGciy) - Code Diggers
 * [React Native Tutorial in Hindi 2022](https://www.youtube.com/playlist?list=PLwGdqUZWnOp354xMD8u0hxX-1qmCvfLiY) - Thapa Technical
-* [React Native Tutorials (mobile app development) in hindi](https://www.youtube.com/playlist?list=PLB97yPrFwo5gxB5SuNWzH73t2Su65KN2f) - CODERS NEVER QUIT
+* [React Native Tutorials (mobile app development) in hindi](https://www.youtube.com/playlist?list=PLB97yPrFwo5gxB5SuNWzH73t2Su65KN2f) - Coders Never Quit
 * [React Native Tutorials for Begginers](https://youtube.com/playlist?list=PL8kfZyp--gEXs4YsSLtB3KqDtdOFHMjWZ) - Programming with Mash
 
 

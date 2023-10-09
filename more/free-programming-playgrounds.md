@@ -9,6 +9,7 @@
 * [ColdFusion](#coldfusion)
 * [Crystal](#crystal)
 * [Dart](#dart)
+* [DevOps](#devops)
 * [Docker](#docker)
 * [Elm](#elm)
 * [Flutter](#flutter)
@@ -59,7 +60,9 @@
 
 ### Assembly
 
+* [Command Challenge](https://cmdchallenge.com) - Command Challenge
 * [Educational Visual CPU Simulator](https://github.com/Belotti01/CPU-Visual-Simulator) - Renato Cortinovis, Nicola Preda, Jonathan Cancelli, Alessandro Belotti, Davide Riva (JAVA, JAR)
+* [OverTheWire](https://overthewire.org) - OverTheWire
 
 
 ### <a id="c"></a>C
@@ -111,6 +114,7 @@
 
 ### DevOps
 
+* [DevOps Dream](https://devops.games) - DevOps Dream
 * [KodeKloud](https://kodekloud.com/kodekloud-engineer/)
 
 
@@ -159,6 +163,9 @@
 * [Dabblet](https://dabblet.com)
 * [Flexbox Froggy](https://flexboxfroggy.com) - Codepip
 * [Flexy Boxes](https://the-echoplex.net/flexyboxes/)
+* [Grid Garden](https://cssgridgarden.com) - Codepip
+* [Learn advanced html and css](https://www.theodinproject.com/paths/full-stack-javascript/courses/advanced-html-and-css) - The Odin Project
+* [Learn Intermediate html and css](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css) - The Odin Project
 * [SoloLearn](https://code.sololearn.com/web#css)
 * [Tailwind Play](https://play.tailwindcss.com)
 

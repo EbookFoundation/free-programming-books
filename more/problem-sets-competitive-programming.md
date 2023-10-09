@@ -3,6 +3,7 @@
 * [Competitive Programming](#competitive-programming)
 * [CTF Capture the Flag](#capture-the-flag)
 * [Data science](#data-science)
+* [HTML and CSS](#html-and-css)
 * [Information security](#information-security)
 * [Problem Sets](#problem-sets)
 
@@ -73,6 +74,11 @@
 * [CrowdANALYTIX](https://www.crowdanalytix.com/community)
 * [DrivenData](https://www.drivendata.org)
 * [Kaggle](https://www.kaggle.com)
+
+
+### HTML and CSS
+
+* [Frontend Mentor](https://www.frontendmentor.io/challenges?languages=CSS&sort=difficulty%7Casc&type=free) *(email address requested)*
 
 
 ### Information security

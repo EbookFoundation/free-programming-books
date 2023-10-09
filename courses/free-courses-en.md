@@ -997,6 +997,10 @@
 * [ReactJS Tutorials](https://www.geeksforgeeks.org/reactjs-tutorials) - GeeksforGeeks
 * [Start Using React to Build Web Applications](https://egghead.io/courses/react-fundamentals) - Joe Maddalone
 * [The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react) - Kent C. Dodds
+* [React JS Frontend Web Development for Beginners](https://www.udemy.com/course/react-tutorial/) - Ryan Dhungel
+* [React Fundamentals](https://www.udemy.com/course/react-fundamentals/) - Edvinas Daugirdas
+* [React JS For Beginners 2023](https://www.udemy.com/course/react-for-beginners-2022/) - Ashutosh Pawar
+* [React with Redux, React-Router, Hooks and Auth0](https://www.udemy.com/course/modern-react/) - Mohammad Iqbal
 
 
 #### React Native

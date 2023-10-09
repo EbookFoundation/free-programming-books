@@ -139,6 +139,7 @@
 * [دوره مقدماتی تا پیشترفته پایتون - کدتراپی](https://www.youtube.com/playlist?list=PLSMC8KtOWURqgm0c6iVXrGzK4ymzJUnfj) - CodeTherapy
 * [متخصص پایتون (Python)](https://sabzlearn.ir/course/python/) - Reza Davalit
 
+
 ### Django
 
 * [آموزش مقدماتی Django Rest Framework (DRF)](https://www.youtube.com/playlist?list=PL7MXODW7Gj1eGnm4dXnydgqSDb3pLpg9v) - TorhamDev : Tech With Tori

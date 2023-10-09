@@ -9,6 +9,7 @@
 * [Bash and Shell](#bash-and-shell)
 * [Blockchain](#blockchain)
 * [C](#c)
+* [Cloud Computing](#cloud-computing)
 * [C#](#csharp)
 * [C++](#cpp)
 * [Competitive Programming](#competitive-programming)
@@ -160,6 +161,13 @@
 * [C++ Tutorial for Beginners \| C++ Tutorials In Hindi](https://www.youtube.com/playlist?list=PLmGElG-9wxc8VMy1nNHDQldH2dU8Y08s7) - Manish Gehlot, WsCube Tech Programming Concepts
 * [C++ Tutorials In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL) - CodeWithHarry
 * [The Complete C++ Course \| Hindi](https://www.youtube.com/playlist?list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF) - Saurabh Shukla
+
+
+
+### Cloud Computing
+* [Cloud Computing Course Free | Cloud Computing Tutorial | Learn Cloud Computing | Intellipaat |In English](https://www.youtube.com/watch?v=lae0mfHBSjk) - Intellipaat
+* [Cloud Computing Full Course In 11 Hours | Cloud Computing Tutorial For Beginners | Edureka|In English](https://www.youtube.com/watch?v=2LaAJq1lB1Q) - Edureka
+* [NPTEL Cloud Computing Course|In English](https://www.youtube.com/playlist?list=PLShJJCRzJWxhz7SfG4hpaBD5bKOloWx9J) - NPTEL  
 
 
 ### Competitive Programming

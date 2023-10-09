@@ -15,10 +15,6 @@
 
 -   [Programmera spel i C++ för nybörjare](https://sv.wikibooks.org/wiki/Programmera_spel_i_C%2B%2B_f%C3%B6r_nyb%C3%B6rjare) - Wikibooks
 
-### <a id="competetive programming"></a>Competetive Programming
-
--   [Guide to Competetive Programming](http://127.0.0.1:5500/books/Guide%20to%20Competitive%20Programming%20Learning%20and%20Improving%20Algorithms%20Through%20Contests.pdf) - Antti Laaksonen (PDF)
-
 ### Fortran
 
 -   [Lärobok i Fortran 95](http://www.boein.se/f95.pdf) - Linköpings Universitet, Bo Einarsson (PDF)

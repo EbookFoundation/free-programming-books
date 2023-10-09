@@ -151,6 +151,8 @@
 ### HTML and CSS
 
 * [Canoro sito](http://canoro.altervista.org/guide/html/GuidaHTML22.pdf) (PDF)
+* [Corso CSS - slide - esercizi](https://github.com/matteobaccan/CorsoCSS) - Matteo Baccan - [PDF](https://github.com/matteobaccan/CorsoCSS/blob/main/slide/CorsoCSS.pdf)
+* [Corso HTML5 - slide - esercizi](https://github.com/matteobaccan/CorsoHTML) - Matteo Baccan - [PDF](https://github.com/matteobaccan/CorsoHTML/blob/main/slide/CorsoHTML.pdf)
 * [Guida Completa sviluppo lato Client](http://www.aiutamici.com/PortalWeb/eBook/ebook/Alessandro_Stella-Programmare_per_il_web.pdf) (PDF)
 * [INFN di Milano](http://www.mi.infn.it/~calcolo/corso_base_html/pdf/corso_base_html.pdf) (PDF)
 
@@ -174,6 +176,7 @@
 ### JavaScript
 
 * [Corso completo JavaScript](https://www.grimaldi.napoli.it/pdf/manuale_unite_224_2_html_1000213680.pdf) - [HTML.it](http://www.html.it) _Anno di pubblicazione_ 2005 (PDF)
+* [Corso jQuery - slide - esempi](https://github.com/matteobaccan/CorsojQuery) - Matteo Baccan - [PDF](https://github.com/matteobaccan/CorsojQuery/blob/main/slide/CorsojQuery.pdf)
 * [Guida Completa sviluppo lato Client](http://www.aiutamici.com/PortalWeb/eBook/ebook/Alessandro_Stella-Programmare_per_il_web.pdf) (PDF) (Includo anche Jquery)
 * [Guida di riferimento](http://lia.deis.unibo.it/Courses/TecnologieWeb0809/materiale/laboratorio/guide/JScriptRef_Ita.pdf) (PDF)
 * [Guida JavaScript](https://www.html.it/guide/guida-javascript-di-base/) - Andrea Chiarelli, Davide Brognoli, Alberto Bottarini, Ilario Valdelli (HTML)

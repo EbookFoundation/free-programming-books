@@ -180,6 +180,7 @@
 ### Python
 
 * [Corso Python 2016](https://www.youtube.com/playlist?list=PLA27EZBY5veOa-dbNIetJvyrAuoVy4zDD) - POuL Politecnico di Milano
+* [Corso Python completo 2023](https://www.youtube.com/playlist?list=PLP5MAKLy8lP8FAytdm2ncZbPioA9A2SgF) - Edoardo Midali
 * [Corso rapido Python per principianti e per esempi](https://www.youtube.com/playlist?list=PL0qAPtx8YtJdbiBCoj4j6x_Ai6Vu9j5r9) - Fabrizio Camuso
 * [Le Basi di Python - Corso Completo](https://www.programmareinpython.it/video-corso-python-base/) - Michele Saba
 * [Programmazione ad Oggetti - Python](https://www.youtube.com/playlist?list=PLhlcRDRHVUzR2WHN9VTPZrawqRYHz5ALF) - Nicola Bicocchi

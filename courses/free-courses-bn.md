@@ -56,6 +56,7 @@
 * [C Programming Bangla Tutorial](https://youtube.com/playlist?list=PLdl6zXgLsy3zwNjSMiYlOZOr20sykTfgo) - Bangla Coding Tutor
 * [C Programming Bangla Tutorial For Beginners 2023](https://youtube.com/playlist?list=PLNMnAEqLBwmrwDSycdTLsvZBhmK5kOtgV) - Hablu Programmer
 * [Pattern Printing in C](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oTxQhx2kejYmQn6qtRULCD) - Anisul Islam
+* [C Programming in Bangla - from Zero to Hero](https://www.udemy.com/course/c-programming-in-bangla/) - Ministry of Codes (MoC), Prapty Rahman
 
 
 ### <a id="csharp"></a>C\#
@@ -256,6 +257,7 @@ Shikkhangon BD
 * [Python All You Need To Know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVCH8fRfZ8sUuKEQQYIFMjtJ) - Stack Learner
 * [Python Bangla Tutorials for Beginners](https://www.youtube.com/playlist?list=PLgH5QX0i9K3rz5XqMsTk41_j15_6682BN) - Anisul Islam
 * [Python tutorials by Zulkarnine](https://www.youtube.com/playlist?list=PLV3rqOvr9vgkW7U-kdxtUBx74ICpw94k8) - Zulkarnine Mahmud
+* [Python Bangla Tutorial 2023](https://www.youtube.com/playlist?list=PLNMnAEqLBwmpR8JDBOEl0jrzmH1vPnO7v) - Hablu Programmer
 
 
 #### Django

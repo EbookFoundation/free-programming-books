@@ -229,41 +229,41 @@
 - YouTube影片。我們通常不會連結到單一 YouTube 視頻，除非它們的長度超過一個小時並且結構類似於課程或教程。
 - Leanpub。 Leanpub 託管具有多種存取模式的書籍。有時一本書無需註冊即可閱讀；有時一本書需要 Leanpub 帳戶才能免費存取。考慮到書籍的品質以及 Leanpub 存取模型的混合性和流動性，我們允許使用存取註釋「*（Leanpub 帳戶或請求的有效電子郵件）*」列出後者。
 
-#### Genres
+#### 流派
 
-The first rule in deciding which list a resource belongs in is to see how the resource describes itself. If it calls itself a book, then maybe it's a book.
-
-
-##### Genres we don't list
-
-Because the Internet is vast, we don't include in our lists:
-
-- blogs
-- blog posts
-- articles
-- websites (except for those that host LOTS of items that we list).
-- videos that aren't courses or screencasts.
-- book chapters
-- teaser samples from books
-- IRC or Telegram channels
-- Slacks or mailing lists
-
-Our competitive programming lists are not as strict about these exclusions. The scope of the repo is determined by the community; if you want to suggest a change or addition to the scope, please use an issue to make the suggestion.
+決定資源屬於哪個清單的第一條規則是查看資源如何描述自己。如果它稱自己為一本書，那麼也許它就是一本書。
 
 
-##### Books vs. Other Stuff
+##### 我們未列出的流派
 
-We're not that fussy about book-ness. Here are some attributes that signify that a resource is a book:
+由於互聯網非常龐大，因此我們不將以下內容包括在列表中：
 
-- it has an ISBN (International Standard Book Number)
-- it has a Table of Contents
-- a downloadable version is offered, especially ePub files.
-- it has editions
-- it doesn't depend on interactive content or videos
-- it tries to comprehensively cover a topic
-- it's self-contained
+- 部落格
+- 部落格文章
+- 文章
+- 網站（那些託管我們列出的大量項目的網站除外）。
+- 不是課程或截圖影片的影片。
+- 書籍章節
+- 書中的預告片樣本
+- IRC 或 Telegram 頻道
+- Slack或郵件列表
 
-There are lots of books that we list that don't have these attributes; it can depend on context.
+我們的競爭性節目清單對這些例外情況沒有那麼嚴格。 repo的範圍由社區決定；如果您想建議更改或新增範圍，請使用問題提出建議。
+
+
+##### 書籍與其他東西
+
+我們對書本性並不那麼挑剔。以下是一些表示資源是一本書的屬性：
+
+- 它有一個 ISBN（國際標準書號）
+- 它有一個目錄
+- 提供可下載版本，尤其是 ePub 檔案。
+- 它有版本
+- 它不依賴互動內容或視頻
+- 它試圖全面涵蓋一個主題
+- 它是獨立的
+
+我們列出的許多書籍不具備這些屬性；這可能取決於上下文。
 
 
 ##### Books vs. Courses

@@ -97,7 +97,7 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
     -   [Кодекс поведения](CODE_OF_CONDUCT-ru.md)
     -   [Contributing](CONTRIBUTING-ru.md)
 -   Sinhala / සිංහල
-    -   [Code of Conduct](CODE_OF_CONDUCT-lk.md)
+    -   [Code of Conduct](CODE_OF_CONDUCT-li.md)
 -   Slovak / slovenčina
 -   Slovenian / slovenščina
     -   [Code of Conduct](CODE_OF_CONDUCT-sl.md)

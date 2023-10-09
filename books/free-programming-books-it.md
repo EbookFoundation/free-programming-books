@@ -153,6 +153,8 @@
 * [Canoro sito](http://canoro.altervista.org/guide/html/GuidaHTML22.pdf) (PDF)
 * [Guida Completa sviluppo lato Client](http://www.aiutamici.com/PortalWeb/eBook/ebook/Alessandro_Stella-Programmare_per_il_web.pdf) (PDF)
 * [INFN di Milano](http://www.mi.infn.it/~calcolo/corso_base_html/pdf/corso_base_html.pdf) (PDF)
+* [Corso HTML5 - slide ed esercizi](https://github.com/matteobaccan/CorsoHTML) - Matteo Baccan - [PDF](https://github.com/matteobaccan/CorsoHTML/blob/main/slide/CorsoHTML.pdf)
+* [Corso CSS - slide ed esercizi](https://github.com/matteobaccan/CorsoCSS) - Matteo Baccan - [PDF](https://github.com/matteobaccan/CorsoCSS/blob/main/slide/CorsoCSS.pdf)
 
 
 ### Java

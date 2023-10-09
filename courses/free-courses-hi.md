@@ -335,7 +335,7 @@
 * [Java Tutorials for Beginners](https://www.youtube.com/playlist?list=PLlhM4lkb2sEhfuXL-2BDrJ67WkUdQ2v9b) - Deepak Panwar, Smart Programming
 * [Java Tutorials For Beginners In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q) - CodeWithHarry
 * [Microservice Tutorial in Hindi 2023](https://www.youtube.com/playlist?list=PL0zysOflRCelb2Y4WOVckFC6B050BzV0D) - Learn Code With Durgesh
-* [Spring Framework Tutorial with SpringBoot | in Hindi| Complete Course | CoderX Ankit](https://www.youtube.com/playlist?list=PLiOIhBfKi8AIYNWEjYy1zZFe1N8GvPRHR) - CoderX Ankit
+* [Spring Framework Tutorial with SpringBoot  in Hindi Complete Course](https://www.youtube.com/playlist?list=PLiOIhBfKi8AIYNWEjYy1zZFe1N8GvPRHR) - CoderX Ankit
 
 
 ### Spring Boot

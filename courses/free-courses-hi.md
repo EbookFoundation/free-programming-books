@@ -461,7 +461,6 @@
 * [Statistics And Probability](https://www.youtube.com/playlist?list=PLU6SqdYcYsfLRq3tu-g_hvkHDcorrtcBK) - Gajendra Purohit
 
 
-
 ### Matlab
 
 * [Matlab Complete Course](https://www.youtube.com/watch?v=iS5J4TlLSEM) - Armughan Ali

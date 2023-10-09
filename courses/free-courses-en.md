@@ -1405,6 +1405,7 @@
 * [Learn Ruby](https://www.learnrubyonline.org)
 * [RESTful API with Ruby On Rails 5](https://www.udemy.com/course/restful-api-with-ruby-on-rails-5/) - Udemy
 * [Ruby on Rails a Beginners Guide](https://www.udemy.com/course/ruby-on-rails-a-beginners-guide-free) - Stephen Chesnowitz (Udemy)
+* [Ruby Programming Language - Full Course](https://www.youtube.com/watch?v=t_ispmWmdjY) - Mike Dane (freeCodeCamp.org)
 * [Ruby Tutorial](https://www.w3resource.com/ruby/)
 
 

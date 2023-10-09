@@ -186,50 +186,48 @@
 雖然基礎知識相對簡單，但我們列出的資源卻多種多樣。以下是關於我們如何處理這種多樣性的一些說明。
 
 
-#### Metadata
+#### 元數據
 
-Our lists provide a minimal set of metadata: titles, URLs, creators, platforms, and access notes.
-
-
-##### Titles
-
-- No invented titles. We try to take titles from the resources themselves; contributors are admonished not to invent titles or use them editorially if this can be avoided. An exception is for older works; if they are primarily of historical interest, a year in parentheses appended to the title helps users know if they are of interest.
-- No ALLCAPS titles. Usually title case is appropriate, but when doubt use the capitalization from the source
-- No emojis.
+我們的清單提供了一組最小的元資料：標題、URL、創建者、平台和存取註釋。
 
 
-##### URLs
+##### 標題
 
-- We don't permit shortened URLs.
-- Tracking codes must be removed from the URL.
-- International URLs should be escaped. Browser bars typically render these to Unicode, but use copy and paste, please.
-- Secure (`https`) URLs are always preferred over non-secure (`http`) urls where HTTPS has been implemented.
-- We don't like URLs that point to webpages that don't host the listed resource, but instead point elsewhere.
+- 沒有發明的標題。我們嘗試從資源本身取得標題；告誡撰稿人不要發明標題或在編輯中使用它們，如果可以避免的話。較舊的作品除外；如果它們主要具有歷史意義，標題後面括號中的年份可以幫助使用者知道它們是否感興趣。
+- 沒有全大寫標題。通常標題大小寫是合適的，但如有疑問，請使用來源中的大寫
+- 沒有表情符號。
 
 
-##### Creators
+##### 網址
 
-- We want to credit the creators of free resources where appropriate, including translators!
-- For translated works the original author should be credited. We recommend using [MARC relators](https://loc.gov/marc/relators/relaterm.html) to credit creators other than authors, as in this example:
+- 我們不允許使用縮短的網址。
+- 必須從網址中刪除追蹤程式碼。
+- 國際網址應進行轉義。瀏覽器列通常會將這些內容呈現為 Unicode，但請使用複製和貼上。
+- 安全性 (`https`) URL 始終優先於已實作 HTTPS 的非安全性 (`http`)網址。
+- 我們不喜歡網址指向不託管所列資源的網頁，而是指向其他地方。
+
+
+##### 創作者
+
+- 我們希望在適當的情況下讚揚免費資源的創建者，包括翻譯人員！
+- 翻譯作品，應註明原作者。我們建議使用 [MARC relators](https://loc.gov/marc/relators/relaterm.html) 來表彰作者以外的創作者，如下例所示：
 
     ```markdown
-    * [A Translated Book](http://example.com/book-zh.html) - John Doe, `trl.:` Mike The Translator
+    * [一本翻譯書](http://example.com/book-zh.html) - John Doe，`trl.:` 翻譯者麥克
     ```
+   這裡，註解「trl.:」使用「翻譯器」的 MARC 相關程式碼。
+- 使用逗號「,」來分隔作者清單中的每個項目。
+- 您可以使用「`et al.`」來縮短作者清單。
+- 我們不允許創作者連結。
+- 對於編譯或混音作品，「創作者」可能需要描述。例如，「Go​​alKicker」或「RIP Tutorial」書籍被標記為「`Compiled from StackOverflow Documentation`」。
 
-    here, the annotation `trl.:` uses the MARC relator code for "translator".
-- Use a comma `,` to delimit each item in the author list.
-- You can shorten author lists with "`et al.`".
-- We do not permit links for Creators.
-- For compilation or remixed works, the "creator" may need a description. For example, "GoalKicker" or "RIP Tutorial" books are credited as "`Compiled from StackOverflow documentation`".
 
+##### 平台及接入註意事項
 
-##### Platforms and Access Notes
-
-- Courses. Especially for our course lists, the platform is an important part of the resource description. This is because course platforms have different affordances and access models. While we usually won't list a book that requires a registration, many course platforms have affordances that don't work without some sort of account. Example course platforms include Coursera, EdX, Udacity, and Udemy. When a course depends on a platform, the platform name should be listed in parentheses.
-- YouTube. We have many courses which consist of YouTube playlists. We do not list YouTube as a platform, we try to list the YouTube creator, which is often a sub-platform.
-- YouTube videos. We usually don't link to individual YouTube videos unless they are more than an hour long and are structured like a course or a tutorial.
-- Leanpub. Leanpub hosts books with a variety of access models. Sometimes a book can be read without registration; sometimes a book requires a Leanpub account for free access. Given quality of the books and the mixture and fluidity of Leanpub access models, we permit listing of the latter with the access note `*(Leanpub account or valid email requested)*`.
-
+- 培訓班。特別是對於我們的課程清單來說，平台是資源描述的重要組成部分。這是因為課程平台具有不同的可供性和可訪問性模式。雖然我們通常不會列出需要註冊的書籍，但許多課程平台都有一些功能，如果沒有某種帳戶就無法使用。範例課程平台包括 Coursera、EdX、Udacity 和 Udemy。當課程依賴平台時，平台名稱應列在括號中。
+- Youtube.我們有許多包含 YouTube 播放清單的課程。我們不會將 YouTube 列為平台，而是嘗試列出 YouTube 創作者，這通常是一個子平台。
+- YouTube影片。我們通常不會連結到單一 YouTube 視頻，除非它們的長度超過一個小時並且結構類似於課程或教程。
+- Leanpub。 Leanpub 託管具有多種存取模式的書籍。有時一本書無需註冊即可閱讀；有時一本書需要 Leanpub 帳戶才能免費存取。考慮到書籍的品質以及 Leanpub 存取模型的混合性和流動性，我們允許使用存取註釋「*（Leanpub 帳戶或請求的有效電子郵件）*」列出後者。
 
 #### Genres
 

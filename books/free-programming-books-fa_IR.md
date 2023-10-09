@@ -56,9 +56,9 @@
 
 ### Linux
 
+* [تائوی برنامه نویسان](https://aidinhut.com/fa/books/the_tao_of_programming.pdf)
 * [فقط برای تفریح؛ داستان یک انقلابی اتفاقی](https://linuxstory.ir)
 * [لینوکس و زندگی؛‌ درس‌هایی برای گیک های جوان](https://linuxbook.ir)
-* [تائوی برنامه نویسان](https://aidinhut.com/fa/books/the_tao_of_programming.pdf)
 
 
 ### PHP

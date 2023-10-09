@@ -982,6 +982,7 @@
 * [React basic in just 1 hour](https://www.udemy.com/course/react-basic-in-just-1-hour/) (Udemy)
 * [React Context & Hooks Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI) - The Net Ninja
 * [React Crash Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4) - freecodecamp
+* [React Fundamentals](https://www.udemy.com/course/react-fundamentals/) - Edvinas Daugirdas
 * [React Hooks](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h) - WebDevSimplified
 * [React Patterns for web apps](https://www.patterns.dev/book/) - Lydia Hallie, Addy Osmani
 * [React Router 6 – Tutorial for Beginners](https://www.youtube.com/watch?v=59IXY5IDrBA) - John Smilga (freeCodeCamp)
@@ -991,16 +992,14 @@
 * [ReactJS - Tutorial for Beginners](https://www.youtube.com/watch?v=Ke90Tje7VS0) - Mosh Hamedani (Programming with Mosh)
 * [ReactJS Basics](https://www.youtube.com/playlist?list=PLe30vg_FG4OSw8SIcLVci-jB_-W1ZkLYp) - Bitfumes
 * [ReactJS Course For Beginners 2022](https://www.youtube.com/playlist?list=PLpPqplz6dKxW5ZfERUPoYTtNUNvrEebAR) - PedroTech
+* [ReactJS For Beginners 2023](https://www.udemy.com/course/react-for-beginners-2022/) - Ashutosh Pawar
 * [ReactJS Frontend Web Development For Beginners](https://www.udemy.com/course/react-tutorial/) - Ryan Dhungel (Udemy)
 * [ReactJS Full Course for Beginners \| Complete All-in-One Tutorial \| 9 Hours](https://www.youtube.com/watch?v=RVFAyFWO4go) - Dave Gray
 * [ReactJS Tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3) - Codevolution
 * [ReactJS Tutorials](https://www.geeksforgeeks.org/reactjs-tutorials) - GeeksforGeeks
+* [React with Redux, React-Router, Hooks and Auth0](https://www.udemy.com/course/modern-react/) - Mohammad Iqbal
 * [Start Using React to Build Web Applications](https://egghead.io/courses/react-fundamentals) - Joe Maddalone
 * [The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react) - Kent C. Dodds
-* [React Fundamentals](https://www.udemy.com/course/react-fundamentals/) - Edvinas Daugirdas
-* [React JS For Beginners 2023](https://www.udemy.com/course/react-for-beginners-2022/) - Ashutosh Pawar
-* [React JS Frontend Web Development for Beginners](https://www.udemy.com/course/react-tutorial/) - Ryan Dhungel
-* [React with Redux, React-Router, Hooks and Auth0](https://www.udemy.com/course/modern-react/) - Mohammad Iqbal
 
 
 #### React Native

@@ -173,17 +173,17 @@
     正确: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
     ```
 
-### Alphabetical order
+### 按字母順序
 
-- When there are multiple titles beginning with the same letter order them by the second, and so on. For example: `aa` comes before `ab`.
-- `one two` comes before `onetwo`
+- 當有多個以相同字母開頭的標題時，按第二個排序，依此類推。例如：“aa”位於 “ab” 之前
+- “onetwo” 位於 “onetwo”之前
 
-If you see a misplaced link, check the linter error message to know which lines should be swapped.
+如果您看到錯誤的鏈接，請檢查 linter 錯誤訊息以了解應該交換哪些行。
 
 
-### Notes
+### 筆記
 
-While the basics are relatively simple, there is a great diversity in the resources we list. Here are some notes on how we deal with this diversity.
+雖然基礎知識相對簡單，但我們列出的資源卻多種多樣。以下是關於我們如何處理這種多樣性的一些說明。
 
 
 #### Metadata

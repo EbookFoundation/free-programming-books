@@ -27,7 +27,7 @@
 * [Python](#python)
 * [Rust](#rust)
 * [Solidity](#solidity)
-
+* [Internet of Things](#iot)
 
 ### Android
 
@@ -223,3 +223,6 @@
 ### Solidity
 
 * [Smart Contract Blockchain pada E-Voting](https://www.researchgate.net/publication/337961765_Smart_Contract_Blockchain_pada_E-Voting) - Ajib Susanto (HTML, PDF)
+
+### Internet of Things
+* [Modul Sistem Internet of Things](https://yoshidasary.umsu.ac.id/wp-content/uploads/2022/09/Modul-sistem-IoT-Ok.pdf) - Yoshida Sary, M.Kom.

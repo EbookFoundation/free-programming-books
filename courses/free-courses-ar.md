@@ -3,6 +3,7 @@
 ### Index
 
 * [Algorithms & Data Structures](#algorithms--data-structures)
+* [Artificial Intelligence ](#aibooks)
 * [Assembly](#assembly)
 * [AWS](#aws)
 * [Bootstrap](#bootstrap)
@@ -71,6 +72,9 @@
 * [Problem solving (Arabic)&rlm;](https://www.youtube.com/playlist?list=PLYknlDiw2kSwdDhTSDoX7ZoVEle8nbZdk) - Muhammed Afifi
 * [Standard Template Library (STL) Full Tutorial Using C++ In Arabic&rlm;](https://www.youtube.com/playlist?list=PLCInYL3l2AainAE4Xq2kdNGDfG0bys2xp) - Adel Nasim
 
+
+#### Artificial Intelligence 
+[CS50 course ](https://youtu.be/5NgNicANyqM?si=Y3pABBqYpVzOmsk9) -freecodecamp 
 
 ### Assembly
 

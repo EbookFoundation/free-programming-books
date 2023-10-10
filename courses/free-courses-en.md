@@ -435,10 +435,8 @@
 
 ### Cuda
 
-* [CUDA programming Masterclass with C++](https://www.udemy.com/course/cuda-programming-masterclass/) (Udemy)
+* [CUDA Tutorials](https://youtube.com/playlist?list=PLKK11Ligqititws0ZOoGk3SW-TZCar4dK&feature=shared) - Creel (YouTube playlist - 11 videos)
 * [Intro to Parallel Programming Using CUDA to Harness the Power of GPUs](https://www.udacity.com/course/intro-to-parallel-programming--cs344) (Udacity)
-* [Introduction to Parallel Programming with CUDA](https://www.coursera.org/learn/introduction-to-parallel-programming-with-cuda) (Coursera)
-* [Parallel Computing with Nvidia CUDA](https://www.youtube.com/watch?v=zSCdTOKrnII) (Youtube)
 
 
 ### Dart
@@ -638,9 +636,8 @@
 
 ### Fortran
 
-* [Fortran For Beginners](https://www.udemy.com/course/fortran-for-beginners/) - Brad Richardson (Udemy)
 * [Fortran Tutorial](https://www.youtube.com/watch?v=__2UgFNYgf8) - Derek Banas
-* [Intermediate Fortran](https://www.udemy.com/course/intermediate-fortran/) - Brad Richardson (Udemy)
+* [Fortran Programming Tutorials (Revised)](https://youtube.com/playlist?list=PLNmACol6lYY5_S8I4K29V2oI95nOCzQU8&feature=shared) - Fluidic Colours (YouTube playlist - 41 videos)
 
 
 ### Game Development

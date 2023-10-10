@@ -239,6 +239,7 @@ Shikkhangon BD
 
 * [PHP All You Need To Know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVCFLIrGA1GaxacvPTDQcsMV) - Stack Learner
 * [php bangla tutorial for beginners \| php8 bangla tutorial](https://www.youtube.com/playlist?list=PLbC4KRSNcMnqBfSoiU5TG7FF4FQmCpoSp) - Learn Hunter
+* [PHP OOP Bangla Tutorial \| Object Oriented Programming Bangla Tutorial](https://www.youtube.com/playlist?list=PLJC7GfA2DHaAFmx7JppHrrFfsCNLeKn9G) - Technology Village
 
 
 #### Laravel

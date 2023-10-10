@@ -764,7 +764,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Introduction to Functional Programming](http://www.cl.cam.ac.uk/teaching/Lectures/funprog-jrh-1996/) - J. Harrison
 * [Making Sense of Stream Processing](https://assets.confluent.io/m/2a60fabedb2dfbb1/original/20190307-EB-Making_Sense_of_Stream_Processing_Confluent.pdf) - Martin Kleppmann (PDF)
 * [Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/) - Mostly Adequate Core Team
-* [The Pragmatic Programmer](https://www.cin.ufpe.br/~cavmj/104The%20Pragmatic%20Programmer,%20From%20Journeyman%20To%20Master%20-%20Andrew%20Hunt,%20David%20Thomas%20-%20Addison%20Wesley%20-%201999.pdf)- Andrew Hunt, David Thomas (PDF)
+* [The Pragmatic Programmer](https://www.cin.ufpe.br/~cavmj/104The%20Pragmatic%20Programmer,%20From%20Journeyman%20To%20Master%20-%20Andrew%20Hunt,%20David%20Thomas%20-%20Addison%20Wesley%20-%201999.pdf) - Andrew Hunt, David Thomas (PDF)
 * [The Pure Function Pipeline Data Flow v3.0 ---- the Grand Unified Programming Theory](https://github.com/linpengcheng/PurefunctionPipelineDataflow) - Lin Pengcheng
 * [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
 

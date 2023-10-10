@@ -504,6 +504,7 @@
 * [DML Server Administration](https://alison.com/course/databases-dml-statements-and-sql-server-administration-revised) (Alison)
 * [Introduction to Databases](https://lagunita.stanford.edu/courses/Engineering/db/2014_1/about) (Stanford University)
 * [Learn SQL Basic for Data Science Specialisation](https://www.coursera.org/specializations/learn-sql-basics-data-science#about) (Coursera)
+* [Database Design and Management](https://www.udemy.com/course/database-design-and-management/) - Visual Paradigm (Udemy)
 
 
 #### NoSQL

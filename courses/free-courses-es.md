@@ -176,6 +176,7 @@
 * [Java SE Módulo 3](https://www.pildorasinformaticas.es/course/java-desde-0/java-desde-0-modulo-3) - Juan Díaz (Píldoras Informáticas)
 * [Java SE Módulo 4](https://www.pildorasinformaticas.es/course/java-desde-0/java-desde-0-modulo-4) - Juan Díaz (Píldoras Informáticas)
 * [JavaScript Básico a Avanzado](https://www.pildorasinformaticas.es/course/javascript-desde-0) - Juan Díaz (Píldoras Informáticas)
+* [JavaScript para todos](https://edutin.com/curso-de-javascript-4284) - Edutin Academy USA
 * [Linux y Bash](https://aprendeaprogramar.com/course/view.php?id=10) - Javier Hernandez (Aprendeaprogramar.com)
 * [Lógica de programación](https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=7929) - Carlos Slim Foundation (cuenta requerida)
 * [Principios de PHP](https://programadorwebvalencia.com/cursos/php/base/) - Andros Fenollosa (Programador Web Valencia)
@@ -211,6 +212,7 @@
 * [FullStack JavaScript Bootcamp \| JavaScript, React.js, GraphQL, Node.js, TypeScript y +](https://www.youtube.com/playlist?list=PLV8x_i1fqBw0Kn_fBIZTa3wS_VZAqddX7) - Miguel Ángel Durán «midudev»
 * [HTML 5](https://www.pildorasinformaticas.es/course/html-5) - Juan Díaz (Píldoras Informáticas)
 * [Introducción a HTML & CSS](https://www.aulaclic.es/html/index.htm) (HTML)
+* [PHP apuntes Basicos](https://github.com/AJSanchez8/repasoPHP) -Aj Sánchez
 * [PHP MySql Módulo 1](https://www.pildorasinformaticas.es/course/php-mysql) - Juan Díaz (Píldoras Informáticas)
 * [PHP MySql Módulo 2](https://www.pildorasinformaticas.es/course/php-mysql/php-mysql-modulo-2) - Juan Díaz (Píldoras Informáticas)
 * [Tecnologías Web (2010)](https://ocw.ua.es/es/ingenieria-y-arquitectura/tecnologias-web-2010.html)

@@ -978,6 +978,7 @@
 * [Frontend Armory: React Fundamentals](https://frontarm.com/courses/react-fundamentals/) - James K. Nelson
 * [Full Modern React Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d) - The Net Ninja (with practical)
 * [Full-Stack Web Development with React Specialization](https://www.coursera.org/specializations/full-stack-react) - Jogesh K. Muppala (Coursera)
+* [Full Stack with React and Appwrite](https://egghead.io/playlists/full-stack-with-react-and-appwrite-e1e46f61) - Colby Fayock (Egghead.io)
 * [Learn React + Redux](https://www.sololearn.com/learning/1097) - *registration required*
 * [Learn React for Free](https://scrimba.com/learn/learnreact) - Bob Ziroll (scrimba)
 * [Learn ReactJS](https://www.codecademy.com/learn/react-101) - Codecademy

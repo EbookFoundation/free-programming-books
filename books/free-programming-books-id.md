@@ -27,7 +27,7 @@
 * [Python](#python)
 * [Rust](#rust)
 * [Solidity](#solidity)
-* [Internet of Things](#iot)
+* [Internet of Things](#internet-of-things)
 
 ### Android
 

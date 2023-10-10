@@ -13,6 +13,7 @@
 * [C#](#csharp)
     * [ASP.NET](#asp.net)
 * [C++](#cpp)
+* [Cloud Computing](#cloud-computing)
 * [Competitive Programming](#competitive-programming)
 * [Compiler Design](#compiler-design)
 * [Computer Graphics](#computer-graphics)
@@ -180,6 +181,15 @@
 * [C++ Tutorial for Beginners \| C++ Tutorials In Hindi](https://www.youtube.com/playlist?list=PLmGElG-9wxc8VMy1nNHDQldH2dU8Y08s7) - Manish Gehlot, WsCube Tech Programming Concepts
 * [C++ Tutorials In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL) - CodeWithHarry
 * [The Complete C++ Course \| Hindi](https://www.youtube.com/playlist?list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF) - Saurabh Shukla
+
+
+### Cloud Computing
+
+* [Cloud Computing](https://www.youtube.com/playlist?list=PLYwpaL_SFmcCyQH0n9GHfwviu6KeJ46BV) - 5 Minutes Engineering
+* [Cloud Computing Course Free | Cloud Computing Tutorial | Learn Cloud Computing | Intellipaat |In English](https://www.youtube.com/watch?v=lae0mfHBSjk) - Intellipaat
+* [Cloud Computing Full Course In 11 Hours | Cloud Computing Tutorial For Beginners | Edureka|In English](https://www.youtube.com/watch?v=2LaAJq1lB1Q) - Edureka
+* [Cloud Computing Tutorial](https://www.youtube.com/playlist?list=PL-JvKqQx2AtfQ8cGyKsFE7Tj2FyB1yCkd) - University Academy
+* [NPTEL Cloud Computing Course|In English](https://www.youtube.com/playlist?list=PLShJJCRzJWxhz7SfG4hpaBD5bKOloWx9J) - NPTEL
 
 
 ### Competitive Programming
@@ -530,6 +540,7 @@
 * [Intermediate/Advanced python Tutorials in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9aiJWQ7VhY712fuimEpQZYp4) - CodeWithHarry
 * [Python](https://www.youtube.com/playlist?list=PLHjOos34ty4GYwKO-CFTdJKfVNd50tajF) - Computer Gyan Guruji
 * [Python For Beginners](https://youtube.com/playlist?list=PL-5gYa7CLd4iBdPHRaSEwbivCnUq1nxj9) - Technical Sagar
+* [Python Full Course in Hindi](https://www.youtube.com/watch?v=eTyI-M50Hu4) - "Great Learning"
 * [Python Programming in Hindi](https://www.greatlearning.in/academy/learn-for-free/courses/python-programming-in-hindi) (Great Learning) *(account required)*
 * [Python Tutorial For Beginners \| Hindi (With Notes)](https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME) - CodeWithHarry
 * [Python Tutorial in Hindi](https://www.youtube.com/playlist?list=PLQbQOmlGYH3tC535nKa7xB7dd7pZtYMZX) - edureka! Hindi

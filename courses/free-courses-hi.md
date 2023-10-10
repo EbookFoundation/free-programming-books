@@ -422,9 +422,8 @@
 
 #### Redux
 
-* [Redux toolkit crash course | Chai aur React Series](https://youtu.be/1i04-A7kfFI?si=_0I8vhyhK_5ISJEg) - Chai aur Code
-* [Redux Toolkit tutorial in Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp2nz2T6SfWX9t6D6SYn3XlN) - Thapa technical
-* [Redux tutorial in Hindi](https://youtube.com/playlist?list=PL6aoYO5bSdyzLGL_je7L4LL9GC6CIPb5u&si=uAkPXzpqAnyvqjcx) - CamelCoder
+* [Redux toolkit crash course | Chai aur React Series](https://www.youtube.com/watch?v=1i04-A7kfFI) - Hitesh Choudhary (Chai aur Code)
+* [Redux Toolkit tutorial in Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp2nz2T6SfWX9t6D6SYn3XlN) - Vinod Bahadur Thapa (Thapa Technical)
 
 
 #### Vue.js

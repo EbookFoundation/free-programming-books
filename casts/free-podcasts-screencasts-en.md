@@ -46,6 +46,7 @@
 ### <a id="csharp"></a>C\#
 
 * [Beginning C# with Unity](https://www.youtube.com/playlist?list=PLFgjYYTq6xyhtVK6VzLiFe3pmBu-XSNlX) - Brian Douglas Moakley, VegetarianZombie (screencast)
+* [General .NET videos](https://www.youtube.com/playlist?list=PLUOequmGnXxPjam--7GAls6Tb1fSmL9mL) - Nick Chapsas(screencast)
 * [How to program in C# - Beginner Course \| Brackeys](https://www.youtube.com/playlist?list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51) - Asbjørn Thirslund (screencast)
 
 
@@ -365,6 +366,7 @@
 ### PostgreSQL
 
 * [PG Casts](https://www.pgcasts.com) - Jack Christensen, Josh Branchaud, Jake Worth, Vidal Ekechukwu, Dorian Karter, Mary Lee, et al. Hashrocket team (screencast)
+* [Postgres FM](https://postgres.fm) - Michael Christofides, Nikolay Samokhvalov (podcast)
 * [Scaling Postgres](https://player.fm/series/scaling-postgres) - Ruby Tree Software Inc, Creston Jamison (podcast)
 
 
@@ -395,6 +397,7 @@
 * [Drifting Ruby](https://www.driftingruby.com/episodes?free=true&pro=false) - Dave Kimura (screencast)
 * [Railscasts](http://railscasts.com) - Ryan Bates (screencast)
 * [Remote Ruby](https://remoteruby.com) - Chris Oliver, Jason Charnes, Andrew Mason (podcast)
+* [Ruby for All](https://rubyforall.com) - Andrew Mason, Julie J (podcast)
 * [Ruby Rogues](https://topenddevs.com/podcasts/ruby-rogues/) - Charles Max Wood, Dave Kimura, Valentino Stoll, Luke Stutters, John Epperson, Sam Livingston-Gray, Avdi Grimm, Aaron Patterson, James Edward Gray, Katrina Owen (podcast)
 * [Ruby Tapas \| Free Screencasts](https://www.rubytapas.com/category/episodes/) - Avdi Grimm (screencast)
 * [The Bike Shed](https://www.bikeshed.fm) - Chris Toomey, Steph Viccari (podcast)

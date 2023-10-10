@@ -502,6 +502,7 @@
 
 * [Core PHP (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhigFdLdbSI2EM2MrJB7I0j-B) - Rajesh Kumar, Geeky Shows
 * [PHP MYSQL Tutorial In Hindi \| Backend Development in Hindi in 2020](https://www.youtube.com/playlist?list=PLwGdqUZWnOp1U4kemcU_vF9KQuHXlNxkb) - Thapa Technical
+* [PHP OOP Tutorial in Hindi / Urdu](https://www.youtube.com/playlist?list=PL0b6OzIxLPbwoi6Urr4LZTz2AMMCtzqDt) - Yahoo Baba
 * [PHP Tutorial for beginners in Hindi](https://www.youtube.com/playlist?list=PLmGElG-9wxc_Hp_bqKH0-cpeboH1_sQg7) - ScoreShala
 * [PHP Tutorial in Hindi / Urdu](https://www.youtube.com/playlist?list=PL0b6OzIxLPbyrzCMJOFzLnf_-_5E_dkzs) - Yahoo Baba
 * [PHP Tutorials in Hindi](https://youtube.com/playlist?list=PLu0W_9lII9aikXkRE0WxDt1vozo3hnmtR) - CodeWithHarry
@@ -575,6 +576,8 @@
 ### Rust
 
 * [Rust Complete Tutorial In Hindi](https://www.youtube.com/playlist?list=PLRuqvIc0eAmp8Lv6M4BKQWEinvCuqdVFP) - One Two Coding
+* [Rust Programming Complete Tutorial In Hindi 2023.](https://www.youtube.com/playlist?list=PLndmg9UIKNomnnSxd__VKkUX4zT1YpSoY) - Code Your Money
+* [Rust-Programming in Hindi](https://www.youtube.com/playlist?list=PL8fnAiiuQeFsss4xdjXyHJ4fT4_w10s3J) - Go Guru
 
 
 ### Security

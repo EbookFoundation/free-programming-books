@@ -226,4 +226,4 @@
 
 ### Internet of Things
 
-* [Modul Sistem Internet of Things](https://yoshidasary.umsu.ac.id/wp-content/uploads/2022/09/Modul-sistem-IoT-Ok.pdf) - Yoshida Sary, M.Kom. (PDF)
+* [Modul Sistem Internet of Things](https://yoshidasary.umsu.ac.id/wp-content/uploads/2022/09/Modul-sistem-IoT-Ok.pdf) - Yoshida Sary (HTML, PDF)

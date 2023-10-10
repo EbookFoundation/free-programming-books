@@ -202,7 +202,6 @@
 * [SEO CheatSheet](https://learn-the-web.algonquindesign.ca/topics/seo-cheat-sheet/) - Algonquin Design (HTML)
 
 
-
 ### IDE and editors
 
 * [Eclipse Cheat sheet](https://cheatography.com/tag/eclipse/) - Cheatography

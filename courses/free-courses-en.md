@@ -1424,6 +1424,7 @@
 * [Learn Rust from scratch](https://www.educative.io/courses/learn-rust-from-scratch) - Educative.io
 * [Rust Basics](https://www.youtube.com/playlist?list=PLlcnQQJK8SUjApd95LIcd3K9XXmE-IeCS) - Engineer Man
 * [Rust Crash Course](https://www.youtube.com/watch?v=zF34dRivLOw) - Traversy Media
+* [Rust for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x) - Microsoft Developer
 * [Rust Programming Tutorial](https://www.youtube.com/playlist?list=PLzMcBGfZo4-nyLTlSRBvo0zjSnCnqjHYQ) - Tech With Tim
 * [Rust Projects](https://www.youtube.com/playlist?list=PLJbE2Yu2zumDD5vy2BuSHvFZU0a6RDmgb) - Tensor Programming
 * [Rust Tutorial](https://www.youtube.com/playlist?list=PLLqEtX6ql2EyPAZ1M2_C0GgVd4A-_L4_5) - Doug Milford

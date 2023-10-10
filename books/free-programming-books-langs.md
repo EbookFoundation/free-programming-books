@@ -1282,7 +1282,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 * [Learn Next.js](https://nextjs.org/learn) - Vercel Inc.
 * [Mastering Next.js](https://masteringnextjs.com)
-* [Next.js Crash Course 2021](https://www.youtube.com/watch?v=mTz0GXj8NN0) - Brad Traversy (Traversy Media)
+* [Next.js 13 Crash Course 2023 | App Directory, React Server Components & More](https://www.youtube.com/watch?v=Y6KDk5iyrYE) - Brad Traversy (Traversy Media)
 * [The Next.js Handbook](https://flaviocopes.com/page/nextjs-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
 
 

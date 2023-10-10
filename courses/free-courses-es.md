@@ -169,6 +169,7 @@
 * [Introducción a la programación orientada a objetos en Java](https://www.coursera.org/learn/introduccion-programacion-java)
 * [Introducción a la programación, Python I](https://www.coursera.org/learn/aprendiendo-programar-python)
 * [Introducción a Perl(2012)](https://campusvirtual.ull.es/ocw/course/view.php?id=43)
+* [Java básico](https://github.com/AJSanchez8/free-programming-books.git) - Eduardo Ismael García Pérez(Código facilito)
 * [Java EE Módulo 1](https://www.pildorasinformaticas.es/course/java-ee-modulo-1) - Juan Díaz (Píldoras Informáticas)
 * [Java EE Módulo 2](https://www.pildorasinformaticas.es/course/java-ee-modulo-1/java-ee-modulo-2) - Juan Díaz (Píldoras Informáticas)
 * [Java SE Módulo 1](https://www.pildorasinformaticas.es/course/java-desde-0) - Juan Díaz (Píldoras Informáticas)
@@ -176,6 +177,7 @@
 * [Java SE Módulo 3](https://www.pildorasinformaticas.es/course/java-desde-0/java-desde-0-modulo-3) - Juan Díaz (Píldoras Informáticas)
 * [Java SE Módulo 4](https://www.pildorasinformaticas.es/course/java-desde-0/java-desde-0-modulo-4) - Juan Díaz (Píldoras Informáticas)
 * [JavaScript Básico a Avanzado](https://www.pildorasinformaticas.es/course/javascript-desde-0) - Juan Díaz (Píldoras Informáticas)
+* [JavaScript INICIACIÓN](https://edutin.com/curso-de-javascript-4284) By Edutin Academy USA
 * [Linux y Bash](https://aprendeaprogramar.com/course/view.php?id=10) - Javier Hernandez (Aprendeaprogramar.com)
 * [Lógica de programación](https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=7929) - Carlos Slim Foundation (cuenta requerida)
 * [Principios de PHP](https://programadorwebvalencia.com/cursos/php/base/) - Andros Fenollosa (Programador Web Valencia)

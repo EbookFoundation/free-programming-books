@@ -6,7 +6,7 @@
 * [C++](#cpp)
 * [C#](#csharp)
 * [Compiler Design](#compiler-design)
-* [Computer Networks](#computer-networks)
+* [Computer Networking](#computer-networks)
 * [Data Structure](#data-structure)
 * [Distributed Computing](#distributed-computing)
 * [Docker](#docker)
@@ -68,10 +68,10 @@
 * [Compiler Design](https://www.youtube.com/playlist?list=PLwe8bwPXjlLtPlbzxU_SICYI3PeYpEAtJ) -  Learn CSE Malayalam
 
 
-### Computer Networks
+### Computer Networking
 
 * [Computer Networks - S5](https://www.youtube.com/playlist?list=PLI74-7rtCb9BRUw6JzCm_wwLdQJc3jSwO) -  Eduline CSE Knowledge Sharing Platform
-* [CCNA Malayalam Tutorial(s)](https://www.youtube.com/playlist?list=PLI74-7rtCb9BRUw6JzCm_wwLdQJc3jSwO) -  Networking Malayalam
+* [CCNA Malayalam Tutorial(s)](https://www.youtube.com/playlist?list=PLO7o5VCTCpe-7jj04hLM002hQM5J-f3tl) -  Networking Malayalam
 
 
 ### Data Structure

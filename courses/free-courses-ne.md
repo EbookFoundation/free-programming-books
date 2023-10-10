@@ -13,6 +13,8 @@
 
 * [JavaScript](https://www.youtube.com/playlist?list=PLckS_N3kOwFH-GCqCd6i-vPo-Z75DcOnc) - EverydayKarma 🇳🇵
 
+* [JavaScript Basic Tutorial In Nepali](https://youtu.be/_4e_Jyjmudg?si=MnMhuhWOzzXiGWIi) - Technology Channel
+
 
 #### Node.js
 
@@ -43,3 +45,7 @@
 
 * [WordPress Complete Tutorial In Nepali](https://www.youtube.com/playlist?list=PL2OJkQtHPRie2xyBApANdVp_LUz4v7xIG) - Technology Channel
 
+
+#### PHP
+
+* [PHP Basic Tutorial In Nepali](https://youtu.be/Ec8bwfCNhkA?si=WgnbspeofHlg65VE) - Technology Channel

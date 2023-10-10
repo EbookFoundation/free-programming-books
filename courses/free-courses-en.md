@@ -1266,6 +1266,7 @@
 * [PHP OOP Tutorials](https://www.youtube.com/playlist?list=PL0eyrZgxdwhypQiZnYXM7z7-OTkcMgGPh) - Dani Krossing
 * [PHP Programming Language Tutorial - Full Course](https://www.youtube.com/watch?v=OK_JCtrrv-c) - freeCodeCamp.org (2018)
 * [PHP Tutorial](https://www.tutorialrepublic.com/php-tutorial/) - TutorialRepublic
+* [PHP tutorial for beginners](https://www.youtube.com/playlist?list=PLZPZq0r_RZOO6bGTY9jbLOyF_x6tgwcuB) - Bro Code
 * [PHP Tutorials](https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-) - Dani Krossing
 * [Use PHP to Create an MVC Framework - Full Course](https://www.youtube.com/watch?v=6ERdu4k62wI) - Zura Sekhniashvili (freeCodeCamp.org)
 

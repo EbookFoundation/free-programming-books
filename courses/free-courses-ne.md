@@ -7,6 +7,7 @@
 * [SQL](#sql)
 * [C](#c)
 * [WordPress](#wordpress)
+* [PHP](#php)
 
 
 ### JavaScript

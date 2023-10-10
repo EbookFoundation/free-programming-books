@@ -11,6 +11,7 @@
 * [Bash / Shell](#bash--shell)
 * [Blockchain](#blockchain)
 * [C](#c)
+* [Chat-gpt Prompt Engineering Full Course](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 * [C#](#csharp)
 * [C++](#cpp)
 * [Clojure](#clojure)

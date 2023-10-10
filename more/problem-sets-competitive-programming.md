@@ -33,7 +33,6 @@
 * [DMOJ](https://dmoj.ca)
 * [E-olymp](https://www.e-olymp.com/en/)
 * [Exercism](https://exercism.org)
-* [GeeksforGeeks](https://practice.geeksforgeeks.org)
 * [HackerEarth](https://www.hackerearth.com)
 * [Hackerrank](https://www.hackerrank.com)
 * [Internet Problem Solving Contest](http://ipsc.ksp.sk)
@@ -133,6 +132,7 @@
 * [Python Practice Projects](http://pythonpracticeprojects.com)
 * [Rosalind](http://rosalind.info/problems/locations/)
 * [Sphere Online Judge](http://www.spoj.com/problems/classical)
+* [Striver's A2Z DSA Course/sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
 * [TalentBuddy](http://www.talentbuddy.co/blog/)
 * [The Ultimate Topic List(with Tutorials, Problems, and Templates)](https://blog.shahjalalshohag.com/topic-list/) - Shahjalal Shohag
 * [Timus Online Judge](http://acm.timus.ru)

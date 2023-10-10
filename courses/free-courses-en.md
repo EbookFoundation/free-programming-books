@@ -86,8 +86,8 @@
 * [Processing](#processing)
 * [Python](#python)
     * [Django](#django)
-    * [Flask](#flask)
     * [FastAPI](#fastapi)
+    * [Flask](#flask)
     * [Jupyter](#jupyter)
 * [QB64](#qb64)
 * [R](#r)
@@ -1363,18 +1363,18 @@
 * [Try Django 3.2 - Python Web Development Tutorial Series](https://www.youtube.com/playlist?list=PLEsfXFp6DpzRMby_cSoWTFw8zaMdTEXgL) - Justin Mitchel, CodingEntrepreneurs
 
 
+#### FastAPI
+
+* [FastAPI x Websocket](https://fastapitutorial.com/blog/fastapi-websocket/) - fastapitutorial.com
+* [Learning FastAPI the Hard Way](https://fastapitutorial.com/blog/fastapi-course) - fastapitutorial.com
+* [Task Queue with Celery x FastAPI](https://fastapitutorial.com/blog/task-queues-with-celery) - fastapitutorial.com
+
+
 #### Flask
 
 * [Flask Fridays](https://www.youtube.com/playlist?list=PLCC34OHNcOtolz2Vd9ZSeSXWc8Bq23yEz) - Codemy.com
 * [Flask Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH) - Corey Schafer
 * [Flask Tutorials](https://www.youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX) - Tech with Tim
-
-
-#### FastAPI
-
-* [Learning FastAPI the Hard Way](https://fastapitutorial.com/blog/fastapi-course) - fastapitutorial.com
-* [Task Queue with Celery x FastAPI](https://fastapitutorial.com/blog/task-queues-with-celery) - fastapitutorial.com
-* [FastAPI x Websocket](https://fastapitutorial.com/blog/fastapi-websocket/) - fastapitutorial.com
 
 
 #### Jupyter

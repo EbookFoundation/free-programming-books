@@ -331,7 +331,6 @@
 
 ### NoSQL
 
-* [Introduction to MongoDB](https://learn.mongodb.com/learn/learning-path/introduction-to-mongodb) - MongoDB University *(registration required)*
 * [MongoDB Koans](https://github.com/chicagoruby/MongoDB_Koans)
 * [MongoDB Tutorial](https://www.w3schools.com/mongodb) - W3Schools
 * [Try Redis](http://try.redis.io)

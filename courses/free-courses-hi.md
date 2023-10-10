@@ -10,7 +10,6 @@
 * [Bash and Shell](#bash-and-shell)
 * [Blockchain](#blockchain)
 * [C](#c)
-* [Cloud Computing](#cloud-computing)
 * [C#](#csharp)
     * [ASP.NET](#asp.net)
 * [C++](#cpp)
@@ -153,13 +152,6 @@
 * [C Language Tutorials In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR) - CodeWithHarry
 * [C Programming Tutorials](https://www.youtube.com/playlist?list=PLiOa6ike4WAHH3HyPUu6pUG-r0LApvW-l) - Vikas Pandey, easytuts4you
 
-### Cloud Computing
-
-* [Cloud Computing Course Free | Cloud Computing Tutorial | Learn Cloud Computing | Intellipaat |In English](https://www.youtube.com/watch?v=lae0mfHBSjk) - Intellipaat
-* [Cloud Computing Full Course In 11 Hours | Cloud Computing Tutorial For Beginners | Edureka|In English](https://www.youtube.com/watch?v=2LaAJq1lB1Q) - Edureka
-* [NPTEL Cloud Computing Course|In English](https://www.youtube.com/playlist?list=PLShJJCRzJWxhz7SfG4hpaBD5bKOloWx9J) - NPTEL
-* [Cloud Computing](https://www.youtube.com/playlist?list=PLYwpaL_SFmcCyQH0n9GHfwviu6KeJ46BV) - 5 Minutes Engineering
-* [Cloud Computing Tutorial](https://www.youtube.com/playlist?list=PL-JvKqQx2AtfQ8cGyKsFE7Tj2FyB1yCkd) - University Academy
 
 ### <a id="csharp"></a>C\#
 

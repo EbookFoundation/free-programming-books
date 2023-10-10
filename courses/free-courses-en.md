@@ -87,6 +87,7 @@
 * [Python](#python)
     * [Django](#django)
     * [Flask](#flask)
+    * [FastAPI](#fastapi)
     * [Jupyter](#jupyter)
 * [QB64](#qb64)
 * [R](#r)
@@ -1367,6 +1368,13 @@
 * [Flask Fridays](https://www.youtube.com/playlist?list=PLCC34OHNcOtolz2Vd9ZSeSXWc8Bq23yEz) - Codemy.com
 * [Flask Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH) - Corey Schafer
 * [Flask Tutorials](https://www.youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX) - Tech with Tim
+
+
+#### FastAPI
+
+* [Learning FastAPI the Hard Way](https://fastapitutorial.com/blog/fastapi-course) - fastapitutorial.com
+* [Task Queue with Celery x FastAPI](https://fastapitutorial.com/blog/task-queues-with-celery) - fastapitutorial.com
+* [FastAPI x Websocket](https://fastapitutorial.com/blog/fastapi-websocket/) - fastapitutorial.com
 
 
 #### Jupyter

@@ -59,6 +59,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Atariarchives.org](https://www.atariarchives.org) - Atariarchives.org makes books, information, and software for Atari and other classic computers available on the Web.
 * [Bento](https://www.bento.io)
 * [Bitsavers.org](http://bitsavers.trailing-edge.com)
+* [Build Your Own](https://build-your-own.org)
 * [Code Catalog: A Collection of Code Examples from Prominent Open Source Projects](https://codecatalog.org)
 * [conceptf1.blogspot.com](https://conceptf1.blogspot.com/2013/11/list-of-freely-available-programming.html)
 * [Free Tech Books](https://www.freetechbooks.com)

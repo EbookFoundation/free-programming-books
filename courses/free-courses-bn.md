@@ -135,6 +135,8 @@ Shikkhangon BD
 #### Tailwind
 
 * [Tailwind CSS Bangla Tutorial Series](https://youtube.com/playlist?list=PLHiZ4m8vCp9P23SqlHL0QAqiwS_oCofV2) - Learn with Sumit
+* [Tailwind CSS Bangla Tutorial Basic to Project Serie](https://www.youtube.com/playlist?list=PL2ozzDVxiDachzWAOiMRrjgrqe7EO-XOv) - CODE ABC
+* [Tailwind CSS Tutorials in Bangla](https://www.youtube.com/playlist?list=PLerpoOYRrjUxnfWO73zj2R_y-e_Dw1ine) - Programming Shikhbo
 
 
 ### IDE and editors

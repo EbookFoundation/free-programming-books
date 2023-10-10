@@ -6,7 +6,9 @@
 * [C++](#cpp)
 * [C#](#csharp)
 * [Compiler Design](#compiler-design)
+* [Compiler Networking](#computer-networking)
 * [Data Structure](#data-structure)
+* [Distributed Computing](#distributed-computing)
 * [Docker](#docker)
 * [Flutter](#flutter)
 * [Game Development](#game-development)
@@ -66,9 +68,20 @@
 * [Compiler Design](https://www.youtube.com/playlist?list=PLwe8bwPXjlLtPlbzxU_SICYI3PeYpEAtJ) -  Learn CSE Malayalam
 
 
+### Computer Networking
+
+* [Computer Networks - S5](https://www.youtube.com/playlist?list=PLI74-7rtCb9BRUw6JzCm_wwLdQJc3jSwO) -  Eduline CSE Knowledge Sharing Platform
+* [CCNA Malayalam Tutorial(s)](https://www.youtube.com/playlist?list=PLO7o5VCTCpe-7jj04hLM002hQM5J-f3tl) -  Networking Malayalam
+
+
 ### Data Structure
 
 * [Data Structure Challenge](https://youtube.com/playlist?list=PLY-ecO2csVHc5kajCd3fHU6MhkTABkRh9) - Brototype Malayalam
+
+
+### Distributed Computing
+
+* [Distributed Computing KTU 2019 Scheme](https://www.youtube.com/playlist?list=PLOFxFYuwv2Bs7dYmPIK1_yuQMxmN1P8V8) - Edu Smash
 
 
 ### Docker

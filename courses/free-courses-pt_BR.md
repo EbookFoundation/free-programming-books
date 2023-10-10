@@ -26,6 +26,7 @@
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
 * [Linux](#linux)
+* [Logica de Programação](#logica-de-programacao)
 * [Lua](#lua)
 * [Machine Learning](#machine-learning)
 * [Markdown](#markdown)
@@ -162,6 +163,7 @@
 * [Curso completo e atual de HTML5 e CSS3 - Módulo 2 de 5](https://www.youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s) - Gustavo Guanabara (Curso em Vídeo)
 * [Curso completo e atual de HTML5 e CSS3 - Módulo 3 de 5](https://www.youtube.com/playlist?list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ) - Gustavo Guanabara (Curso em Vídeo)
 * [Curso completo e atual de HTML5 e CSS3 - Módulo 4 de 5](https://www.youtube.com/playlist?list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT) - Gustavo Guanabara (Curso em Vídeo)
+* [Curso de HTML, CSS e Bootstrap](https://www.youtube.com/playlist?list=PL8iIphQOyG-Cv3auRYoZtbvzJJrsvdMy-) - Michelli Brito (YouTube)
 * [Introdução à linguagem CSS](https://www.udemy.com/introducao-a-linguagem-css/) - Diego Mariano (Udemy)
 * [Introdução à Linguagem HTML](https://www.udemy.com/introducao-a-linguagem-html/) - Diego Mariano (Udemy)
 
@@ -252,6 +254,10 @@
 * [Curso de Linux - Primeiros Passos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV) - Gustavo Guanabara
 * [Introdução ao Sistema Operacional Linux](https://www.udemy.com/course/linux-ubuntu/) - Diego Mariano (Udemy)
 * [Terminal Linux](https://www.udemy.com/course/terminal-de-comandos-linux/) - Diego Mariano (Udemy)
+
+### Lógica de Programação 
+
+* [Curso de Lógica de programação e algoritmos](https://www.udemy.com/course/logica-de-programacao-e-algoritmos-iniciante/) - Alex Fernando Egidio (Udemy)
 
 
 ### Lua
@@ -375,7 +381,7 @@
 ### Sass
 
 * [Sass placeholders: o jeito certo](https://www.udemy.com/course/sass-placeholders-o-jeito-certo/) - Tárcio Zemel (Udemy)
-
+* [Curso de Sass](https://www.youtube.com/playlist?list=PL97KElaimHeGRtfkksKwxg6IGVZi_cR7J) - Amanda Vilela
 
 ### Shell
 

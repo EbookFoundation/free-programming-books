@@ -648,8 +648,8 @@
 
 ### Fortran
 
-* [Fortran Tutorial](https://www.youtube.com/watch?v=__2UgFNYgf8) - Derek Banas
 * [Fortran Programming Tutorials (Revised)](https://youtube.com/playlist?list=PLNmACol6lYY5_S8I4K29V2oI95nOCzQU8&feature=shared) - Fluidic Colours (YouTube playlist - 41 videos)
+* [Fortran Tutorial](https://www.youtube.com/watch?v=__2UgFNYgf8) - Derek Banas
 
 
 ### Game Development

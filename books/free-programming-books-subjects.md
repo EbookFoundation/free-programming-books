@@ -734,6 +734,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Software Engineering at Google](https://abseil.io/resources/swe-book) - Titus Winters, Tom Manshreck, Hyrum Wright
 * [Software Environment Concepts](https://softwareconcepts.vercel.app) - Amr Elmohamady (:construction: *in process*)
 * [What I've Learned From Failure](https://leanpub.com/shippingsoftware/read) - Reginald Braithwaite
+* [The Pragmatic Programmer](https://github.com/lighthousand/books/blob/master/the-pragmatic-programmer.pdf) - Andrew Hunt, David Thomas (PDF)
 
 
 ### Programming

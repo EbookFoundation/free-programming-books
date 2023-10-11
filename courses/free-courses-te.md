@@ -122,11 +122,11 @@
 * [HTML Tutorials in Telugu || with in "3:30 Hours" || Computersadda.com](https://www.youtube.com/watch?v=cS0TG1iksLM) - Computers adda
 * [HTML in Telugu || HTML in Telugu by Kotha Abhishek](https://www.youtube.com/playlist?list=PLv_sM9ZH4RUWkdiiILVHnNZUsOr2DBS7S) - Chintu Tutorials
 * [HTML for beginners](https://www.youtube.com/playlist?list=PLzdWZT-ZJD08OzQ8MvdnR8dlIbXXYB3CK) - CS World Telugu
-* [HTML5 Tutorial in Telugu | Telugu Web Guru](https://www.youtube.com/playlist?list=PLh6Yk2rpZu2IC_gK6jWE-qtq8sCgPhRwW) - telugu web guru
+* [HTML5 Tutorial in Telugu](https://www.youtube.com/playlist?list=PLh6Yk2rpZu2IC_gK6jWE-qtq8sCgPhRwW) - telugu web guru
 * [CSS Tutorial for Beginners in Telugu | Best CSS tutorial for beginners | CSS3 Tutorial | TechEnlgiht](https://www.youtube.com/watch?v=z7_gt7x6XAM) - TECH ENLIGHT
 * [CSS Tutorials in telugu || CSS in Telugu by Kotha Abhishek](https://www.youtube.com/playlist?list=PLv_sM9ZH4RUVjmxTl5PysFSxJ6VQbdnRc) - Chintu Tutorials
 * [CSS for beginners in telugu](https://www.youtube.com/playlist?list=PLzdWZT-ZJD09lGBkH4LIUwqsCWI7QPEXQ) - CS World Telugu
-* [Full CSS Tutorial in Telugu | Telugu Web Guru](https://www.youtube.com/playlist?list=PLh6Yk2rpZu2IG5smd58WXBEFtoaFGTppW) - telugu web guru
+* [Full CSS Tutorial in Telugu](https://www.youtube.com/playlist?list=PLh6Yk2rpZu2IG5smd58WXBEFtoaFGTppW) - telugu web guru
 
 
 ### <a id="ds"></a>Data Structures

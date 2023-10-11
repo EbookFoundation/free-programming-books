@@ -52,6 +52,7 @@
 
 * [শূন্য থেকে পাইথন মেশিন লার্নিং: হাতেকলমে সাইকিট-লার্ন](https://raqueeb.gitbook.io/scikit-learn/) - Rakibul Hassan (HTML, [Jupyter Notebook](https://github.com/raqueeb/ml-python)) (gitbook)
 * [হাতেকলমে মেশিন লার্নিং: পরিচিতি, প্রজেক্ট টাইটানিক, আর এবং পাইথনসহ](https://rakibul-hassan.gitbook.io/mlbook-titanic/) - Rakibul Hassan (HTML, [scripts](https://github.com/raqueeb/mltraining)) (gitbook)
+* [বাংলায় মেশিন লার্নিং](https://ml.howtocode.dev) - Manos Kumar Mondol (howtocode.dev)
 
 
 ### Misc

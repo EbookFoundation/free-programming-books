@@ -135,7 +135,7 @@
 * [Bash Basic Commands](https://youtube.com/playlist?list=PLzOLSdbK1deOKmOiiv-o4wn7xUj6ZYzrM) - Noob Coders
 * [Bash Scripting tutorial](https://www.youtube.com/playlist?list=PLxLRoXCDIalcosmDOQizh31EIHEK1njfO) - Fortify Solutions
 * [Bash Shell Scripting (NOOB)](https://youtube.com/playlist?list=PLzOLSdbK1deNuVMOw0EkKGSsES-rPeONe) - Noob Coders
-* [shell scripting complete tutorial in hindi](https://youtube.com/playlist?list=PL9A0tISr5Ow5nZSY8-ICNAyXHJKesl_XL) - Cybersploit
+* [shell scripting complete tutorial in Hindi](https://youtube.com/playlist?list=PL9A0tISr5Ow5nZSY8-ICNAyXHJKesl_XL) - Cybersploit
 
 
 ### Blockchain
@@ -336,8 +336,8 @@
 
 #### Tailwind CSS
 
-* [Tailwind css hindi](https://www.youtube.com/playlist?list=PLLCu4ndnReXLXfD-iIGBEB6_l8uF6TMNO) - NST Infotech
-* [Tailwind CSS In Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp3l8tWTcB7R7Bsgd86lCa8a) - Thapa Technical
+* [Tailwind css Hindi](https://www.youtube.com/playlist?list=PLLCu4ndnReXLXfD-iIGBEB6_l8uF6TMNO) - NST Infotech
+* [Tailwind CSS in Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp3l8tWTcB7R7Bsgd86lCa8a) - Thapa Technical
 * [Tailwind CSS Tutorials in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ahwFDuExCpPFHAK829Wto2O) - CodeWithHarry
 
 
@@ -367,7 +367,7 @@
 ### Spring Boot
 
 * [Spring Boot In Hindi](https://www.youtube.com/playlist?list=PLJc-LD5TzDQToG2MOYDAuCl-JFZoMBxgC) - ekumeed help
-* [Spring Boot Tutorial (Full Course in Hindi)](https://www.youtube.com/playlist?list=PLnfapp4Woqprxl6N1r4Gkq87Lkn-IEZ0z) - AndroJava Tech4U
+* [Spring Boot Tutorial (Full Course In Hindi)](https://www.youtube.com/playlist?list=PLnfapp4Woqprxl6N1r4Gkq87Lkn-IEZ0z) - AndroJava Tech4U
 * [Spring Boot Tutorial For Beginners (in Hindi)](https://www.youtube.com/playlist?list=PL5mjp3QjkuoLPS-L28yKCKyzCMX8WRVno) - ProgRank
 * [Spring Boot Tutorial in Hindi](https://www.youtube.com/playlist?list=PL0zysOflRCelmjxj-g4jLr3WKraSU_e8q) - Learn Code With Durgesh
 * [Spring Boot Tutorials in Hindi](https://www.youtube.com/playlist?list=PLwIi8rEnGr6x4U68rbPoFTYvWMjGt4egL) - KK HindiGyan
@@ -380,9 +380,9 @@
 * [JavaScript Introduction Tutorial in Hindi/Urdu](https://www.youtube.com/playlist?list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf) - Yahoo Baba
 * [JavaScript Tutorial for Beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4) - Telusko
 * [JavaScript Tutorial for Beginners (In Hindi)](https://www.youtube.com/playlist?list=PLwGdqUZWnOp1hqyT6h7pY0RlXIIGlE5U0) - Vinod Bahadur Thapa (Thapa Technical)
-* [JavaScript Tutorial for beginners in Hindi/Urdu](https://www.youtube.com/playlist?list=PLw9zMOoodWb5YB2TqrboVoSBkCKaOsvE_) - Husain Sir
+* [JavaScript Tutorial for beginners in Hindi / Urdu](https://www.youtube.com/playlist?list=PLw9zMOoodWb5YB2TqrboVoSBkCKaOsvE_) - Husain Sir
 * [JavaScript Tutorials for Beginners in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR) - CodeWithHarry
-* [JavaScript Tutorials In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL) - CodeWithHarry
+* [JavaScript Tutorials in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL) - CodeWithHarry
 * [Namaste JavaScript](https://youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP) - Akshay Saini
 * [RxJS Series (in Hindi)](https://youtube.com/playlist?list=PLLhsXdvz0qjI68a8tLUUMyXmNhl608mcn) - UX Trendz
 * [Web Development Course](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n) - Apna College
@@ -392,7 +392,7 @@
 
 * [jQuery Tutorial for beginners in Hindi 2020](https://youtube.com/playlist?list=PL-6FWL4WVVWXmWe_HnPG0rBQmmJfGsTKS) - CSEtutorials
 * [jQuery Tutorial in Hindi](https://youtube.com/playlist?list=PLvQjNLQMdagPRDnMQPMs5-vQL_IyAB0St) - Teaching Web
-* [jQuery Tutorials in Hindi / Urdu](https://www.youtube.com/playlist?list=PL0b6OzIxLPbzSyiC0PFaqeabe1aGhfrbW) - Yahoo Baba
+* [jQuery Tutorials in Hindi/Urdu](https://www.youtube.com/playlist?list=PL0b6OzIxLPbzSyiC0PFaqeabe1aGhfrbW) - Yahoo Baba
 * [jQuery Tutorials in Hindi 2018](https://youtube.com/playlist?list=PLwGdqUZWnOp0X4dVwSsEd6dV49TLLCooI) - Vinod Bahadur Thapa (Thapa Technical)
 * [jQuery Video Course](https://www.youtube.com/playlist?list=PLPAcs2twrK5_FzWMttkbTuM0dB5A-ni-Q) - w3webschool.net
 
@@ -433,7 +433,7 @@
 * [React Native Tutorial in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV468O2wk-n8Q1KmtMhnHHj4C) - Code Step By Step
 * [React Native Tutorial in Hindi - 2023](https://www.youtube.com/playlist?list=PLvN7nvnjkvpQribRyQ4r0FYZxKsPLGciy) - Code Diggers
 * [React Native Tutorial in Hindi 2022](https://www.youtube.com/playlist?list=PLwGdqUZWnOp354xMD8u0hxX-1qmCvfLiY) - Thapa Technical
-* [React Native Tutorials (mobile app development) in hindi](https://www.youtube.com/playlist?list=PLB97yPrFwo5gxB5SuNWzH73t2Su65KN2f) - Coders Never Quit
+* [React Native Tutorials (mobile app development) in Hindi](https://www.youtube.com/playlist?list=PLB97yPrFwo5gxB5SuNWzH73t2Su65KN2f) - Coders Never Quit
 * [React Native Tutorials for Begginers](https://youtube.com/playlist?list=PL8kfZyp--gEXs4YsSLtB3KqDtdOFHMjWZ) - Programming with Mash
 
 
@@ -474,9 +474,9 @@
 
 * [Discrete Mathematics](https://www.youtube.com/playlist?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3) - Gate Smashers, `tch.:` Varun Singla, `tch.:` Naina Wadhwa Singla
 * [Discrete Mathematics (Full Course) By Dr.Gajendra Purohit](https://www.youtube.com/playlist?list=PLU6SqdYcYsfJ27O0dvuMwafS3X8CecqUg) - Gajendra Purohit
-* [Discrete Mathematics Tutorials in Hindi - B.TECH- B.E.-UGC NET- GATE- LECTURES in Hindi](https://www.youtube.com/playlist?list=PLL8qj6F8dGlTX359q-PBBUFw3BrBvAxq3) - Deepak Garg
+* [Discrete Mathematics Tutorials In Hindi | B.TECH- B.E.-UGC NET- GATE- LECTURES In Hindi](https://www.youtube.com/playlist?list=PLL8qj6F8dGlTX359q-PBBUFw3BrBvAxq3) - Deepak Garg
 * [Maths for CP](https://youtube.com/playlist?list=PL-Jc9J83PIiFs8E0EGeckM89cD8E6sFro) - Pepcoding
-* [Statistics And Probability](https://www.youtube.com/playlist?list=PLU6SqdYcYsfLRq3tu-g_hvkHDcorrtcBK) - Gajendra Purohit
+* [Statistics and Probability](https://www.youtube.com/playlist?list=PLU6SqdYcYsfLRq3tu-g_hvkHDcorrtcBK) - Gajendra Purohit
 
 
 ### Matlab
@@ -520,17 +520,17 @@
 ### PHP
 
 * [Core PHP (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhigFdLdbSI2EM2MrJB7I0j-B) - Rajesh Kumar, Geeky Shows
-* [PHP MYSQL Tutorial In Hindi - Backend Development in Hindi in 2020](https://www.youtube.com/playlist?list=PLwGdqUZWnOp1U4kemcU_vF9KQuHXlNxkb) - Thapa Technical
+* [PHP MYSQL Tutorial In Hindi \| Backend Development in Hindi in 2020](https://www.youtube.com/playlist?list=PLwGdqUZWnOp1U4kemcU_vF9KQuHXlNxkb) - Thapa Technical
 * [PHP OOP Tutorial in Hindi / Urdu](https://www.youtube.com/playlist?list=PL0b6OzIxLPbwoi6Urr4LZTz2AMMCtzqDt) - Yahoo Baba
 * [PHP Tutorial for beginners in Hindi](https://www.youtube.com/playlist?list=PLmGElG-9wxc_Hp_bqKH0-cpeboH1_sQg7) - ScoreShala
-* [PHP Tutorial in Hindi / Urdu](https://www.youtube.com/playlist?list=PL0b6OzIxLPbyrzCMJOFzLnf_-_5E_dkzs) - Yahoo Baba
+* [PHP Tutorial in Hindi/Urdu](https://www.youtube.com/playlist?list=PL0b6OzIxLPbyrzCMJOFzLnf_-_5E_dkzs) - Yahoo Baba
 * [PHP Tutorials in Hindi](https://youtube.com/playlist?list=PLu0W_9lII9aikXkRE0WxDt1vozo3hnmtR) - CodeWithHarry
 
 
 ### Laravel
 
 * [Laravel (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhijEqjCa63l0GkWh5EsG5iTR) - Geeky Shows
-* [Laravel 10 Tutorial Course in Hindi / Urdu](https://www.youtube.com/playlist?list=PL0b6OzIxLPbz7JK_YYrRJ1KxlGG4diZHJ) - Yahoo Baba
+* [Laravel 10 Tutorial Course in Hindi/Urdu](https://www.youtube.com/playlist?list=PL0b6OzIxLPbz7JK_YYrRJ1KxlGG4diZHJ) - Yahoo Baba
 * [Laravel 9 Course in Hindi/Urdu](https://www.youtube.com/playlist?list=PLDc9bt_00KcLME8wcKFNCF-9nP21L2nB2) - Career Development Lab
 * [Laravel 9 tutorial in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV44dF7G_uPK_9ZHCQon15flp) - Code Step By Step
 * [Laravel Framework Complete Tutorial for Beginners to Pro [HINDI]](https://www.youtube.com/playlist?list=PLjVLYmrlmjGfh2rwJjrmKNHzGxCZwBsqj) - WsCube Tech
@@ -551,7 +551,7 @@
 * [Python For Beginners](https://youtube.com/playlist?list=PL-5gYa7CLd4iBdPHRaSEwbivCnUq1nxj9) - Technical Sagar
 * [Python Full Course in Hindi](https://www.youtube.com/watch?v=eTyI-M50Hu4) - "Great Learning"
 * [Python Programming in Hindi](https://www.greatlearning.in/academy/learn-for-free/courses/python-programming-in-hindi) (Great Learning) *(account required)*
-* [Python Tutorial For Beginners - Hindi (With Notes)](https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME) - CodeWithHarry
+* [Python Tutorial For Beginners \| Hindi (With Notes)](https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME) - CodeWithHarry
 * [Python Tutorial in Hindi](https://www.youtube.com/playlist?list=PLQbQOmlGYH3tC535nKa7xB7dd7pZtYMZX) - edureka! Hindi
 
 
@@ -568,7 +568,7 @@
 #### Flask
 
 * [[Hindi] Flask Tutorial For Beginners 2020](https://www.youtube.com/playlist?list=PLkPmSWtWNIyQ-_mlHIQho9nCnxdbvnQIl) - Knowledge Shelf
-* [Flask (Python) In Hindi](https://www.youtube.com/playlist?list=PLy-CGmBdq2VGQGbhmSQEOD3Ty-Fp19pGC) - HindiSiksha
+* [Flask (Python) in Hindi](https://www.youtube.com/playlist?list=PLy-CGmBdq2VGQGbhmSQEOD3Ty-Fp19pGC) - HindiSiksha
 * [Web Development Using Flask and Python](https://www.youtube.com/playlist?list=PLu0W_9lII9agAiWp6Y41ueUKx1VcTRxmf) - CodeWithHarry
 
 
@@ -585,7 +585,7 @@
 
 ### Ruby
 
-* [Learn Ruby in 45 Minutes in Hindi](https://www.youtube.com/watch?v=3V9a_WYEQPA) - CS Geeks
+* [Learn Ruby in 45 Minutes \| Hindi](https://www.youtube.com/watch?v=3V9a_WYEQPA) - CS Geeks
 
 
 #### Ruby on Rails
@@ -603,8 +603,8 @@
 ### Security
 
 * [cyber security course for beginners - Urdu/Hindi](https://www.youtube.com/playlist?list=PLKJfBg0XdWkevCEJ64RK11LylBNX2-zbk) - hashintelligence
-* [Cyber Security Tutorial In Hindi](https://www.youtube.com/playlist?list=PL-JvKqQx2AteIbm-z4X709scVr9OaHpIY) - University Academy
-* [Cyber Security Tutorials In HIndi](https://www.youtube.com/playlist?list=PL0fjgIGwLMWTFmZoLdEPoI9azA-osxcQj) - TechChip
+* [Cyber Security Tutorial in Hindi](https://www.youtube.com/playlist?list=PL-JvKqQx2AteIbm-z4X709scVr9OaHpIY) - University Academy
+* [Cyber Security Tutorials in HIndi](https://www.youtube.com/playlist?list=PL0fjgIGwLMWTFmZoLdEPoI9azA-osxcQj) - TechChip
 * [Ethical Hacking Full Couse (Cyber Security in Hindi)](https://www.youtube.com/playlist?list=PLa2xctTiNSCibSUhgYI2RT_loUJP9rDN6) - Masters in IT
 * [Information And Cyber Security](https://www.youtube.com/playlist?list=PLYwpaL_SFmcArHtWmbs_vXX6soTK3WEJw) - 5 Minutes Engineering
 

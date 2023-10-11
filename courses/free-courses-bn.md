@@ -206,6 +206,7 @@ Online School
 * [React JS Bangla Tutorial \| React Tutorial For Beginners](https://www.youtube.com/playlist?list=PLNMnAEqLBwmqvuLEb5fVyGfcdMMlrEsHL) - Hablu Programmer
 * [Understand ReactJS Advanced Features](https://www.youtube.com/playlist?list=PL_XxuZqN0xVBaeF3qUyvr2AxoXGwDd5cx) - Stack Learner
 * [Understand ReactJS Core Features](https://www.youtube.com/playlist?list=PL_XxuZqN0xVBANld2gDEE6_0G886zavUs) - Stack Learner
+* [১ ভিডিওতে রিয়্যাক্ট শিখুন ! ফুল কোর্স](https://www.youtube.com/watch?v=6wilewRV3xQ) - Rabbil Hasan
 
 
 #### Svelte

@@ -102,6 +102,7 @@ Online School
 
 ### Git
 
+* [Git & GitHub Crash Course - Bangla Tutorial](https://www.youtube.com/watch?v=M-qSAdWFs9c) - Procoder BD
 * [Crash Course - সহজ বাংলায় Git & GitHub - Bangla ( বাংলা ) Tutorial](https://www.youtube.com/watch?v=oe21Nlq8GS4) - Sumit Saha (Learn with Sumit)
 * [Git & GitHub complete course Bangla (Beginner to Advanced)](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL-) - Anisul Islam
 * [Git and Github in One Video (Theory + Practical) \| A 2 Z in Bangla](https://www.youtube.com/watch?v=4KdGgGsIDeA) - SHAJ.T3CH

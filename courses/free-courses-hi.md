@@ -187,7 +187,6 @@
 
 ### Competitive Programming
 
-* [Competitive Programming Level-1 (Beginner)](https://youtube.com/playlist?list=PL40a3hTWsqXAw6cnRALe06QzPfeqnOBo6) - Chirag Jain
 * [Competitive Programming Series - Java Placement Course](https://www.youtube.com/playlist?list=PLjVLYmrlmjGfHs-LbtPOrlQHA37LFQg3S) - Wscube Tech
 
 * [Competitive Programming/DSA Course \| Hindi](https://www.youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-) - Luv

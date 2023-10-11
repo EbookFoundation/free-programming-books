@@ -7,6 +7,7 @@
 * [Bash and Shell](#bash-and-shell)
 * [Bootstrap](#bootstrap)
 * [C](#c)
+* [C#](#csharp)
 * [C++](#cpp)
 * [Cloud Computing](#cloud-computing)
 * [Compiler Design](#compiler-design)
@@ -73,6 +74,10 @@
 * [C Language Tutorial](https://www.youtube.com/playlist?list=PL3KKfF5A0sSKZutcrUiTCQDX0hn7Tw61E) - Telugu Scit Tutorials
 * [C Language Tutorials](https://www.youtube.com/playlist?list=PLC2mgeYbYNm-n8Iz-_3MuNsJFzr0UlGUu) - Telugu Computer World
 
+### C#
+
+* [C# Tutorials in Telugu](https://www.youtube.com/playlist?list=PLbMVPNscUopQ6GM0vV9DVH4Sd8c2W99GM) - Python Life
+* [C# Tutorial for Beginners in Telugu](https://www.youtube.com/playlist?list=PLANRDZaL1nluwDu5GOb2oMb5OhyH6x0Km) - Telugu Programmer 
 
 ### <a id="cpp"></a>C++
 

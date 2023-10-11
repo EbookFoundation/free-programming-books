@@ -445,6 +445,7 @@
 
 ### Cuda
 
+* [CUDA Tutorials](https://youtube.com/playlist?list=PLKK11Ligqititws0ZOoGk3SW-TZCar4dK) - Creel
 * [Intro to Parallel Programming Using CUDA to Harness the Power of GPUs](https://www.udacity.com/course/intro-to-parallel-programming--cs344) (Udacity)
 
 
@@ -650,6 +651,7 @@
 
 ### Fortran
 
+* [Fortran Programming Tutorials (Revised)](https://youtube.com/playlist?list=PLNmACol6lYY5_S8I4K29V2oI95nOCzQU8) - Fluidic Colours
 * [Fortran Tutorial](https://www.youtube.com/watch?v=__2UgFNYgf8) - Derek Banas
 
 
@@ -772,6 +774,7 @@
 * [HTML5 and CSS3 Fundamentals](https://www.udemy.com/course/html5-fundamentals-for-beginners/) - Stone River eLearning (Udemy)
 * [Learn how to program: CSS](https://www.learnhowtoprogram.com/css) - Epicodus Inc.
 * [Learn HTML and CSS](https://www.bitdegree.org/courses/coding-for-beginners-space-doggos) (BitDegree)
+* [Learn HTML and CSS with 5 projects](https://scrimba.com/learn/htmlandcss) - Per Harald Borgen (Scrimba)
 * [Learn HTML5 Programming From Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)
 * [Learn to style HTML using CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 * [Responsive Web Design with HTML5 and CSS3 - Advanced](https://www.udemy.com/course/responsive-web-design-with-html5-and-css3-advanced/) - Udemy
@@ -1099,6 +1102,7 @@
 * [Kotlin Course - Tutorial for Beginners](https://www.youtube.com/watch?v=F9UC9DY-vIU) - Nate Ebel, freeCodeCamp
 * [Kotlin for Java Developers](https://www.coursera.org/learn/kotlin-for-java-developers) - Svetlana Isakova, Andrey Breslav (Coursera)
 * [Kotlin Newbie To Pro](https://www.youtube.com/playlist?list=PLQkwcJG4YTCRSQikwhtoApYs9ij_Hc5Z9) - Philipp Lackner
+* [Kotlin Tutorial](https://www.youtube.com/playlist?list=PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh) - Telusko
 * [Kotlin Tutorial for Beginners: Basics and Fundamentals for Android](https://www.youtube.com/playlist?list=PLlxmoA0rQ-LwgK1JsnMsakYNACYGa1cjR) - Smartherd
 * [One hour Kotlin guide for beginners](https://www.udemy.com/course/one-hour-kotlin-guide-for-beginners) - Tutlets Kkang (Udemy)
 * [Track: Kotlin Basics](https://hyperskill.org/tracks/18) - Hyperskill, JetBrains (Hyperskill)
@@ -1593,8 +1597,11 @@
 * [Advanced Custom Fields (ACF) Tutorials](https://www.youtube.com/playlist?list=PLTbrc9HXDstqm7yNAadSwwypHR_iEWLR_) - WPTuts
 * [Advanced WordPress Theme Development Course](https://www.youtube.com/playlist?list=PLD8nQCAhR3tT3ehpyOpoYeUj3KHDEVK9h) - Imran Sayed - Codeytek Academy
 * [Astra Theme Tutorials](https://www.youtube.com/playlist?list=PLgJeRQxEOJmoYLvxOCq3DJB5q6LWJWKjH) - Ferdy Korpershoek
+* [Complete WooCommerce eCommerce WordPress Tutorials](https://www.youtube.com/playlist?list=PLjR7HjmPoicEyJPKnoj5w7rdPIKjJ-KZu) - Nayyar Shaikh
 * [Elementor Pro Tutorials](https://www.youtube.com/playlist?list=PLgJeRQxEOJmq5hR8yETsu3zPFmpoxCeMq) - Ferdy Korpershoek
 * [How To Customize WooCommerce](https://www.youtube.com/playlist?list=PLTbrc9HXDstpihLrQIWtmExd9f1tiAYET) - WPTuts
+* [WordPress Elementor Pro Tutorials](https://www.youtube.com/playlist?list=PLjR7HjmPoicEVCFa75468V_XVA47FLJO4) - Nayyar Shaikh
+* [WordPress Tips and Tricks](https://www.youtube.com/playlist?list=PLjR7HjmPoicHi7wS3JK2dGfBmoDFCg7o8) - Nayyar Shaikh
 
 
 ### YAML

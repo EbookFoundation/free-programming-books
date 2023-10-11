@@ -593,7 +593,7 @@
 
 #### Jenkins
 
-* [FREE Advanced Jenkins in K8s (Docker in Docker)](https://www.udemy.com/course/free-advanced-jenkins-in-k8s-docker-in-docker) -  CS Career Kaizen (Udemy)
+* [FREE Advanced Jenkins in K8s (Docker in Docker)](https://www.udemy.com/course/free-advanced-jenkins-in-k8s-docker-in-docker) - CS Career Kaizen (Udemy)
 * [Jenkins](https://youtube.com/playlist?list=PLhW3qG5bs-L_ZCOA4zNPSoGbnVQ-rp_dG) - Automation Step by Step
 * [Jenkins Devops](https://youtube.com/playlist?list=PL87padGs1bp9X95IxGQtFW44qWzywhbHM&si=tBgw4dwt8FYwobse) - Java Express
 * [Jenkins \| Step-by-Step for Complete Beginners](https://www.udemy.com/course/jenkins-step-by-step-for-complete-beginners/) - Raghav Pal (Udemy)

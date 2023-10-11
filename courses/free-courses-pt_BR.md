@@ -316,8 +316,8 @@
 ### Programação
 
 * [Algoritmos de Ordenação](https://www.youtube.com/playlist?list=PLzZut2slkqywtFxqTY8AQwIG65h_2oMBL) - Bruno Ribas
-* [Curso Lógica de Programação Completo 2023 [Iniciantes] + Desafios + Muita prática](https://www.youtube.com/watch?v=iF2MdbrTiBM) - Jonathan de Souza
 * [Curso de Lógica de programação e algoritmos](https://www.udemy.com/course/logica-de-programacao-e-algoritmos-iniciante/) - Alex Fernando Egidio (Udemy)
+* [Curso Lógica de Programação Completo 2023 [Iniciantes] + Desafios + Muita prática](https://www.youtube.com/watch?v=iF2MdbrTiBM) - Jonathan de Souza
 
 
 ### Python

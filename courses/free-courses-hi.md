@@ -422,7 +422,7 @@
 
 #### Redux
 
-* [Redux toolkit crash course | Chai aur React Series](https://www.youtube.com/watch?v=1i04-A7kfFI) - Hitesh Choudhary (Chai aur Code)
+* [Redux toolkit crash course &#124; Chai aur React Series](https://www.youtube.com/watch?v=1i04-A7kfFI) - Hitesh Choudhary (Chai aur Code)
 * [Redux Toolkit tutorial in Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp2nz2T6SfWX9t6D6SYn3XlN) - Vinod Bahadur Thapa (Thapa Technical)
 
 

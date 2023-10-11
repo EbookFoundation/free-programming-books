@@ -216,7 +216,7 @@
     * [译作](http://example.com/book-zh.html) - John Doe，`trl.:` 译者麦克
     ```
     这里，注解「trl.:」使用「翻译器」的 MARC 相关程式码。
-- 使用逗号「,」来分隔作者清单中的每个项目。
+- 使用逗号「，」来分隔作者清单中的每个项目。
 - 您可以使用「`et al.`」来缩短作者清单。
 - 我们不允许创作者连结。
 - 对于编译或混音作品，「创作者」可能需要描述。例如，「Go​​alKicker」或「RIP Tutorial」书籍被标记为「`Compiled from StackOverflow Documentation`」。

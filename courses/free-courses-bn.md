@@ -111,6 +111,7 @@ Online School
 
 ### Go
 
+* [Bangla Go/Golang Course](https://www.youtube.com/playlist?list=PLHkC-Z1xxZM7y5XxlZFQmI-M8jsAI2AQd) - Backend Ninja
 * [Go Bangla Tutorials 2022](https://www.youtube.com/playlist?list=PLgH5QX0i9K3rtasmmoS_EWXdg0X-eX_x8) - Anisul Islam
 * [Golang Web Development Bangla](https://www.youtube.com/playlist?list=PLF4a815a8kFzPOFGV7uXsm2j1Of9cCwpx) - Learn with Raihan
 * [Golang কোডিং বুট ক্যাম্প ক্লাস](https://youtube.com/playlist?list=PLZij6bgEHkTXRakAtponkmP2CmlTTKlxl) - MASTER-ACADEMY

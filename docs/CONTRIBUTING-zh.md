@@ -186,107 +186,105 @@
 虽然基础知识相对简单，但我们列出的资源却多种多样。以下是关于我们如何处理这种多样性的一些说明。
 
 
-#### 元數據
+#### 元数据
 
-我們的清單提供了一組最小的元資料：標題、URL、創建者、平台和存取註釋。
-
-
-##### 標題
-
-- 沒有發明的標題。我們嘗試從資源本身取得標題；告誡撰稿人不要發明標題或在編輯中使用它們，如果可以避免的話。較舊的作品除外；如果它們主要具有歷史意義，標題後面括號中的年份可以幫助使用者知道它們是否感興趣。
-- 沒有全大寫標題。通常標題大小寫是合適的，但如有疑問，請使用來源中的大寫
-- 沒有表情符號。
+我们的清单提供了一组最小的元资料：标题、URL、创建者、平台和存取注释。
 
 
-##### 網址
+##### 标题
 
-- 我們不允許使用縮短的網址。
-- 必須從網址中刪除追蹤程式碼。
-- 國際網址應進行轉義。瀏覽器列通常會將這些內容呈現為 Unicode，但請使用複製和貼上。
-- 安全性 (`https`) URL 始終優先於已實作 HTTPS 的非安全性 (`http`)網址。
-- 我們不喜歡網址指向不託管所列資源的網頁，而是指向其他地方。
+- 没有发明的标题。我们尝试从资源本身取得标题；告诫撰稿人不要发明标题或在编辑中使用它们，如果可以避免的话。较旧的作品除外；如果它们主要具有历史意义，标题后面括号中的年份可以帮助使用者知道它们是否感兴趣。
+- 没有全大写标题。通常标题大小写是合适的，但如有疑问，请使用来源中的大写
+- 没有表情符号。
 
 
-##### 創作者
+##### 网址
 
-- 我們希望在適當的情況下讚揚免費資源的創建者，包括翻譯人員！
-- 翻譯作品，應註明原作者。我們建議使用 [MARC relators](https://loc.gov/marc/relators/relaterm.html) 來表彰作者以外的創作者，如下例所示：
+- 我们不允许使用缩短的网址。
+- 必须从网址中删除追踪程式码。
+- 国际网址应进行转义。浏览器列通常会将这些内容呈现为 Unicode，但请使用复制和贴上。
+- 安全性 (`https`) URL 始终优先于已实作 HTTPS 的非安全性 (`http`)网址。
+- 我们不喜欢网址指向不托管所列资源的网页，而是指向其他地方。
+
+
+##### 创作者
+
+- 我们希望在适当的情况下赞扬免费资源的创建者，包括翻译人员！
+- 翻译作品，应注明原作者。我们建议使用 [MARC relators](https://loc.gov/marc/relators/relaterm.html) 来表彰作者以外的创作者，如下例所示：
 
     ```markdown
-    * [一本翻譯書](http://example.com/book-zh.html) - John Doe，`trl.:` 翻譯者麥克
+    * [一本翻译书](http://example.com/book-zh.html) - John Doe，`trl.:` 翻译者麦克
     ```
-   這裡，註解「trl.:」使用「翻譯器」的 MARC 相關程式碼。
-- 使用逗號「,」來分隔作者清單中的每個項目。
-- 您可以使用「`et al.`」來縮短作者清單。
-- 我們不允許創作者連結。
-- 對於編譯或混音作品，「創作者」可能需要描述。例如，「Go​​alKicker」或「RIP Tutorial」書籍被標記為「`Compiled from StackOverflow Documentation`」。
+    这里，注解「trl.:」使用「翻译器」的 MARC 相关程式码。
+- 使用逗号「,」来分隔作者清单中的每个项目。
+- 您可以使用「`et al.`」来缩短作者清单。
+- 我们不允许创作者连结。
+- 对于编译或混音作品，「创作者」可能需要描述。例如，「Go​​alKicker」或「RIP Tutorial」书籍被标记为「`Compiled from StackOverflow Documentation`」。
 
 
-##### 平台及接入註意事項
+##### 平台及接入注意事项
 
-- 培訓班。特別是對於我們的課程清單來說，平台是資源描述的重要組成部分。這是因為課程平台具有不同的可供性和可訪問性模式。雖然我們通常不會列出需要註冊的書籍，但許多課程平台都有一些功能，如果沒有某種帳戶就無法使用。範例課程平台包括 Coursera、EdX、Udacity 和 Udemy。當課程依賴平台時，平台名稱應列在括號中。
-- Youtube.我們有許多包含 YouTube 播放清單的課程。我們不會將 YouTube 列為平台，而是嘗試列出 YouTube 創作者，這通常是一個子平台。
-- YouTube影片。我們通常不會連結到單一 YouTube 視頻，除非它們的長度超過一個小時並且結構類似於課程或教程。
-- Leanpub。 Leanpub 託管具有多種存取模式的書籍。有時一本書無需註冊即可閱讀；有時一本書需要 Leanpub 帳戶才能免費存取。考慮到書籍的品質以及 Leanpub 存取模型的混合性和流動性，我們允許使用存取註釋「*（Leanpub 帳戶或請求的有效電子郵件）*」列出後者。
+- 培训班。特别是对于我们的课程清单来说，平台是资源描述的重要组成部分。这是因为课程平台具有不同的可供性和可访问性模式。虽然我们通常不会列出需要注册的书籍，但许多课程平台都有一些功能，如果没有某种帐户就无法使用。范例课程平台包括 Coursera、EdX、Udacity 和 Udemy。当课程依赖平台时，平台名称应列在括号中。
+- Youtube.我们有许多包含 YouTube 播放清单的课程。我们不会将 YouTube 列为平台，而是尝试列出 YouTube 创作者，这通常是一个子平台。
+- YouTube影片。我们通常不会连结到单一 YouTube 视频，除非它们的长度超过一个小时并且结构类似于课程或教程。
+- Leanpub。 Leanpub 托管具有多种存取模式的书籍。有时一本书无需注册即可阅读；有时一本书需要 Leanpub 帐户才能免费存取。考虑到书籍的品质以及 Leanpub 存取模型的混合性和流动性，我们允许使用存取注释「*（Leanpub 帐户或请求的有效电子邮件）*」列出后者。
 
 #### 流派
 
-決定資源屬於哪個清單的第一條規則是查看資源如何描述自己。如果它稱自己為一本書，那麼也許它就是一本書。
+决定资源属于哪个清单的第一条规则是查看资源如何描述自己。如果它称自己为一本书，那么也许它就是一本书。
 
+##### 我们未列出的流派
 
-##### 我們未列出的流派
+由于互联网非常庞大，因此我们不将以下内容包括在列表中：
 
-由於互聯網非常龐大，因此我們不將以下內容包括在列表中：
-
-- 部落格
 - 部落格文章
 - 文章
-- 網站（那些託管我們列出的大量項目的網站除外）。
-- 不是課程或截圖影片的影片。
-- 書籍章節
-- 書中的預告片樣本
-- IRC 或 Telegram 頻道
-- Slack或郵件列表
+- 网站（那些托管我们列出的大量项目的网站除外）。
+- 不是课程或截图影片的影片。
+- 书籍章节
+- 书中的预告片样本
+- IRC 或 Telegram 频道
+- Slack或邮件列表
 
-我們的競爭性節目清單對這些例外情況沒有那麼嚴格。 repo的範圍由社區決定；如果您想建議更改或新增範圍，請使用問題提出建議。
+我们的竞争性节目清单对这些例外情况没有那么严格。 repo的范围由社区决定；如果您想建议更改或新增范围，请使用问题提出建议
 
 
-##### 書籍與其他東西
+##### 书籍与其他东西
 
-我們對書本性並不那麼挑剔。以下是一些表示資源是一本書的屬性：
+我们对书本性并不那么挑剔。以下是一些表示资源是一本书的属性：
 
-- 它有一個 ISBN（國際標準書號）
-- 它有一個目錄
-- 提供可下載版本，尤其是 ePub 檔案。
+- 它有一个 ISBN（国际标准书号）
+- 它有一个目录
+- 提供可下载版本，尤其是 ePub 档案。
 - 它有版本
-- 它不依賴互動內容或視頻
-- 它試圖全面涵蓋一個主題
-- 它是獨立的
+- 它不依赖互动内容或视频
+- 它试图全面涵盖一个主题
+- 它是独立的
 
-我們列出的許多書籍不具備這些屬性；這可能取決於上下文。
-
-
-##### Books vs. Courses
-
-Sometimes these can be hard to distinguish!
-
-Courses often have associated textbooks, which we would list in our books lists. Courses have lectures, exercises, tests, notes or other didactic aids. A single lecture or video by itself is not a course. A powerpoint is not a course.
+我们列出的许多书籍不具备这些属性；这可能取决于上下文。
 
 
-##### Interactive Tutorials vs. Other stuff
+##### 书与课程
 
-If you can print it out and retain its essence, it's not an Interactive Tutorial.
+有时这些可能很难区分！
+
+课程通常有相关的教科书，我们会将其列在图书列表中。课程包括讲座、练习、测试、笔记或其他教学辅助工具。单个讲座或视频本身并不是一门课程。PowerPoint不是课程。
 
 
-### Automation
+##### 交互式教程与其他东西
 
-- Formatting rules enforcement is automated via [GitHub Actions](https://github.com/features/actions) using [fpb-lint](https://github.com/vhf/free-programming-books-lint) (see [`.github/workflows/fpb-lint.yml`](../.github/workflows/fpb-lint.yml))
-- URL validation uses [awesome_bot](https://github.com/dkhamsing/awesome_bot)
-- To trigger URL validation, push a commit that includes a commit message containing `check_urls=file_to_check`:
+如果您可以将其打印出来并保留其精髓，那么它就不是交互式教程。
 
-    ```properties
+
+### 自动化
+
+- 格式化规则的执行是通过以下方式自动执行的 [GitHub Actions](https://github.com/features/actions) 用 [fpb-lint](https://github.com/vhf/free-programming-books-lint) (see [`.github/workflows/fpb-lint.yml`](../.github/workflows/fpb-lint.yml))
+- URL 验证用途 [awesome_bot](https://github.com/dkhamsing/awesome_bot)
+- 要触发 URL 验证，请推送包含以下内容的提交消息的提交 `check_urls=file_to_check`:
+
+    ```特性
     check_urls=free-programming-books.md free-programming-books-zh.md
     ```
-
-- You may specify more than one file to check, using a single space to separate each entry.
-- If you specify more than one file, results of the build are based on the result of the last file checked. You should be aware that you may get passing green builds due to this so be sure to inspect the build log at the end of the Pull Request by clicking on "Show all checks" -> "Details".
+    
+- - 您可以指定多个要检查的文件，使用单个空格分隔每个条目。
+- 如果指定多个文件，则构建结果基于最后检查的文件的结果。您应该意识到，您可能会因此而通过绿色构建，因此请务必通过单击“Show all checks”->“Details”来检查拉取请求末尾的构建日志。

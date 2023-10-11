@@ -6,10 +6,12 @@
 * [Arduino](#arduino)
 * [Artificial Intelligence](#artificial-intelligence)
 * [Assembly](#assembly)
+* [AWS](#aws)
 * [Bash and Shell](#bash-and-shell)
 * [Blockchain](#blockchain)
 * [C](#c)
 * [C#](#csharp)
+    * [ASP.NET](#asp.net)
 * [C++](#cpp)
 * [Competitive Programming](#competitive-programming)
 * [Compiler Design](#compiler-design)
@@ -18,6 +20,7 @@
 * [Data Structures](#data-structures)
 * [Databases](#databases)
 * [DevOps](#devops)
+* [Figma](#figma)
 * [Flutter](#flutter)
 * [Game Development](#game-development)
 * [Git and GitHub](#git-and-github)
@@ -27,11 +30,13 @@
     * [Tailwind CSS](#tailwind-css)
 * [iOS](#ios)
 * [Java](#java)
+    * [Spring Boot](#spring-boot)
 * [JavaScript](#javascript)
     * [jQuery](#jquery)
     * [Next.js](#nextjs)
     * [Node.js](#nodejs)
     * [React](#react)
+    * [React Native](#react-native)
     * [Vue.js](#vuejs)
 * [Kotlin](#kotlin)
 * [Linux](#linux)
@@ -43,6 +48,7 @@
 * [Networking](#networking)
 * [Operating Systems](#operating-systems)
 * [PHP](#php)
+    * [Laravel](#laravel)
 * [Python](#python)
     * [Django](#django)
     * [Flask](#flask)
@@ -51,10 +57,12 @@
 * [Ruby](#ruby)
     * [Ruby on Rails](#ruby-on-rails)
 * [Rust](#rust)
+* [Security](#security)
 * [Software Engineering](#software-engineering)
 * [Swift](#swift)
 * [System Design](#system-design)
 * [TypeScript](#typescript)
+* [WordPress](#wordpress)
 
 
 ### Algorithms
@@ -63,6 +71,7 @@
 * [Binary Search \| Interview Questions \| Coding \| Tutorials \| Algorithm](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2) - Aditya Verma
 * [Binary Trees - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHYxUk8dSu2_G7MR1PaGXN4) - Pepcoding
 * [Bit Manipulation - Level 2](https://youtube.com/playlist?list=PL-Jc9J83PIiFJRioti3ZV7QabwoJK6eKe) - Pepecoding
+* [Data Structures and Algorithms Course in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi) - CodeWithHarry
 * [Data Structures and Algorithms in Python](https://www.youtube.com/playlist?list=PLyMom0n-MBrpakdIZvnhd6PFUCKNAyKo1) - Jovian
 * [Design And Analysis Of Algorithms](https://youtube.com/playlist?list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa) - Gate Smashers
 * [Dynamic Programming Playlist \| Coding \| Interview Questions \| Tutorials \| Algorithm](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go) - Aditya Verma
@@ -113,6 +122,13 @@
 * [x64 Assembly Language](https://www.youtube.com/playlist?list=PL-DxAN1jsRa-3KzeQeEeoL_XpUHKfPL1u) - The Cyber Expert
 
 
+### AWS  
+
+* [AWS Tutorial for Beginners In Hindi](https://www.youtube.com/playlist?list=PLCFe3TcoBniI4iaavlfnR0UGQrtjgOMj9) - Together with Abhi
+* [AWS Tutorial in Hindi | Edureka](https://www.youtube.com/playlist?list=PLQbQOmlGYH3uoa_mYHDJkl958B_dBiaqW) - edureka! Hindi
+* [AWS Tutorials - AWS tutorials For Beginners - AWS Certification - AWS Training - In Hindi](https://www.youtube.com/playlist?list=PL6XT0grm_TfgtwtwUit305qS-HhDvb4du) - Gaurav Sharma
+
+
 ### Bash and Shell
 
 * [Bash Basic Commands](https://youtube.com/playlist?list=PLzOLSdbK1deOKmOiiv-o4wn7xUj6ZYzrM) - Noob Coders
@@ -144,6 +160,13 @@
 * [C# Programming language (Console Applications)](https://www.youtube.com/playlist?list=PLX07l0qxoHFLZftsVKyj3k9kfMca2uaPR) - Learning Never Ends 
 * [C# Tutorial In Hindi](https://www.youtube.com/watch?v=SuLiu5AK9Ps) - CodeWithHarry
 * [C# Tutorial in Hindi for Beginners](https://www.youtube.com/playlist?list=PLV8vIYTIdSnYTYr0bmIbfzYii0YQSPocB) - Easy Engineering Classes
+
+
+### <a id="asp.net"></a>ASP.NET
+
+* [ASP .Net in Hindi](https://www.youtube.com/playlist?list=PLbsXhdgwIKL1g2vE86yGBK_RYuqt98yWL) - ComputerHindiNotes
+* [ASP.NET Core Tutorials in Hindi](https://www.youtube.com/playlist?list=PL18HZjtdIA4Al-wYHC-i2TA-lgXLvHVmB) - Technology Keeda
+* [ASP.NET Course 2023](https://www.youtube.com/playlist?list=PLMoluEXvWXK6Q1h-5vVX4tzX7-O2FdgZA) - Coder Baba
 
 
 ### <a id="cpp"></a>C++
@@ -232,6 +255,13 @@
 * [DevOps Tutorials in Hindi/Urdu \| Devops सीखने का सबसे आसान तरीका \| Complete Devops including Git,Jenkins,Maven,Chef,docker,Ansible and Kubernetes](https://www.youtube.com/playlist?list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10) - Bhupinder Rajput, Technical Guftgu
 
 
+### Figma
+
+* [Figma Tutorial](https://www.youtube.com/playlist?list=PLuRPummNMvINdAbI_WT7R5vdjcyRPeRiq) - Pelfizz Studio
+* [Figma Tutorial In Hindi 2022](https://www.youtube.com/playlist?list=PLwGdqUZWnOp0TlgR6uPLR1s6X_w65FlTl) - Thapa Technical
+* [Figma UI design tutorials in Hindi](https://www.youtube.com/playlist?list=PLt7HkDVHvsa4Nf5qrXG6ozK3ZPTvNe__v) - Graphics Guruji
+
+
 ### Flutter
 
 * [Complete Flutter Tutorial In Hindi By Desi Programmer](https://youtube.com/playlist?list=PLlFwzkUNmr94BF0KH7BYPL7DsZjhJRdTm) - Desi Programmer
@@ -246,9 +276,13 @@
 
 ### Game Development
 
+* [Android Game Development in Urdu/Hindi](https://www.youtube.com/playlist?list=PLU4yvac0MJbJS154x3GVvvTYWE3Ol6WMi) - OnlineUstaad
 * [Complete Course on Python Game Development](https://www.youtube.com/watch?v=Wg9J5kiX0wY) - Techonical Infotech Pvt. Ltd.
 * [Game Development Course](https://www.youtube.com/playlist?list=PLBh8phtAyHPUY9fqgs1w6aHJALJ3_fMSc) - Farhan Aqeel
-* [Game development in Hindi From Beginning to Advance](https://www.youtube.com/playlist?list=PLdOT12odxrUrUExBUuM5KoN0fAnOdzH1L) - Suryadev Chaturvedi
+* [Game development in Hindi From Beginning to Advance 👍🏻](https://www.youtube.com/playlist?list=PLdOT12odxrUrUExBUuM5KoN0fAnOdzH1L) - Logical Programmer
+* [Python Game Development Using Pygame In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ailUQcxEPZrWgDoL36BtPYb) - CodeWithHarry
+* [Unity Game Development Tutorials in Hindi](https://www.youtube.com/playlist?list=PLCqWuVe6WFLJW4urlRk1501OkAGVQtX8q) - Sunny Games & Technology
+* [Unity Tutorial For Beginners In Hindi](https://www.youtube.com/playlist?list=PLSYBX91r-B-QoFxBATZJyle3aXvPtCmLe) - Nikhil Malankar
 
 
 ### Git and GitHub
@@ -320,7 +354,16 @@
 * [Java Tutorials for Beginners](https://www.youtube.com/playlist?list=PLlhM4lkb2sEhfuXL-2BDrJ67WkUdQ2v9b) - Deepak Panwar, Smart Programming
 * [Java Tutorials For Beginners In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q) - CodeWithHarry
 * [Microservice Tutorial in Hindi 2023](https://www.youtube.com/playlist?list=PL0zysOflRCelb2Y4WOVckFC6B050BzV0D) - Learn Code With Durgesh
+* [Spring Framework Tutorial with SpringBoot  in Hindi Complete Course](https://www.youtube.com/playlist?list=PLiOIhBfKi8AIYNWEjYy1zZFe1N8GvPRHR) - CoderX Ankit
+
+
+### Spring Boot
+
+* [Spring Boot In Hindi](https://www.youtube.com/playlist?list=PLJc-LD5TzDQToG2MOYDAuCl-JFZoMBxgC) - ekumeed help
+* [Spring Boot Tutorial (Full Course In Hindi)](https://www.youtube.com/playlist?list=PLnfapp4Woqprxl6N1r4Gkq87Lkn-IEZ0z) - AndroJava Tech4U
 * [Spring Boot Tutorial For Beginners (in Hindi)](https://www.youtube.com/playlist?list=PL5mjp3QjkuoLPS-L28yKCKyzCMX8WRVno) - ProgRank
+* [Spring Boot Tutorial in Hindi](https://www.youtube.com/playlist?list=PL0zysOflRCelmjxj-g4jLr3WKraSU_e8q) - Learn Code With Durgesh
+* [Spring Boot Tutorials In Hindi](https://www.youtube.com/playlist?list=PLwIi8rEnGr6x4U68rbPoFTYvWMjGt4egL) - KK HindiGyan
 
 
 ### JavaScript
@@ -368,13 +411,23 @@
 
 * [React JS (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhignjLLXTJWkRJKN-SgAqClL) - Rajesh Kumar, Geeky Shows
 * [React JS Tutorial in Hindi \| React JS for Beginner to Advanced \| Step by Step Video Tutorials](https://www.youtube.com/playlist?list=PLjVLYmrlmjGdnIQKgnTeR1T9-1ltJEaJh) - WsCubeTech
+* [React JS Tutorials for Begineers in Hindi](https://youtube.com/playlist?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige) - Chai aur Code
 * [React Js Tutorials in Hindi](https://youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt) - Haris Ali Khan, CodeWithHarry
 * [React Tutorial for beginners in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV47BCAjiCtuV_liN9IwAl8pM) - Code Step By Step
 * [React Tutorial in Hindi](https://www.youtube.com/watch?v=RGKi6LSPDLU) - CodeWithHarry
 * [ReactJS Tutorial for Beginners to Advanced](https://youtube.com/playlist?list=PL_HlKez9XCSO1g7c61SyJZE4iehJDFg_w) - Technical Suneja 
 * [ReactJS Tutorial in Hindi 2020](https://www.youtube.com/playlist?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ) - Vinod Bahadur Thapa (Thapa Technical)
 * [ReactJS Tutorials for Beginners In Hindi](https://www.youtube.com/playlist?list=PLUVqY59GNZQNTlOnGne0G7DXnmi7CeOtc) - Pradeep Maurya
-* [ReactNative Tutorials for Begginers](https://youtube.com/playlist?list=PL8kfZyp--gEXs4YsSLtB3KqDtdOFHMjWZ) - Programming with Mash
+
+
+### React Native
+
+* [React Native hindi tutorial](https://www.youtube.com/playlist?list=PL8p2I9GklV479IV5cXwKXqGOcCOu0bPXW) - Code Step By Step
+* [React Native Tutorial in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV468O2wk-n8Q1KmtMhnHHj4C) - Code Step By Step
+* [React Native Tutorial In Hindi - 2023](https://www.youtube.com/playlist?list=PLvN7nvnjkvpQribRyQ4r0FYZxKsPLGciy) - Code Diggers
+* [React Native Tutorial in Hindi 2022](https://www.youtube.com/playlist?list=PLwGdqUZWnOp354xMD8u0hxX-1qmCvfLiY) - Thapa Technical
+* [React Native Tutorials (mobile app development) in hindi](https://www.youtube.com/playlist?list=PLB97yPrFwo5gxB5SuNWzH73t2Su65KN2f) - Coders Never Quit
+* [React Native Tutorials for Begginers](https://youtube.com/playlist?list=PL8kfZyp--gEXs4YsSLtB3KqDtdOFHMjWZ) - Programming with Mash
 
 
 #### Vue.js
@@ -415,6 +468,7 @@
 * [Discrete Mathematics](https://www.youtube.com/playlist?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3) - Gate Smashers, `tch.:` Varun Singla, `tch.:` Naina Wadhwa Singla
 * [Discrete Mathematics (Full Course) By Dr.Gajendra Purohit](https://www.youtube.com/playlist?list=PLU6SqdYcYsfJ27O0dvuMwafS3X8CecqUg) - Gajendra Purohit
 * [Discrete Mathematics Tutorials In Hindi | B.TECH- B.E.-UGC NET- GATE- LECTURES In Hindi](https://www.youtube.com/playlist?list=PLL8qj6F8dGlTX359q-PBBUFw3BrBvAxq3) - Deepak Garg
+* [Maths for CP](https://youtube.com/playlist?list=PL-Jc9J83PIiFs8E0EGeckM89cD8E6sFro) - Pepcoding
 * [Statistics And Probability](https://www.youtube.com/playlist?list=PLU6SqdYcYsfLRq3tu-g_hvkHDcorrtcBK) - Gajendra Purohit
 
 
@@ -460,9 +514,20 @@
 
 * [Core PHP (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhigFdLdbSI2EM2MrJB7I0j-B) - Rajesh Kumar, Geeky Shows
 * [PHP MYSQL Tutorial In Hindi \| Backend Development in Hindi in 2020](https://www.youtube.com/playlist?list=PLwGdqUZWnOp1U4kemcU_vF9KQuHXlNxkb) - Thapa Technical
+* [PHP OOP Tutorial in Hindi / Urdu](https://www.youtube.com/playlist?list=PL0b6OzIxLPbwoi6Urr4LZTz2AMMCtzqDt) - Yahoo Baba
 * [PHP Tutorial for beginners in Hindi](https://www.youtube.com/playlist?list=PLmGElG-9wxc_Hp_bqKH0-cpeboH1_sQg7) - ScoreShala
 * [PHP Tutorial in Hindi / Urdu](https://www.youtube.com/playlist?list=PL0b6OzIxLPbyrzCMJOFzLnf_-_5E_dkzs) - Yahoo Baba
 * [PHP Tutorials in Hindi](https://youtube.com/playlist?list=PLu0W_9lII9aikXkRE0WxDt1vozo3hnmtR) - CodeWithHarry
+
+
+### Laravel
+
+* [Laravel (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhijEqjCa63l0GkWh5EsG5iTR) - Geeky Shows
+* [Laravel 10 Tutorial Course in Hindi / Urdu](https://www.youtube.com/playlist?list=PL0b6OzIxLPbz7JK_YYrRJ1KxlGG4diZHJ) - Yahoo Baba
+* [Laravel 9 Course in Hindi/Urdu](https://www.youtube.com/playlist?list=PLDc9bt_00KcLME8wcKFNCF-9nP21L2nB2) - Career Development Lab
+* [Laravel 9 tutorial in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV44dF7G_uPK_9ZHCQon15flp) - Code Step By Step
+* [Laravel Framework Complete Tutorial for Beginners to Pro [HINDI]](https://www.youtube.com/playlist?list=PLjVLYmrlmjGfh2rwJjrmKNHzGxCZwBsqj) - WsCube Tech
+* [Step by step learn Laravel 7 in Hindi](https://www.youtube.com/playlist?list=PLWCLxMult9xeJEntBQFZfOxUzDvkuq6uM) - Programming with Vishal
 
 
 ### Python
@@ -523,11 +588,23 @@
 ### Rust
 
 * [Rust Complete Tutorial In Hindi](https://www.youtube.com/playlist?list=PLRuqvIc0eAmp8Lv6M4BKQWEinvCuqdVFP) - One Two Coding
+* [Rust Programming Complete Tutorial In Hindi 2023.](https://www.youtube.com/playlist?list=PLndmg9UIKNomnnSxd__VKkUX4zT1YpSoY) - Code Your Money
+* [Rust-Programming in Hindi](https://www.youtube.com/playlist?list=PL8fnAiiuQeFsss4xdjXyHJ4fT4_w10s3J) - Go Guru
+
+
+### Security
+
+* [cyber security course for beginners - Urdu/Hindi](https://www.youtube.com/playlist?list=PLKJfBg0XdWkevCEJ64RK11LylBNX2-zbk) - hashintelligence
+* [Cyber Security Tutorial In Hindi](https://www.youtube.com/playlist?list=PL-JvKqQx2AteIbm-z4X709scVr9OaHpIY) - University Academy
+* [Cyber Security Tutorials In HIndi](https://www.youtube.com/playlist?list=PL0fjgIGwLMWTFmZoLdEPoI9azA-osxcQj) - TechChip
+* [Ethical Hacking Full Couse (Cyber Security in Hindi)](https://www.youtube.com/playlist?list=PLa2xctTiNSCibSUhgYI2RT_loUJP9rDN6) - Masters in IT
+* [Information And Cyber Security](https://www.youtube.com/playlist?list=PLYwpaL_SFmcArHtWmbs_vXX6soTK3WEJw) - 5 Minutes Engineering
 
 
 ### Software Engineering
 
 * [Software Engineering](https://www.youtube.com/playlist?list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2) - Gate Smashers
+* [Software Engineering](https://www.youtube.com/playlist?list=PLmXKhU9FNesTrw7n8ouPsSLEcduRlENHr) - Knowledge Gate
 * [Software Engineering Lectures](https://youtube.com/playlist?list=PLV8vIYTIdSnat3WCO9jfehtZyjnxb74wm) - Easy Engineering Classes
 
 
@@ -545,3 +622,12 @@
 ### TypeScript
 
 * [Typescript Tutorial for Beginners in Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp0xfHQFmlL52b_6-QZ0mnk_) - Thapa Technical
+
+
+### Wordpress
+
+* [Advanced Ecommerce Website - Elementor - Urdu & Hindi](https://www.youtube.com/playlist?list=PL6Kd_lvAfBuZzR48t6mEWclYMN0C85aNE) - WP Academy
+* [WordPress Plugin Development Tutorials in Urdu-Hindi](https://www.youtube.com/playlist?list=PL6Kd_lvAfBuYzxHmbOdoXjBuW6pFs_xja) - WP Academy
+* [WordPress Theme Development Complete Course Tutorial in Hindi](https://www.youtube.com/playlist?list=PLjVLYmrlmjGc_A9H4NSLEHaD8kSz9Q38g) - WsCube Tech
+* [Wordpress Tutorial for Beginners \| Wordpress Tutorials in Hindi - The Complete Guide For Beginners](https://www.youtube.com/playlist?list=PLjVLYmrlmjGfC44WZSTvlsZFzxnQsysJb) - WsCube Tech
+* [Wordpress tutorials in hindi](https://www.youtube.com/playlist?list=PLlUrVpujUh3_PnBb1B-YOSP_oUqBL4gsh) - hindidevtuts

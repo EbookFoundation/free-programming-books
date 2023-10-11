@@ -18,7 +18,6 @@
     * [AWS](#aws)
     * [Azure](#azure)
     * [IBM](#ibm)
-    * [Openstack](#openstack)
 * [Compilers](#compilers)
 * [Computer Organization and Architecture](#computer-organization-and-architecture)
 * [Computer Science](#computer-science)
@@ -400,12 +399,6 @@
 
 * [Getting started with IBM Cloud](https://cognitiveclass.ai/courses/ibm-cloud-essentials) - Horea Porutiu, Steve Martinelli
 * [IBM Cloud Essentials V3](https://cognitiveclass.ai/courses/ibm-cloud-essentials) - CognitiveClass.ai
-
-
-### Openstack
-
-* [Openstack CERN Admin guide](https://clouddocs.web.cern.ch/index.html) - CERN
-* [OpenStack Tutorial – Operate Your Own Private Cloud (Full Course)](https://www.youtube.com/watch?v=_gWfFEuert8) - FreeCodeCamp.org
 
 
 ### Compilers

@@ -13,7 +13,6 @@
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
-* [Chat-gpt Prompt Engineering Full Course](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 * [Clojure](#clojure)
 * [Cloud Computing](#cloud-computing)
     * [AWS](#aws)

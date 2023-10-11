@@ -772,6 +772,7 @@
 * [HTML5 and CSS3 Fundamentals](https://www.udemy.com/course/html5-fundamentals-for-beginners/) - Stone River eLearning (Udemy)
 * [Learn how to program: CSS](https://www.learnhowtoprogram.com/css) - Epicodus Inc.
 * [Learn HTML and CSS](https://www.bitdegree.org/courses/coding-for-beginners-space-doggos) (BitDegree)
+* [Learn HTML and CSS with 5 projects](https://scrimba.com/learn/htmlandcss) - Per Harald Borgen (Scrimba)
 * [Learn HTML5 Programming From Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)
 * [Learn to style HTML using CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS)
 * [Responsive Web Design with HTML5 and CSS3 - Advanced](https://www.udemy.com/course/responsive-web-design-with-html5-and-css3-advanced/) - Udemy

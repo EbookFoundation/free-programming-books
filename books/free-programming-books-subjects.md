@@ -182,6 +182,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [OpenStack Operations Guide](https://docs.openstack.org/ops-guide/index.html)
 * [Streamline microservice management with Istio Service Mesh](https://developers.redhat.com/books/introducing-istio-service-mesh-microservices/) *(account required)*
 * [The Developer’s Guide to Azure](https://azure.microsoft.com/en-us/campaigns/developer-guide/)
+* [Openstack CERN Admin guide](https://clouddocs.web.cern.ch/index.html)  - CERN (HTML)
 
 
 ### Competitive Programming

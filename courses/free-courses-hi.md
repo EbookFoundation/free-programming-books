@@ -37,6 +37,7 @@
     * [Node.js](#nodejs)
     * [React](#react)
     * [React Native](#react-native)
+    * [Redux](#redux)
     * [Vue.js](#vuejs)
 * [Kotlin](#kotlin)
 * [Linux](#linux)
@@ -420,7 +421,7 @@
 * [ReactJS Tutorials for Beginners In Hindi](https://www.youtube.com/playlist?list=PLUVqY59GNZQNTlOnGne0G7DXnmi7CeOtc) - Pradeep Maurya
 
 
-### React Native
+#### React Native
 
 * [React Native hindi tutorial](https://www.youtube.com/playlist?list=PL8p2I9GklV479IV5cXwKXqGOcCOu0bPXW) - Code Step By Step
 * [React Native Tutorial in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV468O2wk-n8Q1KmtMhnHHj4C) - Code Step By Step
@@ -428,6 +429,12 @@
 * [React Native Tutorial in Hindi 2022](https://www.youtube.com/playlist?list=PLwGdqUZWnOp354xMD8u0hxX-1qmCvfLiY) - Thapa Technical
 * [React Native Tutorials (mobile app development) in hindi](https://www.youtube.com/playlist?list=PLB97yPrFwo5gxB5SuNWzH73t2Su65KN2f) - Coders Never Quit
 * [React Native Tutorials for Begginers](https://youtube.com/playlist?list=PL8kfZyp--gEXs4YsSLtB3KqDtdOFHMjWZ) - Programming with Mash
+
+
+#### Redux
+
+* [Redux toolkit crash course &#124; Chai aur React Series](https://www.youtube.com/watch?v=1i04-A7kfFI) - Hitesh Choudhary (Chai aur Code)
+* [Redux Toolkit tutorial in Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp2nz2T6SfWX9t6D6SYn3XlN) - Vinod Bahadur Thapa (Thapa Technical)
 
 
 #### Vue.js

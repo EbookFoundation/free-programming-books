@@ -416,6 +416,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Speech and Language Processing (3rd Edition Draft)](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) - Daniel Jurafsky, James H. Martin (PDF)
 * [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) - Trevor Hastie, Robert Tibshirani, and Jerome Friedman
 * [The LION Way: Machine Learning plus Intelligent Optimization](https://intelligent-optimization.org/LIONbook/lionbook_3v0.pdf) - Roberto Battiti, Mauro Brunato (PDF)
+* [The Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf) - François Fleuret (PDF)
 * [The Mechanics of Machine Learning](https://mlbook.explained.ai) - Terence Parr, Jeremy Howard
 * [The Python Game Book](https://web.archive.org/web/20210308080726/https://thepythongamebook.com/en%3Astart) - Horst Jens *(:card_file_box: archived)*
 * [Top 10 Machine Learning Algorithms Every Engineer Should Know](https://www.dezyre.com/article/top-10-machine-learning-algorithms/202) - Binny Mathews, Omair Aasim
@@ -736,6 +737,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Don't Just Roll the Dice](https://www.red-gate.com/library/dont-just-roll-the-dice) - Neil Davidson (PDF)
 * [How to Do What You Love & Earn What You’re Worth as a Programmer](https://leanpub.com/dowhatyoulove/read) - Reginald Braithwaite
 * [How to Learn to Code & Get a Developer Job in 2023](https://www.freecodecamp.org/news/learn-to-code-book) - Quincy Larson
+* [How to Stand Out as a Software Engineer](https://github.com/lvndry/how-to-stand-out-as-a-software-engineer/blob/main/how_to_stand_out_as_a_software_engineer.pdf) - Landry Monga (PDF)
 * [Professional Software Development For Students](https://mixmastamyk.bitbucket.io/pro_soft_dev/intro.html) - Mike G. Miller
 * [Software Engineering at Google](https://abseil.io/resources/swe-book) - Titus Winters, Tom Manshreck, Hyrum Wright
 * [Software Environment Concepts](https://softwareconcepts.vercel.app) - Amr Elmohamady (:construction: *in process*)

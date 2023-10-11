@@ -71,6 +71,8 @@
 * [C++ Bangla Tutorial Course](https://www.youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL) - Anisul Islam
 * [C++ Bangla Tutorial for Beginners - 2022](https://www.youtube.com/playlist?list=PLeqnvPK4PpyWsjZvgLTRcc-dkPQXc8SHc) - 
 Shikkhangon BD
+* [Object Oriented C++ \| Bangla Tutorial](https://www.youtube.com/playlist?list=PLy7uM3PHzMF1hnqhFGE4_A8qTUfFmZ_3y) - 
+Online School
 
 
 ### Competitive Programming
@@ -130,6 +132,7 @@ Shikkhangon BD
 * [Bootstrap 4 Bangla Tutorial](https://www.youtube.com/playlist?list=PL_XxuZqN0xVBr2NqbL3q71nk5FX8zB0nK) - Stack Learner
 * [Bootstrap 5 and 4 Bangla Tutorials](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oC_wmWEZa2xWxJauIRQ9kG) - Anisul Islam
 * [Bootstrap Bangla Tutorial With Projects](https://www.youtube.com/playlist?list=PLm64fbD5OnxuWrqDWyObVkH_Y5R6Wg1wg) - Moshiur
+* [Bootstrap tutorial for (beginners to advanced)](https://www.youtube.com/playlist?list=PLerpoOYRrjUzKiOZDjPkTL0uaRLgJ_NJF) - Programming Shikhbo
 
 
 #### Tailwind
@@ -204,6 +207,7 @@ Shikkhangon BD
 * [React JS Bangla Tutorial \| React Tutorial For Beginners](https://www.youtube.com/playlist?list=PLNMnAEqLBwmqvuLEb5fVyGfcdMMlrEsHL) - Hablu Programmer
 * [Understand ReactJS Advanced Features](https://www.youtube.com/playlist?list=PL_XxuZqN0xVBaeF3qUyvr2AxoXGwDd5cx) - Stack Learner
 * [Understand ReactJS Core Features](https://www.youtube.com/playlist?list=PL_XxuZqN0xVBANld2gDEE6_0G886zavUs) - Stack Learner
+* [১ ভিডিওতে রিয়্যাক্ট শিখুন ! ফুল কোর্স](https://www.youtube.com/watch?v=6wilewRV3xQ) - Rabbil Hasan
 
 
 #### Svelte

@@ -21,6 +21,7 @@
 ### C
 
 * [বাংলায় C প্রোগ্রামিং ল্যাঙ্গুয়েজ শেখার কোর্স](https://c.howtocode.dev) - Jakir Hossain, et al.
+* [কম্পিউটার প্রোগ্রামিং](https://drive.google.com/file/d/1PjIulFjEStqSsD7jPNyLp0QW5qWEojUr/view) - Tamim Shariar Subin
 
 
 ### <a id="cpp"></a>C++

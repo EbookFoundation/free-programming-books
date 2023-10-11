@@ -20,6 +20,7 @@
 * [Data Structures](#data-structures)
 * [Databases](#databases)
 * [DevOps](#devops)
+* [Figma](#figma)
 * [Flutter](#flutter)
 * [Game Development](#game-development)
 * [Git and GitHub](#git-and-github)
@@ -251,6 +252,13 @@
 * [DevOps Training Tutorials For Beginners in Hindi](https://www.youtube.com/playlist?list=PLYEK_dHOjwtODYB46wFuc34muw9Gl5X5x) - Linux Wale Guruji
 * [DevOps Training Videos in Hindi](https://www.youtube.com/playlist?list=PLQbQOmlGYH3sxlq9ugoq1ipNFP7tus5Gd) - edureka! Hindi
 * [DevOps Tutorials in Hindi/Urdu \| Devops सीखने का सबसे आसान तरीका \| Complete Devops including Git,Jenkins,Maven,Chef,docker,Ansible and Kubernetes](https://www.youtube.com/playlist?list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10) - Bhupinder Rajput, Technical Guftgu
+
+
+### Figma
+
+* [Figma Tutorial](https://www.youtube.com/playlist?list=PLuRPummNMvINdAbI_WT7R5vdjcyRPeRiq) - Pelfizz Studio
+* [Figma Tutorial In Hindi 2022](https://www.youtube.com/playlist?list=PLwGdqUZWnOp0TlgR6uPLR1s6X_w65FlTl) - Thapa Technical
+* [Figma UI design tutorials in Hindi](https://www.youtube.com/playlist?list=PLt7HkDVHvsa4Nf5qrXG6ozK3ZPTvNe__v) - Graphics Guruji
 
 
 ### Flutter

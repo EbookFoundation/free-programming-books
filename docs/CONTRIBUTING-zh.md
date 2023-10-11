@@ -279,7 +279,7 @@
 ### 自动化
 
 - 格式化规则的执行是通过以下方式自动执行的 [GitHub Actions](https://github.com/features/actions) 用 [fpb-lint](https://github.com/vhf/free-programming-books-lint) (see [`.github/workflows/fpb-lint.yml`](../.github/workflows/fpb-lint.yml))
-- URL 验证用途 [awesome_bot](https://github.com/dkhamsing/awesome_bot)
+- URL 验证使用 [awesome_bot](https://github.com/dkhamsing/awesome_bot)
 - 要触发 URL 验证，请推送包含以下内容的提交消息的提交 `check_urls=file_to_check`:
 
     ```特性

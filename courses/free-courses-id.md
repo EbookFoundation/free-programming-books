@@ -14,6 +14,7 @@
 * [Flutter](#flutter)
 * [Git](#git)
 * [Go](#go)
+* [Google Cloud Platform](#google-cloud-platform)
 * [Gradle](#gradle)
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
@@ -161,6 +162,11 @@
 * [Tutorial Golang Fundamental Bahasa Indonesia](https://www.youtube.com/watch?v=xzNT4JywW0A) - Agung Setiawan
 * [Tutorial Golang Web API Bahasa Indonesia - Full Course](https://www.youtube.com/watch?v=GjI0GSvmcSU) - Agung Setiawan
 * [Tutorial Golang Website Development Bahasa Indonesia](https://www.youtube.com/watch?v=K76y2_ZQYwY) - Agung Setiawan
+
+
+### Google Cloud Platform
+
+* [Menguasai Google Cloud Platform Fundamental Zero to Hero](https://www.udemy.com/course/menguasai-google-cloud-platform-fundamental-zero-to-hero/) - Jubilee Enterprise
 
 
 ### Gradle

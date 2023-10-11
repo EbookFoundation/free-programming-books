@@ -16,7 +16,7 @@
 
 ### Android
 
-* [अँड्रॉइड ऍप डेव्हलपमेंट मराठी | Android App Development in Marathi](https://youtube.com/playlist?list=PLy1NOWTMDFjDLCgmxRNLDJtlutJOYl2d7) - उत्तर
+* [अँड्रॉइड ऍप डेव्हलपमेंट मराठी \| Android App Development in Marathi](https://youtube.com/playlist?list=PLy1NOWTMDFjDLCgmxRNLDJtlutJOYl2d7) - उत्तर
 
 
 ### Angular
@@ -32,7 +32,7 @@
 
 ### <a id="c"></a>C
 
-* [C Language Tutorial Videos | Krushna Pise | MaRaTHi ProGrammer](https://youtube.com/playlist?list=PLWSZr_wlNWax9fqyNyt6Q3ADBgwLE2HvU) - MaRaTHi ProGrammer
+* [C Language Tutorial Videos \| Krushna Pise \| MaRaTHi ProGrammer](https://youtube.com/playlist?list=PLWSZr_wlNWax9fqyNyt6Q3ADBgwLE2HvU) - MaRaTHi ProGrammer
 * [C Programming tutorials in Marathi](https://youtube.com/playlist?list=PLCx-k6Qe-qShOnyqpTckJd9qWflu0Ah5I) - M Computers
 
 
@@ -44,7 +44,7 @@
 ### <a id="cpp"></a>C++
 
 * [C++ Full Course in Marathi Live Teaching (Oct 2021 Batch)](https://youtube.com/playlist?list=PLddGZGOJ3oy61NpGiR83kYQDK8nIeTcRX) - Prasad Computer
-* [C++ Programming | Krushna Pise | MaRaTHi ProGrammer](https://youtube.com/playlist?list=PLWSZr_wlNWazn-waH7XkwE2VfT13f5oAG) - MaRaTHi ProGrammer
+* [C++ Programming \| Krushna Pise \| MaRaTHi ProGrammer](https://youtube.com/playlist?list=PLWSZr_wlNWazn-waH7XkwE2VfT13f5oAG) - MaRaTHi ProGrammer
 
 
 ### Data Science
@@ -55,13 +55,13 @@
 ### Databases
 
 * [Database Management System](https://youtube.com/playlist?list=PLNUHhIfQzCNcVcVbMDI8jmjxbZ9u3QSUY) - Dnyaneshwar Cholke
-* [SQL Tutorial For Beginners in Marathi | SQL Structured Query Language Full Course in Marathi Basics To Advance](https://youtube.com/playlist?list=PLFwH5aoadVcnimSkNWYKUjsvOTXvVnfVw) - Code Marathi
+* [SQL Tutorial For Beginners in Marathi \| SQL Structured Query Language Full Course in Marathi Basics To Advance](https://youtube.com/playlist?list=PLFwH5aoadVcnimSkNWYKUjsvOTXvVnfVw) - Code Marathi
 
 
 ### HTML and CSS  
 
 * [CSS Tutorial In Marathi](https://youtube.com/playlist?list=PLWkJQ8CSXYd4wee103RY961OdWXwnHsBo) - SA Infolines
-* [HTML | HTML For Beginners | Krushna Pise | Marathi Programmer](https://youtube.com/playlist?list=PLWSZr_wlNWaw8_iFhKvrPKp1Uh2S1dXHk) - MaRaTHi ProGrammer
+* [HTML \| HTML For Beginners \| Krushna Pise \| Marathi Programmer](https://youtube.com/playlist?list=PLWSZr_wlNWaw8_iFhKvrPKp1Uh2S1dXHk) - MaRaTHi ProGrammer
 * [HTML & CSS In Marathi Tutorials](https://youtube.com/playlist?list=PLU1bHMETQ0vzRyMVH2Wp6sA8bMUuVl5S2) - Programming By Yogesh
 
 
@@ -74,7 +74,7 @@
 
 ### JavaScript
 
-* [Javascript Series Marathi | Zero to Hero](https://youtube.com/playlist?list=PLpHGE1RJRnR2dONhkep0994hYIAXj2trt) - Shodkk Shantanu
+* [Javascript Series Marathi \| Zero to Hero](https://youtube.com/playlist?list=PLpHGE1RJRnR2dONhkep0994hYIAXj2trt) - Shodkk Shantanu
 * [Javascript Tutorials with examples in Marathi](https://youtube.com/playlist?list=PL_9bg9gibAYofFlo--HF_j1NWKBoK58YL) - AMIT GAIKWAD
 
 

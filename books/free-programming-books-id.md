@@ -24,6 +24,7 @@
 * [Pemrograman Fungsional](#pemrograman-fungsional)
 * [Pemrograman Kompetitif](#pemrograman-kompetitif)
 * [PHP](#php)
+* [Postman](#postman)
 * [Python](#python)
 * [Rust](#rust)
 * [Solidity](#solidity)
@@ -199,6 +200,9 @@
 * [Tutorial Ebook PHP](http://www.ilmuwebsite.com/ebook-php-free-download)
 * [Tutorial Pemrograman PHP untuk Pemula](https://www.petanikode.com/tutorial/php) - Ahmad Muhardian (Petani Kode) *(Dalam Proses)*
 
+### Postman
+
+* [Belajar Menggunakan Aplikasi Postman Untuk Testing API](https://www.sekawanmedia.co.id/blog/postman-api/)
 
 ### Python
 

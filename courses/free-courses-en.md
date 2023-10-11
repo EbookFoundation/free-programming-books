@@ -1596,8 +1596,11 @@
 * [Advanced Custom Fields (ACF) Tutorials](https://www.youtube.com/playlist?list=PLTbrc9HXDstqm7yNAadSwwypHR_iEWLR_) - WPTuts
 * [Advanced WordPress Theme Development Course](https://www.youtube.com/playlist?list=PLD8nQCAhR3tT3ehpyOpoYeUj3KHDEVK9h) - Imran Sayed - Codeytek Academy
 * [Astra Theme Tutorials](https://www.youtube.com/playlist?list=PLgJeRQxEOJmoYLvxOCq3DJB5q6LWJWKjH) - Ferdy Korpershoek
+* [Complete WooCommerce eCommerce WordPress Tutorials](https://www.youtube.com/playlist?list=PLjR7HjmPoicEyJPKnoj5w7rdPIKjJ-KZu) - Nayyar Shaikh
 * [Elementor Pro Tutorials](https://www.youtube.com/playlist?list=PLgJeRQxEOJmq5hR8yETsu3zPFmpoxCeMq) - Ferdy Korpershoek
 * [How To Customize WooCommerce](https://www.youtube.com/playlist?list=PLTbrc9HXDstpihLrQIWtmExd9f1tiAYET) - WPTuts
+* [WordPress Elementor Pro Tutorials](https://www.youtube.com/playlist?list=PLjR7HjmPoicEVCFa75468V_XVA47FLJO4) - Nayyar Shaikh
+* [WordPress Tips and Tricks](https://www.youtube.com/playlist?list=PLjR7HjmPoicHi7wS3JK2dGfBmoDFCg7o8) - Nayyar Shaikh
 
 
 ### YAML

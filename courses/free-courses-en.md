@@ -595,8 +595,9 @@
 
 * [FREE Advanced Jenkins in K8s (Docker in Docker)](https://www.udemy.com/course/free-advanced-jenkins-in-k8s-docker-in-docker) -  CS Career Kaizen (Udemy)
 * [Jenkins](https://youtube.com/playlist?list=PLhW3qG5bs-L_ZCOA4zNPSoGbnVQ-rp_dG) - Automation Step by Step
-* [Jenkins \| Step-by-Step for Complete Beginners](https://www.udemy.com/course/jenkins-step-by-step-for-complete-beginners/) - Raghav Pal (Udemy)
+* [Jenkins Devops](https://youtube.com/playlist?list=PL87padGs1bp9X95IxGQtFW44qWzywhbHM&si=tBgw4dwt8FYwobse) - Java Express
 * [Jenkins Tutorial](https://www.mygreatlearning.com/academy/learn-for-free/courses/jenkins-tutorial) (Great Learning)
+* [Jenkins \| Step-by-Step for Complete Beginners](https://www.udemy.com/course/jenkins-step-by-step-for-complete-beginners/) - Raghav Pal (Udemy)
 * [Jenkins Tutorial Step by Step](https://www.youtube.com/playlist?list=PL8VbCbavWfeGt_Hyq0h9Pymi9DTGowd5X) - The Testing Academy
 * [Jenkins Tutorial Video [2022 updated]](https://www.youtube.com/playlist?list=PLEiEAq2VkUUKGrfcoNYRgqam5YBERN8xa) - Simplilearn
 * [Jenkins Zero to Hero](https://www.youtube.com/playlist?list=PLdpzxOOAlwvJDIAQZtMjUUbiVUDfGaCIX) - Abhishek Veeramalla

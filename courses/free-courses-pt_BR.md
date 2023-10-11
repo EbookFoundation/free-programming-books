@@ -260,11 +260,6 @@
 * [Terminal Linux](https://www.udemy.com/course/terminal-de-comandos-linux/) - Diego Mariano (Udemy)
 
 
-### Lógica de Programação 
-
-* [Curso de Lógica de programação e algoritmos](https://www.udemy.com/course/logica-de-programacao-e-algoritmos-iniciante/) - Alex Fernando Egidio (Udemy)
-
-
 ### Lua
 
 * [Curso de Programação Lua](https://youtube.com/playlist?list=PLa4jh645PxpfOYT5bNkim9yoevX8dCYpt) - Techiesse
@@ -322,6 +317,7 @@
 
 * [Algoritmos de Ordenação](https://www.youtube.com/playlist?list=PLzZut2slkqywtFxqTY8AQwIG65h_2oMBL) - Bruno Ribas
 * [Curso Lógica de Programação Completo 2023 [Iniciantes] + Desafios + Muita prática](https://www.youtube.com/watch?v=iF2MdbrTiBM) - Jonathan de Souza
+* [Curso de Lógica de programação e algoritmos](https://www.udemy.com/course/logica-de-programacao-e-algoritmos-iniciante/) - Alex Fernando Egidio (Udemy)
 
 
 ### Python
@@ -385,7 +381,7 @@
 
 ### Sass
 
-* [Curso de Sass](https://www.youtube.com/playlist?list=PL97KElaimHeGRtfkksKwxg6IGVZi_cR7J) - Amanda Vilela (YouTube)
+* [Curso de Sass](https://www.youtube.com/playlist?list=PL97KElaimHeGRtfkksKwxg6IGVZi_cR7J) - Amanda Vilela
 * [Sass placeholders: o jeito certo](https://www.udemy.com/course/sass-placeholders-o-jeito-certo/) - Tárcio Zemel (Udemy)
 
 

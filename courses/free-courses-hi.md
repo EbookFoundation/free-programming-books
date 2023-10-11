@@ -176,13 +176,13 @@
 * [The Complete C++ Course \| Hindi](https://www.youtube.com/playlist?list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF) - Saurabh Shukla
 
 
-### <a id="cloud-computing"></a>Cloud Computing
+### Cloud Computing
 
 * [Cloud Computing](https://www.youtube.com/playlist?list=PLYwpaL_SFmcCyQH0n9GHfwviu6KeJ46BV) - 5 Minutes Engineering
 * [Cloud Computing Tutorial](https://www.youtube.com/playlist?list=PL-JvKqQx2AtfQ8cGyKsFE7Tj2FyB1yCkd) - University Academy
 
 
-### <a id="aws"></a>AWS
+#### AWS
 
 * [AWS Tutorial for Beginners In Hindi](https://www.youtube.com/playlist?list=PLCFe3TcoBniI4iaavlfnR0UGQrtjgOMj9) - Together with Abhi
 * [AWS Tutorial in Hindi | Edureka](https://www.youtube.com/playlist?list=PLQbQOmlGYH3uoa_mYHDJkl958B_dBiaqW) - edureka! Hindi

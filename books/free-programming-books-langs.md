@@ -538,8 +538,8 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Learning C++ eBook](https://riptutorial.com/Download/cplusplus.pdf) - Compiled from StackOverflow Documentation (PDF)
 * [Matters Computational: Ideas, Algorithms, Source Code](http://www.jjj.de/fxt/fxtbook.pdf) - Jorg Arndt (PDF)
 * [More C++ Idioms](https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms) - Sumant Tambe, et al. (WikiBooks)
+* * [Object-Oriented Programming with C++, Eighth Edition](https://z-lib.is/book/object-oriented-programming-with-c-8th-edition) - E Balagurusamy (PDF) (email address *requested*)
 * [Open Data Structures (In C++)](http://opendatastructures.org/ods-cpp.pdf) - Pat Morin (PDF)
-* [Object-Oriented Programming with C++, Eighth Edition](https://z-lib.is/book/object-oriented-programming-with-c-8th-edition) - E Balagurusamy (PDF) (email address *requested*)
 * [Programming Fundamentals - A Modular Structured Approach using C++](https://learning.hccs.edu/faculty/ken.busbee/programming-fundamentals-a-modular-structured-approach-using-c) - Kenneth Leroy Busbee (PDF)
 * [Software Design Using C++](http://cis.stvincent.edu/html/tutorials/swd/) - Br. David Carlson, Br. Isidore Minerd
 * [Software optimization resources](http://www.agner.org/optimize/) - Agner Fog

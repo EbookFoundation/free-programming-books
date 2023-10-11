@@ -359,6 +359,7 @@
 * [Introduction to C++](https://www.edx.org/course/introduction-to-c-3) - Microsoft (edX) (:card_file_box: *archived*)
 * [Learn C++ With Me](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lmGC8VW0iu6qfMHjy7gLQ3) - Tech With Tim
 * [Sololearn C++](https://www.sololearn.com/learning/1051) - *registration required*
+* [An Introduction to C++ Programming](https://www.udemy.com/course/an-introduction-to-cpp-programming/) - Udemy
 
 
 ### Clojure

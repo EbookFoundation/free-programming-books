@@ -546,6 +546,7 @@
 * [Complete Python Tutorial in Hindi (2020)](https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j) - Harshit Vashisth
 * [Core Python (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhigZkqrHbI_ZkPBrIr5Rsd5L) - Rajesh Kumar, Geeky Shows
 * [Free Python Course For School Students (Grade7-10) Certified Course By Coding Blocks Junior](https://youtube.com/playlist?list=PLhLbJ9UoJCvumawW64knIBSJuHALx3zBE) - Coding Blocks Junior
+* [Full Python Tutorial in Hindi](https://www.youtube.com/playlist?list=PLlgLmuG_KgbZziQYQV1sdhKt-VQHUE_Yl) - Bharani Akella
 * [Intermediate/Advanced python Tutorials in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9aiJWQ7VhY712fuimEpQZYp4) - CodeWithHarry
 * [Python](https://www.youtube.com/playlist?list=PLHjOos34ty4GYwKO-CFTdJKfVNd50tajF) - Computer Gyan Guruji
 * [Python For Beginners](https://youtube.com/playlist?list=PL-5gYa7CLd4iBdPHRaSEwbivCnUq1nxj9) - Technical Sagar

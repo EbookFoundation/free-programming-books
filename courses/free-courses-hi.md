@@ -20,6 +20,7 @@
 * [Data Structures](#data-structures)
 * [Databases](#databases)
 * [DevOps](#devops)
+  * [Jenkins](#Jenkins)
 * [Figma](#figma)
 * [Flutter](#flutter)
 * [Game Development](#game-development)
@@ -253,6 +254,10 @@
 * [DevOps Training Tutorials For Beginners in Hindi](https://www.youtube.com/playlist?list=PLYEK_dHOjwtODYB46wFuc34muw9Gl5X5x) - Linux Wale Guruji
 * [DevOps Training Videos in Hindi](https://www.youtube.com/playlist?list=PLQbQOmlGYH3sxlq9ugoq1ipNFP7tus5Gd) - edureka! Hindi
 * [DevOps Tutorials in Hindi/Urdu \| Devops सीखने का सबसे आसान तरीका \| Complete Devops including Git,Jenkins,Maven,Chef,docker,Ansible and Kubernetes](https://www.youtube.com/playlist?list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10) - Bhupinder Rajput, Technical Guftgu
+
+### Jenkins
+* [Jenkins for Beginners](https://www.youtube.com/watch?v=EzOyHf2KwWI&list=PL6XT0grm_Tfi21F8O0TvHmb78P2uEmhDq) - Gaurav Sharma
+
 
 
 ### Figma

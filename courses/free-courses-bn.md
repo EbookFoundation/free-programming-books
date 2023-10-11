@@ -138,6 +138,7 @@ Online School
 
 #### Tailwind
 
+* [Tailwind CSS](https://www.youtube.com/playlist?list=PLSNRR4BKcowD8Vo0owqLtHhVpSSZ4w6Om) - Procoder BD
 * [Tailwind CSS Bangla Tutorial Series](https://youtube.com/playlist?list=PLHiZ4m8vCp9P23SqlHL0QAqiwS_oCofV2) - Learn with Sumit
 * [Tailwind CSS Bangla Tutorial Basic to Project Series](https://www.youtube.com/playlist?list=PL2ozzDVxiDachzWAOiMRrjgrqe7EO-XOv) - CODE ABC
 * [Tailwind CSS Tutorials in Bangla](https://www.youtube.com/playlist?list=PLerpoOYRrjUxnfWO73zj2R_y-e_Dw1ine) - Programming Shikhbo

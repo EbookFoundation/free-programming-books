@@ -27,6 +27,7 @@
 
 ### Computer architecture
 
+* [कम्प्यूटर ऑर्गनाइजेशन एंड आर्किटेक्चर](https://www.aicte-india.org/sites/default/files/HINDI_BOOKS/BOOK%202.pdf) - एम. ए. नसीम, राजस्थान टेक्निकल यूनिवर्सिटी, कोटा (राजस्थान) (PDF)
 * [कम्प्यूटर सिस्टम आर्किटेक्चर](https://www.aicte-india.org/sites/default/files/HINDI_BOOKS/BOOK%207.pdf) - एस. एस. श्रीवास्तव, उच्च शिक्षा उत्कृष्टता संस्थान, भोपाल (म. प्र. ) (PDF)
 
 

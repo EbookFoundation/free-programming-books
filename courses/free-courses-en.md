@@ -343,7 +343,7 @@
 -   [C++ Tutorial for Complete Beginners](https://www.udemy.com/course/free-learn-c-tutorial-beginners/) - John Purcell (Udemy)
 -   [Google's C++ Course](https://developers.google.com/edu/c++/)
 -   [Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) (MIT's opencourseware)
--   [Introduction to C++](https://www.edx.org/course/introduction-to-c-3) - Microsoft (edX) (:card_file_box: _archived_)
+-   [Introduction to C++](https://www.edx.org/course/introduction-to-c-3) - Microsoft (edX) (:card*file_box: \_archived*)
 -   [Learn C++ With Me](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lmGC8VW0iu6qfMHjy7gLQ3) - Tech With Tim
 -   [Sololearn C++](https://www.sololearn.com/learning/1051) - _registration required_
 
@@ -422,6 +422,8 @@
 
 ### Cuda
 
+-   [Intro to Parallel Programming Using CUDA to Harness the Power of GPUs](https://www.udacity.com/course/intro-to-parallel-programming--cs344) (Udacity)
+-   [CUDA Tutorials](https://youtube.com/playlist?list=PLKK11Ligqititws0ZOoGk3SW-TZCar4dK) - Creel
 -   [Intro to Parallel Programming Using CUDA to Harness the Power of GPUs](https://www.udacity.com/course/intro-to-parallel-programming--cs344) (Udacity)
 
 ### Dart
@@ -1126,7 +1128,7 @@
 
 -   [Advanced Adobe XD (Web Design)](https://webdesign.tutsplus.com/courses/advanced-adobe-xd-for-everyone) - Adi Purdila
 -   [Computer Graphics](http://nptel.ac.in/courses/106106090/)
--   [FindLectures.com](https://web.archive.org/web/20161219180842/https://www.findlectures.com/?class1=Technology) - Index of conference talks by language / topic (:card_file_box: _archived_)
+-   [FindLectures.com](https://web.archive.org/web/20161219180842/https://www.findlectures.com/?class1=Technology) - Index of conference talks by language / topic (:card*file_box: \_archived*)
 -   [Introduction to Quantum Computing and Quantum Hardware](https://qiskit.org/learn/intro-qc-qh) - Qiskit
 -   [Introduction to Reinforcement Learning with David Silver](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver) - David Silver
 -   [MIT Numerical Methods (2014)](http://www.iitg.ernet.in/kartha/CE601-14/CourseSchedule.htm)

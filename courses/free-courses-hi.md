@@ -258,8 +258,6 @@
 ### Jenkins
 * [Jenkins for Beginners](https://www.youtube.com/watch?v=EzOyHf2KwWI&list=PL6XT0grm_Tfi21F8O0TvHmb78P2uEmhDq) - Gaurav Sharma
 
-
-
 ### Figma
 
 * [Figma Tutorial](https://www.youtube.com/playlist?list=PLuRPummNMvINdAbI_WT7R5vdjcyRPeRiq) - Pelfizz Studio

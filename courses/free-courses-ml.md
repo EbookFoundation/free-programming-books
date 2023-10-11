@@ -6,7 +6,6 @@
 * [C++](#cpp)
 * [C#](#csharp)
 * [Compiler Design](#compiler-design)
-* [Compiler Networking](#computer-networking)
 * [Data Structure](#data-structure)
 * [Distributed Computing](#distributed-computing)
 * [Docker](#docker)
@@ -25,6 +24,7 @@
 * [Kotlin](#kotlin)
 * [Linux](#linux)
 * [MySQL](#mysql)
+* [Networking](#networking)
 * [PHP](#php)
   * [Laravel](#laravel)
 * [Python](#python)
@@ -66,12 +66,6 @@
 ### Compiler Design
 
 * [Compiler Design](https://www.youtube.com/playlist?list=PLwe8bwPXjlLtPlbzxU_SICYI3PeYpEAtJ) -  Learn CSE Malayalam
-
-
-### Computer Networking
-
-* [Computer Networks - S5](https://www.youtube.com/playlist?list=PLI74-7rtCb9BRUw6JzCm_wwLdQJc3jSwO) -  Eduline CSE Knowledge Sharing Platform
-* [CCNA Malayalam Tutorial(s)](https://www.youtube.com/playlist?list=PLO7o5VCTCpe-7jj04hLM002hQM5J-f3tl) -  Networking Malayalam
 
 
 ### Data Structure
@@ -188,6 +182,12 @@
 * [Mysql Malayalam tutorial series](https://www.youtube.com/playlist?list=PLBKJGko2JEdFKFGGVaveL5IOxxSNq3eBS) - Tintu Vlogger
 * [MySQL Malayalam Tutorials for beginners](https://www.youtube.com/playlist?list=PLQzHWfiB9fWcxc10XNwm7CeOEMrjVr8a9) - Learn Programming In Malayalam
 * [SQL / MYSQL Malayalam Tutorial Full Course](https://www.youtube.com/playlist?list=PL1JrLEBAapUXMuDKwPVVzhlBge9fdxV51) - Yes Tech Media
+
+
+### Networking
+
+* [Computer Networks - S5](https://www.youtube.com/playlist?list=PLI74-7rtCb9BRUw6JzCm_wwLdQJc3jSwO) -  Eduline CSE Knowledge Sharing Platform
+* [CCNA Malayalam Tutorial(s)](https://www.youtube.com/playlist?list=PLO7o5VCTCpe-7jj04hLM002hQM5J-f3tl) -  Networking Malayalam
 
 
 ### PHP

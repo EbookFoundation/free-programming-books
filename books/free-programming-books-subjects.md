@@ -733,8 +733,8 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Professional Software Development For Students](https://mixmastamyk.bitbucket.io/pro_soft_dev/intro.html) - Mike G. Miller
 * [Software Engineering at Google](https://abseil.io/resources/swe-book) - Titus Winters, Tom Manshreck, Hyrum Wright
 * [Software Environment Concepts](https://softwareconcepts.vercel.app) - Amr Elmohamady (:construction: *in process*)
-* [What I've Learned From Failure](https://leanpub.com/shippingsoftware/read) - Reginald Braithwaite
 * [The Pragmatic Programmer](https://github.com/lighthousand/books/blob/master/the-pragmatic-programmer.pdf) - Andrew Hunt, David Thomas (PDF)
+* [What I've Learned From Failure](https://leanpub.com/shippingsoftware/read) - Reginald Braithwaite
 
 
 ### Programming

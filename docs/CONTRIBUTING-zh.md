@@ -213,7 +213,7 @@
 - 翻译作品，应注明原作者。我们建议使用 [MARC relators](https://loc.gov/marc/relators/relaterm.html) 来表彰作者以外的创作者，如下例所示：
 
     ```markdown
-    * [一本翻译书](http://example.com/book-zh.html) - John Doe，`trl.:` 翻译者麦克
+    * [译作](http://example.com/book-zh.html) - John Doe，`trl.:` 译者麦克
     ```
     这里，注解「trl.:」使用「翻译器」的 MARC 相关程式码。
 - 使用逗号「,」来分隔作者清单中的每个项目。

@@ -188,8 +188,8 @@
 * [Stanford University Algorithms: Design and Analysis, Part 1](https://online.stanford.edu/courses/soe-ycsalgorithms1-algorithms-design-and-analysis-part-1)
 * [Stanford University Algorithms: Design and Analysis, Part 2](https://online.stanford.edu/courses/soe-ycs0001-algorithms-design-and-analysis-part-2)
 * [Strivers A2Z-DSA Course \| DSA Playlist \| Placements](https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz) - take U forward
-* [Tree Algorithms](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsDfGc8rbQ0_58oEZQVtvoIc) - WilliamFiset
 * [Top 5 techniques for building the worst microservice system ever - William Brander](https://www.youtube.com/watch?v=88_LUw1Wwe4&list=PL03Lrmd9CiGcXoPBhisyxmof9GfH2H6C8&index=59) - NDC London 2023
+* [Tree Algorithms](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsDfGc8rbQ0_58oEZQVtvoIc) - WilliamFiset
 * [Trees by Striver \| C++ \| Java \| Placements \| Binary Trees and Traversals \| Problems](https://www.youtube.com/playlist?list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk) - take U forward
 
 

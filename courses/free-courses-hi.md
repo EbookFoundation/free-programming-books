@@ -10,7 +10,6 @@
 * [Bash and Shell](#bash-and-shell)
 * [Blockchain](#blockchain)
 * [C](#c)
-* [Cloud Computing](#cloud-computing)
 * [C#](#csharp)
     * [ASP.NET](#asp.net)
 * [C++](#cpp)
@@ -70,30 +69,30 @@
 ### Algorithms
 
 * [All Sorting algorithms and Programs](https://www.youtube.com/playlist?list=PLsFNQxKNzefK_DAUwnQwBizOmcY7aDLoY) - Saurabh Shukla
-* [Binary Search \| Interview Questions \| Coding \| Tutorials \| Algorithm](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2) - Aditya Verma
+* [Binary Search - Interview Questions - Coding - Tutorials - Algorithm](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2) - Aditya Verma
 * [Binary Trees - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHYxUk8dSu2_G7MR1PaGXN4) - Pepcoding
 * [Bit Manipulation - Level 2](https://youtube.com/playlist?list=PL-Jc9J83PIiFJRioti3ZV7QabwoJK6eKe) - Pepecoding
 * [Data Structures and Algorithms Course in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi) - CodeWithHarry
 * [Data Structures and Algorithms in Python](https://www.youtube.com/playlist?list=PLyMom0n-MBrpakdIZvnhd6PFUCKNAyKo1) - Jovian
 * [Design And Analysis Of Algorithms](https://youtube.com/playlist?list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa) - Gate Smashers
-* [Dynamic Programming Playlist \| Coding \| Interview Questions \| Tutorials \| Algorithm](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go) - Aditya Verma
+* [Dynamic Programming Playlist - Coding - Interview Questions - Tutorials - Algorithm](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go) - Aditya Verma
 * [Dynamic Programming Workshop](https://www.youtube.com/playlist?list=PLqf9emQRQrnKA_EeveiXQj_uP25w8_5qL) - Vivek Gupta
 * [Generic Trees - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiEmjuIVDrwR9h5i9TT2CEU_) - Pepcoding
 * [Graphs - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHfqDcLZMcO9SsUDY4S3a-v) - Pepcoding
 * [Recursion & Backtracking - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFxaBahjslhBD1LiJAV7nKs) - Pepcoding
 * [Recursion & Backtracking - Level 2](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHO9SQ6lxGuDsZNt2mkHEn0) - Pepcoding
-* [Recursion Playlist \| Coding \| Interview Questions \| Algorithm \| Tutorials](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY) - Aditya Verma
+* [Recursion Playlist - Coding - Interview Questions - Algorithm - Tutorials](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY) - Aditya Verma
 * [Sliding Window Algorithm - Face to Face Interviews](https://youtube.com/playlist?list=PL_z_8CaSLPWeM8BDJmIYDaoQ5zuwyxnfj) - Aditya Verma
 * [Time and Space - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFc7hJ5eeCb579PS8p-en4f) - Pepcoding
 
 
 ### Android
 
-* [Android App Development Course (Beginner to Advanced) \| WsCube Tech 2.0](https://www.youtube.com/playlist?list=PLjVLYmrlmjGdDps6HAwOOVoAtBPAgIOXL) - WsCube Tech
+* [Android App Development Course (Beginner to Advanced) - WsCube Tech 2.0](https://www.youtube.com/playlist?list=PLjVLYmrlmjGdDps6HAwOOVoAtBPAgIOXL) - WsCube Tech
 * [Android Development Tutorial for Beginners](https://www.youtube.com/playlist?list=PLUcsbZa0qzu3Mri2tL1FzZy-5SX75UJfb) - Anuj Bhaiya
 * [Android Development Tutorials in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9aiL0kysYlfSOUgY5rNlOhUd) - CodeWithHarry
-* [Android Development With KOTLIN \| Android App Development Course In Hindi](https://www.youtube.com/playlist?list=PL6Fr59UplGvL7q7P3Hg6nYzS45gld-CCI) - Zain Farhan
-* [App Development Course For School Students \| Certified Course By Coding Blocks Junior](https://youtube.com/playlist?list=PLhLbJ9UoJCvu4ktQMUJJq-D_6-Eoz8lOk) - Coding Blocks Junior
+* [Android Development With KOTLIN - Android App Development Course in Hindi](https://www.youtube.com/playlist?list=PL6Fr59UplGvL7q7P3Hg6nYzS45gld-CCI) - Zain Farhan
+* [App Development Course For School Students - Certified Course By Coding Blocks Junior](https://youtube.com/playlist?list=PLhLbJ9UoJCvu4ktQMUJJq-D_6-Eoz8lOk) - Coding Blocks Junior
 * [Complete Android Development Course in Hindi](https://www.youtube.com/playlist?list=PLUhfM8afLE_Ok-0Lx2v9hfrmbxi3GgsX1) - Neat Roots
 
 
@@ -101,7 +100,7 @@
 
 * [Angular 12 - 13 tutorial in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV45--5t7_N4lveUI6Y31vQ6C) - Code Step By Step
 * [Angular 13 Tutorial in Hindi](https://www.youtube.com/playlist?list=PL_qizAfcpJ-N2mRgfQxnDgsv20daqwlfN) - Sahosoft Solutions
-* [Angular 6/7/8 Series (In Hindi)](https://www.youtube.com/playlist?list=PLLhsXdvz0qjL1HVD2jAtlvoDmS5qj0OvA) - UX Trendz
+* [Angular 6/7/8 Series (in Hindi)](https://www.youtube.com/playlist?list=PLLhsXdvz0qjL1HVD2jAtlvoDmS5qj0OvA) - UX Trendz
 * [Learn Angular in one video (Hindi)](https://www.youtube.com/watch?v=0LhBvp8qpro&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&index=21) - Code With Harry 
 
 
@@ -109,7 +108,7 @@
 
 * [Artificial Intelligence (Complete Playlist)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiHGhOHV-nwb0HR5US5GFKFI) - Gate Smashers
 * [Artificial Intelligence Lectures Hindi](https://www.youtube.com/playlist?list=PLV8vIYTIdSnYsdt0Dh9KkD9WFEi7nVgbe) - Easy Engineering Classes
-* [Artificial Intelligence Tutorial (Eng-Hindi) \| University Exam specific](https://www.youtube.com/playlist?list=PLuAADu3OvBt4nfy1700X_Jb2n8rPQ-eLV) - Er Sahil ka Gyan
+* [Artificial Intelligence Tutorial (Eng-Hindi) - University Exam specific](https://www.youtube.com/playlist?list=PLuAADu3OvBt4nfy1700X_Jb2n8rPQ-eLV) - Er Sahil ka Gyan
 * [Playlist to Artificial Intelligence](https://www.youtube.com/playlist?list=PLPIwNooIb9vgB1DQEftkKA3qOdeC4vonA) - Perfect Computer Engineer
 
 
@@ -126,9 +125,9 @@
 
 ### AWS  
 
-* [AWS Tutorial for Beginners In Hindi](https://www.youtube.com/playlist?list=PLCFe3TcoBniI4iaavlfnR0UGQrtjgOMj9) - Together with Abhi
-* [AWS Tutorial in Hindi | Edureka](https://www.youtube.com/playlist?list=PLQbQOmlGYH3uoa_mYHDJkl958B_dBiaqW) - edureka! Hindi
-* [AWS Tutorials - AWS tutorials For Beginners - AWS Certification - AWS Training - In Hindi](https://www.youtube.com/playlist?list=PL6XT0grm_TfgtwtwUit305qS-HhDvb4du) - Gaurav Sharma
+* [AWS Tutorial for Beginners in Hindi](https://www.youtube.com/playlist?list=PLCFe3TcoBniI4iaavlfnR0UGQrtjgOMj9) - Together with Abhi
+* [AWS Tutorial in Hindi - Edureka](https://www.youtube.com/playlist?list=PLQbQOmlGYH3uoa_mYHDJkl958B_dBiaqW) - edureka! Hindi
+* [AWS Tutorials - AWS tutorials For Beginners - AWS Certification - AWS Training in Hindi](https://www.youtube.com/playlist?list=PL6XT0grm_TfgtwtwUit305qS-HhDvb4du) - Gaurav Sharma
 
 
 ### Bash and Shell
@@ -144,30 +143,23 @@
 * [Blockchain Full Course in Hindi](https://www.youtube.com/playlist?list=PLgPmWS2dQHW-BRQCQCNYgmHUfCN115pn0) - Code Eater
 * [Blockchain Full Course in Hindi](https://www.youtube.com/playlist?list=PLRlT7xBRpp9MiMN25XJjUVz01rGFQohq2) - Innovate India
 * [Complete Blockchain Development Course for Beginners in Hindi](https://www.youtube.com/watch?v=RkYVVC2vXho) - web3Mantra
-* [Solidity ^0.8 | Blockchain | In Hindi](https://www.youtube.com/playlist?list=PL-Jc9J83PIiG6_thChXWzolj9BEG-Y0gh) - Pepcoding
+* [Solidity ^0.8 - Blockchain in Hindi](https://www.youtube.com/playlist?list=PL-Jc9J83PIiG6_thChXWzolj9BEG-Y0gh) - Pepcoding
 
 
 ### <a id="c"></a>C
 
-* [All C Concepts \| Hindi](https://www.youtube.com/playlist?list=PL7ersPsTyYt1d8g5qaxbE6sjWDzs4D_1v) - Saurabh Shukla
+* [All C Concepts in Hindi](https://www.youtube.com/playlist?list=PL7ersPsTyYt1d8g5qaxbE6sjWDzs4D_1v) - Saurabh Shukla
 * [C Language Tutorial for Beginners (with Notes & Practice Questions)](https://www.youtube.com/watch?v=irqbmMNs2Bo) - Apna College
-* [C Language Tutorial For Beginners In Hindi (With Notes)](https://www.youtube.com/watch?v=ZSPZob_1TOk) - CodeWithHarry
+* [C Language Tutorial For Beginners in Hindi (With Notes)](https://www.youtube.com/watch?v=ZSPZob_1TOk) - CodeWithHarry
 * [C Language Tutorial in Hindi](https://www.youtube.com/playlist?list=PLmRclvVt5DtksgReOH3s7R1_cb1QA8vrb) - codeitup
-* [C Language Tutorials In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR) - CodeWithHarry
+* [C Language Tutorials in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR) - CodeWithHarry
 * [C Programming Tutorials](https://www.youtube.com/playlist?list=PLiOa6ike4WAHH3HyPUu6pUG-r0LApvW-l) - Vikas Pandey, easytuts4you
 
-### Cloud Computing
-
-* [Cloud Computing Course Free | Cloud Computing Tutorial | Learn Cloud Computing | Intellipaat |In English](https://www.youtube.com/watch?v=lae0mfHBSjk) - Intellipaat
-* [Cloud Computing Full Course In 11 Hours | Cloud Computing Tutorial For Beginners | Edureka|In English](https://www.youtube.com/watch?v=2LaAJq1lB1Q) - Edureka
-* [NPTEL Cloud Computing Course|In English](https://www.youtube.com/playlist?list=PLShJJCRzJWxhz7SfG4hpaBD5bKOloWx9J) - NPTEL
-* [Cloud Computing](https://www.youtube.com/playlist?list=PLYwpaL_SFmcCyQH0n9GHfwviu6KeJ46BV) - 5 Minutes Engineering
-* [Cloud Computing Tutorial](https://www.youtube.com/playlist?list=PL-JvKqQx2AtfQ8cGyKsFE7Tj2FyB1yCkd) - University Academy
 
 ### <a id="csharp"></a>C\#
 
 * [C# Programming language (Console Applications)](https://www.youtube.com/playlist?list=PLX07l0qxoHFLZftsVKyj3k9kfMca2uaPR) - Learning Never Ends 
-* [C# Tutorial In Hindi](https://www.youtube.com/watch?v=SuLiu5AK9Ps) - CodeWithHarry
+* [C# Tutorial in Hindi](https://www.youtube.com/watch?v=SuLiu5AK9Ps) - CodeWithHarry
 * [C# Tutorial in Hindi for Beginners](https://www.youtube.com/playlist?list=PLV8vIYTIdSnYTYr0bmIbfzYii0YQSPocB) - Easy Engineering Classes
 
 
@@ -181,33 +173,30 @@
 ### <a id="cpp"></a>C++
 
 * [C++ and DSA Foundation Course](https://youtube.com/playlist?list=PLxgZQoSe9cg0df_GxVjz3DD_Gck5tMXAd) - College Wallah
-* [C++ Full Course \| C++ Tutorial \| Data Structures & Algorithms](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ) - Apna College
-* [C++ Full Course \|Complete C++ Placement DSA Course\| Data Structures & Algorithms](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA) - CodeHelp - by Babbar
+* [C++ Full Course - C++ Tutorial - Data Structures & Algorithms](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ) - Apna College
+* [C++ Full Course - Complete C++ Placement DSA Course - Data Structures & Algorithms](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA) - CodeHelp - by Babbar
 * [C++ Programming in Hindi](https://www.mygreatlearning.com/academy/learn-for-free/courses/c-programming-in-hindi1) - Bharani Akella (My Great Learning)
 * [C++ Programming in Hindi](https://www.youtube.com/playlist?list=PLDA2q3s0-n15yszaZ2yRKEoxY-WWkuAt4) - Sumit Bisht (Edutainment 1.0)
 * [C++ Programming in Hindi](https://www.youtube.com/playlist?list=PLbGui_ZYuhijXuOfBSdQgK296Y7wUDWLn) - Rajesh Kumar, Geeky Shows
 * [C++ Programming Tutorial in Hindi](https://www.youtube.com/playlist?list=PLoVVmGDgrrnS5_TiSg193ezTPd-Ukb25k) - Rakesh Roshan, Learn TechToTech
-* [C++ STL \| Competitive Programming](https://youtube.com/playlist?list=PLauivoElc3gh3RCiQA82MDI-gJfXQQVnn) - Luv
-* [C++ Tutorial For Begineers In Hindi](https://www.youtube.com/playlist?list=PLnSDvcENZlwA6YDSfoieM1bl-Y3ALcnL5) - Abhishek Shrivastava, Micro Solution
-* [C++ Tutorial for Beginners \| C++ Tutorials In Hindi](https://www.youtube.com/playlist?list=PLmGElG-9wxc8VMy1nNHDQldH2dU8Y08s7) - Manish Gehlot, WsCube Tech Programming Concepts
-* [C++ Tutorials In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL) - CodeWithHarry
-* [The Complete C++ Course \| Hindi](https://www.youtube.com/playlist?list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF) - Saurabh Shukla
+* [C++ STL - Competitive Programming](https://youtube.com/playlist?list=PLauivoElc3gh3RCiQA82MDI-gJfXQQVnn) - Luv
+* [C++ Tutorial For Begineers in Hindi](https://www.youtube.com/playlist?list=PLnSDvcENZlwA6YDSfoieM1bl-Y3ALcnL5) - Abhishek Shrivastava, Micro Solution
+* [C++ Tutorial for Beginners - C++ Tutorials in Hindi](https://www.youtube.com/playlist?list=PLmGElG-9wxc8VMy1nNHDQldH2dU8Y08s7) - Manish Gehlot, WsCube Tech Programming Concepts
+* [C++ Tutorials in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL) - CodeWithHarry
+* [The Complete C++ Course in Hindi](https://www.youtube.com/playlist?list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF) - Saurabh Shukla
 
 
 ### Cloud Computing
 
 * [Cloud Computing](https://www.youtube.com/playlist?list=PLYwpaL_SFmcCyQH0n9GHfwviu6KeJ46BV) - 5 Minutes Engineering
-* [Cloud Computing Course Free | Cloud Computing Tutorial | Learn Cloud Computing | Intellipaat |In English](https://www.youtube.com/watch?v=lae0mfHBSjk) - Intellipaat
-* [Cloud Computing Full Course In 11 Hours | Cloud Computing Tutorial For Beginners | Edureka|In English](https://www.youtube.com/watch?v=2LaAJq1lB1Q) - Edureka
 * [Cloud Computing Tutorial](https://www.youtube.com/playlist?list=PL-JvKqQx2AtfQ8cGyKsFE7Tj2FyB1yCkd) - University Academy
-* [NPTEL Cloud Computing Course|In English](https://www.youtube.com/playlist?list=PLShJJCRzJWxhz7SfG4hpaBD5bKOloWx9J) - NPTEL
 
 
 ### Competitive Programming
 
 * [Competitive Programming Series - Java Placement Course](https://www.youtube.com/playlist?list=PLjVLYmrlmjGfHs-LbtPOrlQHA37LFQg3S) - Wscube Tech
-* [Competitive Programming/DSA Course \| Hindi](https://www.youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-) - Luv
-* [Full course in Competitive programming [ Hindi ] \|\| -by prince](https://www.youtube.com/playlist?list=PLzjZaW71kMwTGbP1suqY16w1VSb9ZNuvE) - Hello World
+* [Competitive Programming/DSA Course in Hindi](https://www.youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-) - Luv
+* [Full course in Competitive programming [ Hindi ] - by prince](https://www.youtube.com/playlist?list=PLzjZaW71kMwTGbP1suqY16w1VSb9ZNuvE) - Hello World
 * [Range Queries - Level 3](https://youtube.com/playlist?list=PL-Jc9J83PIiGkI_pL8l67OVvbpnwf-5yO) - Pepcoding
 * [Text Processing - Level 3](https://youtube.com/playlist?list=PL-Jc9J83PIiEoZSwjEZT3TvpKG16FntFL) - Pepcoding
 
@@ -216,7 +205,7 @@
 
 * [Compiler Design](https://www.youtube.com/playlist?list=PL9FuOtXibFjVR-87LcU-DS-9TJcbG97_p) - Abhishek Sharma
 * [Compiler Design (Complete Playlist)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiEKtKSIHYusizkESC42diyc) - Gate Smashers
-* [Compiler Design Tutorial In Hindi](https://www.youtube.com/playlist?list=PL-JvKqQx2Ate5DWhppx-MUOtGNA4S3spT) - University Academy
+* [Compiler Design Tutorial in Hindi](https://www.youtube.com/playlist?list=PL-JvKqQx2Ate5DWhppx-MUOtGNA4S3spT) - University Academy
 
 
 ### Computer Graphics
@@ -235,27 +224,27 @@
 ### Data Structures
 
 * [2-D Arrays - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFkOETg2Ybq-FMuJjkZSGeH) - Pepcoding
-* [All Data Structure Concepts \| Hindi](https://www.youtube.com/playlist?list=PLsFNQxKNzefJNztGGoQC-59UhSwIaiIW3) - Saurabh Shukla
-* [C++ Full Course \| C++ Tutorial \| Data Structures & Algorithms](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ) - Apna College
+* [All Data Structure Concepts in Hindi](https://www.youtube.com/playlist?list=PLsFNQxKNzefJNztGGoQC-59UhSwIaiIW3) - Saurabh Shukla
+* [C++ Full Course - C++ Tutorial - Data Structures & Algorithms](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ) - Apna College
 * [Complete C++ Placement DSA Course](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA) - CodeHelp by Babbar
-* [Data Structure And Algorithms Course | DSA Tutorial in Hindi](https://www.youtube.com/playlist?list=PLmGElG-9wxc9Us6IK6Qy-KHlG_F3IS6Q9) - ScoreShala
-* [Data Structure Programs \| Hindi](https://www.youtube.com/playlist?list=PLsFNQxKNzefJU-Sj__mljvrmJHZVKWbEm) - Saurabh Shukla
+* [Data Structure And Algorithms Course - DSA Tutorial in Hindi](https://www.youtube.com/playlist?list=PLmGElG-9wxc9Us6IK6Qy-KHlG_F3IS6Q9) - ScoreShala
+* [Data Structure Programs in Hindi](https://www.youtube.com/playlist?list=PLsFNQxKNzefJU-Sj__mljvrmJHZVKWbEm) - Saurabh Shukla
 * [Data Structures and Algorithms Course in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi) - CodeWithHarry
 * [DSA-One Course- The Complete Data Structure and Algorithms Course](https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p) - Anuj Bhaiya
 * [Functions and Arrays - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHOV7lm2uSw4ZiVsIRsGS6r) - Pepcoding
-* [Graph Data Structure & Algorithms Full Course In Hindi](https://www.youtube.com/playlist?list=PLzjZaW71kMwSrxEtvK5uQnfNQ9UjGGzA-) - Hello World
+* [Graph Data Structure & Algorithms Full Course in Hindi](https://www.youtube.com/playlist?list=PLzjZaW71kMwSrxEtvK5uQnfNQ9UjGGzA-) - Hello World
 * [Heap Playlist Interview Questions Coding Tutorials Data Structures](https://youtube.com/playlist?list=PL_z_8CaSLPWdtY9W22VjnPxG30CXNZpI9) - Aditya Verma 
 * [Java + Data Structures + Algorithms](https://www.youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s) - Apni Kaksha
 * [Java + DSA](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop) - Apna College
 * [Java + DSA + Interview Preparation Course](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ) - Kunal Kushwaha
 * [Linked Lists - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_) - Pepcoding
 * [Simplified DSA with FRAZ](https://www.youtube.com/playlist?list=PLKZaSt2df1gy75J3irj89a2vSGqeQdtDA) - Fraz
-* [Stack Playlist \| Interview Questions \| Coding \| Tutorials \| Data Structures](https://www.youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd) - Aditya Verma 
+* [Stack Playlist - Interview Questions - Coding - Tutorials - Data Structures](https://www.youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd) - Aditya Verma 
 
 
 ### Databases
 
-* [3.1 DBMS In Hindi (Complete Playlist)](https://www.youtube.com/playlist?list=PLmXKhU9FNesR1rSES7oLdJaNFgmuj0SYV) - Knowledge Gate
+* [3.1 DBMS in Hindi (Complete Playlist)](https://www.youtube.com/playlist?list=PLmXKhU9FNesR1rSES7oLdJaNFgmuj0SYV) - Knowledge Gate
 * [Database Management System (DBMS)](https://www.youtube.com/playlist?list=PLrjkTql3jnm-CLxHftqLgkrZbM8fUt0vn) - Education 4u
 * [Database Management System (DBMS) in Hindi](https://www.youtube.com/playlist?list=PLAOnhLRjMTMDigfUzaAAQo7lbfScPFtHs) - Jitendra Ajmedha
 * [DBMS (Database Management System)](https://www.youtube.com/playlist?list=PLdo5W4Nhv31b33kF46f9aFjoJPOkdlsRc) - Jenny's lectures CS/IT NET&JRF
@@ -270,19 +259,19 @@
 * [Complete DevOps Zero to Hero Course](https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa) - Abhishek.Veeramalla
 * [DevOps Training Tutorials For Beginners in Hindi](https://www.youtube.com/playlist?list=PLYEK_dHOjwtODYB46wFuc34muw9Gl5X5x) - Linux Wale Guruji
 * [DevOps Training Videos in Hindi](https://www.youtube.com/playlist?list=PLQbQOmlGYH3sxlq9ugoq1ipNFP7tus5Gd) - edureka! Hindi
-* [DevOps Tutorials in Hindi/Urdu \| Devops सीखने का सबसे आसान तरीका \| Complete Devops including Git,Jenkins,Maven,Chef,docker,Ansible and Kubernetes](https://www.youtube.com/playlist?list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10) - Bhupinder Rajput, Technical Guftgu
+* [DevOps Tutorials in Hindi/Urdu - Devops सीखने का सबसे आसान तरीका - Complete Devops including Git,Jenkins,Maven,Chef,docker,Ansible and Kubernetes](https://www.youtube.com/playlist?list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10) - Bhupinder Rajput, Technical Guftgu
 
 
 ### Figma
 
 * [Figma Tutorial](https://www.youtube.com/playlist?list=PLuRPummNMvINdAbI_WT7R5vdjcyRPeRiq) - Pelfizz Studio
-* [Figma Tutorial In Hindi 2022](https://www.youtube.com/playlist?list=PLwGdqUZWnOp0TlgR6uPLR1s6X_w65FlTl) - Thapa Technical
+* [Figma Tutorial in Hindi 2022](https://www.youtube.com/playlist?list=PLwGdqUZWnOp0TlgR6uPLR1s6X_w65FlTl) - Thapa Technical
 * [Figma UI design tutorials in Hindi](https://www.youtube.com/playlist?list=PLt7HkDVHvsa4Nf5qrXG6ozK3ZPTvNe__v) - Graphics Guruji
 
 
 ### Flutter
 
-* [Complete Flutter Tutorial In Hindi By Desi Programmer](https://youtube.com/playlist?list=PLlFwzkUNmr94BF0KH7BYPL7DsZjhJRdTm) - Desi Programmer
+* [Complete Flutter Tutorial in Hindi By Desi Programmer](https://youtube.com/playlist?list=PLlFwzkUNmr94BF0KH7BYPL7DsZjhJRdTm) - Desi Programmer
 * [Flutter 3 tutorial in Hindi](https://youtube.com/playlist?list=PLB97yPrFwo5g-XcPlfSXSOeeby23jVAcp) - CODERS NEVER QUIT
 * [Flutter Complete Tutorial in Hindi](https://www.youtube.com/playlist?list=PLjVLYmrlmjGfGLShoW0vVX_tcyT8u1Y3E) - WsCube Tech
 * [Flutter Essential Course](https://www.youtube.com/watch?v=Wdx8vwN_nWI) - freecodecamp
@@ -298,19 +287,19 @@
 * [Complete Course on Python Game Development](https://www.youtube.com/watch?v=Wg9J5kiX0wY) - Techonical Infotech Pvt. Ltd.
 * [Game Development Course](https://www.youtube.com/playlist?list=PLBh8phtAyHPUY9fqgs1w6aHJALJ3_fMSc) - Farhan Aqeel
 * [Game development in Hindi From Beginning to Advance 👍🏻](https://www.youtube.com/playlist?list=PLdOT12odxrUrUExBUuM5KoN0fAnOdzH1L) - Logical Programmer
-* [Python Game Development Using Pygame In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ailUQcxEPZrWgDoL36BtPYb) - CodeWithHarry
+* [Python Game Development Using Pygame in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ailUQcxEPZrWgDoL36BtPYb) - CodeWithHarry
 * [Unity Game Development Tutorials in Hindi](https://www.youtube.com/playlist?list=PLCqWuVe6WFLJW4urlRk1501OkAGVQtX8q) - Sunny Games & Technology
-* [Unity Tutorial For Beginners In Hindi](https://www.youtube.com/playlist?list=PLSYBX91r-B-QoFxBATZJyle3aXvPtCmLe) - Nikhil Malankar
+* [Unity Tutorial For Beginners in Hindi](https://www.youtube.com/playlist?list=PLSYBX91r-B-QoFxBATZJyle3aXvPtCmLe) - Nikhil Malankar
 
 
 ### Git and GitHub
 
 * [Complete Git and Github Tutorials for Beginners](https://www.youtube.com/watch?v=Ez8F0nW6S-w) - Apna College
-* [Complete Git Tutorials For Beginners In Hindi](https://youtube.com/playlist?list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi) - CodeWithHarry
-* [Git & GitHub Tutorial For Beginners In Hindi](https://www.youtube.com/watch?v=gwWKnnCMQ5c) - CodeWithHarry
+* [Complete Git Tutorials For Beginners in Hindi](https://youtube.com/playlist?list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi) - CodeWithHarry
+* [Git & GitHub Tutorial For Beginners in Hindi](https://www.youtube.com/watch?v=gwWKnnCMQ5c) - CodeWithHarry
 * [Git & GitHub Tutorial in Hindi](https://www.youtube.com/watch?v=NR_A2gCxaLE) - Edureka! Hindi
-* [Git and Github | Complete हिंदी में (With Examples)](https://www.youtube.com/watch?v=zGq7T9gZH2k) - Knowledge Gate
-* [Github \| All about Git and GitHub](https://www.youtube.com/watch?v=77b2lVHHZqI) - Anuj Bhaiya
+* [Git and Github - Complete हिंदी में (With Examples)](https://www.youtube.com/watch?v=zGq7T9gZH2k) - Knowledge Gate
+* [Github - All about Git and GitHub](https://www.youtube.com/watch?v=77b2lVHHZqI) - Anuj Bhaiya
 * [GitHub Tutorial in Hindi](https://youtube.com/playlist?list=PLVdoaEL574VBxxcGQmTjxS-JoP5rKV8Wi) - Be A Programmar
 * [GitHub with Visual Studio (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhigWA1mNWzwErSBIZvgOJbNc) - Rajesh Kumar, Geeky Shows
 
@@ -325,11 +314,11 @@
 
 ### HTML and CSS
 
-* [CSS Tutorial in Hindi \| Complete CSS Course For Beginners to Advanced \| Step By Step Tutorial](https://www.youtube.com/watch?v=WyxzAU3p8CE) - Vishwajeet Kumar (Tech Gun)
-* [Free Web Development Course For School Students (Grade 5 - 10) \| Certified Course By Coding Blocks Junior \| Learn HTML, CSS, Javascript](https://www.youtube.com/playlist?list=PLhLbJ9UoJCvsCXqP9yAOZpzXHhWkLBXdw) - Coding Blocks Junior
-* [Front End Development Tutorial \| Complete HTML and CSS Tutorial for Beginners (9 Hours)](https://www.youtube.com/watch?v=Eu7G0jV0ImY) - WsCube Tech
+* [CSS Tutorial in Hindi - Complete CSS Course For Beginners to Advanced - Step By Step Tutorial](https://www.youtube.com/watch?v=WyxzAU3p8CE) - Vishwajeet Kumar (Tech Gun)
+* [Free Web Development Course For School Students (Grade 5 - 10) - Certified Course By Coding Blocks Junior - Learn HTML, CSS, Javascript](https://www.youtube.com/playlist?list=PLhLbJ9UoJCvsCXqP9yAOZpzXHhWkLBXdw) - Coding Blocks Junior
+* [Front End Development Tutorial - Complete HTML and CSS Tutorial for Beginners (9 Hours)](https://www.youtube.com/watch?v=Eu7G0jV0ImY) - WsCube Tech
 * [HTML CSS & Browser APIs](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHU9RkY9sfh3G64-bd0ptvC) - Pepcoding
-* [HTML Tutorial in Hindi \| Complete HTML Course For Beginners to Advanced](https://www.youtube.com/watch?v=QXPWs00RD3A) - Vishwajeet Kumar (Tech Gun)
+* [HTML Tutorial in Hindi - Complete HTML Course For Beginners to Advanced](https://www.youtube.com/watch?v=QXPWs00RD3A) - Vishwajeet Kumar (Tech Gun)
 * [Web Development Course](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n) - Apna College
 * [Web Development Tutorials for Beginners in Hindi: HTML, CSS, JavaScript and more](https://www.youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg) - CodeWithHarry
 
@@ -337,12 +326,12 @@
 #### Bootstrap
 
 * [Bootstrap 3 Tutorial](https://youtube.com/playlist?list=PLjVLYmrlmjGciJ5_Ze6jDIfJpEeMYtsSe) - WsCube Tech
-* [Bootstrap Tutorial for beginners in Hindi / Urdu](https://www.youtube.com/playlist?list=PL0b6OzIxLPbz1cgxiH5KCBsyQij1HsPtG) - Yahoo Baba
+* [Bootstrap Tutorial for beginners in Hindi/Urdu](https://www.youtube.com/playlist?list=PL0b6OzIxLPbz1cgxiH5KCBsyQij1HsPtG) - Yahoo Baba
 * [Bootstrap Tutorial for Beginners(Hindi)](https://youtube.com/playlist?list=PLgPJX9sVy92wc38jA6JtvkA4l1xmJcKKH) - CS Geeks
-* [Bootstrap Tutorial In Hindi](https://youtube.com/playlist?list=PLdPwRNmUlk0k91-qAXTHFqMScNEuo8E5d) - CODE4EDUCATION
-* [Bootstrap Tutorial In Hindi](https://youtube.com/watch?v=vpAJ0s5S2t0) - CodeWithHarry
-* [Bootstrap tutorial in Hindi \| Best Course](https://youtube.com/playlist?list=PL7akPJI4biSIQmT7fSHWoMRaNUcRbXHFN) - CodinGyaan
-* [Bootstrap Tutorial in Hindi With 2 Projects for Beginners \| Complete Bootstrap 5 Tutorial in Hindi](https://youtube.com/watch?v=QE5oQh63gGE) - Tech Gun
+* [Bootstrap Tutorial in Hindi](https://youtube.com/playlist?list=PLdPwRNmUlk0k91-qAXTHFqMScNEuo8E5d) - CODE4EDUCATION
+* [Bootstrap Tutorial in Hindi](https://youtube.com/watch?v=vpAJ0s5S2t0) - CodeWithHarry
+* [Bootstrap tutorial in Hindi - Best Course](https://youtube.com/playlist?list=PL7akPJI4biSIQmT7fSHWoMRaNUcRbXHFN) - CodinGyaan
+* [Bootstrap Tutorial in Hindi With 2 Projects for Beginners - Complete Bootstrap 5 Tutorial in Hindi](https://youtube.com/watch?v=QE5oQh63gGE) - Tech Gun
 
 
 #### Tailwind CSS
@@ -365,12 +354,12 @@
 * [Java + DS + Algorithms](https://www.youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s) - Apni Kaksha (Anuj)
 * [Java + DSA](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop) - Apna College
 * [Java and DSA Foundation Course](https://youtube.com/playlist?list=PLxgZQoSe9cg00xyG5gzb5BMkOClkch7Gr&si=ctLRknqelKTSI5Lh) - College Wallah
-* [Java Foundation Course \| Hindi](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFj7YSPl2ulcpwy-mwj1SSk) - Pepcoding
+* [Java Foundation Course - Hindi](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFj7YSPl2ulcpwy-mwj1SSk) - Pepcoding
 * [Java Live Community Class](https://www.youtube.com/playlist?list=PLsyeobzWxl7pyuXTES7ZqncOI_X0mgKgK) - Navin Reddy (Telusko)
 * [Java Programming Tutorial (HINDI/URDU)](https://www.youtube.com/playlist?list=PLiOa6ike4WAHljIOitb3vR0nXQgneUedR) - Vikas Pandey, Easytuts4you
 * [Java Tutorial](https://youtube.com/playlist?list=PLX9Zi6XTqOKQ7TdRz0QynGIKuMV9Q2H8E) - Saurabh Shukla Sir
 * [Java Tutorials for Beginners](https://www.youtube.com/playlist?list=PLlhM4lkb2sEhfuXL-2BDrJ67WkUdQ2v9b) - Deepak Panwar, Smart Programming
-* [Java Tutorials For Beginners In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q) - CodeWithHarry
+* [Java Tutorials For Beginners in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q) - CodeWithHarry
 * [Microservice Tutorial in Hindi 2023](https://www.youtube.com/playlist?list=PL0zysOflRCelb2Y4WOVckFC6B050BzV0D) - Learn Code With Durgesh
 * [Spring Framework Tutorial with SpringBoot  in Hindi Complete Course](https://www.youtube.com/playlist?list=PLiOIhBfKi8AIYNWEjYy1zZFe1N8GvPRHR) - CoderX Ankit
 
@@ -378,24 +367,24 @@
 ### Spring Boot
 
 * [Spring Boot In Hindi](https://www.youtube.com/playlist?list=PLJc-LD5TzDQToG2MOYDAuCl-JFZoMBxgC) - ekumeed help
-* [Spring Boot Tutorial (Full Course In Hindi)](https://www.youtube.com/playlist?list=PLnfapp4Woqprxl6N1r4Gkq87Lkn-IEZ0z) - AndroJava Tech4U
+* [Spring Boot Tutorial (Full Course in Hindi)](https://www.youtube.com/playlist?list=PLnfapp4Woqprxl6N1r4Gkq87Lkn-IEZ0z) - AndroJava Tech4U
 * [Spring Boot Tutorial For Beginners (in Hindi)](https://www.youtube.com/playlist?list=PL5mjp3QjkuoLPS-L28yKCKyzCMX8WRVno) - ProgRank
 * [Spring Boot Tutorial in Hindi](https://www.youtube.com/playlist?list=PL0zysOflRCelmjxj-g4jLr3WKraSU_e8q) - Learn Code With Durgesh
-* [Spring Boot Tutorials In Hindi](https://www.youtube.com/playlist?list=PLwIi8rEnGr6x4U68rbPoFTYvWMjGt4egL) - KK HindiGyan
+* [Spring Boot Tutorials in Hindi](https://www.youtube.com/playlist?list=PLwIi8rEnGr6x4U68rbPoFTYvWMjGt4egL) - KK HindiGyan
 
 
 ### JavaScript
 
 * [Chai aur Javascript हिन्दी](https://www.youtube.com/playlist?list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37) - Chai aur Code (Hitesh Choudhary)
-* [JavaScript \| Beginning to Mastery Complete Tutorial](https://www.youtube.com/watch?v=chx9Rs41W6g&list=PLwgFb6VsUj_n15Cg_y2ULKfsOR1XiQqPx) - Harshit Vashisth
-* [JavaScript Introduction Tutorial in Hindi / Urdu](https://www.youtube.com/playlist?list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf) - Yahoo Baba
+* [JavaScript - Beginning to Mastery Complete Tutorial](https://www.youtube.com/watch?v=chx9Rs41W6g&list=PLwgFb6VsUj_n15Cg_y2ULKfsOR1XiQqPx) - Harshit Vashisth
+* [JavaScript Introduction Tutorial in Hindi/Urdu](https://www.youtube.com/playlist?list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf) - Yahoo Baba
 * [JavaScript Tutorial for Beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4) - Telusko
 * [JavaScript Tutorial for Beginners (In Hindi)](https://www.youtube.com/playlist?list=PLwGdqUZWnOp1hqyT6h7pY0RlXIIGlE5U0) - Vinod Bahadur Thapa (Thapa Technical)
-* [JavaScript Tutorial for beginners in Hindi / Urdu](https://www.youtube.com/playlist?list=PLw9zMOoodWb5YB2TqrboVoSBkCKaOsvE_) - Husain Sir
+* [JavaScript Tutorial for beginners in Hindi/Urdu](https://www.youtube.com/playlist?list=PLw9zMOoodWb5YB2TqrboVoSBkCKaOsvE_) - Husain Sir
 * [JavaScript Tutorials for Beginners in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR) - CodeWithHarry
 * [JavaScript Tutorials In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL) - CodeWithHarry
 * [Namaste JavaScript](https://youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP) - Akshay Saini
-* [RxJS Series (In Hindi)](https://youtube.com/playlist?list=PLLhsXdvz0qjI68a8tLUUMyXmNhl608mcn) - UX Trendz
+* [RxJS Series (in Hindi)](https://youtube.com/playlist?list=PLLhsXdvz0qjI68a8tLUUMyXmNhl608mcn) - UX Trendz
 * [Web Development Course](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n) - Apna College
 
 
@@ -412,7 +401,7 @@
 
 * [Next JS Tutorial for Beginners in Hindi](https://www.youtube.com/playlist?list=PLZjjdd9-SJS2ZvI4ct5Qtkje_Vdb5O_KM) - ILive4Coding
 * [Next.js Tutorials for Beginners in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agtWvR_TZdb_r0dNI8-lDwG) - CodeWithHarry
-* [NextJS Tutorial In Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp2rDbpfKAeUi9f8qZMS7_cv) - Vinod Bahadur Thapa (Thapa Technical)
+* [NextJS Tutorial in Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp2rDbpfKAeUi9f8qZMS7_cv) - Vinod Bahadur Thapa (Thapa Technical)
 
 
 #### Node.js
@@ -428,21 +417,21 @@
 #### React
 
 * [React JS (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhignjLLXTJWkRJKN-SgAqClL) - Rajesh Kumar, Geeky Shows
-* [React JS Tutorial in Hindi \| React JS for Beginner to Advanced \| Step by Step Video Tutorials](https://www.youtube.com/playlist?list=PLjVLYmrlmjGdnIQKgnTeR1T9-1ltJEaJh) - WsCubeTech
+* [React JS Tutorial in Hindi - React JS for Beginner to Advanced - Step by Step Video Tutorials](https://www.youtube.com/playlist?list=PLjVLYmrlmjGdnIQKgnTeR1T9-1ltJEaJh) - WsCubeTech
 * [React JS Tutorials for Begineers in Hindi](https://youtube.com/playlist?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige) - Chai aur Code
 * [React Js Tutorials in Hindi](https://youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt) - Haris Ali Khan, CodeWithHarry
 * [React Tutorial for beginners in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV47BCAjiCtuV_liN9IwAl8pM) - Code Step By Step
 * [React Tutorial in Hindi](https://www.youtube.com/watch?v=RGKi6LSPDLU) - CodeWithHarry
 * [ReactJS Tutorial for Beginners to Advanced](https://youtube.com/playlist?list=PL_HlKez9XCSO1g7c61SyJZE4iehJDFg_w) - Technical Suneja 
 * [ReactJS Tutorial in Hindi 2020](https://www.youtube.com/playlist?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ) - Vinod Bahadur Thapa (Thapa Technical)
-* [ReactJS Tutorials for Beginners In Hindi](https://www.youtube.com/playlist?list=PLUVqY59GNZQNTlOnGne0G7DXnmi7CeOtc) - Pradeep Maurya
+* [ReactJS Tutorials for Beginners in Hindi](https://www.youtube.com/playlist?list=PLUVqY59GNZQNTlOnGne0G7DXnmi7CeOtc) - Pradeep Maurya
 
 
 ### React Native
 
 * [React Native hindi tutorial](https://www.youtube.com/playlist?list=PL8p2I9GklV479IV5cXwKXqGOcCOu0bPXW) - Code Step By Step
 * [React Native Tutorial in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV468O2wk-n8Q1KmtMhnHHj4C) - Code Step By Step
-* [React Native Tutorial In Hindi - 2023](https://www.youtube.com/playlist?list=PLvN7nvnjkvpQribRyQ4r0FYZxKsPLGciy) - Code Diggers
+* [React Native Tutorial in Hindi - 2023](https://www.youtube.com/playlist?list=PLvN7nvnjkvpQribRyQ4r0FYZxKsPLGciy) - Code Diggers
 * [React Native Tutorial in Hindi 2022](https://www.youtube.com/playlist?list=PLwGdqUZWnOp354xMD8u0hxX-1qmCvfLiY) - Thapa Technical
 * [React Native Tutorials (mobile app development) in hindi](https://www.youtube.com/playlist?list=PLB97yPrFwo5gxB5SuNWzH73t2Su65KN2f) - Coders Never Quit
 * [React Native Tutorials for Begginers](https://youtube.com/playlist?list=PL8kfZyp--gEXs4YsSLtB3KqDtdOFHMjWZ) - Programming with Mash
@@ -456,14 +445,14 @@
 
 ### Kotlin
 
-* [Kotlin Beginner Tutorials Hindi | Complete Series](https://www.youtube.com/playlist?list=PLRKyZvuMYSIMW3-rSOGCkPlO1z_IYJy3G) - Cheezy Code
+* [Kotlin Beginner Tutorials Hindi - Complete Series](https://www.youtube.com/playlist?list=PLRKyZvuMYSIMW3-rSOGCkPlO1z_IYJy3G) - Cheezy Code
 * [Kotlin Programming Complete in one Video (Hindi)](https://www.youtube.com/watch?v=uoP4JKHgzDE) - Geeky Shows, `tch.:` Rajesh Kumar
 * [Kotlin Tutorial in Hindi : From beginner to advance Android](https://www.youtube.com/playlist?list=PLaLbT5lAehvULj67yZ_JJ6zMwyvmqt78o) - Coding With Vikrant
 
 
 ### Linux
 
-* [Linux Full Course (Beginner to Advanced) \| Learn Linux in Hindi](https://www.youtube.com/playlist?list=PLjVLYmrlmjGcsZGJWeo8ec4yIBLX2KeyR) - WsCube Tech
+* [Linux Full Course (Beginner to Advanced) - Learn Linux in Hindi](https://www.youtube.com/playlist?list=PLjVLYmrlmjGcsZGJWeo8ec4yIBLX2KeyR) - WsCube Tech
 * [Linux Tutorial For Beginners in Hindi](https://www.youtube.com/playlist?list=PLSntPnamABVEi_K1gxbOEwXVz09pY9qb8) - Ankit Tiwari
 * [Linux Tutorial For Beginners in Hindi](https://www.youtube.com/watch?v=_tCY-c-sPZc) - CodeWithHarry
 * [Linux Tutorials For Beginners in Hindi](https://www.youtube.com/playlist?list=PL0tP8lerTbX3eUtBFS0Ir4_aFqKuXWjYZ) - M Prashant
@@ -485,7 +474,7 @@
 
 * [Discrete Mathematics](https://www.youtube.com/playlist?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3) - Gate Smashers, `tch.:` Varun Singla, `tch.:` Naina Wadhwa Singla
 * [Discrete Mathematics (Full Course) By Dr.Gajendra Purohit](https://www.youtube.com/playlist?list=PLU6SqdYcYsfJ27O0dvuMwafS3X8CecqUg) - Gajendra Purohit
-* [Discrete Mathematics Tutorials In Hindi | B.TECH- B.E.-UGC NET- GATE- LECTURES In Hindi](https://www.youtube.com/playlist?list=PLL8qj6F8dGlTX359q-PBBUFw3BrBvAxq3) - Deepak Garg
+* [Discrete Mathematics Tutorials in Hindi - B.TECH- B.E.-UGC NET- GATE- LECTURES in Hindi](https://www.youtube.com/playlist?list=PLL8qj6F8dGlTX359q-PBBUFw3BrBvAxq3) - Deepak Garg
 * [Maths for CP](https://youtube.com/playlist?list=PL-Jc9J83PIiFs8E0EGeckM89cD8E6sFro) - Pepcoding
 * [Statistics And Probability](https://www.youtube.com/playlist?list=PLU6SqdYcYsfLRq3tu-g_hvkHDcorrtcBK) - Gajendra Purohit
 
@@ -531,7 +520,7 @@
 ### PHP
 
 * [Core PHP (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhigFdLdbSI2EM2MrJB7I0j-B) - Rajesh Kumar, Geeky Shows
-* [PHP MYSQL Tutorial In Hindi \| Backend Development in Hindi in 2020](https://www.youtube.com/playlist?list=PLwGdqUZWnOp1U4kemcU_vF9KQuHXlNxkb) - Thapa Technical
+* [PHP MYSQL Tutorial In Hindi - Backend Development in Hindi in 2020](https://www.youtube.com/playlist?list=PLwGdqUZWnOp1U4kemcU_vF9KQuHXlNxkb) - Thapa Technical
 * [PHP OOP Tutorial in Hindi / Urdu](https://www.youtube.com/playlist?list=PL0b6OzIxLPbwoi6Urr4LZTz2AMMCtzqDt) - Yahoo Baba
 * [PHP Tutorial for beginners in Hindi](https://www.youtube.com/playlist?list=PLmGElG-9wxc_Hp_bqKH0-cpeboH1_sQg7) - ScoreShala
 * [PHP Tutorial in Hindi / Urdu](https://www.youtube.com/playlist?list=PL0b6OzIxLPbyrzCMJOFzLnf_-_5E_dkzs) - Yahoo Baba
@@ -552,7 +541,7 @@
 
 * [100 Days of Code (Hindi) - Python Course](https://replit.com/learn/code-with-harry-100-doc) - CodeWithHarry (replit)
 * [Advance Python (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhijd1hUF2VWiKt8FHNBa7kGb) - Rajesh Kumar, Geeky Shows
-* [Class 12 Board \| Python \| Computer Science](https://www.youtube.com/playlist?list=PLKKfKV1b9e8oyESqu5mrGN-eDxHdNoi_j) - Apni Kaksha
+* [Class 12 Board - Python - Computer Science](https://www.youtube.com/playlist?list=PLKKfKV1b9e8oyESqu5mrGN-eDxHdNoi_j) - Apni Kaksha
 * [Complete Python tutorial in Hindi](https://www.youtube.com/playlist?list=PLmRclvVt5DtmcLF3ywxKg692lhfD6SUOr) - codeitup
 * [Complete Python Tutorial in Hindi (2020)](https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j) - Harshit Vashisth
 * [Core Python (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhigZkqrHbI_ZkPBrIr5Rsd5L) - Rajesh Kumar, Geeky Shows
@@ -562,7 +551,7 @@
 * [Python For Beginners](https://youtube.com/playlist?list=PL-5gYa7CLd4iBdPHRaSEwbivCnUq1nxj9) - Technical Sagar
 * [Python Full Course in Hindi](https://www.youtube.com/watch?v=eTyI-M50Hu4) - "Great Learning"
 * [Python Programming in Hindi](https://www.greatlearning.in/academy/learn-for-free/courses/python-programming-in-hindi) (Great Learning) *(account required)*
-* [Python Tutorial For Beginners \| Hindi (With Notes)](https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME) - CodeWithHarry
+* [Python Tutorial For Beginners - Hindi (With Notes)](https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME) - CodeWithHarry
 * [Python Tutorial in Hindi](https://www.youtube.com/playlist?list=PLQbQOmlGYH3tC535nKa7xB7dd7pZtYMZX) - edureka! Hindi
 
 
@@ -573,7 +562,7 @@
 * [Django REST Framework (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhijTKyrlu-0g5GcP9nUp_HlN) - Rajesh Kumar, Geeky Shows
 * [Django Tutorial for Beginners(Hindi)](https://www.youtube.com/playlist?list=PLgPJX9sVy92yWUMgLpWrXtegKxrWLRnRv) - Vijay Manral, CS Geeks
 * [Django(Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhigchy8DTw4pX4duTTpvqlh6) - Rajesh Kumar, GeekyShows
-* [Python Django Tutorials In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ah7DDtYtflgwMwpT3xmjXY9) - CodeWithHarry
+* [Python Django Tutorials in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ah7DDtYtflgwMwpT3xmjXY9) - CodeWithHarry
 
 
 #### Flask
@@ -596,7 +585,7 @@
 
 ### Ruby
 
-* [Learn Ruby in 45 Minutes \| Hindi](https://www.youtube.com/watch?v=3V9a_WYEQPA) - CS Geeks
+* [Learn Ruby in 45 Minutes in Hindi](https://www.youtube.com/watch?v=3V9a_WYEQPA) - CS Geeks
 
 
 #### Ruby on Rails
@@ -606,8 +595,8 @@
 
 ### Rust
 
-* [Rust Complete Tutorial In Hindi](https://www.youtube.com/playlist?list=PLRuqvIc0eAmp8Lv6M4BKQWEinvCuqdVFP) - One Two Coding
-* [Rust Programming Complete Tutorial In Hindi 2023.](https://www.youtube.com/playlist?list=PLndmg9UIKNomnnSxd__VKkUX4zT1YpSoY) - Code Your Money
+* [Rust Complete Tutorial in Hindi](https://www.youtube.com/playlist?list=PLRuqvIc0eAmp8Lv6M4BKQWEinvCuqdVFP) - One Two Coding
+* [Rust Programming Complete Tutorial in Hindi 2023.](https://www.youtube.com/playlist?list=PLndmg9UIKNomnnSxd__VKkUX4zT1YpSoY) - Code Your Money
 * [Rust-Programming in Hindi](https://www.youtube.com/playlist?list=PL8fnAiiuQeFsss4xdjXyHJ4fT4_w10s3J) - Go Guru
 
 
@@ -648,5 +637,5 @@
 * [Advanced Ecommerce Website - Elementor - Urdu & Hindi](https://www.youtube.com/playlist?list=PL6Kd_lvAfBuZzR48t6mEWclYMN0C85aNE) - WP Academy
 * [WordPress Plugin Development Tutorials in Urdu-Hindi](https://www.youtube.com/playlist?list=PL6Kd_lvAfBuYzxHmbOdoXjBuW6pFs_xja) - WP Academy
 * [WordPress Theme Development Complete Course Tutorial in Hindi](https://www.youtube.com/playlist?list=PLjVLYmrlmjGc_A9H4NSLEHaD8kSz9Q38g) - WsCube Tech
-* [Wordpress Tutorial for Beginners \| Wordpress Tutorials in Hindi - The Complete Guide For Beginners](https://www.youtube.com/playlist?list=PLjVLYmrlmjGfC44WZSTvlsZFzxnQsysJb) - WsCube Tech
+* [Wordpress Tutorial for Beginners - Wordpress Tutorials in Hindi - The Complete Guide For Beginners](https://www.youtube.com/playlist?list=PLjVLYmrlmjGfC44WZSTvlsZFzxnQsysJb) - WsCube Tech
 * [Wordpress tutorials in hindi](https://www.youtube.com/playlist?list=PLlUrVpujUh3_PnBb1B-YOSP_oUqBL4gsh) - hindidevtuts

@@ -413,9 +413,9 @@
 
 ### Rust
 
+* [Rust-101](https://www.ralfj.de/projects/rust-101/main.html) - ralfj.de
 * [Rust Quiz](https://dtolnay.github.io/rust-quiz)
 * [Rustlings](https://github.com/rust-lang/rustlings)
-* [Rust-101](https://www.ralfj.de/projects/rust-101/main.html) - ralfj.de
 
 
 ### Scala

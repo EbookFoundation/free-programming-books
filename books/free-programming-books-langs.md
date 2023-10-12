@@ -1060,6 +1060,8 @@ Books on general-purpose programming that don't focus on a specific language are
 * [What’s New in Java 8](https://leanpub.com/whatsnewinjava8/read) - Adam L. Davis
 * [Writing Advanced Applications for the Java 2 Platform](http://www.pawlan.com/monica/books/AdvBk.pdf) - Calvin Austin, Monica Pawlan (PDF)
 * [Teach Yourself Java In 21 Days](https://www.cs.cmu.edu/afs/cs.cmu.edu/user/gchen/www/download/java/LearnJava.pdf) - Laura Lemay, Charles L. Perkins
+* [The Laws of Cryptography with Java Code](http://rageuniversity.org/PRISONESCAPE/COMMUNICATION%20CODES%20AND%20INKS/LAWS%20OF%20CRYPTOGRAPHY.pdf) - Neal R. Wagner
+* [The Java Native Interface: Programmer's Guide and Specification](https://www.uni-ulm.de/fileadmin/website_uni_ulm/iui.inst.200/files/staff/domaschka/misc/jni_programmers_guide_spec.pdf) - Sheng Liang
 
 
 #### Codename One

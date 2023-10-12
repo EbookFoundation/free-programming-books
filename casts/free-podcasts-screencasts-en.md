@@ -319,6 +319,7 @@
 * [ThoughtWorks](https://soundcloud.com/thoughtworks) (podcast)
 * [Three Devs and a Maybe](https://threedevsandamaybe.com) - Michael Budd, Fraser Hart, Lewis Cains, Edd Mann (podcast)
 * [Toolsday](https://spec.fm/podcasts/toolsday) - Una Kravets, Chris Dhanaraj (podcast)
+* [Top 5 techniques for building the worst microservice system ever by William Brander](https://www.youtube.com/watch?v=88_LUw1Wwe4&list=PL03Lrmd9CiGcXoPBhisyxmof9GfH2H6C8&index=59) - William Brander, NDC London 2023 (screencast)
 * [TTL Podcast](https://podtail.com/es/podcast/ttl-podcast/) - Rebecca Murphey (podcast)
 * [Under the Radar](https://www.relay.fm/radar) - Marco Arment, David Smith (podcast)
 * [Web Security Warriors](https://www.stitcher.com/show/web-security-warriors) (podcast)

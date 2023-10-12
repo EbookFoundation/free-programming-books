@@ -33,8 +33,8 @@
 
 ### Data Structure and Algorithms
 
-* [Data Structure with C \| Hindi](http://www.bccfalna.com/IOC-AllEBooks/DSnAinHindi.pdf) - Kuldeep Chand (PDF)
 * [What is Data Structure?](https://www.codeash.com/what-is-data-structure/) - Codeash.com
+* [Data Structure with C \| Hindi](http://www.bccfalna.com/IOC-AllEBooks/DSnAinHindi.pdf) - Kuldeep Chand (PDF)
 
 
 ### Java

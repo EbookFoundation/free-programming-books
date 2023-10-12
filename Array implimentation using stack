@@ -1,0 +1,155 @@
+#include <stdio.h>
+int  stack[100],choice,n,top,x,i;
+
+void push(void);
+void pop(void);
+void display(void);
+void peek(void);
+void equ(void);
+void tar(void);
+
+int t;
+
+
+int main(){
+    top=-1;
+    printf("\nEnter the size of stack[Max=100]:");
+    scanf("%d",&n);
+    printf("\n\t1.PUSH\n\t2.POP\n\t3.DISPLAY\n\t4.PEEK\n\t5.EQUAL\n\t6.TARGET\n\t7.Exit");
+    do{
+        printf("\nEnter the choice:");
+        scanf("%d",&choice);
+        switch(choice){
+            case 1:
+            {
+                push();
+                break;
+            }
+            case 2:
+            {
+                pop();
+                break;
+            }
+            case 3:
+            {
+                display();
+                break;
+            }
+            case 4:
+            {
+                peek();
+                break;
+            }
+            case 5:
+            {
+            	equ();
+            	break;
+			}
+            case 6:
+            {
+                tar();
+                break;
+            }
+            case 7:
+            {
+                printf("\nEXITED");
+                break;
+            }
+            default:
+            {
+                printf("\nPlease enter a valid value");
+            }
+        }
+    }
+    while(choice!=7);
+    return 0;
+}
+
+
+void push()
+{
+    if(top>=n-1)
+    {
+        printf("\nStack in overflow");
+    }else{
+        printf("Enter a value to be pushed:");
+        scanf("%d",&x);
+        top++;
+        stack[top]=x;
+    }
+}
+
+
+void pop()
+{
+    if(top<=-1)
+    {
+        printf("\nStack in underflow");
+    }else{
+        printf("\nThe popped elements is %d",stack[top]);
+        top--;
+    }
+}
+
+
+void display()
+{
+    if(top>=0)
+    {
+        printf("\nThe elements in stack:");
+        for(i=top;i>=0;i--){
+            printf("\n %d",stack[i]);
+        }
+        printf("\nPress next choice");
+    }
+    else
+    {
+        printf("\nThe stack is empty");
+    }
+}
+
+
+void peek()
+{
+    if(top==-1)
+    {
+        printf("\nUnderflow");
+    }else{
+        printf("\n%d",stack[top]);
+    }
+}
+
+
+void equ()
+{
+    printf("\nEnter the Target:");
+    scanf("%d",&t);
+    while(top!=t-1){
+        printf("\nPopped elements:%d",stack[top]);
+        top--;
+    }
+    printf("\nElements are equal to the target");
+}
+
+
+void tar()
+{
+    int start,end;
+    printf("Enter the target start and end:");
+    scanf("%d %d",&start,&end);
+    int temp;
+    while(top!=start)
+    {
+        if(top==end)
+        {
+            temp=stack[top];
+            top--;
+        }else
+        {
+            printf("\nPopped elements:%d",stack[top]);
+            top--;
+        }
+    }
+    top++;
+    stack[top]=temp;
+}

@@ -39,6 +39,7 @@
 ### Java
 
 * [Java \| Hindi](https://www.learnhindituts.com/java) - LearnHindiTuts.com
+* [जावा क्या है (What is JAVA in Hindi)? पूरी जानकारी](https://www.solutioninhindi.com/java-in-hindi/) - SolutionInHindi.com
 
 
 ### Linux

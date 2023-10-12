@@ -60,6 +60,7 @@
     * [Ruby on Rails](#ruby-on-rails)
 * [Rust](#rust)
 * [Security](#security)
+* [Soft Computing](#soft-computing)
 * [Software Engineering](#software-engineering)
 * [Swift](#swift)
 * [System Design](#system-design)
@@ -607,6 +608,14 @@
 * [Cyber Security Tutorials In HIndi](https://www.youtube.com/playlist?list=PL0fjgIGwLMWTFmZoLdEPoI9azA-osxcQj) - TechChip
 * [Ethical Hacking Full Couse (Cyber Security in Hindi)](https://www.youtube.com/playlist?list=PLa2xctTiNSCibSUhgYI2RT_loUJP9rDN6) - Masters in IT
 * [Information And Cyber Security](https://www.youtube.com/playlist?list=PLYwpaL_SFmcArHtWmbs_vXX6soTK3WEJw) - 5 Minutes Engineering
+
+
+### Soft Computing
+
+* [Soft Computing And Optimization Algorithms](https://www.youtube.com/playlist?list=PLYwpaL_SFmcCPUl8mAnb4g1oExKd0n4Gw) - 5 Minutes Engineering
+* [Application of soft computing](https://www.youtube.com/playlist?list=PL_obO5Qb5QTEM_GVn5E45F3Z8-SIRBDL-) - LS Academy for Technical Education
+* [Introduction To Soft Computing](https://www.youtube.com/playlist?list=PLJ5C_6qdAvBFqAYS0P9INAogIMklG8E-9) - Computer Science and Engineering
+* [Soft Computing | University exams specific](https://www.youtube.com/playlist?list=PLuAADu3OvBt5-e5yXuIqBi1pttqw3RBeg) - Er Sahil ka Gyan
 
 
 ### Software Engineering

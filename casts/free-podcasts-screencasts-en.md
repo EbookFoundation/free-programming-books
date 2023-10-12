@@ -54,7 +54,6 @@
 
 * [C++ Complete Course](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) - Yan Chernikov (screencast)
 * [C++ Programming Video Lectures](https://www.youtube.com/playlist?list=PLTZbNwgO5ebo64D1k0DJQGX30X6iSTmRr) - Saurabh School of Computing (screencast)
-* [C++ Series](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) - The Cherno (screencast)
 * [C++ Standard Library](https://www.youtube.com/playlist?list=PL5jc9xFGsL8G3y3ywuFSvOuNm3GjBwdkb) - Bo Qian (screencast)
 * [C++ STL by example](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp5oH3mrr4IlFBn03rjS-gN1) - Douglas Schmidt (screencast)
 * [C++ STL: The ONLY Video You Need | Compulsory for DSA/CP](https://www.youtube.com/watch?v=PZogbfU4X5E) - Utkarsh Gupta (screencast)

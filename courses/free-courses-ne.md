@@ -7,6 +7,7 @@
 * [SQL](#sql)
 * [C](#c)
 * [WordPress](#wordpress)
+* [Web Development](#web_development)
 
 
 ### JavaScript
@@ -42,4 +43,9 @@
 #### WordPress
 
 * [WordPress Complete Tutorial In Nepali](https://www.youtube.com/playlist?list=PL2OJkQtHPRie2xyBApANdVp_LUz4v7xIG) - Technology Channel
+
+
+### Web Development
+
+* [WEB Development Complete Series In Nepali](https://www.youtube.com/playlist?list=PL2OJkQtHPRiejkQq4IX6Vf0NXbeEiQGIt) - Technology Channel
 

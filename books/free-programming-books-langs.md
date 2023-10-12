@@ -1389,11 +1389,12 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Jenkins
 
-* [Jenkins Essentials](https://raw.githubusercontent.com/rootusercop/Free-DevOps-Books-1/6dd8ee5bef93d2a1489a3761515ecbaf16c118cc/book/Jenkins%20Essentials.pdf) (PDF)
-* [Jenkins Starter Guide](https://bugfender.com/wp-content/themes/bugfender-wordpress-theme/assets/docs/Jenkins-Starter-Guide-Ebook.pdf) (PDF)
-* [Jenkins User Handbook](https://www.jenkins.io/user-handbook.pdf) (PDF)
+* [Jenkins 2: Up and Running](https://theswissbay.ch/pdf/Books/Computer%20science/jenkins2_upandrunning.pdf) (PDF)
+* [Jenkins Starter Guide Ebook](https://bugfender.com/wp-content/themes/bugfender-wordpress-theme/assets/docs/Jenkins-Starter-Guide-Ebook.pdf) (PDF)
 * [Jenkins: The Definitive Guide](http://www.bogotobogo.com/DevOps/Jenkins/images/Intro_install/jenkins-the-definitive-guide.pdf) (PDF)
-* [Learning Jenkins](https://riptutorial.com/Download/jenkins.pdf) (PDF)
+* [Jenkins User Handbook](https://www.jenkins.io/user-handbook.pdf) (PDF)
+* [Learning Jenkins](https://riptutorial.com/Download/jenkins.pdf) Compiled from StackOverflow Documentation (PDF)
+
 
 ### Julia
 

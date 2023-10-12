@@ -109,8 +109,8 @@ CSE Tamila by Eezytutorials
 * [Python DJango in Tamil - Full Course](https://www.youtube.com/playlist?list=PLgWpUXNR_WCch5K1nkemWWsm3rvr-7YmO) - Payilagam
 * [Python Full Course for Beginners in Tamil](https://youtu.be/m67-bOpOoPU?si=_OWrY7Zysy70XLtJ) - Error Makes Clever
 * [Python in Tamil for Beginners](https://youtube.com/playlist?list=PLA2UBjeRwle3OLO3qmXTbmCvuTlqhHRVb) - GURUKULA
-* [Python Programming in Tami](https://www.youtube.com/playlist?list=PLWbtDrDnmTHBdEnUKuLNdH2-zKSDD8OA4) - CS in Tamil
 * [Python Complete Course in Tamil | Game Development ](https://youtu.be/BiDOehqG68g?si=0JfRmcZV6Ksv_Uc-) - Logic First Tamil
+* [Python Programming in Tami](https://www.youtube.com/playlist?list=PLWbtDrDnmTHBdEnUKuLNdH2-zKSDD8OA4) - CS in Tamil
 * [Python Tutorial in Tamil](https://youtube.com/playlist?list=PLIFRUdRwOM0_hcLruKbsHWnU5P2uLBgsp) - SANTRA TECHSPOT
 
 

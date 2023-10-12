@@ -92,6 +92,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [A Field Guide To Genetic Programming](https://web.archive.org/web/20191020195105/http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/poli08_fieldguide.pdf) - Riccardo Poli, William B. Langdon, Nicholas F. McPhee (PDF) *(:card_file_box: archived)*
 * [Algorithm Design](https://archive.org/details/AlgorithmDesign1stEditionByJonKleinbergAndEvaTardos2005PDF) - Jon Kleinberg, Éva Tardos
 * [Algorithmic Graph Theory](https://code.google.com/p/graphbook/) - David Joyner, Minh Van Nguyen, David Phillips (PDF)
+* [Algorithmic Thinking](https://labuladong.gitbook.io/algo-en) - Donglai Fu
 * [Algorithms](https://en.wikibooks.org/wiki/Algorithms) - Wikibooks
 * [Algorithms, 4th Edition](http://algs4.cs.princeton.edu/home/) - Robert Sedgewick, Kevin Wayne
 * [Algorithms and Automatic Computing Machines (1963)](https://archive.org/details/Algorithms_And_Automatic_Computing_Machines) - B. A. Trakhtenbrot
@@ -103,6 +104,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Data Structures](https://adityacse.weebly.com/uploads/2/4/0/7/24078687/data-structures.pdf) - Aditya CSE (PDF)
 * [Data Structures](https://en.wikibooks.org/wiki/Data_Structures) - Wikibooks
 * [Data Structures (Into Java)](https://inst.eecs.berkeley.edu/~cs61b/fa14/book2/data-structures.pdf) - Paul N. Hilfinger (PDF)
+* [Data Structures and Algorithm Analysis in C++](https://people.cs.vt.edu/~shaffer/Book/C++3elatest.pdf) - Clifford A. Shaffer (PDF)
 * [Data Structures and Algorithms: Annotated Reference with Examples](https://web.archive.org/web/20170715160229/http://dotnetslackers.com/Community/files/folders/data-structures-and-algorithms/entry30283.aspx) - G. Barnett, L. Del Tongo *(:card_file_box: archived)*
 * [Data Structures Succinctly Part 1, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart1) - Robert Horvick
 * [Data Structures Succinctly Part 2, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart2) - Robert Horvick
@@ -177,6 +179,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Learn Azure in a Month of Lunches](https://clouddamcdnprodep.azureedge.net/gdc/2014519/original) - Iain Foulds (PDF)
 * [Monitoring Modern Infrastructure](https://www.datadoghq.com/ebook/monitoring-modern-infrastructure/) *(account required)*
 * [Multi-tenant Applications for the Cloud, 3rd Edition](https://www.microsoft.com/en-us/download/details.aspx?id=29263)
+* [Openstack CERN Admin guide](https://clouddocs.web.cern.ch/index.html)
 * [OpenStack Operations Guide](https://docs.openstack.org/ops-guide/index.html)
 * [Streamline microservice management with Istio Service Mesh](https://developers.redhat.com/books/introducing-istio-service-mesh-microservices/) *(account required)*
 * [The Developer’s Guide to Azure](https://azure.microsoft.com/en-us/campaigns/developer-guide/)
@@ -240,6 +243,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Docker Jumpstart](https://odewahn.github.io/docker-jumpstart/) - Andrew Odewahn
 * [Docker Tutorial](https://people.irisa.fr/Anthony.Baire/docker-tutorial.pdf) - Anthony Baire (PDF)
 * [Docker Tutorial](https://www.tutorialspoint.com/docker/) - Tutorials Point (HTML, PDF)
+* [Dotnet Microservices Architecture for Containerized NET Applications](https://aka.ms/microservicesebook) - Cesar de la Torre, Bill Wagner, Mike Rousos (PDF)
 * [Kubernetes Deployment & Security Patterns](https://resources.linuxfoundation.org/LF+Projects/CNCF/TheNewStack_Book2_KubernetesDeploymentAndSecurityPatterns.pdf) - Alex Williams (PDF)
 * [Kubernetes for Full-Stack Developers](https://www.digitalocean.com/community/books/digitalocean-ebook-kubernetes-for-full-stack-developers) - Jamon Camisso, Hanif Jetha, Katherine Juell (PDF, EPUB)
 * [Uncomplicating Kubernetes](https://livro.descomplicandokubernetes.com.br/en/) - Jeferson Fernando
@@ -250,6 +254,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [A Programmer's Guide to Data Mining](http://guidetodatamining.com) - Ron Zacharski (Draft)
 * [Data Jujitsu: The Art of Turning Data into Product](http://www.oreilly.com/data/free/data-jujitsu.csp) (email address *requested*, not required)
 * [Data Mining Algorithms In R](https://en.wikibooks.org/wiki/Data_Mining_Algorithms_In_R) - Wikibooks
+* [Data Mining Concepts and Techniques](https://ia800702.us.archive.org/7/items/datamining_201811/DS-book%20u5.pdf) - Jiawei Han, Micheline Kamber, Jian Pei (PDF) (:card_file_box: archived)
 * [Data Science at the Command Line](https://datascienceatthecommandline.com/2e/) - Jeroen Janssens
 * [Elements of Data Science](https://allendowney.github.io/ElementsOfDataScience/README.html) - Allen B. Downey
 * [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf) - Avrim Blum, John Hopcroft, Ravindran Kannan (PDF)
@@ -413,6 +418,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Speech and Language Processing (3rd Edition Draft)](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) - Daniel Jurafsky, James H. Martin (PDF)
 * [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) - Trevor Hastie, Robert Tibshirani, and Jerome Friedman
 * [The LION Way: Machine Learning plus Intelligent Optimization](https://intelligent-optimization.org/LIONbook/lionbook_3v0.pdf) - Roberto Battiti, Mauro Brunato (PDF)
+* [The Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf) - François Fleuret (PDF)
 * [The Mechanics of Machine Learning](https://mlbook.explained.ai) - Terence Parr, Jeremy Howard
 * [The Python Game Book](https://web.archive.org/web/20210308080726/https://thepythongamebook.com/en%3Astart) - Horst Jens *(:card_file_box: archived)*
 * [Top 10 Machine Learning Algorithms Every Engineer Should Know](https://www.dezyre.com/article/top-10-machine-learning-algorithms/202) - Binny Mathews, Omair Aasim
@@ -423,11 +429,13 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 
 * [A Computational Introduction to Number Theory and Algebra](https://shoup.net/ntb/) - Victor Shoup
 * [A Computational Logic (1979)](https://www.cs.utexas.edu/users/boyer/acl.pdf) - Robert S. Boyer, J Strother Moore (PDF)
+* [A Cool Brisk Walk Through Discrete Mathematics](http://stephendavies.org/brisk.pdf) - Stephen Davies (PDF)
 * [A First Course in Complex Analysis](http://math.sfsu.edu/beck/complex.html) - Matthias Beck, Gerald Marchesi, Dennis Pixton, Lucas Sabalka
 * [A First Course in Linear Algebra](http://linear.ups.edu) - Rob Beezer
 * [A Friendly Introduction to Mathematical Logic](https://milneopentextbooks.org/a-friendly-introduction-to-mathematical-logic/) - Christopher C. Leary, Lars Kristiansen
 * [A Gentle Introduction to the Art of Mathematics](https://osj1961.github.io/giam/) - Joseph E. Fields
 * [A Programmer's Introduction to Mathematics](https://pimbook.org) - Jeremy Kun
+* [A Quick Steep Climb Up Linear Algebra](http://stephendavies.org/quick.pdf) - Stephen Davies (PDF)
 * [Abstract Algebra: Theory and Applications](http://abstract.ups.edu) - Tom Judson
 * [Active Calculus](https://scholarworks.gvsu.edu/books/20/) - Matt Boelkins
 * [Advanced Algebra](http://www.math.stonybrook.edu/~aknapp/download/a2-alg-inside.pdf) - Anthony W. Knapp (PDF)
@@ -660,6 +668,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 
 ### Open Source Ecosystem
 
+* [500 lines or less](https://github.com/aosabook/500lines) - Build from Source Code
 * [Contributing to opensource: the right way](https://github.com/Mte90/Contribute-to-opensource-the-right-way) - Daniele Scasciafratte
 * [Data Journalism Handbook](http://datajournalismhandbook.org)
 * [Free as in Freedom: Richard Stallman and the free software revolution](https://archive.org/details/faif-2.0) - Sam Williams (PDF)
@@ -731,6 +740,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Don't Just Roll the Dice](https://www.red-gate.com/library/dont-just-roll-the-dice) - Neil Davidson (PDF)
 * [How to Do What You Love & Earn What You’re Worth as a Programmer](https://leanpub.com/dowhatyoulove/read) - Reginald Braithwaite
 * [How to Learn to Code & Get a Developer Job in 2023](https://www.freecodecamp.org/news/learn-to-code-book) - Quincy Larson
+* [How to Stand Out as a Software Engineer](https://github.com/lvndry/how-to-stand-out-as-a-software-engineer/blob/main/how_to_stand_out_as_a_software_engineer.pdf) - Landry Monga (PDF)
 * [Professional Software Development For Students](https://mixmastamyk.bitbucket.io/pro_soft_dev/intro.html) - Mike G. Miller
 * [Software Engineering at Google](https://abseil.io/resources/swe-book) - Titus Winters, Tom Manshreck, Hyrum Wright
 * [Software Environment Concepts](https://softwareconcepts.vercel.app) - Amr Elmohamady (:construction: *in process*)
@@ -773,9 +783,11 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Quantum Computing
 
 * [Introduction to Classical and Quantum Computing](http://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf) - Thomas G. Wong (PDF)
+* [Introduction to Quantum Information](https://www.gla.ac.uk/media/Media_344957_smxx.pdf) - Stephen M. Barnett (PDF)
 * [Learn Quantum Computation using Qiskit](https://qiskit.org/textbook/preface.html) - Frank Harkins, et al. (HTML)
 * [Quantum Algorithms](https://arxiv.org/pdf/0808.0369v1) - Michele Mosca (PDF)
 * [Quantum Computing for the Quantum Curious](https://link.springer.com/book/10.1007/978-3-030-61601-4) - Ciaran Hughes, Joshua Isaacson, Anastasia Perry, Ranbel F. Sun, Jessica Turner (HTML, PDF, EPUB)
+* [Quantum Information Theory](https://markwilde.com/qit-notes.pdf) - Mark M. Wilde (PDF)
 * [The Functional Analysis of Quantum Information Theory](https://arxiv.org/abs/1410.7188) - Ved Prakash Gupta, Prabha Mandayam, V. S. Sunder (PDF)
 
 

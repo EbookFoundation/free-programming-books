@@ -132,6 +132,7 @@
 * [openSAP](https://open.sap.com)
 * [Platzi](https://courses.platzi.com)
 * [Udacity](https://www.udacity.com)
+* [Flutter-bootcamp-with-dart](https://www.udemy.com/flutter-bootcamp-with-dart)
 
 
 ### Algorithms & Data Structures

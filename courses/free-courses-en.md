@@ -1604,6 +1604,7 @@
 * [Complete WooCommerce eCommerce WordPress Tutorials](https://www.youtube.com/playlist?list=PLjR7HjmPoicEyJPKnoj5w7rdPIKjJ-KZu) - Nayyar Shaikh
 * [Complete WordPress Website Tutorials](https://www.youtube.com/playlist?list=PLjR7HjmPoicHwIytCRu8LothNjizC5vr_) - Nayyar Shaikh
 * [Elementor Pro Tutorials](https://www.youtube.com/playlist?list=PLgJeRQxEOJmq5hR8yETsu3zPFmpoxCeMq) - Ferdy Korpershoek
+* [Gutenberg FSE - Full Site Editing using Gutenberg Block Editor Complete Project in 2022](https://www.youtube.com/playlist?list=PLzKN_iozW-I6PkSx8AVOE9wBaoVpJxLeS) - Riad Mahmud
 * [How to Create a Wordpress Website \| Complete Tutorial ](https://www.youtube.com/playlist?list=PLTDZrIwt-NI1rCkHfazfvzR_DETu0SezK) - Jim Fahad Digital
 * [How To Customize WooCommerce](https://www.youtube.com/playlist?list=PLTbrc9HXDstpihLrQIWtmExd9f1tiAYET) - WPTuts
 * [WordPress Basic to Advanced Course](https://www.youtube.com/playlist?list=PLQOGKy2nPhxlEVP4RBVrBoXPL6mZNZv5L) - Azharul Rafy

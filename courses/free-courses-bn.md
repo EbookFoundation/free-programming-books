@@ -119,10 +119,10 @@ Online School
 
 ### HTML and CSS
 
-* [CSS3 Essential Training (Bangla)](https://www.youtube.com/playlist?list=PLSNRR4BKcowA9IsN4F5utx7OlWUdN0RZV) - Procoder BD
 * [CSS Complete Course in Bangla 2021](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qjCBXjTmv7Xeh8MDUUVJDO) - Anisul Islam
 * [CSS3 and CSS4 Weird Parts Bangla Tutorial](https://www.youtube.com/playlist?list=PL_XxuZqN0xVD3oeT3ckKBmnc7krm-SZl2) - Stack Learner
 * [CSS Bangla Tutorial](https://www.youtube.com/playlist?list=PLm64fbD5Onxvj4aifOC8P8U8inUqWzdSH) - Moshiur
+* [CSS3 Essential Training (Bangla)](https://www.youtube.com/playlist?list=PLSNRR4BKcowA9IsN4F5utx7OlWUdN0RZV) - Procoder BD
 * [HTML Complete Course in Bangla 2021(Beginner to Advanced)](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oHBr5dsumGwjUxByN5Lnw3) - Anisul Islam
 * [HTML Tutorial in Bangla](https://w3programmers.com/bangla/html-basics/) - w3programmers
 * [HTML Bangla Tutorial](https://www.youtube.com/playlist?list=PLm64fbD5OnxuObyOVSxcM0TUcBLDF2w64) - Moshiur

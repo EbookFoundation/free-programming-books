@@ -110,11 +110,15 @@ CSE Tamila by Eezytutorials
 * [Python in Tamil for Beginners](https://youtube.com/playlist?list=PLA2UBjeRwle3OLO3qmXTbmCvuTlqhHRVb) - GURUKULA
 * [Python Programming in Tami](https://www.youtube.com/playlist?list=PLWbtDrDnmTHBdEnUKuLNdH2-zKSDD8OA4) - CS in Tamil
 * [Python Tutorial in Tamil](https://youtube.com/playlist?list=PLIFRUdRwOM0_hcLruKbsHWnU5P2uLBgsp) - SANTRA TECHSPOT
+* [Python Full Course for Beginners in Tamil](https://youtu.be/m67-bOpOoPU?si=_OWrY7Zysy70XLtJ) - Error Makes Clever
+* [Python Complete Course in Tamil | Game Development ](https://youtu.be/BiDOehqG68g?si=0JfRmcZV6Ksv_Uc-) - Logic First Tamil
+
 
 
 ### R
 
 * [R Tutorial in Tamil](https://youtube.com/playlist?list=PL4unWLKFsZfeGbK28rfPDeDDD_OJGjMCC) - Tutor Joe's Stanley
+* [Learn R Programming for Data Science](https://youtu.be/0R-O7601r2g?si=ajCgvYHDZudNvN21) - 1Little coder
 
 
 ### React
@@ -123,6 +127,7 @@ CSE Tamila by Eezytutorials
 * [React Basics Tamil](https://youtube.com/playlist?list=PLQeZxRj52I-HntAkC29CgxGRT9Z_-oa91&si=oe9UoqzeaUDYyoy6) - Tamil Coding Wizard
 * [React JS Tamil Tutorial for Beginners](https://youtube.com/playlist?list=PLfD4W8QfMd5DbFccLzRFeG0QjWWHGTT3-&si=X3CgUFk3PxeqA8YD) - MaanavaN Learn Code
 * [React JS Tutorial Tamil](https://youtube.com/playlist?list=PLtMr2pEysMV7DdPChnkF9Mmgdya1uR8sQ&si=ZNop81SRBf9eTGvK) - VJ Techno Wizard
+* [React Js Tutorial for beginners in Tamil](https://youtu.be/Uv7cKlZFXU8?si=ONBf_xGaelZoe5yd) - Balachandra
 
 
 ### Solidity
@@ -134,3 +139,4 @@ CSE Tamila by Eezytutorials
 
 * [SQL in Tamil (தமிழில் SQL)](https://www.youtube.com/playlist?list=PLgWpUXNR_WCd-oMh-n6LhRYyNZjiiPVGm) - Payilagam
 * [SQL in Tamil for Beginners](https://www.youtube.com/playlist?list=PLYM2_EX_xVvUBh28ZT2i-jH7kBkTfB_W2) - Logic First Tamil
+* [SQL tutorial TAMIL](https://youtu.be/d04g-tnAxSQ?si=coPfsCNVkUEit0wp) - NIC IT Academy

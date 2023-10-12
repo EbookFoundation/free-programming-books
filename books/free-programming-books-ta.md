@@ -11,6 +11,8 @@
 * [MySQL](#mysql)
 * [Pandas Python](#pandas-python)
 * [PHP](#php)
+* [Python](#python)
+* [React](#React)
 * [Ruby](#ruby)
 * [Selenium](#selenium)
 * [Software Architecture](#software-architecture)
@@ -74,10 +76,17 @@
 * [எளிய தமிழில் PHP](https://freetamilebooks.com/ebooks/learn-php-in-tamil/) - த.சீனிவாசன் (PDF)
 
 
+### Python
+
+* [எளிய தமிழில் Pyhton](https://youtu.be/m67-bOpOoPU?si=iZ24O8nlm9kousWX) - Error Makes Clever Academy (Video)
+
 ### Ruby
 
 * [எளிய இனிய கணினி மொழி Ruby](https://freetamilebooks.com/ebooks/learn-ruby-in-tamil/) - பிரியா சுந்தரமூர்த்தி (PDF)
 
+### React
+
+* [எளிய தமிழில் React](https://youtu.be/Uv7cKlZFXU8?si=gwPwJy_RBuNCfjF4) - Balachandra (Video)
 
 ### Selenium
 

@@ -436,7 +436,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [256-Color VGA Programming in C](http://www.brackeen.com/vga/) - David Brackeen
 * [A Tutorial on Pointers and Arrays in C](https://web.archive.org/web/20180827131006/http://home.earthlink.net/~momotuk/pointers.pdf) - Ted Jensen (PDF) *(:card_file_box: archived)*
 * [Algorithms Design (in C)](https://www.ime.usp.br/~pf/algorithms/) - Paulo Feofiloff (HTML)
-* [An Introduction to C & GUI Programming](https://magpi.raspberrypi.com/books/c-gui-programming) - Simon Long (PDF)
 * [Bare-metal programming for ARM](https://github.com/umanovskis/baremetal-arm) - Daniels Umanovskis [(PDF)](http://umanovskis.se/files/arm-baremetal-ebook.pdf)
 * [Beej's Guide to C Programming](http://beej.us/guide/bgc/) - Brian "Beej Jorgensen" Hall (HTML, PDF)
 * [Beej's Guide to the GNU Debugger (GDB)](http://beej.us/guide/bggdb/) - Brian "Beej Jorgensen" Hall (HTML)

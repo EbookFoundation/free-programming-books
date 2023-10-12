@@ -596,7 +596,7 @@
 * [プログラミング演習 Python 2019](http://hdl.handle.net/2433/245698) - 喜多一 (PDF)
 * [みんなのPython Webアプリ編](https://coreblog.org/ats/stuff/minpy_web) - 柴田淳
 * [機械学習の Python との出会い (Machine Learning Meets Python)](https://www.kamishima.net/mlmpyja) - 神嶌敏弘 [PDF](https://www.kamishima.net/archive/mlmpyja.pdf), [EPUB](https://www.kamishima.net/archive/mlmpyja.epub)
-
+* [Python プログラミング入門](https://teams.microsoft.com/l/message/48:notes/1697129049401?context=%7B%22contextType%22%3A%22chat%22%7D) - 東京大学 数理・情報教育研究センター
 
 #### Flask
 

@@ -162,7 +162,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 ### Cellular Automata
 
 * [A New Kind of Science](https://www.wolframscience.com/nksonline/toc.html) - Stephen Wolfram
-
+* [Automata Theory, Language and Computation](https://e.famnit.upr.si/pluginfile.php/636821/mod_page/content/8/Automata.pdf) - John E. Hopcroft, Rajeev Motwani, Jeffrey D.Ullman (PDF)
 
 ### Cloud Computing
 

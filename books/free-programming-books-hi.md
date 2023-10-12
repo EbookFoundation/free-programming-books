@@ -33,14 +33,14 @@
 
 ### Data Structure and Algorithms
 
-* [What is Data Structure?](https://www.codeash.com/what-is-data-structure/) - Codeash.com
 * [Data Structure with C \| Hindi](http://www.bccfalna.com/IOC-AllEBooks/DSnAinHindi.pdf) - Kuldeep Chand (PDF)
+* [What is Data Structure?](https://www.codeash.com/what-is-data-structure/) - Codeash.com
 
 
 ### Java
 
-* [Java \| Hindi](https://www.learnhindituts.com/java) - LearnHindiTuts.com
 * [जावा क्या है (What is JAVA in Hindi)? पूरी जानकारी](https://www.solutioninhindi.com/java-in-hindi/) - SolutionInHindi.com
+* [Java \| Hindi](https://www.learnhindituts.com/java) - LearnHindiTuts.com
 
 
 ### Linux

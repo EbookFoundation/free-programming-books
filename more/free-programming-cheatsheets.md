@@ -323,6 +323,9 @@
 
 * [Octave Cheat Sheet](https://www.lehman.edu/academics/cmacs/documents/refcard-a4.pdf) - John W. Eaton (PDF)
 
+### Operating System
+* [Operating System Cheat Sheet](https://drive.google.com/uc?export=download&id=1-XYE_jhFwMffY1oD6ksErWsCqMi9SpCo) - CodeHelp (PDF)
+
 
 ### Perl
 

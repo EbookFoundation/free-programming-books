@@ -897,6 +897,7 @@
 * [Learn modern JavaScript](https://scrimba.com/learn/es6) - Beau Carnes (Scrimba) (Scrimba account *required*)
 * [Learn to Program in Javascript: Beginner to Pro](https://www.udemy.com/course/programming-in-javascript) - Raghavendra Dixit (Udemy)
 * [learn:query](https://learnquery.infinum.com)
+* [Modern JavaScript From The Beginning](https://www.youtube.com/watch?v=BI1o2H9z9fo) - Traversy Media (Youtube)
 * [Namaste 🙏 JavaScript: An In-Depth JavaScript Fundamentals Course](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP) - Akshay Saini
 * [npm - Mastering the Basics](https://www.udemy.com/course/npm-mastering-the-basics/) - Vishwas Gopinath (Udemy)
 * [Object-Oriented JavaScript](https://www.udacity.com/course/object-oriented-javascript--ud711) - Richard Kalehoff (Udacity)

@@ -104,6 +104,8 @@ CSE Tamila by Eezytutorials
 
 ### Python
 
+* [FastAPI Beginners Tutorial in Tamil](https://www.youtube.com/playlist?list=PLIFRUdRwOM08B9M7HVuiUWWto8eDxVryI) - Santra TechSpot
+* [Flask in Python](https://www.youtube.com/playlist?list=PLBngtsPyn30GbfwGhOD_cPoQtkoIQQnHg) - Learn All In Tamil
 * [Python DJango in Tamil - Full Course](https://www.youtube.com/playlist?list=PLgWpUXNR_WCch5K1nkemWWsm3rvr-7YmO) - Payilagam
 * [Python in Tamil for Beginners](https://youtube.com/playlist?list=PLA2UBjeRwle3OLO3qmXTbmCvuTlqhHRVb) - GURUKULA
 * [Python Programming in Tami](https://www.youtube.com/playlist?list=PLWbtDrDnmTHBdEnUKuLNdH2-zKSDD8OA4) - CS in Tamil

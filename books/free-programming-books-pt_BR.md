@@ -148,6 +148,7 @@
 ### Elixir
 
 * [Elixir DOJO](http://victorolinasc.github.io/elixir_dojo/dojo.html) - Victor Oliveira Nascimento (HTML)
+* [Learn4Elixir](https://github.com/Universidade-Livre/Learn4Elixir) - Universidade Brasileira Livre (Livebook)
 
 
 ### Engenharia de Software
@@ -371,6 +372,7 @@
 
 ### Python
 
+* [Apostila de Python](https://www1.univap.br/alberson/apostilas/pooi/apostila_pooi_1bi.pdf) - Alberson Wander Sá dos Santos (PDF)
 * [Aprenda computação com Python](https://aprendendo-computacao-com-python.readthedocs.org/en/latest/index.html)
 * [Curso de Python e Django](https://osantana.me/curso-de-python-e-django)
 * [Django 101 - Introdução ao Django](http://turing.com.br/material/acpython/mod3/django/index.html)

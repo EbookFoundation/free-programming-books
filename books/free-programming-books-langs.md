@@ -436,7 +436,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [256-Color VGA Programming in C](http://www.brackeen.com/vga/) - David Brackeen
 * [A Tutorial on Pointers and Arrays in C](https://web.archive.org/web/20180827131006/http://home.earthlink.net/~momotuk/pointers.pdf) - Ted Jensen (PDF) *(:card_file_box: archived)*
 * [Algorithms Design (in C)](https://www.ime.usp.br/~pf/algorithms/) - Paulo Feofiloff (HTML)
-* [An Introduction to C & GUI Programming](https://magpi.raspberrypi.com/books/c-gui-programming) - Simon Long (PDF)
 * [Bare-metal programming for ARM](https://github.com/umanovskis/baremetal-arm) - Daniels Umanovskis [(PDF)](http://umanovskis.se/files/arm-baremetal-ebook.pdf)
 * [Beej's Guide to C Programming](http://beej.us/guide/bgc/) - Brian "Beej Jorgensen" Hall (HTML, PDF)
 * [Beej's Guide to the GNU Debugger (GDB)](http://beej.us/guide/bggdb/) - Brian "Beej Jorgensen" Hall (HTML)
@@ -1282,7 +1281,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 * [Learn Next.js](https://nextjs.org/learn) - Vercel Inc.
 * [Mastering Next.js](https://masteringnextjs.com)
-* [Next.js Crash Course 2021](https://www.youtube.com/watch?v=mTz0GXj8NN0) - Brad Traversy (Traversy Media)
+* [Next.js 13 Crash Course 2023: Learn App Directory, React Server Components & More](https://www.youtube.com/watch?v=Y6KDk5iyrYE) - Brad Traversy (Traversy Media)
 * [The Next.js Handbook](https://flaviocopes.com/page/nextjs-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
 
 
@@ -2429,6 +2428,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Developing Time-Oriented Database Applications in SQL](https://www2.cs.arizona.edu/~rts/tdbbook.pdf) - Richard T. Snodgrass (PDF)
 * [Essential SQL](https://www.programming-books.io/essential/sql) - Krzysztof Kowalczyk and  Stack Overflow Documentation project (HTML)
 * [Introduction to SQL](https://github.com/bobbyiliev/introduction-to-sql) - Bobby Iliev (Markdown, PDF)
+* [Oracle Database Notes for Professionals](https://goalkicker.com/OracleDatabaseBook/OracleDatabaseNotesForProfessionals.pdf) Compiled from StackOverflow Documentation (PDF)
 * [Oracle8i Concepts: Chapter 15 - SQL and PL/SQL](https://docs.oracle.com/cd/A87860_01/doc/server.817/a76965/c14sqlpl.htm#5943) - Lefty Leverenz, Diana Rehfield, Cathy Baird (HTML)
 * [SQL For Web Nerds](http://philip.greenspun.com/sql/) - Philip Greenspun (HTML)
 * [SQL Notes for Professionals](http://goalkicker.com/SQLBook/) - Compiled from StackOverflow Documentation (PDF)

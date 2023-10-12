@@ -99,6 +99,7 @@
 
 ### DevOps
 
+* [Corso DevOps](https://www.youtube.com/playlist?list=PLU2FPKLp7ojKcxrKXr1cFmXH81tMK4P3E) - Michele Ferracin
 * [Docker - EmmeCiLab](https://www.youtube.com/playlist?list=PLCbSCJEIR6CpDJw4MawjHlgbsP3IG376e) - Mauro Cicolella
 
 

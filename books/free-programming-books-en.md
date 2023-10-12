@@ -1,8 +1,13 @@
 ### Index
 
 * [All](#all)
+* [Python](#python)
 
 
+### Python
+* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com) - Al Sweigart
+
+  
 ### All
 
 * [English, By Programming Language](free-programming-books-langs.md)

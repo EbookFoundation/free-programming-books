@@ -21,8 +21,8 @@
 
 ### Angular
 
-* [Angular Tutorials in Marathi](https://youtube.com/playlist?list=PLMs908ICeVMEBw4CevNdPvvIJDaQV1ISN) - Developers Marathi
 * [Angular in Marathi](https://youtube.com/playlist?list=PLpDAynbYcV3sruD9MNfmZtimPCKHicA2V) - Finishing School
+* [Angular Tutorials in Marathi](https://youtube.com/playlist?list=PLMs908ICeVMEBw4CevNdPvvIJDaQV1ISN) - Developers Marathi
 
 
 ### Arduino

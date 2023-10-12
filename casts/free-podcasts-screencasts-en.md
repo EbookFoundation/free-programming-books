@@ -48,6 +48,7 @@
 * [Beginning C# with Unity](https://www.youtube.com/playlist?list=PLFgjYYTq6xyhtVK6VzLiFe3pmBu-XSNlX) - Brian Douglas Moakley, VegetarianZombie (screencast)
 * [General .NET videos](https://www.youtube.com/playlist?list=PLUOequmGnXxPjam--7GAls6Tb1fSmL9mL) - Nick Chapsas(screencast)
 * [How to program in C# - Beginner Course \| Brackeys](https://www.youtube.com/playlist?list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51) - Asbjørn Thirslund (screencast)
+* [VSCode for the C# Developer - Tim Corey](https://www.youtube.com/watch?v=IlluGh16OKg&list=PL03Lrmd9CiGcXoPBhisyxmof9GfH2H6C8&index=70) - NDC London 2023
 
 
 ### <a id="cpp"></a>C++

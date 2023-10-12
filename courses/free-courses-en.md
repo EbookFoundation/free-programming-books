@@ -335,7 +335,6 @@
 * [Fundamentals of Programming: Understanding C#](https://www.udemy.com/course/understandingc/) - Jesse Dietrichson (Udemy)
 * [Learn C#](https://www.sololearn.com/learning/1080) - *registration required*
 * [Learn how to program: C# and .NET](https://www.learnhowtoprogram.com/c-and-net) - Epicodus Inc.
-* [VSCode for the C# Developer - Tim Corey](https://www.youtube.com/watch?v=IlluGh16OKg&list=PL03Lrmd9CiGcXoPBhisyxmof9GfH2H6C8&index=70) - NDC London 2023
 
 
 ### <a id="cpp"></a>C++

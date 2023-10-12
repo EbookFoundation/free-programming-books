@@ -202,7 +202,7 @@
 
 ### Postman
 
-* [Belajar Menggunakan Aplikasi Postman Untuk Testing API](https://www.sekawanmedia.co.id/blog/postman-api/)
+* [Belajar Menggunakan Aplikasi Postman Untuk Testing API](https://medium.com/skyshidigital/documentation-testing-api-dengan-postman-part-1-5d33e430dca7)
 
 ### Python
 

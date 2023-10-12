@@ -47,6 +47,11 @@
 ### Java
 
 * [Java 5.0, novinky jazyka a upgrade aplikací](http://i.iinfo.cz/files/root/k/java-5-0-novinky-jazyka-a-upgrade-aplikaci.pdf) (PDF)
+* [Introduction to Programming Using Java (David J. Eck)](https://freecomputerbooks.com/Introduction-to-Programming-Using-JAVA.html) (PDF)
+* [Java 5.0, novinky jazyka a upgrade aplikací](http://i.iinfo.cz/files/root/k/java-5-0-novinky-jazyka-a-upgrade-aplikaci.pdf) (PDF)
+* [OOP: Learn Object Oriented Thinking & Programming using Java](https://freecomputerbooks.com/OOP-Learn-Object-Oriented-Thinking-and-Programming.html) (PDF)
+* [O'Reilly® Algorithms and Information Retrieval in Java](https://freecomputerbooks.com/Think-Data-Structures-Algorithms-and-Information-Retrieval-in-Java.html) (PDF)
+* [Think Java, 2nd Edition (Allen B. Downey, et al)](https://freecomputerbooks.com/Think-Java-2nd-Edition.html) (PDF)
 
 
 ### Git

@@ -36,6 +36,7 @@
     * [jQuery](#jquery)
     * [Knockout.js](#knockoutjs)
     * [Meteor](#meteor)
+    * [Next.js](#nextjs)
     * [Node.js](#nodejs)
     * [React](#react)
     * [Vue.js](#vuejs)
@@ -148,6 +149,7 @@
 ### Elixir
 
 * [Elixir DOJO](http://victorolinasc.github.io/elixir_dojo/dojo.html) - Victor Oliveira Nascimento (HTML)
+* [Learn4Elixir](https://github.com/Universidade-Livre/Learn4Elixir) - Universidade Brasileira Livre (Livebook)
 
 
 ### Engenharia de Software
@@ -297,6 +299,11 @@
 #### Meteor
 
 * [Tudo sobre Meteor](https://udgwebdev.github.io/meteor/)
+
+
+#### Next.js
+
+* [O manual do Next.js para iniciantes](https://www.freecodecamp.org/portuguese/news/o-manual-do-next-js-para-iniciantes/) - freeCodeCamp
 
 
 #### Node.js

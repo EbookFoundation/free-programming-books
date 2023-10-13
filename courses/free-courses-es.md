@@ -52,6 +52,7 @@
 ### Bases de Datos
 
 * [Almacenamiento de datos No Relacionales](https://ocw.unican.es/course/view.php?id=231)
+* [Aprende MongoDB NoSQL desde cero hasta nivel experto](https://www.youtube.com/playlist?list=PLyahFOLd43YRLaaoDKMUWS09xE8HqZAbE) - Luis Angel Monge (Ingenioteka)
 * [Bases de Datos (2011)](https://ocw.unican.es/course/view.php?id=163)
 * [Curso SQL](https://www.pildorasinformaticas.es/course/curso-sql) - Juan Díaz (Píldoras Informáticas)
 * [Fundamentos de las bases de datos (2011)](https://ocw.ua.es/es/ingenieria-y-arquitectura/fundamentos-de-las-bases-de-datos-2011.html)

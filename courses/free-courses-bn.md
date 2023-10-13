@@ -138,6 +138,7 @@ Online School
 
 #### Tailwind
 
+* [Tailwind CSS](https://www.youtube.com/playlist?list=PLSNRR4BKcowD8Vo0owqLtHhVpSSZ4w6Om) - Procoder BD
 * [Tailwind CSS Bangla Tutorial Series](https://youtube.com/playlist?list=PLHiZ4m8vCp9P23SqlHL0QAqiwS_oCofV2) - Learn with Sumit
 * [Tailwind CSS Bangla Tutorial Basic to Project Series](https://www.youtube.com/playlist?list=PL2ozzDVxiDachzWAOiMRrjgrqe7EO-XOv) - CODE ABC
 * [Tailwind CSS Tutorials in Bangla](https://www.youtube.com/playlist?list=PLerpoOYRrjUxnfWO73zj2R_y-e_Dw1ine) - Programming Shikhbo
@@ -246,6 +247,7 @@ Online School
 ### PHP
 
 * [PHP All You Need To Know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVCFLIrGA1GaxacvPTDQcsMV) - Stack Learner
+* [PHP Bangla Tutorial - Basic To Advanced](https://www.youtube.com/playlist?list=PL4iFnndHldui-0507zycrQBo_HFU8-mi9) - JS Bangladesh
 * [php bangla tutorial for beginners \| php8 bangla tutorial](https://www.youtube.com/playlist?list=PLbC4KRSNcMnqBfSoiU5TG7FF4FQmCpoSp) - Learn Hunter
 * [PHP OOP Bangla Tutorial \| Object Oriented Programming Bangla Tutorial](https://www.youtube.com/playlist?list=PLJC7GfA2DHaAFmx7JppHrrFfsCNLeKn9G) - Technology Village
 

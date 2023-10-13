@@ -1054,7 +1054,7 @@
 
 #### Three.js
 
-* [Three.js Guide For Absolute Beginners](https://www.youtube.com/playlist?list=PLjcjAqAnHd1EIxV4FSZIiJZvsdrBc1Xho) - Wael Yasmina
+* [Three.js Tutorials](https://www.youtube.com/playlist?list=PLjcjAqAnHd1EIxV4FSZIiJZvsdrBc1Xho) - Wael Yasmina
 * [Three.js Tutorial Crash Course](https://www.youtube.com/watch?v=YK1Sw_hnm58) - Chris Courses
 
 

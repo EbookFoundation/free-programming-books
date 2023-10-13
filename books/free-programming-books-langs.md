@@ -1035,7 +1035,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Introduction to Programming Using Java](http://math.hws.edu/javanotes) - David J. Eck (HTML, PDF, ePUB + exercises)
 * [Introduction to Programming Using Java (5th Edition - final version, 2010 Jun)](https://math.hws.edu/eck/cs124/javanotes5) - David J. Eck (HTML, PDF, ePUB + exercises)
 * [Java Application Development on Linux (2005)](https://ptgmedia.pearsoncmg.com/images/013143697X/downloads/013143697X_book.pdf) - Carl Albing, Michael Schwarz (PDF)
-* [Java Head](https://archive.org/details/cu31924020765537/) - Joseph Hergesheimer (:card_file_box: archived)
+* [Java Head](https://archive.org/details/cu31924020765537) - Joseph Hergesheimer (:card_file_box: archived)
 * [Java, Java, Java Object-Oriented Problem Solving](https://archive.org/details/JavaJavaJavaObject-orientedProblemSolving/page/n0) - R. Morelli, R.Walde
 * [Java Language and Virtual Machine Specifications](https://docs.oracle.com/javase/specs/) - James Gosling, et al.
 * [Java Masters](https://javamasters.io/servlets) - Java Masters (HTML)

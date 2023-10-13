@@ -119,6 +119,7 @@ This project lists books and other resources grouped by genres:
 + [Thai / ไทย](books/free-programming-books-th.md)
 + [Turkish / Türkçe](books/free-programming-books-tr.md)
 + [Ukrainian / Українська](books/free-programming-books-uk.md)
++ [Urdu / اردو](books/free-programming-books-ur.md)
 + [Vietnamese / Tiếng Việt](books/free-programming-books-vi.md)
 
 ### Cheat Sheets
@@ -161,6 +162,7 @@ This project lists books and other resources grouped by genres:
 + [Thai / ภาษาไทย](courses/free-courses-th.md)
 + [Turkish / Türkçe](courses/free-courses-tr.md)
 + [Ukrainian / Українська](courses/free-courses-uk.md)
++ [Urdu / اردو](courses/free-courses-ur.md)
 + [Vietnamese / Tiếng Việt](courses/free-courses-vi.md)
 
 
@@ -172,7 +174,7 @@ This project lists books and other resources grouped by genres:
 + [Japanese / 日本語](more/free-programming-interactive-tutorials-ja.md)
 + [Portuguese (Brazil)](more/free-programming-interactive-tutorials-pt_BR.md)
 + [Russian / Русский язык](more/free-programming-interactive-tutorials-ru.md)
-
++ [Russian / Русский язык](more/free-programming-interactive-tutorials-ru.md)
 
 ### Problem Sets and Competitive Programming
 

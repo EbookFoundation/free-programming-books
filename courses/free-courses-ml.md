@@ -6,6 +6,7 @@
 * [C++](#cpp)
 * [C#](#csharp)
 * [Compiler Design](#compiler-design)
+* [Cybersecurity](#cybersecurity)
 * [Data Structure](#data-structure)
 * [Distributed Computing](#distributed-computing)
 * [Docker](#docker)
@@ -68,6 +69,12 @@
 * [Compiler Design](https://www.youtube.com/playlist?list=PLwe8bwPXjlLtPlbzxU_SICYI3PeYpEAtJ) -  Learn CSE Malayalam
 
 
+### Cybersecurity
+
+* [Cyber Security Tutorial Malayalam](https://www.youtube.com/playlist?list=PLR2UNjW_Pkm8LUpryeuiLMpEf4KgCDeBu) -  RootSaid - Robotics, Technology & Cyber Security
+* [Security Fundamentals](https://www.youtube.com/playlist?list=PLEhpnavDYfVhGnYA4l8btphQG8i2zO4cI) -  Cyber Security Malayalam
+
+
 ### Data Structure
 
 * [Data Structure Challenge](https://youtube.com/playlist?list=PLY-ecO2csVHc5kajCd3fHU6MhkTABkRh9) - Brototype Malayalam
@@ -117,6 +124,7 @@
 
 * [BOOTSTRAP Malayalam Tutorial](https://youtube.com/playlist?list=PL1JrLEBAapUWqs_HbcYngAOmpPbiccqNy) - Yes Tech Media
 * [Bootstrap Malayalam Tutorials](https://www.youtube.com/playlist?list=PLDavEIls6jrsC9EEox1WWvOlktDJcEUo6) - Malayalam Tutorials
+* [Learn Bootstrap in malayalam](https://www.youtube.com/playlist?list=PL-Z1WBeTYPOp--cI5tnztgjG5lRSPHJrL) -  Aks Programming
 
 
 ### Java

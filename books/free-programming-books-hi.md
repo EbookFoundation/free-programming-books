@@ -64,4 +64,4 @@
 ### Python
 
 * [Python Notes PDF by ehindistudy.com \| Hindi](https://drive.google.com/file/d/1cnJ6Uksso2UXwC5OHBAGk3miMzSveBvr/view) - Yugal Joshi (PDF)
-* [Python Programming \| Hindi](https://www.python.org/) - Official Python Documentation (Addition)
+* [Python Programming \| Hindi](https://www.python.org) - Official Python Documentation (Addition)

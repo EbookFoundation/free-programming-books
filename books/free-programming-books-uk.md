@@ -1,4 +1,3 @@
-### Index
 
 * [C and C++](#c-and-cpp)
 * [ClosureScript](#clojurescript)

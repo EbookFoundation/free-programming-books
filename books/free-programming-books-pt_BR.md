@@ -36,6 +36,7 @@
     * [jQuery](#jquery)
     * [Knockout.js](#knockoutjs)
     * [Meteor](#meteor)
+    * [Next.js](#nextjs)
     * [Node.js](#nodejs)
     * [React](#react)
     * [Vue.js](#vuejs)
@@ -148,6 +149,7 @@
 ### Elixir
 
 * [Elixir DOJO](http://victorolinasc.github.io/elixir_dojo/dojo.html) - Victor Oliveira Nascimento (HTML)
+* [Learn4Elixir](https://github.com/Universidade-Livre/Learn4Elixir) - Universidade Brasileira Livre (Livebook)
 
 
 ### Engenharia de Software
@@ -299,6 +301,11 @@
 * [Tudo sobre Meteor](https://udgwebdev.github.io/meteor/)
 
 
+#### Next.js
+
+* [O manual do Next.js para iniciantes](https://www.freecodecamp.org/portuguese/news/o-manual-do-next-js-para-iniciantes/) - freeCodeCamp
+
+
 #### Node.js
 
 * [Aplicações web real-time com Node.js](https://github.com/caio-ribeiro-pereira/livro-nodejs) - Caio Ribeiro Pereira
@@ -371,6 +378,7 @@
 
 ### Python
 
+* [Apostila de Python](https://www1.univap.br/alberson/apostilas/pooi/apostila_pooi_1bi.pdf) - Alberson Wander Sá dos Santos (PDF)
 * [Aprenda computação com Python](https://aprendendo-computacao-com-python.readthedocs.org/en/latest/index.html)
 * [Curso de Python e Django](https://osantana.me/curso-de-python-e-django)
 * [Django 101 - Introdução ao Django](http://turing.com.br/material/acpython/mod3/django/index.html)

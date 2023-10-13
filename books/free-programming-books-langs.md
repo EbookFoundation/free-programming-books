@@ -1389,7 +1389,6 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Jenkins
 
-* [Jenkins 2: Up and Running](https://theswissbay.ch/pdf/Books/Computer%20science/jenkins2_upandrunning.pdf) (PDF)
 * [Jenkins Starter Guide Ebook](https://bugfender.com/wp-content/themes/bugfender-wordpress-theme/assets/docs/Jenkins-Starter-Guide-Ebook.pdf) (PDF)
 * [Jenkins: The Definitive Guide](http://www.bogotobogo.com/DevOps/Jenkins/images/Intro_install/jenkins-the-definitive-guide.pdf) (PDF)
 * [Jenkins User Handbook](https://www.jenkins.io/user-handbook.pdf) (PDF)

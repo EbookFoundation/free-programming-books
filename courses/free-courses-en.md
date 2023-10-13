@@ -4,6 +4,7 @@
 * [Algorithms & Data Structures](#algorithms--data-structures)
 * [Android](#android)
 * [APL](#apl)
+* [APTITUDE](#apti)
 * [Artificial Intelligence](#artificial-intelligence)
 * [Assembly](#assembly)
 * [AutoIt](#autoit)
@@ -236,6 +237,11 @@
 * [APL Cultivation](https://aplwiki.com/wiki/APL_Cultivation) - Adám Brudzewsky
 * [Dyalog APL Tutor](https://tutorial.dyalog.com) - Dyalog
 * [Learn APL with Neural Networks](https://www.youtube.com/playlist?list=PLgTqamKi1MS3p-O0QAgjv5vt4NY5OgpiM) - Rodrigo Girão Serrão
+   
+
+### APTITUDE
+
+* [Aptitude for GATE — Complete Playlist](https://www.youtube.com/playlist?list=PLC36xJgs4dxE43Au1FGRQvwHTr7NbgDCS) - AMIT KHURRANA
 
 
 ### Artificial Intelligence

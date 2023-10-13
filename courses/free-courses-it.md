@@ -99,6 +99,7 @@
 
 ### DevOps
 
+* [Corso DevOps](https://www.youtube.com/playlist?list=PLU2FPKLp7ojKcxrKXr1cFmXH81tMK4P3E) - Michele Ferracin
 * [Docker - EmmeCiLab](https://www.youtube.com/playlist?list=PLCbSCJEIR6CpDJw4MawjHlgbsP3IG376e) - Mauro Cicolella
 
 
@@ -234,6 +235,7 @@
 * [Corso HTML 5 Completo 2023](https://www.youtube.com/playlist?list=PLP5MAKLy8lP8U-yYn6J4hGfcee4Tirieg) - Edoardo Midali
 * [Corso HTML 5 Italiano 2023](https://www.youtube.com/playlist?list=PL6PilnEO6HWbTXL8nLSkp-875H-x-vhEo) - Manuel Ricci
 * [Corso SEO Italiano 2023](https://www.youtube.com/playlist?list=PLP5MAKLy8lP9OpFQyF2LnTWgtcoDLgYm7) - Edoardo Midali
+* [Mini Corso React / TypeScript / TSX 2023](https://www.youtube.com/playlist?list=PLUioGv_6G9YJw8uZb040obhcCi8tQX9IQ) - Fabio Biondi
 * [Progettazione di applicazioni Web](https://www.youtube.com/playlist?list=PLE0AA1735F10543A6) - Fulvio Corno, S. Di Carlo, Politecnico di Torino
 
 

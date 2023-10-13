@@ -103,6 +103,7 @@ This project lists books and other resources grouped by genres:
 + [Japanese / 日本語](books/free-programming-books-ja.md)
 + [Korean / 한국어](books/free-programming-books-ko.md)
 + [Latvian / Latviešu](books/free-programming-books-lv.md)
++ [Malayalam / മലയാളം](books/free-programming-books-ml.md)
 + [Norwegian / Norsk](books/free-programming-books-no.md)
 + [Persian / Farsi (Iran) / فارسى](books/free-programming-books-fa_IR.md)
 + [Polish / polski / język polski / polszczyzna](books/free-programming-books-pl.md)

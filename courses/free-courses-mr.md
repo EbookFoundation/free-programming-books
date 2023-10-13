@@ -5,12 +5,12 @@
 * [Arduino](#arduino)
 * [C](#c)
 * [C#](#csharp)
+* [C++](#cpp)
 * [Data Science](#datascience)
 * [Databases](#databases)
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
-* [PLC](#plc)
 * [Python](#python)
 
 
@@ -36,7 +36,7 @@
 * [C Programming tutorials in Marathi](https://youtube.com/playlist?list=PLCx-k6Qe-qShOnyqpTckJd9qWflu0Ah5I) - M Computers
 
 
-### <a id="csharp"></a>C
+### <a id="csharp"></a>C#
 
 * [C# basic To advance in Marathi](https://youtube.com/playlist?list=PLQX297IOnCYoDo0l80fQHQrCxF0PAx8zs) - The Pro Code
 

@@ -618,6 +618,7 @@
 
 ### Swift
 
+* [Swift programming hindi tutorial for beginners](https://www.youtube.com/playlist?list=PLb5R4QC2DtFv3MvfG42Cd5La34Hwj4pY6) - Code Cat
 * [Swift Tutorials For Beginners(Full) in Hindi.](https://www.youtube.com/playlist?list=PLWZIhpNhtvfqBd00bF3ouroGHMPe-iroO) - Yogesh Patel
 
 

@@ -822,6 +822,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Go Handbook](https://thevalleyofcode.com/go/) - Flavio Copes (HTML, PDF)
 * [Go Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/go-succinctly) - Mark Lewin (PDF, EPUB, Kindle)
 * [Go Tutorial](http://www.tutorialspoint.com/go/) - Tutorials Point (HTML, PDF)
+* [Go Tutorial](https://www.w3schools.com/go/) - W3Schools
 * [Go Web Development Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/go-web-development) - Mark Lewin (PDF, EPUB, Kindle)
 * [Golang by Example](https://golangbyexample.com)
 * [How To Code in Go](https://www.digitalocean.com/community/books/how-to-code-in-go-ebook) - Mark Bates, Cory Lanou, Timothy J. Raymond (PDF, EPUB)

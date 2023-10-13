@@ -162,7 +162,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 ### Cellular Automata
 
 * [A New Kind of Science](https://www.wolframscience.com/nksonline/toc.html) - Stephen Wolfram
-* [Automata Theory, Language and Computation](https://archive.org/download/HopcroftUllman_cinderellabook/Intro%20to%20Automata%20Theory%2C%20Languages%20and%20Computation%20_%20John%20E%20Hopcroft%2C%20Jeffrey%20D%20Ullman_text.pdf) - Hopcroft Motwani Ullman (PDF) *(:card_file_box: archived)* 
+* [Automata Theory, Language and Computation](https://archive.org/download/HopcroftUllman_cinderellabook/Intro%20to%20Automata%20Theory%2C%20Languages%20and%20Computation%20_%20John%20E%20Hopcroft%2C%20Jeffrey%20D%20Ullman_text.pdf) - Hopcroft Ullman (PDF) *(:card_file_box: archived)* 
 
 
 ### Cloud Computing

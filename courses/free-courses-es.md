@@ -40,7 +40,7 @@
 * [Aprende a programar tu primera app](https://www.edx.org/es/course/jugando-con-android-aprende-programar-tu-uamx-android301x-4)
 * [Introducción a la programación Android](https://www.edx.org/es/course/android-introduccion-la-programacion-upvalenciax-aip201x-1)
 * [Introducción a la programación Android](https://campusvirtual.ull.es/ocw/course/view.php?id=130)
-* [Material Design con Android Studio](https://www.youtube.com/playlist?list=PLEtcGQaT56ch37mnavd8p5cbnkDvXLGsX) - Jesús Conde (YouTube)
+* [Material Design con Android Studio](https://www.youtube.com/playlist?list=PLEtcGQaT56ch37mnavd8p5cbnkDvXLGsX) - Jesús Conde
 
 
 ### Arduino
@@ -52,6 +52,7 @@
 ### Bases de Datos
 
 * [Almacenamiento de datos No Relacionales](https://ocw.unican.es/course/view.php?id=231)
+* [Aprende MongoDB NoSQL desde cero hasta nivel experto](https://www.youtube.com/playlist?list=PLyahFOLd43YRLaaoDKMUWS09xE8HqZAbE) - Luis Angel Monge (Ingenioteka)
 * [Bases de Datos (2011)](https://ocw.unican.es/course/view.php?id=163)
 * [Curso SQL](https://www.pildorasinformaticas.es/course/curso-sql) - Juan Díaz (Píldoras Informáticas)
 * [Fundamentos de las bases de datos (2011)](https://ocw.ua.es/es/ingenieria-y-arquitectura/fundamentos-de-las-bases-de-datos-2011.html)
@@ -84,7 +85,7 @@
 ### Control de Versiones
 
 * [Git & GitHub](https://www.pildorasinformaticas.es/course/curso-de-git-github) - Juan Díaz (Píldoras Informáticas)
-* [Git & GitHub](https://www.youtube.com/playlist?list=PLPl81lqbj-4I8i-x2b5_MG58tZfgKmJls) - Ignacio Gutiérrez, BlueWeb (YouTube)
+* [Git & GitHub](https://www.youtube.com/playlist?list=PLPl81lqbj-4I8i-x2b5_MG58tZfgKmJls) - Ignacio Gutiérrez, BlueWeb
 
 
 ### Flujos de Trabajo
@@ -107,6 +108,7 @@
 * [Curso Spring](https://www.pildorasinformaticas.es/course/curso-spring) - Juan Díaz (Píldoras Informáticas)
 * [Django REST Framework](https://programadorwebvalencia.com/cursos/django-rest-framework/introducci%C3%B3n/) - Andros Fenollosa (Programador Web Valencia)
 * [Laravel](https://www.pildorasinformaticas.es/course/laravel) - Juan Díaz (Píldoras Informáticas)
+* [NextJs 13: desde 0 Con de Tuti](https://www.youtube.com/playlist?list=PL42UNLc8e48RPqUVsZzedg5bCYfKg4xee) - Gentleman Programming
 * [Probar Django \| Crear una Aplicación Web](https://www.udemy.com/course/probar-django-construir-una-aplicacion-web-en-python) - Justin Mitchel, Karlita K (Udemy)
 
 
@@ -184,7 +186,7 @@
 * [Programación en lenguaje ADA (2010)](https://ocw.unican.es/course/view.php?id=185)
 * [Programación en lenguaje Java (2008)](http://ocw.uc3m.es/historico/programacion-java)
 * [Programación en lenguaje Java (2009)](https://ocw.unican.es/course/view.php?id=217)
-* [Programación en lenguaje Java (2015)](https://ocw.unican.es/course/view.php?id=26)
+* [Programación en lenguaje Java (2015)](https://ocw.unican.es/course/view.php?id=240)
 * [Programación en paralelo -Perl- (2012)](https://campusvirtual.ull.es/ocw/course/view.php?id=44)
 * [Programación para principiantes - primeros pasos](https://www.udemy.com/course/programacion-para-principiantes) - Fernando Herrera (Udemy)
 * [Programación POO (2011)](https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-3-2011.html)
@@ -201,14 +203,14 @@
 * [Bootcamp Angular gratis](https://open-bootcamp.com/cursos/angular) - Open Bootcamp
 * [CSS Básico a Avanzado](https://www.pildorasinformaticas.es/course/css-avanzado-desde-0) - Juan Díaz (Píldoras Informáticas)
 * [Curso gratuito de JavaScript](https://argentinaprograma.com) - Fabricio Sodano (Argentina Programa)
-* [Curso gratuito de Next.js y Firebase](https://www.youtube.com/playlist?list=PLV8x_i1fqBw1VR86y4C72xMGJ8ifjBwJ6) - Miguel Ángel Durán «midudev» (YouTube)
+* [Curso gratuito de Next.js y Firebase](https://www.youtube.com/playlist?list=PLV8x_i1fqBw1VR86y4C72xMGJ8ifjBwJ6) - Miguel Ángel Durán «midudev»
 * [Curso JSON. De Novato a Experto](https://www.youtube.com/playlist?list=PLrDTf5qnZdEAiHO19QB9hq5QXAef1h8oY) - Camilo Martínez "Equimancho"
-* [Curso React.js desde cero - Crea una aplicación paso a paso](https://www.youtube.com/playlist?list=PLV8x_i1fqBw0B008sQn79YxCjkHJU84pC) - Miguel Ángel Durán «midudev» (YouTube)
+* [Curso React.js desde cero - Crea una aplicación paso a paso](https://www.youtube.com/playlist?list=PLV8x_i1fqBw0B008sQn79YxCjkHJU84pC) - Miguel Ángel Durán «midudev»
 * [Detección de objetos](https://www.coursera.org/learn/deteccion-objetos)
 * [Diseño Web - Principios de CSS](https://programadorwebvalencia.com/cursos/css/introducci%C3%B3n/) - Andros Fenollosa (Programador Web Valencia)
 * [Diseño Web - Principios de HTML](https://programadorwebvalencia.com/cursos/html/introducci%C3%B3n/) - Andros Fenollosa (Programador Web Valencia)
 * [Full Stack open: profundización en el desarrollo web moderno](https://fullstackopen.com/es/) - Universidad de Helsinki, Houston Inc., Terveystalo, Elisa, K-ryhmä, Unity Technologies, Konecranes
-* [FullStack JavaScript Bootcamp \| JavaScript, React.js, GraphQL, Node.js, TypeScript y +](https://www.youtube.com/playlist?list=PLV8x_i1fqBw0Kn_fBIZTa3wS_VZAqddX7) - Miguel Ángel Durán «midudev» (YouTube)
+* [FullStack JavaScript Bootcamp \| JavaScript, React.js, GraphQL, Node.js, TypeScript y +](https://www.youtube.com/playlist?list=PLV8x_i1fqBw0Kn_fBIZTa3wS_VZAqddX7) - Miguel Ángel Durán «midudev»
 * [HTML 5](https://www.pildorasinformaticas.es/course/html-5) - Juan Díaz (Píldoras Informáticas)
 * [Introducción a HTML & CSS](https://www.aulaclic.es/html/index.htm) (HTML)
 * [PHP MySql Módulo 1](https://www.pildorasinformaticas.es/course/php-mysql) - Juan Díaz (Píldoras Informáticas)
@@ -219,7 +221,7 @@
 
 ### Redes
 
-* [Aplicaciones y servicios en redes](https://ocw.unican.es/course/view.php?id=32)
+* [Aplicaciones y servicios en redes](https://ocw.unican.es/course/view.php?id=148)
 * [Conmutación (2012)](http://ocw.bib.upct.es/course/view.php?id=129)
 * [Dimensionamiento y planificación de redes (2015)](https://ocw.unican.es/course/view.php?id=19)
 * [Diseño y operación de redes telemáticas (2015)](https://ocw.unican.es/course/view.php?id=22)
@@ -260,7 +262,7 @@
 
 ### Sistemas de gestión de contenidos / CMS
 
-* [CURSO de WORDPRESS (Desde Cero) - 2020](https://www.youtube.com/playlist?list=PLs-v5LWbw7JnwF9RquAuuxLi-Ha1rths6) - Academia Coder (YouTube)
+* [CURSO de WORDPRESS (Desde Cero) - 2020](https://www.youtube.com/playlist?list=PLs-v5LWbw7JnwF9RquAuuxLi-Ha1rths6) - Academia Coder
 
 
 ### Técnico de Software & Hardware

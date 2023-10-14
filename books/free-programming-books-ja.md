@@ -1,7 +1,7 @@
 ### Index
 
 * [0 - 言語非依存](#0---%e8%a8%80%e8%aa%9e%e9%9d%9e%e4%be%9d%e5%ad%98)
-    * [IDE and editors](#ide-and-editors)
+    * [IDE とエディター](#ide-and-editors)
     * [アクセシビリティ](#%e3%82%a2%e3%82%af%e3%82%bb%e3%82%b7%e3%83%93%e3%83%aa%e3%83%86%e3%82%a3)
     * [オープンソースエコシステム](#%e3%82%aa%e3%83%bc%e3%83%97%e3%83%b3%e3%82%bd%e3%83%bc%e3%82%b9%e3%82%a8%e3%82%b3%e3%82%b7%e3%82%b9%e3%83%86%e3%83%a0)
     * [ガベージコレクション](#%e3%82%ac%e3%83%99%e3%83%bc%e3%82%b8%e3%82%b3%e3%83%ac%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3)
@@ -48,6 +48,7 @@
     * [jQuery](#jquery)
     * [Node.js](#nodejs)
     * [React](#react)
+    * [Svelte](#svelte)
 * [Julia](#julia)
 * [LaTeX](#latex)
 * [Linux](#linux)
@@ -87,7 +88,7 @@
 
 ### 0 - 言語非依存
 
-#### IDE and editors
+#### <a id="ide-and-editors"></a>IDE とエディター
 
 * [Vim スクリプトリファレンス](https://nanasi.jp/code.html) - 小見拓
 * [Vim スクリプト基礎文法最速マスター](https://thinca.hatenablog.com/entry/20100201/1265009821) - id:thinca
@@ -409,6 +410,7 @@
 * [お気楽 JavaScript プログラミング超入門](http://www.nct9.ne.jp/m_hiroi/light/javascript.html) - 広井誠
 * [とほほのJavaScriptリファレンス](https://www.tohoho-web.com/js) - 杜甫々
 * [一撃必殺JavaScript日本語リファレンス](http://www.openspc2.org/JavaScript) - 古籏一浩
+* [現代の JavaScript チュートリアル](https://ja.javascript.info) - Ilya Kantor
 * [中上級者になるためのJavaScript](https://kenju.gitbooks.io/js_step-up-to-intermediate) - Kenju
 
 
@@ -446,6 +448,12 @@
 * [チュートリアル：React の導入](https://ja.reactjs.org/tutorial/tutorial.html) - Facebook Inc.
 
 
+#### Svelte
+
+* [Svelte Tutorial](https://svelte.jp/tutorial/basics) - Svelte.dev
+* [Svelte をはじめる](https://developer.mozilla.org/ja/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started) - MDN
+
+
 ### Julia
 
 * [Julia Language Programming](http://www.nct9.ne.jp/m_hiroi/light/julia.html) - 広井誠
@@ -474,6 +482,7 @@
 * [GNU Emacs Lispリファレンスマニュアル](http://www.fan.gr.jp/~ring/doc/elisp_20/elisp.html)
 * [Google Common Lisp スタイルガイド 日本語訳](https://lisphub.jp/doc/google-common-lisp-style-guide/lispguide.xml) - Robert Brown, François-René Rideau, TOYOZUMIKouichi 他(翻訳)
 * [LISP and PROLOG](https://web.archive.org/web/20060526095202/http://home.soka.ac.jp/~unemi/LispProlog) - 畝見達夫
+* [Lisp 一夜漬け](https://www.haun.org/kent/lisp1/) - TAMURA Kent
 * [On Lisp (草稿)](http://www.asahi-net.or.jp/~kc7k-nd) - Paul Graham, 野田開(翻訳)
 * [マンガで分かるLisp(Manga Guide to Lisp)](http://lambda.bugyo.tk/cdr/mwl) - λ組
 
@@ -570,7 +579,6 @@
 ### Python
 
 * [Dive Into Python 3 日本語版](http://diveintopython3-ja.rdy.jp) - Mark Pilgrim, Fukada(翻訳), Fujimoto(翻訳)
-* [Google Python スタイルガイド](http://works.surgo.jp/translation/pyguide.html) - Amit Patel, Antoine Picard, Eugene Jhong, Jeremy Hylton, Matt Smart, Mike Shields, Kosei Kitahara(翻訳)
 * [Notes on scientific computing with python](http://japanichaos.appspot.com) - 花田康高
 * [php プログラマのための Python チュートリアル](https://web.archive.org/web/20160813152046/http://phpy.readthedocs.io/en/latest/) - INADA Naoki
 * [Python 3.4](https://stats.biopapyrus.jp/python) - 孫建強

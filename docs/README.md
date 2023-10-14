@@ -8,11 +8,14 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
   - [How-to](HOWTO-ar.md)
 - Azerbaijani / Азәрбајҹан дили / آذربايجانجا ديلي
 - Bengali / বাংলা
+  - [Code of Conduct](CODE_OF_CONDUCT-bn.md)
   - [How-to](HOWTO-bn.md)
 - Bosnian / bosanski jezik
   - [How-to](HOWTO-bs.md)
 - Bulgarian / български
 - Burmese / မြန်မာဘာသာ
+- Catalan
+  - [Contribuir](CONTRIBUTING-ca.md)
 - Chinese / 中文
   - [贡献者行为准则](CODE_OF_CONDUCT-zh.md)
   - [Contributing](CONTRIBUTING-zh.md)
@@ -47,6 +50,7 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
   - [Contributing](CONTRIBUTING-el.md)
   - [How-to](HOWTO-el.md)
 - Hebrew / עברית
+  - [How-to איך לעשות את זה](HOWTO-he.md)
 - Hindi / हिन्दी
   - [आचार संहिता](CODE_OF_CONDUCT-hi.md)
   - [How-to](HOWTO-hi.md)
@@ -60,18 +64,26 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
   - [Contributing](CONTRIBUTING-it.md)
   - [How-to](HOWTO-it.md)
 - Japanese / 日本語
+- Kannada / ಕನ್ನಡ
+  - [How To](HOWTO-kn.md)
+  - [Contributing](CONTRIBUTING-kn.md)
+  - [Code Of Conduct](CODE_OF_CONDUCT-kn.md)
 - Kazakh / қазақша
 - Khmer / Cambodian / ខ្មែរ
+  - [ក្រមសីលធម៌របស់អ្នកចូលរួម](CODE_OF_CONDUCT-km.md)
   - [How-to](HOWTO-km.md)
-- Korean / 한국어 [韓國語]
+- Korean / 한국어
   - [행동강령](CODE_OF_CONDUCT-ko.md)
   - [Contributing](CONTRIBUTING-ko.md)
   - [How-to](HOWTO-ko.md)
 - Malayalam / മലയാളം
 - Nepali / नेपाली
-  - [आचार संहिता](CODE_OF_CONDUCT-np.md) 
+  - [आचार संहिता](CODE_OF_CONDUCT-np.md)
+  - [Contributing](CONTRIBUTING-np.md)
   - [How-to](HOWTO-np.md) 
 - Norwegian / Norsk
+  - [Etiske Retningslinjer](CODE_OF_CONDUCT-no.md)  
+  - [How-to](HOWTO-no.md)
 - Persian / Farsi (Iran) / فارسى
   - [مرام‌نامه‌ی](CODE_OF_CONDUCT-fa_IR.md)
   - [Contributing](CONTRIBUTING-fa_IR.md)
@@ -103,6 +115,7 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
   - [Contributing](CONTRIBUTING-sv.md)
   - [How-to](HOWTO-sv.md)
 - Tamil / தமிழ்
+  - [How-to](HOWTO-ta.md)
 - Telugu / తెలుగు
   - [Code of Conduct](CODE_OF_CONDUCT-te.md)
   - [Contributing](CONTRIBUTING-te.md)

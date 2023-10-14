@@ -65,6 +65,7 @@
 #### Sistemi di controllo versione
 
 * [Controllo di Versione con Subversion](https://svnbook.red-bean.com/index.it.html) - Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato (HTML, PDF)
+* [get-git](https://get-git.readthedocs.io/it/latest/) - Arialdo Martini (HTML, PDF, EPUB)
 * [Pro Git](https://git-scm.com/book/it) - Scott Chacon, Ben Straub (HTML, PDF, EPUB)
 
 
@@ -111,7 +112,7 @@
 
 ### <a id="cpp"></a>C++
 
-* [Corso C++ standard](http://didatticait.altervista.org/programmazione/CPP/CPP-dispense/CORSO_C.pdf) (PDF)
+* [Dispense del corso di Programmazione I con Laboratorio](https://www.dmi.unipg.it/~baioletti/didattica/materiale/dispense-progr1-c++.pdf) - Marco Baioletti (PDF)
 * [Il linguaggio C++](https://hpc-forge.cineca.it/files/CoursesDev/public/2012%20Autumn/Introduzione%20alla%20programmazioni%20a%20oggetti%20in%20C++/corsocpp.pdf) (PDF)
 
 
@@ -270,7 +271,7 @@
 
 ### UML
 
-* [Appunti di UML](http://liuct.altervista.org/download/repository/ingsof/Appunti_UML.pdf) (PDF)
+* [Appunti di UML](https://web.archive.org/web/20110322065222/http://liuct.altervista.org/download/repository/ingsof/Appunti_UML.pdf) (PDF) *(:card_file_box: archived)*
 * [Introduzione alla gestione del progetto software con UML](http://areaprofessional.com/documenti/D03_IntroGestioneProgettoSW.pdf) - G. Destri (PDF)
 
 

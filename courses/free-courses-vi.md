@@ -3,6 +3,7 @@
 * [AJAX](#ajax)
 * [Android](#android)
 * [ASP.NET](#asp)
+* [AutoIt](#autoit)
 * [Bash](#bash)
 * [Blazor](#blazor)
 * [Bootstrap](#bootstrap)
@@ -32,6 +33,7 @@
 * [TypeScript](#typescript)
     * [Angular](#angular)
 * [Unity](#unity)
+* [Web Development](#web-development)
 * [Wordpress](#wordpress)
 * [XML](#xml)
 
@@ -57,6 +59,11 @@
 * [Làm dự án với ASP.NET Core 3.1](https://tedu.com.vn/khoa-hoc/lam-du-an-voi-aspnet-core-31-34.html) - TEDU
 * [Lập trình ASP.NET Core từ căn bản đến nâng cao](https://tedu.com.vn/khoa-hoc/lap-trinh-aspnet-core-tu-co-ban-den-nang-cao-33.html) - TEDU
 * [Lập trình dự án Website bán hàng ASP.NET MVC 4](https://tedu.com.vn/khoa-hoc/lap-trinh-du-an-website-ban-hang-aspnet-mvc-4-1.html) - TEDU
+
+
+### AutoIt
+
+* [Học lập trình AutoIt](https://j2team.teachable.com/p/hoc-lap-trinh-autoit) - J2TEAM *yêu cầu đăng ký*
 
 
 ### Bash
@@ -249,6 +256,7 @@
 * [Học SQL Cơ Bản](https://www.youtube.com/playlist?list=PLE1qPKuGSJaDkQQB5vK7t7-PRIVjtqeHB) - Thân Triệu
 * [Học SQL Cơ Bản](https://www.codehub.com.vn/Hoc-SQL) - Codehub
 * [Lập trình SQL Server căn bản](https://tedu.com.vn/khoa-hoc/lap-trinh-sql-server-can-ban-6.html) - TEDU
+* [SQL](https://www.youtube.com/playlist?list=PLiyVagO7GfBEOReFCMbcffzkgfWaGl-AN) - J2Team
 * [SQL Cơ Bản](https://www.youtube.com/playlist?list=PL33lvabfss1xnFpWQF6YH11kMTS1HmLsw) - Kteam
 
 
@@ -292,6 +300,13 @@
 * [Học Lập Trình Game Unity3D - Game Sprider Cave](https://www.youtube.com/playlist?list=PLzrVYRai0riT-fZ_Wgi_NrELvqzbASetQ) - Khoa Phạm
 * [Học Lập Trình Game Unity3D - Zombie Hunter](https://www.youtube.com/playlist?list=PL33lvabfss1zGxMf1P-ReSoOoFN7L_jo0) - K team
 * [Lập Trình Game 2D Trên Unity3D](https://www.youtube.com/playlist?list=PLl-dkipSQUGcQQgvh9j8a75Sz4zx9vWo8) - U DEV
+
+
+### Web Development
+
+* [Đồ án Web môi giới](https://www.youtube.com/playlist?list=PLiyVagO7GfBE1j4vjp-QLc1KHR1LPIl3G) - J2Team
+* [Lập Trình Web Chuyên Sâu](https://www.youtube.com/playlist?list=PLiyVagO7GfBE1l9XIGemSpy8bnm7QDmsY) - J2Team
+* [Lập Trình Web Cơ Bản](https://www.youtube.com/playlist?list=PLiyVagO7GfBE3_b-4lJEVk7iq1pHQ-xcM) - J2Team
 
 
 ### Wordpress

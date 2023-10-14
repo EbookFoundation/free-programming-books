@@ -26,6 +26,7 @@
 * [Language Agnostic](#language-agnostic)
 * [Lisp](#lisp)
 * [Machine Learning](#machine-learning)
+* [Persuasive Technology](#persuasive-technology)
 * [PHP](#php)
 * [PostgreSQL](#postgresql)
 * [Python](#python)
@@ -45,6 +46,7 @@
 ### <a id="csharp"></a>C\#
 
 * [Beginning C# with Unity](https://www.youtube.com/playlist?list=PLFgjYYTq6xyhtVK6VzLiFe3pmBu-XSNlX) - Brian Douglas Moakley, VegetarianZombie (screencast)
+* [General .NET videos](https://www.youtube.com/playlist?list=PLUOequmGnXxPjam--7GAls6Tb1fSmL9mL) - Nick Chapsas(screencast)
 * [How to program in C# - Beginner Course \| Brackeys](https://www.youtube.com/playlist?list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51) - Asbjørn Thirslund (screencast)
 
 
@@ -52,7 +54,6 @@
 
 * [C++ Complete Course](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) - Yan Chernikov (screencast)
 * [C++ Programming Video Lectures](https://www.youtube.com/playlist?list=PLTZbNwgO5ebo64D1k0DJQGX30X6iSTmRr) - Saurabh School of Computing (screencast)
-* [C++ Series](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) - The Cherno (screencast)
 * [C++ Standard Library](https://www.youtube.com/playlist?list=PL5jc9xFGsL8G3y3ywuFSvOuNm3GjBwdkb) - Bo Qian (screencast)
 * [C++ STL by example](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp5oH3mrr4IlFBn03rjS-gN1) - Douglas Schmidt (screencast)
 * [C++ STL: The ONLY Video You Need | Compulsory for DSA/CP](https://www.youtube.com/watch?v=PZogbfU4X5E) - Utkarsh Gupta (screencast)
@@ -260,6 +261,7 @@
 * [Clean Code Lessons by Robert C. Martin](https://www.youtube.com/watch?v=7EmboKQH8lM&list=PLdpsE-GEhYVn_81kDPo1mwE73UgYCeMLu) - Robert C. Martin
 * [CodeNewbie](https://www.codenewbie.org/podcast) - CodeNewbie Team (podcast)
 * [CodePen Radio](https://blog.codepen.io/radio/) - CodePen Team (podcast)
+* [Coder Radio](https://coder.show) - Chris Fisher, Michael Dominick, Wes Payne (podcast)
 * [Coding Blocks](https://www.codingblocks.net) - Michael Outlaw, Joe Zack, Allen Underwood (podcast)
 * [Command Line Heroes](https://www.redhat.com/en/command-line-heroes) - Saron Yitbarek, Red Hat (podcast)
 * [CTRL+CLICK CAST](https://ctrlclickcast.com) - Lea Alcantara, Emily Lewis, Bright Umbrella (podcast)
@@ -282,6 +284,7 @@
 * [In the Open with Luke and Joe](https://developer.ibm.com/podcasts/in-the-open-with-luke-and-joe/) - Luke Schantz, Joe Sepi (podcast)
 * [Ladybug Podcast](https://www.ladybug.dev) - Kelly Vaughn, Ali Spittel, Emma Bostian, Sidney Buckner (podcast)
 * [Learn to Code with Me](https://learntocodewith.me/podcast/) - Laurence Bradford (podcast)
+* [Lex Fridman Podcast](https://lexfridman.com/podcast) - Lex Fridman (podcast)
 * [Loosely Coupled](https://looselycoupled.info) - Jeff Carouth, Matt Frost (podcast)
 * [Merge Conflict](https://www.mergeconflict.fm) - Frank Krueger, James Montemagno (podcast)
 * [.NET Rocks!](https://www.dotnetrocks.com) - Carl Franklin, Richard Campbell (podcast)
@@ -342,6 +345,12 @@
 * [TWIML AI Podcast](https://twimlai.com/shows/) - Sam Charrington (podcast)
 
 
+### Persuasive Technology
+
+* [Persuasive Technology and Behavioural Design](https://anchor.fm/digital-mindfulness/episodes/DM-20-BJ-Fogg---Persuasive-Technology--Behavioural-Design-eu6onh) - BJ Fogg (podcast)
+* [Your Undivided Attention](https://www.humanetech.com/podcast) - Tristan Harris and Aza Raskin (podcast)
+
+
 ### PHP
 
 * [Laravel News Podcast](https://podcast.laravel-news.com) -  Jacob Bennett, Michael Dyrynda, Eric L. Barnes (podcast)
@@ -356,6 +365,7 @@
 ### PostgreSQL
 
 * [PG Casts](https://www.pgcasts.com) - Jack Christensen, Josh Branchaud, Jake Worth, Vidal Ekechukwu, Dorian Karter, Mary Lee, et al. Hashrocket team (screencast)
+* [Postgres FM](https://postgres.fm) - Michael Christofides, Nikolay Samokhvalov (podcast)
 * [Scaling Postgres](https://player.fm/series/scaling-postgres) - Ruby Tree Software Inc, Creston Jamison (podcast)
 
 
@@ -386,6 +396,7 @@
 * [Drifting Ruby](https://www.driftingruby.com/episodes?free=true&pro=false) - Dave Kimura (screencast)
 * [Railscasts](http://railscasts.com) - Ryan Bates (screencast)
 * [Remote Ruby](https://remoteruby.com) - Chris Oliver, Jason Charnes, Andrew Mason (podcast)
+* [Ruby for All](https://rubyforall.com) - Andrew Mason, Julie J (podcast)
 * [Ruby Rogues](https://topenddevs.com/podcasts/ruby-rogues/) - Charles Max Wood, Dave Kimura, Valentino Stoll, Luke Stutters, John Epperson, Sam Livingston-Gray, Avdi Grimm, Aaron Patterson, James Edward Gray, Katrina Owen (podcast)
 * [Ruby Tapas \| Free Screencasts](https://www.rubytapas.com/category/episodes/) - Avdi Grimm (screencast)
 * [The Bike Shed](https://www.bikeshed.fm) - Chris Toomey, Steph Viccari (podcast)
@@ -403,3 +414,4 @@
 ### Swift
 
 * [Swift by Sundell](https://www.swiftbysundell.com/podcast/) - John Sundell (podcast)
+* [Swift Unwrapped](https://swiftunwrapped.github.io) - Jesse Squires, JP Simard (podcast)

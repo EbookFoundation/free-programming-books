@@ -6,6 +6,7 @@
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
+* [Delphi](#delphi)
 * [Git](#git)
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
@@ -54,6 +55,11 @@
 ### <a id="cpp"></a>C++
 
 * [La programmation en C++ moderne](https://zestedesavoir.com/tutoriels/822/la-programmation-en-c-moderne/) - Zeste de savoir informaticienzero mehdidou99
+
+
+### Delphi
+
+* [Apprendre la programmation avec Delphi](https://apprendre-delphi.fr/apprendre-la-programmation-avec-delphi-2020.php) - Patrick Prémartin
 
 
 ### Git

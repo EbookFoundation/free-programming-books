@@ -34,6 +34,7 @@
 * [Sed](#sed)
 * [Software Engineering](#software-engineering)
 * [Springboot](#springboot)
+* [TypeScript](#typescript)
 * [Unicode](#unicode)
 * [Unity3d](#unity3d)
 
@@ -66,7 +67,7 @@
 
 ### Docker
 
-* [가장 빨리 만나는 Docker](http://www.pyrasis.com/private/2014/11/30/publish-docker-for-the-really-impatient-book)
+* [이재홍의 언제나 최신 Docker](http://www.pyrasis.com/jHLsAlwaysUpToDateDocker)
 
 
 ### Elastic
@@ -175,6 +176,7 @@
 * [점프 투 파이썬 - Python 3](https://wikidocs.net/book/1)
 * [중급 파이썬: 파이썬 팁들](https://ddanggle.gitbooks.io/interpy-kr/content/)
 * [파이썬 라이브러리](https://wikidocs.net/book/5445) - 박응용
+* [파이썬 코딩 도장](https://pyrasis.com/python.html) - 남재윤
 * [파이썬 헤엄치기](https://wikidocs.net/book/5148) - 해달 프로그래밍
 * [파이썬을 여행하는 히치하이커를 위한 안내서!](https://python-guide-kr.readthedocs.io/ko/latest/)
 * [파이썬을 이용한 비트코인 자동매매](https://wikidocs.net/book/1665) - 조대표
@@ -234,6 +236,15 @@
 ### Springboot
 
 * [Springboot 2.X 정리](https://djunnni.gitbook.io/springboot) - 이동준
+
+
+### TypeScript
+
+* [5분 안에 보는 타입스크립트](https://typescript-kr.github.io)
+* [타입스크립트 핸드북](https://joshua1988.github.io/ts) - Captain Pangyo
+* [한눈에 보는 타입스크립트](https://heropy.blog/2020/01/27/typescript) - HEROPY
+Tech
+* [TypeScript Deep Dive](https://radlohead.gitbook.io/typescript-deep-dive)
 
 
 ### Unicode

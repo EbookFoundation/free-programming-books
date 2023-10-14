@@ -50,6 +50,7 @@
 * [SQL](#sql)
 * [Tensorflow](#tensorflow)
 * [Terraform](#terraform)
+* [TypeScript](#typescript)
 * [Unit testing](#unit-testing)
 * [Webpack](#webpack)
 
@@ -121,6 +122,7 @@
 
 * [Algorithms and Data Structures Cheatsheet](https://algs4.cs.princeton.edu/cheatsheet/)
 * [An Executable Data Structures Cheat Sheet for Interviews](https://algodaily.com/lessons/an-executable-data-structures-cheat-sheet)
+* [Big-O Cheat Sheet](http://bigocheatsheet.com)
 * [Big O Notation Cheat Sheet](https://algodaily.com/lessons/big-o-notation-cheat-sheet)
 * [Data Structures and Algorithms Cheat Sheet - Cheatography](https://cheatography.com/burcuco/cheat-sheets/data-structures-and-algorithms/)
 * [Data structures and algorithms study cheatsheets for coding interviews](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/)
@@ -169,12 +171,14 @@
 
 * [cht.sh Go Cheatsheet](https://cht.sh/go/:learn) (HTML)
 * [Go Cheatsheet](https://devhints.io/go) - devhints, Rico Santa Cruz (HTML)
-* [Go Handbook](https://thevalleyofcode.pages.dev/go-handbook.pdf) - Flavio Copes, The Valley of Code (PDF)
+* [Go Dojo Cheatsheet](https://products.golangdojo.com/golang-cheat-sheet-by-golang-dojo) - Golang CheatSheet by golang-dojo (PDF)
+* [গো \| ডেভ সংকেত<](https://devsonket.com/go) - devsonket (HTML)
 
 
 ### GraphQL
 
 * [GraphQL Cheat Sheet](https://licor.me/post/graphql) - Chuanrong Li (HTML)
+* [GraphQL Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html) - Jim Manico, Jakub Maćkowski (HTML)
 * [GraphQL Cheat Sheet](https://simplecheatsheet.com/tag/graphql-cheat-sheet) - Simple Cheat Sheet (HTML)
 * [GraphQL Cheatsheet](https://devhints.io/graphql) - devhints, Rico Santa Cruz (HTML)
 
@@ -182,6 +186,7 @@
 ### HTML and CSS
 
 * [Accessibility CheatSheet](https://learn-the-web.algonquindesign.ca/topics/accessibility-cheat-sheet/) - Algonquin Design (HTML)
+* [Beginner's CheatSheet](https://websitesetup.org/html5-cheat-sheet/) - WebsiteSetup (HTML)
 * [CSS CheatSheet](https://htmlcheatsheet.com/css/) (HTML)
 * [CSS Cheatsheet](https://www.codewithharry.com/blogpost/css-cheatsheet/) - CodeWithHarry (HTML)
 * [CSS Cheatsheet](https://web.stanford.edu/group/csp/cs21/csscheatsheet.pdf) - Stanford (PDF)
@@ -190,6 +195,7 @@
 * [FLEX: A simple visual cheatsheet for flexbox](https://flexbox.malven.co) - Chris Malven (HTML)
 * [GRID: A simple visual cheatsheet for CSS Grid Layout](https://grid.malven.co) - Chris Malven (HTML)
 * [HTML & CSS Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/) - Emmet Documentation (HTML, [PDF]( https://docs.emmet.io/cheatsheet-a5.pdf))
+* [HTML 5 - The Mega CheatSheet](https://makeawebsitehub.com/wp-content/uploads/2015/06/HTML5-Mega-Cheat-Sheet-A4-Print-ready.pdf) - Jamie Spencer (PDF)
 * [HTML CheatSheet](https://htmlcheatsheet.com) - htmlcheatsheet.com (HTML, [PDF](https://htmlcheatsheet.com/HTML-Cheat-Sheet.pdf))
 * [HTML Cheatsheet](https://www.codewithharry.com/blogpost/html-cheatsheet/) - CodeWithHarry (HTML)
 * [SCSS CheatSheet](https://devhints.io/sass) - devhints, Rico Santa Cruz (HTML)
@@ -224,6 +230,7 @@
 ### JavaScript
 
 * [JavaScript Cheatsheet](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet) - Codecademy (HTML)
+* [JavaScript Cheatsheet](https://www.codewithharry.com/blogpost/javascript-cheatsheet) - Code With Harry
 * [JavaScript CheatSheet](https://htmlcheatsheet.com/js/) (HTML)
 * [JavaScript Regex Cheatsheet](https://www.debuggex.com/cheatsheet/regex/javascript) - Debuggex (HTML)
 * [JavaScript WorldWide Cheatsheet](https://cheatography.com/davechild/cheat-sheets/javascript/) - Cheatography (JavaScript)
@@ -235,6 +242,7 @@
 
 * [Beginner's essential jQuery Cheat Sheet](https://websitesetup.org/wp-content/uploads/2017/01/wsu-jquery-cheat-sheet.pdf) (PDF)
 * [jQuery CheatSheet](https://htmlcheatsheet.com/jquery/) (HTML)
+* [jQuery Mega Cheat Sheet](https://makeawebsitehub.com/wp-content/uploads/2015/09/jquery-mega-cheat-sheet-Printable.pdf) - Jamie Spencer (PDF)
 
 
 #### Nest.js
@@ -245,7 +253,6 @@
 #### Next.js
 
 * [Next.js Cheatsheet - handy snippets and tips](https://gourav.io/blog/nextjs-cheatsheet) - Gourav Goyal (HTML)
-* [Ultimate Next.js Handbook](https://thevalleyofcode.pages.dev/next-handbook.pdf) - Flavio Copes, The Valley of Code (PDF)
 
 
 #### Nuxt.js
@@ -340,14 +347,16 @@
 
 * [Comprehensive Python Cheat Sheet for Beginners](https://medium.com/the-codehub/comprehensive-python-cheat-sheet-for-beginners-5d76bb038fa2) - Rishi Sidhu, Medium (HTML)
 * [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet) - Jure Šorn (HTML)
-* [Learn Python in Y minutes](https://learnxinyminutes.com/docs/python/) - LearnXinYMinutes (HTML)
+* [Numpy Pandas Cheat Sheet](https://www.kaggle.com/code/lavanyashukla01/pandas-numpy-python-cheatsheet) - Kaggle (HTML)
 * [Official Matplotlib cheat sheets](https://github.com/matplotlib/cheatsheets) - Matplotlib.org (LaTeX, PDF)
+* [Python 3 Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf) - Laurent Pointal (PDF)
+* [Python Cheat Sheet](https://www.codewithharry.com/blogpost/python-cheatsheet) - Code Wuth Harry
 * [Python Cheat Sheet](https://websitesetup.org/python-cheat-sheet/) - WebsiteSetup (HTML, PDF, PNG)
 * [Python Cheatsheet for beginners](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-syntax/cheatsheet) - Codeacademy (HTML)
 * [Python Crash Course Cheatsheet](https://ehmatthes.github.io/pcc/cheatsheets/README.html) - Eric Matthes (HTML)
 * [Python Crash Course Cheatsheet (2nd Edition)](https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/) - Eric Matthes (PDF)
 * [Python Data Wrangling with pandas](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf) - Pandas (PDF)
-* [Python for Data Science Cheatsheet](https://pydatascience.org/data-science-cheatsheets/) - DataCamp (HTML and Image)
+* [Python for Data Science - A Cheat Sheet for Beginners](https://www.datacamp.com/cheat-sheet/python-for-data-science-a-cheat-sheet-for-beginners) - DataCamp (PDF)
 * [Python Regex Cheatsheet](https://www.debuggex.com/cheatsheet/regex/python) - Debuggex (HTML)
 * [Python WorldWide Cheatsheet](https://cheatography.com/davechild/cheat-sheets/python/) - Cheatography (Python)
 * [Scapy Cheat Sheet](https://www.templateroller.com/template/160817/scapy-cheat-sheet-jeremy-stretch.html) - Jeremy Stretch (PDF)
@@ -363,6 +372,7 @@
 
 #### Flask
 
+* [Flask Cheat Sheet](https://codeinsightacademy.com/blog/python/flask-cheat-sheet) - Code Insight Academy (HTML)
 * [Flask Cheatsheet](https://www.codewithharry.com/blogpost/flask-cheatsheet/) - Code with Harry (HTML)
 
 
@@ -381,6 +391,8 @@
 * [All RStudio cheatsheets resources](https://www.rstudio.com/resources/cheatsheets) - RStudio.com (HTML site with PDF links)
 * [Base R Cheatsheet](https://iqss.github.io/dss-workshops/R/Rintro/base-r-cheat-sheet.pdf) - Mhairi McNeill (PDF)
 * [Cheat Sheet for R and RStudio](https://www.ocf.berkeley.edu/~janastas/docs/RStudioCheatSheet.pdf) - L. Jason Anastasopoulos (PDF)
+* [Colors in R](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf) - Ying Wei  (PDF)
+* [R color cheatsheet](https://www.nceas.ucsb.edu/sites/default/files/2020-04/colorPaletteCheatsheet.pdf) - Melanie Frazier (PDF)
 
 
 ### Raspberry Pi
@@ -415,6 +427,7 @@
 
 * [Bash Cheatsheet - CheatSheet.Wtf](https://www.cheatsheet.wtf/bash) - smokingcuke (HTML)
 * [Bash Scripting cheatsheet](https://devhints.io/bash) Devhints (HTML)
+* [Cron Cheatsheet](https://devhints.io/cron) - DevHints, Rico Santa Cruz (HTML)
 * [Fish Shell cheatsheet](https://devhints.io/fish-shell) - DevHints, Rico Santa Cruz (HTML)
 
 
@@ -431,6 +444,7 @@
 
 ### SQL
 
+* [MySQL Cheatsheet](https://www.codewithharry.com/blogpost/mysql-cheatsheet) - Code With Harry
 * [MySQL Cheatsheet](https://s3-us-west-2.amazonaws.com/dbshostedfiles/dbs/sql_cheat_sheet_mysql.pdf) - Database Star (PDF)
 * [PostgreSQL Cheatsheet](https://s3-us-west-2.amazonaws.com/dbshostedfiles/dbs/sql_cheat_sheet_pgsql.pdf) - Database Star (PDF)
 * [SQL Cheat Sheet](https://www.dataquest.io/wp-content/uploads/2021/01/dataquest-sql-cheat-sheet.pdf) - Dataquest.io (PDF)
@@ -448,6 +462,11 @@
 
 * [Terraform Cheat Sheet](https://www.techbeatly.com/terraform-cheat-sheet) - Gineesh Madapparambath (HTML)
 * [Terraform Cheatsheet](https://acloudguru.com/blog/engineering/the-ultimate-terraform-cheatsheet) - Eric Pulsifer (HTML)
+
+
+### TypeScript
+
+* [TypeScript Cheat Sheet](https://rmolinamir.github.io/typescript-cheatsheet/) - Robert Molina (HTML)
 
 
 ### Unit testing

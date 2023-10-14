@@ -1,12 +1,12 @@
 ### Index
 
 * [0 - Language Agnostic](#0---language-agnostic)
-    * [Архитектура приложений](#Архитектура-приложений)
-    * [Облачные Вычисления](#Облачные-вычисления)
-    * [Парадигмы Программирования](#Парадигмы-программирования)
-    * [Работа c cетью](#Работа-с-сетью)
-    * [Управление конфигурациями](#Управление-конфигурациями)
-    * [Экосистема открытого исходного кода](#open-source-ecosystem)
+    * [Архитектура приложений](#архитектура-приложений)
+    * [Облачные Вычисления](#облачные-вычисления)
+    * [Парадигмы Программирования](#парадигмы-программирования)
+    * [Работа c cетью](#работа-с-сетью)
+    * [Управление конфигурациями](#управление-конфигурациями)
+    * [Экосистема открытого исходного кода](#экосистема-открытого-исходного-кода)
     * [IDE and editors](#ide-and-editors)
 * [Assembly](#assembly)
 * [Bash](#bash)
@@ -309,14 +309,12 @@
 
 * [Вы не знаете JS (серия книг)](https://github.com/azat-io/you-dont-know-js-ru) - Кайл Симпсон
 * [Выразительный JavaScript](https://github.com/karmazzin/eloquentjavascript_ru) - Marijn Haverbeke
-* [Курс современного JavaScript](https://bxnotes.ru/conspect/kurs-sovremennogo-javascript/) - bxnotes
 * [Онлайн-книга по WebGL](https://metanit.com/web/webgl) - Евгений Попов
 * [Паттерны для масштабируемых JavaScript-приложений](http://largescalejs.ru) - Эдди Османи
 * [Руководство по JavaScript](https://metanit.com/web/javascript) - Евгений Попов
 * [Современный учебник JavaScript](http://learn.javascript.ru) - Илья Кантор
 * [Учебник по Javascript](https://coderlessons.com/tutorials/veb-razrabotka/uchit-javascript/uchebnik-po-javascript) - CoderLessons.com
 * [JavaScript и jQuery](https://html5book.ru/javascript-jquery) - Елена Назарова
-* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ru) - Иво Ветцель
 
 
 #### AngularJS
@@ -340,7 +338,6 @@
 
 * [Руководство по Node.js](https://metanit.com/web/nodejs) - Евгений Попов
 * [Учебник Node.js](https://coderlessons.com/tutorials/veb-razrabotka/uchebnik-node-js/uchebnik-node-js) - CoderLessons.com
-* [Node.js для начинающих](http://nodebeginner.ru) - Manuel Kiessling
 
 
 #### Nuxt.js

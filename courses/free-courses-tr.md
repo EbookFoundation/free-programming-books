@@ -1,6 +1,8 @@
 ### Index
 
 * [Algoritmalar](#algoritmalar)
+* [C#](#c-sharp)
+* [C++](#cpp)
 * [HTML and CSS](#html-and-css)
 * [IDE and editors](#ide-and-editors)
 * [Java](#java)
@@ -17,6 +19,19 @@
 * [Algoritmalara giriş](https://acikders.tuba.gov.tr/course/view.php?id=133) - Charles Leiserson / Erik Demaine (Çev. Ali Yazıcı - Haluk Ar)
 * [Algoritmaları Anlamak](https://www.youtube.com/playlist?list=PLR_3k5Bkz0SBA9PoV6DrxpghD7pqPScGJ) - Fatih Özkaynak
 * [On Derste Algoritma ve Programlama](https://www.youtube.com/playlist?list=PLKnjBHu2xXNNiJdlhiEl_RMkK0PbJ1_DB) - Murat Yücedağ
+
+
+### <a id='c-sharp'></a>C#
+
+* [C# Başlangıç ve İleri Düzey Eğitimi \| Console Dersleri \| Form Dersleri](https://www.youtube.com/playlist?list=PLURN6mxdcwL960S-bRuf1F6K09yzNjgcn) - Enes Bayram
+* [C# Dersleri](https://www.youtube.com/playlist?list=PLqG356ExoxZU5keiJwuHDpXqULLffwRYD) - Engin Demiroğ
+* [C# Dersleri](https://www.youtube.com/playlist?list=PLKnjBHu2xXNPkeQtMOJczzEO6LK5OV35K) - Murat Yücedağ
+* [C# Dersleri \| Visual Studio 2022 ile C# Programlama \| C# Giriş](https://www.youtube.com/playlist?list=PLi1BmHvgBkxIYweLR52cRJnit4AEEugn4) - Yazılım Teknolojileri Akademisi
+
+
+### <a id='cpp'></a>C++
+
+* [C++ Dersleri](https://www.youtube.com/playlist?list=PLIHume2cwmHfmSmNlxXw1j9ZAKzYyiQAq) - Yazılım Bilimi
 
 
 ### HTML and CSS
@@ -38,11 +53,14 @@
 * [JavaScript Dersleri](https://javascript.sitesi.web.tr) - Murat Eliçalişkan
 * [JavaScript Dersleri](https://www.youtube.com/playlist?list=PLdYLIhwDacdFC-Yrz7hscxwmOpuhnMigs) - Mustafa Filiz
 * [JavaScript Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx6PqKkqSPwph57HNN4RWgR2) - Hakan Yalçınkaya \| Kodluyoruz
+* [JavaScript Programlama Dersleri](https://www.youtube.com/playlist?list=PLXuv2PShkuHws6qBQiX1fwEdBA25XOze-) - Sadık Turan
 
 
 ### Java
 
+* [Java Başlangıç ve İleri Düzey Eğitimi \| Console Dersleri \| Eclipse](https://www.youtube.com/playlist?list=PLURN6mxdcwL-l4FHKhu0Ex2zHvxd-7Nlx) - Enes Bayram
 * [JAVA Dersleri](https://www.youtube.com/playlist?list=PLqG356ExoxZUGwbqoJEKSMnaxVJe4Uvf8) - Engin Demiroğ
+* [Java Dersleri ve Nesne Yönelimli Programlama](https://www.youtube.com/playlist?list=PLEcJSEQK_cD5KHgg9sXumeg659hAr2j4W) - Kodlama Vakti
 * [Java Programlama](https://www.youtube.com/playlist?list=PLIHume2cwmHctrHFHADb0slNyn95x2M4I) - Mustafa Murat Coşkun
 * [Yazılım Geliştirici Yetiştirme Kampı](https://www.youtube.com/playlist?list=PLqG356ExoxZUuVYKLuiQLnref7Y4ims87) - Engin Demiroğ
 
@@ -60,6 +78,7 @@
 * [Komple React, Redux ve Hooks Dersleri](https://www.youtube.com/playlist?list=PLqG356ExoxZXEW9h1uTWCwqLLTJ_bO5Be) - Engin Demiroğ
 * [React Dersleri](https://www.youtube.com/playlist?list=PLIHume2cwmHeydP0GkOzSxJHT1ph1BrWj) - Mustafa Murat Coşkun
 * [Sıfırdan Uygulamalı React Geliştirme: Hooks,Redux & Firebase](https://www.youtube.com/playlist?list=PLXuv2PShkuHzbwIbcT29XZJBLyx3nWDzb) - Sadık Turan
+* [Yeni Başlayanlar İçin React](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq_eyixSZ4sVI1x6d7akLpsy) - Arin Yazilim
 
 
 ### Temel programlama

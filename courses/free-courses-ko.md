@@ -17,7 +17,6 @@
 * [Java](#java)
 * [JavaScript](#javascript)
     * [AngularJS](#angularjs)
-    * [Node.js](#nodejs)
     * [React.js](#reactjs)
 * [Kotlin](#kotlin)
 * [Linux](#linux)
@@ -77,8 +76,7 @@
 * [씹어먹는 C](https://modoocode.com/231) - 이재범
 * [씹어먹는 C++](https://modoocode.com/135) - 이재범
 * [최호성의 C 프로그래밍](https://www.youtube.com/playlist?list=PLXvgR_grOs1BiznAEkzQdA9tlcA06qx75)
-* [C 언어 초보 강의](https://www.youtube.com/playlist?list=PLMsa_0kAjjrdiwQykI8eb3H4IRxLTqCnP) - 나도코딩 (YouTube)
-* [C++ 프로그래밍 강좌](https://www.youtube.com/playlist?list=PLJRimEWvctNAfE5JrkwswQv6Yy4abqDl2)
+* [C 언어 초보 강의](https://www.youtube.com/playlist?list=PLMsa_0kAjjrdiwQykI8eb3H4IRxLTqCnP) - 나도코딩
 * [C언어 기초 프로그래밍 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdDNHeulKC6JM25MmZVS_3nT)
 * [C언어 코딩도장](https://dojang.io/course/view.php?id=2)
 
@@ -120,7 +118,7 @@
 
 ### Haskell
 
-* [하스켈 프로그래밍: 프로그래밍과 유형 이론(Type Theory)](https://www.youtube.com/playlist?list=PL5aSjzJqCaPaoi8yC2w549FsVgvXW5xFW) - Gyesik Lee «liga nega» (YouTube)
+* [하스켈 프로그래밍: 프로그래밍과 유형 이론(Type Theory)](https://www.youtube.com/playlist?list=PL5aSjzJqCaPaoi8yC2w549FsVgvXW5xFW) - Gyesik Lee «liga nega»
 
 
 ### Introduction
@@ -132,7 +130,6 @@
 ### iOS
 
 * [iPhone 프로그래밍](https://www.youtube.com/playlist?list=PL9mhQYIlKEhdQ8viJACIwxIcUiXU2lMLX) (T 아카데미)
-* [Swfit로 시작하는 아이폰 앱 개발 교과서](https://www.youtube.com/playlist?list=PL9kzervdzKxzBQ4UsMy4H_PANaTEApq_X)
 
 
 ### Java
@@ -146,19 +143,13 @@
 
 ### JavaScript
 
-* [모던 웹을 위한 JavaScript + jQuery](https://www.youtube.com/playlist?list=PLBXuLgInP-5kLy13XLuK8iBWVFDBJygYr)
 * [JavaScript 입문 수업](https://www.youtube.com/playlist?list=PLuHgQVnccGMA4uSig3hCjl7wTDeyIeZVU) (생활코딩)
 * [JavaScript for Web Browser](https://www.youtube.com/playlist?list=PLuHgQVnccGMDTAQ0S_FYxXOi1ZJz4ikaX) (생활코딩)
 
 
 #### AngularJS
 
-* [AngularJS](https://www.youtube.com/playlist?list=PLs_XsVQJKaBk_JN5RctLmmVrGwEzpzqaj) - 양재동 코드랩 (YouTube)
-
-
-#### Node.js
-
-* [모던 웹을 위한 Node.js 프로그래밍](https://www.youtube.com/playlist?list=PL9kzervdzKxy-c7UQgZbnZIr14DCPM87j)
+* [AngularJS](https://www.youtube.com/playlist?list=PLs_XsVQJKaBk_JN5RctLmmVrGwEzpzqaj) - 양재동 코드랩
 
 
 #### React.js
@@ -261,7 +252,6 @@
 ### Spring
 
 * [스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8) (김영한)
-* [Spring 강좌](https://www.youtube.com/playlist?list=PLY9pe3iUjRrRiJeg0jw22yW1G5yzAdiqC)
 
 
 ### Swift

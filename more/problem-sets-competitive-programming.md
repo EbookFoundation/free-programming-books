@@ -3,20 +3,19 @@
 * [Competitive Programming](#competitive-programming)
 * [CTF Capture the Flag](#capture-the-flag)
 * [Data science](#data-science)
+* [HTML and CSS](#html-and-css)
 * [Information security](#information-security)
 * [Problem Sets](#problem-sets)
 
 
 ### Competitive Programming
 
-* [4Clojure](http://www.4clojure.com)
+* [A Way to Practice Competitive Programming](https://github.com/E869120/Competitive-Programming/blob/master/%5BTutorial%5D%20A%20Way%20to%20Practice%20Competitive%20Programming.pdf) - Masataka Yoneda (PDF)
 * [A2 Online Judge](https://a2oj.netlify.app)
 * [Algorithms for Competitive Programming](https://cp-algorithms.com)
 * [APL Problem Solving Competition](https://contest.dyalog.com)
 * [AtCoder](https://atcoder.jp)
 * [beecrowd](https://www.beecrowd.com.br)
-* [Binary Search](https://binarysearch.com)
-* [Caribbean Online Judge](http://coj.uci.cu)
 * [COCI](https://hsin.hr/coci/)
 * [Codeabbey](http://www.codeabbey.com)
 * [Codechef](https://www.codechef.com/contests)
@@ -28,14 +27,12 @@
 * [Coderbyte](https://coderbyte.com)
 * [Codewars](http://www.codewars.com)
 * [Codingame](https://www.codingame.com/start)
-* [CP Algorithms](https://cp-algorithms.com)
+* [Competitive Programming Cheat Sheet](https://medium.com/cheat-sheets/cheat-sheet-for-competitive-programming-with-c-f2e8156d5aa9)
 * [CSES Problem Set](https://cses.fi/problemset)
 * [Dimik](https://dimikoj.com)
 * [DMOJ](https://dmoj.ca)
 * [E-olymp](https://www.e-olymp.com/en/)
-* [Facebook Hackercup](https://www.facebook.com/hackercup)
-* [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam)
-* [Google Kickstart](https://codingcompetitions.withgoogle.com/kickstart)
+* [Exercism](https://exercism.org)
 * [HackerEarth](https://www.hackerearth.com)
 * [Hackerrank](https://www.hackerrank.com)
 * [Internet Problem Solving Contest](http://ipsc.ksp.sk)
@@ -43,9 +40,11 @@
 * [Kattis](https://open.kattis.com)
 * [LeetCode](https://leetcode.com)
 * [LightOJ](https://lightoj.com)
+* [Meta Hackercup](https://www.facebook.com/codingcompetitions/hacker-cup/)
 * [Microcorruption](https://microcorruption.com/login)
 * [Newton School](https://my.newtonschool.co/contest/all)
 * [oj.uz](https://oj.uz)
+* [Sigmageek](https://sigmageek.com)
 * [Sphere Online Judge](http://www.spoj.com/contests)
 * [Striver’s CP Sheet](https://takeuforward.org/interview-experience/strivers-cp-sheet/)
 * [Techgig](https://www.techgig.com)
@@ -57,22 +56,28 @@
 ### Capture the flag
 
 * [CTFlearn](https://ctflearn.com) (email address *requested*)
-* [Google Ctf](https://capturetheflag.withgoogle.com) (email address *requested*)
+* [Google CTF](https://capturetheflag.withgoogle.com) (email address *requested*)
 * [Hacker101](https://ctf.hacker101.com) (email address *requested*)
 * [Hackthebox](https://www.hackthebox.eu) (email address *requested*)
 * [HackThisSite](https://www.hackthissite.org) (email address *requested*)
 * [Overthewire Wargames fungame to practice CTF](https://overthewire.org/wargames/bandit)
 * [Picoctf](https://picoctf.org/resources.html) (email address *requested*)
+* [SmashTheStack](http://www.smashthestack.org/main.html#wargames)
 * [TryHackMe](https://tryhackme.com) (email address *requested*)
 
 
 ### Data science
 
 * [AIcrowd](https://www.aicrowd.com)
-* [CodaLab](https://competitions.codalab.org)
+* [CodaLab](https://codalab.lisn.upsaclay.fr)
 * [CrowdANALYTIX](https://www.crowdanalytix.com/community)
 * [DrivenData](https://www.drivendata.org)
 * [Kaggle](https://www.kaggle.com)
+
+
+### HTML and CSS
+
+* [Frontend Mentor](https://www.frontendmentor.io/challenges?languages=CSS&sort=difficulty%7Casc&type=free) *(email address requested)*
 
 
 ### Information security
@@ -108,7 +113,7 @@
 * [Edabit](https://edabit.com)
 * [Exercism](http://exercism.io)
 * [Geeks For Geeks](https://practice.geeksforgeeks.org)
-* [Google Code Jam - Practise](https://codingcompetitions.withgoogle.com/codejam/archive)
+* [Grind 75](https://www.techinterviewhandbook.org/grind75)
 * [Hacker.org](http://www.hacker.org)
 * [HackerEarth](https://www.hackerearth.com)
 * [HDU Online Judge](http://acm.hdu.edu.cn)
@@ -127,9 +132,12 @@
 * [Python Practice Projects](http://pythonpracticeprojects.com)
 * [Rosalind](http://rosalind.info/problems/locations/)
 * [Sphere Online Judge](http://www.spoj.com/problems/classical)
+* [Striver's A2Z DSA Course/sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
 * [TalentBuddy](http://www.talentbuddy.co/blog/)
 * [The Ultimate Topic List(with Tutorials, Problems, and Templates)](https://blog.shahjalalshohag.com/topic-list/) - Shahjalal Shohag
 * [Timus Online Judge](http://acm.timus.ru)
 * [Topic wise multiple choice questions in computer science](https://www.geeksforgeeks.org/quiz-corner-gq/#C%20Programming%20Mock%20Tests) - Geeks For Geeks
 * [UVa Online Judge](https://uva.onlinejudge.org/index.php?Itemid=8&option=com_onlinejudge)
+* [Vulnhub.com](https://www.vulnhub.com)
 * [Школа программиста](https://acmp.ru)
+

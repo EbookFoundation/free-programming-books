@@ -33,8 +33,8 @@
     * [Ansible](#ansible)
     * [Chef](#chef)
     * [Jenkins](#jenkins)
-* [Electronics in Engineering](#analog-and-digital-electronics)
 * [Docker](#docker)
+* [Electronics in Engineering](#analog-and-digital-electronics)
 * [Elastic](#elastic)
 * [Flutter](#flutter)
 * [Fortran](#fortran)
@@ -304,8 +304,9 @@
 * [Build an IoT Blockchain Network for a Supply Chain](https://cognitiveclass.ai/courses/blockchain-iot-node-red-food-network) - CognitiveClass.ai
 * [Build and Deploy Your First Decentralized App with Etherem](https://www.udemy.com/course/your-first-decentralized-app/) - Gary Simon (Udemy)
 * [CryptoZombies.io](https://cryptozombies.io) - CleverFlare, Loom Network
-* [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial](https://www.youtube.com/watch?v=M576WGiDBdQ) - Patrick Collins (freeCodeCamp.org)
 * [Learn Blockchain](https://youtube.com/playlist?list=PLlp912GlUiC1xPnwVmKgIiuMERetMwre9&si=WE-aKIe2R1gnjvB1) - ROOMYAN
+* [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial](https://www.youtube.com/watch?v=M576WGiDBdQ) - Patrick Collins (freeCodeCamp.org)
+
 
 
 ### C
@@ -609,12 +610,12 @@
 ### Electronics in Engineering
 
 * [Digital Electronics](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm) - Neso Academy
-* [Digital Electronics for GATE](https://www.youtube.com/playlist?list=PLWPirh4EWFpHk70zwYoHu87uVsCC8E2S-) - Tutorials Point India Ltd.
 * [Engineering Circuits Analysis (DC)- Vol 1](https://youtube.com/playlist?list=PLnVYEpTNGNtUSjEEYf01D-q4ExTO960sG&si=1r_TpNFlh7zMi_iv) - Math and Science
 * [Engineering Circuit Analysis - Vol 2](https://youtube.com/playlist?list=PLnVYEpTNGNtWPpnlwktT5OJSbIWG4cMPJ&si=Nhr6IowYOP85fHdD) - Math and Science
 * [Engineering Circuit Analysis (DC) - Vol 3](https://youtube.com/playlist?list=PLnVYEpTNGNtXr8bklI6LC5e7D1hhx_Jai&si=u1ApTHvNQKrnUSrU) - Math and Science
 * [Engineering Circuit Analysis (DC) - Vol 4](https://youtube.com/playlist?list=PLnVYEpTNGNtUVjQ1IRWoG01Em-gscYEs8&si=cERKJqZxqDR5AaG_) - Math and Science
 * [Engineering Circuit Analysis (DC) - Vol 5](https://youtube.com/playlist?list=PLnVYEpTNGNtV8NjsgNtvsIzDFV7Cu6IR4&si=PHhirCiGldOY7R0y) - Math and Science
+* [Digital Electronics for GATE](https://www.youtube.com/playlist?list=PLWPirh4EWFpHk70zwYoHu87uVsCC8E2S-) - Tutorials Point India Ltd.
 
 
 ### Docker

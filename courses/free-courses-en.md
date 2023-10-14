@@ -334,6 +334,7 @@
 * [Domain-Driven Refactoring - Jimmy Bogard - NDC London 2022](https://www.youtube.com/watch?v=f64tZ90Dntg) - Jimmy Bogard
 * [Fundamentals of Programming: Understanding C#](https://www.udemy.com/course/understandingc/) - Jesse Dietrichson (Udemy)
 * [Learn C#](https://www.sololearn.com/learning/1080) - *registration required*
+* [Learn C#](https://www.codecademy.com/learn/learn-c-sharp) - Codecademy
 * [Learn how to program: C# and .NET](https://www.learnhowtoprogram.com/c-and-net) - Epicodus Inc.
 
 

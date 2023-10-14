@@ -606,3 +606,4 @@
 ### TypeScript
 
 * [Typescript Tutorial for Beginners in Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp0xfHQFmlL52b_6-QZ0mnk_) - Thapa Technical
+* [Typescript tutorial in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV46OtmTnYKPa2Mp9sPLWpRA-) - Code Step By Step

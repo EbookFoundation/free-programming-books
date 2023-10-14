@@ -175,120 +175,116 @@
 
 ### 按字母順序
 
-- 當有多個以相同字母開頭的標題時，按第二個排序，依此類推。例如：“aa”位於 “ab” 之前
-- “onetwo” 位於 “onetwo”之前
+- 当有多个以相同字母开头的标题时，按第二个排序，依此类推。例如：“aa”位于 “ab” 之前
+- “onetwo” 位于 “onetwo”之前
 
-如果您看到錯誤的鏈接，請檢查 linter 錯誤訊息以了解應該交換哪些行。
-
-
-### 筆記
-
-雖然基礎知識相對簡單，但我們列出的資源卻多種多樣。以下是關於我們如何處理這種多樣性的一些說明。
+如果您看到错误的链接，请检查 linter 错误讯息以了解应该交换哪些行。
 
 
-#### Metadata
+### 笔记
 
-Our lists provide a minimal set of metadata: titles, URLs, creators, platforms, and access notes.
-
-
-##### Titles
-
-- No invented titles. We try to take titles from the resources themselves; contributors are admonished not to invent titles or use them editorially if this can be avoided. An exception is for older works; if they are primarily of historical interest, a year in parentheses appended to the title helps users know if they are of interest.
-- No ALLCAPS titles. Usually title case is appropriate, but when doubt use the capitalization from the source
-- No emojis.
+虽然基础知识相对简单，但我们列出的资源却多种多样。以下是关于我们如何处理这种多样性的一些说明。
 
 
-##### URLs
+#### 元数据
 
-- We don't permit shortened URLs.
-- Tracking codes must be removed from the URL.
-- International URLs should be escaped. Browser bars typically render these to Unicode, but use copy and paste, please.
-- Secure (`https`) URLs are always preferred over non-secure (`http`) urls where HTTPS has been implemented.
-- We don't like URLs that point to webpages that don't host the listed resource, but instead point elsewhere.
+我们的清单提供了一组最小的元资料：标题、URL、创建者、平台和存取注释。
 
 
-##### Creators
+##### 标题
 
-- We want to credit the creators of free resources where appropriate, including translators!
-- For translated works the original author should be credited. We recommend using [MARC relators](https://loc.gov/marc/relators/relaterm.html) to credit creators other than authors, as in this example:
+- 不要创作标题。我们尽量从资源本身获取标题；强烈建议贡献者不要创作标题，或者在可以避免的情况下不要编辑它们原始标题。对于较旧的作品有一个例外；如果它们主要具有历史价值，将年份括在标题后的括号内可以帮助用户了解它们是否有兴趣。
+- 不要使用全大写标题。常规的标题大小写是合适的，但如有疑问，请使用来源的大小写格式。
+- 不要使用表情符号
+
+
+##### 网址
+
+- 我们不允许使用短链。
+- 必须从网址中删除追踪代码。
+- 国际网址应进行转义。浏览器列通常会将这些内容呈现为 Unicode，但请使用复制和贴上。
+- 在支持 HTTPS 的网站，安全的（https）URL总是优于非安全的（http）URL。
+- 我们不喜欢网址指向不托管所列资源的网页，而是指向其他地方。
+
+
+##### 创作者
+
+- 我们希望在适当的情况下赞扬免费资源的创建者，包括翻译人员！
+- 翻译作品，应注明原作者。我们建议使用 [MARC relators](https://loc.gov/marc/relators/relaterm.html) 来表彰作者以外的创作者，如下例所示：
 
     ```markdown
-    * [A Translated Book](http://example.com/book-zh.html) - John Doe, `trl.:` Mike The Translator
+    * [译作](http://example.com/book-zh.html) - John Doe，`trl.:` 译者麦克
     ```
-
-    here, the annotation `trl.:` uses the MARC relator code for "translator".
-- Use a comma `,` to delimit each item in the author list.
-- You can shorten author lists with "`et al.`".
-- We do not permit links for Creators.
-- For compilation or remixed works, the "creator" may need a description. For example, "GoalKicker" or "RIP Tutorial" books are credited as "`Compiled from StackOverflow documentation`".
-
-
-##### Platforms and Access Notes
-
-- Courses. Especially for our course lists, the platform is an important part of the resource description. This is because course platforms have different affordances and access models. While we usually won't list a book that requires a registration, many course platforms have affordances that don't work without some sort of account. Example course platforms include Coursera, EdX, Udacity, and Udemy. When a course depends on a platform, the platform name should be listed in parentheses.
-- YouTube. We have many courses which consist of YouTube playlists. We do not list YouTube as a platform, we try to list the YouTube creator, which is often a sub-platform.
-- YouTube videos. We usually don't link to individual YouTube videos unless they are more than an hour long and are structured like a course or a tutorial.
-- Leanpub. Leanpub hosts books with a variety of access models. Sometimes a book can be read without registration; sometimes a book requires a Leanpub account for free access. Given quality of the books and the mixture and fluidity of Leanpub access models, we permit listing of the latter with the access note `*(Leanpub account or valid email requested)*`.
+    这里，注解「trl.:」使用「翻译器」的 MARC 相关程式码。
+- 使用逗号「，」来分隔作者清单中的每个项目。
+- 您可以使用「`et al.`」来缩短作者清单。
+- 我们不允许为创作者提供链接。
+- 对于编译或混音作品，「创作者」可能需要描述。例如，「Go​​alKicker」或「RIP Tutorial」书籍被标记为「`Compiled from StackOverflow Documentation`」。
 
 
-#### Genres
+##### 平台及接入注意事项
 
-The first rule in deciding which list a resource belongs in is to see how the resource describes itself. If it calls itself a book, then maybe it's a book.
+- 课程。尤其是对于我们的课程列表，平台是资源描述的重要部分。这是因为不同的课程平台有不同的功能和访问模型。尽管我们通常不会列出需要注册的书籍，但许多课程平台的功能在没有某种帐户的情况下无法工作。课程平台的例子包括 Coursera、EdX、Udacity 和 Udemy。当一个课程依赖于一个平台时，应在括号中列出平台名称。
+- Youtube.我们有许多包含 YouTube 播放清单的课程。我们不会将 YouTube 列为平台，而是尝试列出 YouTube 创作者，这通常是一个子平台。
+- YouTube影片。我们通常不会连结到单一 YouTube 视频，除非它们的长度超过一个小时并且结构类似于课程或教程。
+- Leanpub。 Leanpub 托管具有多种存取模式的书籍。有时一本书无需注册即可阅读；有时一本书需要 Leanpub 帐户才能免费存取。考虑到书籍的品质以及 Leanpub 存取模型的混合性和流动性，我们允许使用存取注释「*（Leanpub 帐户或请求的有效电子邮件）*」列出后者。
 
+#### 流派
 
-##### Genres we don't list
+决定资源属于哪个清单的第一条规则是查看资源如何描述自己。如果它称自己为一本书，那么也许它就是一本书。
 
-Because the Internet is vast, we don't include in our lists:
+##### 我们未列出的流派
 
-- blogs
-- blog posts
-- articles
-- websites (except for those that host LOTS of items that we list).
-- videos that aren't courses or screencasts.
-- book chapters
-- teaser samples from books
-- IRC or Telegram channels
-- Slacks or mailing lists
+由于互联网非常庞大，因此我们不将以下内容包括在列表中：
 
-Our competitive programming lists are not as strict about these exclusions. The scope of the repo is determined by the community; if you want to suggest a change or addition to the scope, please use an issue to make the suggestion.
+- 博客（博客网站）
+- 博客文章
+- 网站（那些托管我们列出的大量项目的网站除外）。
+- 不属于课程或录屏的视频。
+- 书籍章节
+- 书籍的预览样章
+- IRC 或 Telegram 频道
+- Slack 或邮件列表
 
-
-##### Books vs. Other Stuff
-
-We're not that fussy about book-ness. Here are some attributes that signify that a resource is a book:
-
-- it has an ISBN (International Standard Book Number)
-- it has a Table of Contents
-- a downloadable version is offered, especially ePub files.
-- it has editions
-- it doesn't depend on interactive content or videos
-- it tries to comprehensively cover a topic
-- it's self-contained
-
-There are lots of books that we list that don't have these attributes; it can depend on context.
+我们的竞争性节目清单对这些例外情况没有那么严格。 仓库的范围由社区决定；如果您想建议更改或新增范围，请使用 issue 提出建议
 
 
-##### Books vs. Courses
+##### 书籍与其他东西
 
-Sometimes these can be hard to distinguish!
+我们对书本性并不那么挑剔。以下是一些表示资源是一本书的属性：
 
-Courses often have associated textbooks, which we would list in our books lists. Courses have lectures, exercises, tests, notes or other didactic aids. A single lecture or video by itself is not a course. A powerpoint is not a course.
+- 它有一个 ISBN（国际标准书号）
+- 它有一个目录
+- 提供可下载版本，尤其是 ePub 档案。
+- 它有版本
+- 它不依赖互动内容或视频
+- 它试图全面涵盖一个主题
+- 它是独立的
+
+我们列出的许多书籍不具备这些属性；这可能取决于上下文。
 
 
-##### Interactive Tutorials vs. Other stuff
+##### 书与课程
 
-If you can print it out and retain its essence, it's not an Interactive Tutorial.
+有时这些可能很难区分！
+
+课程通常有相关的教科书，我们会将其列在图书列表中。课程包括讲座、练习、测试、笔记或其他教学辅助工具。单个讲座或视频本身并不是一门课程。PowerPoint不是课程。
 
 
-### Automation
+##### 交互式教程与其他东西
 
-- Formatting rules enforcement is automated via [GitHub Actions](https://github.com/features/actions) using [fpb-lint](https://github.com/vhf/free-programming-books-lint) (see [`.github/workflows/fpb-lint.yml`](../.github/workflows/fpb-lint.yml))
-- URL validation uses [awesome_bot](https://github.com/dkhamsing/awesome_bot)
-- To trigger URL validation, push a commit that includes a commit message containing `check_urls=file_to_check`:
+如果您可以将其打印出来并保留其精髓，那么它就不是交互式教程。
 
-    ```properties
+
+### 自动化
+
+- 格式化规则的执行是通过以下方式自动执行的 [GitHub Actions](https://github.com/features/actions) 用 [fpb-lint](https://github.com/vhf/free-programming-books-lint) (see [`.github/workflows/fpb-lint.yml`](../.github/workflows/fpb-lint.yml))
+- URL 验证使用 [awesome_bot](https://github.com/dkhamsing/awesome_bot)
+- 要触发 URL 验证，请推送包含以下内容的 commit message 的提交 `check_urls=file_to_check`:
+
+    ```特性
     check_urls=free-programming-books.md free-programming-books-zh.md
     ```
-
-- You may specify more than one file to check, using a single space to separate each entry.
-- If you specify more than one file, results of the build are based on the result of the last file checked. You should be aware that you may get passing green builds due to this so be sure to inspect the build log at the end of the Pull Request by clicking on "Show all checks" -> "Details".
+    
+- - 您可以指定多个要检查的文件，使用单个空格分隔每个条目。
+- 如果您指定了多个文件，构建的结果将基于最后一个检查的文件的结果。您应该注意，由于这个原因，您可能会得到通过的绿色构建，所以请确保在拉取请求结束时检查构建日志，点击 “Show all checks”->“Details”。

@@ -146,6 +146,7 @@
 * [Git Tutorial - Bahasa Indonesia](https://www.youtube.com/playlist?list=PL-CtdCApEFH_lYGV8hxqjtKmFA_xeLupq) - Eko Kurniawan Khannedy, Programmer Zaman Now
 * [Jago Git Dalam 2 Jam](https://www.youtube.com/watch?v=KGSfUgaiVNI) - Imre Nagi
 * [Source Code Management untuk Pemula](https://www.dicoding.com/academies/116) - Dicoding, membutuhkan registrasi
+* [Dasar Git untuk Pemula](https://www.petanikode.com/tutorial/git/) - Petani Kode
 * [Tutorial GIT Bahasa Indonesia Lengkap](https://www.youtube.com/playlist?list=PL1aMeb5UP_PHXTV_Xpt-19x_rVPXrymOM) - IDStack
 * [Tutorial Git Dasar](https://www.youtube.com/watch?v=fQbTeNX1mvM) - Programmer Zaman Now
 
@@ -180,6 +181,7 @@
 * [CSS Layouting](https://www.youtube.com/playlist?list=PLFIM0718LjIVCmrSWbZPKCccCkfFw-Naa) - Web Programming UNPAS
 * [CSS Tailwind](https://buildwithangga.com/kelas/css-tailwind-web-design?thumbnail=nk4neM2UyG.46&main_leads=browse) - BuildWithAngga
 * [CSS Website Design](https://www.buildwithangga.com/kelas/css-website-design) - BuildWithAngga
+* [CSS Website Design Tutorial](https://www.youtube.com/@OnlineTutorialsYT/about) - Online Tutorials
 * [CSS3](https://www.youtube.com/playlist?list=PLFIM0718LjIVCmrSWbZPKCccCkfFw-Naa) - Web Programming UNPAS
 * [HTML Dasar](https://www.youtube.com/playlist?list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F) - Web Programming UNPAS
 * [HTML5 Canvas](https://www.youtube.com/playlist?list=PL0-7Xi0GB3teW5TsBQmD2MzLU5ryjXkVE) - Idr Corner
@@ -219,6 +221,7 @@
 * [ExpressJS Tutorial Indonesia](https://www.youtube.com/playlist?list=PL9At9z2rvOC-sgzJx7rM_wMDONnEM4E0A) - Ekky Ridyanto (Balademy)
 * [JavaScript dan DOM (Document Object Model)](https://www.youtube.com/playlist?list=PLFIM0718LjIWB3YRoQbQh82ZewAGtE2-3) - Web Programming UNPAS
 * [JavaScript Dasar](https://www.malasngoding.com/category/javascript/) - Diki Alfarabi Hadi (Malas Ngoding)
+* [JavaScript Dasar untuk Pemula](https://www.petanikode.com/tutorial/javascript/) - Petani Kode
 * [JavaScript Lanjutan](https://www.youtube.com/playlist?list=PLFIM0718LjIUGpY8wmE41W7rTJo_3Y46-) - Web Programming UNPAS
 * [JavaScript Module](https://devsaurus.com/javascript-module) - Devsaurus
 * [JavaScript Tutorial Bahasa Indonesia](https://www.youtube.com/playlist?list=PL-CtdCApEFH8SS0Gsj9_a0cC0jypFEoSg) - Eko Kurniawan Khannedy, Programmer Zaman Now
@@ -328,6 +331,7 @@
 * [Membuat Aplikasi MVC dengan PHP](https://www.youtube.com/playlist?list=PLFIM0718LjIVEh_d-h5wAjsdv2W4SAtkx) - Web Programming UNPAS
 * [OOP Dasar pada PHP](https://www.youtube.com/playlist?list=PLFIM0718LjIWvxxll-6wLXrC_16h_Bl_p) - Web Programming UNPAS
 * [PHP Dasar](https://www.malasngoding.com/category/php/) - Diki Alfarabi Hadi, Muzanni (Malas Ngoding)
+* [PHP Dasar untuk Pemula](https://www.petanikode.com/tutorial/php/) - Petani Kode
 * [PHP The Right Way](https://www.youtube.com/playlist?list=PLFIM0718LjIVcKOrB2tFKi4eWYXHvS3CU) - Web Programming UNPAS
 * [PHP Tutorial Bahasa Indonesia](https://www.youtube.com/playlist?list=PL-CtdCApEFH9EmZy4zYfW1ATIJ-qMXxGt) - Eko Kurniawan Khannedy, Programmer Zaman Now
 * [Tutorial CodeIgniter untuk pemula](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCYh65VSFR2yzC7CuPBcAjt) - Sekolah Koding

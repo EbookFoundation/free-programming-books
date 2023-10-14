@@ -614,6 +614,7 @@
 * [Engineering Circuit Analysis (DC) - Vol 3](https://youtube.com/playlist?list=PLnVYEpTNGNtXr8bklI6LC5e7D1hhx_Jai&si=u1ApTHvNQKrnUSrU) - Math and Science
 
 
+
 * [Engineering Circuit Analysis (DC) - Vol 4](https://youtube.com/playlist?list=PLnVYEpTNGNtUVjQ1IRWoG01Em-gscYEs8&si=cERKJqZxqDR5AaG_) - Math and Science
 * [Digital Electronics for GATE](https://www.youtube.com/playlist?list=PLWPirh4EWFpHk70zwYoHu87uVsCC8E2S) - Tutorials Point India Ltd.
 * [Engineering Circuit Analysis (DC) - Vol 5](https://youtube.com/playlist?list=PLnVYEpTNGNtV8NjsgNtvsIzDFV7Cu6IR4&si=PHhirCiGldOY7R0y) - Math and Science

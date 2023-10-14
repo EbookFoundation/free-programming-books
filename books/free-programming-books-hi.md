@@ -8,7 +8,6 @@
 * [Linux](#linux)
 * [Networking](#networking)
 * [Php](#php)
-* [Python](#python)
 
 
 ### C
@@ -59,8 +58,3 @@
 
 * [Php \| Hindi](https://www.learnhindituts.com/php) - LearnHindiTuts.com
 * [Php Hindi Tutorial \| Hindi](http://tutorialsroot.com/php/index.html) - TutorialsRoot.com
-
-
-### Python
-
-* [Python Notes PDF by ehindistudy.com \| Hindi](https://drive.google.com/file/d/1cnJ6Uksso2UXwC5OHBAGk3miMzSveBvr/view) - Yugal Joshi (PDF)

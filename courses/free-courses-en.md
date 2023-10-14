@@ -908,7 +908,7 @@
 * [The 10 Days of JavaScript](https://www.youtube.com/playlist?list=PLpcSpRrAaOaoIqHQddZOdbRrzr5dJtgSs) - Brad Schiff, LearnWebCode
 * [Understanding RxJS](https://youtube.com/playlist?list=PL55RiY5tL51pHpagYcrN9ubNLVXF8rGVi) - Academind
 * [Vanilla JavaScript](https://www.youtube.com/playlist?list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX) - Brad Traversy, Traversy Media
-
+* [JavaScript Course](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript) - The Odin Project
 
 #### Angular
 

@@ -36,6 +36,7 @@
     * [jQuery](#jquery)
     * [Knockout.js](#knockoutjs)
     * [Meteor](#meteor)
+    * [Next.js](#nextjs)
     * [Node.js](#nodejs)
     * [React](#react)
     * [Vue.js](#vuejs)
@@ -298,6 +299,11 @@
 #### Meteor
 
 * [Tudo sobre Meteor](https://udgwebdev.github.io/meteor/)
+
+
+#### Next.js
+
+* [O manual do Next.js para iniciantes](https://www.freecodecamp.org/portuguese/news/o-manual-do-next-js-para-iniciantes/) - freeCodeCamp
 
 
 #### Node.js

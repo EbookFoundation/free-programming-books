@@ -522,6 +522,7 @@
 
 #### SQL
 
+* [CS50’s Introduction to Databases with SQL](https://cs50.harvard.edu/sql/2023/) - Carter Zenke, David J. Malan (Harvard OpenCourseWare and edX)
 * [Getting Started with SQL for Application Developers](https://university.cockroachlabs.com/courses/course-v1:crl+getting-started-with-sql-for-app-devs+self-paced/about) - Wade Waldron (Cockroach Labs Inc.) *(email address required)*
 * [Introduction to Database Queries](https://www.edx.org/course/introduction-to-database-queries) - Aspen Olmsted (edX New York University)
 * [Introduction to Databases and SQL Querying](https://www.udemy.com/course/introduction-to-databases-and-sql-querying/) - Rakesh Gopalakrishnan (Udemy)
@@ -551,6 +552,7 @@
 * [Deep Reinforcement Learning Course - Hugging Face](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
 * [Exploring Fairness in Machine Learning for International Development](https://ocw.mit.edu/resources/res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020) - Dr. Richard Fletcher, Prof. Daniel Frey, Dr. Mike Teodorescu, Amit Gandhi, Audace Nakeshimana (MIT OpenCourseWare)
 * [Full Stack Computer Vision Tutorial with Tensorflow, Python, Tensorflow.JS with React.JS](https://www.youtube.com/playlist?list=PLgNJO2hghbmhUeJuv7PyVYgzhlgt2TcSr) - Nicholas Renotte
+* [Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) - Hugging Face
 * [Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning) - Ryan Holbrook
 * [Introduction to Reinforcement learning with David Silver](https://www.youtube.com/playlist?list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB) - David Silver
 * [MIT 6.S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu)
@@ -897,6 +899,7 @@
 * [Learn modern JavaScript](https://scrimba.com/learn/es6) - Beau Carnes (Scrimba) (Scrimba account *required*)
 * [Learn to Program in Javascript: Beginner to Pro](https://www.udemy.com/course/programming-in-javascript) - Raghavendra Dixit (Udemy)
 * [learn:query](https://learnquery.infinum.com)
+* [Modern JavaScript From The Beginning](https://www.youtube.com/watch?v=BI1o2H9z9fo) - Traversy Media
 * [Namaste 🙏 JavaScript: An In-Depth JavaScript Fundamentals Course](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP) - Akshay Saini
 * [npm - Mastering the Basics](https://www.udemy.com/course/npm-mastering-the-basics/) - Vishwas Gopinath (Udemy)
 * [Object-Oriented JavaScript](https://www.udacity.com/course/object-oriented-javascript--ud711) - Richard Kalehoff (Udacity)
@@ -963,6 +966,7 @@
 * [Mastering Next.js](https://masteringnextjs.com)
 * [Next.js for Beginners - Full Course](https://www.youtube.com/watch?v=1WmNXEVia8I) - Kapehe (FreeCodeCamp)
 * [Next.js Tutorial for Beginners](https://youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH) - Codevolution
+* [Next.js Tutorials for Beginners](https://youtube.com/playlist?list=PL0Zuz27SZ-6Pk-QJIdGd1tGZEzy9RTgtj) - Dave Gray
 
 
 #### NodeJS
@@ -1603,9 +1607,13 @@
 * [Astra Theme Tutorials](https://www.youtube.com/playlist?list=PLgJeRQxEOJmoYLvxOCq3DJB5q6LWJWKjH) - Ferdy Korpershoek
 * [Complete WooCommerce eCommerce WordPress Tutorials](https://www.youtube.com/playlist?list=PLjR7HjmPoicEyJPKnoj5w7rdPIKjJ-KZu) - Nayyar Shaikh
 * [Complete WordPress Website Tutorials](https://www.youtube.com/playlist?list=PLjR7HjmPoicHwIytCRu8LothNjizC5vr_) - Nayyar Shaikh
+* [Crocoblock Jet Engine Tutorial - Beginners Guide](https://www.youtube.com/playlist?list=PLTbrc9HXDstrLg449hcWQvx8kOXhjyovV) - WPTuts
+* [CrocoBlock Tutorials](https://www.youtube.com/playlist?list=PLgJeRQxEOJmrvEmHDn_B92u82IczqLCqE) - Ferdy Korpershoek
 * [Elementor Pro Tutorials](https://www.youtube.com/playlist?list=PLgJeRQxEOJmq5hR8yETsu3zPFmpoxCeMq) - Ferdy Korpershoek
+* [Gutenberg FSE - Full Site Editing using Gutenberg Block Editor Complete Project in 2022](https://www.youtube.com/playlist?list=PLzKN_iozW-I6PkSx8AVOE9wBaoVpJxLeS) - Riad Mahmud
 * [How to Create a Wordpress Website \| Complete Tutorial ](https://www.youtube.com/playlist?list=PLTDZrIwt-NI1rCkHfazfvzR_DETu0SezK) - Jim Fahad Digital
 * [How To Customize WooCommerce](https://www.youtube.com/playlist?list=PLTbrc9HXDstpihLrQIWtmExd9f1tiAYET) - WPTuts
+* [Jet Engine](https://www.youtube.com/playlist?list=PLHiQK7LHpKqThfbmEj3pf4YFmHv81GUwS) - Moxet Khan
 * [WordPress Basic to Advanced Course](https://www.youtube.com/playlist?list=PLQOGKy2nPhxlEVP4RBVrBoXPL6mZNZv5L) - Azharul Rafy
 * [WordPress Elementor Pro Tutorials](https://www.youtube.com/playlist?list=PLjR7HjmPoicEVCFa75468V_XVA47FLJO4) - Nayyar Shaikh
 * [WordPress Tips and Tricks](https://www.youtube.com/playlist?list=PLjR7HjmPoicHi7wS3JK2dGfBmoDFCg7o8) - Nayyar Shaikh

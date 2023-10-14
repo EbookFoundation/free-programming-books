@@ -1,7 +1,6 @@
 ### Index
 
 * [C++](#cpp)
-* [Data Structure and Algorithms](#data-structure-and-algorithms)
 * [Java](#java)
 * [Linux](#linux)
 * [Networking](#networking)
@@ -21,11 +20,6 @@
 * [C++ Brief Notes \| Hindi](https://ehindistudy.com/2020/12/01/cpp-notes-in-hindi/) - Yugal Joshi
 * [C++ in Hindi \| Hindi](https://www.bccfalna.com/IOC-AllEBooks/CPPinHindi.pdf) - Kuldeep Chand (PDF)
 * [C++ Introduction Book \| Hindi](https://ncsmindia.com/wp-content/uploads/2012/04/c++-hindi.pdf) - NCMS India (PDF)
-
-
-### Data Structure and Algorithms
-
-* [Data Structure with C \| Hindi](http://www.bccfalna.com/IOC-AllEBooks/DSnAinHindi.pdf) - Kuldeep Chand (PDF)
 
 
 ### Java

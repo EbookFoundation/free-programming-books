@@ -1,6 +1,7 @@
 ### Index
 
 * [Algorithms](#algorithms)
+    * [Soft Computing](#soft-computing)
 * [Android](#android)
 * [Angular](#angular)
 * [Arduino](#arduino)
@@ -60,7 +61,6 @@
     * [Ruby on Rails](#ruby-on-rails)
 * [Rust](#rust)
 * [Security](#security)
-* [Soft Computing](#soft-computing)
 * [Software Engineering](#software-engineering)
 * [Swift](#swift)
 * [System Design](#system-design)
@@ -86,6 +86,14 @@
 * [Recursion Playlist \| Coding \| Interview Questions \| Algorithm \| Tutorials](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY) - Aditya Verma
 * [Sliding Window Algorithm - Face to Face Interviews](https://youtube.com/playlist?list=PL_z_8CaSLPWeM8BDJmIYDaoQ5zuwyxnfj) - Aditya Verma
 * [Time and Space - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFc7hJ5eeCb579PS8p-en4f) - Pepcoding
+
+
+#### Soft Computing
+
+* [Application of soft computing](https://www.youtube.com/playlist?list=PL_obO5Qb5QTEM_GVn5E45F3Z8-SIRBDL-) - LS Academy for Technical Education
+* [Introduction To Soft Computing](https://www.youtube.com/playlist?list=PLJ5C_6qdAvBFqAYS0P9INAogIMklG8E-9) - Computer Science and Engineering
+* [Soft Computing | University exams specific](https://www.youtube.com/playlist?list=PLuAADu3OvBt5-e5yXuIqBi1pttqw3RBeg) - Er Sahil ka Gyan
+* [Soft Computing And Optimization Algorithms](https://www.youtube.com/playlist?list=PLYwpaL_SFmcCPUl8mAnb4g1oExKd0n4Gw) - 5 Minutes Engineering
 
 
 ### Android
@@ -608,14 +616,6 @@
 * [Cyber Security Tutorials In HIndi](https://www.youtube.com/playlist?list=PL0fjgIGwLMWTFmZoLdEPoI9azA-osxcQj) - TechChip
 * [Ethical Hacking Full Couse (Cyber Security in Hindi)](https://www.youtube.com/playlist?list=PLa2xctTiNSCibSUhgYI2RT_loUJP9rDN6) - Masters in IT
 * [Information And Cyber Security](https://www.youtube.com/playlist?list=PLYwpaL_SFmcArHtWmbs_vXX6soTK3WEJw) - 5 Minutes Engineering
-
-
-### Soft Computing
-
-* [Application of soft computing](https://www.youtube.com/playlist?list=PL_obO5Qb5QTEM_GVn5E45F3Z8-SIRBDL-) - LS Academy for Technical Education
-* [Introduction To Soft Computing](https://www.youtube.com/playlist?list=PLJ5C_6qdAvBFqAYS0P9INAogIMklG8E-9) - Computer Science and Engineering
-* [Soft Computing | University exams specific](https://www.youtube.com/playlist?list=PLuAADu3OvBt5-e5yXuIqBi1pttqw3RBeg) - Er Sahil ka Gyan
-* [Soft Computing And Optimization Algorithms](https://www.youtube.com/playlist?list=PLYwpaL_SFmcCPUl8mAnb4g1oExKd0n4Gw) - 5 Minutes Engineering
 
 
 ### Software Engineering

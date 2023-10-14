@@ -591,6 +591,7 @@
 
 #### Ruby on Rails
 
+* [Full Stack Development in Ruby on Rails - Hindi](https://www.youtube.com/playlist?list=PLSfx1NJkuWPWlVjFy5datW4Y-54ltIFw7) - APPSIMPACT Academy Hindi
 * [Ruby on Rails 5 Tutorial(Hindi)](https://www.youtube.com/playlist?list=PLgPJX9sVy92yV7Qt6_8ElC9paGWdtdIbb) - CS Geeks
 
 

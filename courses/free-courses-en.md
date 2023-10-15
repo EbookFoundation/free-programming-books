@@ -693,12 +693,12 @@
 * [Foundations of Git - Certification Course](https://learn.gitkraken.com/courses/git-foundations) - Axosoft (GitKraken) *(account or email address required)*
 * [Gentle Introduction to Git and GitHub](https://www.youtube.com/playlist?list=PLErOmyzRKOCoLfGDg91NbuGlRahF5mElq) - Deborah Kurata
 * [Git](https://www.youtube.com/playlist?list=PLFBirL3MAv29Vy_L7MmV2QaZLvAadFPHR) - Gwendolyn Faraday
-* [Git: Become an Expert in Git & GitHub in 4 Hours](https://www.udemy.com/course/git-expert-4-hours/) - VideoLab by Jad Khalili
 * [Git & GitHub](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF) - Briana Marie, freeCodeCamp.org
 * [Git & GitHub](https://www.youtube.com/playlist?list=PLhW3qG5bs-L8OlICbNX9u4MZ3rAt5c5GG) - Raghav Pal, Automation Step by Step
 * [Git & GitHub Complete Guide](https://www.udemy.com/course/git-n-github-complete-guide) (Udemy)
 * [Git & GitHub Crash Course](https://www.udemy.com/course/git-and-github-crash-course-creating-a-repository-from-scratch/) - Kalob Taulien (Udemy)
 * [Git & GitHub Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR) (The Net Ninja)
+* [Git: Become an Expert in Git & GitHub in 4 Hours](https://www.udemy.com/course/git-expert-4-hours/) - VideoLab by Jad Khalili
 * [Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 * [GIT for beginners](https://www.eduonix.com/git-for-beginners) - Maksym Rudnyi (Eduonix Learning Solutions) *(account or email address required)*
 * [Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git](https://www.youtube.com/watch?v=Uszj_k0DGsg) - Tobias Günther

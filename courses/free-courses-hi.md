@@ -26,6 +26,7 @@
 * [Game Development](#game-development)
 * [Git and GitHub](#git-and-github)
 * [Golang](#golang)
+* [Graph Theory](#graph)
 * [HTML and CSS](#html-and-css)
     * [Bootstrap](#bootstrap)
     * [Tailwind CSS](#tailwind-css)
@@ -304,6 +305,12 @@
 * [Go programming Tutorial for Beginners(Hindi)](https://www.youtube.com/playlist?list=PLgPJX9sVy92yu7If3I7GonlWA8YU1BuAk) - CS Geeks
 * [Let's go with golang](https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa) - Hitesh Choudhary
 
+
+### Graph Theory
+
+* [Graph Theory Playlist](https://www.youtube.com/playlist?list=PLC36xJgs4dxHYyeppopMuALQhKY0ADIHi) - Graph Theory (from Discrete Maths) by AMIT KHURANA
+* [Graph Theory Playlist](https://www.youtube.com/playlist?list=PLxCzCOWd7aiG0M5FqjyoqB20Edk0tyzVt) - Graph Theory by GATE SMASHERS
+* [Graph Theory Playlist](https://www.youtube.com/playlist?list=PLU6SqdYcYsfLV24T0XVb3z3mjl8QG0EBN) - Graph Theory (Discrete Mathemematics) by Dr.Gajendra Purohit
 
 ### HTML and CSS
 

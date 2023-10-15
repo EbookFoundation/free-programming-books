@@ -1,6 +1,6 @@
 ### Index
 
-* [All](#all)
+* [Java](#Java)
 
 
 ### All

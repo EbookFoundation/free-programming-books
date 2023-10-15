@@ -182,7 +182,7 @@ This project lists books and other resources grouped by genres:
 
 ### Podcast - Screencast
 
-Free Podcasts and Screencasts:
+Free Podcasts and Screencasts:-
 
 + [Arabic / al Arabiya / العربية](casts/free-podcasts-screencasts-ar.md)
 + [Chinese / 中文](casts/free-podcasts-screencasts-zh.md)
@@ -207,7 +207,7 @@ Free Podcasts and Screencasts:
 
 ### Programming Playgrounds
 
-Write, compile and run your code within a browser. Try it out!
+Write, Compile and Run your code within a browser. Try it out!
 
 + [Chinese / 中文](more/free-programming-playgrounds-zh.md)
 + [English](more/free-programming-playgrounds.md)
@@ -215,7 +215,7 @@ Write, compile and run your code within a browser. Try it out!
 
 ## Translations
 
-Volunteers have translated many of our Contributing, How-to, and Code of Conduct documents into languages covered by our lists.
+Volunteers have translated many of our Contributing, How-to, and Code of Conduct Documents into languages covered by our lists.
 
 + English
   + [Code of Conduct](docs/CODE_OF_CONDUCT.md)

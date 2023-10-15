@@ -613,6 +613,7 @@
 * [Digital Electronics for GATE](https://www.youtube.com/playlist?list=PLWPirh4EWFpHk70zwYoHu87uVsCC8E2S-) - Tutorials Point India Ltd.
 * [Engineering Circuits Analysis (DC)- Vol 1](https://youtube.com/playlist?list=PLnVYEpTNGNtUSjEEYf01D-q4ExTO960sG&si=7rqFK3HFatH1fWKE) - Math and Science
 
+
 ### Docker
 
 * [Deploying Containerized Applications Technical Overview](https://www.udemy.com/course/deploying-containerized-applications-technical-overview) - Red Hat

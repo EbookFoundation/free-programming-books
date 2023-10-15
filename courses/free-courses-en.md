@@ -748,7 +748,6 @@
 
 ### HTML and CSS
 
-* [Complete Web Dev using mern stack || Love Babbar](https://www.youtube.com/watch?v=Vi9bxu-M-ag&list=PLDzeHZWIZsTo0wSBcg4-NMIbC0L8evLrD&pp=iAQB) (Love Babbar)
 * [Bento CSS Learning Track](https://bento.io/topic/css) (Bento)
 * [Bento HTML Learning Track](https://bento.io/topic/html) (Bento)
 * [Build a Personal Website with Dash](https://dash.generalassemb.ly)
@@ -758,6 +757,7 @@
 * [Build Dynamic Websites](https://web.archive.org/web/20210812200413/http://cs75.tv/2010/fall/) - David J. Malan [(YouTube)](https://www.youtube.com/playlist?list=PLvJoKWRPIu8GhAhDBAH0BFB9BS7YxM1WT)
 * [Code Your First Game: Arcade Classic in JavaScript on Canvas](https://www.udemy.com/code-your-first-game/) - Chris DeLeon (Udemy)
 * [Complete HTML/CSS BootCamp](https://frontendmasters.com/bootcamp/) - FrontEnd Masters
+* [Complete Web Dev using mern stack || Love Babbar](https://www.youtube.com/watch?v=Vi9bxu-M-ag&list=PLDzeHZWIZsTo0wSBcg4-NMIbC0L8evLrD&pp=iAQB) (Love Babbar)
 * [Conquering freeCodeCamp's Curriculum](https://youtube.com/playlist?list=PLgBH1CvjOA62oNEVgz-dECiCZCE_Q3ZFH) - Florin Pop
 * [CSS Flexbox - Mastering the Basics](https://www.udemy.com/css-flexbox-mastering-the-basics/) - Vishwas Gopinath (Udemy)
 * [CSS Grid](https://cssgrid.io) - Wesbos

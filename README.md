@@ -4,7 +4,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)&#160;
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)&#160;
-[![Hacktoberfest 2022 stats](https://img.shields.io/github/hacktoberfest/2022/EbookFoundation/free-programming-books?label=Hacktoberfest+2022)](https://github.com/EbookFoundation/free-programming-books/pulls?q=is%3Apr+is%3Amerged+created%3A2022-10-01..2022-10-31)
+[![Hacktoberfest 2023 stats](https://img.shields.io/github/hacktoberfest/2023/EbookFoundation/free-programming-books?label=Hacktoberfest+2023)](https://github.com/EbookFoundation/free-programming-books/pulls?q=is%3Apr+is%3Amerged+created%3A2023-10-01..2023-10-31)
 
 </div>
 
@@ -14,7 +14,7 @@ This page is available as an easy-to-read website. Access it by clicking on [![h
 
 <div align="center">
   <form action="https://ebookfoundation.github.io/free-programming-books-search">
-    <input type="text" id="fpbSearch" name="search" placeholder="Search Book or Author"/>
+    <input type="text" id="fpbSearch" name="search" required placeholder="Search Book or Author"/>
     <label for="submit"> </label>
     <input type="submit" id="submit" name="submit" value="Search" />
   </form>
@@ -101,7 +101,7 @@ This project lists books and other resources grouped by genres:
 + [Indonesian / Bahasa Indonesia](books/free-programming-books-id.md)
 + [Italian / italiano](books/free-programming-books-it.md)
 + [Japanese / 日本語](books/free-programming-books-ja.md)
-+ [Korean / 한국어 [韓國語]](books/free-programming-books-ko.md)
++ [Korean / 한국어](books/free-programming-books-ko.md)
 + [Latvian / Latviešu](books/free-programming-books-lv.md)
 + [Norwegian / Norsk](books/free-programming-books-no.md)
 + [Persian / Farsi (Iran) / فارسى](books/free-programming-books-fa_IR.md)
@@ -141,10 +141,12 @@ This project lists books and other resources grouped by genres:
 + [Indonesian / Bahasa Indonesia](courses/free-courses-id.md)
 + [Italian / italiano](courses/free-courses-it.md)
 + [Japanese / 日本語](courses/free-courses-ja.md)
++ [Kannada/ಕನ್ನಡ](courses/free-courses-kn.md)
 + [Kazakh / қазақша](courses/free-courses-kk.md)
 + [Khmer / ភាសាខ្មែរ](courses/free-courses-km.md)
-+ [Korean / 한국어 [韓國語]](courses/free-courses-ko.md)
++ [Korean / 한국어](courses/free-courses-ko.md)
 + [Malayalam / മലയാളം](courses/free-courses-ml.md)
++ [Marathi / मराठी](courses/free-courses-mr.md)
 + [Nepali / नेपाली](courses/free-courses-ne.md)
 + [Norwegian / Norsk](courses/free-courses-no.md)
 + [Persian / Farsi (Iran) / فارسى](courses/free-courses-fa_IR.md)
@@ -167,6 +169,7 @@ This project lists books and other resources grouped by genres:
 
 + [Chinese / 中文](more/free-programming-interactive-tutorials-zh.md)
 + [English](more/free-programming-interactive-tutorials-en.md)
++ [German](more/free-programming-interactive-tutorials-de.md)
 + [Japanese / 日本語](more/free-programming-interactive-tutorials-ja.md)
 + [Portuguese (Brazil)](more/free-programming-interactive-tutorials-pt_BR.md)
 + [Russian / Русский язык](more/free-programming-interactive-tutorials-ru.md)
@@ -208,7 +211,7 @@ Write, compile and run your code within a browser. Try it out!
 
 + [Chinese / 中文](more/free-programming-playgrounds-zh.md)
 + [English](more/free-programming-playgrounds.md)
-
++ [German](more/free-programming-playgrounds-de.md)
 
 ## Translations
 

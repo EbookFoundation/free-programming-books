@@ -13,8 +13,11 @@
 * [IDE and editors](#ide-and-editors)
 * [Java](#java)
 * [JavaScript](#javascript)
+    * [Angular](#angular)
+    * [Deno](#deno)
     * [Next.js](#nextjs)
     * [React.js](#reactjs)
+    * [TypeScript](#typescript)
     * [Vue.js](#vuejs)
 * [Node.js](#nodejs)
 * [NoSQL](#nosql)
@@ -22,11 +25,8 @@
 * [Pemrograman Kompetitif](#pemrograman-kompetitif)
 * [PHP](#php)
 * [Python](#python)
-* [React](#react)
+* [Rust](#rust)
 * [Solidity](#solidity)
-* [TypeScript](#typescript)
-    * [Angular](#angular)
-    * [Deno](#deno)
 
 
 ### Android
@@ -55,6 +55,7 @@
 
 * [Codeigniter - Pendekatan Praktis](https://leanpub.com/codeigniter-pendekatanpraktis) - Ibnu Daqiqil Id (HTML, PDF, EPUB, Kindle) *(Membutuhkan akun Leanpub atau email yang valid)*
 * [Codeigniter Untuk Pemula](https://repository.bsi.ac.id/index.php/unduh/item/176695/Tutorial-Codeigniter-Untuk-Pemula.pdf) - M Fikri Setiadi (PDF)
+* [Framework Codeigniter - Sebuah Panduan dan Best Practice](https://gilacoding.com/upload/file/Tutorial%20framework%20codeigniter.pdf) - Gila Coding (PDF)
 * [Panduan Pengguna CodeIgniter Indonesia](https://codeigniter-id.github.io/user-guide/) - CodeIgniter Indonesia
 * [Tutorial CodeIgniter 3 & 4](https://www.petanikode.com/tutorial/codeigniter/) *(Dalam Proses)*
 * [Tutorial CodeIgniter 4](http://mfikri.com/artikel/tutorial-codeigniter4)
@@ -102,6 +103,7 @@
 
 ### Java
 
+* [Algoritma dan Struktur Data dengan Java oleh Polinema SIB](https://polinema.gitbook.io/jti-modul-praktikum-algoritma-dan-struktur-data/) - Politeknik Negeri Malang
 * [Java Desktop](https://github.com/ifnu/buku-java-desktop/raw/master/java-desktop-ifnu-bima.pdf) - Ifnu Bima (PDF)
 * [Memulai Java Enterprise dengan Spring Boot](https://raw.githubusercontent.com/teten-nugraha/free-ebook-springboot-basic/master/Memulai%20Java%20Enterprise%20dengan%20Spring%20Boot.pdf) - Teten Nugraha (PDF)
 * [Pemrograman Java](https://blog.rosihanari.net/download-tutorial-java-se-gratis/) - Rosihan Ari Yuana
@@ -109,10 +111,22 @@
 
 ### JavaScript
 
+* [Javascript Guide](https://gilacoding.com/upload/file/Javascript%20Guide.pdf) - Desrizal (PDF)
 * [Mengenal JavaScript](http://masputih.com/2013/01/ebook-gratis-mengenal-javascript)
 * [Otomatisasi dengan gulp.js](https://kristories.gitbooks.io/otomatisasi-dengan-gulp-js/content/)
 * [Tutorial Dasar Javascript untuk Pemula](https://www.petanikode.com/tutorial/javascript/) *(Dalam Proses)*
 * [Tutorial JavaScript Modern](https://id.javascript.info) - Ilya Kantor
+
+
+#### Angular
+
+* [Tutorial Angular Indonesia](https://degananda.com/tutorial-angular-indonesia-daftar-isi-download-pdf/) - Degananda Ferdian Priyambada (HTML)
+* [Tutorial Series Belajar Angular 2019](https://www.bewoksatukosong.com/2019/09/tutorial-series-belajar-angular-2019.html) - Bewok Satu Kosong (HTML)
+
+
+#### Deno
+
+* [Belajar Dengan Jenius Deno](https://raw.githubusercontent.com/gungunfebrianza/Belajar-Dengan-Jenius-DenoTheWKWKLand/master/Belajar%20Dengan%20Jenius%20Deno.pdf) - Gun Gun Febrianza (PDF)
 
 
 #### Next.js
@@ -120,15 +134,23 @@
 * [Tutorial Next Js](https://santrikoding.com/kategori/next-js) - SantriKoding.com
 
 
+#### React.js
+
+* [Dokumentasi React Bahasa Indonesia](https://id.reactjs.org)
+* [React JS Untuk Pemula](https://masputih.com/2021/05/ebook-gratis-reactjs-untuk-pemula) *(Membutuhkan akun Leanpub atau email yang valid)*
+* [React Redux Tutorial Untuk Pemula](https://medium.com/codeacademia/tutorial-redux-bagian-i-membuat-todo-list-c26a979d0a1f) - Yudi Krisnandi
+* [Tutorial React JS Untuk Pemula (React Hooks)](https://mfikri.com/artikel/reactjs-pemula) - Mfikri
+
+
+#### TypeScript
+
+* [TypeScript untuk Pemula, Bagian 1: Memulai](https://code.tutsplus.com/id/tutorials/typescript-for-beginners-getting-started--cms-29329) - Tutsplus (HTML)
+
+
 #### Vue.js
 
 * [Belajar Vue.js](https://variancode.com/belajar-vue-js/) - Varian Hermianto
 * [Dokumentasi Vue Bahasa Indonesia](https://github.com/vuejs-id/docs)
-
-
-#### React.js
-
-* [Tutorial React JS Untuk Pemula (React Hooks)](https://mfikri.com/artikel/reactjs-pemula) - Mfikri
 
 
 ### MySQL
@@ -158,6 +180,7 @@
 ### Pemrograman Kompetitif
 
 * [Pemrograman Kompetitif Dasar](https://ksn.toki.id/data/pemrograman-kompetitif-dasar.pdf) - William Gozali, Alham Fikri Aji (PDF)
+* [Referensi Pemrograman Bahasa Pascal](https://toki.id/download/referensi-pemrograman-bahasa-pascal/) - Tim Pembina Toki (PDF)
 
 
 ### PHP
@@ -166,6 +189,7 @@
 * [Belajar PHP Dasar](https://www.malasngoding.com/belajar-php-dasar-pengenalan-dan-kegunaan-php/) - Malasngoding
 * [Membuat Bot Telegram dengan PHP](https://www.slideshare.net/HasanudinHS/ebook-i-membuat-bot-telegram-dengan-php) - Hasanudin H Syafaat (PDF)
 * [Menjelajahi Yii Framework](https://gilacoding.com/upload/file/menjelajahyiiframework.pdf) - Sabit Huraira (PDF)
+* [Panduan Lengkap PHP AJAX jQuery](https://gilacoding.com/upload/file/Panduan%20Lengkap%20PHP%20Ajax%20jQuery.pdf) - Desrizal (PDF)
 * [Pemrograman Berbasis Objek Modern dengan PHP](https://arsiteknologi.com/wp-content/uploads/Pemrograman_Berbasis_Objek_Modern_dengan_PHP_Google_Play_Book.pdf) - Muhamad Surya Iksanudin (PDF)
 * [Pemrograman Berorientasi Objek Dengan PHP5](https://endangcahyapermana.files.wordpress.com/2016/03/belajar-singkat-pemrograman-berorientasi-objek-dengan-php5.pdf) - Gerry Sabar (PDF)
 * [Pemrograman Web dengan PHP dan MySQL](http://achmatim.net/2009/04/15/buku-gratis-pemrograman-web-dengan-php-dan-mysql/)
@@ -189,29 +213,13 @@
 * [Workshop Python 101](http://sakti.github.io/python101/)
 
 
-### React
+### Rust
 
-* [Dokumentasi React Bahasa Indonesia](https://id.reactjs.org)
-* [React JS Untuk Pemula](https://masputih.com/2021/05/ebook-gratis-reactjs-untuk-pemula) *(Membutuhkan akun Leanpub atau email yang valid)*
-* [React Redux Tutorial Untuk Pemula](https://medium.com/codeacademia/tutorial-redux-bagian-i-membuat-todo-list-c26a979d0a1f) - Yudi Krisnandi
+* [Belajar Rust](https://belajar-rust.vercel.app) - evilfactorylabs
+* [Dasar Pemrograman Rust](https://dasarpemrogramanrust.novalagung.com) - Noval Agung Prayogo
+* [Easy Rust Indonesia](https://github.com/ariandy/easy-rust-indonesia) - ariandy
 
 
 ### Solidity
 
 * [Smart Contract Blockchain pada E-Voting](https://www.researchgate.net/publication/337961765_Smart_Contract_Blockchain_pada_E-Voting) - Ajib Susanto (HTML, PDF)
-
-
-### TypeScript
-
-* [TypeScript untuk Pemula, Bagian 1: Memulai](https://code.tutsplus.com/id/tutorials/typescript-for-beginners-getting-started--cms-29329) - Tutsplus (HTML)
-
-
-#### Angular
-
-* [Tutorial Angular Indonesia](https://degananda.com/tutorial-angular-indonesia-daftar-isi-download-pdf/) - Degananda Ferdian Priyambada (HTML)
-* [Tutorial Series Belajar Angular 2019](https://www.bewoksatukosong.com/2019/09/tutorial-series-belajar-angular-2019.html) - Bewok Satu Kosong (HTML)
-
-
-#### Deno
-
-* [Belajar Dengan Jenius Deno](https://raw.githubusercontent.com/gungunfebrianza/Belajar-Dengan-Jenius-DenoTheWKWKLand/master/Belajar%20Dengan%20Jenius%20Deno.pdf) - Gun Gun Febrianza (PDF)

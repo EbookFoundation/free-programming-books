@@ -777,7 +777,9 @@
 * [HTML Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWr_FB-hVEgEGUESZL1TOiJ6)
 * [HTML Tutorial For Beginners (With Notes)](https://www.youtube.com/watch?v=qHB2jUvAlGo) - ProgrammingWithHarry
 * [HTML5 and CSS3 Fundamentals](https://www.udemy.com/course/html5-fundamentals-for-beginners/) - Stone River eLearning (Udemy)
+* [Learn CSS](https://www.codecademy.com/learn/learn-css) - codecademy
 * [Learn how to program: CSS](https://www.learnhowtoprogram.com/css) - Epicodus Inc.
+* [Learn HTML](https://www.codecademy.com/learn/learn-html) - codecademy
 * [Learn HTML and CSS](https://www.bitdegree.org/courses/coding-for-beginners-space-doggos) (BitDegree)
 * [Learn HTML and CSS with 5 projects](https://scrimba.com/learn/htmlandcss) - Per Harald Borgen (Scrimba)
 * [Learn HTML5 Programming From Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)

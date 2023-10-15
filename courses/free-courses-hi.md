@@ -1,11 +1,11 @@
 ### Index
 
 * [C](#c)
+* [Django](#django)
 * [Git](#git)
 * [JavaScript](#javascript)
     * [React](#react)
 * [Python](#python)
-* [Django](#django)
 
 
 
@@ -14,12 +14,14 @@
 * [C-CodeWithHarry](https://www.youtube.com/watch?v=7Dh73z3icd8&list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR&ab_channel=CodeWithHarry) - CodeWithHarry
 
 
+### Django
+
+* [Django](https://www.youtube.com/watch?v=5BDgKJFZMl8&list=PLu0W_9lII9ah7DDtYtflgwMwpT3xmjXY9&pp=iAQB) - CodeWithHarry
 
 
 ### Git
 
 * [Git](https://blog.nextzy.me/มาเรียนรู้-git-แบบง่ายๆกันเถอะ-427398e62f82) - CodeWithHarry
-
 
 
 ### JavaScript
@@ -30,13 +32,12 @@
 
 * [สอน React](https://www.youtube.com/watch?v=-mJFZp84TIY&list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt&pp=iAQB) - CodeWithHArry
 
+
 ### Python
 
 * [python](https://www.youtube.com/watch?v=gfDE2a7MKjA&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&ab_channel=CodeWithHarry) - CodeWIthHarry
 
-### Django
 
-* [Django](https://www.youtube.com/watch?v=5BDgKJFZMl8&list=PLu0W_9lII9ah7DDtYtflgwMwpT3xmjXY9&pp=iAQB) - CodeWithHarry
 
 
 These all are free courses in Hindi with handwritten notes.

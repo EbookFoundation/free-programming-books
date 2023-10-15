@@ -68,6 +68,7 @@
 
 * [Help messages will explain everything](https://explainshell.com) - explainshell
 * [Learn Shell Programming](http://www.learnshell.org) - learnshell
+* [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) - MIT
 
 
 ### C

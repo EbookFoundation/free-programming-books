@@ -38,6 +38,7 @@
 * [Elastic](#elastic)
 * [Flutter](#flutter)
 * [Fortran](#fortran)
+* [Framer Motion](#framermotion)
 * [Game Development](#game-development)
 * [Git](#git)
 * [Go](#go)
@@ -657,6 +658,11 @@
 * [Fortran Programming Tutorials (Revised)](https://youtube.com/playlist?list=PLNmACol6lYY5_S8I4K29V2oI95nOCzQU8) - Fluidic Colours
 * [Fortran Tutorial](https://www.youtube.com/watch?v=__2UgFNYgf8) - Derek Banas
 
+
+### Framer Motion
+
+* [Framer Motion (for React) Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iHDnQfTHEVVceOEBsOf07i) - Net Ninja
+* [Framer Motion Tutorial](https://www.youtube.com/playlist?list=PLnZgHKyxHOEAy7MisX6CSMe4JTzkeodmC) - Code With Yousaf
 
 ### Game Development
 

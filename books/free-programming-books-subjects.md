@@ -62,7 +62,6 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Code Catalog: A Collection of Code Examples from Prominent Open Source Projects](https://codecatalog.org)
 * [conceptf1.blogspot.com](https://conceptf1.blogspot.com/2013/11/list-of-freely-available-programming.html)
 * [Free Tech Books](https://www.freetechbooks.com)
-* [Goalkicker](https://goalkicker.com) - Programming Notes for Professionals books
 * [IBM Redbooks](https://www.redbooks.ibm.com)
 * [InfoQ Minibooks](https://www.infoq.com/minibooks/)
 * [InTech: Computer and Information Science](https://www.intechopen.com/subjects/9)
@@ -98,7 +97,6 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Algorithms and Automatic Computing Machines (1963)](https://archive.org/details/Algorithms_And_Automatic_Computing_Machines) - B. A. Trakhtenbrot
 * [Algorithms and Complexity](https://www.math.upenn.edu/~wilf/AlgoComp.pdf) - Herbert S. Wilf (PDF)
 * [Algorithms Course Materials](https://jeffe.cs.illinois.edu/teaching/algorithms/) - Jeff Erickson
-* [Algorithms Notes for Professionals](https://goalkicker.com/AlgorithmsBook) - Compiled from StackOverflow Documentation (PDF)
 * [Annotated Algorithms in Python: Applications in Physics, Biology, and Finance](https://github.com/mdipierro/nlib) - Massimo Di Pierro
 * [Binary Trees](http://cslibrary.stanford.edu/110/BinaryTrees.pdf) - Nick Parlante (PDF)
 * [Data Structures](https://adityacse.weebly.com/uploads/2/4/0/7/24078687/data-structures.pdf) - Aditya CSE (PDF)

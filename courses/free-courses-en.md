@@ -306,6 +306,7 @@
 * [Build and Deploy Your First Decentralized App with Etherem](https://www.udemy.com/course/your-first-decentralized-app/) - Gary Simon (Udemy)
 * [CryptoZombies.io](https://cryptozombies.io) - CleverFlare, Loom Network
 * [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial](https://www.youtube.com/watch?v=M576WGiDBdQ) - Patrick Collins (freeCodeCamp.org)
+* [Learn Blockchain](https://youtube.com/playlist?list=PLlp912GlUiC1xPnwVmKgIiuMERetMwre9&si=KPogTeX024-8UrbW) - ROOMYAN
 
 
 ### C

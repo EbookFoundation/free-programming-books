@@ -289,9 +289,9 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Arduino
 
-* [Ardiuno Projects Book](https://www.eitkw.com/wp-content/uploads/2020/03/Arduino_Projects_Book.pdf) - Scott Fitzgerald and Michael Shiloh (PDF)
 * [Arduino-docs : A beginner's guide](https://arduino-doc.readthedocs.io/en/latest/) - Paramesh Chandra (HTML)
 * [Arduino Programming Notebook](https://unglue.it/work/152452) - Brian Evans (PDF) (:card_file_box: *archived at unglue.it*)
+* [Arduino Projects Book](https://www.eitkw.com/wp-content/uploads/2020/03/Arduino_Projects_Book.pdf) - Scott Fitzgerald and Michael Shiloh (PDF)
 * [Arduino Tips, Tricks, and Techniques](https://cdn-learn.adafruit.com/downloads/pdf/arduino-tips-tricks-and-techniques.pdf) - lady ada (PDF)
 * [Getting started with Arduino – A Beginner’s Guide](http://manuals.makeuseof.com.s3.amazonaws.com/for-mobile/Arduino_-_MakeUseOf.com.pdf) - Brad Kendall (PDF)
 * [Getting Started with Arduino products](https://www.arduino.cc/en/Guide) - Official Arduino Documentation (:construction: *in process*)
@@ -494,6 +494,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [High level asynchronous programming with Reactive Extensions](https://github.com/petroemil/Rx.Book) - Emil Petro
 * [Introduction to Rx](http://www.introtorx.com)
 * [Learn C# in Y Minutes](https://learnxinyminutes.com/docs/csharp/)
+* [Learning C# Language](https://riptutorial.com/Download/csharp-language.pdf) - Compiled from StackOverflow Documentation (PDF)
 * [Mastering Xamarin UI Development, Second Edition](https://www.packtpub.com/free-ebook/mastering-xamarin-ui-development-second-edition/9781788995511) - Steven F. Daniel (Packt account *required*)
 * [Modernize existing .NET applications with Azure cloud and Windows Containers](https://docs.microsoft.com/en-us/dotnet/architecture/modernize-with-azure-containers/) - Cesar de la Torre
 * [Modernizing Desktop Apps on Windows with .NET 6](https://docs.microsoft.com/en-us/dotnet/architecture/modernize-desktop) - Olia Gavrysh, Miguel Angel Castejón Dominguez
@@ -503,7 +504,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Threading in C#](http://www.albahari.com/threading/)
 * [Xamarin Community Toolkit Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/xamarin-community-toolkit-succinctly) - Alessandro Del Sole
 * [Xamarin.Forms for macOS Succinctly](https://www.syncfusion.com/ebooks/xamarin_forms_for_mac_os_succinctly) - Alessandro Del Sole
-* [Xamarin.Forms Notes for professionals](https://books.goalkicker.com/XamarinFormsBook/) - Compiled from StackOverflow documentaion (PDF)
+* [Xamarin.Forms Notes for professionals](https://books.goalkicker.com/XamarinFormsBook/) - Compiled from StackOverflow documentation (PDF)
 * [Xamarin.Forms Succinctly](https://www.syncfusion.com/ebooks/xamarin-forms-succinctly) - Alessandro Del Sole
 
 
@@ -813,6 +814,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Darker Corners of Go](https://rytisbiel.com/2021/03/06/darker-corners-of-go/) - Rytis Bieliunas
 * [Effective Go](https://golang.org/doc/effective_go.html)
 * [Essential Go](https://www.programming-books.io/essential/go/) - Krzysztof Kowalczyk, StackOverflow Contributors
+* [Gin Web Framework](https://chenyitian.gitbooks.io/gin-web-framework/content/)
 * [Go 101](https://go101.org/article/101.html) - [@TapirLiu](https://twitter.com/TapirLiu)
 * [Go by Example](https://gobyexample.com)
 * [Go for Javascript Developers](https://github.com/bulim/go-for-javascript-developers)
@@ -821,7 +823,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Go Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/go-succinctly) - Mark Lewin (PDF, EPUB, Kindle)
 * [Go Tutorial](http://www.tutorialspoint.com/go/) - Tutorials Point (HTML, PDF)
 * [Go Web Development Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/go-web-development) - Mark Lewin (PDF, EPUB, Kindle)
-* [Golang by Example](https://golangbyexample.com) 
+* [Golang by Example](https://golangbyexample.com)
 * [How To Code in Go](https://www.digitalocean.com/community/books/how-to-code-in-go-ebook) - Mark Bates, Cory Lanou, Timothy J. Raymond (PDF, EPUB)
 * [Learn Go in Y minutes](https://learnxinyminutes.com/docs/go/)
 * [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/) - Chris James
@@ -1388,8 +1390,10 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Jenkins
 
+* [Jenkins Starter Guide Ebook](https://bugfender.com/wp-content/themes/bugfender-wordpress-theme/assets/docs/Jenkins-Starter-Guide-Ebook.pdf) (PDF)
 * [Jenkins: The Definitive Guide](http://www.bogotobogo.com/DevOps/Jenkins/images/Intro_install/jenkins-the-definitive-guide.pdf) (PDF)
 * [Jenkins User Handbook](https://www.jenkins.io/user-handbook.pdf) (PDF)
+* [Learning Jenkins](https://riptutorial.com/Download/jenkins.pdf) Compiled from StackOverflow Documentation (PDF)
 
 
 ### Julia

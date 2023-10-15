@@ -72,7 +72,7 @@
 * [All Sorting algorithms and Programs](https://www.youtube.com/playlist?list=PLsFNQxKNzefK_DAUwnQwBizOmcY7aDLoY) - Saurabh Shukla
 * [Binary Search \| Interview Questions \| Coding \| Tutorials \| Algorithm](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2) - Aditya Verma
 * [Binary Trees - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHYxUk8dSu2_G7MR1PaGXN4) - Pepcoding
-* [Bit Manipulation - Level 2](https://youtube.com/playlist?list=PL-Jc9J83PIiFJRioti3ZV7QabwoJK6eKe) - Pepecoding
+* [Bit Manipulation - Level 2](https://youtube.com/playlist?list=PL-Jc9J83PIiFJRioti3ZV7QabwoJK6eKe) - Pepcoding
 * [Data Structures and Algorithms Course in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi) - CodeWithHarry
 * [Data Structures and Algorithms in Python](https://www.youtube.com/playlist?list=PLyMom0n-MBrpakdIZvnhd6PFUCKNAyKo1) - Jovian
 * [Design And Analysis Of Algorithms](https://youtube.com/playlist?list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa) - Gate Smashers
@@ -400,6 +400,7 @@
 
 #### Node.js
 
+* [Master NodeJS](https://www.youtube.com/playlist?list=PLinedj3B30sDby4Al-i13hQJGQoRQDfPo) - Piyush Garg
 * [Node JS](https://www.youtube.com/playlist?list=PLbGui_ZYuhiiSVvVP_9w57-aU7kx_H9bu) - Geeky Shows
 * [Node.js Tutorial in Hindi](https://www.youtube.com/playlist?list=PLgOUQYMnO_SRqPikOJBu5G1ld4bJUZCmy) - truecodex
 * [Node.js Tutorials for Beginners in Hindi](https://www.youtube.com/playlist?list=PLUVqY59GNZQNCk_D9VW_zNh60WuQIzo3K) - Tutorials Website
@@ -581,6 +582,7 @@
 
 * [Complete R Programming Tutorial for Beginners to Pro [HINDI]](https://www.youtube.com/playlist?list=PLjVLYmrlmjGdmPrz0Lx7smkd0qIKHInOF) - WsCube Tech
 * [R Programming](https://www.youtube.com/playlist?list=PLWPirh4EWFpEvN4ktS8LE0cvLCSfhD55t) (Tutorials Point (India) Ltd.)
+* [R programming language(Hindi)](https://www.youtube.com/playlist?list=PLgPJX9sVy92wLyuL-rFgbjqCLgXrpIKnc) - CS Geeks
 
 
 ### Ruby
@@ -618,6 +620,7 @@
 
 ### Swift
 
+* [Swift Programming Hindi Tutorial For Beginners](https://www.youtube.com/playlist?list=PLb5R4QC2DtFv3MvfG42Cd5La34Hwj4pY6) - Code Cat
 * [Swift Tutorials For Beginners(Full) in Hindi.](https://www.youtube.com/playlist?list=PLWZIhpNhtvfqBd00bF3ouroGHMPe-iroO) - Yogesh Patel
 
 
@@ -625,10 +628,14 @@
 
 * [System Analysis and Design](https://www.youtube.com/playlist?list=PLWxTHN2c_6cbuRXdCpsYYMxy0N4SSfIX9) - TJ WEBDEV
 * [System Analysis and Design](https://www.youtube.com/playlist?list=PLi81x6d2Os_8Sa8HifiFruWK6wmgG3Wrg) - Gursimran Singh Dhillon
+* [System Design Playlist in Hindi](https://www.youtube.com/playlist?list=PLA3GkZPtsafZdyC5iucNM_uhqGJ5yFNUM) - Engineering Digest
+* [System Design Series By Coding Ninjas](https://www.youtube.com/playlist?list=PLrk5tgtnMN6RvXrfflstJWgcPFQ_vTOV9) - Coding Ninjas
 
 
 ### TypeScript
 
+* [Typescript in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV44eT51JPju4LsTQlce6DPtx) - Code Step By Step
+* [Typescript in Hindi &#124; Crash Course &#124; Coders Gyan](https://www.youtube.com/watch?v=F5pjG-sP0c8) - Coder's Gyan
 * [Typescript Tutorial for Beginners in Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp0xfHQFmlL52b_6-QZ0mnk_) - Thapa Technical
 
 

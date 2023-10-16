@@ -942,6 +942,13 @@
 * [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js) - Codeschool (Codeschool account *required*)
 
 
+#### Bun.js
+
+* [Bun Js - For Beginners (Playlist)](https://www.youtube.com/watch?v=3S2In1X07G8&list=PLT8tjCYKynKsXBrCf7KiQ6Y-6U304DjXT) - TechWebDocs
+* [Bun Tutorial](https://www.youtube.com/watch?v=eTB0UCDnMQo&pp=ygUUYnVuIGpzIGZ1bGwgdHV0b3JpYWw%3D) - freeCodeCamp.org
+* [Bun Crash Course](https://www.youtube.com/watch?v=U4JVw8K19uY&pp=ygUUYnVuIGpzIGZ1bGwgdHV0b3JpYWw%3D) - Traversy Media
+
+
 #### D3.js
 
 * [D3 101](https://www.youtube.com/playlist?list=PL9yYRbwpkykvjkfuRslECO9c1qTq3GgUb) - Curran Kelleher

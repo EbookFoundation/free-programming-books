@@ -173,7 +173,7 @@
     正确: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
     ```
 
-### 按字母順序
+### 按字母顺序
 
 - 当有多个以相同字母开头的标题时，按第二个排序，依此类推。例如：“aa”位于 “ab” 之前
 - “onetwo” 位于 “onetwo”之前
@@ -202,7 +202,7 @@
 
 - 我们不允许使用短链。
 - 必须从网址中删除追踪代码。
-- 国际网址应进行转义。浏览器列通常会将这些内容呈现为 Unicode，但请使用复制和贴上。
+- 网址应该进行转义。浏览器地址栏的网址通常已被转义，可以去那里拷贝。
 - 在支持 HTTPS 的网站，安全的（https）URL总是优于非安全的（http）URL。
 - 我们不喜欢网址指向不托管所列资源的网页，而是指向其他地方。
 
@@ -225,13 +225,15 @@
 ##### 平台及接入注意事项
 
 - 课程。尤其是对于我们的课程列表，平台是资源描述的重要部分。这是因为不同的课程平台有不同的功能和访问模型。尽管我们通常不会列出需要注册的书籍，但许多课程平台的功能在没有某种帐户的情况下无法工作。课程平台的例子包括 Coursera、EdX、Udacity 和 Udemy。当一个课程依赖于一个平台时，应在括号中列出平台名称。
-- Youtube.我们有许多包含 YouTube 播放清单的课程。我们不会将 YouTube 列为平台，而是尝试列出 YouTube 创作者，这通常是一个子平台。
-- YouTube影片。我们通常不会连结到单一 YouTube 视频，除非它们的长度超过一个小时并且结构类似于课程或教程。
-- Leanpub。 Leanpub 托管具有多种存取模式的书籍。有时一本书无需注册即可阅读；有时一本书需要 Leanpub 帐户才能免费存取。考虑到书籍的品质以及 Leanpub 存取模型的混合性和流动性，我们允许使用存取注释「*（Leanpub 帐户或请求的有效电子邮件）*」列出后者。
+- Youtube。我们有许多包含 YouTube 播放清单的课程。我们不会将 YouTube 列为平台，而是尝试列出 YouTube 创作者，这通常是一个子平台。
+- YouTube 影片。我们通常不会链接到单一 YouTube 视频，除非它们的长度超过一个小时并且结构类似于课程或教程。
+- Leanpub。Leanpub 托管具有多种存取模式的书籍。有时一本书无需注册即可阅读；有时一本书需要 Leanpub 帐户才能免费存取。考虑到书籍的品质以及 Leanpub 存取模型的混合性和流动性，我们允许使用存取注释「*（Leanpub 帐户或请求的有效电子邮件）*」列出后者。
 
-#### 流派
+
+#### 类型
 
 决定资源属于哪个清单的第一条规则是查看资源如何描述自己。如果它称自己为一本书，那么也许它就是一本书。
+
 
 ##### 我们未列出的流派
 
@@ -278,7 +280,7 @@
 
 ### 自动化
 
-- 格式化规则的执行是通过以下方式自动执行的 [GitHub Actions](https://github.com/features/actions) 用 [fpb-lint](https://github.com/vhf/free-programming-books-lint) (see [`.github/workflows/fpb-lint.yml`](../.github/workflows/fpb-lint.yml))
+- 格式化规则的执行是通过以下方式自动执行的 [GitHub Actions](https://github.com/features/actions) 用 [fpb-lint](https://github.com/vhf/free-programming-books-lint) (参见 [`.github/workflows/fpb-lint.yml`](../.github/workflows/fpb-lint.yml))
 - URL 验证使用 [awesome_bot](https://github.com/dkhamsing/awesome_bot)
 - 要触发 URL 验证，请推送包含以下内容的 commit message 的提交 `check_urls=file_to_check`:
 

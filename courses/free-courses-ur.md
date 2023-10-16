@@ -1,5 +1,3 @@
-<div dir="rtl" markdown="1">
-
 ### Index
 
 * [C#](#csharp)

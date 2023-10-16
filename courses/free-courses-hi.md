@@ -640,6 +640,13 @@
 * [Typescript Tutorial for Beginners in Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp0xfHQFmlL52b_6-QZ0mnk_) - Thapa Technical
 
 
+### Threejs
+
+* [Threejs by Amirul Islam - Hindi](https://youtube.com/playlist?list=PLjXsIhZZY9KJP9cFq9NqxTucfFCnVzRUn&si=IO3x9fajJ1mHcYnM) - Amirul Islam
+* [Three.js Course For Beginners | Hindi Tutorial](https://youtu.be/d-LVbNpz4A4?si=g3Tcs5quw6HPk99X) - Fun Coding
+* [Three.js Crash Course For Beginners | Create This Awesome 3D Website!](https://youtu.be/_OwJV2xL8M8?si=DohxEgr0osuVndm8) - Developedbyed
+
+
 ### Wordpress
 
 * [Advanced Ecommerce Website - Elementor - Urdu & Hindi](https://www.youtube.com/playlist?list=PL6Kd_lvAfBuZzR48t6mEWclYMN0C85aNE) - WP Academy

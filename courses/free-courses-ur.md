@@ -2,7 +2,7 @@
 
 ### Index
 
-* [C#&lrm;](#csharp)
+* [C#](#csharp)
 * [HTML and CSS](#html-and-css)
 
 

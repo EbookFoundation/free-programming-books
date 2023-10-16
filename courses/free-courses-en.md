@@ -50,6 +50,7 @@
 * [JavaScript](#javascript)
     * [Angular](#angular)
         * [AngularJS](#angularjs)
+    * [Bun.js](#bunjs)
     * [D3.js](#d3js)
     * [Deno](#deno)
     * [Electron](#electron)

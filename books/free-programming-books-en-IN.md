@@ -2,12 +2,12 @@
 
 * [Algorithms to Live By](#algorithms-to-live-by)
 * [Clean Code](#clean-code)
-* [C26](#c26)
 * [Data Structures and Algorithms Made Easy](#data-structures-and-algorithms-made-easy)
 * [Grokking Algorithms](#grokking-algorithms)
 * [The Linux Programming Interface](#he-linux-programming-interface)
 * [Pragmatic Thinking and Learning: Refactor Your Wetware](#pragmatic-thinking-and-learning-refactor-your-wetware)
 * [Refactoring: Improving the Design of Existing Code](#refactoring-improving-the-design-of-existing-code)
+* [The Pragmatic Programmer](#the-pragmatic-programmer)
 
 
 ### Algorithms to Live By
@@ -18,11 +18,6 @@
 ### Clean Code
 
 * [Clean Code](https://thixalongmy.haugiang.gov.vn/media/1175/clean_code.pdf)
-
-
-### The Pragmatic Programmer
-
-* [The Pragmatic Programmer](https://ia802308.us.archive.org/19/items/c-26_20211009/C26.pdf)
 
 
 ### Data Structures and Algorithms Made Easy
@@ -48,3 +43,8 @@
 ### Refactoring: Improving the Design of Existing Code
 
 * [Refactoring: Improving the Design of Existing Code](https://dl.ebooksworld.ir/motoman/Refactoring.Improving.the.Design.of.Existing.Code.2nd.edition.www.EBooksWorld.ir.pdf)
+
+
+### The Pragmatic Programmer
+
+* [The Pragmatic Programmer](https://ia802308.us.archive.org/19/items/c-26_20211009/C26.pdf)

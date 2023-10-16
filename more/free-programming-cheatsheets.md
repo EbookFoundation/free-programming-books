@@ -116,8 +116,7 @@
 ### Data Science
 
 * [Cheatsheets for Data Scientists](https://www.datacamp.com/community/data-science-cheatsheets) - Datacamp (PDF)
-* [Data Science Cheat Sheets](https://medium.com/analytics-vidhya/data-science-cheat-sheets-109ddcb1aca8) - Surya Gutta (HTML, PDF)
-* [Data Science Cheatsheets](https://goodjob0823.github.io/Data-Science-Cheat-Sheets) - goodjob0823 (HTML, PDF)
+* [Data Science Cheat Sheets](http://datasciencefree.com/python.pdf) - Arianne Colton and Sean Chen (PDF)
 
 
 ### <a id="data-structures-and-algorithms"></a>Data Structures and Algorithms
@@ -296,7 +295,6 @@
 
 ### Machine Learning
 
-* [Cheat Sheet of Machine Learning and Python (and Math) Cheat Sheets](https://medium.com/machine-learning-in-practice/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6) - Robbie Allen (HTML)
 * [Machine Learning Cheat Sheet](https://www.datacamp.com/cheat-sheet/machine-learning-cheat-sheet) - DataCamp Team (HTML)
 * [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest) - Brendan Fortuner
 * [Super VIP Cheatsheet: Machine Learning](https://sgfin.github.io/files/cheatsheets/cs229_2018_cheatsheet.pdf) - Afshine Amidi and Shervine Amidi (PDF)

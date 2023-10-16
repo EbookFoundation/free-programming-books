@@ -4,9 +4,9 @@
 * [Clean Code](#clean-code)
 * [Data Structures and Algorithms Made Easy](#data-structures-and-algorithms-made-easy)
 * [Grokking Algorithms](#grokking-algorithms)
-* [The Linux Programming Interface](#he-linux-programming-interface)
 * [Pragmatic Thinking and Learning: Refactor Your Wetware](#pragmatic-thinking-and-learning-refactor-your-wetware)
 * [Refactoring: Improving the Design of Existing Code](#refactoring-improving-the-design-of-existing-code)
+* [The Linux Programming Interface](#he-linux-programming-interface)
 * [The Pragmatic Programmer](#the-pragmatic-programmer)
 
 
@@ -30,11 +30,6 @@
 * [Grokking Algorithms](https://edu.anarcho-copy.org/Algorithm/grokking-algorithms-illustrated-programmers-curious.pdf) (PDF)
 
 
-### The Linux Programming Interface
-
-* [The Linux Programming Interface](https://sciencesoftcode.files.wordpress.com/2018/12/the-linux-programming-interface-michael-kerrisk-1.pdf) (PDF)
-
-
 ### Pragmatic Thinking and Learning: Refactor Your Wetware
 
 * [Pragmatic Thinking and Learning: Refactor Your Wetware](https://inprogrammer.com/wp-content/uploads/2022/01/Andy-Hunt-Pragmatic-Thinking-and-Learning_-Refactor-Your-Wetware-Pragmatic-Programmers-2008-Pragmatic-Bookshelf-libgen.lc_.pdf) (PDF)
@@ -43,6 +38,11 @@
 ### Refactoring: Improving the Design of Existing Code
 
 * [Refactoring: Improving the Design of Existing Code](https://dl.ebooksworld.ir/motoman/Refactoring.Improving.the.Design.of.Existing.Code.2nd.edition.www.EBooksWorld.ir.pdf) (PDF)
+
+
+### The Linux Programming Interface
+
+* [The Linux Programming Interface](https://sciencesoftcode.files.wordpress.com/2018/12/the-linux-programming-interface-michael-kerrisk-1.pdf) (PDF)
 
 
 ### The Pragmatic Programmer

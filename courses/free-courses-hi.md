@@ -598,6 +598,7 @@
 
 ### Swift
 
+* [Swift Basics in Hindi.](https://www.youtube.com/watch?v=RT0ykDtzjUo) - Confiance Labs
 * [Swift Tutorials For Beginners(Full) in Hindi.](https://www.youtube.com/playlist?list=PLWZIhpNhtvfqBd00bF3ouroGHMPe-iroO) - Yogesh Patel
 
 

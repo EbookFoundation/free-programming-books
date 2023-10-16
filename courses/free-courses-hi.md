@@ -12,6 +12,7 @@
 * [C#](#csharp)
     * [ASP.NET](#asp.net)
 * [C++](#cpp)
+* [CodeIgniter](#codeigniter)
 * [Cloud Computing](#cloud-computing)
     * [AWS](#aws)
 * [Competitive Programming](#competitive-programming)
@@ -171,6 +172,16 @@
 * [C++ Tutorial for Beginners \| C++ Tutorials In Hindi](https://www.youtube.com/playlist?list=PLmGElG-9wxc8VMy1nNHDQldH2dU8Y08s7) - Manish Gehlot, WsCube Tech Programming Concepts
 * [C++ Tutorials In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL) - CodeWithHarry
 * [The Complete C++ Course \| Hindi](https://www.youtube.com/playlist?list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF) - Saurabh Shukla
+
+
+### CodeIgniter
+
+* [Codeigniter 4 Tutorial For Beginners in Hindi - Ubk InfoTech](https://www.youtube.com/playlist?list=PL8kfzPha-e2iC8cT79hd5hCVffkbW309d)
+* [Codeigniter 4 Tutorial in Hindi - Code Improve](https://www.youtube.com/playlist?list=PLolI8AY2AS9ZmTeMOpu1iTOsx9WALtCgM)
+* [Codeigniter 4 Tutorial in Hindi - Cs Krish](https://www.youtube.com/playlist?list=PL4_As-_ROQH2OIE5uILfodqSNQzUfAqFs)
+* [CodeIgniter 4 Tutorials for Beginners - GoPHP](https://www.youtube.com/playlist?list=PL79xP87McblnMZG-F1hnRLuMgM5C95nMG)
+* [Codeigniter Tutorial for Beginners Step by Step in Hindi - Technical Suneja](https://www.youtube.com/playlist?list=PL_HlKez9XCSM6WNO_dHhF3yPKVdY1ZZzB)
+* [Learn CodeIgniter 4 Framework Tutorials Hindi - Online Web Tutor](https://www.youtube.com/playlist?list=PLn1Gr7zhiAMfWpSYfDgND8t7KjiqSaEum)
 
 
 ### Cloud Computing

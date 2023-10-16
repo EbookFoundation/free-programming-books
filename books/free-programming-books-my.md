@@ -3,6 +3,7 @@
 * [Blockchain](#blockchain)
 * [Go](#go)
 * [HTML and CSS](#html-and-css)
+* [Java](#java)
 * [JavaScript](#javascript)
 * [Linux](#linux)
 * [PHP](#php)
@@ -25,6 +26,11 @@
 * [Bootstrap - On Point](https://eimaung.com/bootstrap/) - Ei Maung (PDF)
 * [HTML](https://books.saturngod.net/HTML5/) - Saturngod
 * [HTML & CSS - Beginner To Super Beginner](https://lwinmoepaing.github.io/books/) - Lwin Moe Paing (PDF)
+
+
+### Java
+
+* [Design Patterns](https://designpatterns.saturngod.net) - Saturngod
 
 
 ### JavaScript

@@ -67,8 +67,13 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
   - [行動規範](CODE_OF_CONDUCT-ja.md)
   - [貢献する](CONTRIBUTING-ja.md)
   - [方法](HOWTO-ja.md)
+- Kannada / ಕನ್ನಡ
+  - [How To](HOWTO-kn.md)
+  - [Contributing](CONTRIBUTING-kn.md)
+  - [Code Of Conduct](CODE_OF_CONDUCT-kn.md)
 - Kazakh / қазақша
 - Khmer / Cambodian / ខ្មែរ
+  - [ក្រមសីលធម៌របស់អ្នកចូលរួម](CODE_OF_CONDUCT-km.md)
   - [How-to](HOWTO-km.md)
 - Korean / 한국어
   - [행동강령](CODE_OF_CONDUCT-ko.md)
@@ -100,6 +105,7 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
   - [Кодекс поведения](CODE_OF_CONDUCT-ru.md)
   - [Contributing](CONTRIBUTING-ru.md)
 - Sinhala / සිංහල
+  - [චර්යා ධර්ම සංග්රහය](CODE_OF_CONDUCT-si.md)
 - Slovak / slovenčina
 - Slovenian / slovenščina
   - [Code of Conduct](CODE_OF_CONDUCT-sl.md)

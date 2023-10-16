@@ -229,7 +229,7 @@ Online School
 ### Kotlin
 
 * [Chapter 1 : Kotlin Basic Concepts Bangla](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDpRWRnXPWZcWIvz0JbeQe5) - Stack Learner
-* [Kotlin in Depth Concepts - Bengali](https://www.youtube.com/playlist?list=PLgyuGbgggWA3ORqemnq9adIzvNhSXjJTr) - Touhid Apps!
+* [Kotlin For Android - Bangla](https://www.youtube.com/playlist?list=PLgyuGbgggWA3ORqemnq9adIzvNhSXjJTr) - Touhid Apps!
 
 
 ### MongoDB

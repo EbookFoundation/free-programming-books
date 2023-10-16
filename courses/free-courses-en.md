@@ -945,8 +945,8 @@
 
 #### Bun.js
 
-* [Bun Tutorial – JavaScript Runtime (Node.js Alternative) (Full Course)](https://www.youtube.com/watch?v=eTB0UCDnMQo&pp=ygUUYnVuIGpzIGZ1bGwgdHV0b3JpYWw%3D) - freeCodeCamp.org
 * [Bun Crash Course](https://www.youtube.com/watch?v=U4JVw8K19uY&pp=ygUUYnVuIGpzIGZ1bGwgdHV0b3JpYWw%3D) - Traversy Media
+* [Bun Tutorial – JavaScript Runtime (Node.js Alternative) (Full Course)](https://www.youtube.com/watch?v=eTB0UCDnMQo&pp=ygUUYnVuIGpzIGZ1bGwgdHV0b3JpYWw%3D) - freeCodeCamp.org
 
 
 #### D3.js

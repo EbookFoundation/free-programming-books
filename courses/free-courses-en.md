@@ -884,6 +884,7 @@
 * [Intro to JavaScript ES6 programming](https://www.youtube.com/playlist?list=PL-xu4i_QDSxcoDNeh8rx5-pHCCTOg0XsI)
 * [Intro To JavaScript Unit Testing & BDD](https://www.youtube.com/watch?v=u5cLK1UrFyQ) - Traversy Media
 * [Introduction to ES6+](https://scrimba.com/learn/introtoes6) - Dylan C. Israel (Scrimba)
+* [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) - freecodecamp
 * [JavaScript Array Methods](https://youtube.com/playlist?list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2) - Florin Pop
 * [JavaScript Coding Challenges](https://youtube.com/playlist?list=PLgBH1CvjOA63ROz8Wqd7RDD0qpvGXF8x5) - Florin Pop
 * [JavaScript Course](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript) - The Odin Project

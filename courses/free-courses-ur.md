@@ -8,7 +8,7 @@
 
 ### <a id="csharp"></a>C#&lrm;
 
-* [C# Tutorials In Urdu/Hindi] (https://youtube.com/playlist?list=PLUyYwyJA_WfQd5zeCU890TDFQAqboekyc&si=Yjfl_cr5Ssu22Z3b) - ProgramInUrdu
+* [C# Tutorials In Urdu/Hindi](https://youtube.com/playlist?list=PLUyYwyJA_WfQd5zeCU890TDFQAqboekyc) - ProgramInUrdu
 
 
 ### HTML and CSS

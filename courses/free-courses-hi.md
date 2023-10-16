@@ -441,6 +441,7 @@
 #### Vue.js
 
 * [Vue js tutorial in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV45qwTH-mdzllUuFRJO-euYn) - Code Step By Step
+* [VUE JS 3 Complete Course Tutorial](https://www.youtube.com/playlist?list=PL_euSNU_eLbedoBv-RllKj_f2Yh--91nZ) - Leela Web Dev
 * [Vue JS Tutorials in Hindi](https://www.youtube.com/playlist?list=PLbGui_ZYuhih5ItBhn2cTncaS24_Kgeui) - Rajesh Kumar, Geeky Shows
 
 

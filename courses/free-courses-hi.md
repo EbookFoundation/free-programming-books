@@ -92,7 +92,7 @@
 
 * [Application of soft computing](https://www.youtube.com/playlist?list=PL_obO5Qb5QTEM_GVn5E45F3Z8-SIRBDL-) - LS Academy for Technical Education
 * [Introduction To Soft Computing](https://www.youtube.com/playlist?list=PLJ5C_6qdAvBFqAYS0P9INAogIMklG8E-9) - Computer Science and Engineering
-* [Soft Computing | University exams specific](https://www.youtube.com/playlist?list=PLuAADu3OvBt5-e5yXuIqBi1pttqw3RBeg) - Er Sahil ka Gyan
+* [Soft Computing /| University exams specific](https://www.youtube.com/playlist?list=PLuAADu3OvBt5-e5yXuIqBi1pttqw3RBeg) - Er Sahil ka Gyan
 * [Soft Computing And Optimization Algorithms](https://www.youtube.com/playlist?list=PLYwpaL_SFmcCPUl8mAnb4g1oExKd0n4Gw) - 5 Minutes Engineering
 
 

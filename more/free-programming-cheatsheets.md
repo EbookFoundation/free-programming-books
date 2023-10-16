@@ -352,9 +352,9 @@
 * [Numpy Pandas Cheat Sheet](https://www.kaggle.com/code/lavanyashukla01/pandas-numpy-python-cheatsheet) - Kaggle (HTML)
 * [Official Matplotlib cheat sheets](https://github.com/matplotlib/cheatsheets) - Matplotlib.org (LaTeX, PDF)
 * [Python 3 Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf) - Laurent Pointal (PDF)
-* [Python Cheat Sheet](https://github.com/wilfredinni/python-cheatsheet) - Wilfredinni (HTML)
 * [Python Cheat Sheet](https://www.codewithharry.com/blogpost/python-cheatsheet) - Code With Harry
 * [Python Cheat Sheet](https://websitesetup.org/python-cheat-sheet/) - WebsiteSetup (HTML, PDF, PNG)
+* [Python Cheat Sheet](https://www.pythoncheatsheet.org/) - Wilfredinni (HTML)
 * [Python Cheatsheet for beginners](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-syntax/cheatsheet) - Codeacademy (HTML)
 * [Python Crash Course Cheatsheet](https://ehmatthes.github.io/pcc/cheatsheets/README.html) - Eric Matthes (HTML)
 * [Python Crash Course Cheatsheet (2nd Edition)](https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/) - Eric Matthes (PDF)
@@ -392,6 +392,7 @@
 #### PySpark
 
 * [PySpark Cheat Sheet](https://github.com/kevinschaich/pyspark-cheatsheet) - Kevin Schaich (HTML)
+* [PySpark Cheat Sheet: Spark in Python] (https://www.datacamp.com/cheat-sheet/pyspark-cheat-sheet-spark-in-python) - DataCamp (HTML)
 
 
 ### R

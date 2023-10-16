@@ -57,6 +57,7 @@
 * [C Programming Bangla Tutorial For Beginners 2023](https://youtube.com/playlist?list=PLNMnAEqLBwmrwDSycdTLsvZBhmK5kOtgV) - Hablu Programmer
 * [C Programming in Bangla - from Zero to Hero](https://www.udemy.com/course/c-programming-in-bangla/) - Ministry of Codes (MoC), Prapty Rahman
 * [Pattern Printing in C](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oTxQhx2kejYmQn6qtRULCD) - Anisul Islam
+* [C Programming Bangla Tutorials with problem solving || Beginner to Advance](https://youtube.com/playlist?list=PLeqnvPK4PpyXHyRzADqWac6CK_vXoP9Cm&si=nr2t4gjkBdAeiPTa) - Shikkhangon BD
 
 
 ### <a id="csharp"></a>C\#

@@ -37,6 +37,7 @@
     * [Flask](#flask)
     * [PyTorch](#pytorch)
 * [Redis](#redis)
+* [Rust](#rust)
 * [SASS / SCSS](#sass--scss)
 * [Solidity](#solidity)
 * [Terraform](#terraform)
@@ -184,6 +185,7 @@
 * [HTML5 Canvas](https://www.youtube.com/playlist?list=PL0-7Xi0GB3teW5TsBQmD2MzLU5ryjXkVE) - Idr Corner
 * [HTML5 Dasar](https://www.buildwithangga.com/kelas/html5-dasar) - BuildWithAngga
 * [HTML5 Pemula Dasar](https://www.petanikode.com/html-dasar/) - petanikode
+* [Mulai Belajar Website dengan HTML](https://www.udemy.com/course/mulai-belajar-website-dengan-html/) - Arkademy Tech Academy (Udemy)
 
 
 ### Java
@@ -398,6 +400,11 @@
 ### Redis
 
 * [Belajar Redis](https://www.youtube.com/playlist?list=PL-CtdCApEFH-7hBhz1Q-4rKIQntJoBNX3) - Eko Kurniawan Khannedy, Programmer Zaman Now
+
+
+### Rust
+
+* [Belajar Rust](https://www.youtube.com/playlist?list=PLIfsrcorUur10nUSHVq9Mb4yWu87_5lZn) - Dev Activity
 
 
 ### SASS / SCSS

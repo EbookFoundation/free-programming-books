@@ -33,7 +33,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [C++](#cpp)
 * [Carbon](#carbon)
 * [Chapel](#chapel)
-* [Cilk](#cilk)
 * [Clojure](#clojure)
 * [CMake](#cmake)
 * [COBOL](#cobol)
@@ -290,9 +289,9 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Arduino
 
-* [Ardiuno Projects Book](https://www.eitkw.com/wp-content/uploads/2020/03/Arduino_Projects_Book.pdf) - Scott Fitzgerald and Michael Shiloh (PDF)
 * [Arduino-docs : A beginner's guide](https://arduino-doc.readthedocs.io/en/latest/) - Paramesh Chandra (HTML)
 * [Arduino Programming Notebook](https://unglue.it/work/152452) - Brian Evans (PDF) (:card_file_box: *archived at unglue.it*)
+* [Arduino Projects Book](https://www.eitkw.com/wp-content/uploads/2020/03/Arduino_Projects_Book.pdf) - Scott Fitzgerald and Michael Shiloh (PDF)
 * [Arduino Tips, Tricks, and Techniques](https://cdn-learn.adafruit.com/downloads/pdf/arduino-tips-tricks-and-techniques.pdf) - lady ada (PDF)
 * [Getting started with Arduino – A Beginner’s Guide](http://manuals.makeuseof.com.s3.amazonaws.com/for-mobile/Arduino_-_MakeUseOf.com.pdf) - Brad Kendall (PDF)
 * [Getting Started with Arduino products](https://www.arduino.cc/en/Guide) - Official Arduino Documentation (:construction: *in process*)
@@ -336,7 +335,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [PC Assembly Language](http://pacman128.github.io/pcasm/) - P. A. Carter
 * [Programming from the Ground Up](https://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf) - Jonathan Bartlett (PDF)
 * [Ralf Brown's Interrupt List](http://www.ctyme.com/rbrown.htm)
-* [Run Down On x86 Intel Assembly Course](https://github.com/Ret2LC/x86-assembly) - Ret2LC
 * [Software optimization resources](http://www.agner.org/optimize/) - A. Fog
 * [The Art of Assembly Language (2003)](https://web.archive.org/web/20120525102637/http://maven.smith.edu/~thiebaut/ArtOfAssembly/artofasm.html) - Randall Hyde (PDF) *(:card_file_box: archived)*
 * [The Grain Docs](https://grain-lang.org/docs/)
@@ -350,10 +348,11 @@ Books on general-purpose programming that don't focus on a specific language are
 
 #### Non-X86
 
+* [Beginners Introduction to the Assembly Language of ATMEL-AVR-Microprocessors](http://www.avr-asm-download.de/beginner_en.pdf) - Gerhard Schmidt (PDF)
 * [Easy 6502](http://skilldrick.github.io/easy6502/) - Nick Morgan
-* [Machine Code for Beginners [Z80 and 6502 CPUs]](https://usborne.com/browse-books/features/computer-and-coding-books/) - Lisa Watts, Mike Wharton (PDF) *(scroll to bottom and click on book cover)*
 * [Machine Language for Beginners](https://archive.org/details/ataribooks-machine-language-for-beginners) - Richard Mansfield
-* [Programmed Introduction to MIPS Assembly Language](http://chortle.ccsu.edu/AssemblyTutorial/index.html)
+* [MIPS Assembly Language Programming Using QtSpim](http://www.egr.unlv.edu/~ed/MIPStextSMv11.pdf) - Ed Jorgensen (PDF)
+* [Programmed Introduction to MIPS Assembly Language](http://chortle.ccsu.edu/AssemblyTutorial/index.html) 
 * [The Second Book of Machine Language](http://www.atariarchives.org/2bml/)
 
 
@@ -437,7 +436,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [256-Color VGA Programming in C](http://www.brackeen.com/vga/) - David Brackeen
 * [A Tutorial on Pointers and Arrays in C](https://web.archive.org/web/20180827131006/http://home.earthlink.net/~momotuk/pointers.pdf) - Ted Jensen (PDF) *(:card_file_box: archived)*
 * [Algorithms Design (in C)](https://www.ime.usp.br/~pf/algorithms/) - Paulo Feofiloff (HTML)
-* [An Introduction to C & GUI Programming](https://magpi.raspberrypi.com/books/c-gui-programming) - Simon Long (PDF)
 * [Bare-metal programming for ARM](https://github.com/umanovskis/baremetal-arm) - Daniels Umanovskis [(PDF)](http://umanovskis.se/files/arm-baremetal-ebook.pdf)
 * [Beej's Guide to C Programming](http://beej.us/guide/bgc/) - Brian "Beej Jorgensen" Hall (HTML, PDF)
 * [Beej's Guide to the GNU Debugger (GDB)](http://beej.us/guide/bggdb/) - Brian "Beej Jorgensen" Hall (HTML)
@@ -496,6 +494,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [High level asynchronous programming with Reactive Extensions](https://github.com/petroemil/Rx.Book) - Emil Petro
 * [Introduction to Rx](http://www.introtorx.com)
 * [Learn C# in Y Minutes](https://learnxinyminutes.com/docs/csharp/)
+* [Learning C# Language](https://riptutorial.com/Download/csharp-language.pdf) - Compiled from StackOverflow Documentation (PDF)
 * [Mastering Xamarin UI Development, Second Edition](https://www.packtpub.com/free-ebook/mastering-xamarin-ui-development-second-edition/9781788995511) - Steven F. Daniel (Packt account *required*)
 * [Modernize existing .NET applications with Azure cloud and Windows Containers](https://docs.microsoft.com/en-us/dotnet/architecture/modernize-with-azure-containers/) - Cesar de la Torre
 * [Modernizing Desktop Apps on Windows with .NET 6](https://docs.microsoft.com/en-us/dotnet/architecture/modernize-desktop) - Olia Gavrysh, Miguel Angel Castejón Dominguez
@@ -505,7 +504,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Threading in C#](http://www.albahari.com/threading/)
 * [Xamarin Community Toolkit Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/xamarin-community-toolkit-succinctly) - Alessandro Del Sole
 * [Xamarin.Forms for macOS Succinctly](https://www.syncfusion.com/ebooks/xamarin_forms_for_mac_os_succinctly) - Alessandro Del Sole
-* [Xamarin.Forms Notes for professionals](https://books.goalkicker.com/XamarinFormsBook/) - Compiled from StackOverflow documentaion (PDF)
+* [Xamarin.Forms Notes for professionals](https://books.goalkicker.com/XamarinFormsBook/) - Compiled from StackOverflow documentation (PDF)
 * [Xamarin.Forms Succinctly](https://www.syncfusion.com/ebooks/xamarin-forms-succinctly) - Alessandro Del Sole
 
 
@@ -562,14 +561,8 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Chapel Tutorial for Programmers](http://web.archive.org/web/20150310075109/http://cs.colby.edu/kgburke/?resource=chapelTutorial) *(:card_file_box: archived)*
 
 
-### Cilk
-
-* [Cilk 5.4.6 Reference Manual](https://par.tuwien.ac.at/material/manual-5.4.6.pdf) (PDF)
-
-
 ### Clojure
 
-* [A Brief Beginner’s Guide To Clojure](http://www.unexpected-vortices.com/clojure/brief-beginners-guide/)
 * [Clojure](https://clojure-book.gitlab.io) - Karthikeyan A K
 * [Clojure - Functional Programming for the JVM](http://java.ociweb.com/mark/clojure/article.html) - R. Mark Volkmann
 * [Clojure by Example](https://kimh.github.io/clojure-by-example/) - Hirokuni Kim
@@ -772,7 +765,6 @@ Books on general-purpose programming that don't focus on a specific language are
 ### Force.com
 
 * [Apex Workbook](https://web.archive.org/web/20170102233924/https://resources.docs.salesforce.com/sfdc/pdf/apex_workbook.pdf) (PDF) *(:card_file_box: archived)*
-* [Developer Workbooks](http://developer.force.com/workbook)
 * [Force.com Fundamentals](http://developerforce.s3.amazonaws.com/books/Force.com_Fundamentals.pdf) (PDF)
 * [Force.com Platform Fundamentals: An Introduction to Custom Application Development in the Cloud](http://www.lulu.com/shop/salesforcecom/forcecom-platform-fundamentals/ebook/product-17381451.html)
 * [Force.com Workbook](https://web.archive.org/web/20160804055738/http://resources.docs.salesforce.com:80/sfdc/pdf/forcecom_workbook.pdf) (PDF) *(:card_file_box: archived)*
@@ -788,7 +780,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [A Beginner's Guide to Forth](https://web.archive.org/web/20180919061255/http://galileo.phys.virginia.edu/classes/551.jvn.fall01/primer.htm) - J.V. Noble *(:card_file_box: archived)*
 * [And so Forth...](http://ficl.sourceforge.net/pdf/Forth_Primer.pdf) (PDF)
 * [Easy Forth](https://skilldrick.github.io/easyforth/) - Nick Morgan (HTML)
-* [Programming Forth](http://www.mpeforth.com/arena/ProgramForth.pdf) (PDF)
 * [Starting Forth](http://home.iae.nl/users/mhx/sf.html)
 * [Thinking Forth](http://thinking-forth.sourceforge.net)
 * [Thoughtful Programming and Forth](http://www.ultratechnology.com/forth.htm)
@@ -801,8 +792,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Fortran 90 Tutorial](https://web.stanford.edu/class/me200c/tutorial_90/) - Sarah T. Whitlock, Paul H. Hargrove, Stanford University (HTML)
 * [Fortran information & resources](https://www.fortranplus.co.uk/fortran-information/) - fortranplus.co.uk (HTML)
 * [FORTRAN Performance Tuning co-Guide (1998)](https://www.ibiblio.org/pub/languages/fortran/unct.html) - Timothy C. Prince (HTML)
-* [Introduction to Fortran](https://qc2-teaching.readthedocs.io/en/latest/programming.html) - Sebastian Ehlert, Julius Stückrath, Marcel Mueller, Marcel Stahn (HTML)
-* [Modern Fortran in Science and Technology](https://modern-fortran-in-science-and-technology.readthedocs.io/en/latest) - Jonas Lindemann, Ola Dahlblom (HTML, [PDF](https://modern-fortran-in-science-and-technology.readthedocs.io/_/downloads/en/latest/pdf/), [EPUB](https://modern-fortran-in-science-and-technology.readthedocs.io/_/downloads/en/latest/epub/))
+* [Modern Fortran in Science and Technology](https://modern-fortran-in-science-and-technology.readthedocs.io/en/latest) - Jonas Lindemann, Ola Dahlblom
 * [Modern Fortran Tutorial](https://masuday.github.io/fortran_tutorial/) - Yutaka Masuda (HTML)
 * [Professional Programmer’s Guide to Fortran77 (2005)](https://www.star.le.ac.uk/~cgp/prof77.pdf) - Clive G. Page (PDF)
 * [Self Study Guide 2: Programming in Fortran 95](http://www.mrao.cam.ac.uk/~rachael/compphys/SelfStudyF95.pdf) - Dr Rachael Padman (PDF)
@@ -824,8 +814,8 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Darker Corners of Go](https://rytisbiel.com/2021/03/06/darker-corners-of-go/) - Rytis Bieliunas
 * [Effective Go](https://golang.org/doc/effective_go.html)
 * [Essential Go](https://www.programming-books.io/essential/go/) - Krzysztof Kowalczyk, StackOverflow Contributors
+* [Gin Web Framework](https://chenyitian.gitbooks.io/gin-web-framework/content/)
 * [Go 101](https://go101.org/article/101.html) - [@TapirLiu](https://twitter.com/TapirLiu)
-* [Go Bootcamp](http://www.golangbootcamp.com/book) - Matt Aimonetti
 * [Go by Example](https://gobyexample.com)
 * [Go for Javascript Developers](https://github.com/bulim/go-for-javascript-developers)
 * [Go for Python Programmers](https://golang-for-python-programmers.readthedocs.io/en/latest) - Jason McVetta (HTML, PDF, EPUB)
@@ -833,7 +823,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Go Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/go-succinctly) - Mark Lewin (PDF, EPUB, Kindle)
 * [Go Tutorial](http://www.tutorialspoint.com/go/) - Tutorials Point (HTML, PDF)
 * [Go Web Development Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/go-web-development) - Mark Lewin (PDF, EPUB, Kindle)
-* [Golang by Example](https://golangbyexample.com) 
+* [Golang by Example](https://golangbyexample.com)
 * [How To Code in Go](https://www.digitalocean.com/community/books/how-to-code-in-go-ebook) - Mark Bates, Cory Lanou, Timothy J. Raymond (PDF, EPUB)
 * [Learn Go in Y minutes](https://learnxinyminutes.com/docs/go/)
 * [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/) - Chris James
@@ -1036,6 +1026,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Category wise tutorials - J2EE](https://www.mkyong.com/all-tutorials-on-mkyong-com/) - Yong Mook Kim
 * [Core Servlets and JavaServer Pages, 2nd Ed. (2003)](https://web.archive.org/web/20210126062450/https://pdf.coreservlets.com/) - Marty Hall, Larry Brown *(:card_file_box: archived)*
 * [Data Structures in Java for the Principled Programmer (2007)](https://web.archive.org/web/20190302130416/http://dept.cs.williams.edu/~bailey/JavaStructures/Book_files/JavaStructures.pdf) - Duane A. Bailey (PDF) *(:card_file_box: archived)*
+* [Effective Java, Third Edition](https://ia801009.us.archive.org/16/items/effectivejava2017addisonwesley/Effective%20Java%20%282017%2C%20Addison-Wesley%29.pdf) - Joshua Bloch (PDF) *(:card_file_box: archived)*
 * [Essential Java](https://www.programming-books.io/essential/java/) - Krzysztof Kowalczyk, StackOverflow Contributors
 * [Google's Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 * [Introduction to Computer Science "booksite"](https://introcs.cs.princeton.edu/java/cs/) - Robert Sedgewick, Kevin Wayne (HTML)
@@ -1156,7 +1147,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [JS Robots](https://web.archive.org/web/20201029045339/http://markdaggett.com/images/ExpertJavaScript-ch6.pdf) - Mark Daggett (PDF) *(:card_file_box: archived)*
 * [Leaflet Tips and Tricks: Interactive Maps Made Easy](https://leanpub.com/leaflet-tips-and-tricks/read) - Malcolm Maclean (HTML)
 * [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) - Addy Osmani (HTML)
-* [Let's Learn ES6](https://bubblin.io/cover/let-s-learn-es6-by-ryan-christiani#frontmatter) - Ryan Christiani (Superbook format)
+* [Let's Learn ES6](https://bubblin.io/book/let-s-learn-es6-by-ryan-christiani#frontmatter) - Ryan Christiani (Superbook format)
 * [Managing Space and Time with JavaScript - Book 1: The Basics](http://www.noelrappin.com) - Noel Rappin (dead link)
 * [Modern JavaScript](https://www.modernjs.com) - Daniel Rubio
 * [Mozilla Developer Network's JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) - Mozilla Developer Network contributors (HTML)
@@ -1168,7 +1159,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Professor Frisby’s Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/) - Brian Lonsdorf (HTML)
 * [Robust Client-Side JavaScript](https://molily.de/robust-javascript/) - Matthias Schäfer (HTML, EPUB)
 * [Single page apps in depth](http://singlepageappbook.com) - Mixu (HTML)
-* [Speaking JavaScript](http://speakingjs.com/es5/) - Dr. Axel Rauschmayer
+* [Speaking JavaScript](https://exploringjs.com/es5/) - Dr. Axel Rauschmayer
 * [Standard ECMA-262 ECMAScript 2016 Language Specification](https://www.ecma-international.org/publications/standards/Ecma-262.htm) - Ecma International (HTML,PDF)
 * [The Code Challenge Book](https://s3.amazonaws.com/coderbytestaticimages/CoderbyteEbook.pdf) - Daniel Borowski (PDF)
 * [The JavaScript Beginner's Handbook](https://flaviocopes.com/page/javascript-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
@@ -1292,7 +1283,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 * [Learn Next.js](https://nextjs.org/learn) - Vercel Inc.
 * [Mastering Next.js](https://masteringnextjs.com)
-* [Next.js Crash Course 2021](https://www.youtube.com/watch?v=mTz0GXj8NN0) - Brad Traversy (Traversy Media)
+* [Next.js 13 Crash Course 2023: Learn App Directory, React Server Components & More](https://www.youtube.com/watch?v=Y6KDk5iyrYE) - Brad Traversy (Traversy Media)
 * [The Next.js Handbook](https://flaviocopes.com/page/nextjs-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
 
 
@@ -1303,7 +1294,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [From Containers to Kubernetes with Node.js](https://www.digitalocean.com/community/books/from-containers-to-kubernetes-with-node-js-ebook) - Kathleen Juell (PDF, EPUB)
 * [Full Stack JavaScript: Learn Backbone.js, Node.js and MongoDB](https://github.com/azat-co/fullstack-javascript) - Azat Mardan
 * [How To Code in Node.js - eBook](https://www.digitalocean.com/community/books/how-to-code-in-node-js-ebook) - David Landup, Marcus Sanatan @ Stack Abuse, Digital Ocean (PDF, EPUB)
-* [Introduction to Node.js](https://nodejs.dev/learn) (HTML)
+* [Introduction to Node.js](https://nodejs.dev/en/learn/) (HTML)
 * [Mastering Node](https://github.com/visionmedia/masteringnode) - visionmedia ([PDF](https://github.com/visionmedia/masteringnode/blob/master/book.pdf))
 * [Mixu's Node Book](http://book.mixu.net/node/)
 * [Node Documentation](https://nodejs.org/en/docs/) (PDF)
@@ -1384,6 +1375,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 #### Svelte
 
+* [Beginner SvelteKit](https://vercel.com/docs/beginner-sveltekit) - Steph Dietz
 * [Getting started with Svelte](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started) - MDN Web Docs
 * [Svelte Tutorial](https://svelte.dev/tutorial/basics) - Svelte.dev
 * [The Svelte Handbook](https://flaviocopes.com/page/svelte-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
@@ -1398,8 +1390,10 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Jenkins
 
+* [Jenkins Starter Guide Ebook](https://bugfender.com/wp-content/themes/bugfender-wordpress-theme/assets/docs/Jenkins-Starter-Guide-Ebook.pdf) (PDF)
 * [Jenkins: The Definitive Guide](http://www.bogotobogo.com/DevOps/Jenkins/images/Intro_install/jenkins-the-definitive-guide.pdf) (PDF)
 * [Jenkins User Handbook](https://www.jenkins.io/user-handbook.pdf) (PDF)
+* [Learning Jenkins](https://riptutorial.com/Download/jenkins.pdf) Compiled from StackOverflow Documentation (PDF)
 
 
 ### Julia
@@ -1420,6 +1414,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Kotlin Notes for Professionals](https://goalkicker.com/KotlinBook/) - Compiled from StackOverflow documentation (PDF)
 * [Kotlin Official Documentation](https://kotlinlang.org/docs/reference/)
 * [Kotlin Quick Reference](https://kotlin-quick-reference.com) - Alvin Alexander (gitbook)
+* [Learn Kotlin Programming](https://www.programiz.com/kotlin-programming) - Programiz
 * [Learning Kotlin](https://riptutorial.com/Download/kotlin.pdf) - Compiled from StackOverflow Documentation (PDF)
 
 
@@ -2151,7 +2146,8 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Geocomputation with R](https://r.geocompx.org) - Robin Lovelace, Jakub Nowosad, Jannes Muenchow
 * [Introduction to Probability and Statistics Using R](https://github.com/gjkerns/IPSUR) - G. Jay Kerns (PDF)
 * [Learning Statistics with R](https://learningstatisticswithr.com/book/) - Danielle Navarro
-* [Mastering Software Development in R](https://bookdown.org/rdpeng/RProgDA/) - Roger D. Peng, Sean Kross, and Brooke Anderson 
+* [Mastering Software Development in R](https://bookdown.org/rdpeng/RProgDA/) - Roger D. Peng, Sean Kross, and Brooke Anderson
+* [Model Estimation by Example, Demonstrations with R](https://m-clark.github.io/models-by-example) - Michael Clark
 * [ModernDive](https://ismayc.github.io/moderndiver-book/) - Chester Ismay, Albert Y. Kim
 * [Practical Regression and Anova using R](http://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) - Julian J. Faraway (PDF)
 * [R for Data Science](https://r4ds.hadley.nz) - Hadley Wickham, Mine Çetinkaya-Rundel, Garrett Grolemund
@@ -2436,6 +2432,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Developing Time-Oriented Database Applications in SQL](https://www2.cs.arizona.edu/~rts/tdbbook.pdf) - Richard T. Snodgrass (PDF)
 * [Essential SQL](https://www.programming-books.io/essential/sql) - Krzysztof Kowalczyk and  Stack Overflow Documentation project (HTML)
 * [Introduction to SQL](https://github.com/bobbyiliev/introduction-to-sql) - Bobby Iliev (Markdown, PDF)
+* [Oracle Database Notes for Professionals](https://goalkicker.com/OracleDatabaseBook/OracleDatabaseNotesForProfessionals.pdf) Compiled from StackOverflow Documentation (PDF)
 * [Oracle8i Concepts: Chapter 15 - SQL and PL/SQL](https://docs.oracle.com/cd/A87860_01/doc/server.817/a76965/c14sqlpl.htm#5943) - Lefty Leverenz, Diana Rehfield, Cathy Baird (HTML)
 * [SQL For Web Nerds](http://philip.greenspun.com/sql/) - Philip Greenspun (HTML)
 * [SQL Notes for Professionals](http://goalkicker.com/SQLBook/) - Compiled from StackOverflow Documentation (PDF)

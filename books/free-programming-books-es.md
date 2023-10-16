@@ -218,7 +218,6 @@
 
 > :information_source: Véase también &#8230; [Angular](#angular)
 
-* [¿Cómo aprender AngularJS?](http://raulexposito.com/documentos/como-aprender-angularjs/) (HTML)
 * [AngularJS](https://eladrodriguez.gitbooks.io/angularjs) - Elad Rodriguez (HTML)
 * [Guía de estilo AngularJS](https://github.com/johnpapa/angular-styleguide/blob/master/a1/i18n/es-ES.md) - John Papa, et al., `trl.:` Alberto Calleja Ríos, `trl.:` Gilberto (HTML)
 * [Manual de AngularJS](https://desarrolloweb.com/manuales/manual-angularjs.html) - desarrolloweb.com (HTML, PDF, EPUB, Kindle)
@@ -414,8 +413,6 @@
 
 > :information_source: Véase también &#8230; [AngularJS](#angularjs)
 
-* [Angular 2](https://rldona.gitbooks.io/angular-2-book) - Raúl López (HTML)
-* [Aprendiendo Angular](https://ngchallenges.gitbook.io) - Vanessa Aristizabal (HTML)
 * [Aprendizaje Angular](https://riptutorial.com/Download/angular-es.pdf) - Compiled from StackOverflow Documentation (PDF)
 * [Aprendizaje Angular 2](https://riptutorial.com/Download/angular-2-es.pdf) - Compiled from StackOverflow Documentation (PDF)
-* [Entendiendo Angular](https://jorgeucano.gitbook.io/entendiendo-angular/) - Jorge Cano (HTML, [:package: ejemplos](https://github.com/jorgeucano/entendiendo-angular))
+* [Entendiendo Angular](https://jorgeucano.gitbook.io/entendiendo-angular/) - Jorge Cano

@@ -67,6 +67,9 @@ CSE Tamila by Eezytutorials
 * [Java Programming in Tamil](https://www.youtube.com/playlist?list=PLWbtDrDnmTHCsK36VMtXasfeo4qQg3Mjo) - CS in Tamil
 * [Java Programming in Tamil](https://www.youtube.com/playlist?list=PLIFRUdRwOM08fR11AtNx674tXpUmgy7lD) - SANTRA TECHSPOT
 * [Learn Java in Tamil](https://youtube.com/playlist?list=PLYM2_EX_xVvVXm005Gt5unmqW6GGMjHxa) - Logic First Tamil
+* [Spring Boot Beginners Tutorial in Tamil](https://www.youtube.com/playlist?list=PLhbl8CrGKCBNVzNXhoWdmni_sEAqZdLt9) - Code Simple
+* [Spring Boot Complete/Full Course in Tamil for Beginners from Basics](https://www.youtube.com/playlist?list=PLgWpUXNR_WCc_VontznRnCUdul5Zp1x3c) - Payilagam
+* [Spring Boot Tutorial For Beginners In Tamil](https://www.youtube.com/playlist?list=PL5wfQQ0ZyOimwU4V9g7OWTehyBoeDJGRG) - Frontend Forever
 
 
 ### JavaScript
@@ -101,6 +104,9 @@ CSE Tamila by Eezytutorials
 
 ### Python
 
+* [FastAPI Beginners Tutorial in Tamil](https://www.youtube.com/playlist?list=PLIFRUdRwOM08B9M7HVuiUWWto8eDxVryI) - Santra TechSpot
+* [Flask in Python](https://www.youtube.com/playlist?list=PLBngtsPyn30GbfwGhOD_cPoQtkoIQQnHg) - Learn All In Tamil
+* [Python DJango in Tamil - Full Course](https://www.youtube.com/playlist?list=PLgWpUXNR_WCch5K1nkemWWsm3rvr-7YmO) - Payilagam
 * [Python in Tamil for Beginners](https://youtube.com/playlist?list=PLA2UBjeRwle3OLO3qmXTbmCvuTlqhHRVb) - GURUKULA
 * [Python Programming in Tami](https://www.youtube.com/playlist?list=PLWbtDrDnmTHBdEnUKuLNdH2-zKSDD8OA4) - CS in Tamil
 * [Python Tutorial in Tamil](https://youtube.com/playlist?list=PLIFRUdRwOM0_hcLruKbsHWnU5P2uLBgsp) - SANTRA TECHSPOT

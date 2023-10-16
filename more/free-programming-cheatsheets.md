@@ -391,7 +391,6 @@
 
 #### PySpark
 
-
 * [PySpark Cheat Sheet: Spark in Python] (https://www.datacamp.com/cheat-sheet/pyspark-cheat-sheet-spark-in-python) - DataCamp (HTML)
 * [PySpark Cheat Sheet](https://github.com/kevinschaich/pyspark-cheatsheet) - Kevin Schaich (HTML)
 

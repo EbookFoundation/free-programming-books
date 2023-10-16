@@ -206,7 +206,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [EXPL NITC: Build your own Compiler](https://silcnitc.github.io) - Murali Krishnan K., students in the Department of Computer Science and Engineering of the Calicut National Institute of Technology (HTML)
 * [Implementing Functional Languages: A Tutorial](https://research.microsoft.com/en-us/um/people/simonpj/Papers/pj-lester-book/) - Simon Peyton Jones, David Lester
 * [Introduction to Compilers and Language Design](https://www3.nd.edu/~dthain/compilerbook/compilerbook.pdf) - Douglas Thain (PDF)
-* [Let's Build a Compiler](https://www.stack.nl/~marcov/compiler.pdf) (PDF)
+* [Let's Build a Compiler](https://www.stack.nl/~marcov/compiler.pdf) - Jack W. Crenshaw (PDF)
 * [Practical and Theoretical Aspects of Compiler Construction](https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/) (class lectures and slides)
 * [The ANTLR Mega Tutorial](https://tomassetti.me/antlr-mega-tutorial/)
 
@@ -664,6 +664,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 ### Object Oriented Programming
 
 * [Object Oriented Programming](https://www.cl.cam.ac.uk/teaching/0910/OOProg/OOP.pdf) - Robert Harle (PDF)
+* [OOP – Learn Object Oriented Thinking and Programming](https://files.bruckner.cz/be2a5b2104bf393da7092a4200903cc0/PecinovskyOOP.pdf) - Rudolf Pecinovsky (PDF) 
 
 
 ### Open Source Ecosystem

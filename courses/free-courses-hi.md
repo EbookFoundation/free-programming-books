@@ -107,6 +107,7 @@
 
 ### Arduino
 
+* [Arduino Programming In Hindi (Full Playlist)](https://www.youtube.com/playlist?list=PLgWjD_CBfh0D87ar_BLRKG_WXeiNHgtuc) - SBS online classes
 * [Arduino Programming Series (हिंदी में)](https://youtube.com/playlist?list=PLV3C-t_tgjGFyXP_-AF37AoIuxM9jzELM) - Engineers & Electronics
 
 

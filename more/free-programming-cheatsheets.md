@@ -298,7 +298,7 @@
 
 * [Cheat Sheet of Machine Learning and Python (and Math) Cheat Sheets](https://medium.com/machine-learning-in-practice/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6) - Robbie Allen (HTML)
 * [Machine Learning Cheat Sheet](https://www.datacamp.com/cheat-sheet/machine-learning-cheat-sheet) - DataCamp Team (HTML)
-* [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest) - ml-cheatsheet (HTML)
+* [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest) - Brendan Fortuner
 * [Super VIP Cheatsheet: Machine Learning](https://sgfin.github.io/files/cheatsheets/cs229_2018_cheatsheet.pdf) - Afshine Amidi and Shervine Amidi (PDF)
 
 

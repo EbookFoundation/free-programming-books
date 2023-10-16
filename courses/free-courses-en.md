@@ -1088,6 +1088,7 @@
 * [JavaScript Testing Fundamentals](https://vueschool.io/courses/javascript-testing-fundamentals)
 * [Learn Vue 3 step by step](https://laracasts.com/series/learn-vue-3-step-by-step) - Jeffrey Way
 * [Nuxt.js Fundamentals](https://vueschool.io/courses/nuxtjs-fundamentals)
+* [VUE JS 3 Complete Course Tutorial](https://www.youtube.com/playlist?list=PL_euSNU_eLbedoBv-RllKj_f2Yh--91nZ) - Leela Web Dev
 * [Vue JS 3 Tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgeQIfSDtEGVvvSEPDkL_1f) - Vishwas Gopinath (Codevolution)
 * [Vue Router for Everyone](https://vueschool.io/courses/vue-router-for-everyone)
 * [Vue.js Components Fundamentals](https://vueschool.io/courses/vuejs-components-fundamentals)

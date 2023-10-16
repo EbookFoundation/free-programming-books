@@ -26,6 +26,7 @@
 * [Haskell](#haskell)
 * [HTML and CSS](#html-and-css)
 * [Inteligência Artificial](#inteligência-artificial)
+* [Internet das Coisas](#internet-das-coisas)
 * [Java](#java)
 * [JavaScript](#javascript)
     * [AngularJS](#angularjs)
@@ -229,6 +230,11 @@
 ### Inteligência Artificial
 
 * [Inteligência artificial: avanços e tendências](https://www.livrosabertos.sibi.usp.br/portaldelivrosUSP/catalog/view/650/579/2181) - Fabio G. Cozman, Guilherme Ary Plonski, Hugo Neri (PDF)
+
+
+### Internet das Coisas
+
+* [A Internet das Coisas](https://bibliotecadigital.fgv.br/dspace/bitstream/handle/10438/23898/A%20internet%20das%20coisas.pdf) - Eduardo Magrani (PDF)
 
 
 ### Java

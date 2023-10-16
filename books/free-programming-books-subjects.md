@@ -658,7 +658,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Securing Wireless Networks for the Home User Guide](https://mohamedation.com/securing-wifi/en/) - Mohamed Adel (HTML)
 * [The TCP/IP Guide](http://www.tcpipguide.com/free/t_toc.htm)
 * [Understanding IP Addressing: Everything you ever wanted to know](http://pages.di.unipi.it/ricci/501302.pdf) (PDF)
-* [ZeroMQ Guide](https://zguide.zeromq.org/)
+* [ZeroMQ Guide](https://zguide.zeromq.org)
 
 
 ### Object Oriented Programming

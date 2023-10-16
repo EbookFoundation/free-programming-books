@@ -61,7 +61,6 @@
 ### Android
 
 * [Android Tutorial](https://www.tutlane.com/tutorial/android) - tutlane
-* [Javatpoint Android Tutorial](https://www.javatpoint.com/android-tutorial) - javaTpoint
 
 
 ### Bash
@@ -215,7 +214,6 @@
 * [Java Tutorial](https://www.w3schools.com/java) - W3Schools
 * [Java Tutorial](https://www.scaler.com/topics/java/) - Scaler Topics
 * [Learn Java](http://www.learnjavaonline.org)
-* [Learn Java](https://www.javatpoint.com/java-tutorial) - Java T Point
 * [Learneroo Java tutorial](https://www.learneroo.com/modules/11)
 
 

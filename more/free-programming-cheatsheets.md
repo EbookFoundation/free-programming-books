@@ -205,7 +205,7 @@
 
 #### Tailwind CSS
 
-* [Tailwind CSS Cheat Sheet](https://tailwindcomponents.com/cheatsheet) - tailwind**components**
+* [Tailwind CSS Cheat Sheet](https://tailwindcomponents.com/cheatsheet) - Tailwind Components
 
 
 ### IDE and editors

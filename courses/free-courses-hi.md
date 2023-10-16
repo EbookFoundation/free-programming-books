@@ -647,7 +647,6 @@
 * [Typescript Tutorial for Beginners in Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp0xfHQFmlL52b_6-QZ0mnk_) - Thapa Technical
 
 
-
 ### Wordpress
 
 * [Advanced Ecommerce Website - Elementor - Urdu & Hindi](https://www.youtube.com/playlist?list=PL6Kd_lvAfBuZzR48t6mEWclYMN0C85aNE) - WP Academy
@@ -656,4 +655,3 @@
 * [Wordpress Tutorial for Beginners \| Wordpress Tutorials in Hindi - The Complete Guide For Beginners](https://www.youtube.com/playlist?list=PLjVLYmrlmjGfC44WZSTvlsZFzxnQsysJb) - WsCube Tech
 * [Wordpress tutorials in hindi](https://www.youtube.com/playlist?list=PLlUrVpujUh3_PnBb1B-YOSP_oUqBL4gsh) - hindidevtuts
 * [WordPress Tutorials in Hindi](https://www.youtube.com/playlist?list=PLjpp5kBQLNTTEggPfaWMAL_yv7FYiBClc) - Tech Gun
-

@@ -110,7 +110,7 @@ CSE Tamila by Eezytutorials
 * [Python in Tamil for Beginners](https://youtube.com/playlist?list=PLA2UBjeRwle3OLO3qmXTbmCvuTlqhHRVb) - GURUKULA
 * [Python Programming in Tami](https://www.youtube.com/playlist?list=PLWbtDrDnmTHBdEnUKuLNdH2-zKSDD8OA4) - CS in Tamil
 * [Python Tutorial in Tamil](https://youtube.com/playlist?list=PLIFRUdRwOM0_hcLruKbsHWnU5P2uLBgsp) - SANTRA TECHSPOT
-* [#01 Python Programming Tutorial Series 📚- Introduction to Python 🧑‍💻- EMC ACADEMY 💪](https://www.youtube.com/playlist?list=PLvepBxfiuao1hO1vPOskQ1X4dbjGXF9bm) - Error Makes Clever Academy
+* [Python Programming Tutorial Series - Introduction to Python- EMC ACADEMY ](https://www.youtube.com/playlist?list=PLvepBxfiuao1hO1vPOskQ1X4dbjGXF9bm) - Error Makes Clever Academy
 
 
 ### R

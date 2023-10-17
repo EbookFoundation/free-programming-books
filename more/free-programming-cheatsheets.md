@@ -15,7 +15,6 @@
 * [Go](#go)
 * [GraphQL](#graphql)
 * [HTML and CSS](#html-and-css)
-    * [Tailwind CSS](#tailwind-css)
 * [IDE and editors](#ide-and-editors)
 * [Java](#java)
 * [JavaScript](#javascript)

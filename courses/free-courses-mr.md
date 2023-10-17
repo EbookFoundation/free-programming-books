@@ -83,3 +83,6 @@
 * [Python in Marathi](https://youtube.com/playlist?list=PL9D-kb1y7d4cL3xI0Wk1krRjjiPE4IPUd) - MITU Skillologies
 * [Python Programming in Marathi (मराठी)](https://youtube.com/playlist?list=PLI1D7QZwksP64N_zkmXxr9DAzLy9mJClY) - I.T. मंडळ
 * [Python Tutorial for Beginners In Marathi {आता आपल्या भाषेत कोडिंग } From Basic TO Advance](https://youtube.com/playlist?list=PLFwH5aoadVcnfGG9WtTd-4qYO9gzk773P) - Code Marathi
+* [Python Tutorial For Beginners In Marathi Full 17 Hours Course (With Practice Sets) 🔥](https://www.youtube.com/watch?v=gJb6S8AmlYA) - Code Marathi
+
+  

@@ -90,6 +90,7 @@
 #### SQL
 
 * [Corso SQL](https://www.youtube.com/playlist?list=PLE555DB6188C967AC) - Fabrizio Camuso
+* [Corso SQL Completo 2023] (https://youtube.com/playlist?list=PLP5MAKLy8lP_zsv6uijqYTIjdVEYgWf44&si=_WTwGX679WGU6GRn) - Edoardo Midali
 
 
 ### Delphi

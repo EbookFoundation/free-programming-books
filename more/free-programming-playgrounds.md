@@ -25,6 +25,7 @@
     * [AngularJS](#angularjs)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
+* [Multiple Clouds](#multiple-clouds)
 * [Multiple Languages](#multiple-languages)
 * [.Net](#dotnet)
 * [Nim](#nim)
@@ -49,7 +50,6 @@
 * [TypeScript](#typescript)
     * [Angular](#angular)
 * [V](#v)
-* [Multiple Clouds](#multiple-clouds)
 
 
 ### APL
@@ -276,6 +276,7 @@
 * [Codepad](http://codepad.org/?lang=Python)
 * [InterviewBit - Online Python Compiler IDE](https://www.interviewbit.com/online-python-compiler/)
 * [OnlineGDB](https://www.onlinegdb.com/online_python_compiler)
+* [Online Python](https://www.online-python.com)
 * [Programiz.com](https://www.programiz.com/python-programming/online-compiler/)
 * [Pynative.com](https://pynative.com/online-python-code-editor-to-execute-python-code/)
 * [Python Trinket](https://trinket.io/python)
@@ -284,7 +285,6 @@
 * [Repl.it - NiceDualPoint](https://repl.it/repls/NiceDualPoint#main.py)
 * [SoloLearn](https://code.sololearn.com/python)
 * [Try Python](https://trypython.jcubic.pl) - Jakub T. Jankiewicz
-* [Online Python](https://www.online-python.com)
 
 
 ### R

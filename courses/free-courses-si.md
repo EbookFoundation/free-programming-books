@@ -23,6 +23,7 @@
 ### <a id="csharp"></a>C\#
 
 * [C# Full Course in Sinhala](https://youtube.com/playlist?list=PLvvtf05eMZ2CXD2JdZgSBgyl13ODqHOkO) - Fiqri Ismail
+* [C# Programming Sinhala | Complete Tutorial Series](https://youtube.com/playlist?list=PLUrYmKQ-FfzqVhQWb2qQLWB0hCF9oyVuy&si=Fh8mCEkGewCZssdb) - TechStreet
 
 
 ### HTML and CSS

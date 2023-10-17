@@ -379,6 +379,7 @@
 #### Jupyter
 
 * [Jupyter Cheatsheet](https://www.datacamp.com/cheat-sheet/jupyter-notebook-cheat-sheet) - Data Camp (HTML site with PDF links)
+* [Jupyter Notebook Cheat Sheets](https://ugoproto.github.io/ugo_py_doc/jn_cs/) - ugo_py_doc (HTML site with PDF links)
 
 
 #### Numpy Pandas

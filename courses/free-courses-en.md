@@ -132,7 +132,7 @@
 * [openSAP](https://open.sap.com)
 * [Platzi](https://courses.platzi.com)
 * [Udacity](https://www.udacity.com)
-* [The Odin Project](https://www.theodinproject.com/)
+* [The Odin Project](https://www.theodinproject.com)
 
 
 ### Algorithms & Data Structures

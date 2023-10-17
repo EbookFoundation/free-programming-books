@@ -210,7 +210,7 @@
 
 * [Corsi GNU/Linux Avanzati 2017](https://www.youtube.com/playlist?list=PLA27EZBY5veMZYKkqS2sQNPJSCGI1QniD) - POuL Politecnico di Milano
 * [Corsi GNU/Linux Base 2017](https://www.youtube.com/playlist?list=PLA27EZBY5veNNqkeuFwjJFWserz6QLzS_) - POuL Politecnico di Milano
-
+* [Linux Training Videos](https://www.youtube.com/playlist?list=PLVHgQku8Z934EjJNuMRnCgVF0Uf2kTX9y) - Intellipat
 
 ### Strumenti di sviluppo
 

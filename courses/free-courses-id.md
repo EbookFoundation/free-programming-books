@@ -254,7 +254,7 @@
 * [Tutorial React JS Bahasa Indonesia](https://www.youtube.com/playlist?list=PLp6BJq2fT_g91yCNCWi_bIe-ng7S7rt6V) - Lampung JS
 * [Tutorial React Native Bahasa Indonesia (Futsal App)](https://www.youtube.com/playlist?list=PLIan8aHxsPj2NeWJew3o86bSptVPXOppa) - Wahidev Academy
 * [Tutorial React Native Bahasa Indonesia (Futsal App)](https://www.youtube.com/playlist?list=PLIan8aHxsPj2NeWJew3o86bSptVPXOppa) - Wahidev Academy
-* [Tutorial React Paling Masuk Akal Untuk Pemula](https://youtu.be/kcnwI_5nKyA?si=XcqzI65dkuPihK92) - Web Programming UNPAS
+* [Tutorial React Paling Masuk Akal Untuk Pemula](https://www.youtube.com/playlist?list=PLFIM0718LjIUu3X2zYNqomEWs3sYd-fV1) - Sandhika Galih
 
 
 #### Vue.js

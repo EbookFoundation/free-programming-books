@@ -31,7 +31,42 @@ Genom att bidra samtycker du till att respektera [Code of Conduct](CODE_OF_CONDU
 
 5. GitHub Actions kommer att köra tester för att **se till att dina listor är alfabetiserade** och att **formateringsregler följs**. **Se till** att kontrollera att dina ändringar klarar testerna.
 
+6.
+1. Respekt för Individer:
 
+a. Behandla alla individer med respekt, oavsett deras bakgrund, ras, religion, kön, ålder eller förmågor.
+b. Lyssna aktivt och empatiskt på andras perspektiv och behov.
+
+2. Ärlighet och Integritet:
+
+a. Var ärlig, transparent och sann i alla dina affärer.
+b. Upprätthåll de högsta etiska standarderna och agera på ett sätt som främjar förtroende.
+c. Undvik intressekonflikter och rapportera snabbt om någon sådan uppstår.
+
+3. Miljöansvar:
+
+a. Erkänn vikten av att bevara vår naturliga miljö och sträva efter att minska vår ekologiska påverkan.
+b. Stöd hållbara metoder och ansvarsfull resurshantering.
+
+4. Samhällsansvar:
+
+a. Bidra positivt till samhället och samhället.
+b. Delta aktivt i initiativ som främjar jämlikhet, mångfald och inkludering.
+
+5. Sekretess och Dataskydd:
+
+a. Respektera individens integritet och följ dataskyddslagar.
+b. Skydda personlig information och använd den endast för legitima och auktoriserade ändamål.
+
+6. Professionalism och Excellence:
+
+a. Sträva efter excellens i allt du gör, och fortsätt utveckla dina färdigheter och kunskaper.
+b. Upprätthåll professionalism i dina interaktioner och representera din organisation och ditt land på ett positivt sätt.
+
+7. Mot Diskriminering och Trakasserier:
+
+a. Undvik att delta i eller tolerera diskriminering eller trakasserier i någon form.
+b. Stöd insatser för att eliminera diskriminering och trakasserier på arbetsplatsen och i samhället.
 ### Riktlinjer
 
 - se till att en bok är gratis. Dubbelkolla om det behövs. Det hjälper administratörerna om du kommenterar i PR om varför du tror att boken är gratis.
@@ -259,3 +294,5 @@ Om du kan skriva ut den och behålla dess essens är det inte en interaktiv hand
 
 - Du kan ange mer än en fil att kontrollera, med ett enda blanksteg för att separera varje post.
 - Om du anger mer än en fil baseras resultatet av bygget på resultatet av den senast kontrollerade filen. Du bör vara medveten om att du kan få godkända gröna builds på grund av detta, så se till att inspektera byggloggen i slutet av Pull Request genom att klicka på "Show all checks" -> "Details".
+
+- 

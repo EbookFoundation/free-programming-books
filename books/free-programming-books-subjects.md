@@ -330,7 +330,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 ### Graphical User Interfaces
 
 * [Event-Driven GTK by Example — 2021 Edition](https://mmstick.github.io/gtkrs-tutorials/) - Michael Murphy
-* [GUI development with Relm4](https://relm4.org/book/stable/) - Relm4
+* [GUI development with Relm4](https://relm4.org/book/stable) - Relm4
 * [GUI development with Rust and GTK 4](https://gtk-rs.org/gtk4-rs/stable/latest/book/) - Julian Hofer
 * [Programming with gtkmm 4](https://developer.gnome.org/gtkmm-tutorial/stable/)
 * [Search User Interfaces](https://searchuserinterfaces.com/book/) - Marti A. Hearst

@@ -113,7 +113,7 @@
 
 ### Elixir
 
-* [Curso de Elixir](https://www.youtube.com/playlist?list=PLydk1OOOmzo-AtU2l102ooounamleyMB9) - ELLYACADEMY
+* [Elixir (Linguagem de Programação)](https://www.youtube.com/playlist?list=PLydk1OOOmzo-AtU2l102ooounamleyMB9) - ELLYACADEMY
 * [Curso de Elixir Alquimia](https://www.youtube.com/playlist?list=PLv3nyCBtlWP8I9rknIrfcJWrO05yEzknD) - Alquimia Stone
 
 

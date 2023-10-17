@@ -17,4 +17,4 @@
 
 ### Javascript
 
-* [Javascript Tutorials In Urdu and Hindi](https://www.youtube.com/watch?v=Lgxgm-T9cgA&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf) - YahooBaba
+* [Javascript Tutorials In Urdu and Hindi](https://www.youtube.com/watch?v=Lgxgm-T9cgA&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf) - Yahoo Baba

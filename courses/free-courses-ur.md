@@ -18,3 +18,4 @@
 ### Javascript
 
 * [Javascript Tutorials In Urdu and Hindi](https://www.youtube.com/watch?v=Lgxgm-T9cgA&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf) - Yahoo Baba
+* [Learn JavaScript in Urdu & Hindi - For Beginners - Introduction](https://www.youtube.com/watch?v=NKgdmmiPVUc&list=PL52B8F99BC6AD1647) - WP Academy

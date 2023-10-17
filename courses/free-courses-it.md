@@ -77,8 +77,8 @@
 
 ### <a id="cpp"></a>C++
 
-* [Corso C++ 2023](https://www.youtube.com/playlist?list=PLP5MAKLy8lP85m_fZy3TkWqB_8Zt5Q5aK) - Edoardo Midali
 * [C++ 11](https://www.youtube.com/playlist?list=PL0qAPtx8YtJfZpJD7uFxAXglkiHSEhktG) - Fabrizio Camuso
+* [Corso C++ 2023](https://www.youtube.com/playlist?list=PLP5MAKLy8lP85m_fZy3TkWqB_8Zt5Q5aK) - Edoardo Midali
 * [C++ libreria QT - playlist 1](https://www.youtube.com/playlist?list=PL0qAPtx8YtJdH4GVwL_3QeJjPcz3DHE2t) - Fabrizio Camuso
 
 

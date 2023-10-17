@@ -135,7 +135,6 @@
 * [Udacity](https://www.udacity.com)
 
 
-
 ### Algorithms & Data Structures
 
 * [Advanced Data Structures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/) - Erik Demaine
@@ -1150,8 +1149,8 @@
 * [Linux Tutorial for Beginners - Learn Linux and the Bash Command Line](https://ryanstutorials.net/linuxtutorial) - Ryan Chadwick
 * [Linux Tutorials and Projects](https://www.udemy.com/course/linux-tutorials/) - Jason Cannon (Udemy)
 * [The Linux Basics: Beginner to Sysadmin, Step by Step](https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK)
-* [Red Hat Enterprise Linux Technical Overview](https://www.udemy.com/course/red-hat-enterprise-linux-technical-overview/) - Red Hat Inc. (Udemy)
 * [Introduction to Linux – Full Course for Beginners](https://www.youtube.com/watch?v=sWbUDq4S6Y8) - Beau (freeCodeCamp.org)
+* [Red Hat Enterprise Linux Technical Overview](https://www.udemy.com/course/red-hat-enterprise-linux-technical-overview/) - Red Hat Inc. (Udemy)
 
 
 ### Lua
@@ -1193,8 +1192,8 @@
 * [Stanford SEE 229 - Machine Learning](https://see.stanford.edu/Course/CS229)
 * [Stanford University Machine Learning](https://www.coursera.org/learn/machine-learning)
 * [Understand Machine Learning Engineering by Building Projects](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp) - Alexey Grigorev
-* [Statistics for Applications](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/) - MIT OpenCourseWare
 * [Machine Learning Course for Beginners](https://www.youtube.com/watch?v=NWONeJKn6kc) - freeCodeCamp.org
+* [Statistics for Applications](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/) - MIT OpenCourseWare
 
 
 ### Markdown
@@ -1396,8 +1395,8 @@
 * [Django Wednesdays](https://www.youtube.com/playlist?list=PLCC34OHNcOtqW9BJmgQPPzUpJ8hl49AGy) - Codemy.com
 * [Python Django Tutorial 2018 for Beginners](https://www.youtube.com/playlist?list=PL-J2q3Ga50oOpni_xS2PPUe4mf9lM96dD) - Clever Programmer
 * [Try Django 3.2 - Python Web Development Tutorial Series](https://www.youtube.com/playlist?list=PLEsfXFp6DpzRMby_cSoWTFw8zaMdTEXgL) - Justin Mitchel, CodingEntrepreneurs
-* [Python Django Tutorial 2021](https://www.youtube.com/playlist?list=PL-51WBLyFTg1pUMaTJ4WSgnyvWfLGmwDm) - Dennis Ivy
 * [Django For Everybody - Full Python University Course](https://www.youtube.com/watch?v=iwRneX7GIGI) - Dr. Charles Severance (freeCodeCamp.org)
+* [Python Django Tutorial 2021](https://www.youtube.com/playlist?list=PL-51WBLyFTg1pUMaTJ4WSgnyvWfLGmwDm) - Dennis Ivy
 
 
 #### Flask
@@ -1607,8 +1606,8 @@
 * [Web Development Tutorial By Coding Ninjas (In English)](https://www.youtube.com/playlist?list=PLrk5tgtnMN6TNuhUEf5-UgPxa1wu-l6kP) - Coding Ninjas
 * [Web Development Tutorials for Beginners](https://www.youtube.com/playlist?list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc) - LearnCode.academy
 * [Web Programming](https://open.cs.uwaterloo.ca/web-programming/) - Centre for Education in Math and Computing (University of Waterloo)
-* [Web Information Retrieval](https://www.youtube.com/playlist?list=PLAQopGWlIcya-9yzQ8c8UtPOuCv0mFZkr) - L. Becchetti, A. Vitaletti (University of Sapienza Rome)
 * [Full Course Web Development 22 Hours | Learn Full Stack Web Development From Scratch](https://www.youtube.com/watch?v=ZxKM3DCV2kE) - Mehul Mohan (codedamn)
+* [Web Information Retrieval](https://www.youtube.com/playlist?list=PLAQopGWlIcya-9yzQ8c8UtPOuCv0mFZkr) - L. Becchetti, A. Vitaletti (University of Sapienza Rome)
 
 
 ### Web3

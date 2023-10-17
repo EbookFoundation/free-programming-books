@@ -16,17 +16,17 @@ Dengan berkontribusi, Anda setuju untuk menghormati [Kode Etik](CODE_OF_CONDUCT-
 <!----><a id="in-a-nutshell"></a>
 ## Versi pendek
 
-1. "Tautan untuk mengunduh buku dengan mudah" tidak selalu merujuk pada buku yang *gratis*. Harap hanya mendaftarkan tautan yang gratis. Pastikan itu benar-benar gratis. Kami tidak menerima tautan ke halaman yang *meminta* alamat email yang valid untuk mengunduh buku, tetapi kami menyambut daftar situs yang meminta alamat email.
+1. "Tautan download buku" tidak selalu merujuk pada buku yang benar-benar *gratis*. Mohon untuk hanya mendaftarkan tautan ke buku/konten yang benar-benar gratis. Kami tidak menerima tautan ke halaman website yang *membutuhkan* alamat email dari pengguna sebelum mengunduh atau mengakses kontennya. Kami bisa menerima tautan yang membutuhkan alamat email pengguna (atau yang serupa) jika pada bagian keterangan sesuai dengan panduan yang kami berikan.
 
 2. Anda tidak harus terbiasa dengan Git: jika Anda menemukan sesuatu yang menarik *dan belum ada di repositori ini*, silakan buka [Isu](https://github.com/EbookFoundation/free-programming-books/issues) dengan proposal tautan Anda.
     - Jika Anda sudah familiar dengan Git, fork repositori dan kirimkan Pull Request (PR) Anda.
 
-3. Kami memiliki 6 kategori tautan. Pastikan untuk memilih kategori yang tepat:
+3. Kami memiliki 6 kategori tautan. Pastikan untuk memilih kategori yang tepat sebelum mendaftarkan tautan yang anda usulkan:
 
     - *Buku*: PDF, HTML, ePub, halaman web berbasis gitbook.io, repositori Git, dll.
     - *Kursus*: Kursus menggambarkan materi pembelajaran yang bukan berupa buku. [Ini adalah contoh kursus](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
-    - *Tutorial interaktif*: Situs web interaktif yang memungkinkan pengguna memasukkan kode sumber perintah dan mengevaluasi hasilnya (dengan "mengevaluasi" kami tidak bermaksud "menilai"). misalnya: [Coba Haskell](http://tryhaskell.org), [Coba Git](https://learngitbranching.js.org).
-    - *Playgrounds*: Situs web interaktif, permainan, atau perangkat lunak desktop untuk belajar pemrograman. Anda dapat menulis, mengkompilasi (atau menjalankan), dan membagikan potongan kode. Playgrounds seringkali memperbolehkan Anda untuk membuat salinan (fork) dan membebaskan Anda untuk bermain dengan kodenya.
+    - *Tutorial interaktif*: Situs web interaktif yang memungkinkan pengguna memasukkan kode sumber (source code) atau perintah dan hasilnya bisa dievaluasi ("evaluasi" yang di maksud bukan evaluasi dengan tujuan memberikan "nilai" yang berupa angka). misalnya: [Coba Haskell](http://tryhaskell.org), [Coba Git](https://learngitbranching.js.org).
+    - *Playgrounds*: Situs web interaktif, permainan (game), atau aplikasi desktop untuk belajar pemrograman. Anda dapat menulis, mengkompilasi (atau menjalankan), dan membagikan source code yang ditulis. Playgrounds seringkali memperbolehkan Anda untuk membuat salinan (fork) dan membebaskan Anda untuk bermain dengan kodenya.
     - *Podcast dan Screencasts*: Podcast dan Screencasts.
     - *Kumpulan Masalah & Pemrograman Kompetitif*: Situs web atau perangkat lunak yang memungkinkan Anda untuk mengukur kemampuan pemrograman Anda dengan menyelesaikan masalah-masalah sederhana atau kompleks, dengan atau tanpa proses tinjauan kode, dengan atau tanpa membandingkan hasilnya dengan pengguna lain.
 
@@ -38,27 +38,27 @@ Dengan berkontribusi, Anda setuju untuk menghormati [Kode Etik](CODE_OF_CONDUCT-
 <!----><a id="guidelines"></a>
 ### Pedoman
 
-- Pastikan bahwa buku yang Anda tambahkan benar-benar gratis. Periksa dua kali jika perlu. Ini akan membantu para admin jika Anda memberikan komentar di PR mengenai alasan Anda menganggap buku tersebut gratis.
+- Pastikan bahwa buku yang Anda tambahkan benar-benar gratis. Periksa dua kali jika perlu. Para Admin akan sangat terbantu jika Anda menambahkan catatan pada Pull Request (PR) tentang alasan Anda menganggap buku/konten yang diusulkan gratis.
 - Kami tidak menerima file yang bersumber dari Google Drive, Dropbox, Mega, Scribd, Issuu, dan platform unggah file serupa lainnya.
 - Masukkan tautan Anda dalam urutan alfabetis, seperti yang dijelaskan [di bawah](#alphabetical-order).
 - Gunakan tautan dengan sumber yang paling otoritatif (artinya situs web penulis lebih baik daripada situs web penyunting, yang lebih baik daripada situs web pihak ketiga).
     - Jangan gunakan layanan hosting file (termasuk namun tidak terbatas pada tautan Dropbox dan Google Drive).
 - Selalu gunakan protokol tautan `https` daripada tautan `http` -- selama keduanya berada di domain yang sama dan menyajikan konten yang sama.
-- Pada domain root, hapus garis miring di akhir: `http://example.com` alih-alih `http://example.com/`
+- Pada domain utama, hapus garis miring di akhir: `http://example.com` alih-alih `http://example.com/`
 - Selalu pilih tautan terpendek: `http://example.com/dir/` lebih baik daripada `http://example.com/dir/index.html`.
     - Jangan gunakan tautan penyingkat (shortener) URL.
 - Gunakan tautan ke "versi terbaru" daripada menautkan ke "versi tertentu": `http://example.com/dir/book/current/` lebih baik daripada `http://example.com/dir/book/v1.0.0/index.html`.
-- Jika sebuah tautan memiliki sertifikat yang sudah kedaluwarsa/sertifikat buatan sendiri/masalah SSL lainnya:
-    1. *Gantilah* dengan versi `http` jika memungkinkan (karena prosesi pengecualian / bypass bisa jadi rumit di perangkat seluler).
+- Jika sebuah tautan memiliki sertifikat SSL yang sudah kedaluwarsa, sertifikat SSL buatan sendiri, atau masalah SSL lainnya:
+    1. *Gantilah* dengan versi `http` jika memungkinkan (karena proses bypass sertifikat SSL pada perangkat genggam terbilang sulit).
     2. *Biarkan apa adanya* jika versi `http` tidak tersedia, tetapi tautan dapat diakses melalui `https` dengan mengabaikan peringatan di browser atau menambahkan pengecualian.
     3. *Hapus* jika tidak ada pilihan lain.
-- Jika sebuah tautan ada dalam beberapa format, tambahkan tautan terpisah dengan catatan tentang setiap format.
-- Jika sebuah sumber ada di berbagai tempat di Internet:
+- Jika sebuah tautan/konten mempunyai beberapa format, tambahkan tautan terpisah dengan catatan tentang setiap format.
+- Jika sebuah tautan/kontent ada di berbagai tempat di Internet:
     - Gunakan tautan dengan sumber yang paling otoritatif (artinya situs web penulis lebih baik daripada situs web penyunting, yang lebih baik daripada situs web pihak ketiga).
-    - Jika mereka merujuk ke edisi yang berbeda, dan Anda menganggap edisi tersebut cukup berbeda sehingga layak untuk tetap mempertahankannya, tambahkan tautan terpisah dengan catatan tentang setiap edisi (lihat [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) untuk berpartisipasi dalam diskusi tentang pemformatan).
-- Utamakan komit atomik (satu komit per-penambahan/penghapusan/modifikasi) daripada komit yang lebih besar. Tidak perlu menggabungkan komit-komit Anda sebelum mengirimkan PR. (Kami tidak akan pernah menegakkan aturan ini karena ini hanya masalah kenyamanan bagi para pengelola).
-- Jika buku sudah lama diterbitkan, sertakan tanggal publikasinya bersama dengan judulnya.
-- Sertakan nama atau nama-nama penulis yang sesuai. Anda dapat memendekkan daftar penulis dengan "`et al.`".
+    - Jika tautan/konten-nya merujuk ke edisi yang berbeda, dan Anda merasa edisi tersebut cukup berbeda sehingga layak untuk tetap didaftarkan, tambahkan tautan terpisah dengan menambahkan keterangan untuk masing-masing edisi (lihat [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) untuk berpartisipasi dalam diskusi tentang pemformatan).
+- Utamakan komit atomik (satu komit per-penambahan/penghapusan/modifikasi) daripada komit yang lebih besar. Tidak perlu menggabungkan komit-komit Anda sebelum mengirimkan PR. (Kami tidak memaksakan aturan ini untuk diikuti, karena ini hanya masalah kenyamanan bagi para pengelola).
+- Jika buku/konten yang ingin didaftarkan atau terbitan lama, sertakan tanggal publikasi setelah judul dari konten/buku yang diusulkan.
+- Sertakan nama atau nama-nama penulis (jika penulis lebih dari satu). Anda dapat menyingkat daftar penulis dengan "`et al.`".
 - Jika buku belum selesai, dan masih dalam tahap pengerjaan, tambahkan keterangan "`dalam proses`" seperti yang dijelaskan [di bawah ini](#in_process).
 - Jika suatu sumber merupakan sumber yang dipulihkan menggunakan [*Internet Archive's Wayback Machine*](https://web.archive.org) (atau serupa), mohon tambahkan keterangan "`terarsip`" seperti yang dijelaskan [di bawah](#archived). Akan tetapi mohon gunakan versi terbaru dan lengkap.
 - Jika suatu sumber membutuhkan alamat email pengunduh/pengunjung atau membutukan proses pembuatan akun maka tambahkan catatan sesuai dengan bahasa yang tepat dalam tanda kurung, misalnya: `(alamat email *wajib*, tidak wajib)`.

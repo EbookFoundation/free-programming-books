@@ -14,7 +14,6 @@
 * [C++](#cpp)
 * [Cloud Computing](#cloud-computing)
     * [AWS](#aws)
-* [CodeIgniter](#codeigniter)
 * [Competitive Programming](#competitive-programming)
 * [Compiler Design](#compiler-design)
 * [Computer Graphics](#computer-graphics)
@@ -51,6 +50,7 @@
 * [Networking](#networking)
 * [Operating Systems](#operating-systems)
 * [PHP](#php)
+    * [CodeIgniter](#codeigniter)
     * [Laravel](#laravel)
 * [Python](#python)
     * [Django](#django)
@@ -172,16 +172,6 @@
 * [C++ Tutorial for Beginners \| C++ Tutorials In Hindi](https://www.youtube.com/playlist?list=PLmGElG-9wxc8VMy1nNHDQldH2dU8Y08s7) - Manish Gehlot, WsCube Tech Programming Concepts
 * [C++ Tutorials In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL) - CodeWithHarry
 * [The Complete C++ Course \| Hindi](https://www.youtube.com/playlist?list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF) - Saurabh Shukla
-
-
-### CodeIgniter
-
-* [Codeigniter 4 Tutorial For Beginners in Hindi](https://www.youtube.com/playlist?list=PL8kfzPha-e2iC8cT79hd5hCVffkbW309d) - Ubk InfoTech
-* [Codeigniter 4 Tutorial in Hindi](https://www.youtube.com/playlist?list=PLolI8AY2AS9ZmTeMOpu1iTOsx9WALtCgM) - Code Improve
-* [Codeigniter 4 Tutorial in Hindi](https://www.youtube.com/playlist?list=PL4_As-_ROQH2OIE5uILfodqSNQzUfAqFs) - Cs Krish
-* [CodeIgniter 4 Tutorials for Beginners](https://www.youtube.com/playlist?list=PL79xP87McblnMZG-F1hnRLuMgM5C95nMG) - GoPHP
-* [Codeigniter Tutorial for Beginners Step by Step in Hindi](https://www.youtube.com/playlist?list=PL_HlKez9XCSM6WNO_dHhF3yPKVdY1ZZzB) - Technical Suneja
-* [Learn CodeIgniter 4 Framework Tutorials Hindi](https://www.youtube.com/playlist?list=PLn1Gr7zhiAMfWpSYfDgND8t7KjiqSaEum) - Online Web Tutor
 
 
 ### Cloud Computing
@@ -537,6 +527,16 @@
 * [PHP Tutorial for beginners in Hindi](https://www.youtube.com/playlist?list=PLmGElG-9wxc_Hp_bqKH0-cpeboH1_sQg7) - ScoreShala
 * [PHP Tutorial in Hindi / Urdu](https://www.youtube.com/playlist?list=PL0b6OzIxLPbyrzCMJOFzLnf_-_5E_dkzs) - Yahoo Baba
 * [PHP Tutorials in Hindi](https://youtube.com/playlist?list=PLu0W_9lII9aikXkRE0WxDt1vozo3hnmtR) - CodeWithHarry
+
+
+### CodeIgniter
+
+* [Codeigniter 4 Tutorial For Beginners in Hindi](https://www.youtube.com/playlist?list=PL8kfzPha-e2iC8cT79hd5hCVffkbW309d) - Ubk InfoTech
+* [Codeigniter 4 Tutorial in Hindi](https://www.youtube.com/playlist?list=PLolI8AY2AS9ZmTeMOpu1iTOsx9WALtCgM) - Code Improve
+* [Codeigniter 4 Tutorial in Hindi](https://www.youtube.com/playlist?list=PL4_As-_ROQH2OIE5uILfodqSNQzUfAqFs) - Cs Krish
+* [CodeIgniter 4 Tutorials for Beginners](https://www.youtube.com/playlist?list=PL79xP87McblnMZG-F1hnRLuMgM5C95nMG) - GoPHP
+* [Codeigniter Tutorial for Beginners Step by Step in Hindi](https://www.youtube.com/playlist?list=PL_HlKez9XCSM6WNO_dHhF3yPKVdY1ZZzB) - Technical Suneja
+* [Learn CodeIgniter 4 Framework Tutorials Hindi](https://www.youtube.com/playlist?list=PLn1Gr7zhiAMfWpSYfDgND8t7KjiqSaEum) - Online Web Tutor
 
 
 ### Laravel

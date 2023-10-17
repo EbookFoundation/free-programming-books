@@ -822,6 +822,7 @@
 * [SwiftUI Tutorials for Beginners](https://www.youtube.com/playlist?list=PLMRqhzcHGw1Z-lZaaun3A3mV9PbEfHANI) - CodeWithChris
 * [The Complete Swift iOS Developer - Create Real Apps in Swift](https://www.udemy.com/course/the-complete-ios-10-developer-course/) - Grant Klimaytys (Udemy)
 * [Unit Testing in iOS](https://www.youtube.com/playlist?list=PLMRqhzcHGw1ZLLvLwuW8AP3n-A3nsRn9P) - CodeWithChris
+* [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) - HackingWithSwift, Paul Hudson
 
 
 ### Java

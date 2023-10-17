@@ -17,4 +17,4 @@
 
 ### HTML 
 
-* [プログラミングで人生の可能性を広げよう](https://prog-8.com0) - Progate(company's name) 
+* [プログラミングで人生の可能性を広げよう](https://prog-8.com0) - Progate (アカウント作成が*必要*) 

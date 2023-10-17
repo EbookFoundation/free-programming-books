@@ -222,3 +222,4 @@
 
 * [SQL commands and PL/SQL programs complete in telugu - Oracle SQL-PL/SQL in telugu](https://www.youtube.com/watch?v=2XB5CddzEaM) - Edusoft Learning Systems - Learning Simplified
 * [Sql tutorials in telugu - sql video tutorials - sql tutorials for beginners telugu](https://www.youtube.com/playlist?list=PLXx2-0oYp1LPUXvjjriVMaMWALucsitR1) - VLR Training
+* [#1 SQL Introduction in Telugu | SQL Full Course |SQL Tutorial for beginner in Telugu | SQL in Telugu](https://youtube.com/playlist?list=PLANRDZaL1nlsfBLayvMb_y9k__o_8kt24&si=D6t3B-PmhliprQRL) - Telugu Programmer

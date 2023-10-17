@@ -4,7 +4,7 @@
 * [HTML and CSS](#html-and-css)
 * [Javascript](#javascript)
 
-### <a id="csharp"></a>C#&lrm;
+### <a id="csharp"></a>C#;
 
 * [C# Tutorials In Urdu/Hindi](https://youtube.com/playlist?list=PLUyYwyJA_WfQd5zeCU890TDFQAqboekyc) - ProgramInUrdu
 

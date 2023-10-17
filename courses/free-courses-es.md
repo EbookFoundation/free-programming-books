@@ -291,6 +291,7 @@
 ### VS Code
 
 * [Visual Studio Code: Mejora tu velocidad para codificar](https://www.udemy.com/course/vscode-mejora-tu-velocidad-para-codificar/) - Fernando Herrera
+* [Aprende VS Code ahora! | curso completo de VSCode desde CERO](https://www.youtube.com/watch?v=Ei1y51K8jQk) - HolaMundo
 
 
 ### Web & Webmaster

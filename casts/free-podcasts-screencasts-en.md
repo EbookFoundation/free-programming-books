@@ -46,6 +46,7 @@
 ### <a id="csharp"></a>C\#
 
 * [Beginning C# with Unity](https://www.youtube.com/playlist?list=PLFgjYYTq6xyhtVK6VzLiFe3pmBu-XSNlX) - Brian Douglas Moakley, VegetarianZombie (screencast)
+* [Clean Architecture with ASP.NET Core 7](https://www.youtube.com/watch?v=j6u7Pw6dyUw&list=PLtJhaXpHyyYabvA-7pKBDyKxuClXStUef) - Steve Smith (screencast)
 * [General .NET videos](https://www.youtube.com/playlist?list=PLUOequmGnXxPjam--7GAls6Tb1fSmL9mL) - Nick Chapsas(screencast)
 * [How to program in C# - Beginner Course \| Brackeys](https://www.youtube.com/playlist?list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51) - Asbjørn Thirslund (screencast)
 

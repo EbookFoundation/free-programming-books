@@ -810,7 +810,7 @@ Books on general-purpose programming that don't focus on a specific language are
 ### Go
 
 * [An Introduction to Programming in Go](https://www.golang-book.com/books/intro) - Caleb Doxsey
-* [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/)
+* [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/) - astaxie
 * [Building Web Apps with Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
 * [Darker Corners of Go](https://rytisbiel.com/2021/03/06/darker-corners-of-go/) - Rytis Bieliunas
 * [Effective Go](https://golang.org/doc/effective_go.html)
@@ -988,6 +988,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [NSHipster](http://nshipster.com/#archive) (Resource)
 * [Start Developing iOS Apps (Swift)](https://developer.apple.com/library/prerelease/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html) (HTML)
 * [Start Developing iOS Apps Today (Objective-C) - Last updated 22.10.2013](http://everythingcomputerscience.com/books/RoadMapiOS.pdf) (PDF)
+* [Xcode Tutorial for Beginners](https://codewithchris.com/xcode-tutorial) - Chris Ching
 
 
 ### IoT
@@ -1612,6 +1613,7 @@ Books on general-purpose programming that don't focus on a specific language are
 ### MySQL
 
 * [Essential MySQL](https://www.programming-books.io/essential/mysql/) - Krzysztof Kowalczyk, StackOverflow Contributors
+* [Learning MySQL](https://riptutorial.com/Download/mysql.pdf) - Compiled from StackOverflow Documentation (PDF)
 * [MySQL 8.0 Tutorial Excerpt](https://dev.mysql.com/doc/mysql-tutorial-excerpt/8.0/en/tutorial.html) (HTML) [(PDF)](https://downloads.mysql.com/docs/mysql-tutorial-excerpt-8.0-en.pdf)
 * [MySQL Notes for Professionals](https://goalkicker.com/MySQLBook/) - Compiled from StackOverflow Documentation (PDF)
 

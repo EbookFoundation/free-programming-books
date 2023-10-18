@@ -871,6 +871,7 @@
 * [Spring Boot Tutorials](https://www.youtube.com/playlist?list=PLhfxuQVMs-nx3YQa3XJ9-4g_EoK0J8WhU) - Daily Code Buffer (Shabbir Dawoodi)
 * [Spring Boot Tutorials Full Course](https://www.youtube.com/watch?v=35EQXmHKZYs) - Telusko (Navin Reddy)
 * [What is Java?](https://sagecode.net/java/index.html) - Elucian Moise (Sage-Code)
+* [Java Tutorial For Beginners](https://www.scaler.com/topics/java/) - Tarun Luthra
 
 
 ### JavaScript

@@ -51,6 +51,7 @@
 * [Networking](#networking)
 * [Operating Systems](#operating-systems)
 * [PHP](#php)
+    * [CodeIgniter](#codeigniter)
     * [Laravel](#laravel)
 * [Python](#python)
     * [Django](#django)
@@ -321,6 +322,7 @@
 
 ### HTML and CSS
 
+* [Complete Web Dev using mern stack Love Babbar](https://www.youtube.com/playlist?list=PLDzeHZWIZsTo0wSBcg4-NMIbC0L8evLrD) - Love Babbar
 * [CSS Tutorial in Hindi \| Complete CSS Course For Beginners to Advanced \| Step By Step Tutorial](https://www.youtube.com/watch?v=WyxzAU3p8CE) - Vishwajeet Kumar (Tech Gun)
 * [Free Web Development Course For School Students (Grade 5 - 10) \| Certified Course By Coding Blocks Junior \| Learn HTML, CSS, Javascript](https://www.youtube.com/playlist?list=PLhLbJ9UoJCvsCXqP9yAOZpzXHhWkLBXdw) - Coding Blocks Junior
 * [Front End Development Tutorial \| Complete HTML and CSS Tutorial for Beginners (9 Hours)](https://www.youtube.com/watch?v=Eu7G0jV0ImY) - WsCube Tech
@@ -545,6 +547,16 @@
 * [PHP Tutorial for beginners in Hindi](https://www.youtube.com/playlist?list=PLmGElG-9wxc_Hp_bqKH0-cpeboH1_sQg7) - ScoreShala
 * [PHP Tutorial in Hindi / Urdu](https://www.youtube.com/playlist?list=PL0b6OzIxLPbyrzCMJOFzLnf_-_5E_dkzs) - Yahoo Baba
 * [PHP Tutorials in Hindi](https://youtube.com/playlist?list=PLu0W_9lII9aikXkRE0WxDt1vozo3hnmtR) - CodeWithHarry
+
+
+### CodeIgniter
+
+* [Codeigniter 4 Tutorial For Beginners in Hindi](https://www.youtube.com/playlist?list=PL8kfzPha-e2iC8cT79hd5hCVffkbW309d) - Ubk InfoTech
+* [Codeigniter 4 Tutorial in Hindi](https://www.youtube.com/playlist?list=PLolI8AY2AS9ZmTeMOpu1iTOsx9WALtCgM) - Code Improve
+* [Codeigniter 4 Tutorial in Hindi](https://www.youtube.com/playlist?list=PL4_As-_ROQH2OIE5uILfodqSNQzUfAqFs) - Cs Krish
+* [CodeIgniter 4 Tutorials for Beginners](https://www.youtube.com/playlist?list=PL79xP87McblnMZG-F1hnRLuMgM5C95nMG) - GoPHP
+* [Codeigniter Tutorial for Beginners Step by Step in Hindi](https://www.youtube.com/playlist?list=PL_HlKez9XCSM6WNO_dHhF3yPKVdY1ZZzB) - Technical Suneja
+* [Learn CodeIgniter 4 Framework Tutorials Hindi](https://www.youtube.com/playlist?list=PLn1Gr7zhiAMfWpSYfDgND8t7KjiqSaEum) - Online Web Tutor
 
 
 ### Laravel

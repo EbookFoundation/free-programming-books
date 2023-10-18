@@ -27,19 +27,15 @@ Welcome to the world of C++ programming! Below, you'll find a treasure trove of 
 
 ## Data Structures
 
+* [Binary Search Tree (BST)](https://drive.google.com/file/d/1vu4akE1hB7ZJQxQ_mHlrs1qVEvjI1dpI/view?usp=share_link): Explore the binary search tree.
+* [Binary Tree](https://drive.google.com/file/d/16MMpkDfQapCYAT54tFDniJcI7TrCSuVJ/view?usp=share_link): Dive into binary tree concepts.
+* [Hashmaps](https://drive.google.com/file/d/1GFORcOGWk6JxHBMAv_SbPbcXnqJcN7Lu/view?usp=share_link): Dive into hash maps.
 * [Linked List 1](https://drive.google.com/file/d/1-UFsvr9Uw41r0VFBQcSlYQ7qzjrONEbD/view?usp=share_link): Explore the fundamentals of linked lists.
 * [Linked List 2](https://drive.google.com/file/d/17VV8SGudQnW7zefiyai7w3-05X4g9ltD/view?usp=share_link): Dive deeper into linked list manipulation.
-
-* [Stacks](https://drive.google.com/file/d/1gBECEEH_5nDzLSDHoAg2uEp2uedT18MR/view?usp=share_link): Understand the stack data structure.
-* [Queues](https://drive.google.com/file/d/1-c7dhjuO0CfniuzGe9_FYd2NDCLg79Os/view?usp=share_link): Explore the world of queues.
-
-* [Tree](https://drive.google.com/file/d/1Net8nA_FuQ3PiV3PXzbIdRZmL0XPOhXI/view?usp=share_link): Learn about tree structures in C++.
-* [Binary Tree](https://drive.google.com/file/d/16MMpkDfQapCYAT54tFDniJcI7TrCSuVJ/view?usp=share_link): Dive into binary tree concepts.
-* [Binary Search Tree (BST)](https://drive.google.com/file/d/1vu4akE1hB7ZJQxQ_mHlrs1qVEvjI1dpI/view?usp=share_link): Explore the binary search tree.
-
 * [Priority Queues](https://drive.google.com/file/d/1kgptjhW55D4CUMUM6FF3xHIDeXbTbalk/view?usp=share_link): Understand the concept of priority queues.
-* [Hashmaps](https://drive.google.com/file/d/1GFORcOGWk6JxHBMAv_SbPbcXnqJcN7Lu/view?usp=share_link): Dive into hash maps.
-
+* [Queues](https://drive.google.com/file/d/1-c7dhjuO0CfniuzGe9_FYd2NDCLg79Os/view?usp=share_link): Explore the world of queues.
+* [Stacks](https://drive.google.com/file/d/1gBECEEH_5nDzLSDHoAg2uEp2uedT18MR/view?usp=share_link): Understand the stack data structure.
+* [Tree](https://drive.google.com/file/d/1Net8nA_FuQ3PiV3PXzbIdRZmL0XPOhXI/view?usp=share_link): Learn about tree structures in C++.
 * [Tries and Huffman Coding](https://drive.google.com/file/d/1ygbfInknW50NjeXHa76r9XPABetOJjgN/view?usp=share_link): Explore trie data structures and Huffman coding.
 
 ## Problem Solving

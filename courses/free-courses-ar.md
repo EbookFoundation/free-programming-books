@@ -5,7 +5,6 @@
 * [Algorithms & Data Structures](#algorithms--data-structures)
 * [Assembly](#assembly)
 * [AWS](#aws)
-* [Docker](#Docker)
 * [Bootstrap](#bootstrap)
 * [C](#c)
 * [C#&lrm;](#csharp)
@@ -17,6 +16,7 @@
     * [SQL](#sql)
 * [Deep Learning](#deep-learning)
 * [DevOps](#devops)
+* [Docker](#Docker)
 * [Elastic](#elastic)
 * [Flutter](#flutter)
 * [Game Development](#game-development)
@@ -72,7 +72,6 @@
 * [grokking-algorithms&rlm;](https://www.youtube.com/playlist?list=PLIxq078xdGdZl38Yx2IhYc_YpKjx7MAXW) - Nehal Elsamoly&rlm; (:construction: *in process*)
 * [Problem solving (Arabic)&rlm;](https://www.youtube.com/playlist?list=PLYknlDiw2kSwdDhTSDoX7ZoVEle8nbZdk) - Muhammed Afifi
 * [Standard Template Library (STL) Full Tutorial Using C++ In Arabic&rlm;](https://www.youtube.com/playlist?list=PLCInYL3l2AainAE4Xq2kdNGDfG0bys2xp) - Adel Nasim
-* [SQL for Data Analysis | شاهد كيف أصبح الفيل والدرفيل أصدقاء](https://www.youtube.com/watch?v=kb-_GbpH3sQ) -  Big Data
 
 
 ### Assembly
@@ -86,11 +85,6 @@
 * [AWS Certified Solutions Architect - Associate By Eng-Mohammed Oday | Arabic](https://www.youtube.com/playlist?list=PLCIJjtzQPZJ_yv1T4eKYsY1hZxcYSjhGY) - Free4arab | Information Technology
 * [AWS SAA-C02 - كورس كامل بالعربي مع المهندس عيسى أبو شريف](youtube.com/playlist?list=PLOoZRfEtk6kWSM_l9xMjDh-_MJXl03-pf) - AWS Riyadh User Group
 
-
-### Docker
-
-* [Docker and Kubernetes | العلبة دي فيها سوعبان
-| Arabic](https://www.youtube.com/watch?v=PrusdhS2lmo) - BigData 
 
 ### Bootstrap
 
@@ -175,6 +169,7 @@
 * [Learn MySQL&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz6DT8SzQ1CODJTH-NIA7R9) - Elzero Web School
 * [MS SQL Server For Beginners](https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE) - محمد الدسوقى
 * [MySQL tutorials \|\| بناء قواعد البيانات بكفاءة عالية](https://www.youtube.com/playlist?list=PLF8OvnCBlEY25O_Ql0CrgQUAc5NVYkWF2) - TheNewBaghdad
+* [SQL for Data Analysis | شاهد كيف أصبح الفيل والدرفيل أصدقاء](https://www.youtube.com/watch?v=kb-_GbpH3sQ) -  Big Data
 
 
 ### Deep Learning
@@ -190,6 +185,11 @@
 
 * [GitOps and K8s بالعربي](https://www.youtube.com/playlist?list=PLTRDUPO2OmInz2Fo41zwnoR1IArx70Hig) - Ahmed Elemam
 * [Kubernetes بالعربي](https://www.youtube.com/playlist?list=PLX1bW_GeBRhDCHijCrMO5F-oHg52rRBpl) - Codographia
+
+
+### Docker
+
+* [Docker and Kubernetes | العلبة دي فيها سوعبان| Arabic](https://www.youtube.com/watch?v=PrusdhS2lmo) - BigData 
 
 
 ### Elastic
@@ -228,7 +228,6 @@
 * [GitHub - تعلم العمل المشترك على](https://www.youtube.com/playlist?list=PLF8OvnCBlEY0CRqKiYKwOtrH-75MGIuyM) - TheNewBaghdad
 * [Learn Git in Arabic&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNOYVfQs_NFNyykcqkaJ_plmK) - Algorithm Academy
 * [Git and GitHub | شخبط وانت متطمن ](https://www.youtube.com/watch?v=Q6G-J54vgKc&t=3162s&pp=ygUMZ2l0IGJpZyBkYXRh) - BigData 
-
 
 
 ### HTML and CSS

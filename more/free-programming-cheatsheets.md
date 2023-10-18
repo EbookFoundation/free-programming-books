@@ -200,6 +200,7 @@
 * [HTML Cheatsheet](https://www.codewithharry.com/blogpost/html-cheatsheet/) - CodeWithHarry (HTML)
 * [SCSS CheatSheet](https://devhints.io/sass) - devhints, Rico Santa Cruz (HTML)
 * [SEO CheatSheet](https://learn-the-web.algonquindesign.ca/topics/seo-cheat-sheet/) - Algonquin Design (HTML)
+* [Tailwind CSS Cheat Sheet](https://tailwindcomponents.com/cheatsheet) - Tailwind Components
 
 
 ### IDE and editors

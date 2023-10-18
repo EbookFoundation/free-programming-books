@@ -17,8 +17,8 @@
 
 * [Dynamic Programming Book «ডাইনামিক প্রোগ্রামিং বই»](https://dp-bn.github.io) - Tasmeem Reza, Mamnoon Siam (PDF, [LaTeX](https://github.com/Bruteforceman/dynamic-progamming-book))
 
-* [Number Theory, Graph Theory, LinkedList in Bangla] (https://progkriya.org/) (HTML)
-* [Coin Change, Knapsack, Dp](https://www.shafaetsplanet.com/) (HTML)
+* [Number Theory, Graph Theory, LinkedList in Bangla] (https://progkriya.org) (HTML)
+* [Coin Change, Knapsack, Dp](https://www.shafaetsplanet.com) (HTML)
 
 
 ### C

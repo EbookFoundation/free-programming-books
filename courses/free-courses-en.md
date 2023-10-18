@@ -319,8 +319,6 @@
 * [Learn C Programming](https://www.programiz.com/c-programming) - Programiz (HTML)
 * [Programming in C](https://www.youtube.com/playlist?list=PLdo5W4Nhv31a8UcMN9-35ghv8qyFWD9_S) - Jenny's lectures CS/IT NET&JRF
 * [The Arduino Platform and C Programming](https://www.coursera.org/learn/arduino-platform)
-* [C Programming Tutorials](https://www.youtube.com/playlist?list=PLA1FTfKBAEX4hblYoH6mnq0zsie2w6Wif) - Portfolio Courses
-* [C Programming Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq) - thenewboston
 * [Problem solving through Programming In C](https://www.youtube.com/playlist?list=PLJ5C_6qdAvBFzL9su5J-FX8x80BMhkPy1) - Problem solving through Programming In C - IITKGP
 
 

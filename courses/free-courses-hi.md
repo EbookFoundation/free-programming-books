@@ -218,6 +218,7 @@
 
 ### Computer Graphics
 
+* [01- What Is Computer Graphics In Easy Way (HINDI)](https://www.youtube.com/watch?v=ra8lP8caNOg) - TutorialsSpace- Er. Deepak Garg
 * [Computer Graphics](https://youtube.com/playlist?list=PLYwpaL_SFmcAtxMe7ahYC4ZYjQHun_b-T) - 5 Minutes Engineering
 * [Computer Graphics and Multimedia (CGMM) Lectures in Hindi](https://www.youtube.com/playlist?list=PLV8vIYTIdSnaTVCcd954N14bVOOgYh-2V) - Easy Engineering Classes
 

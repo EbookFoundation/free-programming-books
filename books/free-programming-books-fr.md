@@ -155,7 +155,7 @@
 
 ### Go
 
-* [Développer une application Web en Go](https://astaxie.gitbooks.io/build-web-application-with-golang/content/fr/) - astaxie(github)
+* [Développer une application Web en Go](https://astaxie.gitbooks.io/build-web-application-with-golang/content/fr/) - astaxie
 
 
 ### Java

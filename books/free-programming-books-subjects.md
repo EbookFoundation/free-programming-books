@@ -94,6 +94,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Algorithmic Graph Theory](https://code.google.com/p/graphbook/) - David Joyner, Minh Van Nguyen, David Phillips (PDF)
 * [Algorithmic Thinking](https://labuladong.gitbook.io/algo-en) - Donglai Fu
 * [Algorithms](https://en.wikibooks.org/wiki/Algorithms) - Wikibooks
+* [Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf) - Jeff Erickson (PDF)
 * [Algorithms, 4th Edition](https://algs4.cs.princeton.edu/home/) - Robert Sedgewick, Kevin Wayne
 * [Algorithms and Automatic Computing Machines (1963)](https://archive.org/details/Algorithms_And_Automatic_Computing_Machines) - B. A. Trakhtenbrot
 * [Algorithms and Complexity](https://www.math.upenn.edu/~wilf/AlgoComp.pdf) - Herbert S. Wilf (PDF)

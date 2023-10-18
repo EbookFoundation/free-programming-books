@@ -73,6 +73,7 @@
 Shikkhangon BD
 * [Object Oriented C++ \| Bangla Tutorial](https://www.youtube.com/playlist?list=PLy7uM3PHzMF1hnqhFGE4_A8qTUfFmZ_3y) - 
 Online School
+* [Standard Template Library in C++](https://youtube.com/playlist?list=PLgLCjVh3O6Sgux985GYG22xkFt9z9Sq0_) - LoveExtendsCode
 
 
 ### Competitive Programming

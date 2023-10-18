@@ -1,4 +1,4 @@
-## BY SUBJECT
+aa## BY SUBJECT
 
 This list, organized by subject, is for books that cover a programming-related subject in a programming-language agnostic way.
 Books that cover a specific programming language can be found in the [BY PROGRAMMING LANGUAGE](free-programming-books-langs.md) list.
@@ -613,6 +613,8 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Learn Programming](https://progbook.org) - Antti Salonen
 * [Learn to Program](https://pine.fm/LearnToProgram/) - Chris Pine
 * [Learning 30 Technologies in 30 Days: A Developer Challenge](https://blog.openshift.com/learning-30-technologies-in-30-days-a-developer-challenge/) - Shekhar Gulati
+* [Library and Information Science - Class XI](https://cbseacademic.nic.in/web_material/doc/2014/16_Library%20&%20Information%20Science%20Class%20XI.pdf) - CBSE (PDF)
+* [Library and Information Science - Class XII](https://cbseacademic.nic.in/web_material/publication/library_science-XII_2022.pdf) - CBSE (PDF)
 * [Linked Data Patterns: A pattern catalogue for modelling, publishing, and consuming Linked Data](https://patterns.dataincubator.org/book/) - Leigh Dodds, Ian Davis
 * [Magic Ink: Information Software and The Graphical Interface](http://worrydream.com/#!/MagicInk) - Bret Victor
 * [Mobile Developer's Guide to the Galaxy](https://leanpub.com/mobiledevelopersguide/read) (HTML)

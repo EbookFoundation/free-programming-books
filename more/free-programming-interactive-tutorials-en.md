@@ -399,7 +399,6 @@
 
 * [Regex Crossword](https://regexcrossword.com) - Ole Michelsen, Maria Hagsten Michelsen
 * [RegExp Playground](https://projects.verou.me/regexplained) - Lea Verou
-* [Regular Expression Visualization Site](https://regexper.com) - Jeff Avallone
 
 
 ### Ruby

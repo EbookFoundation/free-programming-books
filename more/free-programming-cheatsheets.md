@@ -39,6 +39,7 @@
     * [Flask](#flask)
     * [Jupyter](#jupyter)
     * [Numpy Pandas](#numpy-pandas)
+    * [PySpark](#pyspark)
 * [R](#r)
 * [Raspberry Pi](#raspberry-pi)
 * [Ruby](#ruby)
@@ -200,6 +201,7 @@
 * [HTML Cheatsheet](https://www.codewithharry.com/blogpost/html-cheatsheet/) - CodeWithHarry (HTML)
 * [SCSS CheatSheet](https://devhints.io/sass) - devhints, Rico Santa Cruz (HTML)
 * [SEO CheatSheet](https://learn-the-web.algonquindesign.ca/topics/seo-cheat-sheet/) - Algonquin Design (HTML)
+* [Tailwind CSS Cheat Sheet](https://tailwindcomponents.com/cheatsheet) - Tailwind Components
 
 
 ### IDE and editors
@@ -229,6 +231,7 @@
 
 ### JavaScript
 
+* [JavaScript CheatSheet](https://github.com/wilfredinni/javascript-cheatsheet) - Wilfredinni (HTML)
 * [JavaScript Cheatsheet](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet) - Codecademy (HTML)
 * [JavaScript Cheatsheet](https://www.codewithharry.com/blogpost/javascript-cheatsheet) - Code With Harry
 * [JavaScript CheatSheet](https://htmlcheatsheet.com/js/) (HTML)
@@ -352,6 +355,7 @@
 * [Python 3 Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf) - Laurent Pointal (PDF)
 * [Python Cheat Sheet](https://www.codewithharry.com/blogpost/python-cheatsheet) - Code With Harry
 * [Python Cheat Sheet](https://websitesetup.org/python-cheat-sheet/) - WebsiteSetup (HTML, PDF, PNG)
+* [Python Cheat Sheet](https://www.pythoncheatsheet.org) - Wilfredinni (HTML)
 * [Python Cheatsheet for beginners](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-syntax/cheatsheet) - Codeacademy (HTML)
 * [Python Crash Course Cheatsheet](https://ehmatthes.github.io/pcc/cheatsheets/README.html) - Eric Matthes (HTML)
 * [Python Crash Course Cheatsheet (2nd Edition)](https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/) - Eric Matthes (PDF)
@@ -384,6 +388,12 @@
 #### Numpy Pandas
 
 * [Pandas, Numpy, Python Cheatsheet](https://www.kaggle.com/code/lavanyashukla01/pandas-numpy-python-cheatsheet) - Kaggle (HTML)
+
+
+#### PySpark
+
+* [PySpark Cheat Sheet](https://github.com/kevinschaich/pyspark-cheatsheet) - Kevin Schaich (HTML)
+* [PySpark Cheat Sheet: Spark in Python](https://www.datacamp.com/cheat-sheet/pyspark-cheat-sheet-spark-in-python) - DataCamp (HTML)
 
 
 ### R

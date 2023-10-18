@@ -25,6 +25,8 @@
 * [Go](#go)
 * [Haskell](#haskell)
 * [HTML and CSS](#html-and-css)
+* [Inteligência Artificial](#inteligência-artificial)
+* [Internet das Coisas](#internet-das-coisas)
 * [Java](#java)
 * [JavaScript](#javascript)
     * [AngularJS](#angularjs)
@@ -36,6 +38,7 @@
     * [jQuery](#jquery)
     * [Knockout.js](#knockoutjs)
     * [Meteor](#meteor)
+    * [Next.js](#nextjs)
     * [Node.js](#nodejs)
     * [React](#react)
     * [Vue.js](#vuejs)
@@ -148,6 +151,7 @@
 ### Elixir
 
 * [Elixir DOJO](http://victorolinasc.github.io/elixir_dojo/dojo.html) - Victor Oliveira Nascimento (HTML)
+* [Learn4Elixir](https://github.com/Universidade-Livre/Learn4Elixir) - Universidade Brasileira Livre (Livebook)
 
 
 ### Engenharia de Software
@@ -205,6 +209,7 @@
 ### GO
 
 * [Aprenda Go com Testes](https://larien.gitbook.io/aprenda-go-com-testes) - Lauren Ferreira
+* [Construindo Aplicações Web em Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/pt-br/) - astaxie
 * [Go - hands on](https://github.com/go-br/estudos)
 * [Go Lang - A linguagem do Google](https://www.ime.usp.br/~gold/cursos/2015/MAC5742/reports/GoLang.pdf) - Suelen Goularte Carvalho (PDF)
 * [Go por Exemplo](http://goporexemplo.golangbr.org) - Mark McGranaghan, Jeremy Ashkenas, golangbr, Daniela Tamy Iwassa (HTML)
@@ -221,6 +226,16 @@
 * [Desenvolvimento Web com HTML, CSS e JavaScript](https://www.caelum.com.br/apostila-html-css-javascript/) - Caelum
 * [Dive Into HTML5](http://diveintohtml5.com.br) - Mark Pilgrim
 * [Estruturando o HTML com CSS](http://pt-br.learnlayout.com)
+
+
+### Inteligência Artificial
+
+* [Inteligência artificial: avanços e tendências](https://www.livrosabertos.sibi.usp.br/portaldelivrosUSP/catalog/view/650/579/2181) - Fabio G. Cozman, Guilherme Ary Plonski, Hugo Neri (PDF)
+
+
+### Internet das Coisas
+
+* [A Internet das Coisas](https://bibliotecadigital.fgv.br/dspace/bitstream/handle/10438/23898/A%20internet%20das%20coisas.pdf) - Eduardo Magrani (PDF)
 
 
 ### Java
@@ -297,6 +312,11 @@
 #### Meteor
 
 * [Tudo sobre Meteor](https://udgwebdev.github.io/meteor/)
+
+
+#### Next.js
+
+* [O manual do Next.js para iniciantes](https://www.freecodecamp.org/portuguese/news/o-manual-do-next-js-para-iniciantes/) - freeCodeCamp
 
 
 #### Node.js

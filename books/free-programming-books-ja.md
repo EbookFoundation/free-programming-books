@@ -413,7 +413,7 @@
 * [一撃必殺JavaScript日本語リファレンス](http://www.openspc2.org/JavaScript) - 古籏一浩
 * [現代の JavaScript チュートリアル](https://ja.javascript.info) - Ilya Kantor
 * [中上級者になるためのJavaScript](https://kenju.gitbooks.io/js_step-up-to-intermediate) - Kenju
-* [さあ、見つけよう。新しい学びを(JaveScript)](https://codeprep.jp/books/categories) - CODEPREP(Availble to use Github account to create account) 
+
 
 
 #### AngularJS
@@ -550,7 +550,7 @@
 * [PHP 基礎文法最速マスター](https://www.1x1.jp/blog/2010/01/php-basic-syntax.html) - 新原雅司
 * [PHP4徹底攻略改訂版](https://net-newbie.com/prev/support/pdf2/)
 * [PSR-2 – コーディングスタイルガイド](https://github.com/maosanhioro/fig-standards/blob/master/translation/PSR-2-coding-style-guide.md) - maosanhioro
-* [さあ、見つけよう。新しい学びを(PHP)](https://codeprep.jp/books/categories) - CODEPREP(Availble to use GitHub account to create account) 
+
 
 
 #### Symfony
@@ -599,7 +599,7 @@
 * [プログラミング演習 Python 2019](http://hdl.handle.net/2433/245698) - 喜多一 (PDF)
 * [みんなのPython Webアプリ編](https://coreblog.org/ats/stuff/minpy_web) - 柴田淳
 * [機械学習の Python との出会い (Machine Learning Meets Python)](https://www.kamishima.net/mlmpyja) - 神嶌敏弘 [PDF](https://www.kamishima.net/archive/mlmpyja.pdf), [EPUB](https://www.kamishima.net/archive/mlmpyja.epub)
-* [さあ、見つけよう。新しい学びを(Python)](https://codeprep.jp/books/categories) - CODEPREP(Avaible to use GitHub account to create account) 
+
 
 
 #### Flask
@@ -633,7 +633,6 @@
 * [つくって学ぶプログラミング言語 RubyによるScheme処理系の実装](https://tatsu-zine.com/books/scheme-in-ruby) - 渡辺昌寛
 * [ホワイの(感動的)Rubyガイド](http://www.aoky.net/articles/why_poignant_guide_to_ruby) - why the lucky stiff, 青木靖(翻訳)
 * [実用的Rubyスクリプティング](https://www.gentei.org/~yuuji/support/sr/scrp-2020-05.pdf) - 広瀬雄二 (PDF)
-* [さあ、見つけよう。新しい学びを(Ruby)](https://codeprep.jp/books/categories) - CODEPREP(Availble to use GitHub account to create account) 
 
 
 ### Rust

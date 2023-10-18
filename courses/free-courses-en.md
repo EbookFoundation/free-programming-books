@@ -99,6 +99,7 @@
 * [Software Engineering](#software-engineering)
 * [Solidity](#solidity)
 * [Spark](#spark)
+* [Spring Boot](#spring-boot)
 * [Swift](#swift)
     * [Vapor](#vapor)
 * [System Design](#system-design)
@@ -1518,6 +1519,10 @@
 * [Solidity Tutorial](https://www.youtube.com/playlist?list=PLbbtODcOYIoE0D6fschNU4rqtGFRpk3ea) - EatTheBlocks
 * [Solidity Tutorial - A Full Course on Ethereum, Blockchain Development, Smart Contracts, and the EVM](https://www.youtube.com/watch?v=ipwxYa-F1uY) - Gregory McCubbin @ freeCodeCamp.org & Dapp University
 
+
+### Spring Boot
+
+* [Spring Boot Tutorial for Beginners (Java Framework)](https://youtu.be/vtPkZShrvXQ?feature=shared) - freeCodeCamp
 
 ### Swift
 

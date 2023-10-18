@@ -99,4 +99,4 @@
 ### SQL
 
 * [SQL-Grundlagen](https://wiki.selfhtml.org/wiki/Datenbank/SQL-Grundlagen) - SelfHTML
-* [Datenbanken und SQL](https://youtube.com/playlist?list=PL_pqkvxZ6ho1dn7jRkTfoYBXhw5c9jll0&si=5wUqDsmpYLJGoudn) - Programmieren Starten 
+* [Datenbanken und SQL](https://www.youtube.com/playlist?list=PL_pqkvxZ6ho1dn7jRkTfoYBXhw5c9jll0) - Programmieren Starten 

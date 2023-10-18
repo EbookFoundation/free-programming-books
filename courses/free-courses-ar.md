@@ -50,7 +50,6 @@
     * [Angular](#angular)
 
 
-
 ### Algorithms & Data Structures
 
 * [بالعربي CS50T كورس \|\| CS50T in Arabic&rlm;](https://www.youtube.com/playlist?list=PLnrlZUDQofUvLtIMvVxZRYYju7ni0Xsxq) - Coders Camp - Rasha Abdeen
@@ -226,8 +225,8 @@
 * [Git and Github&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF) - Elzero Web School
 * [Git GitHub & Bitbucket&rlm;](https://www.youtube.com/playlist?list=PL1FWK-sgJ9elQBDq5EtQ8AJFTlfqCJfEX) - Bashir Pro
 * [GitHub - تعلم العمل المشترك على](https://www.youtube.com/playlist?list=PLF8OvnCBlEY0CRqKiYKwOtrH-75MGIuyM) - TheNewBaghdad
-* [Learn Git in Arabic&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNOYVfQs_NFNyykcqkaJ_plmK) - Algorithm Academy
-* [Git and GitHub | شخبط وانت متطمن ](https://www.youtube.com/watch?v=Q6G-J54vgKc&t=3162s&pp=ygUMZ2l0IGJpZyBkYXRh) - BigData 
+* [Git and GitHub | شخبط وانت متطمن ](https://www.youtube.com/watch?v=Q6G-J54vgKc&t=3162s&pp=ygUMZ2l0IGJpZyBkYXRh) - BigData
+* [Learn Git in Arabic&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNOYVfQs_NFNyykcqkaJ_plmK) - Algorithm Academy 
 
 
 ### HTML and CSS

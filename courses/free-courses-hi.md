@@ -273,7 +273,7 @@
 ### Figma
 
 * [Figma Tutorial](https://www.youtube.com/playlist?list=PLuRPummNMvINdAbI_WT7R5vdjcyRPeRiq) - Pelfizz Studio
-* [Figma Tutorial In Hindi 2022](https://www.youtube.com/playlist?list=PLwGdqUZWnOp0TlgR6uPLR1s6X_w65FlTl) - Thapa Technical
+* [Figma Tutorial in Hindi 2022](https://www.youtube.com/playlist?list=PLwGdqUZWnOp0TlgR6uPLR1s6X_w65FlTl) - Thapa Technical
 * [Figma Tutorials](https://www.youtube.com/playlist?list=PLuou2gyfaGEud03tcppC1ofbYIcIEwKfm) - Nikhil Pawar
 * [Figma UI design tutorials in Hindi](https://www.youtube.com/playlist?list=PLt7HkDVHvsa4Nf5qrXG6ozK3ZPTvNe__v) - Graphics Guruji
 
@@ -295,16 +295,16 @@
 * [Complete Course on Python Game Development](https://www.youtube.com/watch?v=Wg9J5kiX0wY) - Techonical Infotech Pvt. Ltd.
 * [Game Development Course](https://www.youtube.com/playlist?list=PLBh8phtAyHPUY9fqgs1w6aHJALJ3_fMSc) - Farhan Aqeel
 * [Game development in Hindi From Beginning to Advance 👍🏻](https://www.youtube.com/playlist?list=PLdOT12odxrUrUExBUuM5KoN0fAnOdzH1L) - Logical Programmer
-* [Python Game Development Using Pygame In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ailUQcxEPZrWgDoL36BtPYb) - CodeWithHarry
+* [Python Game Development Using Pygame in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ailUQcxEPZrWgDoL36BtPYb) - CodeWithHarry
 * [Unity Game Development Tutorials in Hindi](https://www.youtube.com/playlist?list=PLCqWuVe6WFLJW4urlRk1501OkAGVQtX8q) - Sunny Games & Technology
-* [Unity Tutorial For Beginners In Hindi](https://www.youtube.com/playlist?list=PLSYBX91r-B-QoFxBATZJyle3aXvPtCmLe) - Nikhil Malankar
+* [Unity Tutorial For Beginners in Hindi](https://www.youtube.com/playlist?list=PLSYBX91r-B-QoFxBATZJyle3aXvPtCmLe) - Nikhil Malankar
 
 
 ### Git and GitHub
 
 * [Complete Git and Github Tutorials for Beginners](https://www.youtube.com/watch?v=Ez8F0nW6S-w) - Apna College
-* [Complete Git Tutorials For Beginners In Hindi](https://youtube.com/playlist?list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi) - CodeWithHarry
-* [Git & GitHub Tutorial For Beginners In Hindi](https://www.youtube.com/watch?v=gwWKnnCMQ5c) - CodeWithHarry
+* [Complete Git Tutorials For Beginners in Hindi](https://youtube.com/playlist?list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi) - CodeWithHarry
+* [Git & GitHub Tutorial For Beginners in Hindi](https://www.youtube.com/watch?v=gwWKnnCMQ5c) - CodeWithHarry
 * [Git & GitHub Tutorial in Hindi](https://www.youtube.com/watch?v=NR_A2gCxaLE) - Edureka! Hindi
 * [Git and Github - Complete हिंदी में (With Examples)](https://www.youtube.com/watch?v=zGq7T9gZH2k) - Knowledge Gate
 * [Github - All about Git and GitHub](https://www.youtube.com/watch?v=77b2lVHHZqI) - Anuj Bhaiya
@@ -363,7 +363,7 @@
 * [Java + DS + Algorithms](https://www.youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s) - Apni Kaksha (Anuj)
 * [Java + DSA](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop) - Apna College
 * [Java and DSA Foundation Course](https://youtube.com/playlist?list=PLxgZQoSe9cg00xyG5gzb5BMkOClkch7Gr&si=ctLRknqelKTSI5Lh) - College Wallah
-* [Java Foundation Course in Hindi](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFj7YSPl2ulcpwy-mwj1SSk) - Pepcoding
+
 * [Java Live Community Class](https://www.youtube.com/playlist?list=PLsyeobzWxl7pyuXTES7ZqncOI_X0mgKgK) - Navin Reddy (Telusko)
 * [Java Programming Tutorial (HINDI/URDU)](https://www.youtube.com/playlist?list=PLiOa6ike4WAHljIOitb3vR0nXQgneUedR) - Vikas Pandey, Easytuts4you
 * [Java Tutorial](https://youtube.com/playlist?list=PLX9Zi6XTqOKQ7TdRz0QynGIKuMV9Q2H8E) - Saurabh Shukla Sir

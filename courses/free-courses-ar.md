@@ -30,6 +30,7 @@
     * [PugJs](#pugjs)
     * [React.js](#reactjs)
     * [Vue.js](#vuejs)
+* [linux](#linux)
 * [Machine Learning](#machine-learning)
 * [Microservice](#microservice)
 * [Natural Language Programming](#natural-language-programming)
@@ -352,6 +353,11 @@
 * [Vue.js Apps and Practical examples&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzDuaT7kEURZQbw9dQHepK9) - Elzero Web School
 * [Vue.js Composition API&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNOZiOnKcf00l1NWC-xz-TV0h) - Algorithm Academy
 * [Vue.js Router Tutorial&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNObtw2FtE4_eX_k9yCf-Fcd3) - Algorithm Academy
+
+
+### linux
+
+* [Linux System&rlm;](https://www.youtube.com/playlist?list=PL8pYI62gCNsWTppELEUCpforC4avEiLox) - anahr
 
 
 ### Machine Learning

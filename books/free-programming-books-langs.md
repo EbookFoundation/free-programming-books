@@ -318,7 +318,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [ASP.NET Core 3.1 Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/asp-net-core-3-1-succinctly) - Simone Chiaretta, Ugo Lattanzi
 * [ASP.NET Core Documentation - Microsoft Docs](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-5.0)
 * [The Little ASP.NET Core Book (2018)](https://s3.amazonaws.com/recaffeinate-files/LittleAspNetCoreBook.pdf) - Nate Barbettini (PDF)
-* [Ultimate ASP.NET Core Web API](https://dl.ebooksworld.ir/books/Ultimate.ASP.NET.Core.Web.API.Marinko.Spasojevic.Vladimir.Pecanac.CodeMaze.EBooksWorld.ir.pdf) - Marinko Spasojevic, Vladimir Precanac (PDF)
 
 
 #### Blazor

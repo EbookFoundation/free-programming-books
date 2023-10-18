@@ -550,7 +550,6 @@
 * [PSR-2 – コーディングスタイルガイド](https://github.com/maosanhioro/fig-standards/blob/master/translation/PSR-2-coding-style-guide.md) - maosanhioro
 
 
-
 #### Symfony
 
 * [Symfony 5: ファストトラック](https://symfony.com/doc/5.0/the-fast-track/ja)
@@ -631,7 +630,6 @@
 * [つくって学ぶプログラミング言語 RubyによるScheme処理系の実装](https://tatsu-zine.com/books/scheme-in-ruby) - 渡辺昌寛
 * [ホワイの(感動的)Rubyガイド](http://www.aoky.net/articles/why_poignant_guide_to_ruby) - why the lucky stiff, 青木靖(翻訳)
 * [実用的Rubyスクリプティング](https://www.gentei.org/~yuuji/support/sr/scrp-2020-05.pdf) - 広瀬雄二 (PDF)
-
 
 
 ### Rust

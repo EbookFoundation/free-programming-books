@@ -4,8 +4,8 @@
 
 * [C++](#C++)
 * [Arduino](#arduino)
-* [Java](#Java)
 * [Artificial Intelligence](#artificial-intelligence)
+* [Java](#Java)
 * [DB & DBMS](#db--dbms)
 * [HTML and CSS](#html-and-css)
 * [Introduction to Programming in Arabic](#introduction-to-programming-in-arabic)

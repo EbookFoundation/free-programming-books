@@ -719,10 +719,10 @@
 * [DevOps BootCamp](https://github.com/jeffotoni/goworkshopdevops) - Jefferson Otoni Lima, et al.
 * [Go / Golang Crash Course](https://www.youtube.com/watch?v=SqrbIlUwR0U) - Traversy Media
 * [Go Programming Language Tutorial](https://www.youtube.com/playlist?list=PLS1QulWo1RIaRoN4vQQCYHWDuubEU8Vij) - ProgrammingKnowledge
+* [Golang](https://www.geeksforgeeks.org/golang/) - GeeksforGeeks
 * [Golang \| Gin HTTP Framework](https://www.youtube.com/playlist?list=PL3eAkoh7fypr8zrkiygiY1e9osoqjoV9w) - Pragmatic Reviews
 * [Golang basics](https://www.youtube.com/playlist?list=PLve39GJ2D71xX0Ham0WoPaYfl8oTzZfN6) - Golang dojo
 * [Golang in under an hour](https://www.youtube.com/watch?v=N0fIANJkwic) - Eli Goldberg
-* [Golang Tutorial - Learn Go Programming Language](https://www.geeksforgeeks.org/golang-tutorial-learn-go-programming-language/) - GeeksforGeeks
 * [Golang Tutorial for Beginners \| Full Go Course](https://www.youtube.com/watch?v=yyUHQIec83I) - Nana Janashia (TechWorld with Nana)
 * [Gophercises: Free Coding Exercises for Budding Gophers](https://gophercises.com) - Jon Calhoun (email address *required*)
 * [Learn Go \| Learn Go Programming](https://golangr.com) - golangr.com
@@ -857,6 +857,7 @@
 * [Learn how to program: Java](https://www.learnhowtoprogram.com/java-june-2017) - Epicodus Inc.
 * [Learn Java](https://www.sololearn.com/learning/1068) - Sololearn *(email address required)*
 * [Learn Java Programming](https://www.programiz.com/java-programming) - Programiz
+* [Learn Java Programming - Java for Testers and Developers](https://www.udemy.com/course/learn-java-programming-a/) - Pavan Kumar (Udemy)
 * [Most Asked Core Java Frequently Asked Questions](https://www.youtube.com/playlist?list=PLyHJZXNdCXscoyL5XEZoHHZ86_6h3GWE1) - Code Decode
 * [Object Oriented Programming (OOP) In Java Course](https://www.youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk) - Kunal Kushwaha
 * [Object-Oriented programming with Java, part I](https://moocfi.github.io/courses/2013/programming-part-1/)

@@ -3,14 +3,14 @@
 ### Index
 
 * [Arduino](#arduino)
-* [C++](#C++)
 * [Artificial Intelligence](#artificial-intelligence)
+* [C++](#C++)
 * [DB & DBMS](#db--dbms)
-* [Java](#Java)
 * [HTML and CSS](#html-and-css)
-* [Introduction to Programming in Arabic](#introduction-to-programming-in-arabic)
+* [Java](#Java)
 * [JavaScript](#javascript)
     * [Vue.js](#vuejs)
+* [Introduction to Programming in Arabic](#introduction-to-programming-in-arabic)
 * [Linux](#linux)
 * [Open Source Software](#open-source-software)
 * [Operating System](#operating-systems)
@@ -29,17 +29,14 @@
 * [AVR ببساطة: من تشغيل دايود ضوئي إلى أنظمة الوقت الحقيقي](https://github.com/abdallah-ali-abdallah/Simply-AVR-Book) - عبدالله علي عبدالله, Abdallah Ali Abdallah Elmasry&rlm; (ODT, PDF)
 
 
-### C++
-
-* [لغة ++C ](https://ketabpedia.com/%D8%AA%D8%AD%D9%85%D9%8A%D9%84/%D8%B3%D9%84%D8%B3%D9%84%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D8%A8-c/) - (PDF) elBraa lRamly
-
-
-### Java
-
-* [سلسلة تعلم الجافا ](https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%B3%D9%84%D8%B3%D9%84%D8%A9-%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%AC%D8%A7%D9%81%D8%A7-1-pdf) - (PDF) Mahmoud safy
 ### Artificial Intelligence
 
 * [مدخل إلى الذكاء الاصطناعي وتعلم الآلة](https://academy.hsoub.com/files/17-%D9%85%D8%AF%D8%AE%D9%84-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%88%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%A2%D9%84%D8%A9/) - Mohamed Lahlah&rlm; (PDF)
+
+
+### C++
+
+* [لغة ++C ](https://ketabpedia.com/%D8%AA%D8%AD%D9%85%D9%8A%D9%84/%D8%B3%D9%84%D8%B3%D9%84%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D8%A8-c/) - (PDF) elBraa lRamly
 
 
 ### DB & DBMS
@@ -53,15 +50,20 @@
 * [نحو فهم أعمق لتقنيات HTML5&rlm;](https://academy.hsoub.com/files/13-نحو-فهم-أعمق-لتقنيات-html5/) - Mark Pilgrim, Abdullatif Eymash&rlm; (PDF)
 
 
-### Introduction to Programming in Arabic
+### Java
 
-* [مختصر دليل لغات البرمجة](https://alyassen.github.io/Brief-guide-to-programming-languages-v1.2.4.pdf) - Ali Al-Yassen&rlm; (PDF)
+* [سلسلة تعلم الجافا ](https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%B3%D9%84%D8%B3%D9%84%D8%A9-%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%AC%D8%A7%D9%81%D8%A7-1-pdf) - (PDF) Mahmoud safy
 
 
 ### JavaScript
 
 * [تعلم JavaScript&rlm;](https://itwadi.com/node/3002) - Cody Lindley, عبداللطيف ايمش (PDF)
 * [سلسلة تعلم Next.js بالعربية](https://blog.abdelhadi.org/learn-nextjs-in-arabic/) - Flavio Copes, عبدالهادي الأندلسي
+
+
+### Introduction to Programming in Arabic
+
+* [مختصر دليل لغات البرمجة](https://alyassen.github.io/Brief-guide-to-programming-languages-v1.2.4.pdf) - Ali Al-Yassen&rlm; (PDF)
 
 
 #### Vue.js
@@ -110,7 +112,7 @@
 
 ### SQL
 
- [قواعد البيانات](https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D9%82%D9%88%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-pdf) - (pdf) jomaa arifa
+* [قواعد البيانات](https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D9%82%D9%88%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-pdf) - (pdf) jomaa arifa
 * [ملاحظات للعاملين بلغة SQL](https://academy.hsoub.com/files/16-%D9%85%D9%84%D8%A7%D8%AD%D8%B8%D8%A7%D8%AA-%D9%84%D9%84%D8%B9%D8%A7%D9%85%D9%84%D9%8A%D9%86-%D8%A8%D9%84%D8%BA%D8%A9-sql/)
 
 

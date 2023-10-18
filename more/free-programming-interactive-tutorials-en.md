@@ -398,8 +398,8 @@
 ### Regular Expressions
 
 * [Regex Crossword](https://regexcrossword.com) - Ole Michelsen, Maria Hagsten Michelsen
-* [Regular Expression Visualization Site](https://regexper.com/) - Jeff Avallone
 * [RegExp Playground](https://projects.verou.me/regexplained) - Lea Verou
+* [Regular Expression Visualization Site](https://regexper.com/) - Jeff Avallone
 
 
 ### Ruby

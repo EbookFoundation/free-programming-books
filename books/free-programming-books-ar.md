@@ -36,7 +36,7 @@
 
 ### <a id="cpp"></a>C++
 
-* [لغة ++C ](https://ketabpedia.com/%D8%AA%D8%AD%D9%85%D9%8A%D9%84/%D8%B3%D9%84%D8%B3%D9%84%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D8%A8-c/) - (PDF) elBraa lRamly
+* [لغة ++C ](https://down.ketabpedia.com/files/bnr/bnr46832-1.rar) - (PDF) elBraa lRamly
 
 
 ### DB & DBMS

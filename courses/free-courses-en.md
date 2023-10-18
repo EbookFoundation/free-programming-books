@@ -334,6 +334,7 @@
 * [C# Tutorial For Beginners - Learn C# Basics in 1 Hour](https://www.youtube.com/watch?v=gfkTfcpWqAY) - Moshfegh Hamedani (Programming with Mosh)
 * [Domain-Driven Refactoring - Jimmy Bogard - NDC London 2022](https://www.youtube.com/watch?v=f64tZ90Dntg) - Jimmy Bogard
 * [Fundamentals of Programming: Understanding C#](https://www.udemy.com/course/understandingc/) - Jesse Dietrichson (Udemy)
+* [Goodbye controllers, hello Minimal APIs - Nick Chapsas - NDC London 2023](https://www.youtube.com/watch?v=pYl_jnqlXu8&list=PL03Lrmd9CiGcXoPBhisyxmof9GfH2H6C8) - Nick Chapsas
 * [Learn C#](https://www.sololearn.com/learning/1080) - *registration required*
 * [Learn C#](https://www.codecademy.com/learn/learn-c-sharp) - Codecademy
 * [Learn how to program: C# and .NET](https://www.learnhowtoprogram.com/c-and-net) - Epicodus Inc.

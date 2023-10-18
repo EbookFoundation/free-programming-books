@@ -23,7 +23,7 @@ Dengan berkontribusi, Anda setuju untuk menghormati [Kode Etik](CODE_OF_CONDUCT-
 
 3. Kami memiliki 6 kategori tautan. Pastikan untuk memilih kategori yang tepat sebelum mendaftarkan tautan yang anda usulkan:
 
-    - *Buku*: PDF, HTML, ePub, halaman web berbasis gitbook.io, repositori Git, dll.
+    - *Buku*: PDF, HTML, ePub, halaman gitbook.io berbasis web, repositori Git, dll.
     - *Kursus*: Kursus menggambarkan materi pembelajaran yang bukan berupa buku. [Ini adalah contoh kursus](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
     - *Tutorial interaktif*: Situs web interaktif yang memungkinkan pengguna memasukkan kode sumber (source code) atau perintah dan hasilnya bisa dievaluasi ("evaluasi" yang di maksud bukan evaluasi dengan tujuan memberikan "nilai" yang berupa angka). misalnya: [Coba Haskell](http://tryhaskell.org), [Coba Git](https://learngitbranching.js.org).
     - *Playgrounds*: Situs web interaktif, permainan (game), atau aplikasi desktop untuk belajar pemrograman. Anda dapat menulis, mengkompilasi (atau menjalankan), dan membagikan source code yang ditulis. Playgrounds seringkali memperbolehkan Anda untuk membuat salinan (fork) dan membebaskan Anda untuk bermain dengan kodenya.
@@ -53,7 +53,7 @@ Dengan berkontribusi, Anda setuju untuk menghormati [Kode Etik](CODE_OF_CONDUCT-
     2. *Biarkan apa adanya* jika versi `http` tidak tersedia, tetapi tautan dapat diakses melalui `https` dengan mengabaikan peringatan di browser atau menambahkan pengecualian.
     3. *Hapus* jika tidak ada pilihan lain.
 - Jika sebuah tautan/konten mempunyai beberapa format, tambahkan tautan terpisah dengan catatan tentang setiap format.
-- Jika sebuah tautan/kontent ada di berbagai tempat di Internet:
+- Jika sebuah tautan/konten ada di berbagai tempat di Internet:
     - Gunakan tautan dengan sumber yang paling otoritatif (artinya situs web penulis lebih baik daripada situs web penyunting, yang lebih baik daripada situs web pihak ketiga).
     - Jika tautan/konten-nya merujuk ke edisi yang berbeda, dan Anda merasa edisi tersebut cukup berbeda sehingga layak untuk tetap didaftarkan, tambahkan tautan terpisah dengan menambahkan keterangan untuk masing-masing edisi (lihat [Issue #2353](https://github.com/EbookFoundation/free-programming-books/issues/2353) untuk berpartisipasi dalam diskusi tentang pemformatan).
 - Utamakan komit atomik (satu komit per-penambahan/penghapusan/modifikasi) daripada komit yang lebih besar. Tidak perlu menggabungkan komit-komit Anda sebelum mengirimkan PR. (Kami tidak memaksakan aturan ini untuk diikuti, karena ini hanya masalah kenyamanan bagi para pengelola).
@@ -61,7 +61,7 @@ Dengan berkontribusi, Anda setuju untuk menghormati [Kode Etik](CODE_OF_CONDUCT-
 - Sertakan nama atau nama-nama penulis (jika penulis lebih dari satu). Anda dapat menyingkat daftar penulis dengan "`et al.`".
 - Jika buku belum selesai, dan masih dalam tahap pengerjaan, tambahkan keterangan "`dalam proses`" seperti yang dijelaskan [di bawah ini](#in_process).
 - Jika suatu sumber merupakan sumber yang dipulihkan menggunakan [*Internet Archive's Wayback Machine*](https://web.archive.org) (atau serupa), mohon tambahkan keterangan "`terarsip`" seperti yang dijelaskan [di bawah](#archived). Akan tetapi mohon gunakan versi terbaru dan lengkap.
-- Jika suatu sumber membutuhkan alamat email pengunduh/pengunjung atau membutukan proses pembuatan akun maka tambahkan catatan sesuai dengan bahasa yang tepat dalam tanda kurung, misalnya: `(alamat email *wajib*, tidak wajib)`.
+- Jika suatu sumber membutuhkan alamat email pengunduh/pengunjung atau membutuh:kan proses pembuatan akun maka tambahkan catatan sesuai dengan bahasa yang tepat dalam tanda kurung, misalnya: `(alamat email *wajib*, tidak wajib)`.
 
 
 <!----><a id="formatting"></a>
@@ -141,12 +141,13 @@ Contoh:
     BAIK  : * [Akan Segera Menjadi Buku yang Luar Biasa](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)
     ```
 
-- <a id="archived"></a>Tautan archived:
+- <a id="archived"></a>Tautan yang diarsipkan:
 
     ```text
     BAIK  : * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
     ```
 
+<!----><a id="alphabetical-order"></a>
 ### Urutan Alfabetis
 
 - Jika terdapat beberapa judul konten yang diawali dengan huruf yang sama, maka urutkan berdasarkan huruf kedua dari judul konten tersebut, dan seterusnya. Sebagai contoh: `aa` terlebih dahulu sebelum `ab`.

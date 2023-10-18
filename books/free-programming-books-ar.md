@@ -7,8 +7,8 @@
 * [C++](#C++)
 * [DB & DBMS](#db--dbms)
 * [HTML and CSS](#html-and-css)
-* [Java](#Java)
 * [Introduction to Programming in Arabic](#introduction-to-programming-in-arabic)
+* [Java](#Java)
 * [JavaScript](#javascript)
     * [Vue.js](#vuejs)
 * [Linux](#linux)
@@ -50,6 +50,11 @@
 * [نحو فهم أعمق لتقنيات HTML5&rlm;](https://academy.hsoub.com/files/13-نحو-فهم-أعمق-لتقنيات-html5/) - Mark Pilgrim, Abdullatif Eymash&rlm; (PDF)
 
 
+### Introduction to Programming in Arabic
+
+* [مختصر دليل لغات البرمجة](https://alyassen.github.io/Brief-guide-to-programming-languages-v1.2.4.pdf) - Ali Al-Yassen&rlm; (PDF)
+
+
 ### Java
 
 * [سلسلة تعلم الجافا ](https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%B3%D9%84%D8%B3%D9%84%D8%A9-%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%AC%D8%A7%D9%81%D8%A7-1-pdf) - (PDF) Mahmoud safy
@@ -59,11 +64,6 @@
 
 * [تعلم JavaScript&rlm;](https://itwadi.com/node/3002) - Cody Lindley, عبداللطيف ايمش (PDF)
 * [سلسلة تعلم Next.js بالعربية](https://blog.abdelhadi.org/learn-nextjs-in-arabic/) - Flavio Copes, عبدالهادي الأندلسي
-
-
-### Introduction to Programming in Arabic
-
-* [مختصر دليل لغات البرمجة](https://alyassen.github.io/Brief-guide-to-programming-languages-v1.2.4.pdf) - Ali Al-Yassen&rlm; (PDF)
 
 
 #### Vue.js

@@ -2,8 +2,8 @@
 
 ### Index
 
+* [C++](#C++)
 * [Arduino](#arduino)
-* [C++](#C)
 * [Java](#Java)
 * [Artificial Intelligence](#artificial-intelligence)
 * [DB & DBMS](#db--dbms)
@@ -29,11 +29,9 @@
 * [AVR ببساطة: من تشغيل دايود ضوئي إلى أنظمة الوقت الحقيقي](https://github.com/abdallah-ali-abdallah/Simply-AVR-Book) - عبدالله علي عبدالله, Abdallah Ali Abdallah Elmasry&rlm; (ODT, PDF)
 
 
-
-
 ### C++
 
-* [لغة ++C ](https://ketabpedia.com/%D8%AA%D8%AD%D9%85%D9%8A%D9%84/%D8%B3%D9%84%D8%B3%D9%84%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D8%A8-c/)- (PDF) elBraa elRamly
+* [لغة ++C ](https://ketabpedia.com/%D8%AA%D8%AD%D9%85%D9%8A%D9%84/%D8%B3%D9%84%D8%B3%D9%84%D8%A9-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D8%A9-%D8%A7%D9%84%D9%85%D9%81%D8%AA%D9%88%D8%AD%D8%A9-%D8%A8-c/) - (PDF) elBraa lRamly
 
 
 ### Java
@@ -113,9 +111,7 @@
 ### SQL
 
 * [ملاحظات للعاملين بلغة SQL](https://academy.hsoub.com/files/16-%D9%85%D9%84%D8%A7%D8%AD%D8%B8%D8%A7%D8%AA-%D9%84%D9%84%D8%B9%D8%A7%D9%85%D9%84%D9%8A%D9%86-%D8%A8%D9%84%D8%BA%D8%A9-sql/)
-* [قواعد البيانات](https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D9%82%D9%88%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-pdf)- (pdf) jomaa arifa
-
-
+* [قواعد البيانات](https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D9%82%D9%88%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-pdf) - (pdf) jomaa arifa
 
 
 #### PostgreSQL

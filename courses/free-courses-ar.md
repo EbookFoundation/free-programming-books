@@ -360,9 +360,6 @@
 * [Linux System&rlm;](https://www.youtube.com/playlist?list=PL8pYI62gCNsWTppELEUCpforC4avEiLox) - anahr
 
 
-
-
-
 ### Machine Learning
 
 * [01 machine learning تعليم الآلة , القسم الأول : مقدمة](https://www.youtube.com/playlist?list=PL6-3IRz2XF5Vf1RAHyBo4tRzT8lEavPhR) - Hesham Asem
@@ -418,6 +415,7 @@
 * [Operating Systems - أنظمة التشغيل](https://www.youtube.com/playlist?list=PLxIvc-MGOs6ib0oK1z9C46DeKd9rRcSMY) - Ahmed Hagag
 * [Operating Systems - نظم التشغيل](https://www.youtube.com/playlist?list=PLMm8EjqH1EFV-jECqtMxeVMDoVkV_kJDY) - Ahmed Sallam
 * [Operating Systems in Arabic - شرح نظم التشغيل](https://www.youtube.com/playlist?list=PLTr1xN4uMK5seRz6IO7Am9Zp2UKdnzO_n) - Mohamed Alsayed
+
 
 ### PHP
 

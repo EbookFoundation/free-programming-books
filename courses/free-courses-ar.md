@@ -358,6 +358,9 @@
 ### linux
 
 * [Linux System&rlm;](https://www.youtube.com/playlist?list=PL8pYI62gCNsWTppELEUCpforC4avEiLox) - anahr
+* [Operating Systems in Arabic - شرح نظم التشغيل](https://www.youtube.com/playlist?list=PLTr1xN4uMK5seRz6IO7Am9Zp2UKdnzO_n) - Mohamed Alsayed
+* [Operating Systems - نظم التشغيل](https://www.youtube.com/playlist?list=PLZNz7wrFA85ANXP_HjyXwGxC9X2_hCFNC) - Ahmed Sallam
+* [Operating Systems - أنظمة التشغيل](https://www.youtube.com/playlist?list=PLxIvc-MGOs6ib0oK1z9C46DeKd9rRcSMY) - Dr.Ahmed Hagag
 
 
 ### Machine Learning

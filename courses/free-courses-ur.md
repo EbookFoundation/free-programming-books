@@ -3,7 +3,6 @@
 * [C++](#cplusplus)
 * [C#](#csharp)
 * [HTML and CSS](#html-and-css)
-* [Javascript](#javascript)
 
 
 ### <a id="cplusplus"></a>C++

@@ -116,7 +116,7 @@
 ### Data Science
 
 * [Cheatsheets for Data Scientists](https://www.datacamp.com/community/data-science-cheatsheets) - Datacamp (PDF)
-* [Data Science Cheat Sheets](http://datasciencefree.com/python.pdf) - Arianne Colton and Sean Chen (PDF)
+* [Data Science cheatsheet](https://github.com/ml874/Data-Science-Cheatsheet/blob/master/data-science-cheatsheet.pdf) - Maverick Lin (PDF)
 
 
 ### <a id="data-structures-and-algorithms"></a>Data Structures and Algorithms

@@ -511,7 +511,6 @@ Books on general-purpose programming that don't focus on a specific language are
 ### <a id="cpp"></a>C++
 
 * [A Complete Guide to Standard C++ Algorithms](https://github.com/HappyCerberus/book-cpp-algorithms) - Šimon Tóth (PDF, LaTeX)
-* [Surviving the C++ Coding Interview](https://leanpub.com/cpp-coding-interview/signup) - Šimon Tóth *Provide your name and email to grab the free community edition ebook*
 * [An Introduction to the USA Computing Olympiad, C++ Edition](https://darrenyao.com/usacobook/cpp.pdf) - Darren Yao (PDF)
 * [C++ Annotations](https://fbb-git.gitlab.io/cppannotations) - Frank B. Brokken (HTML, PDF)
 * [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) - `edt.:` Bjarne Stroustrup, Herb Sutter
@@ -544,6 +543,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Programming Fundamentals - A Modular Structured Approach using C++](https://learning.hccs.edu/faculty/ken.busbee/programming-fundamentals-a-modular-structured-approach-using-c) - Kenneth Leroy Busbee (PDF)
 * [Software Design Using C++](http://cis.stvincent.edu/html/tutorials/swd/) - Br. David Carlson, Br. Isidore Minerd
 * [Software optimization resources](http://www.agner.org/optimize/) - Agner Fog
+* [Surviving the C++ Coding Interview](https://leanpub.com/cpp-coding-interview/signup) - Šimon Tóth (PDF) *Provide your name and email to grab the free community edition ebook* (15% complete)
 * [The Boost C++ libraries](http://theboostcpplibraries.com) - Boris Schäling (HTML)
 * [The Rook's Guide to C++](http://rooksguide.org/2013/11/26/version-1-0-is-out/) - Jeremy Hansen (PDF)
 * [The Ultimate Question of Programming, Refactoring, and Everything](https://www.gitbook.com/book/alexastva/the-ultimate-question-of-programming-refactoring-/details)

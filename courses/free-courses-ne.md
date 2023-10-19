@@ -13,7 +13,7 @@
 ### JavaScript
 
 * [JavaScript](https://www.youtube.com/playlist?list=PLckS_N3kOwFH-GCqCd6i-vPo-Z75DcOnc) - EverydayKarma 🇳🇵
-* [PART 1 Class object variable | JAVA PROGRAMMING | NEPALI](https://www.youtube.com/watch?v=58SUxGACdY4&list=PLmZYUigljiyc-tf7oMmM-s832ibhGxTpT) - BigData IT
+* [JAVA PROGRAMMING - TUTORIAL - NEPALI](https://www.youtube.com/playlist?list=PLmZYUigljiyc-tf7oMmM-s832ibhGxTpT) - BigData IT
 
 
 #### Node.js

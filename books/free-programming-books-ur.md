@@ -5,4 +5,4 @@
 
 ### <a id="computer-science"></a>Computer Science
 
-* [Computer Science](https://ncert.nic.in/textbook/pdf/kucs1dd.zip) - CBSE (zip)
+* [Computer Science](https://ncert.nic.in/textbook/pdf/kucs1dd.zip) - NCERT (zip)

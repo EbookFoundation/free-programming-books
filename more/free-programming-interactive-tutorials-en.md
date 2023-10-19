@@ -215,7 +215,6 @@
 * [Java Tutorial](https://www.scaler.com/topics/java/) - Scaler Topics
 * [Learn Java](http://www.learnjavaonline.org)
 * [Learn java free](https://app.programiz.pro/course/learn-java-basics/)
-* [Learn java free](https://app.programiz.pro/course/learn-java-basics/)
 * [Learneroo Java tutorial](https://www.learneroo.com/modules/11)
   
 

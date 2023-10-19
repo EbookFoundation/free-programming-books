@@ -853,6 +853,7 @@
 * [Java Tutorial for Beginners](https://www.youtube.com/watch?v=eIrMbAQSU34) - Programming with Mosh
 * [Java Tutorial For Beginners](https://youtube.com/playlist?list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK) - Telusko
 * [Java Tutorial for Complete Beginners](https://www.udemy.com/course/java-tutorial/) - John Purcell (Udemy)
+* [Java Tutorial For Beginners](https://www.scaler.com/topics/java/) - Tarun Luthra
 * [JSP (Java server pages) and servlet basics](https://www.udemy.com/course/jsp-servlet-free/) - StudyEasy Organisation, Chaand Sheikh (Udemy)
 * [Learn how to program: Java](https://www.learnhowtoprogram.com/java-june-2017) - Epicodus Inc.
 * [Learn Java](https://www.sololearn.com/learning/1068) - Sololearn *(email address required)*
@@ -871,7 +872,7 @@
 * [Spring Boot Tutorials](https://www.youtube.com/playlist?list=PLhfxuQVMs-nx3YQa3XJ9-4g_EoK0J8WhU) - Daily Code Buffer (Shabbir Dawoodi)
 * [Spring Boot Tutorials Full Course](https://www.youtube.com/watch?v=35EQXmHKZYs) - Telusko (Navin Reddy)
 * [What is Java?](https://sagecode.net/java/index.html) - Elucian Moise (Sage-Code)
-* [Java Tutorial For Beginners](https://www.scaler.com/topics/java/) - Tarun Luthra
+
 
 
 ### JavaScript

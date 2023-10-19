@@ -214,7 +214,7 @@
 * [Java Tutorial](https://www.w3schools.com/java) - W3Schools
 * [Java Tutorial](https://www.scaler.com/topics/java/) - Scaler Topics
 * [Learn Java](http://www.learnjavaonline.org)
-* [Learn java free](https://app.programiz.pro/course/learn-java-basics/)
+* [Learn Java](https://app.programiz.pro/course/learn-java-basics/) - Programiz
 * [Learneroo Java tutorial](https://www.learneroo.com/modules/11)
   
 

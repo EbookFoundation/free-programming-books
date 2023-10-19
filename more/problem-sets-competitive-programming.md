@@ -78,6 +78,7 @@
 ### HTML and CSS
 
 * [Frontend Mentor](https://www.frontendmentor.io/challenges?languages=CSS&sort=difficulty%7Casc&type=free) *(email address requested)*
+* [The Odin Project](https://www.theodinproject.com/) *(email address requested)*
 
 
 ### Information security

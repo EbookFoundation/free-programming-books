@@ -197,8 +197,6 @@
 ### IDE and editors
 
 * [Interactive Vim Tutorial](http://www.openvim.com/tutorial.html) - Henrik Huttunen
-* [Vim Adventure](https://vim-adventures.com) - Doron Linder
-* [Vim Genius](http://vimgenius.com) - Vic Ramon, Rye Mason
 
 
 #### Bootstrap

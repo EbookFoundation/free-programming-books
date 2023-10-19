@@ -79,6 +79,7 @@
 
 * [C++ 11](https://www.youtube.com/playlist?list=PL0qAPtx8YtJfZpJD7uFxAXglkiHSEhktG) - Fabrizio Camuso
 * [C++ libreria QT - playlist 1](https://www.youtube.com/playlist?list=PL0qAPtx8YtJdH4GVwL_3QeJjPcz3DHE2t) - Fabrizio Camuso
+* [Corso C++ 2023](https://www.youtube.com/playlist?list=PLP5MAKLy8lP85m_fZy3TkWqB_8Zt5Q5aK) - Edoardo Midali
 
 
 ### Database
@@ -99,6 +100,7 @@
 
 ### DevOps
 
+* [Corso DevOps](https://www.youtube.com/playlist?list=PLU2FPKLp7ojKcxrKXr1cFmXH81tMK4P3E) - Michele Ferracin
 * [Docker - EmmeCiLab](https://www.youtube.com/playlist?list=PLCbSCJEIR6CpDJw4MawjHlgbsP3IG376e) - Mauro Cicolella
 
 

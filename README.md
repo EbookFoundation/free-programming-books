@@ -146,6 +146,7 @@ This project lists books and other resources grouped by genres:
 + [Khmer / ភាសាខ្មែរ](courses/free-courses-km.md)
 + [Korean / 한국어](courses/free-courses-ko.md)
 + [Malayalam / മലയാളം](courses/free-courses-ml.md)
++ [Marathi / मराठी](courses/free-courses-mr.md)
 + [Nepali / नेपाली](courses/free-courses-ne.md)
 + [Norwegian / Norsk](courses/free-courses-no.md)
 + [Persian / Farsi (Iran) / فارسى](courses/free-courses-fa_IR.md)
@@ -161,6 +162,7 @@ This project lists books and other resources grouped by genres:
 + [Thai / ภาษาไทย](courses/free-courses-th.md)
 + [Turkish / Türkçe](courses/free-courses-tr.md)
 + [Ukrainian / Українська](courses/free-courses-uk.md)
++ [Urdu / اردو](courses/free-courses-ur.md)
 + [Vietnamese / Tiếng Việt](courses/free-courses-vi.md)
 
 

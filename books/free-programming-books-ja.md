@@ -598,7 +598,6 @@
 * [機械学習の Python との出会い (Machine Learning Meets Python)](https://www.kamishima.net/mlmpyja) - 神嶌敏弘 [PDF](https://www.kamishima.net/archive/mlmpyja.pdf), [EPUB](https://www.kamishima.net/archive/mlmpyja.epub)
 
 
-
 #### Flask
 
 * [Flask ドキュメント](https://flask-docs-ja.readthedocs.io/en/latest) - Armin Ronacher, Tsuyoshi Tokuda(翻訳)

@@ -39,6 +39,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [CoffeeScript](#coffeescript)
 * [ColdFusion](#coldfusion)
 * [Component Pascal](#component-pascal)
+* [Computer Network](#computer-network)
 * [Cool](#cool)
 * [Coq](#coq)
 * [Crystal](#crystal)
@@ -617,6 +618,11 @@ Books on general-purpose programming that don't focus on a specific language are
 ### Component Pascal
 
 * [Computing Fundamentals](http://www.cslab.pepperdine.edu/warford/ComputingFundamentals/) - Stan Warford (PDF)
+
+
+### Computer Network
+
+* [Computer Network](https://ncert.nic.in/textbook/pdf/lecs110.pdf) - NCERT (PDF)
 
 
 ### Cool

@@ -49,6 +49,7 @@
 * [TypeScript](#typescript)
     * [Angular](#angular)
 * [V](#v)
+* [Vim](#vim)
 
 
 ### APL
@@ -385,3 +386,9 @@
 ### V
 
 * [V Playground](https://play.vlang.io) - vlang.io
+
+
+### Vim
+
+* [Vim Adventure](https://vim-adventures.com) - Doron Linder
+* [Vim Genius](http://vimgenius.com) - Vic Ramon, Rye Mason

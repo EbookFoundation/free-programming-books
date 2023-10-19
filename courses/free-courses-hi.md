@@ -282,6 +282,7 @@
 
 * [Complete Flutter Tutorial In Hindi By Desi Programmer](https://youtube.com/playlist?list=PLlFwzkUNmr94BF0KH7BYPL7DsZjhJRdTm) - Desi Programmer
 * [Flutter 3 tutorial in Hindi](https://youtube.com/playlist?list=PLB97yPrFwo5g-XcPlfSXSOeeby23jVAcp) - CODERS NEVER QUIT
+* [Flutter App Development](https://www.youtube.com/playlist?list=PLlvhNpz1tBvH4Wn8rMjtscK3l2pXnC9aN) - Code With Dhruv
 * [Flutter Complete Tutorial in Hindi](https://www.youtube.com/playlist?list=PLjVLYmrlmjGfGLShoW0vVX_tcyT8u1Y3E) - WsCube Tech
 * [Flutter Essential Course](https://www.youtube.com/watch?v=Wdx8vwN_nWI) - freecodecamp
 * [Flutter Series 2020](https://www.youtube.com/playlist?list=PLDzeHZWIZsTo3Cs115GXkot28i406511Y) - CodeHelp - by Babbar

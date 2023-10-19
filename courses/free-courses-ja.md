@@ -2,8 +2,8 @@
 
 * [0 - 大規模公開オンライン講座(MOOC)](#0---mooc)
 * [HTML](#html)
-* Scratch(#scratch)
-   
+* [Scratch](#scratch)
+  
 
 ### <a id="0---mooc"></a>0 - 大規模公開オンライン講座(MOOC)
 

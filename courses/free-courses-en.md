@@ -362,6 +362,7 @@
 * [Introduction to C++](https://www.edx.org/course/introduction-to-c-3) - Microsoft (edX) (:card_file_box: *archived*)
 * [Learn C++ With Me](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lmGC8VW0iu6qfMHjy7gLQ3) - Tech With Tim
 * [Sololearn C++](https://www.sololearn.com/learning/1051) - *registration required*
+* [Introduction to Programming through C++](https://www.youtube.com/watch?v=efXI8anQwXo&list=PLEAYkSg4uSQ2qzihjdDEseWrrY1DyxH9P) - NPTEL
 
 
 ### Clojure

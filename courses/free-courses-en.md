@@ -360,9 +360,10 @@
 * [Google's C++ Course](https://developers.google.com/edu/c++/)
 * [Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) (MIT's opencourseware)
 * [Introduction to C++](https://www.edx.org/course/introduction-to-c-3) - Microsoft (edX) (:card_file_box: *archived*)
+* [Introduction to Programming through C++](https://www.youtube.com/watch?v=efXI8anQwXo&list=PLEAYkSg4uSQ2qzihjdDEseWrrY1DyxH9P) - NPTEL
 * [Learn C++ With Me](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lmGC8VW0iu6qfMHjy7gLQ3) - Tech With Tim
 * [Sololearn C++](https://www.sololearn.com/learning/1051) - *registration required*
-* [Introduction to Programming through C++](https://www.youtube.com/watch?v=efXI8anQwXo&list=PLEAYkSg4uSQ2qzihjdDEseWrrY1DyxH9P) - NPTEL
+
 
 
 ### Clojure

@@ -23,5 +23,4 @@
 
 ### <a id="javascript"></a>Javascript
 
-* [Javascript Tutorials In Urdu and Hindi](https://www.youtube.com/watch?v=Lgxgm-T9cgA&list=PL0b6OzIxLPbx-BZTaWu_AF7hsKo_Fvsnf) - Yahoo Baba
-* [JavaScript Tutorial for beginners in Hindi / Urdu](https://www.youtube.com/playlist?list=PLw9zMOoodWb5YB2TqrboVoSBkCKaOsvE_) - Husain Sir
+

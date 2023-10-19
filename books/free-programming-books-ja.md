@@ -415,7 +415,6 @@
 * [中上級者になるためのJavaScript](https://kenju.gitbooks.io/js_step-up-to-intermediate) - Kenju
 
 
-
 #### AngularJS
 
 > :information_source: 関連項目 - [Angular](#angular)
@@ -552,7 +551,6 @@
 * [PSR-2 – コーディングスタイルガイド](https://github.com/maosanhioro/fig-standards/blob/master/translation/PSR-2-coding-style-guide.md) - maosanhioro
 
 
-
 #### Symfony
 
 * [Symfony 5: ファストトラック](https://symfony.com/doc/5.0/the-fast-track/ja)
@@ -599,7 +597,6 @@
 * [プログラミング演習 Python 2019](http://hdl.handle.net/2433/245698) - 喜多一 (PDF)
 * [みんなのPython Webアプリ編](https://coreblog.org/ats/stuff/minpy_web) - 柴田淳
 * [機械学習の Python との出会い (Machine Learning Meets Python)](https://www.kamishima.net/mlmpyja) - 神嶌敏弘 [PDF](https://www.kamishima.net/archive/mlmpyja.pdf), [EPUB](https://www.kamishima.net/archive/mlmpyja.epub)
-
 
 
 #### Flask

@@ -57,7 +57,7 @@
 
 ### java
 
-* [سلسلة تعلم الجافا ](https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%B3%D9%84%D8%B3%D9%84%D8%A9-%D8%AA%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D8%AC%D8%A7%D9%81%D8%A7-1-pdf) - (PDF) Mahmoud safy
+* [سلسلة تعلم الجافا ](https://www.noor-book.com/book/internal_download/d9b325f99c73c4db91ba7cc170c6043c8f901e3f/1/09602e12155823f5dba8f85e0f49b48d) - (PDF) Mahmoud safy
 
 
 ### JavaScript
@@ -112,7 +112,7 @@
 
 ### SQL
 
-* [قواعد البيانات](https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D9%82%D9%88%D8%A7%D8%B9%D8%AF-%D8%A7%D9%84%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-pdf) - (pdf) jomaa arifa
+* [قواعد البيانات](https://www.noor-book.com/book/internal_download/c560c13ddb0c8ddf25023ddd423dd99a94cc5ce5/1/932562c49a4e9c916cb766dc47ca2107") - (doc) jomaa arifa
 * [ملاحظات للعاملين بلغة SQL](https://academy.hsoub.com/files/16-%D9%85%D9%84%D8%A7%D8%AD%D8%B8%D8%A7%D8%AA-%D9%84%D9%84%D8%B9%D8%A7%D9%85%D9%84%D9%8A%D9%86-%D8%A8%D9%84%D8%BA%D8%A9-sql/)
 
 

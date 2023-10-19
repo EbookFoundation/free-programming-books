@@ -670,6 +670,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Data Management for Analytics and Applications (2021)](https://bookdown.org/kokkodis/book/) - Marios Kokkodis
 * [Database Management System](https://mrcet.com/downloads/digital_notes/ECE/III%20Year/DATABASE%20MANAGEMENT%20SYSTEMS.pdf) - Malla Reddy College of Engineering and Technology (PDF)
 * [Database Management Systems eBooks For All Edition](http://www.lincoste.com/ebooks/english/pdf/computers/database_management_systems.pdf) (PDF)
+* [Fundamentals of Database Systems](https://asolanki.co.in/wp-content/uploads/2019/02/Fundamentals_of_Database_Systems_6th_Edition-1.pdf) - Elmasri Navathe(PDF)
 
 
 ### Delphi / Pascal

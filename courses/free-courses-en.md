@@ -18,7 +18,6 @@
     * [AWS](#aws)
     * [Azure](#azure)
     * [IBM](#ibm)
-* [Competitive Programming](#Competitive-Programming)
 * [Compilers](#compilers)
 * [Computer Organization and Architecture](#computer-organization-and-architecture)
 * [Computer Science](#computer-science)
@@ -412,11 +411,6 @@
 * [Compiler Design](https://www.youtube.com/playlist?list=PLXj4XH7LcRfC9pGMWuM6UWE3V4YZ9TZzM) - Sudhakar Atchala
 * [Compilers](https://www.youtube.com/playlist?list=PL6KMWPQP_DM97Hh0PYNgJord-sANFTI3i) - Ghassan Shobaki
 * [Stanford's Compilers](https://www.edx.org/course/compilers) - Alex Aiken
-
-
-### Competitive Programming
-
-* [Competitive Programming Level-1 (Beginner)](https://youtube.com/playlist?list=PL40a3hTWsqXAw6cnRALe06QzPfeqnOBo6) - Chirag Jain
 
 
 ### Computer Organization and Architecture

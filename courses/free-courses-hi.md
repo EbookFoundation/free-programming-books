@@ -432,6 +432,7 @@
 
 #### React
 
+* [Learn React JS in Hindi](https://www.youtube.com/watch?v=6l8RWV8D-Yo&list=PL2PkZdv6p7ZnS2QIz8WAPmqeqUUccPNQY&index=3&t=17419s) - Coder Dost
 * [React JS (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhignjLLXTJWkRJKN-SgAqClL) - Rajesh Kumar, Geeky Shows
 * [React JS Tutorial in Hindi \| React JS for Beginner to Advanced \| Step by Step Video Tutorials](https://www.youtube.com/playlist?list=PLjVLYmrlmjGdnIQKgnTeR1T9-1ltJEaJh) - WsCubeTech
 * [React JS Tutorials for Begineers in Hindi](https://youtube.com/playlist?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige) - Chai aur Code
@@ -441,7 +442,6 @@
 * [ReactJS Tutorial for Beginners to Advanced](https://youtube.com/playlist?list=PL_HlKez9XCSO1g7c61SyJZE4iehJDFg_w) - Technical Suneja 
 * [ReactJS Tutorial in Hindi 2020](https://www.youtube.com/playlist?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ) - Vinod Bahadur Thapa (Thapa Technical)
 * [ReactJS Tutorials for Beginners In Hindi](https://www.youtube.com/playlist?list=PLUVqY59GNZQNTlOnGne0G7DXnmi7CeOtc) - Pradeep Maurya
-* [Learn React JS in Hindi](https://www.youtube.com/watch?v=6l8RWV8D-Yo&list=PL2PkZdv6p7ZnS2QIz8WAPmqeqUUccPNQY&index=3&t=17419s) - Coder Dost
 
 
 #### React Native

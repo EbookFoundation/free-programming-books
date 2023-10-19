@@ -449,6 +449,7 @@
 
 ### Cuda
 
+* [CUDA Crash Course](https://youtube.com/playlist?list=PLxNPSjHT5qvtYRVdNN1yDcdSl39uHV_sU&si=8VU54Zx4e8UPmqXB) - CoffeeBeforeArch
 * [CUDA Tutorials](https://youtube.com/playlist?list=PLKK11Ligqititws0ZOoGk3SW-TZCar4dK) - Creel
 * [Intro to Parallel Programming Using CUDA to Harness the Power of GPUs](https://www.udacity.com/course/intro-to-parallel-programming--cs344) (Udacity)
 

@@ -2,6 +2,7 @@
 
 * [APL](#apl)
 * [Assembly](#assembly)
+* [Bash](#bash)
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
@@ -48,6 +49,7 @@
 * [TypeScript](#typescript)
     * [Angular](#angular)
 * [V](#v)
+* [Vim](#vim)
 
 
 ### APL
@@ -63,6 +65,11 @@
 * [Command Challenge](https://cmdchallenge.com) - Command Challenge
 * [Educational Visual CPU Simulator](https://github.com/Belotti01/CPU-Visual-Simulator) - Renato Cortinovis, Nicola Preda, Jonathan Cancelli, Alessandro Belotti, Davide Riva (JAVA, JAR)
 * [OverTheWire](https://overthewire.org) - OverTheWire
+
+
+### Bash
+
+* [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) - MIT
 
 
 ### <a id="c"></a>C
@@ -379,3 +386,9 @@
 ### V
 
 * [V Playground](https://play.vlang.io) - vlang.io
+
+
+### Vim
+
+* [Vim Adventure](https://vim-adventures.com) - Doron Linder
+* [Vim Genius](http://vimgenius.com) - Vic Ramon, Rye Mason

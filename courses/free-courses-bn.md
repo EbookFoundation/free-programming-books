@@ -85,6 +85,7 @@ Online School
 
 * [Dart All You Need To Know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVC2-nXUrvpcQEz3FgCSIQHT) - Stack Learner
 * [Dart Bangla Tutorial](https://www.youtube.com/playlist?list=PLbC4KRSNcMnpQarCowZvUJOf4VhiJllX5) - Learn Hunter
+* [১ ভিডিওতে ডার্ট শিখুন !](https://www.youtube.com/watch?v=_8Q5cwfvi64) - Rabbil Hasan
 
 
 ### Docker
@@ -229,6 +230,7 @@ Online School
 ### Kotlin
 
 * [Chapter 1 : Kotlin Basic Concepts Bangla](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDpRWRnXPWZcWIvz0JbeQe5) - Stack Learner
+* [Kotlin For Android - Bangla](https://www.youtube.com/playlist?list=PLgyuGbgggWA3ORqemnq9adIzvNhSXjJTr) - Touhid Apps!
 
 
 ### MongoDB

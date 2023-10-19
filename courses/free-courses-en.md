@@ -365,7 +365,6 @@
 * [Sololearn C++](https://www.sololearn.com/learning/1051) - *registration required*
 
 
-
 ### Clojure
 
 * [Clojure language Tutorial - for Beginners](https://www.youtube.com/watch?v=zFPiPBIkAcQ)

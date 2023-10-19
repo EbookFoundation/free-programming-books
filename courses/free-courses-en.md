@@ -1105,6 +1105,7 @@
 #### Webpack
 
 * [Learn Webpack Course](https://www.classcentral.com/course/youtube-learn-webpack-course-45823/classroom) - Colt Steele
+* [Learn Webpack - Full Tutorial for Beginners](https://www.youtube.com/watch?v=MpGLUVbqoYQ) - freeCodeCamp.org
 
 
 ### Julia

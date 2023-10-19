@@ -1168,6 +1168,7 @@
 * [Complete Machine Learning in Python playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe) - Krish Naik
 * [Deep Learning Fundamentals](https://cognitiveclass.ai/courses/introduction-deep-learning) - DeepLearning.TV (cognitiveclass.ai)
 * [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
+* [Hacker's guide to learning model](https://youtu.be/jkrNMKz9pWU?si=Jv-dDoLIQ8gYLANB)
 * [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning) (Kaggle)
 * [Intro to Machine Learning Udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120) (Udacity)
 * [Intro to Machine Learning using Microsoft Azure](https://www.udacity.com/course/introduction-to-machine-learning-using-microsoft-azure--ud00333) - Microsoft (Udacity)

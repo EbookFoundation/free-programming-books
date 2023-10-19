@@ -117,6 +117,7 @@
 ### Data Science
 
 * [Cheatsheets for Data Scientists](https://www.datacamp.com/community/data-science-cheatsheets) - Datacamp (PDF)
+* [Data Science cheatsheet](https://github.com/ml874/Data-Science-Cheatsheet/blob/master/data-science-cheatsheet.pdf) - Maverick Lin (PDF)
 
 
 ### <a id="data-structures-and-algorithms"></a>Data Structures and Algorithms
@@ -299,6 +300,7 @@
 ### Machine Learning
 
 * [Machine Learning Cheat Sheet](https://www.datacamp.com/cheat-sheet/machine-learning-cheat-sheet) - DataCamp Team (HTML)
+* [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest) - Brendan Fortuner
 * [Super VIP Cheatsheet: Machine Learning](https://sgfin.github.io/files/cheatsheets/cs229_2018_cheatsheet.pdf) - Afshine Amidi and Shervine Amidi (PDF)
 
 

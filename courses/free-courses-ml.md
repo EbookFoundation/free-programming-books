@@ -30,6 +30,7 @@
 * [Python](#python)
     * [Django](#django)
     * [Flask](#flask)
+* [Security](#security)
 
 
 ### Android
@@ -117,6 +118,7 @@
 
 * [BOOTSTRAP Malayalam Tutorial](https://youtube.com/playlist?list=PL1JrLEBAapUWqs_HbcYngAOmpPbiccqNy) - Yes Tech Media
 * [Bootstrap Malayalam Tutorials](https://www.youtube.com/playlist?list=PLDavEIls6jrsC9EEox1WWvOlktDJcEUo6) - Malayalam Tutorials
+* [Learn Bootstrap in malayalam](https://www.youtube.com/playlist?list=PL-Z1WBeTYPOp--cI5tnztgjG5lRSPHJrL) - Aks Programming
 
 
 ### Java
@@ -222,3 +224,9 @@
 
 * [Python Flask Malayalam Tutorial](https://youtube.com/playlist?list=PL1JrLEBAapUU-HCC1f5x8YiGEMoZdGl0e) - Yes Tech Media
 * [Web Development with Python Flask](https://www.youtube.com/playlist?list=PLQzHWfiB9fWccYbgcomf5bWTGV7DPqTtB) - Learn Programming In Malayalam
+
+
+### Security
+
+* [Cyber Security Tutorial Malayalam \| Ethical Hacking Courses for IT Career](https://www.youtube.com/playlist?list=PLR2UNjW_Pkm8LUpryeuiLMpEf4KgCDeBu) - RootSaid - Robotics, Technology & Cyber Security
+* [Security Fundamentals](https://www.youtube.com/playlist?list=PLEhpnavDYfVhGnYA4l8btphQG8i2zO4cI) - Cyber Security Malayalam

@@ -1121,13 +1121,14 @@
 * [Kotlin Bootcamp for Programmers](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011) - Aleks Haecky, Asser Samak, Sean McQuillan (Udacity)
 * [Kotlin Bootcamp for Programmers](https://developer.android.com/courses/kotlin-bootcamp/overview) - Developer Android (Google)
 * [Kotlin Course - Tutorial for Beginners](https://www.youtube.com/watch?v=F9UC9DY-vIU) - Nate Ebel, freeCodeCamp
+* [Kotlin for Education](https://kotlinlang.org/education/) - Kotlin
 * [Kotlin for Java Developers](https://www.coursera.org/learn/kotlin-for-java-developers) - Svetlana Isakova, Andrey Breslav (Coursera)
 * [Kotlin Newbie To Pro](https://www.youtube.com/playlist?list=PLQkwcJG4YTCRSQikwhtoApYs9ij_Hc5Z9) - Philipp Lackner
 * [Kotlin Tutorial](https://www.youtube.com/playlist?list=PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh) - Telusko
 * [Kotlin Tutorial for Beginners: Basics and Fundamentals for Android](https://www.youtube.com/playlist?list=PLlxmoA0rQ-LwgK1JsnMsakYNACYGa1cjR) - Smartherd
 * [One hour Kotlin guide for beginners](https://www.udemy.com/course/one-hour-kotlin-guide-for-beginners) - Tutlets Kkang (Udemy)
 * [Track: Kotlin Basics](https://hyperskill.org/tracks/18) - Hyperskill, JetBrains (Hyperskill)
-* [Kotlin for Education](https://kotlinlang.org/education/) - Kotlin
+
 
 
 ### Kubernetes

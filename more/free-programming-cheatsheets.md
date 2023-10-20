@@ -95,7 +95,7 @@
 ### <a id="cpp"></a>C++
 
 * [C++ Cheatsheet](https://www.codewithharry.com/blogpost/cpp-cheatsheet) - CodeWithHarry (HTML)
-* [C++ Cheatsheets & Infographics](https://hackingcpp.com/cpp/cheat_sheets.html) - Hacking C++ (HTML, PNG)
+* [Cheatsheets & Infographics](https://hackingcpp.com/cpp/cheat_sheets.html) - Hacking C++
 * [C++ Quick Reference](http://www.hoomanb.com/cs/quickref/CppQuickRef.pdf) - Hooman Baradaran (PDF)
 * [MPI Cheat Sheet](https://wtpc.github.io/clases/2018/mpicheatsheet.pdf) - SC Education (PDF)
 * [OpenMP 4.0 API C/C++ Syntax Quick Reference Card](https://www.openmp.org/wp-content/uploads/OpenMP-4.0-C.pdf) (PDF)

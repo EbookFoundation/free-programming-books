@@ -125,7 +125,7 @@
 
 ### Assembly
 
-* [Assembly Language Programming Tutorial for Beginners in Hindi - Introduction to Assembly Language](https://www.youtube.com/watch?v=9KsMbsSY8Ok) - Gen-4 Life style and Education
+* [Assembly Language programming tutorial 8086 in hindi learn full](https://www.youtube.com/playlist?list=PLAZj-jE2acZLdYT7HLFgNph190z2cjmAG) - Malik Shahzaib Official
 * [Assembly Language Programming Tutorials in Urdu Hindi](https://www.youtube.com/playlist?list=PLR2FqYUVaFJpHPw1ExSVJZFNlXzJYGAT1) - Programology
 * [x64 Assembly Language](https://www.youtube.com/playlist?list=PL-DxAN1jsRa-3KzeQeEeoL_XpUHKfPL1u) - The Cyber Expert
 

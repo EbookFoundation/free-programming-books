@@ -413,7 +413,6 @@
 * [Operating Systems in Arabic - شرح نظم التشغيل](https://www.youtube.com/playlist?list=PLTr1xN4uMK5seRz6IO7Am9Zp2UKdnzO_n) - Mohamed Alsayed
 
 
-
 ### PHP
 
 * [تصميم و برمجة موقع eCommerce by PHP&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxdiBh6J62wOzEnvC4CNuFU) - Elzero Web School

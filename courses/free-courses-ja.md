@@ -12,7 +12,7 @@
 
 ### HTML 
 
-* [プログラミングで人生の可能性を広げよう](https://prog-8.com0) - Progate (アカウント作成が*必要*) 
+* [プログラミングで人生の可能性を広げよう](https://prog-8.com) - Progate (アカウント作成が*必要*) 
 
 
 ### Scratch

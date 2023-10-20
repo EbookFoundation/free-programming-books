@@ -10,11 +10,11 @@
 * [Java](#java)
     * [Spring](#spring)
 * [JavaScript](#javascript)
+    * [React.js](#reactjs)
+    * [Node.js](#nodejs)
 * [.NET](#net)
-* [Node.js](#nodejs)
 * [PHP](#php)
 * [QA](#qa)
-* [React.js](#reactjs)
 * [Ruby](#ruby)
 * [Webpack](#webpack)
 

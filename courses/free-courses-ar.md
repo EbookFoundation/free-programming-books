@@ -2,6 +2,7 @@
 
 ### Index
 
+
 * [Algorithms & Data Structures](#algorithms--data-structures)
 * [Assembly](#assembly)
 * [AWS](#aws)
@@ -47,6 +48,7 @@
 * [Software Architecture](#software-architecture)
 * [TypeScript](#typescript)
     * [Angular](#angular)
+
 
 ### Algorithms & Data Structures
 

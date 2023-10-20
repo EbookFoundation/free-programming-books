@@ -296,12 +296,11 @@
 
 ### React
 
-* [CodePlay](https://playcode.io/react)
 * [CodeSandbox.io](https://codesandbox.io)
 * [Hello React - (Glitch)](https://glitch.new/react) *(Account requested, not required)*
 * [jscomplete](https://jscomplete.com/playground)
 * [StackBlitz](https://stackblitz.com/fork/react)
-
+* [PlayCode](https://playcode.io/react)
 
 ### Redis
 

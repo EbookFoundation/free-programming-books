@@ -1,8 +1,8 @@
 ### Index
 
 * [APL](#apl)
-* [Assembly](#assembly)
 * [Bash](#bash)
+* [Assembly](#assembly)
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)

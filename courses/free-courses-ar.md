@@ -48,7 +48,6 @@
 * [TypeScript](#typescript)
     * [Angular](#angular)
 
-
 ### Algorithms & Data Structures
 
 * [بالعربي CS50T كورس \|\| CS50T in Arabic&rlm;](https://www.youtube.com/playlist?list=PLnrlZUDQofUvLtIMvVxZRYYju7ni0Xsxq) - Coders Camp - Rasha Abdeen

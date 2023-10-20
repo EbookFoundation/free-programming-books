@@ -183,6 +183,7 @@
 * [Guía Completa de CSS3](https://openlibra.com/es/book/download/guia-completa-de-css3) - Antonio Navajas Ojeda (PDF)
 * [HTML5](https://openlibra.com/es/book/html5) - Arkaitz Garro (PDF)
 * [Introducción a CSS](http://librosweb.es/libro/css/) - Javier Eguíluz Pérez (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-a-css)
+* [HTML y CSS: diseño y creación de sitios web](https://wtf.tw/ref/duckett.pdf) - Jon Duckett (PDF)
 
 
 ### Java

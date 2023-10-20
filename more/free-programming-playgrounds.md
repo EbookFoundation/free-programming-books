@@ -49,6 +49,7 @@
 * [TypeScript](#typescript)
     * [Angular](#angular)
 * [V](#v)
+* [Vim](#vim)
 
 
 ### APL
@@ -311,6 +312,7 @@
 * [iHateRegex: regex for playground](https://ihateregex.io/playground) - Geon George
 * [Regex Tester and Debugger Online - Javascript, PCRE, PHP](https://www.regextester.com) - Dan's Tools
 * [Regex101: build, test, and debug regex](https://regex101.com) - Firas Dib (regex101.com)
+* [Regexper](https://regexper.com) - Jeff Avallone
 * [RegExr: Learn, Build, \& Test RegEx](https://regexr.com) - GSkinner Inc.
 
 
@@ -385,3 +387,9 @@
 ### V
 
 * [V Playground](https://play.vlang.io) - vlang.io
+
+
+### Vim
+
+* [Vim Adventure](https://vim-adventures.com) - Doron Linder
+* [Vim Genius](http://vimgenius.com) - Vic Ramon, Rye Mason

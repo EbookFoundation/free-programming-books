@@ -380,6 +380,7 @@
 * [Python Tutorial](https://www.w3schools.com/python) - W3Schools
 * [Python Tutorial](https://www.scaler.com/topics/python/) - Scaler Topics
 * [Scientific Computing with Python Certification](https://www.freecodecamp.org/learn/scientific-computing-with-python/) - freeCodeCamp
+* [A Byte of Python](https://python.swaroopch.com/) - Swaroop C H (HTML)
 
 
 ### Jupyter

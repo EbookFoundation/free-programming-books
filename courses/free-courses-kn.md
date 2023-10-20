@@ -27,7 +27,6 @@
 * [Javascript tutorial in Kannada || Javascript in Kannada || Complete Javascript in Kannada](https://youtube.com/playlist?list=PLBVoFEaXQzK0ybl-O3g_2_PswaLzNGbb8) - Learn Tech in Kannada
 
 
-
 ### PLC
 
 * [PLC tutorial for beginners](https://youtube.com/playlist?list=PLM-fDuwhsV0nAyn-B06TTbDW78HL3pNiw) - DevelUp Technical

@@ -1,9 +1,9 @@
 ### Index
 
 * [Algorithms](#algorithms)
-* [Data Science](#data-science)
 * [C](#c)
 * [C++](#cpp)
+* [Data Science](#data-science)
 * [Go](#go)
 * [Java](#java)
 * [JavaScript](#javascript)

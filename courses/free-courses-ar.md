@@ -1,8 +1,6 @@
 <div dir="rtl" markdown="1">
 
 ### Index
-
-
 * [Algorithms & Data Structures](#algorithms--data-structures)
 * [Assembly](#assembly)
 * [AWS](#aws)
@@ -52,16 +50,16 @@
 
 ### Algorithms & Data Structures
 
-* [بالعربي CS50T كورس \|\| CS50T in Arabic&rlm;](https://www.youtube.com/playlist?list=PLnrlZUDQofUvLtIMvVxZRYYju7ni0Xsxq) - Coders Camp - Rasha Abdeen
 * [سلسة الخوارزميات وحل المشاكل المستوى الاول](https://www.youtube.com/playlist?list=PL3X--QIIK-OEUIwbQU79V76RHelBUQKiz) - Programming Advices
+* [بالعربي CS50T كورس \|\| CS50T in Arabic&rlm;](https://www.youtube.com/playlist?list=PLnrlZUDQofUvLtIMvVxZRYYju7ni0Xsxq) - Coders Camp - Rasha Abdeen
 * [Algorithms - Full Coures In Arabic&rlm;](https://www.youtube.com/playlist?list=PLwCMLs3sjOY6KH-8c9F-lMWn-r02hyoV_) - Hard-Code
 * [Algorithms Design & Analysis&rlm;](https://www.youtube.com/playlist?list=PLEBRPBUkZ4maAlTZw3eZFwfwIGXaln0in) - FCI-Career-Build
 * [C++ Data Structures - تراكيب البيانات](https://www.youtube.com/playlist?list=PL1DUmTEdeA6JlommmGP5wicYLxX5PVCQt) - محمد الدسوقي
 * [CS Master - Level 1- Algorithms & Data Structures الخوارزميات وهياكل البيانات](https://www.youtube.com/playlist?list=PLL2zWZTDFZzjxarUL23ydiOgibhRipGYC) - KMR Script
 * [CS Master - Level 2- Dive into the Computer كيف يعمل الكمبيوتر](https://www.youtube.com/playlist?list=PLL2zWZTDFZziX_xS2bbGfLAOHVmlzURhF) - KMR Script
 * [CS50 in Arabic&rlm;](https://www.youtube.com/playlist?list=PLL2zWZTDFZzibJ49gBM2owqCzda8meSNj) - KMR Script
-* [CS50 In Arabic&rlm;](https://www.youtube.com/playlist?list=PLnrlZUDQofUv7JE4QIahAyztrQU9bnJmd) - Coders Camp - Rasha Abdeen
 * [Cs50 In Arabic 2022 \| كورس cs50 بالعربي كامل](https://www.youtube.com/playlist?list=PLknwEmKsW8OvsdJ64v5YljHNtt100kN6w) - Abdelrahman Gamal&rlm; (:construction: *in process*)
+* [CS50 In Arabic&rlm;](https://www.youtube.com/playlist?list=PLnrlZUDQofUv7JE4QIahAyztrQU9bnJmd) - Coders Camp - Rasha Abdeen
 * [Data structure&rlm;](https://www.youtube.com/playlist?list=PLIxq078xdGdZWUXwumK9lbEn3kKwKLTwx) - Nehal Elsamoly
 * [Data Structure&rlm;](https://www.youtube.com/playlist?list=PLwCMLs3sjOY4UQq4vXgGPwGLVX1Y5faaS) - Hard-Code
 * [Data Structure : JavaScript (leetcode problem solving)&rlm;](https://www.youtube.com/playlist?list=PLS-MrzRLZtmdIHJ-Osvv_sJO1Msc4VM_7) - Shadow Coding

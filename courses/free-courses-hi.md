@@ -215,7 +215,7 @@
 * [Compiler Design](https://www.youtube.com/playlist?list=PL23dd-8zssJBiyntds3X1sVWUDeb0Aa1N) - Start Practicing
 * [Compiler Design (Complete Playlist)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiEKtKSIHYusizkESC42diyc) - Gate Smashers
 * [Compiler Design Tutorial In Hindi](https://www.youtube.com/playlist?list=PL-JvKqQx2Ate5DWhppx-MUOtGNA4S3spT) - University Academy
-
+* [Compiler Design (Complete Playlist in Hindi)](https://www.youtube.com/watch?v=Imc8KqKT5ec&list=PLmXKhU9FNesSmu-_DKC7APRoFkaQvGurx) - KnowledgeGate
 
 ### Computer Graphics
 

@@ -376,7 +376,6 @@
 
 * [Cloud Computing and Development](https://uaceit.com/courses/cloud-computing-and-development) - Ashwin Kumar Ramaswamy (UAceIt) (email address *required*)
 * [Cloud Computing Full Course In 11 Hours \| Cloud Computing Tutorial For Beginners](https://www.youtube.com/watch?v=2LaAJq1lB1Q) - Edureka!
-* [Cloud Computing Tutorial for Beginners - Cloud Computing Explained - Cloud Computing](https://www.youtube.com/watch?v=RWgW-CgdIk0) - Simplilearn
 * [Introduction to Cloud](https://cognitiveclass.ai/courses/introduction-to-cloud) - CognitiveClass.ai
 * [NPTEL-CloudComputing](https://www.youtube.com/playlist?list=PLShJJCRzJWxhz7SfG4hpaBD5bKOloWx9J) - Manish Narula
 
@@ -1156,7 +1155,7 @@
 
 ### Lua
 
-* [Full Lua Programming Crash Course - Beginner to Advanced](https://www.youtube.com/watch?v=1srFmjt1Ib0) - Steve's teacher
+* [Lua Programming Tutorials](https://youtube.com/playlist?list=PLYBJzqz8zpWavt37pA6NANJTGStIHpybU&si=DtatTyXBfJhH82CA) - Steve's teacher
 * [Learn Lua in 15 Minutes](http://tylerneylon.com/a/learn-lua/) - Tyler Neylon (HTML)
 * [Lua Interactive Crash Course](https://web.archive.org/web/20201111225216/luatut.com/crash_course.html)
 * [Lua Tutorial](https://www.youtube.com/watch?v=iMacxZQMPXs) - Derek Banas

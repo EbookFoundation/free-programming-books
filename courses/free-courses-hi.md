@@ -34,6 +34,7 @@
 * [Java](#java)
     * [Spring Boot](#spring-boot)
 * [JavaScript](#javascript)
+    * [Express.js](#Express)
     * [jQuery](#jquery)
     * [Next.js](#nextjs)
     * [Node.js](#nodejs)
@@ -401,6 +402,9 @@
 * [RxJS Series (In Hindi)](https://youtube.com/playlist?list=PLLhsXdvz0qjI68a8tLUUMyXmNhl608mcn) - UX Trendz
 * [Web Development Course](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n) - Apna College
 
+### Express.js
+
+* [Express.js - Learn What Matters](https://youtu.be/pKJ4GGyDgJo?si=YUJf86FH54wofl99) - Sheryians Coding School
 
 #### jQuery
 

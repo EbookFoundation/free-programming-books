@@ -102,7 +102,6 @@ Books on general-purpose programming that don't focus on a specific language are
     * [Ember.js](#emberjs)
     * [Express.js](#expressjs)
     * [Fastify](#fastify)
-    * [FrontEnd Developer Handbook](#Cody Lindley)
     * [Hydrogen](#hydrogen)  
     * [Ionic](#ionic)
     * [jQuery](#jquery)

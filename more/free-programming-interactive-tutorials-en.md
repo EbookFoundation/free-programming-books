@@ -364,6 +364,7 @@
 
 ### Python
 
+* [A Byte of Python](https://python.swaroopch.com/) - Swaroop C H (HTML)
 * [Codecademy Python course](https://www.codecademy.com/learn/python)
 * [Computer Science Circles](https://cscircles.cemc.uwaterloo.ca) - Centre for Education in Mathematics and Computing (University of Waterloo)
 * [Data Analysis with Python Certification](https://www.freecodecamp.org/learn/data-analysis-with-python/) - freeCodeCamp

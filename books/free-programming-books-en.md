@@ -1,6 +1,6 @@
 ### Index
 
-* [c++](#cpp)
+* [C++](#cpp)
 
 
 ### All

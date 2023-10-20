@@ -352,6 +352,7 @@
 ### iOS
 
 * [iOS App Development Crash Course in Hindi](https://www.youtube.com/watch?v=n7qOGHWunUY) - Akash Padhiyar
+* [Getting Started with iOS in Hindi](https://www.youtube.com/playlist?list=PL5PR3UyfTWvcRhz4ms-nNoGja2-DkA_6T) - iOS Academy
 * [IOS Mobile App Development Tutorial for beginners](https://www.youtube.com/playlist?list=PLtCBuHKmdxOcmrDx2pM4qNvzWF2NI_Qlo) - Fahad Hussain
 
 

@@ -70,6 +70,7 @@
 ### C
 
 * [C Language in Telugu - Complete Tutorial in 12 Hours](https://www.youtube.com/watch?v=HdvRHC5TiwE) - Telugu Computer World
+* [C Language Tutorial](https://www.youtube.com/watch?v=FefABtU6SYk) - Telugu Lucky Techzone
 * [C Language Tutorial](https://www.youtube.com/playlist?list=PL3KKfF5A0sSKZutcrUiTCQDX0hn7Tw61E) - Telugu Scit Tutorials
 * [C Language Tutorials](https://www.youtube.com/playlist?list=PLC2mgeYbYNm-n8Iz-_3MuNsJFzr0UlGUu) - Telugu Computer World
 

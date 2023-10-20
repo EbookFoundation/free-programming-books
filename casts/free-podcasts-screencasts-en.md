@@ -48,6 +48,7 @@
 * [Beginning C# with Unity](https://www.youtube.com/playlist?list=PLFgjYYTq6xyhtVK6VzLiFe3pmBu-XSNlX) - Brian Douglas Moakley, VegetarianZombie (screencast)
 * [General .NET videos](https://www.youtube.com/playlist?list=PLUOequmGnXxPjam--7GAls6Tb1fSmL9mL) - Nick Chapsas(screencast)
 * [How to program in C# - Beginner Course \| Brackeys](https://www.youtube.com/playlist?list=PLPV2KyIb3jR6ZkG8gZwJYSjnXxmfPAl51) - Asbjørn Thirslund (screencast)
+* [Keep Coding Podcast](https://www.youtube.com/playlist?list=PL3bCPMOBNeGwG1fkIs6FCF7_jpeVgQLS0) - Nick Chapsas (podcast)
 
 
 ### <a id="cpp"></a>C++

@@ -4,7 +4,6 @@
 * [CTF Capture the Flag](#capture-the-flag)
 * [Data science](#data-science)
 * [HTML and CSS](#html-and-css)
-* [Information security](#information-security)
 * [Problem Sets](#problem-sets)
 
 
@@ -41,7 +40,6 @@
 * [LeetCode](https://leetcode.com)
 * [LightOJ](https://lightoj.com)
 * [Meta Hackercup](https://www.facebook.com/codingcompetitions/hacker-cup/)
-* [Microcorruption](https://microcorruption.com/login)
 * [Newton School](https://my.newtonschool.co/contest/all)
 * [oj.uz](https://oj.uz)
 * [Sigmageek](https://sigmageek.com)
@@ -55,11 +53,15 @@
 
 ### Capture the flag
 
+* [ångstromCTF](https://angstromctf.com)
 * [CTFlearn](https://ctflearn.com) (email address *requested*)
+* [CTFtime](https://ctftime.org)
 * [Google CTF](https://capturetheflag.withgoogle.com) (email address *requested*)
 * [Hacker101](https://ctf.hacker101.com) (email address *requested*)
 * [Hackthebox](https://www.hackthebox.eu) (email address *requested*)
 * [HackThisSite](https://www.hackthissite.org) (email address *requested*)
+* [InCTF](https://inctf.in)
+* [Microcorruption](https://microcorruption.com/login)
 * [Overthewire Wargames fungame to practice CTF](https://overthewire.org/wargames/bandit)
 * [Picoctf](https://picoctf.org/resources.html) (email address *requested*)
 * [SmashTheStack](http://www.smashthestack.org/main.html#wargames)
@@ -78,14 +80,6 @@
 ### HTML and CSS
 
 * [Frontend Mentor](https://www.frontendmentor.io/challenges?languages=CSS&sort=difficulty%7Casc&type=free) *(email address requested)*
-
-
-### Information security
-
-* [ångstromCTF](https://angstromctf.com)
-* [CTFtime](https://ctftime.org)
-* [Hacker101](https://ctf.hacker101.com)
-* [InCTF](https://inctf.in)
 
 
 ### Problem Sets

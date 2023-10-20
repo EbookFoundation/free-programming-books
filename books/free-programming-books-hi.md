@@ -8,7 +8,6 @@
 * [Linux](#linux)
 * [Networking](#networking)
 * [Php](#php)
-* [Python](#python)
 
 
 ### C
@@ -52,6 +51,7 @@
 
 ### Networking
 
+* [डाटा कम्युनिकेशन और नेटवर्किंग](https://www.aicte-india.org/sites/default/files/HINDI_BOOKS/BOOK%204.pdf) - आर. पी. सिंह, आर. गुप्ता (PDF)
 * [ डाटा कयनकेशन एंड कंयटर नेटवक ](https://www.aicte-india.org/sites/default/files/HINDI_BOOKS/BOOK%203.pdf) -  ई.हरश दाधीच, ई.वकास माथर (PDF)
 
 
@@ -59,8 +59,3 @@
 
 * [Php \| Hindi](https://www.learnhindituts.com/php) - LearnHindiTuts.com
 * [Php Hindi Tutorial \| Hindi](http://tutorialsroot.com/php/index.html) - TutorialsRoot.com
-
-
-### Python
-
-* [Python Notes PDF by ehindistudy.com \| Hindi](https://drive.google.com/file/d/1cnJ6Uksso2UXwC5OHBAGk3miMzSveBvr/view) - Yugal Joshi (PDF)

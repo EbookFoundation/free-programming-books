@@ -23,6 +23,7 @@
 #### React
 
 * [React.js](https://www.youtube.com/playlist?list=PLckS_N3kOwFHhFEmcRs8jvX7xFaRFI4H1) - EverydayKarma 🇳🇵
+* [React Tutorial in Nepali](https://www.youtube.com/playlist?list=PLO5XYuYl2Cf8ebEJE-cCLiTaKj_3aPnTa) - CodeWithDinesh
 
 
 #### Flutter

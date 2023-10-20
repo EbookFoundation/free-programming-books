@@ -24,6 +24,11 @@
 * [C++ Introduction Book \| Hindi](https://ncsmindia.com/wp-content/uploads/2012/04/c++-hindi.pdf) - NCMS India (PDF)
 
 
+### cpp
+
+* [C++ in hindi](https://www.bccfalna.com/IOC-AllEBooks/CPPinHindi.pdf) - kuldeep Chand (PDF)
+
+
 ### Computer architecture
 
 * [कम्प्यूटर ऑर्गनाइजेशन एंड आर्किटेक्चर](https://www.aicte-india.org/sites/default/files/HINDI_BOOKS/BOOK%202.pdf) - एम. ए. नसीम, राजस्थान टेक्निकल यूनिवर्सिटी, कोटा (राजस्थान) (PDF)

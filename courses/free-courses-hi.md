@@ -194,8 +194,8 @@
 
 #### AWS
 
-* [AWS Full Course - Learn AWS In 6 Hours](https://www.youtube.com/watch?v=V04FvpXSFS8) - S3CloudHub
 * [AWS Tutorial for Beginners In Hindi](https://www.youtube.com/playlist?list=PLCFe3TcoBniI4iaavlfnR0UGQrtjgOMj9) - Together with Abhi
+* [AWS Tutorial in HINDI](https://www.youtube.com/playlist?list=PL_OdF9Z6GmVZCwyfd8n6_50jcE_Xlz1je) - S3CloudHub
 * [AWS Tutorial in Hindi | Edureka](https://www.youtube.com/playlist?list=PLQbQOmlGYH3uoa_mYHDJkl958B_dBiaqW) - edureka! Hindi
 * [AWS Tutorials - AWS tutorials For Beginners - AWS Certification - AWS Training - In Hindi](https://www.youtube.com/playlist?list=PL6XT0grm_TfgtwtwUit305qS-HhDvb4du) - Gaurav Sharma
 

@@ -1146,10 +1146,10 @@
 * [Fundamentals of Red Hat Enterprise Linux](https://www.edx.org/course/fundamentals-of-red-hat-enterprise-linux) - Chris Caillouet (edX)
 * [IIEC RISE 1.0 RHCSA8 and Python3](https://www.youtube.com/playlist?list=PLAi9X1uG6jZ2b1mUmrUcc_aEoc8tfss8e) - Vimal Daga
 * [Introduction To Linux](https://www.edx.org/course/introduction-to-linux/) - The Linux Foundation (edx)
-* [LPIC 1 exam guide: Linux Professional Institute Certification Study Guide](https://linux1st.com) - Jadi Mirmirani (HTML)
 * [Linux Administration Tutorial Videos](https://www.youtube.com/playlist?list=PL9ooVrP1hQOH3SvcgkC4Qv2cyCebvs0Ik) - edureka!
-* [LPIC 2 exam guide: Linux Professional Institute Certification Study Guide](https://borosan.gitbook.io/lpic2-exam-guide) - Payam Borosan (HTML)
+* [LPIC 1 exam guide: Linux Professional Institute Certification Study Guide](https://linux1st.com) - Jadi Mirmirani (HTML)
 * [Linux Command Line](https://www.udemy.com/course/command-line/) - Adam Eubankas (Udemy)
+* [LPIC 2 exam guide: Linux Professional Institute Certification Study Guide](https://borosan.gitbook.io/lpic2-exam-guide) - Payam Borosan (HTML)
 * [Linux Command Line Tutorial For Beginners](https://www.youtube.com/playlist?list=PLS1QulWo1RIb9WVQGJ_vh-RQusbZgO_As) - Programming Knowledge
 * [Linux Tutorial for Beginners - Learn Linux and the Bash Command Line](https://ryanstutorials.net/linuxtutorial) - Ryan Chadwick
 * [Linux Tutorials and Projects](https://www.udemy.com/course/linux-tutorials/) - Jason Cannon (Udemy)

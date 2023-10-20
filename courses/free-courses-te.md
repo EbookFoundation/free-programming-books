@@ -149,6 +149,7 @@
 
 * [Full Java Script Tutorials in Telugu - Telugu Web Guru](https://www.youtube.com/playlist?list=PLh6Yk2rpZu2KqDjTuU_qHr-tI_CHOkIsN) - telugu web guru
 * [JavaScript Complete Tutorials In Telugu by Kotha Abhishek](https://www.youtube.com/watch?v=GuahuUTSUKI) - Chintu Tutorials
+* [Java script for beginners in Telugu](https://www.youtube.com/playlist?list=PLzdWZT-ZJD08NwOPGEGzy9jg5wwe_Wylj) - CS World Telugu
 * [JAVA SCRIPT FOR BEGINNERS IN 7 HOURS || LEARN JAVA SCRIPT IN 7 HOURS || JAVA SCRIPT](https://www.youtube.com/watch?v=BTuCzffKh8E) - Sundeep Saradhi Kanthety
 * [JavaScript in Telugu || JavaScript in Telugu by Kotha Abhishek](https://www.youtube.com/playlist?list=PLv_sM9ZH4RUW_Pgz-6B0Q-YTfWvC7RVFN) - Chintu Tutorials
 

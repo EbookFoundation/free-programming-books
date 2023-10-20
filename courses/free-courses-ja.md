@@ -7,7 +7,7 @@
 
 ### CCNA
 
-* [完全無料で未経験からITエンジニアに！！](https://www.netvisionacademy.com/lp/?atnct=netvision_0100p82300kuup-5032d6cab5a2d4234f64b17ff0c3854f) - Net Vision Academy
+* [完全無料で未経験からITエンジニアに！！](https://www.netvisionacademy.com/lp/?atnct=netvision_0100p82300kuup-5032d6cab5a2d4234f64b17ff0c3854f) - Net Vision Academy(大人のみが利用可能 Ages over: 20 requires)
 
   
 ### <a id="0---mooc"></a>0 - 大規模公開オンライン講座(MOOC)

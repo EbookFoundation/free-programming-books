@@ -298,7 +298,6 @@
 
 * [CodeSandbox.io](https://codesandbox.io)
 * [Hello React - (Glitch)](https://glitch.new/react) *(Account requested, not required)*
-* [PlayCode](https://playcode.io/react)
 * [jscomplete](https://jscomplete.com/playground)
 * [StackBlitz](https://stackblitz.com/fork/react)
 

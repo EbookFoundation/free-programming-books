@@ -6,6 +6,7 @@
 * [C++](#cpp)
 * [D](#d)
 * [Dart](#dart)
+* [Fortran](#fortran)
 * [Git](#git)
 * [Go](#go)
 * [Güvenlik ve Gizlilik](#guvenlik-ve-gizlilik)
@@ -58,6 +59,11 @@
 ### Dart
 
 * [Dart - Merhaba Dünya](https://www.dartogreniyorum.blogspot.com.tr/2013/03/yeniden-dart.html?view=sidebar)
+
+
+### Fortran
+
+* [Fortran Programlama Diline Giriş](http://dosyalar.ersoykardesler.net/yayinlar/Fortran_Programlama_Diline_Giris.pdf) (PDF)
 
 
 ### Git
@@ -132,7 +138,7 @@
 * [Python Programlama Dili](https://python-istihza.yazbel.com) - YazBel Yazılım Belgelendirme Projesi - Python 3
 
 
-### Django
+#### Django
 
 * [Django](https://web.archive.org/web/20210302105925/https://www.pythondersleri.com/p/django-egitim-serisi.html) - Python Dersleri *(:card_file_box: archived)*
 * [Django Egitimi](https://web.archive.org/web/20210802025720/https://gokmengorgen.net/django-notes/) *(:card_file_box: archived)*

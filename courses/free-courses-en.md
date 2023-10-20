@@ -235,10 +235,10 @@
 
 * [APL Course](https://course.dyalog.com) - Dyalog (:construction: *in process*)
 * [APL Cultivation](https://aplwiki.com/wiki/APL_Cultivation) - Adám Brudzewsky
+* [Aplwiki wiki](https://aplwiki.com/wiki/APL_Orchard) - aplwiki 
 * [Dyalog APL Tutor](https://tutorial.dyalog.com) - Dyalog
 * [Learn APL with Neural Networks](https://www.youtube.com/playlist?list=PLgTqamKi1MS3p-O0QAgjv5vt4NY5OgpiM) - Rodrigo Girão Serrão
-* [aplwiki wiki](https://aplwiki.com/wiki/APL_Orchard) - aplwiki 
-* [tryapl APL environment](https://tryapl.org) - tryapl
+* [Tryapl APL environment](https://tryapl.org) - tryapl
 
 
 ### Artificial Intelligence

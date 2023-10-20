@@ -364,6 +364,7 @@
 
 ### Python
 
+* [A Byte of Python](https://python.swaroopch.com/) - Swaroop C H (HTML)
 * [Codecademy Python course](https://www.codecademy.com/learn/python)
 * [Computer Science Circles](https://cscircles.cemc.uwaterloo.ca) - Centre for Education in Mathematics and Computing (University of Waterloo)
 * [Data Analysis with Python Certification](https://www.freecodecamp.org/learn/data-analysis-with-python/) - freeCodeCamp
@@ -380,7 +381,6 @@
 * [Python Tutorial](https://www.w3schools.com/python) - W3Schools
 * [Python Tutorial](https://www.scaler.com/topics/python/) - Scaler Topics
 * [Scientific Computing with Python Certification](https://www.freecodecamp.org/learn/scientific-computing-with-python/) - freeCodeCamp
-* [A Byte of Python](https://python.swaroopch.com/) - Swaroop C H (HTML)
 
 
 ### Jupyter

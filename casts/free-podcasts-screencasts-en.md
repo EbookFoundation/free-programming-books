@@ -60,7 +60,7 @@
 * [C++ STL: The ONLY Video You Need | Compulsory for DSA/CP](https://www.youtube.com/watch?v=PZogbfU4X5E) - Utkarsh Gupta (screencast)
 * [CppCast](http://cppcast.com) - Conor Hoekstra, Jason Turner, JeanHeyd Meneide, Matt Godbolt, Rob Irving (podcast)
 * [cpp.chat](https://cpp.chat/) - Jon Kalb, Phil Nash (podcast)
-* [No Diagnostic Required](https://nodiagnosticrequired.tv/) - Anastasia Kazakova, Phil Nash (podcast & YouTube show)
+* [No Diagnostic Required](https://nodiagnosticrequired.tv/) - Anastasia Kazakova, Phil Nash (podcast
 
 
 ### Clojure

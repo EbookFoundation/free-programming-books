@@ -158,6 +158,7 @@
 ### Programación
 
 * [Aprende JavaScript](https://aprendejavascript.org) - Jonathan MirCha
+* [Aprendemos JavaScript](https://www.freecodecamp.org/espanol/news/aprende-javascript-curso-completo-desde-cero/) - Estefania Cassingena Navone
 * [Clojure](https://programadorwebvalencia.com/cursos/clojure/introducci%C3%B3n/) - Andros Fenollosa (Programador Web Valencia)
 * [Curso C#](https://www.pildorasinformaticas.es/course/curso-c) - Juan Díaz (Píldoras Informáticas)
 * [Curso de JavaScript Gratis](https://codigofacilito.com/cursos/javascript) - Código Facilito

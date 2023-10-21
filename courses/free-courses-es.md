@@ -147,6 +147,7 @@
 * [VBA Excel](https://www.pildorasinformaticas.es/course/vba-excel) - Juan Díaz (Píldoras Informáticas)
 * [Word Avanzado (2010)](https://www.pildorasinformaticas.es/course/word-avanzado-2010) - Juan Díaz (Píldoras Informáticas)
 
+
 ### Patrones de diseño
 
 * [Patrones de diseño](https://refactoring.guru/es/design-patterns) - Alexander Shvets (Refactoring.Guru)

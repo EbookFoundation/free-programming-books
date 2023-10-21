@@ -24,6 +24,7 @@
     * [Svelte](#svelte)
     * [Vue.js](#vuejs)
 * [Kotlin](#kotlin)
+* [Linux](#linux)
 * [MongoDB](#mongodb)
 * [MySQL](#mysql)
 * [PHP](#php)
@@ -32,7 +33,6 @@
 * [Python](#python)
     * [Django](#django)
     * [Flask](#flask)
-* [Linux](#linux)
 * [Scratch](#scratch)
 * [Shell scripting](#shell-scripting)
 * [Swift](#swift)
@@ -52,8 +52,8 @@
 ### C
 
 * [C - All you need to know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVASsjyqiNzgjUWHbDkN2Scy) - Stack Learner
-* [C Programming Bangla Tutorial Course](https://www.youtube.com/playlist?list=PLgH5QX0i9K3pCMBZcul1fta6UivHDbXvz) - Anisul Islam
 * [C Programming Bangla Tutorial](https://youtube.com/playlist?list=PLdl6zXgLsy3zwNjSMiYlOZOr20sykTfgo) - Bangla Coding Tutor
+* [C Programming Bangla Tutorial Course](https://www.youtube.com/playlist?list=PLgH5QX0i9K3pCMBZcul1fta6UivHDbXvz) - Anisul Islam
 * [C Programming Bangla Tutorial For Beginners 2023](https://youtube.com/playlist?list=PLNMnAEqLBwmrwDSycdTLsvZBhmK5kOtgV) - Hablu Programmer
 * [C Programming in Bangla - from Zero to Hero](https://www.udemy.com/course/c-programming-in-bangla/) - Ministry of Codes (MoC), Prapty Rahman
 * [Pattern Printing in C](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oTxQhx2kejYmQn6qtRULCD) - Anisul Islam
@@ -69,10 +69,9 @@
 ### <a id="cpp"></a>C++
 
 * [C++ Bangla Tutorial Course](https://www.youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL) - Anisul Islam
-* [C++ Bangla Tutorial for Beginners - 2022](https://www.youtube.com/playlist?list=PLeqnvPK4PpyWsjZvgLTRcc-dkPQXc8SHc) - 
-Shikkhangon BD
-* [Object Oriented C++ \| Bangla Tutorial](https://www.youtube.com/playlist?list=PLy7uM3PHzMF1hnqhFGE4_A8qTUfFmZ_3y) - 
-Online School
+* [C++ Bangla Tutorial for Beginners - 2022](https://www.youtube.com/playlist?list=PLeqnvPK4PpyWsjZvgLTRcc-dkPQXc8SHc) - Shikkhangon BD
+* [C++ STL (Bangla)](https://youtube.com/playlist?list=PLgLCjVh3O6Sgux985GYG22xkFt9z9Sq0_) - LoveExtendsCode
+* [Object Oriented C++ \| Bangla Tutorial](https://www.youtube.com/playlist?list=PLy7uM3PHzMF1hnqhFGE4_A8qTUfFmZ_3y) - Online School
 
 
 ### Competitive Programming
@@ -83,9 +82,9 @@ Online School
 
 ### Dart
 
+* [১ ভিডিওতে ডার্ট শিখুন !](https://www.youtube.com/watch?v=_8Q5cwfvi64) - Rabbil Hasan
 * [Dart All You Need To Know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVC2-nXUrvpcQEz3FgCSIQHT) - Stack Learner
 * [Dart Bangla Tutorial](https://www.youtube.com/playlist?list=PLbC4KRSNcMnpQarCowZvUJOf4VhiJllX5) - Learn Hunter
-* [১ ভিডিওতে ডার্ট শিখুন !](https://www.youtube.com/watch?v=_8Q5cwfvi64) - Rabbil Hasan
 
 
 ### Docker
@@ -103,19 +102,19 @@ Online School
 
 ### Git
 
+* [গিট পরিচিতি](https://www.youtube.com/playlist?list=PLoR56CteKZnC0lBlHdnVnq0J3yDhgbi9w) - Learn with Hasin Hayder
 * [Crash Course - সহজ বাংলায় Git & GitHub - Bangla ( বাংলা ) Tutorial](https://www.youtube.com/watch?v=oe21Nlq8GS4) - Sumit Saha (Learn with Sumit)
 * [Git & GitHub complete course Bangla (Beginner to Advanced)](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qAW8DT6I0XOxC23qnA4FL-) - Anisul Islam
 * [Git and Github in One Video (Theory + Practical) \| A 2 Z in Bangla](https://www.youtube.com/watch?v=4KdGgGsIDeA) - SHAJ.T3CH
 * [Git Bangla Tutorial Complete](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDDw5eyzuRDXBzgdnW7UpDF) - Stack Learner
-* [গিট পরিচিতি](https://www.youtube.com/playlist?list=PLoR56CteKZnC0lBlHdnVnq0J3yDhgbi9w) - Learn with Hasin Hayder
 
 
 ### Go
 
 * [Bangla Go/Golang Course](https://www.youtube.com/playlist?list=PLHkC-Z1xxZM7y5XxlZFQmI-M8jsAI2AQd) - Backend Ninja
 * [Go Bangla Tutorials 2022](https://www.youtube.com/playlist?list=PLgH5QX0i9K3rtasmmoS_EWXdg0X-eX_x8) - Anisul Islam
-* [Golang Web Development Bangla](https://www.youtube.com/playlist?list=PLF4a815a8kFzPOFGV7uXsm2j1Of9cCwpx) - Learn with Raihan
 * [Golang কোডিং বুট ক্যাম্প ক্লাস](https://youtube.com/playlist?list=PLZij6bgEHkTXRakAtponkmP2CmlTTKlxl) - MASTER-ACADEMY
+* [Golang Web Development Bangla](https://www.youtube.com/playlist?list=PLF4a815a8kFzPOFGV7uXsm2j1Of9cCwpx) - Learn with Raihan
 
 
 ### HTML and CSS
@@ -154,12 +153,12 @@ Online School
 
 ### Java
 
+* [জাভা এন্টারপ্রাইজ এডিশন](https://dimikcomputing.com/course/javaee-online-course/) - দ্বিমিক কম্পিউটিং
 * [Java Bangla (বাংলা) tutorial for beginners](https://youtube.com/playlist?list=PL82MewGFQkx1jjozz7I98Yjanw8n6p9HP) - Time & Training
 * [Java Bangla Tutorials \| CORE Java \| Complete OOP](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa) - Anisul Islam
 * [Java Basic Syntax Bangla Tutorial](https://www.youtube.com/playlist?list=PLdl6zXgLsy3xCae1uL6rJ8Ay9sIiyBy5I) - Bangla Coding Tutor
 * [Java Course! Full Course Bangla](https://www.youtube.com/playlist?list=PLysy6TYSMvpJmMN0ElbC936RmmFustDiy) - Online Course
 * [Java Swing Bangla Tutorials](https://www.youtube.com/playlist?list=PLgH5QX0i9K3rAHKr6IteF5kdgN6BorH9l) - Anisul Islam
-* [জাভা এন্টারপ্রাইজ এডিশন](https://dimikcomputing.com/course/javaee-online-course/) - দ্বিমিক কম্পিউটিং
 
 
 ### JavaScript
@@ -182,14 +181,19 @@ Online School
 #### Angular
 
 * [Angular 12 Easy Tutorial in Bangla](https://www.youtube.com/playlist?list=PLEfqpT48xB4H2gOHDzs2dm_ZmoECuTHtR) - web-man
-* [Angularjs bangla tutorial basic](https://www.youtube.com/playlist?list=PLbC4KRSNcMnr2ZFQne_jotsiX9hGwLJHG) - Learn Hunter
 * [AngularJS bangla tutorial](https://www.youtube.com/playlist?list=PLZURtcoL43SUpJj_n_yGoqM4RMqQoBbst) - tutplus24
+* [Angularjs bangla tutorial basic](https://www.youtube.com/playlist?list=PLbC4KRSNcMnr2ZFQne_jotsiX9hGwLJHG) - Learn Hunter
 
 
 #### jQuery
 
 * [jQuery Bangla Series for Beginners](https://www.youtube.com/playlist?list=PLgH5QX0i9K3pSJG9Hwjnykd0hLGEsW4DB) - Anisul Islam
 * [jQuery Bangla Tutorial](https://www.youtube.com/playlist?list=PLm64fbD5Onxtpvq--EAMfAHcn8h8_t3iw) - Moshiur
+
+
+### Linux
+
+* [Ubuntu Linux Bangla Tutorial 2021](https://www.youtube.com/playlist?list=PLKdU0fuY4OFfxTxJduexCuF7nRp5ioOgw) - STUDY MART
 
 
 #### Next.js
@@ -208,12 +212,12 @@ Online School
 
 #### React
 
+* [১ ভিডিওতে রিয়্যাক্ট শিখুন ! ফুল কোর্স](https://www.youtube.com/watch?v=6wilewRV3xQ) - Rabbil Hasan
 * [React - Redux Complete Course](https://www.youtube.com/playlist?list=PL_XxuZqN0xVAvcGzTEAyPSOqgUQA08rNB) - Stack Learner
 * [React JS Bangla Tutorial \| React Tutorial For Beginners](https://www.youtube.com/playlist?list=PLNMnAEqLBwmqvuLEb5fVyGfcdMMlrEsHL) - Hablu Programmer
 * [React JS Tutorial Bangla Series for Beginners](https://www.youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr) - Sumit Saha (Learn with Sumit)
 * [Understand ReactJS Advanced Features](https://www.youtube.com/playlist?list=PL_XxuZqN0xVBaeF3qUyvr2AxoXGwDd5cx) - Stack Learner
 * [Understand ReactJS Core Features](https://www.youtube.com/playlist?list=PL_XxuZqN0xVBANld2gDEE6_0G886zavUs) - Stack Learner
-* [১ ভিডিওতে রিয়্যাক্ট শিখুন ! ফুল কোর্স](https://www.youtube.com/watch?v=6wilewRV3xQ) - Rabbil Hasan
 
 
 #### Svelte
@@ -272,6 +276,7 @@ Online School
 
 * [Bangla Python Tutorial for Beginners](https://www.youtube.com/playlist?list=PLlBKlxyCgmsCYJLq9qc5QzaU-oBFJN79B) - Niamul Hasan (StartBit)
 * [Python All You Need To Know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVCH8fRfZ8sUuKEQQYIFMjtJ) - Stack Learner
+* [Python Bangla Tutorial & Data Science Full Course](https://www.youtube.com/playlist?list=PLmZYUigljiyc-tf7oMmM-s832ibhGxTpT) - Study Mart
 * [Python Bangla Tutorial 2023](https://www.youtube.com/playlist?list=PLNMnAEqLBwmpR8JDBOEl0jrzmH1vPnO7v) - Hablu Programmer
 * [Python Bangla Tutorials for Beginners](https://www.youtube.com/playlist?list=PLgH5QX0i9K3rz5XqMsTk41_j15_6682BN) - Anisul Islam
 * [Python tutorials by Zulkarnine](https://www.youtube.com/playlist?list=PLV3rqOvr9vgkW7U-kdxtUBx74ICpw94k8) - Zulkarnine Mahmud
@@ -285,11 +290,6 @@ Online School
 #### Flask 
 
 * [Flask Web Development with python (Bangla)](https://www.youtube.com/playlist?list=PL5WWFMzXof5hA8cLzEoim7BEkHcmddbOK) - Naimul Hawk
-
-
-### Linux
-
-* [Ubuntu Linux Bangla Tutorial 2021](https://www.youtube.com/playlist?list=PLKdU0fuY4OFfxTxJduexCuF7nRp5ioOgw) - STUDY MART
 
 
 ### Scratch
@@ -318,8 +318,8 @@ Online School
 
 ### WordPress
 
-* [Wordpress Bangla Tutorial Course for beginner to advanced level](https://www.youtube.com/playlist?list=PLeCz-UdZ0uzQVPdQN-mWnz8896BdYMqAf) - Freelancer Mannan
 * [WordPress Bangla Tutorial](https://www.youtube.com/playlist?list=PLm64fbD5Onxti7DiUkX3UX3P2tuiEw30E) - Moshiur
+* [Wordpress Bangla Tutorial Course for beginner to advanced level](https://www.youtube.com/playlist?list=PLeCz-UdZ0uzQVPdQN-mWnz8896BdYMqAf) - Freelancer Mannan
 * [WordPress Customization Bangla Tutorial](https://www.youtube.com/playlist?list=PLbC4KRSNcMno7NzhTgGhoZtRjLiHUo8m4) - Learn Hunter
 * [WordPress Plugin Development](https://www.youtube.com/playlist?list=PLSNRR4BKcowCkeAxfdtTsLqwR0LJYwDaz) - Procoder BD
 * [WordPress Theme Development Tutorial Bangla ](https://www.youtube.com/playlist?list=PLSNRR4BKcowD6A-U_ll9ayJWqOEz3XD8l) - Procoder BD

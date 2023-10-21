@@ -7,6 +7,7 @@
 
 ### <a id="cplusplus"></a>C++
 
+* [C++ Course Series for Beginner in Urdu/Hindi](https://www.youtube.com/playlist?list=PLuuQCKO44unsLwJMkR8_koVG6vDPjMYmH) - Learning Point
 * [Programming Fundamentals With C++ Complete Course In urdu | Hindi](https://www.youtube.com/playlist?list=PL4QkPoTgwFULciDFVJEHEwOKMtf9Q_Aqh) - Kacs Learnings
 
 

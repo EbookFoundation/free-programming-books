@@ -191,6 +191,7 @@
 ### Cloud Computing
 
 * [Cloud Computing](https://www.youtube.com/playlist?list=PLYwpaL_SFmcCyQH0n9GHfwviu6KeJ46BV) - 5 Minutes Engineering
+* [Cloud Computing](https://www.youtube.com/playlist?list=PLDN4rrl48XKqNsrDogCpHsul3UHMC0Wdq) - Abdul Bari
 * [Cloud Computing Tutorial](https://www.youtube.com/playlist?list=PL-JvKqQx2AtfQ8cGyKsFE7Tj2FyB1yCkd) - University Academy
 
 
@@ -198,6 +199,7 @@
 
 * [AWS Tutorial for Beginners In Hindi](https://www.youtube.com/playlist?list=PLCFe3TcoBniI4iaavlfnR0UGQrtjgOMj9) - Together with Abhi
 * [AWS Tutorial in Hindi | Edureka](https://www.youtube.com/playlist?list=PLQbQOmlGYH3uoa_mYHDJkl958B_dBiaqW) - edureka! Hindi
+* [AWS Tutorials - AWS tutorials For Beginners - AWS Architect and SysOps - In Hindi](https://www.youtube.com/playlist?list=PLBGx66SQNZ8a_y_CMLHchyHz_R6-6i-i_) - Technical Guftgu
 * [AWS Tutorials - AWS tutorials For Beginners - AWS Certification - AWS Training - In Hindi](https://www.youtube.com/playlist?list=PL6XT0grm_TfgtwtwUit305qS-HhDvb4du) - Gaurav Sharma
 
 
@@ -305,6 +307,7 @@
 
 ### Git and GitHub
 
+* [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics&t=7s) - Kunal Kushwaha
 * [Complete Git and Github Tutorials for Beginners](https://www.youtube.com/watch?v=Ez8F0nW6S-w) - Apna College
 * [Complete Git Tutorials For Beginners In Hindi](https://youtube.com/playlist?list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi) - CodeWithHarry
 * [Git & Github](https://youtube.com/playlist?list=PL5P8NPoF-nn8LFPLjJemBTVI_KsLo0VC1&si=U94-O5hr4Im0hI85) - Rahul Singh

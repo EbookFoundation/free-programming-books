@@ -78,6 +78,7 @@
 
 * [Competitive Programming Course in Bengali](https://www.youtube.com/channel/UCozCCU3b1HmcmCf2gLN_7HA/videos) - Bangladesh IOI team
 * [Data Structures and Algorithms in Bangla](https://www.youtube.com/playlist?list=PLym69wpbTIIEOesltWGUsVnY9HDWbJit_) - Tamim Shahriar
+* [Number Theory Full Series (Bangla)](https://youtube.com/playlist?list=PL0G2Ga9ALv6k1JZwK0gLvP96uaP2BwPpo) - Wrong Submission
 
 
 ### Dart

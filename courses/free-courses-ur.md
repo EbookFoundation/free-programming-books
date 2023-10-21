@@ -3,7 +3,7 @@
 * [C++](#cplusplus)
 * [C#](#csharp)
 * [HTML and CSS](#html-and-css)
-* [Pyhton](#python)
+* [Python](#python)
 
 
 ### <a id="cplusplus"></a>C++

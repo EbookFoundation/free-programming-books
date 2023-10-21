@@ -1392,6 +1392,7 @@
 * [Python Tutorials](https://youtube.com/playlist?list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB) - freeCodeCamp.org
 * [SoloLearn](https://www.sololearn.com/Course/Python/)
 * [The Python Tutorial](https://docs.python.org/3/tutorial/)
+* [Think Python: Edition 1](https://greenteapress.com/thinkpython/thinkpython.pdf) - Allen downey (PDF)
 * [Using Python for Research](https://www.edx.org/course/using-python-for-research) (edX Harvard)
 
 

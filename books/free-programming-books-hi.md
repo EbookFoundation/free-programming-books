@@ -26,7 +26,7 @@
 
 ### cpp
 
-* [C++ in hindi](https://www.bccfalna.com/IOC-AllEBooks/CPPinHindi.pdf) - kuldeep Chand (PDF)
+* [C++ in Hindi \| Hindi](https://drive.google.com/file/d/1RW0mXOpSfhOa2PGONHFFMH66S1FLtldl/view) - kuldeep Chand (PDF)
 
 
 ### Computer architecture

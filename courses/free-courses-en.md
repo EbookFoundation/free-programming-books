@@ -772,6 +772,7 @@
 * [CSS Grid](https://cssgrid.io) - Wesbos
 * [CSS Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWqMH9a9DY8LFKrJ5NJCFHHe)
 * [CSS Tutorials](https://youtube.com/playlist?list=PLDyQo7g0_nsUjf046cCHKJ16U1SoXrElZ) - Dev Ed
+* [CSS3 Coding Challenge](https://codecollege.ca/p/css3-coding-challenge) - CodeCollege (HTML)
 * [CSS3 tutorial for beginners \| Learn CSS3](https://www.udemy.com/course/css3-tutorial-for-beginners-learn-css3/) - Udemy
 * [Flexbox in 30 Days](https://github.com/samanthaming/Flexbox30) - Samantha Ming
 * [Gentle Introduction to CSS for Beginners](https://www.youtube.com/playlist?list=PLErOmyzRKOCptjkM-mOfveYlgKQEx1AAf) - Deborah Kurata

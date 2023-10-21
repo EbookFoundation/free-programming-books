@@ -3,6 +3,7 @@
 * [C++](#cplusplus)
 * [C#](#csharp)
 * [HTML and CSS](#html-and-css)
+* [Pyhton](#python)
 
 
 ### <a id="cplusplus"></a>C++
@@ -21,6 +22,6 @@
 * [HTML5 & CSS3 Tutorials In Urdu and Hindi](https://youtube.com/playlist?list=PLUyYwyJA_WfTr3YWWJ41_V7TrRZoq6cBT) - ProgramInUrdu
 
 
+### <a id="python"></a>Python
 
-
-
+* [Python_ka_chilla (python in 40 days in urdu/Hindi)](https://www.youtube.com/playlist?list=PL9XvIvvVL50HVsu-Ao8NBr0UJSO8O6lBI) - baba Aammar

@@ -265,7 +265,6 @@
 * [You Don't Know JS: Tipos & Gramática](https://github.com/cezaraugusto/You-Dont-Know-JS/blob/portuguese-translation/types%20&%20grammar/README.md)
 
 
-
 #### AngularJS
 
 > :information_source: Veja também &#8230; [Angular](#angular)

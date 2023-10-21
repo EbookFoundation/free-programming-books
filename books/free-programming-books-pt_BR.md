@@ -262,6 +262,7 @@
 * [You Don't Know JS: Iniciando](https://github.com/cezaraugusto/You-Dont-Know-JS/blob/portuguese-translation/up%20&%20going/README.md)
 * [You Don't Know JS: this & Prototipagem de Objetos](https://github.com/cezaraugusto/You-Dont-Know-JS/blob/portuguese-translation/this%20&%20object%20prototypes/README.md)
 * [You Don't Know JS: Tipos & Gramática](https://github.com/cezaraugusto/You-Dont-Know-JS/blob/portuguese-translation/types%20&%20grammar/README.md)
+* [Teach Yourself javascript](https://vulms.vu.edu.pk/Courses/CS202/Downloads/JavaScript%20Book.pdf)
 
 
 #### AngularJS

@@ -357,7 +357,7 @@
 
 ### iOS
 
-*[iOS App Devlopment for Beginner in Hindi](https://www.youtube.com/playlist?list=PL5PR3UyfTWvcRhz4ms-nNoGja2-DkA_6T) - iOS Academy
+* [iOS App development Course - Hindi - Xcode 9 - Swift 4](https://www.youtube.com/playlist?list=PL27xikYyFh9Cg5f28LpQuoRL8LEs01_zT) - Confiance Labs
 * [iOS App Development Crash Course in Hindi](https://www.youtube.com/watch?v=n7qOGHWunUY) - Akash Padhiyar
 * [IOS Mobile App Development Tutorial for beginners](https://www.youtube.com/playlist?list=PLtCBuHKmdxOcmrDx2pM4qNvzWF2NI_Qlo) - Fahad Hussain
 

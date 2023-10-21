@@ -1251,12 +1251,12 @@
 
 ### Networking
 
-* [FREE CCNA 200-301 // Complete Course // NetworkChuck 2023](https://www.youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P) - NetworkChuck
 * [CompTIA N10-008 Network+ Training Course](https://www.youtube.com/playlist?list=PLG49S3nxzAnlCJiCrOYuRYb6cne864a7G) - Professor Messer
 * [Computer Networking: A Top-Down Approach 8th edition](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm) - Jim Kurose, Keith Ross
 * [Computer Networking Course](https://www.youtube.com/watch?v=qiQR5rTSshw) - Brian Farrell (FreeCodeCamp.org)
 * [Computer Networking Full Course - OSI Model Deep Dive with Real Life Examples](https://www.youtube.com/watch?v=IPvYjXCsTg8) - Kunal Kushwaha
 * [Computer Networks 5e](https://media.pearsoncmg.com/ph/streaming/esm/tanenbaum5e_videonotes/tanenbaum_videoNotes.html) - Andrew Tanenbaum, David Wetherall (Pearson)
+* [FREE CCNA 200-301 // Complete Course // NetworkChuck 2023](https://www.youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P) - NetworkChuck
 
 
 ### Objective-C

@@ -45,6 +45,7 @@
 
 * [AlgoMOOC - Algoritmi quotidiani](https://www.youtube.com/playlist?list=PLjTV6y5YWc5HNnLyXkzUe9IlkG2n6guxU) - Alessandro Bogliolo
 * [Algoritmi e Programmazione (C)](https://www.youtube.com/playlist?list=PLUFFnpJdi99nqESTPaxlPMOF7yEEb8_sS) - P. Camurati, G. Cabodi, Politecnico di Torino
+* [Algoritmi e Strutture Dati]() - A. Montresor, Università di Trento
 * [Algoritmi e Strutture Dati](https://www.youtube.com/playlist?list=PLO4y9a8lTpK2TViOKbk-NjDBvL4RXDwYY) - R. Grossi, Università di Pisa
 
 
@@ -79,6 +80,7 @@
 
 * [C++ 11](https://www.youtube.com/playlist?list=PL0qAPtx8YtJfZpJD7uFxAXglkiHSEhktG) - Fabrizio Camuso
 * [C++ libreria QT - playlist 1](https://www.youtube.com/playlist?list=PL0qAPtx8YtJdH4GVwL_3QeJjPcz3DHE2t) - Fabrizio Camuso
+* [Corso C++ 2023](https://www.youtube.com/playlist?list=PLP5MAKLy8lP85m_fZy3TkWqB_8Zt5Q5aK) - Edoardo Midali
 
 
 ### Database
@@ -99,6 +101,7 @@
 
 ### DevOps
 
+* [Corso DevOps](https://www.youtube.com/playlist?list=PLU2FPKLp7ojKcxrKXr1cFmXH81tMK4P3E) - Michele Ferracin
 * [Docker - EmmeCiLab](https://www.youtube.com/playlist?list=PLCbSCJEIR6CpDJw4MawjHlgbsP3IG376e) - Mauro Cicolella
 
 
@@ -127,6 +130,7 @@
 
 * [Corso di Java Spring Framework](https://www.youtube.com/playlist?list=PLCbSCJEIR6CqgCLyVzqp49xOm8A5YDTKA) - Mauro Cicolella
 * [Corso di JPA Java Persistence API](https://www.youtube.com/playlist?list=PLCbSCJEIR6Co1aPvFfPuIsRGouF9D0Jk3) - Mauro Cicolella
+* [Corso Java in Italiano COMPLETO 2023/2024](https://www.youtube.com/playlist?list=PLUnSLr48xh3CAuL_Q0VAjthv0WbPuQQRR) - Code Brothers
 * [Design Patterns in Java](https://www.youtube.com/playlist?list=PLCbSCJEIR6Cq-ac90TGvJ8Wo8TtyZ4nhu) - Mauro Cicolella
 * [Esercitazioni di Spring Boot](https://www.youtube.com/playlist?list=PLCbSCJEIR6CpGchit9OCI6fX_qVYs78d_) - Mauro Cicolella
 * [Java EE](https://www.youtube.com/playlist?list=PLjGYWJ4Dcy-erfReHXB9Ush0cREGSmyIe) - Sonia Zorba
@@ -179,6 +183,7 @@
 ### Python
 
 * [Corso Python 2016](https://www.youtube.com/playlist?list=PLA27EZBY5veOa-dbNIetJvyrAuoVy4zDD) - POuL Politecnico di Milano
+* [Corso Python completo 2023](https://www.youtube.com/playlist?list=PLP5MAKLy8lP8FAytdm2ncZbPioA9A2SgF) - Edoardo Midali
 * [Corso rapido Python per principianti e per esempi](https://www.youtube.com/playlist?list=PL0qAPtx8YtJdbiBCoj4j6x_Ai6Vu9j5r9) - Fabrizio Camuso
 * [Le Basi di Python - Corso Completo](https://www.programmareinpython.it/video-corso-python-base/) - Michele Saba
 * [Programmazione ad Oggetti - Python](https://www.youtube.com/playlist?list=PLhlcRDRHVUzR2WHN9VTPZrawqRYHz5ALF) - Nicola Bicocchi
@@ -228,8 +233,11 @@
 
 * [Computer grafica 2017/2018](https://www.youtube.com/playlist?list=PLUFFnpJdi99kXjntQ0LNPnLbRLjKzmQaC) - A. Bottino, Politecnico di Torino
 * [Corso CSS 3 Completo 2023](https://www.youtube.com/playlist?list=PLP5MAKLy8lP-a0MG-MFHKCISmj2Wg4vT6) - Edoardo Midali
+* [Corso Flutter 2020](https://www.youtube.com/playlist?list=PLFD-5ZFcEgYX5q5pobSkQGfC6rMYy_puq) - Angelo Cassano
 * [Corso HTML 5 Completo 2023](https://www.youtube.com/playlist?list=PLP5MAKLy8lP8U-yYn6J4hGfcee4Tirieg) - Edoardo Midali
+* [Corso HTML 5 Italiano 2023](https://www.youtube.com/playlist?list=PL6PilnEO6HWbTXL8nLSkp-875H-x-vhEo) - Manuel Ricci
 * [Corso SEO Italiano 2023](https://www.youtube.com/playlist?list=PLP5MAKLy8lP9OpFQyF2LnTWgtcoDLgYm7) - Edoardo Midali
+* [Mini Corso React / TypeScript / TSX 2023](https://www.youtube.com/playlist?list=PLUioGv_6G9YJw8uZb040obhcCi8tQX9IQ) - Fabio Biondi
 * [Progettazione di applicazioni Web](https://www.youtube.com/playlist?list=PLE0AA1735F10543A6) - Fulvio Corno, S. Di Carlo, Politecnico di Torino
 
 

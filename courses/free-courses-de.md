@@ -1,5 +1,7 @@
 ### Index
 
+* [Ansible](#ansible)
+* [Bash](#bash)
 * [C](#c)
 * [C++](#cpp)
 * [Haskell](#haskell)
@@ -7,11 +9,22 @@
     * [Bootstrap](#bootstrap)
 * [Java](#java)
 * [JavaScript](#javascript)
+    * [TypeScript](#typescript)
 * [Künstliche Intelligenz](#künstliche-intelligenz)
 * [Python](#python)
 * [Rust](#rust)
 * [Spieleentwicklung](#spieleentwicklung)
-* [TypeScript](#typescript)
+* [SQL](#sql)
+
+
+### Ansible
+
+* [Ansible Tutorial](https://www.redhat.com/de/topics/automation/learning-ansible-tutorial) - RedHat
+
+
+### Bash
+
+* [Bash-Scripting Grundkurs](https://www.ernstlx.com/linux90script.html)
 
 
 ### <a id="cpp"></a>C++
@@ -53,6 +66,12 @@
 * [JavaScript Lernen für Anfänger bis Profis](https://www.youtube.com/playlist?list=PLNmsVeXQZj7qOfMI2ZNk-LXUAiXKrwDIi) - The Morpheus Tutorials
 
 
+#### TypeScript
+
+* [Erstellen von JavaScript-Anwendungen mithilfe von TypeScript](https://docs.microsoft.com/de-de/learn/paths/build-javascript-applications-typescript/) - Microsoft
+* [TypeScript lernen: Eine Einführung in 80 Minuten](https://www.youtube.com/watch?v=_CaGUZNEobk) - Golo Roden
+
+
 ### Künstliche Intelligenz
 
 * [Elements of AI](https://www.elementsofai.de)
@@ -77,7 +96,6 @@
 * [Unreal Engine 4 Tutorial Deutsch/German](https://www.youtube.com/playlist?list=PLNmsVeXQZj7olLCliQ05e6hvEOl6sbBgv) - The Morpheus Tutorials
 
 
-### TypeScript
+### SQL
 
-* [Erstellen von JavaScript-Anwendungen mithilfe von TypeScript](https://docs.microsoft.com/de-de/learn/paths/build-javascript-applications-typescript/) - Microsoft
-* [TypeScript lernen: Eine Einführung in 80 Minuten](https://www.youtube.com/watch?v=_CaGUZNEobk) - Golo Roden
+* [SQL-Grundlagen](https://wiki.selfhtml.org/wiki/Datenbank/SQL-Grundlagen) - SelfHTML

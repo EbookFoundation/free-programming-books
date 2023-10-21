@@ -9,41 +9,12 @@
 * [Networking](#networking)
 * [Php](#php)
 
-
 ### C
-
-
-
-
 ### <a id="cpp"></a>C++
-
-
-
-
 ### Computer architecture
-
-
-
-
 ### Data Structure and Algorithms
-
-
-
-
 ### Java
-
-
-
-
 ### Linux
-
-
-
-
 ### Networking
-
-
-
-
 ### Php
 

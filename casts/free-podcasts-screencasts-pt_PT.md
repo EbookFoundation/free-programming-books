@@ -7,7 +7,7 @@
 
 ### Desenvolvimento Web
 
-* [10webPodcast sobre web e desenvolvimento em português](https://10web.pt/acerca) - Ricardo Correia, Vitor Silva e Ana Sampaio (podcast)
+* [10webPodcast sobre web e desenvolvimento em português](https://10web.pt/acerca) - Ricardo Correia, Vitor Silva, Ana Sampaio (podcast)
 
 
 ### Laravel

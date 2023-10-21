@@ -1,0 +1,37 @@
+# Github Dependabot config file
+# https://help.github.com/github/administering-a-repository/configuration-options-for-dependency-updates
+
+version: 2
+updates:
+
+  # Maintain dependencies for GitHub Actions
+  - package-ecosystem: "github-actions"
+    # Workflow files stored in the
+    # default location of `.github/workflows`
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "saturday"
+      time: "12:00"
+      timezone: "Europe/Paris"
+    # Specify labels for `gha` pull requests
+    labels:
+      - "🔗 dependencies"
+      - "🔗 dependencies:github-actions"
+      - "🤖 automation"
+    commit-message:
+      # Prefix all commit messages with `chore` (follow conventional-commits)
+      # include a list of updated dependencies
+      prefix: "chore"
+      include: "scope"
+    # Allow up to N open pull requests (0 to disable)
+    open-pull-requests-limit: 10
+    pull-request-branch-name:
+      # Separate sections of the branch name with a hyphen
+      # for example, `dependabot/github_actions/actions/checkout-2.3.1`
+      separator: "/"
+    # Add the arrays of assignees and reviewers
+    assignees:
+      - "EbookFoundation/maintainers"
+    reviewers:
+      - "EbookFoundation/reviewers"

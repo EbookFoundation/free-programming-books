@@ -162,6 +162,7 @@ This project lists books and other resources grouped by genres:
 + [Thai / ภาษาไทย](courses/free-courses-th.md)
 + [Turkish / Türkçe](courses/free-courses-tr.md)
 + [Ukrainian / Українська](courses/free-courses-uk.md)
++ [Urdu / اردو](courses/free-courses-ur.md)
 + [Vietnamese / Tiếng Việt](courses/free-courses-vi.md)
 
 

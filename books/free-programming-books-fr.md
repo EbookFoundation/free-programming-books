@@ -17,6 +17,7 @@
 * [Coq](#coq)
 * [Fortran](#fortran)
 * [Git](#git)
+* [Go](#go)
 * [Haskell](#haskell)
 * [HTML and CSS](#css)
 * [Java](#java)
@@ -150,6 +151,11 @@
 
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/fr/) - Ben Lynn, `trl.:` Alexandre Garel, `trl.:` Paul Gaborit, `trl.:` Nicolas Deram (HTML, PDF)
 * [Pro Git](http://www.git-scm.com/book/fr/) - Scott Chacon, Ben Straub (HTML, PDF, EPUB)
+
+
+### Go
+
+* [Développer une application Web en Go](https://astaxie.gitbooks.io/build-web-application-with-golang/content/fr/) - astaxie
 
 
 ### Java

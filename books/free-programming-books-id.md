@@ -5,7 +5,6 @@
 * [C#](#csharp)
 * [C++](#cpp)
 * [CodeIgniter](#codeigniter)
-* [Flutter](#flutter)
 * [Git](#git)
 * [Go](#go)
 * [HTML and CSS](#html-and-css)
@@ -25,6 +24,7 @@
 * [Pemrograman Kompetitif](#pemrograman-kompetitif)
 * [PHP](#php)
 * [Python](#python)
+* [Rust](#rust)
 * [Solidity](#solidity)
 
 
@@ -58,12 +58,6 @@
 * [Panduan Pengguna CodeIgniter Indonesia](https://codeigniter-id.github.io/user-guide/) - CodeIgniter Indonesia
 * [Tutorial CodeIgniter 3 & 4](https://www.petanikode.com/tutorial/codeigniter/) *(Dalam Proses)*
 * [Tutorial CodeIgniter 4](http://mfikri.com/artikel/tutorial-codeigniter4)
-
-
-### Flutter
-
-* [Belajar Flutter](https://belajarflutter.com) - Herry Prasetyo (HTML)
-* [Flutter dan Flutlab](https://utter.academy/uploads/lesson_files/2f0c5c74e9488d4c9c734e4264e5869e.pdf) - Utter academy (PDF)
 
 
 ### Git
@@ -102,6 +96,7 @@
 
 ### Java
 
+* [Algoritma dan Struktur Data dengan Java oleh Polinema SIB](https://polinema.gitbook.io/jti-modul-praktikum-algoritma-dan-struktur-data/) - Politeknik Negeri Malang
 * [Java Desktop](https://github.com/ifnu/buku-java-desktop/raw/master/java-desktop-ifnu-bima.pdf) - Ifnu Bima (PDF)
 * [Memulai Java Enterprise dengan Spring Boot](https://raw.githubusercontent.com/teten-nugraha/free-ebook-springboot-basic/master/Memulai%20Java%20Enterprise%20dengan%20Spring%20Boot.pdf) - Teten Nugraha (PDF)
 * [Pemrograman Java](https://blog.rosihanari.net/download-tutorial-java-se-gratis/) - Rosihan Ari Yuana
@@ -177,7 +172,7 @@
 
 ### Pemrograman Kompetitif
 
-* [Pemrograman Kompetitif Dasar](https://ksn.toki.id/data/pemrograman-kompetitif-dasar.pdf) - William Gozali, Alham Fikri Aji (PDF)
+* [Pemrograman Kompetitif Dasar](https://osn.toki.id/data/pemrograman-kompetitif-dasar.pdf) - William Gozali, Alham Fikri Aji (PDF)
 * [Referensi Pemrograman Bahasa Pascal](https://toki.id/download/referensi-pemrograman-bahasa-pascal/) - Tim Pembina Toki (PDF)
 
 
@@ -202,13 +197,19 @@
 
 * [Belajar Python](http://www.belajarpython.com)
 * [Cepat Mahir Python](https://gilacoding.com/upload/file/Python.pdf) - Hendri, `edt.:` Romi Satria Wahono (PDF)
-* [Dasar Pemrograman Python](https://www.pythonindo.com/tutorial-python-dasar/)
 * [Dasar Pengenalan Pemrograman Python](https://play.google.com/store/books/details/Rolly_Maulana_Awangga_Dasar_dasar_Python?id=YpzDDwAAQBAJ) - Rolly Maulana AwanggaRayhan *(Membutuhkan akun Google Play Books atau email yang valid)*
 * [Kursus Singkat Machine Learning dengan TensorFlow API](https://developers.google.com/machine-learning/crash-course?hl=id)
 * [Python Untuk Pemula](https://santrikoding.com/ebook/python-untuk-pemula) - Rizqi Maulana
 * [Tutorial Dasar Pemrograman Python](https://www.petanikode.com/tutorial/python/) - Petani Kode, Ahmad Muhardian
 * [Tutorial Python](https://docs.python.org/id/3.8/tutorial/)
 * [Workshop Python 101](http://sakti.github.io/python101/)
+
+
+### Rust
+
+* [Belajar Rust](https://belajar-rust.vercel.app) - evilfactorylabs
+* [Dasar Pemrograman Rust](https://dasarpemrogramanrust.novalagung.com) - Noval Agung Prayogo
+* [Easy Rust Indonesia](https://github.com/ariandy/easy-rust-indonesia) - ariandy
 
 
 ### Solidity

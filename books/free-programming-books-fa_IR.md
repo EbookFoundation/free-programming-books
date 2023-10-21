@@ -56,6 +56,7 @@
 
 ### Linux
 
+* [تائوی برنامه نویسان](https://aidinhut.com/fa/books/the_tao_of_programming.pdf) (PDF)
 * [فقط برای تفریح؛ داستان یک انقلابی اتفاقی](https://linuxstory.ir)
 * [لینوکس و زندگی؛‌ درس‌هایی برای گیک های جوان](https://linuxbook.ir)
 
@@ -70,10 +71,12 @@
 ### Python
 
 * [پایتون به پارسی](https://python.coderz.ir) - سعید درویش (HTML)
+* [ترجمه آزاد کتاب Asyncio in Python](https://github.com/ftg-iran/aip-persian)
 
 
 #### Django
 
+* [ترجمه آزاد کتاب Django Design Patterns and Best Practices](https://github.com/ftg-iran/ddpabp-persian)
 * [کتاب جنگو برای حرفه‌ای‌ها](https://github.com/mthri/dfp-persian)
 * [کتاب جنگو برای API](https://github.com/ftg-iran/dfa-persian)
 

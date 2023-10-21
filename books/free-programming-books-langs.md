@@ -2205,7 +2205,6 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Ruby
 
-* [A Brief Introduction to Ruby](https://markm208.github.io/rubybook) - Mark Mahoney
 * [A community-driven Ruby style guide](https://github.com/bbatsov/ruby-style-guide)
 * [CodeCademy Ruby](https://www.codecademy.com/learn/ruby)
 * [Core Ruby Tools](https://launchschool.com/books/core_ruby_tools) - Launch School (HTML)
@@ -2257,7 +2256,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Kestrels, Quirky Birds, and Hopeless Egocentricity](https://leanpub.com/combinators/read) - Reg Braithwaite
 * [Learn Ruby on Rails: Book One](https://learn-rails.com/content/learnrails1) - Daniel Kehoe
 * [Learn Ruby on Rails: Book Two](https://learn-rails.com/content/learnrails2) - Daniel Kehoe
-* [N+1 Queries Basics](https://bhserna.com/n-plus-1-queries-basics.html) - Benito Serna
 * [Objects on Rails](https://web.archive.org/web/20190319201525/http://objectsonrails.com/) - Avdi Grimm *(:card_file_box: archived)*
 * [Rails Girls Guides](http://guides.railsgirls.com)
 * [Rails Style Guide](https://rails.rubystyle.guide) - Bozhidar Batsov

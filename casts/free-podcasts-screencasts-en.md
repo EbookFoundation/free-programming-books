@@ -187,7 +187,8 @@
 * [JavaScript Jabber](https://javascriptjabber.com) - Aimee Knight, AJ O'Neal, Charles Wood, Dan Shappir, Steve Edwards, et al. (podcast)
 * [JS Party](https://changelog.com/jsparty) - Jerod Santo, Nick Nisi, Amelia Wattenberger, Kevin Ball, Divya, Feross Aboukhadijeh, Amal Hussein, Christopher Hiller, Ali Spittel, et al. (podcast)
 * [Modern Web](https://www.thisdot.co/modern-web) - This Dot Labs (podcast)
-* [Ladybug Podcast](https://www.ladybug.dev) - Emma Bostian, Sidney Buckner, Kelly Vaughn, and Ali Spittel (podcast)* [Node Tuts - Node.JS Video Tutorials](http://nodetuts.com) - YLD Ltd. (screencast)
+* [Ladybug Podcast](https://www.ladybug.dev) - Emma Bostian, Sidney Buckner, Kelly Vaughn, and Ali Spittel (podcast)*
+* [Node Tuts - Node.JS Video Tutorials](http://nodetuts.com) - YLD Ltd. (screencast)
 * [Purrfect.dev](https://anchor.fm/purrfect-dev) - Developers (podcast)
 * [Real Talk JavaScript](https://realtalkjavascript.simplecast.fm) - John Papa, Ward Bell, Craig Shoemaker, Dan Wahlin (podcast)
 * [ShopTalk](https://shoptalkshow.com) - Dave Rupert, Chris Coyier. (podcast)

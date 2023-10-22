@@ -112,6 +112,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY) - Larry Liu Xinyu (PDF)
 * [Essential Algorithms](https://www.programming-books.io/essential/algorithms/) - Krzysztof Kowalczyk and  Stack Overflow Documentation project (HTML)
 * [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html) - Al Aho, Jeff Ullman
+* [Learning Algorithm](https://riptutorial.com/Download/algorithm.pdf) - Compiled from StackOverflow documentation (PDF)
 * [Lectures Notes on Algorithm Analysis and Computational Complexity (Fourth Edition)](https://ianparberry.com/books/free/license.html) - Ian Parberry (use form at bottom of license)
 * [LEDA: A Platform for Combinatorial and Geometric Computing](https://people.mpi-inf.mpg.de/~mehlhorn/LEDAbook.html) - K. Mehlhorn, St. Näher
 * [Linked List Basics](http://cslibrary.stanford.edu/103/LinkedListBasics.pdf) - Nick Parlante (PDF)
@@ -647,6 +648,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Bits, Signals, and Packets: An Introduction to Digital Communications and Networks](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/readings/)
 * [Code Connected vol.1](https://hintjens.wdfiles.com/local--files/main%3Afiles/cc1pe.pdf) (PDF) (book on ZeroMQ)
 * [Computer Networking : Principles, Protocols and Practice](http://cnp3book.info.ucl.ac.be/1st/html/index.html) (HTML, ePub, PDF, Kindle)
+* [Computer Networks](https://kanchiuniv.ac.in/coursematerials/VINODKUMAR_COMPUTER_NETWORKS.pdf) - J.Vinoth kumar (PDF)
 * [Computer Networks: A Systems Approach](https://book.systemsapproach.org) - Larry Peterson, Bruce Davie (HTML, epub, mobi, PDF)
 * [Distributed systems for fun and profit](https://book.mixu.net/distsys/single-page.html)
 * [High-Performance Browser Networking](https://hpbn.co) - Ilya Grigorik

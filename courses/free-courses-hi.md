@@ -19,6 +19,7 @@
 * [Compiler Design](#compiler-design)
 * [Computer Graphics](#computer-graphics)
 * [Computer Organization and Architecture](#computer-organization-and-architecture)
+* [Data Science](#data-science)
 * [Data Structures](#data-structures)
 * [Databases](#databases)
 * [DevOps](#devops)
@@ -234,6 +235,12 @@
 * [Computer Organization and Architecture](https://www.youtube.com/playlist?list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX) - Gate Smashers
 * [Computer Organization and Architecture Lectures in Hindi](https://www.youtube.com/playlist?list=PLV8vIYTIdSnar4uzz-4TIlgyFJ2m18NE3) - Easy Engineering Classes
 * [Introduction to Computer Organization and Architecture](https://youtube.com/playlist?list=PLBlnK6fEyqRjC2nTHdeUtWFkoiPVespkc) - Neso Academy
+
+
+### Data Science
+
+*[Data Analyst Course Beginner's to Advance (हिंदी में)](https://www.youtube.com/playlist?list=PLxzTa0VPR9ryvGSuCm4RS8aeAvOLXz9XM) - IHHPET:Industries Helping Hands Dot Com
+*[Data Science Course 2023](https://www.youtube.com/playlist?list=PLfP3JxW-T70HvifebGl3d5d5jzI1Kp0i8) - Indian AI Production
 
 
 ### Data Structures

@@ -196,6 +196,8 @@
 * [The JavaScript Show](http://javascriptshow.com) - Peter Cooper, Jason Seifer (podcast)
 * [The Vanilla JS Podcast](http://javascriptshow.com) - Chris Ferdinandi. (podcast)
 * [Web Rush](https://webrush.simplecast.com) - John Papa, Ward Bell, Craig Shoemaker, Dan Wahlin (podcast)
+* [20 Min JS Podcast](https://20minjs.com/) - Agustinus Theodorus, Chris Bongers, Mark Volkmann, and others.
+
 
 
 #### Angular

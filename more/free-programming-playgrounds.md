@@ -145,9 +145,9 @@
 * [CSSdeck](https://cssdeck.com)
 * [Dabblet](https://dabblet.com)
 * [Flexy Boxes](https://the-echoplex.net/flexyboxes/)
+* [Play Code](https://playcode.io/)
 * [SoloLearn](https://code.sololearn.com/web#css)
 * [Tailwind Play](https://play.tailwindcss.com)
-* [Play Code](https://playcode.io/)
 
 
 ### Ionic

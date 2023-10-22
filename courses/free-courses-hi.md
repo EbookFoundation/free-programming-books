@@ -356,10 +356,12 @@
 
 #### Tailwind CSS
 
+* [Learn Tailwind CSS with Projects | Hindi](https://youtube.com/playlist?list=PLPppPPmk0i3h9Xs6cAknE9OODTqZD5zFe&si=gGU8V7E-oixJPYwp) - Do Some Coding
 * [Tailwind CSS Complete Course - CSS Framework [Hindi] - Beginner to Advanced](https://www.youtube.com/playlist?list=PLjVLYmrlmjGfpwYhVAbiGAhFl6h8XWDV_) - WsCube Tech
 * [Tailwind css hindi](https://www.youtube.com/playlist?list=PLLCu4ndnReXLXfD-iIGBEB6_l8uF6TMNO) - NST Infotech
 * [Tailwind CSS In Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp3l8tWTcB7R7Bsgd86lCa8a) - Thapa Technical
 * [Tailwind CSS Tutorials in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ahwFDuExCpPFHAK829Wto2O) - CodeWithHarry
+
 
 
 ### iOS

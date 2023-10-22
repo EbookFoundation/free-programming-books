@@ -277,6 +277,7 @@
 * [苦しんで覚えるＣ言語](https://9cguide.appspot.com) - MMGames/森口将憲
 * [計算物理のためのC/C++言語入門](http://cms.phys.s.u-tokyo.ac.jp/~naoki/CIPINTRO) - 渡辺尚貴
 * [猫でもわかるプログラミング](http://kumei.ne.jp/c_lang) - 粂井康孝
+* [初心者を対象としたC言語プログラミング教育における学習法改善のための基礎研究](https://ynu.repo.nii.ac.jp/?action=repository_action_common_download&item_id=10270&item_no=1&attribute_id=20&file_no=1) - 李月、尾崎誠、但馬文昭 
 
 
 ### <a id="cpp"></a>C++

@@ -94,6 +94,7 @@
 
 #### Soft Computing
 
+* [Application of Soft Computing](https://www.youtube.com/playlist?list=PLLmJo5LKwNNiSl_a8II-0xyujwPfdXFHR) - AKTU TechQuantum
 * [Application of soft computing](https://www.youtube.com/playlist?list=PL_obO5Qb5QTEM_GVn5E45F3Z8-SIRBDL-) - LS Academy for Technical Education
 * [Introduction To Soft Computing](https://www.youtube.com/playlist?list=PLJ5C_6qdAvBFqAYS0P9INAogIMklG8E-9) - Computer Science and Engineering
 * [Soft Computing \| University exams specific](https://www.youtube.com/playlist?list=PLuAADu3OvBt5-e5yXuIqBi1pttqw3RBeg) - Er Sahil ka Gyan

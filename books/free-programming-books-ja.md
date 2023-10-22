@@ -406,6 +406,7 @@
 * [JavaScript Promiseの本](https://azu.github.io/promises-book) - azu
 * [JavaScript 基礎文法最速マスター](https://gifnksm.hatenablog.jp/entry/20100131/1264934942) - id:gifnksm
 * [JavaScript 言語リファレンス](https://msdn.microsoft.com/ja-jp/library/d1et7k7c.aspx) - MSDN Library
+* [Java Scriptを用いたインターネット上の科学技術シミュレーション教材(I) : モンテカルロ法](https://ir.lib.shimane-u.ac.jp/1356) - 川口 高明
 * [Mozilla Developer Network 日本語ドキュメント](https://developer.mozilla.org/ja/docs/Web/JavaScript) - MDN
 * [The little book of Buster.JS](https://the-little-book-of-busterjs.readthedocs.io/en/latest) - azu
 * [お気楽 JavaScript プログラミング超入門](http://www.nct9.ne.jp/m_hiroi/light/javascript.html) - 広井誠

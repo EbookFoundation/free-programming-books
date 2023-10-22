@@ -186,6 +186,7 @@
 * [JavaScript Air](https://javascriptair.com) - Kent C. Dodds, Dan Abramov, Matt Zabriskie, Pam Selle, Lin Clark, Brian Lonsdorf, Iheanyi Ekechukwu, Tyler McGinnis, Kyle Simpson, et al. (podcast)
 * [JavaScript Jabber](https://javascriptjabber.com) - Aimee Knight, AJ O'Neal, Charles Wood, Dan Shappir, Steve Edwards, et al. (podcast)
 * [JS Party](https://changelog.com/jsparty) - Jerod Santo, Nick Nisi, Amelia Wattenberger, Kevin Ball, Divya, Feross Aboukhadijeh, Amal Hussein, Christopher Hiller, Ali Spittel, et al. (podcast)
+*  [20 Min JS Podcast](https://20minjs.com) - Agustinus Theodorus, Chris Bongers, Mark Volkmann (podcast)
 * [Ladybug Podcast](https://www.ladybug.dev) - Emma Bostian, Sidney Buckner, Kelly Vaughn, and Ali Spittel (podcast)
 * [Modern Web](https://www.thisdot.co/modern-web) - This Dot Labs (podcast)
 * [Node Tuts - Node.JS Video Tutorials](http://nodetuts.com) - YLD Ltd. (screencast)
@@ -196,8 +197,6 @@
 * [The JavaScript Show](http://javascriptshow.com) - Peter Cooper, Jason Seifer (podcast)
 * [The Vanilla JS Podcast](http://javascriptshow.com) - Chris Ferdinandi. (podcast)
 * [Web Rush](https://webrush.simplecast.com) - John Papa, Ward Bell, Craig Shoemaker, Dan Wahlin (podcast)
-* [20 Min JS Podcast](https://20minjs.com) - Agustinus Theodorus, Chris Bongers, Mark Volkmann (podcast)
-
 
 
 #### Angular

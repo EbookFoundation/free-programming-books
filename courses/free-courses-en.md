@@ -2,6 +2,7 @@
 
 * [0 - MOOC](#0---mooc)
 * [Algorithms & Data Structures](#algorithms--data-structures)
+    * [Soft Computing](#soft-computing)
 * [Android](#android)
 * [APL](#apl)
 * [Artificial Intelligence](#artificial-intelligence)
@@ -96,7 +97,6 @@
 * [Rust](#rust)
 * [Scala](#scala)
 * [Security](#security)
-* [Soft Computing](#soft-computing)
 * [Software Engineering](#software-engineering)
 * [Solidity](#solidity)
 * [Spark](#spark)
@@ -193,6 +193,12 @@
 * [Tree Algorithms](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsDfGc8rbQ0_58oEZQVtvoIc) - WilliamFiset
 * [Trees by Striver \| C++ \| Java \| Placements \| Binary Trees and Traversals \| Problems](https://www.youtube.com/playlist?list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk) - take U forward
 
+
+#### Soft Computing
+
+* [Introduction To Soft Computing](https://www.youtube.com/playlist?list=PLJ5C_6qdAvBFqAYS0P9INAogIMklG8E-9) - Computer Science and Engineering
+* [Learn and Grow](https://www.youtube.com/playlist?list=PL_kjqgSKrEaA8RDh56AeTOrcGj-nMDkSS) - Learn and Grow
+* [Soft Computing /| University exams specific](https://www.youtube.com/playlist?list=PLuAADu3OvBt5-e5yXuIqBi1pttqw3RBeg) - Er Sahil ka Gyan
 
 ### Android
 
@@ -1499,11 +1505,6 @@
 * [The Complete Cyber Security & Hacking Course](https://academy.ehacking.net/p/cyber-security-training-hacking-course) - INSEC-TECHS (EH Academy)
 * [WireShark for Ethical Hacking](https://www.udemy.com/course/wireshark-for-ethical-hacking-new) - Musab Zayadneh (Udemy)
 * [Zero to Hero: A Practical Network Penetration Testing Course](https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj) - The Cyber Mentor
-
-
-### Soft Computing
-
-* [Introduction To Soft Computing](https://www.youtube.com/playlist?list=PLJ5C_6qdAvBFqAYS0P9INAogIMklG8E-9) - Computer Science and Engineering
 
 
 ### Software Engineering

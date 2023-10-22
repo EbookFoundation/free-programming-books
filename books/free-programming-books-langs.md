@@ -400,12 +400,14 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Google Shell Style Guide](https://google.github.io/styleguide/shell.xml) - Paul Armstrong (HTML)
 * [Introduction to Bash Scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Bobby Iliev (Markdown, PDF)
 * [Introduction to the Command Line](https://launchschool.com/books/command_line) - Launch School (HTML)
+* [Learning the bash Shell, 3rd Edition - Unix Shell Programming](https://doc.lagout.org/operating%20system%20/linux/Learning%20the%20bash%20Shell%20-%20Unix%20Shell%20Programming.pdf) - Cameron Newham (PDF)
 * [Linux Shell Scripting Tutorial - A Beginner's Handbook (2002)](http://www.freeos.com/guides/lsst/) - Vivek G. Gite (HTML)
 * [Linux Shell Scripting Tutorial (LSST) v2.0](https://bash.cyberciti.biz/guide/Main_Page) - Vivek Gite (HTML)
 * [Linux Shell Scripting With Bash](https://archive.org/download/B-001-002-839/LinuxShellScriptingWithBash-Sams.pdf) - Ken O. Burtch (PDF)
 * [Slackbook (2005)](http://slackbook.org) - Alan Hicks, Chris Lumens, David Cantrell, Logan Johnson (HTML, DocBook, Postscript, PDF)
 * [The Bash Academy](http://guide.bash.academy) - Maarten Billemont (HTML)
 * [The Linux Command Line](http://linuxcommand.org/tlcl.php) - William E. Shotts Jr. (PDF)
+* [The Linux Command Line: A Complete Introduction, 2nd Edition](https://dl.ebooksworld.ir/motoman/The.Linux.Command.Line.2nd.Edition.www.EBooksWorld.ir.pdf) - William Shotts (PDF)
 * [Writing Shell Scripts](http://linuxcommand.org/lc3_writing_shell_scripts.php) - William E. Shotts Jr. (HTML)
 
 
@@ -813,6 +815,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/) - astaxie
 * [Building Web Apps with Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
 * [Darker Corners of Go](https://rytisbiel.com/2021/03/06/darker-corners-of-go/) - Rytis Bieliunas
+* [Essentials of Go Programming](https://essentials-of-go-programming.readthedocs.io/) - Baiju Muthukadan (HTML)
 * [Effective Go](https://golang.org/doc/effective_go.html)
 * [Essential Go](https://www.programming-books.io/essential/go/) - Krzysztof Kowalczyk, StackOverflow Contributors
 * [Gin Web Framework](https://chenyitian.gitbooks.io/gin-web-framework/content/)

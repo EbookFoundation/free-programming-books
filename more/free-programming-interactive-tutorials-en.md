@@ -403,6 +403,7 @@
 
 ### Ruby
 
+* [A Brief Introduction to Ruby](https://markm208.github.io/rubybook) - Mark Mahoney
 * [CodeCademy Ruby](https://www.codecademy.com/learn/ruby)
 * [Ruby Koans](http://www.rubykoans.com)
 * [The Odin Project](http://www.theodinproject.com)

@@ -56,6 +56,7 @@
 * [ångstromCTF](https://angstromctf.com)
 * [CTFlearn](https://ctflearn.com) (email address *requested*)
 * [CTFtime](https://ctftime.org)
+* [echoCTF](https://echoctf.red)
 * [Google CTF](https://capturetheflag.withgoogle.com) (email address *requested*)
 * [Hacker101](https://ctf.hacker101.com) (email address *requested*)
 * [Hackthebox](https://www.hackthebox.eu) (email address *requested*)
@@ -64,6 +65,8 @@
 * [Microcorruption](https://microcorruption.com/login)
 * [Overthewire Wargames fungame to practice CTF](https://overthewire.org/wargames/bandit)
 * [Picoctf](https://picoctf.org/resources.html) (email address *requested*)
+* [ringzer0ctf](https://ringzer0ctf.com/home)
+* [ROP Wargame Repository](https://github.com/xelenonz/game)
 * [SmashTheStack](http://www.smashthestack.org/main.html#wargames)
 * [TryHackMe](https://tryhackme.com) (email address *requested*)
 

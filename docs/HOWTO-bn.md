@@ -6,9 +6,9 @@
 
 </div>
 
-**`Free-Programming-Books` রিপোজটরি তে স্বাগতম!**
+**`Free-Programming-Books` রিপজিটরি তে স্বাগতম!**
 
-আমরা নবাগত কন্ট্রিবিউটরস দের স্বাগতম জানাই; এমনকি যারা GitHub এই প্রথম কোন Pull Request (PR) তৈরি কয়েছেন। যদি আপনি তাদের একজন হয়ে থাকেন তাহলে নিচের রিসোর্স গুলো আপনার কাজে লাগতে পারেঃ
+আমরা নবাগত কন্ট্রিবিউটরস্ দের স্বাগতম জানাই; এমনকি যারা GitHub এ প্রথম কোন Pull Request (PR) তৈরি করেছেন। যদি আপনি তাদের একজন হয়ে থাকেন তাহলে নিচের রিসোর্স গুলো আপনার কাজে লাগতে পারেঃ
 
 * [পুল রিকোয়েস্ট কি?](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) *(in english)*
 * [কিভাবে পুল রিকোয়েস্ট দিব](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(in english)*
@@ -18,7 +18,7 @@
 * [YouTube - মার্কডাউন ক্র্যাশ কোর্স](https://www.youtube.com/watch?v=HUBNt18RFbo) *(in english)*
 
 
-কোন প্রশ্ন করতে দ্বিধাবোধ করবেন না। সব কন্ট্রিবিউটরই ফার্স্ট PR থেকে শুরু করেছিল। So... why not join our [large, growing](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books) community.কন্ট্রিবিউটর!
+কোন প্রশ্ন করতে দ্বিধাবোধ করবেন না। সব কন্ট্রিবিউটরই প্রথম PR থেকে শুরু করেছিল। তাহলে কেন না আমাদের [large, growing](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books) community তে যোগদান করুন!
 
 <details align="center" markdown="1">
 <summary>Click to see the growth users vs. time graphs.</summary>

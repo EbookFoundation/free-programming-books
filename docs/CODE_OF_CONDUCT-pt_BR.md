@@ -37,9 +37,9 @@ espaços públicos quando um indivíduo está representando o projeto e sua
 comunidade.
 
 Ocorrências de comportamento abusivo, assediador, ou inaceitavel devem ser
-reportados contatando um mantenedor atraveś de victorfelder arroba gmail.com.
+reportados contatando um mantenedor através de victorfelder arroba gmail.com.
 Todas as queixas serão revisadas e investigadas e resultarão numa resposta
-considerada necessária e apropriada às circunstâncias.  Mantenedores são
+considerada necessária e apropriada às circunstâncias. Mantenedores são
 obrigados a manter confidencialidade em relação ao relator do incidente.
 
 Este Código de Conduta é uma adaptação de [Contributor Covenant][homepage],
@@ -47,4 +47,4 @@ versão 1.3.0, disponível em https://www.contributor-covenant.org/pt-br/version
 
 [homepage]: https://contributor-covenant.org
 
-[Translations](README.md#translations)
+[Traduções](README.md#translations)

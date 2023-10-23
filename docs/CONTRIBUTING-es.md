@@ -127,6 +127,9 @@ Ejemplo:
     CORRECTO  : * [Otro libro interesante](http://example.com/) - John Doe (HTML) [(PDF, EPUB)](https://downloads.example.org/book.html)
     ```
 
+    Preferimos un solo enlace por cada recurso. Tener varios enlaces cobra sentido cuando este único enlace no engloba un fácil acceso a los diferentes formatos existentes.
+    Tenga en cuenta también que, cada enlace que agregamos crea una carga de mantenimiento, por lo que, en general, trataremos de evitarlos.
+
 - Incluya el año de publicación como parte del título de los libros más antiguos:
 
     ```text
@@ -190,9 +193,26 @@ Nuestros listados proporcionan un conjunto mínimo de metadatos: títulos, URL, 
 ##### Atribuciones
 
 - Queremos dar crédito a los creadores de recursos gratuitos cuando sea apropiado, ¡incluso traductores!
-- En el caso de obras traducidas, se debe acreditar también al autor original.
+- En el caso de obras traducidas, se debe acreditar también al autor original. Recomendamos usar [MARC relators](https://loc.gov/marc/relators/relaterm.html) para dar presencia al resto de creadores diferentes al autor original, tal y como se muestra en este ejemplo:
+
+    ```markdown
+    * [Un libro traducido](http://example.com/book-es.html) - John Doe, `trl.:` Mike Traduce
+    ```
+
+    donde, la anotación `trl.:` incluye el código MARC relator para "traductor".
+- Utilice comas `,` para separar cada elemento de la lista de autores.
+- Cuando sean muchas, puedes valerte de "`et al.`" para acortar dicha lista.
 - No permitimos enlaces directos al creador.
 - En el caso de recopilaciones u obras remezcladas, el "creador" puede necesitar una descripción. Por ejemplo, los libros de "GoalKicker" o "RIP Tutorial" se acreditan como "`Creado a partir de la documentación de StackOverflow`" (en inglés: "`Compiled from StackOverflow documentation`").
+- No incluiremos títulos honoríficos tales como "`Prof.`" o "`Dr.`".
+
+
+<!----><a id="time-limited-courses-and-trials"></a>
+##### Cursos y pruebas de tiempo limitado
+
+- No enumeramos cosas que tengamos que eliminar en seis meses.
+- Si un curso tiene un período de inscripción o una duración limitada, no lo incluiremos en las listas.
+- No podemos enumerar aquellos recursos que son gratuitos durante un período limitado.
 
 
 <!----><a id="platforms-and-access-notes"></a>
@@ -200,7 +220,8 @@ Nuestros listados proporcionan un conjunto mínimo de metadatos: títulos, URL, 
 
 - Cursos. Especialmente para nuestras listas de cursos, la plataforma es una parte importante de la descripción del recurso. Esto se debe a que las plataformas de cursos tienen diferentes prestaciones y modelos de acceso. Si bien generalmente no incluimos un libro que requiere de registro previo, muchas plataformas de cursos tienen la casualidad de no funcionar sin algún tipo de cuenta. Un ejemplo de plataformas de cursos podrían ser: Coursera, EdX, Udacity y Udemy. Cuando un curso depende de una plataforma, el nombre de dicha plataforma debe aparecer entre paréntesis.
 - YouTube. Tenemos muchos cursos que consisten en listas de reproducción de YouTube. No incluimos YouTube como plataforma, sino que tratamos de incluir al creador de YouTube, el cuál es a menudo una sub-plataforma en sí.
-- Vídeos de YouTube. Por lo general, no vinculamos a vídeos individuales de YouTube a menos que tengan más de una hora de duración y estén estructurados como un curso o un tutorial.
+- Vídeos de YouTube. Por lo general, no vinculamos a vídeos individuales de YouTube a menos que tengan más de una hora de duración y estén estructurados como un curso o un tutorial. Si este es el caso, asegúrese de anotarlo en la descripción de la PR.
+  - ¡Evite también enlaces acortados (es decir, `youtu.be/xxxx`)!
 - Leanpub. Leanpub aloja libros con una amplia variedad de modelos de acceso. A veces, un libro se puede leer sin registrarse; en otras, un libro requiere una cuenta Leanpub para tener acceso gratuito. Dada la calidad de los libros y la mezcla y fluidez de los modelos de acceso Leanpub, damos validez a estos últimos anexando la nota de acceso: `*(cuenta Leanpub o email válido requerido)*`.
 
 

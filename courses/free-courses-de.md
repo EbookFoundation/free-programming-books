@@ -1,15 +1,30 @@
 ### Index
 
+* [Ansible](#ansible)
+* [Bash](#bash)
 * [C](#c)
 * [C++](#cpp)
 * [Haskell](#haskell)
+* [HTML and CSS](#html-and-css)
+    * [Bootstrap](#bootstrap)
 * [Java](#java)
 * [JavaScript](#javascript)
+    * [TypeScript](#typescript)
 * [Künstliche Intelligenz](#künstliche-intelligenz)
 * [Python](#python)
 * [Rust](#rust)
 * [Spieleentwicklung](#spieleentwicklung)
-* [TypeScript](#typescript)
+* [SQL](#sql)
+
+
+### Ansible
+
+* [Ansible Tutorial](https://www.redhat.com/de/topics/automation/learning-ansible-tutorial) - RedHat
+
+
+### Bash
+
+* [Bash-Scripting Grundkurs](https://www.ernstlx.com/linux90script.html)
 
 
 ### <a id="cpp"></a>C++
@@ -19,12 +34,24 @@
 
 ### C
 
+* [C Tutorial Deutsch | Lerne C in 90 Minuten](https://www.youtube.com/watch?v=BSaF8KxnoLY) - Programmieren lernen
 * [C Tutorials Deutsch](https://www.youtube.com/playlist?list=PLNmsVeXQZj7q4shI4L__SRpetWff9BjLZ) - The Morpheus Tutorials
 
 
 ### Haskell
 
 * [Haskell Tutorials Deutsch](https://www.youtube.com/playlist?list=PLNmsVeXQZj7pFIXDN1NLw6jMExuK-wN8I) - The Morpheus Tutorials
+
+
+### HTML and CSS
+
+* [CSS lernen](https://youtube.com/playlist?list=PLuBK_vNnGp8ANspdZh_aRAa1InIhFlgm_) - NEW - Vadim
+* [HTML Tutorial Deutsch](https://youtube.com/playlist?list=PLnlqg5o1zhnhVI3t1iTE2oO4QSGpu7EMx) - Markus Reichl
+
+
+#### Bootstrap
+
+* [Bootstrap 4 Tutorial (Deutsch)](https://youtube.com/playlist?list=PLiH_qbTmMNfhcZazOxjK9hFdtRfq_NLld) - Matthias Dangl
 
 
 ### Java
@@ -37,6 +64,12 @@
 
 * [JavaScript lernen für Anfänger](https://www.javascript-kurs.de) - JavaScript Kurs
 * [JavaScript Lernen für Anfänger bis Profis](https://www.youtube.com/playlist?list=PLNmsVeXQZj7qOfMI2ZNk-LXUAiXKrwDIi) - The Morpheus Tutorials
+
+
+#### TypeScript
+
+* [Erstellen von JavaScript-Anwendungen mithilfe von TypeScript](https://docs.microsoft.com/de-de/learn/paths/build-javascript-applications-typescript/) - Microsoft
+* [TypeScript lernen: Eine Einführung in 80 Minuten](https://www.youtube.com/watch?v=_CaGUZNEobk) - Golo Roden
 
 
 ### Künstliche Intelligenz
@@ -63,7 +96,6 @@
 * [Unreal Engine 4 Tutorial Deutsch/German](https://www.youtube.com/playlist?list=PLNmsVeXQZj7olLCliQ05e6hvEOl6sbBgv) - The Morpheus Tutorials
 
 
-### TypeScript
+### SQL
 
-* [Erstellen von Javascript-Anwendung mithilfe von TypeScript](https://docs.microsoft.com/de-de/learn/paths/build-javascript-applications-typescript/) - Microsoft
-* [TypeScript lernen: Eine Einführung in 80 Minuten](https://www.youtube.com/watch?v=_CaGUZNEobk) - Golo Roden
+* [SQL-Grundlagen](https://wiki.selfhtml.org/wiki/Datenbank/SQL-Grundlagen) - SelfHTML

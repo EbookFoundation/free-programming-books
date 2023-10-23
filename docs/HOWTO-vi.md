@@ -1,4 +1,4 @@
-# How-To at a glance
+# How-To trong một cái nháy mắt
 
 <div align="right" markdown="1">
 
@@ -18,10 +18,10 @@ Chúng tôi chào đón những người đóng góp mới, kể cả khi nhữn
 * [YouTube - Khóa học về Markdown](https://www.youtube.com/watch?v=HUBNt18RFbo) *(bằng Tiếng Anh)*
 
 
-Đừng do dự khi đặt câu hỏi; mọi người đóng góp đã bắt đầu với Pull Request (PR) đầu tiên. Bạn có thể là người tiếp theo! So... why not join our [large, growing](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books) community.
+Đừng do dự khi đặt câu hỏi; mọi người đóng góp đã bắt đầu với Pull Request (PR) đầu tiên. Bạn có thể là người tiếp theo! Vậy nên... tại so không tham gia với cộng đồng [rộng lớn, đang phát triển](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books) của chúng tôi.
 
 <details align="center" markdown="1">
-<summary>Click to see the growth users vs. time graphs.</summary>
+<summary>Nhấp vào để xem tăng trưởng người dùng và đồ thị thời gian.</summary>
 
 [![EbookFoundation/free-programming-books's Contributor over time Graph](https://contributor-overtime-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=ebookfoundation/free-programming-books)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books)
 

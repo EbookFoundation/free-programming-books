@@ -1,9 +1,9 @@
 ### Index
 
 * [Language Agnostic](#language-agnostic)
-  * [Právo](#pravo)
+    * [Právo](#pravo)
 * [Python](#python)
-  * [Django](#django)
+    * [Django](#django)
 
 
 ### Language Agnostic

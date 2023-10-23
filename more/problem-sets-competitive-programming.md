@@ -4,7 +4,6 @@
 * [CTF Capture the Flag](#capture-the-flag)
 * [Data science](#data-science)
 * [HTML and CSS](#html-and-css)
-* [Information security](#information-security)
 * [Problem Sets](#problem-sets)
 
 
@@ -41,7 +40,6 @@
 * [LeetCode](https://leetcode.com)
 * [LightOJ](https://lightoj.com)
 * [Meta Hackercup](https://www.facebook.com/codingcompetitions/hacker-cup/)
-* [Microcorruption](https://microcorruption.com/login)
 * [Newton School](https://my.newtonschool.co/contest/all)
 * [oj.uz](https://oj.uz)
 * [Sigmageek](https://sigmageek.com)
@@ -55,11 +53,15 @@
 
 ### Capture the flag
 
+* [ångstromCTF](https://angstromctf.com)
 * [CTFlearn](https://ctflearn.com) (email address *requested*)
+* [CTFtime](https://ctftime.org)
 * [Google CTF](https://capturetheflag.withgoogle.com) (email address *requested*)
 * [Hacker101](https://ctf.hacker101.com) (email address *requested*)
 * [Hackthebox](https://www.hackthebox.eu) (email address *requested*)
 * [HackThisSite](https://www.hackthissite.org) (email address *requested*)
+* [InCTF](https://inctf.in)
+* [Microcorruption](https://microcorruption.com/login)
 * [Overthewire Wargames fungame to practice CTF](https://overthewire.org/wargames/bandit)
 * [Picoctf](https://picoctf.org/resources.html) (email address *requested*)
 * [SmashTheStack](http://www.smashthestack.org/main.html#wargames)
@@ -78,14 +80,6 @@
 ### HTML and CSS
 
 * [Frontend Mentor](https://www.frontendmentor.io/challenges?languages=CSS&sort=difficulty%7Casc&type=free) *(email address requested)*
-
-
-### Information security
-
-* [ångstromCTF](https://angstromctf.com)
-* [CTFtime](https://ctftime.org)
-* [Hacker101](https://ctf.hacker101.com)
-* [InCTF](https://inctf.in)
 
 
 ### Problem Sets
@@ -120,7 +114,6 @@
 * [Interactive Coding Challenge](https://github.com/donnemartin/interactive-coding-challenges)
 * [InterviewBit](https://www.interviewbit.com)
 * [Kattis](https://open.kattis.com)
-* [Leetcode](https://leetcode.com)
 * [Mathproblem of the Month - Bilkent University](http://www.fen.bilkent.edu.tr/~cvmath/prob-month.html)
 * [PEG Judge](http://wcipeg.com)
 * [Pep Coding](https://www.pepcoding.com/resources)
@@ -136,6 +129,7 @@
 * [TalentBuddy](http://www.talentbuddy.co/blog/)
 * [The Ultimate Topic List(with Tutorials, Problems, and Templates)](https://blog.shahjalalshohag.com/topic-list/) - Shahjalal Shohag
 * [Timus Online Judge](http://acm.timus.ru)
+* [Top Interview 150](https://leetcode.com/studyplan/top-interview-150/) - LeetCode
 * [Topic wise multiple choice questions in computer science](https://www.geeksforgeeks.org/quiz-corner-gq/#C%20Programming%20Mock%20Tests) - Geeks For Geeks
 * [UVa Online Judge](https://uva.onlinejudge.org/index.php?Itemid=8&option=com_onlinejudge)
 * [Vulnhub.com](https://www.vulnhub.com)

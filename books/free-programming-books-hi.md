@@ -12,7 +12,6 @@
 
 ### C
 
-* [C in Hindi \| Hindi](https://ehindistudy.com/2022/10/14/c-langauge-pdf-book-hindi/) - Kuldeep Chand
 * [C language Notes by sbistudy.com\| Hindi](https://www.sbistudy.com/c-language-notes-in-hindi/) - Shivom Classes
 * [C Tutorial by Masterprogramming.in \| Hindi](https://masterprogramming.in/learn-c-language-tutorial-in-hindi/) - Jeetu Sahu
 * [C Tutorial/Notes \| Hindi](https://programming-tutorial-hindi.blogspot.com/p/index.html) - Hridayesh Kumar Gupta

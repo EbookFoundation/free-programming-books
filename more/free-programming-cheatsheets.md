@@ -373,6 +373,8 @@
 #### Django
 
 * [All in one Cheatsheet of Django](https://cheatography.com/ogr/cheat-sheets/django/pdf/) - Olivier R. (PDF)
+* [The Definitive Guide To Django](https://doc.lagout.org/programmation/Django/The%20Definitive%20Guide%20To%20Django%20-%20Holovaty%2C%20Kaplan-Moss%20-%20Apress%20%282009%29.pdf) - Adrian Holovaty
+and Jacob Kaplan-Moss. (PDF)
 * [Django Quick Reference](https://www.codewithharry.com/blogpost/django-cheatsheet/) - Code with Harry (HTML)
 * [Django Web App Beginners Cheat sheet](https://ordinarycoders.com/blog/article/django-beginners-guide) - Jaysha (HTML)
 * [(Python + Django) Cheatsheet](https://dev.to/ericchapman/my-beloved-django-cheat-sheet-2056) - Eric The Coder (HTML)

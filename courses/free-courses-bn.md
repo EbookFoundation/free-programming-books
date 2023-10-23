@@ -234,6 +234,7 @@
 
 ### Kotlin
 
+* [Android Development with Kotlin - Bangla](https://www.youtube.com/playlist?list=PLdHSoHQhVWlOmjBoSXSdJl3CrqBOKIrLp) - MKH Russell
 * [Chapter 1 : Kotlin Basic Concepts Bangla](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDpRWRnXPWZcWIvz0JbeQe5) - Stack Learner
 * [Kotlin For Android - Bangla](https://www.youtube.com/playlist?list=PLgyuGbgggWA3ORqemnq9adIzvNhSXjJTr) - Touhid Apps!
 
@@ -280,6 +281,8 @@
 * [Python Bangla Tutorial & Data Science Full Course](https://www.youtube.com/playlist?list=PLmZYUigljiyc-tf7oMmM-s832ibhGxTpT) - Study Mart
 * [Python Bangla Tutorial 2023](https://www.youtube.com/playlist?list=PLNMnAEqLBwmpR8JDBOEl0jrzmH1vPnO7v) - Hablu Programmer
 * [Python Bangla Tutorials for Beginners](https://www.youtube.com/playlist?list=PLgH5QX0i9K3rz5XqMsTk41_j15_6682BN) - Anisul Islam
+* [Python For Beginners - Bangla Tutorials](https://www.youtube.com/playlist?list=PLvr0Ht-XkB_0V-mjAYlfgk-3VRmFarlzC) - Learn With Tawhid
+* [Python Full Course Bangla (Learn Python A - Z)](https://www.youtube.com/playlist?list=PLF-F70WLa6yP0gIAowyaluE85ZBBMB6en) - Artificial Neuron
 * [Python tutorials by Zulkarnine](https://www.youtube.com/playlist?list=PLV3rqOvr9vgkW7U-kdxtUBx74ICpw94k8) - Zulkarnine Mahmud
 
 

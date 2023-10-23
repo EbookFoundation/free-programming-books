@@ -549,6 +549,7 @@
 * [PHP 基礎文法最速マスター](https://www.1x1.jp/blog/2010/01/php-basic-syntax.html) - 新原雅司
 * [PHP4徹底攻略改訂版](https://net-newbie.com/prev/support/pdf2/)
 * [PSR-2 – コーディングスタイルガイド](https://github.com/maosanhioro/fig-standards/blob/master/translation/PSR-2-coding-style-guide.md) - maosanhioro
+* [PHPによるプログラミング教育](https://aue.repo.nii.ac.jp/record/1470/files/kenkyo56205209.pdf) - 中西宏文
 
 
 #### Symfony

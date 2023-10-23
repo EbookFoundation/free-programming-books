@@ -53,6 +53,5 @@
 
 ### Web Development
 
-* [WEB Development Complete Series In Nepali](https://www.youtube.com/playlist?list=PL2OJkQtHPRiejkQq4IX6Vf0NXbeEiQGIt) - Technology Channel
 * [Responsive Wwb design](https://www.youtube.com/watch?v=SbjpCH0sCqg&list=PLpwngcHZlPac0R1SCOLMRu6FBZTTuEyF2) - CodingNepal
-
+* [WEB Development Complete Series In Nepali](https://www.youtube.com/playlist?list=PL2OJkQtHPRiejkQq4IX6Vf0NXbeEiQGIt) - Technology Channel

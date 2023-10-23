@@ -6,6 +6,7 @@
 * [Flutter](#flutter)
 * [SQL](#sql)
 * [C](#c)
+* [PHP](#php)
 * [WordPress](#wordpress)
 * [Web Development](#web_development)
 
@@ -14,6 +15,7 @@
 
 * [Java Programming - Tutorial - Nepali](https://www.youtube.com/playlist?list=PLmZYUigljiyc-tf7oMmM-s832ibhGxTpT) - BigData IT
 * [JavaScript](https://www.youtube.com/playlist?list=PLckS_N3kOwFH-GCqCd6i-vPo-Z75DcOnc) - EverydayKarma 🇳🇵
+* [JavaScript Games](https://www.youtube.com/watch?v=OORUHkgg4IM&list=PLpwngcHZlPadAbdD_sFE_moH6RjgaTFCw) - CodingNepal
 
 
 #### Node.js
@@ -40,6 +42,9 @@
 
 * [C Programming Full Course In Nepali](https://www.youtube.com/watch?v=7WH8C48UNDU&list=PL2OJkQtHPRicxyldFGNJRRG4WwNe0Kjqe&index=3) - Technology Channel
 
+#### PHP
+
+* [PHP Projects](https://www.youtube.com/watch?v=el4ODMN4bYk&list=PLpwngcHZlPaf1aw42OGyitm4jh2Dlmi9c)
 
 #### WordPress
 
@@ -49,4 +54,5 @@
 ### Web Development
 
 * [WEB Development Complete Series In Nepali](https://www.youtube.com/playlist?list=PL2OJkQtHPRiejkQq4IX6Vf0NXbeEiQGIt) - Technology Channel
+* [Responsive Wwb design](https://www.youtube.com/watch?v=SbjpCH0sCqg&list=PLpwngcHZlPac0R1SCOLMRu6FBZTTuEyF2) - CodingNepal
 

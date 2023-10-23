@@ -6,7 +6,6 @@
 * [Flutter](#flutter)
 * [SQL](#sql)
 * [C](#c)
-* [PHP](#php)
 * [WordPress](#wordpress)
 * [Web Development](#web_development)
 
@@ -40,11 +39,6 @@
 #### C
 
 * [C Programming Full Course In Nepali](https://www.youtube.com/watch?v=7WH8C48UNDU&list=PL2OJkQtHPRicxyldFGNJRRG4WwNe0Kjqe&index=3) - Technology Channel
-
-
-#### PHP
-
-* [PHP Projects](https://www.youtube.com/watch?v=el4ODMN4bYk&list=PLpwngcHZlPaf1aw42OGyitm4jh2Dlmi9c) - CodingNepal
 
 
 #### WordPress

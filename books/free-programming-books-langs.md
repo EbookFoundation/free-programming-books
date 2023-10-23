@@ -1256,6 +1256,7 @@ Books on general-purpose programming that don't focus on a specific language are
 #### Fastify
 
 * [Fastify - Latest Documentation](https://www.fastify.io/docs/latest) (HTML)
+* [Fastify Series - A Deep Dive Into The Fastify World](https://backend.cafe/series/fastify) (HTML)
 
 
 #### Hydrogen

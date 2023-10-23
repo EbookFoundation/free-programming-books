@@ -17,7 +17,6 @@
 * [JavaScript](https://www.youtube.com/playlist?list=PLckS_N3kOwFH-GCqCd6i-vPo-Z75DcOnc) - EverydayKarma 🇳🇵
 * [JavaScript Games](https://www.youtube.com/watch?v=OORUHkgg4IM&list=PLpwngcHZlPadAbdD_sFE_moH6RjgaTFCw) - CodingNepal
 
-
 #### Node.js
 
 * [Node js](https://www.youtube.com/playlist?list=PLckS_N3kOwFEJnIy0PG0zU6XjUOBGkW9x) - EverydayKarma 🇳🇵
@@ -42,9 +41,11 @@
 
 * [C Programming Full Course In Nepali](https://www.youtube.com/watch?v=7WH8C48UNDU&list=PL2OJkQtHPRicxyldFGNJRRG4WwNe0Kjqe&index=3) - Technology Channel
 
+
 #### PHP
 
 * [PHP Projects](https://www.youtube.com/watch?v=el4ODMN4bYk&list=PLpwngcHZlPaf1aw42OGyitm4jh2Dlmi9c) - CodingNepal
+
 
 #### WordPress
 
@@ -53,5 +54,6 @@
 
 ### Web Development
 
-* [Responsive Wwb design](https://www.youtube.com/watch?v=SbjpCH0sCqg&list=PLpwngcHZlPac0R1SCOLMRu6FBZTTuEyF2) - CodingNepal
+* [Responsive Web design](https://www.youtube.com/watch?v=SbjpCH0sCqg&list=PLpwngcHZlPac0R1SCOLMRu6FBZTTuEyF2) - CodingNepal
 * [WEB Development Complete Series In Nepali](https://www.youtube.com/playlist?list=PL2OJkQtHPRiejkQq4IX6Vf0NXbeEiQGIt) - Technology Channel
+

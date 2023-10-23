@@ -52,6 +52,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Web Performance](#web-performance)
 * [Web Services](#web-services)
 * [Workflow](#workflow)
+* [Django](#django)
 
 
 ### 0 - Meta-Lists
@@ -969,3 +970,9 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Workflow
 
 * [Declare Peace on Virtual Machines. A guide to simplifying vm-based development on a Mac](https://leanpub.com/declarepeaceonvms/read)
+
+
+
+### Django
+
+* [The Definitive Guide To Django](https://doc.lagout.org/programmation/Django/The%20Definitive%20Guide%20To%20Django%20-%20Holovaty%2C%20Kaplan-Moss%20-%20Apress%20%282009%29.pdf) - Adrian Holovaty and Jacob Kaplan-Moss. (PDF)

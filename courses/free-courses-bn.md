@@ -284,6 +284,7 @@
 * [Python For Beginners - Bangla Tutorials](https://www.youtube.com/playlist?list=PLvr0Ht-XkB_0V-mjAYlfgk-3VRmFarlzC) - Learn With Tawhid
 * [Python Full Course Bangla (Learn Python A - Z)](https://www.youtube.com/playlist?list=PLF-F70WLa6yP0gIAowyaluE85ZBBMB6en) - Artificial Neuron
 * [Python tutorials by Zulkarnine](https://www.youtube.com/playlist?list=PLV3rqOvr9vgkW7U-kdxtUBx74ICpw94k8) - Zulkarnine Mahmud
+* [Python tutorials by Krish Naik](https://youtube.com/playlist?list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB&si=yNki_G2zbIGYsyPZ) - Krish Naik
 
 
 #### Django

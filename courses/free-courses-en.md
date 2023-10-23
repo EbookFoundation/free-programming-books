@@ -224,7 +224,6 @@
 * [Material design](https://material.io/guidelines/)
 * [Material Design for Android Developers](https://www.udacity.com/course/material-design-for-android-developers--ud862) (Udacity)
 * [Pokédex App with Jetpack Compose](https://www.youtube.com/playlist?list=PLQkwcJG4YTCTimTCpEL5FZgaWdIZQuB7m) - Phillipp Lackner
-* [Programming Cloud Services for Android Handheld Systems](https://www.coursera.org/course/mobilecloudprogram)
 * [Programming Mobile Applications for Android Handheld Systems pt. 1](https://www.coursera.org/course/android)
 * [Programming Mobile Applications for Android Handheld Systems pt. 2](https://www.coursera.org/course/androidpart2)
 * [Programming Mobile Services for Android Handheld Systems: Communication](https://www.coursera.org/course/posacommunication)
@@ -311,12 +310,15 @@
 ### C
 
 * [C Language Tutorial for Beginners (With Notes)](https://www.youtube.com/watch?v=_MF8L7ZxwRE) - ProgrammingWithHarry
+* [C Language Tutorial Videos](https://www.youtube.com/playlist?list=PLVlQHNRLflP8IGz6OXwlV_lgHgc72aXlh) - Naresh i Technologies
 * [C Programming](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR) - Sujeet Singh (Neso Academy)
 * [C Programming & Data Structures](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM) - Sujeet Singh (Neso Academy)
 * [C Programming 2021: Master The Basics!](https://www.udemy.com/course/c-programming-2019-master-the-basics/) - Ali Badran (Udemy)
 * [C Programming for Beginners](https://www.youtube.com/playlist?list=PL98qAXLA6aftD9ZlnjpLhdQAOFI8xIB6e) - Programiz
 * [C Programming Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWoGzOXqtKeM71OLpvZbuU0P)
 * [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0) - Mike Dane (freeCodeCamp)
+* [C Programming Tutorial for Beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7oBxHp43xQTFrw9f1CDPR6C) - Telusko
+* [C Programming Tutorials for Beginners (Complete Series)](https://www.youtube.com/playlist?list=PLS1QulWo1RIZlA5oGczk8kY7Eenytc33s) - ProgrammingKnowledge
 * [C tutorial for beginners](https://www.youtube.com/playlist?list=PLZPZq0r_RZOOzY_vR4zJM32SqsSInGMwe) - Bro Code
 * [Learn C Programming](https://www.programiz.com/c-programming) - Programiz (HTML)
 * [Programming in C](https://www.youtube.com/playlist?list=PLdo5W4Nhv31a8UcMN9-35ghv8qyFWD9_S) - Jenny's lectures CS/IT NET&JRF
@@ -361,6 +363,7 @@
 * [Google's C++ Course](https://developers.google.com/edu/c++/)
 * [Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) (MIT's opencourseware)
 * [Introduction to C++](https://www.edx.org/course/introduction-to-c-3) - Microsoft (edX) (:card_file_box: *archived*)
+* [Introduction to Programming through C++](https://youtube.com/playlist?list=PLEAYkSg4uSQ2qzihjdDEseWrrY1DyxH9P&si=itDYt3Yo9wn2XarO) - NPTEL
 * [Learn C++ With Me](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lmGC8VW0iu6qfMHjy7gLQ3) - Tech With Tim
 * [Sololearn C++](https://www.sololearn.com/learning/1051) - *registration required*
 
@@ -375,11 +378,14 @@
 
 ### Cloud Computing
 
+* [A Practical Introduction to Cloud Computing](https://www.udemy.com/course/introduction-cloud-computing/) - Neil Anderson
 * [Cloud Computing and Development](https://uaceit.com/courses/cloud-computing-and-development) - Ashwin Kumar Ramaswamy (UAceIt) (email address *required*)
 * [Cloud Computing Full Course In 11 Hours \| Cloud Computing Tutorial For Beginners](https://www.youtube.com/watch?v=2LaAJq1lB1Q) - Edureka!
 * [Cloud Computing Full Course | Cloud Computing Tutorial For Beginners | Cloud Computing |](https://www.youtube.com/watch?v=EN4fEbcFZ_E) - Simplilearn
+* [Cloud Computing Tutorial For Beginners - 2023 Updated](https://youtube.com/playlist?list=PLEiEAq2VkUUIJ3o1tehvtux0_Ynf42CBN) - Simplilearn
 * [Introduction to Cloud](https://cognitiveclass.ai/courses/introduction-to-cloud) - CognitiveClass.ai
 * [NPTEL-CloudComputing](https://www.youtube.com/playlist?list=PLShJJCRzJWxhz7SfG4hpaBD5bKOloWx9J) - Manish Narula
+  
 
 
 #### AWS
@@ -450,6 +456,7 @@
 
 ### Cuda
 
+* [CUDA Crash Course](https://youtube.com/playlist?list=PLxNPSjHT5qvtYRVdNN1yDcdSl39uHV_sU) - CoffeeBeforeArch
 * [CUDA Tutorials](https://youtube.com/playlist?list=PLKK11Ligqititws0ZOoGk3SW-TZCar4dK) - Creel
 * [Intro to Parallel Programming Using CUDA to Harness the Power of GPUs](https://www.udacity.com/course/intro-to-parallel-programming--cs344) (Udacity)
 
@@ -837,6 +844,7 @@
 * [Hibernate Tutorial for Beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7qBZtsEvp_n2A7sJs2MpF3r) - Telusko (Navin Reddy)
 * [Introduction to Java](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/)
 * [Introduction to Java + DSA](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ) - Kunal Kushwaha
+* [Java AWT](https://www.youtube.com/playlist?list=PLDN4rrl48XKoYR1H6l19hvF_8SMHGdPvk) - Abdul Bari
 * [Java Beginner](https://youtube.com/playlist?list=PLkeaG1zpPTHiMjczpmZ6ALd46VjjiQJ_8) - Coding with John
 * [Java Complete Course - Placement Series](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop) - Apna College
 * [Java Design Patterns and Architecture](https://www.udemy.com/course/java-design-patterns-tutorial) - John Purcell (Udemy)
@@ -844,6 +852,7 @@
 * [Java for Mobile Devices - Introducing Codename One](https://codenameone.teachable.com/p/java-for-mobile-devices-introducing-codename-one)
 * [Java Online Training \| Edureka](https://www.youtube.com/watch?v=hBh_CC5y8-s) (Edureka)
 * [Java Persistence API (JPA) Complete Tutorial](https://www.youtube.com/playlist?list=PL6oD2syjfW7COL__RNrWl4S97vNcqh3mO) - Giuseppe Scaramuzzino
+* [Java Programming](https://www.youtube.com/playlist?list=PLDN4rrl48XKoOSTnq72gar56u7XspkCfe) - Abdul Bari
 * [Java Programming](https://testautomationu.applitools.com/java-programming-course/) - Angie Jones (Applitools)
 * [Java Programming](https://java-programming.mooc.fi) - University of Helsinki
 * [Java Programming](https://youtube.com/playlist?list=PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5) - Neso Academy
@@ -899,6 +908,7 @@
 * [Javascript Fundamentals](https://www.udemy.com/course/javascriptfundamentals) - Bharath Thippireddy (Udemy)
 * [JavaScript Leetcode](https://www.youtube.com/playlist?list=PLRKOqqzwh75hcG_D4xjUgbg_BAF3MLtoh) - Endeavour Monk
 * [JavaScript Mini Course 2020](https://www.udemy.com/course/javascript-essentials-mini-course/) - Kalob Taulien (Udemy)
+* [JavaScript Tutorial for Beginners](https://www.youtube.com/playlist?list=PLK8cqdr55Tsva3vMrKZ9u2eAuGo0wIJ46) - Code With Harry
 * [JavaScript Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET) - The Net Ninja
 * [JavaScript Tutorial for beginners](https://www.youtube.com/watch?v=W6NZfCO5SIk) - Moshfegh Hamedani (Programming with Mosh)
 * [JavaScript Tutorial for Beginners - Full Course in 8 Hours [2020]](https://www.youtube.com/watch?v=Qqx_wzMmFeA) - Clever Programmer
@@ -1150,8 +1160,11 @@
 * [Linux Administration Tutorial Videos](https://www.youtube.com/playlist?list=PL9ooVrP1hQOH3SvcgkC4Qv2cyCebvs0Ik) - edureka!
 * [Linux Command Line](https://www.udemy.com/course/command-line/) - Adam Eubankas (Udemy)
 * [Linux Command Line Tutorial For Beginners](https://www.youtube.com/playlist?list=PLS1QulWo1RIb9WVQGJ_vh-RQusbZgO_As) - Programming Knowledge
+* [Linux for Hackers (and everyone) // FREE Course for Beginners](https://www.youtube.com/playlist?list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL) - NetworkChuck
 * [Linux Tutorial for Beginners - Learn Linux and the Bash Command Line](https://ryanstutorials.net/linuxtutorial) - Ryan Chadwick
 * [Linux Tutorials and Projects](https://www.udemy.com/course/linux-tutorials/) - Jason Cannon (Udemy)
+* [LPIC 1 exam guide: Linux Professional Institute Certification Study Guide](https://linux1st.com) - Jadi Mirmirani (HTML)
+* [LPIC 2 exam guide: Linux Professional Institute Certification Study Guide](https://borosan.gitbook.io/lpic2-exam-guide) - Payam Borosan (HTML)
 * [Red Hat Enterprise Linux Technical Overview](https://www.udemy.com/course/red-hat-enterprise-linux-technical-overview/) - Red Hat Inc. (Udemy)
 * [The Linux Basics: Beginner to Sysadmin, Step by Step](https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK)
 
@@ -1160,6 +1173,7 @@
 
 * [Learn Lua in 15 Minutes](http://tylerneylon.com/a/learn-lua/) - Tyler Neylon (HTML)
 * [Lua Interactive Crash Course](https://web.archive.org/web/20201111225216/luatut.com/crash_course.html)
+* [Lua Programming Tutorials](https://www.youtube.com/playlist?list=PLYBJzqz8zpWavt37pA6NANJTGStIHpybU) - Steve's teacher
 * [Lua Tutorial](https://www.youtube.com/watch?v=iMacxZQMPXs) - Derek Banas
 
 
@@ -1355,6 +1369,7 @@
 * [Python Course](https://www.python-course.eu)
 * [Python Course from scratch](https://scrimba.com/playlist/pNpZMAB) - Olaf Paulson (scrimba)
 * [Python Data Analysis](https://www.coursera.org/learn/python-analysis) - Scott Rixner, Joe Warren (Coursera)
+* [Python for Beginners](https://www.youtube.com/playlist?list=PLUaB-1hjhk8GHKfndKjyDMHPg_HlQ4vpK) - Alex The Analyst
 * [Python for Beginners (Full Course)](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3) - Telusko
 * [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai) - Joseph Santarcangelo (Coursera)
 * [Python for Everybody](https://www.py4e.com/lessons) (Coursera Reading Materials with YouTube Videos)
@@ -1516,6 +1531,7 @@
 * [Robot Framework Tutorial](https://www.youtube.com/playlist?list=PLL34mf651faORDOyJrk0E6k9FM-wKgfPV) - Software Testing Mentor
 * [Selenium Full Course- Learn Selenium in 12 Hours](https://www.youtube.com/watch?v=FRn5J31eAMw) - Edureka
 * [Selenium WebDriver Tutorial](https://www.youtube.com/playlist?list=PLL34mf651faPB-LyEP0-a7Avp_RHO0Lsm) - Software Testing Mentor
+* [Software Engineering](https://www.youtube.com/playlist?list=PLWPirh4EWFpG2b1L3CL-OAPYcM25jLjXH) - Tutorialspoint
 
 
 ### Solidity

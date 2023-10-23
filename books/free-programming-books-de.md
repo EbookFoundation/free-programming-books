@@ -35,7 +35,7 @@
 * [Scratch](#scratch)
 * [Shell](#shell)
 * [UML](#uml)
-* [Unabhängig der Programmiersprache](#unabhängig-der-programmiersprache)
+* [Unabhängig von der Programmiersprache](#unabhängig-von-der-programmiersprache)
 * [Unix](#unix)
 * [VHDL](#vhdl)
 * [Visual Basic](#visual-basic)
@@ -260,7 +260,7 @@
 * [Der moderne Softwareentwicklungsprozess mit UML](http://www.highscore.de/uml) - Boris Schäling (HTML)
 
 
-### Unabhängig der Programmiersprache
+### Unabhängig von der Programmiersprache
 
 * [Clean Code Developer: Eine Initiative für mehr Professionalität in der Softwareentwicklung](http://clean-code-developer.de) (Online)
 * [IT-Handbuch für Fachinformatiker](http://openbook.rheinwerk-verlag.de/it_handbuch) - Sascha Kersken (Online)

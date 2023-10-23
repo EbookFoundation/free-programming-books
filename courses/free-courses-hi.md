@@ -62,6 +62,7 @@
     * [Ruby on Rails](#ruby-on-rails)
 * [Rust](#rust)
 * [Security](#security)
+* [Server Managmenet](#server-management)
 * [Software Engineering](#software-engineering)
 * [Swift](#swift)
 * [System Design](#system-design)
@@ -658,6 +659,11 @@
 * [Cyber Security Tutorials In HIndi](https://www.youtube.com/playlist?list=PL0fjgIGwLMWTFmZoLdEPoI9azA-osxcQj) - TechChip
 * [Ethical Hacking Full Couse (Cyber Security in Hindi)](https://www.youtube.com/playlist?list=PLa2xctTiNSCibSUhgYI2RT_loUJP9rDN6) - Masters in IT
 * [Information And Cyber Security](https://www.youtube.com/playlist?list=PLYwpaL_SFmcArHtWmbs_vXX6soTK3WEJw) - 5 Minutes Engineering
+
+
+### Server Management
+
+* [Server Management and Website Deployment - Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9aiBNXUisDdSmfNbsKq407XC) - CodeWithHarry
 
 
 ### Software Engineering

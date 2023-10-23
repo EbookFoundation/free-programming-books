@@ -288,9 +288,9 @@
 
 #### Django
 
+* [60 Days of Django - Bangla Tutorial](https://www.youtube.com/playlist?list=PLrbhZ2o2oUzRPc7KvvQySBmrXtg6HmNp5) - Abu Noman Basar
 * [Django Bangla Tutorial](https://www.youtube.com/playlist?list=PLbC4KRSNcMnqUp_v1nxbQaoImTN3kWS_V) - Learn Hunter
 * [Django Bangla Tutorial | পাইথন জ্যাঙ্গো বাংলা | Django full course | 2022](https://www.youtube.com/playlist?list=PL-83IWJl8Qht1OmhiEnRw8H8ieKAjucNN) - Nongare Hi-Tech
-* [60 Days of Django - Bangla Tutorial](https://www.youtube.com/playlist?list=PLrbhZ2o2oUzRPc7KvvQySBmrXtg6HmNp5) - Abu Noman Basar
 * [Python Django & RestAPI Bangla Tutorial](https://www.youtube.com/playlist?list=PLKdU0fuY4OFfo3VgywUFoAUY7Udi3_6V6) - STUDY MART
 * [Python DJango Bangla (বাংলা) tutorial](https://www.youtube.com/playlist?list=PL4NIq30KvXLDf3a3DQXZyGv_BNYRYTXJS) - Tech Solutions In Bangla
 

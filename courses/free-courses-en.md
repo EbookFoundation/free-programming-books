@@ -1170,8 +1170,8 @@
 
 ### Lua
 
-* [Learning Lua](https://youtube.com/playlist?list=PLxgtJR7f0RBKGid7F2dfv7qc-xWwSee2O&si=HZAN5iIit90v3Y4Y) - Burtons Media Group
 * [Learn Lua in 15 Minutes](http://tylerneylon.com/a/learn-lua/) - Tyler Neylon (HTML)
+* [Learning Lua](https://youtube.com/playlist?list=PLxgtJR7f0RBKGid7F2dfv7qc-xWwSee2O&si=HZAN5iIit90v3Y4Y) - Burtons Media Group
 * [Lua Interactive Crash Course](https://web.archive.org/web/20201111225216/luatut.com/crash_course.html)
 * [Lua Tutorial](https://www.youtube.com/watch?v=iMacxZQMPXs) - Derek Banas
 

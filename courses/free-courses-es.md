@@ -11,7 +11,6 @@
 * [LaTeX](#latex)
 * [Markdown](#markdown)
 * [Ofimática](#ofim&#x00E1;tica)
-* [Patrones de diseño](#patrones-de-diseño)
 * [Procesadores de lenguaje](#procesadores-de-lenguaje)
 * [Programación](#programaci&#x00F3;n)
 * [Programación Web & Móvil](#programaci&#x00F3;n-web--m&#x00F3;vil)
@@ -85,7 +84,7 @@
 
 ### Control de Versiones
 
-* [Curso de GIT y GITHUB desde Cero para principiantes](https://www.youtube.com/watch?v=3GymExBkKjE&ab_channel=MoureDevbyBraisMoure) - Brias Moure (MoureDev)
+* [Curso de Git y Github desde cero para principiantes](https://www.youtube.com/watch?v=3GymExBkKjE&ab_channel=MoureDevbyBraisMoure) - Brias Moure "MoureDev"
 * [Git & GitHub](https://www.pildorasinformaticas.es/course/curso-de-git-github) - Juan Díaz (Píldoras Informáticas)
 * [Git & GitHub](https://www.youtube.com/playlist?list=PLPl81lqbj-4I8i-x2b5_MG58tZfgKmJls) - Ignacio Gutiérrez, BlueWeb
 
@@ -148,11 +147,6 @@
 * [Word Avanzado (2010)](https://www.pildorasinformaticas.es/course/word-avanzado-2010) - Juan Díaz (Píldoras Informáticas)
 
 
-### Patrones de diseño
-
-* [Patrones de diseño](https://refactoring.guru/es/design-patterns) - Alexander Shvets (Refactoring.Guru)
-
-
 ### Procesadores de lenguaje
 
 * [Compiladores e Intérpretes (2012)](http://ocw.uji.es/curso/4949)
@@ -189,6 +183,7 @@
 * [JavaScript Básico a Avanzado](https://www.pildorasinformaticas.es/course/javascript-desde-0) - Juan Díaz (Píldoras Informáticas)
 * [Linux y Bash](https://aprendeaprogramar.com/course/view.php?id=10) - Javier Hernandez (Aprendeaprogramar.com)
 * [Lógica de programación](https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=7929) - Carlos Slim Foundation (cuenta requerida)
+* [Patrones de diseño](https://refactoring.guru/es/design-patterns) - Alexander Shvets (Refactoring.Guru)
 * [Principios de PHP](https://programadorwebvalencia.com/cursos/php/base/) - Andros Fenollosa (Programador Web Valencia)
 * [Programación de computadoras](https://es.khanacademy.org/computing/computer-programming#programming) - Khan Academy
 * [Programación en entornos interactivos 'Qt - gtk' (2010)](https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-en-entornos-interactivos-2010.html)
@@ -214,7 +209,7 @@
 * [Curso gratuito de JavaScript](https://argentinaprograma.com) - Fabricio Sodano (Argentina Programa)
 * [Curso gratuito de Next.js y Firebase](https://www.youtube.com/playlist?list=PLV8x_i1fqBw1VR86y4C72xMGJ8ifjBwJ6) - Miguel Ángel Durán «midudev»
 * [Curso JSON. De Novato a Experto](https://www.youtube.com/playlist?list=PLrDTf5qnZdEAiHO19QB9hq5QXAef1h8oY) - Camilo Martínez "Equimancho"
-* [CURSO REACT NATIVE desde CERO](https://www.youtube.com/watch?v=qi87b6VcIHY&t=1004s&ab_channel=midudev) - Miguel Ángel Durán (midudev)
+* [Curso React Native desde cero](https://www.youtube.com/watch?v=qi87b6VcIHY&t=1004s&ab_channel=midudev) - Miguel Ángel Durán
 * [Curso React.js desde cero - Crea una aplicación paso a paso](https://www.youtube.com/playlist?list=PLV8x_i1fqBw0B008sQn79YxCjkHJU84pC) - Miguel Ángel Durán «midudev»
 * [Detección de objetos](https://www.coursera.org/learn/deteccion-objetos)
 * [Diseño Web - Principios de CSS](https://programadorwebvalencia.com/cursos/css/introducci%C3%B3n/) - Andros Fenollosa (Programador Web Valencia)

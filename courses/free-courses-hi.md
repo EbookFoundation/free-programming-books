@@ -427,8 +427,8 @@
 * [Next.js Tutorials for Beginners to Advanced level 2023 in Hindi](https://www.youtube.com/playlist?list=PLCag8k3PYB41A0gxgMJ-5Jk_1ofDAtekk) - Learn coding with bhai
 * [NextJS Master Course](https://www.youtube.com/playlist?list=PLinedj3B30sDP2CHN5P0lDD64yYZ0Nn4J) - Piyush Garg
 * [NextJS Tutorial In Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp2rDbpfKAeUi9f8qZMS7_cv) - Vinod Bahadur Thapa (Thapa Technical)
-  
 
+  
 #### Node.js
 
 * [Master NodeJS](https://www.youtube.com/playlist?list=PLinedj3B30sDby4Al-i13hQJGQoRQDfPo) - Piyush Garg

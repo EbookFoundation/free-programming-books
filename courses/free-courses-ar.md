@@ -452,8 +452,8 @@
 
 
 ### Python
-
-* [تعلم أساسيات البرمجة](https://www.youtube.com/playlist?list=PLvGNfY-tFUN8HRLDE-D2sXvIgYwspdmFE) - غريب الشيخ \|\| Ghareeb Elshaik
+*[روس لغة بايثون - مقدمة ( بالعربي) - الدرس 1#Python in Arabic](https://www.youtube.com/watch?v=AA7lc2Y6bzI) - Hussam Hourani
+*  [تعلم أساسيات البرمجة](https://www.youtube.com/playlist?list=PLvGNfY-tFUN8HRLDE-D2sXvIgYwspdmFE) - غريب الشيخ \|\| Ghareeb Elshaik
 * [كورس بايثون من الصفر \| سلسلة دروس لغة البايثون \| python](https://www.youtube.com/playlist?list=PLYyqC4bNbCIcxKO_r77w5MN1SRRnnfvNQ) - أكاديمية ترميز
 * [Learn Python3&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNOazcliAXXivOrg9GiAVuoQg) - Algorithm Academy
 * [Master Python from Beginner to Advanced in Arabic - دورة تعلم بايثون من الصفر كاملة للمبتدئين](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ) - Codezilla

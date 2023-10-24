@@ -671,8 +671,8 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 ### Object Oriented Programming
 
 * [Object Oriented Programming](https://www.cl.cam.ac.uk/teaching/0910/OOProg/OOP.pdf) - Robert Harle (PDF)
+* [Object Oriented Programming using Java](https://baou.edu.in/assets/pdf/BSCIT_304_slm.pdf) - Dr. Babasaheb Ambedkar Open University (PDF)
 * [OOP – Learn Object Oriented Thinking and Programming](https://files.bruckner.cz/be2a5b2104bf393da7092a4200903cc0/PecinovskyOOP.pdf) - Rudolf Pecinovsky (PDF) 
-
 
 ### Open Source Ecosystem
 

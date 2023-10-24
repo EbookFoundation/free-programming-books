@@ -81,6 +81,7 @@
 * [Data Structures and Algorithms in Python](https://www.youtube.com/playlist?list=PLyMom0n-MBrpakdIZvnhd6PFUCKNAyKo1) - Jovian
 * [Design And Analysis Of Algorithms](https://youtube.com/playlist?list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa) - Gate Smashers
 * [Dynamic Programming Playlist \| Coding \| Interview Questions \| Tutorials \| Algorithm](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go) - Aditya Verma
+* [Dynamic Programming Playlist \| Interview Questions \| Recursion \| Tabulation \| Striver \| C++ \| Java \| DSA \| Placements](https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY) - Striver
 * [Dynamic Programming Workshop](https://www.youtube.com/playlist?list=PLqf9emQRQrnKA_EeveiXQj_uP25w8_5qL) - Vivek Gupta
 * [Generic Trees - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiEmjuIVDrwR9h5i9TT2CEU_) - Pepcoding
 * [Graphs - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHfqDcLZMcO9SsUDY4S3a-v) - Pepcoding

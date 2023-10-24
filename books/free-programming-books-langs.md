@@ -1177,6 +1177,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Understanding JavaScript OOP](http://robotlolita.me/2011/10/09/understanding-javascript-oop.html) - Quil (HTML)
 * [Understanding the DOM — Document Object Model](https://www.digitalocean.com/community/books/understanding-the-dom-document-object-model-ebook) - Tania Rascia (PDF, EPUB)
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - Kyle Simpson (HTML, PDF, EPUB, MOBI)
+* [Simplified JavaScript for VIPS](https://a.co/d/4GvJTV0) -Ebenezer Don (Kindle, Hardcover, Paperback)
 
 
 #### AngularJS

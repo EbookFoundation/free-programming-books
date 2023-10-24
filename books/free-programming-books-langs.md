@@ -594,6 +594,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 * [COBOL Programming Fundamental](http://yusman.staff.gunadarma.ac.id/Downloads/files/33460/COBOL_Programming_Fundamental.pdf) (PDF)
 * [Enterprise COBOL for z/OS documentation library](http://www-01.ibm.com/support/docview.wss?uid=swg27036733)
+* [GNU COBOL Programmers Guide](https://edoras.sdsu.edu/doc/GNU_Cobol_Programmers_Guide_2.1.pdf) - Gary L. Cutler (PDF)
 * [ILE COBOL Programmer's Guide](https://www.ibm.com/docs/de/ssw_ibm_i_74/pdf/sc092539.pdf) (PDF)
 * [Micro Focus: OO Programming with Object COBOL for UNIX (1999)](https://www.microfocus.com/documentation/object-cobol/oc41books/oppubb.htm) - MERANT International Ltd. (HTML)
 * [OpenCOBOL 1.1 - Programmer's Guide](http://open-cobol.sourceforge.net/guides/OpenCOBOL%20Programmers%20Guide.pdf) (PDF)
@@ -789,6 +790,7 @@ Books on general-purpose programming that don't focus on a specific language are
 ### Fortran
 
 * [Exploring Modern Fortran Basics](https://www.manning.com/books/exploring-modern-fortran-basics) - Milan Curcic
+* [Fortran](https://personalpages.manchester.ac.uk/staff/david.d.apsley/lectures/fortran/fortranA.pdf) -  David Apsley (PDF)
 * [Fortran 90 Tutorial](http://www.cs.mtu.edu/~shene/COURSES/cs201/NOTES/fortran.html) - C.-K. Shene at Michigan Technological University (HTML)
 * [Fortran 90 Tutorial](https://web.stanford.edu/class/me200c/tutorial_90/) - Sarah T. Whitlock, Paul H. Hargrove, Stanford University (HTML)
 * [Fortran information & resources](https://www.fortranplus.co.uk/fortran-information/) - fortranplus.co.uk (HTML)
@@ -815,6 +817,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Darker Corners of Go](https://rytisbiel.com/2021/03/06/darker-corners-of-go/) - Rytis Bieliunas
 * [Effective Go](https://golang.org/doc/effective_go.html)
 * [Essential Go](https://www.programming-books.io/essential/go/) - Krzysztof Kowalczyk, StackOverflow Contributors
+* [Essentials of Go Programming](https://essentials-of-go-programming.readthedocs.io) - Baiju Muthukadan (HTML)
 * [Gin Web Framework](https://chenyitian.gitbooks.io/gin-web-framework/content/)
 * [Go 101](https://go101.org/article/101.html) - [@TapirLiu](https://twitter.com/TapirLiu)
 * [Go by Example](https://gobyexample.com)
@@ -842,6 +845,7 @@ Books on general-purpose programming that don't focus on a specific language are
 ### GraphQL
 
 * [Fullstack GraphQL](https://github.com/GraphQLCollege/fullstack-graphql)
+* [GraphQL or Bust](https://nordicapis.com/wp-content/uploads/GraphQL-or-Bust-v2.2.pdf) - Nordic APIs (PDF)
 * [Learning graphqL](https://riptutorial.com/Download/graphql.pdf) - Compiled from StackOverflow Documentation (PDF)
 
 

@@ -436,7 +436,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [A Computational Introduction to Number Theory and Algebra](https://shoup.net/ntb/) - Victor Shoup
 * [A Computational Logic (1979)](https://www.cs.utexas.edu/users/boyer/acl.pdf) - Robert S. Boyer, J Strother Moore (PDF)
 * [A Cool Brisk Walk Through Discrete Mathematics](http://stephendavies.org/brisk.pdf) - Stephen Davies (PDF)
-* [A First Course in Complex Analysis](http://math.sfsu.edu/beck/complex.html) - Matthias Beck, Gerald Marchesi, Dennis Pixton, Lucas Sabalka
+* [A First Course in Complex Analysis](https://matthbeck.github.io/papers/complexorth.pdf) - Matthias Beck, Gerald Marchesi, Dennis Pixton, Lucas Sabalka (PDF)
 * [A First Course in Linear Algebra](http://linear.ups.edu) - Rob Beezer
 * [A Friendly Introduction to Mathematical Logic](https://milneopentextbooks.org/a-friendly-introduction-to-mathematical-logic/) - Christopher C. Leary, Lars Kristiansen
 * [A Gentle Introduction to the Art of Mathematics](https://osj1961.github.io/giam/) - Joseph E. Fields
@@ -757,6 +757,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Programming
 
+* [A Short Introduction to the Art of Programming (1971)](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD316.html) - Edsger W. Dijkstra (HTML)
 * [Design of a Programmer](https://www.smashwords.com/books/view/639609) - Prakash Hegade (PDF)
 * [Introduction to Computer Science](https://www.cse.iitd.ernet.in/~suban/CSL102/) - Prof. Subhashis Banerjee, IIT Delhi
 * [Introduction to Computing](https://www.computingbook.org) - David Evans

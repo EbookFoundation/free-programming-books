@@ -237,6 +237,7 @@
 * [JavaScript Cheatsheet](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet) - Codecademy (HTML)
 * [JavaScript Cheatsheet](https://www.codewithharry.com/blogpost/javascript-cheatsheet) - Code With Harry
 * [JavaScript CheatSheet](https://htmlcheatsheet.com/js/) (HTML)
+* [JavaScript Cheatsheet](https://overapi.com/javascript) - OverAPI
 * [JavaScript Regex Cheatsheet](https://www.debuggex.com/cheatsheet/regex/javascript) - Debuggex (HTML)
 * [JavaScript WorldWide Cheatsheet](https://cheatography.com/davechild/cheat-sheets/javascript/) - Cheatography (JavaScript)
 * [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) (HTML)
@@ -246,6 +247,7 @@
 #### jQuery
 
 * [Beginner's essential jQuery Cheat Sheet](https://websitesetup.org/wp-content/uploads/2017/01/wsu-jquery-cheat-sheet.pdf) (PDF)
+* [JQuery Cheat Sheet](https://overapi.com/jquery) - OverAPI
 * [jQuery CheatSheet](https://htmlcheatsheet.com/jquery/) (HTML)
 * [jQuery Mega Cheat Sheet](https://makeawebsitehub.com/wp-content/uploads/2015/09/jquery-mega-cheat-sheet-Printable.pdf) - Jamie Spencer (PDF)
 
@@ -346,6 +348,7 @@
 
 * [PHP Cheat Sheet](https://www.codewithharry.com/blogpost/php-cheatsheet/) - CodeWithHarry (HTML)
 * [PHP Cheat Sheet](https://websitesetup.org/php-cheat-sheet/) - Nick Schäferhoff, WebsiteSetup (HTML, [PDF](https://websitesetup.org/wp-content/uploads/2020/09/PHP-Cheat-Sheet.pdf))
+* [PHP Cheat Sheet](https://overapi.com/php) - OverAPI
 * [PHP Cheat Sheet - 2021 Edition](https://www.quickstart.com/blog/php-cheat-sheet/) - Zsolt Nagy (HTML)
 
 
@@ -359,6 +362,7 @@
 * [Python Cheat Sheet](https://www.codewithharry.com/blogpost/python-cheatsheet) - Code With Harry
 * [Python Cheat Sheet](https://websitesetup.org/python-cheat-sheet/) - WebsiteSetup (HTML, PDF, PNG)
 * [Python Cheat Sheet](https://www.pythoncheatsheet.org) - Wilfredinni (HTML)
+* [Python Cheat Sheet](https://overapi.com/python) - OverAPI
 * [Python Cheatsheet for beginners](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-syntax/cheatsheet) - Codeacademy (HTML)
 * [Python Crash Course Cheatsheet](https://ehmatthes.github.io/pcc/cheatsheets/README.html) - Eric Matthes (HTML)
 * [Python Crash Course Cheatsheet (2nd Edition)](https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/) - Eric Matthes (PDF)

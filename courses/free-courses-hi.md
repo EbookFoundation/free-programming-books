@@ -26,7 +26,6 @@
 * [Figma](#figma)
 * [Flutter](#flutter)
 * [Game Development](#game-development)
-* [Generative AI](#generative-ai)
 * [Git and GitHub](#git-and-github)
 * [Golang](#golang)
 * [HTML and CSS](#html-and-css)
@@ -715,6 +714,6 @@
 * [WordPress Tutorials in Hindi](https://www.youtube.com/playlist?list=PLjpp5kBQLNTTEggPfaWMAL_yv7FYiBClc) - Tech Gun
 
 
-### Generative AI
+### Artificial Intelligence
 
 * [Generative AI Series - Showcasing Generative AI By Building Projects](https://www.youtube.com/playlist?list=PLu0W_9lII9aiS4rUVp2jXwIvCruo27sG6) - CodeWithHarry

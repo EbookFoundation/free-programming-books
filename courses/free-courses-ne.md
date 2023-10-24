@@ -14,7 +14,7 @@
 
 * [Java Programming - Tutorial - Nepali](https://www.youtube.com/playlist?list=PLmZYUigljiyc-tf7oMmM-s832ibhGxTpT) - BigData IT
 * [JavaScript](https://www.youtube.com/playlist?list=PLckS_N3kOwFH-GCqCd6i-vPo-Z75DcOnc) - EverydayKarma 🇳🇵
-* [JavaScript Games](https://www.youtube.com/watch?v=OORUHkgg4IM&list=PLpwngcHZlPadAbdD_sFE_moH6RjgaTFCw) - CodingNepal
+* [JavaScript Games](https://www.youtube.com/playlist?list=PLpwngcHZlPadAbdD_sFE_moH6RjgaTFCw) - CodingNepal
 
 #### Node.js
 

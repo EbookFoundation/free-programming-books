@@ -13,8 +13,8 @@
 ### JavaScript
 
 * [Java Programming - Tutorial - Nepali](https://www.youtube.com/playlist?list=PLmZYUigljiyc-tf7oMmM-s832ibhGxTpT) - BigData IT
-* [JavaScript](https://www.youtube.com/playlist?list=PLckS_N3kOwFH-GCqCd6i-vPo-Z75DcOnc) - EverydayKarma 🇳🇵
 * [JavaScript Games](https://www.youtube.com/playlist?list=PLpwngcHZlPadAbdD_sFE_moH6RjgaTFCw) - CodingNepal
+* [JavaScript](https://www.youtube.com/playlist?list=PLckS_N3kOwFH-GCqCd6i-vPo-Z75DcOnc) - EverydayKarma 🇳🇵
 
 #### Node.js
 
@@ -48,6 +48,6 @@
 
 ### Web Development
 
-* [Website Designs in HTML CSS JavaScript](https://www.youtube.com/playlist?list=PLpwngcHZlPac0R1SCOLMRu6FBZTTuEyF2) - CodingNepal
 * [WEB Development Complete Series In Nepali](https://www.youtube.com/playlist?list=PL2OJkQtHPRiejkQq4IX6Vf0NXbeEiQGIt) - Technology Channel
+* [Website Designs in HTML CSS JavaScript](https://www.youtube.com/playlist?list=PLpwngcHZlPac0R1SCOLMRu6FBZTTuEyF2) - CodingNepal
 

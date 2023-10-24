@@ -273,8 +273,8 @@
 
 ### Figma
 
+* [Figma Design Complete Course in Urdu | Hindi](https://youtube.com/playlist?list=PLspW40rZgNekDbMeeuV8VLt3JoCMg8pQt&si=_J8tYEL3W0YFiHNh) - Tutorials Town
 * [Figma Tutorial](https://www.youtube.com/playlist?list=PLuRPummNMvINdAbI_WT7R5vdjcyRPeRiq) - Pelfizz Studio
-* [Figma Tutorial For Beginners in Hindi](https://www.youtube.com/watch?v=UjPpvf4TNLI) - LearnGrow
 * [Figma Tutorial In Hindi 2022](https://www.youtube.com/playlist?list=PLwGdqUZWnOp0TlgR6uPLR1s6X_w65FlTl) - Thapa Technical
 * [Figma Tutorials](https://www.youtube.com/playlist?list=PLuou2gyfaGEud03tcppC1ofbYIcIEwKfm) - Nikhil Pawar
 * [Figma UI design tutorials in Hindi](https://www.youtube.com/playlist?list=PLt7HkDVHvsa4Nf5qrXG6ozK3ZPTvNe__v) - Graphics Guruji

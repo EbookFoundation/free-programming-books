@@ -9,6 +9,7 @@
 ### <a id="cplusplus"></a>C++
 
 * [C++ Course Series for Beginner in Urdu/Hindi](https://www.youtube.com/playlist?list=PLuuQCKO44unsLwJMkR8_koVG6vDPjMYmH) - Learning Point
+* [C++ Free Course for Beginners in (Urdu /Hindi)](https://www.youtube.com/playlist?list=PLt4rWC_3rBbWnDrIv4IeC4Vm7PN1wvrNg) - CodeMite
 * [Programming Fundamentals With C++ Complete Course In urdu | Hindi](https://www.youtube.com/playlist?list=PL4QkPoTgwFULciDFVJEHEwOKMtf9Q_Aqh) - Kacs Learnings
 
 
@@ -24,4 +25,4 @@
 
 ### <a id="python"></a>Python
 
-* [Python_ka_chilla (python in 40 days in urdu/Hindi)](https://www.youtube.com/playlist?list=PL9XvIvvVL50HVsu-Ao8NBr0UJSO8O6lBI) - baba Aammar
+* [Python_ka_chilla (python in 40 days in urdu/Hindi)](https://www.youtube.com/playlist?list=PL9XvIvvVL50HVsu-Ao8NBr0UJSO8O6lBI) - Codeanics

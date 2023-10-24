@@ -48,6 +48,6 @@
 
 ### Web Development
 
-* [Responsive Web design](https://www.youtube.com/watch?v=SbjpCH0sCqg&list=PLpwngcHZlPac0R1SCOLMRu6FBZTTuEyF2) - CodingNepal
+* [Website Designs in HTML CSS JavaScript](https://www.youtube.com/playlist?list=PLpwngcHZlPac0R1SCOLMRu6FBZTTuEyF2) - CodingNepal
 * [WEB Development Complete Series In Nepali](https://www.youtube.com/playlist?list=PL2OJkQtHPRiejkQq4IX6Vf0NXbeEiQGIt) - Technology Channel
 

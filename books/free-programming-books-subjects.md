@@ -757,6 +757,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Programming
 
+* [A Short Introduction to the Art of Programming (1971)](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD316.html) - Edsger W. Dijkstra (HTML)
 * [Design of a Programmer](https://www.smashwords.com/books/view/639609) - Prakash Hegade (PDF)
 * [Introduction to Computer Science](https://www.cse.iitd.ernet.in/~suban/CSL102/) - Prof. Subhashis Banerjee, IIT Delhi
 * [Introduction to Computing](https://www.computingbook.org) - David Evans

@@ -21,6 +21,7 @@ This page is available as an easy-to-read website. Access it by clicking on [![h
 </div>
 
 ## Intro
+Ritesh Saini
 
 This list was originally a clone of [StackOverflow - List of Freely Available Programming Books](https://web.archive.org/web/20140606191453/http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926) with contributions from Karan Bhangui and George Stocker.
 

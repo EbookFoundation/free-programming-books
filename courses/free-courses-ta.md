@@ -5,7 +5,6 @@
 * [C](#c)
 * [C++](#cpp)
 * [Data Structures and Algorithms](#dsa)
-* [Ethical Hacking](#ethical-hacking)
 * [Express JS](#express-js)
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
@@ -50,9 +49,6 @@
 * [தமிழில் Data Structures and Algorithms](https://youtube.com/playlist?list=PL_UqaR55i1797oG0BL0wtxdPpa_NYNFLz) - 
 CSE Tamila by Eezytutorials
 * [Data Structures and Algorithms in Java](https://www.youtube.com/playlist?list=PLYM2_EX_xVvX7_AmNY-Deacp3rT3MIXnE) - Logic First Tamil
-
-### <a id="ethical-hacking"></a>Ethical Hacking
-* [Learn Ethical Hacking in Tamil](https://www.youtube.com/watch?v=Gn6hYOAMB5k&list=PL2fEqBvRZvbfWhFw_YiaY_0Fv8e8ouNkP) - Ethical Hacking Playlist by Tamil Hacks 2.0
 
 ### Express JS
 

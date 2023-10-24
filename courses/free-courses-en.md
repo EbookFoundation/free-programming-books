@@ -1185,6 +1185,7 @@
 ### Lua
 
 * [Learn Lua in 15 Minutes](http://tylerneylon.com/a/learn-lua/) - Tyler Neylon (HTML)
+* [Lua for Beginners](https://www.youtube.com/playlist?list=PL9URkxPt-PndpZlw8m_NHh0vUBU5J-BRF) - AlgoRythm
 * [Lua Interactive Crash Course](https://web.archive.org/web/20201111225216/luatut.com/crash_course.html)
 * [Lua Programming Tutorials](https://www.youtube.com/playlist?list=PLYBJzqz8zpWavt37pA6NANJTGStIHpybU) - Steve's teacher
 * [Lua Tutorial](https://www.youtube.com/watch?v=iMacxZQMPXs) - Derek Banas

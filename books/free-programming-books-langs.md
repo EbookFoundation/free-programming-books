@@ -849,9 +849,11 @@ Books on general-purpose programming that don't focus on a specific language are
 * [GraphQL or Bust](https://nordicapis.com/wp-content/uploads/GraphQL-or-Bust-v2.2.pdf) - Nordic APIs (PDF)
 * [Learning graphqL](https://riptutorial.com/Download/graphql.pdf) - Compiled from StackOverflow Documentation (PDF)
 
+
 ### Gremlin
 
 * [Practical Gremlin - An Apache TinkerPop Tutorial](https://www.kelvinlawrence.net/book/PracticalGremlin.pdf) - Kelvin R. Lawrence (PDF) - [HTML Version](https://www.kelvinlawrence.net/book/PracticalGremlin.html)
+
 
 ### Groovy
 

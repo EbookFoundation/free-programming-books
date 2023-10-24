@@ -5,7 +5,9 @@
 * [C++](#cpp)
 * [Clojure](#clojure)
 * [Cloud computing](#cloud-computing)
+* [Data Engineering](#data-engineering)
 * [Data Science](#data-science)
+* [DevOps](#devops)
 * [Elixir](#elixir)
 * [Erlang](#erlang)
 * [Git](#git)
@@ -78,6 +80,11 @@
 * [The Cloud Pod](https://www.thecloudpod.net) - Justin Brodley, Jonathan Baker, Ryan Lucas and Peter Roosakos (podcast)
 
 
+### Data Engineering
+
+* [Data Engineering Podcast](https://www.dataengineeringpodcast.com/) - Tobias Macey (podcast)
+
+
 ### Data Science
 
 * [Data Futurology - Leadership And Strategy in Artificial Intelligence, Machine Learning, Data Science](https://www.datafuturology.com/podcasts) - Felipe Flores (podcast)
@@ -94,6 +101,13 @@
 * [The Banana Data Podcast](https://banana-data.buzzsprout.com) - Triveni Gandhi, Christopher Peter Makris, Corey Strausman (podcast)
 * [The Data Science Podcast](https://developer.ibm.com/podcasts/the-data-science-podcast/) - IBM (podcast)
 * [Towards Data Science](https://towardsdatascience.com/podcast/home) - The TDS team (podcast)
+
+
+### DevOps
+
+* [Adventures in DevOps](https://topenddevs.com/podcasts/adventures-in-devops) - Jillian Rowe, Jonathan Hall, Will Button (podcast)
+* [Arrested DevOps](https://www.arresteddevops.com/) - Joe Laha, Bridget Kromhout, Matty Stratton, Trevor Hess, Jessica Kerr (podcast)
+* [DevOps Cafe](http://devopscafe.org/) - John Willis, Damon Edwards (podcast)
 
 
 ### Elixir
@@ -168,6 +182,7 @@
 
 ### Java
 
+* [airhacks.fm podcast](https://airhacks.fm/) - Adam Bien (podcast)
 * [Building a Java & Spring Boot app: Kid-Bank development](https://www.youtube.com/playlist?list=PLBHctPrH7Z29W8XtVDyc_mMvD2GO7GIF2) - Ted M. Young (screencast)
 * [How to Program with Java Podcast](https://www.podbean.com/podcast-detail/6mxhc-344f7/How-to-Program-with-Java-Podcast) - Trevor Page (podcast)
 * [Inside Java](https://inside.java/podcast) - Chad Arimura, David Delabassee (podcast)
@@ -418,4 +433,6 @@
 ### Swift
 
 * [Swift by Sundell](https://www.swiftbysundell.com/podcast/) - John Sundell (podcast)
+* [Swift over Coffee](https://podcasters.spotify.com/pod/show/swiftovercoffee) - Paul Hudson, Mikaela Caron (podcast)
 * [Swift Unwrapped](https://swiftunwrapped.github.io) - Jesse Squires, JP Simard (podcast)
+* [The Swift Community Podcast](https://www.swiftcommunitypodcast.org/) - Kate Castellano, Paul Hudson, Chris Lattner, Bas Broek (podcast)

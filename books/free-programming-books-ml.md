@@ -1,6 +1,6 @@
 ### Index
 
-* [Computer Science](#Computer-Science)
+* [Computer Science](#computer-science)
 
 
 ### <a id="Computer Science"></a>Computer-Science

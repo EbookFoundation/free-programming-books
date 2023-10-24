@@ -144,25 +144,25 @@
 * [Analysis of Algorithms (CSE 373)](https://www3.cs.stonybrook.edu/~skiena/373/videos) - Steven Skiena
 * [Berkeley University CS 61B: Data Structures](http://datastructur.es/sp16/)
 * [Berkeley's CS 61B: Data Structures](https://archive.org/details/ucberkeley_webcast_QMV45tHCYNI)
-* [Binary Trees - by LoveBabbar](https://youtube.com/playlist?list=PLDzeHZWIZsTo87y1ytEAqp7wYlEP3nner) - CodeHelp - by Babbar
-* [C Programming & Data Structures](https://youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM) - Neso Academy
+* [Binary Trees - by LoveBabbar](https://www.youtube.com/playlist?list=PLDzeHZWIZsTo87y1ytEAqp7wYlEP3nner) - CodeHelp - by Babbar
+* [C Programming & Data Structures](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM) - Neso Academy
 * [Codechef Solutions](https://www.youtube.com/playlist?list=PLRKOqqzwh75huOam-77G1v9uHjO9WWBRX) - Endeavour Monk
 * [Complete C++ Placement DSA Course](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA) - CodeHelp - by Babbar
 * [Computer Sc - Programming and Data Structure](https://www.youtube.com/playlist?list=PLD9781AC5EBC9FA16) - P.P. Chakraborty
 * [Data Structure and Algorithm](https://www.youtube.com/playlist?list=PLLvKknWU7N4y_eGpQdg1Y-hORO7cxtoLU) - Lalit Vashistha
 * [Data Structures](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) - mycodeschool
 * [Data Structures](https://stepik.org/course/579/syllabus) - Niema Moshiri, Liz Izhikevich (Stepik)
-* [Data Structures](https://youtube.com/playlist?list=PLBlnK6fEyqRj9lld8sWIUNwlKfdUoPd1Y) - Neso Academy
+* [Data Structures](https://www.youtube.com/playlist?list=PLBlnK6fEyqRj9lld8sWIUNwlKfdUoPd1Y) - Neso Academy
 * [Data Structures](https://www.youtube.com/playlist?list=PLpPXw4zFa0uKKhaSz87IowJnOTzh9tiBk) - RobEdwards
 * [Data Structures \| Python](https://www.youtube.com/playlist?list=PLzgPDYo_3xukPJdH6hVQ6Iic7KiJuoA-l) - Amulya's Academy
-* [Data Structures and Algorithms](https://youtube.com/playlist?list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H) - CS Dojo
+* [Data Structures and Algorithms](https://www.youtube.com/playlist?list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H) - CS Dojo
 * [Data Structures and Algorithms](https://www.youtube.com/playlist?list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU) - Jenny's lectures CS/IT NET&JRF
 * [Data Structures and Algorithms](https://techdevguide.withgoogle.com/paths/data-structures-and-algorithms/?no-filter=true) - Tech Dev Guide by Google
 * [Data Structures and Algorithms](https://nptel.ac.in/courses/106102064) - Naveen Garg (NPTEL)
 * [Data Structures And Algorithms DSA In JAVA Full Course](https://www.youtube.com/playlist?list=PLrk5tgtnMN6StFV60jlQ9W-RXyHppbp8G) - Coding Ninjas
 * [Data Structures and Algorithms for Beginners](https://www.youtube.com/watch?v=BBpAmxU_NQo) - Mosh Hamedani (Programming with Mosh)
 * [Data Structures and Algorithms Full Course](https://www.youtube.com/watch?v=LcKqYoX8uH4) - Simplilearn (YouTube, Video length 7:13:56)
-* [Data Structures and Algorithms in Java Full Course](https://youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d) - Dinesh Varyani (YouTube playlist)
+* [Data Structures and Algorithms in Java Full Course](https://www.youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d) - Dinesh Varyani (YouTube playlist)
 * [Data Structures and Algorithms in Python Full Course for Beginners](https://www.youtube.com/watch?v=pkYVOmU3MgA) - Aakash N S (freeCodeCamp)
 * [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms) - UC San Diego, HSE University
 * [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM) - William Fiset (freeCodeCamp)
@@ -171,7 +171,7 @@
 * [Dynamic Programming](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsAsbafOroUBnNV8fhZa7P4u) - WilliamFiset
 * [Dynamic Programming Playlist \| Interview Questions \| Recursion \| Tabulation \| Striver \| C++ \| Java \| DSA \| Placements](https://www.youtube.com/playlist?list=PLgUwDviBIf0qUlt5H_kiKYaNSqJ81PMMY) - take U forward
 * [Graph Series by Striver \| C++ \| Java \| Interview Centric \| Algorithms \| Problems](https://www.youtube.com/playlist?list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn) - take U forward
-* [Graph Theory playlist](https://youtube.com/playlist?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P) - WilliamFiset
+* [Graph Theory playlist](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P) - WilliamFiset
 * [IIT Bombay Foundation of Data Structures (CS213.1x)](https://courses.edx.org/courses/course-v1:IITBombayX+CS213.1x+1T2017/course/)
 * [Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) - Brynn Claypoole, Horatio Thomas (Udacity)
 * [JavaScript Algorithms and Data Structures](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP) - Codevolution
@@ -213,7 +213,7 @@
 * [Android Basics: User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834) (Udacity)
 * [Android Developer Fundamentals (Version 2) — Codelab](https://developer.android.com/courses/fundamentals-training/toc-v2)
 * [Android Developer Fundamentals (Version 2) — Concepts](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/index.html)
-* [Android Development Tutorials](https://youtube.com/playlist?list=PLqM7alHXFySF_Hb1GtyvCX44dBniJ5sNy) -  GeeksforGeeks
+* [Android Development Tutorials](https://www.youtube.com/playlist?list=PLqM7alHXFySF_Hb1GtyvCX44dBniJ5sNy) -  GeeksforGeeks
 * [Android Performance](https://www.udacity.com/course/android-performance--ud825) (Udacity)
 * [Android with kotlin](https://youtube.com/playlist?list=PLlxmoA0rQ-Lw5k_QCqVl3rsoJOnb_00UV) - Smartherd
 * [Build Native Mobile Apps with Flutter](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905) (Udacity)
@@ -337,12 +337,12 @@
 
 ### <a id="csharp"></a>C\#
 
-* [ASP.NET Core 2.2 & 3 REST API Tutorial](https://youtube.com/playlist?list=PLUOequmGnXxOgmSDWU7Tl6iQTsOtyjtwU&si=3XHU6BnqwxePAt54) - Nick Chapsas
+* [ASP.NET Core 2.2 & 3 REST API Tutorial](https://www.youtube.com/playlist?list=PLUOequmGnXxOgmSDWU7Tl6iQTsOtyjtwU) - Nick Chapsas
 * [Building a microservice architecture with ASP.NET Core - Gill Cleeren - NDC London 2022](https://www.youtube.com/watch?v=SR53SKIUYPA) - Gill Cleeren
 * [C# 101](https://channel9.msdn.com/Series/CSharp-101) - Scott Hanselman, Kendra Havens (Microsoft)
 * [C# Full Course for free](https://www.youtube.com/watch?v=wxznTygnRfQ) - Bro Code
 * [C# Programming All-in-One Tutorial Series (6 HOURS!)](https://www.youtube.com/watch?v=qOruiBrXlAw) - Caleb Curry
-* [C# Programming Language (Console Applications)](https://youtube.com/playlist?list=PLX07l0qxoHFLZftsVKyj3k9kfMca2uaPR) - Learning Never Ends
+* [C# Programming Language (Console Applications)](https://www.youtube.com/playlist?list=PLX07l0qxoHFLZftsVKyj3k9kfMca2uaPR) - Learning Never Ends
 * [C# Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=GhQdlIFylQ8) - Mike Dane (freeCodeCamp)
 * [C# Tutorial For Beginners - Learn C# Basics in 1 Hour](https://www.youtube.com/watch?v=gfkTfcpWqAY) - Moshfegh Hamedani (Programming with Mosh)
 * [Domain-Driven Refactoring - Jimmy Bogard - NDC London 2022](https://www.youtube.com/watch?v=f64tZ90Dntg) - Jimmy Bogard
@@ -356,7 +356,7 @@
 
 * [An Introduction to C++ Programming](https://www.udemy.com/course/an-introduction-to-cpp-programming/) - (Udemy)
 * [C++](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) - The Cherno
-* [C++ Compilation, Linking, and Makefiles](https://youtube.com/playlist?list=PLNUvpxaaFJ_i6BYqbxTVeK5AOcFzQbboQ) - Amy Larson
+* [C++ Compilation, Linking, and Makefiles](https://www.youtube.com/playlist?list=PLNUvpxaaFJ_i6BYqbxTVeK5AOcFzQbboQ) - Amy Larson
 * [C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210) - Catherine Gamboa (Udacity)
 * [C++ Full Course for free](https://www.youtube.com/watch?v=-TkoO8Z07hI) - Bro Code
 * [C++ GUI applications (beginner to advanced)](https://www.youtube.com/playlist?list=PL43pGnjiVwgQakzRxpt2amqN9f7-tRtc_) - Saldina Nurak (CodeBeauty)
@@ -374,7 +374,7 @@
 * [Google's C++ Course](https://developers.google.com/edu/c++/)
 * [Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) (MIT's opencourseware)
 * [Introduction to C++](https://www.edx.org/course/introduction-to-c-3) - Microsoft (edX) (:card_file_box: *archived*)
-* [Introduction to Programming through C++](https://youtube.com/playlist?list=PLEAYkSg4uSQ2qzihjdDEseWrrY1DyxH9P&si=itDYt3Yo9wn2XarO) - NPTEL
+* [Introduction to Programming through C++](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2qzihjdDEseWrrY1DyxH9P) - NPTEL
 * [Learn C++ With Me](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lmGC8VW0iu6qfMHjy7gLQ3) - Tech With Tim
 * [Sololearn C++](https://www.sololearn.com/learning/1051) - *registration required*
 
@@ -466,8 +466,8 @@
 
 ### Cuda
 
-* [CUDA Crash Course](https://youtube.com/playlist?list=PLxNPSjHT5qvtYRVdNN1yDcdSl39uHV_sU) - CoffeeBeforeArch
-* [CUDA Tutorials](https://youtube.com/playlist?list=PLKK11Ligqititws0ZOoGk3SW-TZCar4dK) - Creel
+* [CUDA Crash Course](https://www.youtube.com/playlist?list=PLxNPSjHT5qvtYRVdNN1yDcdSl39uHV_sU) - CoffeeBeforeArch
+* [CUDA Tutorials](https://www.youtube.com/playlist?list=PLKK11Ligqititws0ZOoGk3SW-TZCar4dK) - Creel
 * [Intro to Parallel Programming Using CUDA to Harness the Power of GPUs](https://www.udacity.com/course/intro-to-parallel-programming--cs344) (Udacity)
 
 
@@ -568,7 +568,7 @@
 * [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) (coursera)
 * [Deep Learning with PyTorch](https://www.youtube.com/playlist?list=PLWKjhJtqVAbm3T2Eq1_KgloC7ogdXxdRa) - Aakash N. S., freeCodeCamp.org
 * [Deep Learning with Pytorch: Zero tp GANs](https://jovian.ai/learn/deep-learning-with-pytorch-zero-to-gans) (Jovian)
-* [Deep Learning With Tensorflow 2.0 and Keras](https://youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO) - codebasics
+* [Deep Learning With Tensorflow 2.0 and Keras](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO) - codebasics
 * [Deep Multi-Task and Meta Learning](https://cs330.stanford.edu) - Chelsea Finn (Stanford University)
 * [Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/) - Sergey Levine
 * [Deep Reinforcement Learning Course - Hugging Face](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
@@ -579,7 +579,7 @@
 * [Introduction to Reinforcement learning with David Silver](https://www.youtube.com/playlist?list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB) - David Silver
 * [MIT 6.S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu)
 * [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com) - Alexander Amini, Ava Soleimany
-* [NYU Deep Learning SP21](https://youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI) Alfredo Canziani
+* [NYU Deep Learning SP21](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI) Alfredo Canziani
 * [Practical Deep Learning For Coders taught](http://www.fast.ai) - Jeremy Howard
 * [Practical Deep Learning for Coders, v3 (using fastai library)](https://course.fast.ai)
 * [Self-Paced Courses for Deep Learning](https://developer.nvidia.com/deep-learning-courses)
@@ -757,9 +757,9 @@
 
 ### Graph Theory
 
-* [Graph Theory](https://youtube.com/playlist?list=PLztBpqftvzxXBhbYxoaZJmnZF6AUQr1mH) - Wrath of Math
-* [Graph Theory - DM](https://youtube.com/playlist?list=PLYrahs7hsYIQiSNxTfZndQz7jWPXsA1ur) - SCCI Labs IIT Ropar
-* [Graph Theory Playlist](https://youtube.com/playlist?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P) - WilliamFiset
+* [Graph Theory](https://www.youtube.com/playlist?list=PLztBpqftvzxXBhbYxoaZJmnZF6AUQr1mH) - Wrath of Math
+* [Graph Theory - DM](https://www.youtube.com/playlist?list=PLYrahs7hsYIQiSNxTfZndQz7jWPXsA1ur) - SCCI Labs IIT Ropar
+* [Graph Theory Playlist](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P) - WilliamFiset
 
 
 ### Haskell
@@ -784,11 +784,11 @@
 * [Build Dynamic Websites](https://web.archive.org/web/20210812200413/http://cs75.tv/2010/fall/) - David J. Malan [(YouTube)](https://www.youtube.com/playlist?list=PLvJoKWRPIu8GhAhDBAH0BFB9BS7YxM1WT)
 * [Code Your First Game: Arcade Classic in JavaScript on Canvas](https://www.udemy.com/code-your-first-game/) - Chris DeLeon (Udemy)
 * [Complete HTML/CSS BootCamp](https://frontendmasters.com/bootcamp/) - FrontEnd Masters
-* [Conquering freeCodeCamp's Curriculum](https://youtube.com/playlist?list=PLgBH1CvjOA62oNEVgz-dECiCZCE_Q3ZFH) - Florin Pop
+* [Conquering freeCodeCamp's Curriculum](https://www.youtube.com/playlist?list=PLgBH1CvjOA62oNEVgz-dECiCZCE_Q3ZFH) - Florin Pop
 * [CSS Flexbox - Mastering the Basics](https://www.udemy.com/css-flexbox-mastering-the-basics/) - Vishwas Gopinath (Udemy)
 * [CSS Grid](https://cssgrid.io) - Wesbos
 * [CSS Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWqMH9a9DY8LFKrJ5NJCFHHe)
-* [CSS Tutorials](https://youtube.com/playlist?list=PLDyQo7g0_nsUjf046cCHKJ16U1SoXrElZ) - Dev Ed
+* [CSS Tutorials](https://www.youtube.com/playlist?list=PLDyQo7g0_nsUjf046cCHKJ16U1SoXrElZ) - Dev Ed
 * [CSS3 tutorial for beginners \| Learn CSS3](https://www.udemy.com/course/css3-tutorial-for-beginners-learn-css3/) - Udemy
 * [Flexbox in 30 Days](https://github.com/samanthaming/Flexbox30) - Samantha Ming
 * [Gentle Introduction to CSS for Beginners](https://www.youtube.com/playlist?list=PLErOmyzRKOCptjkM-mOfveYlgKQEx1AAf) - Deborah Kurata
@@ -796,9 +796,9 @@
 * [Get to know HTML Learn HTML Basics](https://www.udemy.com/course/html-online-course/) - Laurence Svekis (Udemy)
 * [HTML & CSS](https://www.youtube.com/playlist?list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU) - Brad Traversy, Traversy Media
 * [HTML & CSS Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G) - The Net Ninja (Shaun Pelling)
-* [HTML & CSS Crash Course Tutorial For Beginners](https://youtube.com/playlist?list=PLr6-GrHUlVf_HUfo4LyFepGmj23nwqNdk) - EJ Media
+* [HTML & CSS Crash Course Tutorial For Beginners](https://www.youtube.com/playlist?list=PLr6-GrHUlVf_HUfo4LyFepGmj23nwqNdk) - EJ Media
 * [HTML and CSS Crash Course](https://scrimba.com/learn/htmlcss) - Kevin Powell (scrimba)
-* [HTML and CSS Crash For Beginner](https://youtube.com/playlist?list=PL4-IK0AVhVjM0xE0K2uZRvsM7LkIhsPT-) - Kevin Powell
+* [HTML and CSS Crash For Beginner](https://www.youtube.com/playlist?list=PL4-IK0AVhVjM0xE0K2uZRvsM7LkIhsPT-) - Kevin Powell
 * [HTML and CSS Tutorials](https://www.youtube.com/playlist?list=PL0eyrZgxdwhwNC5ppZo_dYGVjerQY3xYU) - Dani Krossing
 * [HTML Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWr_FB-hVEgEGUESZL1TOiJ6)
 * [HTML Tutorial For Beginners (With Notes)](https://www.youtube.com/watch?v=qHB2jUvAlGo) - ProgrammingWithHarry
@@ -813,7 +813,7 @@
 * [Responsive Web Design with HTML5 and CSS3 - Advanced](https://www.udemy.com/course/responsive-web-design-with-html5-and-css3-advanced/) - Udemy
 * [Sass Tutorial - Build Your Own CSS Library](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jxJX7vojNVK-o8ubDZEcNb) - The Net Ninja
 * [Structuring the web with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
-* [Tailwind CSS Tutorial](https://youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw) - The Net Ninja
+* [Tailwind CSS Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw) - The Net Ninja
 * [TailwindCSS Tutorial](https://www.youtube.com/playlist?list=PLFHz2csJcgk8lgiRDB7FdsXVr4xy6jE8K) - Code With Dary
 * [Web Development By Doing: HTML / CSS From Scratch](https://www.udemy.com/course/web-development-learn-by-doing-html5-css3-from-scratch-introductory/) - Udemy
 * [What the Flexbox](https://flexbox.io) - Wesbos
@@ -823,7 +823,7 @@
 
 * [Bootstrap 4 Quick Start: Code Modern Responsive Websites](https://www.udemy.com/course/bootstrap-4) - Brad Hussey (Udemy)
 * [Bootstrap 5 Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR) - The Net Ninja
-* [Bootstrap Tutorial for Beginners](https://youtube.com/playlist?list=PLr6-GrHUlVf-gjvHuzCnVmeuaeAjRGltv) - EJ Media
+* [Bootstrap Tutorial for Beginners](https://www.youtube.com/playlist?list=PLr6-GrHUlVf-gjvHuzCnVmeuaeAjRGltv) - EJ Media
 * [Bootstrap tutorial for beginners](https://www.youtube.com/playlist?list=PL6n9fhu94yhXd4xnk-j5FGhHjUv1LsF0V) - kudvenkat
 * [Complete Bootstrap 4 course - build 3 projects](https://www.udemy.com/course/bootstrap-4-tutorials) - Igneus Technologies (Udemy)
 * [Complete Bootstrap Crash Course \| Bootstrap 4 Tutorial](https://www.youtube.com/watch?v=ZfRn9VJzdGA) - Julio Codes
@@ -857,9 +857,9 @@
 * [Fundamentals of Java EE Development](https://www.edx.org/course/fundamentals-of-java-ee-development) -  Will Dinyes (edX)
 * [Hibernate Tutorial for Beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7qBZtsEvp_n2A7sJs2MpF3r) - Telusko (Navin Reddy)
 * [Introduction to Java](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/)
-* [Introduction to Java + DSA](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ) - Kunal Kushwaha
+* [Introduction to Java + DSA](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ) - Kunal Kushwaha
 * [Java AWT](https://www.youtube.com/playlist?list=PLDN4rrl48XKoYR1H6l19hvF_8SMHGdPvk) - Abdul Bari
-* [Java Beginner](https://youtube.com/playlist?list=PLkeaG1zpPTHiMjczpmZ6ALd46VjjiQJ_8) - Coding with John
+* [Java Beginner](https://www.youtube.com/playlist?list=PLkeaG1zpPTHiMjczpmZ6ALd46VjjiQJ_8) - Coding with John
 * [Java Complete Course - Placement Series](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop) - Apna College
 * [Java Design Patterns and Architecture](https://www.udemy.com/course/java-design-patterns-tutorial) - John Purcell (Udemy)
 * [Java for Complete Beginners](http://courses.caveofprogramming.com/courses/java-for-complete-beginners)
@@ -869,15 +869,15 @@
 * [Java Programming](https://www.youtube.com/playlist?list=PLDN4rrl48XKoOSTnq72gar56u7XspkCfe) - Abdul Bari
 * [Java Programming](https://testautomationu.applitools.com/java-programming-course/) - Angie Jones (Applitools)
 * [Java Programming](https://java-programming.mooc.fi) - University of Helsinki
-* [Java Programming](https://youtube.com/playlist?list=PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5) - Neso Academy
+* [Java Programming](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjKA_NuK9mHmlk0dZzuP1P5) - Neso Academy
 * [Java Programming](https://www.youtube.com/playlist?list=PLfu_Bpi_zcDPNy6qznvbkGZi7eP_0EL77) - Kody Simpson
 * [Java Programming Basics](https://www.udacity.com/course/java-programming-basics--ud282) - Cezanne Camacho, Asser Samak (Udacity) (account *required*)
 * [Java Programming Basics](https://www.udemy.com/course/java-programming-basics/) - Charles Mulic (Udemy)
 * [Java Programming: Solving Problems with Software](https://www.coursera.org/learn/java-programming) (Coursera)
 * [Java Server Tutorials - Happy Coding](https://happycoding.io/tutorials/java-server/) - Kevin Workman
-* [Java tutorial for beginners](https://youtube.com/playlist?list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1) - Bro Code
+* [Java tutorial for beginners](https://www.youtube.com/playlist?list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1) - Bro Code
 * [Java Tutorial for Beginners](https://www.youtube.com/watch?v=eIrMbAQSU34) - Programming with Mosh
-* [Java Tutorial For Beginners](https://youtube.com/playlist?list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK) - Telusko
+* [Java Tutorial For Beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK) - Telusko
 * [Java Tutorial for Complete Beginners](https://www.udemy.com/course/java-tutorial/) - John Purcell (Udemy)
 * [JSP (Java server pages) and servlet basics](https://www.udemy.com/course/jsp-servlet-free/) - StudyEasy Organisation, Chaand Sheikh (Udemy)
 * [Learn how to program: Java](https://www.learnhowtoprogram.com/java-june-2017) - Epicodus Inc.
@@ -902,18 +902,18 @@
 ### JavaScript
 
 * [Asynchronous Programming: The End of The Loop](https://egghead.io/courses/asynchronous-programming-the-end-of-the-loop) - Jafar Husain
-* [Beginner's Series to: JavaScript](https://youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2) - Microsoft Developer
+* [Beginner's Series to: JavaScript](https://www.youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2) - Microsoft Developer
 * [Bento JavaScript Learning Track](https://bento.io/topic/javascript) (Bento)
-* [Creative Coding for Complete Beginners](https://youtube.com/playlist?list=PLUG_f-krxzVrRCOjGFwOuYj3QarVfPWXK) - Algorithmic Art
+* [Creative Coding for Complete Beginners](https://www.youtube.com/playlist?list=PLUG_f-krxzVrRCOjGFwOuYj3QarVfPWXK) - Algorithmic Art
 * [Cycle.js Fundamentals](https://egghead.io/courses/cycle-js-fundamentals) - André Staltz
 * [ES6 and Typescript Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV) - Codevolution, Vishwas Gopinath
 * [Functional Programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) - Mattias Petter Johansson «Fun Fun Function»
-* [Gentle Introduction to JavaScript](https://youtube.com/playlist?list=PLErOmyzRKOCpmitTOazq3_p74Y-yTQB6A) - Deborah Kurata
+* [Gentle Introduction to JavaScript](https://www.youtube.com/playlist?list=PLErOmyzRKOCpmitTOazq3_p74Y-yTQB6A) - Deborah Kurata
 * [Intro to JavaScript ES6 programming](https://www.youtube.com/playlist?list=PL-xu4i_QDSxcoDNeh8rx5-pHCCTOg0XsI)
 * [Intro To JavaScript Unit Testing & BDD](https://www.youtube.com/watch?v=u5cLK1UrFyQ) - Traversy Media
 * [Introduction to ES6+](https://scrimba.com/learn/introtoes6) - Dylan C. Israel (Scrimba)
 * [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) - freecodecamp
-* [JavaScript Array Methods](https://youtube.com/playlist?list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2) - Florin Pop
+* [JavaScript Array Methods](https://www.youtube.com/playlist?list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2) - Florin Pop
 * [JavaScript Coding Challenges](https://youtube.com/playlist?list=PLgBH1CvjOA63ROz8Wqd7RDD0qpvGXF8x5) - Florin Pop
 * [JavaScript Course](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript) - The Odin Project
 * [Javascript course](https://www.youtube.com/playlist?list=PLRAV69dS1uWSxUIk5o3vQY2-_VKsOpXLD) - Hitesh Choudhary
@@ -943,7 +943,7 @@
 * [Offline Web Applications](https://www.udacity.com/course/offline-web-applications--ud899) - Google, Michael Wales (Udacity)
 * [Programming Foundations with Javascript, HTML and CSS](https://www.coursera.org/learn/duke-programming-web) - Owen Astrachan, Robert Duvall, Andrew D. Hilton, Susan H. Rodger (Coursera)
 * [The 10 Days of JavaScript](https://www.youtube.com/playlist?list=PLpcSpRrAaOaoIqHQddZOdbRrzr5dJtgSs) - Brad Schiff, LearnWebCode
-* [Understanding RxJS](https://youtube.com/playlist?list=PL55RiY5tL51pHpagYcrN9ubNLVXF8rGVi) - Academind
+* [Understanding RxJS](https://www.youtube.com/playlist?list=PL55RiY5tL51pHpagYcrN9ubNLVXF8rGVi) - Academind
 * [Vanilla JavaScript](https://www.youtube.com/playlist?list=PLillGF-RfqbbnEGy3ROiLWk7JMCuSyQtX) - Brad Traversy, Traversy Media
 
 
@@ -952,7 +952,7 @@
 * [Angular 12 / 13 tutorial](https://www.youtube.com/playlist?list=PL8p2I9GklV47eNpoo4Fr6fkags72a8F0v) - Code Step By Step
 * [Angular 12 Course](https://www.youtube.com/playlist?list=PLjsBk8SIQEi-RqkglLcn19TaeeopcuDXV) - Slobodan Gajic
 * [Angular 6 Tutorials](https://www.youtube.com/playlist?list=PLYxzS__5yYQlqCmHqDyW3yo5V79C7eaTe) - codedamn
-* [Angular Complete Course Guide](https://youtube.com/playlist?list=PL_euSNU_eLbeAJxvVdJn5lhPWX9IWHhxs) - Leela Web Dev
+* [Angular Complete Course Guide](https://www.youtube.com/playlist?list=PL_euSNU_eLbeAJxvVdJn5lhPWX9IWHhxs) - Leela Web Dev
 * [Angular Courses](https://www.youtube.com/playlist?list=PLTjRvDozrdlxAhsPP4ZYtt3G8KbJ449oT) - Moshfegh Hamedani (Programming with Mosh)
 * [Angular Crash Course 2021](https://www.youtube.com/watch?v=3dHNOWTI7H8) - Brad Traversy, Traversy Media
 * [Angular Fast Crash Course](https://www.udemy.com/angular-fast-crash-course/) - Edwin Diaz, Coding Faculty Solutions (Udemy)
@@ -964,7 +964,7 @@
 
 ##### AngularJS
 
-* [Angularjs Tutorial - Complete (Fundamentals to Advanced)](https://youtube.com/playlist?list=PLvZkOAgBYrsS_ugyamsNpCgLSmtIXZGiz) - Tech CBT
+* [Angularjs Tutorial - Complete (Fundamentals to Advanced)](https://www.youtube.com/playlist?list=PLvZkOAgBYrsS_ugyamsNpCgLSmtIXZGiz) - Tech CBT
 * [AngularJS Tutorial for Beginners](https://www.youtube.com/watch?v=9b9pLgaSQuI) - Yaakov Chaikin (My Lesson)
 * [AngularJS Tutorials](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gsJS5QgFT2IvWIX78dV3_v) - The Net Ninja
 * [Egghead.io - AngularJS](https://www.youtube.com/playlist?list=PLP6DbQBkn9ymGQh2qpk9ImLHdSH5T7yw7) - John Lindquist
@@ -987,7 +987,7 @@
 
 #### Electron
 
-* [Electron js Tutorials](https://youtube.com/playlist?list=PLC3y8-rFHvwiCJD3WrAFUrIMkGVDE0uqW) - Codevolution
+* [Electron js Tutorials](https://www.youtube.com/playlist?list=PLC3y8-rFHvwiCJD3WrAFUrIMkGVDE0uqW) - Codevolution
 
 
 #### jQuery
@@ -1003,14 +1003,14 @@
 * [Master Next JS by Building Real Projects](https://www.youtube.com/playlist?list=PL6QREj8te1P7gixBDSU8JLvQndTEEX3c3) - JavaScript Mastery
 * [Mastering Next.js](https://masteringnextjs.com)
 * [Next.js for Beginners - Full Course](https://www.youtube.com/watch?v=1WmNXEVia8I) - Kapehe (FreeCodeCamp)
-* [Next.js Tutorial for Beginners](https://youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH) - Codevolution
-* [Next.js Tutorials for Beginners](https://youtube.com/playlist?list=PL0Zuz27SZ-6Pk-QJIdGd1tGZEzy9RTgtj) - Dave Gray
+* [Next.js Tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH) - Codevolution
+* [Next.js Tutorials for Beginners](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6Pk-QJIdGd1tGZEzy9RTgtj) - Dave Gray
 
 
 #### NodeJS
 
 * [A Beginner's Guide to Node.js](https://www.udemy.com/course/a-beginners-guide-to-nodejs) - DSC VIT Powered by Google Developers, Md Hishaam Akhtar (Udemy)
-* [Beginner's Series to: Node.js](https://youtube.com/playlist?list=PLlrxD0HtieHje-_287YJKhY8tDeSItwtg) - Microsoft Developer
+* [Beginner's Series to: Node.js](https://www.youtube.com/playlist?list=PLlrxD0HtieHje-_287YJKhY8tDeSItwtg) - Microsoft Developer
 * [Building a RESTful API with Node.js](https://www.youtube.com/playlist?list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q) - Academind
 * [Data brokering with Node.js: Process data at the speed of technology](https://heynode.com) - Osio Labs Inc. *(signup requested, not required)*
 * [Express JS Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE) - Brad Traversy, Traversy Media
@@ -1062,7 +1062,7 @@
 * [CS50's Mobile App Development with React Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native) - edX
 * [Introduction to React Native](https://fullstackopen.com/en/part10/introduction_to_react_native) - Full Stack Open
 * [React Native for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ) - The Net Ninja
-* [React Native Tutorial (2021)](https://youtube.com/playlist?list=PL8kfZyp--gEXs4YsSLtB3KqDtdOFHMjWZ) - Programming with Mash, MAhdi SHarifimehr
+* [React Native Tutorial (2021)](https://www.youtube.com/playlist?list=PL8kfZyp--gEXs4YsSLtB3KqDtdOFHMjWZ) - Programming with Mash, MAhdi SHarifimehr
 * [React Tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3) - codevolution
 
 
@@ -1070,7 +1070,7 @@
 
 * [Getting Started with Redux](https://egghead.io/courses/fundamentals-of-redux-course-from-dan-abramov-bd5cc867)
 * [Learn Redux](https://learnredux.com) - Wes Bos (email address *requested*)
-* [Redux Toolkit Tutorial](https://youtube.com/playlist?list=PLC3y8-rFHvwiaOAuTtVXittwybYIorRB3) - Codevolution
+* [Redux Toolkit Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwiaOAuTtVXittwybYIorRB3) - Codevolution
 * [Redux Tutorial- Learn Redux from Scratch](https://www.youtube.com/watch?v=poQXNp9ItL4) - Mosh Hamedani
 
 
@@ -1196,7 +1196,7 @@
 
 * [AWS Machine Learning Foundations Course](https://www.udacity.com/course/aws-machine-learning-foundations--ud065) - AWS (Udacity)
 * [Caltech's Learning From data](https://work.caltech.edu/telecourse.html)
-* [Complete Machine Learning Bootcamp](https://youtube.com/playlist?list=PLyzHIYrZBplo3K0dNUqppd2ynnoZPD6N1) - Code for Cause
+* [Complete Machine Learning Bootcamp](https://www.youtube.com/playlist?list=PLyzHIYrZBplo3K0dNUqppd2ynnoZPD6N1) - Code for Cause
 * [Complete Machine Learning in Python playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe) - Krish Naik
 * [Convolutional Neural Network](https://www.youtube.com/playlist?list=PLuhqtP7jdD8CD6rOWy20INGM44kULvrHu) - Coding Lane
 * [Deep Learning Fundamentals](https://cognitiveclass.ai/courses/introduction-deep-learning) - DeepLearning.TV (cognitiveclass.ai)
@@ -1207,13 +1207,13 @@
 * [Intro to Self-Driving Cars Nanodegree](https://www.udacity.com/course/intro-to-self-driving-cars--nd113) - Cezanne Camacho, Andrew Paster, Anthony Navarro, Tarin Ziyaee, et al. (Udacity)
 * [Introduction to Machine Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about) - MIT Open Learning Library
 * [Machine Learning](https://www.sololearn.com/Course/machine-learning) (SoloLearn) *(account required)*
-* [Machine Learning](https://youtube.com/playlist?list=PL7T06JEc5PF5Vuz1U7lEEaFPOExDbKVEh) - Nerd's Lesson
-* [Machine Learning](https://youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF) - StatQuest with Josh Starmer
+* [Machine Learning](https://www.youtube.com/playlist?list=PL7T06JEc5PF5Vuz1U7lEEaFPOExDbKVEh) - Nerd's Lesson
+* [Machine Learning](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF) - StatQuest with Josh Starmer
 * [Machine Learning — Andrew Ng, Stanford University](https://youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) - Andrew Ng
 * [Machine Learning Course With Python](https://www.youtube.com/playlist?list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I) - Siddhardhan
 * [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 * [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) - Andrew Ng, Eddy Shyu, Aarti Bagul, Geoff Ladwig (Coursera)
-* [Machine Learning Tutorial in Python](https://youtube.com/playlist?list=PL9ooVrP1hQOHUfd-g8GUpKI3hHOwM_9Dn) - edureka!
+* [Machine Learning Tutorial in Python](https://www.youtube.com/playlist?list=PL9ooVrP1hQOHUfd-g8GUpKI3hHOwM_9Dn) - edureka!
 * [Machine Learning Tutorial Python \| Machine Learning For Beginners](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw) - Dhaval Patel
 * [Machine Learning with Python](https://cognitiveclass.ai/courses/machine-learning-with-python) - Saeed Aghabozorgi (cognitiveclass.ai)
 * [Machine Learning with Python: Zero to GBMs](https://jovian.ai/learn/machine-learning-with-python-zero-to-gbms) (Jovian)
@@ -1237,7 +1237,7 @@
 ### MATLAB
 
 * [Data Processing and Feature Engineering with MATLAB](https://www.coursera.org/learn/feature-engineering-matlab) (coursera)
-* [Image Processing Using Matlab](https://youtube.com/playlist?list=PLEo-jHOqGNyUWoCSD3l3V-FjX9PnHvx5n) - Rashi Agarwal
+* [Image Processing Using Matlab](https://www.youtube.com/playlist?list=PLEo-jHOqGNyUWoCSD3l3V-FjX9PnHvx5n) - Rashi Agarwal
 * [Introduction to Matlab in English](https://www.youtube.com/playlist?list=PLGED90Y_uL1KLpdRmVtwfpNoYCWU9RPkK) - Mohammed Mohammed
 * [MATLAB for Data Processing and Visualization](https://matlabacademy.mathworks.com/details/matlab-for-data-processing-and-visualization/mlvi) - Renee Bach
 * [MATLAB Fundamentals](https://matlabacademy.mathworks.com/details/matlab-fundamentals/mlbe) - Erin Byrne
@@ -1301,7 +1301,7 @@
 ### Perl
 
 * [Perl Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWpqRBcStwV0NwMA3nXMh5GC)
-* [Perl Tutorial: Basics to Advanced](https://youtube.com/playlist?list=PL1h5a0eaDD3rTG1U7w9wmff6ZAKDN3b16) - VLSI Academy
+* [Perl Tutorial: Basics to Advanced](https://www.youtube.com/playlist?list=PL1h5a0eaDD3rTG1U7w9wmff6ZAKDN3b16) - VLSI Academy
 
 
 ### Pharo
@@ -1379,7 +1379,7 @@
 * [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) (Udacity)
 * [Python 101 – Introduction to Programming](https://www.tutorialspoint.com/python_101_andndash_introduction_to_programming/index.asp) - Zenva (Tutorials Point)
 * [Python 3](https://www.sololearn.com/Course/Python/) (SoloLearn)
-* [Python 3 Programming Tutorials for Beginners](https://youtube.com/playlist?list=PLeo1K3hjS3uv5U-Lmlnucd7gqF-3ehIh0) - Codebasics
+* [Python 3 Programming Tutorials for Beginners](https://www.youtube.com/playlist?list=PLeo1K3hjS3uv5U-Lmlnucd7gqF-3ehIh0) - Codebasics
 * [Python And Cryptocurrency: Build 5 Real World Applications](https://www.udemy.com/course/coinmarketcap/) Ian Annase (Udemy)
 * [Python Built in Functions A to Z Tutorial and Examples](https://www.youtube.com/playlist?list=PLrJGwAG1U62RW_hGGnk7xXG0LciHkT54X) - Brainy Things
 * [Python Course](https://www.python-course.eu)
@@ -1392,7 +1392,7 @@
 * [Python for OSINT. 21 day course for beginners](https://github.com/cipher387/python-for-OSINT-21-days/raw/main/Python%20for%20OSINT.%2021%20day%20course%20for%20beginners.pdf) - cyb_detective (PDF)
 * [Python for Programmers](https://www.codecademy.com/learn/python-for-programmers) - Codecademy
 * [Python from Scratch](https://open.cs.uwaterloo.ca/python-from-scratch/) - Centre for Education in Math and Computing (University of Waterloo)
-* [Python GUI's With TKinter](https://youtube.com/playlist?list=PLCC34OHNcOtoC6GglhF3ncJ5rLwQrLGnV) - Codemy.com
+* [Python GUI's With TKinter](https://www.youtube.com/playlist?list=PLCC34OHNcOtoC6GglhF3ncJ5rLwQrLGnV) - Codemy.com
 * [Python in 80 minutes](https://www.udemy.com/course/learn-python-in-80-minutes/) - Muhammed Ali Dilek (Udemy)
 * [Python Learn Course](https://www.kaggle.com/learn/python) - Colin Morris (Kaggle)
 * [Python OOP : Object Oriented Programming in Python](https://www.udemy.com/course/object-oriented-python-programming/) - Deepali Srivastava (Udemy)
@@ -1410,7 +1410,7 @@
 * [Python Tutorial For Beginners (With Notes)](https://www.youtube.com/watch?v=EyEqWFvLDT8) - ProgrammingWithHarry
 * [Python Tutorials](https://www.youtube.com/playlist?list=PLTjRvDozrdlxj5wgH4qkvwSOdHLOCx10f) - Programming with Mosh
 * [Python Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) - Corey Schafer
-* [Python Tutorials](https://youtube.com/playlist?list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB) - freeCodeCamp.org
+* [Python Tutorials](https://www.youtube.com/playlist?list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB) - freeCodeCamp.org
 * [SoloLearn](https://www.sololearn.com/Course/Python/)
 * [The Python Tutorial](https://docs.python.org/3/tutorial/)
 * [Using Python for Research](https://www.edx.org/course/using-python-for-research) (edX Harvard)
@@ -1440,7 +1440,7 @@
 
 #### Jupyter
 
-* [Jupyter Tutorials](https://youtube.com/playlist?list=PL1m-6MPBNAZfF-El7BzqaOrCrTBRgH1Nk) - Emyrrich
+* [Jupyter Tutorials](https://www.youtube.com/playlist?list=PL1m-6MPBNAZfF-El7BzqaOrCrTBRgH1Nk) - Emyrrich
 
 
 ### QB64
@@ -1523,7 +1523,7 @@
 * [Ethical Hacking Kali Linux Command Line (CLI) Hands-On](https://www.udemy.com/course/kali-linux-command-line-cli-hands-on) - Musab Zayadneh (Udemy)
 * [Ethical hacking with Hak5 devices](https://www.udemy.com/course/ethical-hacking-with-hak5-devices) - David Bombal (Udemy)
 * [Foundations of Hacking and Pentesting Android Apps](https://www.udemy.com/course/foundations-of-hacking-and-pentesting-android-apps) - Scott Cosentino (Udemy)
-* [Full Length Hacking Courses](https://youtube.com/playlist?list=PLLKT__MCUeixqHJ1TRqrHsEd6_EdEvo47) - The Cyber Mentor
+* [Full Length Hacking Courses](https://www.youtube.com/playlist?list=PLLKT__MCUeixqHJ1TRqrHsEd6_EdEvo47) - The Cyber Mentor
 * [Introduction to Dark Web, Anonymity and Cryptocurrency](https://www.udemy.com/course/introduction-to-dark-web-anonymity-and-cryptocurrency) - Rajneesh Gupta (Udemy)
 * [Introduction to Information Security](https://www.udacity.com/course/intro-to-information-security--ud459) - Wenke Lee, Mustaque Ahamad, Catherine Gamboa (Udacity)
 * [Learn Ethical Haacking From Scratch](https://www.udemy.com/course/learn-ethical-haacking-from-scratch) - Uzma Aslam (Udemy)
@@ -1552,8 +1552,8 @@
 
 ### Solidity
 
-* [Learn Solidity](https://youtube.com/playlist?list=PL16WqdAj66SCOdL6XIFbke-XQg2GW_Avg) - Will it Scale
-* [MASTER Solidity for Blockchain](https://youtube.com/playlist?list=PLS5SEs8ZftgVnWHv2_mkvJjn5HBOkde3g) - Dapp University
+* [Learn Solidity](https://www.youtube.com/playlist?list=PL16WqdAj66SCOdL6XIFbke-XQg2GW_Avg) - Will it Scale
+* [MASTER Solidity for Blockchain](https://www.youtube.com/playlist?list=PLS5SEs8ZftgVnWHv2_mkvJjn5HBOkde3g) - Dapp University
 * [Solidity 101](https://www.youtube.com/playlist?list=PLYORQHvGMg-WS5r8UjaWnnAeCHTH3wRaF) - Secureum
 * [Solidity 201](https://www.youtube.com/playlist?list=PLYORQHvGMg-V9w6UZ_YOQYjG5NPqnRwdc) - Secureum
 * [Solidity Tutorial](https://www.youtube.com/playlist?list=PLbbtODcOYIoE0D6fschNU4rqtGFRpk3ea) - EatTheBlocks

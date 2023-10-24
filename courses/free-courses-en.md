@@ -737,7 +737,7 @@
 
 * [Graph Theory](https://youtube.com/playlist?list=PLztBpqftvzxXBhbYxoaZJmnZF6AUQr1mH) - Wrath of Math
 * [Graph Theory - DM](https://youtube.com/playlist?list=PLYrahs7hsYIQiSNxTfZndQz7jWPXsA1ur) - SCCI Labs IIT Ropar
-* [Graph Theory - Soumen Maity | IISER - NPTEL](https://youtube.com/playlist?list=PLEAYkSg4uSQ2fXcfrTGZdPuTmv98bnFY5&si=ThwQezAPOX19z0rn) - Rahul Madhavan
+* [Graph Theory](https://nptel.ac.in/courses/111106102) - Prof. Soumen Maity (NPTEL)
 * [Graph Theory Playlist](https://youtube.com/playlist?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P) - WilliamFiset
 
 

@@ -62,8 +62,8 @@
 ### Flutter
 
 * [Flutter in Tamil](https://www.youtube.com/playlist?list=PLBngtsPyn30HYEkmqIqZwvLl0c8zWqCtx) - LEARN ALL IN TAMIL
+* [Flutter Tamil Tutorial](https://www.youtube.com/playlist?list=PL_hkki6Usyn4krz6wexRj1baFE-TWKVMb) - Techashonline
 * [Flutter Tamil Tutorial 2021](https://www.youtube.com/playlist?list=PLUGtexIdLo5iGD_0Ds5-a-itWxMCF8r0E) - Theory Or Practical
-* [Flutter Tamil Tutorial](https://www.youtube.com/playlist?list=PL_hkki6Usyn4krz6wexRj1baFE-TWKVMb) - techashonline
 
 
 ### HTML and CSS
@@ -108,8 +108,8 @@
 
 ### Next JS
 
-* [Next JS Beginner series Tamil](https://www.youtube.com/playlist?list=PLQeZxRj52I-H86pt2nVb14UB0vKtK74qZ) - Tamil Coding Wizard
 * [Full stack Next JS Project Tamil](https://www.youtube.com/playlist?list=PLQeZxRj52I-GmZBy4-tPhwwL8AEjW2t8G) - Tamil Coding Wizard
+* [Next JS Beginner series Tamil](https://www.youtube.com/playlist?list=PLQeZxRj52I-H86pt2nVb14UB0vKtK74qZ) - Tamil Coding Wizard
 
 
 ### Node JS
@@ -150,8 +150,8 @@
 * [React](https://youtube.com/playlist?list=PL7BQ4lqtgECTVwBbEjQ63FPx76WYDbiwh&si=PxoLxQoXVCqi1zav) - JVL code
 * [React Basics Tamil](https://youtube.com/playlist?list=PLQeZxRj52I-HntAkC29CgxGRT9Z_-oa91&si=oe9UoqzeaUDYyoy6) - Tamil Coding Wizard
 * [React JS Tamil Tutorial for Beginners](https://youtube.com/playlist?list=PLfD4W8QfMd5DbFccLzRFeG0QjWWHGTT3-&si=X3CgUFk3PxeqA8YD) - MaanavaN Learn Code
-* [React JS Tutorial Tamil](https://youtube.com/playlist?list=PLtMr2pEysMV7DdPChnkF9Mmgdya1uR8sQ&si=ZNop81SRBf9eTGvK) - VJ Techno Wizard
 * [React Js Tutorial for beginners in Tamil 2023](https://www.youtube.com/watch?v=Uv7cKlZFXU8) - Balachandra
+* [React JS Tutorial Tamil](https://youtube.com/playlist?list=PLtMr2pEysMV7DdPChnkF9Mmgdya1uR8sQ&si=ZNop81SRBf9eTGvK) - VJ Techno Wizard
 
 
 ### Rust

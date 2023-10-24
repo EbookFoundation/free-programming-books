@@ -173,6 +173,7 @@
 * [Grid Garden](https://cssgridgarden.com) - Codepip
 * [Learn advanced html and css](https://www.theodinproject.com/paths/full-stack-javascript/courses/advanced-html-and-css) - The Odin Project
 * [Learn Intermediate html and css](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css) - The Odin Project
+* [LiveCode](https://livecodes.io) - LiveCode
 * [SoloLearn](https://code.sololearn.com/web#css)
 * [Tailwind Play](https://play.tailwindcss.com)
 
@@ -204,6 +205,7 @@
 * [InterviewBit - Online JavaScript Compiler IDE](https://www.interviewbit.com/online-javascript-compiler/)
 * [JSBin](https://jsbin.com)
 * [JSFiddle](https://jsfiddle.net)
+* [Liveweave](https://liveweave.com) - Amit Sen
 * [OneCompiler](https://onecompiler.com/javascript)
 * [PlayCode](https://playcode.io/javascript)
 * [Plunker](https://plnkr.co)
@@ -299,6 +301,7 @@
 * [CodeSandbox.io](https://codesandbox.io)
 * [Hello React - (Glitch)](https://glitch.new/react) *(Account requested, not required)*
 * [jscomplete](https://jscomplete.com/playground)
+* [PlayCode](https://playcode.io/react)
 * [StackBlitz](https://stackblitz.com/fork/react)
 
 

@@ -29,7 +29,7 @@
 
 ### APL
 
-* [Découvrez le langage APL](https://www.youtube.com/watch?v=Nxq1BUUXobM&list=PLYKQVqyrAEj_DwkVAvj7xHxr72ite69nW) - Schraf : Maths-info
+* [Découvrez le langage APL](https://www.youtube.com/playlist?list=PLIz4PfDd5D29oOW61VkB4MHxGurtSCmhh) - Schraf : Maths-info
 
 
 ### Bash / Shell

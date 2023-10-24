@@ -16,3 +16,5 @@
 * [Tech Podcast بالعربي](https://anchor.fm/ahmdelemam) - Ahmed Elemam (podcast)
 * [The Egyptian Guy](https://anchor.fm/refaie) - Mohamed Refaie (podcast)
 * [The Weekly Noob](https://theweeklynoob.netlify.app) - Nabil Tharwat (podcast)
+* [Untyped Podcast](https://logaretm.com/untyped/) - Abdelrahman Awad (podcast)
+  

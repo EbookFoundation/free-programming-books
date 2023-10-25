@@ -59,6 +59,7 @@ ADV - Продвинутый. Тонкости.
 
 * [Программирование на Golang](https://stepik.org/course/54403) - Stepik (BEG)
 * [Go (Golang) - первое знакомство](https://stepik.org/course/100208) - Stepik (BEG)
+* [Основы Go](https://ru.hexlet.io/courses/go-basics) - Hexlet (BEG)
 
 
 ### Haskell
@@ -88,6 +89,7 @@ ADV - Продвинутый. Тонкости.
 * [Объектно ориентированное](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/OOP.md) - Тимур Шемсединов (INT)
 * [Основы программирования](https://www.youtube.com/playlist?list=PLHhi8ymDMrQZad6JDh6HRzY1Wz5WB34w0) - Тимур Шемсединов (INT)
 * [Основы программирования](https://ru.hexlet.io/courses/programming-basics) - Hexlet (BEG)
+* [Основы JavaScript](https://ru.hexlet.io/courses/js-basics) - Hexlet (BEG)
 * [Парадигмы программирования](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Paradigms.md) - Тимур Шемсединов (INT)
 * [Параллельное программирование](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Parallel.md) - Тимур Шемсединов (INT)
 * [Современный учебник JavaScript](https://learn.javascript.ru) - Илья Кантор (INT)
@@ -154,6 +156,7 @@ ADV - Продвинутый. Тонкости.
 * [Python для начинающих](https://ru.code-basics.com/languages/python) (BEG)
 * [Python для тех, у кого лапки](https://stepik.org/course/85388) - Мария Чакчурина, Дмитрий Колосов (Stepik) (INT)
 * [Python: основы и применение](https://stepik.org/course/512) - Константин Зайцев, Антон Гардер (Stepik) (INT)
+* [Основы Python](https://ru.hexlet.io/courses/python-basics) - Hexlet (BEG)
 
 
 ### R

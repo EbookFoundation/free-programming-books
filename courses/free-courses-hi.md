@@ -52,7 +52,6 @@
 * [Networking](#networking)
 * [Open Source](#open-source)
 * [Operating Systems](#operating-systems)
-* [Open Source](#open-source)
 * [PHP](#php)
     * [CodeIgniter](#codeigniter)
     * [Laravel](#laravel)

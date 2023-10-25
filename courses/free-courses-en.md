@@ -666,6 +666,7 @@
 
 ### Flutter
 
+* [Build Apps with Flutter](https://developers.google.com/learn/pathways/intro-to-flutter) - Google for Developers
 * [Flutter & Firebase App Build](https://www.youtube.com/playlist?list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC) - The Net Ninja
 * [Flutter Course for Beginners - 37 hour](https://www.youtube.com/watch?v=VPvVD8t02U8) - freeCodeCamp.org
 * [Flutter Crash Course](https://fluttercrashcourse.com/courses/basics/lessons/materialapp-scaffold-appbar-text) - Nick Manning *(account required)*

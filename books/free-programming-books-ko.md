@@ -1,257 +1,289 @@
 ### Index
 
-* [Amazon Web Service](#amazon-web-service)
-* [Assembly Language](#assembly-language)
-* [AWK](#awk)
-* [C](#c)
-* [C++](#cpp)
-* [Docker](#docker)
-* [Elastic](#elastic)
+* [Algorithms & Data Structures](#algorithms--data-structures)
+* [Android](#android)
+* [Arduino](#arduino)
+* [ASP.NET](#aspnet)
+* [C/C++](#cc)
+* [C#](#csharp)
+* [Circuit](#circuit)
+* [Deep Learning](#deep-learning)
+* [Flutter](#flutter)
 * [Git](#git)
 * [Go](#go)
-* [HTML and CSS](#html-and-css)
+* [Haskell](#haskell)
+* [Introduction](#introduction)
+* [iOS](#ios)
 * [Java](#java)
 * [JavaScript](#javascript)
-    * [Node.js](#nodejs)
-    * [React](#react)
-    * [Webpack](#webpack)
-* [LaTeX](#latex)
+    * [AngularJS](#angularjs)
+    * [React.js](#reactjs)
+* [Kotlin](#kotlin)
 * [Linux](#linux)
+* [Machine Learning](#machine-learning)
 * [Mathematics](#mathematics)
-* [OpenStack](#openstack)
+* [MySQL](#mysql)
+* [Network](#network)
 * [Operation System](#operation-system)
-* [Perl](#perl)
 * [PHP](#php)
-    * [Laravel](#laravel)
 * [Python](#python)
     * [Django](#django)
     * [Flask](#flask)
-* [R](#r)
 * [Raspberry Pi](#raspberry-pi)
+* [Reinforced Learning](#reinforced-learning)
 * [Ruby](#ruby)
-* [Rust](#rust)
-* [Scratch](#scratch)
-* [Sed](#sed)
-* [Software Engineering](#software-engineering)
-* [Springboot](#springboot)
-* [TypeScript](#typescript)
-* [Unicode](#unicode)
-* [Unity3d](#unity3d)
+* [Security](#security)
+* [Spring](#spring)
+* [Swift](#swift)
+* [Unreal Engine](#unreal-engine)
+* [Web Development](#web-development)
+* [WebRTC](#webrtc)
+* [Windows](#windows)
 
 
-### Amazon Web Service
+### Algorithms & Data Structures
 
-* [아마존 웹 서비스를 다루는 기술](http://www.pyrasis.com/private/2014/09/30/publish-the-art-of-amazon-web-services-book)
-
-
-### Assembly Language
-
-* [PC Assembly Language](http://pacman128.github.io/static/pcasm-book-korean.pdf) - Paul A. Carter (PDF)
+* [실전 알고리즘 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz)
+* [알고리즘 강좌](https://www.youtube.com/playlist?list=PLNvbgg5to7cfAx80VeQFW1Sq1mHGfiECo) (부경대 권오흠)
+* [이상진의 자료구조](https://www.youtube.com/playlist?list=PL7mmuO705dG12pP82RPUR3wdD5dbYu9gZ)
 
 
-### AWK
+### Android
 
-* [AWK 스크립트](https://mug896.github.io/awk-script)
-
-
-### C
-
-* [씹어먹는 C](https://github.com/kev0960/ModooCode/raw/master/book/c/main.pdf) - 이재범 (PDF)
-* [BeeJ's Guide to Network Programming - 인터넷 소켓 활용](https://blogofscience.com/Socket_Programming-KLDP.html)
-
-
-### <a id="cpp"></a>C++
-
-* [씹어먹는 C++](https://github.com/kev0960/ModooCode/raw/master/book/cpp/main.pdf) - 이재범 (PDF)
+* [안드로이드 스튜디오 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdB6sCgj_jubp8KPb1ni0VOC)
+* [안드로이드 스튜디오 실전 프로젝트](https://www.youtube.com/playlist?list=PLRx0vPvlEmdD862e43ADbvDeGPUZKDuqL)
+* [안드로이드 프로그래밍 고급](https://www.youtube.com/playlist?list=PL9mhQYIlKEhcXoTW9RwEf_7UTMcAJaink) (T 아카데미)
+* [안드로이드 프로그래밍 응용](https://www.youtube.com/playlist?list=PL9mhQYIlKEhd0NndsEQc0in36Oegm3ldE) (T 아카데미)
+* [안드로이드 프로그래밍 중급](https://www.youtube.com/playlist?list=PL9mhQYIlKEhc7o2HHixQi0PU2sQVerRW2) (T 아카데미)
+* [안드로이드 프로그래밍 초급](https://www.youtube.com/playlist?list=PL9mhQYIlKEhcAHpIweCixdDrPoXv5bXGx) (T 아카데미)
+* [Do it! 안드로이드 앱 프로그래밍](https://www.youtube.com/playlist?list=PLG7te9eYUi7sq701GghpoSKe-jbkx9NIF)
 
 
-### Docker
+### Arduino
 
-* [이재홍의 언제나 최신 Docker](http://www.pyrasis.com/jHLsAlwaysUpToDateDocker)
+* [아두이노 기초](https://www.youtube.com/playlist?list=PL0Vl139pNHbe-JlsydLg3NFRk6nC_cC7w)
 
 
-### Elastic
+### ASP.NET
 
-* [Elastic 가이드북](https://esbook.kimjmin.net) - 김종민
+* [ASP.NET MVC 강좌](https://www.youtube.com/playlist?list=PLbPz1r_wDPhEcKDJbOBw_3h5c2gtyDicX)
+
+
+### C/C++
+
+* [두들낙서의 C/C++ 강좌](https://www.youtube.com/playlist?list=PLlJhQXcLQBJqywc5dweQ75GBRubzPxhAk)
+* [박정민의 C 언어본색](https://www.youtube.com/playlist?list=PL7mmuO705dG3Z4iSqwzztuPHF3YE8mlbw)
+* [씹어먹는 C](https://modoocode.com/231) - 이재범
+* [씹어먹는 C++](https://modoocode.com/135) - 이재범
+* [최호성의 C 프로그래밍](https://www.youtube.com/playlist?list=PLXvgR_grOs1BiznAEkzQdA9tlcA06qx75)
+* [C 언어 초보 강의](https://www.youtube.com/playlist?list=PLMsa_0kAjjrdiwQykI8eb3H4IRxLTqCnP) - 나도코딩
+* [C언어 기초 프로그래밍 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdDNHeulKC6JM25MmZVS_3nT)
+* [C언어 코딩도장](https://dojang.io/course/view.php?id=2)
+
+
+### <a id="csharp"></a>C\#
+
+* [예제로 배우는 C# 강좌](https://www.youtube.com/playlist?list=PL4PkN2EXiuVF3Xl0HNVMdY-_kMM3oyBds)
+
+
+### Circuit
+
+* [논리회로](http://socw.skku.edu/Lectures/Regular/Detail.do) (성균관대 김문현)
+
+
+### Deep Learning
+
+* [모두를 위한 딥러닝 시즌 1](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm) - Sung Kim
+* [모두를 위한 딥러닝 시즌 2](https://www.youtube.com/playlist?list=PLQ28Nx3M4Jrguyuwg4xe9d9t2XE639e5C) - Sung Kim
+* [C++로 배우는 딥러닝](https://www.youtube.com/playlist?v=nHt7BHyJGko&list=PLNfg4W25Tapy5hIBmFZgT5coii1HUX6BD) - 홍정모
+
+
+### Flutter
+
+* [Flutter 강좌 순한맛](https://www.youtube.com/playlist?list=PLQt_pzi-LLfpcRFhWMywTePfZ2aPapvyl) - 코딩셰프
+* [Flutter 입문](https://www.youtube.com/playlist?list=PLxTmPHxRH3VUueVvEnrP8qxHAP5x9XAPv) - 오준석의 생존코딩
+* [Flutter 중급](https://www.youtube.com/playlist?list=PLxTmPHxRH3VWLY-eyQuV1C_IbIQlCXEhe) - 오준석의 생존코딩
 
 
 ### Git
 
-* [깃허브 치트 시트](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ko.md) - Tim Green, `trl.:` marocchino, `trl.:` Chayoung You, `trl.:` Will 保哥 (HTML)
-* [Git - 간편 안내서](https://rogerdudler.github.io/git-guide/index.ko.html) - Roger Dudler, `trl.:` Juntai Park, `trl.:` Ardie Hwang (HTML)
-* [Pro Git 한글 번역](https://git-scm.com/book/ko/) - Scott Chacon, Ben Straub, `trl.:` Sean Lee, `trl.:` Seonghwan Lee, `trl.:` Sungmann Cho, `trl.:` Junyeong Yim, et al. (HTML, PDF, EPUB) *(최신 버전)*
+* [GIT1](https://www.opentutorials.org/course/3837) - 생활코딩
 
 
 ### Go
 
-* [가장 빨리 만나는 Go 언어](http://www.pyrasis.com/private/2015/06/01/publish-go-for-the-really-impatient-book)
-* [효과적인 Go 프로그래밍](https://gosudaweb.gitbooks.io/effective-go-in-korean/content/)
-* [Go 문서 한글 번역](https://github.com/golang-kr/golang-doc/wiki)
-* [Go 언어 웹 프로그래밍 철저 입문](https://thebook.io/006806/)
-* [The Little Go Book. 리틀 고 책입니다](https://github.com/byounghoonkim/the-little-go-book/) - Karl Seguin, `trl.:` Byounghoon Kim ([HTML](https://github.com/byounghoonkim/the-little-go-book/blob/master/ko/go.md))
-* [The Ultimate Go Study Guide 한글 번역](https://github.com/ultimate-go-korean/translation)
+* [쉽고 빠른 Go 시작하기](https://nomadcoders.co/go-for-beginners) - Nicolás Serrano Arévalo (Nomad Coders) (email address *required*)
+* [컴맹을 위한 프로그래밍 기초 강좌](https://www.youtube.com/playlist?list=PLy-g2fnSzUTAaDcLW7hpq0e8Jlt7Zfgd6)
 
 
-### HTML and CSS
+### Haskell
 
-* [HTML5, CSS and JavaScript](http://fromyou.tistory.com/581)
+* [하스켈 프로그래밍: 프로그래밍과 유형 이론(Type Theory)](https://www.youtube.com/playlist?list=PL5aSjzJqCaPaoi8yC2w549FsVgvXW5xFW) - Gyesik Lee «liga nega»
+
+
+### Introduction
+
+* [컴퓨터 프로그래밍](http://www.kocw.net/home/search/kemView.do?kemId=1322410)
+* [컴퓨터공학 입문](http://www.kocw.net/home/search/kemView.do?kemId=1323143)
+
+
+### iOS
+
+* [iPhone 프로그래밍](https://www.youtube.com/playlist?list=PL9mhQYIlKEhdQ8viJACIwxIcUiXU2lMLX) (T 아카데미)
 
 
 ### Java
 
-* [점프 투 자바](https://wikidocs.net/book/31) - 박응용
+* [Do it! Java 프로그래밍 입문](https://www.youtube.com/playlist?list=PLG7te9eYUi7typZrH4fqXvs4E22ZFn1Nj)
+* [Java 기초 프로그래밍 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdBjfCADjCc41aD4G0bmdl4R)
+* [Java 리듬게임 만들기 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdDySO3wDqMYGKMVH4Qa4QhR)
+* [Java 입문수업](https://www.opentutorials.org/course/3930) (생활코딩)
+* [Java with 인크레파스](https://www.youtube.com/playlist?list=PLa4r6B21Ny5ld_PTqzzqDMxxoj7l0z7Xp)
 
 
 ### JavaScript
 
-* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ko)
-* [JavaScript로 만나는 세상](https://helloworldjavascript.net)
+* [JavaScript 입문 수업](https://www.youtube.com/playlist?list=PLuHgQVnccGMA4uSig3hCjl7wTDeyIeZVU) (생활코딩)
+* [JavaScript for Web Browser](https://www.youtube.com/playlist?list=PLuHgQVnccGMDTAQ0S_FYxXOi1ZJz4ikaX) (생활코딩)
 
 
-#### Node.js
+#### AngularJS
 
-* [Node.js API 한글 번역](http://nodejs.sideeffect.kr/docs/) - outsideris
-
-
-#### React
-
-* [리액트를 다루는 기술 [개정판]](https://thebook.io/080203) - 김민준
+* [AngularJS](https://www.youtube.com/playlist?list=PLs_XsVQJKaBk_JN5RctLmmVrGwEzpzqaj) - 양재동 코드랩
 
 
-#### Webpack
+#### React.js
 
-* [Webpack 문서 한글 번역](https://webpack.kr/concepts/) - Tobias Koppers, Sean Larkin, Johannes Ewald, LINE Corp, Dongkyun Yoo, et al.
+* [React.js 강좌](https://www.youtube.com/playlist?list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC)
+* [React.js 이론부터 실전까지](https://www.youtube.com/playlist?list=PLRx0vPvlEmdCED62ZIWCbI-6G_jcwmuFB)
 
 
-### LaTeX
+### Kotlin
 
-* [The Not So short Introduction to LaTeX 2ε](https://ctan.org/tex-archive/info/lshort/korean)
+* [안드로이드 코틀린 기초 강좌](https://www.youtube.com/playlist?list=PLva6rQOdsvQU7QJIg2RHM9wcT11X1S0pj) - 센치한 개발자
 
 
 ### Linux
 
-* [리눅스 서버를 다루는 기술](https://web.archive.org/web/20220107111504/https://thebook.io/006718/) *(:card_file_box: archived)*
-* [GNOME 배우기](https://sites.google.com/site/gnomekr/home/learning_gnome)
+* [리눅스 및 커널 프로그래밍](http://www.kocw.net/home/search/kemView.do?kemId=1266434) (금오공대 최태영)
+
+
+### Machine Learning
+
+* [머신러닝/딥러닝 입문 youtube playlist](https://www.youtube.com/playlist?list=PLBXuLgInP-5m_vn9ycXHRl7hlsd1huqmS) - 윤인성
+* [모두를 위한 머신러닝/딥러닝 강의](https://hunkim.github.io/ml/) - Sung Kim
+* [파이토치(PyTorch) 튜토리얼 한국어 번역](https://tutorials.pytorch.kr) (HTML) (:construction: *in process* - *번역 진행 중*)
+* [파이토치로 시작하는 딥러닝 기초](https://www.boostcourse.org/ai214) - boostcourse
+* [Python tensorflow & 머신러닝 기초 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdAbnmLH9yh03cw9UQU_o7PO) (동빈나)
 
 
 ### Mathematics
 
-* [기초정수론: 계산과 법연산, 그리고 비밀통신을 강조한](https://wstein.org/ent/ent_ko.pdf) - William Stein (PDF)
+* [수치해석](http://www.kocw.net/home/search/kemView.do?kemId=1297704) (국민대 김상철)
+* [수치해석 강의 동영상](https://youtube.com/playlist?list=PLczEhXyH_pUfKl9SPn-9j3K7olfBj5cpl) - 내가 이해한 기계공학 (WIU of Mech)
+* [전산수학1](http://www.kocw.net/home/search/kemView.do?kemId=1296081) (고려대 주재걸)
 
 
-### OpenStack
+### MySQL
 
-* [오픈스택을 다루는 기술](https://thebook.io/006881) - 장현정 (HTML)
+* [DATABASE2-MySQL](https://www.youtube.com/playlist?list=PLuHgQVnccGMCgrP_9HL3dAcvdt8qOZxjW) (생활코딩)
+
+
+### Network
+
+* [컴퓨터 네트워크](http://www.kocw.net/home/search/kemView.do?kemId=1319674) (부산대 김종덕)
+* [컴퓨터 네트워크](http://www.kocw.net/home/search/kemView.do?kemId=1312397) (한양대 이석복)
 
 
 ### Operation System
 
-* [운영체제: 아주 쉬운 세 가지 이야기](https://github.com/remzi-arpacidusseau/ostep-translations/tree/master/korean) - Remzi Arpacidusseau (PDF)
-
-
-### Perl
-
-* [2시간 반만에 펄 익히기](http://qntm.org/files/perl/perl_kr.html)
-* [Perl 객체지향프로그래밍(OOP)](https://github.com/aero/perl_docs/blob/master/hatena_perl_oop.md) : Hatena-TextBook의 oop-for-perl 문서 한역 by aero
-* [Seoul.pm 펄 크리스마스 달력 #2014 \| Seoul.pm Perl Advent Calendar 2014](http://advent.perl.kr/2014/)
+* [운영체제](http://ocw.kookmin.ac.kr/?course=15329) (국민대 이시윤)
+* [운영체제](http://www.kocw.net/home/search/kemView.do?kemId=1194929) (고려대 최린)
+* [운영체제론](http://socw.skku.edu/Lectures/Regular/Detail.do) (성균관대 엄영익)
 
 
 ### PHP
 
-* [PHP5 의 주요 기능](https://www.lesstif.com/pages/viewpage.action?pageId=24445740)
-
-
-#### Laravel
-
-* [라라벨 (Laravel) 5 입문 및 실전 강좌](https://github.com/appkr/l5essential)
-* [쉽게 배우는 라라벨 5 프로그래밍](https://www.lesstif.com/display/laravelprog)
+* [PHP](https://youtube.com/playlist?list=PLuHgQVnccGMDzq8zAwEY5lvwDWXWTZjB6) - 생활코딩
+* [PHP 프로그래밍](https://www.youtube.com/playlist?list=PLYNsYgev6U96jzS7AjBn5p7i_owJHqfyW)
 
 
 ### Python
 
-* [내가 파이썬을 배우는 방법](https://wikidocs.net/7839)
-* [모두의 파이썬: 20일 만에 배우는 프로그래밍 기초](https://thebook.io/007026)
-* [실용 파이썬 프로그래밍: 프로그래밍 유경험자를 위한 강좌](https://wikidocs.net/book/4673) - 최용
-* [왕초보를 위한 Python 2.7](https://wikidocs.net/book/2)
-* [점프 투 파이썬 - Python 3](https://wikidocs.net/book/1)
-* [중급 파이썬: 파이썬 팁들](https://ddanggle.gitbooks.io/interpy-kr/content/)
-* [파이썬 라이브러리](https://wikidocs.net/book/5445) - 박응용
-* [파이썬 코딩 도장](https://pyrasis.com/python.html) - 남재윤
-* [파이썬 헤엄치기](https://wikidocs.net/book/5148) - 해달 프로그래밍
-* [파이썬을 여행하는 히치하이커를 위한 안내서!](https://python-guide-kr.readthedocs.io/ko/latest/)
-* [파이썬을 이용한 비트코인 자동매매](https://wikidocs.net/book/1665) - 조대표
-* [A Byte of Python 한글 번역](http://byteofpython-korean.sourceforge.net/byte_of_python.pdf) - Jeongbin Park (PDF)
-* [PyQt5 Tutorial - 파이썬으로 만드는 나만의 GUI 프로그램](https://wikidocs.net/book/2165) - Dardao (HTML)
+* [파이썬 코딩 도장](https://dojang.io/course/view.php?id=7)
+* [MOOC: Python](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz)
+* [Python 입문자용 초급](https://www.youtube.com/playlist?list=PLRx0vPvlEmdD8u2rzxmQ-L97jHTHiiDdy)
 
 
 #### Django
 
-* [장고걸스 튜토리얼 (Django Girls Tutorial)](https://tutorial.djangogirls.org/ko/) (1.11) (HTML) (:construction: *in process*)
-* [점프 투 장고](https://wikidocs.net/book/4223) - 박응용
+* [Python Django Web Framework](https://youtube.com/playlist?list=PLuHgQVnccGMDLp4GH-rgQhVKqqZawlNwG) - 생활코딩
 
 
 #### Flask
 
-* [점프 투 플라스크](https://wikidocs.net/book/4542) - 박응용
-* [Flask의 세계에 오신것을 환영합니다.](https://flask-docs-kr.readthedocs.io/ko/latest/) (HTML)
-
-
-### R
-
-* [R을 이용한 데이터 처리 & 분석 실무](http://r4pda.co.kr) - 서민구 (HTML, PDF - 이전 버젼)
-* [The R Manuals (translated in Korean)](http://www.openstatistics.net)
+* [Python Flask Web Framework](https://youtube.com/playlist?list=PLuHgQVnccGMClNOIuT3b3M4YZjxmult2y) - 생활코딩
 
 
 ### Raspberry Pi
 
-* [라즈베리 파이 문서](https://wikidocs.net/book/483)
+* [라즈베리 파이](https://www.youtube.com/playlist?list=PL0Vl139pNHbc0ypjIuxUJuK-IPld0YmLO)
+
+
+### Reinforced Learning
+
+* [모두를 위한 RL 강좌](https://www.youtube.com/playlist?list=PLlMkM4tgfjnKsCWav-Z2F-MMFRx-2gMGG)
 
 
 ### Ruby
 
-* [루비 스타일 가이드](https://github.com/dalzony/ruby-style-guide/blob/master/README-koKR.md)
+* [Python & Ruby](https://www.opentutorials.org/course/1750) (생활코딩)
+* [Ruby coin](https://www.youtube.com/playlist?list=PLEBQPmkNcLCIE9ERi4k_nUkGgJoBizx6s)
 
 
-### Rust
+### Security
 
-* [러스트 프로그래밍 언어](https://rinthel.github.io/rust-lang-book-ko/) - 스티브 클라브닉, 캐롤 니콜스 (HTML) (:construction: *in process*)
-* [Rust by Example](https://hanbum.gitbooks.io/rustbyexample/content/) (:construction: *in process*)
-
-
-### Scratch
-
-* [창의컴퓨팅(Creative Computing) 가이드북](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?barcode=480150000247P)
+* [시스템 해킹 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdAXwJnNtKIVeC27UmwljRYA)
+* [안드로이드 앱 취약점 분석](https://www.youtube.com/playlist?list=PL1jdJcP6uQtvSGi1tH0Nekww8JTmgbdjh)
+* [칼리리눅스 완벽 활용](https://www.youtube.com/playlist?list=PL1jdJcP6uQtt0N0cZsuaXOk8mOJcp3poU)
+* [화이트해커를 위한 ARP 스푸핑 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdBCJ68hRavPf4cJNYVsOcXs)
 
 
-### Sed
+### Spring
 
-* [sed stream editor](https://mug896.github.io/sed-stream-editor)
-
-
-### Software Engineering
-
-* [유의적 버전 명세 2.0.0-ko2](https://semver.org/lang/ko/) - Tom Preston-Werner, 김대현, et al.
+* [스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8) (김영한)
 
 
-### Springboot
+### Swift
 
-* [Springboot 2.X 정리](https://djunnni.gitbook.io/springboot) - 이동준
-
-
-### TypeScript
-
-* [5분 안에 보는 타입스크립트](https://typescript-kr.github.io)
-* [타입스크립트 핸드북](https://joshua1988.github.io/ts) - Captain Pangyo
-* [한눈에 보는 타입스크립트](https://heropy.blog/2020/01/27/typescript) - HEROPY
-Tech
-* [TypeScript Deep Dive](https://radlohead.gitbook.io/typescript-deep-dive)
+* [Swift 프로그래밍](https://www.youtube.com/playlist?list=PL9mhQYIlKEheAkAxX53qlTjjWK93Xd2pf) (T 아카데미)
 
 
-### Unicode
+### Unreal Engine
 
-* [번역 Unicode 이모티콘에 얽힌 이것저것 (이모티콘 표준과 프로그래밍 핸들링)](http://pluu.github.io/blog/android/2020/01/11/unicode-emoji/)
+* [실전 게임 제작으로 배우는 언리얼엔진](https://www.youtube.com/playlist?list=PL9kzervdzKxyTPMBHt26wkaAvCv6JkHQV)
 
 
-### Unity3d
+### Web Development
 
-* [번역 Unity Graphics Programming Series](https://github.com/IndieVisualLab/UnityGraphicsProgrammingSeries) - [Indie Visual Lab](https://github.com/IndieVisualLab)
+* [웹 프로그래밍](http://www.kocw.net/home/search/kemView.do?kemId=1323070)
+* [HTML5&CSS3 기초](https://www.youtube.com/playlist?list=PL9mhQYIlKEhdTdvqzohqVs3RTVHzWPu79) (T 아카데미)
+* [Web1-HTML](https://www.opentutorials.org/course/3084) (생활코딩)
+* [Web2-CSS](https://www.opentutorials.org/course/3086) (생활코딩)
+* [Web2-Domain name system](https://www.opentutorials.org/course/3276) (생활코딩)
+* [Web2-Home server](https://www.opentutorials.org/course/3265) (생활코딩)
+* [Web2-JavaScript](https://www.opentutorials.org/course/3085) (생활코딩)
+* [Web2-nodejs](https://www.opentutorials.org/course/3332) (생활코딩)
+* [Web2-PHP](https://www.opentutorials.org/course/3130) (생활코딩)
+* [Web2-Python](https://www.opentutorials.org/course/3256) (생활코딩)
+* [Web3-PHP & MySQL](https://www.youtube.com/playlist?list=PLuHgQVnccGMA5836CvWfieEQy0T0ov6Jh) (생활코딩)
+
+
+### WebRTC
+
+* [줌 클론코딩](https://nomadcoders.co/noom) - Nicolás Serrano Arévalo (Nomad Coders) (email address *required*)
+
+
+### Windows
+
+* [뇌를 자극하는 윈도우즈 시스템 프로그래밍](https://www.youtube.com/playlist?list=PLVsNizTWUw7E2KrfnsyEjTqo-6uKiQoxc)

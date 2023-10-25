@@ -125,6 +125,7 @@
 * [HDU Online Judge](http://acm.hdu.edu.cn)
 * [Interactive Coding Challenge](https://github.com/donnemartin/interactive-coding-challenges)
 * [InterviewBit](https://www.interviewbit.com)
+* [IndiaBix](https://www.indiabix.com/)
 * [Kattis](https://open.kattis.com)
 * [Mathproblem of the Month - Bilkent University](http://www.fen.bilkent.edu.tr/~cvmath/prob-month.html)
 * [PEG Judge](http://wcipeg.com)

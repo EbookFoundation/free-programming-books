@@ -690,8 +690,8 @@
 
 ### Swift
 
-* [Swift Programming For IOS From Scratch](https://youtube.com/playlist?list=PLtCBuHKmdxOd9kxsru5t_MFvDj5o5GdDl) - Fahad Hussain
 * [Swift Programming For Beginners In Hindi](https://www.youtube.com/playlist?list=PL3IxLTWfZ7Y1zM3EejYkcq4I86K3eloCb) - BuildWithShubham
+* [Swift Programming For IOS From Scratch](https://youtube.com/playlist?list=PLtCBuHKmdxOd9kxsru5t_MFvDj5o5GdDl) - Fahad Hussain
 * [Swift Programming Hindi Tutorial For Beginners](https://www.youtube.com/playlist?list=PLb5R4QC2DtFv3MvfG42Cd5La34Hwj4pY6) - Code Cat
 * [Swift Tutorials For Beginners(Full) in Hindi.](https://www.youtube.com/playlist?list=PLWZIhpNhtvfqBd00bF3ouroGHMPe-iroO) - Yogesh Patel
 

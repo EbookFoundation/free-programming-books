@@ -51,7 +51,7 @@
 * [JavaScript](#javascript)
     * [Angular](#angular)
         * [AngularJS](#angularjs)
-        * [Astro](#astro)
+    * [Astro](#astro)
     * [D3.js](#d3js)
     * [Deno](#deno)
     * [Electron](#electron)

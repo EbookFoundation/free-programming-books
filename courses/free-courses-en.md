@@ -1230,6 +1230,7 @@
 * [Stanford University Machine Learning](https://www.coursera.org/learn/machine-learning)
 * [Statistics for Applications](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/) - MIT OpenCourseWare
 * [Understand Machine Learning Engineering by Building Projects](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp) - Alexey Grigorev
+* [Machine Learning for Engineering and Science Applications](https://nptel.ac.in/courses/106106198) - Prof. Balaji Srinivasan, Prof. Ganapathy (IIT Madras)
 
 
 ### Markdown

@@ -390,6 +390,7 @@
 ### Cloud Computing
 
 * [A Practical Introduction to Cloud Computing](https://www.udemy.com/course/introduction-cloud-computing/) - Neil Anderson
+* [Cloud Computing (CC)](https://www.youtube.com/playlist?list=PLROvODCYkEM8xUk8R2T79KbZ7YfCXMbZS) - OU Education
 * [Cloud Computing and Development](https://uaceit.com/courses/cloud-computing-and-development) - Ashwin Kumar Ramaswamy (UAceIt) (email address *required*)
 * [Cloud Computing Full Course In 11 Hours \| Cloud Computing Tutorial For Beginners](https://www.youtube.com/watch?v=2LaAJq1lB1Q) - Edureka!
 * [Cloud Computing Tutorial For Beginners - 2023 Updated](https://youtube.com/playlist?list=PLEiEAq2VkUUIJ3o1tehvtux0_Ynf42CBN) - Simplilearn
@@ -434,6 +435,7 @@
 ### Computer Organization and Architecture
 
 * [Advanced Computer Architecture](https://www.youtube.com/playlist?list=PL1iLu2CSC9EWZMIh4_V5dGroMAwA84Lmz) - Smruti R. Sarangi
+* [Computer Organization & Architecture](https://www.youtube.com/playlist?list=PLgwJf8NK-2e7XZXcFujMw--IDZ2nnsXNT) - Engineering Funda
 * [Computer Organization & Architecture (COA)](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgLLlzdgiTUKULKJPYc0A4q) - Neso Academy
 
 
@@ -1032,8 +1034,10 @@
 * [Full Modern React Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d) - The Net Ninja (with practical)
 * [Full-Stack Web Development with React Specialization](https://www.coursera.org/specializations/full-stack-react) - Jogesh K. Muppala (Coursera)
 * [Full Stack with React and Appwrite](https://egghead.io/playlists/full-stack-with-react-and-appwrite-e1e46f61) - Colby Fayock (Egghead.io)
+* [Introduction to React](https://fullstackopen.com/en/part1/introduction_to_react) - Full Stack open
 * [Learn React + Redux](https://www.sololearn.com/learning/1097) - *registration required*
 * [Learn React for Free](https://scrimba.com/learn/learnreact) - Bob Ziroll (scrimba)
+* [Learn React Router 6](https://scrimba.com/learn/reactrouter6) - Bob Ziroll (scrimba)
 * [Learn ReactJS](https://www.codecademy.com/learn/react-101) - Codecademy
 * [React](https://progate.com/languages/react) (progate) *(account required)*
 * [React basic in just 1 hour](https://www.udemy.com/course/react-basic-in-just-1-hour/) (Udemy)
@@ -1276,6 +1280,7 @@
 * [Computer Networking Course](https://www.youtube.com/watch?v=qiQR5rTSshw) - Brian Farrell (FreeCodeCamp.org)
 * [Computer Networking Full Course - OSI Model Deep Dive with Real Life Examples](https://www.youtube.com/watch?v=IPvYjXCsTg8) - Kunal Kushwaha
 * [Computer Networks 5e](https://media.pearsoncmg.com/ph/streaming/esm/tanenbaum5e_videonotes/tanenbaum_videoNotes.html) - Andrew Tanenbaum, David Wetherall (Pearson)
+* [Free CCNA 200-301 // Complete Course // NetworkChuck 2023](https://www.youtube.com/playlist?list=PLIhvC56v63IJVXv0GJcl9vO5Z6znCVb1P) - NetworkChuck
 
 
 ### Objective-C
@@ -1525,9 +1530,11 @@
 * [Ethical hacking with Hak5 devices](https://www.udemy.com/course/ethical-hacking-with-hak5-devices) - David Bombal (Udemy)
 * [Foundations of Hacking and Pentesting Android Apps](https://www.udemy.com/course/foundations-of-hacking-and-pentesting-android-apps) - Scott Cosentino (Udemy)
 * [Full Length Hacking Courses](https://youtube.com/playlist?list=PLLKT__MCUeixqHJ1TRqrHsEd6_EdEvo47) - The Cyber Mentor
+* [Hacker Skills // OSINT (Information Gathering)](https://www.youtube.com/playlist?list=PLIhvC56v63IJ9SYBtdDsNnORfTNFCXR8_) - NetworkChuck
 * [Introduction to Dark Web, Anonymity and Cryptocurrency](https://www.udemy.com/course/introduction-to-dark-web-anonymity-and-cryptocurrency) - Rajneesh Gupta (Udemy)
 * [Introduction to Information Security](https://www.udacity.com/course/intro-to-information-security--ud459) - Wenke Lee, Mustaque Ahamad, Catherine Gamboa (Udacity)
 * [Learn Ethical Haacking From Scratch](https://www.udemy.com/course/learn-ethical-haacking-from-scratch) - Uzma Aslam (Udemy)
+* [Learn Ethical Hacking (CEH Journey)](https://www.youtube.com/playlist?list=PLIhvC56v63IIJZRa3lzK6IeBQOH_VFjUQ) - NetworkChuck
 * [Linux for Hackers and Pentesters](https://www.udemy.com/course/linux-for-hackers-and-pentesters) - Rajneesh Gupta (Udemy)
 * [Modern Binary Exploitation](https://github.com/RPISEC/MBE) - RPISEC
 * [MOOC Introduction to Cyber Security 2023](https://cybersecuritybase.mooc.fi) - University of Helsinki

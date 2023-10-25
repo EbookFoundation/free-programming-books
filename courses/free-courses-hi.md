@@ -484,9 +484,10 @@
 
 #### Vue.js
 
-* [latest vue js 3 tutorial for begineers in hindi](https://www.youtube.com/playlist?list=PLfxALjnZodruGEvbM8zTdnPMrQ5wHMmw8) - Wap Institute
+* [Latest vue js 3 tutorial for beginners in hindi](https://www.youtube.com/playlist?list=PLfxALjnZodruGEvbM8zTdnPMrQ5wHMmw8) - Wap Institute
 * [Vue js tutorial in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV45qwTH-mdzllUuFRJO-euYn) - Code Step By Step
 * [Vue JS Tutorials in Hindi](https://www.youtube.com/playlist?list=PLbGui_ZYuhih5ItBhn2cTncaS24_Kgeui) - Rajesh Kumar, Geeky Shows
+
 
 ### Kotlin
 

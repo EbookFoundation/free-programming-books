@@ -1329,6 +1329,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 * [30 days of React: An introduction to React in 30 bite-size morsels](https://www.newline.co/fullstack-react/assets/media/sGEMe/MNzue/30-days-of-react-ebook-fullstackio.pdf) - Ari Lerner (PDF)
 * [Airbnb React/JSX Style Guide](https://airbnb.io/javascript/react/) - Airbnb
+* [Beginning ReactJS Foundations Building User Interfaces with ReactJS: An Approachable Guide](https://dl.ebooksworld.ir/books/Beginning.ReactJS.Foundations.Chris.Minnick.Wiley.9781119685548.EBooksWorld.ir.pdf) - Chris Minnick (PDF)
 * [Essential React](https://www.programming-books.io/essential/react/) - Krzysztof Kowalczyk, StackOverflow Contributors
 * [Hacking with React](http://www.hackingwithreact.com)
 * [Hands on React](https://handsonreact.com/docs/) - Craig Mckeachie

@@ -867,8 +867,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Knowledge Graphs: Data in Context for Responsive Businesses](https://neo4j.com/knowledge-graphs-data-in-context-for-responsive-businesses/) - Jesús Barrasa, Amy E. Hodler, Jim Webber (PDF) *(email requested)*
 
 
-
-
 ### Groovy
 
 #### Gradle

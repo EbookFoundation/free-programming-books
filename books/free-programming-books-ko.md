@@ -69,7 +69,6 @@
 
 * [이재홍의 언제나 최신 Docker](http://www.pyrasis.com/jHLsAlwaysUpToDateDocker)
 
-
 ### Elastic
 
 * [Elastic 가이드북](https://esbook.kimjmin.net) - 김종민
@@ -237,9 +236,6 @@
 
 * [Springboot 2.X 정리](https://djunnni.gitbook.io/springboot) - 이동준
 
-### SQL
-
-* [생애 첫 SQL With 제코베](https://www.inflearn.com/course/sql-%EA%B8%B0%EC%B4%88-%EC%A0%9C%EC%A3%BC%EC%BD%94%EB%94%A9%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%BA%A0%ED%94%84) - 이호준
 
 ### TypeScript
 

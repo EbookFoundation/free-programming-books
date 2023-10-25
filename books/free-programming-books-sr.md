@@ -17,7 +17,7 @@
 ### C++
 
 * [Programski jezik C++ sa rešenim zadacima (2010)](https://singipedia.singidunum.ac.rs/izdanje/40777-programski-jezik-c-sa-resenim-zadacima) -  Ranko Popović, Zona Kostić, Univerzitet Singidunum (PDF)
-  
+
 
 ### CSS
 

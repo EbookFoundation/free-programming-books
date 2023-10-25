@@ -267,6 +267,7 @@
 * [Coder Radio](https://coder.show) - Chris Fisher, Michael Dominick, Wes Payne (podcast)
 * [Coding Blocks](https://www.codingblocks.net) - Michael Outlaw, Joe Zack, Allen Underwood (podcast)
 * [Command Line Heroes](https://www.redhat.com/en/command-line-heroes) - Saron Yitbarek, Red Hat (podcast)
+* [Compiler](https://www.redhat.com/en/compiler-podcast) - Angela Andrews, Brent Simoneaux, Red Hat (podcast)
 * [CTRL+CLICK CAST](https://ctrlclickcast.com) - Lea Alcantara, Emily Lewis, Bright Umbrella (podcast)
 * [Darknet Diaries](https://darknetdiaries.com) - Jack Rhysider, Fiona Guy, Leah Hurvoloy, et al. (podcast)
 * [DevDiscuss](https://dev.to/devdiscuss) - DEV (podcast)

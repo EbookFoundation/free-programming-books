@@ -86,10 +86,12 @@
 * [১ ভিডিওতে ডার্ট শিখুন !](https://www.youtube.com/watch?v=_8Q5cwfvi64) - Rabbil Hasan
 * [Dart All You Need To Know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVC2-nXUrvpcQEz3FgCSIQHT) - Stack Learner
 * [Dart Bangla Tutorial](https://www.youtube.com/playlist?list=PLbC4KRSNcMnpQarCowZvUJOf4VhiJllX5) - Learn Hunter
+* [Dart Bangla Tutorial](https://www.youtube.com/playlist?list=PLy0nhnjSE4irkzR9mbo70J2iKbf4a36y5) - Afran Sarkar
 
 
 ### Docker
 
+* [Docker and Kubernetes - 2022](https://www.youtube.com/playlist?list=PLzOdtYcAxAiM4_XQrzRmofBJ_ImFkSojg) - CSLCBT Bangla
 * [Docker Tutorial](https://www.youtube.com/playlist?list=PLSNRR4BKcowAuPUEja_ZZUE5Szn1rx90f) - Procoder BD
 * [Docker Tutorial Course](https://www.youtube.com/playlist?list=PLEYpvDF6qy8Yo9SpzhniLCjgRIxCpo2ku) - Foyzul Karim
 
@@ -194,6 +196,8 @@
 
 ### Linux
 
+* [Kali Linux Basics Full Course In Bangla By Mehedi Shakeel](https://www.youtube.com/playlist?list=PL-8coCSOYV9F_tVxJSX1tzNram6PH0K4O) - Mehedi Shakeel
+* [Linux Essentials Full course](https://www.youtube.com/playlist?list=PLzOdtYcAxAiOzVwsu7diaDMJiWlbDPiTb) - CSLCBT Bangla
 * [Ubuntu Linux Bangla Tutorial 2021](https://www.youtube.com/playlist?list=PLKdU0fuY4OFfxTxJduexCuF7nRp5ioOgw) - STUDY MART
 
 
@@ -234,6 +238,7 @@
 
 ### Kotlin
 
+* [Android Development with Kotlin - Bangla](https://www.youtube.com/playlist?list=PLdHSoHQhVWlOmjBoSXSdJl3CrqBOKIrLp) - MKH Russell
 * [Chapter 1 : Kotlin Basic Concepts Bangla](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDpRWRnXPWZcWIvz0JbeQe5) - Stack Learner
 * [Kotlin For Android - Bangla](https://www.youtube.com/playlist?list=PLgyuGbgggWA3ORqemnq9adIzvNhSXjJTr) - Touhid Apps!
 
@@ -280,12 +285,18 @@
 * [Python Bangla Tutorial & Data Science Full Course](https://www.youtube.com/playlist?list=PLmZYUigljiyc-tf7oMmM-s832ibhGxTpT) - Study Mart
 * [Python Bangla Tutorial 2023](https://www.youtube.com/playlist?list=PLNMnAEqLBwmpR8JDBOEl0jrzmH1vPnO7v) - Hablu Programmer
 * [Python Bangla Tutorials for Beginners](https://www.youtube.com/playlist?list=PLgH5QX0i9K3rz5XqMsTk41_j15_6682BN) - Anisul Islam
+* [Python For Beginners - Bangla Tutorials](https://www.youtube.com/playlist?list=PLvr0Ht-XkB_0V-mjAYlfgk-3VRmFarlzC) - Learn With Tawhid
+* [Python Full Course Bangla (Learn Python A - Z)](https://www.youtube.com/playlist?list=PLF-F70WLa6yP0gIAowyaluE85ZBBMB6en) - Artificial Neuron
 * [Python tutorials by Zulkarnine](https://www.youtube.com/playlist?list=PLV3rqOvr9vgkW7U-kdxtUBx74ICpw94k8) - Zulkarnine Mahmud
 
 
 #### Django
 
+* [60 Days of Django - Bangla Tutorial](https://www.youtube.com/playlist?list=PLrbhZ2o2oUzRPc7KvvQySBmrXtg6HmNp5) - Abu Noman Basar
 * [Django Bangla Tutorial](https://www.youtube.com/playlist?list=PLbC4KRSNcMnqUp_v1nxbQaoImTN3kWS_V) - Learn Hunter
+* [Django Bangla Tutorial \| পাইথন জ্যাঙ্গো বাংলা \| Django full course \| 2022](https://www.youtube.com/playlist?list=PL-83IWJl8Qht1OmhiEnRw8H8ieKAjucNN) - Nongare Hi-Tech
+* [Python Django & RestAPI Bangla Tutorial](https://www.youtube.com/playlist?list=PLKdU0fuY4OFfo3VgywUFoAUY7Udi3_6V6) - Study Mart
+* [Python DJango Bangla (বাংলা) tutorial](https://www.youtube.com/playlist?list=PL4NIq30KvXLDf3a3DQXZyGv_BNYRYTXJS) - Tech Solutions In Bangla
 
 
 #### Flask 

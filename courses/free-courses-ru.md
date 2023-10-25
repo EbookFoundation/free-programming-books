@@ -57,9 +57,9 @@ ADV - Продвинутый. Тонкости.
 
 ### Go
 
+* [Основы Go](https://ru.hexlet.io/courses/go-basics) - Hexlet (BEG)
 * [Программирование на Golang](https://stepik.org/course/54403) - Stepik (BEG)
 * [Go (Golang) - первое знакомство](https://stepik.org/course/100208) - Stepik (BEG)
-* [Основы Go](https://ru.hexlet.io/courses/go-basics) - Hexlet (BEG)
 
 
 ### Haskell
@@ -148,6 +148,7 @@ ADV - Продвинутый. Тонкости.
 * [Автоматизация тестирования с помощью Selenium и Python](https://stepik.org/course/575) - Stepik (INT)
 * [Добрый, добрый Python - обучающий курс от Сергея Балакирева](https://stepik.org/course/100707) - Сергей Балакирев (Stepik) (BEG)
 * [Основы программирования на Python](https://www.coursera.org/learn/python-osnovy-programmirovaniya) - Coursera (BEG)
+* [Основы Python](https://ru.hexlet.io/courses/python-basics) - Hexlet (BEG)
 * [Питонтьютор: Бесплатный курс по программированию с нуля](https://pythontutor.ru) - Виталий Павленко, Владимир Соломатин, Д. П. Кириенко, команда Pythontutor (BEG)
 * ["Поколение Python": курс для начинающих](https://stepik.org/course/58852) - Тимур Гуев, Руслан Чаниев, Анри Табуев (Stepik) (BEG)
 * ["Поколение Python": курс для продвинутых](https://stepik.org/course/68343) - Тимур Гуев, Руслан Чаниев, Благотворительный фонд "Айкью Опшн" (Stepik) (INT)
@@ -156,7 +157,6 @@ ADV - Продвинутый. Тонкости.
 * [Python для начинающих](https://ru.code-basics.com/languages/python) (BEG)
 * [Python для тех, у кого лапки](https://stepik.org/course/85388) - Мария Чакчурина, Дмитрий Колосов (Stepik) (INT)
 * [Python: основы и применение](https://stepik.org/course/512) - Константин Зайцев, Антон Гардер (Stepik) (INT)
-* [Основы Python](https://ru.hexlet.io/courses/python-basics) - Hexlet (BEG)
 
 
 ### R

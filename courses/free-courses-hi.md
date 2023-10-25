@@ -67,8 +67,8 @@
 * [Swift](#swift)
 * [System Design](#system-design)
 * [TypeScript](#typescript)
-* [WordPress](#wordpress)
 * [WebPack](#webpack)
+* [WordPress](#wordpress)
 
 
 ### Algorithms

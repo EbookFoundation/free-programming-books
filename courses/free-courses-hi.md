@@ -396,7 +396,6 @@
 * [Java Tutorial](https://youtube.com/playlist?list=PLX9Zi6XTqOKQ7TdRz0QynGIKuMV9Q2H8E) - Saurabh Shukla Sir
 * [Java Tutorials for Beginners](https://www.youtube.com/playlist?list=PLlhM4lkb2sEhfuXL-2BDrJ67WkUdQ2v9b) - Deepak Panwar, Smart Programming
 * [Java Tutorials For Beginners In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q) - CodeWithHarry
-* [Java Zero to FAANG](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&si=zdlntm5D0ukLvUwA) - Kunal Kushwaha
 * [Microservice Tutorial in Hindi 2023](https://www.youtube.com/playlist?list=PL0zysOflRCelb2Y4WOVckFC6B050BzV0D) - Learn Code With Durgesh
 * [Spring Framework Tutorial with SpringBoot  in Hindi Complete Course](https://www.youtube.com/playlist?list=PLiOIhBfKi8AIYNWEjYy1zZFe1N8GvPRHR) - CoderX Ankit
 
@@ -433,7 +432,7 @@
 * [jQuery Tutorials in Hindi / Urdu](https://www.youtube.com/playlist?list=PL0b6OzIxLPbzSyiC0PFaqeabe1aGhfrbW) - Yahoo Baba
 * [jQuery Tutorials in Hindi 2018](https://youtube.com/playlist?list=PLwGdqUZWnOp0X4dVwSsEd6dV49TLLCooI) - Vinod Bahadur Thapa (Thapa Technical)
 * [jQuery Video Course](https://www.youtube.com/playlist?list=PLPAcs2twrK5_FzWMttkbTuM0dB5A-ni-Q) - w3webschool.net
-* [jQuery Zero to Advance](https://youtu.be/YFlx1C8XwR0?si=EUxv49jO_iZ3EcWX) - CodeWithHarry
+* [jQuery Zero to Advance](https://www.youtube.com/watch?v=YFlx1C8XwR0) - CodeWithHarry
 
 
 #### Next.js
@@ -484,7 +483,7 @@
 
 * [Redux Complete Course](https://youtube.com/playlist?list=PL8p2I9GklV47TDYUq8RmFzeI9CgOoVgpJ&si=p-4s6qJ31ReIbKqj) - Code Step by Step
 * [Redux toolkit crash course &#124; Chai aur React Series](https://www.youtube.com/watch?v=1i04-A7kfFI) - Hitesh Choudhary (Chai aur Code)
-* [Redux Toolkit tutorial in Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp2nz2T6SfWX9t6D6SYn3XlN) - Vinod Bahadur Thapa (Thapa Technical)
+* [Redux tutorial in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV47TDYUq8RmFzeI9CgOoVgpJ) - Code Step by Step
 
 
 #### Vue.js

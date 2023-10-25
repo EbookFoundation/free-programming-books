@@ -1,7 +1,7 @@
 ### Index
 
-* [Blockchain books](#blockchain-books-for-beginners)
-* [Operating system](#operating-system-books)
+* [Blockchain books for beginners](#blockchain-books-for-beginners)
+* [operating system](#operating-system-books)
 
 
 ### Blockchain books for beginners

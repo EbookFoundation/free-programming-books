@@ -227,6 +227,11 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
 
 You might notice that there are [some missing translations here](docs/README.md#translations) - perhaps you would like to help out by [contributing a translation](docs/CONTRIBUTING.md#help-out-by-contributing-a-translation)?
 
+## Contributors
+
+<a href="https://github.com/EbookFoundation/free-programming-books/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=EbookFoundation/free-programming-books"  alt="free-programming-books Contributors"/>
+</a>
 
 ## License
 

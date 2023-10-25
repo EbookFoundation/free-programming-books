@@ -977,9 +977,9 @@
 
 ### Astro
 
-* [Astro Web Framework Crash Course](https://www.youtube.com/watch?v=e-hTm5VmofI) - freeCodeCamp
-* [Astro Crash Course](https://www.youtube.com/watch?v=Oi9z5gfIHJs) - Traversy Media
 * [Astro Blog Course - Full 3.5 hour course](https://www.youtube.com/watch?v=6XzyobQYQVQ) - Coding in Public
+* [Astro Crash Course](https://www.youtube.com/watch?v=Oi9z5gfIHJs) - Traversy Media
+* [Astro Web Framework Crash Course](https://www.youtube.com/watch?v=e-hTm5VmofI) - freeCodeCamp
 
 
 #### D3.js

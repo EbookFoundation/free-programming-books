@@ -702,6 +702,11 @@
 * [System Design Playlist in Hindi](https://www.youtube.com/playlist?list=PLA3GkZPtsafZdyC5iucNM_uhqGJ5yFNUM) - Engineering Digest
 * [System Design Series By Coding Ninjas](https://www.youtube.com/playlist?list=PLrk5tgtnMN6RvXrfflstJWgcPFQ_vTOV9) - Coding Ninjas
 
+### Threejs
+
+* [Threejs by Amirul Islam - Hindi](https://youtube.com/playlist?list=PLjXsIhZZY9KJP9cFq9NqxTucfFCnVzRUn&si=IO3x9fajJ1mHcYnM) - Amirul Islam
+* [Three.js Course For Beginners | Hindi Tutorial](https://youtu.be/d-LVbNpz4A4?si=g3Tcs5quw6HPk99X) - Fun Coding
+* [Three.js Crash Course For Beginners | Create This Awesome 3D Website!](https://youtu.be/_OwJV2xL8M8?si=DohxEgr0osuVndm8) - Developedbyed
 
 ### TypeScript
 

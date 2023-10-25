@@ -50,6 +50,7 @@
 * [Natural Language Processing](#natural-language-processing)
 * [Networking](#networking)
 * [Operating Systems](#operating-systems)
+* [Open Source](#open-source)
 * [PHP](#php)
     * [CodeIgniter](#codeigniter)
     * [Laravel](#laravel)
@@ -551,6 +552,9 @@
 * [3.2 Operating System (Complete Playlist)](https://www.youtube.com/playlist?list=PLmXKhU9FNesSFvj6gASuWmQd23Ul5omtD) - Knowledge Gate
 * [Operating System (Complete Playlist)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p) - Gate Smashers
 * [Operating Systems for Placements 2022](https://www.youtube.com/playlist?list=PLDzeHZWIZsTr3nwuTegHLa2qlI81QweYG) - CodeHelp - by Babbar
+
+### Open Source
+* [Open Source BootCamp - Master Open Source Contributions](https://www.youtube.com/playlist?list=PLinedj3B30sAT6CotNj0iffhRV89SkNK9) - Piyush Garg
 
 
 ### PHP

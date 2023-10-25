@@ -1433,6 +1433,7 @@
 * [Django Wednesdays](https://www.youtube.com/playlist?list=PLCC34OHNcOtqW9BJmgQPPzUpJ8hl49AGy) - Codemy.com
 * [Python Django Tutorial 2018 for Beginners](https://www.youtube.com/playlist?list=PL-J2q3Ga50oOpni_xS2PPUe4mf9lM96dD) - Clever Programmer
 * [Python Django Tutorial 2021](https://www.youtube.com/playlist?list=PL-51WBLyFTg1pUMaTJ4WSgnyvWfLGmwDm) - Dennis Ivy
+* [Python Django Web Framework - Full Course for Beginners](https://www.youtube.com/watch?v=F5mRW0jo-U4) - freeCodeCamp
 * [Try Django 3.2 - Python Web Development Tutorial Series](https://www.youtube.com/playlist?list=PLEsfXFp6DpzRMby_cSoWTFw8zaMdTEXgL) - Justin Mitchel, CodingEntrepreneurs
 
 

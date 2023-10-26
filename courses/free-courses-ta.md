@@ -48,8 +48,7 @@
 
 ### <a id="dsa"></a>Data Structures and Algorithms
 
-* [தமிழில் Data Structures and Algorithms](https://youtube.com/playlist?list=PL_UqaR55i1797oG0BL0wtxdPpa_NYNFLz) -
-    CSE Tamila by Eezytutorials
+* [தமிழில் Data Structures and Algorithms](https://youtube.com/playlist?list=PL_UqaR55i1797oG0BL0wtxdPpa_NYNFLz) - CSE Tamila by Eezytutorials
 * [Data Structures and Algorithms in Java](https://www.youtube.com/playlist?list=PLYM2_EX_xVvX7_AmNY-Deacp3rT3MIXnE) - Logic First Tamil
 
 
@@ -61,7 +60,7 @@
 
 ### Flutter
 
-* [Flutter in Tamil](https://www.youtube.com/playlist?list=PLBngtsPyn30HYEkmqIqZwvLl0c8zWqCtx) - LEARN ALL IN TAMIL
+* [Flutter in Tamil](https://www.youtube.com/playlist?list=PLBngtsPyn30HYEkmqIqZwvLl0c8zWqCtx) - Learn all in Tamil
 * [Flutter Tamil Tutorial](https://www.youtube.com/playlist?list=PL_hkki6Usyn4krz6wexRj1baFE-TWKVMb) - Techashonline
 * [Flutter Tamil Tutorial 2021](https://www.youtube.com/playlist?list=PLUGtexIdLo5iGD_0Ds5-a-itWxMCF8r0E) - Theory Or Practical
 
@@ -108,7 +107,7 @@
 
 ### Next JS
 
-* [Full stack Next JS Project Tamil](https://www.youtube.com/playlist?list=PLQeZxRj52I-GmZBy4-tPhwwL8AEjW2t8G) - Tamil Coding Wizard
+* [Next JS Tamil](https://www.youtube.com/playlist?list=PLQeZxRj52I-GmZBy4-tPhwwL8AEjW2t8G) - Tamil Coding Wizard
 * [Next JS Beginner series Tamil](https://www.youtube.com/playlist?list=PLQeZxRj52I-H86pt2nVb14UB0vKtK74qZ) - Tamil Coding Wizard
 
 

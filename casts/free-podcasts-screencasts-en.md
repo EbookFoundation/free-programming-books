@@ -5,7 +5,6 @@
 * [C++](#cpp)
 * [Clojure](#clojure)
 * [Cloud computing](#cloud-computing)
-* [Data Engineering](#data-engineering)
 * [Data Science](#data-science)
 * [DevOps](#devops)
 * [Elixir](#elixir)
@@ -80,13 +79,9 @@
 * [The Cloud Pod](https://www.thecloudpod.net) - Justin Brodley, Jonathan Baker, Ryan Lucas and Peter Roosakos (podcast)
 
 
-### Data Engineering
-
-* [Data Engineering Podcast](https://www.dataengineeringpodcast.com) - Tobias Macey (podcast)
-
-
 ### Data Science
 
+* [Data Engineering Podcast](https://www.dataengineeringpodcast.com) - Tobias Macey (podcast)
 * [Data Futurology - Leadership And Strategy in Artificial Intelligence, Machine Learning, Data Science](https://www.datafuturology.com/podcasts) - Felipe Flores (podcast)
 * [Data Skeptic](https://dataskeptic.com/episodes) - Kyle Polich (podcast)
 * [Data Stories - a podcast on data\+visualization](http://datastori.es) - Enrico Bertini, Moritz Stefaner, Sandra Rendgen, Florian Wöhrl, Destry Sibley (podcast)

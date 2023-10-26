@@ -205,7 +205,9 @@
 
 #### Next.js
 
+* [Next Js Bangla Tutorial Series](https://www.youtube.com/playlist?list=PLwMeE9AWeV59vbQSIArd0-sNB9FPxlWSp) - dSkill
 * [next js bangla(বাংলা) tutorial](https://www.youtube.com/playlist?list=PLQvUYGXiwrskS_C3MOeW0rOVB5Ny2MCR2) - Faazle Rabbi
+* [Next js tutorial in bangla](https://www.youtube.com/playlist?list=PLkmCJMhveta1PihBgW4MpYxFlyzdSjlNC) - Sabeek Bin Sayeed
 
 
 #### Node.js

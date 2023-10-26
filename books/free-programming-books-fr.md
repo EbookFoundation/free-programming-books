@@ -6,6 +6,7 @@
     * [IDE et éditeurs de texte](#ide-et-editeurs-de-texte)
     * [Logiciels libres](#logiciels-libres)
     * [Makefile](#makefile)
+    * [Mathématiques](#mathématiques)
     * [Pédagogie pour les enfants et adolescents](#pédagogie-pour-les-enfants-et-adolescents)
     * [Théorie des langages](#théorie-des-langages)
 * [Ada](#ada)
@@ -31,7 +32,6 @@
     * [TeX](#tex)
 * [Lisp](#lisp)
 * [Lua](#lua)
-* [Mathématiques](#math%C3%A9matiques)
 * [Meteor](#meteor)
 * [Perl](#perl)
 * [PHP](#php)
@@ -87,6 +87,9 @@
 * [Concevoir un Makefile](http://icps.u-strasbg.fr/people/loechner/public_html/enseignement/GL/make.pdf) - Vincent Loechner d'après Nicolas Zin (PDF)
 * [Introduction aux Makefile](http://eric.bachard.free.fr/UTBM_LO22/P07/C/Documentation/C/make/intro_makefile.pdf) (PDF)
 
+#### Mathématiques
+
+* [Approfondissements de lycée](https://fr.wikibooks.org/wiki/Approfondissements_de_lycée) - Zhuo Jia Dai (HTML)
 
 #### Pédagogie pour les enfants et adolescents
 

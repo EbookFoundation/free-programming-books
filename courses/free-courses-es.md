@@ -93,7 +93,7 @@
 
 * [Agilidad y Lean. Gestionando los proyectos y negocios del Siglo XXI](https://miriadax.net/curso/agilidad-y-lean-gestionando-los-proyectos-y-negocios-del-s-xxi-14-a-edicion) (Miriadax)
 * [Cómo implantar grupos de mejora de procesos](https://www.edx.org/course/como-implantar-grupos-de-mejora-de-upvalenciax-gm201x-0)
-* [Gestión de proyectos software (2015)](https://ocw.unican.es/course/view.php?id=23)
+* [Gestión de proyectos software (2015)](https://ocw.unican.es/course/view.php?id=206&lang=es)
 * [Gestión Participativa: motivación y liderazgo organizacional](https://www.edx.org/course/gestion-participativa-high-involvement-upvalenciax-gp201x-0)
 * [Ingeniería del Software I (2011)](https://ocw.unican.es/course/view.php?id=169)
 * [Ingeniería del Software II (2011)](https://ocw.unican.es/course/view.php?id=170)

@@ -1,7 +1,7 @@
 ### Index
 
 * [JavaScript](#javascript)
-* [Web Development](#web_development)
+* [Web Development](#web-development)
 
 
 ### JavaScript

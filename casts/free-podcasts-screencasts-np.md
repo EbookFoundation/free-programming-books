@@ -4,7 +4,7 @@
 * [Web Development](#web_development)
 
 
-#### JavaScript
+### JavaScript
 
 * [JavaScript Games](https://www.youtube.com/playlist?list=PLpwngcHZlPadAbdD_sFE_moH6RjgaTFCw) - CodingNepal
 

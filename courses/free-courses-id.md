@@ -313,7 +313,7 @@
 ### MongoDB
 
 * [Belajar MongoDB](https://www.youtube.com/playlist?list=PL-CtdCApEFH-eFFdPeS5e16o3THdmvxvz) - Eko Kurniawan Khannedy, Programmer Zaman Now
-
+* [MongoDB](https://www.youtube.com/watch?v=zTugqRsomR4&list=PLhzwHCJWMbnu830iJ8xLcXgbnklmXpSK5) - Pojok Code
 
 ### MySQL
 
@@ -397,16 +397,17 @@
 ### PyTorch
 
 * [PyTorch untuk Pemula](https://www.youtube.com/playlist?list=PLl-Zj2iuqlwvMCvaX_4POywGiw4TFuHp1) - NgodingPython
+* [S5E1 | Intuisi Neural Network dan PyTorch Introduction | Deep Learning Fundamentals](https://www.youtube.com/watch?v=umEq2uUwrGE&pp=ygUPYmVsYWphciBweXRvcmNo) - JCOp Untuk Indonesia
 
 
 ### Redis
 
 * [Belajar Redis](https://www.youtube.com/playlist?list=PL-CtdCApEFH-7hBhz1Q-4rKIQntJoBNX3) - Eko Kurniawan Khannedy, Programmer Zaman Now
 
-
 ### Rust
 
 * [Belajar Rust](https://www.youtube.com/playlist?list=PLIfsrcorUur10nUSHVq9Mb4yWu87_5lZn) - Dev Activity
+* [Belajar bahasa pemrograman Rust!](https://www.youtube.com/watch?v=1gRIAVwDlb4&pp=ygUMYmVsYWphciBydXN0) - Ngooding
 
 
 ### SASS / SCSS

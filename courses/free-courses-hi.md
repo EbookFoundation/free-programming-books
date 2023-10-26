@@ -67,7 +67,6 @@
 * [Swift](#swift)
 * [System Design](#system-design)
 * [TypeScript](#typescript)
-* [WebPack](#webpack)
 * [WordPress](#wordpress)
 
 
@@ -425,6 +424,7 @@
 * [Namaste JavaScript](https://youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP) - Akshay Saini
 * [RxJS Series (In Hindi)](https://youtube.com/playlist?list=PLLhsXdvz0qjI68a8tLUUMyXmNhl608mcn) - UX Trendz
 * [Web Development Course](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n) - Apna College
+* [Webpack Tutorial in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV44T0YqVWyaPDcMdMpc5F6fp) - Code Step By Step
 
 
 #### jQuery
@@ -709,11 +709,6 @@
 * [Typescript in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV44eT51JPju4LsTQlce6DPtx) - Code Step By Step
 * [Typescript in Hindi &#124; Crash Course &#124; Coders Gyan](https://www.youtube.com/watch?v=F5pjG-sP0c8) - Coder's Gyan
 * [Typescript Tutorial for Beginners in Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp0xfHQFmlL52b_6-QZ0mnk_) - Thapa Technical
-
-
-### WebPack
-
-* [Webpack Tutorial in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV44T0YqVWyaPDcMdMpc5F6fp) - Code Step By Step
 
 
 ### Wordpress

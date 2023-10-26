@@ -2052,7 +2052,8 @@ Books on general-purpose programming that don't focus on a specific language are
 * [The Big Book of Small Python Projects](https://inventwithpython.com/bigbookpython/) - Al Sweigart
 * [The Coder's Apprentice: Learning Programming with Python 3](http://www.spronck.net/pythonbook/) - Pieter Spronck (PDF) (3.x)
 * [The Definitive Guide to Jython, Python for the Java Platform](https://jython.readthedocs.io/en/latest/) - Josh Juneau, Jim Baker, Victor Ng, Leo Soto, Frank Wierzbicki (2.5)
-* [The Little Book of Python Anti-Patterns](http://docs.quantifiedcode.com/python-anti-patterns/) ([Source](https://github.com/quantifiedcode/python-anti-patterns))
+* [The Hitchhiker's Guide to Python: Best Practices for Development](https://docs.python-guide.org/) - Kenneth Reitz, Tanya Schlusser, et al
+*  [The Little Book of Python Anti-Patterns](http://docs.quantifiedcode.com/python-anti-patterns/) ([Source](https://github.com/quantifiedcode/python-anti-patterns))
 * [The Programming Historian](http://niche-canada.org/research/niche-digital-infrastructure-project/the-programming-historian/) - William J. Turkel, Adam Crymble and Alan MacEachern
 * [The Python Coding Book](https://thepythoncodingbook.com) - Stephen Gruppetta (HTML)
 * [The Python GTK+ 3 Tutorial](http://python-gtk-3-tutorial.readthedocs.org/en/latest/)

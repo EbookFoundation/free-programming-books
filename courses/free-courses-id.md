@@ -114,10 +114,10 @@
 ### Docker
 
 * [Belajar Docker untuk Pemula](https://www.youtube.com/playlist?list=PL4SGTPmSY0qkxCTe3Gd0wA-bQZChXhsNI) - Giri Kuncoro
+* [Belajar Membuat CI/CD Pipeline Aplikasi TypeScript dengan Gitlab + Docker](https://youtu.be/Sy_Uay0fxlg?si=lSKE6ux9nyfUC22X) - Iqbal Syamil
 * [Mengenal Container dan Docker Sampai Jago Dalam 2 Jam](https://www.youtube.com/watch?v=26O6Ke03j3Y) - Imre Nagi
 * [Pengembangan Microservice Dengan Docker Compose](https://www.youtube.com/watch?v=ALGVV5cGUtc) - Imre Nagi
 * [Tutorial Docker untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH-A7jBmdertzbeACuQWvQao) - Eko Kurniawan Khannedy, Programmer Zaman Now
-* [Belajar Membuat CI/CD Pipeline Aplikasi TypeScript dengan Gitlab + Docker](https://youtu.be/Sy_Uay0fxlg?si=lSKE6ux9nyfUC22X) - Iqbal Syamil
 
 
 ### Elasticsearch
@@ -317,6 +317,7 @@
 * [Belajar MongoDB](https://www.youtube.com/playlist?list=PL-CtdCApEFH-eFFdPeS5e16o3THdmvxvz) - Eko Kurniawan Khannedy, Programmer Zaman Now
 * [MongoDB](https://www.youtube.com/watch?v=zTugqRsomR4&list=PLhzwHCJWMbnu830iJ8xLcXgbnklmXpSK5) - Pojok Code
 
+
 ### MySQL
 
 * [Belajar MySQL](https://alwaysngoding.com/belajar-mysql/teori) - Muhammad Saleh Solahudin, Always Ngoding (account *required*)
@@ -406,10 +407,11 @@
 
 * [Belajar Redis](https://www.youtube.com/playlist?list=PL-CtdCApEFH-7hBhz1Q-4rKIQntJoBNX3) - Eko Kurniawan Khannedy, Programmer Zaman Now
 
+
 ### Rust
 
-* [Belajar Rust](https://www.youtube.com/playlist?list=PLIfsrcorUur10nUSHVq9Mb4yWu87_5lZn) - Dev Activity
 * [Belajar bahasa pemrograman Rust!](https://www.youtube.com/watch?v=1gRIAVwDlb4&pp=ygUMYmVsYWphciBydXN0) - Ngooding
+* [Belajar Rust](https://www.youtube.com/playlist?list=PLIfsrcorUur10nUSHVq9Mb4yWu87_5lZn) - Dev Activity
 
 
 ### SASS / SCSS

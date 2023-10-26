@@ -184,6 +184,8 @@
 #### Angular
 
 * [Angular 12 Easy Tutorial in Bangla](https://www.youtube.com/playlist?list=PLEfqpT48xB4H2gOHDzs2dm_ZmoECuTHtR) - web-man
+* [Angular full tutorial series for Beginners in Bangla](https://www.youtube.com/playlist?list=PLBcycf_KNrYpgj_yzcNgW9I3_2fpiGXXg) - Learn With Rashed
+* [Angular Tutorials for Beginners in Bangla](https://www.youtube.com/playlist?list=PLDP_-KW5VxNRqG7317GyBlOwvtxP6d-LE) - miTechSoln
 * [AngularJS bangla tutorial](https://www.youtube.com/playlist?list=PLZURtcoL43SUpJj_n_yGoqM4RMqQoBbst) - tutplus24
 * [Angularjs bangla tutorial basic](https://www.youtube.com/playlist?list=PLbC4KRSNcMnr2ZFQne_jotsiX9hGwLJHG) - Learn Hunter
 
@@ -292,7 +294,11 @@
 
 #### Django
 
+* [60 Days of Django - Bangla Tutorial](https://www.youtube.com/playlist?list=PLrbhZ2o2oUzRPc7KvvQySBmrXtg6HmNp5) - Abu Noman Basar
 * [Django Bangla Tutorial](https://www.youtube.com/playlist?list=PLbC4KRSNcMnqUp_v1nxbQaoImTN3kWS_V) - Learn Hunter
+* [Django Bangla Tutorial \| পাইথন জ্যাঙ্গো বাংলা \| Django full course \| 2022](https://www.youtube.com/playlist?list=PL-83IWJl8Qht1OmhiEnRw8H8ieKAjucNN) - Nongare Hi-Tech
+* [Python Django & RestAPI Bangla Tutorial](https://www.youtube.com/playlist?list=PLKdU0fuY4OFfo3VgywUFoAUY7Udi3_6V6) - Study Mart
+* [Python DJango Bangla (বাংলা) tutorial](https://www.youtube.com/playlist?list=PL4NIq30KvXLDf3a3DQXZyGv_BNYRYTXJS) - Tech Solutions In Bangla
 
 
 #### Flask 

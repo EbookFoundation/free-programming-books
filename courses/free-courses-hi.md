@@ -50,6 +50,7 @@
 * [Mongo DB](#mongo-db)
 * [Natural Language Processing](#natural-language-processing)
 * [Networking](#networking)
+* [Open Source](#open-source)
 * [Operating Systems](#operating-systems)
 * [PHP](#php)
     * [CodeIgniter](#codeigniter)
@@ -83,6 +84,7 @@
 * [Dynamic Programming Playlist \| Coding \| Interview Questions \| Tutorials \| Algorithm](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go) - Aditya Verma
 * [Dynamic Programming Workshop](https://www.youtube.com/playlist?list=PLqf9emQRQrnKA_EeveiXQj_uP25w8_5qL) - Vivek Gupta
 * [Generic Trees - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiEmjuIVDrwR9h5i9TT2CEU_) - Pepcoding
+* [Graph Theory](https://www.youtube.com/playlist?list=PLxCzCOWd7aiG0M5FqjyoqB20Edk0tyzVt) - Gate Smashers
 * [Graphs - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHfqDcLZMcO9SsUDY4S3a-v) - Pepcoding
 * [Hindi Data Structures And Algorithms Tutorial Python](https://www.youtube.com/playlist?list=PLPbgcxheSpE3NlJ30EDpxNYU6P2Jylns8) - codebasics Hindi
 * [Linked List - Level 1](https://youtube.com/playlist?list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_&si=S_MRPF7yyupBUCC6) - Pepcoding
@@ -110,6 +112,7 @@
 * [Android Development With KOTLIN \| Android App Development Course In Hindi](https://www.youtube.com/playlist?list=PL6Fr59UplGvL7q7P3Hg6nYzS45gld-CCI) - Zain Farhan
 * [App Development Course For School Students \| Certified Course By Coding Blocks Junior](https://youtube.com/playlist?list=PLhLbJ9UoJCvu4ktQMUJJq-D_6-Eoz8lOk) - Coding Blocks Junior
 * [Complete Android Development Course in Hindi](https://www.youtube.com/playlist?list=PLUhfM8afLE_Ok-0Lx2v9hfrmbxi3GgsX1) - Neat Roots
+* [The complete Android Application Development Course in Hindi/Urdu](https://www.youtube.com/playlist?list=PLtCBuHKmdxOe8IWZnA515lGPKaWx5WNOE) - Fahad Hussain
 
 
 ### Angular 
@@ -147,6 +150,7 @@
 * [Blockchain Full Course in Hindi](https://www.youtube.com/playlist?list=PLgPmWS2dQHW-BRQCQCNYgmHUfCN115pn0) - Code Eater
 * [Blockchain Full Course in Hindi](https://www.youtube.com/playlist?list=PLRlT7xBRpp9MiMN25XJjUVz01rGFQohq2) - Innovate India
 * [Complete Blockchain Development Course for Beginners in Hindi](https://www.youtube.com/watch?v=RkYVVC2vXho) - web3Mantra
+* [Ethereum](https://www.youtube.com/playlist?list=PL-Jc9J83PIiE3QA0h3I6HDYNXejdPFKFN) - Pepcoding
 * [Solidity ^0.8 | Blockchain | In Hindi](https://www.youtube.com/playlist?list=PL-Jc9J83PIiG6_thChXWzolj9BEG-Y0gh) - Pepcoding
 
 
@@ -231,6 +235,7 @@
 
 * [Computer Graphics](https://youtube.com/playlist?list=PLYwpaL_SFmcAtxMe7ahYC4ZYjQHun_b-T) - 5 Minutes Engineering
 * [Computer Graphics and Multimedia (CGMM) Lectures in Hindi](https://www.youtube.com/playlist?list=PLV8vIYTIdSnaTVCcd954N14bVOOgYh-2V) - Easy Engineering Classes
+* [Computer Graphics Full Course in Hindi](https://www.youtube.com/playlist?list=PLAC6WcHCOQCHVfV3vR4At0g0QADIeZc_j) - Edulogy
 
 
 ### Computer Organization and Architecture
@@ -285,6 +290,7 @@
 * [DevOps Training Tutorials For Beginners in Hindi](https://www.youtube.com/playlist?list=PLYEK_dHOjwtODYB46wFuc34muw9Gl5X5x) - Linux Wale Guruji
 * [DevOps Training Videos in Hindi](https://www.youtube.com/playlist?list=PLQbQOmlGYH3sxlq9ugoq1ipNFP7tus5Gd) - edureka! Hindi
 * [DevOps Tutorials in Hindi/Urdu \| Devops सीखने का सबसे आसान तरीका \| Complete Devops including Git,Jenkins,Maven,Chef,docker,Ansible and Kubernetes](https://www.youtube.com/playlist?list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10) - Bhupinder Rajput, Technical Guftgu
+* [Server Configuration, Deployment & VPS Tutorials For Beginners](https://www.youtube.com/playlist?list=PLu0W_9lII9aiBNXUisDdSmfNbsKq407XC) - CodeWithHarry
 
 
 ### Figma
@@ -484,6 +490,7 @@
 
 #### Vue.js
 
+* [Latest vue js 3 tutorial for beginners in hindi](https://www.youtube.com/playlist?list=PLfxALjnZodruGEvbM8zTdnPMrQ5wHMmw8) - Wap Institute
 * [Vue js tutorial in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV45qwTH-mdzllUuFRJO-euYn) - Code Step By Step
 * [Vue JS Tutorials in Hindi](https://www.youtube.com/playlist?list=PLbGui_ZYuhih5ItBhn2cTncaS24_Kgeui) - Rajesh Kumar, Geeky Shows
 
@@ -532,6 +539,7 @@
 * [MATLAB (HINDI) Tutorial Series](https://www.youtube.com/playlist?list=PL6G0RjixRx3xgzxqjRdZIoLLpzhyLFTXk) - WittyRobo
 * [Matlab Complete Course](https://www.youtube.com/watch?v=iS5J4TlLSEM) - Armughan Ali
 * [MATLAB Complete Tutorial in Hindi](https://www.youtube.com/playlist?list=PLjVLYmrlmjGfdIlwG649bdzVHM4iLbD_H) - WsCube Tech
+* [Module-1: Basics of MATLAB (A complete Course)](https://www.youtube.com/playlist?list=PLcgIaTuuWp3kr9W0T7b817jenHcX3CXs1) - R K Thenua
 
 
 ### Mongo DB
@@ -555,10 +563,16 @@
 ### Networking
 
 * [3.4 Computer Networks (Complete Playlist)](https://www.youtube.com/playlist?list=PLmXKhU9FNesSjFbXSZGF8JF_4LVwwofCd) - Knowledge Gate
+* [CCNA Hindi by Network Engineer](https://www.youtube.com/playlist?list=PLz8UpOu_f4zoIai54JZFfIJxaSrmqz3B9) - Network Kings
 * [Computer Network (CN)](https://youtube.com/playlist?list=PLYwpaL_SFmcAXkWn2IR-l_WXOrr0n851a) - 5 Minutes Engineering
 * [Computer Network Tutorial in Hindi](https://www.youtube.com/playlist?list=PL-JvKqQx2AteLNR8UO4UQiDmQF-Wotu5G) - University Academy
 * [Computer Networks (Complete Playlist)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_) - Gate Smashers, `tch.:` Varun Singla
 * [Networking Basics](https://www.youtube.com/playlist?list=PLkW9FMxqUvyZaSQNQslneeODER3bJCb2K) - Bitten Tech
+
+
+### Open Source
+
+* [Open Source BootCamp - Master Open Source Contributions](https://www.youtube.com/playlist?list=PLinedj3B30sAT6CotNj0iffhRV89SkNK9) - Piyush Garg
 
 
 ### Operating Systems
@@ -613,6 +627,7 @@
 * [Python For Beginners](https://youtube.com/playlist?list=PL-5gYa7CLd4iBdPHRaSEwbivCnUq1nxj9) - Technical Sagar
 * [Python Programming in Hindi](https://www.greatlearning.in/academy/learn-for-free/courses/python-programming-in-hindi) (Great Learning) *(account required)*
 * [Python Tutorial For Beginners \| Hindi (With Notes)](https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME) - CodeWithHarry
+* [Python Tutorial For Beginners in (Hindi)](https://www.youtube.com/playlist?list=PLf0LpPWikpPe5gc6fT9wDj3Y6e97z6ZD_) - DataFlair Hindi
 * [Python Tutorial For Beginners in Hindi](https://www.youtube.com/watch?v=FStwWUkW5RQ&list=PLnSDvcENZlwAcFgFLD5bzt5Zh428yzQXT) - Micro Solution
 * [Python Tutorial in Hindi](https://www.youtube.com/playlist?list=PLQbQOmlGYH3tC535nKa7xB7dd7pZtYMZX) - edureka! Hindi
 
@@ -685,6 +700,7 @@
 
 ### Swift
 
+* [Swift Programming For Beginners In Hindi](https://www.youtube.com/playlist?list=PL3IxLTWfZ7Y1zM3EejYkcq4I86K3eloCb) - BuildWithShubham
 * [Swift Programming For IOS From Scratch](https://youtube.com/playlist?list=PLtCBuHKmdxOd9kxsru5t_MFvDj5o5GdDl) - Fahad Hussain
 * [Swift Programming Hindi Tutorial For Beginners](https://www.youtube.com/playlist?list=PLb5R4QC2DtFv3MvfG42Cd5La34Hwj4pY6) - Code Cat
 * [Swift Tutorials For Beginners(Full) in Hindi.](https://www.youtube.com/playlist?list=PLWZIhpNhtvfqBd00bF3ouroGHMPe-iroO) - Yogesh Patel

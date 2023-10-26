@@ -260,6 +260,7 @@
 #### Next.js
 
 * [Next.js Cheatsheet - handy snippets and tips](https://gourav.io/blog/nextjs-cheatsheet) - Gourav Goyal (HTML)
+* [TypeScript Next.js Cheatsheet](https://www.saltycrane.com/cheat-sheets/typescript/next.js/latest/) - SaltyCrane Cheat Sheets
 
 
 #### Nuxt.js

@@ -232,6 +232,8 @@
 * [Material design](https://material.io/guidelines/)
 * [Material Design for Android Developers](https://www.udacity.com/course/material-design-for-android-developers--ud862) (Udacity)
 * [MVVM Image Search App with Architecture Components & Retrofit](https://www.youtube.com/playlist?list=PLrnPJCHvNZuC_pEfFlZuTmjlY4T3DTtED) - Florian Walther ( Coding in flow )
+* [MVVM NewsApp, Retrofit, Room, Coroutines, Navigation Components](https://www.youtube.com/playlist?list=PLQkwcJG4YTCRF8XiCRESq1IFFW8COlxYJ) - Philipp Lackner
+* [MVVM Spotify Clone](https://www.youtube.com/playlist?list=PLQkwcJG4YTCT-lTlkOmE-PpRkuyNXq6sW) - Philipp Lackner
 * [MVVM To-Do List App with Flow and Architecture Components](https://www.youtube.com/playlist?list=PLrnPJCHvNZuCfAe7QK2BoMPkv2TGM_b0E) - Florian Walther ( Coding in flow )
 * [Pokédex App with Jetpack Compose](https://www.youtube.com/playlist?list=PLQkwcJG4YTCTimTCpEL5FZgaWdIZQuB7m) - Phillipp Lackner
 * [Programming Mobile Applications for Android Handheld Systems pt. 1](https://www.coursera.org/course/android)
@@ -491,6 +493,7 @@
 * [An Introduction to Data Science](https://www.udemy.com/course/an-introduction-to-data-science/)
 * [Apache Airflow Tutorials](https://www.youtube.com/playlist?list=PLYizQ5FvN6pvIOcOd6dFZu3lQqc6zBGp2) - Tuan Vu
 * [Applied Data Science with Python](https://cognitiveclass.ai/learn/data-science-with-python) - CognitiveClass.ai
+* [Big Data Engineering Course](https://www.youtube.com/playlist?list=PLLa_h7BriLH2UYJIO9oDoP3W-b6gQeA12) - Data Engineering
 * [CS250: Python for Data Science](https://learn.saylor.org/course/view.php?id=504) - Saylor Academy
 * [Data Analysis and Visualization](https://www.udacity.com/course/data-analysis-and-visualization--ud404) - Georgia Tech (Udacity)
 * [Data Analysis with Python: Zero to Pandas](https://jovian.ai/learn/data-analysis-with-python-zero-to-pandas) (Jovian)
@@ -667,6 +670,7 @@
 
 ### Flutter
 
+* [Build Apps with Flutter](https://developers.google.com/learn/pathways/intro-to-flutter) - Google for Developers
 * [Flutter & Firebase App Build](https://www.youtube.com/playlist?list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC) - The Net Ninja
 * [Flutter Course for Beginners - 37 hour](https://www.youtube.com/watch?v=VPvVD8t02U8) - freeCodeCamp.org
 * [Flutter Crash Course](https://fluttercrashcourse.com/courses/basics/lessons/materialapp-scaffold-appbar-text) - Nick Manning *(account required)*
@@ -1135,6 +1139,8 @@
 #### Webpack
 
 * [Learn Webpack Course](https://www.classcentral.com/course/youtube-learn-webpack-course-45823/classroom) - Colt Steele
+* [Webpack 5](https://www.youtube.com/playlist?list=PLmZPx_9ZF_sB4orswXdpThGMX9ii2uP7Z) - Swashbuckling with Code
+* [Webpack Tutorials for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iTQ3J5oa6orDIMQKKxl8dC) - Net Ninja
 
 
 ### Julia

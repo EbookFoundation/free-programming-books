@@ -1548,6 +1548,7 @@
 * [MOOC Introduction to Cyber Security 2023](https://cybersecuritybase.mooc.fi) - University of Helsinki
 * [Nightmare](https://guyinatuxedo.github.io/index.html) - guyinatuxedo
 * [Professor Messer’s SY0-601 CompTIA Security+ Course](https://www.professormesser.com/security-plus/sy0-601/sy0-601-video/sy0-601-comptia-security-plus-course/) - Professor Messer
+* [Python for Hackers FULL Course | Bug Bounty & Ethical Hacking](https://www.youtube.com/watch?v=XWuP5Yf5ILI&list=PLBfoYdk-WAlwXJHV8_u0Gqly7cuuzuN3p) - PhD Security
 * [Reverse Engineering For Everyone!](https://0xinfection.github.io/reversing) - mytechnotalent
 * [Stanford Cryptography I](https://www.coursera.org/course/crypto) - Dan Boneh
 * [Stanford Cryptography II](https://www.coursera.org/course/crypto2) - Dan Boneh

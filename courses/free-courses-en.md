@@ -1233,7 +1233,7 @@
 * [Mathematics for Machine Learning - Linear Algebra](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3) - Imperial College London, Dr David Dye, Dr Sam Cooper
 * [Mathematics for Machine Learning - Multivariate Calclus](https://www.youtube.com/playlist?list=PLiiljHvN6z193BBzS0Ln8NnqQmzimTW23) - Imperial College London, Dr David Dye, Dr Sam Cooper
 * [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book)
-* [Python Machine Learning & AI Mega Course ](https://www.youtube.com/watch?v=WFr2WgN9_xE&t=0s) - Tech With Tim
+* [Python Machine Learning & AI Mega Course ](https://www.youtube.com/playlist?list=PLBfoYdk-WAly5ib6M8ifOnDGl33bSvF_n) - Tech With Tim (Tim Ruscica)
 * [PyTorch tutorials](https://pytorch.org/tutorials) - PyTorch.org
 * [Stanford SEE 229 - Machine Learning](https://see.stanford.edu/Course/CS229)
 * [Stanford University Machine Learning](https://www.coursera.org/learn/machine-learning)

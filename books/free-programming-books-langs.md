@@ -1331,6 +1331,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Shell scripting with Node.js](https://exploringjs.com/nodejs-shell-scripting/index.html) - Axel Rauschmayer (HTML)
 * [The Node Beginner Book](http://nodebeginner.org)
 * [The Node.js Handbook](https://flaviocopes.com/page/node-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
+* [Fullstack Node.js: The Complete Guide to Building Production Apps with Node.js](https://moscow-city.guide/upload/iblock/8ce/8ceee361e68ff14b4e2aa66575be659d.pdf) - David Gutman, Nate Murray (PDF)
 
 
 #### Nuxt.js

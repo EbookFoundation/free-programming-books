@@ -88,6 +88,7 @@
 * [Belajar Pemrograman C#](https://www.youtube.com/playlist?list=PLuGFxya63u253zhOzhxanaSBNJ_UiIhUb) - Galih Pratama
 * [Tutorial Lengkap - Belajar Coding C# Programming untuk Pemula](https://www.youtube.com/watch?v=kKAcsIvF9UQ&list=PLa6D44cKrtoN9guvynhwiCIdUJ0CJkAMB) - Bimbingan Belajar Coding  
 
+
 ### Construct
 
 * [Belajar Membuat Game dengan Construct 2](https://www.dicoding.com/academies/65) - Dicoding, membutuhkan registrasi
@@ -145,11 +146,12 @@
 * [Belajar GIT (Source Code Management)](https://www.youtube.com/playlist?list=PL8bBYpHH3RI6BlCzFTMQvt7sGSycUj7S-) - Eka Putra, UpKoding
 * [GIT & GITHUB](https://www.youtube.com/playlist?list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf) - Sandhika Galih, Web Programming UNPAS
 * [Git Tutorial - Bahasa Indonesia](https://www.youtube.com/playlist?list=PL-CtdCApEFH_lYGV8hxqjtKmFA_xeLupq) - Eko Kurniawan Khannedy, Programmer Zaman Now
+* [Git Untuk Pemula](https://youtu.be/DV410I_xcTw?si=IU-5Fm6F3CBzyqke) - Dea Afrizal
 * [Jago Git Dalam 2 Jam](https://www.youtube.com/watch?v=KGSfUgaiVNI) - Imre Nagi
 * [Source Code Management untuk Pemula](https://www.dicoding.com/academies/116) - Dicoding, membutuhkan registrasi
 * [Tutorial GIT Bahasa Indonesia Lengkap](https://www.youtube.com/playlist?list=PL1aMeb5UP_PHXTV_Xpt-19x_rVPXrymOM) - IDStack
 * [Tutorial Git Dasar](https://www.youtube.com/watch?v=fQbTeNX1mvM) - Programmer Zaman Now
-* [Git Untuk Pemula](https://youtu.be/DV410I_xcTw?si=IU-5Fm6F3CBzyqke) - Dea Afrizal
+
 
 ### Go
 
@@ -425,9 +427,9 @@
 
 ### Terraform
 
-* [Belajar Terraform untuk Pemula](https://www.youtube.com/playlist?list=PL4SGTPmSY0qngs44Ssc0RHO9h4fmZ9JUb) - Giri Kuncoro
 * [Belajar Terraform untuk membuat infrastuktur menggunakan kode | DevOps 101
 ](https://youtu.be/RnesFzJamgs?si=SIIIoaVoDm_1Qpgh) - Iqbal Syamil
+* [Belajar Terraform untuk Pemula](https://www.youtube.com/playlist?list=PL4SGTPmSY0qngs44Ssc0RHO9h4fmZ9JUb) - Giri Kuncoro
 
 
 ### TypeScript
@@ -435,5 +437,5 @@
 * [Belajar Typescript Dasar Bahasa Indonesia](https://www.youtube.com/playlist?list=PLiuHSY2x882Z4NSJGNq0eB9Fz6tIx-CgO) - Imam Farisi
 * [Belajar Typescript OOP Bahasa Indonesia](https://www.youtube.com/playlist?list=PLiuHSY2x882a-sLbdqZTtraO3cl0Clwg0) - Imam Farisi
 * [OOP TypeScript](https://www.youtube.com/playlist?list=PLnQvfeVegcJZRieebeIp0xj1NeC5L633Y) - Nusendra Hanggarawan
-* [TypeScript Dasar](https://www.youtube.com/playlist?list=PLnQvfeVegcJbjCnML6FdusK-rl-oDRMXJ) - Nusendra Hanggarawan
 * [Tutorial TypeScript Dasar](https://youtu.be/C_C64faSO4c?si=4PktEAlwiCbaA4ju) - Eko Kurniawan Khannedy, Programmer Zaman Now
+* [TypeScript Dasar](https://www.youtube.com/playlist?list=PLnQvfeVegcJbjCnML6FdusK-rl-oDRMXJ) - Nusendra Hanggarawan

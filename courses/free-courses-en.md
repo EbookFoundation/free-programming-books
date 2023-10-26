@@ -1606,7 +1606,6 @@
 * [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313) (Udacity)
 * [Theory of Computation](https://www.youtube.com/playlist?list=PLyqSpQzTE6M9-v4V62bCygAVYGluaijyo) - Prof. Subrahmanyam Kalyanasundaram
 * [Theory of Computation & Automata Theory](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev) - Neso Academy
-  
 
 
 ### Verilog / VHDL / SystemVerilog

@@ -33,7 +33,7 @@
 
 ### Bootstrap
 
-* [Bootstrap](https://youtube.com/playlist?list=PLXNgqM9ig24c7IdumyymD9q3e2hsz9U1m&feature=shared) - Udith Sanjaya
+* [Bootstrap](https://youtube.com/playlist?list=PLXNgqM9ig24c7IdumyymD9q3e2hsz9U1m) - Udith Sanjaya
 
 
 ### <a id="csharp"></a>C\#

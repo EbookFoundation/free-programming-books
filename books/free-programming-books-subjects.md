@@ -111,8 +111,8 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY) - Larry Liu Xinyu (PDF)
 * [Essential Algorithms](https://www.programming-books.io/essential/algorithms/) - Krzysztof Kowalczyk and  Stack Overflow Documentation project (HTML)
 * [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html) - Al Aho, Jeff Ullman
-* [Lectures Notes on Algorithm Analysis and Computational Complexity (Fourth Edition)](https://ianparberry.com/books/free/license.html) - Ian Parberry (use form at bottom of license)
 * [Learning JavaScript Data Structures and Algorithms](https://github.com/amilajack/reading/blob/master/JavaScript/Learning%20Javascript%20Data%20Structures%20and%20Algorithms.pdf) - Loiane Groner (PDF)
+* [Lectures Notes on Algorithm Analysis and Computational Complexity (Fourth Edition)](https://ianparberry.com/books/free/license.html) - Ian Parberry (use form at bottom of license)
 * [LEDA: A Platform for Combinatorial and Geometric Computing](https://people.mpi-inf.mpg.de/~mehlhorn/LEDAbook.html) - K. Mehlhorn, St. Näher
 * [Linked List Basics](http://cslibrary.stanford.edu/103/LinkedListBasics.pdf) - Nick Parlante (PDF)
 * [Linked List Problems](http://cslibrary.stanford.edu/105/LinkedListProblems.pdf) - Nick Parlante (PDF)

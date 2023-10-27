@@ -969,6 +969,7 @@
 * [Angular Tutorial For Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ) - Codevolution
 * [Angular Tutorial for Beginners - Web Framework with Typescript Course](https://www.youtube.com/watch?v=AAu8bjj6-UI) - Slobodan Gajic, freeCodeCamp
 * [Learn Angular 5 from Scratch](https://www.udemy.com/course/angular-5/) - Gary Simon (Udemy)
+* [Angular in 100 Seconds](https://www.youtube.com/watch?v=Ata9cSC2WpM) -  Fireship (Youtube)
 
 
 ##### AngularJS

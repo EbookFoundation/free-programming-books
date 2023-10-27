@@ -216,6 +216,7 @@
 * [AWS Tutorial in Hindi | Edureka](https://www.youtube.com/playlist?list=PLQbQOmlGYH3uoa_mYHDJkl958B_dBiaqW) - edureka! Hindi
 * [AWS Tutorials - AWS tutorials For Beginners - AWS Architect and SysOps - In Hindi](https://www.youtube.com/playlist?list=PLBGx66SQNZ8a_y_CMLHchyHz_R6-6i-i_) - Technical Guftgu
 * [AWS Tutorials - AWS tutorials For Beginners - AWS Certification - AWS Training - In Hindi](https://www.youtube.com/playlist?list=PL6XT0grm_TfgtwtwUit305qS-HhDvb4du) - Gaurav Sharma
+*[AWS Solution Architect Tutorial for Beginners](https://www.youtube.com/watch?v=DxveVHN4Ymg&list=PLBGx66SQNZ8a_y_CMLHchyHz_R6-6i-i_) - Technical Guftgu
 
 
 ### Competitive Programming

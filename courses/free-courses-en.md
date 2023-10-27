@@ -111,7 +111,6 @@
 * [Windows Phone](#windows-phone)
 * [WordPress](#wordpress)
 * [YAML](#yaml)
-* [Yii](#yii)
 
 
 ### 0 - MOOC
@@ -1345,6 +1344,7 @@
 * [PHP tutorial for beginners](https://www.youtube.com/playlist?list=PLZPZq0r_RZOO6bGTY9jbLOyF_x6tgwcuB) - Bro Code
 * [PHP Tutorials](https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-) - Dani Krossing
 * [Use PHP to Create an MVC Framework - Full Course](https://www.youtube.com/watch?v=6ERdu4k62wI) - Zura Sekhniashvili (freeCodeCamp.org)
+* [Yii2 Lessons](https://www.youtube.com/playlist?list=PLRd0zhQj3CBmusDbBzFgg3H20VxLx2mkF) - Uthpala Heenatigala
 
 
 ### PLC - Programmable logic controllers
@@ -1701,8 +1701,3 @@
 ### YAML
 
 * [Complete YAML Course - Beginner to Advanced for DevOps and more!](https://www.youtube.com/watch?v=IA90BTozdow) - Kunal Kushwaha
-
-
-### Yii
-
-* [Yii2 Lessons](https://www.youtube.com/playlist?list=PLRd0zhQj3CBmusDbBzFgg3H20VxLx2mkF) - Uthpala Heenatigala

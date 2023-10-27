@@ -538,6 +538,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Joint Strike Fighter, C++ Coding Standards](http://www.stroustrup.com/JSF-AV-rules.pdf) - Bjarne Stroustrup (PDF)
 * [Learn C++ Programming Language](http://www.tutorialspoint.com/cplusplus/cpp_tutorial.pdf) - Tutorials Point (PDF)
 * [LearnCpp.com](https://www.learncpp.com) (HTML)
+* [The Complete Reference C++,Herbert Schildt](https://www.micc.unifi.it/bertini/download/labtecinf/C%2B%2B%20A%20Beginner's%20Guide%202nd%20Edition%20(2003).pdf) - Second Edition
 * [Learning C++ eBook](https://riptutorial.com/Download/cplusplus.pdf) - Compiled from StackOverflow Documentation (PDF)
 * [Matters Computational: Ideas, Algorithms, Source Code](http://www.jjj.de/fxt/fxtbook.pdf) - Jorg Arndt (PDF)
 * [More C++ Idioms](https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms) - Sumant Tambe, et al. (WikiBooks)
@@ -1054,6 +1055,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Effective Java, Third Edition](https://ia801009.us.archive.org/16/items/effectivejava2017addisonwesley/Effective%20Java%20%282017%2C%20Addison-Wesley%29.pdf) - Joshua Bloch (PDF) *(:card_file_box: archived)*
 * [Essential Java](https://www.programming-books.io/essential/java/) - Krzysztof Kowalczyk, StackOverflow Contributors
 * [Google's Java Style Guide](https://google.github.io/styleguide/javaguide.html)
+* [Java,The Complete Reference](https://srikarthiks.files.wordpress.com/2016/07/java-the-complete-reference-8th-edition.pdf) - 8th edition
 * [Introduction to Computer Science "booksite"](https://introcs.cs.princeton.edu/java/cs/) - Robert Sedgewick, Kevin Wayne (HTML)
 * [Introduction to Computer science using Java](http://www.programmedlessons.org/Java9/index.html) - Bradley Kjell
 * [Introduction to Programming in Java](http://introcs.cs.princeton.edu/java/home/) - Robert Sedgewick, Kevin Wayne

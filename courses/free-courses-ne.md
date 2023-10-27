@@ -5,7 +5,6 @@
     * [React](#react)
 * [Flutter](#flutter)
 * [SQL](#sql)
-* [Svelte](#Svelte)
 * [C](#c)
 * [WordPress](#wordpress)
 
@@ -33,11 +32,6 @@
 #### SQL
 
 * [SQL Full Course In Nepali](https://www.youtube.com/watch?v=Lt52pYaoSR8&list=PL2OJkQtHPRicxyldFGNJRRG4WwNe0Kjqe&index=2) - Technology Channel
-
-
-#### Svelte
-
-* [Svelte - Crash Course](https://www.udemy.com/cart/subscribe/course/5049082) - Demian Kostelny, Udemy
 
               
 #### C

@@ -681,7 +681,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Essential Pascal Version 1 and 2](http://www.marcocantu.com/epascal/) - M. Cantù
 * [Expert Delphi](https://www.packtpub.com/free-ebooks/expert-delphi) - Paweł Głowacki (Packt account *required*)
 * [Modern Object Pascal Introduction for Programmers](https://github.com/michaliskambi/modern-pascal-introduction) - Michalis Kamburelis ([AsciiDoc](https://github.com/michaliskambi/modern-pascal-introduction/blob/master/modern_pascal_introduction.adoc#logical-relational-and-bit-wise-operators), [HTML](https://castle-engine.io/modern_pascal_introduction.html), [PDF](https://castle-engine.io/modern_pascal_introduction.pdf))
-* [Start Programming Using Object Pascal](https://www.free-ebooks.net/computer-sciences-textbooks/Start-Programming-Using-Object-Pascal) - Motaz Abdel Azeem [PDF]
+* [Start Programming Using Object Pascal](https://www.free-ebooks.net/computer-sciences-textbooks/Start-Programming-Using-Object-Pascal) - Motaz Abdel Azeem (PDF)
 
 
 ### DTrace

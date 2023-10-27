@@ -210,7 +210,6 @@
 
 
 #### AWS
-*[AWS Solution Architect Tutorial for Beginners](https://www.youtube.com/watch?v=DxveVHN4Ymg&list=PLBGx66SQNZ8a_y_CMLHchyHz_R6-6i-i_) - Technical Guftgu
 * [AWS Tutorial for Beginners In Hindi](https://www.youtube.com/playlist?list=PLCFe3TcoBniI4iaavlfnR0UGQrtjgOMj9) - Together with Abhi
 * [AWS Tutorial in Hindi](https://www.youtube.com/playlist?list=PL_OdF9Z6GmVZCwyfd8n6_50jcE_Xlz1je) - S3CloudHub
 * [AWS Tutorial in Hindi | Edureka](https://www.youtube.com/playlist?list=PLQbQOmlGYH3uoa_mYHDJkl958B_dBiaqW) - edureka! Hindi

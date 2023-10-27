@@ -68,6 +68,7 @@
 * [Julia](#julia)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
+* [Laravel](#laravel)
 * [Linux](#linux)
 * [Lua](#lua)
 * [Machine Learning](#machine-learning)
@@ -1179,6 +1180,11 @@
 * [Kubernetes Tutorial for Beginners](https://www.youtube.com/playlist?list=PLy7NrYWoggjziYQIDorlXjTvvwweTYoNC) - TechWorld with Nana
 
 
+### Laravel
+
+* [Laravel 9 Tutorial](https://www.youtube.com/playlist?list=PL8p2I9GklV47Jszga434vZxOmY74Q1N_K) - Anil Sidhu (Code Step By Step)
+
+  
 ### Linux
 
 * [Fundamentals of Red Hat Enterprise Linux](https://www.edx.org/course/fundamentals-of-red-hat-enterprise-linux) - Chris Caillouet (edX)

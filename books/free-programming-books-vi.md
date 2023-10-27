@@ -2,6 +2,7 @@
 
 * [Go](#golang)
 * [Học máy](#machine-learning)
+* [Lập trình cơ bản](#lap-trinh-co-ban)
 
 
 ### <a id="golang"></a>Go
@@ -13,3 +14,7 @@
 
 * [Đắm chìm vào Học sâu](https://d2l.aivivn.com) - `trl.:` Nhóm dịch thuật Đắm chìm vào Học sâu (HTML)
 
+
+### <a id="lap-trinh-co-ban"></a>Lập trình cơ bản
+
+* [Lập trình cơ bản](https://thuviensach.vn/pdf/viewer.php?id=2d14c5) - CodeGym

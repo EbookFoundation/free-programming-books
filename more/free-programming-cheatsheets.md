@@ -127,8 +127,8 @@
 * [Big-O Cheat Sheet](http://bigocheatsheet.com)
 * [Big O Notation Cheat Sheet](https://algodaily.com/lessons/big-o-notation-cheat-sheet)
 * [Data Structures and Algorithms Cheat Sheet - Cheatography](https://cheatography.com/burcuco/cheat-sheets/data-structures-and-algorithms/)
-* [Data structures and algorithms study cheatsheets for coding interviews](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/)
 * [79 Last Moment DSA Sheet – Ace Interviews](https://takeuforward.org/interview-sheets/strivers-79-last-moment-dsa-sheet-ace-interviews) - Striver
+* [Data structures and algorithms study cheatsheets for coding interviews](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/)
 * [Top Coding Interview Problems](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/) - Striver
 
 

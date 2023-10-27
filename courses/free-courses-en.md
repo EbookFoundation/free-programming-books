@@ -1410,6 +1410,7 @@
 * [Python for Beginners](https://www.youtube.com/playlist?list=PLUaB-1hjhk8GHKfndKjyDMHPg_HlQ4vpK) - Alex The Analyst
 * [Python for Beginners (Full Course)](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3) - Telusko
 * [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai) - Joseph Santarcangelo (Coursera)
+* [Python for Hackers FULL Course | Bug Bounty & Ethical Hacking](https://www.youtube.com/playlist?list=PLBfoYdk-WAlzfRFHRKAmA7Vw2svoGqfb5) - PhD Security
 * [Python for Everybody](https://www.py4e.com/lessons) (Coursera Reading Materials with YouTube Videos)
 * [Python for OSINT. 21 day course for beginners](https://github.com/cipher387/python-for-OSINT-21-days/raw/main/Python%20for%20OSINT.%2021%20day%20course%20for%20beginners.pdf) - cyb_detective (PDF)
 * [Python for Programmers](https://www.codecademy.com/learn/python-for-programmers) - Codecademy
@@ -1558,7 +1559,6 @@
 * [MOOC Introduction to Cyber Security 2023](https://cybersecuritybase.mooc.fi) - University of Helsinki
 * [Nightmare](https://guyinatuxedo.github.io/index.html) - guyinatuxedo
 * [Professor Messer’s SY0-601 CompTIA Security+ Course](https://www.professormesser.com/security-plus/sy0-601/sy0-601-video/sy0-601-comptia-security-plus-course/) - Professor Messer
-* [Python for Hackers FULL Course | Bug Bounty & Ethical Hacking](https://www.youtube.com/playlist?list=PLBfoYdk-WAlzfRFHRKAmA7Vw2svoGqfb5) - PhD Security
 * [Reverse Engineering For Everyone!](https://0xinfection.github.io/reversing) - mytechnotalent
 * [Stanford Cryptography I](https://www.coursera.org/course/crypto) - Dan Boneh
 * [Stanford Cryptography II](https://www.coursera.org/course/crypto2) - Dan Boneh

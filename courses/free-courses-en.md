@@ -589,6 +589,7 @@
 * [NYU Deep Learning SP21](https://youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI) Alfredo Canziani
 * [Practical Deep Learning For Coders taught](http://www.fast.ai) - Jeremy Howard
 * [Practical Deep Learning for Coders, v3 (using fastai library)](https://course.fast.ai)
+* [Recurrent Neural Network](https://www.youtube.com/playlist?list=PLuhqtP7jdD8ARBnzj8SZwNFhwWT89fAFr) - Coding Lane
 * [Self-Paced Courses for Deep Learning](https://developer.nvidia.com/deep-learning-courses)
 * [Stanford CS 224N: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) (Stanford Online)
 * [Stanford CS230: Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb) (Stanford Online)

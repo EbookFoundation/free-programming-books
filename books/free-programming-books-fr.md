@@ -47,7 +47,7 @@
 * [Scratch](#scratch)
 * [SPIP](#spip)
 * [SQL](#sql)
-* [Systèmes d'exploitation](#systemes-dexploitation)
+* [Systèmes d'exploitation](#systèmes-dexploitation)
 * [TEI](#tei)
 
 
@@ -87,9 +87,11 @@
 * [Concevoir un Makefile](http://icps.u-strasbg.fr/people/loechner/public_html/enseignement/GL/make.pdf) - Vincent Loechner d'après Nicolas Zin (PDF)
 * [Introduction aux Makefile](http://eric.bachard.free.fr/UTBM_LO22/P07/C/Documentation/C/make/intro_makefile.pdf) (PDF)
 
+
 #### Mathématiques
 
 * [Approfondissements de lycée](https://fr.wikibooks.org/wiki/Approfondissements_de_lycée) - Zhuo Jia Dai (HTML)
+
 
 #### Pédagogie pour les enfants et adolescents
 

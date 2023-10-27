@@ -1,6 +1,7 @@
 ### Index
 
 * [Algorithms & Data Structures](#algorithms--data-structures)
+* [Artificial Intelligence](#artificial-intelligence)
 * [ASP.NET Core](#aspnet-core)
 * [C#](#csharp)
 * [Deep Learning](#deep-learning)
@@ -11,13 +12,19 @@
     * [Spring Boot](#spring-boot)
 * [JavaScript](#javascript)
     * [React](#react)
-* [Machine Learning](#machine-learning)
 * [PHP](#php)
 
 
 ### Algorithms & Data Structures
 
-* [Data Structures and Algorithms | Sinhala](https://www.youtube.com/playlist?list=PL495mke12zYDIwsabzb61OLdBpg3QDcXg) - CodePRO LK
+* [Data Structures and Algorithms \| Sinhala](https://www.youtube.com/playlist?list=PL495mke12zYDIwsabzb61OLdBpg3QDcXg) - CodePRO LK
+
+
+### Artificial Intelligence
+
+* [Deep Learning Tutorial \| Sinhala](https://www.youtube.com/playlist?list=PL495mke12zYBLz2j_RoYbIltaYxvaTd9k) - CodePRO LK
+* [Machine Learning Tutorial \| Sinhala](https://www.youtube.com/playlist?list=PL495mke12zYDHN9ONfcal1eQfo8VqmOgu) - CodePRO LK
+* [Machine Learning in Sinhala](https://www.youtube.com/playlist?list=PLtoqJbwHBeHwoVBWYTRvo_HAqwzvYMHGq) - Haritha Weerathunga
 
 
 ### ASP.NET Core
@@ -33,11 +40,6 @@
 ### <a id="csharp"></a>C\#
 
 * [C# Full Course in Sinhala](https://youtube.com/playlist?list=PLvvtf05eMZ2CXD2JdZgSBgyl13ODqHOkO) - Fiqri Ismail
-
-
-### Deep Learning
-
-* [Deep Learning Tutorial | Sinhala](https://www.youtube.com/playlist?list=PL495mke12zYBLz2j_RoYbIltaYxvaTd9k) - CodePRO LK
 
 
 ### Docker
@@ -63,7 +65,7 @@
 * [Introduction to Java](https://www.youtube.com/playlist?list=PLuhSdp06EMkLgaWqSPZKLqePVw-dtqaTT) - Masith Prasanga
 * [Object Oriented Programming ](https://youtube.com/playlist?list=PLqeCu_1ZdDl63h6YR3QsxcGOB7yDS7i3b) - LankaDroid Programming Kuppiya
 * [Sinhala Java Netbeans Lessons](https://youtube.com/playlist?list=PLA3ZeQncjeVu9VHevp2SmPCQ9muVO3fEB) - Chanux Bro
-* [Java Programming Tutorial | Sinhala](https://www.youtube.com/playlist?list=PL495mke12zYANEM9p7JT5-99Yx8Z7z_ib) - CodePRO LK
+* [Java Programming Tutorial \| Sinhala](https://www.youtube.com/playlist?list=PL495mke12zYANEM9p7JT5-99Yx8Z7z_ib) - CodePRO LK
 
 
 ### JavaScript
@@ -72,15 +74,9 @@
 * [JavaScript Tutorial in Sinhala](https://youtube.com/playlist?list=PLYmyc7wRFoQjxkHAzHh1UIdU7ZdjTQvQt) - BestJobsLK
 
 
-### Machine Learning
-
-* [Machine Learning Tutorial | Sinhala](https://www.youtube.com/playlist?list=PL495mke12zYDHN9ONfcal1eQfo8VqmOgu) - CodePRO LK
-* [Machine Learning in Sinhala](https://www.youtube.com/playlist?list=PLtoqJbwHBeHwoVBWYTRvo_HAqwzvYMHGq) - Haritha Weerathunga
-
-
 ### PHP
 
-* [PHP Full Course in Sinhala | 2022](https://www.youtube.com/watch?v=RdxtOQUflrk) - AUK Learning Center
+* [PHP Full Course in Sinhala \| 2022](https://www.youtube.com/watch?v=RdxtOQUflrk) - AUK Learning Center
 * [PHP Programming tutorial for beginners in Sinhala](https://www.youtube.com/playlist?list=PLcQPAs1DjFpc4NIeAd4QzxsZYs67UQq6c) - DTK TV
 
 
@@ -92,10 +88,10 @@
 
 ### React
 
-* [Fundamentals | React JS in Sinhala](https://youtube.com/playlist?list=PLvvtf05eMZ2DpDyWwmAjEuicvVxx4vIYB) - Fiqri Ismail
+* [Fundamentals \| React JS in Sinhala](https://youtube.com/playlist?list=PLvvtf05eMZ2DpDyWwmAjEuicvVxx4vIYB) - Fiqri Ismail
 * [MERN Stack Developer - Beginners](https://www.youtube.com/playlist?list=PLvfC6i-hEZBnqqF7giszuYI0iqenU5NY0) -  TechWithGeorge
-* [REACT | MERN CRUD App in Sinhala](https://youtube.com/playlist?list=PLtoqJbwHBeHzAooLCGOzYVE9mkAeCnT9y) - Haritha Weerathunga
-* [React JS Full Course in Sinhala | 2023](https://www.youtube.com/watch?v=tM02uzhHDPI&t=759s) -  AUK Learning Center
+* [REACT \| MERN CRUD App in Sinhala](https://youtube.com/playlist?list=PLtoqJbwHBeHzAooLCGOzYVE9mkAeCnT9y) - Haritha Weerathunga
+* [React JS Full Course in Sinhala \| 2023](https://www.youtube.com/watch?v=tM02uzhHDPI&t=759s) -  AUK Learning Center
 * [React Js Tutorial - Sinhala](https://youtube.com/playlist?list=PL68g11dFe-_VDZNEjp3E4lD_OWaEEj0PY&feature=shared) - Code With Banchi 
 
 

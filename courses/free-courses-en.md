@@ -1184,7 +1184,7 @@
 
 * [Laravel 9 Tutorial](https://www.youtube.com/playlist?list=PL8p2I9GklV47Jszga434vZxOmY74Q1N_K) - Anil Sidhu (Code Step By Step)
 
-  
+
 ### Linux
 
 * [Fundamentals of Red Hat Enterprise Linux](https://www.edx.org/course/fundamentals-of-red-hat-enterprise-linux) - Chris Caillouet (edX)

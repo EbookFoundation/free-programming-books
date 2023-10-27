@@ -271,7 +271,6 @@
 * [Node.js/Express Cheatsheet](https://courses.cs.washington.edu/courses/cse154/19su/resources/assets/cheatsheets/node-cheatsheet.pdf) - Washington CSE 154: Web Programming (PDF)
 
 
-
 #### Nuxt.js
 
 * [Nuxt.js Cheat Sheet](https://devdojo.com/suniljoshi19/nuxtjs-cheat-sheet) - Sunil Joshi (HTML)

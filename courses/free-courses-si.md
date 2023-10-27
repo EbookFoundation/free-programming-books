@@ -4,7 +4,6 @@
 * [Artificial Intelligence](#artificial-intelligence)
 * [ASP.NET Core](#aspnet-core)
 * [C#](#csharp)
-* [Deep Learning](#deep-learning)
 * [Docker](#docker)
 * [Flutter](#flutter)
 * [HTML and CSS](#html-and-css)

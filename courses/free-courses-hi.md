@@ -130,6 +130,11 @@
 * [Complete Arduino Tutorial Learn Arduino Programming in Hindi](https://www.youtube.com/playlist?list=PLg2KtP8cgLjzNu5G2bQQLxFeBiqk8IO0s) - Techtalks With Vivek
 
 
+### Artificial Intelligence
+
+* [Generative AI Series - Showcasing Generative AI By Building Projects](https://www.youtube.com/playlist?list=PLu0W_9lII9aiS4rUVp2jXwIvCruo27sG6) - CodeWithHarry
+
+
 ### Assembly
 
 * [Assembly Language programming tutorial 8086 in hindi learn full](https://www.youtube.com/playlist?list=PLAZj-jE2acZLdYT7HLFgNph190z2cjmAG) - Malik Shahzaib Official

@@ -481,8 +481,8 @@
 
 #### Redux
 
-* [Redux tutorial in Hindi](https://youtube.com/playlist?list=PL8p2I9GklV47TDYUq8RmFzeI9CgOoVgpJ&si=p-4s6qJ31ReIbKqj) - Code Step by Step
 * [Redux toolkit crash course &#124; Chai aur React Series](https://www.youtube.com/watch?v=1i04-A7kfFI) - Hitesh Choudhary (Chai aur Code)
+* [Redux tutorial in Hindi](https://youtube.com/playlist?list=PL8p2I9GklV47TDYUq8RmFzeI9CgOoVgpJ&si=p-4s6qJ31ReIbKqj) - Code Step by Step
 
 
 #### Vue.js

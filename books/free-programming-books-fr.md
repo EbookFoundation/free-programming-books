@@ -90,7 +90,7 @@
 
 #### Mathématiques
 
-* [Approfondissements de lycée](https://fr.wikibooks.org/wiki/Approfondissements_de_lycée) - Zhuo Jia Dai (HTML)
+* [Approfondissements de lycée](https://fr.wikibooks.org/wiki/Approfondissements_de_lycée) - Wikibooks contributors, Zhuo Jia Dai, `ctb.:` R3m0t, `ctb.:` Martin Warmer (HTML)
 
 
 #### Pédagogie pour les enfants et adolescents

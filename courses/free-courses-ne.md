@@ -34,7 +34,7 @@
 #### SQL
 
 * [SQL Full Course In Nepali](https://www.youtube.com/watch?v=Lt52pYaoSR8&list=PL2OJkQtHPRicxyldFGNJRRG4WwNe0Kjqe&index=2) - Technology Channel
-
+* [SQL in Web Developement](https://www.udemy.com/course/sql-in-web-development/) - Webb Warrior (Udemy)
 
 #### C
 
@@ -49,4 +49,5 @@
 ### Web Development
 
 * [WEB Development Complete Series In Nepali](https://www.youtube.com/playlist?list=PL2OJkQtHPRiejkQq4IX6Vf0NXbeEiQGIt) - Technology Channel
+
 

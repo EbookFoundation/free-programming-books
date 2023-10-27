@@ -477,7 +477,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [The little book about OS development](http://littleosbook.github.io) - Erik Helin, Adam Renberg
 * [The New C Standard - An Economic and Cultural commentary (2009)](http://www.knosof.co.uk/cbook/cbook.html) - Derek M. Jones (PDF)
 * [TONC GBA Programming - Game Boy Advance Development](http://www.coranac.com/tonc/text/toc.htm)
-
+* [An Introduction to C & GUI Programming- Simon Long](https://archive.org/details/CGUIProgramming)
 
 ### <a id="csharp"></a>C\#
 

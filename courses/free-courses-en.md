@@ -262,14 +262,14 @@
 * [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer) - Romeo Kienzler, Saeed Aghabozorgi, Joseph Santarcangelo, Alex Aklson et al. (Coursera)
 * [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow) - DeepLearning.ai (Coursera)
 * [MIT Deep Learning and Artificial Intelligence Lectures](https://deeplearning.mit.edu) - Lex Fridman, et al.
-* [MIT's Artificial Intelligence](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) - Prof. Patrick Henry Winston (MIT OpenCourseWare)
+* [MIT's Artificial Intelligence](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) - Patrick Henry Winston (MIT OpenCourseWare)
 * [Stanford CS221: Artificial Intelligence: Principles and Techniques \| Autumn 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX) - Stanford Online
 
 
 ### Assembly
 
 * [Binary Exploitation / Memory Corruption by LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN) - LiveOverflow
-* [C Programming and Assembly Language](https://nptel.ac.in/courses/106/106/106106210/) - Prof. Janakiraman Viraraghavan, IIT Madras (NPTEL)
+* [C Programming and Assembly Language](https://nptel.ac.in/courses/106/106/106106210/) - Janakiraman Viraraghavan, IIT Madras (NPTEL)
 * [Introduction to Assembly Programming with ARM](https://www.udemy.com/course/introduction-to-assembly-programming-with-arm/) - Scott Cosentino (Udemy)
 * [Introduction To Reverse Engineering Software](http://opensecuritytraining.info/IntroductionToReverseEngineering.html) - Matt Briggs (OpenSecurityTraining)
 * [Introductory Intel x86: Architecture, Assembly, Applications, & Alliteration](http://opensecuritytraining.info/IntroX86.html) - Xeno Kovah (OpenSecurityTraining)
@@ -317,6 +317,7 @@
 * [Build an IoT Blockchain Network for a Supply Chain](https://cognitiveclass.ai/courses/blockchain-iot-node-red-food-network) - CognitiveClass.ai
 * [Build and Deploy Your First Decentralized App with Etherem](https://www.udemy.com/course/your-first-decentralized-app/) - Gary Simon (Udemy)
 * [CryptoZombies.io](https://cryptozombies.io) - CleverFlare, Loom Network
+* [Learn Blockchain](https://www.youtube.com/playlist?list=PLlp912GlUiC1xPnwVmKgIiuMERetMwre9) - Roomyan
 * [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial](https://www.youtube.com/watch?v=M576WGiDBdQ) - Patrick Collins (freeCodeCamp.org)
 
 
@@ -524,6 +525,7 @@
 * [More Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/moredataminingwithweka/)
 * [NICO 101 - Introduction to Programming for Big Data](https://github.com/amarallab/Amaral_Lab_Intro_to_Data_Science) - Luis Amaral, Helio Tejedor, Luiz Alves
 * [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-3)
+* [Time Series Modelling and Analysis](https://www.youtube.com/playlist?list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK) - AIEngineering
 
 
 ### Databases
@@ -580,7 +582,7 @@
 * [Deep Multi-Task and Meta Learning](https://cs330.stanford.edu) - Chelsea Finn (Stanford University)
 * [Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/) - Sergey Levine
 * [Deep Reinforcement Learning Course - Hugging Face](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
-* [Exploring Fairness in Machine Learning for International Development](https://ocw.mit.edu/resources/res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020) - Dr. Richard Fletcher, Prof. Daniel Frey, Dr. Mike Teodorescu, Amit Gandhi, Audace Nakeshimana (MIT OpenCourseWare)
+* [Exploring Fairness in Machine Learning for International Development](https://ocw.mit.edu/resources/res-ec-001-exploring-fairness-in-machine-learning-for-international-development-spring-2020) - Richard Fletcher, Daniel Frey, Mike Teodorescu, Amit Gandhi, Audace Nakeshimana (MIT OpenCourseWare)
 * [Full Stack Computer Vision Tutorial with Tensorflow, Python, Tensorflow.JS with React.JS](https://www.youtube.com/playlist?list=PLgNJO2hghbmhUeJuv7PyVYgzhlgt2TcSr) - Nicholas Renotte
 * [Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1) - Hugging Face
 * [Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning) - Ryan Holbrook
@@ -590,6 +592,7 @@
 * [NYU Deep Learning SP21](https://youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI) Alfredo Canziani
 * [Practical Deep Learning For Coders taught](http://www.fast.ai) - Jeremy Howard
 * [Practical Deep Learning for Coders, v3 (using fastai library)](https://course.fast.ai)
+* [Recurrent Neural Network](https://www.youtube.com/playlist?list=PLuhqtP7jdD8ARBnzj8SZwNFhwWT89fAFr) - Coding Lane
 * [Self-Paced Courses for Deep Learning](https://developer.nvidia.com/deep-learning-courses)
 * [Stanford CS 224N: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) (Stanford Online)
 * [Stanford CS230: Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb) (Stanford Online)
@@ -852,6 +855,7 @@
 * [CS193p Developing Apps for IOS](https://cs193p.sites.stanford.edu) - Stanford
 * [CS50 2019 - iOS Track](https://www.youtube.com/playlist?list=PLhQjrBD2T3810ZX79Xrgj8X382QaWbk_J) - David J. Malan (Harvard OpenCourseWare)
 * [Developing iOS 11 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-11-apps-with-swift/id1309275316)
+* [Get Started with iOS Development (iOS 13, Swift 5)](https://www.youtube.com/playlist?list=PLSzsOkUDsvdu5Mm67aBYs2YPu2OM4mFzt) - London App Brewery
 * [Ray Wenderlich iOS Tutorial](https://www.raywenderlich.com/category/ios)
 * [SwiftUI Tutorials](https://www.youtube.com/playlist?list=PL8seg1JPkqgHyWCBHwXGmfysQpEQTfC3z) - Sean Allen
 * [SwiftUI Tutorials for Beginners](https://www.youtube.com/playlist?list=PLMRqhzcHGw1Z-lZaaun3A3mV9PbEfHANI) - CodeWithChris
@@ -901,7 +905,7 @@
 * [Object-Oriented programming with Java, part II](https://moocfi.github.io/courses/2013/programming-part-2/)
 * [Princeton Algorithms, Part 1](https://www.coursera.org/course/algs4partI)
 * [Problem Solving With Java](https://www.udacity.com/course/intro-to-java-programming--cs046) (Udacity)
-* [Programming in Java](https://nptel.ac.in/courses/106/105/106105191/) - Prof. Debasis Samanta (NPTEL)
+* [Programming in Java](https://nptel.ac.in/courses/106/105/106105191/) - Debasis Samanta (NPTEL)
 * [Servlet & JSP Tutorial Full Course](https://www.youtube.com/watch?v=OuBUUkQfBYM) - Telusko (Navin Reddy)
 * [Software Construction in Java](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.1x+3T2016/about) - MIT Open Learning Library
 * [Spring 5 Core - An Ultimate Guide](https://www.udemy.com/learn-spring-5-core-from-scratch/) - Somnath Musib (Udemy)
@@ -1333,6 +1337,7 @@
 ### PHP
 
 * [Laravel 5.8 Tutorial From Scratch](https://www.youtube.com/playlist?list=PLpzy7FIRqpGD0kxI48v8QEVVZd744Phi4) - Coder's Tape (2019)
+* [Laravel 9 Tutorial](https://www.youtube.com/playlist?list=PL8p2I9GklV47Jszga434vZxOmY74Q1N_K) - Anil Sidhu (Code Step By Step)
 * [Laravel From Scratch 2022 \| 4+ Hour Course](https://www.youtube.com/watch?v=MYyJ4PuL4pY) - Traversy Media
 * [Learn how to program: PHP](https://www.learnhowtoprogram.com/php) - Epicodus Inc.
 * [Learn PHP](https://www.sololearn.com/learning/1059) - *registration required*
@@ -1397,7 +1402,7 @@
 * [Practical Python: An Immersive Python Course](https://practical.learnpython.dev) - Nina Zakharenko
 * [Practical Python Programming](https://dabeaz-course.github.io/practical-python/) - David Beazley
 * [Problem Solving, Python Programming, and Video Games](https://www.coursera.org/learn/problem-solving-programming-video-games) - Duane Szafron, Paul Lu (Coursera)
-* [Programming, Data Structures And Algorithms Using Python](https://nptel.ac.in/courses/106/106/106106145/) - Prof. Madhavan Mukund (NPTEL)
+* [Programming, Data Structures And Algorithms Using Python](https://nptel.ac.in/courses/106/106/106106145/) - Madhavan Mukund (NPTEL)
 * [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) (Udacity)
 * [Python 101 – Introduction to Programming](https://www.tutorialspoint.com/python_101_andndash_introduction_to_programming/index.asp) - Zenva (Tutorials Point)
 * [Python 3](https://www.sololearn.com/Course/Python/) (SoloLearn)
@@ -1538,7 +1543,7 @@
 
 ### Security
 
-* [Computer Systems Security](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014) - Prof. Nickolai Zeldovich (MIT OpenCourseWare)
+* [Computer Systems Security](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014) - Nickolai Zeldovich (MIT OpenCourseWare)
 * [Ethical Hacking](https://www.youtube.com/playlist?list=PLDV15dUauYyOcloXu7GXHJ6Xxq5XTBg1k) - Cyber Square
 * [Ethical Hacking](https://www.hacker101.com/videos) - Hacker101
 * [Ethical Hacking - Basics (Kali 2021)](https://www.udemy.com/course/ethical-hacking-basics-kali-20211) - Arthur Salmon (Udemy)

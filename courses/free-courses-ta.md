@@ -108,7 +108,7 @@
 ### Next JS
 
 * [Next JS Beginner series Tamil](https://www.youtube.com/playlist?list=PLQeZxRj52I-H86pt2nVb14UB0vKtK74qZ) - Tamil Coding Wizard
-* [Next JS Tamil](https://www.youtube.com/playlist?list=PLQeZxRj52I-GmZBy4-tPhwwL8AEjW2t8G) - Tamil Coding Wizard
+* [React JS \| Tutorial \| Tamil](https://www.youtube.com/playlist?list=PLQeZxRj52I-GmZBy4-tPhwwL8AEjW2t8G) - Tamil Coding Wizard
 
 
 ### Node JS

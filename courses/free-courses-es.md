@@ -99,7 +99,7 @@
 * [Ingeniería del Software II (2011)](https://ocw.unican.es/course/view.php?id=170)
 * [Introducción a la Gestión de Proyectos](https://www.edx.org/course/introduccion-la-gestion-de-proyectos-upvalenciax-igp101-x)
 * [Organización y gestión del proyecto (2009)](https://ocw.unican.es/course/view.php?id=207)
-* [Procesadores de Lenguaje (2012)](https://ocw.unican.es/course/view.php?id=158)
+* [Procesadores de Lenguaje (2012)](https://ocw.unican.es/course/view.php?id=238)
 * [Sistemas operativos avanzados - 'scrum - bsd- Qt' (2015)](https://campusvirtual.ull.es/ocw/course/view.php?id=119)
 
 

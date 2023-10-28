@@ -2222,7 +2222,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 * [A community-driven Ruby style guide](https://github.com/bbatsov/ruby-style-guide)
 * [Core Ruby Tools](https://launchschool.com/books/core_ruby_tools) - Launch School (HTML)
-* [Design Patterns in Ruby](https://github.com/abdelrahman-hsn/ruby-ebooks/blob/master/Design%20Patterns%20in%20Ruby%2C%20Addison-Wesley%20(2008).pdf) - Addison-Wesley
+* [Design Patterns in Ruby](https://github.com/abdelrahman-hsn/ruby-ebooks/blob/master/Design%20Patterns%20in%20Ruby%2C%20Addison-Wesley%20(2008).pdf) - Addison Wesley
 * [Developing Games With Ruby](https://leanpub.com/developing-games-with-ruby/read) - Tomas Varaneckas
 * [Essential Ruby](https://www.programming-books.io/essential/ruby/) - Krzysztof Kowalczyk, StackOverflow Contributors
 * [I Love Ruby](https://i-love-ruby.gitlab.io)

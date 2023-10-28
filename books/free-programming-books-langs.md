@@ -540,6 +540,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [LearnCpp.com](https://www.learncpp.com) (HTML)
 * [Learning C++ eBook](https://riptutorial.com/Download/cplusplus.pdf) - Compiled from StackOverflow Documentation (PDF)
 * [Matters Computational: Ideas, Algorithms, Source Code](http://www.jjj.de/fxt/fxtbook.pdf) - Jorg Arndt (PDF)
+* [Modern C++ Tutorial: C++11/14/17/20 On the Fly](https://www.changkun.de/modern-cpp/pdf/modern-cpp-tutorial-en-us.pdf) - Changkun Ou (PDF)
 * [More C++ Idioms](https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms) - Sumant Tambe, et al. (WikiBooks)
 * [Open Data Structures (In C++)](http://opendatastructures.org/ods-cpp.pdf) - Pat Morin (PDF)
 * [Programming Fundamentals - A Modular Structured Approach using C++](https://learning.hccs.edu/faculty/ken.busbee/programming-fundamentals-a-modular-structured-approach-using-c) - Kenneth Leroy Busbee (PDF)
@@ -551,7 +552,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Think C++: How To Think Like a Computer Scientist](https://greenteapress.com/wp/think-c/) - Allen B. Downey (PDF)
 * [Thinking in C++, Second Edition, Vol. 1.](https://archive.org/details/TICPP2ndEdVolOne) - Bruce Eckel [(Vol. 2)](https://archive.org/details/TICPP2ndEdVolTwo)
 * [Working Draft, Standard for Programming Language C++, 2021 Revision](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2021/n4885.pdf) - Thomas Köppe (PDF) *(:construction: in process)*
-* [Modern C++ Tutorial: C++11/14/17/20 On the Fly](https://www.changkun.de/modern-cpp/pdf/modern-cpp-tutorial-en-us.pdf) - Changkun Ou (PDF)
 
 
 ### Carbon

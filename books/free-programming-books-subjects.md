@@ -857,6 +857,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Code Simplicity: The Fundamentals of Software](https://www.codesimplicity.com/book.pdf) - Max Kanat-Alexander (PDF)
 * [Data-Oriented Design](https://www.dataorienteddesign.com/dodmain/dodmain.html)
 * [Designing Event-Driven Systems. Concepts and Patterns for Streaming Services with Apache Kafka](https://assets.confluent.io/m/7a91acf41502a75e/original/20180328-EB-Confluent_Designing_Event_Driven_Systems.pdf) - Ben Stopford (PDF)
+* [Designing Web APIs](https://www.oreilly.com/library/view/designing-web-apis/9781492026914/) -  Brenda Jin, Saurabh Sahni, Amir Shevat
 * [Developing Reactive Microservices](https://info.lightbend.com/COLL-20XX-Developing-Reactive-Microservices_Landing-Page.html) (email address *requested*, not required)
 * [Domain Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly)
 * [Domain-Driven Design Reference](https://www.domainlanguage.com/ddd/reference) - Eric Evans
@@ -886,6 +887,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Source Making Design Patterns and UML](https://sourcemaking.com/design_patterns)
 * [Test Driven Development, Extensive Tutorial](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski
 * [The Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog)
+* [The Design of Web APIs](https://www.oreilly.com/library/view/the-design-of/9781617295102/) - Arnaud Lauret
 * [The Site Reliability Workbook](https://landing.google.com/sre/workbook/toc/) - Betsy Beyer, Niall Richard Murphy, David K. Rensin, Kent Kawahara, Stephen Thorne
 * [Web API Design](https://pages.apigee.com/rs/apigee/images/api-design-ebook-2012-03.pdf) - Brian Mulloy (PDF)
 * [Working with Web APIs](https://launchschool.com/books/working_with_apis) - Launch School

@@ -41,6 +41,7 @@ ADV - Продвинутый. Тонкости.
 * [Основы разработки на С++: коричневый пояс](https://www.coursera.org/learn/c-plus-plus-brown) - Шишков Илья Иванович, Полднев Антон Вячеславович, Матросов Михаил Александрович, Alexey Zobnin, Субоч Николай Михайлович (Coursera) (INT)
 * [Основы разработки на С++: красный пояс](https://www.coursera.org/learn/c-plus-plus-red) - Шишков Илья Иванович, Полднев Антон Вячеславович (Coursera) (INT)
 * [Основы разработки на С++: черный пояс](https://www.coursera.org/learn/c-plus-plus-black) - Шишков Илья Иванович, Полднев Антон Вячеславович, Субоч Николай Михайлович, Alexey Zobnin, Матросов Михаил Александрович (Coursera) (INT)
+* [Руководство по языку программирования C++](https://metanit.com/cpp/tutorial/) - Metanit (BEG/INT)
 * [Уроки по С++](https://ravesli.com/uroki-cpp) - Ravesli (INT)
 
 
@@ -121,6 +122,7 @@ ADV - Продвинутый. Тонкости.
 
 * [Введение в Kotlin JVM](https://stepik.org/course/5448) - Stepik (BEG)
 * [Разработка Android-приложений на Kotlin](https://stepik.org/course/4792) - Stepik (BEG)
+* [Руководство по языку Kotlin](https://metanit.com/kotlin/tutorial/) - Metanit (BEG/INT)
 
 
 ### Perl
@@ -130,8 +132,9 @@ ADV - Продвинутый. Тонкости.
 
 ### PHP
 
+* [Руководство по PHP](https://metanit.com/php/tutorial/) - Metanit (BEG/INT)
 * [PHP - первое знакомство](https://stepik.org/course/87314) - Stepik (BEG)
-* [PHP для начинающих](https://ru.code-basics.com/languages/php) (BEG)
+* [PHP для начинающих](https://ru.code-basics.com/languages/php) - Code-basics (BEG)
 * [PHP: Основы](https://ru.hexlet.io/courses/php-basics) - Hexlet (BEG)
 
 

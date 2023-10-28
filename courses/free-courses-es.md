@@ -159,7 +159,7 @@
 ### Programación
 
 * [Aprende JavaScript](https://aprendejavascript.org) - Jonathan MirCha
-* [Aprende javascript](https://www.aprendejavascript.dev) - Miguel Ángel Durán
+* [Aprende javascript](https://www.aprendejavascript.dev) - Miguel Ángel Durán "midudev"
 * [Aprendemos JavaScript](https://www.freecodecamp.org/espanol/news/aprende-javascript-curso-completo-desde-cero/) - Estefania Cassingena Navone
 * [Clojure](https://programadorwebvalencia.com/cursos/clojure/introducci%C3%B3n/) - Andros Fenollosa (Programador Web Valencia)
 * [Curso C#](https://www.pildorasinformaticas.es/course/curso-c) - Juan Díaz (Píldoras Informáticas)
@@ -209,7 +209,7 @@
 * [Curso gratuito de JavaScript](https://argentinaprograma.com) - Fabricio Sodano (Argentina Programa)
 * [Curso gratuito de Next.js y Firebase](https://www.youtube.com/playlist?list=PLV8x_i1fqBw1VR86y4C72xMGJ8ifjBwJ6) - Miguel Ángel Durán «midudev»
 * [Curso JSON. De Novato a Experto](https://www.youtube.com/playlist?list=PLrDTf5qnZdEAiHO19QB9hq5QXAef1h8oY) - Camilo Martínez "Equimancho"
-* [Curso React Native desde cero](https://www.youtube.com/watch?v=qi87b6VcIHY&t=1004s) - Miguel Ángel Durán
+* [Curso React Native desde cero](https://www.youtube.com/watch?v=qi87b6VcIHY&t=1004s) - Miguel Ángel Durán "midudev"
 * [Curso React.js desde cero - Crea una aplicación paso a paso](https://www.youtube.com/playlist?list=PLV8x_i1fqBw0B008sQn79YxCjkHJU84pC) - Miguel Ángel Durán «midudev»
 * [Detección de objetos](https://www.coursera.org/learn/deteccion-objetos)
 * [Diseño Web - Principios de CSS](https://programadorwebvalencia.com/cursos/css/introducci%C3%B3n/) - Andros Fenollosa (Programador Web Valencia)

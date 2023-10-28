@@ -10,7 +10,7 @@
 
 ### <a id="algorithm"></a>Algorithms
 
-* [Data Structures and Algorithms Analysis Complete Course in Hindi/Urdu | Data structures by Fahad Hussain | data structures and algorithms tutorial](https://www.youtube.com/playlist?list=PLtCBuHKmdxOfPNlAKWxBqdznCcXV4iWCz) - Fahad Hussain
+* [Data Structures and Algorithms Analysis Complete Course in Hindi/Urdu \| Data structures by Fahad Hussain \| data structures and algorithms tutorial](https://www.youtube.com/playlist?list=PLtCBuHKmdxOfPNlAKWxBqdznCcXV4iWCz) - Fahad Hussain
 
 
 ### <a id="android"></a>Android

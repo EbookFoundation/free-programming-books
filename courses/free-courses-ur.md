@@ -8,7 +8,7 @@
 * [Python](#python)
 
 
-### < id="algorithm"></a>Algorithm
+### <a id="algorithm"></a>Algorithm
 
 * [Data Structures and Algorithms Analysis Complete Course in Hindi/Urdu | Data structures by Fahad Hussain | data structures and algorithms tutorial](https://www.youtube.com/playlist?list=PLtCBuHKmdxOfPNlAKWxBqdznCcXV4iWCz) - Fahad Hussain
 

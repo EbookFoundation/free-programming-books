@@ -2229,6 +2229,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Just Enough Ruby to Get By](http://jasonkim.ca/projects/just_enough_ruby_to_get_by/)
 * [Learn Ruby First](https://essenceofchaos.gitbooks.io/learn-ruby-first/content/) - Frederick John
 * [Learn Ruby in Y minutes](https://learnxinyminutes.com/docs/ruby/)
+* [Learn Ruby on Rails](https://learn-rails.com/products/learn-rails-1.pdf) - Daniel Kehoe (PDF)
 * [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/) - Zed A. Shaw
 * [Learn to Program](http://pine.fm/LearnToProgram/) - Chris Pine
 * [Mastering Roda](https://fiachetti.gitlab.io/mastering-roda) - Federico Iachetti, Avdi Grimm, Jeremy Evans

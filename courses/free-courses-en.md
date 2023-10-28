@@ -382,6 +382,7 @@
 * [Introduction to Programming through C++](https://youtube.com/playlist?list=PLEAYkSg4uSQ2qzihjdDEseWrrY1DyxH9P&si=itDYt3Yo9wn2XarO) - NPTEL
 * [Learn C++ With Me](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lmGC8VW0iu6qfMHjy7gLQ3) - Tech With Tim
 * [Sololearn C++](https://www.sololearn.com/learning/1051) - *registration required*
+* [C++ Interview Questions](https://www.youtube.com/playlist?list=PLliXPok7ZonkJEe0cUbVZ3umyKbFA-Dd9) - Keerti Purswani
 
 
 ### Clojure

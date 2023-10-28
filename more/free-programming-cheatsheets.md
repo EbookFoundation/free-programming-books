@@ -266,7 +266,7 @@
 
 #### Node.js
 
-* [Node.js Cheatsheet](https://www.codecademy.com/learn/learn-node-js/modules/intro-to-node-js/cheatsheet) - Codecademy (HTML)
+* [Introduction to Node.js](https://www.codecademy.com/learn/learn-node-js/modules/intro-to-node-js/cheatsheet) - Codecademy
 * [Node.js Cheatsheet ZTM](https://zerotomastery.io/cheatsheets/node-js-cheat-sheet) - Zero To Mastery
 * [Node.js/Express Cheatsheet](https://courses.cs.washington.edu/courses/cse154/19su/resources/assets/cheatsheets/node-cheatsheet.pdf) - Melissa Hovik (PDF)
 

@@ -133,8 +133,8 @@ ADV - Продвинутый. Тонкости.
 ### PHP
 
 * [Руководство по PHP](https://metanit.com/php/tutorial/) - Metanit (BEG/INT)
-* [PHP для начинающих](https://ru.code-basics.com/languages/php) - Code-basics (BEG)
 * [PHP - первое знакомство](https://stepik.org/course/87314) - Stepik (BEG)
+* [PHP для начинающих](https://ru.code-basics.com/languages/php) - Code-basics (BEG)
 * [PHP: Основы](https://ru.hexlet.io/courses/php-basics) - Hexlet (BEG)
 
 

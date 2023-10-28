@@ -510,8 +510,8 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Introductory Statistics for the Life and Biomedical Sciences](https://www.openintro.org/book/isrs/) - Julie Vu, David Harrington
 * [Kalman and Bayesian Filters in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
 * [Knapsack Problems - Algorithms and Computer Implementations](http://www.or.deis.unibo.it/knapsack.html) - Silvano Martello, Paolo Toth
-* [Lecture Notes of Linear Algebra](https://home.iitk.ac.in/~psraj/mth102/lecture_notes.html) - Dr. P. Shunmugaraj, IIT Kanpur (PDF)
-* [Lecture Notes on Linear Algebra](https://home.iitk.ac.in/~arlal/book/LA_Solution_Dec20.pdf) - Dr. Arbind K Lal, Sukant Pati (PDF) (:construction: *in process*)
+* [Lecture Notes of Linear Algebra](https://home.iitk.ac.in/~psraj/mth102/lecture_notes.html) - P. Shunmugaraj, IIT Kanpur (PDF)
+* [Lecture Notes on Linear Algebra](https://home.iitk.ac.in/~arlal/book/LA_Solution_Dec20.pdf) - Arbind K Lal, Sukant Pati (PDF) (:construction: *in process*)
 * [Lies, Damned Lies, or Statistics: How to Tell the Truth with Statistics](https://www.poritz.net/jonathan/share/ldlos.pdf) - Jonathan A. Poritz (PDF)
 * [Linear Algebra](https://www.math.ucdavis.edu/~linear/linear-guest.pdf) - David Cherney et al. (PDF)
 * [Linear Algebra](http://joshua.smcvt.edu/linearalgebra/) - Jim Hefferon
@@ -718,7 +718,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [The Little Book About OS Development](https://littleosbook.github.io) - Erik Helin, Adam Renberg - (PDF, HTML)
 * [The Little Book of Semaphores](https://greenteapress.com/semaphores/) - Allen B. Downey (PDF)
 * [Think OS: A Brief Introduction to Operating Systems](https://www.greenteapress.com/thinkos/index.html) - Allen B. Downey (PDF)
-* [UNIX Application and System Programming, lecture notes](http://www.compsci.hunter.cuny.edu/~sweiss/course_materials/unix_lecture_notes.php) - Prof. Stewart Weiss (PDF)
+* [UNIX Application and System Programming, lecture notes](http://www.compsci.hunter.cuny.edu/~sweiss/course_materials/unix_lecture_notes.php) - Stewart Weiss (PDF)
 * [Writing a Simple Operating System from Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf) - Nick Blundell (PDF)
 * [Xv6, a simple Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2022/xv6.html) - Russ Cox, Frans Kaashoek and Robert Morris (PDF, HTML)
 
@@ -759,7 +759,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [A Short Introduction to the Art of Programming (1971)](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD316.html) - Edsger W. Dijkstra (HTML)
 * [Design of a Programmer](https://www.smashwords.com/books/view/639609) - Prakash Hegade (PDF)
-* [Introduction to Computer Science](https://www.cse.iitd.ernet.in/~suban/CSL102/) - Prof. Subhashis Banerjee, IIT Delhi
+* [Introduction to Computer Science](https://www.cse.iitd.ernet.in/~suban/CSL102/) - Subhashis Banerjee, IIT Delhi
 * [Introduction to Computing](https://www.computingbook.org) - David Evans
 * [Principled Programming / Introduction to Coding in Any Imperative Language](https://www.cs.cornell.edu/info/people/tt/Principled_Programming.html) - Tim Teitelbaum
 * [Programming and Programming Languages](https://papl.cs.brown.edu/2019/) - Shriram Krishnamurthi
@@ -940,7 +940,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Hg Init: a Mercurial Tutorial](https://hginit.github.io) - Joel Spolsky
 * [How to Collaborate on GitHub: A mini book about collaborating on GitHub](https://github.com/eonist/How-to-collaborate-on-github) - André J
 * [Introduction to Git and Github](https://launchschool.com/books/git) - Launch School
-* [Introduction to Git and Github - Tutorial](https://cse.unl.edu/~cbourke/gitTutorial.pdf) - Dr. Chris Bourke (PDF)
+* [Introduction to Git and Github - Tutorial](https://cse.unl.edu/~cbourke/gitTutorial.pdf) - Chris Bourke (PDF)
 * [Introduction to Git and GitHub eBook](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook) - Bobby Iliev (Markdown, PDF)
 * [Learn Git - Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook/command-line/introduction) - Tobias Günther
 * [Mercurial: The Definitive Guide](http://hgbook.red-bean.com) - Bryan O'Sullivan

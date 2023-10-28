@@ -47,6 +47,7 @@ ADV - Продвинутый. Тонкости.
 ### Clojure
 
 * [Курс Clojure](https://clojurecourse.by) (BEG)
+* [Clojure: бесплатный курс для разработчиков](https://code-basics.com/ru/languages/clojure) - Code-basics (BEG)
 
 
 ### Dart
@@ -70,15 +71,15 @@ ADV - Продвинутый. Тонкости.
 
 ### HTML and CSS
 
-* [CSS для начинающих](https://ru.code-basics.com/languages/css) (BEG)
-* [HTML для начинающих](https://ru.code-basics.com/languages/html) (BEG)
+* [CSS для начинающих](https://ru.code-basics.com/languages/css) - Code-basics (BEG)
+* [HTML для начинающих](https://ru.code-basics.com/languages/html) - Code-basics (BEG)
 
 
 ### Java
 
 * [Курс тест по Java](https://github.com/peterarsentev/course_test) - Пётр Арсентьев (BEG)
 * [Легкий старт в Java. Вводный курс для чайников](https://stepik.org/course/90684) - Stepik (BEG)
-* [Java для начинающих](https://ru.code-basics.com/languages/java) (BEG)
+* [Java для начинающих](https://ru.code-basics.com/languages/java) - Code-basics (BEG)
 
 
 ### JavaScript
@@ -96,7 +97,7 @@ ADV - Продвинутый. Тонкости.
 * [Технологический стек NodeJS](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/NodeJS.md) - Тимур Шемсединов (INT)
 * [Функциональное программирование](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Functional.md) - Тимур Шемсединов (INT)
 * [Шаблоны проектирования](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Patterns.md) - Тимур Шемсединов (INT)
-* [JavaScript для начинающих](https://ru.code-basics.com/languages/javascript) (BEG)
+* [JavaScript для начинающих](https://ru.code-basics.com/languages/javascript) - Code-basics (BEG)
 
 
 #### Node.js
@@ -154,7 +155,7 @@ ADV - Продвинутый. Тонкости.
 * ["Поколение Python": курс для продвинутых](https://stepik.org/course/68343) - Тимур Гуев, Руслан Чаниев, Благотворительный фонд "Айкью Опшн" (Stepik) (INT)
 * [Программирование на Python](https://stepik.org/course/67) - Тимофей Бондарев, Павел Федотов (Stepik) (BEG)
 * [Python: быстрый старт](http://dfedorov.spb.ru/python3) - Дмитрий Фёдоров (BEG)
-* [Python для начинающих](https://ru.code-basics.com/languages/python) (BEG)
+* [Python для начинающих](https://ru.code-basics.com/languages/python) - Code-basics (BEG)
 * [Python для тех, у кого лапки](https://stepik.org/course/85388) - Мария Чакчурина, Дмитрий Колосов (Stepik) (INT)
 * [Python: основы и применение](https://stepik.org/course/512) - Константин Зайцев, Антон Гардер (Stepik) (INT)
 
@@ -168,6 +169,7 @@ ADV - Продвинутый. Тонкости.
 
 ### Ruby
 
+* [Бесплатный онлайн курс по основам Ruby](https://code-basics.com/ru/languages/ruby) - Code-basics (BEG)
 * [Введение в Ruby](https://ru.hexlet.io/courses/ruby) - Hexlet (BEG)
 * [Путь Rubyrush](https://rubyrush.ru/steps) (BEG)
 * [Ruby - первое знакомство](https://stepik.org/course/87996) - Stepik (BEG)

@@ -364,6 +364,7 @@
 * [C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210) - Catherine Gamboa (Udacity)
 * [C++ Full Course for free](https://www.youtube.com/watch?v=-TkoO8Z07hI) - Bro Code
 * [C++ GUI applications (beginner to advanced)](https://www.youtube.com/playlist?list=PL43pGnjiVwgQakzRxpt2amqN9f7-tRtc_) - Saldina Nurak (CodeBeauty)
+* [C++ Interview Questions](https://www.youtube.com/playlist?list=PLliXPok7ZonkJEe0cUbVZ3umyKbFA-Dd9) - Keerti Purswani
 * [C++ Object-Oriented Programming](https://www.youtube.com/playlist?list=PL43pGnjiVwgTJg7uz8KUGdXRdGKE0W_jN) - Saldina Nurak (CodeBeauty)
 * [C++ Programming](https://www.youtube.com/playlist?list=PLBlnK6fEyqRh6isJ01MBnbNpV3ZsktSyS) - Neso Academy
 * [C++ Programming](https://www.youtube.com/playlist?list=PLfu_Bpi_zcDOtpXhhxL-P1wu0VkwNRXwC) - Kody Simpson
@@ -382,7 +383,6 @@
 * [Introduction to Programming through C++](https://youtube.com/playlist?list=PLEAYkSg4uSQ2qzihjdDEseWrrY1DyxH9P&si=itDYt3Yo9wn2XarO) - NPTEL
 * [Learn C++ With Me](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lmGC8VW0iu6qfMHjy7gLQ3) - Tech With Tim
 * [Sololearn C++](https://www.sololearn.com/learning/1051) - *registration required*
-* [C++ Interview Questions](https://www.youtube.com/playlist?list=PLliXPok7ZonkJEe0cUbVZ3umyKbFA-Dd9) - Keerti Purswani
 
 
 ### Clojure

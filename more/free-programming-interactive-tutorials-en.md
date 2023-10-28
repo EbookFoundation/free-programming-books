@@ -64,7 +64,6 @@
 * [Data Structures Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - David Galles
 
 
-
 ### Android
 
 * [Android Tutorial](https://www.tutlane.com/tutorial/android) - tutlane

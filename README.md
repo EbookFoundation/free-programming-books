@@ -1,4 +1,4 @@
-# List of Free Learning Resources In Many Languages
+# List of Free Learning Resources In Multiple Languages
 
 <div align="center" markdown="1">
 

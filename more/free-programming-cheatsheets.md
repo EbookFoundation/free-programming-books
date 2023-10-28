@@ -121,6 +121,9 @@
 
 * [Cheatsheets for Data Scientists](https://www.datacamp.com/community/data-science-cheatsheets) - Datacamp (PDF)
 
+### Next.JS
+
+* [Cheatsheets for Next.JS Developers](https://gourav.io/blog/nextjs-cheatsheet) - Gaurav Goyal Blog
 
 ### <a id="data-structures-and-algorithms"></a>Data Structures and Algorithms
 

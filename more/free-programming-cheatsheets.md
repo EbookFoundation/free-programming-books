@@ -123,7 +123,8 @@
 
 ### Next.JS
 
-* [Cheatsheets for Next.JS Developers](https://gourav.io/blog/nextjs-cheatsheet) - Gaurav Goyal Blog
+* [Cheatsheets for Next.JS ](https://gourav.io/blog/nextjs-cheatsheet) - Gaurav Goyal Blog
+
 
 ### <a id="data-structures-and-algorithms"></a>Data Structures and Algorithms
 

@@ -816,6 +816,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [An Introduction to Programming in Go](https://www.golang-book.com/books/intro) - Caleb Doxsey
 * [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/) - astaxie
 * [Building Web Apps with Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
+* [Concurrency in Go](https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/) - Katherine Cox-Buday
 * [Darker Corners of Go](https://rytisbiel.com/2021/03/06/darker-corners-of-go/) - Rytis Bieliunas
 * [Effective Go](https://golang.org/doc/effective_go.html)
 * [Essential Go](https://www.programming-books.io/essential/go/) - Krzysztof Kowalczyk, StackOverflow Contributors
@@ -832,6 +833,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Golang by Example](https://golangbyexample.com)
 * [Golang tutorial series](https://golangbot.com/learn-golang-series/) - Naveen Ramanathan
 * [How To Code in Go](https://www.digitalocean.com/community/books/how-to-code-in-go-ebook) - Mark Bates, Cory Lanou, Timothy J. Raymond (PDF, EPUB)
+* [Introducing Go](https://www.oreilly.com/library/view/introducing-go/9781491941997/) - Caleb Doxsey
 * [Learn Go in Y minutes](https://learnxinyminutes.com/docs/go/)
 * [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/) - Chris James
 * [Learning Go](https://miek.nl/go/)

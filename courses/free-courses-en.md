@@ -874,8 +874,8 @@
 * [Java AWT](https://www.youtube.com/playlist?list=PLDN4rrl48XKoYR1H6l19hvF_8SMHGdPvk) - Abdul Bari
 * [Java Beginner](https://youtube.com/playlist?list=PLkeaG1zpPTHiMjczpmZ6ALd46VjjiQJ_8) - Coding with John
 * [Java Complete Course - Placement Series](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop) - Apna College
+* [Java Design Patterns](https://refactoring.guru/design-patterns) - Refactoring Guru
 * [Java Design Patterns and Architecture](https://www.udemy.com/course/java-design-patterns-tutorial) - John Purcell (Udemy)
-* [Design Patterns: Java](https://refactoring.guru/design-patterns) - Refactoring Guru
 * [Java for Complete Beginners](http://courses.caveofprogramming.com/courses/java-for-complete-beginners)
 * [Java for Mobile Devices - Introducing Codename One](https://codenameone.teachable.com/p/java-for-mobile-devices-introducing-codename-one)
 * [Java Online Training \| Edureka](https://www.youtube.com/watch?v=hBh_CC5y8-s) (Edureka)

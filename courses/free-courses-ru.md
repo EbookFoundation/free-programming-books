@@ -2,6 +2,7 @@
 
 * [Дизайн и Aрхитектура](#design-architecture)
 * [C++](#cpp)
+* [C#](#csharp)
 * [Clojure](#clojure)
 * [Dart](#dart)
 * [Go](#go)
@@ -42,6 +43,14 @@ ADV - Продвинутый. Тонкости.
 * [Основы разработки на С++: красный пояс](https://www.coursera.org/learn/c-plus-plus-red) - Шишков Илья Иванович, Полднев Антон Вячеславович (Coursera) (INT)
 * [Основы разработки на С++: черный пояс](https://www.coursera.org/learn/c-plus-plus-black) - Шишков Илья Иванович, Полднев Антон Вячеславович, Субоч Николай Михайлович, Alexey Zobnin, Матросов Михаил Александрович (Coursera) (INT)
 * [Уроки по С++](https://ravesli.com/uroki-cpp) - Ravesli (INT)
+
+
+### <a id="csharp"></a>C#
+
+* [Бесплатный курс по C# для начинающих](https://code-basics.com/ru/languages/csharp) - Code-basics (BEG)
+* [Полное руководство по языку программирования С# 11 и платформе .NET 7](https://metanit.com/sharp/tutorial/) - Metanit (BEG/INT)
+* [Программирование на C# 5.0](https://stepik.org/course/4143) - Денис Гладкий (Stepik) (INT)
+* [Язык программирования C# для начинающих](https://stepik.org/course/99426) - Артём Корольков (Stepik) (BEG)
 
 
 ### Clojure

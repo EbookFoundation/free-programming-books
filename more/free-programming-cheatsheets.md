@@ -13,9 +13,7 @@
 * [Docker](#docker)
 * [Git](#git)
 * [Go](#go)
-* [Graphs](#graphs)
-    * [GraphQL](#graphql)
-    * [Gremlin](#gremlin)
+* [GraphQL](#graphql)
 * [HTML and CSS](#html-and-css)
 * [IDE and editors](#ide-and-editors)
 * [Java](#java)
@@ -179,21 +177,12 @@
 * [গো \| ডেভ সংকেত<](https://devsonket.com/go) - devsonket (HTML)
 
 
-### Graphs
-
-#### GraphQL
+### GraphQL
 
 * [GraphQL Cheat Sheet](https://licor.me/post/graphql) - Chuanrong Li (HTML)
 * [GraphQL Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html) - Jim Manico, Jakub Maćkowski (HTML)
 * [GraphQL Cheat Sheet](https://simplecheatsheet.com/tag/graphql-cheat-sheet) - Simple Cheat Sheet (HTML)
 * [GraphQL Cheatsheet](https://devhints.io/graphql) - devhints, Rico Santa Cruz (HTML)
-
-
-#### Gremlin
-
-* [Gremlin 101 Cheatsheet](https://dkuppitz.github.io/gremlin-cheat-sheet/101.html) - Daniel Kuppitz (HTML)
-* [Gremlin 102 Cheatsheet](https://dkuppitz.github.io/gremlin-cheat-sheet/102.html) - Daniel Kuppitz (HTML)
-* [Gremlin Recipes](https://tinkerpop.apache.org/docs/3.3.2/recipes/) - Apache Tinkerpop (HTML)
 
 
 ### HTML and CSS

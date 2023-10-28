@@ -1648,7 +1648,6 @@
 * [Create a Professional Website with Velo by Wix](https://www.codecademy.com/learn/create-a-professional-website-with-velo-by-wix) - Codecademy
 * [CS50’s Web Programming with Python and JavaScript](https://cs50.harvard.edu/web/) - Brian Yu, David J. Malan (edX Harvard CS50)
 * [Developing for Web Accessibility](https://www.w3.org/WAI/tips/developing/) - World Wide Web Consortium Web Accessibility Initiative
-* [Web Accessibility – What It Is and How to Design for It?](https://www.hostinger.in/tutorials/web-accessibility) - Hostinger Tutorials
 * [Discover Flask - Full Stack Web Development with Flask](https://github.com/realpython/discover-flask)
 * [Essential Nextjs Typescript Tailwind Stack](https://www.youtube.com/playlist?list=PLKEkvhqFCRwL94nLP-TdIfNmbiZk5FCMx) - Fireship, Ben Awad, Traversy Media, Devs Force
 * [Flask(A Python Microframework) Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
@@ -1665,6 +1664,7 @@
 * [React Fundamentals - The Complete Guide For Beginners](https://www.udemy.com/course/react-fundamentals-the-complete-guide-for-beginners/) - Kerim Abdelmouiz (Udemy)
 * [The GraphQL Apollo (with ReactJS, NodeJS and MongoDB)](https://www.udemy.com/course/the-new-graphql-apollo-course-2020) - Mohd. Raqif Warsi (Udemy)
 * [The Odin Project - Learn Web Development for Free](http://www.theodinproject.com)
+* [Web Accessibility – What It Is and How to Design for It?](https://www.hostinger.in/tutorials/web-accessibility) - Hostinger Tutorials
 * [Web Basics](https://open.cs.uwaterloo.ca/web-basics/) - Centre for Education in Math and Computing (University of Waterloo)
 * [Web Development Course](https://syllabus.migracode.org/courses/introduction-3) - MigraCode Barcelona
 * [Web Development for Beginners - A Curriculum](https://github.com/microsoft/Web-Dev-For-Beginners) - Microsoft

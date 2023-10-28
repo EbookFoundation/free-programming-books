@@ -2222,6 +2222,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 * [A community-driven Ruby style guide](https://github.com/bbatsov/ruby-style-guide)
 * [Core Ruby Tools](https://launchschool.com/books/core_ruby_tools) - Launch School (HTML)
+* [Design Patterns in Ruby](https://github.com/abdelrahman-hsn/ruby-ebooks/blob/master/Design%20Patterns%20in%20Ruby%2C%20Addison-Wesley%20(2008).pdf) - Addison-Wesley
 * [Developing Games With Ruby](https://leanpub.com/developing-games-with-ruby/read) - Tomas Varaneckas
 * [Essential Ruby](https://www.programming-books.io/essential/ruby/) - Krzysztof Kowalczyk, StackOverflow Contributors
 * [I Love Ruby](https://i-love-ruby.gitlab.io)
@@ -2229,7 +2230,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Just Enough Ruby to Get By](http://jasonkim.ca/projects/just_enough_ruby_to_get_by/)
 * [Learn Ruby First](https://essenceofchaos.gitbooks.io/learn-ruby-first/content/) - Frederick John
 * [Learn Ruby in Y minutes](https://learnxinyminutes.com/docs/ruby/)
-* [Learn Ruby on Rails](https://learn-rails.com/products/learn-rails-1.pdf) - Daniel Kehoe (PDF)
 * [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/) - Zed A. Shaw
 * [Learn to Program](http://pine.fm/LearnToProgram/) - Chris Pine
 * [Mastering Roda](https://fiachetti.gitlab.io/mastering-roda) - Federico Iachetti, Avdi Grimm, Jeremy Evans

@@ -816,7 +816,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [An Introduction to Programming in Go](https://www.golang-book.com/books/intro) - Caleb Doxsey
 * [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/) - astaxie
 * [Building Web Apps with Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
-* [Concurrency in Go](https://www.oreilly.com/library/view/concurrency-in-go/9781491941294/) - Katherine Cox-Buday
+* [Concurrency in Go](https://edu.anarcho-copy.org/Programming%20Languages/Go/Concurrency%20in%20Go.pdf) - Katherine Cox-Buday (PDF)
 * [Darker Corners of Go](https://rytisbiel.com/2021/03/06/darker-corners-of-go/) - Rytis Bieliunas
 * [Effective Go](https://golang.org/doc/effective_go.html)
 * [Essential Go](https://www.programming-books.io/essential/go/) - Krzysztof Kowalczyk, StackOverflow Contributors
@@ -833,7 +833,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Golang by Example](https://golangbyexample.com)
 * [Golang tutorial series](https://golangbot.com/learn-golang-series/) - Naveen Ramanathan
 * [How To Code in Go](https://www.digitalocean.com/community/books/how-to-code-in-go-ebook) - Mark Bates, Cory Lanou, Timothy J. Raymond (PDF, EPUB)
-* [Introducing Go](https://www.oreilly.com/library/view/introducing-go/9781491941997/) - Caleb Doxsey
+* [Introducing Go](https://library.kre.dp.ua/Books/2-4%20kurs/%D0%9F%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F%20%2B%20%D0%BC%D0%BE%D0%B2%D0%B8%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F/Go%20Web/Introducing%20Go%40bzd_channel.pdf) - Caleb Doxsey (PDF)
 * [Learn Go in Y minutes](https://learnxinyminutes.com/docs/go/)
 * [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/) - Chris James
 * [Learning Go](https://miek.nl/go/)

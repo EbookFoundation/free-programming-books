@@ -121,9 +121,9 @@
 
 * [Cheatsheets for Data Scientists](https://www.datacamp.com/community/data-science-cheatsheets) - Datacamp (PDF)
 
-### Next.JS
+### Interview Questions
 
-* [Cheatsheets for Next.JS ](https://gourav.io/blog/nextjs-cheatsheet) - Gaurav Goyal Blog
+* [100 Javascript Interview questions](https://nextjsvietnam.com/post/100-frontend-interview-questions/)-NextjsVietnam
 
 
 ### <a id="data-structures-and-algorithms"></a>Data Structures and Algorithms

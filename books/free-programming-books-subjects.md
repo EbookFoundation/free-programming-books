@@ -246,14 +246,14 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 
 * [CI/CD for Monorepos: Effectively building, testing, and deploying code with monorepos](https://github.com/semaphoreci/book-monorepo-cicd) - Pablo Tomas Fernandez Zavalia, Marko Anastasov, SemaphoreCI (PDF, EPUB, Kindle)
 * [CI/CD with Docker and Kubernetes Book](https://github.com/semaphoreci/book-cicd-docker-kubernetes) - Marko Anastasov, Jérôme Petazzoni, Pablo Tom F. Zavalia, SemaphoreCI (PDF, EPUB, Kindle)
-* [Container Networking](https://www.oreilly.com/library/view/container-networking/9781492036845/) - Michael Housenblas
+* [Container Networking Docker Kubernetes]([https://www.oreilly.com/library/view/container-networking/9781492036845/](https://pdfcoffee.com/qdownload/container-networking-docker-kubernetes-pdf-free.html)) - Michael Housenblas (HTML)
 * [Docker Jumpstart](https://odewahn.github.io/docker-jumpstart/) - Andrew Odewahn
 * [Docker Tutorial](https://people.irisa.fr/Anthony.Baire/docker-tutorial.pdf) - Anthony Baire (PDF)
 * [Docker Tutorial](https://www.tutorialspoint.com/docker/) - Tutorials Point (HTML, PDF)
 * [Dotnet Microservices Architecture for Containerized NET Applications](https://aka.ms/microservicesebook) - Cesar de la Torre, Bill Wagner, Mike Rousos (PDF)
 * [Kubernetes Deployment & Security Patterns](https://resources.linuxfoundation.org/LF+Projects/CNCF/TheNewStack_Book2_KubernetesDeploymentAndSecurityPatterns.pdf) - Alex Williams (PDF)
 * [Kubernetes for Full-Stack Developers](https://www.digitalocean.com/community/books/digitalocean-ebook-kubernetes-for-full-stack-developers) - Jamon Camisso, Hanif Jetha, Katherine Juell (PDF, EPUB)
-* [Kubernetes: Up and Running](https://www.oreilly.com/library/view/kubernetes-up-and/9781491935668/) - Kelsey Hightower, Brendan Berns, Joe Beda
+* [Kubernetes: Up and Running](https://eddiejackson.net/azure/Kubernetes_book.pdf) - Kelsey Hightower, Brendan Berns, Joe Beda (PDF)
 * [The Complete Guide to Kubernetes Security](https://start.paloaltonetworks.com/complete-guide-kubernetes?sfdcid=7014u000001Z9gvAAC&gad_source=1)
 * [Uncomplicating Kubernetes](https://livro.descomplicandokubernetes.com.br/en/) - Jeferson Fernando
 

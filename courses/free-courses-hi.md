@@ -50,6 +50,7 @@
 * [Mongo DB](#mongo-db)
 * [Natural Language Processing](#natural-language-processing)
 * [Networking](#networking)
+* [Open Source](#open-source)
 * [Operating Systems](#operating-systems)
 * [PHP](#php)
     * [CodeIgniter](#codeigniter)
@@ -127,6 +128,11 @@
 * [Arduino Programming In Hindi (Full Playlist)](https://www.youtube.com/watch?v=KOa1aVijhao) - SBS online classes
 * [Arduino Programming Series (हिंदी में)](https://youtube.com/playlist?list=PLV3C-t_tgjGFyXP_-AF37AoIuxM9jzELM) - Engineers & Electronics
 * [Complete Arduino Tutorial Learn Arduino Programming in Hindi](https://www.youtube.com/playlist?list=PLg2KtP8cgLjzNu5G2bQQLxFeBiqk8IO0s) - Techtalks With Vivek
+
+
+### Artificial Intelligence
+
+* [Generative AI Series - Showcasing Generative AI By Building Projects](https://www.youtube.com/playlist?list=PLu0W_9lII9aiS4rUVp2jXwIvCruo27sG6) - CodeWithHarry
 
 
 ### Assembly
@@ -569,6 +575,11 @@
 * [Networking Basics](https://www.youtube.com/playlist?list=PLkW9FMxqUvyZaSQNQslneeODER3bJCb2K) - Bitten Tech
 
 
+### Open Source
+
+* [Open Source BootCamp - Master Open Source Contributions](https://www.youtube.com/playlist?list=PLinedj3B30sAT6CotNj0iffhRV89SkNK9) - Piyush Garg
+
+
 ### Operating Systems
 
 * [3.2 Operating System (Complete Playlist)](https://www.youtube.com/playlist?list=PLmXKhU9FNesSFvj6gASuWmQd23Ul5omtD) - Knowledge Gate
@@ -677,6 +688,7 @@
 
 ### Security
 
+* [Complete Ethical Hacking Tutorial for Beginners to Pro 2022](https://www.youtube.com/playlist?list=PLjVLYmrlmjGea8U9nphmCHGK_v6p_wq-R) - WsCube Tech
 * [cyber security course for beginners - Urdu/Hindi](https://www.youtube.com/playlist?list=PLKJfBg0XdWkevCEJ64RK11LylBNX2-zbk) - hashintelligence
 * [Cyber Security Tutorial In Hindi](https://www.youtube.com/playlist?list=PL-JvKqQx2AteIbm-z4X709scVr9OaHpIY) - University Academy
 * [Cyber Security Tutorials In HIndi](https://www.youtube.com/playlist?list=PL0fjgIGwLMWTFmZoLdEPoI9azA-osxcQj) - TechChip

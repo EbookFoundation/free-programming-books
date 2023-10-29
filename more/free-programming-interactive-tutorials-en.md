@@ -1,6 +1,7 @@
 ### Index
 
 * [Ada](#ada)
+* [Algorithms](#algorithms)
 * [Android](#android)
 * [Bash](#bash)
 * [C](#c)
@@ -56,6 +57,11 @@
 ### Ada
 
 * [Introduction to Ada](https://learn.adacore.com/courses/intro-to-ada/index.html) - Adacore
+
+
+### Algorithms
+
+* [Data Structures Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - David Galles
 
 
 ### Android

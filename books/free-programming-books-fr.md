@@ -95,7 +95,7 @@
 
 #### Pédagogie pour les enfants et adolescents
 
-* [Activités débranchées](https://pixees.fr/?cat=612) Catalogue de ressource pour apprendre l'informatique sans ordinateur.
+* [Activités débranchées](https://pixees.fr/?cat=612)
 * [Apprendre l'informatique sans ordinateur](https://interstices.info/enseigner-et-apprendre-les-sciences-informatiques-a-lecole/) - Tim Bell, Ian H. Witten, `trl.:` Mike Fellows
 
 
@@ -113,7 +113,7 @@
 
 ### Bash / Shell
 
-* [Guide avancé d'écriture des scripts Bash](http://abs.traduc.org/abs-fr/) - Mendel Cooper, `trl.:` Adrien Rebollo et al. (HTML)
+* [Guide avancé d'écriture des scripts Bash](https://abs.traduc.org/abs-fr/) - Mendel Cooper, `trl.:` Adrien Rebollo et al. (HTML)
 * [La programmation Shell](https://frederic-lang.developpez.com/tutoriels/linux/prog-shell/) - Frederic Lang, Idriss Neumann
 
 

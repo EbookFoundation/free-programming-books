@@ -317,7 +317,7 @@
 
 ### Scratch
 
-* [Informatique Créative](https://pixees.fr/programmation-creative-en-scratch/) - Christan Balch, Michelle Chung, Karen Brennan, `trl:.` INRIA, PROVENCE TRADUCTION (PDF, PPTX)
+* [Informatique Créative](https://pixees.fr/programmation-creative-en-scratch/) - Christan Balch, Michelle Chung, Karen Brennan, `trl.:` INRIA, PROVENCE TRADUCTION (PDF, PPTX)
 
 
 ### SPIP

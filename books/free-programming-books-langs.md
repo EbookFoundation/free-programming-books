@@ -2028,6 +2028,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Python for Everybody](http://py4e.com/book) - Charles Russell Severance (PDF, EPUB, HTML) (3.x)
 * [Python for Informatics: Exploring Information](http://www.pythonlearn.com/book.php) - Charles Russell Severance (2.7.5)
 * [Python for network engineers](https://pyneng.readthedocs.io/en/latest/) - Natasha Samoylenko
+* [PYTHON FOR EVERYBODY: EXPLORING DATA IN PYTHON 3](http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf)- Dr. Charles Russell Severance 
 * [Python for you and me](http://pymbook.readthedocs.org/en/latest/) (2.7.3)
 * [Python for you and me](http://pymbook.readthedocs.org/en/py3/) (3.x)
 * [Python Idioms](https://bennuttall.com/files/python-idioms-2014-01-16.pdf) (PDF)

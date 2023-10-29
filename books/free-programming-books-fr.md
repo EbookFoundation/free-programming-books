@@ -189,7 +189,7 @@
 
 ### HTML and CSS
 
-* [Apprendre les mises en page CSS](http://fr.learnlayout.com)
+* [Apprendre les mises en page CSS](https://fr.learnlayout.com) - Greg Smith, `dsr.:` Isaac Durazo, `trl.:` Joël Matelli (HTML)
 
 
 ### (La)TeX et associés

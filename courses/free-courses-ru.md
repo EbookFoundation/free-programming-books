@@ -1,6 +1,7 @@
 ### Cодержание
 
 * [Дизайн и Aрхитектура](#design-architecture)
+* [C#](#csharp)
 * [C++](#cpp)
 * [Clojure](#clojure)
 * [Dart](#dart)
@@ -31,6 +32,14 @@ ADV - Продвинутый. Тонкости.
 ### <a id="design-architecture"></a>Дизайн и Aрхитектура
 
 * [Туториал по SOLID](https://ota-solid.now.sh) - Саша Беспоясов и Артём Самофалов (INT)
+
+
+### <a id="csharp"></a>C#
+
+* [Бесплатный курс по C# для начинающих](https://code-basics.com/ru/languages/csharp) - Code-basics (BEG)
+* [Полное руководство по языку программирования С# 11 и платформе .NET 7](https://metanit.com/sharp/tutorial/) - Metanit (BEG/INT)
+* [Программирование на C# 5.0](https://stepik.org/course/4143) - Денис Гладкий (Stepik) (INT)
+* [Язык программирования C# для начинающих](https://stepik.org/course/99426) - Артём Корольков (Stepik) (BEG)
 
 
 ### <a id="cpp"></a>C++

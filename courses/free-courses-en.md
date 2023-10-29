@@ -1667,6 +1667,7 @@
 * [React Fundamentals - The Complete Guide For Beginners](https://www.udemy.com/course/react-fundamentals-the-complete-guide-for-beginners/) - Kerim Abdelmouiz (Udemy)
 * [The GraphQL Apollo (with ReactJS, NodeJS and MongoDB)](https://www.udemy.com/course/the-new-graphql-apollo-course-2020) - Mohd. Raqif Warsi (Udemy)
 * [The Odin Project - Learn Web Development for Free](http://www.theodinproject.com)
+* [Web Accessibility – What It Is and How to Design for It?](https://www.hostinger.in/tutorials/web-accessibility) - Hostinger Tutorials
 * [Web Basics](https://open.cs.uwaterloo.ca/web-basics/) - Centre for Education in Math and Computing (University of Waterloo)
 * [Web Development Course](https://syllabus.migracode.org/courses/introduction-3) - MigraCode Barcelona
 * [Web Development for Beginners - A Curriculum](https://github.com/microsoft/Web-Dev-For-Beginners) - Microsoft

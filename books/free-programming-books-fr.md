@@ -184,7 +184,7 @@
 ### Haskell
 
 * [A Gentle Introduction to Haskell](http://gorgonite.developpez.com/livres/traductions/haskell/gentle-haskell/) - Paul Hudak, John Peterson, Joseph Fasel, `trl.:` Nicolas Vallée, Gnux, ggnore, fearyourself, Joyeux-oli, Kikof, khayyam90
-* [Apprendre Haskell vous fera le plus grand bien !](http://lyah.haskell.fr)
+* [Apprendre Haskell vous fera le plus grand bien !](https://lyah.haskell.fr) - Miran Lipovača, `trl.:` Valentin Robert (HTML, PDF)
 
 
 ### HTML and CSS

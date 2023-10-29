@@ -322,7 +322,7 @@
 
 ### SPIP
 
-* [Programmer avec SPIP](https://programmer.spip.net/) - Matthieu Marcimat, collectif SPIP (HTML)
+* [Programmer avec SPIP](https://programmer.spip.net) - Matthieu Marcimat, collectif SPIP (HTML)
 
 
 ### SQL

@@ -308,6 +308,7 @@
 
 ### Blockchain
 
+* [BerkeleyX: Blockchain Technology](https://www.edx.org/learn/blockchain/university-of-california-berkeley-blockchain-technology) - Rustie Lin and Nadir Akhtar
 * [Blockchain Developer Tutorials](https://www.youtube.com/playlist?list=PLS5SEs8ZftgUTXs0OJD2LFpYBPr4L54id) - Gregory McCubbin (Dapp University)
 * [Blockchain Essentials](https://cognitiveclass.ai/courses/blockchain-course) - CognitiveClass.ai
 * [Blockchain: Foundations and Use Cases](https://www.coursera.org/learn/blockchain-foundations-and-use-cases) - ConsenSys Academy (Coursera)
@@ -650,6 +651,7 @@
 * [Complete Docker Course - From BEGINNER to PRO!](https://www.youtube.com/watch?v=RqTEHSBrYFw) - DevOps Directive
 * [Deploying Containerized Applications Technical Overview](https://www.udemy.com/course/deploying-containerized-applications-technical-overview) - Red Hat
 * [Docker](https://www.youtube.com/playlist?list=PLhW3qG5bs-L99pQsZ74f-LC-tOEsBp2rK) - Raghav Pal
+* [Docker and Kubernetes Complete Tutorial](https://www.youtube.com/playlist?list=PL0hSJrxggIQoKLETBSmgbbvE4FO_eEgoB) - Analytics Excellence
 * [Docker Essentials](https://cognitiveclass.ai/courses/docker-essentials) - CognitiveClass.ai
 * [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=pTFZFxd4hOI) - Programming with Mosh!
 * [Docker Tutorial for Beginners](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBkvpSIgwchk0glHLz7CQ-7) - Thenewboston
@@ -1241,6 +1243,8 @@
 * [Mathematics for Machine Learning - Linear Algebra](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3) - Imperial College London, Dr David Dye, Dr Sam Cooper
 * [Mathematics for Machine Learning - Multivariate Calclus](https://www.youtube.com/playlist?list=PLiiljHvN6z193BBzS0Ln8NnqQmzimTW23) - Imperial College London, Dr David Dye, Dr Sam Cooper
 * [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book)
+* [Python Machine Learning and AI Mega Course - Learn 4 Different Areas of ML & AI](https://www.youtube.com/watch?v=WFr2WgN9_xE) - Tech With Tim (Tim Ruscica)
+* [Python Machine Learning Tutorials](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mP7qA9cagf68V06sko5otr) - Tech With Tim (Tim Ruscica)
 * [PyTorch tutorials](https://pytorch.org/tutorials) - PyTorch.org
 * [Stanford SEE 229 - Machine Learning](https://see.stanford.edu/Course/CS229)
 * [Stanford University Machine Learning](https://www.coursera.org/learn/machine-learning)
@@ -1308,6 +1312,10 @@
 
 * [Cornell's Data Structures and Functional Programming](http://www.cs.cornell.edu/courses/cs3110/2015fa/)
 * [Introduction to Functional Programming in OCaml](https://www.fun-mooc.fr/courses/parisdiderot/56002S02/session02/about)
+* [OCAML Data Structures Tutorial](https://www.youtube.com/playlist?list=PLea0WJq13cnA1622rtoEhd911spMDRvWh) - Noureddin Sadawi
+* [OCaml Playlist](https://www.youtube.com/playlist?list=PLKO_ZowsIOu7o3iQmS3InxLKd0L5-zyqo) - OCamlWorkshops
+* [OCaml Programming: Correct + Efficient + Beautiful](https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU) - Michael Ryan Clarkson
+* [OCAML Tutorial](https://www.youtube.com/playlist?list=PLea0WJq13cnCef-3KSU3qWFge9OGUlKx1) - Noureddin Sadawi
 
 
 ### Operating Systems
@@ -1413,6 +1421,7 @@
 * [Python for Beginners (Full Course)](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3) - Telusko
 * [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai) - Joseph Santarcangelo (Coursera)
 * [Python for Everybody](https://www.py4e.com/lessons) (Coursera Reading Materials with YouTube Videos)
+* [Python for Hackers FULL Course \| Bug Bounty & Ethical Hacking](https://www.youtube.com/playlist?list=PLBfoYdk-WAlzfRFHRKAmA7Vw2svoGqfb5) - PhD Security
 * [Python for OSINT. 21 day course for beginners](https://github.com/cipher387/python-for-OSINT-21-days/raw/main/Python%20for%20OSINT.%2021%20day%20course%20for%20beginners.pdf) - cyb_detective (PDF)
 * [Python for Programmers](https://www.codecademy.com/learn/python-for-programmers) - Codecademy
 * [Python from Scratch](https://open.cs.uwaterloo.ca/python-from-scratch/) - Centre for Education in Math and Computing (University of Waterloo)

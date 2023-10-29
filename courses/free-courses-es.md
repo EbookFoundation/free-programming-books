@@ -84,21 +84,22 @@
 
 ### Control de Versiones
 
+* [Curso de Git y Github desde cero para principiantes](https://www.youtube.com/watch?v=3GymExBkKjE) - Brias Moure "MoureDev"
 * [Git & GitHub](https://www.pildorasinformaticas.es/course/curso-de-git-github) - Juan Díaz (Píldoras Informáticas)
 * [Git & GitHub](https://www.youtube.com/playlist?list=PLPl81lqbj-4I8i-x2b5_MG58tZfgKmJls) - Ignacio Gutiérrez, BlueWeb
 
 
 ### Flujos de Trabajo
 
-* [Agilidad y Lean. Gestionando los proyectos y negocios del Siglo XXI](https://miriadax.net/curso/agilidad-y-lean-gestionando-los-proyectos-y-negocios-del-s-xxi-14-a-edicion) (Miriadax)
+* [Agilidad y Lean. Gestionando los proyectos y negocios del Siglo XXI](https://miriadax.net/curso/agilidad-y-lean-gestionando-los-proyectos-y-negocios-del-s-xxi-16-a-edicion) (Miriadax)
 * [Cómo implantar grupos de mejora de procesos](https://www.edx.org/course/como-implantar-grupos-de-mejora-de-upvalenciax-gm201x-0)
-* [Gestión de proyectos software (2015)](https://ocw.unican.es/course/view.php?id=23)
+* [Gestión de proyectos software (2015)](https://ocw.unican.es/course/view.php?id=206)
 * [Gestión Participativa: motivación y liderazgo organizacional](https://www.edx.org/course/gestion-participativa-high-involvement-upvalenciax-gp201x-0)
 * [Ingeniería del Software I (2011)](https://ocw.unican.es/course/view.php?id=169)
 * [Ingeniería del Software II (2011)](https://ocw.unican.es/course/view.php?id=170)
 * [Introducción a la Gestión de Proyectos](https://www.edx.org/course/introduccion-la-gestion-de-proyectos-upvalenciax-igp101-x)
 * [Organización y gestión del proyecto (2009)](https://ocw.unican.es/course/view.php?id=207)
-* [Procesadores de Lenguaje (2012)](https://ocw.unican.es/course/view.php?id=158)
+* [Procesadores de Lenguaje (2012)](https://ocw.unican.es/course/view.php?id=238)
 * [Sistemas operativos avanzados - 'scrum - bsd- Qt' (2015)](https://campusvirtual.ull.es/ocw/course/view.php?id=119)
 
 
@@ -158,6 +159,7 @@
 ### Programación
 
 * [Aprende JavaScript](https://aprendejavascript.org) - Jonathan MirCha
+* [Aprende javascript](https://www.aprendejavascript.dev) - Miguel Ángel Durán "midudev"
 * [Aprendemos JavaScript](https://www.freecodecamp.org/espanol/news/aprende-javascript-curso-completo-desde-cero/) - Estefania Cassingena Navone
 * [Clojure](https://programadorwebvalencia.com/cursos/clojure/introducci%C3%B3n/) - Andros Fenollosa (Programador Web Valencia)
 * [Curso C#](https://www.pildorasinformaticas.es/course/curso-c) - Juan Díaz (Píldoras Informáticas)
@@ -181,6 +183,7 @@
 * [JavaScript Básico a Avanzado](https://www.pildorasinformaticas.es/course/javascript-desde-0) - Juan Díaz (Píldoras Informáticas)
 * [Linux y Bash](https://aprendeaprogramar.com/course/view.php?id=10) - Javier Hernandez (Aprendeaprogramar.com)
 * [Lógica de programación](https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=7929) - Carlos Slim Foundation (cuenta requerida)
+* [Patrones de diseño](https://refactoring.guru/es/design-patterns) - Alexander Shvets (Refactoring.Guru)
 * [Principios de PHP](https://programadorwebvalencia.com/cursos/php/base/) - Andros Fenollosa (Programador Web Valencia)
 * [Programación de computadoras](https://es.khanacademy.org/computing/computer-programming#programming) - Khan Academy
 * [Programación en entornos interactivos 'Qt - gtk' (2010)](https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-en-entornos-interactivos-2010.html)
@@ -206,6 +209,7 @@
 * [Curso gratuito de JavaScript](https://argentinaprograma.com) - Fabricio Sodano (Argentina Programa)
 * [Curso gratuito de Next.js y Firebase](https://www.youtube.com/playlist?list=PLV8x_i1fqBw1VR86y4C72xMGJ8ifjBwJ6) - Miguel Ángel Durán «midudev»
 * [Curso JSON. De Novato a Experto](https://www.youtube.com/playlist?list=PLrDTf5qnZdEAiHO19QB9hq5QXAef1h8oY) - Camilo Martínez "Equimancho"
+* [Curso React Native desde cero](https://www.youtube.com/watch?v=qi87b6VcIHY&t=1004s) - Miguel Ángel Durán "midudev"
 * [Curso React.js desde cero - Crea una aplicación paso a paso](https://www.youtube.com/playlist?list=PLV8x_i1fqBw0B008sQn79YxCjkHJU84pC) - Miguel Ángel Durán «midudev»
 * [Detección de objetos](https://www.coursera.org/learn/deteccion-objetos)
 * [Diseño Web - Principios de CSS](https://programadorwebvalencia.com/cursos/css/introducci%C3%B3n/) - Andros Fenollosa (Programador Web Valencia)

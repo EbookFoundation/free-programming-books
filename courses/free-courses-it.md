@@ -45,6 +45,7 @@
 
 * [AlgoMOOC - Algoritmi quotidiani](https://www.youtube.com/playlist?list=PLjTV6y5YWc5HNnLyXkzUe9IlkG2n6guxU) - Alessandro Bogliolo
 * [Algoritmi e Programmazione (C)](https://www.youtube.com/playlist?list=PLUFFnpJdi99nqESTPaxlPMOF7yEEb8_sS) - P. Camurati, G. Cabodi, Politecnico di Torino
+* [Algoritmi e Strutture Dati]() - A. Montresor, Università di Trento
 * [Algoritmi e Strutture Dati](https://www.youtube.com/playlist?list=PLO4y9a8lTpK2TViOKbk-NjDBvL4RXDwYY) - R. Grossi, Università di Pisa
 
 
@@ -91,6 +92,7 @@
 #### SQL
 
 * [Corso SQL](https://www.youtube.com/playlist?list=PLE555DB6188C967AC) - Fabrizio Camuso
+* [Corso SQL Completo 2023](https://www.youtube.com/playlist?list=PLP5MAKLy8lP_zsv6uijqYTIjdVEYgWf44) - Edoardo Midali
 
 
 ### Delphi

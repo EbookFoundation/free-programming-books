@@ -209,6 +209,7 @@
 ### GO
 
 * [Aprenda Go com Testes](https://larien.gitbook.io/aprenda-go-com-testes) - Lauren Ferreira
+* [Construindo Aplicações Web em Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/pt-br/) - astaxie
 * [Go - hands on](https://github.com/go-br/estudos)
 * [Go Lang - A linguagem do Google](https://www.ime.usp.br/~gold/cursos/2015/MAC5742/reports/GoLang.pdf) - Suelen Goularte Carvalho (PDF)
 * [Go por Exemplo](http://goporexemplo.golangbr.org) - Mark McGranaghan, Jeremy Ashkenas, golangbr, Daniela Tamy Iwassa (HTML)
@@ -230,6 +231,7 @@
 ### Inteligência Artificial
 
 * [Inteligência artificial: avanços e tendências](https://www.livrosabertos.sibi.usp.br/portaldelivrosUSP/catalog/view/650/579/2181) - Fabio G. Cozman, Guilherme Ary Plonski, Hugo Neri (PDF)
+* [Processamento de Linguagem Natural: Conceitos, Técnicas e Aplicações em Português](https://brasileiraspln.com/livro-pln/) - Helena M. Caseli, Maria G. V. Nunes (PDF)
 
 
 ### Internet das Coisas
@@ -241,6 +243,7 @@
 
 * [Imergindo na JVM](https://leanpub.com/imergindo-jvm) - Otavio Santana *(Leanpub account or valid email requested)*
 * [Introdução a Ciência da Computação com Java](http://ccsl.ime.usp.br/files/publications/files/2008/intro-java-cc.pdf) Alfredo Goldman, Fabio Kon, Paulo J. S. Silva (PDF)
+* [Java Básico e Oriêntação a Objeto](https://canal.cecierj.edu.br/012016/d7d8367338445d5a49b4d5a49f6ad2b9.pdf) - Clayton Escouper das Chagas, Cássia Blondet Baruque, Lúcia Blondet Baruque (PDF)
 * [Java e Orientação a Objetos](http://www.caelum.com.br/apostila-java-orientacao-objetos/) - Caelum
 * [Java para Desenvolvimento Web](http://www.caelum.com.br/apostila-java-web/) - Caelum
 * [Programação Orientada a Objetos: Uma Abordagem com Java](https://www.dca.fee.unicamp.br/cursos/PooJava/Aulas/poojava.pdf) - Ivan Luiz Marques Ricarte (PDF)

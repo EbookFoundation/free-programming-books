@@ -13,7 +13,9 @@
 * [Docker](#docker)
 * [Git](#git)
 * [Go](#go)
-* [GraphQL](#graphql)
+* [Graphs](#graphs)
+    * [GraphQL](#graphql)
+    * [Gremlin](#gremlin)
 * [HTML and CSS](#html-and-css)
 * [IDE and editors](#ide-and-editors)
 * [Java](#java)
@@ -21,6 +23,7 @@
     * [jQuery](#jquery)
     * [Nest.js](#nestjs)
     * [Next.js](#nextjs)
+    * [Node.js](#nodejs)
     * [Nuxt.js](#nuxtjs)
     * [React.js](#reactjs)
     * [Vue.js](#vuejs)
@@ -96,6 +99,7 @@
 
 * [C++ Cheatsheet](https://www.codewithharry.com/blogpost/cpp-cheatsheet) - CodeWithHarry (HTML)
 * [C++ Quick Reference](http://www.hoomanb.com/cs/quickref/CppQuickRef.pdf) - Hooman Baradaran (PDF)
+* [Cheatsheets & Infographics](https://hackingcpp.com/cpp/cheat_sheets.html) - Hacking C++ (HTML & downloadable as PNG)
 * [MPI Cheat Sheet](https://wtpc.github.io/clases/2018/mpicheatsheet.pdf) - SC Education (PDF)
 * [OpenMP 4.0 API C/C++ Syntax Quick Reference Card](https://www.openmp.org/wp-content/uploads/OpenMP-4.0-C.pdf) (PDF)
 
@@ -176,12 +180,21 @@
 * [গো \| ডেভ সংকেত<](https://devsonket.com/go) - devsonket (HTML)
 
 
-### GraphQL
+### Graphs
+
+#### GraphQL
 
 * [GraphQL Cheat Sheet](https://licor.me/post/graphql) - Chuanrong Li (HTML)
 * [GraphQL Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html) - Jim Manico, Jakub Maćkowski (HTML)
 * [GraphQL Cheat Sheet](https://simplecheatsheet.com/tag/graphql-cheat-sheet) - Simple Cheat Sheet (HTML)
 * [GraphQL Cheatsheet](https://devhints.io/graphql) - devhints, Rico Santa Cruz (HTML)
+
+
+#### Gremlin
+
+* [Gremlin 101 Cheatsheet](https://dkuppitz.github.io/gremlin-cheat-sheet/101.html) - Daniel Kuppitz (HTML)
+* [Gremlin 102 Cheatsheet](https://dkuppitz.github.io/gremlin-cheat-sheet/102.html) - Daniel Kuppitz (HTML)
+* [Gremlin Recipes](https://tinkerpop.apache.org/docs/3.3.2/recipes/) - Apache Tinkerpop (HTML)
 
 
 ### HTML and CSS
@@ -236,6 +249,7 @@
 * [JavaScript Cheatsheet](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet) - Codecademy (HTML)
 * [JavaScript Cheatsheet](https://www.codewithharry.com/blogpost/javascript-cheatsheet) - Code With Harry
 * [JavaScript CheatSheet](https://htmlcheatsheet.com/js/) (HTML)
+* [JavaScript Cheatsheet](https://overapi.com/javascript) - OverAPI
 * [JavaScript Regex Cheatsheet](https://www.debuggex.com/cheatsheet/regex/javascript) - Debuggex (HTML)
 * [JavaScript WorldWide Cheatsheet](https://cheatography.com/davechild/cheat-sheets/javascript/) - Cheatography (JavaScript)
 * [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) (HTML)
@@ -245,6 +259,7 @@
 #### jQuery
 
 * [Beginner's essential jQuery Cheat Sheet](https://websitesetup.org/wp-content/uploads/2017/01/wsu-jquery-cheat-sheet.pdf) (PDF)
+* [JQuery Cheat Sheet](https://overapi.com/jquery) - OverAPI
 * [jQuery CheatSheet](https://htmlcheatsheet.com/jquery/) (HTML)
 * [jQuery Mega Cheat Sheet](https://makeawebsitehub.com/wp-content/uploads/2015/09/jquery-mega-cheat-sheet-Printable.pdf) - Jamie Spencer (PDF)
 
@@ -257,6 +272,14 @@
 #### Next.js
 
 * [Next.js Cheatsheet - handy snippets and tips](https://gourav.io/blog/nextjs-cheatsheet) - Gourav Goyal (HTML)
+* [TypeScript Next.js Cheatsheet](https://www.saltycrane.com/cheat-sheets/typescript/next.js/latest/) - SaltyCrane Cheat Sheets
+
+
+#### Node.js
+
+* [Introduction to Node.js](https://www.codecademy.com/learn/learn-node-js/modules/intro-to-node-js/cheatsheet) - Codecademy
+* [Node.js Cheatsheet ZTM](https://zerotomastery.io/cheatsheets/node-js-cheat-sheet) - Zero To Mastery
+* [Node.js/Express Cheatsheet](https://courses.cs.washington.edu/courses/cse154/19su/resources/assets/cheatsheets/node-cheatsheet.pdf) - Melissa Hovik (PDF)
 
 
 #### Nuxt.js
@@ -336,6 +359,7 @@
 
 ### PyTorch
 
+* [Deep Learning with PyTorch Cheat Sheet](https://www.datacamp.com/cheat-sheet/deep-learning-with-py-torch) - Richie Cotton (HTML)
 * [PyTorch Framework Cheat Sheet](https://www.simonwenkel.com/publications/cheatsheets/pdf/cheatsheet_pytorch.pdf) - Simon Wenkel (PDF)
 * [PyTorch Official Cheat Sheet](https://pytorch.org/tutorials/beginner/ptcheat.html) - PyTorch (HTML)
 
@@ -344,6 +368,7 @@
 
 * [PHP Cheat Sheet](https://www.codewithharry.com/blogpost/php-cheatsheet/) - CodeWithHarry (HTML)
 * [PHP Cheat Sheet](https://websitesetup.org/php-cheat-sheet/) - Nick Schäferhoff, WebsiteSetup (HTML, [PDF](https://websitesetup.org/wp-content/uploads/2020/09/PHP-Cheat-Sheet.pdf))
+* [PHP Cheat Sheet](https://overapi.com/php) - OverAPI
 * [PHP Cheat Sheet - 2021 Edition](https://www.quickstart.com/blog/php-cheat-sheet/) - Zsolt Nagy (HTML)
 
 
@@ -357,6 +382,7 @@
 * [Python Cheat Sheet](https://www.codewithharry.com/blogpost/python-cheatsheet) - Code With Harry
 * [Python Cheat Sheet](https://websitesetup.org/python-cheat-sheet/) - WebsiteSetup (HTML, PDF, PNG)
 * [Python Cheat Sheet](https://www.pythoncheatsheet.org) - Wilfredinni (HTML)
+* [Python Cheat Sheet](https://overapi.com/python) - OverAPI
 * [Python Cheatsheet for beginners](https://www.codecademy.com/learn/learn-python-3/modules/learn-python3-syntax/cheatsheet) - Codeacademy (HTML)
 * [Python Crash Course Cheatsheet](https://ehmatthes.github.io/pcc/cheatsheets/README.html) - Eric Matthes (HTML)
 * [Python Crash Course Cheatsheet (2nd Edition)](https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/) - Eric Matthes (PDF)

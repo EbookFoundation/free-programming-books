@@ -70,7 +70,6 @@ ADV - Продвинутый. Тонкости.
 
 * [Учебный курс по языку программирования Эликсир](https://github.com/yzh44yzh/elixir_course) - Yuri Zhloba
 
-
 ### Go
 
 * [Основы Go](https://ru.hexlet.io/courses/go-basics) - Hexlet (BEG)

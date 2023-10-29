@@ -113,7 +113,7 @@
 
 ### Bash / Shell
 
-* [Guide avancé d'écriture des scripts Bash](http://abs.traduc.org/abs-fr/)
+* [Guide avancé d'écriture des scripts Bash](http://abs.traduc.org/abs-fr/) - Mendel Cooper, `trl.:` Adrien Rebollo et al. (HTML)
 * [La programmation Shell](https://frederic-lang.developpez.com/tutoriels/linux/prog-shell/) - Frederic Lang, Idriss Neumann
 
 

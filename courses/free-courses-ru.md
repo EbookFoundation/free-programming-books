@@ -5,6 +5,7 @@
 * [C++](#cpp)
 * [Clojure](#clojure)
 * [Dart](#dart)
+* [Elixir](#elixir)
 * [Go](#go)
 * [Haskell](#haskell)
 * [HTML and CSS](#html-and-css)
@@ -64,6 +65,10 @@ ADV - Продвинутый. Тонкости.
 
 * [Основы Dart](https://stepik.org/course/92982) - Анна Музыкина (Stepik) (BEG)
 * [Основы Dart](https://stepik.org/course/97479) - Станислав Чернышев (Stepik) (BEG)
+
+### Elixir
+
+* [Учебный курс по языку программирования Эликсир](https://github.com/yzh44yzh/elixir_course) - Yuri Zhloba
 
 
 ### Go

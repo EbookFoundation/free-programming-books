@@ -338,12 +338,12 @@
 * [Complete Git and GitHub Tutorials For Beginners In Hindi](https://www.youtube.com/playlist?list=PLzdlNxYnNoafZq1AKcqiGvj0gkzrjmgq7) - Code House
 * [Complete Git Tutorials For Beginners In Hindi](https://youtube.com/playlist?list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi) - CodeWithHarry
 * [Complete Git/GitHub Tutorials In Hindi](https://www.youtube.com/playlist?list=PLoxQvXKPyCeX9__PPTu2M2oeY2QJt-3JB) - Vashishth Muni Singh
-* [Git Complete Tutorials for Beginners in Hindi (A to Z)](https://www.youtube.com/playlist?list=PLjVLYmrlmjGdIVmcu5nfgE68jANQetnOX) - WsCube Tech
 * [Git & Github](https://youtube.com/playlist?list=PL5P8NPoF-nn8LFPLjJemBTVI_KsLo0VC1&si=U94-O5hr4Im0hI85) - Rahul Singh
 * [Git & GitHub Tutorial For Beginners In Hindi](https://www.youtube.com/watch?v=gwWKnnCMQ5c) - CodeWithHarry
 * [Git & GitHub Tutorial in Hindi](https://www.youtube.com/watch?v=NR_A2gCxaLE) - Edureka! Hindi
 * [Git and Github | Complete हिंदी में (With Examples)](https://www.youtube.com/watch?v=zGq7T9gZH2k) - Knowledge Gate
 * [Github \| All about Git and GitHub](https://www.youtube.com/watch?v=77b2lVHHZqI) - Anuj Bhaiya
+* [Git Complete Tutorials for Beginners in Hindi (A to Z)](https://www.youtube.com/playlist?list=PLjVLYmrlmjGdIVmcu5nfgE68jANQetnOX) - WsCube Tech
 * [GitHub Tutorial in Hindi](https://youtube.com/playlist?list=PLVdoaEL574VBxxcGQmTjxS-JoP5rKV8Wi) - Be A Programmar
 * [GitHub with Visual Studio (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhigWA1mNWzwErSBIZvgOJbNc) - Rajesh Kumar, Geeky Shows
 

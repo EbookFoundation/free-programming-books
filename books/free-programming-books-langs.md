@@ -763,6 +763,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [LearnCpp.com](https://www.learncpp.com) (HTML)
 * [Learning C++ eBook](https://riptutorial.com/Download/cplusplus.pdf) - Compiled from StackOverflow Documentation (PDF)
 * [Matters Computational: Ideas, Algorithms, Source Code](http://www.jjj.de/fxt/fxtbook.pdf) - Jorg Arndt (PDF)
+* [Modern C++ Tutorial: C++11/14/17/20 On the Fly](https://www.changkun.de/modern-cpp/pdf/modern-cpp-tutorial-en-us.pdf) - Changkun Ou (PDF)
 * [More C++ Idioms](https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms) - Sumant Tambe, et al. (WikiBooks)
 * [Open Data Structures (In C++)](http://opendatastructures.org/ods-cpp.pdf) - Pat Morin (PDF)
 * [Programming Fundamentals - A Modular Structured Approach using C++](https://learning.hccs.edu/faculty/ken.busbee/programming-fundamentals-a-modular-structured-approach-using-c) - Kenneth Leroy Busbee (PDF)
@@ -2073,7 +2074,8 @@ Books on general-purpose programming that don't focus on a specific language are
 
 #### Symfony
 
-* [Symfony 5: The Fast Track](https://symfony.com/doc/5.0/the-fast-track/en/index.html)
+* [Symfony 5.4: The Fast Track](https://symfony.com/doc/5.4/the-fast-track/en/index.html)
+* [Symfony 6.2: The Fast Track](https://symfony.com/doc/6.2/the-fast-track/en/index.html)
 * [The Symfony Best practices 4.1.x](https://web.archive.org/web/20181017123206/https://symfony.com/pdf/Symfony_best_practices_4.1.pdf) (PDF) *(:card_file_box: archived)*
 * [The Symfony Book 2.8.x](https://symfony.com/doc/2.8/index.html)
 * [The Symfony Book 3.4.x](https://symfony.com/doc/3.4/index.html)
@@ -2382,6 +2384,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Data Mining Algorithms In R](https://en.wikibooks.org/wiki/Data_Mining_Algorithms_In_R) - Wikibooks
 * [Data Visualization with R](https://ladal.edu.au/dviz.html) - Martin Schweinberger (HTML)
 * [Efficient R programming](https://csgillespie.github.io/efficientR/) - Colin Gillespie, Robin Lovelace
+* [Exploratory Data Analysis with R](https://bookdown.org/rdpeng/exdata) - Roger D. Peng
 * [Forecasting: Principles and Practice](https://otexts.com/fpp3/) - Rob J Hyndman, George Athanasopoulos
 * [Functional Programming](https://dcl-prog.stanford.edu) - Sara Altman, Bill Behrman, Hadley Wickham
 * [Geocomputation with R](https://r.geocompx.org) - Robin Lovelace, Jakub Nowosad, Jannes Muenchow
@@ -2389,6 +2392,8 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Learning Statistics with R](https://learningstatisticswithr.com/book/) - Danielle Navarro
 * [Mastering Software Development in R](https://bookdown.org/rdpeng/RProgDA/) - Roger D. Peng, Sean Kross, and Brooke Anderson
 * [Model Estimation by Example, Demonstrations with R](https://m-clark.github.io/models-by-example) - Michael Clark
+* [Modern R with the tidyverse](https://b-rodrigues.github.io/modern_R) - Bruno Rodrigues
+* [Modern Statistics with R](https://www.modernstatisticswithr.com) - Måns Thulin
 * [ModernDive](https://ismayc.github.io/moderndiver-book/) - Chester Ismay, Albert Y. Kim
 * [Practical Regression and Anova using R](http://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) - Julian J. Faraway (PDF)
 * [R for Data Science](https://r4ds.hadley.nz) - Hadley Wickham, Mine Çetinkaya-Rundel, Garrett Grolemund
@@ -2402,6 +2407,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [R Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/rsuccinctly) (PDF, Kindle) (email address *requested*, not required)
 * [Statistical Inference via Data Science](https://moderndive.com) - Chester Ismay, Albert Y. Kim
 * [Summary and Analysis of Extension Program Evaluation in R](https://rcompanion.org/handbook/index.html) - Salvatore S. Mangiafico
+* [Supervised Machine Learning for Text Analysis in R](https://smltar.com) - Emil Hvitfeldt, Julia Silge
 * [The caret Package](http://topepo.github.io/caret/index.html) - Max Kuhn
 * [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) - Patrick Burns (PDF)
 * [The R Language](http://stat.ethz.ch/R-manual/R-patched/doc/html)

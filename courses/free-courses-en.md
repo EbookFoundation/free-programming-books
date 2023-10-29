@@ -206,6 +206,7 @@
 * [Advanced Android App Development](https://www.udacity.com/course/advanced-android-app-development--ud855) (Udacity)
 * [Advanced Android with Kotlin](https://www.udacity.com/course/advanced-android-with-kotlin--ud940) (Udacity)
 * [Android App Development for Beginners Playlist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBsvRxJJOzG4r4k_zLKrnxl) - Bucky Roberts (thenewboston)
+* [Android App Development Tutorial for Beginners (2020) \| Complete Guides and Courses](https://www.youtube.com/playlist?list=PLwhVruPHD9rz2MwQuYSenQ0WK1IGP5rYM) - tutorialsEU
 * [Android Basics: Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845) (Udacity)
 * [Android Basics: Multiscreen Apps](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839) (Udacity)
 * [Android Basics: Networking](https://www.udacity.com/course/android-basics-networking--ud843) (Udacity)
@@ -665,7 +666,7 @@
 * [App Search Fundamentals](https://www.elastic.co/training/app-search-fundamentals) - Elastic
 * [App Search Web Crawler Fundamentals](https://www.elastic.co/training/app-search-web-crawler-fundamentals) - Elastic
 * [ECE Fundamentals](https://www.elastic.co/training/ece-fundamentals) - Elastic
-* [Elastic Security Fundamentals: SIEM]([https://www.elastic.co/training/kibana-for-splunk-spl-users](https://www.elastic.co/training/elastic-security-fundamentals-siem)) - Elastic
+* [Elastic Security Fundamentals: SIEM](https://www.elastic.co/training/elastic-security-fundamentals-siem) - Elastic
 * [Kibana for Splunk SPL Users](https://www.elastic.co/training/kibana-for-splunk-spl-users) - Elastic
 * [Kibana Fundamentals](https://www.elastic.co/training/kibana-fundamentals) - Elastic
 * [Observability Fundamentals](https://www.elastic.co/training/observability-fundamentals) - Elastic
@@ -871,6 +872,7 @@
 * [Hibernate Tutorial for Beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7qBZtsEvp_n2A7sJs2MpF3r) - Telusko (Navin Reddy)
 * [Introduction to Java](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/)
 * [Introduction to Java + DSA](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ) - Kunal Kushwaha
+* [Java + DSA + Interview Preparation Course](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ) - Kunal Kushwaha
 * [Java AWT](https://www.youtube.com/playlist?list=PLDN4rrl48XKoYR1H6l19hvF_8SMHGdPvk) - Abdul Bari
 * [Java Beginner](https://youtube.com/playlist?list=PLkeaG1zpPTHiMjczpmZ6ALd46VjjiQJ_8) - Coding with John
 * [Java Complete Course - Placement Series](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop) - Apna College
@@ -1223,6 +1225,7 @@
 * [Intro to Machine Learning using Microsoft Azure](https://www.udacity.com/course/introduction-to-machine-learning-using-microsoft-azure--ud00333) - Microsoft (Udacity)
 * [Intro to Self-Driving Cars Nanodegree](https://www.udacity.com/course/intro-to-self-driving-cars--nd113) - Cezanne Camacho, Andrew Paster, Anthony Navarro, Tarin Ziyaee, et al. (Udacity)
 * [Introduction to Machine Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about) - MIT Open Learning Library
+* [Linear Algebra for Machine Learning](https://www.youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a) - Jon Krohn
 * [Machine Learning](https://www.sololearn.com/Course/machine-learning) (SoloLearn) *(account required)*
 * [Machine Learning](https://youtube.com/playlist?list=PL7T06JEc5PF5Vuz1U7lEEaFPOExDbKVEh) - Nerd's Lesson
 * [Machine Learning](https://youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF) - StatQuest with Josh Starmer
@@ -1349,6 +1352,7 @@
 * [PHP tutorial for beginners](https://www.youtube.com/playlist?list=PLZPZq0r_RZOO6bGTY9jbLOyF_x6tgwcuB) - Bro Code
 * [PHP Tutorials](https://www.youtube.com/playlist?list=PL0eyrZgxdwhwBToawjm9faF1ixePexft-) - Dani Krossing
 * [Use PHP to Create an MVC Framework - Full Course](https://www.youtube.com/watch?v=6ERdu4k62wI) - Zura Sekhniashvili (freeCodeCamp.org)
+* [Yii2 Lessons](https://www.youtube.com/playlist?list=PLRd0zhQj3CBmusDbBzFgg3H20VxLx2mkF) - Uthpala Heenatigala
 
 
 ### PLC - Programmable logic controllers
@@ -1628,6 +1632,7 @@
 * [Automata Theory](https://online.stanford.edu/courses/soe-ycsautomata-automata-theory)
 * [Formal Languages & Automata Theory](https://www.youtube.com/playlist?list=PLLvKknWU7N4zvTGcw9N2_7eZSTTkryb0U) - Lalit Vashistha
 * [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313) (Udacity)
+* [Theory of Computation](https://www.youtube.com/playlist?list=PLyqSpQzTE6M9-v4V62bCygAVYGluaijyo) - Subrahmanyam Kalyanasundaram
 * [Theory of Computation & Automata Theory](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev) - Neso Academy
 
 

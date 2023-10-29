@@ -17,6 +17,7 @@
 * [Coq](#coq)
 * [Fortran](#fortran)
 * [Git](#git)
+* [Go](#go)
 * [Haskell](#haskell)
 * [HTML and CSS](#css)
 * [Java](#java)
@@ -129,7 +130,7 @@
 ### Chaîne de blocs / Blockchain
 
 * [Maîtriser Bitcoin: Programmer la chaîne de blocs publique](https://bitcoin.maitriser.ca) - Andreas M. Antonopoulos, Serafim Dos Santos (asciidoc, HTML)
-* [Maîtriser Ethereum: Développer des contrats intelligents et des DApps](https://ethereum.maitriser.ca) - Andreas M. Antonopoulos, Dr. Gavin Wood, Serafim Dos Santos (asciidoc, HTML)
+* [Maîtriser Ethereum: Développer des contrats intelligents et des DApps](https://ethereum.maitriser.ca) - Andreas M. Antonopoulos, Gavin Wood, Serafim Dos Santos (asciidoc, HTML)
 
 
 ### Coq
@@ -150,6 +151,11 @@
 
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/fr/) - Ben Lynn, `trl.:` Alexandre Garel, `trl.:` Paul Gaborit, `trl.:` Nicolas Deram (HTML, PDF)
 * [Pro Git](http://www.git-scm.com/book/fr/) - Scott Chacon, Ben Straub (HTML, PDF, EPUB)
+
+
+### Go
+
+* [Développer une application Web en Go](https://astaxie.gitbooks.io/build-web-application-with-golang/content/fr/) - astaxie
 
 
 ### Java

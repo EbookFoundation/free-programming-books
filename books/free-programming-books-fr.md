@@ -6,6 +6,7 @@
     * [IDE et éditeurs de texte](#ide-et-editeurs-de-texte)
     * [Logiciels libres](#logiciels-libres)
     * [Makefile](#makefile)
+    * [Mathématiques](#mathématiques)
     * [Pédagogie pour les enfants et adolescents](#pédagogie-pour-les-enfants-et-adolescents)
     * [Théorie des langages](#théorie-des-langages)
 * [Ada](#ada)
@@ -19,7 +20,7 @@
 * [Git](#git)
 * [Go](#go)
 * [Haskell](#haskell)
-* [HTML and CSS](#css)
+* [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [jQuery](#jquery)
@@ -31,7 +32,6 @@
     * [TeX](#tex)
 * [Lisp](#lisp)
 * [Lua](#lua)
-* [Mathématiques](#math%C3%A9matiques)
 * [Meteor](#meteor)
 * [Perl](#perl)
 * [PHP](#php)
@@ -47,7 +47,7 @@
 * [Scratch](#scratch)
 * [SPIP](#spip)
 * [SQL](#sql)
-* [Systèmes d'exploitation](#systemes-d-exploitation)
+* [Systèmes d'exploitation](#systèmes-dexploitation)
 * [TEI](#tei)
 
 
@@ -86,6 +86,11 @@
 
 * [Concevoir un Makefile](http://icps.u-strasbg.fr/people/loechner/public_html/enseignement/GL/make.pdf) - Vincent Loechner d'après Nicolas Zin (PDF)
 * [Introduction aux Makefile](http://eric.bachard.free.fr/UTBM_LO22/P07/C/Documentation/C/make/intro_makefile.pdf) (PDF)
+
+
+#### Mathématiques
+
+* [Approfondissements de lycée](https://fr.wikibooks.org/wiki/Approfondissements_de_lycée) - Wikibooks contributors, Zhuo Jia Dai, `ctb.:` R3m0t, `ctb.:` Martin Warmer (HTML) (:construction: *in process*)
 
 
 #### Pédagogie pour les enfants et adolescents
@@ -130,7 +135,7 @@
 ### Chaîne de blocs / Blockchain
 
 * [Maîtriser Bitcoin: Programmer la chaîne de blocs publique](https://bitcoin.maitriser.ca) - Andreas M. Antonopoulos, Serafim Dos Santos (asciidoc, HTML)
-* [Maîtriser Ethereum: Développer des contrats intelligents et des DApps](https://ethereum.maitriser.ca) - Andreas M. Antonopoulos, Dr. Gavin Wood, Serafim Dos Santos (asciidoc, HTML)
+* [Maîtriser Ethereum: Développer des contrats intelligents et des DApps](https://ethereum.maitriser.ca) - Andreas M. Antonopoulos, Gavin Wood, Serafim Dos Santos (asciidoc, HTML)
 
 
 ### Coq
@@ -323,6 +328,7 @@
 ### SQL
 
 * [Cours complet pour apprendre les différents types de bases de données et le langage SQL](https://sgbd.developpez.com/tutoriels/cours-complet-bdd-sql/) - Jacques Le Maitre
+* [Cours de SQL base du langage SQL et des bases de données](https://sql.sh) - Tony Archambeau
 * [Only SQL. Tout ce que vous avez toujours voulu savoir sur les SGBD sans jamais avoir osé le demander.](https://framabook.org/not-only-sql/) - Vincent Lozano, Éric Georges
 
 

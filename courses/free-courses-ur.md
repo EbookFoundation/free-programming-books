@@ -1,9 +1,21 @@
 ### Index
 
+* [Algorithms](#algorithms)
+* [Android](#android)
 * [C++](#cplusplus)
 * [C#](#csharp)
 * [HTML and CSS](#html-and-css)
 * [Python](#python)
+
+
+### <a id="algorithms"></a>Algorithms
+
+* [Data Structures and Algorithms Analysis Complete Course in Hindi/Urdu \| Data structures by Fahad Hussain \| data structures and algorithms tutorial](https://www.youtube.com/playlist?list=PLtCBuHKmdxOfPNlAKWxBqdznCcXV4iWCz) - Fahad Hussain
+
+
+### <a id="android"></a>Android
+
+* [The complete Android Application Development Course in Hindi/Urdu \| Android Development for Beginners in Hindi - Urdu \| Android tutorial in Urdu](https://www.youtube.com/playlist?list=PLtCBuHKmdxOe8IWZnA515lGPKaWx5WNOE) - Fahad Hussain
 
 
 ### <a id="cplusplus"></a>C++
@@ -21,6 +33,7 @@
 ### <a id="html-and-css"></a>HTML and CSS
 
 * [HTML5 & CSS3 Tutorials In Urdu and Hindi](https://youtube.com/playlist?list=PLUyYwyJA_WfTr3YWWJ41_V7TrRZoq6cBT) - ProgramInUrdu
+* [HTML5 & CSS3 Tutorials in Urdu/Hindi](https://www.youtube.com/playlist?list=PLU4yvac0MJbJrUWqGQbtFxOYR3gRvXxMs) - OnlineUstaad
 
 
 ### <a id="python"></a>Python

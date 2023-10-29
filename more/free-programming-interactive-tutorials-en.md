@@ -1,6 +1,7 @@
 ### Index
 
 * [Ada](#ada)
+* [Algorithms](#algorithms)
 * [Android](#android)
 * [Bash](#bash)
 * [C](#c)
@@ -56,6 +57,11 @@
 ### Ada
 
 * [Introduction to Ada](https://learn.adacore.com/courses/intro-to-ada/index.html) - Adacore
+
+
+### Algorithms
+
+* [Data Structures Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - David Galles
 
 
 ### Android
@@ -296,7 +302,7 @@
 * [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os) - Sergey Matyukevich (:construction: *in process*)
 * [Linux Journey - Fun and Easy](https://linuxjourney.com) - Cindy Quach
 * [Operating System Tutorial](https://www.scaler.com/topics/operating-system/) - Scaler Topics
-* [Project eXpOS: eXperimental Operating System](https://exposnitc.github.io) - Dr. Murali Krishnan K., Department of Computer Science and Engineering of the Calicut National Institute of Technology (HTML)
+* [Project eXpOS: eXperimental Operating System](https://exposnitc.github.io) - Murali Krishnan K., Department of Computer Science and Engineering of the Calicut National Institute of Technology (HTML)
 
 
 ### LaTeX

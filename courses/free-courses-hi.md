@@ -50,6 +50,7 @@
 * [Mongo DB](#mongo-db)
 * [Natural Language Processing](#natural-language-processing)
 * [Networking](#networking)
+* [Open Source](#open-source)
 * [Operating Systems](#operating-systems)
 * [PHP](#php)
     * [CodeIgniter](#codeigniter)
@@ -85,6 +86,7 @@
 * [Generic Trees - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiEmjuIVDrwR9h5i9TT2CEU_) - Pepcoding
 * [Graph Theory](https://www.youtube.com/playlist?list=PLxCzCOWd7aiG0M5FqjyoqB20Edk0tyzVt) - Gate Smashers
 * [Graphs - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHfqDcLZMcO9SsUDY4S3a-v) - Pepcoding
+* [Graphs - Level 2](https://www.youtube.com/playlist?list=PL-Jc9J83PIiEuHrjpZ9m94Nag4fwAvtPQ) - Pepcoding
 * [Hindi Data Structures And Algorithms Tutorial Python](https://www.youtube.com/playlist?list=PLPbgcxheSpE3NlJ30EDpxNYU6P2Jylns8) - codebasics Hindi
 * [Linked List - Level 1](https://youtube.com/playlist?list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_&si=S_MRPF7yyupBUCC6) - Pepcoding
 * [Recursion & Backtracking - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFxaBahjslhBD1LiJAV7nKs) - Pepcoding
@@ -127,6 +129,11 @@
 * [Arduino Programming In Hindi (Full Playlist)](https://www.youtube.com/watch?v=KOa1aVijhao) - SBS online classes
 * [Arduino Programming Series (हिंदी में)](https://youtube.com/playlist?list=PLV3C-t_tgjGFyXP_-AF37AoIuxM9jzELM) - Engineers & Electronics
 * [Complete Arduino Tutorial Learn Arduino Programming in Hindi](https://www.youtube.com/playlist?list=PLg2KtP8cgLjzNu5G2bQQLxFeBiqk8IO0s) - Techtalks With Vivek
+
+
+### Artificial Intelligence
+
+* [Generative AI Series - Showcasing Generative AI By Building Projects](https://www.youtube.com/playlist?list=PLu0W_9lII9aiS4rUVp2jXwIvCruo27sG6) - CodeWithHarry
 
 
 ### Assembly
@@ -234,6 +241,7 @@
 
 * [Computer Graphics](https://youtube.com/playlist?list=PLYwpaL_SFmcAtxMe7ahYC4ZYjQHun_b-T) - 5 Minutes Engineering
 * [Computer Graphics and Multimedia (CGMM) Lectures in Hindi](https://www.youtube.com/playlist?list=PLV8vIYTIdSnaTVCcd954N14bVOOgYh-2V) - Easy Engineering Classes
+* [Computer Graphics Complete Syllabus Tutorials](https://www.youtube.com/playlist?list=PLL8qj6F8dGlScni_9ZmeOMoRodrwzhvTq) - TutorialsSpace- Er. Deepak Garg
 * [Computer Graphics Full Course in Hindi](https://www.youtube.com/playlist?list=PLAC6WcHCOQCHVfV3vR4At0g0QADIeZc_j) - Edulogy
 
 
@@ -435,6 +443,7 @@
 * [jQuery Tutorials in Hindi / Urdu](https://www.youtube.com/playlist?list=PL0b6OzIxLPbzSyiC0PFaqeabe1aGhfrbW) - Yahoo Baba
 * [jQuery Tutorials in Hindi 2018](https://youtube.com/playlist?list=PLwGdqUZWnOp0X4dVwSsEd6dV49TLLCooI) - Vinod Bahadur Thapa (Thapa Technical)
 * [jQuery Video Course](https://www.youtube.com/playlist?list=PLPAcs2twrK5_FzWMttkbTuM0dB5A-ni-Q) - w3webschool.net
+* [jQuery Zero to Advance](https://www.youtube.com/watch?v=YFlx1C8XwR0) - CodeWithHarry
 
 
 #### Next.js
@@ -484,7 +493,8 @@
 #### Redux
 
 * [Redux toolkit crash course &#124; Chai aur React Series](https://www.youtube.com/watch?v=1i04-A7kfFI) - Hitesh Choudhary (Chai aur Code)
-* [Redux Toolkit tutorial in Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp2nz2T6SfWX9t6D6SYn3XlN) - Vinod Bahadur Thapa (Thapa Technical)
+* [Redux toolkit tutorial in Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp2nz2T6SfWX9t6D6SYn3XlN) - Vinod Bahadur Thapa (Thapa Technical)
+* [Redux tutorial in Hindi](https://youtube.com/playlist?list=PL8p2I9GklV47TDYUq8RmFzeI9CgOoVgpJ&si=p-4s6qJ31ReIbKqj) - Code Step by Step
 
 
 #### Vue.js
@@ -567,6 +577,11 @@
 * [Computer Network Tutorial in Hindi](https://www.youtube.com/playlist?list=PL-JvKqQx2AteLNR8UO4UQiDmQF-Wotu5G) - University Academy
 * [Computer Networks (Complete Playlist)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_) - Gate Smashers, `tch.:` Varun Singla
 * [Networking Basics](https://www.youtube.com/playlist?list=PLkW9FMxqUvyZaSQNQslneeODER3bJCb2K) - Bitten Tech
+
+
+### Open Source
+
+* [Open Source BootCamp - Master Open Source Contributions](https://www.youtube.com/playlist?list=PLinedj3B30sAT6CotNj0iffhRV89SkNK9) - Piyush Garg
 
 
 ### Operating Systems
@@ -677,6 +692,7 @@
 
 ### Security
 
+* [Complete Ethical Hacking Tutorial for Beginners to Pro 2022](https://www.youtube.com/playlist?list=PLjVLYmrlmjGea8U9nphmCHGK_v6p_wq-R) - WsCube Tech
 * [cyber security course for beginners - Urdu/Hindi](https://www.youtube.com/playlist?list=PLKJfBg0XdWkevCEJ64RK11LylBNX2-zbk) - hashintelligence
 * [Cyber Security Tutorial In Hindi](https://www.youtube.com/playlist?list=PL-JvKqQx2AteIbm-z4X709scVr9OaHpIY) - University Academy
 * [Cyber Security Tutorials In HIndi](https://www.youtube.com/playlist?list=PL0fjgIGwLMWTFmZoLdEPoI9azA-osxcQj) - TechChip

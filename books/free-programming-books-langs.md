@@ -531,7 +531,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Fundamentals of C++ Programming](https://web.archive.org/web/20191005170118/https://python.cs.southern.edu/cppbook/progcpp.pdf) - Richard L. Halterman (PDF) *(:card_file_box: archived)*
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html) (HTML)
 * [Google's C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
-* [Hands-On System Programming with C++](https://www.packtpub.com/free-ebook/hands-on-system-programming-with-c/9781789137880) - Dr. Rian Quinn (Packt account *required*)
+* [Hands-On System Programming with C++](https://www.packtpub.com/free-ebook/hands-on-system-programming-with-c/9781789137880) - Rian Quinn (Packt account *required*)
 * [How to make an Operating System](https://samypesse.gitbook.io/how-to-create-an-operating-system/) - Samy Pesse
 * [How To Think Like a Computer Scientist: C++ Version](http://greenteapress.com/thinkcpp/index.html) - Allen B. Downey
 * [Introduction to Design Patterns in C++ with Qt 4](http://ptgmedia.pearsoncmg.com/images/9780131879058/downloads/0131879057_Ezust_book.pdf) - Alan Ezust, Paul Ezust (PDF)
@@ -540,6 +540,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [LearnCpp.com](https://www.learncpp.com) (HTML)
 * [Learning C++ eBook](https://riptutorial.com/Download/cplusplus.pdf) - Compiled from StackOverflow Documentation (PDF)
 * [Matters Computational: Ideas, Algorithms, Source Code](http://www.jjj.de/fxt/fxtbook.pdf) - Jorg Arndt (PDF)
+* [Modern C++ Tutorial: C++11/14/17/20 On the Fly](https://www.changkun.de/modern-cpp/pdf/modern-cpp-tutorial-en-us.pdf) - Changkun Ou (PDF)
 * [More C++ Idioms](https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms) - Sumant Tambe, et al. (WikiBooks)
 * [Open Data Structures (In C++)](http://opendatastructures.org/ods-cpp.pdf) - Pat Morin (PDF)
 * [Programming Fundamentals - A Modular Structured Approach using C++](https://learning.hccs.edu/faculty/ken.busbee/programming-fundamentals-a-modular-structured-approach-using-c) - Kenneth Leroy Busbee (PDF)
@@ -863,7 +864,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Fullstack GraphQL Applications with GRANDStack – Essential Excerpts](https://neo4j.com/fullstack-graphql-applications-with-grandstack/) - William Lyon (PDF) *(email requested)*
 * [Graph Algorithms: Practical Examples in Apache Spark and Neo4j](https://neo4j.com/graph-algorithms-book/) - Mark Needham, Amy E. Hodler (PDF, EPUB, MOBI) *(email requested)*
 * [Graph Databases 2nd edition](http://neo4j.com/books/graph-databases/) - Ian Robinson, Jim Webber, Emil Eifrém (PDF, EPUB, MOBI) *(email requested)*
-* [Graph Databases For Dummies](https://neo4j.com/graph-databases-for-dummies/) - Dr. Jim Webber, Rik Van Bruggen (PDF) *(email requested)*
+* [Graph Databases For Dummies](https://neo4j.com/graph-databases-for-dummies/) - Jim Webber, Rik Van Bruggen (PDF) *(email requested)*
 * [Knowledge Graphs: Data in Context for Responsive Businesses](https://neo4j.com/knowledge-graphs-data-in-context-for-responsive-businesses/) - Jesús Barrasa, Amy E. Hodler, Jim Webber (PDF) *(email requested)*
 
 
@@ -1132,18 +1133,18 @@ Books on general-purpose programming that don't focus on a specific language are
 ### JavaScript
 
 * [Airbnb JavaScript Style Guide](https://airbnb.io/javascript/) - Airbnb (HTML)
-* [Basic JavaScript for the impatient programmer](http://www.2ality.com/2013/06/basic-javascript.html) - Dr. Axel Rauschmayer (HTML)
+* [Basic JavaScript for the impatient programmer](http://www.2ality.com/2013/06/basic-javascript.html) - Axel Rauschmayer (HTML)
 * [Book of Modern Frontend Tooling](https://github.com/tooling/book-of-modern-frontend-tooling) - Various (HTML)
 * [Building Front-End Web Apps with Plain JavaScript](https://web-engineering.info/JsFrontendApp-Book) - Gerd Wagner (HTML,PDF)
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) - Ryan McDermott (HTML)
 * [Crockford's JavaScript](http://www.crockford.com/javascript/) - Douglas Crockford (HTML)
-* [Deep JavaScript: Theory and techniques](https://exploringjs.com/deep-js) - Dr. Axel Rauschmayer (HTML)
+* [Deep JavaScript: Theory and techniques](https://exploringjs.com/deep-js) - Axel Rauschmayer (HTML)
 * [Designing Scalable JavaScript Applications](https://www.manning.com/books/designing-scalable-javascript-applications) - Emmit Scott (PDF+livebook)
 * [Dev Docs](https://devdocs.io/javascript/) - Various (HTML)
 * [DOM Enlightenment](https://frontendmasters.com/guides/javascript-enlightenment/) - Cody Linley
 * [Eloquent JavaScript 3rd edition](http://eloquentjavascript.net) - Marijn Haverbeke (HTML, PDF, EPUB, MOBI)
 * [Essential Javascript](https://www.programming-books.io/essential/javascript/) - Krzysztof Kowalczyk, StackOverflow Contributors
-* [Exploring ES6](http://exploringjs.com/es6/) - Dr. Axel Rauschmayer (HTML)
+* [Exploring ES6](http://exploringjs.com/es6/) - Axel Rauschmayer (HTML)
 * [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS) - Kyle Simpson (HTML)
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml) - Aaron Whyte, Bob Jervis, Dan Pupius, Erik Arvidsson, Fritz Schneider, Robby Walker (HTML)
 * [Human JavaScript](http://read.humanjavascript.com/ch01-introduction.html) - Henrik Joreteg (HTML)
@@ -1154,7 +1155,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [JavaScript ES6 and beyond](https://github.com/AlbertoMontalesi/JavaScript-es6-and-beyond-ebook) - Alberto Montalesi (PDF, epub)
 * [JavaScript For Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - Microsoft
 * [JavaScript For Cats](http://jsforcats.com) - Maxwell Ogden (HTML)
-* [JavaScript for Impatient Programmers (ES2020 edition)](https://exploringjs.com/impatient-js/toc.html) - Dr. Axel Rauschmayer (HTML)
+* [JavaScript for Impatient Programmers (ES2020 edition)](https://exploringjs.com/impatient-js/toc.html) - Axel Rauschmayer (HTML)
 * [JavaScript for Impatient Programmers (ES2022 edition)](https://exploringjs.com/impatient-js/) - Axel Rauschmayer (HTML)
 * [JavaScript from ES5 to ESNext](https://flaviocopes.com/page/es5-to-esnext/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
 * [JavaScript Fundamentals, Plus a Dash Of JQuery - for dinner ladies](http://nicholasjohnson.com/javascript-book/) - Nicholas Johnson (HTML)
@@ -1183,7 +1184,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Professor Frisby’s Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/) - Brian Lonsdorf (HTML)
 * [Robust Client-Side JavaScript](https://molily.de/robust-javascript/) - Matthias Schäfer (HTML, EPUB)
 * [Single page apps in depth](http://singlepageappbook.com) - Mixu (HTML)
-* [Speaking JavaScript](https://exploringjs.com/es5/) - Dr. Axel Rauschmayer
+* [Speaking JavaScript](https://exploringjs.com/es5/) - Axel Rauschmayer
 * [Standard ECMA-262 ECMAScript 2016 Language Specification](https://www.ecma-international.org/publications/standards/Ecma-262.htm) - Ecma International (HTML,PDF)
 * [The Code Challenge Book](https://s3.amazonaws.com/coderbytestaticimages/CoderbyteEbook.pdf) - Daniel Borowski (PDF)
 * [The JavaScript Beginner's Handbook](https://flaviocopes.com/page/javascript-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
@@ -1675,7 +1676,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Nim
 
-* [Computer Programming with the Nim Programming Language](http://ssalewski.de/nimprogramming.html) - Dr. Stefan Salewski
+* [Computer Programming with the Nim Programming Language](http://ssalewski.de/nimprogramming.html) - Stefan Salewski
 * [Nim Basics](https://narimiran.github.io/nim-basics) - narimiran
 * [Nim by Example](https://nim-by-example.github.io) - Flaviu Tamas
 * [Nim Days](https://xmonader.github.io/nimdays) - Ahmed Thabet
@@ -1847,7 +1848,8 @@ Books on general-purpose programming that don't focus on a specific language are
 
 #### Symfony
 
-* [Symfony 5: The Fast Track](https://symfony.com/doc/5.0/the-fast-track/en/index.html)
+* [Symfony 5.4: The Fast Track](https://symfony.com/doc/5.4/the-fast-track/en/index.html)
+* [Symfony 6.2: The Fast Track](https://symfony.com/doc/6.2/the-fast-track/en/index.html)
 * [The Symfony Best practices 4.1.x](https://web.archive.org/web/20181017123206/https://symfony.com/pdf/Symfony_best_practices_4.1.pdf) (PDF) *(:card_file_box: archived)*
 * [The Symfony Book 2.8.x](https://symfony.com/doc/2.8/index.html)
 * [The Symfony Book 3.4.x](https://symfony.com/doc/3.4/index.html)
@@ -2011,9 +2013,10 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Pro Python Advanced coding techniques and tools](https://archive.org/download/python-books/Apress.Pro.Python.Advanced.Coding.Techniques.And.Tools.Jun.2010.ISBN.1430227575.pdf) - Marty Alchin (PDF)
 * [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds3/index.html) - Bradley N. Miller, David L. Ranum (3.x)
 * [Program Arcade Games With Python And Pygame](http://programarcadegames.com) (3.3)
+* [Programming Basics with Python](https://python-book.softuni.org) - Svetlin Nakov & Team
 * [Programming Computer Vision with Python](http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf) (PDF)
 * [Programming for Non-Programmers, Release 2.6.2](https://web.archive.org/web/20180921063136/http://buildingskills.itmaybeahack.com/book/programming-2.6/latex/ProgrammingforNon-Programmers.pdf) - Steven F. Lott (PDF) (2.6) *(:card_file_box: archived)*
-* [PySDR: A Guide to SDR and DSP using Python](https://pysdr.org) - Dr. Marc Lichtman (3.x)
+* [PySDR: A Guide to SDR and DSP using Python](https://pysdr.org) - Marc Lichtman (3.x)
 * [Python 101](https://python101.pythonlibrary.org) - Michael Driscoll (HTML, TEXT)
 * [Python 2 Official Documentation](https://docs.python.org/2/download.html) (PDF, HTML, TEXT) (2.x)
 * [Python 2.7 quick reference](https://web.archive.org/web/20171013204449/http://infohost.nmt.edu/tcc/help/pubs/python27/python27.pdf) - John W. Shipman (PDF) (2.7) *(:card_file_box: archived)*
@@ -2052,6 +2055,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [The Big Book of Small Python Projects](https://inventwithpython.com/bigbookpython/) - Al Sweigart
 * [The Coder's Apprentice: Learning Programming with Python 3](http://www.spronck.net/pythonbook/) - Pieter Spronck (PDF) (3.x)
 * [The Definitive Guide to Jython, Python for the Java Platform](https://jython.readthedocs.io/en/latest/) - Josh Juneau, Jim Baker, Victor Ng, Leo Soto, Frank Wierzbicki (2.5)
+* [The Hitchhiker's Guide to Python: Best Practices for Development](https://docs.python-guide.org) - Kenneth Reitz, Tanya Schlusser, et al
 * [The Little Book of Python Anti-Patterns](http://docs.quantifiedcode.com/python-anti-patterns/) ([Source](https://github.com/quantifiedcode/python-anti-patterns))
 * [The Programming Historian](http://niche-canada.org/research/niche-digital-infrastructure-project/the-programming-historian/) - William J. Turkel, Adam Crymble and Alan MacEachern
 * [The Python Coding Book](https://thepythoncodingbook.com) - Stephen Gruppetta (HTML)
@@ -2155,6 +2159,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Data Mining Algorithms In R](https://en.wikibooks.org/wiki/Data_Mining_Algorithms_In_R) - Wikibooks
 * [Data Visualization with R](https://ladal.edu.au/dviz.html) - Martin Schweinberger (HTML)
 * [Efficient R programming](https://csgillespie.github.io/efficientR/) - Colin Gillespie, Robin Lovelace
+* [Exploratory Data Analysis with R](https://bookdown.org/rdpeng/exdata) - Roger D. Peng
 * [Forecasting: Principles and Practice](https://otexts.com/fpp3/) - Rob J Hyndman, George Athanasopoulos
 * [Functional Programming](https://dcl-prog.stanford.edu) - Sara Altman, Bill Behrman, Hadley Wickham
 * [Geocomputation with R](https://r.geocompx.org) - Robin Lovelace, Jakub Nowosad, Jannes Muenchow
@@ -2162,6 +2167,8 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Learning Statistics with R](https://learningstatisticswithr.com/book/) - Danielle Navarro
 * [Mastering Software Development in R](https://bookdown.org/rdpeng/RProgDA/) - Roger D. Peng, Sean Kross, and Brooke Anderson
 * [Model Estimation by Example, Demonstrations with R](https://m-clark.github.io/models-by-example) - Michael Clark
+* [Modern R with the tidyverse](https://b-rodrigues.github.io/modern_R) - Bruno Rodrigues
+* [Modern Statistics with R](https://www.modernstatisticswithr.com) - Måns Thulin
 * [ModernDive](https://ismayc.github.io/moderndiver-book/) - Chester Ismay, Albert Y. Kim
 * [Practical Regression and Anova using R](http://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) - Julian J. Faraway (PDF)
 * [R for Data Science](https://r4ds.hadley.nz) - Hadley Wickham, Mine Çetinkaya-Rundel, Garrett Grolemund
@@ -2175,6 +2182,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [R Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/rsuccinctly) (PDF, Kindle) (email address *requested*, not required)
 * [Statistical Inference via Data Science](https://moderndive.com) - Chester Ismay, Albert Y. Kim
 * [Summary and Analysis of Extension Program Evaluation in R](https://rcompanion.org/handbook/index.html) - Salvatore S. Mangiafico
+* [Supervised Machine Learning for Text Analysis in R](https://smltar.com) - Emil Hvitfeldt, Julia Silge
 * [The caret Package](http://topepo.github.io/caret/index.html) - Max Kuhn
 * [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) - Patrick Burns (PDF)
 * [The R Language](http://stat.ethz.ch/R-manual/R-patched/doc/html)
@@ -2551,7 +2559,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 * [Essential TypeScript](https://www.programming-books.io/essential/typescript/) - Krzysztof Kowalczyk, StackOverflow Contributors
 * [Learn TypeScript in Y Minutes](https://learnxinyminutes.com/docs/typescript/)
-* [Tackling TypeScript: Upgrading from JavaScript](https://exploringjs.com/tackling-ts/toc.html) - Dr. Axel Rauschmayer
+* [Tackling TypeScript: Upgrading from JavaScript](https://exploringjs.com/tackling-ts/toc.html) - Axel Rauschmayer
 * [TypeScript Accelerated](https://accelerated.amimetic.co.uk) - James Porter
 * [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/)
 * [TypeScript for C# Programmers](http://www.infoq.com/minibooks/typescript-c-sharp-programmers)

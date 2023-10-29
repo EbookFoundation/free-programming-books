@@ -13,7 +13,9 @@
 * [Docker](#docker)
 * [Git](#git)
 * [Go](#go)
-* [GraphQL](#graphql)
+* [Graphs](#graphs)
+    * [GraphQL](#graphql)
+    * [Gremlin](#gremlin)
 * [HTML and CSS](#html-and-css)
 * [IDE and editors](#ide-and-editors)
 * [Java](#java)
@@ -21,6 +23,7 @@
     * [jQuery](#jquery)
     * [Nest.js](#nestjs)
     * [Next.js](#nextjs)
+    * [Node.js](#nodejs)
     * [Nuxt.js](#nuxtjs)
     * [React.js](#reactjs)
     * [Vue.js](#vuejs)
@@ -177,12 +180,21 @@
 * [গো \| ডেভ সংকেত<](https://devsonket.com/go) - devsonket (HTML)
 
 
-### GraphQL
+### Graphs
+
+#### GraphQL
 
 * [GraphQL Cheat Sheet](https://licor.me/post/graphql) - Chuanrong Li (HTML)
 * [GraphQL Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html) - Jim Manico, Jakub Maćkowski (HTML)
 * [GraphQL Cheat Sheet](https://simplecheatsheet.com/tag/graphql-cheat-sheet) - Simple Cheat Sheet (HTML)
 * [GraphQL Cheatsheet](https://devhints.io/graphql) - devhints, Rico Santa Cruz (HTML)
+
+
+#### Gremlin
+
+* [Gremlin 101 Cheatsheet](https://dkuppitz.github.io/gremlin-cheat-sheet/101.html) - Daniel Kuppitz (HTML)
+* [Gremlin 102 Cheatsheet](https://dkuppitz.github.io/gremlin-cheat-sheet/102.html) - Daniel Kuppitz (HTML)
+* [Gremlin Recipes](https://tinkerpop.apache.org/docs/3.3.2/recipes/) - Apache Tinkerpop (HTML)
 
 
 ### HTML and CSS
@@ -261,6 +273,13 @@
 
 * [Next.js Cheatsheet - handy snippets and tips](https://gourav.io/blog/nextjs-cheatsheet) - Gourav Goyal (HTML)
 * [TypeScript Next.js Cheatsheet](https://www.saltycrane.com/cheat-sheets/typescript/next.js/latest/) - SaltyCrane Cheat Sheets
+
+
+#### Node.js
+
+* [Introduction to Node.js](https://www.codecademy.com/learn/learn-node-js/modules/intro-to-node-js/cheatsheet) - Codecademy
+* [Node.js Cheatsheet ZTM](https://zerotomastery.io/cheatsheets/node-js-cheat-sheet) - Zero To Mastery
+* [Node.js/Express Cheatsheet](https://courses.cs.washington.edu/courses/cse154/19su/resources/assets/cheatsheets/node-cheatsheet.pdf) - Melissa Hovik (PDF)
 
 
 #### Nuxt.js

@@ -86,6 +86,7 @@
 * [Generic Trees - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiEmjuIVDrwR9h5i9TT2CEU_) - Pepcoding
 * [Graph Theory](https://www.youtube.com/playlist?list=PLxCzCOWd7aiG0M5FqjyoqB20Edk0tyzVt) - Gate Smashers
 * [Graphs - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHfqDcLZMcO9SsUDY4S3a-v) - Pepcoding
+* [Graphs - Level 2](https://www.youtube.com/playlist?list=PL-Jc9J83PIiEuHrjpZ9m94Nag4fwAvtPQ) - Pepcoding
 * [Hindi Data Structures And Algorithms Tutorial Python](https://www.youtube.com/playlist?list=PLPbgcxheSpE3NlJ30EDpxNYU6P2Jylns8) - codebasics Hindi
 * [Linked List - Level 1](https://youtube.com/playlist?list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_&si=S_MRPF7yyupBUCC6) - Pepcoding
 * [Recursion & Backtracking - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFxaBahjslhBD1LiJAV7nKs) - Pepcoding
@@ -240,6 +241,7 @@
 
 * [Computer Graphics](https://youtube.com/playlist?list=PLYwpaL_SFmcAtxMe7ahYC4ZYjQHun_b-T) - 5 Minutes Engineering
 * [Computer Graphics and Multimedia (CGMM) Lectures in Hindi](https://www.youtube.com/playlist?list=PLV8vIYTIdSnaTVCcd954N14bVOOgYh-2V) - Easy Engineering Classes
+* [Computer Graphics Complete Syllabus Tutorials](https://www.youtube.com/playlist?list=PLL8qj6F8dGlScni_9ZmeOMoRodrwzhvTq) - TutorialsSpace- Er. Deepak Garg
 * [Computer Graphics Full Course in Hindi](https://www.youtube.com/playlist?list=PLAC6WcHCOQCHVfV3vR4At0g0QADIeZc_j) - Edulogy
 
 
@@ -441,6 +443,7 @@
 * [jQuery Tutorials in Hindi / Urdu](https://www.youtube.com/playlist?list=PL0b6OzIxLPbzSyiC0PFaqeabe1aGhfrbW) - Yahoo Baba
 * [jQuery Tutorials in Hindi 2018](https://youtube.com/playlist?list=PLwGdqUZWnOp0X4dVwSsEd6dV49TLLCooI) - Vinod Bahadur Thapa (Thapa Technical)
 * [jQuery Video Course](https://www.youtube.com/playlist?list=PLPAcs2twrK5_FzWMttkbTuM0dB5A-ni-Q) - w3webschool.net
+* [jQuery Zero to Advance](https://www.youtube.com/watch?v=YFlx1C8XwR0) - CodeWithHarry
 
 
 #### Next.js
@@ -490,7 +493,8 @@
 #### Redux
 
 * [Redux toolkit crash course &#124; Chai aur React Series](https://www.youtube.com/watch?v=1i04-A7kfFI) - Hitesh Choudhary (Chai aur Code)
-* [Redux Toolkit tutorial in Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp2nz2T6SfWX9t6D6SYn3XlN) - Vinod Bahadur Thapa (Thapa Technical)
+* [Redux toolkit tutorial in Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp2nz2T6SfWX9t6D6SYn3XlN) - Vinod Bahadur Thapa (Thapa Technical)
+* [Redux tutorial in Hindi](https://youtube.com/playlist?list=PL8p2I9GklV47TDYUq8RmFzeI9CgOoVgpJ&si=p-4s6qJ31ReIbKqj) - Code Step by Step
 
 
 #### Vue.js

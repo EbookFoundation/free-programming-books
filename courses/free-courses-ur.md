@@ -1,10 +1,16 @@
 ### Index
 
+* [Algorithms](#algorithms)
 * [Android](#android)
 * [C++](#cplusplus)
 * [C#](#csharp)
 * [HTML and CSS](#html-and-css)
 * [Python](#python)
+
+
+### <a id="algorithms"></a>Algorithms
+
+* [Data Structures and Algorithms Analysis Complete Course in Hindi/Urdu \| Data structures by Fahad Hussain \| data structures and algorithms tutorial](https://www.youtube.com/playlist?list=PLtCBuHKmdxOfPNlAKWxBqdznCcXV4iWCz) - Fahad Hussain
 
 
 ### <a id="android"></a>Android

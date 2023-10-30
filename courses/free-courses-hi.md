@@ -134,7 +134,8 @@
 ### Artificial Intelligence
 
 * [Generative AI Series - Showcasing Generative AI By Building Projects](https://www.youtube.com/playlist?list=PLu0W_9lII9aiS4rUVp2jXwIvCruo27sG6) - CodeWithHarry
-
+* [Playlist to Artificial Intelligence](https://youtube.com/playlist?list=PLPIwNooIb9vgB1DQEftkKA3qOdeC4vonA&si=4Lo2Ycy4mZ9TZhNd) - Perfect Computer Engineer
+* [Artificial Intelligence (complete playlist)](https://youtube.com/playlist?list=PLxCzCOWd7aiHGhOHV-nwb0HR5US5GFKFI&si=AueRW3k1yEhQ6cMC) - Gate Smashers
 
 ### Assembly
 

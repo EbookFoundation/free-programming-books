@@ -533,9 +533,12 @@
 * [15-721 Advanced Database Systems (Spring 2023)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYzlLMbX3cR0sxWnRM7CLFn) - CMU Database Group
 * [CMU Intro to Database Systems](https://youtube.com/playlist?list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf) - CMU Database Group
 * [Database Design and Management](https://www.udemy.com/course/database-design-and-management) - Visual Paradigm (Udemy)
+* [Database Management Systems](https://www.youtube.com/playlist?list=PLZ2ps__7DhBYc4jkUk_yQAjYEVFzVzhdU) - IIT Madras - B.S. Degree Programme
 * [Database Management Systems](https://www.youtube.com/playlist?list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ) - Neso Academy
+* [Database Management System | CS & IT | GATE 2024](https://www.youtube.com/playlist?list=PLPvaSRcEQh4kfVIyezAQu9Mvj5FBk_OEN) - GATE Wallah (English)
 * [Database Systems](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/) (MIT's opencourseware)
 * [Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis)](https://www.youtube.com/watch?v=4cWkVbC2bNE) - Professor Immanuel Trummer, freeCodeCamp.org
+* [DBMS for GATE Exams](https://www.youtube.com/playlist?list=PLWPirh4EWFpGrpcMfZ6UcdI786QdtSxV8) - Tutorialspoint
 * [DBMS Placement Series](https://youtube.com/playlist?list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU) - CodeHelp by Babbar
 * [DML Server Administration](https://alison.com/course/databases-dml-statements-and-sql-server-administration-revised) (Alison)
 * [Introduction to Databases](https://lagunita.stanford.edu/courses/Engineering/db/2014_1/about) (Stanford University)
@@ -562,6 +565,7 @@
 * [Learn SQL](https://popsql.com/learn-sql) - PopSQL
 * [Learn SQL](https://www.sololearn.com/learning/1060) - *registration required*
 * [Learn SQL: SQL Tutorial for Beginners](https://www.programiz.com/sql) - Programiz
+* [MySQL Playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVNMRWlVf0bDDSxNEn38u9Cl) - Krish Naik
 * [MySQL Tutorial for Beginners [Full Course]](https://www.youtube.com/watch?v=7S_tz1z_5bA) - Moshfegh Hamedani (Programming with Mosh)
 * [SQL Foundations](https://www.udemy.com/course/sql-essentials-for-beginners/) - Sagar Uppuluri (Udemy)
 * [SQL NPTEL](https://www.youtube.com/playlist?list=PLLQPIumE5cE-gzU5hChH1V3H93x4UOlHR)

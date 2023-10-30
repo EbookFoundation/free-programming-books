@@ -150,7 +150,7 @@
 * [JavaScript](http://www.peterkropff.de/site/javascript/javascript.htm) - Peter Kropff (Grundlagen, AJAX, DOM, OOP) (Online, PDF)
 * [JavaScript und AJAX](http://openbook.rheinwerk-verlag.de/javascript_ajax) - Christian Wenz (Online)
 * [Webseiten erstellen mit Javascript](http://www.highscore.de/javascript) - Boris Schäling (HTML)
-* [Bible of JS]([http://www.highscore.de/javascrip](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbDA5RG40U1RKZDRlVEk2NUViS21WMy1YZFc5d3xBQ3Jtc0tuMUtsRWFQSE9ocXFWLUxFQVlYYXZFdmVCSHNYU0tmQVJTWlFrLXJ3VzBCVmdqRXB5RzZ2QlJMVkhzMUdSLW5IRnEwNWJMb1JKSDdmVkNnd0RRRkhhN3JKUGJVY3FLN2h4RXZlTlphV1hzSmVzTHppOA&q=https%3A%2F%2Fsheryians.com%2Fdownload%2Fbibleofjs_by_sheryians&v=Aw_SmcpEOdY) - Sheryians Coding School (JavaScript)
+* [Bible of JS](https://shorturl.at/ax056) - Sheryians Coding School (JavaScript)
 
 
 #### React

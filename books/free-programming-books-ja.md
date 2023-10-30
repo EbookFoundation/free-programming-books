@@ -174,10 +174,6 @@
 * [組込みソフトウェア開発における品質向上の勧め［テスト編～事例集～］](https://www.ipa.go.jp/files/000005149.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
 
 
-#### データベース
-
-
-
 #### ネットワーキング
 
 * [HTTP/3 explained](https://http3-explained.haxx.se/ja) - Daniel Stenberg
@@ -541,10 +537,6 @@
 * [PSR-2 – コーディングスタイルガイド](https://github.com/maosanhioro/fig-standards/blob/master/translation/PSR-2-coding-style-guide.md) - maosanhioro
 
 
-#### Symfony
-
-
-
 ### PowerShell
 
 * [PowerShell スクリプト](https://docs.microsoft.com/ja-jp/powershell/scripting/overview?view=powershell-6) - Microsoft Docs
@@ -647,10 +639,6 @@
 * [お気楽 Scheme プログラミング入門](http://www.nct9.ne.jp/m_hiroi/func/scheme.html) - 広井誠
 * [もうひとつの Scheme 入門](https://www.shido.info/lisp/idx_scm.html) - 紫藤貴文
 * [入門Scheme](https://web.archive.org/web/20140812144348/http://www4.ocn.ne.jp/~inukai/scheme_primer_j.html) - 犬飼大
-
-
-### Scratch
-
 
 
 ### sed

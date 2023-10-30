@@ -227,10 +227,6 @@
 * [Guida PHP](http://www.html.it/guide/guida-php-di-base/?cref=development) (HTML)
 
 
-#### Symfony
-
-
-
 ### Python
 
 * [Il manuale di riferimento di Python](http://docs.python.it/html/ref/)

@@ -254,9 +254,9 @@
 
 ### Data Science
 
-*[Data Analyst Course - Beginner's to Advance (हिंदी में) - Full Playlist](https://www.youtube.com/playlist?list=PLxzTa0VPR9ryvGSuCm4RS8aeAvOLXz9XM) - IHHPET: Industries Helping Hands Dot Com
-*[Data Science Course 2023](https://www.youtube.com/playlist?list=PLfP3JxW-T70HvifebGl3d5d5jzI1Kp0i8) - Indian AI Production
-
+* [Data Analyst Course - Beginner's to Advance (हिंदी में) - Full Playlist](https://www.youtube.com/playlist?list=PLxzTa0VPR9ryvGSuCm4RS8aeAvOLXz9XM) - IHHPET: Industries Helping Hands Dot Com
+* [Data Science Course 2023](https://www.youtube.com/playlist?list=PLfP3JxW-T70HvifebGl3d5d5jzI1Kp0i8) - Indian AI Production
+* [CampusX Data Science Mentorship Program 2022-23](https://youtube.com/playlist?list=PLKnIA16_RmvbAlyx4_rdtR66B7EHX5k3z&si=se5y3sghkihLH8et) - CampusX
 
 ### Data Structures
 
@@ -478,6 +478,7 @@
 * [ReactJS Tutorial for Beginners to Advanced](https://youtube.com/playlist?list=PL_HlKez9XCSO1g7c61SyJZE4iehJDFg_w) - Technical Suneja 
 * [ReactJS Tutorial in Hindi 2020](https://www.youtube.com/playlist?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ) - Vinod Bahadur Thapa (Thapa Technical)
 * [ReactJS Tutorials for Beginners In Hindi](https://www.youtube.com/playlist?list=PLUVqY59GNZQNTlOnGne0G7DXnmi7CeOtc) - Pradeep Maurya
+* [Chai aur react | with projects](https://youtube.com/playlist?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige&si=cgNKaiSZTEnztzVX) - Chai aur Code
 
 
 #### React Native

@@ -96,7 +96,9 @@
 
 ### Problem Sets
 
+* [100 Days CSS Challenge](https://100dayscss.com) - Matthias Martin *(Codepen account requested, not required)*
 * [500 Data structures and algorithms interview questions and their solutions in C++](https://www.quora.com/q/techiedelight/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions)
+* [Abekus | Free Practice Questions with Solutions](https://abekus.com)
 * [Advent Of Code](http://adventofcode.com)
 * [AdventJS - 25 días de retos con JavaScript](https://adventjs.dev) - Miguel Ángel Durán «midudev» *(GitHub account requested, not required)*
 * [Anarchy Golf](http://golf.shinh.org)
@@ -122,6 +124,7 @@
 * [Hacker.org](http://www.hacker.org)
 * [HackerEarth](https://www.hackerearth.com)
 * [HDU Online Judge](http://acm.hdu.edu.cn)
+* [IndiaBix](https://www.indiabix.com)
 * [Interactive Coding Challenge](https://github.com/donnemartin/interactive-coding-challenges)
 * [InterviewBit](https://www.interviewbit.com)
 * [Kattis](https://open.kattis.com)

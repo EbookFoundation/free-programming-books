@@ -76,7 +76,7 @@
 
 #### Logiciels libres
 
-* [Histoires et cultures du Libre](https://archives.framabook.org/histoiresetculturesdulibre/) - Camille Paloque-Berges, Christophe Masutti, `edt.:` Framasoft (coll. Framabook) [(HTML, PDF, EPUB, et al.)] *(:card_file_box: archived)*
+* [Histoires et cultures du Libre](https://archives.framabook.org/histoiresetculturesdulibre/) - Camille Paloque-Berges, Christophe Masutti, `edt.:` Framasoft (coll. Framabook) 
 * [Option libre. Du bon usage des licences libres](http://framabook.org/optionlibre-dubonusagedeslicenceslibres/) - Jean Benjamin
 * [Produire du logiciel libre](http://framabook.org/produire-du-logiciel-libre-2/) - Karl Fogel
 * [Richard Stallman et la révolution du logiciel libre](http://framabook.org/richard-stallman-et-la-revolution-du-logiciel-libre-2/) - R.M. Stallman, S. Williams, C. Masutti
@@ -113,7 +113,7 @@
 
 ### Bash / Shell
 
-* [Guide avancé d'écriture des scripts Bash](https://abs.traduc.org/abs-fr/) - Mendel Cooper, `trl.:` Adrien Rebollo et al. (HTML)
+* [Guide avancé d'écriture des scripts Bash](https://abs.traduc.org/abs-fr/) - Mendel Cooper, `trl.:` Adrien Rebollo et al.
 * [La programmation Shell](https://frederic-lang.developpez.com/tutoriels/linux/prog-shell/) - Frederic Lang, Idriss Neumann
 
 
@@ -184,7 +184,7 @@
 ### Haskell
 
 * [A Gentle Introduction to Haskell](http://gorgonite.developpez.com/livres/traductions/haskell/gentle-haskell/) - Paul Hudak, John Peterson, Joseph Fasel, `trl.:` Nicolas Vallée, Gnux, ggnore, fearyourself, Joyeux-oli, Kikof, khayyam90
-* [Apprendre Haskell vous fera le plus grand bien !](https://lyah.haskell.fr) - Miran Lipovača, `trl.:` Valentin Robert (HTML, PDF)
+* [Apprendre Haskell vous fera le plus grand bien !](https://lyah.haskell.fr) - Miran Lipovača, `trl.:` Valentin Robert
 
 
 ### HTML and CSS
@@ -317,12 +317,12 @@
 
 ### Scratch
 
-* [Informatique Créative](https://pixees.fr/programmation-creative-en-scratch/) - Christan Balch, Michelle Chung, Karen Brennan, `trl.:` INRIA, PROVENCE TRADUCTION (PDF, PPTX)
+* [Informatique Créative](https://pixees.fr/programmation-creative-en-scratch/) - Christan Balch, Michelle Chung, Karen Brennan, `trl.:` Inria, Provence Traduction (PDF, PPTX)
 
 
 ### SPIP
 
-* [Programmer avec SPIP](https://programmer.spip.net/) - Matthieu Marcimat, collectif SPIP (HTML)
+* [Programmer avec SPIP](https://programmer.spip.net) - Matthieu Marcimat, collectif SPIP (HTML)
 
 
 ### SQL

@@ -229,7 +229,6 @@
 * [Kotlin Bootcamp for Programmers](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011) (Udacity)
 * [Learn Android Application Development for Beginners](https://www.udemy.com/course/learn-android-application-development-y/) - Johan Jurrius, ProgramMe Programming (Udemy)
 * [Learn Android in 9 Hours](https://www.youtube.com/watch?v=aS__9RbCyHg) (Edureka)
-* [Learn how to program: Android](https://www.learnhowtoprogram.com/android) - Epicodus Inc.
 * [Material design](https://material.io/guidelines/)
 * [Material Design for Android Developers](https://www.udacity.com/course/material-design-for-android-developers--ud862) (Udacity)
 * [MVVM Image Search App with Architecture Components & Retrofit](https://www.youtube.com/playlist?list=PLrnPJCHvNZuC_pEfFlZuTmjlY4T3DTtED) - Florian Walther ( Coding in flow )
@@ -355,7 +354,6 @@
 * [Fundamentals of Programming: Understanding C#](https://www.udemy.com/course/understandingc/) - Jesse Dietrichson (Udemy)
 * [Learn C#](https://www.sololearn.com/learning/1080) - *registration required*
 * [Learn C#](https://www.codecademy.com/learn/learn-c-sharp) - Codecademy
-* [Learn how to program: C# and .NET](https://www.learnhowtoprogram.com/c-and-net) - Epicodus Inc.
 
 
 ### <a id="cpp"></a>C++
@@ -1047,7 +1045,6 @@
 * [Complete React course for beginner](https://youtube.com/playlist?list=PLRAV69dS1uWQos1M1xP6LWN6C-lZvpkmq) - Hitesh Choudhary
 * [Frontend Armory: React Fundamentals](https://frontarm.com/courses/react-fundamentals/) - James K. Nelson
 * [Full Modern React Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d) - The Net Ninja (with practical)
-* [Full-Stack Web Development with React Specialization](https://www.coursera.org/specializations/full-stack-react) - Jogesh K. Muppala (Coursera)
 * [Full Stack with React and Appwrite](https://egghead.io/playlists/full-stack-with-react-and-appwrite-e1e46f61) - Colby Fayock (Egghead.io)
 * [Introduction to React](https://fullstackopen.com/en/part1/introduction_to_react) - Full Stack open
 * [Learn React + Redux](https://www.sololearn.com/learning/1097) - *registration required*
@@ -1721,3 +1718,4 @@
 ### YAML
 
 * [Complete YAML Course - Beginner to Advanced for DevOps and more!](https://www.youtube.com/watch?v=IA90BTozdow) - Kunal Kushwaha
+

@@ -534,9 +534,9 @@
 * [15-721 Advanced Database Systems (Spring 2023)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYzlLMbX3cR0sxWnRM7CLFn) - CMU Database Group
 * [CMU Intro to Database Systems](https://youtube.com/playlist?list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf) - CMU Database Group
 * [Database Design and Management](https://www.udemy.com/course/database-design-and-management) - Visual Paradigm (Udemy)
+* [Database Management System | CS & IT | GATE 2024](https://www.youtube.com/playlist?list=PLPvaSRcEQh4kfVIyezAQu9Mvj5FBk_OEN) - GATE Wallah (English)
 * [Database Management Systems](https://www.youtube.com/playlist?list=PLZ2ps__7DhBYc4jkUk_yQAjYEVFzVzhdU) - IIT Madras - B.S. Degree Programme
 * [Database Management Systems](https://www.youtube.com/playlist?list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ) - Neso Academy
-* [Database Management System | CS & IT | GATE 2024](https://www.youtube.com/playlist?list=PLPvaSRcEQh4kfVIyezAQu9Mvj5FBk_OEN) - GATE Wallah (English)
 * [Database Systems](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/) (MIT's opencourseware)
 * [Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis)](https://www.youtube.com/watch?v=4cWkVbC2bNE) - Professor Immanuel Trummer, freeCodeCamp.org
 * [DBMS for GATE Exams](https://www.youtube.com/playlist?list=PLWPirh4EWFpGrpcMfZ6UcdI786QdtSxV8) - Tutorialspoint

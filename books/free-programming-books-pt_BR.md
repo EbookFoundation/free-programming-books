@@ -380,6 +380,7 @@
 ### Pascal
 
 * [Algoritmos e Estruturas de Dados I](https://www.inf.ufpr.br/marcos/livro_alg1/livro_alg1.pdf) - Marcos Alexandre Castilho, Fabiano Silva, Daniel Weingaertner (PDF)
+* [Programando com Pascal](https://ic.ufal.br/professor/jaime/livros/Programando%20com%20Pascal.pdf) - Jaime Evaristo (PDF)
 
 
 ### PHP

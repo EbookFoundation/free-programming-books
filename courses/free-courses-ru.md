@@ -69,7 +69,7 @@ ADV - Продвинутый. Тонкости.
 
 ### Elixir
 
-* [Учебный курс по языку программирования Эликсир](https://github.com/yzh44yzh/elixir_course) - Yuri Zhloba
+* [Язык программирования Эликсир](https://github.com/yzh44yzh/elixir_course) - Yuri Zhloba
 
 
 ### Go

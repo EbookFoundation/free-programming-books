@@ -112,7 +112,6 @@
 
 ### JavaScript
 
-* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/tr)
 
 
 ### LaTeX

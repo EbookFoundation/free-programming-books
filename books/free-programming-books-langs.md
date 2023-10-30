@@ -2008,7 +2008,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Natural Language Processing with Python](http://www.nltk.org/book/) (3.x)
 * [Non-Programmer's Tutorial for Python 3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3) - Wikibooks (3.3)
     * [Non-Programmer's Tutorial for Python 2.6](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_2.6) - Wikibooks (2.6)
-* [Official NumPy Reference](https://numpy.org/doc/stable/numpy-ref.pdf) - The NumPy Community (PDF)
 * [Picking a Python Version: A Manifesto](https://www.oreilly.com/ideas/picking-a-python-version) - David Mertz
 * [Porting to Python 3: An In-Depth Guide](http://python3porting.com) (2.6 - 2.x & 3.1 - 3.x)
 * [Practical Programming in Python](https://launchpadlibrarian.net/165489933/PracticalProgrammingPython2014.pdf) - Jeffrey Elkner (PDF)
@@ -2356,7 +2355,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Scala Succinctly](https://www.syncfusion.com/ebooks/scala_succinctly) - Chris Rose
 * [Scala Tutorial](https://www.tutorialspoint.com/scala/) - Tutorials Point (HTML, PDF)
 * [Scala with Cats 2](https://www.scalawithcats.com) - Noel Welsh, Dave Gurnell (PDF, HTML, EPUB)
-* [tetrix in Scala](http://eed3si9n.com/tetrix-in-scala-html5-book)
 * [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html) - Daniel Westheide
 * [The Type Astronaut's Guide to Shapeless](http://underscore.io/books/shapeless-guide/) - Dave Gurnell (PDF, HTML, EPUB) (email address *requested*, not required)
 * [Xtrace](https://github.com/leithaus/XTrace/tree/monadic/src/main/book/content/)
@@ -2528,7 +2526,6 @@ Books on general-purpose programming that don't focus on a specific language are
 
 #### Vapor
 
-* [Vapor 3 Tutorial For Beginners](https://theswiftdev.com/2018/04/09/vapor-3-tutorial-for-beginners) - Tibor Bödecs
 * [Vapor Official Docs](https://docs.vapor.codes)
 
 

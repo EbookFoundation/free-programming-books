@@ -546,6 +546,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Programming Fundamentals - A Modular Structured Approach using C++](https://learning.hccs.edu/faculty/ken.busbee/programming-fundamentals-a-modular-structured-approach-using-c) - Kenneth Leroy Busbee (PDF)
 * [Software Design Using C++](http://cis.stvincent.edu/html/tutorials/swd/) - Br. David Carlson, Br. Isidore Minerd
 * [Software optimization resources](http://www.agner.org/optimize/) - Agner Fog
+* [The Complete Reference C++ (second edition)](https://www.micc.unifi.it/bertini/download/labtecinf/C%2B%2B%20A%20Beginner's%20Guide%202nd%20Edition%20(2003).pdf) - Herbert Schildt (PDF)
 * [The Boost C++ libraries](http://theboostcpplibraries.com) - Boris Schäling (HTML)
 * [The Rook's Guide to C++](http://rooksguide.org/2013/11/26/version-1-0-is-out/) - Jeremy Hansen (PDF)
 * [The Ultimate Question of Programming, Refactoring, and Everything](https://www.gitbook.com/book/alexastva/the-ultimate-question-of-programming-refactoring-/details)
@@ -1076,6 +1077,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Open Data Structures (in Java)](http://opendatastructures.org/ods-java.pdf) - Pat Morin (PDF)
 * [Playing with Java Microservices on Kubernetes and OpenShift](https://leanpub.com/playing-with-java-microservices-on-k8s-and-ocp) - Nebrass Lamouchi *(Leanpub account or valid email requested)*
 * [Processing XML with Java (A Guide to SAX, DOM, JDOM, JAXP, and TrAX) (2002)](http://www.cafeconleche.org/books/xmljava/) - Elliotte Rusty Harold
+* [The Complete Reference Java (8th edition)](https://srikarthiks.files.wordpress.com/2016/07/java-the-complete-reference-8th-edition.pdf) - Herbert Schildt (PDF)
 * [The Java EE6 Tutorial](https://docs.oracle.com/javaee/6/tutorial/doc/javaeetutorial6.pdf) (PDF)
 * [The Java EE7 Tutorial](https://docs.oracle.com/javaee/7/JEETT.pdf) - Eric Jendrock, et al. (PDF)
 * [The Java Tutorials](https://docs.oracle.com/javase/tutorial/index.html)

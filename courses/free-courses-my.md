@@ -2,6 +2,7 @@
 
 * [Python](#python)
 * [MySQL] (#mysql)
+* [Flutter] (#flutter)
 
 
 ### Python
@@ -11,3 +12,7 @@
 ### MySQL
 
 * [Database Basic with MySQL](https://www.youtube.com/playlist?list=PLUbA5XRGtepKSdvEZI4FCi9_-UTQgnFxS) - Htain Lin Shwe
+
+### Flutter
+
+* [Flutter](https://www.youtube.com/playlist?list=PLUbA5XRGtepJZdgd6XMHF9-nPGQs57eys) - Htain Lin Shwe

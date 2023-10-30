@@ -20,6 +20,7 @@
 
 ### C
 
+* [কম্পিউটার প্রোগ্রামিং](http://cpbook.subeen.com/p/blog-page.html) - Tamim Shahriar Subeen
 * [বাংলায় C প্রোগ্রামিং ল্যাঙ্গুয়েজ শেখার কোর্স](https://c.howtocode.dev) - Jakir Hossain, et al.
 
 

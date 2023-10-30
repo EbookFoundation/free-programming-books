@@ -1055,6 +1055,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Effective Java, Third Edition](https://ia801009.us.archive.org/16/items/effectivejava2017addisonwesley/Effective%20Java%20%282017%2C%20Addison-Wesley%29.pdf) - Joshua Bloch (PDF) *(:card_file_box: archived)*
 * [Essential Java](https://www.programming-books.io/essential/java/) - Krzysztof Kowalczyk, StackOverflow Contributors
 * [Google's Java Style Guide](https://google.github.io/styleguide/javaguide.html)
+* [Hibernate Notes for Professionals](https://books.goalkicker.com/HibernateBook) - Compiled from StackOverflow Documentation (PDF)
 * [Introduction to Computer Science "booksite"](https://introcs.cs.princeton.edu/java/cs/) - Robert Sedgewick, Kevin Wayne (HTML)
 * [Introduction to Computer science using Java](http://www.programmedlessons.org/Java9/index.html) - Bradley Kjell
 * [Introduction to Programming in Java](http://introcs.cs.princeton.edu/java/home/) - Robert Sedgewick, Kevin Wayne
@@ -1493,6 +1494,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Linux Inside](https://0xax.gitbooks.io/linux-insides/content/index.html)
 * [Linux Kernel in a Nutshell](http://www.kroah.com/lkn/)
 * [Linux Newbie Administrator Guide](http://lnag.sourceforge.net)
+* [Linux Notes for Professionals](https://books.goalkicker.com/LinuxBook) - Compiled from StackOverflow Documentation (PDF)
 * [Linux Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/linux) (PDF, Kindle) (email address *requested*, not required)
 * [Secure Programming HOWTO - Creating Secure Software](http://www.dwheeler.com/secure-programs/) - D. A. Wheeler (HTML, PDF)
 * [Ten Steps to Linux Survival: Bash for Windows People](http://dullroar.com/book/TenStepsToLinuxSurvival.html) - Jim Lehmer
@@ -1655,6 +1657,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Application Security in .NET Succinctly](https://www.syncfusion.com/ebooks/application_security_in_net_succinctly) - Stan Drapkin
 * [Cryptography in .NET Succinctly](https://www.syncfusion.com/ebooks/cryptography_in_net_succinctly) - Dirk Strauss
 * [Entity Framework](http://weblogs.asp.net/zeeshanhirani/my-christmas-present-to-the-entity-framework-community)
+* [Entity Framework Notes for Professionals](https://books.goalkicker.com/EntityFrameworkBook) - Compiled from StackOverflow Documentation (PDF)
 * [Essential .NET Framework](https://www.programming-books.io/essential/netframework/) - Krzysztof Kowalczyk, StackOverflow Contributors
 * [Game Creation with XNA](https://en.wikibooks.org/wiki/Game_Creation_with_XNA) - Wikibooks
 * [Getting the Most from LINQPad Succinctly](https://www.syncfusion.com/ebooks/getting-the-most-from-linqpad-succinctly) - José Roberto Olivas Mendoza

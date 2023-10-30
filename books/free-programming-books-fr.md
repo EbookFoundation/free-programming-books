@@ -76,7 +76,7 @@
 
 #### Logiciels libres
 
-* [Histoires et cultures du Libre](https://archives.framabook.org/histoiresetculturesdulibre/) - Camille Paloque-Berges, Christophe Masutti, `edt.:` Framasoft (coll. Framabook) 
+* [Histoires et cultures du Libre](https://archives.framabook.org/histoiresetculturesdulibre/) - Camille Paloque-Berges, Christophe Masutti, `edt.:` Framasoft (coll. Framabook)
 * [Option libre. Du bon usage des licences libres](http://framabook.org/optionlibre-dubonusagedeslicenceslibres/) - Jean Benjamin
 * [Produire du logiciel libre](http://framabook.org/produire-du-logiciel-libre-2/) - Karl Fogel
 * [Richard Stallman et la révolution du logiciel libre](http://framabook.org/richard-stallman-et-la-revolution-du-logiciel-libre-2/) - R.M. Stallman, S. Williams, C. Masutti

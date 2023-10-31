@@ -757,6 +757,7 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Programming
 
 * [A Short Introduction to the Art of Programming (1971)](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD03xx/EWD316.html) - Edsger W. Dijkstra (HTML)
+* [Clean Code / A Handbook of Agile Software Craftsmanship](https://ds.amu.edu.et/xmlui/bitstream/handle/123456789/11399/Prentice.Hall.Clean.Code.A.Handbook.Of.Agile.Software.Craftsmanship.Aug.2008.ISBN.0132350882.pdf?sequence=1&isAllowed=y) - Robert C. Martin (PDF)
 * [Design of a Programmer](https://www.smashwords.com/books/view/639609) - Prakash Hegade (PDF)
 * [Introduction to Computer Science](https://www.cse.iitd.ernet.in/~suban/CSL102/) - Subhashis Banerjee, IIT Delhi
 * [Introduction to Computing](https://www.computingbook.org) - David Evans

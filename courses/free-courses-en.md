@@ -212,6 +212,7 @@
 * [Android Basics: Networking](https://www.udacity.com/course/android-basics-networking--ud843) (Udacity)
 * [Android Basics: User Input](https://www.udacity.com/course/android-basics-user-input--ud836) (Udacity)
 * [Android Basics: User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834) (Udacity)
+* [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course) - Google Developers Training
 * [Android Developer Fundamentals (Version 2) — Codelab](https://developer.android.com/courses/fundamentals-training/toc-v2)
 * [Android Developer Fundamentals (Version 2) — Concepts](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/index.html)
 * [Android Development Tutorials](https://youtube.com/playlist?list=PLqM7alHXFySF_Hb1GtyvCX44dBniJ5sNy) -  GeeksforGeeks
@@ -226,6 +227,7 @@
 * [Firebase in a Weekend: Android](https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352) (Udacity)
 * [Gradle for Android and Java](https://www.udacity.com/course/gradle-for-android-and-java--ud867) (Udacity)
 * [Jetpack Compose](https://www.youtube.com/playlist?list=PLQkwcJG4YTCSpJ2NLhDTHhi6XBNfk9WiC) - Philipp Lackner
+* [Jetpack Compose for Android Developers](https://developer.android.com/courses/jetpack-compose/course) - Google Developers Training
 * [Kotlin Bootcamp for Programmers](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011) (Udacity)
 * [Learn Android Application Development for Beginners](https://www.udemy.com/course/learn-android-application-development-y/) - Johan Jurrius, ProgramMe Programming (Udemy)
 * [Learn Android in 9 Hours](https://www.youtube.com/watch?v=aS__9RbCyHg) (Edureka)

@@ -981,6 +981,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Resilient Web Design](https://resilientwebdesign.com/#Resilientweb%20design) - Jeremy Keith
 * [RTL Styling 101](https://rtlstyling.com) - Ahmad Shadeed
 * [Scalable and Modular Architecture for CSS](https://web.archive.org/web/20191116073929/http://smacss.com/) - Jonathan Snook *(:card_file_box: archived)*
+* [The CSS Flexbox Handbook](https://www.freecodecamp.org/news/the-css-flexbox-handbook/) - Benjamin Semah
 * [The CSS Handbook](https://flaviocopes.com/page/css-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
 * [The HTML Handbook](https://flaviocopes.com/page/html-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
 * [Understanding Flexbox: Everything you need to know](https://ohansemmanuel.github.io/uf_download.html) - Ohans Emmanuel

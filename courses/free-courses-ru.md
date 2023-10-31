@@ -5,6 +5,7 @@
 * [C++](#cpp)
 * [Clojure](#clojure)
 * [Dart](#dart)
+* [Elixir](#elixir)
 * [Go](#go)
 * [Haskell](#haskell)
 * [HTML and CSS](#html-and-css)
@@ -45,11 +46,6 @@ ADV - Продвинутый. Тонкости.
 ### <a id="cpp"></a>C++
 
 * [Введение в программирование (C++)](https://stepik.org/course/363) - Stepik (BEG)
-* [Основы разработки на С++: белый пояс](https://www.coursera.org/learn/c-plus-plus-white) - Шишков Илья Иванович, Парамонов Евгений Анатольевич, Полднев Антон Вячеславович, Лежанкин Иван Андреевич (Coursera) (INT)
-* [Основы разработки на С++: желтый пояс](https://www.coursera.org/learn/c-plus-plus-yellow) - Шишков Илья Иванович, Лежанкин Иван Андреевич, Парамонов Евгений Анатольевич, Полднев Антон Вячеславович (Coursera) (INT)
-* [Основы разработки на С++: коричневый пояс](https://www.coursera.org/learn/c-plus-plus-brown) - Шишков Илья Иванович, Полднев Антон Вячеславович, Матросов Михаил Александрович, Alexey Zobnin, Субоч Николай Михайлович (Coursera) (INT)
-* [Основы разработки на С++: красный пояс](https://www.coursera.org/learn/c-plus-plus-red) - Шишков Илья Иванович, Полднев Антон Вячеславович (Coursera) (INT)
-* [Основы разработки на С++: черный пояс](https://www.coursera.org/learn/c-plus-plus-black) - Шишков Илья Иванович, Полднев Антон Вячеславович, Субоч Николай Михайлович, Alexey Zobnin, Матросов Михаил Александрович (Coursera) (INT)
 * [Руководство по языку программирования C++](https://metanit.com/cpp/tutorial/) - Metanit (BEG/INT)
 * [Уроки по С++](https://ravesli.com/uroki-cpp) - Ravesli (INT)
 
@@ -64,6 +60,11 @@ ADV - Продвинутый. Тонкости.
 
 * [Основы Dart](https://stepik.org/course/92982) - Анна Музыкина (Stepik) (BEG)
 * [Основы Dart](https://stepik.org/course/97479) - Станислав Чернышев (Stepik) (BEG)
+
+
+### Elixir
+
+* [Язык программирования Эликсир](https://github.com/yzh44yzh/elixir_course) - Yuri Zhloba
 
 
 ### Go
@@ -160,7 +161,6 @@ ADV - Продвинутый. Тонкости.
 
 * [Автоматизация тестирования с помощью Selenium и Python](https://stepik.org/course/575) - Stepik (INT)
 * [Добрый, добрый Python - обучающий курс от Сергея Балакирева](https://stepik.org/course/100707) - Сергей Балакирев (Stepik) (BEG)
-* [Основы программирования на Python](https://www.coursera.org/learn/python-osnovy-programmirovaniya) - Coursera (BEG)
 * [Основы Python](https://ru.hexlet.io/courses/python-basics) - Hexlet (BEG)
 * [Питонтьютор: Бесплатный курс по программированию с нуля](https://pythontutor.ru) - Виталий Павленко, Владимир Соломатин, Д. П. Кириенко, команда Pythontutor (BEG)
 * ["Поколение Python": курс для начинающих](https://stepik.org/course/58852) - Тимур Гуев, Руслан Чаниев, Анри Табуев (Stepik) (BEG)
@@ -185,3 +185,4 @@ ADV - Продвинутый. Тонкости.
 * [Введение в Ruby](https://ru.hexlet.io/courses/ruby) - Hexlet (BEG)
 * [Путь Rubyrush](https://rubyrush.ru/steps) (BEG)
 * [Ruby - первое знакомство](https://stepik.org/course/87996) - Stepik (BEG)
+

@@ -56,8 +56,8 @@
 
 ### Algorithms
 
-* [The Algorithms](https://the-algorithms.com)
 * [The Algorithm Visualizer](https://algorithm-visualizer.org)
+* [The Algorithms](https://the-algorithms.com)
 
 
 ### APL

@@ -181,6 +181,7 @@
 * [파이썬을 이용한 비트코인 자동매매](https://wikidocs.net/book/1665) - 조대표
 * [A Byte of Python 한글 번역](http://byteofpython-korean.sourceforge.net/byte_of_python.pdf) - Jeongbin Park (PDF)
 * [PyQt5 Tutorial - 파이썬으로 만드는 나만의 GUI 프로그램](https://wikidocs.net/book/2165) - Dardao (HTML)
+* [사장님 몰래 하는 파이썬 업무자동화(부제: 들키면 일 많아짐)](https://wikidocs.net/book/6353)
 
 
 #### Django

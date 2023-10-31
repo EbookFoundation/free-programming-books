@@ -28,7 +28,6 @@
 * [Livecode](#livecode)
 * [Perl](#perl)
 * [PHP](#php)
-    * [Symfony](#symfony)
 * [Python](#python)
     * [Django](#django)
 * [Ruby](#ruby)

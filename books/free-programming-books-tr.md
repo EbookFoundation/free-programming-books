@@ -14,7 +14,6 @@
 * [HTML and CSS](#html-and-css)
 * [iOS](#ios)
 * [Java](#java)
-* [JavaScript](#javascript)
 * [LaTeX](#latex)
 * [Linux](#linux)
 * [.NET Framework](#net-framework)

@@ -13,7 +13,6 @@
     * [ソフトウェアアーキテクチャ](#%e3%82%bd%e3%83%95%e3%83%88%e3%82%a6%e3%82%a7%e3%82%a2%e3%82%a2%e3%83%bc%e3%82%ad%e3%83%86%e3%82%af%e3%83%81%e3%83%a3)
     * [ソフトウェア開発方法論](#%e3%82%bd%e3%83%95%e3%83%88%e3%82%a6%e3%82%a7%e3%82%a2%e9%96%8b%e7%99%ba%e6%96%b9%e6%b3%95%e8%ab%96)
     * [ソフトウェア品質](#%e3%82%bd%e3%83%95%e3%83%88%e3%82%a6%e3%82%a7%e3%82%a2%e5%93%81%e8%b3%aa)
-    * [データベース](#%e3%83%87%e3%83%bc%e3%82%bf%e3%83%99%e3%83%bc%e3%82%b9)
     * [ネットワーキング](#%e3%83%8d%e3%83%83%e3%83%88%e3%83%af%e3%83%bc%e3%82%ad%e3%83%b3%e3%82%b0)
     * [機械学習](#%e6%a9%9f%e6%a2%b0%e5%ad%a6%e7%bf%92)
     * [正規表現](#%e6%ad%a3%e8%a6%8f%e8%a1%a8%e7%8f%be)
@@ -62,7 +61,6 @@
 * [OCaml](#ocaml)
 * [Perl](#perl)
 * [PHP](#php)
-    * [Symfony](#symfony)
 * [PowerShell](#powershell)
 * [Processing](#processing)
 * [Prolog](#prolog)
@@ -74,7 +72,6 @@
 * [Sather](#sather)
 * [Scala](#scala)
 * [Scheme](#scheme)
-* [Scratch](#scratch)
 * [sed](#sed)
 * [Smalltalk](#smalltalk)
 * [SQL(実装非依存)](#sql%e5%ae%9f%e8%a3%85%e9%9d%9e%e4%be%9d%e5%ad%98)
@@ -140,7 +137,6 @@
 * [RSA暗号体験入門](http://www.cybersyndrome.net/rsa) - CyberSyndrome
 * [ウェブ健康診断仕様](https://www.ipa.go.jp/files/000017319.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
 * [クラウドを支えるこれからの暗号技術](https://herumi.github.io/ango) - 光成滋生 (PDF)
-* [セキュア・プログラミング講座](https://www.ipa.go.jp/security/awareness/vendor/programming) - 塩田英二 ([PDF](https://www.ipa.go.jp/files/000059838.pdf))
 * [はやわかり RSA](https://www.mew.org/~kazu/doc/rsa.html) - 山本和彦
 * [安全なSQLの呼び出し方](https://www.ipa.go.jp/files/000017320.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
 * [安全なウェブサイトの作り方](https://www.ipa.go.jp/files/000017316.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
@@ -170,18 +166,9 @@
 #### ソフトウェア品質
 
 * [高信頼化ソフトウェアのための開発手法ガイドブック](https://www.ipa.go.jp/files/000005144.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
-* [組込みシステムの安全性向上の勧め（機能安全編）](https://www.ipa.go.jp/files/000005118.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
-* [組込みソフトウェア開発におけるプロジェクトマネジメント導入の勧め](https://www.ipa.go.jp/files/000005105.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
 * [組込みソフトウェア開発における品質向上の勧め [バグ管理手法編]](https://www.ipa.go.jp/files/000027629.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
-* [組込みソフトウェア開発における品質向上の勧め [ユーザビリティ編]](https://www.ipa.go.jp/files/000005114.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
 * [組込みソフトウェア開発における品質向上の勧め [設計モデリング編]](https://www.ipa.go.jp/files/000005113.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
-* [組込みソフトウェア開発における品質向上の勧め（コーディング編）](https://www.ipa.go.jp/files/000005106.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
 * [組込みソフトウェア開発における品質向上の勧め［テスト編～事例集～］](https://www.ipa.go.jp/files/000005149.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
-
-
-#### データベース
-
-* [データベース](http://www.ipa.go.jp/files/000018652.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
 
 
 #### ネットワーキング
@@ -212,7 +199,6 @@
 * [【改訂版】 組込みソフトウェア開発向け 品質作り込みガイド](https://www.ipa.go.jp/files/000005146.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
 * [【改訂版】 組込みソフトウェア向け 開発プロセスガイド](https://www.ipa.go.jp/files/000005126.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
 * [【改訂版】組込みソフトウェア開発向け コーディング作法ガイド［C言語版］ESCR Ver.3.0](https://www.ipa.go.jp/sec/publish/tn18-004.html) - 独立行政法人 情報処理推進機構(IPA) ([PDF](https://www.ipa.go.jp/files/000064005.pdf))
-* [【改訂版】組込みソフトウェア開発向けコーディング作法ガイド[C++言語版] Ver. 2.0 （ESCR C++ Ver. 2.0）](https://www.ipa.go.jp/sec/publish/tn16-007.html) - 独立行政法人 情報処理推進機構(IPA) ([PDF](https://www.ipa.go.jp/files/000055043.pdf))
 * [組込みソフトウェア向け プロジェクトマネジメントガイド［計画書編］](https://www.ipa.go.jp/files/000005116.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
 * [組込みソフトウェア向け プロジェクト計画立案トレーニングガイド](https://www.ipa.go.jp/files/000005145.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
 * [組込みソフトウェア向け 設計ガイド ESDR［事例編］](https://www.ipa.go.jp/files/000005148.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
@@ -399,7 +385,6 @@
 
 * [Airbnb JavaScript スタイルガイド](https://mitsuruog.github.io/javascript-style-guide) - Airbnb, 小川充(翻訳)
 * [Google JavaScript スタイルガイド](https://w.atwiki.jp/aias-jsstyleguide2) - Aaron Whyte, Bob Jervis, Dan Pupius, Erik Arvidsson, Fritz Schneider, Robby Walker, aiaswood(翻訳)
-* [JavaScript Garden](https://bonsaiden.github.io/JavaScript-Garden/ja) - Ivo Wetzel, HIRAKI Satoru(翻訳)
 * [JavaScript Plugin Architecture](https://azu.gitbooks.io/javascript-plugin-architecture/content) - azu
 * [JavaScript Primer](https://jsprimer.net) - azu, Suguru Inatomi
 * [JavaScript Promiseの本](https://azu.github.io/promises-book) - azu
@@ -419,7 +404,6 @@
 > :information_source: 関連項目 - [Angular](#angular)
 
 * [AngularJS 1.2 日本語リファレンス](https://js.studio-kingdom.com/angularjs) - @tomof(翻訳)
-* [AngularJS's tutorial - あなたとともにAngularJS](http://lab.hisasann.com/AngularJSTutorial) - @hisasann
 * [AngularJSスタイルガイド](https://github.com/mgechev/angularjs-style-guide/blob/master/README-ja-jp.md) - Minko Gechev, Morita Naoki, Yohei Sugigami, et al.
 * [すぐできる AngularJS](https://8th713.github.io/LearnAngularJS) - @8th713
 
@@ -480,7 +464,6 @@
 * [Common Lisp 入門](http://www.nct9.ne.jp/m_hiroi/xyzzy_lisp.html#abclisp) - 広井誠
 * [Emacs Lisp基礎文法最速マスター](https://d.hatena.ne.jp/rubikitch/20100201/elispsyntax) - るびきち
 * [GNU Emacs Lispリファレンスマニュアル](http://www.fan.gr.jp/~ring/doc/elisp_20/elisp.html)
-* [Google Common Lisp スタイルガイド 日本語訳](https://lisphub.jp/doc/google-common-lisp-style-guide/lispguide.xml) - Robert Brown, François-René Rideau, TOYOZUMIKouichi 他(翻訳)
 * [LISP and PROLOG](https://web.archive.org/web/20060526095202/http://home.soka.ac.jp/~unemi/LispProlog) - 畝見達夫
 * [Lisp 一夜漬け](https://www.haun.org/kent/lisp1/) - TAMURA Kent
 * [On Lisp (草稿)](http://www.asahi-net.or.jp/~kc7k-nd) - Paul Graham, 野田開(翻訳)
@@ -551,11 +534,6 @@
 * [PSR-2 – コーディングスタイルガイド](https://github.com/maosanhioro/fig-standards/blob/master/translation/PSR-2-coding-style-guide.md) - maosanhioro
 
 
-#### Symfony
-
-* [Symfony 5: ファストトラック](https://symfony.com/doc/5.0/the-fast-track/ja)
-
-
 ### PowerShell
 
 * [PowerShell スクリプト](https://docs.microsoft.com/ja-jp/powershell/scripting/overview?view=powershell-6) - Microsoft Docs
@@ -579,7 +557,6 @@
 ### Python
 
 * [Dive Into Python 3 日本語版](http://diveintopython3-ja.rdy.jp) - Mark Pilgrim, Fukada(翻訳), Fujimoto(翻訳)
-* [Notes on scientific computing with python](http://japanichaos.appspot.com) - 花田康高
 * [php プログラマのための Python チュートリアル](https://web.archive.org/web/20160813152046/http://phpy.readthedocs.io/en/latest/) - INADA Naoki
 * [Python 3.4](https://stats.biopapyrus.jp/python) - 孫建強
 * [Python Scientific Lecture Notes](http://turbare.net/transl/scipy-lecture-notes) - 打田旭宏(翻訳)
@@ -608,7 +585,6 @@
 ### R
 
 * [R](https://stats.biopapyrus.jp/r) - 孫建強
-* [R-Tips](http://cse.naro.affrc.go.jp/takezawa/r-tips/r2.html) - 舟尾暢男
 * [R 基本統計関数マニュアル](https://cran.r-project.org/doc/contrib/manuals-jp/Mase-Rstatman.pdf) - 間瀬茂 (PDF)
 * [R 言語定義](https://cran.r-project.org/doc/contrib/manuals-jp/R-lang.jp.v110.pdf) - R Development Core Team, 間瀬茂(翻訳) (PDF)
 * [R 入門](https://cran.r-project.org/doc/contrib/manuals-jp/R-intro-170.jp.pdf) - W. N. Venables, D. M. Smith, R Development Core Team, 間瀬茂(翻訳) (PDF)
@@ -660,11 +636,6 @@
 * [お気楽 Scheme プログラミング入門](http://www.nct9.ne.jp/m_hiroi/func/scheme.html) - 広井誠
 * [もうひとつの Scheme 入門](https://www.shido.info/lisp/idx_scm.html) - 紫藤貴文
 * [入門Scheme](https://web.archive.org/web/20140812144348/http://www4.ocn.ne.jp/~inukai/scheme_primer_j.html) - 犬飼大
-
-
-### Scratch
-
-* [炎の型 With Scratch (ゲームプログラム入門)](https://kyorohiro.gitbooks.io/doc_scratch) - kyorohiro
 
 
 ### sed

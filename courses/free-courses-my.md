@@ -5,7 +5,6 @@
 * [Python](#python)
 
 
-
 ### Database
 
 * [Database Basic with MySQL](https://www.youtube.com/playlist?list=PLUbA5XRGtepKSdvEZI4FCi9_-UTQgnFxS) - Htain Lin Shwe

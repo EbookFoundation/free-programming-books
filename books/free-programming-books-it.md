@@ -28,7 +28,6 @@
 * [Livecode](#livecode)
 * [Perl](#perl)
 * [PHP](#php)
-    * [Symfony](#symfony)
 * [Python](#python)
     * [Django](#django)
 * [Ruby](#ruby)
@@ -225,12 +224,6 @@
 ### PHP
 
 * [Guida PHP](http://www.html.it/guide/guida-php-di-base/?cref=development) (HTML)
-* [Manuale PHP](http://francescomuscolo.altervista.org/manuale_PHP.pdf) (PDF)
-
-
-#### Symfony
-
-* [Symfony 5: guida rapida](https://symfony.com/doc/5.0/the-fast-track/it/index.html)
 
 
 ### Python
@@ -272,7 +265,6 @@
 ### UML
 
 * [Appunti di UML](https://web.archive.org/web/20110322065222/http://liuct.altervista.org/download/repository/ingsof/Appunti_UML.pdf) (PDF) *(:card_file_box: archived)*
-* [Introduzione alla gestione del progetto software con UML](http://areaprofessional.com/documenti/D03_IntroGestioneProgettoSW.pdf) - G. Destri (PDF)
 
 
 ### Visual Basic

@@ -39,7 +39,6 @@
 ### Java
 
 * [آموزش  برنامه‌نویسی جاوا](https://javacup.ir/javacup-training-videos/)
-* [آموزش جاوا از صفر](https://toplearn.com/courses/85/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AC%D8%A7%D9%88%D8%A7-%D8%A7%D8%B2-%D8%B5%D9%81%D8%B1)
 
 
 ### JavaScript

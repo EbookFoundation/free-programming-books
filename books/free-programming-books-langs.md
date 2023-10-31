@@ -981,6 +981,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Resilient Web Design](https://resilientwebdesign.com/#Resilientweb%20design) - Jeremy Keith
 * [RTL Styling 101](https://rtlstyling.com) - Ahmad Shadeed
 * [Scalable and Modular Architecture for CSS](https://web.archive.org/web/20191116073929/http://smacss.com/) - Jonathan Snook *(:card_file_box: archived)*
+* [The CSS Flexbox Handbook](https://www.freecodecamp.org/news/the-css-flexbox-handbook/) - Benjamin Semah
 * [The CSS Handbook](https://flaviocopes.com/page/css-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
 * [The HTML Handbook](https://flaviocopes.com/page/html-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
 * [Understanding Flexbox: Everything you need to know](https://ohansemmanuel.github.io/uf_download.html) - Ohans Emmanuel
@@ -2008,7 +2009,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Natural Language Processing with Python](http://www.nltk.org/book/) (3.x)
 * [Non-Programmer's Tutorial for Python 3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3) - Wikibooks (3.3)
     * [Non-Programmer's Tutorial for Python 2.6](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_2.6) - Wikibooks (2.6)
-* [Official NumPy Reference](https://numpy.org/doc/stable/numpy-ref.pdf) - The NumPy Community (PDF)
 * [Picking a Python Version: A Manifesto](https://www.oreilly.com/ideas/picking-a-python-version) - David Mertz
 * [Porting to Python 3: An In-Depth Guide](http://python3porting.com) (2.6 - 2.x & 3.1 - 3.x)
 * [Practical Programming in Python](https://launchpadlibrarian.net/165489933/PracticalProgrammingPython2014.pdf) - Jeffrey Elkner (PDF)
@@ -2356,7 +2356,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Scala Succinctly](https://www.syncfusion.com/ebooks/scala_succinctly) - Chris Rose
 * [Scala Tutorial](https://www.tutorialspoint.com/scala/) - Tutorials Point (HTML, PDF)
 * [Scala with Cats 2](https://www.scalawithcats.com) - Noel Welsh, Dave Gurnell (PDF, HTML, EPUB)
-* [tetrix in Scala](http://eed3si9n.com/tetrix-in-scala-html5-book)
 * [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html) - Daniel Westheide
 * [The Type Astronaut's Guide to Shapeless](http://underscore.io/books/shapeless-guide/) - Dave Gurnell (PDF, HTML, EPUB) (email address *requested*, not required)
 * [Xtrace](https://github.com/leithaus/XTrace/tree/monadic/src/main/book/content/)
@@ -2528,7 +2527,6 @@ Books on general-purpose programming that don't focus on a specific language are
 
 #### Vapor
 
-* [Vapor 3 Tutorial For Beginners](https://theswiftdev.com/2018/04/09/vapor-3-tutorial-for-beginners) - Tibor Bödecs
 * [Vapor Official Docs](https://docs.vapor.codes)
 
 
@@ -2566,7 +2564,8 @@ Books on general-purpose programming that don't focus on a specific language are
 * [TypeScript Accelerated](https://accelerated.amimetic.co.uk) - James Porter
 * [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/)
 * [TypeScript for C# Programmers](http://www.infoq.com/minibooks/typescript-c-sharp-programmers)
-* [TypeScript Handbook](https://www.typescriptlang.org/assets/typescript-handbook.pdf) - Microsoft (PDF)
+* [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html) - Microsoft
+* [TypeScript Handbook for React Developers](https://www.freecodecamp.org/news/typescript-tutorial-for-react-developers/) - Yazdun Fadali
 * [TypeScript in 50 Lessons](https://www.smashingmagazine.com/provide/eBooks/typescript-in-50-lessons.pdf) - Stefan Baumgartner (PDF)
 * [TypeScript Notes for Professionals](https://goalkicker.com/TypeScriptBook2/) - Compiled from StackOverflow documentation ([PDF](https://goalkicker.com/TypeScriptBook2/TypeScriptNotesForProfessionals.pdf))
 * [TypeScript Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/typescript) (PDF, Kindle) (email address *requested*, not required)

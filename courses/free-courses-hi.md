@@ -133,7 +133,9 @@
 
 ### Artificial Intelligence
 
+* [Artificial Intelligence (Complete Playlist)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiHGhOHV-nwb0HR5US5GFKFI) - Gate Smashers
 * [Generative AI Series - Showcasing Generative AI By Building Projects](https://www.youtube.com/playlist?list=PLu0W_9lII9aiS4rUVp2jXwIvCruo27sG6) - CodeWithHarry
+* [Playlist to Artificial Intelligence 🔥🔥](https://www.youtube.com/playlist?list=PLPIwNooIb9vgB1DQEftkKA3qOdeC4vonA) - Perfect Computer Engineer
 
 
 ### Assembly
@@ -157,6 +159,7 @@
 * [Blockchain Full Course in Hindi](https://www.youtube.com/playlist?list=PLRlT7xBRpp9MiMN25XJjUVz01rGFQohq2) - Innovate India
 * [Complete Blockchain Development Course for Beginners in Hindi](https://www.youtube.com/watch?v=RkYVVC2vXho) - web3Mantra
 * [Ethereum](https://www.youtube.com/playlist?list=PL-Jc9J83PIiE3QA0h3I6HDYNXejdPFKFN) - Pepcoding
+* [Playlist to Blockchain 🔥🔥](https://www.youtube.com/playlist?list=PLPIwNooIb9vgfXs-QkRYqqZbDXX-yLf59) - Perfect Computer Engineer
 * [Solidity ^0.8 | Blockchain | In Hindi](https://www.youtube.com/playlist?list=PL-Jc9J83PIiG6_thChXWzolj9BEG-Y0gh) - Pepcoding
 
 
@@ -642,6 +645,7 @@
 * [Python Tutorial For Beginners \| Hindi (With Notes)](https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME) - CodeWithHarry
 * [Python Tutorial For Beginners in (Hindi)](https://www.youtube.com/playlist?list=PLf0LpPWikpPe5gc6fT9wDj3Y6e97z6ZD_) - DataFlair Hindi
 * [Python Tutorial For Beginners in Hindi](https://www.youtube.com/watch?v=FStwWUkW5RQ&list=PLnSDvcENZlwAcFgFLD5bzt5Zh428yzQXT) - Micro Solution
+* [Python for Data Science for Absolute Beginners (Full Course)](https://www.youtube.com/playlist?list=PL1gztxnUtwNfnR0jYniFM5E6HwcQMnFmx) - Data is Good
 * [Python Tutorial in Hindi](https://www.youtube.com/playlist?list=PLQbQOmlGYH3tC535nKa7xB7dd7pZtYMZX) - edureka! Hindi
 
 

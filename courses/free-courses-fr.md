@@ -133,7 +133,7 @@
 * [Apprendre Symfony 4 par l'exemple](https://www.youtube.com/playlist?list=PLjwdMgw5TTLX7wmorGgfrqI9TcA8nMb29) - Grafikart
 * [Cours complet de Pierre Giraud sur le développement PHP avec MySQL](https://www.pierre-giraud.com/php-mysql-apprendre-coder-cours/) - Pierre Giraud
 * [Tester sur Symfony](https://www.youtube.com/playlist?list=PLjwdMgw5TTLWtWmdMzPaoc45Iztu7tVQ8) - Grafikart
-* [Tutoriel HTML](http://fr.html.net/tutorials/php/)
+* [Tutoriel PHP](http://fr.html.net/tutorials/php/) - HTML.net, `trl.:` Jean Jacques Solari
 * [TUTOS PHP](https://www.youtube.com/playlist?list=PLEagTQfI6nPN2sdrLWhX_hO1pMOmC9JGU) - PrimFX
 
 

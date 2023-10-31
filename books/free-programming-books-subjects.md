@@ -526,7 +526,6 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Mathematical Logic - an Introduction](https://www.ii.uib.no/~michal/und/i227/book/book.pdf) (PDF)
 * [Mathematical Reasoning: Writing and Proof](https://www.tedsundstrom.com/mathematical-reasoning-3) - Ted Sundstrom
 * [Mathematics, MTH101A](https://home.iitk.ac.in/~psraj/mth101/) - P. Shunmugaraj, IIT Kanpur
-* [Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb) - Susan Holmes, Wolfgang Huber
 * [Multivariable Calculus](https://people.math.gatech.edu/~cain/notes/calculus.html) - George Cain, James Herod
 * [Non-Uniform Random Variate Generation](http://luc.devroye.org/rnbookindex.html) - Luc Devroye (PDF)
 * [Notes on Diffy Qs](https://www.jirka.org/diffyqs/) - Jiří Lebl
@@ -629,7 +628,6 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Philosophy of Computer Science](https://www.cse.buffalo.edu/~rapaport/Papers/phics.pdf) (PDF)
 * [PNG: The Definitive Guide](http://www.libpng.org/pub/png/book/) - Greg Roelofs
 * [Pointers And Memory](http://cslibrary.stanford.edu/102/PointersAndMemory.pdf) - Nick Parlante (PDF)
-* [Principles of Computer System Design](http://ocw.mit.edu/resources/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/online-textbook/part_ii_open_5_0.pdf) (PDF)
 * [Programming Fundamentals](https://press.rebus.community/programmingfundamentals/) - Kenneth Leroy Busbee, Dave Braunschweig
 * [Programming with Unicode](https://unicodebook.readthedocs.org)
 * [Real-World Maintainable Software](https://www.oreilly.com/ideas/real-world-maintainable-software) - Abraham Marin-Perez
@@ -908,7 +906,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Homotopy Type Theory: Univalent Foundations of Mathematics](https://homotopytypetheory.org/book/) (PDF)
 * [Introduction to Theory of Computation](https://cglab.ca/~michiel/TheoryOfComputation/) - Anil Maheshwari, Michiel Smid (PDF)
 * [Models of Computation](https://cs.brown.edu/people/jes/book/) - John E. Savage
-* [Practical Foundations for Programming Languages, Preview](https://www.cs.cmu.edu/~rwh/pfpl/2nded.pdf) - Robert Harper (PDF)
 * [Principles of Programming Languages](https://web.archive.org/web/20150418034451/http://www.cs.jhu.edu/~scott/pl/book/dist/) - Scott F. Smith *(:card_file_box: archived)*
 * [Programming in Martin-Löf's Type Theory](https://www.cse.chalmers.se/research/group/logic/book/) - Bengt Nordstroem
 * [Programming Languages: Application and Interpretation (2nd Edition)](https://cs.brown.edu/~sk/Publications/Books/ProgLangs/) - Shriram Krishnamurthi

@@ -80,6 +80,7 @@
 * [CrowdANALYTIX](https://www.crowdanalytix.com/community)
 * [DrivenData](https://www.drivendata.org)
 * [Kaggle](https://www.kaggle.com)
+* [Zindi](https://zindi.africa)
 
 
 ### HTML and CSS

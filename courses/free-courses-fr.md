@@ -116,7 +116,7 @@
 
 ### Linux
 
-* [Linux et Ubuntu - Administration Réseau](https://www.tutoriels-video.fr/category/ubuntu/) (Tutoriels Videos)
+* [Linux et Ubuntu - Administration Réseau](https://www.tutoriels-video.fr/category/ubuntu/) - Tutoriels-video.fr (Alexis Madrzejewski)
 
 
 ### Python

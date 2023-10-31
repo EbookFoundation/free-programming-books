@@ -187,6 +187,7 @@ This project lists books and other resources grouped by genres:
 Free Podcasts and Screencasts:
 
 + [Arabic / al Arabiya / العربية](casts/free-podcasts-screencasts-ar.md)
++ [Burmese / မြန်မာဘာသာ](casts/free-podcasts-screencasts-my.md)
 + [Chinese / 中文](casts/free-podcasts-screencasts-zh.md)
 + [Czech / čeština / český jazyk](casts/free-podcasts-screencasts-cs.md)
 + [Dutch / Nederlands](casts/free-podcasts-screencasts-nl.md)

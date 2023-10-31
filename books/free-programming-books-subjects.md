@@ -263,6 +263,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Data Mining Concepts and Techniques](https://ia800702.us.archive.org/7/items/datamining_201811/DS-book%20u5.pdf) - Jiawei Han, Micheline Kamber, Jian Pei (PDF) (:card_file_box: archived)
 * [Data Science at the Command Line](https://datascienceatthecommandline.com/2e/) - Jeroen Janssens
 * [Elements of Data Science](https://allendowney.github.io/ElementsOfDataScience/README.html) - Allen B. Downey
+* [Feature Engineering an Selection](https://bookdown.org/max/FES/) - Max Kuhn, Kjell Johnson
 * [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf) - Avrim Blum, John Hopcroft, Ravindran Kannan (PDF)
 * [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) - Claus O. Wilke (HTML)
 * [Hands-On Data Visualization](https://handsondataviz.org) - Jack Dougherty, Ilya Ilyankou (HTML)

@@ -116,8 +116,8 @@
 * [Coding Bat](http://codingbat.com/java)
 * [Coding Interview Questions and answers for practice \| Python, Java & C++](https://www.codingninjas.com/codestudio/problems) - CodingNinjas
 * [Coding Ninjas Guided Paths](https://www.codingninjas.com/codestudio/guided-paths/data-structures-algorithms)
-* [CSES Problem Set](https://cses.fi/problemset/)
 * [C++](https://www.youtube.com/playlist?list=PLliXPok7ZonkJEe0cUbVZ3umyKbFA-Dd9) - Keerti Purswani
+* [CSES Problem Set](https://cses.fi/problemset/)
 * [DSA Learning Series](https://www.codechef.com/LEARNDSA)
 * [Dynamic A2OJ Ladder](https://a2oj.herokuapp.com)
 * [Edabit](https://edabit.com)

@@ -1,5 +1,6 @@
 ### Index
 
+* [Algorithms](#algorithms)
 * [APL](#apl)
 * [Assembly](#assembly)
 * [Bash](#bash)
@@ -51,6 +52,12 @@
     * [Angular](#angular)
 * [V](#v)
 * [Vim](#vim)
+
+
+### Algorithms
+
+* [The Algorithms](https://the-algorithms.com)
+* [The Algorithm Visualizer](https://algorithm-visualizer.org)
 
 
 ### APL

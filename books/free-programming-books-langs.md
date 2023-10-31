@@ -2464,8 +2464,8 @@ Books on general-purpose programming that don't focus on a specific language are
 * [SQL Queries Succinctly](https://www.syncfusion.com/ebooks/sql_queries_succinctly) - Nick Harrison (PDF)
 * [SQL Tutorial](https://www.scaler.com/topics/sql/) - Scaler
 * [SQLite Tutorial](https://www.tutorialspoint.com/sqlite/) (HTML, PDF)
+* [The SQL Handbook](hhttps://www.freecodecamp.org/news/a-beginners-guide-to-sql) - Lane Wagner (HTML)
 * [Use The Index, Luke!: A Guide To SQL Database Performance](https://use-the-index-luke.com) - Markus Winand (HTML)
-* [The SQL Handbook](hhttps://www.freecodecamp.org/news/a-beginners-guide-to-sql/) - Lane Wagner (HTML)
 
 
 ### SQL Server

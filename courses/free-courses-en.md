@@ -677,6 +677,7 @@
 
 ### Flutter
 
+* [Basic Development With Flutter](https://10pearlsuniversity.org/courses/basic-development-with-flutter/) - Muhammad Noman
 * [Build Apps with Flutter](https://developers.google.com/learn/pathways/intro-to-flutter) - Google for Developers
 * [Flutter & Firebase App Build](https://www.youtube.com/playlist?list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC) - The Net Ninja
 * [Flutter Course for Beginners - 37 hour](https://www.youtube.com/watch?v=VPvVD8t02U8) - freeCodeCamp.org
@@ -689,7 +690,6 @@
 * [Free Flutter Animations Course](https://youtube.com/playlist?list=PL4cUxeGkcC9gP1qg8yj-Jokef29VRCLt1) - The Net Ninja
 * [Free Flutter Course](https://www.youtube.com/playlist?list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT) - Vandad Nahavandipoor
 * [Getting Started With Flutter](https://10pearlsuniversity.org/courses/getting-started-with-flutter/) - Muhammad Noman
-* [Basic Development With Flutter](https://10pearlsuniversity.org/courses/basic-development-with-flutter/) - Muhammad Noman
 
 
 ### Fortran

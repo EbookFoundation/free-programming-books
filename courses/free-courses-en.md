@@ -818,6 +818,8 @@
 * [HTML Tutorial For Beginners (With Notes)](https://www.youtube.com/watch?v=qHB2jUvAlGo) - ProgrammingWithHarry
 * [HTML5 and CSS3 Fundamentals](https://www.udemy.com/course/html5-fundamentals-for-beginners/) - Stone River eLearning (Udemy)
 * [Learn CSS](https://www.codecademy.com/learn/learn-css) - Codecademy
+* [Learn CSS Grid](https://scrimba.com/learn/cssgrid) - Per Harald Borgen (Scrimba)
+* [Learn Flexbox](https://scrimba.com/learn/flexbox) - Per Harald Borgen (Scrimba)
 * [Learn how to program: CSS](https://www.learnhowtoprogram.com/css) - Epicodus Inc.
 * [Learn HTML](https://www.codecademy.com/learn/learn-html) - Codecademy
 * [Learn HTML and CSS](https://www.bitdegree.org/courses/coding-for-beginners-space-doggos) (BitDegree)
@@ -1120,6 +1122,7 @@
 * [ES6 and Typescript Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV) - Codevolution, Vishwas Gopinath
 * [Introduction to TypeScript](https://www.udemy.com/typescript/) - Daniel Stern (Udemy)
 * [Learn TypeScript](https://www.codecademy.com/learn/learn-typescript) - (CodeAcademy)
+* [Learn TypeScript](https://scrimba.com/learn/typescript) - Ania Kubow (Scrimba)
 * [TypeScript Course for Beginners- Learn TypeScript from Scratch!](https://www.youtube.com/watch?v=BwuLxPH8IDs) - Academind
 * [TypeScript Fast Crash Course](https://www.udemy.com/typescript-fast-crash-course/) - Edwin Diaz, Coding Faculty Solutions (Udemy)
 * [TypeScript Tutorial for Beginners - 2022](https://www.youtube.com/watch?v=d56mG7DezGs) - Programming with Mosh

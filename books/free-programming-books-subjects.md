@@ -91,7 +91,6 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 
 * [A Field Guide To Genetic Programming](https://web.archive.org/web/20191020195105/http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/poli08_fieldguide.pdf) - Riccardo Poli, William B. Langdon, Nicholas F. McPhee (PDF) *(:card_file_box: archived)*
 * [Algorithm Design](https://archive.org/details/AlgorithmDesign1stEditionByJonKleinbergAndEvaTardos2005PDF) - Jon Kleinberg, Éva Tardos
-* [Algorithms and Data Structures](https://textbookequity.org/Textbooks/Nievergelt_Algorithms%20and%20Data%20Structures08.pdf) - Jurg Nievergelt, Klaus Hinrichs (PDF)
 * [Algorithmic Graph Theory](https://code.google.com/p/graphbook/) - David Joyner, Minh Van Nguyen, David Phillips (PDF)
 * [Algorithmic Thinking](https://labuladong.gitbook.io/algo-en) - Donglai Fu
 * [Algorithms](https://en.wikibooks.org/wiki/Algorithms) - Wikibooks
@@ -99,6 +98,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Algorithms, 4th Edition](https://algs4.cs.princeton.edu/home/) - Robert Sedgewick, Kevin Wayne
 * [Algorithms and Automatic Computing Machines (1963)](https://archive.org/details/Algorithms_And_Automatic_Computing_Machines) - B. A. Trakhtenbrot
 * [Algorithms and Complexity](https://www.math.upenn.edu/~wilf/AlgoComp.pdf) - Herbert S. Wilf (PDF)
+* [Algorithms and Data Structures](https://textbookequity.org/Textbooks/Nievergelt_Algorithms%20and%20Data%20Structures08.pdf) - Jurg Nievergelt, Klaus Hinrichs (PDF)
 * [Algorithms Course Materials](https://jeffe.cs.illinois.edu/teaching/algorithms/) - Jeff Erickson
 * [Algorithms Notes for Professionals](https://goalkicker.com/AlgorithmsBook) - Compiled from StackOverflow Documentation (PDF)
 * [Annotated Algorithms in Python: Applications in Physics, Biology, and Finance](https://github.com/mdipierro/nlib) - Massimo Di Pierro

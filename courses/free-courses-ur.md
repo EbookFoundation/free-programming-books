@@ -27,6 +27,7 @@
 
 ### <a id="csharp"></a>C#&lrm;
 
+* [C# Tutorial For Beginners in Hindi/Urdu](https://www.youtube.com/playlist?list=PLtCBuHKmdxOfLseCtdZg1a3XBsDFbRVfd) - Fahad Hussain
 * [C# Tutorials In Urdu/Hindi](https://youtube.com/playlist?list=PLUyYwyJA_WfQd5zeCU890TDFQAqboekyc) - ProgramInUrdu
 
 

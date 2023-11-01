@@ -1,5 +1,6 @@
 ### Index
 
+* [Angular](#angular)
 * [Ansible](#ansible)
 * [APL](#apl)
 * [Artificial Intelligence](#artificial-intelligence)
@@ -57,6 +58,11 @@
 * [TypeScript](#typescript)
 * [Unit testing](#unit-testing)
 * [Webpack](#webpack)
+
+
+### Angular
+
+* [Angular Cheat Sheet](https://angular.io/guide/cheatsheet) 
 
 
 ### Ansible

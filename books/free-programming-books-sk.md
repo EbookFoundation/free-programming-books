@@ -13,6 +13,11 @@
 * [Zodpovednosť na internete](https://knihy.nic.cz) - Zodpovednosť na internete (PDF)
 
 
+#### Všeobecné programovanie
+
+* [Malá kniha programovania](https://greenie.elist.sk/knihy/html/mala-kniha-programovania.html) - Stanislav Hoferek (HTML)
+
+
 ### Python
 
 #### Django

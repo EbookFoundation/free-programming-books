@@ -98,6 +98,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Algorithms, 4th Edition](https://algs4.cs.princeton.edu/home/) - Robert Sedgewick, Kevin Wayne
 * [Algorithms and Automatic Computing Machines (1963)](https://archive.org/details/Algorithms_And_Automatic_Computing_Machines) - B. A. Trakhtenbrot
 * [Algorithms and Complexity](https://www.math.upenn.edu/~wilf/AlgoComp.pdf) - Herbert S. Wilf (PDF)
+* [Algorithms and Data Structures - With Applications to Graphics and Geometry](https://textbookequity.org/Textbooks/Nievergelt_Algorithms%20and%20Data%20Structures08.pdf) - Jurg Nievergelt, Klaus Hinrichs (PDF)
 * [Algorithms Course Materials](https://jeffe.cs.illinois.edu/teaching/algorithms/) - Jeff Erickson
 * [Algorithms Notes for Professionals](https://goalkicker.com/AlgorithmsBook) - Compiled from StackOverflow Documentation (PDF)
 * [Annotated Algorithms in Python: Applications in Physics, Biology, and Finance](https://github.com/mdipierro/nlib) - Massimo Di Pierro

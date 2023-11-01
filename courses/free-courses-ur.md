@@ -15,6 +15,7 @@
 
 ### <a id="android"></a>Android
 
+* [Flutter App Development](https://www.youtube.com/playlist?list=PLlvhNpz1tBvH4Wn8rMjtscK3l2pXnC9aN) - Code With Dhruv
 * [The complete Android Application Development Course in Hindi/Urdu \| Android Development for Beginners in Hindi - Urdu \| Android tutorial in Urdu](https://www.youtube.com/playlist?list=PLtCBuHKmdxOe8IWZnA515lGPKaWx5WNOE) - Fahad Hussain
 
 

@@ -1387,6 +1387,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [30 Days Of Vue](https://www.newline.co/30-days-of-vue) - Hassan Djirdeh (HTML; *email required for PDF*)
 * [Learning Vue.js](https://riptutorial.com/Download/vue-js.pdf) - Compiled from StackOverflow Documentation (PDF)
 * [The Vue.js Handbook](https://flaviocopes.com/page/vue-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
+* [Learning Vue.js 2](https://www.programmer-books.com/wp-content/uploads/2018/07/VueJs%202.pdf) - By Olga Filipova (PDF) 
 
 
 ### Jenkins

@@ -754,7 +754,8 @@
 * [Introduction to Git](https://learn.microsoft.com/en-us/training/modules/intro-to-git/) - Microsoft Learn
 * [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) - Google (Coursera)
 * [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud) - Atlassian
-
+* [Mastering Git: A Comprehensive Guide to Version Control](https://bit.ly/44Vngn8)
+  
 
 ### Go
 

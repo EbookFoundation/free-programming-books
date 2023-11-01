@@ -1390,7 +1390,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [The Vue.js Handbook](https://flaviocopes.com/page/vue-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
 
 
-
 ### Jenkins
 
 * [Jenkins Starter Guide Ebook](https://bugfender.com/wp-content/themes/bugfender-wordpress-theme/assets/docs/Jenkins-Starter-Guide-Ebook.pdf) (PDF)

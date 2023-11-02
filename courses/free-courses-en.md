@@ -30,6 +30,7 @@
     * [NoSQL](#nosql)
     * [SQL](#sql)
 * [Deep Learning](#deep-learning)
+* [Designing](#designing)
 * [DevOps](#devops)
     * [Ansible](#ansible)
     * [Chef](#chef)
@@ -604,6 +605,11 @@
 * [Stanford CS230: Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb) (Stanford Online)
 * [Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/tutorial)
 * [What is Deep Learning](https://www.udacity.com/course/deep-learning--ud730) (Udacity)
+
+
+### Designing
+
+* [Design 101 Crash Course: Learn UX/UI Design, Figma](https://youtu.be/cKZEgtQUxlU?si=cFyZKITD_X7aiQj-) - Daniel Schifano (ZTM)
 
 
 ### DevOps

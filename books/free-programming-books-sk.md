@@ -3,7 +3,8 @@
 * [Language Agnostic](#language-agnostic)
     * [Právo](#pravo)
     * [Všeobecné programovanie](#vseobecne-programovanie)
-* [Linux](#linux)
+* [Operačné systémy](#operacne-systemy)
+    * [Linux](#linux)
 * [Python](#python)
     * [Django](#django)
 
@@ -20,7 +21,9 @@
 * [Malá kniha programovania](https://greenie.elist.sk/knihy/html/mala-kniha-programovania.html) - Stanislav Hoferek (HTML)
 
 
-### Linux
+### Operačné systémy
+
+#### Linux
 
 * [Linux ako niečo navyše](https://greenie.elist.sk/knihy/linux-ako-nieco-navyse.pdf) - Stanislav Hoferek (PDF)
 * [Linuxové distribúcie](https://greenie.elist.sk/knihy/linuxove-distribucie.pdf) - Stanislav Hoferek (PDF)

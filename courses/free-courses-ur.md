@@ -48,4 +48,4 @@
 ### <a id="python"></a>Python
 
 * [Python_ka_chilla (python in 40 days in urdu/Hindi)](https://www.youtube.com/playlist?list=PL9XvIvvVL50HVsu-Ao8NBr0UJSO8O6lBI) - Codeanics
-* 
+  

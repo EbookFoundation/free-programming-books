@@ -30,7 +30,6 @@
     * [NoSQL](#nosql)
     * [SQL](#sql)
 * [Deep Learning](#deep-learning)
-* [Designing](#designing)
 * [DevOps](#devops)
     * [Ansible](#ansible)
     * [Chef](#chef)
@@ -106,6 +105,7 @@
 * [System Design](#system-design)
 * [Terraform](#terraform)
 * [Theory](#theory)
+* [UI/UX](#uiux)
 * [Verilog / VHDL / SystemVerilog](#verilog--vhdl--systemverilog)
 * [Web Development](#web-development)
 * [Web3](#web3)
@@ -605,11 +605,6 @@
 * [Stanford CS230: Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb) (Stanford Online)
 * [Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/tutorial)
 * [What is Deep Learning](https://www.udacity.com/course/deep-learning--ud730) (Udacity)
-
-
-### Designing
-
-* [Design 101 Crash Course: Learn UX/UI Design, Figma](https://youtu.be/cKZEgtQUxlU?si=cFyZKITD_X7aiQj-) - Daniel Schifano (ZTM)
 
 
 ### DevOps
@@ -1658,6 +1653,12 @@
 * [Theory of Computation](https://www.youtube.com/playlist?list=PLyqSpQzTE6M9-v4V62bCygAVYGluaijyo) - Subrahmanyam Kalyanasundaram
 * [Theory of Computation & Automata Theory](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev) - Neso Academy
 
+
+### UI/UX
+
+* [Design 101 Crash Course: Learn UX/UI Design, Figma](https://www.youtube.com/watch?v=cKZEgtQUxlU&list=PL2HX_yT71umB_oqitnmDgYSKltddPfZ-k&index=4) - Daniel Schifano (ZTM)
+* [Figma 101 Crash Course: The Beginners Guide](https://www.youtube.com/watch?v=4HSK6-TFUzQ&list=PL2HX_yT71umB_oqitnmDgYSKltddPfZ-k&index=9) - Daniel Schifano (ZTM)
+* [UI/UX Design Tutorial - Wireframe, Mockup & Design in Figma](https://www.youtube.com/watch?v=c9Wg6Cb_YlU) - Adrian Twarog
 
 ### Verilog / VHDL / SystemVerilog
 

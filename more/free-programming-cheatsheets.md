@@ -56,6 +56,7 @@
 * [Tensorflow](#tensorflow)
 * [Terraform](#terraform)
 * [TypeScript](#typescript)
+* [UI/UX](#uiux)
 * [Unit testing](#unit-testing)
 * [Webpack](#webpack)
 
@@ -510,6 +511,13 @@
 ### TypeScript
 
 * [TypeScript Cheat Sheet](https://rmolinamir.github.io/typescript-cheatsheet/) - Robert Molina (HTML)
+
+
+### UI/UX
+
+* [Cheat Sheet For Designing Web Forms](https://www.smashingmagazine.com/2011/10/free-download-cheat-sheet-for-designing-web-forms/) - Joe Leech
+* [Introduction to UI and UX Design](https://www.codecademy.com/learn/intro-to-ui-ux/modules/ui-and-ux-design-introduction/cheatsheet) - Codecademy
+* [UI/UX Cheat Sheet](https://zerotomastery.io/cheatsheets/ui-ux-design-cheat-sheet/) - Zero To Mastery
 
 
 ### Unit testing

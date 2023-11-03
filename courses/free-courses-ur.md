@@ -5,6 +5,7 @@
 * [C++](#cplusplus)
 * [C#](#csharp)
 * [HTML and CSS](#html-and-css)
+* [Java](#java)
 * [Python](#python)
 
 
@@ -39,6 +40,12 @@
 * [HTML5 & CSS3 Tutorials in Urdu/Hindi](https://www.youtube.com/playlist?list=PLU4yvac0MJbJrUWqGQbtFxOYR3gRvXxMs) - OnlineUstaad
 
 
+### <a id="java"></a>Java
+
+* [Java Programming in Urdu/Hindi](https://www.youtube.com/playlist?list=PLU4yvac0MJbKs78u32MyVgYFg9d-6DYGL) - OnlineUstaad
+
+
 ### <a id="python"></a>Python
 
 * [Python_ka_chilla (python in 40 days in urdu/Hindi)](https://www.youtube.com/playlist?list=PL9XvIvvVL50HVsu-Ao8NBr0UJSO8O6lBI) - Codeanics
+  

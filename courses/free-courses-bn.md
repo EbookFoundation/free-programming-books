@@ -152,6 +152,8 @@
 
 ### IDE and editors
 
+* [How to save coding time using sublime text (bangla)](https://www.youtube.com/playlist?list=PLPkEK3TrAJ1Pi8IUcA9Ldm81ZCVCA_bIm) - Sharif Chowdhury
+* [Sublime Text 3 Bangla Tutorial - (Beginners to Advanced)](https://www.youtube.com/playlist?list=PLgV8FC0EoxMcKrw5VydxZAZ0ZivXWL_ej) - Positive World
 * [VSCode Complete Tutorial Series \| VSCode টিউটোরিয়াল সিরিজ](https://www.youtube.com/playlist?list=PL_XxuZqN0xVB_lroSm_xvTqvVBCpR4PQE) - Stack Learner
 * [VSCode Power Tips](https://www.youtube.com/playlist?list=PLoR56CteKZnBmefc8NTiG8GOHlU1vN3-F) - Learn with Hasin Hayder
 

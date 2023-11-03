@@ -234,7 +234,7 @@
 * [Learn Android in 9 Hours](https://www.youtube.com/watch?v=aS__9RbCyHg) (Edureka)
 * [Material design](https://material.io/guidelines/)
 * [Material Design for Android Developers](https://www.udacity.com/course/material-design-for-android-developers--ud862) (Udacity)
-* [Modern Application Development](https://www.youtube.com/playlist?list=PLyqSpQzTE6M_0VfzgFbvUleae8SVonoHb) - NPTEL-NOC IITM
+* [Modern Application Development](https://www.youtube.com/playlist?list=PLyqSpQzTE6M_0VfzgFbvUleae8SVonoHb) - NPTEL NOC IITM
 * [MVVM Image Search App with Architecture Components & Retrofit](https://www.youtube.com/playlist?list=PLrnPJCHvNZuC_pEfFlZuTmjlY4T3DTtED) - Florian Walther ( Coding in flow )
 * [MVVM NewsApp, Retrofit, Room, Coroutines, Navigation Components](https://www.youtube.com/playlist?list=PLQkwcJG4YTCRF8XiCRESq1IFFW8COlxYJ) - Philipp Lackner
 * [MVVM Spotify Clone](https://www.youtube.com/playlist?list=PLQkwcJG4YTCT-lTlkOmE-PpRkuyNXq6sW) - Philipp Lackner

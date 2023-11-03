@@ -4,7 +4,6 @@
     * [Právo](#pravo)
     * [Všeobecné programovanie](#vseobecne-programovanie)
 * [Operačné systémy](#operacne-systemy)
-    * [Linux](#linux)
 * [Python](#python)
     * [Django](#django)
 
@@ -22,8 +21,6 @@
 
 
 ### Operačné systémy
-
-#### Linux
 
 * [Linux ako niečo navyše](https://greenie.elist.sk/knihy/linux-ako-nieco-navyse.pdf) - Stanislav Hoferek (PDF)
 * [Linuxové distribúcie](https://greenie.elist.sk/knihy/linuxove-distribucie.pdf) - Stanislav Hoferek (PDF)

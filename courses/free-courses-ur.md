@@ -24,8 +24,7 @@
 
 ### <a id="c"></a>C
 
-* [C language tutorial for beginners Urdu/Hindi](https://www.youtube.com/playlist?list=PLtCBuHKmdxOfDo1cChVR3jYEzLtNpGjXa
-) - Fahad Hussain
+* [C language tutorial for beginners Urdu/Hindi](https://www.youtube.com/playlist?list=PLtCBuHKmdxOfDo1cChVR3jYEzLtNpGjXa) - Fahad Hussain
 
 
 ### <a id="cplusplus"></a>C++

@@ -87,6 +87,7 @@
 * [Dart All You Need To Know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVC2-nXUrvpcQEz3FgCSIQHT) - Stack Learner
 * [Dart Bangla Tutorial](https://www.youtube.com/playlist?list=PLbC4KRSNcMnpQarCowZvUJOf4VhiJllX5) - Learn Hunter
 * [Dart Bangla Tutorial](https://www.youtube.com/playlist?list=PLy0nhnjSE4irkzR9mbo70J2iKbf4a36y5) - Afran Sarkar
+* [Dart Bangla Tutorial](https://www.youtube.com/playlist?list=PLg87mxEuu8-68krJBfgF3yjIPAwdgz1T2) - Techno BD XYZ
 
 
 ### Docker

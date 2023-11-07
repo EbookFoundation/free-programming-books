@@ -2,6 +2,7 @@
 
 * [Dil Bağımsız](#dil-bağımsız)
 * [JavaScript](#javascript)
+* [Ruby](#ruby)
 
 
 ### Dil Bağımsız
@@ -16,5 +17,7 @@
 
 * [null podcast](https://soundcloud.com/nullpodcast) (podcast)
 
+
 ### Ruby
+
 * [Yakut](https://www.youtube.com/playlist?list=PLEWqXxI7lAZIHZ4s3fcuy1UmF_YiQkZpi) (screencast)

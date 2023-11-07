@@ -162,6 +162,12 @@
 * [Curso completo e atual de HTML5 e CSS3 - Módulo 2 de 5](https://www.youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s) - Gustavo Guanabara (Curso em Vídeo)
 * [Curso completo e atual de HTML5 e CSS3 - Módulo 3 de 5](https://www.youtube.com/playlist?list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ) - Gustavo Guanabara (Curso em Vídeo)
 * [Curso completo e atual de HTML5 e CSS3 - Módulo 4 de 5](https://www.youtube.com/playlist?list=PLHz_AreHm4dkcVCk2Bn_fdVQ81Fkrh6WT) - Gustavo Guanabara (Curso em Vídeo)
+* [Curso de HTML, CSS e Bootstrap - Aula 1 de 6 ](https://www.youtube.com/watch?v=QZ8mu8vuOpg&list=PL8iIphQOyG-Cv3auRYoZtbvzJJrsvdMy-&index=1) - Michelli Brito (YouTube)
+* [Curso de HTML, CSS e Bootstrap - Aula 2 de 6 ](https://www.youtube.com/watch?v=2ClLfMs9k6M&list=PL8iIphQOyG-Cv3auRYoZtbvzJJrsvdMy-&index=2) - Michelli Brito (YouTube)
+* [Curso de HTML, CSS e Bootstrap - Aula 3 de 6 ](https://www.youtube.com/watch?v=BWwk1YpsuCM&list=PL8iIphQOyG-Cv3auRYoZtbvzJJrsvdMy-&index=3) - Michelli Brito (YouTube)
+* [Curso de HTML, CSS e Bootstrap - Aula 4 de 6 ](https://www.youtube.com/watch?v=q3j5wsdXzyA&list=PL8iIphQOyG-Cv3auRYoZtbvzJJrsvdMy-&index=4) - Michelli Brito (YouTube)
+* [Curso de HTML, CSS e Bootstrap - Aula 5 de 6 ](https://www.youtube.com/watch?v=8_nk8PiGbro&list=PL8iIphQOyG-Cv3auRYoZtbvzJJrsvdMy-&index=5) - Michelli Brito (YouTube)
+* [Curso de HTML, CSS e Bootstrap - Aula 6 de 6 ](https://www.youtube.com/watch?v=biP1LT_gVoM&list=PL8iIphQOyG-Cv3auRYoZtbvzJJrsvdMy-&index=6) - Michelli Brito (YouTube)
 * [Introdução à linguagem CSS](https://www.udemy.com/introducao-a-linguagem-css/) - Diego Mariano (Udemy)
 * [Introdução à Linguagem HTML](https://www.udemy.com/introducao-a-linguagem-html/) - Diego Mariano (Udemy)
 
@@ -310,6 +316,7 @@
 ### Programação
 
 * [Algoritmos de Ordenação](https://www.youtube.com/playlist?list=PLzZut2slkqywtFxqTY8AQwIG65h_2oMBL) - Bruno Ribas
+* [Curso de Lógica de programação e algoritmos](https://www.udemy.com/course/logica-de-programacao-e-algoritmos-iniciante/) - Alex Fernando Egidio (Udemy)
 * [Curso Lógica de Programação Completo 2023 [Iniciantes] + Desafios + Muita prática](https://www.youtube.com/watch?v=iF2MdbrTiBM) - Jonathan de Souza
 
 
@@ -374,6 +381,7 @@
 
 ### Sass
 
+* [Curso de Sass](https://www.youtube.com/playlist?list=PL97KElaimHeGRtfkksKwxg6IGVZi_cR7J) - Amanda Vilela
 * [Sass placeholders: o jeito certo](https://www.udemy.com/course/sass-placeholders-o-jeito-certo/) - Tárcio Zemel (Udemy)
 
 

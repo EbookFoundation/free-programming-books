@@ -50,6 +50,7 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
   - [Contributing](CONTRIBUTING-el.md)
   - [How-to](HOWTO-el.md)
 - Hebrew / עברית
+  - [How-to איך לעשות את זה](HOWTO-he.md)
 - Hindi / हिन्दी
   - [आचार संहिता](CODE_OF_CONDUCT-hi.md)
   - [How-to](HOWTO-hi.md)
@@ -63,10 +64,15 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
   - [Contributing](CONTRIBUTING-it.md)
   - [How-to](HOWTO-it.md)
 - Japanese / 日本語
+- Kannada / ಕನ್ನಡ
+  - [How To](HOWTO-kn.md)
+  - [Contributing](CONTRIBUTING-kn.md)
+  - [Code Of Conduct](CODE_OF_CONDUCT-kn.md)
 - Kazakh / қазақша
 - Khmer / Cambodian / ខ្មែរ
+  - [ក្រមសីលធម៌របស់អ្នកចូលរួម](CODE_OF_CONDUCT-km.md)
   - [How-to](HOWTO-km.md)
-- Korean / 한국어 [韓國語]
+- Korean / 한국어
   - [행동강령](CODE_OF_CONDUCT-ko.md)
   - [Contributing](CONTRIBUTING-ko.md)
   - [How-to](HOWTO-ko.md)
@@ -96,6 +102,7 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
   - [Кодекс поведения](CODE_OF_CONDUCT-ru.md)
   - [Contributing](CONTRIBUTING-ru.md)
 - Sinhala / සිංහල
+  - [චර්යා ධර්ම සංග්රහය](CODE_OF_CONDUCT-si.md)
 - Slovak / slovenčina
 - Slovenian / slovenščina
   - [Code of Conduct](CODE_OF_CONDUCT-sl.md)
@@ -109,6 +116,7 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
   - [Contributing](CONTRIBUTING-sv.md)
   - [How-to](HOWTO-sv.md)
 - Tamil / தமிழ்
+  - [How-to](HOWTO-ta.md)
 - Telugu / తెలుగు
   - [Code of Conduct](CODE_OF_CONDUCT-te.md)
   - [Contributing](CONTRIBUTING-te.md)

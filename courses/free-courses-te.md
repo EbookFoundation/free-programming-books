@@ -175,6 +175,7 @@
 
 * [React JS In Telugu](https://www.youtube.com/watch?v=1r79Eqw6tfg) - Telugu Skillhub
 * [React JS In Telugu (Playlist)](https://www.youtube.com/playlist?list=PLWnZ0qt0PImVaDkDbF96dnRGO0_lXVLKf) - Telugu Skillhub
+* [React Js Tutorials in Telugu](https://www.youtube.com/playlist?list=PLzdWZT-ZJD0-806wl_diOtzcMS8SYTzq3) - CS World Telugu
 
 
 #### VueJS

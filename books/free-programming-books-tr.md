@@ -6,6 +6,7 @@
 * [C++](#cpp)
 * [D](#d)
 * [Dart](#dart)
+* [Fortran](#fortran)
 * [Git](#git)
 * [Go](#go)
 * [Güvenlik ve Gizlilik](#guvenlik-ve-gizlilik)
@@ -13,7 +14,6 @@
 * [HTML and CSS](#html-and-css)
 * [iOS](#ios)
 * [Java](#java)
-* [JavaScript](#javascript)
 * [LaTeX](#latex)
 * [Linux](#linux)
 * [.NET Framework](#net-framework)
@@ -60,10 +60,16 @@
 * [Dart - Merhaba Dünya](https://www.dartogreniyorum.blogspot.com.tr/2013/03/yeniden-dart.html?view=sidebar)
 
 
+### Fortran
+
+* [Fortran Programlama Diline Giriş](http://dosyalar.ersoykardesler.net/yayinlar/Fortran_Programlama_Diline_Giris.pdf) (PDF)
+
+
 ### Git
 
 * [git - basit rehber](https://rogerdudler.github.io/git-guide/index.tr.html) - Roger Dudler (HTML)
 * [Git 101](https://aliozgur.gitbooks.io/git101/) - Ali Özgür (GitBook)
+* [Git ve Github Rehberi](https://github.com/mkdemir/Git_ve_Github_Rehberi) - Mustafa Kaan Demir
 
 
 ### Go
@@ -103,11 +109,6 @@
 * [Java Kitabı](https://ia601503.us.archive.org/27/items/java-kitabi/java-kitabi.pdf) (PDF)
 
 
-### JavaScript
-
-* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/tr)
-
-
 ### LaTeX
 
 * [İnce bir LaTeX2ε Elkitabı](http://www.ctan.org/tex-archive/info/lshort/turkish)
@@ -131,7 +132,7 @@
 * [Python Programlama Dili](https://python-istihza.yazbel.com) - YazBel Yazılım Belgelendirme Projesi - Python 3
 
 
-### Django
+#### Django
 
 * [Django](https://web.archive.org/web/20210302105925/https://www.pythondersleri.com/p/django-egitim-serisi.html) - Python Dersleri *(:card_file_box: archived)*
 * [Django Egitimi](https://web.archive.org/web/20210802025720/https://gokmengorgen.net/django-notes/) *(:card_file_box: archived)*

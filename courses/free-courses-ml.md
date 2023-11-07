@@ -7,6 +7,7 @@
 * [C#](#csharp)
 * [Compiler Design](#compiler-design)
 * [Data Structure](#data-structure)
+* [Distributed Computing](#distributed-computing)
 * [Docker](#docker)
 * [Flutter](#flutter)
 * [Game Development](#game-development)
@@ -23,11 +24,13 @@
 * [Kotlin](#kotlin)
 * [Linux](#linux)
 * [MySQL](#mysql)
+* [Networking](#networking)
 * [PHP](#php)
   * [Laravel](#laravel)
 * [Python](#python)
     * [Django](#django)
     * [Flask](#flask)
+* [Security](#security)
 
 
 ### Android
@@ -71,6 +74,11 @@
 * [Data Structure Challenge](https://youtube.com/playlist?list=PLY-ecO2csVHc5kajCd3fHU6MhkTABkRh9) - Brototype Malayalam
 
 
+### Distributed Computing
+
+* [Distributed Computing KTU 2019 Scheme](https://www.youtube.com/playlist?list=PLOFxFYuwv2Bs7dYmPIK1_yuQMxmN1P8V8) - Edu Smash
+
+
 ### Docker
 
 * [Docker](https://www.youtube.com/playlist?list=PLhW3qG5bs-L99pQsZ74f-LC-tOEsBp2rK) - Automation Step by Step
@@ -110,6 +118,7 @@
 
 * [BOOTSTRAP Malayalam Tutorial](https://youtube.com/playlist?list=PL1JrLEBAapUWqs_HbcYngAOmpPbiccqNy) - Yes Tech Media
 * [Bootstrap Malayalam Tutorials](https://www.youtube.com/playlist?list=PLDavEIls6jrsC9EEox1WWvOlktDJcEUo6) - Malayalam Tutorials
+* [Learn Bootstrap in malayalam](https://www.youtube.com/playlist?list=PL-Z1WBeTYPOp--cI5tnztgjG5lRSPHJrL) - Aks Programming
 
 
 ### Java
@@ -177,6 +186,12 @@
 * [SQL / MYSQL Malayalam Tutorial Full Course](https://www.youtube.com/playlist?list=PL1JrLEBAapUXMuDKwPVVzhlBge9fdxV51) - Yes Tech Media
 
 
+### Networking
+
+* [CCNA Malayalam Tutorial(s)](https://www.youtube.com/playlist?list=PLO7o5VCTCpe-7jj04hLM002hQM5J-f3tl) -  Networking Malayalam
+* [Computer Networks - S5](https://www.youtube.com/playlist?list=PLI74-7rtCb9BRUw6JzCm_wwLdQJc3jSwO) -  Eduline CSE Knowledge Sharing Platform
+
+
 ### PHP
 
 * [PHP Programming Malayalam Tutorial for Beginners](https://www.youtube.com/watch?v=nFYWCouZ1UA) - Yes Tech Media
@@ -209,3 +224,9 @@
 
 * [Python Flask Malayalam Tutorial](https://youtube.com/playlist?list=PL1JrLEBAapUU-HCC1f5x8YiGEMoZdGl0e) - Yes Tech Media
 * [Web Development with Python Flask](https://www.youtube.com/playlist?list=PLQzHWfiB9fWccYbgcomf5bWTGV7DPqTtB) - Learn Programming In Malayalam
+
+
+### Security
+
+* [Cyber Security Tutorial Malayalam \| Ethical Hacking Courses for IT Career](https://www.youtube.com/playlist?list=PLR2UNjW_Pkm8LUpryeuiLMpEf4KgCDeBu) - RootSaid - Robotics, Technology & Cyber Security
+* [Security Fundamentals](https://www.youtube.com/playlist?list=PLEhpnavDYfVhGnYA4l8btphQG8i2zO4cI) - Cyber Security Malayalam

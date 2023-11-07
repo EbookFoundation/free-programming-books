@@ -2,6 +2,7 @@
 
 * [APL](#apl)
 * [Assembly](#assembly)
+* [Bash](#bash)
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
@@ -9,12 +10,14 @@
 * [ColdFusion](#coldfusion)
 * [Crystal](#crystal)
 * [Dart](#dart)
+* [DevOps](#devops)
 * [Docker](#docker)
 * [Elm](#elm)
 * [Flutter](#flutter)
 * [GDScript](#gdscript)
 * [Git](#git)
 * [Go](#go)
+* [Gremlin](#gremlin)
 * [Haskell](#haskell)
 * [HTML and CSS](#html-and-css)
 * [Ionic](#ionic)
@@ -47,6 +50,7 @@
 * [TypeScript](#typescript)
     * [Angular](#angular)
 * [V](#v)
+* [Vim](#vim)
 
 
 ### APL
@@ -59,7 +63,14 @@
 
 ### Assembly
 
+* [Command Challenge](https://cmdchallenge.com) - Command Challenge
 * [Educational Visual CPU Simulator](https://github.com/Belotti01/CPU-Visual-Simulator) - Renato Cortinovis, Nicola Preda, Jonathan Cancelli, Alessandro Belotti, Davide Riva (JAVA, JAR)
+* [OverTheWire](https://overthewire.org) - OverTheWire
+
+
+### Bash
+
+* [Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) - MIT
 
 
 ### <a id="c"></a>C
@@ -72,6 +83,7 @@
 
 ### <a id="csharp"></a>C\#
 
+* [OnlineGDB](https://www.onlinegdb.com/online_csharp_compiler)
 * [Programiz - Online Compiler](https://www.programiz.com/csharp-programming/online-compiler/)
 * [SoloLearn](https://code.sololearn.com/csharp)
 
@@ -80,6 +92,7 @@
 
 * [Coding Blocks](https://ide.codingblocks.com)
 * [Coding Minutes](https://ide.codingminutes.com)
+* [Compiler Explorer](https://godbolt.org)
 * [InterviewBit](https://www.interviewbit.com/online-cpp-compiler/)
 * [LabStack](https://code.labstack.com/cpp)
 * [OnlineGDB](https://www.onlinegdb.com/online_c++_compiler)
@@ -111,6 +124,7 @@
 
 ### DevOps
 
+* [DevOps Dream](https://devops.games) - DevOps Dream
 * [KodeKloud](https://kodekloud.com/kodekloud-engineer/)
 
 
@@ -148,6 +162,11 @@
 * [Go compiler](https://www.codinguru.online/compiler/go)
 
 
+### Gremlin
+
+* [Gremlify](https://gremlify.com)
+
+
 ### Haskell
 
 * [Try Haskell](https://www.tryhaskell.org)
@@ -158,7 +177,12 @@
 * [CodePen](https://codepen.io)
 * [CSSdeck](https://cssdeck.com)
 * [Dabblet](https://dabblet.com)
+* [Flexbox Froggy](https://flexboxfroggy.com) - Codepip
 * [Flexy Boxes](https://the-echoplex.net/flexyboxes/)
+* [Grid Garden](https://cssgridgarden.com) - Codepip
+* [Learn advanced html and css](https://www.theodinproject.com/paths/full-stack-javascript/courses/advanced-html-and-css) - The Odin Project
+* [Learn Intermediate html and css](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css) - The Odin Project
+* [LiveCode](https://livecodes.io) - LiveCode
 * [SoloLearn](https://code.sololearn.com/web#css)
 * [Tailwind Play](https://play.tailwindcss.com)
 * [HTML, CSS, Js compiler](https://www.codinguru.online/compiler/html)
@@ -174,6 +198,7 @@
 * [InterviewBit - Online Java Compiler IDE](https://www.interviewbit.com/online-java-compiler/)
 * [JDoodle - Online Java Compiler Advanced IDE](https://www.jdoodle.com/online-java-compiler-ide/)
 * [JDoodle - Online Java Compiler IDE](https://www.jdoodle.com/online-java-compiler/)
+* [OnlineGDB](https://www.onlinegdb.com/online_java_compiler)
 * [Programiz - Online Java Compiler](https://www.programiz.com/java-programming/online-compiler/)
 * [repl.it](https://repl.it) (_including a separate Java/Swing_)
 * [SoloLearn](https://code.sololearn.com/java)
@@ -191,6 +216,7 @@
 * [InterviewBit - Online JavaScript Compiler IDE](https://www.interviewbit.com/online-javascript-compiler/)
 * [JSBin](https://jsbin.com)
 * [JSFiddle](https://jsfiddle.net)
+* [Liveweave](https://liveweave.com) - Amit Sen
 * [OneCompiler](https://onecompiler.com/javascript)
 * [PlayCode](https://playcode.io/javascript)
 * [Plunker](https://plnkr.co)
@@ -215,6 +241,11 @@
 ### Kubernetes
 
 * [Play with Kubernetes](https://labs.play-with-k8s.com)
+
+
+### Markdown
+
+* [Markdown compiler](https://www.codinguru.online/compiler/markdown)
 
 
 ### Multiple Languages
@@ -256,7 +287,6 @@
 
 * [Codepad](http://codepad.org/?lang=PHP)
 * [ExtendsClass](https://extendsclass.com/php.html)
-* [PHPFiddle](https://phpfiddle.org)
 * [PHPTester](http://phptester.net)
 * [SoloLearn](https://code.sololearn.com/php)
 * [php online compiler](https://www.codinguru.online/compiler/php)
@@ -266,6 +296,7 @@
 
 * [Codepad](http://codepad.org/?lang=Python)
 * [InterviewBit - Online Python Compiler IDE](https://www.interviewbit.com/online-python-compiler/)
+* [OnlineGDB](https://www.onlinegdb.com/online_python_compiler)
 * [Programiz.com](https://www.programiz.com/python-programming/online-compiler/)
 * [Pynative.com](https://pynative.com/online-python-code-editor-to-execute-python-code/)
 * [Python Trinket](https://trinket.io/python)
@@ -279,6 +310,7 @@
 
 ### R
 
+* [myCompiler](https://www.mycompiler.io/online-r-compiler)
 * [R-Fiddle](http://www.r-fiddle.org)
 * [Rextester](https://rextester.com/l/r_online_compiler)
 * [SoloLearn](https://code.sololearn.com/r)
@@ -290,6 +322,7 @@
 * [CodeSandbox.io](https://codesandbox.io)
 * [Hello React - (Glitch)](https://glitch.new/react) *(Account requested, not required)*
 * [jscomplete](https://jscomplete.com/playground)
+* [PlayCode](https://playcode.io/react)
 * [StackBlitz](https://stackblitz.com/fork/react)
 
 
@@ -303,6 +336,7 @@
 * [iHateRegex: regex for playground](https://ihateregex.io/playground) - Geon George
 * [Regex Tester and Debugger Online - Javascript, PCRE, PHP](https://www.regextester.com) - Dan's Tools
 * [Regex101: build, test, and debug regex](https://regex101.com) - Firas Dib (regex101.com)
+* [Regexper](https://regexper.com) - Jeff Avallone
 * [RegExr: Learn, Build, \& Test RegEx](https://regexr.com) - GSkinner Inc.
 
 
@@ -378,6 +412,9 @@
 
 * [V Playground](https://play.vlang.io) - vlang.io
 
-### Markdown
 
-* [Markdown compiler](https://www.codinguru.online/compiler/markdown)
+### Vim
+
+* [Vim Adventure](https://vim-adventures.com) - Doron Linder
+* [Vim Genius](http://vimgenius.com) - Vic Ramon, Rye Mason
+

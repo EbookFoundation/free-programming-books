@@ -1,6 +1,7 @@
 ### Index
 
 * [Ada](#ada)
+* [Algorithms](#algorithms)
 * [Android](#android)
 * [Bash](#bash)
 * [C](#c)
@@ -58,10 +59,14 @@
 * [Introduction to Ada](https://learn.adacore.com/courses/intro-to-ada/index.html) - Adacore
 
 
+### Algorithms
+
+* [Data Structures Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - David Galles
+
+
 ### Android
 
 * [Android Tutorial](https://www.tutlane.com/tutorial/android) - tutlane
-* [Javatpoint Android Tutorial](https://www.javatpoint.com/android-tutorial) - javaTpoint
 
 
 ### Bash
@@ -215,7 +220,6 @@
 * [Java Tutorial](https://www.w3schools.com/java) - W3Schools
 * [Java Tutorial](https://www.scaler.com/topics/java/) - Scaler Topics
 * [Learn Java](http://www.learnjavaonline.org)
-* [Learn Java](https://www.javatpoint.com/java-tutorial) - Java T Point
 * [Learneroo Java tutorial](https://www.learneroo.com/modules/11)
 
 
@@ -231,6 +235,7 @@
 * [JavaScript Tutorial](https://www.w3schools.com/js) - W3Schools
 * [JavaScript Tutorial](https://www.scaler.com/topics/javascript/) - Scaler Topics
 * [Javascripting](https://github.com/sethvincent/javascripting)
+* [JSchallenger](https://www.jschallenger.com)
 * [Learn JavaScript](http://www.learn-js.org)
 * [Learn JavaScript](https://learnjavascript.online)
 * [Learn knockout.js](http://learn.knockoutjs.com)
@@ -270,6 +275,11 @@
 * [Front End Development Libraries: Redux](https://www.freecodecamp.org/learn/front-end-development-libraries/redux) - freeCodeCamp
 
 
+#### Svelte
+
+* [Interactive Svelte Tutorial](https://learn.svelte.dev/tutorial/welcome-to-svelte) - svelte.dev
+
+
 ### Kotlin
 
 * [Kotlin tutorial](https://kotlinlang.org/docs/tutorials/)
@@ -290,8 +300,9 @@
 #### Operating systems
 
 * [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os) - Sergey Matyukevich (:construction: *in process*)
+* [Linux Journey - Fun and Easy](https://linuxjourney.com) - Cindy Quach
 * [Operating System Tutorial](https://www.scaler.com/topics/operating-system/) - Scaler Topics
-* [Project eXpOS: eXperimental Operating System](https://exposnitc.github.io) - Dr. Murali Krishnan K., Department of Computer Science and Engineering of the Calicut National Institute of Technology (HTML)
+* [Project eXpOS: eXperimental Operating System](https://exposnitc.github.io) - Murali Krishnan K., Department of Computer Science and Engineering of the Calicut National Institute of Technology (HTML)
 
 
 ### LaTeX
@@ -379,7 +390,7 @@
 
 ### Jupyter
 
-* [Data-Quest](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) - Benjamin Pryke 
+* [Data-Quest](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) - Benjamin Pryke
 * [Jupyter](https://docs.jupyter.org)
 * [Learn Jupyter](https://jupyter-notebook.readthedocs.io) - Read the Docs
 
@@ -398,6 +409,7 @@
 
 ### Ruby
 
+* [A Brief Introduction to Ruby](https://markm208.github.io/rubybook) - Mark Mahoney
 * [CodeCademy Ruby](https://www.codecademy.com/learn/ruby)
 * [Ruby Koans](http://www.rubykoans.com)
 * [The Odin Project](http://www.theodinproject.com)
@@ -406,6 +418,7 @@
 
 ### Rust
 
+* [Rust-101](https://www.ralfj.de/projects/rust-101/main.html) - ralfj.de
 * [Rust Quiz](https://dtolnay.github.io/rust-quiz)
 * [Rustlings](https://github.com/rust-lang/rustlings)
 
@@ -436,6 +449,7 @@
 * [SQL Tutorial](https://www.w3schools.com/sql) - W3Schools
 * [SQL Tutorial](https://www.scaler.com/topics/sql/) - Scaler Topics
 * [SQLBolt](http://sqlbolt.com)
+* [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial)
 
 
 ### XML

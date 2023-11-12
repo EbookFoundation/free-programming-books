@@ -346,4 +346,5 @@
 * [WordPress Customization Bangla Tutorial](https://www.youtube.com/playlist?list=PLbC4KRSNcMno7NzhTgGhoZtRjLiHUo8m4) - Learn Hunter
 * [WordPress Plugin Development](https://www.youtube.com/playlist?list=PLSNRR4BKcowCkeAxfdtTsLqwR0LJYwDaz) - Procoder BD
 * [WordPress Theme Development Tutorial Bangla ](https://www.youtube.com/playlist?list=PLSNRR4BKcowD6A-U_ll9ayJWqOEz3XD8l) - Procoder BD
+* [WP Theme Development with ChatGPT](https://youtube.com/playlist?list=PLn_JOV5gUeKwLEMqi93W6eswy4hEQ_ouL&si=b909NYb69KHf89pQ) - Md Maruf Adnan Sami
 

@@ -86,5 +86,6 @@
 
 * [Git Giriş Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx4WAg9LPX_GKk7cKF7KBXOg) - Hakan Yalçınkaya \| Kodluyoruz
 * [Git, GitHub ve GitLab Kullanımı](https://www.youtube.com/playlist?list=PLPrHLaayVkhnNstGIzQcxxnj6VYvsHBHy) - Barış Aslan
-* [Git/Github Sıfırdan Kapsamlı Eğitim Seti](https://www.youtube.com/playlist?list=PLld6WWpFK1nEhFvvYi5ts-_JoUL3wF3zz) - Bidoluyazılım
 * [Git İleri Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx6PVwxJmcQ0Veg1uoXRxQY8) - Kodluyoruz
+* [Git/Github Sıfırdan Kapsamlı Eğitim Seti](https://www.youtube.com/playlist?list=PLld6WWpFK1nEhFvvYi5ts-_JoUL3wF3zz) - Bidoluyazılım
+

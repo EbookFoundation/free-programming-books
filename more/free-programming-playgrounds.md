@@ -93,9 +93,9 @@
 * [Coding Blocks](https://ide.codingblocks.com)
 * [Coding Minutes](https://ide.codingminutes.com)
 * [Compiler Explorer](https://godbolt.org)
-* [cpp compiler](https://www.codinguru.online/compiler/cpp)
 * [InterviewBit](https://www.interviewbit.com/online-cpp-compiler/)
 * [LabStack](https://code.labstack.com/cpp)
+* [Online C++ Compiler](https://www.codinguru.online/compiler/cpp)
 * [OnlineGDB](https://www.onlinegdb.com/online_c++_compiler)
 * [SoloLearn](https://code.sololearn.com/cpp)
 
@@ -157,7 +157,7 @@
 
 ### Go
 
-* [Go compiler](https://www.codinguru.online/compiler/go)
+* [GO Lang Compiler](https://www.codinguru.online/compiler/go)
 * [Go Playground](https://play.golang.org)
 * [SoloLearn](https://code.sololearn.com/go)
 
@@ -180,7 +180,7 @@
 * [Flexbox Froggy](https://flexboxfroggy.com) - Codepip
 * [Flexy Boxes](https://the-echoplex.net/flexyboxes/)
 * [Grid Garden](https://cssgridgarden.com) - Codepip
-* [HTML, CSS, Js compiler](https://www.codinguru.online/compiler/html)
+* [HTML, CSS, JavaScript](https://www.codinguru.online/compiler/html)
 * [Learn advanced html and css](https://www.theodinproject.com/paths/full-stack-javascript/courses/advanced-html-and-css) - The Odin Project
 * [Learn Intermediate html and css](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css) - The Odin Project
 * [LiveCode](https://livecodes.io) - LiveCode
@@ -195,8 +195,8 @@
 
 ### Java
 
-* [Codinguru - Online Java Compiler](https://www.codinguru.online/compiler/java)
 * [InterviewBit - Online Java Compiler IDE](https://www.interviewbit.com/online-java-compiler/)
+* [Java Compiler](https://www.codinguru.online/compiler/java)
 * [JDoodle - Online Java Compiler Advanced IDE](https://www.jdoodle.com/online-java-compiler-ide/)
 * [JDoodle - Online Java Compiler IDE](https://www.jdoodle.com/online-java-compiler/)
 * [OnlineGDB](https://www.onlinegdb.com/online_java_compiler)
@@ -214,7 +214,7 @@
 * [Grasshopper](https://grasshopper.app) *(Google account required)*
 * [Hello Website - (Glitch)](https://glitch.new/website) *(Account requested, not required)*
 * [InterviewBit - Online JavaScript Compiler IDE](https://www.interviewbit.com/online-javascript-compiler/)
-* [javascript compiler](https://www.codinguru.online/compiler/javascript)
+* [JavaScript Compiler](https://www.codinguru.online/compiler/javascript)
 * [JSBin](https://jsbin.com)
 * [JSFiddle](https://jsfiddle.net)
 * [Liveweave](https://liveweave.com) - Amit Sen
@@ -245,7 +245,7 @@
 
 ### Markdown
 
-* [Markdown compiler](https://www.codinguru.online/compiler/markdown)
+* [Markdown Editor](https://www.codinguru.online/compiler/markdown)
 
 
 ### Multiple Languages
@@ -268,7 +268,6 @@
 * [Hello Node - (Glitch)](https://glitch.new/node) *(Account requested, not required)*
 * [Ideone](https://ideone.com)
 * [MDX Playground](https://mdxjs.com/playground)
-* [Nodejs compiler](https://www.codinguru.online/compiler/javascript)
 * [SoloLearn](https://code.sololearn.com/nodejs)
 
 
@@ -287,7 +286,7 @@
 
 * [Codepad](http://codepad.org/?lang=PHP)
 * [ExtendsClass](https://extendsclass.com/php.html)
-* [php online compiler](https://www.codinguru.online/compiler/php)
+* [PHP Online Compiler](https://www.codinguru.online/compiler/php)
 * [PHPTester](http://phptester.net)
 * [SoloLearn](https://code.sololearn.com/php)
 
@@ -299,7 +298,7 @@
 * [OnlineGDB](https://www.onlinegdb.com/online_python_compiler)
 * [Programiz.com](https://www.programiz.com/python-programming/online-compiler/)
 * [Pynative.com](https://pynative.com/online-python-code-editor-to-execute-python-code/)
-* [python online compiler](https://www.codinguru.online/compiler/python)
+* [Python Online Compilers](https://www.codinguru.online/compiler/python)
 * [Python Trinket](https://trinket.io/python)
 * [Python Tutor](https://pythontutor.com)
 * [Python.org Shell](https://www.python.org/shell)
@@ -311,7 +310,7 @@
 ### R
 
 * [myCompiler](https://www.mycompiler.io/online-r-compiler)
-* [R compiler](https://www.codinguru.online/compiler/R)
+* [R Online Editors](https://www.codinguru.online/compiler/R)
 * [R-Fiddle](http://www.r-fiddle.org)
 * [Rextester](https://rextester.com/l/r_online_compiler)
 * [SoloLearn](https://code.sololearn.com/r)

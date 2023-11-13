@@ -310,8 +310,8 @@
 ### R
 
 * [myCompiler](https://www.mycompiler.io/online-r-compiler)
-* [R Online Editors](https://www.codinguru.online/compiler/R)
 * [R-Fiddle](http://www.r-fiddle.org)
+* [R Online Editors](https://www.codinguru.online/compiler/R)
 * [Rextester](https://rextester.com/l/r_online_compiler)
 * [SoloLearn](https://code.sololearn.com/r)
 

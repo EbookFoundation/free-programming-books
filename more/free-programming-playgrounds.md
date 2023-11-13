@@ -241,6 +241,9 @@
 ### Multiple Languages
 
 * [CodeChef](https://www.codechef.com/ide)
+* [GeeksforGeeks](https://ide.geeksforgeeks.org)
+* [Ideone](https://ideone.com)
+* [OnlineGDB](https://www.onlinegdb.com)
 
 
 ### <a id="dotnet"></a>.NET

@@ -266,6 +266,7 @@
 * [React Tutorial](https://www.scaler.com/topics/react/) - Scaler Topics
 * [React Tutorial: Learn React JS](https://scrimba.com/learn/learnreact) - Srimba
 
+
 #### Redux
 
 * [Front End Development Libraries: Redux](https://www.freecodecamp.org/learn/front-end-development-libraries/redux) - freeCodeCamp

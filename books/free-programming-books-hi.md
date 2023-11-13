@@ -49,7 +49,7 @@
 
 ### Php
 
-* [Core PHP Tutorial \| Hindi](https://youtube.com/playlist?list=PL0b6OzIxLPbyrzCMJOFzLnf_-_5E_dkzs&si=tiekSh6nKxtn0DmC) - Yahoo baba
+* [Core PHP Tutorial \| Hindi](https://youtube.com/playlist?list=PL0b6OzIxLPbyrzCMJOFzLnf_-_5E_dkzs) - Yahoo baba
 * [Php \| Hindi](https://www.learnhindituts.com/php) - LearnHindiTuts.com
 * [Php Hindi Tutorial \| Hindi](http://tutorialsroot.com/php/index.html) - TutorialsRoot.com
 

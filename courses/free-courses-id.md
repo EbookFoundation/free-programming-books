@@ -142,11 +142,11 @@
 * [Apa itu GitHub](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCtwnagWsUzZum1CFZYqrB5) - Hilman Ramadhan, Sekolah Koding
 * [Belajar Git](https://www.youtube.com/playlist?list=PLuGFxya63u24bmP-ILRaiGeMwZh3PGxW4) - Galih Pratama
 * [Belajar GIT (Source Code Management)](https://www.youtube.com/playlist?list=PL8bBYpHH3RI6BlCzFTMQvt7sGSycUj7S-) - Eka Putra, UpKoding
+* [Dasar Git untuk Pemula](https://www.petanikode.com/tutorial/git/) - Petani Kode
 * [GIT & GITHUB](https://www.youtube.com/playlist?list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf) - Sandhika Galih, Web Programming UNPAS
 * [Git Tutorial - Bahasa Indonesia](https://www.youtube.com/playlist?list=PL-CtdCApEFH_lYGV8hxqjtKmFA_xeLupq) - Eko Kurniawan Khannedy, Programmer Zaman Now
 * [Jago Git Dalam 2 Jam](https://www.youtube.com/watch?v=KGSfUgaiVNI) - Imre Nagi
 * [Source Code Management untuk Pemula](https://www.dicoding.com/academies/116) - Dicoding, membutuhkan registrasi
-* [Dasar Git untuk Pemula](https://www.petanikode.com/tutorial/git/) - Petani Kode
 * [Tutorial GIT Bahasa Indonesia Lengkap](https://www.youtube.com/playlist?list=PL1aMeb5UP_PHXTV_Xpt-19x_rVPXrymOM) - IDStack
 * [Tutorial Git Dasar](https://www.youtube.com/watch?v=fQbTeNX1mvM) - Programmer Zaman Now
 
@@ -181,7 +181,6 @@
 * [CSS Layouting](https://www.youtube.com/playlist?list=PLFIM0718LjIVCmrSWbZPKCccCkfFw-Naa) - Web Programming UNPAS
 * [CSS Tailwind](https://buildwithangga.com/kelas/css-tailwind-web-design?thumbnail=nk4neM2UyG.46&main_leads=browse) - BuildWithAngga
 * [CSS Website Design](https://www.buildwithangga.com/kelas/css-website-design) - BuildWithAngga
-* [CSS Website Design Tutorial](https://www.youtube.com/@OnlineTutorialsYT/about) - Online Tutorials
 * [CSS3](https://www.youtube.com/playlist?list=PLFIM0718LjIVCmrSWbZPKCccCkfFw-Naa) - Web Programming UNPAS
 * [HTML Dasar](https://www.youtube.com/playlist?list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F) - Web Programming UNPAS
 * [HTML5 Canvas](https://www.youtube.com/playlist?list=PL0-7Xi0GB3teW5TsBQmD2MzLU5ryjXkVE) - Idr Corner

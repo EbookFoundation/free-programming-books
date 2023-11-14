@@ -630,7 +630,7 @@
 ### TypeScript
 
 * [Typescript Tutorial for Beginners in Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp0xfHQFmlL52b_6-QZ0mnk_) - Thapa Technical
-* [Typescript Tutorial in Hindi](https://youtube.com/playlist?list=PL8p2I9GklV44eT51JPju4LsTQlce6DPtx&si=9O4MAqB4qCx1ApvO) - Code Step By Step
+* [Typescript Tutorial in Hindi](https://youtube.com/playlist?list=PL8p2I9GklV44eT51JPju4LsTQlce6DPtx) - Code Step By Step
 
 
 ### Wordpress

@@ -945,7 +945,7 @@
 
 #### Bun.js
 
-* [Bun JS Tutorials for Beginners](https://www.youtube.com/watch?v=3S2In1X07G8&list=PLT8tjCYKynKsXBrCf7KiQ6Y-6U304DjXT) - TechWebDocs
+* [Bun JS Tutorials for Beginners](https://www.youtube.com/playlist?list=PLT8tjCYKynKsXBrCf7KiQ6Y-6U304DjXT) - TechWebDocs
 
 
 #### D3.js

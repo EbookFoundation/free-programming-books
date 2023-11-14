@@ -882,8 +882,6 @@
 * [Creative Coding for Complete Beginners](https://youtube.com/playlist?list=PLUG_f-krxzVrRCOjGFwOuYj3QarVfPWXK) - Algorithmic Art
 * [Cycle.js Fundamentals](https://egghead.io/courses/cycle-js-fundamentals) - André Staltz
 * [ES6 and Typescript Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV) - Codevolution, Vishwas Gopinath
-* [Framer Motion (for React) Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iHDnQfTHEVVceOEBsOf07i) - Net Ninja
-* [Framer Motion Tutorial](https://www.youtube.com/playlist?list=PLnZgHKyxHOEAy7MisX6CSMe4JTzkeodmC) - Code With Yousaf
 * [Functional Programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) - Mattias Petter Johansson «Fun Fun Function»
 * [Gentle Introduction to JavaScript](https://youtube.com/playlist?list=PLErOmyzRKOCpmitTOazq3_p74Y-yTQB6A) - Deborah Kurata
 * [Intro to JavaScript ES6 programming](https://www.youtube.com/playlist?list=PL-xu4i_QDSxcoDNeh8rx5-pHCCTOg0XsI)
@@ -1004,6 +1002,8 @@
 #### React
 
 * [Complete React course for beginner](https://youtube.com/playlist?list=PLRAV69dS1uWQos1M1xP6LWN6C-lZvpkmq) - Hitesh Choudhary
+* [Framer Motion (for React) Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iHDnQfTHEVVceOEBsOf07i) - Net Ninja
+* [Framer Motion Tutorial](https://www.youtube.com/playlist?list=PLnZgHKyxHOEAy7MisX6CSMe4JTzkeodmC) - Code With Yousaf
 * [Frontend Armory: React Fundamentals](https://frontarm.com/courses/react-fundamentals/) - James K. Nelson
 * [Full Modern React Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d) - The Net Ninja (with practical)
 * [Full-Stack Web Development with React Specialization](https://www.coursera.org/specializations/full-stack-react) - Jogesh K. Muppala (Coursera)

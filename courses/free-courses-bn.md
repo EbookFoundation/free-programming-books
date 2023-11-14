@@ -94,7 +94,7 @@
 * [Docker and Kubernetes - 2022](https://www.youtube.com/playlist?list=PLzOdtYcAxAiM4_XQrzRmofBJ_ImFkSojg) - CSLCBT Bangla
 * [Docker Tutorial](https://www.youtube.com/playlist?list=PLSNRR4BKcowAuPUEja_ZZUE5Szn1rx90f) - Procoder BD
 * [Docker Tutorial Course](https://www.youtube.com/playlist?list=PLEYpvDF6qy8Yo9SpzhniLCjgRIxCpo2ku) - Foyzul Karim
-* [Mastering Docker In Bengali](https://youtube.com/playlist?list=PLzOdtYcAxAiNNR-8DEbnW2LErzqC3-qcs&si=1Izq7V5LJ1dR-diC) - CSLCBT - Bangla
+* [Mastering Docker In Bengali](https://youtube.com/playlist?list=PLzOdtYcAxAiNNR-8DEbnW2LErzqC3-qcs) - CSLCBT - Bangla
 
 
 ### Flutter

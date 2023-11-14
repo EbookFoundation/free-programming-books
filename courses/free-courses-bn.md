@@ -219,10 +219,10 @@
 
 * [Complete MERN Stack Course in Bangla](https://www.youtube.com/watch?v=ewBBT6Iph0M&list=PL_XxuZqN0xVD0op-QDEgyXFA4fRPChvkl) - Stack Learner
 * [Dive Into NodeJS](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDHFj-ecFSU0SU-B0TuJRk9) - Stack Learner
+* [E-commerce API Development From Scratch](https://youtube.com/playlist?list=PLgH5QX0i9K3q_7q9vZ5-EWpoL2bMuFJFV) - Anisul Islam
 * [Node.js Tutorial Bangla  Series for Beginners](https://youtube.com/playlist?list=PLHiZ4m8vCp9PHnOIT7gd30PCBoYCpGoQM) - Learn With Sumit
 * [NodeJS Tutorial Online](https://www.youtube.com/playlist?list=PLEYpvDF6qy8ZHMhSqsdo_Tge0CDxxXd1w) - Foyzul Karim
 * [Raw Node JS Project in Bangla ( বাংলা ) - Uptime Monitoring API](https://youtube.com/playlist?list=PLHiZ4m8vCp9OmVWU2Qf9tZgKdyzoubOpj) - Learn With Sumit
-* [E-commerce API Development From Scratch](https://youtube.com/playlist?list=PLgH5QX0i9K3q_7q9vZ5-EWpoL2bMuFJFV) - Anisul Islam
 
 
 
@@ -319,8 +319,9 @@
 
 ### Linux
 
-* [Ubuntu Linux Bangla Tutorial 2021](https://www.youtube.com/playlist?list=PLKdU0fuY4OFfxTxJduexCuF7nRp5ioOgw) - STUDY MART
 * [Linux Essential Training Bangla Tutorial 2022](https://youtube.com/playlist?list=PLzOdtYcAxAiOzVwsu7diaDMJiWlbDPiTb) - CSLSBT-Bangla
+* [Ubuntu Linux Bangla Tutorial 2021](https://www.youtube.com/playlist?list=PLKdU0fuY4OFfxTxJduexCuF7nRp5ioOgw) - Study Mart
+
 
 ### Scratch
 

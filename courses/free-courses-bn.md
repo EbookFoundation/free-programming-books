@@ -225,7 +225,6 @@
 * [Raw Node JS Project in Bangla ( বাংলা ) - Uptime Monitoring API](https://youtube.com/playlist?list=PLHiZ4m8vCp9OmVWU2Qf9tZgKdyzoubOpj) - Learn With Sumit
 
 
-
 #### React
 
 * [১ ভিডিওতে রিয়্যাক্ট শিখুন ! ফুল কোর্স](https://www.youtube.com/watch?v=6wilewRV3xQ) - Rabbil Hasan
@@ -314,7 +313,6 @@
 #### Flask 
 
 * [Flask Web Development with python (Bangla)](https://www.youtube.com/playlist?list=PL5WWFMzXof5hA8cLzEoim7BEkHcmddbOK) - Naimul Hawk
-
 
 
 ### Linux

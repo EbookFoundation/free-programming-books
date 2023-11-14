@@ -320,7 +320,7 @@
 ### Linux
 
 * [Ubuntu Linux Bangla Tutorial 2021](https://www.youtube.com/playlist?list=PLKdU0fuY4OFfxTxJduexCuF7nRp5ioOgw) - STUDY MART
-* [Linux Essential Training Bangla Tutorial 2022](https://youtube.com/playlist?list=PLzOdtYcAxAiOzVwsu7diaDMJiWlbDPiTb&si=9303TFuwjplbsZoA) - CSLSBT-Bangla
+* [Linux Essential Training Bangla Tutorial 2022](https://youtube.com/playlist?list=PLzOdtYcAxAiOzVwsu7diaDMJiWlbDPiTb) - CSLSBT-Bangla
 
 ### Scratch
 

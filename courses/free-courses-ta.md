@@ -139,4 +139,4 @@ CSE Tamila by Eezytutorials
 
 ### Swift
 
-* [Swift Introduction in tamil](https://www.youtube.com/playlist?list=PLSCKJRsangaXy00U-TpGC-1f83nS5B66O) - Alice Academy
+* [Introduction to Swift Programming language in Tamil](https://www.youtube.com/playlist?list=PLSCKJRsangaXy00U-TpGC-1f83nS5B66O) - Alice Academy

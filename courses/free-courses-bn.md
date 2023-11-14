@@ -222,7 +222,7 @@
 * [Node.js Tutorial Bangla  Series for Beginners](https://youtube.com/playlist?list=PLHiZ4m8vCp9PHnOIT7gd30PCBoYCpGoQM) - Learn With Sumit
 * [NodeJS Tutorial Online](https://www.youtube.com/playlist?list=PLEYpvDF6qy8ZHMhSqsdo_Tge0CDxxXd1w) - Foyzul Karim
 * [Raw Node JS Project in Bangla ( বাংলা ) - Uptime Monitoring API](https://youtube.com/playlist?list=PLHiZ4m8vCp9OmVWU2Qf9tZgKdyzoubOpj) - Learn With Sumit
-* [E-commerce API Development From Scratch ](https://youtube.com/playlist?list=PLgH5QX0i9K3q_7q9vZ5-EWpoL2bMuFJFV&si=QOgtvgKPf8ss-zU7) - Anisul Islam
+* [E-commerce API Development From Scratch ](https://youtube.com/playlist?list=PLgH5QX0i9K3q_7q9vZ5-EWpoL2bMuFJFV) - Anisul Islam
 
 
 

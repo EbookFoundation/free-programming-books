@@ -27,8 +27,8 @@
 
 ### Arduino
 
-* [Arduino Programming in Marathi](https://youtube.com/playlist?list=PL8yOrZ6_TOt5Y-ZG34wLePPZsDaZpatqD) - Asawari Shiposkar
 * [Arduino Advanced मराठीमध्ये](https://www.youtube.com/playlist?list=PLYearvGpQL11nJ0duF_ZTE6Ks4-ML6WBS) - Marathi Computer
+* [Arduino Programming in Marathi](https://youtube.com/playlist?list=PL8yOrZ6_TOt5Y-ZG34wLePPZsDaZpatqD) - Asawari Shiposkar
 
 
 ### <a id="c"></a>C

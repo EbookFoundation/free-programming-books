@@ -98,5 +98,5 @@
 
 ### SQL
 
-* [SQL-Grundlagen](https://wiki.selfhtml.org/wiki/Datenbank/SQL-Grundlagen) - SelfHTML
 * [Datenbanken und SQL](https://www.youtube.com/playlist?list=PL_pqkvxZ6ho1dn7jRkTfoYBXhw5c9jll0) - Programmieren Starten 
+* [SQL-Grundlagen](https://wiki.selfhtml.org/wiki/Datenbank/SQL-Grundlagen) - SelfHTML

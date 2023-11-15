@@ -5,6 +5,7 @@
 * [C](#c)
 * [C++](#cplusplus)
 * [C#](#csharp)
+* [Cryptography](#cryptography)
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [Python](#python)
@@ -39,6 +40,10 @@
 * [C# Tutorial For Beginners in Hindi/Urdu](https://www.youtube.com/playlist?list=PLtCBuHKmdxOfLseCtdZg1a3XBsDFbRVfd) - Fahad Hussain
 * [C# Tutorials In Urdu/Hindi](https://youtube.com/playlist?list=PLUyYwyJA_WfQd5zeCU890TDFQAqboekyc) - ProgramInUrdu
 
+
+### <a id="cryptography"></a>Cryptography
+
+* [Cryptography and Network Security Lecture in Hindi / Urdu for Beginners](https://youtube.com/playlist?list=PLE3bzAX_OzbkQXKbRFqQqbnlGxTNeaUqe) - Katoon Studio
 
 ### <a id="html-and-css"></a>HTML and CSS
 

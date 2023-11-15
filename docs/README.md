@@ -64,6 +64,9 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
   - [Contributing](CONTRIBUTING-it.md)
   - [How-to](HOWTO-it.md)
 - Japanese / 日本語
+  - [行動規範](CODE_OF_CONDUCT-ja.md)
+  - [貢献する](CONTRIBUTING-ja.md)
+  - [方法](HOWTO-ja.md)
 - Kannada / ಕನ್ನಡ
   - [How To](HOWTO-kn.md)
   - [Contributing](CONTRIBUTING-kn.md)

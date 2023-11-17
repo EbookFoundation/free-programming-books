@@ -174,7 +174,6 @@
 
 ### JavaScript
 
-* [20 Min JS Podcast](https://20minjs.com/) - Agustinus Theodorus, Chris Bongers, Mark Volkmann, and others (podcast)
 * [devMode.fm](https://devmode.fm) - Andrew Welch, Ryan Ire­lan, Patrick Harrington, Jonathan Melville, Michael Rog, Earl John­ston, Mar­i­on Newlevant, Lau­ren Dorman, Matt Stein, Jen­nifer Blumberg (podcast)
 * [FiveJS](https://fivejs.codeschool.com) - CodeSchool (podcast)
 * [Front End Happy Hour](https://frontendhappyhour.com) - Ryan Burgess, Jem Young, Stacy London, Augustus Yuan, Mars Jullian, Shirley Wu (podcast)

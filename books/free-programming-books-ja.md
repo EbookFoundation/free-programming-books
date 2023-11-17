@@ -534,7 +534,7 @@
 
 ### Perl
 
-* [2時間半で学ぶPerl](https://qntm.org/files/perl/perl_jp.html) - Sam Hughes, Kato Atsusi 
+* [2時間半で学ぶPerl](https://qntm.org/files/perl/perl_jp.html) - Sam Hughes, Kato Atsusi(翻訳)
 * [Perl](https://ja.wikibooks.org/wiki/Perl) - Wikibooks
 * [Perl でのデータベース操作](https://github.com/hatena/Hatena-Textbook/blob/master/database-programming-perl.md) - はてな教科書
 * [Perl のコアドキュメント](https://perldoc.jp/index/core) - 一般社団法人 Japan Perl Association 

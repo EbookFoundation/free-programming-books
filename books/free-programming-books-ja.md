@@ -376,7 +376,7 @@
 ### Haskell
 
 * [Haskell のお勉強](https://www.shido.info/hs) - 紫藤貴文
-* [Haskell 基礎文法最速マスター](https://ruicc.hatenablog.jp/entry/20100131/1264905896) - id:ruicc
+* [Haskell 基礎文法最速マスター](https://ruicc.hatenablog.jp/entry/20100131/1264905896) - ruicc
 * [Haskellでわかる代数的構造](https://aiya000.gitbooks.io/haskell_de_groupstructure) - aiya000
 * [お気楽 Haskell プログラミング入門](http://www.nct9.ne.jp/m_hiroi/func/haskell.html) - 広井誠
 
@@ -391,7 +391,7 @@
 ### Java
 
 * [Javaプログラミング学習支援システムのソフトウェアアーキテクチャと2種類の新問題形式の提案](https://ousar.lib.okayama-u.ac.jp/files/public/5/55952/20180614114854955908/K0005730_fulltext.pdf) - 石原信也 (pdf)
-* [Java基礎文法最速マスター](https://d.hatena.ne.jp/nattou_curry_2/20100130/1264821094) - id:nattou\_curry (pdf)
+* [Java基礎文法最速マスター](https://d.hatena.ne.jp/nattou_curry_2/20100130/1264821094) - nattou\_curry (pdf)
 * [お気楽 Java プログラミング入門](http://www.nct9.ne.jp/m_hiroi/java) - 広井誠
 * [頑健なJavaプログラムの書き方](http://seiza.dip.jp/link/files/writingrobustjavacode.pdf) - Scott W. Ambler, 高橋徹(翻訳) (PDF)
 

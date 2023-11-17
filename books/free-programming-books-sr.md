@@ -3,7 +3,6 @@
 * [C](#c)
 * [C++](#cpp)
 * [HTML and CSS](#html-and-css)
-* [HTML](#html)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Python](#python)

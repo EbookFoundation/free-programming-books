@@ -14,7 +14,6 @@
 * [HTML and CSS](#html-and-css)
 * [iOS](#ios)
 * [Java](#java)
-* [JavaScript](#javascript)
 * [LaTeX](#latex)
 * [Linux](#linux)
 * [.NET Framework](#net-framework)
@@ -108,11 +107,6 @@
 * [Java Bilgisayar Diliyle Programlama](http://www.turhancoban.com/kitap/JAVA%20B%C4%B0LG%C4%B0SAYAR%20D%C4%B0L%C4%B0YLE%20PROGRAMLAMA.pdf) - Turhan Coban (PDF)
 * [Java ile Nesneye Yönelik Programlama](https://ia801507.us.archive.org/12/items/java-ile-nesneye-yonelik-programlama/Java%20ile%20Nesneye%20Y%C3%B6nelik%20Programlama.pdf) - Oğuz Aslantürk (PDF)
 * [Java Kitabı](https://ia601503.us.archive.org/27/items/java-kitabi/java-kitabi.pdf) (PDF)
-
-
-### JavaScript
-
-* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/tr)
 
 
 ### LaTeX

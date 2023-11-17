@@ -514,7 +514,7 @@
 ### NoSQL
 
 * [Hibari アプリケーション開発者ガイド](https://hibari.github.io/hibari-doc/hibari-app-developer-guide.ja.html)
-* [MongoDBの薄い本](https://www.cuspy.org/diary/2012-04-17/the-little-mongodb-book-ja.pdf) - Karl Seguin, 濱野司(翻訳) (PDF)
+* [MongoDBの薄い本](https://www.cuspy.org/diary/2012-04-17/the-little-mongodb-book-ja.pdf) - Karl Seguin, 濱野司(翻訳) (pdf)
 * [The Little Redis Book](https://github.com/craftgear/the-little-redis-book) - Karl Seguin, `trl.:` @craftgear(翻訳)
 
 
@@ -522,7 +522,7 @@
 
 * [Google Objective-C スタイルガイド 日本語訳](http://www.textdrop.net/google-styleguide-ja/objcguide.xml) - Mike Pinkerton, Greg Miller, Dave MacLachlan, Takashi Sasai(翻訳)
 * [Objective-C 2.0 基礎文法最速マスター](https://marycore.jp/prog/objective-c/basic-syntax) - @_marycore
-* [Objective-C プログラミング言語](https://developer.apple.com/jp/documentation/ProgrammingWithObjectiveC.pdf) - Apple Developer (PDF)
+* [Objective-C プログラミング言語](https://developer.apple.com/jp/documentation/ProgrammingWithObjectiveC.pdf) - Apple Developer (pdf)
 * [Objective-C 最速基礎文法マスター](https://fn7.hatenadiary.org/entry/20100203/1265207098) - id:fn7
 
 
@@ -534,10 +534,10 @@
 
 ### Perl
 
-* [2時間半で学ぶPerl](https://qntm.org/files/perl/perl_jp.html) - Sam Hughes, Kato Atsusi(翻訳)
+* [2時間半で学ぶPerl](https://qntm.org/files/perl/perl_jp.html) - Sam Hughes, Kato Atsusi 
 * [Perl](https://ja.wikibooks.org/wiki/Perl) - Wikibooks
 * [Perl でのデータベース操作](https://github.com/hatena/Hatena-Textbook/blob/master/database-programming-perl.md) - はてな教科書
-* [Perl のコアドキュメント](https://perldoc.jp/index/core) - 一般社団法人 Japan Perl Association (JPA)
+* [Perl のコアドキュメント](https://perldoc.jp/index/core) - 一般社団法人 Japan Perl Association 
 * [Perl 基礎文法最速マスター](https://tutorial.perlzemi.com/blog/20091226126425.html) - 木本裕紀
 * [お気楽 Perl プログラミング超入門](http://www.nct9.ne.jp/m_hiroi/linux/perl.html) - 広井誠
 

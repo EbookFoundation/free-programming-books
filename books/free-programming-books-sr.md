@@ -2,7 +2,7 @@
 
 * [C](#c)
 * [C++](#cpp)
-* [CSS](#css)
+* [HTML and CSS](#html-and-css)
 * [HTML](#html)
 * [Java](#java)
 * [JavaScript](#javascript)

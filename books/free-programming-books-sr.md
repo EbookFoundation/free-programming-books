@@ -14,7 +14,7 @@
 * [Beej-ov vodič za mrežno programiranje - Korištenje Internet soket-a](https://web.archive.org/web/20181008134854/http://users.teol.net:80/~mvlado/sockets/) - Brian "Beej Jorgensen" Hall, Maksimović Darko (HTML) *(:card_file_box: archived)*
 
 
-### C++
+### <a id="cpp"></a>C++
 
 * [Programski jezik C++ sa rešenim zadacima (2010)](https://singipedia.singidunum.ac.rs/izdanje/40777-programski-jezik-c-sa-resenim-zadacima) -  Ranko Popović, Zona Kostić, Univerzitet Singidunum (PDF)
 

@@ -19,7 +19,7 @@
 * [Programski jezik C++ sa rešenim zadacima (2010)](https://singipedia.singidunum.ac.rs/izdanje/40777-programski-jezik-c-sa-resenim-zadacima) -  Ranko Popović, Zona Kostić (PDF)
 
 
-### CSS
+### HTML and CSS
 
 * [Web dizajn: HTML, CSS i JavaScript](https://singipedia.singidunum.ac.rs/izdanje/42767-web-dizajn-html-css-i-javascript) - Nenad Kojić (PDF)
 

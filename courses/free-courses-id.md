@@ -373,7 +373,6 @@
 * [Python](https://codesaya.com/python/) - CodeSaya
 * [Python (dasar)](https://www.youtube.com/playlist?list=PLT2AwM1dOOUe27iCPe68Z0qwwDeNyJawN) - beecoder id *(Dalam Proses)*
 * [Tutorial Belajar Python Pandas](https://www.youtube.com/playlist?list=PL2O3HdJI4voGdD_9xhVCTBoDTDNHpajm5) - Indonesia Belajar
-* [Tutorial Dasar Pemrograman Python](https://www.petanikode.com/tutorial/python/) - PetaniKode
 * [Tutorial Python Beginner Bahasa Indonesia](https://www.youtube.com/watch?v=rWC2iFlN3TM) - Agung Setiawan
 * [Tutorial Python GUI dengan TKinter](https://www.youtube.com/playlist?list=PL2O3HdJI4voHjX09IpdsiSBNnLRaR-CbJ) - Indonesia Belajar
 * [Tutorial Python OOP Object Oriented Programming Bahasa Indonesia - Full Course](https://www.youtube.com/watch?v=b6Y5CzFM0Oc) - Agung Setiawan

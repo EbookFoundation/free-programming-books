@@ -412,6 +412,7 @@
 
 * [Complete Java Programming in Hindi](https://www.youtube.com/playlist?list=PLmRclvVt5DtnqhXTJwd-oqVRwO3bLZCGV) - Anand Kumar, CodeitUp
 * [Core Java Programming (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhij8Oplrvjt_RlDliZQgdxoV) - Rajesh Kumar, Geeky Shows
+* [Hibernate tutorial Basic to Advance in Hindi](https://youtube.com/playlist?list=PL0zysOflRCekX8OO7V7pGQ9kxZ28JyJlk) - Learn Code With Durgesh
 * [Java + DS + Algorithms](https://www.youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s) - Apni Kaksha (Anuj)
 * [Java + DSA](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop) - Apna College
 * [Java and DSA Foundation Course](https://youtube.com/playlist?list=PLxgZQoSe9cg00xyG5gzb5BMkOClkch7Gr&si=ctLRknqelKTSI5Lh) - College Wallah

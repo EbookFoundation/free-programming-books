@@ -88,7 +88,7 @@
 #### <a id="ide-and-editors"></a>IDE とエディター
 
 * [Vim スクリプトリファレンス](https://nanasi.jp/code.html) - 小見拓
-* [Vim スクリプト基礎文法最速マスター](https://thinca.hatenablog.com/entry/20100201/1265009821) - id:thinca
+* [Vim スクリプト基礎文法最速マスター](https://thinca.hatenablog.com/entry/20100201/1265009821) - @thinca
 * [Vim スクリプト書法](https://vim-jp.org/vimdoc-ja/usr_41.html) - Bram Moolenaar, `trl:` vimdoc-ja プロジェクト
 
 
@@ -220,7 +220,7 @@
 
 * [Android Open Text book](https://github.com/TechBooster/AndroidOpenTextbook) - TechBooster
 * [Android アプリのセキュア設計・セキュアコーディングガイド](https://www.jssec.org/report/securecoding.html) - 一般社団法人日本スマートフォンセキュリティ協会(JSSEC)
-* [Android アプリ開発のための Java 入門](https://gist.github.com/nobuoka/6546813) - id:nobuoka
+* [Android アプリ開発のための Java 入門](https://gist.github.com/nobuoka/6546813) - @nobuoka
 * [AndroidTraining](https://mixi-inc.github.io/AndroidTraining/) - mixi Inc.
 * [コントリビュータのためのAndroidコードスタイルガイドライン 日本語訳](http://www.textdrop.net/android/code-style-ja.html) - Android Open Source Project, `trl:` Takashi Sasai
 
@@ -246,7 +246,7 @@
 ### Bash
 
 * [BASH Programming - Introduction HOW-TO](https://linuxjf.osdn.jp/JFdocs/Bash-Prog-Intro-HOWTO.html) - trl:Mike G, 千旦裕司
-* [Bash 基礎文法最速マスター](https://d.hatena.ne.jp/nattou_curry_2/20100131/1264910483) - id:nattou\_curry
+* [Bash 基礎文法最速マスター](https://d.hatena.ne.jp/nattou_curry_2/20100131/1264910483) - @nattou\_curry
 * [Bashのよくある間違い](https://yakst.com/ja/posts/2929) - GreyCat, trl:@yakstcom
 * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ja.md) - Joshua Levy, `trl:` Hayato Matsuura
 * [UNIX & Linux コマンド・シェルスクリプト リファレンス](https://shellscript.sunone.me) - SUNONE
@@ -287,7 +287,7 @@
 
 ### CoffeeScript
 
-* [CoffeeScript基礎文法最速マスター](https://blog.bokuweb.me/entry/2015/01/06/190240) - id:bokuweb
+* [CoffeeScript基礎文法最速マスター](https://blog.bokuweb.me/entry/2015/01/06/190240) - @bokuweb
 * [The Little Book on CoffeeScript](https://minghai.github.io/library/coffeescript) - Alex MacCaw, `trl:` Narumi Katoh
 * [基本操作逆引きリファレンス（CoffeeScript）](https://kyu-mu.net/coffeescript/revref) - 飯塚直
 * [正規表現リファレンス（CoffeeScript)](https://kyu-mu.net/coffeescript/regexp) - 飯塚直
@@ -362,7 +362,7 @@
 ### Haskell
 
 * [Haskell のお勉強](https://www.shido.info/hs) - 紫藤貴文
-* [Haskell 基礎文法最速マスター](https://ruicc.hatenablog.jp/entry/20100131/1264905896) - id:ruicc
+* [Haskell 基礎文法最速マスター](https://ruicc.hatenablog.jp/entry/20100131/1264905896) - @ruicc
 * [Haskellでわかる代数的構造](https://aiya000.gitbooks.io/haskell_de_groupstructure) - aiya000
 * [お気楽 Haskell プログラミング入門](http://www.nct9.ne.jp/m_hiroi/func/haskell.html) - 広井誠
 
@@ -376,7 +376,7 @@
 
 ### Java
 
-* [Java基礎文法最速マスター](https://d.hatena.ne.jp/nattou_curry_2/20100130/1264821094) - id:nattou\_curry
+* [Java基礎文法最速マスター](https://d.hatena.ne.jp/nattou_curry_2/20100130/1264821094) - @nattou\_curry
 * [お気楽 Java プログラミング入門](http://www.nct9.ne.jp/m_hiroi/java) - 広井誠
 * [頑健なJavaプログラムの書き方](http://seiza.dip.jp/link/files/writingrobustjavacode.pdf) - Scott W. Ambler, `trl:` 高橋徹 (PDF)
 
@@ -388,7 +388,7 @@
 * [JavaScript Plugin Architecture](https://azu.gitbooks.io/javascript-plugin-architecture/content) - azu
 * [JavaScript Primer](https://jsprimer.net) - azu, Suguru Inatomi
 * [JavaScript Promiseの本](https://azu.github.io/promises-book) - azu
-* [JavaScript 基礎文法最速マスター](https://gifnksm.hatenablog.jp/entry/20100131/1264934942) - id:gifnksm
+* [JavaScript 基礎文法最速マスター](https://gifnksm.hatenablog.jp/entry/20100131/1264934942) - @gifnksm
 * [JavaScript 言語リファレンス](https://msdn.microsoft.com/ja-jp/library/d1et7k7c.aspx) - MSDN Library
 * [Mozilla Developer Network 日本語ドキュメント](https://developer.mozilla.org/ja/docs/Web/JavaScript) - MDN
 * [The little book of Buster.JS](https://the-little-book-of-busterjs.readthedocs.io/en/latest) - azu
@@ -497,7 +497,7 @@
 ### NoSQL
 
 * [Hibari アプリケーション開発者ガイド](https://hibari.github.io/hibari-doc/hibari-app-developer-guide.ja.html)
-* [MongoDBの薄い本](https://www.cuspy.org/diary/2012-04-17/the-little-mongodb-book-ja.pdf) - Karl Seguin, trl: 濱野司 (PDF)
+* [MongoDBの薄い本](https://www.cuspy.org/diary/2012-04-17/the-little-mongodb-book-ja.pdf) - Karl Seguin, `trl: 濱野司` (PDF)
 * [The Little Redis Book](https://github.com/craftgear/the-little-redis-book) - Karl Seguin, `trl.:` @craftgear
 
 
@@ -506,7 +506,7 @@
 * [Google Objective-C スタイルガイド 日本語訳](http://www.textdrop.net/google-styleguide-ja/objcguide.xml) - Mike Pinkerton, Greg Miller, Dave MacLachlan, `trl:` Takashi Sasai
 * [Objective-C 2.0 基礎文法最速マスター](https://marycore.jp/prog/objective-c/basic-syntax) - @_marycore
 * [Objective-C プログラミング言語](https://developer.apple.com/jp/documentation/ProgrammingWithObjectiveC.pdf) - Apple Developer (PDF)
-* [Objective-C 最速基礎文法マスター](https://fn7.hatenadiary.org/entry/20100203/1265207098) - id:fn7
+* [Objective-C 最速基礎文法マスター](https://fn7.hatenadiary.org/entry/20100203/1265207098) - @fn7
 
 
 ### OCaml
@@ -560,14 +560,14 @@
 * [php プログラマのための Python チュートリアル](https://web.archive.org/web/20160813152046/http://phpy.readthedocs.io/en/latest/) - INADA Naoki
 * [Python 3.4](https://stats.biopapyrus.jp/python) - 孫建強
 * [Python Scientific Lecture Notes](http://turbare.net/transl/scipy-lecture-notes) - `trl:` 打田旭宏
-* [Python で音声信号処理](https://aidiary.hatenablog.com/entry/20110514/1305377659) - id:aidiary
+* [Python で音声信号処理](https://aidiary.hatenablog.com/entry/20110514/1305377659) - @aidiary
 * [python で心理実験](http://www.s12600.net/psy/python) - 十河宏行
 * [Python ドキュメント日本語訳](https://docs.python.org/ja) - Python Software Foundation
 * [Python による日本語自然言語処理](https://www.nltk.org/book-jp/ch12.html) - Steven Bird, Ewan Klein, Edward Loper, `trl:` 萩原正人, `trl:` 中山敬広, `trl:` 水野貴明
 * [Python の学習](https://skitazaki.github.io/python-school-ja) - KITAZAKI Shigeru
 * [Python ヒッチハイク・ガイド](https://python-guide-ja.readthedocs.io/en/latest) - Kenneth Reitz, `trl:` Tsuyoshi Tokuda
 * [Python プログラマーのための gevent チュートリアル](https://methane.github.io/gevent-tutorial-ja) - Stephen Diehl, Jérémy Bethmont, sww, Bruno Bigras, David Ripton, Travis Cline, Boris Feld, youngsterxyf, Eddie Hebert, Alexis Metaireau, Daniel Velkov, `trl:` methane
-* [Python 基礎文法最速マスター](https://dplusplus.hatenablog.com/entry/20100126/p1) - id:dplusplus
+* [Python 基礎文法最速マスター](https://dplusplus.hatenablog.com/entry/20100126/p1) - @dplusplus
 * [The Programming Historian](https://sites.google.com/site/theprogramminghistorianja) - William J. Turkel, Alan MacEachern, `trl:` @moroshigeki, `trl:` @historyanddigi, `trl:` @Say\_no, `trl:` @knagasaki, `trl:` @mak\_goto
 * [Think Python：コンピュータサイエンティストのように考えてみよう](http://www.cauldron.sakura.ne.jp/thinkpython/thinkpython/ThinkPython.pdf) - Allen Downey, `trl:` 相川 利樹 (PDF)
 * [お気楽 Python プログラミング入門](http://www.nct9.ne.jp/m_hiroi/light) - 広井誠
@@ -692,5 +692,5 @@
 ### VBA
 
 * [Excel 2013 で学ぶ Visual Basic for Applications (VBA)](https://brain.cc.kogakuin.ac.jp/~kanamaru/lecture/vba2013) - 金丸隆志
-* [VBA基礎文法最速マスター](https://nattou-curry-2.hatenadiary.org/entry/20100129/1264787849) - id:nattou\_curry
+* [VBA基礎文法最速マスター](https://nattou-curry-2.hatenadiary.org/entry/20100129/1264787849) - @nattou\_curry
 * [Visual Basic for Applications (VBA) の言語リファレンス](https://docs.microsoft.com/ja-jp/office/vba/api/overview/language-reference) - Microsoft Docs

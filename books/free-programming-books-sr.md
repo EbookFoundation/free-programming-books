@@ -21,7 +21,7 @@
 
 ### CSS
 
-* [Web dizajn: HTML, CSS i JavaScript (2020)](https://singipedia.singidunum.ac.rs/izdanje/42767-web-dizajn-html-css-i-javascript) - Nenad Kojić, Univerzitet Singidunum (PDF)
+* [Web dizajn: HTML, CSS i JavaScript](https://singipedia.singidunum.ac.rs/izdanje/42767-web-dizajn-html-css-i-javascript) - Nenad Kojić (PDF)
 
 
 ### Java

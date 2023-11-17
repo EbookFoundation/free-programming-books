@@ -359,7 +359,7 @@
 
 #### Gradle
 
-* [Gradle 日本語ドキュメント](http://gradle.monochromeroad.com/docs) - Hayashi Masatoshi, Sekiya Kazuchika, Sue Nobuhiro, Mochida Shinya ([PDF](http://gradle.monochromeroad.com/docs/userguide/userguide.pdf))
+* [Gradle 日本語ドキュメント](http://gradle.monochromeroad.com/docs) - Hayashi Masatoshi, Sekiya Kazuchika, Sue Nobuhiro, Mochida Shinya 
 
 
 #### Grails

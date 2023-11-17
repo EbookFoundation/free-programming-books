@@ -866,6 +866,7 @@
 * [CS50 2019 - iOS Track](https://www.youtube.com/playlist?list=PLhQjrBD2T3810ZX79Xrgj8X382QaWbk_J) - David J. Malan (Harvard OpenCourseWare)
 * [Developing iOS 11 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-11-apps-with-swift/id1309275316)
 * [Get Started with iOS Development (iOS 13, Swift 5)](https://www.youtube.com/playlist?list=PLSzsOkUDsvdu5Mm67aBYs2YPu2OM4mFzt) - London App Brewery
+* [How to Make an App in 8 Days](https://www.youtube.com/playlist?list=PLMRqhzcHGw1Y5Cluhf7pKRNZtKaA3Q4kg) - CodeWithChris 
 * [Ray Wenderlich iOS Tutorial](https://www.raywenderlich.com/category/ios)
 * [SwiftUI Tutorials](https://www.youtube.com/playlist?list=PL8seg1JPkqgHyWCBHwXGmfysQpEQTfC3z) - Sean Allen
 * [SwiftUI Tutorials for Beginners](https://www.youtube.com/playlist?list=PLMRqhzcHGw1Z-lZaaun3A3mV9PbEfHANI) - CodeWithChris
@@ -929,6 +930,7 @@
 * [Asynchronous Programming: The End of The Loop](https://egghead.io/courses/asynchronous-programming-the-end-of-the-loop) - Jafar Husain
 * [Beginner's Series to: JavaScript](https://youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2) - Microsoft Developer
 * [Bento JavaScript Learning Track](https://bento.io/topic/javascript) (Bento)
+* [Bun JS Tutorials for Beginners](https://www.youtube.com/playlist?list=PLT8tjCYKynKsXBrCf7KiQ6Y-6U304DjXT) - TechWebDocs
 * [Creative Coding for Complete Beginners](https://youtube.com/playlist?list=PLUG_f-krxzVrRCOjGFwOuYj3QarVfPWXK) - Algorithmic Art
 * [Cycle.js Fundamentals](https://egghead.io/courses/cycle-js-fundamentals) - André Staltz
 * [ES6 and Typescript Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV) - Codevolution, Vishwas Gopinath
@@ -1053,6 +1055,8 @@
 #### React
 
 * [Complete React course for beginner](https://youtube.com/playlist?list=PLRAV69dS1uWQos1M1xP6LWN6C-lZvpkmq) - Hitesh Choudhary
+* [Framer Motion (for React) Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iHDnQfTHEVVceOEBsOf07i) - Net Ninja
+* [Framer Motion Tutorial](https://www.youtube.com/playlist?list=PLnZgHKyxHOEAy7MisX6CSMe4JTzkeodmC) - Code With Yousaf
 * [Frontend Armory: React Fundamentals](https://frontarm.com/courses/react-fundamentals/) - James K. Nelson
 * [Full Modern React Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d) - The Net Ninja (with practical)
 * [Full Stack with React and Appwrite](https://egghead.io/playlists/full-stack-with-react-and-appwrite-e1e46f61) - Colby Fayock (Egghead.io)

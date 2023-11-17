@@ -8,6 +8,7 @@
 * [Android](#android)
 * [Arduino](#arduino)
 * [Assembly](#assembly)
+* [Banco de Dados](#banco-de-dados)
 * [Basic](#basic)
 * [C](#c)
 * [C#](#csharp)
@@ -105,6 +106,11 @@
 
 * [Assembly x86](https://mentebinaria.gitbook.io/assembly-x86/) - Luis Felipe, Mente Binária (gitbook)
 * [Linguagem Assembly: Introdução ao padrão Intel 8086](https://github.com/J-AugustoManzano/livro_Assembly-Intro-8086) - José Augusto N. G. Manzano (PDF)
+
+
+### Banco de Dados
+
+* [Introdução a Banco de Dados](https://educapes.capes.gov.br/bitstream/capes/564494/2/FASCICULO_Introducao_Banco_Dados_30_08.pdf) - Joyce Aline de Oliveira Marins, Gracyeli Santos Souza Guarienti (PDF)
 
 
 ### Basic

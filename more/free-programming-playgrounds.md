@@ -155,7 +155,7 @@
 ### Go
 
 * [Go Playground](https://play.golang.org)
-* [go-vim](https://go-vim.appspot.com)
+* [Go-Vim](https://go-vim.appspot.com)
 * [SoloLearn](https://code.sololearn.com/go)
 
 

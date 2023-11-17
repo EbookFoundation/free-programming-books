@@ -155,6 +155,7 @@
 ### Go
 
 * [Go Playground](https://play.golang.org)
+* [go-vim](https://go-vim.appspot.com)
 * [SoloLearn](https://code.sololearn.com/go)
 
 
@@ -394,6 +395,5 @@
 
 ### Vim
 
-* [go-vim](https://go-vim.appspot.com) - go-vim
 * [Vim Adventure](https://vim-adventures.com) - Doron Linder
 * [Vim Genius](http://vimgenius.com) - Vic Ramon, Rye Mason

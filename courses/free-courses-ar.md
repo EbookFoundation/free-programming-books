@@ -188,7 +188,7 @@
 
 ### Docker
 
-* [Docker and Kubernetes | العلبة دي فيها سوعبان| Arabic](https://www.youtube.com/watch?v=PrusdhS2lmo) - Ahmed Sami 
+* [Docker and Kubernetes \| العلبة دي فيها سوعبان \| Arabic](https://www.youtube.com/watch?v=PrusdhS2lmo) - Ahmed Sami 
 
 
 ### Elastic

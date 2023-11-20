@@ -6,17 +6,22 @@
 * [C++](#cpp)
 * [Data Structures and Algorithms](#dsa)
 * [Express JS](#express-js)
+* [Flutter](#flutter)
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Machine Learning](#machine-learning)
+* [MongoDB](#mongodb)
+* [Next JS](#next-js)
 * [Node JS](#node-js)
 * [PHP](#php)
 * [Python](#python)
 * [R](#r)
 * [React](#react)
+* [Rust](#rust)
 * [Solidity](#solidity)
 * [SQL](#sql)
+* [Swift](#swift)
 
 
 ### Android
@@ -44,8 +49,7 @@
 
 ### <a id="dsa"></a>Data Structures and Algorithms
 
-* [தமிழில் Data Structures and Algorithms](https://youtube.com/playlist?list=PL_UqaR55i1797oG0BL0wtxdPpa_NYNFLz) - 
-CSE Tamila by Eezytutorials
+* [தமிழில் Data Structures and Algorithms](https://youtube.com/playlist?list=PL_UqaR55i1797oG0BL0wtxdPpa_NYNFLz) - CSE Tamila by Eezytutorials
 * [Data Structures and Algorithms in Java](https://www.youtube.com/playlist?list=PLYM2_EX_xVvX7_AmNY-Deacp3rT3MIXnE) - Logic First Tamil
 
 
@@ -53,6 +57,13 @@ CSE Tamila by Eezytutorials
 
 * [Express JS Course in Tamil](https://youtube.com/playlist?list=PLN00Qh4gtjNtwr6Syq7eKDTmd-fKQPEiO&si=wMFg55V0T1ztHesh) - Programming Line
 * [Express JS Tutorial In Tamil](https://youtube.com/playlist?list=PLtMr2pEysMV6ArKDOGVmjQxjW-RcdxFHE&si=CR4PI0sjOcAUnXut) - VJ Techno Wizard
+
+
+### Flutter
+
+* [Flutter in Tamil](https://www.youtube.com/playlist?list=PLBngtsPyn30HYEkmqIqZwvLl0c8zWqCtx) - Learn all in Tamil
+* [Flutter Tamil Tutorial](https://www.youtube.com/playlist?list=PL_hkki6Usyn4krz6wexRj1baFE-TWKVMb) - Techashonline
+* [Flutter Tamil Tutorial 2021](https://www.youtube.com/playlist?list=PLUGtexIdLo5iGD_0Ds5-a-itWxMCF8r0E) - Theory Or Practical
 
 
 ### HTML and CSS
@@ -86,10 +97,24 @@ CSE Tamila by Eezytutorials
 * [Introduction to Machine Learning(Tamil)](https://www.youtube.com/playlist?list=PLyqSpQzTE6M-9thAeyB2mRFYvvW8AWxXX) - IIT Madras NPTEL
 * [Machine Learning in Tamil](https://www.youtube.com/playlist?list=PLJtSFa-YIedYu2QfQaHJJBLT096RxtMHD) - Majaa Matrix
 * [Machine Learning in Tamil](https://youtube.com/playlist?list=PL5itdT07Pm8wxRaPWljPntnBmnOs4ExDM) - Nithya Duraisamy
+* [Machine Learning with Python and R](https://www.youtube.com/playlist?list=PL-1QQC56x1gEgj8C4L2hw5orryqgdnuoP) - Data Science Alive
+
+
+### MongoDB
+
+* [MongoDB Course in Tamil](https://www.youtube.com/playlist?list=PL7BQ4lqtgECRiWoThupyKXRQoDuEV2zy5) - JVL Code
+* [MongoDB Tamil Tutorial for Beginners](https://www.youtube.com/playlist?list=PLfD4W8QfMd5DhXKriTHyHjNzNSe_1I7g1) - MaanavaN Learn Code
+
+
+### Next JS
+
+* [Next JS Beginner series Tamil](https://www.youtube.com/playlist?list=PLQeZxRj52I-H86pt2nVb14UB0vKtK74qZ) - Tamil Coding Wizard
+* [React JS \| Tutorial \| Tamil](https://www.youtube.com/playlist?list=PLQeZxRj52I-GmZBy4-tPhwwL8AEjW2t8G) - Tamil Coding Wizard
 
 
 ### Node JS
 
+* [Node JS in 3 Hours](https://www.youtube.com/playlist?list=PLla-GdVgzZZV-z0Gxc7rkrV4cuqYSNZMy) - Balachandra
 * [Node JS in Tamil](https://youtube.com/playlist?list=PLDVMunJ3DBrNAZtl0cJiNytPE2-8MAmoc&si=z23m0cL3jA7J50f9) - Each One Teach One
 * [Node JS Tamil Tutorial](https://youtube.com/playlist?list=PLfD4W8QfMd5CfPbiP2os4lpK2470C8Bva&si=3_z8uf-13KyOoEj-) - MaanavaN Learn Code
 * [Node JS Tutorial in Tamil](https://youtube.com/playlist?list=PLyYcNnaAVG5Jewkwv4iH5WR-IDNlUON29&si=Y1th95p1GubFjnAl) - selva tutorials
@@ -107,13 +132,16 @@ CSE Tamila by Eezytutorials
 * [FastAPI Beginners Tutorial in Tamil](https://www.youtube.com/playlist?list=PLIFRUdRwOM08B9M7HVuiUWWto8eDxVryI) - Santra TechSpot
 * [Flask in Python](https://www.youtube.com/playlist?list=PLBngtsPyn30GbfwGhOD_cPoQtkoIQQnHg) - Learn All In Tamil
 * [Python DJango in Tamil - Full Course](https://www.youtube.com/playlist?list=PLgWpUXNR_WCch5K1nkemWWsm3rvr-7YmO) - Payilagam
+* [Python Full Course Tamil](https://www.youtube.com/playlist?list=PLvepBxfiuao1hO1vPOskQ1X4dbjGXF9bm) - Error Makes Clever Academy
 * [Python in Tamil for Beginners](https://youtube.com/playlist?list=PLA2UBjeRwle3OLO3qmXTbmCvuTlqhHRVb) - GURUKULA
 * [Python Programming in Tami](https://www.youtube.com/playlist?list=PLWbtDrDnmTHBdEnUKuLNdH2-zKSDD8OA4) - CS in Tamil
+* [Python Programming Tutorial Series - In Tamil - You can become a Python Developer.](https://www.youtube.com/playlist?list=PLvepBxfiuao1hO1vPOskQ1X4dbjGXF9bm) - Error Makes Clever Academy
 * [Python Tutorial in Tamil](https://youtube.com/playlist?list=PLIFRUdRwOM0_hcLruKbsHWnU5P2uLBgsp) - SANTRA TECHSPOT
 
 
 ### R
 
+* [Learn R Programming for Data Science in Tamil](https://www.youtube.com/playlist?list=PLpdmBGJ6ELUJr9cRrFPDAqGBXj5ge13h3) - 1Little coder
 * [R Tutorial in Tamil](https://youtube.com/playlist?list=PL4unWLKFsZfeGbK28rfPDeDDD_OJGjMCC) - Tutor Joe's Stanley
 
 
@@ -122,7 +150,14 @@ CSE Tamila by Eezytutorials
 * [React](https://youtube.com/playlist?list=PL7BQ4lqtgECTVwBbEjQ63FPx76WYDbiwh&si=PxoLxQoXVCqi1zav) - JVL code
 * [React Basics Tamil](https://youtube.com/playlist?list=PLQeZxRj52I-HntAkC29CgxGRT9Z_-oa91&si=oe9UoqzeaUDYyoy6) - Tamil Coding Wizard
 * [React JS Tamil Tutorial for Beginners](https://youtube.com/playlist?list=PLfD4W8QfMd5DbFccLzRFeG0QjWWHGTT3-&si=X3CgUFk3PxeqA8YD) - MaanavaN Learn Code
+* [React Js Tutorial for beginners in Tamil 2023](https://www.youtube.com/watch?v=Uv7cKlZFXU8) - Balachandra
 * [React JS Tutorial Tamil](https://youtube.com/playlist?list=PLtMr2pEysMV7DdPChnkF9Mmgdya1uR8sQ&si=ZNop81SRBf9eTGvK) - VJ Techno Wizard
+
+
+### Rust
+
+* [Rust basics](https://www.youtube.com/playlist?list=PL_u9j2nFGtodQkcD1K6TqEciRzIi7DFip) - Introverted Techie
+* [Rust Beginner to Advanced Tamil](https://www.youtube.com/playlist?list=PLdIzVVjNvusSYhqEH2_fPFtcVZEAlVs4Q) - Immanuel John
 
 
 ### Solidity
@@ -132,5 +167,11 @@ CSE Tamila by Eezytutorials
 
 ### SQL
 
+* [Oracle SQL - தமிழில்](https://www.youtube.com/playlist?list=PLsphD3EpR7F-u4Jjp_3fYgLSsKwPPTEH4) - NIC IT Academy
 * [SQL in Tamil (தமிழில் SQL)](https://www.youtube.com/playlist?list=PLgWpUXNR_WCd-oMh-n6LhRYyNZjiiPVGm) - Payilagam
 * [SQL in Tamil for Beginners](https://www.youtube.com/playlist?list=PLYM2_EX_xVvUBh28ZT2i-jH7kBkTfB_W2) - Logic First Tamil
+
+
+### Swift
+
+* [Introduction to Swift Programming language in Tamil](https://www.youtube.com/playlist?list=PLSCKJRsangaXy00U-TpGC-1f83nS5B66O) - Alice Academy

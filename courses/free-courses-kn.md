@@ -23,6 +23,7 @@
 ### JavaScript
 
 * [JavaScript course in Kannada](https://youtube.com/playlist?list=PLUZkVL-W-8GJVkp8Az0SAWqmDPv5b2Tn9) - script kiddie
+* [JavaScript for Beginners in Kannada(Full Course)](https://www.youtube.com/playlist?list=PLQztdyH5OY4BvjvmU0PV8nTevqXjYcYEE) - MicroDegree ಕನ್ನಡ
 * [Javascript tutorial in Kannada || Javascript in Kannada || Complete Javascript in Kannada](https://youtube.com/playlist?list=PLBVoFEaXQzK0ybl-O3g_2_PswaLzNGbb8) - Learn Tech in Kannada
 
 

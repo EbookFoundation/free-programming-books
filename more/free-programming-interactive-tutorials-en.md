@@ -1,6 +1,7 @@
 ### Index
 
 * [Ada](#ada)
+* [Algorithms](#algorithms)
 * [Android](#android)
 * [Bash](#bash)
 * [C](#c)
@@ -56,6 +57,11 @@
 ### Ada
 
 * [Introduction to Ada](https://learn.adacore.com/courses/intro-to-ada/index.html) - Adacore
+
+
+### Algorithms
+
+* [Data Structures Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - David Galles
 
 
 ### Android
@@ -228,6 +234,7 @@
 * [JavaScript interactive tutorial on CoderMania](http://www.codermania.com/javascript/lesson/1a/hello-world)
 * [JavaScript Tutorial](https://www.w3schools.com/js) - W3Schools
 * [JavaScript Tutorial](https://www.scaler.com/topics/javascript/) - Scaler Topics
+* [JavaScript Tutorial and Overview](https://www.afterhoursprogramming.com/tutorial/javascript/) - After Hours Programming
 * [Javascripting](https://github.com/sethvincent/javascripting)
 * [JSchallenger](https://www.jschallenger.com)
 * [Learn JavaScript](http://www.learn-js.org)
@@ -262,6 +269,7 @@
 * [React Tutorial](https://react-tutorial.app)
 * [React Tutorial](https://www.w3schools.com/react/) - W3Schools
 * [React Tutorial](https://www.scaler.com/topics/react/) - Scaler Topics
+* [React Tutorial: Learn React JS](https://scrimba.com/learn/learnreact) - Srimba
 
 
 #### Redux
@@ -296,7 +304,7 @@
 * [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os) - Sergey Matyukevich (:construction: *in process*)
 * [Linux Journey - Fun and Easy](https://linuxjourney.com) - Cindy Quach
 * [Operating System Tutorial](https://www.scaler.com/topics/operating-system/) - Scaler Topics
-* [Project eXpOS: eXperimental Operating System](https://exposnitc.github.io) - Dr. Murali Krishnan K., Department of Computer Science and Engineering of the Calicut National Institute of Technology (HTML)
+* [Project eXpOS: eXperimental Operating System](https://exposnitc.github.io) - Murali Krishnan K., Department of Computer Science and Engineering of the Calicut National Institute of Technology (HTML)
 
 
 ### LaTeX
@@ -403,6 +411,7 @@
 
 ### Ruby
 
+* [A Brief Introduction to Ruby](https://markm208.github.io/rubybook) - Mark Mahoney
 * [CodeCademy Ruby](https://www.codecademy.com/learn/ruby)
 * [Ruby Koans](http://www.rubykoans.com)
 * [The Odin Project](http://www.theodinproject.com)

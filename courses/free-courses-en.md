@@ -977,7 +977,7 @@
 
 ### Astro
 
-* [Astro Blog Course - Full 3.5 hour course](https://www.youtube.com/watch?v=6XzyobQYQVQ) - Coding in Public
+* [Astro Blog Course](https://www.youtube.com/playlist?list=PLoqZcxvpWzzeRwF8TEpXHtO7KYY6cNJeF) - Coding in Public
 * [Astro Crash Course](https://www.youtube.com/watch?v=Oi9z5gfIHJs) - Traversy Media
 * [Astro Web Framework Crash Course](https://www.youtube.com/watch?v=e-hTm5VmofI) - freeCodeCamp
 

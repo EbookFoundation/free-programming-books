@@ -1,8 +1,11 @@
 ### Index
 
+* [Algorithms & Data Structures](#algorithms--data-structures)
+* [Artificial Intelligence](#Artificial-Intelligence)
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
+* [Databases](#databases)
 * [Git](#git)
 * [HTML and CSS](#html-and-css)
 * [JavaScript](#javascript)
@@ -13,6 +16,17 @@
 * [Ruby](#ruby)
 * [TypeScript](#typescript)
     * [Angular](#angular)
+
+
+### Algorithms & Data Structures
+
+* [การออกแบบและวิเคราะห์อัลกอริทึม](https://youtube.com/playlist?list=PL0ROnaCzUGB65_YkASLAEmcW_mtxFtq4m) - สมชาย ประสิทธิ์จูตระกูล
+
+
+### Artificial Intelligence
+
+* [NLP 2021](https://youtube.com/playlist?list=PLcBOyD1N1T-PIYnPZ9_iHtug9e-BcHIob) - EkapolC
+* [Pattern 2022](https://youtube.com/playlist?list=PLcBOyD1N1T-MnWcKQZqE8FXrgoiiVdXvI) - EkapolC
 
 
 ### C
@@ -28,6 +42,11 @@
 ### <a id="cpp"></a>C++
 
 * [ภาษา C++](http://marcuscode.com/lang/cpp) - MarcusCode
+
+
+### Databases
+
+* [วิชา Database System (ปี 58/1)](https://youtube.com/playlist?list=PL7fB6_3v0nhxRBOP44PL8SnhXnauinlb2) - Aj Earn KMUTNB
 
 
 ### Git
@@ -54,6 +73,7 @@
 #### NodeJS
 
 * [สอน Node.js เบื้องต้น](https://www.youtube.com/playlist?list=PLoTScYm9O0GERtEdsPHK5Q-cdor5ADnyM) - pracertcbs
+* [สอน Nodejs เบื้องต้น](https://www.youtube.com/watch?v=mDezAkh5gcE) - Kong Ruksiam
 * [สอน Nodejs เบื้องต้น สำหรับผู้เริ่มต้นศึกษา Nodejs](https://www.youtube.com/playlist?list=PLEE74DyIkwEkWkVWy3TbjrTICVF_eUdyc) - Kong Ruksiam
 
 
@@ -70,6 +90,11 @@
 * [สอน VueJS + NuxtJS ตั้งแต่ 0~99](https://www.youtube.com/playlist?list=PLXm-UJjVcJCMd24NIQTPcqHhfnK-QbPmD) - Geekstart
 
 
+### Kotlin
+
+* [Getting started with Kotlin](https://www.skooldio.com/courses/getting-started-with-kotlin) - Somkiat Kijwongwattana
+
+
 ### Python
 
 * [ชีวิตคนช่างแสนสั้น เราไม่หวั่นใช้ python](https://phyblas.hinaboshi.com/saraban/python) - Phyblas
@@ -84,9 +109,11 @@
 
 ### TypeScript
 
-* [สอน TypeScript Basic to Advance](https://www.youtube.com/playlist?list=PLEE74DyIkwEn4NOiqo43uxvSzyE0eyUQj) - Kong Ruksiam (YouTube)
+* [สอน TypeScript Basic to Advance](https://www.youtube.com/playlist?list=PLEE74DyIkwEn4NOiqo43uxvSzyE0eyUQj) - Kong Ruksiam
 
 
 #### Angular
 
 * [มือใหม่หัดใช้ Angular](https://priefydev.wordpress.com/tag/angular/) - Priefy Dev.
+
+

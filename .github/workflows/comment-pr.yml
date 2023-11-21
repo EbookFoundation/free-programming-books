@@ -1,0 +1,55 @@
+name: Comment on the pull request
+
+on:
+  workflow_run:
+    workflows: ["free-programming-books-lint"]
+    types:
+      - completed
+
+jobs:
+  upload:
+    permissions:
+      pull-requests: write
+    runs-on: ubuntu-latest
+    if: >
+      ${{ github.event.workflow_run.event == 'pull_request' &&
+      github.event.workflow_run.conclusion == 'success' }}
+    steps:
+      - name: 'Download artifact'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            let allArtifacts = await github.rest.actions.listWorkflowRunArtifacts({
+               owner: context.repo.owner,
+               repo: context.repo.repo,
+               run_id: context.payload.workflow_run.id,
+            });
+            let matchArtifact = allArtifacts.data.artifacts.filter((artifact) => {
+              return artifact.name == "pr"
+            })[0];
+            let download = await github.rest.actions.downloadArtifact({
+               owner: context.repo.owner,
+               repo: context.repo.repo,
+               artifact_id: matchArtifact.id,
+               archive_format: 'zip',
+            });
+            let fs = require('fs');
+            fs.writeFileSync(`${process.env.GITHUB_WORKSPACE}/pr.zip`, Buffer.from(download.data));
+
+      - name: 'Unzip artifact'
+        run: unzip pr.zip
+
+      - name: 'Comment on PR'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [ -s error.log ]
+          then
+            gh pr comment $(<PRurl) -b "Linter failed, fix the error(s):
+            \`\`\`
+            $(cat error.log)
+            \`\`\`"
+            gh pr edit $(<PRurl) --add-label "linter error"
+          else
+            gh pr edit $(<PRurl) --remove-label "linter error"
+          fi

@@ -38,8 +38,10 @@
 * [Objective-C](#objective-c)
 * [Ocaml](#ocaml)
 * [PHP](#php)
+    * [Laravel](#laravel)
 * [PostgreSQL](#postgresql)
 * [Python](#python)
+    * [Jupyter](#jupyter)
 * [R](#r)
 * [Regular Expressions](#regular-expressions)
 * [Ruby](#ruby)
@@ -59,7 +61,6 @@
 ### Android
 
 * [Android Tutorial](https://www.tutlane.com/tutorial/android) - tutlane
-* [Javatpoint Android Tutorial](https://www.javatpoint.com/android-tutorial) - javaTpoint
 
 
 ### Bash
@@ -105,6 +106,7 @@
 * [AWS Identity and Access Management (IAM)](https://run.qwiklabs.com/focuses/7782?catalog_rank=%7B%22rank%22%3A6%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=3605942) - *registration required*
 * [AWS Lambda](https://run.qwiklabs.com/focuses/6431?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=3605949) - *registration required*
 * [AWS Simple Storage Service (S3)](https://run.qwiklabs.com/focuses/7860?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=3597563) - *registration required*
+* [Cloud Computing Tutorial by Scaler](https://www.scaler.com/topics/cloud-computing/)
 * [Google Cloud Platform](https://cloud.google.com/training/free-labs/)
 
 
@@ -123,7 +125,10 @@
 
 * [Data Science Foundations](https://skillsbuild.org/students/course-catalog/data-science) - IBM SkillBuild *(email address required)*
 * [Data Science Tutorial](https://www.w3schools.com/datascience/default.asp) - W3Schools
+* [Data Science Tutorial for Beginners](https://www.scaler.com/topics/data-science/) - Scaler Topics
+* [Data Science Tutorial for Beginners - Video Course](https://www.scaler.com/topics/course/python-for-data-science/) - course by Yash Sinha Scaler Topics
 * [Essential Linear Algebra for Data Science and Machine Learning](https://www.kdnuggets.com/2021/05/essential-linear-algebra-data-science-machine-learning.html) - KDnuggets
+* [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/) - Dan Margalit, Joseph Rabinoff (HTML, PDF)
 * [Top 10 Data Science Projects for Beginners - KDnuggets](https://www.kdnuggets.com/2021/06/top-10-data-science-projects-beginners.html)
 
 
@@ -223,8 +228,11 @@
 * [JavaScript interactive tutorial on CoderMania](http://www.codermania.com/javascript/lesson/1a/hello-world)
 * [JavaScript Tutorial](https://www.w3schools.com/js) - W3Schools
 * [JavaScript Tutorial](https://www.scaler.com/topics/javascript/) - Scaler Topics
+* [JavaScript Tutorial and Overview](https://www.afterhoursprogramming.com/tutorial/javascript/) - After Hours Programming
 * [Javascripting](https://github.com/sethvincent/javascripting)
+* [JSchallenger](https://www.jschallenger.com)
 * [Learn JavaScript](http://www.learn-js.org)
+* [Learn JavaScript](https://learnjavascript.online)
 * [Learn knockout.js](http://learn.knockoutjs.com)
 * [Learn to Code for Free – Grasshopper](https://grasshopper.app)
 * [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
@@ -237,6 +245,7 @@
 * [AngularJS Basics](http://www.angularjsbook.com) - Chris Smith
 * [AngularJS Tutorial](https://www.tutlane.com/tutorial/angularjs) - tutlane
 * [AngularJS Tutorial](https://www.w3schools.com/angular/) - W3Schools
+* [AngularJS Tutorial](https://www.scaler.com/topics/angular/) - Scaler Topics
 * [egghead.io: Learn AngularJS with Tutorial Videos & Training](https://egghead.io)
 * [Learn AngularJS with free interactive lessons](http://www.learn-angular.org)
 
@@ -245,6 +254,7 @@
 
 * [Front End Development Libraries Certification: jQuery](https://www.freecodecamp.org/learn/front-end-libraries/jquery) - freeCodeCamp
 * [jQuery Tutorial](https://www.w3schools.com/jquery/) - W3Schools
+* [jQuery Tutorial](https://www.scaler.com/topics/jquery/) - Scaler Topics
 
 
 #### React
@@ -252,11 +262,18 @@
 * [Front End Development Libraries Certification: React](https://www.freecodecamp.org/learn/front-end-libraries/react) - freeCodeCamp
 * [React Tutorial](https://react-tutorial.app)
 * [React Tutorial](https://www.w3schools.com/react/) - W3Schools
+* [React Tutorial](https://www.scaler.com/topics/react/) - Scaler Topics
+* [React Tutorial: Learn React JS](https://scrimba.com/learn/learnreact) - Srimba
 
 
 #### Redux
 
 * [Front End Development Libraries: Redux](https://www.freecodecamp.org/learn/front-end-development-libraries/redux) - freeCodeCamp
+
+
+#### Svelte
+
+* [Interactive Svelte Tutorial](https://learn.svelte.dev/tutorial/welcome-to-svelte) - svelte.dev
 
 
 ### Kotlin
@@ -279,8 +296,9 @@
 #### Operating systems
 
 * [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os) - Sergey Matyukevich (:construction: *in process*)
+* [Linux Journey - Fun and Easy](https://linuxjourney.com) - Cindy Quach
 * [Operating System Tutorial](https://www.scaler.com/topics/operating-system/) - Scaler Topics
-* [Project eXpOS: eXperimental Operating System](https://exposnitc.github.io) - Dr. Murali Krishnan K., Department of Computer Science and Engineering of the Calicut National Institute of Technology (HTML)
+* [Project eXpOS: eXperimental Operating System](https://exposnitc.github.io) - Murali Krishnan K., Department of Computer Science and Engineering of the Calicut National Institute of Technology (HTML)
 
 
 ### LaTeX
@@ -309,6 +327,7 @@
 * [Node School](http://nodeschool.io)
 * [Node.js Tutorial](https://www.tutlane.com/tutorial/nodejs) - tutlane
 * [Node.js Tutorial](https://www.w3schools.com/nodejs) - W3Schools
+* [Node.js Tutorial](https://www.scaler.com/topics/nodejs/) - Scaler Topics
 
 
 ### NoSQL
@@ -335,6 +354,11 @@
 * [PHP tutorial](https://www.w3schools.com/php) - W3Schools
 
 
+#### Laravel
+
+* [Learn the PHP Framework for Web Artisans](http://bootcamp.laravel.com) - Laravel Team
+
+
 ### PostgreSQL
 
 * [PostgreSQL Tutorial](https://www.postgresqltutorial.com)
@@ -349,6 +373,7 @@
 * [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html)
 * [Learn Python](http://www.learnpython.org)
 * [Learn Python Step by Step](http://www.techbeamers.com/python-tutorial-step-by-step)
+* [Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python) - FreeCodeCamp
 * [Python for Everybody - Interactive](https://runestone.academy/runestone/books/published/py4e-int/index.html) - Barbara Ericson
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
 * [Python Pandas Tutorial: A Complete Introduction for Beginners](https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/) - George McIntire, Brendan Martin, Lauren Washington
@@ -357,6 +382,13 @@
 * [Python Tutorial](https://www.w3schools.com/python) - W3Schools
 * [Python Tutorial](https://www.scaler.com/topics/python/) - Scaler Topics
 * [Scientific Computing with Python Certification](https://www.freecodecamp.org/learn/scientific-computing-with-python/) - freeCodeCamp
+
+
+### Jupyter
+
+* [Data-Quest](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) - Benjamin Pryke
+* [Jupyter](https://docs.jupyter.org)
+* [Learn Jupyter](https://jupyter-notebook.readthedocs.io) - Read the Docs
 
 
 ### R
@@ -373,6 +405,7 @@
 
 ### Ruby
 
+* [A Brief Introduction to Ruby](https://markm208.github.io/rubybook) - Mark Mahoney
 * [CodeCademy Ruby](https://www.codecademy.com/learn/ruby)
 * [Ruby Koans](http://www.rubykoans.com)
 * [The Odin Project](http://www.theodinproject.com)
@@ -381,6 +414,7 @@
 
 ### Rust
 
+* [Rust-101](https://www.ralfj.de/projects/rust-101/main.html) - ralfj.de
 * [Rust Quiz](https://dtolnay.github.io/rust-quiz)
 * [Rustlings](https://github.com/rust-lang/rustlings)
 
@@ -404,12 +438,14 @@
 ### SQL
 
 * [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql) - Khan Academy
+* [MySQL Tutorial](https://www.w3schools.com/MySQL/) - W3Schools
 * [SQL at Codecademy](https://www.codecademy.com/courses/learn-sql)
 * [SQL Server Tutorial](https://www.tutlane.com/tutorial/sql-server) - tutlane
 * [SQL Teaching](https://www.sqlteaching.com)
 * [SQL Tutorial](https://www.w3schools.com/sql) - W3Schools
 * [SQL Tutorial](https://www.scaler.com/topics/sql/) - Scaler Topics
 * [SQLBolt](http://sqlbolt.com)
+* [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial)
 
 
 ### XML

@@ -124,7 +124,7 @@ Ví dụ:
     TỐT: * [Một cuốn sách rất tuyệt vời](https://example.org/book.pdf) - Jane Roe (PDF)
     ```
 
-- Nhiều định dạng:
+- Nhiều định dạng (Chúng tôi ưu tiên một liên kết duy nhất cho mỗi tài nguyên. Khi không có duy nhất một liên kết nào có thể dễ dàng truy cập vào các định dạng khác nhau, nhiều liên kết có thể được sử dụng. Nhưng mỗi liên kết thêm vào đều tạo ra khó khăn trong bảo trì nên chúng tôi cố gắng tránh điều đó.):
 
     ```text
     TỆ : * [Một cuốn sách tuyệt vời khác](http://example.com/)- John Doe (HTML)
@@ -161,7 +161,7 @@ Nếu bạn thấy một liên kết bị đặt sai vị trí, hãy kiểm tra 
 
 ### Ghi Chú
 
-Mặc dù những điều cơ bản tương đối đơn giản, nhưng có sự đa dạng lớn trong các nguồn mà chúng tôi liệt kê. Dưới đây là một số lưu ý về cách chúng ta phân loại những sự đa dạng này.
+Mặc dù những điều cơ bản tương đối đơn giản, nhưng có sự đa dạng lớn trong các nguồn mà chúng tôi liệt kê. Dưới đây là một số lưu ý về cách chúng tôi phân loại những sự đa dạng này.
 
 
 #### Metadata
@@ -199,13 +199,21 @@ Danh sách của chúng tôi cung cấp một metadata: tiêu đề, URL, ngư�
 - Bạn có thể rút ngắn tác giả với "`et al.`".
 - Chúng tôi không cho phép liên kết bởi Người sáng tạo.
 - Đối với các tác phẩm tổng hợp hoặc phối lại, "người sáng tạo" có thể cần mô tả. Ví dụ: sách "GoalKicker" hoặc "RIP Tutorial" được ghi là "`Được tổng hợp từ tài liệu StackOverflow`" (tiếng Anh là "`Compiled from StackOverflow documentation`").
+- Chúng tôi không sử dụng kính ngữ như "GS (Giáo sử)" hoặc "Tiến sĩ" trong tên người sáng tạo.
+
+
+##### Các khóa học và thử nghiệm có giới hạn thời gian
+
+- Chúng tôi không liệt kê những danh sách mà chúng tôi sẽ cần loại bỏ trong sáu tháng.
+- Nếu một khóa học có thời gian hoặc thời lượng ghi danh giới hạn, chúng tôi sẽ không liệt kê nó.
+- Chúng tôi không thể liệt kê các tài nguyên miễn phí trong một khoảng thời gian giới hạn.
 
 
 ##### Nền Tảng và Ghi Chú Truy Cập
 
 - Các khóa học. Đặc biệt đối với danh sách khóa học của chúng tôi, nền tảng là một phần quan trọng của mô tả tài liệu. Điều này là do các khóa học nền tảng có khả năng chi trả và mô hình truy cập khác nhau. Mặc dù chúng tôi thường không liệt kê một cuốn sách yêu cầu đăng ký, nhưng nhiều nền tảng khóa học có khả năng không hoạt động nếu không có một số loại tài khoản. Các nền tảng khóa học ví dụ bao gồm Coursera, EdX, Udacity và Udemy. Khi một khóa học phụ thuộc vào một nền tảng, tên nền tảng phải được liệt kê trong ngoặc đơn.
-- YouTube. Chúng tôi có nhiều khóa học bao gồm các danh sách phát trên YouTube. Chúng tôi không cho rằng YouTube như một nền tảng, chúng tôi cố gắng liệt kê người sáng tạo nội dung trên YouTube, thường là một nền tảng phụ.
-- Video trên YouTube. Chúng tôi thường không có các liên kết đến các video YouTube riêng lẻ trừ khi chúng dài hơn một giờ và có cấu trúc giống như một khóa học hoặc một hướng dẫn.
+- Video trên YouTube. Chúng tôi thường không liên kết đến các video YouTube riêng lẻ trừ khi chúng dài hơn một giờ và có cấu trúc giống như một khóa học hoặc một hướng dẫn. Nếu đúng như vậy, hãy nhớ ghi chú nó trong phần mô tả PR.
+- Không có liên kết rút gọn (tức là youtu.be/xxxx)!
 - Leanpub. Leanpub lưu trữ sách với nhiều mô hình truy cập. Đôi khi một cuốn sách có thể được đọc mà không cần đăng ký; đôi khi một cuốn sách yêu cầu tài khoản Leanpub để được truy cập miễn phí. Do chất lượng của sách và sự hỗn hợp và tính linh hoạt của các mô hình truy cập Leanpub, chúng tôi cho phép liệt kê mô hình sau cùng với ghi chú truy cập `*(yêu cầu tài khoản Leanpub hoặc email hợp lệ)*`.
 
 

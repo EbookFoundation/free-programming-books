@@ -29,7 +29,7 @@ jobs:
 
       - name: Label conflicting PRs that are open
         id: pr-labeler
-        uses: eps1lon/actions-label-merge-conflict@v2.0.1
+        uses: eps1lon/actions-label-merge-conflict@v2.1.0
         with:
           repoToken:  ${{ secrets.GITHUB_TOKEN }}
           retryAfter: 30 # seconds
@@ -51,10 +51,12 @@ jobs:
         run: |
           echo "$INPUT_PRS"  \
             | jq --compact-output --raw-output 'to_entries | map({number: .key, dirty: .value})'  \
-            | sed -e 's/^/::set-output name=prs::/'
+            | sed -e 's/^/prs=/'  \
+            >> $GITHUB_OUTPUT
           echo "$INPUT_PRS"  \
             | jq --raw-output 'to_entries | length'  \
-            | sed -e 's/^/::set-output name=prs-len::/'
+            | sed -e 's/^/prs-len=/'  \
+            >> $GITHUB_OUTPUT
         env:
           INPUT_PRS: ${{ steps.pr-labeler.outputs.prDirtyStatuses }}
 

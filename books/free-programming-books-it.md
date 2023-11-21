@@ -28,7 +28,6 @@
 * [Livecode](#livecode)
 * [Perl](#perl)
 * [PHP](#php)
-    * [Symfony](#symfony)
 * [Python](#python)
     * [Django](#django)
 * [Ruby](#ruby)
@@ -49,7 +48,7 @@
 #### Metodologie di sviluppo del software
 
 * [Analisi e progettazione del software](http://www.diegm.uniud.it/schaerf/APS/Dispensa_APS_2_3.pdf) - S. Ceschia, A. Schaerf (PDF)
-* [Programmazione Funzionale](http://minimalprocedure.pragmas.org/writings/programmazione_funzionale/programmazione_funzionale.html)
+* [Programmazione Funzionale](http://minimalprocedure.pragmas.org/writings/programmazione_funzionale/programmazione_funzionale.html) - Massimo Maria Ghisalberti
 
 
 #### Open source
@@ -65,6 +64,7 @@
 #### Sistemi di controllo versione
 
 * [Controllo di Versione con Subversion](https://svnbook.red-bean.com/index.it.html) - Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato (HTML, PDF)
+* [get-git](https://get-git.readthedocs.io/it/latest/) - Arialdo Martini (HTML, PDF, EPUB)
 * [Pro Git](https://git-scm.com/book/it) - Scott Chacon, Ben Straub (HTML, PDF, EPUB)
 
 
@@ -111,7 +111,7 @@
 
 ### <a id="cpp"></a>C++
 
-* [Corso C++ standard](http://didatticait.altervista.org/programmazione/CPP/CPP-dispense/CORSO_C.pdf) (PDF)
+* [Dispense del corso di Programmazione I con Laboratorio](https://www.dmi.unipg.it/~baioletti/didattica/materiale/dispense-progr1-c++.pdf) - Marco Baioletti (PDF)
 * [Il linguaggio C++](https://hpc-forge.cineca.it/files/CoursesDev/public/2012%20Autumn/Introduzione%20alla%20programmazioni%20a%20oggetti%20in%20C++/corsocpp.pdf) (PDF)
 
 
@@ -224,12 +224,6 @@
 ### PHP
 
 * [Guida PHP](http://www.html.it/guide/guida-php-di-base/?cref=development) (HTML)
-* [Manuale PHP](http://francescomuscolo.altervista.org/manuale_PHP.pdf) (PDF)
-
-
-#### Symfony
-
-* [Symfony 5: guida rapida](https://symfony.com/doc/5.0/the-fast-track/it/index.html)
 
 
 ### Python
@@ -239,7 +233,7 @@
 * [Immersione in Python 3](http://gpiancastelli.altervista.org/dip3-it/) - Mark Pilgrim, `trl.:` Giulio Piancastelli (HTML) [(PDF)](http://gpiancastelli.altervista.org/dip3-it/d/diveintopython3-it-pdf-latest.zip)
 * [La libreria di riferimento di Python](http://docs.python.it/html/lib/)
 * [Pensare da Informatico, Versione Python](http://www.python.it/doc/Howtothink/Howtothink-html-it/index.htm)
-* [Python per tutti: Esplorare dati con Python3](http://do1.dr-chuck.com/pythonlearn/IT_it/pythonlearn.pdf) - Dr. Charles Russell Severance (PDF) [(EPUB)](http://do1.dr-chuck.com/pythonlearn/IT_it/pythonlearn.epub)
+* [Python per tutti: Esplorare dati con Python3](http://do1.dr-chuck.com/pythonlearn/IT_it/pythonlearn.pdf) - Charles Russell Severance (PDF) [(EPUB)](http://do1.dr-chuck.com/pythonlearn/IT_it/pythonlearn.epub)
 
 
 #### Django
@@ -266,13 +260,11 @@
 
 * [Applicazioni con Angular e PHP, la guida](https://www.html.it/guide/applicazioni-con-angular-e-php-la-guida/) - Lorenzo De Ambrosis (HTML)
 * [Guida Angular 2](https://www.html.it/guide/guida-angularjs-2/) - Andrea Chiarelli (HTML)
-* [Guida di Angular 5](http://vbgraphic.altervista.org/warehouse/sites/default/files/downloads/Guida_Angular5_FabioGuerrazzi.pdf) - Fabio Guerrazzi (PDF)
 
 
 ### UML
 
-* [Appunti di UML](http://liuct.altervista.org/download/repository/ingsof/Appunti_UML.pdf) (PDF)
-* [Introduzione alla gestione del progetto software con UML](http://areaprofessional.com/documenti/D03_IntroGestioneProgettoSW.pdf) - G. Destri (PDF)
+* [Appunti di UML](https://web.archive.org/web/20110322065222/http://liuct.altervista.org/download/repository/ingsof/Appunti_UML.pdf) (PDF) *(:card_file_box: archived)*
 
 
 ### Visual Basic

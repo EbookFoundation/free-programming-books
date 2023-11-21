@@ -50,6 +50,7 @@
 * [Aprende de los expertos en The Dojo MX](https://www.youtube.com/playlist?list=PLfeFnTZNTVDO5UwcIvWherSLxuBuK6ve4) - Héctor Iván Patricio Moreno (screencast)
 * [Commit.fm](https://anchor.fm/khriztianmoreno) - Cristian Moreno (podcast) *(Última Actualización: Julio 2020)*
 * [Descargas de mi mente](https://www.ivoox.com/podcast-descargas-mi-mente_sq_f1584288_1.html) - Juan Ángel (podcast)
+* [DevTalles](https://open.spotify.com/show/0jrfxcnCrD7N9tlA0BGJp5) - Fernando Herrera (podcast)
 * [Domain-Driven Design](https://www.youtube.com/playlist?list=PLZVwXPbHD1KMsiA7ahRSbIwS3QMsQ0SbL) - Codely.TV (screencast)
 * [La Buhardilla Geek](https://www.ivoox.com/podcast-buhardilla-geek_sq_f1465450_1.html) - Juan Ángel Romero, Luis Miguel López (podcast)
 * [Maestría JS](https://anchor.fm/maestriajs) - Carlos Rojas (podcast) *(Última Actualización: Mayo 2020)*
@@ -58,6 +59,7 @@
 
 ### Software Libre
 
+* [Atareao con Linux](https://atareao.es/podcast) - Lorenzo Carbonell (podcast)
 * [Compilando Podcast](https://compilando.audio) - Paco Estrada (podcast)
 * [Mangocast](https://www.mangocast.net) - Lucho Benitez, Pablo Santa Cruz, Miguel Balsevich, Luis Corvalán, Rolando Natalizia (podcast)
 * [Podcast Linux](https://podcastlinux.com) - Juan Febles (podcast)
@@ -66,7 +68,7 @@
 ### Variados
 
 * [Code on the Rocks](http://codeontherocks.fm) - Jorge Barroso, Jorge Lería, Davide Mendolia (podcast)
-* [Codely.TV screencasts](https://codely.tv/blog/screencasts/) - Codely.TV (screencasts)
+* [Codely.TV screencasts](https://codely.com/blog/category/screencasts) - Codely.TV (screencasts)
 * [Cosas de Internet](https://cosasdeinternet.fm/episodios) - Santiago Espinosa, Laura Rojas Aponte (podcast)
 * [Día30](https://www.dia30.mx) - Víctor Velázquez, Mariana Ruiz (podcast)
 * [Digital. Innovation. Engineers.](https://anchor.fm/mimacom) - Mimacom (podcast)

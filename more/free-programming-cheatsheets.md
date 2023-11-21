@@ -516,7 +516,6 @@
 ### UI/UX
 
 * [Form Design Crib Sheet](https://www.smashingmagazine.com/files/wallpapers/images/form-crib-sheet/full_preview.png) - Joe Leech
-* [Introduction to UI and UX Design](https://www.codecademy.com/learn/intro-to-ui-ux/modules/ui-and-ux-design-introduction/cheatsheet) - Codecademy
 * [UI/UX Cheat Sheet](https://zerotomastery.io/cheatsheets/ui-ux-design-cheat-sheet/) - Zero To Mastery
 
 

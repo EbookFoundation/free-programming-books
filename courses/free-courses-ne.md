@@ -35,7 +35,6 @@
 * [Java Programming \| Tutorial \| Nepali](https://www.youtube.com/playlist?list=PLmZYUigljiyc-tf7oMmM-s832ibhGxTpT) - BigData IT
 
 
-
 ### JavaScript
 
 * [1 Month Long Free JavaScript Session.](https://www.youtube.com/playlist?list=PLckS_N3kOwFEpcaJ8FZ0dsEkmxg6NXd7A) - EverydayKarma 🇳🇵

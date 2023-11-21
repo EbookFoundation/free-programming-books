@@ -10,7 +10,6 @@
 * [Bash and Shell](#bash-and-shell)
 * [Blockchain](#blockchain)
 * [C](#c)
-* [Cloud Computing](#cloud-computing)
 * [C#](#csharp)
     * [ASP.NET](#asp.net)
 * [C++](#cpp)

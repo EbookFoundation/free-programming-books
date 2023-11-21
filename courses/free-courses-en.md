@@ -771,7 +771,7 @@
 
 ### Graph Theory
 
-* [Graph Theory](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2fXcfrTGZdPuTmv98bnFY5) - Graph Theory - Soumen Maity | IISER - NPTEL
+* [Graph Theory](https://www.youtube.com/playlist?list=PLZ6w_oR8t_Pw4P3t5be9WMhj1ISH7yFWI) - Soumen Maity (Graph Theory)
 * [Graph Theory](https://youtube.com/playlist?list=PLztBpqftvzxXBhbYxoaZJmnZF6AUQr1mH) - Wrath of Math
 * [Graph Theory - DM](https://youtube.com/playlist?list=PLYrahs7hsYIQiSNxTfZndQz7jWPXsA1ur) - SCCI Labs IIT Ropar
 * [Graph Theory Playlist](https://youtube.com/playlist?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P) - WilliamFiset

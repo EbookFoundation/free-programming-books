@@ -114,7 +114,6 @@
 ### Docker
 
 * [Belajar Docker untuk Pemula](https://www.youtube.com/playlist?list=PL4SGTPmSY0qkxCTe3Gd0wA-bQZChXhsNI) - Giri Kuncoro
-* [Belajar Membuat CI/CD Pipeline Aplikasi TypeScript dengan Gitlab + Docker](https://youtu.be/Sy_Uay0fxlg?si=lSKE6ux9nyfUC22X) - Iqbal Syamil
 * [Mengenal Container dan Docker Sampai Jago Dalam 2 Jam](https://www.youtube.com/watch?v=26O6Ke03j3Y) - Imre Nagi
 * [Pengembangan Microservice Dengan Docker Compose](https://www.youtube.com/watch?v=ALGVV5cGUtc) - Imre Nagi
 * [Tutorial Docker untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH-A7jBmdertzbeACuQWvQao) - Eko Kurniawan Khannedy, Programmer Zaman Now

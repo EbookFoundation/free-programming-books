@@ -29,7 +29,7 @@
 
 ### APL
 
-* [Découvrez le langage APL](https://www.youtube.com/watch?v=Nxq1BUUXobM&list=PLYKQVqyrAEj_DwkVAvj7xHxr72ite69nW) - Schraf : Maths-info
+* [Découvrez le langage APL](https://www.youtube.com/playlist?list=PLIz4PfDd5D29oOW61VkB4MHxGurtSCmhh) - Schraf : Maths-info
 
 
 ### Bash / Shell
@@ -79,8 +79,8 @@
 * [HTML/CSS - Exercices](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHEFVqv0pjGkPHv6PhWZQBb) - Formation Video
 * [HTML/CSS - Tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfG1_4HrfPttdwF8aLpgdsRL) - Formation Video
 * [Le préprocesseur SASS](https://www.youtube.com/playlist?list=PLjwdMgw5TTLWVp8WUGheSrGnmEWIMk9H6) - Grafikart
-* [Tutoriel CSS](http://fr.html.net/tutorials/css/)
-* [Tutoriel HTML](http://fr.html.net/tutorials/html/)
+* [Tutoriel CSS](http://fr.html.net/tutorials/css/) - `trl.:` Jean Jacques Solari
+* [Tutoriel HTML](http://fr.html.net/tutorials/html/) - `trl.:` Jean Jacques Solari
 * [TUTOS HTML et CSS](https://www.youtube.com/playlist?list=PLEagTQfI6nPObScwsDmTCbLuZXRYfiUM-) - PrimFX
 
 
@@ -116,7 +116,7 @@
 
 ### Linux
 
-* [Linux et Ubuntu - Administration Réseau](https://www.tutoriels-video.fr/category/ubuntu/) (Tutoriels Videos)
+* [Linux et Ubuntu - Administration Réseau](https://www.tutoriels-video.fr/category/ubuntu/) - Alexis Madrzejewski
 
 
 ### Python
@@ -133,7 +133,7 @@
 * [Apprendre Symfony 4 par l'exemple](https://www.youtube.com/playlist?list=PLjwdMgw5TTLX7wmorGgfrqI9TcA8nMb29) - Grafikart
 * [Cours complet de Pierre Giraud sur le développement PHP avec MySQL](https://www.pierre-giraud.com/php-mysql-apprendre-coder-cours/) - Pierre Giraud
 * [Tester sur Symfony](https://www.youtube.com/playlist?list=PLjwdMgw5TTLWtWmdMzPaoc45Iztu7tVQ8) - Grafikart
-* [Tutoriel HTML](http://fr.html.net/tutorials/php/)
+* [Tutoriel PHP](http://fr.html.net/tutorials/php/) - `trl.:` Jean Jacques Solari
 * [TUTOS PHP](https://www.youtube.com/playlist?list=PLEagTQfI6nPN2sdrLWhX_hO1pMOmC9JGU) - PrimFX
 
 
@@ -151,4 +151,4 @@
 
 ### SysAdmin
 
-* [Développement Web - Administration Réseau](https://www.tutoriels-video.fr/category/webdev/) (Tutoriels Videos)
+* [Développement Web - Administration Réseau](https://www.tutoriels-video.fr/category/webdev/) - Alexis Madrzejewski

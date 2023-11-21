@@ -175,6 +175,7 @@
 
 * [React JS In Telugu](https://www.youtube.com/watch?v=1r79Eqw6tfg) - Telugu Skillhub
 * [React JS In Telugu (Playlist)](https://www.youtube.com/playlist?list=PLWnZ0qt0PImVaDkDbF96dnRGO0_lXVLKf) - Telugu Skillhub
+* [React Js Tutorials in Telugu](https://www.youtube.com/playlist?list=PLzdWZT-ZJD0-806wl_diOtzcMS8SYTzq3) - CS World Telugu
 
 
 #### VueJS
@@ -221,4 +222,5 @@
 ### SQL
 
 * [SQL commands and PL/SQL programs complete in telugu - Oracle SQL-PL/SQL in telugu](https://www.youtube.com/watch?v=2XB5CddzEaM) - Edusoft Learning Systems - Learning Simplified
+* [SQL Tutorial for beginners in Telugu](https://www.youtube.com/playlist?list=PLANRDZaL1nlsfBLayvMb_y9k__o_8kt24) - Telugu Programmer
 * [Sql tutorials in telugu - sql video tutorials - sql tutorials for beginners telugu](https://www.youtube.com/playlist?list=PLXx2-0oYp1LPUXvjjriVMaMWALucsitR1) - VLR Training

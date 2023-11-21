@@ -41,6 +41,7 @@
 
 * [எளிய தமிழில் CSS](https://freetamilebooks.com/ebooks/learn-css-in-tamil/) - Kaniyam Foundation (PDF)
 * [எளிய தமிழில் HTML](https://freetamilebooks.com/htmlbooks/html-book/Learn-HTML-in-Tamil.html) = Th . Srinivasan (PDF)
+* [எளிய தமிழில் HTML](https://noolaham.net/project/51/5090/5090.pdf) - வே.நவமோகன் (PDF)
 
 
 ### IOT
@@ -51,6 +52,7 @@
 ### JavaScript
 
 * [எளிய தமிழில் JavaScript](https://freetamilebooks.com/ebooks/learn-javascript-in-tamil/) - து.நித்யா (PDF)
+* [துவக்க நிலையாளர்களுக்கான JavaScript உரைநிரல்](https://freetamilebooks.com/ebooks/javascript_for_beginner/) - ச. குப்பன் (PDF)
 
 
 ### Machine Learning

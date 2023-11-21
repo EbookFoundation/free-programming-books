@@ -129,7 +129,7 @@
 
 ### Data Science
 
-* [Data science basics](https://www.w3schools.com/datascience/)
+* [Data Science Tutorial](https://www.w3schools.com/datascience/)
 * [Data Science Foundations](https://skillsbuild.org/students/course-catalog/data-science) - IBM SkillBuild *(email address required)*
 * [Data Science Tutorial](https://www.w3schools.com/datascience/default.asp) - W3Schools
 * [Data Science Tutorial for Beginners](https://www.scaler.com/topics/data-science/) - Scaler Topics

@@ -195,9 +195,10 @@
 
 ### PHP
 
-* [PHP Programming Malayalam Tutorial for Beginners](https://www.youtube.com/watch?v=nFYWCouZ1UA) - Yes Tech Media
-* [php tutorial in malayalam](https://youtube.com/playlist?list=PLBKJGko2JEdH_T2ki6ty4xGV19qB7Hpmm) - Tintu Vlogger
 * [Learn PHP programming in malayalam](https://www.youtube.com/playlist?list=PL-Z1WBeTYPOoO9mJxVveZ1VgZPVXmyhFL) - Aks Programming
+* [PHP Programming Malayalam Tutorial for Beginners](https://www.youtube.com/watch?v=nFYWCouZ1UA) - Yes Tech Media
+* [PHP Programming Course Malayalam](https://www.youtube.com/playlist?list=PLefF9wgiOa4WeDSpmKb6gRS-UJKn2FRnN) - Nikin Sk
+* [php tutorial in malayalam](https://youtube.com/playlist?list=PLBKJGko2JEdH_T2ki6ty4xGV19qB7Hpmm) - Tintu Vlogger
 
 
 #### Laravel

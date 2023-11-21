@@ -2,6 +2,7 @@
 
 * [Algoritmalar](#algoritmalar)
 * [C#](#c-sharp)
+* [C++](#cpp)
 * [HTML and CSS](#html-and-css)
 * [IDE and editors](#ide-and-editors)
 * [Java](#java)
@@ -26,6 +27,11 @@
 * [C# Dersleri](https://www.youtube.com/playlist?list=PLqG356ExoxZU5keiJwuHDpXqULLffwRYD) - Engin Demiroğ
 * [C# Dersleri](https://www.youtube.com/playlist?list=PLKnjBHu2xXNPkeQtMOJczzEO6LK5OV35K) - Murat Yücedağ
 * [C# Dersleri \| Visual Studio 2022 ile C# Programlama \| C# Giriş](https://www.youtube.com/playlist?list=PLi1BmHvgBkxIYweLR52cRJnit4AEEugn4) - Yazılım Teknolojileri Akademisi
+
+
+### <a id='cpp'></a>C++
+
+* [C++ Dersleri](https://www.youtube.com/playlist?list=PLIHume2cwmHfmSmNlxXw1j9ZAKzYyiQAq) - Yazılım Bilimi
 
 
 ### HTML and CSS
@@ -87,3 +93,5 @@
 * [Git Giriş Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx4WAg9LPX_GKk7cKF7KBXOg) - Hakan Yalçınkaya \| Kodluyoruz
 * [Git, GitHub ve GitLab Kullanımı](https://www.youtube.com/playlist?list=PLPrHLaayVkhnNstGIzQcxxnj6VYvsHBHy) - Barış Aslan
 * [Git İleri Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx6PVwxJmcQ0Veg1uoXRxQY8) - Kodluyoruz
+* [Git/Github Sıfırdan Kapsamlı Eğitim Seti](https://www.youtube.com/playlist?list=PLld6WWpFK1nEhFvvYi5ts-_JoUL3wF3zz) - Bidoluyazılım
+

@@ -56,6 +56,7 @@
 * [Tensorflow](#tensorflow)
 * [Terraform](#terraform)
 * [TypeScript](#typescript)
+* [UI/UX](#uiux)
 * [Unit testing](#unit-testing)
 * [Webpack](#webpack)
 
@@ -509,6 +510,11 @@
 ### TypeScript
 
 * [TypeScript Cheat Sheet](https://rmolinamir.github.io/typescript-cheatsheet/) - Robert Molina (HTML)
+
+
+### UI/UX
+
+* [Form Design Crib Sheet](https://www.smashingmagazine.com/files/wallpapers/images/form-crib-sheet/full_preview.png) - Joe Leech
 
 
 ### Unit testing

@@ -272,7 +272,6 @@
 * [Try Python](https://trypython.jcubic.pl) - Jakub T. Jankiewicz
 
 
-
 ### R
 
 * [myCompiler](https://www.mycompiler.io/online-r-compiler)

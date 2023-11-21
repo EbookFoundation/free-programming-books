@@ -27,7 +27,6 @@
     * [AngularJS](#angularjs)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
-* [Multiple Clouds](#multiple-clouds)
 * [Multiple Languages](#multiple-languages)
 * [.Net](#dotnet)
 * [Nim](#nim)

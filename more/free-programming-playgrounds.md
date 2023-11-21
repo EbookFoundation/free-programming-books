@@ -260,6 +260,7 @@
 
 * [Codepad](http://codepad.org/?lang=Python)
 * [InterviewBit - Online Python Compiler IDE](https://www.interviewbit.com/online-python-compiler/)
+* [Online Python Compiler](https://www.tutorialspoint.com/online_python_compiler.php) - Tutorialspoint
 * [OnlineGDB](https://www.onlinegdb.com/online_python_compiler)
 * [Programiz.com](https://www.programiz.com/python-programming/online-compiler/)
 * [Pynative.com](https://pynative.com/online-python-code-editor-to-execute-python-code/)
@@ -269,7 +270,7 @@
 * [Repl.it - NiceDualPoint](https://repl.it/repls/NiceDualPoint#main.py)
 * [SoloLearn](https://code.sololearn.com/python)
 * [Try Python](https://trypython.jcubic.pl) - Jakub T. Jankiewicz
-* [Online Python Compiler](https://www.tutorialspoint.com/online_python_compiler.php) - Tutorialspoint
+
 
 
 ### R

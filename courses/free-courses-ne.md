@@ -41,8 +41,8 @@
 * [1 Month Long Free JavaScript Session.](https://www.youtube.com/playlist?list=PLckS_N3kOwFEpcaJ8FZ0dsEkmxg6NXd7A) - EverydayKarma 🇳🇵
 * [Java Programming - Tutorial - Nepali](https://www.youtube.com/playlist?list=PLmZYUigljiyc-tf7oMmM-s832ibhGxTpT) - BigData IT
 * [JavaScript](https://www.youtube.com/playlist?list=PLckS_N3kOwFH-GCqCd6i-vPo-Z75DcOnc) - EverydayKarma 🇳🇵
-* [JavaScript for Absolute Beginners (Nepali)](https://www.youtube.com/playlist?list=PLUYR0rHgTK0XygpL3f1-9srFNoxcJA7J8) - Programming with Rajan
 * [JavaScript for Absolute beginner in Nepali](https://www.youtube.com/playlist?list=PLXbNCt66dIJFk9gGB49ldr6XpzLLhpt-V) - Code with Bhurtel
+* [JavaScript for Absolute Beginners (Nepali)](https://www.youtube.com/playlist?list=PLUYR0rHgTK0XygpL3f1-9srFNoxcJA7J8) - Programming with Rajan
 
 
 #### Node.js

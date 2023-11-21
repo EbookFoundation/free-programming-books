@@ -141,7 +141,7 @@
 #### Next.JS
 
 * [Next.js Material UI Malayalam Tutorial](https://www.youtube.com/playlist?list=PL5Y_OOpi0rh0VAfV9Lz7gTdxhPTkmNxeC) -  Tutorial Hut
-* [Next JS 13 - 2023 Malayalam Tutorial For Beginners](https://www.youtube.com/watch?v=MIIsaNyQRak&list=PLCOzHVsG8mkoY7JQC44AkhsIQnN_f_-aS) -  Web diary
+* [Next JS For Beginners](https://www.youtube.com/playlist?list=PLCOzHVsG8mkoY7JQC44AkhsIQnN_f_-aS) -  Web diary
 
 
 #### Node.js

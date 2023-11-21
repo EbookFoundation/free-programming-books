@@ -10,11 +10,11 @@
 * [Java](#java)
     * [Spring](#spring)
 * [JavaScript](#javascript)
+    * [Node.js](#nodejs)
+    * [React.js](#reactjs)
 * [.NET](#net)
-* [Node.js](#nodejs)
 * [PHP](#php)
 * [QA](#qa)
-* [React.js](#reactjs)
 * [Ruby](#ruby)
 * [Webpack](#webpack)
 
@@ -95,16 +95,22 @@
 * [Webstandards](https://soundcloud.com/web-standards) (Podcast)
 
 
+#### Node.js
+
+* [Скринкаст Node.JS](https://learn.javascript.ru/screencast/nodejs) - Илья Кантор (Screencast)
+
+
+#### React.js
+
+* [Основы React.js](http://learn.javascript.ru/screencast/react) - Роман Якобчук (Screencast)
+* [Пятиминутка React](http://5minreact.ru) (Podcast)
+
+
 ### .NET
 
 * [DotNet & More](https://more.dotnet.ru) - Александр Кугушев и Артём Акуляков (Podcast)
 * [RadioDotNet](https://radio.dotnet.ru) - Анатолий Кулаков и Игорь Лабутин (Podcast)
 * [Solo on .NET](https://youtube.com/playlist?list=PLAFX7TSEV7SOqEQKnrrFiV7bUY8kN5Qof) - Дмитрий Нестерук (Podcast)
-
-
-### Node.js
-
-* [Скринкаст Node.JS](https://learn.javascript.ru/screencast/nodejs) - Илья Кантор (Screencast)
 
 
 ### PHP
@@ -116,12 +122,6 @@
 
 * [Подкаст тестировщиков](http://radio-qa.com) (Podcast)
 * [QAGuild](https://automation-remarks.com/tags/QAGuild.html) (Podcast)
-
-
-### React.js
-
-* [Основы React.js](http://learn.javascript.ru/screencast/react) - Роман Якобчук (Screencast)
-* [Пятиминутка React](http://5minreact.ru) (Podcast)
 
 
 ### Ruby

@@ -46,8 +46,8 @@
 
 ### JavaScript
 
-* [হাতেকলমে জাভাস্ক্রিপ্ট: সম্পূর্ণ বাংলায় হাতেকলমে জাভাস্ক্রিপ্ট শিখুন](https://zonayed.js.org) - Zonayed Ahmed (HTML)
 * [জাভাস্ক্রিপ্ট ল্যাঙ্গুয়েজের এর ব্যাসিক, অ্যাডভান্স](https://js.howtocode.dev) - Nuhil Mehdi (howtocode.dev)
+* [হাতেকলমে জাভাস্ক্রিপ্ট: সম্পূর্ণ বাংলায় হাতেকলমে জাভাস্ক্রিপ্ট শিখুন](https://zonayed.js.org) - Zonayed Ahmed (HTML)
 
 
 ### Machine Learning
@@ -66,8 +66,8 @@
 
 ### Python
 
-* [বাংলায় পাইথন](https://python.howtocode.dev) - Nuhil Mehdy
 * [পাইথন প্রোগ্রামিং বই](http://pybook.subeen.com) - Tamim Shahriar Subeen
+* [বাংলায় পাইথন](https://python.howtocode.dev) - Nuhil Mehdy
 * [সহজ ভাষায় পাইথন ৩](https://python.maateen.me) - Maksudur Rahman Maateen
 * [হুকুশ পাকুশের প্রোগ্রামিং শিক্ষা](https://hukush-pakush.com) - Ikram Mahmud (HTML)
 

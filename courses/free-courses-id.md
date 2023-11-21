@@ -145,7 +145,7 @@
 * [Belajar GIT (Source Code Management)](https://www.youtube.com/playlist?list=PL8bBYpHH3RI6BlCzFTMQvt7sGSycUj7S-) - Eka Putra, UpKoding
 * [GIT & GITHUB](https://www.youtube.com/playlist?list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf) - Sandhika Galih, Web Programming UNPAS
 * [Git Tutorial - Bahasa Indonesia](https://www.youtube.com/playlist?list=PL-CtdCApEFH_lYGV8hxqjtKmFA_xeLupq) - Eko Kurniawan Khannedy, Programmer Zaman Now
-* [Git Untuk Pemula](https://youtu.be/DV410I_xcTw?si=IU-5Fm6F3CBzyqke) - Dea Afrizal
+* [ALL Basic Pemul](https://www.youtube.com/playlist?list=PLc6SEcJkQ6DxurcQDUkY_t8cIgXya5Blj) - Dea Afrizal
 * [Jago Git Dalam 2 Jam](https://www.youtube.com/watch?v=KGSfUgaiVNI) - Imre Nagi
 * [Source Code Management untuk Pemula](https://www.dicoding.com/academies/116) - Dicoding, membutuhkan registrasi
 * [Tutorial GIT Bahasa Indonesia Lengkap](https://www.youtube.com/playlist?list=PL1aMeb5UP_PHXTV_Xpt-19x_rVPXrymOM) - IDStack

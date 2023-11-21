@@ -59,4 +59,3 @@
 
 * [Php \| Hindi](https://www.learnhindituts.com/php) - LearnHindiTuts.com
 * [Php Hindi Tutorial \| Hindi](http://tutorialsroot.com/php/index.html) - TutorialsRoot.com
-

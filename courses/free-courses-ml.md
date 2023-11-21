@@ -208,11 +208,11 @@
 
 ### Python
 
+* [OpenCV-Python Computer Vision](https://www.youtube.com/playlist?list=PL1JrLEBAapUWeV2O_wVIrX4BdWvJpepz7) - Yes Tech Media
 * [Python](https://www.youtube.com/playlist?list=PLwe8bwPXjlLveEHvTbKMXJOPkFdXnu4xi) - Learn CSE Malayalam
+* [Python Numpy Malayalam Tutorial](https://www.youtube.com/playlist?list=PL1JrLEBAapUVkjt4Q1R_ZFFRT_80WBCyx) - Yes Tech Media
 * [Python Programming Malayalam Tutorial](https://www.youtube.com/watch?v=ihnWXGPxNEk) - Yes Tech Media
 * [Python Tutorial Malayalam \| Best Malayalam Python Programming Tutorial](https://youtube.com/playlist?list=PLY-ecO2csVHfbpOmWamlb8Mujjdnl1jks) - Brototype Malayalam 
-* [Python Numpy Malayalam Tutorial](https://www.youtube.com/playlist?list=PL1JrLEBAapUVkjt4Q1R_ZFFRT_80WBCyx) - Yes Tech Media
-* [OpenCV-Python Computer Vision](https://www.youtube.com/playlist?list=PL1JrLEBAapUWeV2O_wVIrX4BdWvJpepz7) - Yes Tech Media
 
 
 #### Django

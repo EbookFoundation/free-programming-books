@@ -516,7 +516,6 @@
 ### UI/UX
 
 * [Form Design Crib Sheet](https://www.smashingmagazine.com/files/wallpapers/images/form-crib-sheet/full_preview.png) - Joe Leech
-* [UI/UX Cheat Sheet](https://zerotomastery.io/cheatsheets/ui-ux-design-cheat-sheet/) - Zero To Mastery
 
 
 ### Unit testing

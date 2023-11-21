@@ -65,6 +65,7 @@
 * [Rust](#rust)
 * [Security](#security)
 * [Software Engineering](#software-engineering)
+* [Solidity](#solidity)
 * [Swift](#swift)
 * [System Design](#system-design)
 * [TypeScript](#typescript)
@@ -180,6 +181,7 @@
 
 ### <a id="csharp"></a>C\#
 
+* [Basic C# Programming Tutorials](https://www.youtube.com/playlist?list=PLCqWuVe6WFLLmMTO44hpYKnptJ6765skH) -  Sunny Games & Technology
 * [C# Programming language (Console Applications)](https://www.youtube.com/playlist?list=PLX07l0qxoHFLZftsVKyj3k9kfMca2uaPR) - Learning Never Ends 
 * [C# Tutorial In Hindi](https://www.youtube.com/watch?v=SuLiu5AK9Ps) - CodeWithHarry
 * [C# Tutorial in Hindi for Beginners](https://www.youtube.com/playlist?list=PLV8vIYTIdSnYTYr0bmIbfzYii0YQSPocB) - Easy Engineering Classes
@@ -728,6 +730,11 @@
 * [Software Engineering Lectures](https://youtube.com/playlist?list=PLV8vIYTIdSnat3WCO9jfehtZyjnxb74wm) - Easy Engineering Classes
 
 
+### Solidity
+
+* [Solidity Full Course](https://www.youtube.com/playlist?list=PLgPmWS2dQHW9u6IXZq5t5GMQTpW7JL33i) - Code Eater
+
+
 ### Swift
 
 * [Swift Programming For Beginners In Hindi](https://www.youtube.com/playlist?list=PL3IxLTWfZ7Y1zM3EejYkcq4I86K3eloCb) - BuildWithShubham
@@ -760,3 +767,4 @@
 * [Wordpress Tutorial for Beginners \| Wordpress Tutorials in Hindi - The Complete Guide For Beginners](https://www.youtube.com/playlist?list=PLjVLYmrlmjGfC44WZSTvlsZFzxnQsysJb) - WsCube Tech
 * [Wordpress tutorials in hindi](https://www.youtube.com/playlist?list=PLlUrVpujUh3_PnBb1B-YOSP_oUqBL4gsh) - hindidevtuts
 * [WordPress Tutorials in Hindi](https://www.youtube.com/playlist?list=PLjpp5kBQLNTTEggPfaWMAL_yv7FYiBClc) - Tech Gun
+

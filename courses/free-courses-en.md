@@ -51,6 +51,7 @@
 * [JavaScript](#javascript)
     * [Angular](#angular)
         * [AngularJS](#angularjs)
+    * [Astro](#astro)
     * [D3.js](#d3js)
     * [Deno](#deno)
     * [Electron](#electron)
@@ -335,6 +336,7 @@
 * [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0) - Mike Dane (freeCodeCamp)
 * [C Programming Tutorial for Beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7oBxHp43xQTFrw9f1CDPR6C) - Telusko
 * [C Programming Tutorials for Beginners (Complete Series)](https://www.youtube.com/playlist?list=PLS1QulWo1RIZlA5oGczk8kY7Eenytc33s) - ProgrammingKnowledge
+* [C Programming Tutorials for Beginners (with notes & practice questions)](https://www.youtube.com/watch?v=irqbmMNs2Bo) - Apna College
 * [C tutorial for beginners](https://www.youtube.com/playlist?list=PLZPZq0r_RZOOzY_vR4zJM32SqsSInGMwe) - Bro Code
 * [Learn C Programming](https://www.programiz.com/c-programming) - Programiz (HTML)
 * [Programming in C](https://www.youtube.com/playlist?list=PLdo5W4Nhv31a8UcMN9-35ghv8qyFWD9_S) - Jenny's lectures CS/IT NET&JRF
@@ -779,6 +781,7 @@
 ### Graph Theory
 
 * [Graph Theory](https://youtube.com/playlist?list=PLztBpqftvzxXBhbYxoaZJmnZF6AUQr1mH) - Wrath of Math
+* [Graph Theory](https://nptel.ac.in/courses/111106102) - Prof. Soumen Maity (NPTEL)
 * [Graph Theory - DM](https://youtube.com/playlist?list=PLYrahs7hsYIQiSNxTfZndQz7jWPXsA1ur) - SCCI Labs IIT Ropar
 * [Graph Theory Playlist](https://youtube.com/playlist?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P) - WilliamFiset
 
@@ -998,6 +1001,13 @@
 * [Egghead.io - AngularJS](https://www.youtube.com/playlist?list=PLP6DbQBkn9ymGQh2qpk9ImLHdSH5T7yw7) - John Lindquist
 * [Learn AngularJS 1.X](https://www.codecademy.com/learn/learn-angularjs) - Codecademy (Codecademy account *required*)
 * [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js) - Codeschool (Codeschool account *required*)
+
+
+### Astro
+
+* [Astro Blog Course](https://www.youtube.com/playlist?list=PLoqZcxvpWzzeRwF8TEpXHtO7KYY6cNJeF) - Coding in Public
+* [Astro Crash Course](https://www.youtube.com/watch?v=Oi9z5gfIHJs) - Traversy Media
+* [Astro Web Framework Crash Course](https://www.youtube.com/watch?v=e-hTm5VmofI) - freeCodeCamp
 
 
 #### D3.js

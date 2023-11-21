@@ -400,7 +400,7 @@
 ### PyTorch
 
 * [PyTorch untuk Pemula](https://www.youtube.com/playlist?list=PLl-Zj2iuqlwvMCvaX_4POywGiw4TFuHp1) - NgodingPython
-* [S5E1 | Intuisi Neural Network dan PyTorch Introduction | Deep Learning Fundamentals](https://www.youtube.com/watch?v=umEq2uUwrGE&pp=ygUPYmVsYWphciBweXRvcmNo) - JCOp Untuk Indonesia
+* [Course 5 \| Pengantar Deep Learning \| Tutorial Bahasa Indonesia](https://www.youtube.com/playlist?list=PLGn1wRmlR3Mtz5i4k4qyd5qQjOtm9JSC6) - JCOp Untuk Indonesia
 
 
 ### Redis

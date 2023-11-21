@@ -259,7 +259,7 @@
 * [AI Fundamentals](https://www.udacity.com/course/ai-fundamentals--ud099) - Microsoft Azure (Udacity)
 * [Aml-2018 Ambient Intelligence](https://www.youtube.com/playlist?list=PLqRTLlwsxDL8fUcY2Y54sITILyJcTySpC) - Fulvio Corno, Luigi De Russis, Alberto Monge Roffarello @ Politecnico di Torino
 * [Artificial Intelligence on Google Cloud Platform](https://www.youtube.com/playlist?list=PL3N9eeOlCrP6Nhv4UFp67IsQ_TVDpXqXK) - Srivatsan Srinivasan @ AIEngineering
-* [Artificial Intelligence Search Methods For Problem Solving](https://youtube.com/playlist?list=PLbMVogVj5nJSFZoiF6RDqyz_m6Srjx_MY) - nptelhrd
+* [Artificial Intelligence Search Methods For Problem-Solving](https://youtube.com/playlist?list=PLbMVogVj5nJSFZoiF6RDqyz_m6Srjx_MY) - nptelhrd
 * [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/) - Brian Yu, David J. Malan (Harvard OpenCourseWare and edX)
 * [Elements of AI](https://www.elementsofai.com) - University of Helsinki, Reaktor
 * [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer) - Romeo Kienzler, Saeed Aghabozorgi, Joseph Santarcangelo, Alex Aklson et al. (Coursera)
@@ -382,7 +382,7 @@
 * [C++ Tutorial for Complete Beginners](https://www.udemy.com/course/free-learn-c-tutorial-beginners/) - John Purcell (Udemy)
 * [C++ Tutorials](https://www.youtube.com/playlist?list=PL_c9BZzLwBRJVJsIfe97ey45V4LP_HXiG) - Caleb Curry
 * [Google's C++ Course](https://developers.google.com/edu/c++/)
-* [Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) (MIT's opencourseware)
+* [Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) (MIT's OpenCourseWare)
 * [Introduction to C++](https://www.edx.org/course/introduction-to-c-3) - Microsoft (edX) (:card_file_box: *archived*)
 * [Introduction to Programming through C++](https://youtube.com/playlist?list=PLEAYkSg4uSQ2qzihjdDEseWrrY1DyxH9P&si=itDYt3Yo9wn2XarO) - NPTEL
 * [Learn C++ With Me](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lmGC8VW0iu6qfMHjy7gLQ3) - Tech With Tim

@@ -1,5 +1,6 @@
 ### Index
 
+* [Algorithms](#algorithms)
 * [APL](#apl)
 * [Assembly](#assembly)
 * [Bash](#bash)
@@ -51,6 +52,12 @@
     * [Angular](#angular)
 * [V](#v)
 * [Vim](#vim)
+
+
+### Algorithms
+
+* [Data Structures Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - David Galles
+* [The Algorithm Visualizer](https://algorithm-visualizer.org)
 
 
 ### APL

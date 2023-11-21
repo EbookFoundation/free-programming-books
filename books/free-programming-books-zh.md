@@ -327,7 +327,7 @@
 * [100个gcc小技巧](https://github.com/hellogcc/100-gcc-tips/blob/master/src/index.md)
 * [100个gdb小技巧](https://github.com/hellogcc/100-gdb-tips/blob/master/src/index.md)
 * [简单易懂的C魔法](https://web.archive.org/web/20210413213859/http://www.nowamagic.net/librarys/books/contents/c) *(:card_file_box: archived)*
-* [現代 C++ 101](https://hackmd.io/@Luminous-Coder/CppTutorial-zh-tw) - Luminous-Coder (:construction: *in process*)
+* [現代 C++ 101](https://hackmd.io/@lumynou5/CppTutorial-zh-tw) - Lumynous (:construction: *in process*)
 * [像计算机科学家一样思考（C++版)](http://www.ituring.com.cn/book/1203) (《How To Think Like a Computer Scientist: C++ Version》中文版)
 * [C 语言编程透视](https://tinylab.gitbooks.io/cbook/content/)
 * [C/C++ Primer](https://github.com/andycai/cprimer) - andycai
@@ -393,7 +393,7 @@
 * [Go 语言设计与实现](https://draveness.me/golang) - draveness
 * [Go 语言实战笔记](https://github.com/rujews/go-in-action-notes)
 * [Go 指南](https://tour.go-zh.org/list) (《A Tour of Go》中文版)
-* [Go Web 编程](https://github.com/astaxie/build-web-application-with-golang)
+* [Go Web 编程](https://astaxie.gitbooks.io/build-web-application-with-golang/content/zh/) - astaxie
 * [Go实战开发](https://github.com/astaxie/go-best-practice)
 * [Go语言博客实践](https://github.com/achun/Go-Blog-In-Action)
 * [Java程序员的Golang入门指南](http://blog.csdn.net/dc_726/article/details/46565241)
@@ -467,7 +467,6 @@
 
 * [命名函数表达式探秘](http://justjavac.com/named-function-expressions-demystified.html) - kangax、为之漫笔(翻译) (原始地址无法打开，所以此处地址为justjavac博客上的备份)
 * [你不知道的JavaScript](https://github.com/getify/You-Dont-Know-JS/tree/1ed-zh-CN)
-* [深入理解JavaScript系列](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)
 * [现代 JavaScript 教程](https://zh.javascript.info) - Ilya Kantor
 * [学用 JavaScript 设计模式](http://www.oschina.net/translate/learning-javascript-design-patterns) - 开源中国
 * [Airbnb JavaScript 规范](https://github.com/adamlu/javascript-style-guide)
@@ -476,11 +475,9 @@
 * [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com)
 * [javascript 的 12 个怪癖](https://github.com/justjavac/12-javascript-quirks)
 * [JavaScript 教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1022910821149312)
-* [JavaScript 秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)
 * [《JavaScript 模式》](https://github.com/jayli/javascript-patterns) (《JavaScript patterns》译本)
 * [JavaScript 原理](https://web.archive.org/web/20170112164945/http://typeof.net/s/jsmech/)
 * [JavaScript Promise迷你书](http://liubin.github.io/promises-book/)
-* [JavaScript编程指南](http://pij.robinqu.me) ([源码](https://github.com/RobinQu/Programing-In-Javascript))
 
 
 #### AngularJS
@@ -504,7 +501,6 @@
 
 * [楚狂人的D3教程](http://www.cnblogs.com/winleisure/tag/D3.js/)
 * [官方API文档](https://github.com/mbostock/d3/wiki/API--%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C)
-* [张天旭的D3教程](http://blog.csdn.net/zhang__tianxu/article/category/1623437)
 * [Learning D3.JS](http://d3.decembercafe.org) - 十二月咖啡馆
 
 

@@ -429,7 +429,7 @@
 
 ### Terraform
 
-* [Belajar Terraform untuk membuat infrastuktur menggunakan kode | DevOps 101
+* [DevOps 101](https://www.youtube.com/playlist?list=PLvhu7dkzS_I3T1WlDMJjS85L4In-WYLN_) - Iqbal Syamil
 ](https://youtu.be/RnesFzJamgs?si=SIIIoaVoDm_1Qpgh) - Iqbal Syamil
 * [Belajar Terraform untuk Pemula](https://www.youtube.com/playlist?list=PL4SGTPmSY0qngs44Ssc0RHO9h4fmZ9JUb) - Giri Kuncoro
 

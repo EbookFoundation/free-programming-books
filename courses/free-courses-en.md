@@ -737,7 +737,7 @@
 
 ### Git
 
-* [A Collaborate with others with Markdown and GitHub Pages](https://learn.microsoft.com/en-us/training/paths/collaborate-markdown-github-pages/) - Microsoft Learn
+* [Collaborate with others with Markdown and GitHub Pages](https://learn.microsoft.com/en-us/training/paths/collaborate-markdown-github-pages/) - Microsoft Learn
 * [Bento Git Learning Track](https://bento.io/topic/git) (Bento)
 * [Bento GitHub Learning Track](https://bento.io/topic/github) (Bento)
 * [Complete Git and GitHub Tutorial](https://www.youtube.com/watch?v=apGV9Kg7ics) - Kunal Kushwaha

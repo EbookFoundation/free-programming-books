@@ -1580,6 +1580,7 @@
 
 ### Security
 
+* [@TJ_Null’s OSCP Prep](https://youtube.com/playlist?list=PLidcsTyj9JXK-fnabFLVEvHinQ14Jy5tf) - IppSec
 * [Computer Systems Security](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014) - Nickolai Zeldovich (MIT OpenCourseWare)
 * [Ethical Hacking](https://www.youtube.com/playlist?list=PLDV15dUauYyOcloXu7GXHJ6Xxq5XTBg1k) - Cyber Square
 * [Ethical Hacking](https://www.hacker101.com/videos) - Hacker101

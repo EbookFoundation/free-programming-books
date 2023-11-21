@@ -38,6 +38,7 @@
 * [Raspberry Pi](#raspberry-pi)
 * [React Native](#react-native)
 * [Ruby](#ruby)
+* [Rust](#rust)
 * [Sass](#sass)
 * [Segurança da Informação](#segurança-da-informação)
 * [SEO](#seo)
@@ -113,8 +114,8 @@
 
 ### Elixir
 
-* [Curso de Elixir](https://www.youtube.com/playlist?list=PLydk1OOOmzo8VBeU334j4R4WvSByRNpXR) - ELLY ACADEMY
 * [Curso de Elixir Alquimia](https://www.youtube.com/playlist?list=PLv3nyCBtlWP8I9rknIrfcJWrO05yEzknD) - Alquimia Stone
+* [Elixir (Linguagem de Programação)](https://www.youtube.com/playlist?list=PLydk1OOOmzo-AtU2l102ooounamleyMB9) - Elly Academy
 
 
 ### Flutter
@@ -370,6 +371,11 @@
 * [Ruby Para Iniciantes](https://www.udemy.com/ruby-para-iniciantes/) - Bruno Paulino (Udemy)
 * [Ruby Puro](https://onebitcode.com/course/ruby-puro/) - One Bit Code (Site One Bit Code)
 * [Tutorial Rails Girls](http://guides.railsgirls.com/guides-ptbr/)
+
+
+### Rust
+
+* [Programando do 0 ao avançado na linguagem de programação Rust](https://www.youtube.com/playlist?list=PLWmXJQDlXOHX6UdAmXv6euoqDPUtMLpJf) - Lanby 0xff3 λ
 
 
 ### Sass

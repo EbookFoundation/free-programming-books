@@ -70,7 +70,7 @@
 ### Lego Mindstorms
 
 * [A MINDSTORMS EV3 robotok programozásának alapjai](https://hdidakt.hu/wp-content/uploads/2016/01/dw_74.pdf) - Kiss Róbert (PDF)
-* [Egyszerű robotika, A Mindstorms NXT robotok programozásának alapjai](http://www.banyai-kkt.sulinet.hu/robotika/Segedanyag/Egyszeru_robotika.pdf) - Kiss Róbert, Badó Zsolt (PDF)
+* [Egyszerű robotika, A Mindstorms NXT robotok programozásának alapjai](https://web.archive.org/web/20160607074029/http://www.banyai-kkt.sulinet.hu/robotika/Segedanyag/Egyszeru_robotika.pdf) - Kiss Róbert, Badó Zsolt (PDF) *(:card_file_box: archived)*
 
 
 ### Lisp
@@ -87,7 +87,7 @@
 ### .NET
 
 * [C#](http://mek.oszk.hu/10300/10384/index.phtml) - Reiter István (PDF)
-* [C# programozás lépésről lépésre](http://devportal.hu) - Reiter István (PDF)
+* [C# programozás lépésről lépésre](https://reiteristvan.files.wordpress.com/2018/01/reiter-istvc3a1n-c-programozc3a1s-lc3a9pc3a9src591l-lc3a9pc3a9sre.pdf) - Reiter István (PDF)
 * [Honlapépítés a XXI. században](http://mek.oszk.hu/10300/10392/index.phtml) - A WebMatrix csapat, Balássy György (PDF)
 * [Silverlight 4](http://mek.oszk.hu/10300/10382/index.phtml) - Árvai Zoltán, Csala Péter, Fár Attila Gergő, Kopacz Botond, Reiter István, Tóth László (PDF)
 

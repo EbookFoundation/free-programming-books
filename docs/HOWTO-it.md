@@ -31,4 +31,4 @@ Non esitare a fare domande; ogni collaboratore ha iniziato con una prima PR. Qui
 
 Anche se sei un collaboratore esperto in ambito open source, queste sono cose che potrebbero crearti dei problemi. Una volta che hai inviato la tua PR, ***GitHub Actions* avvierà un *linter*, spesso trovando piccoli problemi di spaziatura o di ordinamento alfabetico**. Se ottieni una spunta verde, tutto è pronto per una revisione, in caso contrario così clicca su "Details" sotto il check fallito, analizza l'errore e aggiungi un commit risolutivo alla PR.
 
-In fine, se non sei sicuro che la risorsa che vuoi aggiungere sia appropriata a `Free-Programming-Books`, leggi le linee guida su [CONTRIBUTING](CONTRIBUTING-it.md) ([tradotto anche in altre lingua](README.md#translations)).
+In fine, se non sei sicuro che la risorsa che vuoi aggiungere sia appropriata a `Free-Programming-Books`, leggi le linee guida su [CONTRIBUTING](CONTRIBUTING-it.md) ([tradotto anche in altre lingue](README.md#translations)).

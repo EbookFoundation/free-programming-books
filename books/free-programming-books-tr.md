@@ -6,16 +6,16 @@
 * [C++](#cpp)
 * [D](#d)
 * [Dart](#dart)
+* [Fortran](#fortran)
 * [Git](#git)
 * [Go](#go)
 * [Güvenlik ve Gizlilik](#guvenlik-ve-gizlilik)
+* [Haskell](#haskell)
 * [HTML and CSS](#html-and-css)
 * [iOS](#ios)
 * [Java](#java)
-* [JavaScript](#javascript)
 * [LaTeX](#latex)
 * [Linux](#linux)
-* [Matlab](#matlab)
 * [.NET Framework](#net-framework)
 * [Python](#python)
     * [Django](#django)
@@ -60,20 +60,32 @@
 * [Dart - Merhaba Dünya](https://www.dartogreniyorum.blogspot.com.tr/2013/03/yeniden-dart.html?view=sidebar)
 
 
+### Fortran
+
+* [Fortran Programlama Diline Giriş](http://dosyalar.ersoykardesler.net/yayinlar/Fortran_Programlama_Diline_Giris.pdf) (PDF)
+
+
 ### Git
 
 * [git - basit rehber](https://rogerdudler.github.io/git-guide/index.tr.html) - Roger Dudler (HTML)
 * [Git 101](https://aliozgur.gitbooks.io/git101/) - Ali Özgür (GitBook)
+* [Git ve Github Rehberi](https://github.com/mkdemir/Git_ve_Github_Rehberi) - Mustafa Kaan Demir
 
 
 ### Go
 
 * [Go El Kitabı](https://www.github.com/umutphp/the-little-go-book) - Karl Seguin, `trl.:` Umut Işık tarafından çevirildi ([HTML](https://github.com/umutphp/the-little-go-book/blob/master/tr/go.md), [PDF](https://github.com/umutphp/the-little-go-book/releases/download/v07/the-little-go-book-tr.pdf), [EPUB](https://github.com/umutphp/the-little-go-book/releases/download/v07/the-little-go-book-tr.epub))
+* [Türkçe Go Eğitimi](https://github.com/Furkan-Gulsen/turkce-go-egitimi) - Muhammed Furkan Gülşen
 
 
 ### Güvenlik ve Gizlilik
 
 * [Özgür Yazılım Derneği Güvenlik Rehberi](https://guvenlik.oyd.org.tr) - Filiz Akin, et al.
+
+
+### Haskell
+
+* [Zor Yoldan Haskell](https://github.com/joom/zor-yoldan-haskell) - Yann Esposito,  `trl.:` Joomy Korkut
 
 
 ### HTML and CSS
@@ -97,11 +109,6 @@
 * [Java Kitabı](https://ia601503.us.archive.org/27/items/java-kitabi/java-kitabi.pdf) (PDF)
 
 
-### JavaScript
-
-* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/tr)
-
-
 ### LaTeX
 
 * [İnce bir LaTeX2ε Elkitabı](http://www.ctan.org/tex-archive/info/lshort/turkish)
@@ -115,11 +122,6 @@
 * [Linux Sistem Yöneticisinin Kılavuzu](http://www.belgeler.org/sag/sag.html)
 
 
-### Matlab
-
-* [Matlab Programlamaya Giris](https://web.archive.org/web/20210727221605/https://ismailari.com/blog/matlab-programlamaya-giris/) - İsmail Arı *(:card_file_box: archived)*
-
-
 ### .NET Framework
 
 * [ASP.NET Core El Kitabı](https://sahin.gitbook.io/asp-net-core-el-kitab)
@@ -127,11 +129,10 @@
 
 ### Python
 
-* [Bilgisayar Bilimcisi Gibi Düşünmek-Python3 ile Öğrenme](https://www.ofenerci.github.io/thinkcspy-tr) - Peter Wentworth, Jeffrey Elkner, Allen B. Downey ve Chris Meyers
 * [Python Programlama Dili](https://python-istihza.yazbel.com) - YazBel Yazılım Belgelendirme Projesi - Python 3
 
 
-### Django
+#### Django
 
 * [Django](https://web.archive.org/web/20210302105925/https://www.pythondersleri.com/p/django-egitim-serisi.html) - Python Dersleri *(:card_file_box: archived)*
 * [Django Egitimi](https://web.archive.org/web/20210802025720/https://gokmengorgen.net/django-notes/) *(:card_file_box: archived)*

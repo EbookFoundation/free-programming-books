@@ -5,11 +5,11 @@
     * [Algoritmos y Estructuras de Datos](#algoritmos-y-estructuras-de-datos)
     * [Base de Datos](#base-de-datos)
     * [Ciencia Computacional](#ciencia-computacional)
+    * [Inteligencia Artificial](#inteligencia-artificial)
     * [Metodologías de Desarrollo de Software](#metodolog&#x00ED;as-de-desarrollo-de-software)
     * [Misceláneos](#miscel&#x00E1;neos)
     * [Sistemas Operativos](#sistemas-operativos)
 * [Android](#android)
-* [C](#c)
 * [C++](#cpp)
 * [Ensamblador](#ensamblador)
 * [Erlang](#erlang)
@@ -24,12 +24,14 @@
     * [jQuery](#jquery)
     * [node.js](#nodejs)
     * [React](#react)
+* [Kotlin](#kotlin)
 * [LaTeX](#latex)
 * [Linux](#linux)
 * [Lisp](#lisp)
 * [Matemáticas](#matem%C3%A1ticas)
 * [.NET (C# Visual Studio)](#net-c--visual-studio)
 * [NoSQL](#nosql)
+    * [DynamoDB](#dynamodb)
     * [MongoDB](#mongodb)
     * [Redis](#redis)
 * [Perl](#perl)
@@ -68,14 +70,13 @@
 #### Algoritmos y Estructuras de Datos
 
 * [Algoritmos y Programación (Guía para docentes)](http://www.eduteka.org/pdfdir/AlgoritmosProgramacion.pdf) - Juan Carlos López García (PDF)
-* [Análisis, Diseño e Implantación de Algoritmos](http://fcasua.contad.unam.mx/apuntes/interiores/docs/20181/informatica/1/LI_1164_06097_A_Analisis_Diseno_Implantacion_Algoritmos_Plan2016.pdf) - Universidad Nacional Autónoma de México, Dr. Juan Alberto Adam Siade, Gilberto Manzano Peñaloza, René Montesano Brand, Luis Fernando Zúñiga López, et al. (PDF)
+* [Análisis, Diseño e Implantación de Algoritmos](http://fcasua.contad.unam.mx/apuntes/interiores/docs/20181/informatica/1/LI_1164_06097_A_Analisis_Diseno_Implantacion_Algoritmos_Plan2016.pdf) - Universidad Nacional Autónoma de México, Juan Alberto Adam Siade, Gilberto Manzano Peñaloza, René Montesano Brand, Luis Fernando Zúñiga López, et al. (PDF)
 * [Apuntes de Algoritmos y Estructuras de Datos](https://openlibra.com/en/book/download/apuntes-de-algoritmos-y-estructuras-de-datos) - Alejandro Santos (PDF)
 * [Breves Notas sobre Análisis de Algoritmos](https://lya.fciencias.unam.mx/jloa/publicaciones/analisisdeAlgoritmos.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF)
 * [Fundamentos de Informática y Programación](https://informatica.uv.es/docencia/fguia/TI/Libro/Libro_Fundamentos_Inform_Program.htm) - Gregorio Martín Quetglás, Francisco Toledo Lobo, Vicente Cerverón Lleó (HTML)
 * [Fundamentos de programación](https://es.wikibooks.org/wiki/Fundamentos_de_programaci%C3%B3n) - WikiLibros
 * [Introducción a la programación](https://es.wikibooks.org/wiki/Introducci%C3%B3n_a_la_Programaci%C3%B3n) - WikiLibros
 * [Temas selectos de estructuras de datos](https://lya.fciencias.unam.mx/jloa/publicaciones/estructurasdeDatos.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF)
-* [Teoría sintáctico-gramatical de objetos](https://www.bubok.es/libros/219288/Teoria-sintacticogramatical-de-objetos) (Bubok)
 
 
 #### Base de Datos
@@ -95,9 +96,14 @@
 * [Teoría de la Computación: Lenguajes, Autómatas, Gramáticas](http://ciencias.bogota.unal.edu.co/fileadmin/Facultad_de_Ciencias/Publicaciones/Archivos_Libros/Libros_Matematicas/_Teoria_de_la_Computacion___lenguajes__automatas__gramaticas._/teoriacomputacion.pdf) - Rodrigo De Castro Korgi (PDF)
 
 
+#### Inteligencia Artificial
+
+* [Deep Learning](http://www.uhu.es/publicaciones/?q=libros&code=1252) - Isaac Pérez Borrero, Manuel E. Gegúndez Arias (PDF)
+* [Libro online de IAAR](https://iaarbook.github.io) - Raúl E. López Briega, IAAR (HTML)
+
+
 #### Metodologías de desarrollo de software
 
-* [Compendio de Ingeniería del Software](http://www.navegapolis.com/files/cis.pdf) (PDF)
 * [Ingeniería de Software: Una Guía para Crear Sistemas de Información](https://web.archive.org/web/20150824055042/http://www.wolnm.org/apa/articulos/Ingenieria_Software.pdf) - Alejandro Peña Ayala (PDF)
 * [Scrum & Extreme Programming (para programadores)](https://web.archive.org/web/20140209204645/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-agile.pdf) - Eugenia Bahit (PDF)
 * [Scrum Level](https://scrumlevel.com/files/scrumlevel.pdf) - Juan Palacio, Scrum Manager (PDF) [(EPUB)](https://scrumlevel.com/files/scrumlevel.epub)
@@ -118,19 +124,13 @@
 #### Sistemas Operativos
 
 * [Fundamentos de Sistemas Operativos](http://sistop.org/pdf/sistemas_operativos.pdf) - Gunnar Wolf, Esteban Ruiz, Federico Bergero, Erwin Meza, et al. (PDF)
-* [Sistemas Operativos](http://sistop.gwolf.org/html/biblio/Sistemas_Operativos_-_Luis_La_Red_Martinez.pdf) - Dr. David Luis la Red Martinez (PDF)
+* [Sistemas Operativos](http://sistop.gwolf.org/html/biblio/Sistemas_Operativos_-_Luis_La_Red_Martinez.pdf) - David Luis la Red Martinez (PDF)
 
 
 ### Android
 
-* [Curso Android](http://www.hermosaprogramacion.com/android) (HTML)
+* [Curso Android](https://www.develou.com/android/) (HTML)
 * [Manual de Programación Android v.2.0](http://ns2.elhacker.net/timofonica/manuales/Manual_Programacion_Android_v2.0.pdf) - Salvador Gómez Oliver (PDF)
-
-
-### C
-
-* [GNU/Linux: Programación de Sistemas](http://www.alcancelibre.org/filemgmt_data/files/programaciongnulinux.pdf) (PDF)
-* [Introducción a la programación con C](http://repositori.uji.es/xmlui/bitstream/handle/10234/24306/s29.pdf) - Andrés Marzal, Isabel Gracia (PDF) (descarga directa)
 
 
 ### <a id="cpp"></a>C++
@@ -142,6 +142,7 @@
 
 ### Ensamblador
 
+* [Curso ASM de 80x86 por AESOFT](http://redeya.bytemaniacos.com/electronica/cursos/aesoft.htm) - Francisco Jesus Riquelme (HTML)
 * [Lenguaje Ensamblador para PC](https://pacman128.github.io/static/pcasm-book-spanish.pdf) - Paul A. Carter, `trl.:` Leonardo Rodríguez Mújica (PDF)
 
 
@@ -186,6 +187,7 @@
 ### Java
 
 * [Aprendiendo Java y POO (2008)](https://openlibra.com/es/book/download/aprendiendo-java-y-poo) - Gustavo Guillermo Pérez (PDF)
+* [Curso Jakarta EE 9](https://danielme.com/curso-jakarta-ee-indice/) - Daniel Medina
 * [Desarrollando con Java 8: Poker](https://ia601504.us.archive.org/21/items/DesarrollandoConJava8Poker/DesarrollandoConJava8Poker.pdf) - David Pérez Cabrera (PDF)
 * [Desarrollo de proyectos informáticos con Java](http://www3.uji.es/~belfern/libroJava.pdf) - Óscar Belmonte Fernández, Carlos Granell Canut, María del Carmen Erdozain Navarro, et al. (PDF)
 * [Ejercicios de Programación en Java](https://www.arkaitzgarro.com/java/) - Arkaitz Garro, Javier Eguíluz Pérez, A. García-Beltrán, J.M. Arranz (PDF)
@@ -202,10 +204,10 @@
 ### JavaScript
 
 * [El Tutorial de JavaScript Moderno](https://es.javascript.info) - Ilya Kantor, Elizabeth Portilla, joaquinelio, Ezequiel Castellanos, et al. (HTML)
+* [Eloquent JavaScript](https://eloquentjs-es.thedojo.mx) - Marijn Haverbeke, `trl.:` Various (HTML, PDF, EPUB, MOBI)
 * [Guía de JavaScript 'Mozilla'](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide) (HTML)
 * [Introducción a AJAX](http://librosweb.es/libro/ajax) - Javier Eguíluz Pérez (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-ajax)
 * [Introducción a JavaScript](http://librosweb.es/libro/javascript) - Javier Eguíluz Pérez (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-a-javascript)
-* [Jardín de JavaScript](http://bonsaiden.github.io/JavaScript-Garden/es) - Ivo Wetzel, `trl.:` Julio Napurí, `trl.:` David Matas, `trl.:` Vitalii Zurian, `trl.:` David Rubert, et al. (HTML)
 * [JavaScript, ¡Inspírate!](https://leanpub.com/javascript-inspirate) - Ulises Gascón González (Leanpub cuenta requerida)
 * [JavaScript Para Gatos](https://jsparagatos.com) - Maxwell Ogden, `trl.:` Dan Zajdband (HTML)
 * [Manual de JavaScript](https://desarrolloweb.com/manuales/manual-javascript.html#capitulos20) (HTML)
@@ -215,7 +217,6 @@
 
 > :information_source: Véase también &#8230; [Angular](#angular)
 
-* [¿Cómo aprender AngularJS?](http://raulexposito.com/documentos/como-aprender-angularjs/) (HTML)
 * [AngularJS](https://eladrodriguez.gitbooks.io/angularjs) - Elad Rodriguez (HTML)
 * [Guía de estilo AngularJS](https://github.com/johnpapa/angular-styleguide/blob/master/a1/i18n/es-ES.md) - John Papa, et al., `trl.:` Alberto Calleja Ríos, `trl.:` Gilberto (HTML)
 * [Manual de AngularJS](https://desarrolloweb.com/manuales/manual-angularjs.html) - desarrolloweb.com (HTML, PDF, EPUB, Kindle)
@@ -234,13 +235,19 @@
 
 #### Node.js
 
+* [El Libro para Principiantes en Node.js](https://www.nodebeginner.org/index-es.html) -  Manuel Kiessling, Herman A. Junge (HTML)
 * [Introducción a Node.js a través de Koans](http://nodejskoans.com) - Arturo Muñoz de la Torre (PDF)
 
 
 #### React
 
 * [Desarrollo de Aplicaciones Web con React.js y Redux.js](https://leanpub.com/react-redux/read) - Sergio Daniel Xalambrí (HTML)
-* [SurviveJS - React de aprendiz a maestro](https://es.survivejs.com) - Juho Vepsäläinen (HTML, PDF)
+* [SurviveJS - React de aprendiz a maestro](https://es.survivejs.com) - Juho Vepsäläinen, `trl.:` Raúl Expósito (HTML, PDF)
+
+
+### Kotlin
+
+* [Curso programación Android en Kotlin](https://cursokotlin.com/curso-programacion-kotlin-android/) - AristiDevs (HTML)
 
 
 ### LaTeX
@@ -250,7 +257,6 @@
 
 ### Linux
 
-* [Bases de la Programación en Bash](http://xinfo.sourceforge.net/documentos/bash-scripting/bash-script-2.0.html) (HTML)
 * [BASH Scripting Avanzado: Utilizando Declare para definición de tipo](https://web.archive.org/web/20150307181233/http://library.originalhacker.org:80/biblioteca/articulo/ver/123) - Eugenia Bahit (descarga directa)
 * [El Manual de BASH Scripting Básico para Principiantes](https://es.wikibooks.org/wiki/El_Manual_de_BASH_Scripting_B%C3%A1sico_para_Principiantes) - WikiLibros
 * [El Manual del Administrador de Debian](https://debian-handbook.info/browse/es-ES/stable/) - Raphaël Hertzog, Roland Mas (HTML)
@@ -274,6 +280,11 @@
 
 ### NoSQL
 
+#### DynamoDB
+
+* [Aprendizaje amazon-dynamodb](https://riptutorial.com/Download/amazon-dynamodb-es.pdf) - Compiled from StackOverflow documentation (PDF)
+
+
 #### MongoDB
 
 * [El pequeño libro MongoDB](https://github.com/uokesita/the-little-mongodb-book) - Karl Seguin, `trl.:` Osledy Bazo
@@ -291,15 +302,16 @@
 * [Manual de estudio introductorio al lenguaje PHP procedural](https://web.archive.org/web/20140209203630/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-php.pdf) - Eugenia Bahit (PDF)
 * [PHP y Programación orientada a objetos](https://styde.net/php-y-programacion-orientada-a-objetos/) - Duilio Palacios (HTML)
 * [POO y MVC en PHP](https://bibliotecafacet.com.ar/wp-content/uploads/2014/12/eugeniabahitpooymvcenphp.pdf) - Eugenia Bahit (PDF)
+* [Programación en PHP a través de ejemplos](https://openlibra.com/es/book/programacion-en-php-a-traves-de-ejemplos) - Manuel Palomo Duarte, Ildefonso Montero Pérez (HTML)
 * [Programación web avanzada: Ajax y Google Maps](http://rua.ua.es/dspace/bitstream/10045/13176/9/04-ajaxphp.pdf) - Sergio Luján Mora, Universidad de Colima (PDF)
 * [Silex, el manual oficial](http://librosweb.es/libro/silex) - Igor Wiedler, `trl.:` Javier Eguíluz Pérez (HTML)
-* [Symfony 1.4, la guía definitiva](http://librosweb.es/libro/symfony_1_4) - Fabien Potencier, François Zaninotto, `trl.:` Javier Eguíluz Pérez (HTML) [(PDF)](https://openlibra.com/es/book/download/symfony-la-guia-definitiva)
-* [Symfony 2.4, el libro oficial](http://librosweb.es/libro/symfony_2_4/) - Fabien Potencier, Ryan Weaver, `trl.:` Javier Eguíluz Pérez (HTML) [(PDF)](https://openlibra.com/es/book/download/manual-de-symfony2-ver-2-0-12)
 
 
 #### Symfony
 
-* [Symfony 5: La Vía Rápida](https://symfony.com/doc/5.0/the-fast-track/es/index.html)
+* [Symfony 1.4, la guía definitiva](http://librosweb.es/libro/symfony_1_4) - Fabien Potencier, François Zaninotto, `trl.:` Javier Eguíluz Pérez (HTML) [(PDF)](https://openlibra.com/es/book/download/symfony-la-guia-definitiva)
+* [Symfony 2.4, el libro oficial](http://librosweb.es/libro/symfony_2_4/) - Fabien Potencier, Ryan Weaver, `trl.:` Javier Eguíluz Pérez (HTML) [(PDF)](https://openlibra.com/es/book/download/manual-de-symfony2-ver-2-0-12)
+* [Symfony 5: La Vía Rápida](https://web.archive.org/web/20210805141343/https://symfony.com/doc/current/the-fast-track/es/index.html) - Fabien Potencier (HTML)
 
 
 ### Perl
@@ -318,6 +330,7 @@
 
 * [Aprenda a pensar como un programador (con Python)](https://argentinaenpython.com/quiero-aprender-python/aprenda-a-pensar-como-un-programador-con-python.pdf) - Allen Downey, Jeffrey Elkner, Chris Meyers, `trl.:` Miguel Ángel Vilella, `trl.:` Ángel Arnal, `trl.:` Iván Juanes, `trl.:` Litza Amurrio, `trl.:` Efrain Andia, `trl.:` César Ballardini (PDF)
 * [Aprende Python](https://aprendepython.es) - Sergio Delgado Quintero (HTML, PDF)
+* [Aprendiendo a Programar en Python con mi Computador](https://openlibra.com/en/book/download/aprendiendo-a-programar-en-python-con-mi-computador) (PDF)
 * [Doma de Serpientes para Niños: Aprendiendo a Programar con Python](http://code.google.com/p/swfk-es/) (HTML)
 * [Inmersión en Python](https://code.google.com/archive/p/inmersionenpython3/) (HTML)
 * [Inmersión en Python 3](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/inmersionenpython3/inmersionEnPython3.0.11.pdf) - Mark Pilgrim, `trl.:` José Miguel González Aguilera (PDF) (descarga directa)
@@ -399,8 +412,6 @@
 
 > :information_source: Véase también &#8230; [AngularJS](#angularjs)
 
-* [Angular 2](https://rldona.gitbooks.io/angular-2-book) - Raúl López (HTML)
-* [Aprendiendo Angular](https://ngchallenges.gitbook.io) - Vanessa Aristizabal (HTML)
 * [Aprendizaje Angular](https://riptutorial.com/Download/angular-es.pdf) - Compiled from StackOverflow Documentation (PDF)
 * [Aprendizaje Angular 2](https://riptutorial.com/Download/angular-2-es.pdf) - Compiled from StackOverflow Documentation (PDF)
-* [Entendiendo Angular](https://jorgeucano.gitbook.io/entendiendo-angular/) - Jorge Cano (HTML, [:package: ejemplos](https://github.com/jorgeucano/entendiendo-angular))
+* [Entendiendo Angular](https://jorgeucano.gitbook.io/entendiendo-angular/) - Jorge Cano

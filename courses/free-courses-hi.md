@@ -255,7 +255,7 @@
 * [Github \| All about Git and GitHub](https://www.youtube.com/watch?v=77b2lVHHZqI) - Anuj Bhaiya
 * [GitHub Tutorial in Hindi](https://youtube.com/playlist?list=PLVdoaEL574VBxxcGQmTjxS-JoP5rKV8Wi) - Be A Programmar
 * [GitHub with Visual Studio (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhigWA1mNWzwErSBIZvgOJbNc) - Rajesh Kumar, Geeky Shows
-* [Complete Git and Github tutorial](https://youtu.be/Ez8F0nW6S-w?si=y4V7MYwZ7bnjduCz) - Apna College
+* [Complete Git and Github Tutorial for Beginners](https://www.youtube.com/watch?v=Ez8F0nW6S-w) - Apna College
 
 
 ### Golang

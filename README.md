@@ -172,7 +172,7 @@ This project lists books and other resources grouped by genres:
 
 + [Chinese / 中文](more/free-programming-interactive-tutorials-zh.md)
 + [English](more/free-programming-interactive-tutorials-en.md)
-+ [German](more/free-programming-interactive-tutorials-de.md)
++ [German / Deutsch](more/free-programming-interactive-tutorials-de.md)
 + [Japanese / 日本語](more/free-programming-interactive-tutorials-ja.md)
 + [Russian / Русский язык](more/free-programming-interactive-tutorials-ru.md)
 
@@ -214,7 +214,7 @@ Write, compile and run your code within a browser. Try it out!
 
 + [Chinese / 中文](more/free-programming-playgrounds-zh.md)
 + [English](more/free-programming-playgrounds.md)
-+ [German](more/free-programming-playgrounds-de.md)
++ [German / Deutsch](more/free-programming-playgrounds-de.md)
 
 ## Translations
 

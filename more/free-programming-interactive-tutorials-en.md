@@ -160,7 +160,6 @@
 ### GLSL
 
 * [The Book of Shaders](https://thebookofshaders.com)
-* [GLSL Basics By Jacobo Rodriguez Villar](https://www.opengl.org/sdk/docs/tutorials/TyphoonLabs/Chapter_2.pdf)
 
 
 ### Go

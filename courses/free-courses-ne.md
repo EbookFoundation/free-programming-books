@@ -33,7 +33,6 @@
 
 #### SQL
 
-
 * [SQL Full Course In Nepali](https://www.youtube.com/watch?v=Lt52pYaoSR8&list=PL2OJkQtHPRicxyldFGNJRRG4WwNe0Kjqe&index=2) - Technology Channel
 * [SQL in Web Developement](https://www.udemy.com/course/sql-in-web-development) - Webb Warrior (Udemy)  
 

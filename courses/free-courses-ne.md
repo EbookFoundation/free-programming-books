@@ -15,7 +15,7 @@
 
 ### C
 
-* [C Programming 1 Year Engineering (complete course)](https://www.youtube.com/playlist?list=PLyTjtAH-y1X-18oDItO59hvDTq1IDTM5I) - NEPALI EDUCATION
+* [C Programming 1 Year Engineering (complete course)](https://www.youtube.com/playlist?list=PLyTjtAH-y1X-18oDItO59hvDTq1IDTM5I) - Nepali Education
 * [C Programming Full Course In Nepali - New Course](https://www.youtube.com/watch?v=7WH8C48UNDU&list=PL2OJkQtHPRicxyldFGNJRRG4WwNe0Kjqe&index=3) - Technology Channel
 
 

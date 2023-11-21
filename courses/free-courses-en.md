@@ -1255,6 +1255,7 @@
 * [Convolutional Neural Network](https://www.youtube.com/playlist?list=PLuhqtP7jdD8CD6rOWy20INGM44kULvrHu) - Coding Lane
 * [Deep Learning Fundamentals](https://cognitiveclass.ai/courses/introduction-deep-learning) - DeepLearning.TV (cognitiveclass.ai)
 * [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
+* [Hacker's guide to learning model](https://www.youtube.com/watch?v=jkrNMKz9pWU)
 * [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning) (Kaggle)
 * [Intro to Machine Learning Udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120) (Udacity)
 * [Intro to Machine Learning using Microsoft Azure](https://www.udacity.com/course/introduction-to-machine-learning-using-microsoft-azure--ud00333) - Microsoft (Udacity)

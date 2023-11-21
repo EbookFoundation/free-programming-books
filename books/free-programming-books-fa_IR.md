@@ -38,8 +38,9 @@
 
 ### Java
 
-* [آموزش  برنامه‌نویسی جاوا](https://javacup.ir/javacup-training-videos/)
+* [آموزش اسپرينگ](https://github.com/raaminz/training/tree/master/slides/spring)
 * [آموزش جاوا از صفر](https://toplearn.com/courses/85/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AC%D8%A7%D9%88%D8%A7-%D8%A7%D8%B2-%D8%B5%D9%81%D8%B1)
+* [آموزش هايبرنيت](https://github.com/raaminz/training/tree/master/slides/hibernate)
 
 
 ### JavaScript
@@ -56,6 +57,7 @@
 
 ### Linux
 
+* [تائوی برنامه نویسان](https://aidinhut.com/fa/books/the_tao_of_programming.pdf) (PDF)
 * [فقط برای تفریح؛ داستان یک انقلابی اتفاقی](https://linuxstory.ir)
 * [لینوکس و زندگی؛‌ درس‌هایی برای گیک های جوان](https://linuxbook.ir)
 
@@ -70,10 +72,12 @@
 ### Python
 
 * [پایتون به پارسی](https://python.coderz.ir) - سعید درویش (HTML)
+* [ترجمه آزاد کتاب Asyncio in Python](https://github.com/ftg-iran/aip-persian)
 
 
 #### Django
 
+* [ترجمه آزاد کتاب Django Design Patterns and Best Practices](https://github.com/ftg-iran/ddpabp-persian)
 * [کتاب جنگو برای حرفه‌ای‌ها](https://github.com/mthri/dfp-persian)
 * [کتاب جنگو برای API](https://github.com/ftg-iran/dfa-persian)
 

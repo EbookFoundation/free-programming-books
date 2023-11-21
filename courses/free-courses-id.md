@@ -438,6 +438,7 @@
 
 * [Belajar Typescript Dasar Bahasa Indonesia](https://www.youtube.com/playlist?list=PLiuHSY2x882Z4NSJGNq0eB9Fz6tIx-CgO) - Imam Farisi
 * [Belajar Typescript OOP Bahasa Indonesia](https://www.youtube.com/playlist?list=PLiuHSY2x882a-sLbdqZTtraO3cl0Clwg0) - Imam Farisi
+* [Belajar TypeScript Untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_LJt-fhYfMMgqxirSu6EKo) - Eko Kurniawan Khannedy, Programmer Zaman Now
 * [OOP TypeScript](https://www.youtube.com/playlist?list=PLnQvfeVegcJZRieebeIp0xj1NeC5L633Y) - Nusendra Hanggarawan
 * [Tutorial TypeScript Dasar](https://youtu.be/C_C64faSO4c?si=4PktEAlwiCbaA4ju) - Eko Kurniawan Khannedy, Programmer Zaman Now
 * [TypeScript Dasar](https://www.youtube.com/playlist?list=PLnQvfeVegcJbjCnML6FdusK-rl-oDRMXJ) - Nusendra Hanggarawan

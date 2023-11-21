@@ -134,6 +134,7 @@
 * [openHPI](https://open.hpi.de)
 * [openSAP](https://open.sap.com)
 * [Platzi](https://courses.platzi.com)
+* [The Odin Project](https://www.theodinproject.com)
 * [Udacity](https://www.udacity.com)
 
 
@@ -1225,6 +1226,7 @@
 * [Fundamentals of Red Hat Enterprise Linux](https://www.edx.org/course/fundamentals-of-red-hat-enterprise-linux) - Chris Caillouet (edX)
 * [IIEC RISE 1.0 RHCSA8 and Python3](https://www.youtube.com/playlist?list=PLAi9X1uG6jZ2b1mUmrUcc_aEoc8tfss8e) - Vimal Daga
 * [Introduction To Linux](https://www.edx.org/course/introduction-to-linux/) - The Linux Foundation (edx)
+* [Introduction to Linux – Full Course for Beginners](https://www.youtube.com/watch?v=sWbUDq4S6Y8) - Beau (freeCodeCamp.org)
 * [Linux Administration Tutorial Videos](https://www.youtube.com/playlist?list=PL9ooVrP1hQOH3SvcgkC4Qv2cyCebvs0Ik) - edureka!
 * [Linux Command Line](https://www.udemy.com/course/command-line/) - Adam Eubankas (Udemy)
 * [Linux Command Line Tutorial For Beginners](https://www.youtube.com/playlist?list=PLS1QulWo1RIb9WVQGJ_vh-RQusbZgO_As) - Programming Knowledge
@@ -1266,6 +1268,7 @@
 * [Machine Learning](https://youtube.com/playlist?list=PL7T06JEc5PF5Vuz1U7lEEaFPOExDbKVEh) - Nerd's Lesson
 * [Machine Learning](https://youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF) - StatQuest with Josh Starmer
 * [Machine Learning — Andrew Ng, Stanford University](https://youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) - Andrew Ng
+* [Machine Learning Course for Beginners](https://www.youtube.com/watch?v=NWONeJKn6kc) - freeCodeCamp.org
 * [Machine Learning Course With Python](https://www.youtube.com/playlist?list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I) - Siddhardhan
 * [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 * [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) - Andrew Ng, Eddy Shyu, Aarti Bagul, Geoff Ladwig (Coursera)
@@ -1708,6 +1711,7 @@
 * [Flask(A Python Microframework) Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 * [Foundations of Front End Web Development](https://www.udemy.com/course/foundations-of-front-end-development/) - Davide Molin (Udemy)
 * [Frontend UI Development with React](https://www.youtube.com/playlist?list=PL0vfts4VzfNgUUEtEjxDVfh4iocVR3qIb) - Jeff Delaney, Fireship.io
+* [Full Course Web Development 22 Hours | Learn Full Stack Web Development From Scratch](https://www.youtube.com/watch?v=ZxKM3DCV2kE) - Mehul Mohan (codedamn)
 * [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088) - by AWS on Udacity
 * [Full stack open](https://fullstackopen.com/en/) - University of Helsinki, Houston Inc., Terveystalo, Elisa, K-ryhmä, Unity Technologies, Konecranes
 * [How to Meet Web Content Accessibility Guidelines (Quick Reference)](https://www.w3.org/WAI/WCAG21/quickref/) - W3C Web Accessibility Initiative
@@ -1734,6 +1738,7 @@
 > :information_source: See also &#8230; [Blockchain](#blockchain), [Solidity](#solidity)
 
 * [Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course](https://www.youtube.com/watch?v=gyMwXuJrbJQ) - Patrick Collins (freeCodeCamp)
+* [Web3 Developer in 2023 Roadmap: Solidity, Smart Contract, and Blockchain Development Full Course](https://www.youtube.com/watch?v=jYEqoIeAoBg) - thirdweb
 
 
 ### Windows Phone

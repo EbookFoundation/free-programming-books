@@ -16,6 +16,7 @@
     * [SQL](#sql)
 * [Deep Learning](#deep-learning)
 * [DevOps](#devops)
+* [Docker](#docker)
 * [Elastic](#elastic)
 * [Flutter](#flutter)
 * [Game Development](#game-development)
@@ -167,6 +168,7 @@
 * [Learn MySQL&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz6DT8SzQ1CODJTH-NIA7R9) - Elzero Web School
 * [MS SQL Server For Beginners](https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE) - محمد الدسوقى
 * [MySQL tutorials \|\| بناء قواعد البيانات بكفاءة عالية](https://www.youtube.com/playlist?list=PLF8OvnCBlEY25O_Ql0CrgQUAc5NVYkWF2) - TheNewBaghdad
+* [SQL for Data Analysis \| شاهد كيف أصبح الفيل والدرفيل أصدقاء](https://www.youtube.com/watch?v=kb-_GbpH3sQ) -  Big Data
 
 
 ### Deep Learning
@@ -182,6 +184,11 @@
 
 * [GitOps and K8s بالعربي](https://www.youtube.com/playlist?list=PLTRDUPO2OmInz2Fo41zwnoR1IArx70Hig) - Ahmed Elemam
 * [Kubernetes بالعربي](https://www.youtube.com/playlist?list=PLX1bW_GeBRhDCHijCrMO5F-oHg52rRBpl) - Codographia
+
+
+### Docker
+
+* [Docker and Kubernetes \| العلبة دي فيها سوعبان \| Arabic](https://www.youtube.com/watch?v=PrusdhS2lmo) - Ahmed Sami 
 
 
 ### Elastic
@@ -216,9 +223,10 @@
 * [Basic course for Git](https://www.youtube.com/playlist?list=PLYyqC4bNbCIeCHLTRtwdLpQvle_zIavZ-) - أكاديمية ترميز
 * [Git & Github in Arabic \| Git & Github كورس تعلم](https://www.youtube.com/playlist?list=PL_aOZuct6oAogr4UMkWddU7leOXw0QKJS) - Khalid Elshafie
 * [Git and Github&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF) - Elzero Web School
+* [Git and GitHub | شخبط وانت متطمن ](https://www.youtube.com/watch?v=Q6G-J54vgKc&t=3162s&pp=ygUMZ2l0IGJpZyBkYXRh) - Ahmed Sami
 * [Git GitHub & Bitbucket&rlm;](https://www.youtube.com/playlist?list=PL1FWK-sgJ9elQBDq5EtQ8AJFTlfqCJfEX) - Bashir Pro
 * [GitHub - تعلم العمل المشترك على](https://www.youtube.com/playlist?list=PLF8OvnCBlEY0CRqKiYKwOtrH-75MGIuyM) - TheNewBaghdad
-* [Learn Git in Arabic&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNOYVfQs_NFNyykcqkaJ_plmK) - Algorithm Academy
+* [Learn Git in Arabic&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNOYVfQs_NFNyykcqkaJ_plmK) - Algorithm Academy 
 
 
 ### HTML and CSS
@@ -406,7 +414,10 @@
 
 ### Operating Systems
 
+* [Linux System&rlm;](https://www.youtube.com/playlist?list=PL8pYI62gCNsWTppELEUCpforC4avEiLox) - anahr
+* [Operating Systems - أنظمة التشغيل](https://www.youtube.com/playlist?list=PLxIvc-MGOs6ib0oK1z9C46DeKd9rRcSMY) - Ahmed Hagag
 * [Operating Systems - نظم التشغيل](https://www.youtube.com/playlist?list=PLMm8EjqH1EFV-jECqtMxeVMDoVkV_kJDY) - Ahmed Sallam
+* [Operating Systems in Arabic - شرح نظم التشغيل](https://www.youtube.com/playlist?list=PLTr1xN4uMK5seRz6IO7Am9Zp2UKdnzO_n) - Mohamed Alsayed
 
 
 ### PHP
@@ -451,6 +462,7 @@
 ### Python
 
 * [تعلم أساسيات البرمجة](https://www.youtube.com/playlist?list=PLvGNfY-tFUN8HRLDE-D2sXvIgYwspdmFE) - غريب الشيخ \|\| Ghareeb Elshaik
+* [قناة علم البيانات - حسام الحوراني](https://www.youtube.com/playlist?list=PLYW0LRZ3ePo6IYDS2K5IhmuP5qY3dmI9e) - Hussam Hourani
 * [كورس بايثون من الصفر \| سلسلة دروس لغة البايثون \| python](https://www.youtube.com/playlist?list=PLYyqC4bNbCIcxKO_r77w5MN1SRRnnfvNQ) - أكاديمية ترميز
 * [Learn Python3&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNOazcliAXXivOrg9GiAVuoQg) - Algorithm Academy
 * [Master Python from Beginner to Advanced in Arabic - دورة تعلم بايثون من الصفر كاملة للمبتدئين](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ) - Codezilla

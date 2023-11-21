@@ -98,6 +98,7 @@
 
 * [C# Căn Bản](https://www.youtube.com/playlist?list=PL33lvabfss1wUj15ea6W0A-TtDOrWWSRK) - Kteam
 * [C# Nâng Cao](https://www.youtube.com/playlist?list=PL33lvabfss1y5jmklzilr2W2LZiltk6bU) - Kteam
+* [Lập trình C# - NET Core](https://www.youtube.com/playlist?list=PLwJr0JSP7i8BERdErX9Ird67xTflZkxb-) - XuanThuLab
 * [Lập trình C# cho người mới bắt đầu](https://tedu.com.vn/khoa-hoc/lap-trinh-c-toan-tap-cho-nguoi-moi-bat-dau-46.html) - TEDU
 * [Lập trình C# Winform cơ bản](https://www.youtube.com/playlist?list=PL33lvabfss1y2T7yK--YZJHCsU7LZVzBS) - Kteam
 * [Lập trình game Caro với C# Winform](https://www.youtube.com/playlist?list=PL33lvabfss1yCEzvLavt8jD4daqpejzwN) - Kteam

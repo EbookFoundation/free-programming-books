@@ -65,6 +65,7 @@
 * [Rust](#rust)
 * [Security](#security)
 * [Software Engineering](#software-engineering)
+* [Solidity](#solidity)
 * [Swift](#swift)
 * [System Design](#system-design)
 * [TypeScript](#typescript)
@@ -180,6 +181,7 @@
 
 ### <a id="csharp"></a>C\#
 
+* [Basic C# Programming Tutorials](https://www.youtube.com/playlist?list=PLCqWuVe6WFLLmMTO44hpYKnptJ6765skH) -  Sunny Games & Technology
 * [C# Programming language (Console Applications)](https://www.youtube.com/playlist?list=PLX07l0qxoHFLZftsVKyj3k9kfMca2uaPR) - Learning Never Ends 
 * [C# Tutorial In Hindi](https://www.youtube.com/watch?v=SuLiu5AK9Ps) - CodeWithHarry
 * [C# Tutorial in Hindi for Beginners](https://www.youtube.com/playlist?list=PLV8vIYTIdSnYTYr0bmIbfzYii0YQSPocB) - Easy Engineering Classes
@@ -214,7 +216,10 @@
 
 * [Cloud Computing](https://www.youtube.com/playlist?list=PLYwpaL_SFmcCyQH0n9GHfwviu6KeJ46BV) - 5 Minutes Engineering
 * [Cloud Computing](https://www.youtube.com/playlist?list=PLDN4rrl48XKqNsrDogCpHsul3UHMC0Wdq) - Abdul Bari
+* [Cloud Computing Course Free](https://www.youtube.com/watch?v=lae0mfHBSjk) - Intellipaat
+* [Cloud Computing Full Course In 11 Hours](https://www.youtube.com/watch?v=2LaAJq1lB1Q) - Edureka
 * [Cloud Computing Tutorial](https://www.youtube.com/playlist?list=PL-JvKqQx2AtfQ8cGyKsFE7Tj2FyB1yCkd) - University Academy
+* [NPTEL Cloud Computing Course](https://www.youtube.com/playlist?list=PLShJJCRzJWxhz7SfG4hpaBD5bKOloWx9J) - NPTEL  
 
 
 #### AWS
@@ -572,7 +577,7 @@
 
 * [MongoDB Complete Course Tutorial in Hindi](https://www.youtube.com/watch?v=rU9ZODw5yvU) - Vinod Bahadur Thapa (Thapa Technical)
 * [MongoDB full course for beginners](https://youtube.com/playlist?list=PLwGdqUZWnOp1P9xSsJg7g3AY0CUjs-WOa) - Thapa Technical
-* [MongoDB playlist in Hindi](https://youtube.com/playlist?list=PLA3GkZPtsafZydhN4nP0h7hw7PQuLsBv1&si=4Je3O9WkMYMu9cWO) - Engineering Digest
+* [MongoDB playlist in Hindi](https://www.youtube.com/playlist?list=PLA3GkZPtsafZydhN4nP0h7hw7PQuLsBv1&si=4Je3O9WkMYMu9cWO) - Engineering Digest
 * [MongoDB Tutorial for Beginners (Hindi)](https://www.youtube.com/playlist?list=PLgPJX9sVy92xUxpTFgAOSBHdBwIdxav39) - CS Geeks
 * [MongoDB Tutorial in 1 Hour (2023)](https://www.youtube.com/watch?v=J6mDkcqU_ZE) - CodeWithHarry
 * [MongoDB tutorial in hindi](https://www.youtube.com/playlist?list=PLolI8AY2AS9aaE4Vx0adwfwUh3XiuVewX) - Code Improve
@@ -726,6 +731,11 @@
 * [Software Engineering Lectures](https://youtube.com/playlist?list=PLV8vIYTIdSnat3WCO9jfehtZyjnxb74wm) - Easy Engineering Classes
 
 
+### Solidity
+
+* [Solidity Full Course](https://www.youtube.com/playlist?list=PLgPmWS2dQHW9u6IXZq5t5GMQTpW7JL33i) - Code Eater
+
+
 ### Swift
 
 * [Swift Programming For Beginners In Hindi](https://www.youtube.com/playlist?list=PL3IxLTWfZ7Y1zM3EejYkcq4I86K3eloCb) - BuildWithShubham
@@ -758,3 +768,4 @@
 * [Wordpress Tutorial for Beginners \| Wordpress Tutorials in Hindi - The Complete Guide For Beginners](https://www.youtube.com/playlist?list=PLjVLYmrlmjGfC44WZSTvlsZFzxnQsysJb) - WsCube Tech
 * [Wordpress tutorials in hindi](https://www.youtube.com/playlist?list=PLlUrVpujUh3_PnBb1B-YOSP_oUqBL4gsh) - hindidevtuts
 * [WordPress Tutorials in Hindi](https://www.youtube.com/playlist?list=PLjpp5kBQLNTTEggPfaWMAL_yv7FYiBClc) - Tech Gun
+

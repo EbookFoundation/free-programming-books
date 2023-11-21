@@ -780,6 +780,7 @@
 
 ### Graph Theory
 
+* [Graph Theory](https://www.youtube.com/playlist?list=PLZ6w_oR8t_Pw4P3t5be9WMhj1ISH7yFWI) - Soumen Maity (Graph Theory)
 * [Graph Theory](https://youtube.com/playlist?list=PLztBpqftvzxXBhbYxoaZJmnZF6AUQr1mH) - Wrath of Math
 * [Graph Theory](https://nptel.ac.in/courses/111106102) - Prof. Soumen Maity (NPTEL)
 * [Graph Theory - DM](https://youtube.com/playlist?list=PLYrahs7hsYIQiSNxTfZndQz7jWPXsA1ur) - SCCI Labs IIT Ropar

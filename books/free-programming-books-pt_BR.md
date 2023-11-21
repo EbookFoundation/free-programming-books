@@ -125,7 +125,6 @@
 * [Projeto de Algoritmos (em C)](http://www.ime.usp.br/~pf/algoritmos/) - Paulo Feofiloff (HTML)
 
 
-
 ### <a id="csharp"></a>C\#
 
 * [C# e Orientação a Objetos](https://www.caelum.com.br/apostila-csharp-orientacao-objetos/) - Caelum

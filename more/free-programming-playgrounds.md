@@ -261,7 +261,6 @@
 * [CodeChef](https://www.codechef.com/ide)
 * [GeeksforGeeks](https://ide.geeksforgeeks.org)
 * [Ideone](https://ideone.com)
-* [KodeKloud](https://kodekloud.com/playgrounds/) 
 * [OnlineGDB](https://www.onlinegdb.com)
 
 

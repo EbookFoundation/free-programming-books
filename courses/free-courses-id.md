@@ -314,7 +314,7 @@
 ### MongoDB
 
 * [Belajar MongoDB](https://www.youtube.com/playlist?list=PL-CtdCApEFH-eFFdPeS5e16o3THdmvxvz) - Eko Kurniawan Khannedy, Programmer Zaman Now
-* [MongoDB](https://www.youtube.com/watch?v=zTugqRsomR4&list=PLhzwHCJWMbnu830iJ8xLcXgbnklmXpSK5) - Pojok Code
+* [MongoDB Tutorial Indonesia](https://www.youtube.com/playlist?list=PLhzwHCJWMbnu830iJ8xLcXgbnklmXpSK5) - Pojok Code
 
 
 ### MySQL

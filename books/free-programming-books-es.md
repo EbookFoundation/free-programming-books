@@ -31,6 +31,7 @@
 * [Matemáticas](#matem%C3%A1ticas)
 * [.NET (C# Visual Studio)](#net-c--visual-studio)
 * [NoSQL](#nosql)
+    * [DynamoDB](#dynamodb)
     * [MongoDB](#mongodb)
     * [Redis](#redis)
 * [Perl](#perl)
@@ -69,7 +70,7 @@
 #### Algoritmos y Estructuras de Datos
 
 * [Algoritmos y Programación (Guía para docentes)](http://www.eduteka.org/pdfdir/AlgoritmosProgramacion.pdf) - Juan Carlos López García (PDF)
-* [Análisis, Diseño e Implantación de Algoritmos](http://fcasua.contad.unam.mx/apuntes/interiores/docs/20181/informatica/1/LI_1164_06097_A_Analisis_Diseno_Implantacion_Algoritmos_Plan2016.pdf) - Universidad Nacional Autónoma de México, Dr. Juan Alberto Adam Siade, Gilberto Manzano Peñaloza, René Montesano Brand, Luis Fernando Zúñiga López, et al. (PDF)
+* [Análisis, Diseño e Implantación de Algoritmos](http://fcasua.contad.unam.mx/apuntes/interiores/docs/20181/informatica/1/LI_1164_06097_A_Analisis_Diseno_Implantacion_Algoritmos_Plan2016.pdf) - Universidad Nacional Autónoma de México, Juan Alberto Adam Siade, Gilberto Manzano Peñaloza, René Montesano Brand, Luis Fernando Zúñiga López, et al. (PDF)
 * [Apuntes de Algoritmos y Estructuras de Datos](https://openlibra.com/en/book/download/apuntes-de-algoritmos-y-estructuras-de-datos) - Alejandro Santos (PDF)
 * [Breves Notas sobre Análisis de Algoritmos](https://lya.fciencias.unam.mx/jloa/publicaciones/analisisdeAlgoritmos.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF)
 * [Fundamentos de Informática y Programación](https://informatica.uv.es/docencia/fguia/TI/Libro/Libro_Fundamentos_Inform_Program.htm) - Gregorio Martín Quetglás, Francisco Toledo Lobo, Vicente Cerverón Lleó (HTML)
@@ -103,7 +104,6 @@
 
 #### Metodologías de desarrollo de software
 
-* [Compendio de Ingeniería del Software](http://www.navegapolis.com/files/cis.pdf) (PDF)
 * [Ingeniería de Software: Una Guía para Crear Sistemas de Información](https://web.archive.org/web/20150824055042/http://www.wolnm.org/apa/articulos/Ingenieria_Software.pdf) - Alejandro Peña Ayala (PDF)
 * [Scrum & Extreme Programming (para programadores)](https://web.archive.org/web/20140209204645/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-agile.pdf) - Eugenia Bahit (PDF)
 * [Scrum Level](https://scrumlevel.com/files/scrumlevel.pdf) - Juan Palacio, Scrum Manager (PDF) [(EPUB)](https://scrumlevel.com/files/scrumlevel.epub)
@@ -124,7 +124,7 @@
 #### Sistemas Operativos
 
 * [Fundamentos de Sistemas Operativos](http://sistop.org/pdf/sistemas_operativos.pdf) - Gunnar Wolf, Esteban Ruiz, Federico Bergero, Erwin Meza, et al. (PDF)
-* [Sistemas Operativos](http://sistop.gwolf.org/html/biblio/Sistemas_Operativos_-_Luis_La_Red_Martinez.pdf) - Dr. David Luis la Red Martinez (PDF)
+* [Sistemas Operativos](http://sistop.gwolf.org/html/biblio/Sistemas_Operativos_-_Luis_La_Red_Martinez.pdf) - David Luis la Red Martinez (PDF)
 
 
 ### Android
@@ -217,7 +217,6 @@
 
 > :information_source: Véase también &#8230; [Angular](#angular)
 
-* [¿Cómo aprender AngularJS?](http://raulexposito.com/documentos/como-aprender-angularjs/) (HTML)
 * [AngularJS](https://eladrodriguez.gitbooks.io/angularjs) - Elad Rodriguez (HTML)
 * [Guía de estilo AngularJS](https://github.com/johnpapa/angular-styleguide/blob/master/a1/i18n/es-ES.md) - John Papa, et al., `trl.:` Alberto Calleja Ríos, `trl.:` Gilberto (HTML)
 * [Manual de AngularJS](https://desarrolloweb.com/manuales/manual-angularjs.html) - desarrolloweb.com (HTML, PDF, EPUB, Kindle)
@@ -280,6 +279,11 @@
 
 
 ### NoSQL
+
+#### DynamoDB
+
+* [Aprendizaje amazon-dynamodb](https://riptutorial.com/Download/amazon-dynamodb-es.pdf) - Compiled from StackOverflow documentation (PDF)
+
 
 #### MongoDB
 
@@ -408,8 +412,6 @@
 
 > :information_source: Véase también &#8230; [AngularJS](#angularjs)
 
-* [Angular 2](https://rldona.gitbooks.io/angular-2-book) - Raúl López (HTML)
-* [Aprendiendo Angular](https://ngchallenges.gitbook.io) - Vanessa Aristizabal (HTML)
 * [Aprendizaje Angular](https://riptutorial.com/Download/angular-es.pdf) - Compiled from StackOverflow Documentation (PDF)
 * [Aprendizaje Angular 2](https://riptutorial.com/Download/angular-2-es.pdf) - Compiled from StackOverflow Documentation (PDF)
-* [Entendiendo Angular](https://jorgeucano.gitbook.io/entendiendo-angular/) - Jorge Cano (HTML, [:package: ejemplos](https://github.com/jorgeucano/entendiendo-angular))
+* [Entendiendo Angular](https://jorgeucano.gitbook.io/entendiendo-angular/) - Jorge Cano

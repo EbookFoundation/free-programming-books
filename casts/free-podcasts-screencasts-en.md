@@ -6,6 +6,7 @@
 * [Clojure](#clojure)
 * [Cloud computing](#cloud-computing)
 * [Data Science](#data-science)
+* [DevOps](#devops)
 * [Elixir](#elixir)
 * [Erlang](#erlang)
 * [Git](#git)
@@ -80,6 +81,7 @@
 
 ### Data Science
 
+* [Data Engineering Podcast](https://www.dataengineeringpodcast.com) - Tobias Macey (podcast)
 * [Data Futurology - Leadership And Strategy in Artificial Intelligence, Machine Learning, Data Science](https://www.datafuturology.com/podcasts) - Felipe Flores (podcast)
 * [Data Skeptic](https://dataskeptic.com/episodes) - Kyle Polich (podcast)
 * [Data Stories - a podcast on data\+visualization](http://datastori.es) - Enrico Bertini, Moritz Stefaner, Sandra Rendgen, Florian Wöhrl, Destry Sibley (podcast)
@@ -94,6 +96,13 @@
 * [The Banana Data Podcast](https://banana-data.buzzsprout.com) - Triveni Gandhi, Christopher Peter Makris, Corey Strausman (podcast)
 * [The Data Science Podcast](https://developer.ibm.com/podcasts/the-data-science-podcast/) - IBM (podcast)
 * [Towards Data Science](https://towardsdatascience.com/podcast/home) - The TDS team (podcast)
+
+
+### DevOps
+
+* [Adventures in DevOps](https://topenddevs.com/podcasts/adventures-in-devops) - Jillian Rowe, Jonathan Hall, Will Button (podcast)
+* [Arrested DevOps](https://www.arresteddevops.com) - Joe Laha, Bridget Kromhout, Matty Stratton, Trevor Hess, Jessica Kerr (podcast)
+* [DevOps Cafe](http://devopscafe.org) - John Willis, Damon Edwards (podcast)
 
 
 ### Elixir
@@ -168,6 +177,7 @@
 
 ### Java
 
+* [airhacks.fm podcast](https://airhacks.fm) - Adam Bien (podcast)
 * [Building a Java & Spring Boot app: Kid-Bank development](https://www.youtube.com/playlist?list=PLBHctPrH7Z29W8XtVDyc_mMvD2GO7GIF2) - Ted M. Young (screencast)
 * [How to Program with Java Podcast](https://www.podbean.com/podcast-detail/6mxhc-344f7/How-to-Program-with-Java-Podcast) - Trevor Page (podcast)
 * [Inside Java](https://inside.java/podcast) - Chad Arimura, David Delabassee (podcast)
@@ -177,6 +187,7 @@
 
 ### JavaScript
 
+* [20 Min JS](https://20minjs.com) - Agustinus Theodorus, Chris Bongers, Mark Volkmann, et al. (podcast)
 * [devMode.fm](https://devmode.fm) - Andrew Welch, Ryan Ire­lan, Patrick Harrington, Jonathan Melville, Michael Rog, Earl John­ston, Mar­i­on Newlevant, Lau­ren Dorman, Matt Stein, Jen­nifer Blumberg (podcast)
 * [FiveJS](https://fivejs.codeschool.com) - CodeSchool (podcast)
 * [Front End Happy Hour](https://frontendhappyhour.com) - Ryan Burgess, Jem Young, Stacy London, Augustus Yuan, Mars Jullian, Shirley Wu (podcast)
@@ -267,6 +278,7 @@
 * [Coder Radio](https://coder.show) - Chris Fisher, Michael Dominick, Wes Payne (podcast)
 * [Coding Blocks](https://www.codingblocks.net) - Michael Outlaw, Joe Zack, Allen Underwood (podcast)
 * [Command Line Heroes](https://www.redhat.com/en/command-line-heroes) - Saron Yitbarek, Red Hat (podcast)
+* [Compiler](https://www.redhat.com/en/compiler-podcast) - Angela Andrews, Brent Simoneaux, Red Hat (podcast)
 * [CTRL+CLICK CAST](https://ctrlclickcast.com) - Lea Alcantara, Emily Lewis, Bright Umbrella (podcast)
 * [Darknet Diaries](https://darknetdiaries.com) - Jack Rhysider, Fiona Guy, Leah Hurvoloy, et al. (podcast)
 * [DevDiscuss](https://dev.to/devdiscuss) - DEV (podcast)
@@ -416,5 +428,7 @@
 
 ### Swift
 
-* [Swift by Sundell](https://www.swiftbysundell.com/podcast/) - John Sundell (podcast)
+* [Swift by Sundell](https://www.swiftbysundell.com/podcast) - John Sundell (podcast)
+* [Swift over Coffee](https://podcasters.spotify.com/pod/show/swiftovercoffee) - Paul Hudson, Mikaela Caron (podcast)
 * [Swift Unwrapped](https://swiftunwrapped.github.io) - Jesse Squires, JP Simard (podcast)
+* [The Swift Community Podcast](https://www.swiftcommunitypodcast.org) - Kate Castellano, Paul Hudson, Chris Lattner, Bas Broek (podcast)

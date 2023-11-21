@@ -18,7 +18,7 @@
 #### Node.js
 
 * [Node js](https://www.youtube.com/playlist?list=PLckS_N3kOwFEJnIy0PG0zU6XjUOBGkW9x) - EverydayKarma 🇳🇵
-* [Introduction to Node JS Development - RefactorU LLC](https://www.udemy.com/course/refactoru-intro-nodejs/) - Udemy
+* [Introduction to Node JS Development](https://www.udemy.com/course/refactoru-intro-nodejs/) - RefactorU LLC (Udemy)
 
 
 #### React

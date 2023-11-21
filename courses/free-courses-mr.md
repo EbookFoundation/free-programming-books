@@ -27,6 +27,7 @@
 
 ### Arduino
 
+* [Arduino Advanced मराठीमध्ये](https://www.youtube.com/playlist?list=PLYearvGpQL11nJ0duF_ZTE6Ks4-ML6WBS) - Marathi Computer
 * [Arduino Programming in Marathi](https://youtube.com/playlist?list=PL8yOrZ6_TOt5Y-ZG34wLePPZsDaZpatqD) - Asawari Shiposkar
 
 
@@ -82,4 +83,9 @@
 
 * [Python in Marathi](https://youtube.com/playlist?list=PL9D-kb1y7d4cL3xI0Wk1krRjjiPE4IPUd) - MITU Skillologies
 * [Python Programming in Marathi (मराठी)](https://youtube.com/playlist?list=PLI1D7QZwksP64N_zkmXxr9DAzLy9mJClY) - I.T. मंडळ
+* [Python Programming Python for Beginners in Marathi Python introduction](https://www.youtube.com/playlist?list=PLWSZr_wlNWaxiEQtqF5MkBsEoHZNF1kjn) - Marathi ProGamer
 * [Python Tutorial for Beginners In Marathi {आता आपल्या भाषेत कोडिंग } From Basic TO Advance](https://youtube.com/playlist?list=PLFwH5aoadVcnfGG9WtTd-4qYO9gzk773P) - Code Marathi
+
+
+
+  

@@ -223,7 +223,6 @@
 * [Учебник по Haskell](http://anton-k.github.io/ru-haskell-book/book/home.html) - Антон Холомьёв
 * [Язык и библиотеки Haskell 98](http://www.haskell.ru) - Simon Peyton Jones
 * [Язык программирования Haskell: Учимся быть ленивыми](https://github.com/Number571/Haskell/tree/master/Book) - Г. Коваленко
-* [Developing Web Applications with Haskell and Yesod](https://bitbucket.org/darkus/yesod/downloads) - Майкл Сноймен
 * [Haskell: введение в функциональное программирование](https://wiki.nsunc.com/_export/html/haskell) - В.Н. Власов
 
 
@@ -322,7 +321,6 @@
 > :information_source: See also &#8230; [Angular](#angular)
 
 * [Онлайн-руководство по AngularJS](https://metanit.com/web/angular) - Евгений Попов
-* [Перевод документации](http://angular-doc.herokuapp.com)
 * [AngularJS Tutorial](https://coderlessons.com/tutorials/veb-razrabotka/vyuchit-angularjs/angularjs-tutorial) - CoderLessons.com
 
 
@@ -450,7 +448,8 @@
 #### Symfony
 
 * [Учебник по Symfony](https://coderlessons.com/tutorials/veb-razrabotka/uchit-symfony/uchebnik-po-symfony)
-* [Symfony 5. Быстрый старт](https://symfony.com/doc/5.0/the-fast-track/ru/index.html)
+* [Symfony 5.4: Быстрый старт](https://symfony.com/doc/5.4/the-fast-track/ru/index.html)
+* [Symfony 6.2: Быстрый старт](https://symfony.com/doc/6.2/the-fast-track/ru/index.html)
 
 
 ### Python
@@ -608,3 +607,4 @@
 * [Beyond Linux From Scratch (version 2011-12-30)](http://rus-linux.net/nlib.php?name=/MyLDP/BOOKS/BLFS-ru/blfs-ru-index.html) - The BLFS Development Team, `trl.:` Н.Ромоданов, `trl.:` Сергея Каминского, `trl.:` Александра Андреева
 * [Linux From Scratch (version 6.8)](http://rus-linux.net/nlib.php?name=/MyLDP/BOOKS/LFS-BOOK-6.8-ru/lfs-6.8-ru-index.html)
 * [The Linux Kernel Module Programming Guide](http://www.opennet.ru/docs/RUS/lkmpg26) - Peter Jay Salzman, Michael Burian, Ori Pomerantz
+

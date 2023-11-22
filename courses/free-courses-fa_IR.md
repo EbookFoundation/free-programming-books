@@ -37,12 +37,12 @@
 
 ### <a id="csharp"></a>C\#
 
+* [آموزش Asp.Net MVC به همراه پروژه عملی](https://toplearn.com/courses/web/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-AspNet-MVC-%D8%A8%D9%87-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D8%B9%D9%85%D9%84%DB%8C) - Iman Madaeny *(نیاز به ثبت نام دارد)*
 * [دوره مقدماتی دات نت 5 تحت وب](https://bugeto.net/courses/free-introductory-asp-dot-net-core-training-course) - Ehsan Babaei *(نیاز به ثبت نام دارد)*
 
 
 ### Git
 
-* [آموزش گیت - سکان‌آکادمی](https://sokanacademy.com/courses/git) - Behzad Moradi
 * [آموزش گیت، گیت هاب و گیت لب - فرادرس](https://faradars.org/courses/fvgit9609-git-github-gitlab) - Jadi Mirmirani *(نیاز به ثبت نام دارد)*
 
 
@@ -55,8 +55,6 @@
 ### Java
 
 * [آموزش  برنامه‌نویسی جاوا](https://javacup.ir/javacup-training-videos) - Java Cup
-* [آموزش جاوا - سکان‌آکادمی](https://sokanacademy.com/courses/java) - Behzad Moradi
-* [آموزش جاوا از صفر](https://toplearn.com/courses/85/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AC%D8%A7%D9%88%D8%A7-%D8%A7%D8%B2-%D8%B5%D9%81%D8%B1) - Mohammad Ghari
 * [آموزش ديتابيس در جاوا](https://b2n.ir/j02632)
 * [برنامه نویسی پیشرفته(جاوا)](https://maktabkhooneh.org/course/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-%D8%AC%D8%A7%D9%88%D8%A7-mk242) - Gholamali Nejad Hajali Irani
 * [برنامه‌نویسی حرفه‌ای تحت وب در جاوا](https://maktabkhooneh.org/course/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-%D8%AA%D8%AD%D8%AA-%D9%88%D8%A8-%D8%AF%D8%B1-%D8%AC%D8%A7%D9%88%D8%A7-mk282) - Gholamali Nejad Hajali Irani
@@ -89,9 +87,9 @@
 ### Linux
 
 * [آموزش رایگان لینوکس](https://www.youtube.com/playlist?list=PLFK3-mgWZHcpWSFgpy-uEwIb6xjj4vfkB) - Morteza Bashsiz
-* [آموزش لینوکس - سکان‌آکادمی](https://sokanacademy.com/courses/linux) - Behzad Moradi
 * [آموزش لینوکس برای آدم های شاد](https://www.youtube.com/playlist?list=PL-tKrPVkKKE2AniHDmp6zK9KGD1sjf0bd) - Jadi Mirmirani
 * [آموزش لینوکس مقدماتی](https://www.youtube.com/watch?v=ZwaBNkQKrts&list=PLPj7mSUQL4v_oVLO-2Q1QQ9fAH45u8z4A) - Hamid Emamian
+* [دوره الپیک ۱ - جادی \| LPIC-1 with Jadi](https://www.youtube.com/playlist?list=PL7ePwBdxM4nswZ62DvL58yJZ9W4-hOLLB) - Jadi Mirmirani
 
 
 ### Machine Learning
@@ -108,7 +106,6 @@
 ### PHP
 
 * [آموزش پی‌اچ‌پی - سکان آکادمی](https://sokanacademy.com/courses/php/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-PHP) - Behzad Moradi
-* [آموزش OOP در PHP - سکان‌آکادمی](https://sokanacademy.com/courses/php-oop) - Behzad Moradi
 
 
 #### Codeigniter
@@ -118,10 +115,8 @@
 
 #### Laravel
 
-* [آموزش کاربردی پکیج Laravel Excel - سکان‌آکادمی](https://sokanacademy.com/courses/laravelexcel) - Sokan Academy
 * [آموزش لاراول](https://roocket.ir/series/learn-laravel) - Hesam Mousavi
 * [آموزش لاراول](http://www.alefyar.com/laravel-tutorial) - Abolfazl Talebi
-* [آموزش OAuth و Laravel Passport - سکان‌آکادمی](https://sokanacademy.com/courses/oauth-passport) - Sokan Academy
 
 
 #### Yii
@@ -131,7 +126,6 @@
 
 ### Python
 
-* [آموزش پایتون - سکان‌آکادمی](https://sokanacademy.com/courses/python) - Narges Asadi
 * [دوره آموزش رایگان زبان پایتون ( Python ) از مقدماتی تا پیشرفته](https://toplearn.com/courses/2150/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-(-python-)) - Mohammad Ordokhani (TopLearn) *(نیاز به ثبت نام دارد)*
 * [دوره مقدماتی تا پیشترفته پایتون - کدتراپی](https://www.youtube.com/playlist?list=PLSMC8KtOWURqgm0c6iVXrGzK4ymzJUnfj) - CodeTherapy
 * [متخصص پایتون (Python)](https://sabzlearn.ir/course/python/) - Reza Davalit
@@ -163,3 +157,4 @@
 * [برنامه نویسی وب با HTML و CSS](https://holosen.net/web-design/) - Hossein Badrnezhad *(نیاز به ثبت نام دارد)*
 * [دوره اموزشی بوت استرپ 5](https://www.youtube.com/playlist?list=PLAt10Vana3YciJv9EIcNSsm1yTGpOdJIp) - Mehran Tarif (Silicium)
 * [وب‌فریم‌ورک‌ها چگونه کار می‌کنند؟](https://www.youtube.com/playlist?list=PLRU2zoAmuzJ33x-___WkhyTJ8dDPaoOPk) - Shahriar Shariati
+

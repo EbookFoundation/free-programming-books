@@ -1,5 +1,6 @@
 ### Index
 
+* [Angular](#angular)
 * [Ansible](#ansible)
 * [APL](#apl)
 * [Artificial Intelligence](#artificial-intelligence)
@@ -55,8 +56,14 @@
 * [Tensorflow](#tensorflow)
 * [Terraform](#terraform)
 * [TypeScript](#typescript)
+* [UI/UX](#uiux)
 * [Unit testing](#unit-testing)
 * [Webpack](#webpack)
+
+
+### Angular
+
+* [Angular Cheat Sheet](https://angular.io/guide/cheatsheet) 
 
 
 ### Ansible
@@ -135,9 +142,9 @@
 ### Docker
 
 * [Docker Cheat Sheet](https://low-orbit.net/docker-cheat-sheet) - Anthony Rioux, Low Orbit Flux (HTML, PDF)
-* [Docker Cheat Sheet](https://www.docker.com/wp-content/uploads/2022/03/docker-cheat-sheet.pdf) - Docker Inc., Solomon Hykes (PDF)
+* [Docker Cheat Sheet](https://web.archive.org/web/20220925022529/https://www.docker.com/wp-content/uploads/2022/03/docker-cheat-sheet.pdf) - Docker Inc., Solomon Hykes (PDF) *(:card_file_box: archived)*
 * [Docker Cheat Sheet](https://intellipaat.com/blog/tutorial/devops-tutorial/docker-cheat-sheet/) - IntelliPaat (HTML, PDF)
-* [Docker Cheat Sheet](https://swissarmydevops.com/containers/docker/docker-cli-cheat-sheet) - Nikko Pedersen, Swiss Army DevOps (HTML, [PDF](https://web.archive.org/web/20210516172426/https://swissarmydevops.com/wp-content/uploads/2021/02/Docker_Cheat_Sheet-2.pdf)) *(:card_file_box: archived)*
+* [Docker Cheat Sheet](https://web.archive.org/web/20210516172426/https://swissarmydevops.com/wp-content/uploads/2021/02/Docker_Cheat_Sheet-2.pdf) - Nikko Pedersen, Swiss Army DevOps (PDF) *(:card_file_box: archived)*
 * [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet) - Will Sargent, et al. (HTML)
 * [Docker Cheat Sheet - Kapeli](https://kapeli.com/cheat_sheets/Docker.docset/Contents/Resources/Documents/index) - Bogdan Popescu (HTML)
 * [Docker Cheat Sheet (v1)](https://dockerlux.github.io/pdf/cheat-sheet.pdf) - Gildas Cuisinier, Docker Meetup Luxembourg (PDF)
@@ -163,7 +170,7 @@
     * [Git Cheat Sheet](https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet.pdf) (PDF)
     * [Git Cheat Sheet - extended](https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet-v2.zip) (PDF)
 * [Git cheat sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet) - Atlassian (PDF)
-* [Git Cheat Sheet](https://programmingwithmosh.com/wp-content/uploads/2020/09/Git-Cheat-Sheet.pdf) - Moshfegh Hamedani (PDF)
+* [Git Cheat Sheet](https://web.archive.org/web/20230816231123/https://programmingwithmosh.com/wp-content/uploads/2020/09/Git-Cheat-Sheet.pdf) - Moshfegh Hamedani (PDF) *(:card_file_box: archived)*
 * [Git Cheat Sheet (id)](https://reyhanhamidi.medium.com/buku-saku-git-cheatsheet-git-bahasa-indonesia-3af42e42156e) - Reyhan Alhafizal (HTML)
 * [Git ściąga (pl)](https://training.github.com/downloads/pl/github-git-cheat-sheet/) - GitHub (HTML)
 * [GitHub Actions Security Best Practices \[cheat sheet included\]](https://blog.gitguardian.com/github-actions-security-cheat-sheet/) - Thomas Segura, GitGuardian, C.J. May (HTML, PDF)
@@ -174,7 +181,6 @@
 
 * [cht.sh Go Cheatsheet](https://cht.sh/go/:learn) (HTML)
 * [Go Cheatsheet](https://devhints.io/go) - devhints, Rico Santa Cruz (HTML)
-* [Go Dojo Cheatsheet](https://products.golangdojo.com/golang-cheat-sheet-by-golang-dojo) - Golang CheatSheet by golang-dojo (PDF)
 * [গো \| ডেভ সংকেত<](https://devsonket.com/go) - devsonket (HTML)
 
 
@@ -220,7 +226,9 @@
 * [Eclipse Cheat sheet](https://cheatography.com/tag/eclipse/) - Cheatography
 * [Editor VI - Guia de Referência (pt)](https://aurelio.net/curso/material/vim-ref.html) - Aurelio Marinho Jargas (HTML)
 * [GNU Emacs Reference Card](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf) - GNU.org (PDF)
-* [Jupyter Notebook Cheat sheet](http://datacamp-community-prod.s3.amazonaws.com/21fdc814-3f08-4aa9-90fa-247eedefd655) - Datacamp (PDF)
+* [IntelliJ IDEA Keyboard Shortcuts](https://cheatography.com/dmop/cheat-sheets/intellij-idea/) - Cheatography
+* [Jupyter Notebook Cheat sheet](https://web.archive.org/web/20230116111001/http://datacamp-community-prod.s3.amazonaws.com/21fdc814-3f08-4aa9-90fa-247eedefd655) - Datacamp (PDF) *(:card_file_box: archived)*
+* [Sublime Text 2 - Shortcuts (Verbose Mac) Keyboard Shortcuts by gelicia](https://cheatography.com/gelicia/cheat-sheets/sublime-text-2-shortcuts-verbose-mac/) - Cheatography
 * [Vim Avançado (pt)](https://aurelio.net/vim/vim-avancado.txt) - Aurelio Marinho Jargas (HTML)
 * [Vim Básico (pt)](https://aurelio.net/vim/vim-basico.txt) - Aurelio Marinho Jargas (HTML)
 * [Vim Cheat Sheet](https://www.cs.cmu.edu/~15131/f17/topics/vim/vim-cheatsheet.pdf) - Allison McKnight (PDF)
@@ -230,12 +238,12 @@
 * [Visual Studio Code: Keyboard shortcuts for Linux](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf) - Visual Studio Code (PDF)
 * [Visual Studio Code: Keyboard shortcuts for macOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf) - Visual Studio Code (PDF)
 * [Visual Studio Code: Keyboard shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf) - Visual Studio Code (PDF)
-* [VSCheatsheet](https://www.vscheatsheet.com) - Nicolas Constantinou (HTML)
+* [VSCheatsheet](https://web.archive.org/web/20230816231124/https://www.vscheatsheet.com/) - Nicolas Constantinou (HTML) *(:card_file_box: archived)*
 
 
 ### Java
 
-* [Java](https://programmingwithmosh.com/wp-content/uploads/2019/07/Java-Cheat-Sheet.pdf) - Moshfegh Hamedani (PDF)
+* [Java](https://web.archive.org/web/20230816231124/https://programmingwithmosh.com/wp-content/uploads/2019/07/Java-Cheat-Sheet.pdf) - Moshfegh Hamedani (PDF) *(:card_file_box: archived)*
 * [Java Cheat Sheet](https://www.edureka.co/blog/cheatsheets/java-cheat-sheet/) - Edureka (HTML)
 * [Java Cheatsheet](https://www.codewithharry.com/blogpost/java-cheatsheet) - CodeWithHarry (HTML)
 * [Java Programming Cheatsheet](https://introcs.cs.princeton.edu/java/11cheatsheet/) - Robert Sedgewick and Kevin Wayne (HTML)
@@ -499,6 +507,11 @@
 ### TypeScript
 
 * [TypeScript Cheat Sheet](https://rmolinamir.github.io/typescript-cheatsheet/) - Robert Molina (HTML)
+
+
+### UI/UX
+
+* [Form Design Crib Sheet](https://www.smashingmagazine.com/files/wallpapers/images/form-crib-sheet/full_preview.png) - Joe Leech
 
 
 ### Unit testing

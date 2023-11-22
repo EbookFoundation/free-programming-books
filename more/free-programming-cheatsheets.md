@@ -79,7 +79,6 @@
 
 * [A reference card for GNU APL](https://github.com/jpellegrini/gnu-apl-refcard/blob/master/aplcard.pdf) - jpellegrini (PDF)
 * [Cheat Sheets](https://docs.dyalog.com/#CHEAT) - Dyalog (PDF)
-* [Dyalog APL - Vocabulary](https://abrudz.github.io/voc) - Adám Brudzewsky
 * [ReferenceCard](https://docs.dyalog.com/latest/ReferenceCard.pdf) - Dyalog (PDF)
 
 
@@ -148,7 +147,6 @@
 * [Docker Cheat Sheet](https://web.archive.org/web/20210516172426/https://swissarmydevops.com/wp-content/uploads/2021/02/Docker_Cheat_Sheet-2.pdf) - Nikko Pedersen, Swiss Army DevOps (PDF) *(:card_file_box: archived)*
 * [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet) - Will Sargent, et al. (HTML)
 * [Docker Cheat Sheet - Kapeli](https://kapeli.com/cheat_sheets/Docker.docset/Contents/Resources/Documents/index) - Bogdan Popescu (HTML)
-* [Docker Cheat Sheet (:es:)](https://web.archive.org/web/20230127114402/https://helmcode.com/blog/docker-cheat-sheet) - Cristian Córdova, HelmCode (HTML) *(:card_file_box: archived)*
 * [Docker Cheat Sheet (v1)](https://dockerlux.github.io/pdf/cheat-sheet.pdf) - Gildas Cuisinier, Docker Meetup Luxembourg (PDF)
 * [Docker Cheat Sheet (v2)](https://dockerlux.github.io/pdf/cheat-sheet-v2.pdf) - Gildas Cuisinier, Docker Meetup Luxembourg (PDF)
 * [Docker Cheatsheet: Docker commands that developers should know](https://vishnuch.tech/docker-cheatsheet) - Vishnu Chilamakuru (HTML)
@@ -350,7 +348,6 @@
 
 * [All MongoDb commands you will ever need (MongoDb Cheatsheet)](https://www.codewithharry.com/blogpost/mongodb-cheatsheet/) - CodeWithHarry (HTML)
 * [MongoDB Cheat Sheet](https://www.mongodb.com/developer/quickstart/cheat-sheet) - MongoDB (HTML)
-* [MongoDB Cheat Sheet](https://blog.codecentric.de/files/2012/12/MongoDB-CheatSheet-v1_0.pdf) - codecentric (PDF)
 * [Quick Cheat Sheet for Mongo DB Shell commands](https://gist.github.com/michaeltreat/d3bdc989b54cff969df86484e091fd0c) - Michael Treat's Quick Cheat Sheet (GitHub Gist)
 
 
@@ -391,7 +388,6 @@
 * [Python Cheat Sheet](https://websitesetup.org/python-cheat-sheet/) - WebsiteSetup (HTML, PDF, PNG)
 * [Python Cheat Sheet](https://www.pythoncheatsheet.org) - Wilfredinni (HTML)
 * [Python Cheat Sheet](https://overapi.com/python) - OverAPI
-* [Python Cheatsheet for beginners](https://web.archive.org/web/20220705200154/https://www.codecademy.com/learn/learn-python-3) - Codeacademy (HTML) *(:card_file_box: archived)*
 * [Python Crash Course Cheatsheet](https://ehmatthes.github.io/pcc/cheatsheets/README.html) - Eric Matthes (HTML)
 * [Python Crash Course Cheatsheet (2nd Edition)](https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/) - Eric Matthes (PDF)
 * [Python Data Wrangling with pandas](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf) - Pandas (PDF)
@@ -444,7 +440,6 @@
 
 * [Basic GPIO layout configuration cheatsheet](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/robot/cheat_sheet/) - University of Cambridge Computer Laboratory Raspberry Pi Projects Cheatsheet (PDF)
 * [Other Raspberry Pi Commands cheatsheet](https://www.raspberrypistarterkits.com/wp-content/uploads/2018/01/raspberry-pi-commands-cheat-sheet.pdf) - RPi starter Kit (PDF)
-* [Raspberry Pi Basics cheatsheet](https://web.archive.org/web/20211227021126/https://www.woolseyworkshop.com/wp-content/uploads/WoolseyWorkshop_Cheatsheet_RaspberryPiBasics_v1.4.pdf) - Woolsey Workshop (PDF) *(:card_file_box: archived)*
 * [Raspberry Pi Different GPIO Configuration Combinations cheatsheet](https://static.raspberrypi.org/files/education/posters/GPIO_Zero_Cheatsheet.pdf) - GPIO Zero Cheatsheet (PDF)
 * [Top 50 General Commands for Raspberry Pi cheatsheet](https://projects-raspberry.com/wp-content/uploads/2018/05/Top-50-Raspberry-pi-commands-List-cheat-sheet.pdf) - Projects Raspberry (PDF)
 
@@ -533,3 +528,4 @@
 ### Webpack
 
 * [Webpack cheatsheet](https://devhints.io/webpack) - devhints, Rico Santa Cruz (HTML)
+

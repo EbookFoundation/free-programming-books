@@ -241,7 +241,6 @@
 
 #### AngularJS
 
-* [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/) - Nicholas Johnson
 * [AngularJS Basics](http://www.angularjsbook.com) - Chris Smith
 * [AngularJS Tutorial](https://www.tutlane.com/tutorial/angularjs) - tutlane
 * [AngularJS Tutorial](https://www.w3schools.com/angular/) - W3Schools
@@ -451,3 +450,4 @@
 ### XML
 
 * [XML Tutorial](https://www.w3schools.com/xml) - W3Schools
+

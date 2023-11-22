@@ -34,6 +34,7 @@
 * [Sed](#sed)
 * [Software Engineering](#software-engineering)
 * [Springboot](#springboot)
+* [TypeScript](#typescript)
 * [Unicode](#unicode)
 * [Unity3d](#unity3d)
 
@@ -103,7 +104,6 @@
 
 ### JavaScript
 
-* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ko)
 * [JavaScript로 만나는 세상](https://helloworldjavascript.net)
 
 
@@ -170,6 +170,7 @@
 
 * [내가 파이썬을 배우는 방법](https://wikidocs.net/7839)
 * [모두의 파이썬: 20일 만에 배우는 프로그래밍 기초](https://thebook.io/007026)
+* [사장님 몰래 하는 파이썬 업무자동화(부제: 들키면 일 많아짐)](https://wikidocs.net/book/6353) - 정용범, 손상우 외 1명
 * [실용 파이썬 프로그래밍: 프로그래밍 유경험자를 위한 강좌](https://wikidocs.net/book/4673) - 최용
 * [왕초보를 위한 Python 2.7](https://wikidocs.net/book/2)
 * [점프 투 파이썬 - Python 3](https://wikidocs.net/book/1)
@@ -197,6 +198,7 @@
 
 ### R
 
+* [Must Learning with R (개정판)](https://wikidocs.net/book/4315) - DoublekPark 외 1명
 * [R을 이용한 데이터 처리 & 분석 실무](http://r4pda.co.kr) - 서민구 (HTML, PDF - 이전 버젼)
 * [The R Manuals (translated in Korean)](http://www.openstatistics.net)
 
@@ -235,6 +237,15 @@
 ### Springboot
 
 * [Springboot 2.X 정리](https://djunnni.gitbook.io/springboot) - 이동준
+
+
+### TypeScript
+
+* [5분 안에 보는 타입스크립트](https://typescript-kr.github.io)
+* [타입스크립트 핸드북](https://joshua1988.github.io/ts) - Captain Pangyo
+* [한눈에 보는 타입스크립트](https://heropy.blog/2020/01/27/typescript) - HEROPY
+Tech
+* [TypeScript Deep Dive](https://radlohead.gitbook.io/typescript-deep-dive)
 
 
 ### Unicode

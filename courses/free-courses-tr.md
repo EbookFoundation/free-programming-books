@@ -2,6 +2,7 @@
 
 * [Algoritmalar](#algoritmalar)
 * [C#](#c-sharp)
+* [C++](#cpp)
 * [HTML and CSS](#html-and-css)
 * [IDE and editors](#ide-and-editors)
 * [Java](#java)
@@ -23,8 +24,14 @@
 ### <a id='c-sharp'></a>C#
 
 * [C# Başlangıç ve İleri Düzey Eğitimi \| Console Dersleri \| Form Dersleri](https://www.youtube.com/playlist?list=PLURN6mxdcwL960S-bRuf1F6K09yzNjgcn) - Enes Bayram
+* [C# Dersleri](https://www.youtube.com/playlist?list=PLqG356ExoxZU5keiJwuHDpXqULLffwRYD) - Engin Demiroğ
 * [C# Dersleri](https://www.youtube.com/playlist?list=PLKnjBHu2xXNPkeQtMOJczzEO6LK5OV35K) - Murat Yücedağ
 * [C# Dersleri \| Visual Studio 2022 ile C# Programlama \| C# Giriş](https://www.youtube.com/playlist?list=PLi1BmHvgBkxIYweLR52cRJnit4AEEugn4) - Yazılım Teknolojileri Akademisi
+
+
+### <a id='cpp'></a>C++
+
+* [C++ Dersleri](https://www.youtube.com/playlist?list=PLIHume2cwmHfmSmNlxXw1j9ZAKzYyiQAq) - Yazılım Bilimi
 
 
 ### HTML and CSS
@@ -51,6 +58,7 @@
 
 ### Java
 
+* [Java Başlangıç ve İleri Düzey Eğitimi \| Console Dersleri \| Eclipse](https://www.youtube.com/playlist?list=PLURN6mxdcwL-l4FHKhu0Ex2zHvxd-7Nlx) - Enes Bayram
 * [JAVA Dersleri](https://www.youtube.com/playlist?list=PLqG356ExoxZUGwbqoJEKSMnaxVJe4Uvf8) - Engin Demiroğ
 * [Java Dersleri ve Nesne Yönelimli Programlama](https://www.youtube.com/playlist?list=PLEcJSEQK_cD5KHgg9sXumeg659hAr2j4W) - Kodlama Vakti
 * [Java Programlama](https://www.youtube.com/playlist?list=PLIHume2cwmHctrHFHADb0slNyn95x2M4I) - Mustafa Murat Coşkun
@@ -70,6 +78,7 @@
 * [Komple React, Redux ve Hooks Dersleri](https://www.youtube.com/playlist?list=PLqG356ExoxZXEW9h1uTWCwqLLTJ_bO5Be) - Engin Demiroğ
 * [React Dersleri](https://www.youtube.com/playlist?list=PLIHume2cwmHeydP0GkOzSxJHT1ph1BrWj) - Mustafa Murat Coşkun
 * [Sıfırdan Uygulamalı React Geliştirme: Hooks,Redux & Firebase](https://www.youtube.com/playlist?list=PLXuv2PShkuHzbwIbcT29XZJBLyx3nWDzb) - Sadık Turan
+* [Yeni Başlayanlar İçin React](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq_eyixSZ4sVI1x6d7akLpsy) - Arin Yazilim
 
 
 ### Temel programlama
@@ -84,3 +93,5 @@
 * [Git Giriş Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx4WAg9LPX_GKk7cKF7KBXOg) - Hakan Yalçınkaya \| Kodluyoruz
 * [Git, GitHub ve GitLab Kullanımı](https://www.youtube.com/playlist?list=PLPrHLaayVkhnNstGIzQcxxnj6VYvsHBHy) - Barış Aslan
 * [Git İleri Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx6PVwxJmcQ0Veg1uoXRxQY8) - Kodluyoruz
+* [Git/Github Sıfırdan Kapsamlı Eğitim Seti](https://www.youtube.com/playlist?list=PLld6WWpFK1nEhFvvYi5ts-_JoUL3wF3zz) - Bidoluyazılım
+

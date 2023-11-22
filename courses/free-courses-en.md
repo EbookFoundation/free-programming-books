@@ -572,7 +572,6 @@
 * [Learn SQL: SQL Tutorial for Beginners](https://www.programiz.com/sql) - Programiz
 * [MySQL for Developers](https://planetscale.com/learn/courses/mysql-for-developers/introduction/course-introduction) - Aaron Francis (PlanetScale)
 * [MySQL Playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVNMRWlVf0bDDSxNEn38u9Cl) - Krish Naik
-* [MySQL Tutorial](https://www.w3schools.com/MySQL/default.asp) - W3 Schools
 * [MySQL Tutorial for Beginners [Full Course]](https://www.youtube.com/watch?v=7S_tz1z_5bA) - Moshfegh Hamedani (Programming with Mosh)
 * [SQL Foundations](https://www.udemy.com/course/sql-essentials-for-beginners/) - Sagar Uppuluri (Udemy)
 * [SQL NPTEL](https://www.youtube.com/playlist?list=PLLQPIumE5cE-gzU5hChH1V3H93x4UOlHR)

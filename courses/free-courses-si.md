@@ -83,7 +83,7 @@
 ### Python
 
 * [Python Sinhala](https://youtube.com/playlist?list=PLXNgqM9ig24fNnzfhOUXduubQW-zfb9eV&feature=shared) - Udith Sanjaya
-* [Python Programming Tutorial | Sinhala](https://www.youtube.com/playlist?list=PL495mke12zYC-ZUbzd1Z0Y6WteuvsMf7Z) - CodePRO LK
+* [Python Programming Tutorial \| Sinhala](https://www.youtube.com/playlist?list=PL495mke12zYC-ZUbzd1Z0Y6WteuvsMf7Z) - CodePRO LK
 
 
 ### React

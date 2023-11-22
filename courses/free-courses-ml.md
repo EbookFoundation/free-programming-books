@@ -95,7 +95,7 @@
 ### Game Development
 
 * [Game development challenge tutorial series](https://www.youtube.com/playlist?list=PLY-ecO2csVHegnXkm4aLAZTRF_3nTMJMW) - Brototype Malayalam
-* [Game Development Tutorial Malayalam | Godot](https://www.youtube.com/playlist?list=PLcP4K64TKma33Vz9AhPvJpVJuO5jRbcyw) - Spotix
+* [Game Development Tutorial Malayalam \| Godot](https://www.youtube.com/playlist?list=PLcP4K64TKma33Vz9AhPvJpVJuO5jRbcyw) - Spotix
 
 
 ### Git
@@ -171,7 +171,7 @@
 ### Kotlin
 
 * [Kotlin / Android App Development](https://www.youtube.com/playlist?list=PLefF9wgiOa4WFRP4IvRCZre7xLjRkJdlQ) - Nikin Sk
-* [Kotlin Malayalam | Kotlin programming Tutorials for android malayalam](https://www.youtube.com/playlist?list=PLaP7lUdqAGYPpEutAk6o1jKC08Rc5xMXs) - CODEAVIAL
+* [Kotlin Malayalam \| Kotlin programming Tutorials for android malayalam](https://www.youtube.com/playlist?list=PLaP7lUdqAGYPpEutAk6o1jKC08Rc5xMXs) - CODEAVIAL
 
 
 ### Linux

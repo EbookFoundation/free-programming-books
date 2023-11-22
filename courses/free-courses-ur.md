@@ -32,7 +32,7 @@
 
 * [C++ Course Series for Beginner in Urdu/Hindi](https://www.youtube.com/playlist?list=PLuuQCKO44unsLwJMkR8_koVG6vDPjMYmH) - Learning Point
 * [C++ Free Course for Beginners in (Urdu /Hindi)](https://www.youtube.com/playlist?list=PLt4rWC_3rBbWnDrIv4IeC4Vm7PN1wvrNg) - CodeMite
-* [Programming Fundamentals With C++ Complete Course In urdu | Hindi](https://www.youtube.com/playlist?list=PL4QkPoTgwFULciDFVJEHEwOKMtf9Q_Aqh) - Kacs Learnings
+* [Programming Fundamentals With C++ Complete Course In urdu \| Hindi](https://www.youtube.com/playlist?list=PL4QkPoTgwFULciDFVJEHEwOKMtf9Q_Aqh) - Kacs Learnings
 
 
 ### <a id="csharp"></a>C#&lrm;

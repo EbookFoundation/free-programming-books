@@ -428,8 +428,8 @@
 
 ### Terraform
 
-* [DevOps 101](https://www.youtube.com/playlist?list=PLvhu7dkzS_I3T1WlDMJjS85L4In-WYLN_) - Iqbal Syamil
 * [Belajar Terraform untuk Pemula](https://www.youtube.com/playlist?list=PL4SGTPmSY0qngs44Ssc0RHO9h4fmZ9JUb) - Giri Kuncoro
+* [DevOps 101](https://www.youtube.com/playlist?list=PLvhu7dkzS_I3T1WlDMJjS85L4In-WYLN_) - Iqbal Syamil
 
 
 ### TypeScript

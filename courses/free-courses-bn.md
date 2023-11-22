@@ -100,9 +100,11 @@
 
 ### Flutter
 
+* [Flutter Bangla Tutorial](https://www.youtube.com/playlist?list=PLy0nhnjSE4ipl3dXqWbE_ZvBiHeySwiP7) - Afran Sarkar
 * [Flutter Bangla Tutorial](https://www.youtube.com/playlist?list=PLg87mxEuu8-692INeEsxudyVifz7M3efy) - Techno BD XYZ
 * [Flutter Tutorial Bangla](https://www.youtube.com/playlist?list=PLkyGuIcLcmx3-Z3QML9xkYZtdKh91LeYC) - Rabbil Hasan
 * [Flutter Tutorial Bangla](https://www.youtube.com/playlist?list=PLZJlOXxGEkuyZQ-vA7B5vpvvtWU3Upo6p) - Soykot Hosen
+* [Flutter Tutorial Bangla (Full Course) \| Mobile App Development](https://www.youtube.com/playlist?list=PLzHzHuEcLLzDh7koqhZJMrE879XzLAfo4) - Jibon Khan
 
 
 ### Git

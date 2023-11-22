@@ -80,6 +80,7 @@ This project lists books and other resources grouped by genres:
 #### Other Languages
 
 + [Arabic / al arabiya / العربية](books/free-programming-books-ar.md)
++ [Armenian / Հայերեն](books/free-programming-books-hy.md)
 + [Azerbaijani / Азәрбајҹан дили / آذربايجانجا ديلي](books/free-programming-books-az.md)
 + [Bengali / বাংলা](books/free-programming-books-bn.md)
 + [Bulgarian / български](books/free-programming-books-bg.md)
@@ -171,9 +172,8 @@ This project lists books and other resources grouped by genres:
 
 + [Chinese / 中文](more/free-programming-interactive-tutorials-zh.md)
 + [English](more/free-programming-interactive-tutorials-en.md)
-+ [German](more/free-programming-interactive-tutorials-de.md)
++ [German / Deutsch](more/free-programming-interactive-tutorials-de.md)
 + [Japanese / 日本語](more/free-programming-interactive-tutorials-ja.md)
-+ [Portuguese (Brazil)](more/free-programming-interactive-tutorials-pt_BR.md)
 + [Russian / Русский язык](more/free-programming-interactive-tutorials-ru.md)
 
 
@@ -187,6 +187,7 @@ This project lists books and other resources grouped by genres:
 Free Podcasts and Screencasts:
 
 + [Arabic / al Arabiya / العربية](casts/free-podcasts-screencasts-ar.md)
++ [Burmese / မြန်မာဘာသာ](casts/free-podcasts-screencasts-my.md)
 + [Chinese / 中文](casts/free-podcasts-screencasts-zh.md)
 + [Czech / čeština / český jazyk](casts/free-podcasts-screencasts-cs.md)
 + [Dutch / Nederlands](casts/free-podcasts-screencasts-nl.md)
@@ -213,7 +214,7 @@ Write, compile and run your code within a browser. Try it out!
 
 + [Chinese / 中文](more/free-programming-playgrounds-zh.md)
 + [English](more/free-programming-playgrounds.md)
-+ [German](more/free-programming-playgrounds-de.md)
++ [German / Deutsch](more/free-programming-playgrounds-de.md)
 
 ## Translations
 

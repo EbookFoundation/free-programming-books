@@ -448,6 +448,8 @@
 #### Symfony
 
 * [Учебник по Symfony](https://coderlessons.com/tutorials/veb-razrabotka/uchit-symfony/uchebnik-po-symfony)
+* [Symfony 5.4: Быстрый старт](https://symfony.com/doc/5.4/the-fast-track/ru/index.html)
+* [Symfony 6.2: Быстрый старт](https://symfony.com/doc/6.2/the-fast-track/ru/index.html)
 
 
 ### Python

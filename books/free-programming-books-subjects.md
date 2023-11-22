@@ -98,6 +98,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Algorithms, 4th Edition](https://algs4.cs.princeton.edu/home/) - Robert Sedgewick, Kevin Wayne
 * [Algorithms and Automatic Computing Machines (1963)](https://archive.org/details/Algorithms_And_Automatic_Computing_Machines) - B. A. Trakhtenbrot
 * [Algorithms and Complexity](https://www.math.upenn.edu/~wilf/AlgoComp.pdf) - Herbert S. Wilf (PDF)
+* [Algorithms and Data Structures - With Applications to Graphics and Geometry](https://textbookequity.org/Textbooks/Nievergelt_Algorithms%20and%20Data%20Structures08.pdf) - Jurg Nievergelt, Klaus Hinrichs (PDF)
 * [Algorithms Course Materials](https://jeffe.cs.illinois.edu/teaching/algorithms/) - Jeff Erickson
 * [Algorithms Notes for Professionals](https://goalkicker.com/AlgorithmsBook) - Compiled from StackOverflow Documentation (PDF)
 * [Annotated Algorithms in Python: Applications in Physics, Biology, and Finance](https://github.com/mdipierro/nlib) - Massimo Di Pierro
@@ -125,6 +126,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Sequential and parallel sorting algorithms](https://www.inf.hs-flensburg.de/lang/algorithmen/sortieren/algoen.htm) - Hans Werner Lang (HTML)
 * [Text Algorithms](https://igm.univ-mlv.fr/~mac/REC/text-algorithms.pdf) -  Maxime Crochemore, Wojciech Rytter (PDF)
 * [The Algorithm Design Manual](https://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK/BOOK.HTM) - Steven S. Skiena (HTML)
+* [The Algorithms](https://the-algorithms.com)
 * [The Design of Approximation Algorithms](https://www.designofapproxalgs.com/book.pdf) - David P. Williamson, David B. Shmoys (PDF)
 * [The Great Tree List Recursion Problem](http://cslibrary.stanford.edu/109/TreeListRecursion.pdf) - Nick Parlante (PDF)
 * [The Kademlia Protocol Succinctly](https://www.syncfusion.com/ebooks/kademlia_protocol_succinctly) - Marc Clifton
@@ -142,6 +144,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Introduction to Autonomous Robots](https://github.com/correll/Introduction-to-Autonomous-Robots/releases) - Nikolaus Correll (PDF)
 * [Machine Learning For Dummies®, IBM Limited Edition](https://www.ibm.com/downloads/cas/GB8ZMQZ3) - Daniel Kirsch, Judith Hurwitz (PDF)
 * [On the Path to AI: Law’s prophecies and the conceptual foundations of the machine learning age](https://link.springer.com/book/10.1007/978-3-030-43582-0) - Thomas D. Grant, Damon J. Wischik (PDF, EPUB)
+* [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp](https://github.com/norvig/paip-lisp) - Peter Norvig
 * [Probabilistic Programming & Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - Cam Davidson-Pilon (HTML, Jupyter Notebook)
 * [The History of Artificial Intelligence](https://courses.cs.washington.edu/courses/csep590/06au/projects/history-ai.pdf) - Chris Smith, Brian McGuire, Ting Huang, Gary Yang (PDF)
 * [The Quest for Artificial Intelligence: A History of Ideas and Achievements](https://ai.stanford.edu/~nilsson/QAI/qai.pdf) - Nils J. Nilsson (PDF)
@@ -263,6 +266,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Data Mining Concepts and Techniques](https://ia800702.us.archive.org/7/items/datamining_201811/DS-book%20u5.pdf) - Jiawei Han, Micheline Kamber, Jian Pei (PDF) (:card_file_box: archived)
 * [Data Science at the Command Line](https://datascienceatthecommandline.com/2e/) - Jeroen Janssens
 * [Elements of Data Science](https://allendowney.github.io/ElementsOfDataScience/README.html) - Allen B. Downey
+* [Feature Engineering and Selection: A Practical Approach for Predictive Models](https://bookdown.org/max/FES/) - Max Kuhn, Kjell Johnson
 * [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf) - Avrim Blum, John Hopcroft, Ravindran Kannan (PDF)
 * [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) - Claus O. Wilke (HTML)
 * [Hands-On Data Visualization](https://handsondataviz.org) - Jack Dougherty, Ilya Ilyankou (HTML)
@@ -501,6 +505,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Foundations of Constructive Probability Theory](https://arxiv.org/pdf/1906.01803.pdf) - Yuen-Kwok Chan (PDF)
 * [Geometry with an Introduction to Cosmic Topology](https://mphitchman.com) - Michael P. Hitchman
 * [Graph Theory](http://compalg.inf.elte.hu/~tony/Oktatas/TDK/FINAL/)
+* [Guide to Discrete Mathematics](https://core.ac.uk/download/pdf/326762636.pdf) - David Gries, Fred B. Schneider (PDF)
 * [How We Got from There to Here: A Story of Real Analysis](https://milneopentextbooks.org/how-we-got-from-there-to-here-a-story-of-real-analysis/) - Robert Rogers, Eugene Boman
 * [Introduction to Modern Statistics](https://openintro-ims.netlify.app) - Mine Çetinkaya-Rundel, Johanna Hardin (HTML, PDF) (email address required for PDF)
 * [Introduction to Probability](https://math.dartmouth.edu/~prob/prob/prob.pdf) - Charles M. Grinstead, J. Laurie Snell (PDF)
@@ -526,7 +531,6 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Mathematical Logic - an Introduction](https://www.ii.uib.no/~michal/und/i227/book/book.pdf) (PDF)
 * [Mathematical Reasoning: Writing and Proof](https://www.tedsundstrom.com/mathematical-reasoning-3) - Ted Sundstrom
 * [Mathematics, MTH101A](https://home.iitk.ac.in/~psraj/mth101/) - P. Shunmugaraj, IIT Kanpur
-* [Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb) - Susan Holmes, Wolfgang Huber
 * [Multivariable Calculus](https://people.math.gatech.edu/~cain/notes/calculus.html) - George Cain, James Herod
 * [Non-Uniform Random Variate Generation](http://luc.devroye.org/rnbookindex.html) - Luc Devroye (PDF)
 * [Notes on Diffy Qs](https://www.jirka.org/diffyqs/) - Jiří Lebl
@@ -629,7 +633,6 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Philosophy of Computer Science](https://www.cse.buffalo.edu/~rapaport/Papers/phics.pdf) (PDF)
 * [PNG: The Definitive Guide](http://www.libpng.org/pub/png/book/) - Greg Roelofs
 * [Pointers And Memory](http://cslibrary.stanford.edu/102/PointersAndMemory.pdf) - Nick Parlante (PDF)
-* [Principles of Computer System Design](http://ocw.mit.edu/resources/res-6-004-principles-of-computer-system-design-an-introduction-spring-2009/online-textbook/part_ii_open_5_0.pdf) (PDF)
 * [Programming Fundamentals](https://press.rebus.community/programmingfundamentals/) - Kenneth Leroy Busbee, Dave Braunschweig
 * [Programming with Unicode](https://unicodebook.readthedocs.org)
 * [Real-World Maintainable Software](https://www.oreilly.com/ideas/real-world-maintainable-software) - Abraham Marin-Perez
@@ -708,7 +711,6 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Flexible Operating System Internals: The Design and Implementation of the Anykernel and Rump Kernels](https://aaltodoc.aalto.fi/handle/123456789/6318) - Antti Kantee (PDF)
 * [How to Make a Computer Operating System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - Samy Pesse (:construction: *in process*)
 * [How to write a simple operating system in assembly language](https://mikeos.sourceforge.net/write-your-own-os.html) - Mike Saunders (HTML)
-* [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/stable/) - Gerard Beekmans, Bruce Dubbs, Ken Moffat, Pierre Labastie, et al. (HTML, [PDF, downloads...](https://www.linuxfromscratch.org/lfs/downloads/stable/))
 * [Making Servers Work: A Practical Guide to Linux System Administration](https://www.digitalocean.com/community/books/sysadmin-ebook-making-servers-work) - Jamon Camisso (PDF, EPUB)
 * [Operating Systems and Middleware](https://gustavus.edu/mcs/max/os-book/) - Max Hailperin (PDF, LaTeX)
 * [Operating Systems: From 0 to 1](https://github.com/tuhdo/os01/releases/tag/0.0.1) - Tu, Ho Doang (PDF) (:construction: *in process*)
@@ -908,7 +910,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Homotopy Type Theory: Univalent Foundations of Mathematics](https://homotopytypetheory.org/book/) (PDF)
 * [Introduction to Theory of Computation](https://cglab.ca/~michiel/TheoryOfComputation/) - Anil Maheshwari, Michiel Smid (PDF)
 * [Models of Computation](https://cs.brown.edu/people/jes/book/) - John E. Savage
-* [Practical Foundations for Programming Languages, Preview](https://www.cs.cmu.edu/~rwh/pfpl/2nded.pdf) - Robert Harper (PDF)
 * [Principles of Programming Languages](https://web.archive.org/web/20150418034451/http://www.cs.jhu.edu/~scott/pl/book/dist/) - Scott F. Smith *(:card_file_box: archived)*
 * [Programming in Martin-Löf's Type Theory](https://www.cse.chalmers.se/research/group/logic/book/) - Bengt Nordstroem
 * [Programming Languages: Application and Interpretation (2nd Edition)](https://cs.brown.edu/~sk/Publications/Books/ProgLangs/) - Shriram Krishnamurthi

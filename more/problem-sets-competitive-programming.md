@@ -38,6 +38,7 @@
 * [Internet Problem Solving Contest](http://ipsc.ksp.sk)
 * [Just another Golf Coding](http://jagc.org)
 * [Kattis](https://open.kattis.com)
+* [Last Moment DSA Sheet(79) – Ace Interviews](https://takeuforward.org/interview-sheets/strivers-79-last-moment-dsa-sheet-ace-interviews) - Striver
 * [LeetCode](https://leetcode.com)
 * [LightOJ](https://lightoj.com)
 * [Meta Hackercup](https://www.facebook.com/codingcompetitions/hacker-cup/)
@@ -46,6 +47,7 @@
 * [Sigmageek](https://sigmageek.com)
 * [Sphere Online Judge](http://www.spoj.com/contests)
 * [Techgig](https://www.techgig.com)
+* [Top Coding Interview Problems](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/) - Striver
 * [Topcoder](https://www.topcoder.com)
 * [Toph](https://toph.co)
 * [USACO.guide](https://usaco.guide)
@@ -78,6 +80,7 @@
 * [CrowdANALYTIX](https://www.crowdanalytix.com/community)
 * [DrivenData](https://www.drivendata.org)
 * [Kaggle](https://www.kaggle.com)
+* [Zindi](https://zindi.africa)
 
 
 ### HTML and CSS
@@ -96,6 +99,7 @@
 
 ### Problem Sets
 
+* [#C++](https://www.youtube.com/playlist?list=PLliXPok7ZonkJEe0cUbVZ3umyKbFA-Dd9) - Keerti Purswani
 * [100 Days CSS Challenge](https://100dayscss.com) - Matthias Martin *(Codepen account requested, not required)*
 * [500 Data structures and algorithms interview questions and their solutions in C++](https://www.quora.com/q/techiedelight/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions)
 * [Abekus | Free Practice Questions with Solutions](https://abekus.com)

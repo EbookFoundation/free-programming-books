@@ -850,7 +850,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [The Joy of Cryptography (2021)](https://joyofcryptography.com/pdf/book.pdf) - Mike Rosulek (PDF)
 
 
-
 ### Software Architecture
 
 * [A Primer on Design Patterns](https://leanpub.com/aprimerondesignpatterns/read) - Rahul Batra (HTML)

@@ -140,7 +140,7 @@ Ejemplo:
 - <a id="in_process"></a>Libros en proceso / no acabados aún:
 
     ```text
-    CORRECTO  : * [A punto de ser un libro fascinante](http://example.com/book2.html) - John Doe (HTML) (:construction: *en proceso*)
+    CORRECTO  : * [A punto de ser un libro fascinante](http://example.com/book2.html) - John Doe (HTML) *(:construction: en proceso)*
     ```
 
 - <a id="archived"></a>Enlaces archivados:

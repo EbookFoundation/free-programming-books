@@ -60,7 +60,7 @@
 
 ### OpenGL
 
-* [OpenGL](https://fi.wikibooks.org/wiki/OpenGL) - Wikikirjasto (:construction: *keskeneräinen*)
+* [OpenGL](https://fi.wikibooks.org/wiki/OpenGL) - Wikikirjasto *(:construction: keskeneräinen)*
 
 
 ### PHP

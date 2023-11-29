@@ -132,7 +132,7 @@ Exemplo:
 - <a id="in_process"></a>Livros em processo:
 
     ```text
-    BOM  : * [Será Um Livro Incrível Em Breve](http://exemplo.com/livro2.html) - Fulano de Tal (HTML) (:construction: *em processo*)
+    BOM  : * [Será Um Livro Incrível Em Breve](http://exemplo.com/livro2.html) - Fulano de Tal (HTML) *(:construction: em processo)*
     ```
 
 - <a id="archived"></a>Archived link:

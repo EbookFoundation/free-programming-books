@@ -183,7 +183,7 @@
 
 ### Machine-Learning
 
-* [Machine learing cơ bản](https://machinelearningcoban.com) - Vũ Hữu Tiệp (:construction: *in process*)
+* [Machine learing cơ bản](https://machinelearningcoban.com) - Vũ Hữu Tiệp *(:construction: in process)*
 
 
 ### MongoDB

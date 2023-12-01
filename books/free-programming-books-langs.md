@@ -1641,6 +1641,11 @@ Books on general-purpose programming that don't focus on a specific language are
 * [The Little MongoDB Book](http://openmymind.net/2011/3/28/The-Little-MongoDB-Book/)
 
 
+### Move
+
+*[The Move Book](https://move-book.com/index.html)
+
+
 ### MySQL
 
 * [Essential MySQL](https://www.programming-books.io/essential/mysql/) - Krzysztof Kowalczyk, StackOverflow Contributors

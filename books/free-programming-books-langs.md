@@ -1643,7 +1643,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Move
 
-*[The Move Book](https://move-book.com/index.html)
+* [The Move Book](https://move-book.com/index.html) - Damir Shamanaev
 
 
 ### MySQL

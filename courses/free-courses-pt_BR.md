@@ -44,6 +44,7 @@
 * [SEO](#seo)
 * [Shell](#shell)
 * [Sistemas Embarcados](#sistemas-embarcados)
+* [Smalltalk](#smalltalk)
 * [Swift](#swift)
 * [TypeScript](#typescript)
     * [Angular](#angular)
@@ -393,6 +394,13 @@
 ### Sistemas Embarcados
 
 * [Fundamentos de Sistemas Embarcados](https://www.youtube.com/playlist?list=PLqvo6YdcIqXXGY1dLbf_xA-JLMBumTyzG) - Renato Sampaio
+
+
+### Smalltalk
+
+* [Conhecendo o SmallTalk](https://www.researchgate.net/publication/262882317_Conhecendo_o_Smalltalk_-_Todos_os_Detalhes_da_Melhor_Linguagem_de_Programacao_Orientada_a_Objetos) - Daniel Duarte Abdala e
+Aldo von Wangenheim (PDF)
+* [Introdução à Programação Orientada a Objetos com Smalltalk](https://dcc.ufrj.br/~jonathan/smalltalk/Introd-a-POO-com-Smalltalk-1994.pdf) - Miguel Jonathan (PDF)
 
 
 ### Swift

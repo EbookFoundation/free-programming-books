@@ -333,6 +333,7 @@
 
 ### Markdown
 
+* [Latex Cheat Sheet](https://gist.github.com/LKS90/252ac41bd4a173be35b0) - Latex Guide (GitHub Gist)
 * [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) - Markdown Guide (HTML)
 * [Markdown Here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - Adam Pritchard (HTML)
 

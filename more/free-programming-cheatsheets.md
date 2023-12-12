@@ -55,6 +55,8 @@
 * [SQL](#sql)
 * [Tensorflow](#tensorflow)
 * [Terraform](#terraform)
+* [TeX](#tex)
+    * [Latex](#latex)
 * [TypeScript](#typescript)
 * [UI/UX](#uiux)
 * [Unit testing](#unit-testing)
@@ -333,7 +335,6 @@
 
 ### Markdown
 
-* [Latex Cheat Sheet](https://gist.github.com/LKS90/252ac41bd4a173be35b0) - Latex Guide (GitHub Gist)
 * [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) - Markdown Guide (HTML)
 * [Markdown Here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - Adam Pritchard (HTML)
 
@@ -503,6 +504,13 @@
 
 * [Terraform Cheat Sheet](https://www.techbeatly.com/terraform-cheat-sheet) - Gineesh Madapparambath (HTML)
 * [Terraform Cheatsheet](https://acloudguru.com/blog/engineering/the-ultimate-terraform-cheatsheet) - Eric Pulsifer (HTML)
+
+
+### TeX
+
+#### LaTeX
+
+* [Latex Cheat Sheet](https://gist.github.com/LKS90/252ac41bd4a173be35b0) - Lukas Schneider
 
 
 ### TypeScript

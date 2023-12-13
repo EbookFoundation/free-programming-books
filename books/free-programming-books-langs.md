@@ -531,6 +531,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Financial Numerical Recipes in C++](https://ba-odegaard.no/gcc_prog/recipes/) - Bernt Arne Ødegaard (PDF)
 * [Fundamentals of C++ Programming](https://web.archive.org/web/20191005170118/https://python.cs.southern.edu/cppbook/progcpp.pdf) - Richard L. Halterman (PDF) *(:card_file_box: archived)*
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html) (HTML)
+* [Guide to CP](https://duoblogger.github.io/assets/pdf/memonvyftw/guide-t-cp.pdf) - Antti Laaksonen (PDF)
 * [Google's C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 * [Hands-On System Programming with C++](https://www.packtpub.com/free-ebook/hands-on-system-programming-with-c/9781789137880) - Rian Quinn (Packt account *required*)
 * [How to make an Operating System](https://samypesse.gitbook.io/how-to-create-an-operating-system/) - Samy Pesse

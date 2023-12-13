@@ -31,6 +31,7 @@
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
 * [Language Translations](#language-translations)
+* [Latex](#latex)
 * [Machine Learning](#machine-learning)
 * [Markdown](#markdown)
 * [MATLAB](#matlab)
@@ -323,6 +324,11 @@
 ### Language Translations
 
 * [Swift and C# Quick Reference - Language Equivalents and Code Examples](http://www.globalnerdy.com/wordpress/wp-content/uploads/2015/03/SwiftCSharpPoster.pdf) - Globalnerdy (PDF)
+
+
+### LaTeX
+
+* [Latex Cheat Sheet](https://gist.github.com/LKS90/252ac41bd4a173be35b0) - Lukas Schneider
 
 
 ### Machine Learning

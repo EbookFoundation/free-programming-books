@@ -31,6 +31,7 @@
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
 * [Language Translations](#language-translations)
+* [Latex](#latex)
 * [Machine Learning](#machine-learning)
 * [Markdown](#markdown)
 * [MATLAB](#matlab)
@@ -55,8 +56,6 @@
 * [SQL](#sql)
 * [Tensorflow](#tensorflow)
 * [Terraform](#terraform)
-* [TeX](#tex)
-    * [Latex](#latex)
 * [TypeScript](#typescript)
 * [UI/UX](#uiux)
 * [Unit testing](#unit-testing)
@@ -327,6 +326,11 @@
 * [Swift and C# Quick Reference - Language Equivalents and Code Examples](http://www.globalnerdy.com/wordpress/wp-content/uploads/2015/03/SwiftCSharpPoster.pdf) - Globalnerdy (PDF)
 
 
+### LaTeX
+
+* [Latex Cheat Sheet](https://gist.github.com/LKS90/252ac41bd4a173be35b0) - Lukas Schneider
+
+
 ### Machine Learning
 
 * [Machine Learning Cheat Sheet](https://www.datacamp.com/cheat-sheet/machine-learning-cheat-sheet) - DataCamp Team (HTML)
@@ -504,13 +508,6 @@
 
 * [Terraform Cheat Sheet](https://www.techbeatly.com/terraform-cheat-sheet) - Gineesh Madapparambath (HTML)
 * [Terraform Cheatsheet](https://acloudguru.com/blog/engineering/the-ultimate-terraform-cheatsheet) - Eric Pulsifer (HTML)
-
-
-### TeX
-
-#### LaTeX
-
-* [Latex Cheat Sheet](https://gist.github.com/LKS90/252ac41bd4a173be35b0) - Lukas Schneider
 
 
 ### TypeScript

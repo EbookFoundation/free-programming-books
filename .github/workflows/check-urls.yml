@@ -87,7 +87,7 @@ jobs:
       - name: "Check URLs of file: ${{ matrix.file }}"
         run: |
           awesome_bot "${{ matrix.file }}" --allow-redirect --allow-dupe --allow-ssl || true;
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v4
         with:
           name: awesomebot-results
           path: ${{ github.workspace }}/ab-results-*.json

@@ -1,12 +1,6 @@
 ### Index
 
-* [Android](#android)
 * [PHP](#php)
-
-
-### Android
-
-* [Въведение в Андроид](https://www.youtube.com/playlist?list=PLjsqymUqgpSTXtlngZCXRHEp8-FmDHHfL) - Иван Ванков
 
 
 ### PHP

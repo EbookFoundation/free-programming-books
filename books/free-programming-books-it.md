@@ -28,7 +28,6 @@
 * [Livecode](#livecode)
 * [Perl](#perl)
 * [PHP](#php)
-    * [Symfony](#symfony)
 * [Python](#python)
     * [Django](#django)
 * [Ruby](#ruby)
@@ -225,12 +224,6 @@
 ### PHP
 
 * [Guida PHP](http://www.html.it/guide/guida-php-di-base/?cref=development) (HTML)
-* [Manuale PHP](http://francescomuscolo.altervista.org/manuale_PHP.pdf) (PDF)
-
-
-#### Symfony
-
-* [Symfony 5: guida rapida](https://symfony.com/doc/5.0/the-fast-track/it/index.html)
 
 
 ### Python
@@ -240,12 +233,12 @@
 * [Immersione in Python 3](http://gpiancastelli.altervista.org/dip3-it/) - Mark Pilgrim, `trl.:` Giulio Piancastelli (HTML) [(PDF)](http://gpiancastelli.altervista.org/dip3-it/d/diveintopython3-it-pdf-latest.zip)
 * [La libreria di riferimento di Python](http://docs.python.it/html/lib/)
 * [Pensare da Informatico, Versione Python](http://www.python.it/doc/Howtothink/Howtothink-html-it/index.htm)
-* [Python per tutti: Esplorare dati con Python3](http://do1.dr-chuck.com/pythonlearn/IT_it/pythonlearn.pdf) - Dr. Charles Russell Severance (PDF) [(EPUB)](http://do1.dr-chuck.com/pythonlearn/IT_it/pythonlearn.epub)
+* [Python per tutti: Esplorare dati con Python3](http://do1.dr-chuck.com/pythonlearn/IT_it/pythonlearn.pdf) - Charles Russell Severance (PDF) [(EPUB)](http://do1.dr-chuck.com/pythonlearn/IT_it/pythonlearn.epub)
 
 
 #### Django
 
-* [Il tutorial di Django Girls](https://tutorial.djangogirls.org/it/) (1.11) (HTML) (:construction: *in process*)
+* [Il tutorial di Django Girls](https://tutorial.djangogirls.org/it/) (1.11) (HTML) *(:construction: in process)*
 
 
 ### Ruby
@@ -272,7 +265,6 @@
 ### UML
 
 * [Appunti di UML](https://web.archive.org/web/20110322065222/http://liuct.altervista.org/download/repository/ingsof/Appunti_UML.pdf) (PDF) *(:card_file_box: archived)*
-* [Introduzione alla gestione del progetto software con UML](http://areaprofessional.com/documenti/D03_IntroGestioneProgettoSW.pdf) - G. Destri (PDF)
 
 
 ### Visual Basic

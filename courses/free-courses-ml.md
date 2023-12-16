@@ -30,6 +30,7 @@
 * [Python](#python)
     * [Django](#django)
     * [Flask](#flask)
+* [Security](#security)
 
 
 ### Android
@@ -94,7 +95,7 @@
 ### Game Development
 
 * [Game development challenge tutorial series](https://www.youtube.com/playlist?list=PLY-ecO2csVHegnXkm4aLAZTRF_3nTMJMW) - Brototype Malayalam
-* [Game Development Tutorial Malayalam | Godot](https://www.youtube.com/playlist?list=PLcP4K64TKma33Vz9AhPvJpVJuO5jRbcyw) - Spotix
+* [Game Development Tutorial Malayalam \| Godot](https://www.youtube.com/playlist?list=PLcP4K64TKma33Vz9AhPvJpVJuO5jRbcyw) - Spotix
 
 
 ### Git
@@ -117,6 +118,7 @@
 
 * [BOOTSTRAP Malayalam Tutorial](https://youtube.com/playlist?list=PL1JrLEBAapUWqs_HbcYngAOmpPbiccqNy) - Yes Tech Media
 * [Bootstrap Malayalam Tutorials](https://www.youtube.com/playlist?list=PLDavEIls6jrsC9EEox1WWvOlktDJcEUo6) - Malayalam Tutorials
+* [Learn Bootstrap in malayalam](https://www.youtube.com/playlist?list=PL-Z1WBeTYPOp--cI5tnztgjG5lRSPHJrL) - Aks Programming
 
 
 ### Java
@@ -147,6 +149,7 @@
 
 #### Next.JS
 
+* [Next JS For Beginners](https://www.youtube.com/playlist?list=PLCOzHVsG8mkoY7JQC44AkhsIQnN_f_-aS) -  Web diary
 * [Next.js Material UI Malayalam Tutorial](https://www.youtube.com/playlist?list=PL5Y_OOpi0rh0VAfV9Lz7gTdxhPTkmNxeC) -  Tutorial Hut
 
 
@@ -168,7 +171,7 @@
 ### Kotlin
 
 * [Kotlin / Android App Development](https://www.youtube.com/playlist?list=PLefF9wgiOa4WFRP4IvRCZre7xLjRkJdlQ) - Nikin Sk
-* [Kotlin Malayalam | Kotlin programming Tutorials for android malayalam](https://www.youtube.com/playlist?list=PLaP7lUdqAGYPpEutAk6o1jKC08Rc5xMXs) - CODEAVIAL
+* [Kotlin Malayalam \| Kotlin programming Tutorials for android malayalam](https://www.youtube.com/playlist?list=PLaP7lUdqAGYPpEutAk6o1jKC08Rc5xMXs) - CODEAVIAL
 
 
 ### Linux
@@ -192,9 +195,10 @@
 
 ### PHP
 
+* [Learn PHP programming in malayalam](https://www.youtube.com/playlist?list=PL-Z1WBeTYPOoO9mJxVveZ1VgZPVXmyhFL) - Aks Programming
+* [PHP Programming Course Malayalam](https://www.youtube.com/playlist?list=PLefF9wgiOa4WeDSpmKb6gRS-UJKn2FRnN) - Nikin Sk
 * [PHP Programming Malayalam Tutorial for Beginners](https://www.youtube.com/watch?v=nFYWCouZ1UA) - Yes Tech Media
 * [php tutorial in malayalam](https://youtube.com/playlist?list=PLBKJGko2JEdH_T2ki6ty4xGV19qB7Hpmm) - Tintu Vlogger
-* [Learn PHP programming in malayalam](https://www.youtube.com/playlist?list=PL-Z1WBeTYPOoO9mJxVveZ1VgZPVXmyhFL) - Aks Programming
 
 
 #### Laravel
@@ -206,7 +210,9 @@
 
 ### Python
 
+* [OpenCV-Python Computer Vision](https://www.youtube.com/playlist?list=PL1JrLEBAapUWeV2O_wVIrX4BdWvJpepz7) - Yes Tech Media
 * [Python](https://www.youtube.com/playlist?list=PLwe8bwPXjlLveEHvTbKMXJOPkFdXnu4xi) - Learn CSE Malayalam
+* [Python Numpy Malayalam Tutorial](https://www.youtube.com/playlist?list=PL1JrLEBAapUVkjt4Q1R_ZFFRT_80WBCyx) - Yes Tech Media
 * [Python Programming Malayalam Tutorial](https://www.youtube.com/watch?v=ihnWXGPxNEk) - Yes Tech Media
 * [Python Tutorial Malayalam \| Best Malayalam Python Programming Tutorial](https://youtube.com/playlist?list=PLY-ecO2csVHfbpOmWamlb8Mujjdnl1jks) - Brototype Malayalam 
 
@@ -222,3 +228,10 @@
 
 * [Python Flask Malayalam Tutorial](https://youtube.com/playlist?list=PL1JrLEBAapUU-HCC1f5x8YiGEMoZdGl0e) - Yes Tech Media
 * [Web Development with Python Flask](https://www.youtube.com/playlist?list=PLQzHWfiB9fWccYbgcomf5bWTGV7DPqTtB) - Learn Programming In Malayalam
+
+
+### Security
+
+* [Cyber Security Tutorial Malayalam \| Ethical Hacking Courses for IT Career](https://www.youtube.com/playlist?list=PLR2UNjW_Pkm8LUpryeuiLMpEf4KgCDeBu) - RootSaid - Robotics, Technology & Cyber Security
+* [Security Fundamentals](https://www.youtube.com/playlist?list=PLEhpnavDYfVhGnYA4l8btphQG8i2zO4cI) - Cyber Security Malayalam
+

@@ -86,6 +86,7 @@
 ### <a id="csharp"></a>C\#
 
 * [Belajar Pemrograman C#](https://www.youtube.com/playlist?list=PLuGFxya63u253zhOzhxanaSBNJ_UiIhUb) - Galih Pratama
+* [Tutorial Lengkap - Belajar Coding C# Programming untuk Pemula](https://www.youtube.com/playlist?list=PLa6D44cKrtoN9guvynhwiCIdUJ0CJkAMB) - Bimbingan Belajar Coding  
 
 
 ### Construct
@@ -139,6 +140,7 @@
 
 ### Git
 
+* [ALL Basic Pemul](https://www.youtube.com/playlist?list=PLc6SEcJkQ6DxurcQDUkY_t8cIgXya5Blj) - Dea Afrizal
 * [Apa itu GitHub](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCtwnagWsUzZum1CFZYqrB5) - Hilman Ramadhan, Sekolah Koding
 * [Belajar Git](https://www.youtube.com/playlist?list=PLuGFxya63u24bmP-ILRaiGeMwZh3PGxW4) - Galih Pratama
 * [Belajar GIT (Source Code Management)](https://www.youtube.com/playlist?list=PL8bBYpHH3RI6BlCzFTMQvt7sGSycUj7S-) - Eka Putra, UpKoding
@@ -243,6 +245,7 @@
 #### React
 
 * [Belajar React JS Dari Awal Buat Yang Nggak Jago JavaScript](https://www.youtube.com/watch?v=JS5w4rUbjQE) - array id
+* [Belajar React untuk PEMULA](https://www.youtube.com/playlist?list=PLFIM0718LjIUu3X2zYNqomEWs3sYd-fV1) - Sandhika Galih
 * [Belajar ReactJS Bahasa Indonesia](https://www.youtube.com/playlist?list=PLCZlgfAG0GXALZIcEe2t3XVuQ50JYbsbA) - Sekolah Koding
 * [Belajar Testing Pada React Dengan Jest dan RTL](https://www.youtube.com/playlist?list=PLU4DS8KR-LJ1e5H4bX6rCTwBvSl2cll6a) - Prawito Hudoro
 * [Mari Kita Belajar Basic React JS](https://www.youtube.com/playlist?list=PLRKMmwY3-5MwXT8zMPbezhDnTM3cTA5cZ) - Irsyad A. Panjaitan, Parsinta
@@ -311,6 +314,7 @@
 ### MongoDB
 
 * [Belajar MongoDB](https://www.youtube.com/playlist?list=PL-CtdCApEFH-eFFdPeS5e16o3THdmvxvz) - Eko Kurniawan Khannedy, Programmer Zaman Now
+* [MongoDB Tutorial Indonesia](https://www.youtube.com/playlist?list=PLhzwHCJWMbnu830iJ8xLcXgbnklmXpSK5) - Pojok Code
 
 
 ### MySQL
@@ -372,7 +376,6 @@
 * [Python](https://codesaya.com/python/) - CodeSaya
 * [Python (dasar)](https://www.youtube.com/playlist?list=PLT2AwM1dOOUe27iCPe68Z0qwwDeNyJawN) - beecoder id *(Dalam Proses)*
 * [Tutorial Belajar Python Pandas](https://www.youtube.com/playlist?list=PL2O3HdJI4voGdD_9xhVCTBoDTDNHpajm5) - Indonesia Belajar
-* [Tutorial Dasar Pemrograman Python](https://www.petanikode.com/tutorial/python/) - PetaniKode
 * [Tutorial Python Beginner Bahasa Indonesia](https://www.youtube.com/watch?v=rWC2iFlN3TM) - Agung Setiawan
 * [Tutorial Python GUI dengan TKinter](https://www.youtube.com/playlist?list=PL2O3HdJI4voHjX09IpdsiSBNnLRaR-CbJ) - Indonesia Belajar
 * [Tutorial Python OOP Object Oriented Programming Bahasa Indonesia - Full Course](https://www.youtube.com/watch?v=b6Y5CzFM0Oc) - Agung Setiawan
@@ -394,6 +397,7 @@
 
 ### PyTorch
 
+* [Course 5 \| Pengantar Deep Learning \| Tutorial Bahasa Indonesia](https://www.youtube.com/playlist?list=PLGn1wRmlR3Mtz5i4k4qyd5qQjOtm9JSC6) - JCOp Untuk Indonesia
 * [PyTorch untuk Pemula](https://www.youtube.com/playlist?list=PLl-Zj2iuqlwvMCvaX_4POywGiw4TFuHp1) - NgodingPython
 
 
@@ -404,6 +408,7 @@
 
 ### Rust
 
+* [Belajar bahasa pemrograman Rust!](https://www.youtube.com/watch?v=1gRIAVwDlb4&pp=ygUMYmVsYWphciBydXN0) - Ngooding
 * [Belajar Rust](https://www.youtube.com/playlist?list=PLIfsrcorUur10nUSHVq9Mb4yWu87_5lZn) - Dev Activity
 
 
@@ -423,12 +428,13 @@
 ### Terraform
 
 * [Belajar Terraform untuk Pemula](https://www.youtube.com/playlist?list=PL4SGTPmSY0qngs44Ssc0RHO9h4fmZ9JUb) - Giri Kuncoro
+* [DevOps 101](https://www.youtube.com/playlist?list=PLvhu7dkzS_I3T1WlDMJjS85L4In-WYLN_) - Iqbal Syamil
 
 
 ### TypeScript
 
 * [Belajar Typescript Dasar Bahasa Indonesia](https://www.youtube.com/playlist?list=PLiuHSY2x882Z4NSJGNq0eB9Fz6tIx-CgO) - Imam Farisi
 * [Belajar Typescript OOP Bahasa Indonesia](https://www.youtube.com/playlist?list=PLiuHSY2x882a-sLbdqZTtraO3cl0Clwg0) - Imam Farisi
-* [Belajar TypeScript Untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_LJt-fhYfMMgqxirSu6EKo) - Eko Kurniawan Khannedy, Programmer Zaman Now
 * [OOP TypeScript](https://www.youtube.com/playlist?list=PLnQvfeVegcJZRieebeIp0xj1NeC5L633Y) - Nusendra Hanggarawan
+* [Tutorial TypeScript Dasar](https://www.youtube.com/watch?v=C_C64faSO4c) - Eko Kurniawan Khannedy, Programmer Zaman Now
 * [TypeScript Dasar](https://www.youtube.com/playlist?list=PLnQvfeVegcJbjCnML6FdusK-rl-oDRMXJ) - Nusendra Hanggarawan

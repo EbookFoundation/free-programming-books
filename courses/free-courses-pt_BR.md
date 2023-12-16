@@ -38,11 +38,13 @@
 * [Raspberry Pi](#raspberry-pi)
 * [React Native](#react-native)
 * [Ruby](#ruby)
+* [Rust](#rust)
 * [Sass](#sass)
 * [Segurança da Informação](#segurança-da-informação)
 * [SEO](#seo)
 * [Shell](#shell)
 * [Sistemas Embarcados](#sistemas-embarcados)
+* [Smalltalk](#smalltalk)
 * [Swift](#swift)
 * [TypeScript](#typescript)
     * [Angular](#angular)
@@ -113,8 +115,8 @@
 
 ### Elixir
 
-* [Curso de Elixir](https://www.youtube.com/playlist?list=PLydk1OOOmzo8VBeU334j4R4WvSByRNpXR) - ELLY ACADEMY
 * [Curso de Elixir Alquimia](https://www.youtube.com/playlist?list=PLv3nyCBtlWP8I9rknIrfcJWrO05yEzknD) - Alquimia Stone
+* [Elixir (Linguagem de Programação)](https://www.youtube.com/playlist?list=PLydk1OOOmzo-AtU2l102ooounamleyMB9) - Elly Academy
 
 
 ### Flutter
@@ -372,6 +374,11 @@
 * [Tutorial Rails Girls](http://guides.railsgirls.com/guides-ptbr/)
 
 
+### Rust
+
+* [Programando do 0 ao avançado na linguagem de programação Rust](https://www.youtube.com/playlist?list=PLWmXJQDlXOHX6UdAmXv6euoqDPUtMLpJf) - Lanby 0xff3 λ
+
+
 ### Sass
 
 * [Sass placeholders: o jeito certo](https://www.udemy.com/course/sass-placeholders-o-jeito-certo/) - Tárcio Zemel (Udemy)
@@ -387,6 +394,12 @@
 ### Sistemas Embarcados
 
 * [Fundamentos de Sistemas Embarcados](https://www.youtube.com/playlist?list=PLqvo6YdcIqXXGY1dLbf_xA-JLMBumTyzG) - Renato Sampaio
+
+
+### Smalltalk
+
+* [Conhecendo o SmallTalk](https://www.researchgate.net/publication/262882317_Conhecendo_o_Smalltalk_-_Todos_os_Detalhes_da_Melhor_Linguagem_de_Programacao_Orientada_a_Objetos) - Daniel Duarte Abdala, Aldo von Wangenheim (PDF)
+* [Introdução à Programação Orientada a Objetos com Smalltalk](https://dcc.ufrj.br/~jonathan/smalltalk/Introd-a-POO-com-Smalltalk-1994.pdf) - Miguel Jonathan (PDF)
 
 
 ### Swift

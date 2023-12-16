@@ -1,12 +1,18 @@
 ### Index
 
 * [0 - MOOC](#0---mooc)
+* [Flutter](#flutter)
 * [Linux](#linux)
 
 
 ### 0 - MOOC
 
 * [freeCodeCamp](https://chinese.freecodecamp.org)
+
+
+### Flutter
+
+* [Flutter 仿微信朋友圈](https://www.youtube.com/playlist?v=7lZRWWELIaA&list=PL274L1n86T80VQcJb76zcXcPpF-S-fFV-) - ducafecat
 
 
 ### Linux

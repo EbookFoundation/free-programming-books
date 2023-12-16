@@ -115,7 +115,7 @@
 
 #### Django
 
-* [Django Girls Tutorial](https://tutorial.djangogirls.org/hu/) (1.11) (HTML) (:construction: *in process*)
+* [Django Girls Tutorial](https://tutorial.djangogirls.org/hu/) (1.11) (HTML) *(:construction: in process)*
 
 
 ### Windows Phone

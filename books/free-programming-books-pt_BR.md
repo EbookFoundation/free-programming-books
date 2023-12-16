@@ -8,6 +8,7 @@
 * [Android](#android)
 * [Arduino](#arduino)
 * [Assembly](#assembly)
+* [Banco de Dados](#banco-de-dados)
 * [Basic](#basic)
 * [C](#c)
 * [C#](#csharp)
@@ -25,6 +26,8 @@
 * [Go](#go)
 * [Haskell](#haskell)
 * [HTML and CSS](#html-and-css)
+* [Inteligência Artificial](#inteligência-artificial)
+* [Internet das Coisas](#internet-das-coisas)
 * [Java](#java)
 * [JavaScript](#javascript)
     * [AngularJS](#angularjs)
@@ -86,7 +89,7 @@
 #### Sistemas Operacionais
 
 * [Guia Foca Linux](https://www.guiafoca.org/#download) - Gleydson Maziolli (PDF)
-* [Sistemas Operacionais: Conceitos e Mecanismos](http://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-livro.pdf) - Carlos A. Maziero (PDF) (:construction: *em contínuo desenvolvimento*)
+* [Sistemas Operacionais: Conceitos e Mecanismos](http://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-livro.pdf) - Carlos A. Maziero (PDF) *(:construction: em contínuo desenvolvimento)*
 
 
 ### Android
@@ -105,6 +108,11 @@
 * [Linguagem Assembly: Introdução ao padrão Intel 8086](https://github.com/J-AugustoManzano/livro_Assembly-Intro-8086) - José Augusto N. G. Manzano (PDF)
 
 
+### Banco de Dados
+
+* [Introdução a Banco de Dados](https://educapes.capes.gov.br/bitstream/capes/564494/2/FASCICULO_Introducao_Banco_Dados_30_08.pdf) - Joyce Aline de Oliveira Marins, Gracyeli Santos Souza Guarienti (PDF)
+
+
 ### Basic
 
 * [Programação de computadores para iniciantes com Small Basic](https://github.com/J-AugustoManzano/livro_Small-Basic-1.2) - José Augusto N. G. Manzano (PDF)
@@ -115,6 +123,7 @@
 * [Algoritmos em Grafos](https://www.ime.usp.br/~yoshi/2005i/mac328/) - Yoshiharu Kohayakawa (HTML)
 * [Algoritmos para Grafos (via Sedgewick)](https://www.ime.usp.br/~pf/algoritmos_para_grafos/) - Paulo Feofiloff (HTML)
 * [Apostila Linguagem C](http://www.ime.usp.br/~slago/slago-C.pdf) - Silvio Lago (PDF)
+* [C Completo e Total - Terceira Edição (1996)](https://www.inf.ufpr.br/lesoliveira/download/c-completo-total.pdf) - Herbert Schildt (PDF)
 * [Guia Beej's Para Programação em Rede - Usando Internet Sockets](http://beej.us/guide/bgnet/translations/bgnet_ptbr.html) - Brian "Beej Jorgensen" Hall, `trl.:` cv8minix3 (HTML)
 * [Introdução a Programação](https://github.com/ufpb-computacao/introducao-a-programacao-livro/releases) - livro adotado na UFPB.
 * [Linguagem C - Notas de Aula](https://www.inf.ufpr.br/cursos/ci067/Docs/NotasAula/) - Carmem Hara, Wagner Zola (HTML, [PDF](https://www.inf.ufpr.br/cursos/ci067/Docs/NotasAula.pdf))
@@ -190,7 +199,7 @@
 * [Análise de Algoritmos](https://www.ime.usp.br/~pf/analise_de_algoritmos/) - Paulo Feofiloff (HTML)
 * [Computação: Matemática Discreta](https://educapes.capes.gov.br/bitstream/capes/432209/2/Livro_Matematica%20Discreta.pdf) - Raquel Montezuma Pinheiro Cabral (PDF)
 * [Exercícios de Teoria dos Grafos](https://www.ime.usp.br/~pf/grafos-exercicios/) - Paulo Feofiloff (PDF)
-* [Matemática Fundacional para Computação - Em progresso](https://www.tsouanas.org/fmcbook/) - Thanos Tsouanas (:construction: *in process*)
+* [Matemática Fundacional para Computação - Em progresso](https://www.tsouanas.org/fmcbook/) - Thanos Tsouanas *(:construction: em contínuo desenvolvimento)*
 * [Minicurso de Análise de Algoritmos](https://www.ime.usp.br/~pf/livrinho-AA/) - Paulo Feofiloff (PDF)
 * [Otimização Combinatória](https://www.ime.usp.br/~pf/otimizacao-combinatoria/) - Paulo Feofiloff (PDF)
 * [Uma Introdução Sucinta à Teoria dos Grafos](https://www.ime.usp.br/~pf/teoriadosgrafos/) - Y. Kohayakawa, Y. Wakabayashi, P. Feofiloff (PDF)
@@ -207,6 +216,7 @@
 ### GO
 
 * [Aprenda Go com Testes](https://larien.gitbook.io/aprenda-go-com-testes) - Lauren Ferreira
+* [Construindo Aplicações Web em Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/pt-br/) - astaxie
 * [Go - hands on](https://github.com/go-br/estudos)
 * [Go Lang - A linguagem do Google](https://www.ime.usp.br/~gold/cursos/2015/MAC5742/reports/GoLang.pdf) - Suelen Goularte Carvalho (PDF)
 * [Go por Exemplo](http://goporexemplo.golangbr.org) - Mark McGranaghan, Jeremy Ashkenas, golangbr, Daniela Tamy Iwassa (HTML)
@@ -220,15 +230,28 @@
 ### HTML and CSS
 
 * [Apostila de HTML](https://www.telecom.uff.br/pet/petws/downloads/apostilas/HTML.pdf) - Robertha Pereira Pedroso (PDF)
+* [Curso SASS](https://github.com/amandavilela/curso-sass) - Amanda Vilela
 * [Desenvolvimento Web com HTML, CSS e JavaScript](https://www.caelum.com.br/apostila-html-css-javascript/) - Caelum
 * [Dive Into HTML5](http://diveintohtml5.com.br) - Mark Pilgrim
 * [Estruturando o HTML com CSS](http://pt-br.learnlayout.com)
+
+
+### Inteligência Artificial
+
+* [Inteligência artificial: avanços e tendências](https://www.livrosabertos.sibi.usp.br/portaldelivrosUSP/catalog/view/650/579/2181) - Fabio G. Cozman, Guilherme Ary Plonski, Hugo Neri (PDF)
+* [Processamento de Linguagem Natural: Conceitos, Técnicas e Aplicações em Português](https://brasileiraspln.com/livro-pln/) - Helena M. Caseli, Maria G. V. Nunes (PDF)
+
+
+### Internet das Coisas
+
+* [A Internet das Coisas](https://bibliotecadigital.fgv.br/dspace/bitstream/handle/10438/23898/A%20internet%20das%20coisas.pdf) - Eduardo Magrani (PDF)
 
 
 ### Java
 
 * [Imergindo na JVM](https://leanpub.com/imergindo-jvm) - Otavio Santana *(Leanpub account or valid email requested)*
 * [Introdução a Ciência da Computação com Java](http://ccsl.ime.usp.br/files/publications/files/2008/intro-java-cc.pdf) Alfredo Goldman, Fabio Kon, Paulo J. S. Silva (PDF)
+* [Java Básico e Oriêntação a Objeto](https://canal.cecierj.edu.br/012016/d7d8367338445d5a49b4d5a49f6ad2b9.pdf) - Clayton Escouper das Chagas, Cássia Blondet Baruque, Lúcia Blondet Baruque (PDF)
 * [Java e Orientação a Objetos](http://www.caelum.com.br/apostila-java-orientacao-objetos/) - Caelum
 * [Java para Desenvolvimento Web](http://www.caelum.com.br/apostila-java-web/) - Caelum
 * [Programação Orientada a Objetos: Uma Abordagem com Java](https://www.dca.fee.unicamp.br/cursos/PooJava/Aulas/poojava.pdf) - Ivan Luiz Marques Ricarte (PDF)
@@ -365,6 +388,7 @@
 ### Pascal
 
 * [Algoritmos e Estruturas de Dados I](https://www.inf.ufpr.br/marcos/livro_alg1/livro_alg1.pdf) - Marcos Alexandre Castilho, Fabiano Silva, Daniel Weingaertner (PDF)
+* [Programando com Pascal](https://ic.ufal.br/professor/jaime/livros/Programando%20com%20Pascal.pdf) - Jaime Evaristo (PDF)
 
 
 ### PHP

@@ -35,7 +35,7 @@
 * [Scratch](#scratch)
 * [Shell](#shell)
 * [UML](#uml)
-* [Unabhängig der Programmiersprache](#unabhängig-der-programmiersprache)
+* [Unabhängig von der Programmiersprache](#unabhängig-von-der-programmiersprache)
 * [Unix](#unix)
 * [VHDL](#vhdl)
 * [Visual Basic](#visual-basic)
@@ -205,15 +205,14 @@
 ### Python
 
 * [A Byte of Python - Einführung in Python](https://sourceforge.net/projects/abop-german.berlios/files) - Swaroop C H, Bernd Hengelein, Lutz Horn, Bernhard Krieger, Christoph Zwerschke (PDF)
-* [Einführung in Python](http://www.mschimmels.de/eigeneDateien/Python-Kurs.pdf) - Martin Schimmels (PDF)
 * [Programmiereinführung mit Python](http://opentechschool.github.io/python-beginners/de) (Online)
-* [PyQt und PySide: GUI und Anwendungsentwicklung mit Python und Qt](https://github.com/pbouda/pyqt-und-pyside-buch) - Peter Bouda, Michael Palmer, Dr. Markus Wirz (TeX, [PDF](https://github.com/pbouda/pyqt-und-pyside-buch/releases/latest)) *(:construction: in process)*
+* [PyQt und PySide: GUI und Anwendungsentwicklung mit Python und Qt](https://github.com/pbouda/pyqt-und-pyside-buch) - Peter Bouda, Michael Palmer, Dr. Markus Wirz (TeX, [PDF](https://github.com/pbouda/pyqt-und-pyside-buch/releases/latest)) *(:construction: in Bearbeitung)*
 * [Python 3 - Das umfassende Handbuch](http://openbook.rheinwerk-verlag.de/python) - Johannes Ernesti, Peter Kaiser (Online)
 
 
 #### Django
 
-* [Django Girls Tutorial](https://tutorial.djangogirls.org/de) (1.11) (HTML) (:construction: *in process*)
+* [Django Girls Tutorial](https://tutorial.djangogirls.org/de) (1.11) (HTML) *(:construction: in Bearbeitung)*
 
 
 ### R
@@ -260,7 +259,7 @@
 * [Der moderne Softwareentwicklungsprozess mit UML](http://www.highscore.de/uml) - Boris Schäling (HTML)
 
 
-### Unabhängig der Programmiersprache
+### Unabhängig von der Programmiersprache
 
 * [Clean Code Developer: Eine Initiative für mehr Professionalität in der Softwareentwicklung](http://clean-code-developer.de) (Online)
 * [IT-Handbuch für Fachinformatiker](http://openbook.rheinwerk-verlag.de/it_handbuch) - Sascha Kersken (Online)

@@ -16,6 +16,7 @@
     * [SQL](#sql)
 * [Deep Learning](#deep-learning)
 * [DevOps](#devops)
+* [Docker](#docker)
 * [Elastic](#elastic)
 * [Flutter](#flutter)
 * [Game Development](#game-development)
@@ -60,14 +61,14 @@
 * [CS Master - Level 2- Dive into the Computer كيف يعمل الكمبيوتر](https://www.youtube.com/playlist?list=PLL2zWZTDFZziX_xS2bbGfLAOHVmlzURhF) - KMR Script
 * [CS50 in Arabic&rlm;](https://www.youtube.com/playlist?list=PLL2zWZTDFZzibJ49gBM2owqCzda8meSNj) - KMR Script
 * [CS50 In Arabic&rlm;](https://www.youtube.com/playlist?list=PLnrlZUDQofUv7JE4QIahAyztrQU9bnJmd) - Coders Camp - Rasha Abdeen
-* [Cs50 In Arabic 2022 \| كورس cs50 بالعربي كامل](https://www.youtube.com/playlist?list=PLknwEmKsW8OvsdJ64v5YljHNtt100kN6w) - Abdelrahman Gamal&rlm; (:construction: *in process*)
+* [Cs50 In Arabic 2022 \| كورس cs50 بالعربي كامل](https://www.youtube.com/playlist?list=PLknwEmKsW8OvsdJ64v5YljHNtt100kN6w) - Abdelrahman Gamal&rlm; *(:construction: in process)*
 * [Data structure&rlm;](https://www.youtube.com/playlist?list=PLIxq078xdGdZWUXwumK9lbEn3kKwKLTwx) - Nehal Elsamoly
 * [Data Structure&rlm;](https://www.youtube.com/playlist?list=PLwCMLs3sjOY4UQq4vXgGPwGLVX1Y5faaS) - Hard-Code
 * [Data Structure : JavaScript (leetcode problem solving)&rlm;](https://www.youtube.com/playlist?list=PLS-MrzRLZtmdIHJ-Osvv_sJO1Msc4VM_7) - Shadow Coding
 * [Data Structure C++&lrm;&rlm;](https://www.youtube.com/playlist?list=PLsGJzJ8SQXTcsXRVviurGei0lf_t_I4D8) - Mega Code
 * [Data Structures and Algorithms&rlm;](https://www.youtube.com/playlist?list=PL0vtyWBHY2NVOtPYuz0rNw6kmuLmVZ780) - Tarek Alabd&rlm; (:construction: *in process*)
 * [Data Structures Full Course In Arabic&rlm;](https://www.youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp) - Adel Nasim
-* [grokking-algorithms&rlm;](https://www.youtube.com/playlist?list=PLIxq078xdGdZl38Yx2IhYc_YpKjx7MAXW) - Nehal Elsamoly&rlm; (:construction: *in process*)
+* [grokking-algorithms&rlm;](https://www.youtube.com/playlist?list=PLIxq078xdGdZl38Yx2IhYc_YpKjx7MAXW) - Nehal Elsamoly&rlm; *(:construction: in process)*
 * [Problem solving (Arabic)&rlm;](https://www.youtube.com/playlist?list=PLYknlDiw2kSwdDhTSDoX7ZoVEle8nbZdk) - Muhammed Afifi
 * [Standard Template Library (STL) Full Tutorial Using C++ In Arabic&rlm;](https://www.youtube.com/playlist?list=PLCInYL3l2AainAE4Xq2kdNGDfG0bys2xp) - Adel Nasim
 
@@ -80,7 +81,7 @@
 
 ### AWS
 
-* [AWS Certified Solutions Architect - Associate By Eng-Mohammed Oday | Arabic](https://www.youtube.com/playlist?list=PLCIJjtzQPZJ_yv1T4eKYsY1hZxcYSjhGY) - Free4arab | Information Technology
+* [AWS Certified Solutions Architect - Associate By Eng-Mohammed Oday \| Arabic](https://www.youtube.com/playlist?list=PLCIJjtzQPZJ_yv1T4eKYsY1hZxcYSjhGY) - Free4arab \| Information Technology
 * [AWS SAA-C02 - كورس كامل بالعربي مع المهندس عيسى أبو شريف](youtube.com/playlist?list=PLOoZRfEtk6kWSM_l9xMjDh-_MJXl03-pf) - AWS Riyadh User Group
 
 
@@ -128,7 +129,7 @@
 * [CS Master - Level 4 - Object Oriented Programming & Design Patterns&rlm;](https://www.youtube.com/playlist?list=PLL2zWZTDFZzhul3X8djkfXzUxl7Cw7-sF) - KMR Script
 * [Fundamentals Of Programming With C++&lrm;&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS) - Elzero Web School 
 * [Introduction to Programming Using C++&lrm;&rlm;](https://www.youtube.com/playlist?list=PL3X--QIIK-OFIRbOHbOXbcfSAvw198lUy) - Programming Advices
-* [Modern c++&lrm;&rlm;](https://www.youtube.com/playlist?list=PLkH1REggdbJpykrlVYYRteEstS6F4VNtP) - Moatasem El Sayed&rlm; (:construction: *in process*)
+* [Modern c++&lrm;&rlm;](https://www.youtube.com/playlist?list=PLkH1REggdbJpykrlVYYRteEstS6F4VNtP) - Moatasem El Sayed&rlm; *(:construction: in process)*
 * [Object-Oriented Programming C++ in Arabic&rlm;](https://www.youtube.com/playlist?list=PLCInYL3l2Aaiq1oLvi9TlWtArJyAuCVow) - Adel Nasim
 * [Object-Oriented Programming with C++&lrm;&rlm;](https://www.youtube.com/playlist?list=PLMm8EjqH1EFXG_-EgmKb1gxW5S4XaQYaE) - Ahmed Sallam
 * [Programming 1 - Programming For Beginners - C++&lrm;&rlm;](https://www.youtube.com/playlist?list=PL1DUmTEdeA6IUD9Gt5rZlQfbZyAWXd-oD) - محمد الدسوقي
@@ -167,6 +168,7 @@
 * [Learn MySQL&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz6DT8SzQ1CODJTH-NIA7R9) - Elzero Web School
 * [MS SQL Server For Beginners](https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE) - محمد الدسوقى
 * [MySQL tutorials \|\| بناء قواعد البيانات بكفاءة عالية](https://www.youtube.com/playlist?list=PLF8OvnCBlEY25O_Ql0CrgQUAc5NVYkWF2) - TheNewBaghdad
+* [SQL for Data Analysis \| شاهد كيف أصبح الفيل والدرفيل أصدقاء](https://www.youtube.com/watch?v=kb-_GbpH3sQ) -  Big Data
 
 
 ### Deep Learning
@@ -182,6 +184,11 @@
 
 * [GitOps and K8s بالعربي](https://www.youtube.com/playlist?list=PLTRDUPO2OmInz2Fo41zwnoR1IArx70Hig) - Ahmed Elemam
 * [Kubernetes بالعربي](https://www.youtube.com/playlist?list=PLX1bW_GeBRhDCHijCrMO5F-oHg52rRBpl) - Codographia
+
+
+### Docker
+
+* [Docker and Kubernetes \| العلبة دي فيها سوعبان \| Arabic](https://www.youtube.com/watch?v=PrusdhS2lmo) - Ahmed Sami 
 
 
 ### Elastic
@@ -216,9 +223,10 @@
 * [Basic course for Git](https://www.youtube.com/playlist?list=PLYyqC4bNbCIeCHLTRtwdLpQvle_zIavZ-) - أكاديمية ترميز
 * [Git & Github in Arabic \| Git & Github كورس تعلم](https://www.youtube.com/playlist?list=PL_aOZuct6oAogr4UMkWddU7leOXw0QKJS) - Khalid Elshafie
 * [Git and Github&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF) - Elzero Web School
+* [Git and GitHub | شخبط وانت متطمن ](https://www.youtube.com/watch?v=Q6G-J54vgKc&t=3162s&pp=ygUMZ2l0IGJpZyBkYXRh) - Ahmed Sami
 * [Git GitHub & Bitbucket&rlm;](https://www.youtube.com/playlist?list=PL1FWK-sgJ9elQBDq5EtQ8AJFTlfqCJfEX) - Bashir Pro
 * [GitHub - تعلم العمل المشترك على](https://www.youtube.com/playlist?list=PLF8OvnCBlEY0CRqKiYKwOtrH-75MGIuyM) - TheNewBaghdad
-* [Learn Git in Arabic&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNOYVfQs_NFNyykcqkaJ_plmK) - Algorithm Academy
+* [Learn Git in Arabic&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNOYVfQs_NFNyykcqkaJ_plmK) - Algorithm Academy 
 
 
 ### HTML and CSS
@@ -406,7 +414,10 @@
 
 ### Operating Systems
 
+* [Linux System&rlm;](https://www.youtube.com/playlist?list=PL8pYI62gCNsWTppELEUCpforC4avEiLox) - anahr
+* [Operating Systems - أنظمة التشغيل](https://www.youtube.com/playlist?list=PLxIvc-MGOs6ib0oK1z9C46DeKd9rRcSMY) - Ahmed Hagag
 * [Operating Systems - نظم التشغيل](https://www.youtube.com/playlist?list=PLMm8EjqH1EFV-jECqtMxeVMDoVkV_kJDY) - Ahmed Sallam
+* [Operating Systems in Arabic - شرح نظم التشغيل](https://www.youtube.com/playlist?list=PLTr1xN4uMK5seRz6IO7Am9Zp2UKdnzO_n) - Mohamed Alsayed
 
 
 ### PHP
@@ -451,6 +462,7 @@
 ### Python
 
 * [تعلم أساسيات البرمجة](https://www.youtube.com/playlist?list=PLvGNfY-tFUN8HRLDE-D2sXvIgYwspdmFE) - غريب الشيخ \|\| Ghareeb Elshaik
+* [قناة علم البيانات - حسام الحوراني](https://www.youtube.com/playlist?list=PLYW0LRZ3ePo6IYDS2K5IhmuP5qY3dmI9e) - Hussam Hourani
 * [كورس بايثون من الصفر \| سلسلة دروس لغة البايثون \| python](https://www.youtube.com/playlist?list=PLYyqC4bNbCIcxKO_r77w5MN1SRRnnfvNQ) - أكاديمية ترميز
 * [Learn Python3&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNOazcliAXXivOrg9GiAVuoQg) - Algorithm Academy
 * [Master Python from Beginner to Advanced in Arabic - دورة تعلم بايثون من الصفر كاملة للمبتدئين](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ) - Codezilla
@@ -499,11 +511,11 @@
 
 ### Software Architecture
 
-* [Behavioral Design Patterns بالعربى](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdex66Z6ViaYFQqvFD1C_G7j) - Mohammed Reda&rlm; (:construction: *in process*)
+* [Behavioral Design Patterns بالعربى](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdex66Z6ViaYFQqvFD1C_G7j) - Mohammed Reda&rlm; *(:construction: in process)*
 * [Clean Code Book - بالعربي](https://www.youtube.com/playlist?list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX) - Omar Ahmed
 * [Creational Design Patterns بالعربى](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdewk9UKGBcHLulZNUBpNSKJ) - Mohammed Reda
 * [Declarative Programming](https://www.youtube.com/playlist?list=PLpbZuj8hP-I6F-Zj1Ay8nQ1rMnmFnlK2f) - درة الاكواد لابن حماد
-* [Design patterns&rlm;](https://www.youtube.com/playlist?list=PLIxq078xdGdYIo2Slyt4XvBElKDcTSgHM) - Nehal Elsamoly&rlm; (:construction: *in process*)
+* [Design patterns&rlm;](https://www.youtube.com/playlist?list=PLIxq078xdGdYIo2Slyt4XvBElKDcTSgHM) - Nehal Elsamoly&rlm; *(:construction: in process)*
 * [Software Design Patterns](https://www.youtube.com/playlist?app=desktop&list=PLrwRNJX9gLs3oQyBoXtYimY7M5aSF0_oC) - محمد يحيى
 * [SOLID Principles بالعربى](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdflFSS4NigVB7aSoYPNwHTL) -  Mohammed Reda
 * [SOLID Principles بالعربي](https://www.youtube.com/playlist?list=PLwWuxCLlF_uevri_OpofVLXkRRFnZ7TSV) - Omar Ahmed

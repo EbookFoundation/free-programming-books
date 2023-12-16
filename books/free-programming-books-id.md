@@ -5,7 +5,6 @@
 * [C#](#csharp)
 * [C++](#cpp)
 * [CodeIgniter](#codeigniter)
-* [Flutter](#flutter)
 * [Git](#git)
 * [Go](#go)
 * [HTML and CSS](#html-and-css)
@@ -37,7 +36,7 @@
 
 ### C
 
-* [Belajar Pemrograman C untuk Pemula](https://www.petanikode.com/tutorial/c/) - Ahmad Muhardian (:construction: *in process*)
+* [Belajar Pemrograman C untuk Pemula](https://www.petanikode.com/tutorial/c/) - Ahmad Muhardian *(:construction: in process)*
 * [Tutorial Belajar Bahasa Pemrograman C Untuk Pemula](https://www.duniailkom.com/tutorial-belajar-bahasa-pemrograman-c-bagi-pemula/) - Duniailkom
 
 
@@ -57,14 +56,8 @@
 * [Codeigniter Untuk Pemula](https://repository.bsi.ac.id/index.php/unduh/item/176695/Tutorial-Codeigniter-Untuk-Pemula.pdf) - M Fikri Setiadi (PDF)
 * [Framework Codeigniter - Sebuah Panduan dan Best Practice](https://gilacoding.com/upload/file/Tutorial%20framework%20codeigniter.pdf) - Gila Coding (PDF)
 * [Panduan Pengguna CodeIgniter Indonesia](https://codeigniter-id.github.io/user-guide/) - CodeIgniter Indonesia
-* [Tutorial CodeIgniter 3 & 4](https://www.petanikode.com/tutorial/codeigniter/) *(Dalam Proses)*
+* [Tutorial CodeIgniter 3 & 4](https://www.petanikode.com/tutorial/codeigniter/) *(:construction: dalam proses)*
 * [Tutorial CodeIgniter 4](http://mfikri.com/artikel/tutorial-codeigniter4)
-
-
-### Flutter
-
-* [Belajar Flutter](https://belajarflutter.com) - Herry Prasetyo (HTML)
-* [Flutter dan Flutlab](https://utter.academy/uploads/lesson_files/2f0c5c74e9488d4c9c734e4264e5869e.pdf) - Utter academy (PDF)
 
 
 ### Git
@@ -84,7 +77,7 @@
 ### HTML and CSS
 
 * [Ebook Belajar HTML Dan CSS Dasar](https://www.malasngoding.com/download-ebook-belajar-html-dan-css-dasar-gratis/)
-* [Tutorial Dasar CSS untuk Pemula](https://www.petanikode.com/tutorial/css/) - Ahmad Muhardian (Petani Kode) *(:construction: Dalam Proses)*
+* [Tutorial Dasar CSS untuk Pemula](https://www.petanikode.com/tutorial/css/) - Ahmad Muhardian (Petani Kode) *(:construction: dalam proses)*
 * [Tutorial HTML untuk Pemula](https://www.petanikode.com/tutorial/html/) - Ahmad Muhardian (Petani Kode)
 
 
@@ -114,7 +107,7 @@
 * [Javascript Guide](https://gilacoding.com/upload/file/Javascript%20Guide.pdf) - Desrizal (PDF)
 * [Mengenal JavaScript](http://masputih.com/2013/01/ebook-gratis-mengenal-javascript)
 * [Otomatisasi dengan gulp.js](https://kristories.gitbooks.io/otomatisasi-dengan-gulp-js/content/)
-* [Tutorial Dasar Javascript untuk Pemula](https://www.petanikode.com/tutorial/javascript/) *(Dalam Proses)*
+* [Tutorial Dasar Javascript untuk Pemula](https://www.petanikode.com/tutorial/javascript/) *(:construction: dalam proses)*
 * [Tutorial JavaScript Modern](https://id.javascript.info) - Ilya Kantor
 
 
@@ -179,7 +172,7 @@
 
 ### Pemrograman Kompetitif
 
-* [Pemrograman Kompetitif Dasar](https://ksn.toki.id/data/pemrograman-kompetitif-dasar.pdf) - William Gozali, Alham Fikri Aji (PDF)
+* [Pemrograman Kompetitif Dasar](https://osn.toki.id/data/pemrograman-kompetitif-dasar.pdf) - William Gozali, Alham Fikri Aji (PDF)
 * [Referensi Pemrograman Bahasa Pascal](https://toki.id/download/referensi-pemrograman-bahasa-pascal/) - Tim Pembina Toki (PDF)
 
 
@@ -197,14 +190,13 @@
 * [PHP: The Right Way Bahasa Indonesia](http://id.phptherightway.com/#site-header/)
 * [Tutorial Belajar PHP Dasar Untuk Pemula](https://www.duniailkom.com/tutorial-belajar-php-dasar-untuk-pemula/) - Duniailkom
 * [Tutorial Ebook PHP](http://www.ilmuwebsite.com/ebook-php-free-download)
-* [Tutorial Pemrograman PHP untuk Pemula](https://www.petanikode.com/tutorial/php) - Ahmad Muhardian (Petani Kode) *(Dalam Proses)*
+* [Tutorial Pemrograman PHP untuk Pemula](https://www.petanikode.com/tutorial/php) - Ahmad Muhardian (Petani Kode) *(:construction: dalam proses)*
 
 
 ### Python
 
 * [Belajar Python](http://www.belajarpython.com)
 * [Cepat Mahir Python](https://gilacoding.com/upload/file/Python.pdf) - Hendri, `edt.:` Romi Satria Wahono (PDF)
-* [Dasar Pemrograman Python](https://www.pythonindo.com/tutorial-python-dasar/)
 * [Dasar Pengenalan Pemrograman Python](https://play.google.com/store/books/details/Rolly_Maulana_Awangga_Dasar_dasar_Python?id=YpzDDwAAQBAJ) - Rolly Maulana AwanggaRayhan *(Membutuhkan akun Google Play Books atau email yang valid)*
 * [Kursus Singkat Machine Learning dengan TensorFlow API](https://developers.google.com/machine-learning/crash-course?hl=id)
 * [Python Untuk Pemula](https://santrikoding.com/ebook/python-untuk-pemula) - Rizqi Maulana

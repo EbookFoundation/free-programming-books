@@ -138,7 +138,7 @@ Contoh:
 - <a id="in_process"></a>Buku dalam proses:
 
     ```text
-    BAIK  : * [Akan Segera Menjadi Buku yang Luar Biasa](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)
+    BAIK  : * [Akan Segera Menjadi Buku yang Luar Biasa](http://example.com/book2.html) - John Doe (HTML) *(:construction: in process)*
     ```
 
 - <a id="archived"></a>Archived link:

@@ -14,7 +14,6 @@
 * [HTML and CSS](#html-and-css)
 * [iOS](#ios)
 * [Java](#java)
-* [JavaScript](#javascript)
 * [LaTeX](#latex)
 * [Linux](#linux)
 * [.NET Framework](#net-framework)
@@ -110,11 +109,6 @@
 * [Java Kitabı](https://ia601503.us.archive.org/27/items/java-kitabi/java-kitabi.pdf) (PDF)
 
 
-### JavaScript
-
-* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/tr)
-
-
 ### LaTeX
 
 * [İnce bir LaTeX2ε Elkitabı](http://www.ctan.org/tex-archive/info/lshort/turkish)
@@ -142,7 +136,7 @@
 
 * [Django](https://web.archive.org/web/20210302105925/https://www.pythondersleri.com/p/django-egitim-serisi.html) - Python Dersleri *(:card_file_box: archived)*
 * [Django Egitimi](https://web.archive.org/web/20210802025720/https://gokmengorgen.net/django-notes/) *(:card_file_box: archived)*
-* [Django Girls Eğitimi](https://tutorial.djangogirls.org/tr) (1.11) (HTML) (:construction: *in process*)
+* [Django Girls Eğitimi](https://tutorial.djangogirls.org/tr) (1.11) (HTML) *(:construction: in process)*
 
 
 ### R

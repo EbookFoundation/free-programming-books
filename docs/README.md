@@ -80,6 +80,7 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
   - [Contributing](CONTRIBUTING-ko.md)
   - [How-to](HOWTO-ko.md)
 - Malayalam / മലയാളം
+  - [Code of Conduct](CODE_OF_CONDUCT-ml.md)
   - [How-to](HOWTO-ml.md)
 - Marathi / मराठी
   - [आचरण संहिता](CODE_OF_CONDUCT-mr.md)

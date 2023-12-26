@@ -1063,7 +1063,6 @@
 * [Data brokering with Node.js: Process data at the speed of technology](https://heynode.com) - Osio Labs Inc. *(signup requested, not required)*
 * [Express JS Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE) - Brad Traversy, Traversy Media
 * [ExpressJS Fundamentals](https://www.udemy.com/course/expressjs-fundamentals/) - Patrick Schroeder (Udemy)
-* [Intro to Node.Js](https://learn.microsoft.com/en-us/training/modules/intro-to-nodejs/) - Microsoft Learn
 * [Node and Express Tutorial](https://www.youtube.com/watch?v=TNV0_7QRDwY) - John Smilga, Coding Addict
 * [Node.js API Development for Beginners](https://www.udemy.com/course/node-js-api-tutorial/) (Udemy)
 * [Node.js Basics](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa-d0iZg41U2RDqECol9C5B) - Java Brains

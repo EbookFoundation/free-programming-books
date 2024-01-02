@@ -58,8 +58,8 @@ ADV - Продвинутый. Тонкости.
 
 ### Dart
 
+* [Основы программирования на Dart](https://stepik.org/course/109361) - Stepik (BEG)
 * [Основы Dart](https://stepik.org/course/92982) - Анна Музыкина (Stepik) (BEG)
-* [Основы Dart](https://stepik.org/course/97479) - Станислав Чернышев (Stepik) (BEG)
 
 
 ### Elixir

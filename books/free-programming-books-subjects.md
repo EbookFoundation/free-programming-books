@@ -402,7 +402,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [A First Encounter with Machine Learning](https://web.archive.org/web/20210420163002/https://www.ics.uci.edu/~welling/teaching/ICS273Afall11/IntroMLBook.pdf) - Max Welling (PDF) *(:card_file_box: archived)*
 * [A Selective Overview of Deep Learning](https://arxiv.org/abs/1904.05526) - Fan, Ma, Zhong (PDF)
 * [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf) - Csaba Szepesvári (PDF)
-* [An Introduction to Statistical Learning](https://web.stanford.edu/~hastie/ISLR2/ISLRv2_website.pdf) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani (PDF)
+* [An Introduction to Statistical Learning](https://www.statlearning.com) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani
 * [Approaching Almost Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost) - Abhishek Thakur (PDF)
 * [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
 * [Deep Learning](https://www.deeplearningbook.org) - Ian Goodfellow, Yoshua Bengio, Aaron Courville

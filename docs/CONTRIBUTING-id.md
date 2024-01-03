@@ -61,7 +61,7 @@ Dengan berkontribusi, Anda setuju untuk menghormati [Kode Etik](CODE_OF_CONDUCT-
 - Sertakan nama atau nama-nama penulis (jika penulis lebih dari satu). Anda dapat menyingkat daftar penulis dengan "`et al.`".
 - Jika buku belum selesai, dan masih dalam tahap pengerjaan, tambahkan keterangan "`dalam proses`" seperti yang dijelaskan [di bawah ini](#in_process).
 - Jika suatu sumber merupakan sumber yang dipulihkan menggunakan [*Internet Archive's Wayback Machine*](https://web.archive.org) (atau serupa), mohon tambahkan keterangan "`terarsip`" seperti yang dijelaskan [di bawah](#archived). Akan tetapi mohon gunakan versi terbaru dan lengkap.
-- Jika suatu sumber membutuhkan alamat email pengunduh/pengunjung atau membutuh:kan proses pembuatan akun maka tambahkan catatan sesuai dengan bahasa yang tepat dalam tanda kurung, misalnya: `(alamat email *wajib*, tidak wajib)`.
+- Jika suatu sumber membutuhkan alamat email pengunduh/pengunjung atau membutuhkan proses pembuatan akun maka tambahkan catatan sesuai dengan bahasa yang tepat dalam tanda kurung, misalnya: `(alamat email *wajib*, tidak wajib)`.
 
 
 <!----><a id="formatting"></a>

@@ -72,6 +72,7 @@ ADV - Продвинутый. Тонкости.
 * [Основы Go](https://ru.hexlet.io/courses/go-basics) - Hexlet (BEG)
 * [Программирование на Golang](https://stepik.org/course/54403) - Stepik (BEG)
 * [Go (Golang) - первое знакомство](https://stepik.org/course/100208) - Stepik (BEG)
+* [PRO Go. Основы программирования](https://stepik.org/course/158385) - Stepik (BEG)
 
 
 ### Haskell
@@ -104,6 +105,7 @@ ADV - Продвинутый. Тонкости.
 * [Основы JavaScript](https://ru.hexlet.io/courses/js-basics) - Hexlet (BEG)
 * [Парадигмы программирования](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Paradigms.md) - Тимур Шемсединов (INT)
 * [Параллельное программирование](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Parallel.md) - Тимур Шемсединов (INT)
+* [Погружение в JavaScript: для начинающих](https://stepik.org/course/180784) - Stepik (BEG)
 * [Современный учебник JavaScript](https://learn.javascript.ru) - Илья Кантор (INT)
 * [Технологический стек NodeJS](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/NodeJS.md) - Тимур Шемсединов (INT)
 * [Функциональное программирование](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/Functional.md) - Тимур Шемсединов (INT)
@@ -134,6 +136,7 @@ ADV - Продвинутый. Тонкости.
 * [Введение в Kotlin JVM](https://stepik.org/course/5448) - Stepik (BEG)
 * [Разработка Android-приложений на Kotlin](https://stepik.org/course/4792) - Stepik (BEG)
 * [Руководство по языку Kotlin](https://metanit.com/kotlin/tutorial/) - Metanit (BEG/INT)
+* [PRO Kotlin. Основы программирования](https://stepik.org/course/131507) - Stepik (BEG)
 
 
 ### Perl

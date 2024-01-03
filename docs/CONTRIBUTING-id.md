@@ -277,7 +277,7 @@ Jika Anda dapat mencetaknya dan isi tidak berubah, maka itu bukan Tutorial Inter
 
 - Proses validasi aturan-aturan tulisan/pemformatan dilakukan secara otomatis oleh [GitHub Actions](https://github.com/features/actions) dengan menggunakan [fpb-lint](https://github.com/vhf/free-programming-books-lint) (lihat [`.github/workflows/fpb-lint.yml`](../.github/workflows/fpb-lint.yml)).
 - Proses validasi URL menggunakan [awesome_bot](https://github.com/dkhamsing/awesome_bot).
-- Untuk menjalan proses validasi URL, *lakukan commit* yang mencatumkan pesan `check_urls=berkas_yang_akan_dicek`:
+- Untuk menjalankan proses validasi URL, *lakukan commit* yang mencatumkan pesan `check_urls=berkas_yang_akan_dicek`:
 
     ```properties
     check_urls=free-programming-books.md free-programming-books-id.md

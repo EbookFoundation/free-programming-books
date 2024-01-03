@@ -283,5 +283,5 @@ Jika Anda dapat mencetaknya dan isi tidak berubah, maka itu bukan Tutorial Inter
     check_urls=free-programming-books.md free-programming-books-id.md
     ```
 
-- Anda dapat memvalidasi URL banyak berkas, dengan menggunakan spasi sebagai pemisah masing-masing berkas.
+- Anda dapat memvalidasi URL banyak berkas dengan menggunakan spasi sebagai pemisah masing-masing berkas.
 - Jika Anda memvalidasi URL untuk banyak berkas, hasil validasi yang ditampilkan merupakan hasil validasi dari berkas terakhir. Sehingga, jika proses validasi berhasil, mohon untuk memeriksa log dari proses validasi pada Pull Request  Anda dengan mengklik "Show all checks" -> "Details".

@@ -69,7 +69,7 @@ Dengan berkontribusi, Anda setuju untuk menghormati [Kode Etik](CODE_OF_CONDUCT-
 
 - Semua daftar tautan ditulis pada berkas `.md`. Coba pelajari sintaks [Markdown](https://guides.github.com/features/mastering-markdown/). Itu mudah!
 - Semua daftar tautan dimulai dengan Indeks. Idenya adalah untuk membuat daftar dan menautkan semua bagian dan subbagian di sana. Simpan dalam urutan alfabetis.
-- Daftar tautan menggunakan heading level 3 (`###`), dan sub-nya menggunakan heading level 4 (`####`).
+- Bagian daftar tautan menggunakan heading level 3 (`###`), dan subbagiannya menggunakan heading level 4 (`####`).
 
 Idenya adalah untuk memiliki:
 

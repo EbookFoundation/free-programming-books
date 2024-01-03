@@ -16,7 +16,7 @@ Dengan berkontribusi, Anda setuju untuk menghormati [Kode Etik](CODE_OF_CONDUCT-
 <!----><a id="in-a-nutshell"></a>
 ## Versi pendek
 
-1. "Tautan download buku" tidak selalu merujuk pada buku yang benar-benar *gratis*. Mohon untuk hanya mendaftarkan tautan ke buku/konten yang benar-benar gratis. Kami tidak menerima tautan ke halaman website yang *membutuhkan* alamat email dari pengguna sebelum mengunduh atau mengakses kontennya. Kami bisa menerima tautan yang membutuhkan alamat email pengguna (atau yang serupa) jika pada bagian keterangan sesuai dengan panduan yang kami berikan.
+1. "Tautan untuk mengunduh buku" tidak selalu merujuk pada buku yang benar-benar *gratis*. Mohon untuk hanya mendaftarkan tautan ke buku/konten yang benar-benar gratis. Kami tidak menerima tautan ke situs web yang *membutuhkan* alamat email dari pengguna sebelum mengunduh atau mengakses kontennya. Kami hanya dapat menerima tautan yang membutuhkan alamat email pengguna (atau yang serupa) jika bagian keterangan sesuai dengan panduan yang kami berikan.
 
 2. Anda tidak harus terbiasa dengan Git: jika Anda menemukan sesuatu yang menarik *dan belum ada di repositori ini*, silakan buka [Isu](https://github.com/EbookFoundation/free-programming-books/issues) dengan proposal tautan Anda.
     - Jika Anda sudah familiar dengan Git, fork repositori dan kirimkan Pull Request (PR) Anda.

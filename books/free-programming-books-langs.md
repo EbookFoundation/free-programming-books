@@ -1057,7 +1057,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Java Application Development on Linux (2005)](https://ptgmedia.pearsoncmg.com/images/013143697X/downloads/013143697X_book.pdf) - Carl Albing, Michael Schwarz (PDF)
 * [Java, Java, Java Object-Oriented Problem Solving](https://archive.org/details/JavaJavaJavaObject-orientedProblemSolving/page/n0) - R. Morelli, R.Walde
 * [Java Language and Virtual Machine Specifications](https://docs.oracle.com/javase/specs/) - James Gosling, et al.
-* [Java Masters](https://javamasters.io/servlets) - Java Masters (HTML)
 * [Java Notes for Professionals](http://goalkicker.com/JavaBook/) - Compiled from StackOverflow documentation (PDF)
 * [Java Programming](https://en.wikibooks.org/wiki/Java_Programming) - Wikibooks
 * [Java Programming for Kids](https://yfain.github.io/Java4Kids/) - Yakov Fain

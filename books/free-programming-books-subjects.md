@@ -48,6 +48,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Security & Privacy](#security--privacy)
 * [Software Architecture](#software-architecture)
 * [Standards](#standards)
+* [Technical Writing](#technical-writing)
 * [Theoretical Computer Science](#theoretical-computer-science)
 * [Version Control Systems](#version-control-systems)
 * [Web Performance](#web-performance)
@@ -913,6 +914,11 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [Linux Standard Base](https://refspecs.linuxfoundation.org/lsb.shtml)
 * [UNIX - The POSIX Standard - IEEE Std 1003.1](https://github.com/geoff-codes/posix-standard)
+
+
+### Technical Writing
+
+* [Software Technical Writing: A Guidebook](https://jamesg.blog/book.pdf) - James Gallagher (PDF)
 
 
 ### Theoretical Computer Science

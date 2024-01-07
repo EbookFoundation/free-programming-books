@@ -48,7 +48,6 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Security & Privacy](#security--privacy)
 * [Software Architecture](#software-architecture)
 * [Standards](#standards)
-* [Technical Writing](#technical-writing)
 * [Theoretical Computer Science](#theoretical-computer-science)
 * [Version Control Systems](#version-control-systems)
 * [Web Performance](#web-performance)
@@ -655,6 +654,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Scientific Programming and Computer Architecture](https://divakarvi.github.io/bk-spca/spca.html) - Divakar Viswanath
 * [Signal Computing: Digital Signals in the Software Domain](http://faculty.washington.edu/stiber/pubs/Signal-Computing/Signal%20Computing.pdf) - Michael Stiber, Bilin Zhang Stiber, Eric C. Larson (PDF)
 * [Small Memory Software](https://smallmemory.charlesweir.com/book.html) - Charles Weir, James Noble (HTML)
+* [Software Technical Writing: A Guidebook](https://jamesg.blog/book.pdf) - James Gallagher (PDF)
 * [Web Almanac](https://almanac.httparchive.org/static/pdfs/web_almanac_2019_en.pdf) (PDF)
 * [Writing Native Mobile Apps in a Functional Language Succinctly](https://www.syncfusion.com/ebooks/writing_native_mobile_apps_in_a_functional_language_succinctly) - Vassili Kaplan
 
@@ -914,11 +914,6 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [Linux Standard Base](https://refspecs.linuxfoundation.org/lsb.shtml)
 * [UNIX - The POSIX Standard - IEEE Std 1003.1](https://github.com/geoff-codes/posix-standard)
-
-
-### Technical Writing
-
-* [Software Technical Writing: A Guidebook](https://jamesg.blog/book.pdf) - James Gallagher (PDF)
 
 
 ### Theoretical Computer Science

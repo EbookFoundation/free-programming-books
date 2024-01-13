@@ -1,5 +1,6 @@
 ### Index
 
+* [Algorithms](#algorithms)
 * [APL](#apl)
 * [Assembly](#assembly)
 * [Bash](#bash)
@@ -51,6 +52,12 @@
     * [Angular](#angular)
 * [V](#v)
 * [Vim](#vim)
+
+
+### Algorithms
+
+* [Data Structures Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - David Galles
+* [The Algorithm Visualizer](https://algorithm-visualizer.org)
 
 
 ### APL
@@ -159,6 +166,7 @@
 
 * [GO Lang Compiler](https://www.codinguru.online/compiler/go)
 * [Go Playground](https://play.golang.org)
+* [Go-Vim](https://go-vim.appspot.com)
 * [SoloLearn](https://code.sololearn.com/go)
 
 
@@ -184,6 +192,7 @@
 * [Learn advanced html and css](https://www.theodinproject.com/paths/full-stack-javascript/courses/advanced-html-and-css) - The Odin Project
 * [Learn Intermediate html and css](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css) - The Odin Project
 * [LiveCode](https://livecodes.io) - LiveCode
+* [Play Code](https://playcode.io)
 * [SoloLearn](https://code.sololearn.com/web#css)
 * [Tailwind Play](https://play.tailwindcss.com)
 
@@ -251,6 +260,9 @@
 ### Multiple Languages
 
 * [CodeChef](https://www.codechef.com/ide)
+* [GeeksforGeeks](https://ide.geeksforgeeks.org)
+* [Ideone](https://ideone.com)
+* [OnlineGDB](https://www.onlinegdb.com)
 
 
 ### <a id="dotnet"></a>.NET
@@ -295,6 +307,8 @@
 
 * [Codepad](http://codepad.org/?lang=Python)
 * [InterviewBit - Online Python Compiler IDE](https://www.interviewbit.com/online-python-compiler/)
+* [Online Python](https://www.online-python.com)
+* [Online Python Compiler](https://www.tutorialspoint.com/online_python_compiler.php) - Tutorialspoint
 * [OnlineGDB](https://www.onlinegdb.com/online_python_compiler)
 * [Programiz.com](https://www.programiz.com/python-programming/online-compiler/)
 * [Pynative.com](https://pynative.com/online-python-code-editor-to-execute-python-code/)
@@ -416,4 +430,5 @@
 
 * [Vim Adventure](https://vim-adventures.com) - Doron Linder
 * [Vim Genius](http://vimgenius.com) - Vic Ramon, Rye Mason
+
 

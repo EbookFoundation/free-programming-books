@@ -38,7 +38,7 @@
 
 ### Angular
 
-* [Angular In Telugu | ANGULAR 10 IN TELUGU |angular in telugu|ANGULAR INTRODUCTION FOR BEGINNERS(2021)](https://www.youtube.com/watch?v=9MxS8oNlnMM) - TeluguTechSteps
+* [Angular In Telugu \| ANGULAR 10 IN TELUGU \| angular in telugu \| ANGULAR INTRODUCTION FOR BEGINNERS(2021)](https://www.youtube.com/watch?v=9MxS8oNlnMM) - TeluguTechSteps
 * [Angular In Telugu](https://www.youtube.com/playlist?list=PLO7Oa5iXf4QhtPXkaNX05qhGQSKFsvAF7) - TeluguTechSteps
 
 
@@ -58,7 +58,7 @@
 ### Bash and Shell
 
 * [Bash Scripting in Telugu](https://www.youtube.com/playlist?list=PLd8alL65M1GYJOLGK312G1qDv-Tv9aBbs) - Trie Tree Technologies
-* [Shell Scripting full course In Telugu by 7Hills | Linux In Telugu | Bash scripting | programming](https://www.youtube.com/watch?v=Duq5MtBEChc) - 7 Hills 
+* [Shell Scripting full course In Telugu by 7Hills \| Linux In Telugu \| Bash scripting \| programming](https://www.youtube.com/watch?v=Duq5MtBEChc) - 7 Hills 
 
 
 ### Bootstrap
@@ -95,7 +95,7 @@
 
 ### Database Management Systems
 
-* [Data Base Management System In Telugu in 7hrs | DBMS in telugu | MySql Full Course](https://www.youtube.com/watch?v=nVgLiJOI2U8) - Believer 01
+* [Data Base Management System In Telugu in 7hrs \| DBMS in telugu \| MySql Full Course](https://www.youtube.com/watch?v=nVgLiJOI2U8) - Believer 01
 * [DBMS Tutorial](https://www.youtube.com/playlist?list=PL3KKfF5A0sSLnIMTfr7bBw_wRW2vCm3T6) - Telugu Scit Tutorials
 
 
@@ -107,27 +107,27 @@
 
 ### Data Structures and Algorithms
 
-* [Data Structures in Telugu in 7hrs | Full Course | Learn Data Structures](https://www.youtube.com/watch?v=pm_ugbO2FlY) - Believer 01
+* [Data Structures in Telugu in 7hrs \| Full Course \| Learn Data Structures](https://www.youtube.com/watch?v=pm_ugbO2FlY) - Believer 01
 * [Data Structures](https://www.youtube.com/playlist?list=PLJSrGkRNEDAgmq4kKkPuh8aFJs-zxVbWK) - Lab Mug
 
 
 ### Ethical Hacking
 
-* [Complete Ethical Hacking Course in Telugu || Tech Cookie](https://www.youtube.com/watch?v=96_znX8_4Mg) - Tech Cookie
-* [Ethical Hacking Tutorial in Telugu | Ethical Hacking Course | Edureka Telugu](https://www.youtube.com/watch?v=C5ig8YxRHUM) - edureka! Telugu
+* [Complete Ethical Hacking Course in Telugu \|\| Tech Cookie](https://www.youtube.com/watch?v=96_znX8_4Mg) - Tech Cookie
+* [Ethical Hacking Tutorial in Telugu \| Ethical Hacking Course \| Edureka Telugu](https://www.youtube.com/watch?v=C5ig8YxRHUM) - edureka! Telugu
 
 
 ### HTML and CSS
 
-* [HTML Tutorials in Telugu || with in "3:30 Hours" || Computersadda.com](https://www.youtube.com/watch?v=cS0TG1iksLM) - Computers adda
-* [HTML in Telugu || HTML in Telugu by Kotha Abhishek](https://www.youtube.com/playlist?list=PLv_sM9ZH4RUWkdiiILVHnNZUsOr2DBS7S) - Chintu Tutorials
-* [CSS Tutorial for Beginners in Telugu | Best CSS tutorial for beginners | CSS3 Tutorial | TechEnlgiht](https://www.youtube.com/watch?v=z7_gt7x6XAM) - TECH ENLIGHT
-* [CSS Tutorials in telugu || CSS in Telugu by Kotha Abhishek](https://www.youtube.com/playlist?list=PLv_sM9ZH4RUVjmxTl5PysFSxJ6VQbdnRc) - Chintu Tutorials
+* [HTML Tutorials in Telugu \|\| with in "3:30 Hours" \|\| Computersadda.com](https://www.youtube.com/watch?v=cS0TG1iksLM) - Computers adda
+* [HTML in Telugu \|\| HTML in Telugu by Kotha Abhishek](https://www.youtube.com/playlist?list=PLv_sM9ZH4RUWkdiiILVHnNZUsOr2DBS7S) - Chintu Tutorials
+* [CSS Tutorial for Beginners in Telugu \| Best CSS tutorial for beginners \| CSS3 Tutorial \| TechEnlgiht](https://www.youtube.com/watch?v=z7_gt7x6XAM) - TECH ENLIGHT
+* [CSS Tutorials in telugu \|\| CSS in Telugu by Kotha Abhishek](https://www.youtube.com/playlist?list=PLv_sM9ZH4RUVjmxTl5PysFSxJ6VQbdnRc) - Chintu Tutorials
 
 
 ### <a id="ds"></a>Data Structures
 
-* [Stacks and Queues in Telugu || Data Structures in Telugu](https://www.youtube.com/playlist?list=PLXj4XH7LcRfBJVCGguyIFbyj__hDSSBm9) - Sudhakar Atchala
+* [Stacks and Queues in Telugu \|\| Data Structures in Telugu](https://www.youtube.com/playlist?list=PLXj4XH7LcRfBJVCGguyIFbyj__hDSSBm9) - Sudhakar Atchala
 
 
 ### Flutter
@@ -149,26 +149,26 @@
 
 * [Full Java Script Tutorials in Telugu - Telugu Web Guru](https://www.youtube.com/playlist?list=PLh6Yk2rpZu2KqDjTuU_qHr-tI_CHOkIsN) - telugu web guru
 * [JavaScript Complete Tutorials In Telugu by Kotha Abhishek](https://www.youtube.com/watch?v=GuahuUTSUKI) - Chintu Tutorials
-* [JAVA SCRIPT FOR BEGINNERS IN 7 HOURS || LEARN JAVA SCRIPT IN 7 HOURS || JAVA SCRIPT](https://www.youtube.com/watch?v=BTuCzffKh8E) - Sundeep Saradhi Kanthety
-* [JavaScript in Telugu || JavaScript in Telugu by Kotha Abhishek](https://www.youtube.com/playlist?list=PLv_sM9ZH4RUW_Pgz-6B0Q-YTfWvC7RVFN) - Chintu Tutorials
+* [JAVA SCRIPT FOR BEGINNERS IN 7 HOURS \|\| LEARN JAVA SCRIPT IN 7 HOURS \|\| JAVA SCRIPT](https://www.youtube.com/watch?v=BTuCzffKh8E) - Sundeep Saradhi Kanthety
+* [JavaScript in Telugu \|\| JavaScript in Telugu by Kotha Abhishek](https://www.youtube.com/playlist?list=PLv_sM9ZH4RUW_Pgz-6B0Q-YTfWvC7RVFN) - Chintu Tutorials
 
 
 #### ExpressJS
 
 * [Express JS In Telugu](https://www.youtube.com/playlist?list=PLxS8q3V3GDdzobKWCoXVYFsXlb5kyq4_N) - WhatsMySugesstion
-* [Express JS in Telugu | express.js Tutorial for Beginners in Telugu](https://www.youtube.com/watch?v=_jgN80P6YII) - Telugu Skillhub
+* [Express JS in Telugu \| express.js Tutorial for Beginners in Telugu](https://www.youtube.com/watch?v=_jgN80P6YII) - Telugu Skillhub
 
 
 #### NextJS
     
-* [1 What is Next js In Telugu | next js | btech in telugu](https://www.youtube.com/watch?v=9jcX6w1xHJY) - B TECH IN TELUGU
-* [Next.js Crash Course in Telugu | Next.js in Telugu](https://www.youtube.com/watch?v=yqJlmkgroik) - Telugu Skillhub
+* [1 What is Next js In Telugu \| next js \| btech in telugu](https://www.youtube.com/watch?v=9jcX6w1xHJY) - B TECH IN TELUGU
+* [Next.js Crash Course in Telugu \| Next.js in Telugu](https://www.youtube.com/watch?v=yqJlmkgroik) - Telugu Skillhub
 
 
 #### NodeJS
 
 * [NodeJS Tutorial](https://www.youtube.com/watch?v=MY2Vxtfn5Tw) - Telugu Skillhub
-* [Node JS in Telugu | Node.js Tutorial for Beginners in Telugu](https://www.youtube.com/playlist?list=PLYnehuuSeAHtu27M2By66v6kJpF_oDR5I) - Know something!!!
+* [Node JS in Telugu \| Node.js Tutorial for Beginners in Telugu](https://www.youtube.com/playlist?list=PLYnehuuSeAHtu27M2By66v6kJpF_oDR5I) - Know something!!!
 
 
 #### ReactJS
@@ -187,7 +187,7 @@
 ### Laravel
 
 * [Laravel](https://www.youtube.com/playlist?list=PLYnehuuSeAHvBW7ruB1sPomY1SK_3fvx0) - Know something!!!
-* [#1 How to install laravel | Telugu Tutorial](https://www.youtube.com/watch?v=pXB8MuQmeWA) - Know something!!!
+* [#1 How to install laravel \| Telugu Tutorial](https://www.youtube.com/watch?v=pXB8MuQmeWA) - Know something!!!
 
 
 ### MongoDB
@@ -206,7 +206,7 @@
 ### Python
 
 * [Free Programming Fundamentals Tutorial - programming బిగినర్స్ ప్రోగ్రామింగ్ in telugu తెలుగు python - Udemy](https://www.udemy.com/course/programming-for-kids-in-telugu) - Saarvani R (Udemy)
-* [Full Python Tutorial in Telugu | Telugu Web Guru](https://www.youtube.com/playlist?list=PLh6Yk2rpZu2JgeekeyLRQcwZsfLNbW8zQ) - Telugu Web Guru
+* [Full Python Tutorial in Telugu \| Telugu Web Guru](https://www.youtube.com/playlist?list=PLh6Yk2rpZu2JgeekeyLRQcwZsfLNbW8zQ) - Telugu Web Guru
 * [Object oriented programming with python- Telugu Web Guru](https://www.youtube.com/playlist?list=PLh6Yk2rpZu2JgeekeyLRQcwZsfLNbW8zQ) -Telugu Web Guru
 * [Python in Telugu - Step by Step Tutorials](https://www.youtube.com/playlist?list=PLC2mgeYbYNm-3aTUq98pbmrA3P1_m-aJR) - Telugu Computer World
 * [Python in Telugu For Beginners - Complete Tutorial in 10 Hours](https://www.youtube.com/watch?v=fP9IvI4qu80) - Telugu Computer World
@@ -222,4 +222,5 @@
 ### SQL
 
 * [SQL commands and PL/SQL programs complete in telugu - Oracle SQL-PL/SQL in telugu](https://www.youtube.com/watch?v=2XB5CddzEaM) - Edusoft Learning Systems - Learning Simplified
+* [SQL Tutorial for beginners in Telugu](https://www.youtube.com/playlist?list=PLANRDZaL1nlsfBLayvMb_y9k__o_8kt24) - Telugu Programmer
 * [Sql tutorials in telugu - sql video tutorials - sql tutorials for beginners telugu](https://www.youtube.com/playlist?list=PLXx2-0oYp1LPUXvjjriVMaMWALucsitR1) - VLR Training

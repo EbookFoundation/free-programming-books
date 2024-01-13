@@ -34,7 +34,7 @@
 
 ### C
 
-* [C Tutorial Deutsch | Lerne C in 90 Minuten](https://www.youtube.com/watch?v=BSaF8KxnoLY) - Programmieren lernen
+* [C Tutorial Deutsch \| Lerne C in 90 Minuten](https://www.youtube.com/watch?v=BSaF8KxnoLY) - Programmieren lernen
 * [C Tutorials Deutsch](https://www.youtube.com/playlist?list=PLNmsVeXQZj7q4shI4L__SRpetWff9BjLZ) - The Morpheus Tutorials
 
 
@@ -100,4 +100,5 @@
 
 ### SQL
 
+* [Datenbanken und SQL](https://www.youtube.com/playlist?list=PL_pqkvxZ6ho1dn7jRkTfoYBXhw5c9jll0) - Programmieren Starten 
 * [SQL-Grundlagen](https://wiki.selfhtml.org/wiki/Datenbank/SQL-Grundlagen) - SelfHTML

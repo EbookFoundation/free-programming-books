@@ -5,6 +5,7 @@
 * [Computer architecture](#computer-architecture)
 * [Data Structure and Algorithms](#data-structure-and-algorithms)
 * [Java](#java)
+* [JavaScript](#javascript)
 * [Linux](#linux)
 * [Networking](#networking)
 * [Php](#php)
@@ -38,6 +39,11 @@
 ### Java
 
 * [Java \| Hindi](https://www.learnhindituts.com/java) - LearnHindiTuts.com
+
+
+### JavaScript
+
+* [JavaScript \| Hindi](https://www.tutorialinhindi.com/javascript-tutorial-hindi/) - TutorialinHindi.com
 
 
 ### Linux

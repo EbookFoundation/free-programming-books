@@ -89,6 +89,7 @@
 * [آموزش رایگان لینوکس](https://www.youtube.com/playlist?list=PLFK3-mgWZHcpWSFgpy-uEwIb6xjj4vfkB) - Morteza Bashsiz
 * [آموزش لینوکس برای آدم های شاد](https://www.youtube.com/playlist?list=PL-tKrPVkKKE2AniHDmp6zK9KGD1sjf0bd) - Jadi Mirmirani
 * [آموزش لینوکس مقدماتی](https://www.youtube.com/watch?v=ZwaBNkQKrts&list=PLPj7mSUQL4v_oVLO-2Q1QQ9fAH45u8z4A) - Hamid Emamian
+* [دوره الپیک ۱ - جادی \| LPIC-1 with Jadi](https://www.youtube.com/playlist?list=PL7ePwBdxM4nswZ62DvL58yJZ9W4-hOLLB) - Jadi Mirmirani
 
 
 ### Machine Learning

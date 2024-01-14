@@ -32,5 +32,5 @@ jobs:
     - uses: actions/upload-artifact@v4
       if: always()
       with:
-        name: pr-fbp-lint
+        name: pr-fbp-lint-artifact
         path: pr/

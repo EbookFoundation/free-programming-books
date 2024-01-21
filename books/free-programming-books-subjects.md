@@ -904,7 +904,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Software Engineering for Internet Applications](https://philip.greenspun.com/seia/)
 * [Source Making Design Patterns and UML](https://sourcemaking.com/design_patterns)
 * [Test Driven Development, Extensive Tutorial](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski
-* [The API](https://twirl.github.io/The-API-Book) - Sergey Konstantinov (HTML, PDF, EPUB)
+* [The API](https://twirl.github.io/The-API-Book/) - Sergey Konstantinov (HTML, PDF, EPUB)
 * [The Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog)
 * [The Site Reliability Workbook](https://landing.google.com/sre/workbook/toc/) - Betsy Beyer, Niall Richard Murphy, David K. Rensin, Kent Kawahara, Stephen Thorne
 * [Web API Design](https://pages.apigee.com/rs/apigee/images/api-design-ebook-2012-03.pdf) - Brian Mulloy (PDF)

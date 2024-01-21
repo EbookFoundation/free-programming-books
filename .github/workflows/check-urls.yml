@@ -86,7 +86,7 @@ jobs:
           gem install awesome_bot
       - name: Set output
         id: set-output
-        run: echo "FILENAME=$(echo ${{ matrix.file }} | grep -oE '[a-zA-Z0-9_-]+\.yml')" >> "$GITHUB_OUTPUT"
+        run: echo "FILENAME=$(echo ${{ matrix.file }} | grep -oE '[a-zA-Z0-9_-]+(\.yml|\.md)')" >> "$GITHUB_OUTPUT"
       - name: "Check URLs of file: ${{ matrix.file }}"
         run: |
           awesome_bot "${{ matrix.file }}" --allow-redirect --allow-dupe --allow-ssl || true;

@@ -67,6 +67,7 @@
 
 ### C
 
+* [Corso C Italiano](https://www.youtube.com/playlist?list=PLP5MAKLy8lP9J2blw2HWEDnaNjmvUW-QG) - Edoardo Midali
 * [Corso di programmazione in C](https://www.youtube.com/playlist?list=PLO4y9a8lTpK2ugwPRLN_1oOrlzX9Zc9It) - R. Rizzi, Università di Verona
 * [Linguaggio C - Corso completo](https://www.youtube.com/playlist?list=PL83Ordjpzm5oUl7tFEjc4iirkPBiv7FxR) - Programmazione Time
 
@@ -118,6 +119,7 @@
 
 * [Automi e Linguaggi Formali](https://www.youtube.com/playlist?list=PLhEwqlL10MqNz1pA7R5jnB_gsMIhDOe5X) - Davide Bresolin, Gilberto Filè, Università di Padova
 * [Concetti di Informatica](https://www.youtube.com/playlist?list=PLCbSCJEIR6CpTx_nIWA3N3TEdyoRBzWCt) - Mauro Cicolella
+* [Crittografia 2023](https://www.youtube.com/playlist?list=PLQBZ1Z0ZLjQBesf3ZPxEL-qqhFHrcNgCb) - Alessandro Zaccagnini
 * [Espressioni regolari - RegEx](https://www.youtube.com/playlist?list=PLCbSCJEIR6Co72vs-7KRCiCgaC3ht-HYM) - Mauro Cicolella
 * [Fondamenti di Informatica](https://www.youtube.com/playlist?list=PLUL1bzfXcbX3g2cIcTFdmvj5yawQtUOxJ) - C. De Stefano, Università di Cassino e del Lazio Meridionale
 * [Informatica](https://didattica.polito.it/pls/portal30/sviluppo.videolezioni.vis?cor=232) - Marco Mezzalama, Politecnico di Torino

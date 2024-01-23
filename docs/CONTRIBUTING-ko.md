@@ -128,7 +128,7 @@
 - <a id="in_process"></a>작성 중인 책:
 
     ```text
-    GOOD: * [Will Be An Awesome Book Soon](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)
+    GOOD: * [Will Be An Awesome Book Soon](http://example.com/book2.html) - John Doe (HTML) *(:construction: in process)*
     ```
 
 - <a id="archived"></a>아카이브된 링크:

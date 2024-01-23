@@ -228,6 +228,7 @@
 * [JavaScript interactive tutorial on CoderMania](http://www.codermania.com/javascript/lesson/1a/hello-world)
 * [JavaScript Tutorial](https://www.w3schools.com/js) - W3Schools
 * [JavaScript Tutorial](https://www.scaler.com/topics/javascript/) - Scaler Topics
+* [JavaScript Tutorial and Overview](https://www.afterhoursprogramming.com/tutorial/javascript/) - After Hours Programming
 * [Javascripting](https://github.com/sethvincent/javascripting)
 * [JSchallenger](https://www.jschallenger.com)
 * [Learn JavaScript](http://www.learn-js.org)
@@ -240,7 +241,6 @@
 
 #### AngularJS
 
-* [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/) - Nicholas Johnson
 * [AngularJS Basics](http://www.angularjsbook.com) - Chris Smith
 * [AngularJS Tutorial](https://www.tutlane.com/tutorial/angularjs) - tutlane
 * [AngularJS Tutorial](https://www.w3schools.com/angular/) - W3Schools
@@ -262,6 +262,7 @@
 * [React Tutorial](https://react-tutorial.app)
 * [React Tutorial](https://www.w3schools.com/react/) - W3Schools
 * [React Tutorial](https://www.scaler.com/topics/react/) - Scaler Topics
+* [React Tutorial: Learn React JS](https://scrimba.com/learn/learnreact) - Srimba
 
 
 #### Redux
@@ -293,10 +294,10 @@
 
 #### Operating systems
 
-* [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os) - Sergey Matyukevich (:construction: *in process*)
+* [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os) - Sergey Matyukevich *(:construction: in process)*
 * [Linux Journey - Fun and Easy](https://linuxjourney.com) - Cindy Quach
 * [Operating System Tutorial](https://www.scaler.com/topics/operating-system/) - Scaler Topics
-* [Project eXpOS: eXperimental Operating System](https://exposnitc.github.io) - Dr. Murali Krishnan K., Department of Computer Science and Engineering of the Calicut National Institute of Technology (HTML)
+* [Project eXpOS: eXperimental Operating System](https://exposnitc.github.io) - Murali Krishnan K., Department of Computer Science and Engineering of the Calicut National Institute of Technology (HTML)
 
 
 ### LaTeX
@@ -449,3 +450,4 @@
 ### XML
 
 * [XML Tutorial](https://www.w3schools.com/xml) - W3Schools
+

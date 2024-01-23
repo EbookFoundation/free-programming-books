@@ -37,4 +37,4 @@
 
 ### Python
 
-* [Python Para Todos: Explorando Dados com Python 3](http://do1.dr-chuck.com/pythonlearn/PT_br/pythonlearn.pdf) - Dr. Charles Russell Severance (PDF) [(EPUB)](http://do1.dr-chuck.com/pythonlearn/PT_br/pythonlearn.epub)
+* [Python Para Todos: Explorando Dados com Python 3](http://do1.dr-chuck.com/pythonlearn/PT_br/pythonlearn.pdf) - Charles Russell Severance (PDF) [(EPUB)](http://do1.dr-chuck.com/pythonlearn/PT_br/pythonlearn.epub)

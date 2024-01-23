@@ -38,6 +38,7 @@
 * [Internet Problem Solving Contest](http://ipsc.ksp.sk)
 * [Just another Golf Coding](http://jagc.org)
 * [Kattis](https://open.kattis.com)
+* [Last Moment DSA Sheet(79) – Ace Interviews](https://takeuforward.org/interview-sheets/strivers-79-last-moment-dsa-sheet-ace-interviews) - Striver
 * [LeetCode](https://leetcode.com)
 * [LightOJ](https://lightoj.com)
 * [Meta Hackercup](https://www.facebook.com/codingcompetitions/hacker-cup/)
@@ -46,6 +47,7 @@
 * [Sigmageek](https://sigmageek.com)
 * [Sphere Online Judge](http://www.spoj.com/contests)
 * [Techgig](https://www.techgig.com)
+* [Top Coding Interview Problems](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/) - Striver
 * [Topcoder](https://www.topcoder.com)
 * [Toph](https://toph.co)
 * [USACO.guide](https://usaco.guide)
@@ -56,6 +58,7 @@
 * [ångstromCTF](https://angstromctf.com)
 * [CTFlearn](https://ctflearn.com) (email address *requested*)
 * [CTFtime](https://ctftime.org)
+* [DamnVulnerableDefi](https://www.damnvulnerabledefi.xyz)
 * [echoCTF](https://echoctf.red) (email address *requested*)
 * [Google CTF](https://capturetheflag.withgoogle.com) (email address *requested*)
 * [Hacker101](https://ctf.hacker101.com) (email address *requested*)
@@ -78,6 +81,7 @@
 * [CrowdANALYTIX](https://www.crowdanalytix.com/community)
 * [DrivenData](https://www.drivendata.org)
 * [Kaggle](https://www.kaggle.com)
+* [Zindi](https://zindi.africa)
 
 
 ### HTML and CSS
@@ -96,7 +100,10 @@
 
 ### Problem Sets
 
+* [#C++](https://www.youtube.com/playlist?list=PLliXPok7ZonkJEe0cUbVZ3umyKbFA-Dd9) - Keerti Purswani
+* [100 Days CSS Challenge](https://100dayscss.com) - Matthias Martin *(Codepen account requested, not required)*
 * [500 Data structures and algorithms interview questions and their solutions in C++](https://www.quora.com/q/techiedelight/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions)
+* [Abekus \| Free Practice Questions with Solutions](https://abekus.com)
 * [Advent Of Code](http://adventofcode.com)
 * [AdventJS - 25 días de retos con JavaScript](https://adventjs.dev) - Miguel Ángel Durán «midudev» *(GitHub account requested, not required)*
 * [Anarchy Golf](http://golf.shinh.org)
@@ -122,6 +129,7 @@
 * [Hacker.org](http://www.hacker.org)
 * [HackerEarth](https://www.hackerearth.com)
 * [HDU Online Judge](http://acm.hdu.edu.cn)
+* [IndiaBix](https://www.indiabix.com)
 * [Interactive Coding Challenge](https://github.com/donnemartin/interactive-coding-challenges)
 * [InterviewBit](https://www.interviewbit.com)
 * [Kattis](https://open.kattis.com)

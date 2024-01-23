@@ -38,8 +38,8 @@
 * [Android Módulo 2](https://www.pildorasinformaticas.es/course/android-modulo-2) - Juan Díaz (Píldoras Informáticas)
 * [Android Módulo 3](https://www.pildorasinformaticas.es/course/android-modulo-3) - Juan Díaz (Píldoras Informáticas)
 * [Aprende a programar tu primera app](https://www.edx.org/es/course/jugando-con-android-aprende-programar-tu-uamx-android301x-4)
-* [Introducción a la programación Android](https://www.edx.org/es/course/android-introduccion-la-programacion-upvalenciax-aip201x-1)
-* [Introducción a la programación Android](https://campusvirtual.ull.es/ocw/course/view.php?id=130)
+* [Introducción a la programación Android](https://www.edx.org/es/course/android-introduccion-la-programacion-upvalenciax-aip201x-1) - Jesús Tomás Gironés
+* [Introducción a la programación Android](https://campusvirtual.ull.es/ocw/course/view.php?id=130) - Cándido Caballero Gil, Jezabel Molina Gil
 * [Material Design con Android Studio](https://www.youtube.com/playlist?list=PLEtcGQaT56ch37mnavd8p5cbnkDvXLGsX) - Jesús Conde
 
 
@@ -91,15 +91,15 @@
 
 ### Flujos de Trabajo
 
-* [Agilidad y Lean. Gestionando los proyectos y negocios del Siglo XXI](https://miriadax.net/curso/agilidad-y-lean-gestionando-los-proyectos-y-negocios-del-s-xxi-14-a-edicion) (Miriadax)
+* [Agilidad y Lean. Gestionando los proyectos y negocios del Siglo XXI](https://miriadax.net/curso/agilidad-y-lean-gestionando-los-proyectos-y-negocios-del-s-xxi-16-a-edicion) (Miriadax)
 * [Cómo implantar grupos de mejora de procesos](https://www.edx.org/course/como-implantar-grupos-de-mejora-de-upvalenciax-gm201x-0)
-* [Gestión de proyectos software (2015)](https://ocw.unican.es/course/view.php?id=23)
+* [Gestión de proyectos software (2015)](https://ocw.unican.es/course/view.php?id=206)
 * [Gestión Participativa: motivación y liderazgo organizacional](https://www.edx.org/course/gestion-participativa-high-involvement-upvalenciax-gp201x-0)
 * [Ingeniería del Software I (2011)](https://ocw.unican.es/course/view.php?id=169)
 * [Ingeniería del Software II (2011)](https://ocw.unican.es/course/view.php?id=170)
 * [Introducción a la Gestión de Proyectos](https://www.edx.org/course/introduccion-la-gestion-de-proyectos-upvalenciax-igp101-x)
 * [Organización y gestión del proyecto (2009)](https://ocw.unican.es/course/view.php?id=207)
-* [Procesadores de Lenguaje (2012)](https://ocw.unican.es/course/view.php?id=158)
+* [Procesadores de Lenguaje (2012)](https://ocw.unican.es/course/view.php?id=238)
 * [Sistemas operativos avanzados - 'scrum - bsd- Qt' (2015)](https://campusvirtual.ull.es/ocw/course/view.php?id=119)
 
 
@@ -159,10 +159,11 @@
 ### Programación
 
 * [Aprende JavaScript](https://aprendejavascript.org) - Jonathan MirCha
-* [Aprende javascript](https://www.aprendejavascript.dev) - Miguel Ángel Durán
+* [Aprende javascript](https://www.aprendejavascript.dev) - Miguel Ángel Durán "midudev"
 * [Aprendemos JavaScript](https://www.freecodecamp.org/espanol/news/aprende-javascript-curso-completo-desde-cero/) - Estefania Cassingena Navone
 * [Clojure](https://programadorwebvalencia.com/cursos/clojure/introducci%C3%B3n/) - Andros Fenollosa (Programador Web Valencia)
 * [Curso C#](https://www.pildorasinformaticas.es/course/curso-c) - Juan Díaz (Píldoras Informáticas)
+* [Curso de Javascript](https://edutin.com/curso-de-javascript-4284) - (Edutin Academy)
 * [Curso de JavaScript Gratis](https://codigofacilito.com/cursos/javascript) - Código Facilito
 * [Curso de PHP/MySQL](https://www.youtube.com/playlist?list=PLU8oAlHdN5BkinrODGXToK9oPAlnJxmW_) - Juan Díaz (Píldoras informáticas) 
 * [Curso de Python gratis y con certificación](https://edutin.com/curso-de-python-4276) - Edutin
@@ -209,7 +210,7 @@
 * [Curso gratuito de JavaScript](https://argentinaprograma.com) - Fabricio Sodano (Argentina Programa)
 * [Curso gratuito de Next.js y Firebase](https://www.youtube.com/playlist?list=PLV8x_i1fqBw1VR86y4C72xMGJ8ifjBwJ6) - Miguel Ángel Durán «midudev»
 * [Curso JSON. De Novato a Experto](https://www.youtube.com/playlist?list=PLrDTf5qnZdEAiHO19QB9hq5QXAef1h8oY) - Camilo Martínez "Equimancho"
-* [Curso React Native desde cero](https://www.youtube.com/watch?v=qi87b6VcIHY&t=1004s) - Miguel Ángel Durán
+* [Curso React Native desde cero](https://www.youtube.com/watch?v=qi87b6VcIHY&t=1004s) - Miguel Ángel Durán "midudev"
 * [Curso React.js desde cero - Crea una aplicación paso a paso](https://www.youtube.com/playlist?list=PLV8x_i1fqBw0B008sQn79YxCjkHJU84pC) - Miguel Ángel Durán «midudev»
 * [Detección de objetos](https://www.coursera.org/learn/deteccion-objetos)
 * [Diseño Web - Principios de CSS](https://programadorwebvalencia.com/cursos/css/introducci%C3%B3n/) - Andros Fenollosa (Programador Web Valencia)
@@ -294,6 +295,7 @@
 
 ### VS Code
 
+* [Aprende VS Code ahora! \| curso completo de VSCode desde CERO](https://www.youtube.com/watch?v=Ei1y51K8jQk) - HolaMundo
 * [Visual Studio Code: Mejora tu velocidad para codificar](https://www.udemy.com/course/vscode-mejora-tu-velocidad-para-codificar/) - Fernando Herrera
 
 

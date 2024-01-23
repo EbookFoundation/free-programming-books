@@ -689,6 +689,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 
 ### Object Oriented Programming
 
+* [Design Patterns Elements of Reusable Object-Oriented Software](https://www.javier8a.com/itc/bd1/articulo.pdf) - Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides (PDF) 
 * [Object Oriented Programming](https://www.cl.cam.ac.uk/teaching/0910/OOProg/OOP.pdf) - Robert Harle (PDF)
 * [OOP – Learn Object Oriented Thinking and Programming](https://files.bruckner.cz/be2a5b2104bf393da7092a4200903cc0/PecinovskyOOP.pdf) - Rudolf Pecinovsky (PDF) 
 

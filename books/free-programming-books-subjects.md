@@ -220,6 +220,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 
 ### Computer Organization and Architecture
 
+* [ARM Architecture Reference Manual](https://yurichev.com/mirrors/ARMv8-A_Architecture_Reference_Manual_(Issue_A.a).pdf) - ARM Limited (PDF)
 * [Basic Computer Architecture](https://www.cse.iitd.ac.in/~srsarangi/archbooksoft.html) - Smruti R. Sarangi (HTML, PDF, Slides, Videos)
 * [Computer Organization and Design Fundamentals](https://faculty.etsu.edu/tarnoff/138292) - David Tarnoff (PDF)
 

@@ -10,4 +10,4 @@
 
 
 #### Digitalisering 
-* [Undersøkelse for digitalisering](https://www.ntnu.no/documents/1261860271/1262010703/Concept+64+Web.pdf/0d936255-5547-54f1-514d-30b9d76d0f9f?t=1618903551756) - Fremgangsmåter for vellykket digitalisering - En studie av nytteforvaltning i IT-prosjekter innenfor offentlig sektor (PDF)
+* [Digitalisering](https://www.ntnu.no/documents/1261860271/1262010703/Concept+64+Web.pdf/0d936255-5547-54f1-514d-30b9d76d0f9f?t=1618903551756) - Fremgangsmåter for vellykket digitalisering - En studie av nytteforvaltning i IT-prosjekter innenfor offentlig sektor (PDF)

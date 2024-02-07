@@ -27,7 +27,7 @@
 
 * [Database Management And SQL Course ](https://youtube.com/playlist?list=PLuAP6gCWTPNgqDHsE1vFN_1LoutqhASJi&si=PM_WRQTL6OSXd_5V) - Professional Development Institute
 
-*[MySQL Tutorials](https://youtube.com/playlist?list=PL_1QrG8vkO5SoGv2dfeAk8MEKQfMZkDEk&si=wYzC9HPQGq-M_UmU) - Myanmar Tech Channel
+* [MySQL Tutorials](https://youtube.com/playlist?list=PL_1QrG8vkO5SoGv2dfeAk8MEKQfMZkDEk&si=wYzC9HPQGq-M_UmU) - Myanmar Tech Channel
 
 ### HTML
 

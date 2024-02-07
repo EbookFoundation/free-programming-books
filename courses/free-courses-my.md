@@ -5,8 +5,6 @@
 * [Flutter](#flutter)
 * [Git](#git)
 * [HTML](#html)
-* [Java][#java]
-  * [Spring](#spring)
 * [Javascript](#javascript)
   * [Node](#node)
   * [React](#react)

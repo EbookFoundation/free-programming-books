@@ -72,4 +72,5 @@
 
 ### Python
 
+* [Programming Basic](https://youtube.com/playlist?list=PLUbA5XRGtepL4W4hXBBXfqC1i3PaBxMtN) - Htain Lin Shwe
 * [Python From Scratch](https://youtube.com/playlist?list=PLwZEMnqb0yhdw0RFVt2kZhiyOIvboGRx) - Creative Coder

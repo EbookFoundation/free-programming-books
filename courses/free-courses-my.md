@@ -3,7 +3,7 @@
 * [C](#c)
 * [C#](#c#)
 * [Database](#database)
-* [Data Structures and Algorithm](#dsa)
+* [Data Structures and Algorithms](#dsa)
 * [Flutter](#flutter)
 * [Git](#git)
 * [HTML-CSS](#html-css)

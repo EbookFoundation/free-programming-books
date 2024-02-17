@@ -342,6 +342,7 @@
 
 * [TypeScript Advance Course](https://www.youtube.com/playlist?list=PLEYpvDF6qy8aesJ9a6lREDE4lcIA0iHMR) - Foyzul Karim
 * [TypeScript Bangla ( বাংলা ) Tutorial Series](https://youtube.com/playlist?list=PLHiZ4m8vCp9PgOOjdyNpc6AoBmKNrp_u3) - Learn with Sumit
+* [[Bangla] Typescript Course 2023](https://www.youtube.com/playlist?list=PLNglwbsLbQzsbEVraa87wSxCsI9sn_cwd) - Boolean Programmers
 * [typescript full course in bangla](https://youtube.com/playlist?list=PLgH5QX0i9K3rXq_1OgVmjaEJJ1akJQgPq) - Anisul Islam
 
 

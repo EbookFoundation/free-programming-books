@@ -46,6 +46,7 @@
 ### Introduction to Programming in Arabic
 
 * [مختصر دليل لغات البرمجة](https://alyassen.github.io/Brief-guide-to-programming-languages-v1.2.4.pdf) - Ali Al-Yassen&rlm; (PDF)
+* [البرمجه باللغه العربيه ]([f](https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D9%84%D8%A8%D8%B1%D9%85%D8%AC%D9%87-%D8%A8%D8%A7%D9%84%D9%84%D8%BA%D9%87-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D9%87-pdf)) -(PDF)
 
 
 ### JavaScript

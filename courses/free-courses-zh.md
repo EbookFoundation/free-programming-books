@@ -3,7 +3,7 @@
 * [0 - MOOC](#0---mooc)
 * [Flutter](#flutter)
 * [Linux](#linux)
-* [操作系统](#操作系统)
+* [OS](#操作系统)
 
 
 ### 0 - MOOC

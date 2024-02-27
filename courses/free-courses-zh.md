@@ -3,6 +3,7 @@
 * [0 - MOOC](#0---mooc)
 * [Flutter](#flutter)
 * [Linux](#linux)
+* [操作系统](#操作系统)
 
 
 ### 0 - MOOC
@@ -18,3 +19,8 @@
 ### Linux
 
 * [Linux 核心設計](https://youtube.com/playlist?list=PL6S9AqLQkFpongEA75M15_BlQBC9rTdd8) - jserv
+
+
+### 操作系统
+
+* [操作系统原理 清华大学](https://www.youtube.com/playlist?list=PLgSjsxruwagoYuFuMnUY-lMzTfQR7ugw9) - 自我学习Evan

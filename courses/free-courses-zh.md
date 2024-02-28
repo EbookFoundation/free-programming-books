@@ -24,3 +24,4 @@
 ### 操作系统
 
 * [操作系统原理 清华大学](https://www.youtube.com/playlist?list=PLgSjsxruwagoYuFuMnUY-lMzTfQR7ugw9) - 自我学习Evan
+* [操作系统原理](https://www.youtube.com/playlist?list=PLkl2qqmYigA66rJ4FgmZan4YIVRgNFLQx) - 从0开始数

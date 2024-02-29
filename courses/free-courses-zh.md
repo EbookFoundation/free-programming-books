@@ -19,7 +19,7 @@
 ### Linux
 
 * [Linux 核心設計](https://youtube.com/playlist?list=PL6S9AqLQkFpongEA75M15_BlQBC9rTdd8) - jserv
-* [Linux 教程从 CentOS 入门到精通](https://www.youtube.com/playlist?list=PL9nxfq1tlKKlImsI9_iDguCUOhLFGamKI) - Jomy King
+* [Linux 教程 CentOS 从入门到精通](https://www.youtube.com/playlist?list=PL9nxfq1tlKKlImsI9_iDguCUOhLFGamKI) - Jomy King
 
 
 ### OS

@@ -314,6 +314,7 @@
 * [新概念 C 语言教程](https://github.com/limingth/NCCL)
 * [Beej's Guide to Network Programming 簡體中文版](https://beej-zhtw-gitbook.netdpi.net) - Brian "Beej Jorgensen" Hall, 廖亚伦译
 * [C 语言常见问题集](http://c-faq-chn.sourceforge.net/ccfaq/ccfaq.html)
+* [C 语言入门教程](https://www.dotcpp.com/course/c/)
 * [Linux C 编程一站式学习](https://web.archive.org/web/20210514225440/http://docs.linuxtone.org/ebooks/C&CPP/c/) *(:card_file_box: archived)*
 
 
@@ -694,6 +695,7 @@
 
 * [通过例子学习 Rust](https://github.com/rustcc/rust-by-example/)
 * [Rust 官方教程](https://github.com/KaiserY/rust-book-chinese)
+* [Rust 宏小册](https://zjp-cn.github.io/tlborm/)
 * [Rust 语言学习笔记](https://github.com/photino/rust-notes)
 * [RustPrimer](https://github.com/rustcc/RustPrimer)
 * [Tour of Rust](https://tourofrust.com/00_zh-cn.html)

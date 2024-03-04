@@ -1,7 +1,7 @@
 ### Index
 
-* [AI](#AI)
 * [0 - MOOC](#0---mooc)
+* [AI](#AI)
 * [Flutter](#flutter)
 * [Linux](#linux)
 * [OS](#OS)

@@ -1,6 +1,7 @@
 ### Index
 
 * [0 - MOOC](#0---mooc)
+* [AI](#ai)
 * [Flutter](#flutter)
 * [Linux](#linux)
 * [OS](#OS)
@@ -26,3 +27,9 @@
 
 * [操作系统原理](https://www.youtube.com/playlist?list=PLkl2qqmYigA66rJ4FgmZan4YIVRgNFLQx) - 从0开始数
 * [操作系统原理 清华大学](https://www.youtube.com/playlist?list=PLgSjsxruwagoYuFuMnUY-lMzTfQR7ugw9) - 自我学习Evan
+
+
+### AI
+
+* [动手学深度学习](https://zh.d2l.ai/index.html) - d2lzh
+* [机器学习速成课程](https://developers.google.com/machine-learning/crash-course/prereqs-and-prework?hl=zh-cn) - 谷歌出品

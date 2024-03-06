@@ -3,7 +3,7 @@
 * [0 - MOOC](#0---mooc)
 * [Flutter](#flutter)
 * [Linux](#linux)
-* [OS](#OS)
+* [OS](#os)
 * [Python](#Python)
 
 

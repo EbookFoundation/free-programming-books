@@ -1,13 +1,14 @@
 ### Index
 
-* [Bases de Datos](#bases-de-datos)
-* [Ciencia de Datos](#ciencia-de-datos)
-* [Desarrollo Web](#desarrollo-web)
-* [Frontend](#frontend)
-* [Juegos](#juegos)
-* [Programación](#programación)
-* [Software Libre](#software-libre)
-* [Variados](#variados)
+- [Index](#index)
+- [Bases de Datos](#bases-de-datos)
+- [Ciencia de Datos](#ciencia-de-datos)
+- [Desarrollo Web](#desarrollo-web)
+- [Frontend](#frontend)
+- [Juegos](#juegos)
+- [Programación](#programación)
+- [Software Libre](#software-libre)
+- [Variados](#variados)
 
 
 ### Bases de Datos
@@ -74,6 +75,7 @@
 * [Digital. Innovation. Engineers.](https://anchor.fm/mimacom) - Mimacom (podcast)
 * [Doomling & Chill](https://anchor.fm/bel-rey) - Bel Rey (podcast)
 * [Educando Geek](https://educandogeek.github.io) - Juanjo Gurillo (podcast)
+* [Entre Dev y Ops](https://www.entredevyops.es/) - Ignasi Fosch, Javier Avellano, Eduardo Bellido, David Acacio (podcast)
 * [Frikismo Puro](https://www.ivoox.com/podcast-frikismo-puro_sq_f1268809_1.html) - Francisco Javier Gárate Soto, Juan Leiva (podcast)
 * [Hijos de la Web](https://www.ivoox.com/podcast-hijos-web_sq_f1588708_1.html) - Hector Trejo, Juan José Gutierrez, Óscar Miranda (podcast)
 * [iCharlas](https://www.ivoox.com/podcast-icharlas-podcast_sq_f155400_1.html) - Manuel Terrón, Philippe Rochette (podcast)

@@ -1,6 +1,7 @@
 ### Index
 
 * [0 - MOOC](#0---mooc)
+* [AI](#ai)
 * [Flutter](#flutter)
 * [Linux](#linux)
 * [OS](#os)
@@ -10,6 +11,12 @@
 ### 0 - MOOC
 
 * [freeCodeCamp](https://chinese.freecodecamp.org)
+
+
+### AI
+
+* [动手学深度学习](https://zh.d2l.ai/index.html) - d2lzh
+* [机器学习速成课程](https://developers.google.com/machine-learning/crash-course/prereqs-and-prework?hl=zh-cn) - 谷歌出品
 
 
 ### Flutter

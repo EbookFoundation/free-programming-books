@@ -4,12 +4,19 @@
 * [AI](#ai)
 * [Flutter](#flutter)
 * [Linux](#linux)
-* [OS](#OS)
+* [OS](#os)
+* [Python](#python)
 
 
 ### 0 - MOOC
 
 * [freeCodeCamp](https://chinese.freecodecamp.org)
+
+
+### AI
+
+* [动手学深度学习](https://zh.d2l.ai/index.html) - d2lzh
+* [机器学习速成课程](https://developers.google.com/machine-learning/crash-course/prereqs-and-prework?hl=zh-cn) - 谷歌出品
 
 
 ### Flutter
@@ -29,7 +36,6 @@
 * [操作系统原理 清华大学](https://www.youtube.com/playlist?list=PLgSjsxruwagoYuFuMnUY-lMzTfQR7ugw9) - 自我学习Evan
 
 
-### AI
+### Python
 
-* [动手学深度学习](https://zh.d2l.ai/index.html) - d2lzh
-* [机器学习速成课程](https://developers.google.com/machine-learning/crash-course/prereqs-and-prework?hl=zh-cn) - 谷歌出品
+* [Python 新教程全集](https://www.youtube.com/playlist?list=PLF2BRDzmXcWqMzQlIUOjiGVmiyEcHiO3q) - 在线教育

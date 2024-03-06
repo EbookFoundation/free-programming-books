@@ -4,7 +4,7 @@
 * [Flutter](#flutter)
 * [Linux](#linux)
 * [OS](#os)
-* [Python](#Python)
+* [Python](#python)
 
 
 ### 0 - MOOC

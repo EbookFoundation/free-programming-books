@@ -1,6 +1,5 @@
 ### Index
 
-- [Index](#index)
 - [Bases de Datos](#bases-de-datos)
 - [Ciencia de Datos](#ciencia-de-datos)
 - [Desarrollo Web](#desarrollo-web)

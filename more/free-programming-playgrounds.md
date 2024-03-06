@@ -347,6 +347,7 @@
 ### Regular Expressions
 
 * [iHateRegex: regex for playground](https://ihateregex.io/playground) - Geon George
+* [Pyrexp](https://pythonium.net/regex) - Cyril Bois
 * [Regex Tester and Debugger Online - Javascript, PCRE, PHP](https://www.regextester.com) - Dan's Tools
 * [Regex101: build, test, and debug regex](https://regex101.com) - Firas Dib (regex101.com)
 * [Regexper](https://regexper.com) - Jeff Avallone

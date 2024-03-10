@@ -1196,7 +1196,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 #### AngularJS
 
-> :information_source: See also &#8230; [Angular](#angular)
+> :information_source: AngularJS is deprecated since 2022, rather use [Angular](#angular)
 
 * [Angular 1 Style Guide](https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md) - John Papa (HTML)
 * [Angular Testing Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/angular-testing-succinctly) - Joseph D. Booth (HTML)

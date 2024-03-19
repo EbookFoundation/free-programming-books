@@ -574,10 +574,10 @@
 * [Design Patterns - بالعربي](https://www.youtube.com/playlist?list=PLwWuxCLlF_uczNpsoKEEi7zHcuL07Otos) - Omar Ahmed&rlm; *(:construction: in process)*
 * [Software Design Patterns](https://www.youtube.com/playlist?app=desktop&list=PLrwRNJX9gLs3oQyBoXtYimY7M5aSF0_oC) - محمد يحيى
 * [SOLID Principles&rlm;](https://www.youtube.com/playlist?list=PLZafHDYyxnk7fKmAuCJhWTMwJZ89f0Tug) - Mahmoud Youssef - محمود يوسف *(:construction: in process)*
+* [SOLID Principles&rlm;](https://www.youtube.com/playlist?list=PLsV97AQt78NRT1GmH2EJ-o-2_ILFM9feq) - Passionate Coders \| محمد المهدي
 * [Solid Principles \| Uncle bob&rlm;](https://www.youtube.com/playlist?list=PLINp1xZ5bPrqtE3Hee3vnyrHCaOyMADBt) - DevLoopers
 * [SOLID Principles بالعربى](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdflFSS4NigVB7aSoYPNwHTL) -  Mohammed Reda
 * [SOLID Principles بالعربي](https://www.youtube.com/playlist?list=PLwWuxCLlF_uevri_OpofVLXkRRFnZ7TSV) - Omar Ahmed
-* [SOLID Principles&rlm;](https://www.youtube.com/playlist?list=PLsV97AQt78NRT1GmH2EJ-o-2_ILFM9feq) - Passionate Coders \| محمد المهدي
 * [Structural Design Patterns بالعربى](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdcW3viz_oXRal_FNkg2Dssm) - Mohammed Reda
 * [Tennis Game Refactoring Kata&rlm;](https://www.youtube.com/playlist?list=PLZafHDYyxnk7XNSOaQsb8GyeuGWk75WDy) - Mahmoud Youssef - محمود يوسف *(:construction: in process)*
 * [Write Better Code With Refactoring&rlm;](https://www.youtube.com/playlist?list=PLZafHDYyxnk5h31weDexEeNtchOgqR2ji) - Mahmoud Youssef - محمود يوسف *(:construction: in process)*

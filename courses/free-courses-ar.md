@@ -389,10 +389,10 @@
 
 * [Learn React JS Tutorial \|\| React دورة كاملة لتعلم الـ](https://www.youtube.com/playlist?list=PLtFbQRDJ11kEjXWZmwkOV-vfXmrEEsuEW) - Unique Coderz Academy
 * [React JS A JavaScript library دورة](https://www.youtube.com/playlist?list=PLMYF6NkLrdN9YuSgcD3TvNowTbMrI_hh8) - Muhammed Essa
-* [ReactJS](https://www.youtube.com/playlist?list=PLCInYL3l2AahiYaPBNh6YtI9NifuG8SqT) - Adel Nasim
 * [React.js&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNObRCqeYOws_JK_CCGCmQv_l) - Algorithm Academy
 * [React.js Hooks&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNOZ5-WwSSWYLp0kC8xxE46YG) - Algorithm Academy
 * [React.js Todo App&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNOYKXNTPUiZw8X7dDIgsSZln) - Algorithm Academy
+* [ReactJS](https://www.youtube.com/playlist?list=PLCInYL3l2AahiYaPBNh6YtI9NifuG8SqT) - Adel Nasim
 * [ReactJS - Advanced [تعلم رياكت ]](https://www.youtube.com/playlist?list=PLejc1JbD4ZFTiDCCVu_uCW0GXqyvhtbf8) - kimz codes
 * [ReactJs-Build Full E-Commerce From Scratch Redux (بالعربي)](https://www.youtube.com/playlist?list=PLDQ11FgmbqQPRui5VDCSQvYt2HOYiCVep) - Programming Solutions - Academy
 * [ReactJS Part 1 - Learn React Hooks by Project [تعلم الرياكت هوكس] [الجزء الاول]](https://www.youtube.com/playlist?list=PLejc1JbD4ZFSaQIFNstRIrbm_fqb12Q59) - kimz codes
@@ -516,8 +516,8 @@
 
 * [تعلم أساسيات البرمجة](https://www.youtube.com/playlist?list=PLvGNfY-tFUN8HRLDE-D2sXvIgYwspdmFE) - غريب الشيخ \|\| Ghareeb Elshaik
 * [قناة علم البيانات - حسام الحوراني](https://www.youtube.com/playlist?list=PLYW0LRZ3ePo6IYDS2K5IhmuP5qY3dmI9e) - Hussam Hourani
-* [كورس بايثون من الصفر \| سلسلة دروس لغة البايثون \| python](https://www.youtube.com/playlist?list=PLYyqC4bNbCIcxKO_r77w5MN1SRRnnfvNQ) - أكاديمية ترميز
 * [كورس بايثون - تعلم بايثون من الصفر للإحتراف](https://www.youtube.com/playlist?list=PLoP3S2S1qTfCUdNazAZY1LFALcUr0Vbs9) - OctuCode
+* [كورس بايثون من الصفر \| سلسلة دروس لغة البايثون \| python](https://www.youtube.com/playlist?list=PLYyqC4bNbCIcxKO_r77w5MN1SRRnnfvNQ) - أكاديمية ترميز
 * [Learn Python3&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNOazcliAXXivOrg9GiAVuoQg) - Algorithm Academy
 * [Master Python from Beginner to Advanced in Arabic - دورة تعلم بايثون من الصفر كاملة للمبتدئين](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ) - Codezilla
 * [Mastering Python&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs) - Elzero Web School
@@ -573,10 +573,10 @@
 * [Design Patterns&rlm;](https://www.youtube.com/playlist?list=PLsV97AQt78NTrqUAZM562JbR3ljX19JFR) - Passionate Coders \| محمد المهدي *(:construction: in process)*
 * [Design Patterns - بالعربي](https://www.youtube.com/playlist?list=PLwWuxCLlF_uczNpsoKEEi7zHcuL07Otos) - Omar Ahmed&rlm; *(:construction: in process)*
 * [Software Design Patterns](https://www.youtube.com/playlist?app=desktop&list=PLrwRNJX9gLs3oQyBoXtYimY7M5aSF0_oC) - محمد يحيى
+* [SOLID Principles&rlm;](https://www.youtube.com/playlist?list=PLZafHDYyxnk7fKmAuCJhWTMwJZ89f0Tug) - Mahmoud Youssef - محمود يوسف *(:construction: in process)*
 * [Solid Principles \| Uncle bob&rlm;](https://www.youtube.com/playlist?list=PLINp1xZ5bPrqtE3Hee3vnyrHCaOyMADBt) - DevLoopers
 * [SOLID Principles بالعربى](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdflFSS4NigVB7aSoYPNwHTL) -  Mohammed Reda
 * [SOLID Principles بالعربي](https://www.youtube.com/playlist?list=PLwWuxCLlF_uevri_OpofVLXkRRFnZ7TSV) - Omar Ahmed
-* [SOLID Principles&rlm;](https://www.youtube.com/playlist?list=PLZafHDYyxnk7fKmAuCJhWTMwJZ89f0Tug) - Mahmoud Youssef - محمود يوسف *(:construction: in process)*
 * [SOLID Principles&rlm;](https://www.youtube.com/playlist?list=PLsV97AQt78NRT1GmH2EJ-o-2_ILFM9feq) - Passionate Coders \| محمد المهدي
 * [Structural Design Patterns بالعربى](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdcW3viz_oXRal_FNkg2Dssm) - Mohammed Reda
 * [Tennis Game Refactoring Kata&rlm;](https://www.youtube.com/playlist?list=PLZafHDYyxnk7XNSOaQsb8GyeuGWk75WDy) - Mahmoud Youssef - محمود يوسف *(:construction: in process)*

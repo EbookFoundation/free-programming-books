@@ -28,8 +28,8 @@
 * [JavaScript](#javascript)
     * [Gulp.js](#gulpjs)
     * [jQuery](#jquery)
-    * [NodeJS](#nodejs)
     * [Nest.js](#nestjs)
+    * [NodeJS](#nodejs)
     * [Nuxt.js](#nuxtjs)
     * [PugJs](#pugjs)
     * [React.js](#reactjs)
@@ -59,8 +59,8 @@
 * [Algorithms - Full Coures In Arabic&rlm;](https://www.youtube.com/playlist?list=PLwCMLs3sjOY6KH-8c9F-lMWn-r02hyoV_) - Hard-Code
 * [Algorithms Design & Analysis&rlm;](https://www.youtube.com/playlist?list=PLEBRPBUkZ4maAlTZw3eZFwfwIGXaln0in) - FCI-Career-Build
 * [C++ Data Structures - تراكيب البيانات](https://www.youtube.com/playlist?list=PL1DUmTEdeA6JlommmGP5wicYLxX5PVCQt) - محمد الدسوقي
-* [CS Master - Level 1- Algorithms & Data Structures الخوارزميات وهياكل البيانات](https://www.youtube.com/playlist?list=PLL2zWZTDFZzjxarUL23ydiOgibhRipGYC) - KMR Script
 * [Competitive Programming and Problem Solving](https://www.youtube.com/playlist?list=PLCInYL3l2AagpjRJQp0q8D1D3Uuh1hsVH) - Adel Nasim
+* [CS Master - Level 1- Algorithms & Data Structures الخوارزميات وهياكل البيانات](https://www.youtube.com/playlist?list=PLL2zWZTDFZzjxarUL23ydiOgibhRipGYC) - KMR Script
 * [Data structure&rlm;](https://www.youtube.com/playlist?list=PLIxq078xdGdZWUXwumK9lbEn3kKwKLTwx) - Nehal Elsamoly
 * [Data Structure&rlm;](https://www.youtube.com/playlist?list=PLwCMLs3sjOY4UQq4vXgGPwGLVX1Y5faaS) - Hard-Code
 * [Data Structure : JavaScript (leetcode problem solving)&rlm;](https://www.youtube.com/playlist?list=PLS-MrzRLZtmdIHJ-Osvv_sJO1Msc4VM_7) - Shadow Coding
@@ -98,8 +98,8 @@
 
 ### <a id="csharp"></a>C#&lrm;
 
-* [المواضيع المتقدمة في السي شارب \| Advanced C# Course in Arabia&rlm;](https://www.youtube.com/playlist?list=PLX1bW_GeBRhBbnebNayUDYlQJRBKwZKlo) - Codographia
 * [الدورة المتقدمة C#-SQLServer Using MVP & Git&rlm;](https://www.youtube.com/playlist?list=PLDQ11FgmbqQMaXEZihgOgfwZCNAr03sph) - Programming Solutions - Academy
+* [المواضيع المتقدمة في السي شارب \| Advanced C# Course in Arabia&rlm;](https://www.youtube.com/playlist?list=PLX1bW_GeBRhBbnebNayUDYlQJRBKwZKlo) - Codographia
 * [كورس سي شارب للمبتدئين](https://www.youtube.com/playlist?list=PLX1bW_GeBRhCU9l7examhVrARmXHHRrLR) - Codographia
 * [كورس Design Patternsبالعربي-ITI&rlm;](https://www.youtube.com/playlist?list=PLzCpl3aBwaY56xIDF6IX0hmZC6JYoGQkS) - Mobarmg
 * [C#&lrm;&rlm;](https://www.youtube.com/playlist?list=PLltZRmsFXWnIfLM0BKgJNZYVnvCDZNAh_) - 6wrni
@@ -141,8 +141,8 @@
 
 ### Cloud Computing
 
-* [GCP بالعربي](https://www.youtube.com/playlist?list=PLZd2bo_SbAm-JJyJ5kJA02rcOXnyfqIWO) - Ismail Anjrini
 * [Confluent بالعربي](https://www.youtube.com/playlist?list=PLZd2bo_SbAm-qHFib_KPKFBlOL3Ggb9Hi) - Ismail Anjrini
+* [GCP بالعربي](https://www.youtube.com/playlist?list=PLZd2bo_SbAm-JJyJ5kJA02rcOXnyfqIWO) - Ismail Anjrini
 
 
 #### AWS
@@ -158,8 +158,8 @@
 
 ### Computer Science
 
-* [تعلم أساسيات البرمجة للمبتدئين](https://www.youtube.com/playlist?list=PLoP3S2S1qTfBCtTYJ2dyy3mpn7aWAAjdN) - OctuCode
 * [بالعربي CS50T كورس \|\| CS50T in Arabic&rlm;](https://www.youtube.com/playlist?list=PLnrlZUDQofUvLtIMvVxZRYYju7ni0Xsxq) - Coders Camp - Rasha Abdeen
+* [تعلم أساسيات البرمجة للمبتدئين](https://www.youtube.com/playlist?list=PLoP3S2S1qTfBCtTYJ2dyy3mpn7aWAAjdN) - OctuCode
 * [كورس أساسيات الكمبيوتر](https://www.youtube.com/playlist?list=PLvGNfY-tFUN8D7uAQzkBfMkJ7XAFWSsIv) - غريب الشيخ \|\| Ghareeb Elshaikh
 * [ما قبل تعلم البرمجة](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx8xKvAXpb6f0Urj98Xo7zg) - Elzero Web School
 * [مفاهيم اساسية في البرمجة](https://www.youtube.com/playlist?list=PLv3VqjyehAoRcrpuavzqleAA2jJYk6KgU) - Ali Shahin
@@ -169,6 +169,7 @@
 * [CS50 In Arabic&rlm;](https://www.youtube.com/playlist?list=PLnrlZUDQofUv7JE4QIahAyztrQU9bnJmd) - Coders Camp - Rasha Abdeen
 * [Cs50 In Arabic 2022 \| كورس cs50 بالعربي كامل](https://www.youtube.com/playlist?list=PLknwEmKsW8OvsdJ64v5YljHNtt100kN6w) - Abdelrahman Gamal&rlm; *(:construction: in process)*
 * [Distributed Systems Design Patterns&rlm;](https://www.youtube.com/playlist?list=PLZafHDYyxnk6ssRA-8LzMpep1MrqocFiY) - Mahmoud Youssef - محمود يوسف *(:construction: in process)*
+
 
 ### Dart
 
@@ -215,6 +216,7 @@
 * [GitOps and K8s بالعربي](https://www.youtube.com/playlist?list=PLTRDUPO2OmInz2Fo41zwnoR1IArx70Hig) - Ahmed Elemam
 * [Kubernetes بالعربي](https://www.youtube.com/playlist?list=PLX1bW_GeBRhDCHijCrMO5F-oHg52rRBpl) - Codographia
 * [Terraform بالعربي \| DevOps in Arabic&rlm;](https://www.youtube.com/playlist?list=PLX1bW_GeBRhBIT9-Nyt4_osatqokaN8ae) - Codographia
+
 
 ### Docker
 
@@ -347,6 +349,14 @@
 * [JQuery In Arabic - Web Development&rlm;](https://www.youtube.com/playlist?list=PLHIfW1KZRIfll3ObMFi02Ry7oRU3MJVRG) - Hassouna Academy
 
 
+#### Nest.js
+
+[كورس Nest JS في ٣ ساعات \| Type ORM - MySql DB - Modules - Dependency Injection](https://www.youtube.com/watch?v=RwOxUg2rsjY) - أكاديمية ترميز
+[Learn Nestjs Framework ( بالعربي )](https://www.youtube.com/playlist?list=PLDQ11FgmbqQP1aaCCiU74LzebvZjY_S4G) - Index Academy - اتعلم برمجة بالعربي
+[Nestjs&rlm;](https://www.youtube.com/playlist?list=PLOldSEMXUdZsFAEJwxYkE83dhm1ZkWEOL) - Mahmoud Abdullah
+[NestJS - Progressive Node.js framework&rlm;](https://www.youtube.com/playlist?list=PLMYF6NkLrdN_5_pwGSQt2OXLDMMXpeotD) - Muhammed Essa
+
+
 #### NodeJS
 
 * [كورس MongoDB بالعربي-ITI&rlm;](https://www.youtube.com/playlist?list=PLzCpl3aBwaY6ZTH5cneI_S0Bzzj-4j082) - Mobarmg
@@ -365,14 +375,6 @@
 * [REST API Node.js&rlm;](https://www.youtube.com/playlist?list=PLGhZWewM_75ILwl15d0Cn-W_XHpnKbNHL) - Emam Academy
 
 
-#### Nest.js
-
-[كورس Nest JS في ٣ ساعات \| Type ORM - MySql DB - Modules - Dependency Injection](https://www.youtube.com/watch?v=RwOxUg2rsjY) - أكاديمية ترميز
-[Learn Nestjs Framework ( بالعربي )](https://www.youtube.com/playlist?list=PLDQ11FgmbqQP1aaCCiU74LzebvZjY_S4G) - Index Academy - اتعلم برمجة بالعربي
-[Nestjs&rlm;](https://www.youtube.com/playlist?list=PLOldSEMXUdZsFAEJwxYkE83dhm1ZkWEOL) - Mahmoud Abdullah
-[NestJS - Progressive Node.js framework&rlm;](https://www.youtube.com/playlist?list=PLMYF6NkLrdN_5_pwGSQt2OXLDMMXpeotD) - Muhammed Essa
-
-
 #### Nuxt.js
 
 * [Nuxt.js Course&rlm;](https://www.youtube.com/playlist?list=PLLXntwspGdhCBdax1ZJTEX6Gg5vCwOSUL) - Mahmoud Zohdi \- محمود زهدي
@@ -386,8 +388,8 @@
 #### React.js
 
 * [Learn React JS Tutorial \|\| React دورة كاملة لتعلم الـ](https://www.youtube.com/playlist?list=PLtFbQRDJ11kEjXWZmwkOV-vfXmrEEsuEW) - Unique Coderz Academy
-* [ReactJS](https://www.youtube.com/playlist?list=PLCInYL3l2AahiYaPBNh6YtI9NifuG8SqT) - Adel Nasim
 * [React JS A JavaScript library دورة](https://www.youtube.com/playlist?list=PLMYF6NkLrdN9YuSgcD3TvNowTbMrI_hh8) - Muhammed Essa
+* [ReactJS](https://www.youtube.com/playlist?list=PLCInYL3l2AahiYaPBNh6YtI9NifuG8SqT) - Adel Nasim
 * [React.js&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNObRCqeYOws_JK_CCGCmQv_l) - Algorithm Academy
 * [React.js Hooks&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNOZ5-WwSSWYLp0kC8xxE46YG) - Algorithm Academy
 * [React.js Todo App&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNOYKXNTPUiZw8X7dDIgsSZln) - Algorithm Academy

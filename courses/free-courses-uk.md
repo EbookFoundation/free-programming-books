@@ -1,6 +1,7 @@
 ### Index
 
 * [C++](#cpp)
+* [Go](#go)
 * [Java](#java)
 * [PHP](#php)
 * [Python](#python)
@@ -17,6 +18,10 @@ ADV - Просунутий. Тонкощі.
 
 * [Мова програмування C++](https://stepik.org/course/67114) - Александр Руденко (Stepik) (BEG)
 
+
+### Go
+
+* [Go (Golang) - перше знайомство (українською)](https://stepik.org/course/171599) - Ігор Лютий (Stepik) (BEG)
 
 ### Java
 

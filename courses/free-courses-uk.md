@@ -23,6 +23,7 @@ ADV - Просунутий. Тонкощі.
 
 * [Go (Golang) - перше знайомство (українською)](https://stepik.org/course/171599) - Ігор Лютий (Stepik) (BEG)
 
+
 ### Java
 
 * [Основи програмування на Java](https://courses.prometheus.org.ua/courses/EPAM/JAVA101/2016_T2/about)

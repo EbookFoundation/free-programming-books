@@ -140,6 +140,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Mercury](#mercury)
 * [Modelica](#modelica)
 * [MongoDB](#mongodb)
+* [Move](#move)
 * [MySQL](#mysql)
 * [.NET Core / .NET](#net-core)
 * [.NET Framework](#net-framework)
@@ -1628,6 +1629,11 @@ Books on general-purpose programming that don't focus on a specific language are
 * [MongoDB Notes for Professionals](https://goalkicker.com/MongoDBBook/) - Compiled from StackOverflow Documentation (PDF)
 * [MongoDB Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/mongodb) (PDF, Kindle) (email address *requested*, not required)
 * [The Little MongoDB Book](http://openmymind.net/2011/3/28/The-Little-MongoDB-Book/)
+
+
+### Move
+
+* [The Move Book](https://move-book.com/index.html) - Damir Shamanaev
 
 
 ### MySQL

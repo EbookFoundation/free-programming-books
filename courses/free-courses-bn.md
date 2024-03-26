@@ -1,43 +1,44 @@
 ### Index
 
-* [Android](#android)
-* [C](#c)
-* [C#](#csharp)
-* [C++](#cpp)
-* [Competitive Programming](#competitive-programming)
-* [Dart](#dart)
-* [Docker](#docker)
-* [Flutter](#flutter)
-* [Git](#git)
-* [Go](#go)
-* [HTML and CSS](#html-and-css)
-    * [Bootstrap](#bootstrap)
-    * [Tailwind](#tailwind)
-* [IDE and editors](#ide-and-editors)
-* [Java](#java)
-* [JavaScript](#javascript)
-    * [Angular](#angular)
-    * [jQuery](#jquery)
-    * [Next.js](#nextjs)
-    * [Node.js](#nodejs)
-    * [React](#react)
-    * [Svelte](#svelte)
-    * [Vue.js](#vuejs)
-* [Kotlin](#kotlin)
-* [Linux](#linux)
-* [MongoDB](#mongodb)
-* [MySQL](#mysql)
-* [PHP](#php)
-    * [Laravel](#laravel)
-* [Programming paradigms](#programming-paradigms)
-* [Python](#python)
-    * [Django](#django)
-    * [Flask](#flask)
-* [Scratch](#scratch)
-* [Shell scripting](#shell-scripting)
-* [Swift](#swift)
-* [TypeScript](#typescript)
-* [WordPress](#wordpress)
+- [Index](#index)
+- [Android](#android)
+- [C](#c)
+- [C#](#c-1)
+- [C++](#c-2)
+- [Competitive Programming](#competitive-programming)
+- [Dart](#dart)
+- [Docker](#docker)
+- [Flutter](#flutter)
+- [Git](#git)
+- [Go](#go)
+- [HTML and CSS](#html-and-css)
+  - [Bootstrap](#bootstrap)
+  - [Tailwind](#tailwind)
+- [IDE and editors](#ide-and-editors)
+- [Java](#java)
+- [JavaScript](#javascript)
+  - [Angular](#angular)
+  - [jQuery](#jquery)
+  - [Next.js](#nextjs)
+  - [Node.js](#nodejs)
+  - [React](#react)
+  - [Svelte](#svelte)
+  - [Vue.js](#vuejs)
+- [Kotlin](#kotlin)
+- [Linux](#linux)
+- [MongoDB](#mongodb)
+- [MySQL](#mysql)
+- [PHP](#php)
+  - [Laravel](#laravel)
+- [Programming paradigms](#programming-paradigms)
+- [Python](#python)
+  - [Django](#django)
+  - [Flask](#flask)
+- [Scratch](#scratch)
+- [Shell scripting](#shell-scripting)
+- [Swift](#swift)
+- [TypeScript](#typescript)
+- [WordPress](#wordpress)
 
 
 ### Android
@@ -210,6 +211,8 @@
 * [Next Js Bangla Tutorial Series](https://www.youtube.com/playlist?list=PLwMeE9AWeV59vbQSIArd0-sNB9FPxlWSp) - dSkill
 * [next js bangla(বাংলা) tutorial](https://www.youtube.com/playlist?list=PLQvUYGXiwrskS_C3MOeW0rOVB5Ny2MCR2) - Faazle Rabbi
 * [Next js tutorial in bangla](https://www.youtube.com/playlist?list=PLkmCJMhveta1PihBgW4MpYxFlyzdSjlNC) - Sabeek Bin Sayeed
+* [Next JS  14 Full Course in bangla](https://www.youtube.com/watch?v=XnIm8mb7WOw&list=PLNMnAEqLBwmqt3wGvc_JMqFobBZBcpv8c) - Hablu Programmer
+* [Next JS 14 Crash Course - Next.js Bangla Tutorial](https://www.youtube.com/watch?v=NgrljB7UU34) - Learn With Sumit
 
 
 #### Node.js
@@ -220,6 +223,7 @@
 * [Node.js Tutorial Bangla  Series for Beginners](https://youtube.com/playlist?list=PLHiZ4m8vCp9PHnOIT7gd30PCBoYCpGoQM) - Learn With Sumit
 * [NodeJS Tutorial Online](https://www.youtube.com/playlist?list=PLEYpvDF6qy8ZHMhSqsdo_Tge0CDxxXd1w) - Foyzul Karim
 * [Raw Node JS Project in Bangla ( বাংলা ) - Uptime Monitoring API](https://youtube.com/playlist?list=PLHiZ4m8vCp9OmVWU2Qf9tZgKdyzoubOpj) - Learn With Sumit
+* [Node.js Tutorial Bangla | Express.js Tutorial Bangla](https://www.youtube.com/playlist?list=PLkyGuIcLcmx2qXaZkjCL8-P78i2J5rDOa)-Rabbil Hasan
 
 
 #### React

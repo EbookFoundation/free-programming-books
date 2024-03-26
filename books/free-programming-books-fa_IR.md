@@ -48,6 +48,7 @@
 * [جاوااسکریپت شیوا](http://eloquentjs.ir) - مارین هاوربک, مهران عفتی (HTML)
 * [ریکت جی اس](https://github.com/reactjs/fa.reactjs.org)
 * [یادگیری اصولی جاوااسکریپت](https://github.com/Mariotek/BetterUnderstandingOfJavascript)
+* [آموزش جاوااسکریپت مدرن](https://fa.javascript.info/)
 
 
 ### LaTeX
@@ -73,6 +74,7 @@
 
 * [پایتون به پارسی](https://python.coderz.ir) - سعید درویش (HTML)
 * [ترجمه آزاد کتاب Asyncio in Python](https://github.com/ftg-iran/aip-persian)
+* [آموزش برنامه نویسی شئ گرایی در پایتون](https://github.com/persianpython/PythonObjectOriented)
 
 
 #### Django

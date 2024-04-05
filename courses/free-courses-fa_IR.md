@@ -1,8 +1,10 @@
 ### Index
 
+* [Ansible](#ansible)
 * [Blockchain](#blockchain)
 * [C, C++](#c)
 * [C#](#csharp)
+* [Ceph](#ceph)
 * [Git](#git)
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
@@ -11,8 +13,6 @@
     * [Vue.js](#vuejs)
 * [Kotlin](#kotlin)
 * [Linux](#linux)
-* [Ansible](#ansible)
-* [Ceph](#ceph)
 * [Machine Learning](#machine-learning)
 * [Network](#network)
 * [PHP](#php)
@@ -24,6 +24,10 @@
     * [Flask](#flask)
 * [Web Development](#web-development)
 
+
+### Ansible
+
+* [آموزش رایگان انسیبل](https://www.youtube.com/playlist?list=PLRMCwJJwWR1AKYcUkdcorTFR-bhXUN6oO) - Morteza Bashsiz
 
 ### Blockchain
 
@@ -41,6 +45,11 @@
 
 * [آموزش Asp.Net MVC به همراه پروژه عملی](https://toplearn.com/courses/web/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-AspNet-MVC-%D8%A8%D9%87-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D8%B9%D9%85%D9%84%DB%8C) - Iman Madaeny *(نیاز به ثبت نام دارد)*
 * [دوره مقدماتی دات نت 5 تحت وب](https://bugeto.net/courses/free-introductory-asp-dot-net-core-training-course) - Ehsan Babaei *(نیاز به ثبت نام دارد)*
+
+
+### Ceph
+
+* [آموزش رایگان سف](https://www.youtube.com/playlist?list=PLRMCwJJwWR1DhlYbrvwXCXbudzfxseo7E) - Morteza Bashsiz
 
 
 ### Git
@@ -61,7 +70,6 @@
 * [برنامه نویسی پیشرفته(جاوا)](https://maktabkhooneh.org/course/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-%D8%AC%D8%A7%D9%88%D8%A7-mk242) - Gholamali Nejad Hajali Irani
 * [برنامه‌نویسی حرفه‌ای تحت وب در جاوا](https://maktabkhooneh.org/course/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-%D8%AA%D8%AD%D8%AA-%D9%88%D8%A8-%D8%AF%D8%B1-%D8%AC%D8%A7%D9%88%D8%A7-mk282) - Gholamali Nejad Hajali Irani
   
-
 
 ### JavaScript
 
@@ -93,11 +101,6 @@
 * [آموزش لینوکس مقدماتی](https://www.youtube.com/watch?v=ZwaBNkQKrts&list=PLPj7mSUQL4v_oVLO-2Q1QQ9fAH45u8z4A) - Hamid Emamian
 * [دوره الپیک ۱ - جادی \| LPIC-1 with Jadi](https://www.youtube.com/playlist?list=PL7ePwBdxM4nswZ62DvL58yJZ9W4-hOLLB) - Jadi Mirmirani
 
-### Ansible
-* [آموزش رایگان انسیبل](https://www.youtube.com/playlist?list=PLRMCwJJwWR1AKYcUkdcorTFR-bhXUN6oO) - Morteza Bashsiz
-
-### Ceph
-* [آموزش رایگان سف](https://www.youtube.com/playlist?list=PLRMCwJJwWR1DhlYbrvwXCXbudzfxseo7E) - Morteza Bashsiz
 
 ### Machine Learning
 

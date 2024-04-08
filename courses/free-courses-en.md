@@ -1291,7 +1291,7 @@
 * [Stanford University Machine Learning](https://www.coursera.org/learn/machine-learning)
 * [Statistics for Applications](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/) - MIT OpenCourseWare
 * [Understand Machine Learning Engineering by Building Projects](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp) - Alexey Grigorev
-* [Understanding AI from Scratch – Neural Networks Course](https://www.youtube.com/watch?v=VgzHT9quo5c) - Dr Radu (freecodecamp)
+* [Understanding AI from Scratch – Neural Networks Course](https://www.youtube.com/watch?v=VgzHT9quo5c) - Radu (FreeCodeCamp)
 
 
 ### Markdown

@@ -4,7 +4,6 @@
 * [Blockchain](#blockchain)
 * [C, C++](#c)
 * [C#](#csharp)
-* [Ceph](#ceph)
 * [Git](#git)
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
@@ -22,6 +21,8 @@
 * [Python](#python)
     * [Django](#django)
     * [Flask](#flask)
+* [Storage](#storage)
+    * [Ceph](#ceph)
 * [Web Development](#web-development)
 
 
@@ -46,11 +47,6 @@
 
 * [آموزش Asp.Net MVC به همراه پروژه عملی](https://toplearn.com/courses/web/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-AspNet-MVC-%D8%A8%D9%87-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D8%B9%D9%85%D9%84%DB%8C) - Iman Madaeny *(نیاز به ثبت نام دارد)*
 * [دوره مقدماتی دات نت 5 تحت وب](https://bugeto.net/courses/free-introductory-asp-dot-net-core-training-course) - Ehsan Babaei *(نیاز به ثبت نام دارد)*
-
-
-### Ceph
-
-* [آموزش رایگان سف](https://www.youtube.com/playlist?list=PLRMCwJJwWR1DhlYbrvwXCXbudzfxseo7E) - Morteza Bashsiz
 
 
 ### Git
@@ -158,6 +154,13 @@
 ### Flask
 
 * [آموزش توسعه وب با فریم‌ورک فلسک](https://www.youtube.com/playlist?list=PLdUn5H7OTUk1WYCrDJpNGpJ2GFWd7yZaw) - Alireza Ayinmehr
+
+
+### Storage
+
+#### Ceph
+
+* [آموزش رایگان سف](https://www.youtube.com/playlist?list=PLRMCwJJwWR1DhlYbrvwXCXbudzfxseo7E) - Morteza Bashsiz
 
 
 ### Web Development

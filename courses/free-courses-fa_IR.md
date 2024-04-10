@@ -158,8 +158,6 @@
 
 ### Storage
 
-#### Ceph
-
 * [آموزش رایگان سف](https://www.youtube.com/playlist?list=PLRMCwJJwWR1DhlYbrvwXCXbudzfxseo7E) - Morteza Bashsiz
 
 

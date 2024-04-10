@@ -413,7 +413,9 @@
 
 #### AWS
 
-* [AWS Certified Cloud Practitioner Course](https://www.youtube.com/playlist?list=PLt1SIbA8guuvfvUDVLpJepmbnYpOfYCIB) - Stephane Maarek
+* [AWS Certified Cloud Practitioner Course (2020-2023)](https://www.youtube.com/playlist?list=PLt1SIbA8guuvfvUDVLpJepmbnYpOfYCIB) - Stephane Maarek
+* [AWS Certified Cloud Practitioner Course (CLF-C02)(2024)](https://www.youtube.com/watch?v=NhDYbskXRgc) - Andrew Brown (FreeCodeCamp)
+* [AWS Cloud Complete Bootcamp Course](https://www.youtube.com/watch?v=zA8guDqfv40) - Andrew Brown (FreeCodeCamp)
 * [AWS Power Hour: Architecting](https://pages.awscloud.com/traincert-twitch-power-hour-architecting.html?saa=sec&sec=prep) - AWS
 * [AWS Tutorial For Beginners](https://www.youtube.com/playlist?list=PLEiEAq2VkUULlNtIFhEQHo8gacvme35rz) - Simplilearn
 * [AWS Zero to Hero](https://www.youtube.com/playlist?list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze) - Abhishek Veeramalla
@@ -1290,6 +1292,7 @@
 * [Stanford University Machine Learning](https://www.coursera.org/learn/machine-learning)
 * [Statistics for Applications](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/) - MIT OpenCourseWare
 * [Understand Machine Learning Engineering by Building Projects](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp) - Alexey Grigorev
+* [Understanding AI from Scratch – Neural Networks Course](https://www.youtube.com/watch?v=VgzHT9quo5c) - Radu (FreeCodeCamp)
 
 
 ### Markdown

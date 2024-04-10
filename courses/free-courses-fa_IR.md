@@ -22,7 +22,6 @@
     * [Django](#django)
     * [Flask](#flask)
 * [Storage](#storage)
-    * [Ceph](#ceph)
 * [Web Development](#web-development)
 
 

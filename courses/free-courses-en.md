@@ -413,7 +413,8 @@
 
 #### AWS
 
-* [AWS Certified Cloud Practitioner Course (CLF-C02)](https://www.youtube.com/watch?v=NhDYbskXRgc&t=7s&pp=ygUQZnJlZWNvZGVjYW1wIGF3cw%3D%3D) - Andrew Brown (freecodecamp)
+* [AWS Certified Cloud Practitioner Course (2020-2023)](https://www.youtube.com/playlist?list=PLt1SIbA8guuvfvUDVLpJepmbnYpOfYCIB) - Stephane Maarek
+* [AWS Certified Cloud Practitioner Course (CLF-C02)(2024)](https://www.youtube.com/watch?v=NhDYbskXRgc) - Andrew Brown (FreeCodeCamp)
 * [AWS Cloud Complete Bootcamp Course](https://www.youtube.com/watch?v=zA8guDqfv40) - Andrew Brown (FreeCodeCamp)
 * [AWS Power Hour: Architecting](https://pages.awscloud.com/traincert-twitch-power-hour-architecting.html?saa=sec&sec=prep) - AWS
 * [AWS Tutorial For Beginners](https://www.youtube.com/playlist?list=PLEiEAq2VkUULlNtIFhEQHo8gacvme35rz) - Simplilearn

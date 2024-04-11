@@ -50,6 +50,7 @@
 ### <a id="csharp"></a>C\#
 
 * [C# - Cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGBHAMEg9Om9nF_7R7h5mO7) - Formation Video
+* [Apprendre le C#](https://www.youtube.com/playlist?list=PLkHw7J3J2iapWFUnQmVzsRCU5YxaAWHSY) - Pentiminax
 
 
 ### <a id="cpp"></a>C++

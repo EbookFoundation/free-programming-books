@@ -1100,7 +1100,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Spring Framework Cookbook: Hot Recipes for Spring Framework](https://www.javacodegeeks.com/wp-content/uploads/2017/01/Spring-Framework-Cookbook.pdf) - JCGs (Java Code Geeks) (PDF)
 * [Spring Framework Notes for Professionals](https://goalkicker.com/SpringFrameworkBook) - Compiled from StackOverflow documentation (PDF)
 * [Spring Framework Reference Documentation](https://docs.spring.io/spring/docs/current/spring-framework-reference/) - Rod Johnson, et al.
-* [Spring books and guides](https://www.baeldung.com/baeldung-ebooks) - Baeldung (PDF sent by email)
 
 
 #### Spring Boot

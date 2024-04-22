@@ -415,10 +415,11 @@
 ### Rust
 
 * [Rust-101](https://www.ralfj.de/projects/rust-101/main.html) - ralfj.de
+* [Rust Primer](https://app.codecrafters.io/collections/rust-primer) - CodeCrafters *(no account required)*
 * [Rust Quiz](https://dtolnay.github.io/rust-quiz)
 * [Rustlings](https://github.com/rust-lang/rustlings)
 * [TCP Servers in Rust](https://app.codecrafters.io/concepts/rust-tcp-server) - CodeCrafters *(no account required)*
-* [Rust Primer](https://app.codecrafters.io/collections/rust-primer) - CodeCrafters *(no account required)*
+
 
 ### Scala
 

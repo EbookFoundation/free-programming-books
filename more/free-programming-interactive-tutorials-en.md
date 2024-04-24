@@ -161,6 +161,7 @@
 * [Go Tutorial](https://www.w3schools.com/go/) - W3Schools
 * [Learn Go](https://www.codecademy.com/learn/learn-go) - Google, Robert Griesemer, Rob Pike, and Ken Thompson (Codecademy) *(account required)*
 * [Start using Go](https://docs.microsoft.com/en-us/learn/paths/go-first-steps/) - Microsoft
+* [TCP Servers in Go](https://app.codecrafters.io/concepts/go-tcp-server) - CodeCrafters
 * [The Go Tutorial](http://tour.golang.org)
 
 
@@ -414,8 +415,10 @@
 ### Rust
 
 * [Rust-101](https://www.ralfj.de/projects/rust-101/main.html) - ralfj.de
+* [Rust Primer](https://app.codecrafters.io/collections/rust-primer) - CodeCrafters
 * [Rust Quiz](https://dtolnay.github.io/rust-quiz)
 * [Rustlings](https://github.com/rust-lang/rustlings)
+* [TCP Servers in Rust](https://app.codecrafters.io/concepts/rust-tcp-server) - CodeCrafters
 
 
 ### Scala

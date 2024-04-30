@@ -306,8 +306,8 @@
 * [Login com validação e flash messages (PHP)](https://www.udemy.com/login-com-validacao-e-flash-messages-php/) - Alexandre Cardoso (Udemy)
 * [PDO para quem não sabe PDO](https://www.udemy.com/pdo-para-quem-nao-sabe-pdo/) - Alexandre Cardoso (Udemy)
 * [PHP 7 do Básico ao Intermediário](https://www.udemy.com/php-do-basico-ao-intermediario/) - Gunnar Correa (Udemy)
-* [PHP para quem entende PHP](https://www.udemy.com/php-para-quem-entende-php/) - Alexandre Cardoso (Udemy)
 * [PHP - Criando e consumindo API RESTful](https://academy.satellasoft.com/course/php-criando-e-consumindo-api-restful) - Gunnar Correa (SatellaSoftware)
+* [PHP para quem entende PHP](https://www.udemy.com/php-para-quem-entende-php/) - Alexandre Cardoso (Udemy)
 * [PHP PDO](https://www.youtube.com/playlist?list=PLYGFJHWj9BYqSXzSfHGd46yipCrkjC8AD) - Miriam (Miriam TechCod)
 
 

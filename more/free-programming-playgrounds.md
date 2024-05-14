@@ -84,6 +84,7 @@
 
 * [InterviewBit - Online C Compiler IDE](https://www.interviewbit.com/online-c-compiler/)
 * [JDoodle - Online C Compiler IDE](https://www.jdoodle.com/c-online-compiler/)
+* [C Playground - Online C Programming IDE](https://programiz.pro/ide/c)
 * [Programiz - Online C Compiler](https://www.programiz.com/c-programming/online-compiler/)
 * [SoloLearn](https://code.sololearn.com/c)
 
@@ -310,6 +311,7 @@
 * [Online Python](https://www.online-python.com)
 * [Online Python Compiler](https://www.tutorialspoint.com/online_python_compiler.php) - Tutorialspoint
 * [OnlineGDB](https://www.onlinegdb.com/online_python_compiler)
+* [Python Playground - Online Python IDE](https://www.programiz.com/python-programming/online-compiler/)
 * [Programiz.com](https://www.programiz.com/python-programming/online-compiler/)
 * [Pynative.com](https://pynative.com/online-python-code-editor-to-execute-python-code/)
 * [Python Online Compilers](https://www.codinguru.online/compiler/python)

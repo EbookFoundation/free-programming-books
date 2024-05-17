@@ -82,7 +82,7 @@
 
 ### <a id="c"></a>C
 
-* [C Playground - Online C Programming IDE](https://programiz.pro/ide/c)
+* [C Playground](https://programiz.pro/ide/c) - by Programiz PRO
 * [InterviewBit - Online C Compiler IDE](https://www.interviewbit.com/online-c-compiler/)
 * [JDoodle - Online C Compiler IDE](https://www.jdoodle.com/c-online-compiler/)
 * [Programiz - Online C Compiler](https://www.programiz.com/c-programming/online-compiler/)
@@ -314,7 +314,7 @@
 * [Programiz.com](https://www.programiz.com/python-programming/online-compiler/)
 * [Pynative.com](https://pynative.com/online-python-code-editor-to-execute-python-code/)
 * [Python Online Compilers](https://www.codinguru.online/compiler/python)
-* [Python Playground - Online Python IDE](https://www.programiz.com/python-programming/online-compiler/)
+* [Python Playground](https://programiz.pro/ide/python) - by Programiz PRO
 * [Python Trinket](https://trinket.io/python)
 * [Python Tutor](https://pythontutor.com)
 * [Python.org Shell](https://www.python.org/shell)

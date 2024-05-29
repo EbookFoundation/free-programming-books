@@ -203,6 +203,7 @@
 
 ### JavaScript
 
+* [JavaScript Definitivo Vol. I](https://github.com/afuggini/javascript-definitivo-vol1) - Ariel Fuggini (HTML)
 * [El Tutorial de JavaScript Moderno](https://es.javascript.info) - Ilya Kantor, Elizabeth Portilla, joaquinelio, Ezequiel Castellanos, et al. (HTML)
 * [Eloquent JavaScript](https://eloquentjs-es.thedojo.mx) - Marijn Haverbeke, `trl.:` Various (HTML, PDF, EPUB, MOBI)
 * [Guía de JavaScript 'Mozilla'](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide) (HTML)

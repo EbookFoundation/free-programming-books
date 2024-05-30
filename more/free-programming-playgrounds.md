@@ -85,7 +85,7 @@
 * [C Playground](https://programiz.pro/ide/c) - by Programiz PRO
 * [InterviewBit - Online C Compiler IDE](https://www.interviewbit.com/online-c-compiler/)
 * [JDoodle - Online C Compiler IDE](https://www.jdoodle.com/c-online-compiler/)
-* [Programiz - Online C Compiler](https://www.programiz.com/c-programming/online-compiler/)
+* [Online C Compiler](https://www.programiz.com/c-programming/online-compiler/) - Programiz
 * [SoloLearn](https://code.sololearn.com/c)
 
 

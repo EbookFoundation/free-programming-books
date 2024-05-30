@@ -311,7 +311,7 @@
 * [Online Python](https://www.online-python.com)
 * [Online Python Compiler](https://www.tutorialspoint.com/online_python_compiler.php) - Tutorialspoint
 * [OnlineGDB](https://www.onlinegdb.com/online_python_compiler)
-* [Programiz.com](https://www.programiz.com/python-programming/online-compiler/)
+* [Online Python Compiler](https://www.programiz.com/python-programming/online-compiler/) - Programiz
 * [Pynative.com](https://pynative.com/online-python-code-editor-to-execute-python-code/)
 * [Python Online Compilers](https://www.codinguru.online/compiler/python)
 * [Python Playground](https://programiz.pro/ide/python) - by Programiz PRO

@@ -314,7 +314,7 @@
 * [OnlineGDB](https://www.onlinegdb.com/online_python_compiler)
 * [Pynative.com](https://pynative.com/online-python-code-editor-to-execute-python-code/)
 * [Python Online Compilers](https://www.codinguru.online/compiler/python)
-* [Python Playground](https://programiz.pro/ide/python) - by Programiz PRO
+* [Python Playground](https://programiz.pro/ide/python) - Programiz PRO
 * [Python Trinket](https://trinket.io/python)
 * [Python Tutor](https://pythontutor.com)
 * [Python.org Shell](https://www.python.org/shell)

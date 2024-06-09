@@ -134,8 +134,8 @@
 * [openHPI](https://open.hpi.de)
 * [openSAP](https://open.sap.com)
 * [Platzi](https://courses.platzi.com)
-* [The Odin Project](https://www.theodinproject.com)
 * [Roadmap.sh](https://roadmap.sh)
+* [The Odin Project](https://www.theodinproject.com)
 * [Udacity](https://www.udacity.com)
 
 

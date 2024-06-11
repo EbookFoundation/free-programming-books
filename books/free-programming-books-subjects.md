@@ -893,7 +893,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Microservices vs. Service-Oriented Architecture](https://www.oreilly.com/radar/microservices-vs-service-oriented-architecture/) - Mark Richards (HTML)
 * [Migrating to Cloud-Native Application Architectures](https://developers.redhat.com/books/migrating-microservice-databases-relational-monolith-distributed-data/) (email address *requested*) (PDF)
 * [Naked objects](http://downloads.nakedobjects.net/resources/Pawson%20thesis.pdf) - Richard Pawson (PDF)
-* [OAuth - The Big Picture](https://pages.apigee.com/oauth-big-picture-ebook.html) (email address *requested*)
+* [OAuth - The Big Picture](https://cloud.google.com/files/apigee/apigee-oauth-the-big-picture-ebook.pdf) (email address *requested*)
 * [Object-Oriented Reengineering Patterns](https://scg.unibe.ch/download/oorp/) - S. Demeyer, S. Ducasse, O. Nierstrasz
 * [Practicing Domain-Driven Design - Part 1](https://leanpub.com/Practicing-DDD) - Scott Millett *(Leanpub account or valid email requested)*
 * [Reactive Microservices Architecture](https://www.lightbend.com/ebooks/reactive-microservices-architecture-design-principles-for-distributed-systems-oreilly) (email address *requested*)

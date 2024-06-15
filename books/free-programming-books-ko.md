@@ -75,6 +75,7 @@
 
 * [Elastic 가이드북](https://esbook.kimjmin.net) - 김종민
 
+
 ### FastAPI
 
 * [점프 투 FastAPI](https://wikidocs.net/book/8531) - 박응용
@@ -241,8 +242,8 @@
 
 ### Springboot
 
-* [Springboot 2.X 정리](https://djunnni.gitbook.io/springboot) - 이동준
 * [점프 투 스프링부트](https://wikidocs.net/book/7601) - 박응용
+* [Springboot 2.X 정리](https://djunnni.gitbook.io/springboot) - 이동준
 
 
 ### TypeScript

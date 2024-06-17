@@ -7,7 +7,6 @@
 * [C++](#cpp)
 * [Docker](#docker)
 * [Elastic](#elastic)
-* [FastAPI](#FastAPI)
 * [Git](#git)
 * [Go](#go)
 * [HTML and CSS](#html-and-css)
@@ -27,6 +26,7 @@
 * [Python](#python)
     * [Django](#django)
     * [Flask](#flask)
+    * [FastAPI](#fastapi)
 * [R](#r)
 * [Raspberry Pi](#raspberry-pi)
 * [Ruby](#ruby)
@@ -74,11 +74,6 @@
 ### Elastic
 
 * [Elastic 가이드북](https://esbook.kimjmin.net) - 김종민
-
-
-### FastAPI
-
-* [점프 투 FastAPI](https://wikidocs.net/book/8531) - 박응용
 
 
 ### Git
@@ -200,6 +195,11 @@
 
 * [점프 투 플라스크](https://wikidocs.net/book/4542) - 박응용
 * [Flask의 세계에 오신것을 환영합니다.](https://flask-docs-kr.readthedocs.io/ko/latest/) (HTML)
+
+
+#### FastAPI
+
+* [점프 투 FastAPI](https://wikidocs.net/book/8531) - 박응용
 
 
 ### R

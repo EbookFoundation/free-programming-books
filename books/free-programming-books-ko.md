@@ -25,8 +25,8 @@
     * [Laravel](#laravel)
 * [Python](#python)
     * [Django](#django)
-    * [Flask](#flask)
     * [FastAPI](#fastapi)
+    * [Flask](#flask)
 * [R](#r)
 * [Raspberry Pi](#raspberry-pi)
 * [Ruby](#ruby)
@@ -191,15 +191,15 @@
 * [점프 투 장고](https://wikidocs.net/book/4223) - 박응용
 
 
+#### FastAPI
+
+* [점프 투 FastAPI](https://wikidocs.net/book/8531) - 박응용
+
+
 #### Flask
 
 * [점프 투 플라스크](https://wikidocs.net/book/4542) - 박응용
 * [Flask의 세계에 오신것을 환영합니다.](https://flask-docs-kr.readthedocs.io/ko/latest/) (HTML)
-
-
-#### FastAPI
-
-* [점프 투 FastAPI](https://wikidocs.net/book/8531) - 박응용
 
 
 ### R

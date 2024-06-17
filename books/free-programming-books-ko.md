@@ -25,6 +25,7 @@
     * [Laravel](#laravel)
 * [Python](#python)
     * [Django](#django)
+    * [FastAPI](#fastapi)
     * [Flask](#flask)
 * [R](#r)
 * [Raspberry Pi](#raspberry-pi)
@@ -190,6 +191,11 @@
 * [점프 투 장고](https://wikidocs.net/book/4223) - 박응용
 
 
+#### FastAPI
+
+* [점프 투 FastAPI](https://wikidocs.net/book/8531) - 박응용
+
+
 #### Flask
 
 * [점프 투 플라스크](https://wikidocs.net/book/4542) - 박응용
@@ -236,6 +242,7 @@
 
 ### Springboot
 
+* [점프 투 스프링부트](https://wikidocs.net/book/7601) - 박응용
 * [Springboot 2.X 정리](https://djunnni.gitbook.io/springboot) - 이동준
 
 

@@ -59,6 +59,7 @@
 
 * [씹어먹는 C](https://github.com/kev0960/ModooCode/raw/master/book/c/main.pdf) - 이재범 (PDF)
 * [BeeJ's Guide to Network Programming - 인터넷 소켓 활용](https://blogofscience.com/Socket_Programming-KLDP.html)
+* [C 프로그래밍: 현대적 접근](https://wikidocs.net/book/2494) - K.N.King, `trl.:` 주민하
 
 
 ### <a id="cpp"></a>C++
@@ -175,6 +176,7 @@
 * [실용 파이썬 프로그래밍: 프로그래밍 유경험자를 위한 강좌](https://wikidocs.net/book/4673) - 최용
 * [왕초보를 위한 Python 2.7](https://wikidocs.net/book/2)
 * [점프 투 파이썬 - Python 3](https://wikidocs.net/book/1)
+* [좌충우돌, 파이썬으로 자료구조 구현하기](https://wikidocs.net/book/9059) - 심명수
 * [중급 파이썬: 파이썬 팁들](https://ddanggle.gitbooks.io/interpy-kr/content/)
 * [파이썬 라이브러리](https://wikidocs.net/book/5445) - 박응용
 * [파이썬 코딩 도장](https://pyrasis.com/python.html) - 남재윤

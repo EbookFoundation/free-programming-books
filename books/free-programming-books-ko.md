@@ -57,14 +57,16 @@
 
 
 ### C
-* [코딩 자율학습 나도코딩의 C 언어 입문](https://thebook.io/007139/) - 나도코딩
+
 * [모두의 C언어](https://thebook.io/006989/) - 이형우
 * [씹어먹는 C](https://github.com/kev0960/ModooCode/raw/master/book/c/main.pdf) - 이재범 (PDF)
+* [코딩 자율학습 나도코딩의 C 언어 입문](https://thebook.io/007139/) - 나도코딩
 * [BeeJ's Guide to Network Programming - 인터넷 소켓 활용](https://blogofscience.com/Socket_Programming-KLDP.html)
 * [C 프로그래밍: 현대적 접근](https://wikidocs.net/book/2494) - K.N.King, `trl.:` 주민하
 
 
 ### <a id="csharp"></a>C#
+
 * [C# 교과서](https://thebook.io/006890/) - 박용준
 
 

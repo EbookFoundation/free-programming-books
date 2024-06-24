@@ -6,13 +6,10 @@
 * [ASP.NET](#aspnet)
 * [C/C++](#cc)
 * [C#](#csharp)
-* [Circuit](#circuit)
 * [Deep Learning](#deep-learning)
 * [Flutter](#flutter)
 * [Git](#git)
 * [Go](#go)
-* [Haskell](#haskell)
-* [Introduction](#introduction)
 * [iOS](#ios)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -43,20 +40,20 @@
 
 ### Algorithms & Data Structures
 
-* [실전 알고리즘 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz)
-* [알고리즘 강좌](https://www.youtube.com/playlist?list=PLNvbgg5to7cfAx80VeQFW1Sq1mHGfiECo) (부경대 권오흠)
-* [이상진의 자료구조](https://www.youtube.com/playlist?list=PL7mmuO705dG12pP82RPUR3wdD5dbYu9gZ)
+* [실전 알고리즘 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdDHxCvAQS1_6XV4deOwfVrz) - 동빈나
+* [알고리즘 강좌](https://www.youtube.com/playlist?list=PLNvbgg5to7cfAx80VeQFW1Sq1mHGfiECo) - 권오흠
+* [이상진의 자료구조 (2017)](https://www.youtube.com/playlist?list=PL7mmuO705dG12pP82RPUR3wdD5dbYu9gZ) - 프리렉
 
 
 ### Android
 
-* [안드로이드 스튜디오 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdB6sCgj_jubp8KPb1ni0VOC)
+* [안드로이드 스튜디오 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdB6sCgj_jubp8KPb1ni0VOC) - 동빈나
 * [안드로이드 스튜디오 실전 프로젝트](https://www.youtube.com/playlist?list=PLRx0vPvlEmdD862e43ADbvDeGPUZKDuqL)
-* [안드로이드 프로그래밍 고급](https://www.youtube.com/playlist?list=PL9mhQYIlKEhcXoTW9RwEf_7UTMcAJaink) (T 아카데미)
-* [안드로이드 프로그래밍 응용](https://www.youtube.com/playlist?list=PL9mhQYIlKEhd0NndsEQc0in36Oegm3ldE) (T 아카데미)
-* [안드로이드 프로그래밍 중급](https://www.youtube.com/playlist?list=PL9mhQYIlKEhc7o2HHixQi0PU2sQVerRW2) (T 아카데미)
-* [안드로이드 프로그래밍 초급](https://www.youtube.com/playlist?list=PL9mhQYIlKEhcAHpIweCixdDrPoXv5bXGx) (T 아카데미)
-* [Do it! 안드로이드 앱 프로그래밍](https://www.youtube.com/playlist?list=PLG7te9eYUi7sq701GghpoSKe-jbkx9NIF)
+* [안드로이드 프로그래밍 고급](https://www.youtube.com/playlist?list=PL9mhQYIlKEhcXoTW9RwEf_7UTMcAJaink) - T 아카데미
+* [안드로이드 프로그래밍 응용](https://www.youtube.com/playlist?list=PL9mhQYIlKEhd0NndsEQc0in36Oegm3ldE) - T 아카데미
+* [안드로이드 프로그래밍 중급](https://www.youtube.com/playlist?list=PL9mhQYIlKEhc7o2HHixQi0PU2sQVerRW2) - T 아카데미
+* [안드로이드 프로그래밍 초급](https://www.youtube.com/playlist?list=PL9mhQYIlKEhcAHpIweCixdDrPoXv5bXGx) - T 아카데미
+* [Do it! 안드로이드 앱 프로그래밍 (2018)](https://www.youtube.com/playlist?list=PLG7te9eYUi7sq701GghpoSKe-jbkx9NIF)
 
 
 ### Arduino
@@ -81,14 +78,12 @@
 * [C언어 코딩도장](https://dojang.io/course/view.php?id=2)
 
 
-### <a id="csharp"></a>C\#
+### <a id="csharp"></a>C#
 
+* [눈으로 보는 C# 프로그래밍](https://www.youtube.com/playlist?list=PLTFRwWXfOIYBmr3fK17E0VhKPyYrGy75z) - 눈코딩
 * [예제로 배우는 C# 강좌](https://www.youtube.com/playlist?list=PL4PkN2EXiuVF3Xl0HNVMdY-_kMM3oyBds)
-
-
-### Circuit
-
-* [논리회로](http://socw.skku.edu/Lectures/Regular/Detail.do) (성균관대 김문현)
+* [C# 기초 - 예제로 배우는 C# 프로그래밍](https://www.youtube.com/playlist?list=PLiNvMfa_Y5hfgpgd3hgXdHACCZuIEozjL) - csharpstudy
+* [C# 중급 - 예제로 배우는 C# 프로그래밍](https://www.youtube.com/playlist?list=PLiNvMfa_Y5hdz3Pitggrisaam_35ZqdtE) - csharpstudy
 
 
 ### Deep Learning
@@ -112,39 +107,28 @@
 
 ### Go
 
-* [쉽고 빠른 Go 시작하기](https://nomadcoders.co/go-for-beginners) - Nicolás Serrano Arévalo (Nomad Coders) (email address *required*)
+* [쉽고 빠른 Go 시작하기](https://nomadcoders.co/go-for-beginners) - Nomad Coders
 * [컴맹을 위한 프로그래밍 기초 강좌](https://www.youtube.com/playlist?list=PLy-g2fnSzUTAaDcLW7hpq0e8Jlt7Zfgd6)
-
-
-### Haskell
-
-* [하스켈 프로그래밍: 프로그래밍과 유형 이론(Type Theory)](https://www.youtube.com/playlist?list=PL5aSjzJqCaPaoi8yC2w549FsVgvXW5xFW) - Gyesik Lee «liga nega»
-
-
-### Introduction
-
-* [컴퓨터 프로그래밍](http://www.kocw.net/home/search/kemView.do?kemId=1322410)
-* [컴퓨터공학 입문](http://www.kocw.net/home/search/kemView.do?kemId=1323143)
-
+  
 
 ### iOS
 
-* [iPhone 프로그래밍](https://www.youtube.com/playlist?list=PL9mhQYIlKEhdQ8viJACIwxIcUiXU2lMLX) (T 아카데미)
+* [iPhone 프로그래밍](https://www.youtube.com/playlist?list=PL9mhQYIlKEhdQ8viJACIwxIcUiXU2lMLX) - T아카데미
 
 
 ### Java
 
-* [Do it! Java 프로그래밍 입문](https://www.youtube.com/playlist?list=PLG7te9eYUi7typZrH4fqXvs4E22ZFn1Nj)
-* [Java 기초 프로그래밍 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdBjfCADjCc41aD4G0bmdl4R)
-* [Java 리듬게임 만들기 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdDySO3wDqMYGKMVH4Qa4QhR)
-* [Java 입문수업](https://www.opentutorials.org/course/3930) (생활코딩)
-* [Java with 인크레파스](https://www.youtube.com/playlist?list=PLa4r6B21Ny5ld_PTqzzqDMxxoj7l0z7Xp)
+* [Do it! Java 프로그래밍 입문](https://www.youtube.com/playlist?list=PLG7te9eYUi7typZrH4fqXvs4E22ZFn1Nj) - 이지스퍼블리싱
+* [Java 기초 프로그래밍 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdBjfCADjCc41aD4G0bmdl4R) - 동빈나
+* [Java 리듬게임 만들기 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdDySO3wDqMYGKMVH4Qa4QhR) - 동빈나
+* [Java 입문수업](https://www.opentutorials.org/course/3930) - 생활코딩
+* [Java with 인크레파스](https://www.youtube.com/playlist?list=PLa4r6B21Ny5ld_PTqzzqDMxxoj7l0z7Xp) - 인크레파스융합SW교육센터
 
 
 ### JavaScript
 
-* [JavaScript 입문 수업](https://www.youtube.com/playlist?list=PLuHgQVnccGMA4uSig3hCjl7wTDeyIeZVU) (생활코딩)
-* [JavaScript for Web Browser](https://www.youtube.com/playlist?list=PLuHgQVnccGMDTAQ0S_FYxXOi1ZJz4ikaX) (생활코딩)
+* [JavaScript 입문 수업 (2014)](https://www.youtube.com/playlist?list=PLuHgQVnccGMA4uSig3hCjl7wTDeyIeZVU) - 생활코딩
+* [JavaScript for Web Browser (2014)](https://www.youtube.com/playlist?list=PLuHgQVnccGMDTAQ0S_FYxXOi1ZJz4ikaX) - 생활코딩
 
 
 #### AngularJS
@@ -154,8 +138,8 @@
 
 #### React.js
 
-* [React.js 강좌](https://www.youtube.com/playlist?list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC)
-* [React.js 이론부터 실전까지](https://www.youtube.com/playlist?list=PLRx0vPvlEmdCED62ZIWCbI-6G_jcwmuFB)
+* [React.js 강좌](https://www.youtube.com/playlist?list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC) - Minjun Kim
+* [React.js 이론부터 실전까지](https://www.youtube.com/playlist?list=PLRx0vPvlEmdCED62ZIWCbI-6G_jcwmuFB) - 동빈나
 
 
 ### Kotlin
@@ -165,48 +149,48 @@
 
 ### Linux
 
-* [리눅스 및 커널 프로그래밍](http://www.kocw.net/home/search/kemView.do?kemId=1266434) (금오공대 최태영)
+* [리눅스 및 커널 프로그래밍](http://www.kocw.net/home/search/kemView.do?kemId=1266434) - 최태영
 
 
 ### Machine Learning
 
-* [머신러닝/딥러닝 입문 youtube playlist](https://www.youtube.com/playlist?list=PLBXuLgInP-5m_vn9ycXHRl7hlsd1huqmS) - 윤인성
+* [머신러닝/딥러닝 실전 입문](https://www.youtube.com/playlist?list=PLBXuLgInP-5m_vn9ycXHRl7hlsd1huqmS) - 윤인성
 * [모두를 위한 머신러닝/딥러닝 강의](https://hunkim.github.io/ml/) - Sung Kim
 * [파이토치(PyTorch) 튜토리얼 한국어 번역](https://tutorials.pytorch.kr) (HTML) *(:construction: in process - 번역 진행 중)*
 * [파이토치로 시작하는 딥러닝 기초](https://www.boostcourse.org/ai214) - boostcourse
-* [Python tensorflow & 머신러닝 기초 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdAbnmLH9yh03cw9UQU_o7PO) (동빈나)
+* [Python tensorflow & 머신러닝 기초 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdAbnmLH9yh03cw9UQU_o7PO) - 동빈나
 
 
 ### Mathematics
 
-* [2013 2학기 선형대수](https://www.youtube.com/playlist?list=PLSN_PltQeOyjDGSghAf92VhdMBeaLZWR3) - (이상화 교수)
-* [수치해석](http://www.kocw.net/home/search/kemView.do?kemId=1297704) (국민대 김상철)
+* [2013 2학기 선형대수](https://www.youtube.com/playlist?list=PLSN_PltQeOyjDGSghAf92VhdMBeaLZWR3) - 이상화
+* [수치해석](http://www.kocw.net/home/search/kemView.do?kemId=1297704) - 김상철
 * [수치해석 강의 동영상](https://youtube.com/playlist?list=PLczEhXyH_pUfKl9SPn-9j3K7olfBj5cpl) - 내가 이해한 기계공학 (WIU of Mech)
-* [전산수학1](http://www.kocw.net/home/search/kemView.do?kemId=1296081) (고려대 주재걸)
+* [전산수학1](http://www.kocw.net/home/search/kemView.do?kemId=1296081) - 주재걸
 
 
 ### MySQL
 
-* [DATABASE2-MySQL](https://www.youtube.com/playlist?list=PLuHgQVnccGMCgrP_9HL3dAcvdt8qOZxjW) (생활코딩)
+* [DATABASE2-MySQL](https://www.youtube.com/playlist?list=PLuHgQVnccGMCgrP_9HL3dAcvdt8qOZxjW) - 생활코딩
 
 
 ### Network
 
-* [컴퓨터 네트워크](http://www.kocw.net/home/search/kemView.do?kemId=1319674) (부산대 김종덕)
-* [컴퓨터 네트워크](http://www.kocw.net/home/search/kemView.do?kemId=1312397) (한양대 이석복)
+* [컴퓨터 네트워크](http://www.kocw.net/home/search/kemView.do?kemId=1319674) - 김종덕
+* [컴퓨터 네트워크](http://www.kocw.net/home/search/kemView.do?kemId=1312397) - 이석복
 
 
 ### Operation System
 
-* [운영체제](http://ocw.kookmin.ac.kr/?course=15329) (국민대 이시윤)
-* [운영체제](http://www.kocw.net/home/search/kemView.do?kemId=1194929) (고려대 최린)
-* [운영체제론](http://socw.skku.edu/Lectures/Regular/Detail.do) (성균관대 엄영익)
+* [운영체제](http://ocw.kookmin.ac.kr/?course=15329) - 이시윤
+* [운영체제](http://www.kocw.net/home/search/kemView.do?kemId=1194929) - 최린
+* [운영체제론](http://socw.skku.edu/Lectures/Regular/Detail.do) - 엄영익
 
 
 ### PHP
 
 * [PHP](https://youtube.com/playlist?list=PLuHgQVnccGMDzq8zAwEY5lvwDWXWTZjB6) - 생활코딩
-* [PHP 프로그래밍](https://www.youtube.com/playlist?list=PLYNsYgev6U96jzS7AjBn5p7i_owJHqfyW)
+* [PHP 프로그래밍](https://www.youtube.com/playlist?list=PLYNsYgev6U96jzS7AjBn5p7i_owJHqfyW) - 정보박사컴퓨터자격증
 
 
 ### Python
@@ -238,7 +222,7 @@
 
 ### Ruby
 
-* [Python & Ruby](https://www.opentutorials.org/course/1750) (생활코딩)
+* [Python & Ruby](https://www.opentutorials.org/course/1750) - 생활코딩
 * [Ruby coin](https://www.youtube.com/playlist?list=PLEBQPmkNcLCIE9ERi4k_nUkGgJoBizx6s)
 
 
@@ -257,7 +241,15 @@
 
 ### Swift
 
-* [Swift 프로그래밍](https://www.youtube.com/playlist?list=PL9mhQYIlKEheAkAxX53qlTjjWK93Xd2pf) (T 아카데미)
+* [Swift 프로그래밍](https://www.youtube.com/playlist?list=PL9mhQYIlKEheAkAxX53qlTjjWK93Xd2pf) - T 아카데미
+
+
+### Unity
+
+* [유니티 기초 강좌](https://www.youtube.com/playlist?list=PLO-mt5Iu5TeYI4dbYwWP8JqZMC9iuUIW2) - 골드메탈
+* [유니티 강좌 (초급)](https://www.youtube.com/playlist?list=PLC2Tit6NyViewOPACJai5zNAfZuUW8aYq) - 고박사의 유니티 노트
+* [유니티 기초 뱀서라이크 언데드서바이버](https://www.youtube.com/playlist?list=PLO-mt5Iu5TeZF8xMHqtT_DhAPKmjF6i3x) - 골드메탈
+
 
 
 ### Unreal Engine
@@ -268,21 +260,21 @@
 ### Web Development
 
 * [웹 프로그래밍](http://www.kocw.net/home/search/kemView.do?kemId=1323070)
-* [HTML5&CSS3 기초](https://www.youtube.com/playlist?list=PL9mhQYIlKEhdTdvqzohqVs3RTVHzWPu79) (T 아카데미)
-* [Web1-HTML](https://www.opentutorials.org/course/3084) (생활코딩)
-* [Web2-CSS](https://www.opentutorials.org/course/3086) (생활코딩)
-* [Web2-Domain name system](https://www.opentutorials.org/course/3276) (생활코딩)
-* [Web2-Home server](https://www.opentutorials.org/course/3265) (생활코딩)
-* [Web2-JavaScript](https://www.opentutorials.org/course/3085) (생활코딩)
-* [Web2-nodejs](https://www.opentutorials.org/course/3332) (생활코딩)
-* [Web2-PHP](https://www.opentutorials.org/course/3130) (생활코딩)
-* [Web2-Python](https://www.opentutorials.org/course/3256) (생활코딩)
-* [Web3-PHP & MySQL](https://www.youtube.com/playlist?list=PLuHgQVnccGMA5836CvWfieEQy0T0ov6Jh) (생활코딩)
+* [HTML5&CSS3 기초](https://www.youtube.com/playlist?list=PL9mhQYIlKEhdTdvqzohqVs3RTVHzWPu79) - T 아카데미
+* [Web1-HTML](https://www.opentutorials.org/course/3084) - 생활코딩
+* [Web2-CSS](https://www.opentutorials.org/course/3086) - 생활코딩
+* [Web2-Domain name system](https://www.opentutorials.org/course/3276) - 생활코딩
+* [Web2-Home server](https://www.opentutorials.org/course/3265) - 생활코딩
+* [Web2-JavaScript](https://www.opentutorials.org/course/3085) - 생활코딩
+* [Web2-nodejs](https://www.opentutorials.org/course/3332) - 생활코딩
+* [Web2-PHP](https://www.opentutorials.org/course/3130) - 생활코딩
+* [Web2-Python](https://www.opentutorials.org/course/3256) - 생활코딩
+* [Web3-PHP & MySQL](https://www.youtube.com/playlist?list=PLuHgQVnccGMA5836CvWfieEQy0T0ov6Jh) - 생활코딩
 
 
 ### WebRTC
 
-* [줌 클론코딩](https://nomadcoders.co/noom) - Nicolás Serrano Arévalo (Nomad Coders) (email address *required*)
+* [줌 클론코딩](https://nomadcoders.co/noom) - Nomad Coders
 
 
 ### Windows

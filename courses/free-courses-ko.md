@@ -248,7 +248,7 @@
 
 * [유니티 강좌 (초급)](https://www.youtube.com/playlist?list=PLC2Tit6NyViewOPACJai5zNAfZuUW8aYq) - 고박사의 유니티 노트
 * [유니티 기초 강좌](https://www.youtube.com/playlist?list=PLO-mt5Iu5TeYI4dbYwWP8JqZMC9iuUIW2) - 골드메달
-* [유니티 기초 벡서라이크 언데드서바이벌1](https://www.youtube.com/playlist?list=PLO-mt5Iu5TeZF8xMHqtT_DhAPKmjf6i3x) - 골드메달
+* [유니티 기초 벡서라이크 언데드서바이벌](https://www.youtube.com/playlist?list=PLO-mt5Iu5TeZF8xMHqtT_DhAPKmjf6i3x) - 골드메달
 
 
 ### Unreal Engine

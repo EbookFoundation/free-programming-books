@@ -109,7 +109,7 @@
 
 * [쉽고 빠른 Go 시작하기](https://nomadcoders.co/go-for-beginners) - Nomad Coders
 * [컴맹을 위한 프로그래밍 기초 강좌](https://www.youtube.com/playlist?list=PLy-g2fnSzUTAaDcLW7hpq0e8Jlt7Zfgd6)
-  
+
 
 ### iOS
 
@@ -246,8 +246,8 @@
 
 ### Unity
 
-* [유니티 기초 강좌](https://www.youtube.com/playlist?list=PLO-mt5Iu5TeYI4dbYwWP8JqZMC9iuUIW2) - 골드메탈
 * [유니티 강좌 (초급)](https://www.youtube.com/playlist?list=PLC2Tit6NyViewOPACJai5zNAfZuUW8aYq) - 고박사의 유니티 노트
+* [유니티 기초 강좌](https://www.youtube.com/playlist?list=PLO-mt5Iu5TeYI4dbYwWP8JqZMC9iuUIW2) - 골드메탈
 * [유니티 기초 뱀서라이크 언데드서바이버](https://www.youtube.com/playlist?list=PLO-mt5Iu5TeZF8xMHqtT_DhAPKmjF6i3x) - 골드메탈
 
 

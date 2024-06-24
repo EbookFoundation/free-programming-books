@@ -247,14 +247,13 @@
 ### Unity
 
 * [유니티 강좌 (초급)](https://www.youtube.com/playlist?list=PLC2Tit6NyViewOPACJai5zNAfZuUW8aYq) - 고박사의 유니티 노트
-* [유니티 기초 강좌](https://www.youtube.com/playlist?list=PLO-mt5Iu5TeYI4dbYwWP8JqZMC9iuUIW2) - 골드메탈
-* [유니티 기초 뱀서라이크 언데드서바이버](https://www.youtube.com/playlist?list=PLO-mt5Iu5TeZF8xMHqtT_DhAPKmjF6i3x) - 골드메탈
-
+* [유니티 기초 강좌](https://www.youtube.com/playlist?list=PLO-mt5Iu5TeYI4dbYwWP8JqZMC9iuUIW2) - 골드메달
+* [유니티 기초 벡서라이크 언데드서바이벌1](https://www.youtube.com/playlist?list=PLO-mt5Iu5TeZF8xMHqtT_DhAPKmjf6i3x) - 골드메달
 
 
 ### Unreal Engine
 
-* [실전 게임 제작으로 배우는 언리얼엔진](https://www.youtube.com/playlist?list=PL9kzervdzKxyTPMBHt26wkaAvCv6JkHQV)
+* [실전 게임 제작으로 배우는 언리얼엔진](https://www.youtube.com/playlist?list=PL9kzervdzKxyIPMBHt26wkaAvCv6JkHQV)
 
 
 ### Web Development

@@ -107,7 +107,7 @@
 
 ### Go
 
-* [쉽고 빠른 Go 시작하기](https://nomadcoders.co/go-for-beginners) - Nomad Coders
+* [쉽고 빠른 Go 시작하기](https://nomadcoders.co/go-for-beginners) - Nicolás Serrano Arévalo (Nomad Coders) (email address *required*)
 * [컴맹을 위한 프로그래밍 기초 강좌](https://www.youtube.com/playlist?list=PLy-g2fnSzUTAaDcLW7hpq0e8Jlt7Zfgd6)
 
 
@@ -273,7 +273,7 @@
 
 ### WebRTC
 
-* [줌 클론코딩](https://nomadcoders.co/noom) - Nomad Coders
+* [줌 클론코딩](https://nomadcoders.co/noom) - Nicolás Serrano Arévalo (Nomad Coders) (email address *required*)
 
 
 ### Windows

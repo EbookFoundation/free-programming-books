@@ -1,0 +1,32 @@
+name: "Broken Links Report"
+description: "Submit a broken links report to help us improve"
+title: "Broken Links Report: "
+labels: [urlchecker]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out our report form.
+  - type: textarea
+    id: broken-links
+    validations:
+      required: true
+    attributes:
+      label: "Broken Links"
+      description: "Fill broken links that you found."
+      placeholder: "1. .../n 2. ..."
+  - type: checkboxes
+    id: no-duplicate-issues
+    attributes:
+      label: "Have you spent some time to check if this issue has been raised before?"
+      description: "Have you Googled for a similar issue or checked our older issues for a similar bug?"
+      options:
+        - label: "I checked and didn't find similar issue"
+          required: true
+  - type: checkboxes
+    id: read-code-of-conduct
+    attributes:
+      label: "Have you read the Code of Conduct?"
+      options:
+        - label: "I have read the [Code of Conduct](https://github.com/EbookFoundation/free-programming-books/blob/main/docs/CODE_OF_CONDUCT.md)"
+          required: true

@@ -32,7 +32,7 @@
 * [Security](#security)
 * [Spring](#spring)
 * [Svelte](#svelte)
-    * [SvelteKit](#sveltekit)
+    * [SvelteKit](#svelte-kit)
 * [Swift](#swift)
 * [Unreal Engine](#unreal-engine)
 * [Web Development](#web-development)

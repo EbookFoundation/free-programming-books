@@ -15,6 +15,7 @@
 * [JavaScript](#javascript)
     * [AngularJS](#angularjs)
     * [React.js](#reactjs)
+    * [Svelte](#svelte)
 * [Kotlin](#kotlin)
 * [Linux](#linux)
 * [Machine Learning](#machine-learning)
@@ -31,8 +32,6 @@
 * [Ruby](#ruby)
 * [Security](#security)
 * [Spring](#spring)
-* [Svelte](#svelte)
-    * [SvelteKit](#svelte-kit)
 * [Swift](#swift)
 * [Unreal Engine](#unreal-engine)
 * [Web Development](#web-development)
@@ -144,6 +143,13 @@
 * [React.js 이론부터 실전까지](https://www.youtube.com/playlist?list=PLRx0vPvlEmdCED62ZIWCbI-6G_jcwmuFB) - 동빈나
 
 
+### Svelte
+
+* [Svelte.js 입문 가이드](https://www.inflearn.com/course/%EC%8A%A4%EB%B2%A8%ED%8A%B8-%EC%9E%85%EB%AC%B8-%EA%B0%80%EC%9D%B4%EB%93%9C/dashboard) - HEROPY (Inflearn)
+* [SvelteKit(스벨트킷) 튜토리얼 Part.1](https://www.youtube.com/playlist?list=PL2Y878eUwQK4ZhfQfVdxS9yYdQlnfDInm) - 코딩셀러
+* [SvelteKit(스벨트킷) 튜토리얼 Part.2](https://www.youtube.com/playlist?list=PL2Y878eUwQK6XN8emWcHFStBy-28bg_pM) - 코딩셀러
+
+
 ### Kotlin
 
 * [디모의 Kotlin 강좌](https://www.youtube.com/playlist?list=PLQdnHjXZyYadiw5aV3p6DwUdXV2bZuhlN) - 테크과학! DiMo
@@ -240,17 +246,6 @@
 ### Spring
 
 * [스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8) - 김영한 (Inflearn)
-
-
-### Svelte
-
-* [Svelte.js 입문 가이드](https://www.inflearn.com/course/%EC%8A%A4%EB%B2%A8%ED%8A%B8-%EC%9E%85%EB%AC%B8-%EA%B0%80%EC%9D%B4%EB%93%9C/dashboard) - HEROPY (Inflearn)
-
-
-#### Svelte Kit
-
-* [SvelteKit(스벨트킷) 튜토리얼 Part.1](https://www.youtube.com/playlist?list=PL2Y878eUwQK4ZhfQfVdxS9yYdQlnfDInm) - 코딩셀러
-* [SvelteKit(스벨트킷) 튜토리얼 Part.2](https://www.youtube.com/playlist?list=PL2Y878eUwQK6XN8emWcHFStBy-28bg_pM) - 코딩셀러
 
 
 ### Swift

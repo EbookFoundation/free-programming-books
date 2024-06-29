@@ -42,7 +42,7 @@ jobs:
           fetch-depth: ${{ steps.set-params.outputs.fetch-depth }}
       - name: Get changed files
         id: changed-files
-        uses: tj-actions/changed-files@v44.5.3
+        uses: tj-actions/changed-files@v44.5.5
         with:
           separator: " "
           json: true

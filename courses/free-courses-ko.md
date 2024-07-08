@@ -70,11 +70,11 @@
 
 ### C/C++
 
+* [(개정판) C 언어 초보 강의](https://www.youtube.com/playlist?list=PLMsa_0kAjjreuGLbwYdkrCTXxfJIrmmA6) - 나도코딩
 * [두들낙서의 C/C++ 강좌](https://www.youtube.com/playlist?list=PLlJhQXcLQBJqywc5dweQ75GBRubzPxhAk)
 * [박정민의 C 언어본색](https://www.youtube.com/playlist?list=PL7mmuO705dG3Z4iSqwzztuPHF3YE8mlbw)
 * [씹어먹는 C](https://modoocode.com/231) - 이재범
 * [씹어먹는 C++](https://modoocode.com/135) - 이재범
-* [(개정판) C 언어 초보 강의](https://www.youtube.com/playlist?list=PLMsa_0kAjjreuGLbwYdkrCTXxfJIrmmA6) - 나도코딩
 * [최호성의 C 프로그래밍](https://www.youtube.com/playlist?list=PLXvgR_grOs1BiznAEkzQdA9tlcA06qx75)
 * [C언어 기초 프로그래밍 강좌](https://www.youtube.com/playlist?list=PLRx0vPvlEmdDNHeulKC6JM25MmZVS_3nT)
 * [C언어 코딩도장](https://dojang.io/course/view.php?id=2)

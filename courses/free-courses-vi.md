@@ -200,7 +200,7 @@
 * [NodeJS Cơ Bản](https://www.youtube.com/playlist?list=PLU4OBh9yHE950LJR6uH_MqcgUC0-NCV2k) - RHP Team
 * [NodeJS Cơ Bản](https://www.youtube.com/playlist?list=PL4VEtQ6PTTQEZp2kLIC7OE0E8OsObv0k8) - Ide Academy
 * [NodeJS Web Server Sử Dụng Express 2020](https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-s-m-qFBQFoeNSfpCTBiwMU) - CodersX
-* [NodeJS Architecture](https://www.youtube.com/playlist?list=UUMOky92hx0lZxVBi2BJ6Zm2Hg) - Tips Javascript
+* [NodeJS](https://www.youtube.com/playlist?list=UUMOky92hx0lZxVBi2BJ6Zm2Hg) - Tips Javascript
 
 
 ### Objective-C

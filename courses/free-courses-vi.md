@@ -202,11 +202,6 @@
 * [NodeJS Web Server Sử Dụng Express 2020](https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-s-m-qFBQFoeNSfpCTBiwMU) - CodersX
 
 
-### MERNSTACK
-
-* [MERN PRO • Học lập trình Front-end + Back-end | Làm dự án thực tế Trello kéo thả](https://www.youtube.com/playlist?list=PLP6tw4Zpj-RJP2-YrhtkWqObMQ-AA4TDy) - TrungQuanDev - Một Lập Trình Viên
-
-
 ### Objective-C
 
 * [Học lập trình objective-c miễn phí](https://www.youtube.com/playlist?list=PLgT92sqeoAUC6gHyrbdZTbulFF8qwxGSK) - Kênh học miễn phí qua video trên youtube
@@ -313,6 +308,7 @@
 * [Đồ án Web môi giới](https://www.youtube.com/playlist?list=PLiyVagO7GfBE1j4vjp-QLc1KHR1LPIl3G) - J2Team
 * [Lập Trình Web Chuyên Sâu](https://www.youtube.com/playlist?list=PLiyVagO7GfBE1l9XIGemSpy8bnm7QDmsY) - J2Team
 * [Lập Trình Web Cơ Bản](https://www.youtube.com/playlist?list=PLiyVagO7GfBE3_b-4lJEVk7iq1pHQ-xcM) - J2Team
+* [MERN PRO • Học lập trình Front-end + Back-end | Làm dự án thực tế Trello kéo thả](https://www.youtube.com/playlist?list=PLP6tw4Zpj-RJP2-YrhtkWqObMQ-AA4TDy) - TrungQuanDev - Một Lập Trình Viên
 
 
 ### Wordpress

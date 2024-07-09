@@ -191,6 +191,7 @@
 * [Giáo trình tự học NoSQL - MongoDB](https://www.youtube.com/playlist?list=PLv6GftO355Aug0rwKfb6v96mlYrwOw7XV) - ZendVN
 * [Mongo DB cơ bản](https://www.youtube.com/playlist?list=PLU4OBh9yHE94QAav7qIuaTtH9-pq39We8) - RHP Team
 * [MongoDB 2020](https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-vgHI_wNWPHKdiRwlgQXaTR) - CodersX
+* [MongoDB vs Mongoose](https://www.youtube.com/playlist?list=PLw0w5s5b9NK6_zoZLwrNR23IEESwaeUzU) - Tips Javascript
 
 
 ### NodeJS

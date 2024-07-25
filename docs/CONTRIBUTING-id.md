@@ -8,7 +8,7 @@ Dengan berkontribusi, Anda setuju dengan [lisensi](../LICENSE) dari repositori i
 
 
 <!----><a id="contributor-code-of-conduct"></a>
-## Kode Etik untuk Kontributor
+## Kode Etik Kontributor
 
 Dengan berkontribusi, Anda setuju untuk menghormati [Kode Etik](CODE_OF_CONDUCT-id.md) dari repositori ini. ([translations](README.md#translations))
 
@@ -153,7 +153,7 @@ Contoh:
 - Jika terdapat beberapa judul konten yang diawali dengan huruf yang sama, maka urutkan berdasarkan huruf kedua dari judul konten tersebut, dan seterusnya. Sebagai contoh: `aa` terlebih dahulu sebelum `ab`.
 - `one two` terlebih dahulu sebelum `onetwo`
 
-Jika Anda melihat tautan dengant urutan yang salah, mohon periksa pesan kesalahan yang diberikan oleh linter untuk mengetahui baris mana yang harus ditukar/diubah.
+Jika Anda melihat tautan dengan urutan yang salah, mohon periksa pesan kesalahan yang diberikan oleh linter untuk mengetahui baris mana yang harus ditukar/diubah.
 
 
 <!----><a id="notes"></a>
@@ -205,7 +205,7 @@ Daftar kami menyediakan kumpulan metadata minimal: judul, URL, pembuat, platform
 ##### Kursus dan Uji Coba dengan Batas Waktu
 
 - Kami tidak mencantumkan konten-konten yang perlu kami hapus dalam enam bulan kedepan.
-- Jika sebuah kursus mempunyai periode pendaftaran atau durasinya terbatas, kami tidak akan mencantumkannya.
+- Jika sebuah kursus memiliki periode pendaftaran atau durasinya terbatas, kami tidak akan mencantumkannya.
 - Kami tidak dapat mencantumkan konten gratis hanya untuk jangka waktu tertentu.
 
 
@@ -252,7 +252,7 @@ Kami tidak rewel tentang kebukuan. Berikut adalah beberapa atribut yang menandak
 - ada versi yang dapat diunduh, terutama ePub
 - memiliki edisi
 - tidak tergantung pada video atau konten interaktif
-- mencoba untuk mencakup topik secara komprehensif
+- mencoba untuk membahas suatu topik secara komprehensif
 - bersifat mandiri
 
 Terdapat banyak buku yang kami daftarkan tidak memiliki atribut-atribut ini; Hal ini kembali ke konteks dari konten yang didaftarkan.
@@ -283,5 +283,5 @@ Jika Anda dapat mencetaknya dan isi tidak berubah, maka itu bukan Tutorial Inter
     check_urls=free-programming-books.md free-programming-books-id.md
     ```
 
-- Anda dapat memvalidasi URL banyak berkas dengan menggunakan spasi sebagai pemisah masing-masing berkas.
+- Anda dapat menentukan lebih dari satu berkas untuk diperiksa, dengan menggunakan spasi tunggal untuk memisahkan setiap entri.
 - Jika Anda memvalidasi URL untuk banyak berkas, hasil validasi yang ditampilkan merupakan hasil validasi dari berkas terakhir. Sehingga, jika proses validasi berhasil, mohon untuk memeriksa log dari proses validasi pada Pull Request  Anda dengan mengklik "Show all checks" -> "Details".

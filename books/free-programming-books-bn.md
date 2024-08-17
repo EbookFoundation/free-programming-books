@@ -59,10 +59,14 @@
 
 ### Misc
 
-* [৫২ টি প্রোগ্রামিং সমস্যা](https://pdfcoffee.com/edocsite52-programming-problem-tamim-shahriar-subeenpdf-pdf-free.html) - Tamim Shahriar Subeen (PDF)
 * [কেমনে করে সিস্টেম ডিজাইন?](https://imtiaz-hossain-emu.gitbook.io/system-design/) - Imtiaz Hossain Emu
 * [ডেভসংকেত: বাংলা চিটশিটের ভান্ডার](https://devsonket.com) - Devsonket Team
 * [SL3 Framework - Code For Brain](https://web.archive.org/web/20201024204437/https://sl3.app) - Stack Learners *(:card_file_box: archived)*
+
+
+### Problem SOlving
+
+* [৫২ টি প্রোগ্রামিং সমস্যা](http://cpbook.subeen.com/p/blog-page_11.html) - Tamim Shahriar Subeen (HTML)
 
 
 ### Python

@@ -343,8 +343,6 @@
 * [Cmake 实践](https://web.archive.org/web/20170615174144/http://sewm.pku.edu.cn/src/paradise/reference/CMake%20Practice.pdf) (PDF)
 * [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
 * [Google C++ 风格指南](http://zh-google-styleguide.readthedocs.org/en/latest/google-cpp-styleguide/contents/)
-* [现代 C++ 并发编程教程](https://github.com/Mq-b/ModernCpp-ConcurrentProgramming-Tutorial)
-* [现代 C++ 模板教程](https://github.com/Mq-b/Modern-Cpp-templates-tutorial)
 * [ZMQ 指南](https://github.com/anjuke/zguide-cn)
 
 

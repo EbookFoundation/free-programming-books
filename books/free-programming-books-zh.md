@@ -342,6 +342,8 @@
 * [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
 * [Google C++ 风格指南](http://zh-google-styleguide.readthedocs.org/en/latest/google-cpp-styleguide/contents/)
 * [ZMQ 指南](https://github.com/anjuke/zguide-cn)
+* [现代 C++ 模板教程](https://github.com/Mq-b/Modern-Cpp-templates-tutorial)
+* [现代 C++ 并发编程教程](https://github.com/Mq-b/ModernCpp-ConcurrentProgramming-Tutorial)
 
 
 ### CoffeeScript

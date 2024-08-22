@@ -64,6 +64,11 @@
 * [SL3 Framework - Code For Brain](https://web.archive.org/web/20201024204437/https://sl3.app) - Stack Learners *(:card_file_box: archived)*
 
 
+### Problem Sets
+
+* [৫২ টি প্রোগ্রামিং সমস্যা](http://cpbook.subeen.com/p/blog-page_11.html) - Tamim Shahriar Subeen (HTML)
+
+
 ### Python
 
 * [পাইথন প্রোগ্রামিং বই](http://pybook.subeen.com) - Tamim Shahriar Subeen

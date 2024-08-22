@@ -212,6 +212,11 @@
 * [Flask의 세계에 오신것을 환영합니다.](https://flask-docs-kr.readthedocs.io/ko/latest/) (HTML)
 
 
+#### Pytorch
+
+ [Pytorch로 시작하는 딥 러닝 입문](https://wikidocs.net/book/2788) - 유원준, 상준
+
+
 ### R
 
 * [Must Learning with R (개정판)](https://wikidocs.net/book/4315) - DoublekPark 외 1명

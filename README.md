@@ -194,6 +194,7 @@ Free Podcasts and Screencasts:
 + [English](casts/free-podcasts-screencasts-en.md)
 + [Finnish / Suomi](casts/free-podcasts-screencasts-fi.md)
 + [French / français](casts/free-podcasts-screencasts-fr.md)
++ [German / Deutsch](casts/free-podcasts-screencasts-de.md)
 + [Hebrew / עברית](casts/free-podcasts-screencasts-he.md)
 + [Indonesian / Bahasa Indonesia](casts/free-podcasts-screencasts-id.md)
 + [Persian / Farsi (Iran) / فارسى](casts/free-podcasts-screencasts-fa_IR.md)

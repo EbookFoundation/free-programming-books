@@ -148,6 +148,11 @@
 * [기초정수론: 계산과 법연산, 그리고 비밀통신을 강조한](https://wstein.org/ent/ent_ko.pdf) - William Stein (PDF)
 
 
+### Machine Learning
+
+[Pytorch로 시작하는 딥 러닝 입문](https://wikidocs.net/book/2788) - 유원준, 상준
+
+
 ### OpenStack
 
 * [오픈스택을 다루는 기술](https://thebook.io/006881) - 장현정 (HTML)

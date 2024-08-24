@@ -18,8 +18,8 @@
     * [Webpack](#webpack)
 * [LaTeX](#latex)
 * [Linux](#linux)
-* [Mathematics](#mathematics)
 * [Machine Learning](#machine-learning)
+* [Mathematics](#mathematics)
 * [OpenStack](#openstack)
 * [Operation System](#operation-system)
 * [Perl](#perl)
@@ -144,14 +144,14 @@
 * [GNOME 배우기](https://sites.google.com/site/gnomekr/home/learning_gnome)
 
 
-### Mathematics
-
-* [기초정수론: 계산과 법연산, 그리고 비밀통신을 강조한](https://wstein.org/ent/ent_ko.pdf) - William Stein (PDF)
-
-
 ### Machine Learning
 
 [Pytorch로 시작하는 딥 러닝 입문](https://wikidocs.net/book/2788) - 유원준, 상준
+
+
+### Mathematics
+
+* [기초정수론: 계산과 법연산, 그리고 비밀통신을 강조한](https://wstein.org/ent/ent_ko.pdf) - William Stein (PDF)
 
 
 ### OpenStack

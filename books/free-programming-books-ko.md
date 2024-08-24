@@ -19,6 +19,7 @@
 * [LaTeX](#latex)
 * [Linux](#linux)
 * [Mathematics](#mathematics)
+* [Machine Learning](#machine-learning)
 * [OpenStack](#openstack)
 * [Operation System](#operation-system)
 * [Perl](#perl)
@@ -215,11 +216,6 @@
 
 * [점프 투 플라스크](https://wikidocs.net/book/4542) - 박응용
 * [Flask의 세계에 오신것을 환영합니다.](https://flask-docs-kr.readthedocs.io/ko/latest/) (HTML)
-
-
-#### Pytorch
-
- [Pytorch로 시작하는 딥 러닝 입문](https://wikidocs.net/book/2788) - 유원준, 상준
 
 
 ### R

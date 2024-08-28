@@ -7,7 +7,7 @@
 * [JavaScript](#javascript)
 * [Linux](#linux)
 * [PHP](#php)
-* [Programming for Kids](#programming-for-kids)
+* [Programming](#programming)
 * [Python](#python)
 * [Web Development](#web-development)
 
@@ -52,7 +52,7 @@
 * [PHP - On Point](https://eimaung.com/php/) - Ei Maung (PDF)
 
 
-### Programming for Kids
+### Programming
 
 * [Programming for Kids](https://eimaung.com/kids/) - Ei Maung (PDF, EPUB)
 

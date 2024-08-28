@@ -7,6 +7,7 @@
 * [JavaScript](#javascript)
 * [Linux](#linux)
 * [PHP](#php)
+* [Programming](#programming)
 * [Python](#python)
 * [Web Development](#web-development)
 
@@ -49,6 +50,11 @@
 
 * [Laravel - On Point](https://eimaung.com/laravel/) - Ei Maung (PDF)
 * [PHP - On Point](https://eimaung.com/php/) - Ei Maung (PDF)
+
+
+### Programming
+
+* [Programming for Kids](https://eimaung.com/kids/) - Ei Maung (PDF, EPUB)
 
 
 ### Python

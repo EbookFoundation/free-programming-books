@@ -18,6 +18,7 @@
     * [Webpack](#webpack)
 * [LaTeX](#latex)
 * [Linux](#linux)
+* [Machine Learning](#machine-learning)
 * [Mathematics](#mathematics)
 * [OpenStack](#openstack)
 * [Operation System](#operation-system)
@@ -141,6 +142,11 @@
 
 * [리눅스 서버를 다루는 기술](https://web.archive.org/web/20220107111504/https://thebook.io/006718/) *(:card_file_box: archived)*
 * [GNOME 배우기](https://sites.google.com/site/gnomekr/home/learning_gnome)
+
+
+### Machine Learning
+
+[Pytorch로 시작하는 딥 러닝 입문](https://wikidocs.net/book/2788) - 유원준, 상준
 
 
 ### Mathematics

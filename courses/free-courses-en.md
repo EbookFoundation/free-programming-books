@@ -807,6 +807,7 @@
 
 ### HTML and CSS
 
+* [A Complete Guide to HTML Basics](https://programiz.pro/course/learn-html) (Programiz PRO)
 * [Bento CSS Learning Track](https://bento.io/topic/css) (Bento)
 * [Bento HTML Learning Track](https://bento.io/topic/html) (Bento)
 * [Build a Personal Website with Dash](https://dash.generalassemb.ly)

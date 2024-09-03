@@ -10,7 +10,6 @@
 * [Python](#python)
 * [React](#react)
 * [SQL](#sql)
-* [SQL Server](#sql-server)
 * [Temel programlama](#temel-programlama)
 * [Version Control Systems](#version-control-systems)
 
@@ -85,12 +84,8 @@
 
 ### SQL
 
-* [Uygulamalarla SQL Öğreniyorum](https://www.btkakademi.gov.tr/portal/course/uygulamalarla-sql-ogreniyorum-8249) - Ömer Faruk Çolakoğlu
-
-
-### SQL Server
-
 * [Her Yönüyle SQL Server](https://www.btkakademi.gov.tr/portal/course/her-yonuyle-sql-server-9007) - Ömer Faruk Çolakoğlu
+* [Uygulamalarla SQL Öğreniyorum](https://www.btkakademi.gov.tr/portal/course/uygulamalarla-sql-ogreniyorum-8249) - Ömer Faruk Çolakoğlu
 
 
 ### Temel programlama

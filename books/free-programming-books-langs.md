@@ -1830,6 +1830,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 #### Drupal
 
+* [Drupal at your Fingertips](https://selwynpolit.github.io/d9book/) - Selwyn Polit, Drupal Community Contributors
 * [The Tiny Book of Rules](https://www.drupal.org/files/tiny-book-of-rules.pdf) (PDF)
 
 

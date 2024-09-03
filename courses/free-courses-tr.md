@@ -3,6 +3,9 @@
 * [Algoritmalar](#algoritmalar)
 * [C#](#c-sharp)
 * [C++](#cpp)
+* [Databases](#databases)
+    * [SQL](#sql)
+    * [SQL Server](#sql-server)
 * [HTML and CSS](#html-and-css)
 * [IDE and editors](#ide-and-editors)
 * [Java](#java)
@@ -32,6 +35,19 @@
 ### <a id='cpp'></a>C++
 
 * [C++ Dersleri](https://www.youtube.com/playlist?list=PLIHume2cwmHfmSmNlxXw1j9ZAKzYyiQAq) - Yazılım Bilimi
+
+
+### Databases
+
+
+### SQL
+
+* [Uygulamalarla SQL Öğreniyorum](https://www.btkakademi.gov.tr/portal/course/uygulamalarla-sql-ogreniyorum-8249) - Ömer Faruk Çolakoğlu
+
+
+### SQL Server
+
+* [Her Yönüyle SQL Server](https://www.btkakademi.gov.tr/portal/course/her-yonuyle-sql-server-9007) - Ömer Faruk Çolakoğlu
 
 
 ### HTML and CSS

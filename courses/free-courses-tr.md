@@ -3,15 +3,14 @@
 * [Algoritmalar](#algoritmalar)
 * [C#](#c-sharp)
 * [C++](#cpp)
-* [Databases](#databases)
-    * [SQL](#sql)
-    * [SQL Server](#sql-server)
 * [HTML and CSS](#html-and-css)
 * [IDE and editors](#ide-and-editors)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Python](#python)
 * [React](#react)
+* [SQL](#sql)
+* [SQL Server](#sql-server)
 * [Temel programlama](#temel-programlama)
 * [Version Control Systems](#version-control-systems)
 
@@ -35,19 +34,6 @@
 ### <a id='cpp'></a>C++
 
 * [C++ Dersleri](https://www.youtube.com/playlist?list=PLIHume2cwmHfmSmNlxXw1j9ZAKzYyiQAq) - Yazılım Bilimi
-
-
-### Databases
-
-
-### SQL
-
-* [Uygulamalarla SQL Öğreniyorum](https://www.btkakademi.gov.tr/portal/course/uygulamalarla-sql-ogreniyorum-8249) - Ömer Faruk Çolakoğlu
-
-
-### SQL Server
-
-* [Her Yönüyle SQL Server](https://www.btkakademi.gov.tr/portal/course/her-yonuyle-sql-server-9007) - Ömer Faruk Çolakoğlu
 
 
 ### HTML and CSS
@@ -95,6 +81,16 @@
 * [React Dersleri](https://www.youtube.com/playlist?list=PLIHume2cwmHeydP0GkOzSxJHT1ph1BrWj) - Mustafa Murat Coşkun
 * [Sıfırdan Uygulamalı React Geliştirme: Hooks,Redux & Firebase](https://www.youtube.com/playlist?list=PLXuv2PShkuHzbwIbcT29XZJBLyx3nWDzb) - Sadık Turan
 * [Yeni Başlayanlar İçin React](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq_eyixSZ4sVI1x6d7akLpsy) - Arin Yazilim
+
+
+### SQL
+
+* [Uygulamalarla SQL Öğreniyorum](https://www.btkakademi.gov.tr/portal/course/uygulamalarla-sql-ogreniyorum-8249) - Ömer Faruk Çolakoğlu
+
+
+### SQL Server
+
+* [Her Yönüyle SQL Server](https://www.btkakademi.gov.tr/portal/course/her-yonuyle-sql-server-9007) - Ömer Faruk Çolakoğlu
 
 
 ### Temel programlama

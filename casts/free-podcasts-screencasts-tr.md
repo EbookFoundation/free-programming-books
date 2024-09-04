@@ -13,6 +13,7 @@
 * [Trendyol Tech Podcasts](https://trendyol.simplecast.com) (podcast)
 * [Yalın Kod](https://www.youtube.com/@YalinKod) (screencast)
 
+
 ### JavaScript
 
 * [null podcast](https://soundcloud.com/nullpodcast) (podcast)

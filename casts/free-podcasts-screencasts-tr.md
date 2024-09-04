@@ -11,7 +11,7 @@
 * [devPod](https://devpod.org) (screencast)
 * [kodpod](https://kodpod.live) (podcast)
 * [Trendyol Tech Podcasts](https://trendyol.simplecast.com) (podcast)
-
+* [Yalın Kod](https://www.youtube.com/@YalinKod) (screencast)
 
 ### JavaScript
 

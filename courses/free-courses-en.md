@@ -807,7 +807,6 @@
 
 ### HTML and CSS
 
-* [A Complete Guide to HTML Basics](https://programiz.pro/course/learn-html) (Programiz PRO)
 * [Bento CSS Learning Track](https://bento.io/topic/css) (Bento)
 * [Bento HTML Learning Track](https://bento.io/topic/html) (Bento)
 * [Build a Personal Website with Dash](https://dash.generalassemb.ly)
@@ -842,6 +841,7 @@
 * [Learn Flexbox](https://scrimba.com/learn/flexbox) - Per Harald Borgen (Scrimba)
 * [Learn how to program: CSS](https://www.learnhowtoprogram.com/css) - Epicodus Inc.
 * [Learn HTML](https://www.codecademy.com/learn/learn-html) - Codecademy
+* [Learn HTML](https://programiz.pro/course/learn-html) - Programiz PRO
 * [Learn HTML and CSS](https://www.bitdegree.org/courses/coding-for-beginners-space-doggos) (BitDegree)
 * [Learn HTML and CSS with 5 projects](https://scrimba.com/learn/htmlandcss) - Per Harald Borgen (Scrimba)
 * [Learn HTML5 Programming From Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)

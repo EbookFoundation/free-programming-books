@@ -9,6 +9,7 @@
 * [JavaScript](#javascript)
 * [Python](#python)
 * [React](#react)
+* [SQL](#sql)
 * [Temel programlama](#temel-programlama)
 * [Version Control Systems](#version-control-systems)
 
@@ -79,6 +80,12 @@
 * [React Dersleri](https://www.youtube.com/playlist?list=PLIHume2cwmHeydP0GkOzSxJHT1ph1BrWj) - Mustafa Murat Coşkun
 * [Sıfırdan Uygulamalı React Geliştirme: Hooks,Redux & Firebase](https://www.youtube.com/playlist?list=PLXuv2PShkuHzbwIbcT29XZJBLyx3nWDzb) - Sadık Turan
 * [Yeni Başlayanlar İçin React](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq_eyixSZ4sVI1x6d7akLpsy) - Arin Yazilim
+
+
+### SQL
+
+* [Her Yönüyle SQL Server](https://www.btkakademi.gov.tr/portal/course/her-yonuyle-sql-server-9007) - Ömer Faruk Çolakoğlu
+* [Uygulamalarla SQL Öğreniyorum](https://www.btkakademi.gov.tr/portal/course/uygulamalarla-sql-ogreniyorum-8249) - Ömer Faruk Çolakoğlu
 
 
 ### Temel programlama

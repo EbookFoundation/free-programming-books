@@ -120,6 +120,7 @@
 ### HTML and CSS
 
 * [CSS](http://www.peterkropff.de/site/css/css.htm) - Peter Kropff (Grundlagen, OOP, MySQLi, PDO) (Online, PDF)
+* [Das kleine Buch der HTML-/CSS-Frameworks](https://github.com/frontenddogma/html-css-frameworks) – Jens Oliver Meiert
 * [HTML](http://www.peterkropff.de/site/html/html.htm) - Peter Kropff (Online, PDF)
 * [HTML5-Handbuch](http://webkompetenz.wikidot.com/docs:html-handbuch) (Online)
 * [Self HTML](https://wiki.selfhtml.org/wiki/Startseite) (Online)

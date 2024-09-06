@@ -941,6 +941,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Code Guide: Standards for developing flexible, durable, and sustainable HTML and CSS](http://mdo.github.io/code-guide/) - Mark Otto
 * [CSS Animation 101](https://github.com/cssanimation/css-animation-101)
 * [CSS Notes for Professionals](http://goalkicker.com/CSSBook) - Compiled from StackOverflow Documentation (PDF)
+* [CSS Optimization Basics](https://github.com/frontenddogma/css-optimization-basics) – Jens Oliver Meiert
 * [CSS Transition vs CSS animation](https://www.freecodecamp.org/news/css-transition-vs-css-animation-handbook/) - Oluwatobi Sofela
 * [Dive Into HTML5](http://diveinto.html5doctor.com) - Mark Pilgrim ([PDF](http://mislav.net/2011/10/dive-into-html5/))
 * [DOM Enlightenment](http://domenlightenment.com) - Cody Lindley (HTML)
@@ -971,12 +972,14 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Practical Series: A website template](https://practicalseries.com/1001-webdevelopment/) - Michael Gledhill (HTML)
 * [Pro HTML5 Programming](https://web.archive.org/web/20181215200026/http://apress.jensimmons.com/v5/pro-html5-programming/ch0.html) - Jen Simmons, Chris O'Connor, Dylan Wooters, Peter Lubbers *(:card_file_box: archived)*
 * [Resilient Web Design](https://resilientwebdesign.com/#Resilientweb%20design) - Jeremy Keith
+* [Rote Learning HTML & CSS](https://meiert.com/en/blog/rote-learning-html-and-css/) – Jens Oliver Meiert
 * [RTL Styling 101](https://rtlstyling.com) - Ahmad Shadeed
 * [Scalable and Modular Architecture for CSS](https://web.archive.org/web/20191116073929/http://smacss.com/) - Jonathan Snook *(:card_file_box: archived)*
 * [The CSS Flexbox Handbook](https://www.freecodecamp.org/news/the-css-flexbox-handbook/) - Benjamin Semah
 * [The CSS Handbook](https://flaviocopes.com/page/css-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
 * [The HTML Handbook](https://flaviocopes.com/page/html-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
 * [Understanding Flexbox: Everything you need to know](https://ohansemmanuel.github.io/uf_download.html) - Ohans Emmanuel
+* [Upgrade Your HTML](https://github.com/frontenddogma/upgrade-your-html) – Jens Oliver Meiert
 * [W3.CSS Succinctly](https://www.syncfusion.com/ebooks/w3_css_succinctly) - Joseph D. Booth
 * [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552) - Boris Smus
 * [Web Visual Effects with CSS3](https://leanpub.com/web-visual-effects-with-css3/read) - Thomas Mak

@@ -27,6 +27,7 @@
 * [Linux](#linux)
 * [MongoDB](#mongodb)
 * [MySQL](#mysql)
+* [Operating Systems](#operating-systems)
 * [PHP](#php)
     * [Laravel](#laravel)
 * [Programming paradigms](#programming-paradigms)
@@ -271,6 +272,11 @@
 * [mysql bangla tutorial \| Mysql Database \| HSC,CSE, Anyone](https://www.youtube.com/playlist?list=PLbC4KRSNcMnqp4x6XstgFCVi6XVu37t99) - Sohidul Islam, Learn Hunter
 * [MySql Database Bangla Tutorial Beginner to Advanced](https://www.youtube.com/playlist?list=PLH246IZCIBeA4h1R6fdgK06kj9lMb3joi) - Shoaib Hossain, Soft-All
 * [MySQL Database Bangla Tutorials (HSC student / Anyone)](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qLcx9DvVDWmNJ7riPvxzCD) - Anisul Islam
+
+
+### Operating Systems
+
+* [Operating System (OS) Bangla Tutorial (কমপ্লিট কোর্স)](https://www.youtube.com/playlist?list=PLncy2sD7w4Yr3ZbiP_ipAjgjDRn86N_tT) - Lecturelia - CSE Bangla Tutorial
 
 
 ### PHP

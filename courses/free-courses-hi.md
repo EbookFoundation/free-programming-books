@@ -610,6 +610,7 @@
 
 * [3.2 Operating System (Complete Playlist)](https://www.youtube.com/playlist?list=PLmXKhU9FNesSFvj6gASuWmQd23Ul5omtD) - Knowledge Gate
 * [Operating System (Complete Playlist)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p) - Gate Smashers
+* [Operating System in Hindi](https://www.youtube.com/playlist?list=PLqcuf9-ILPYARwquS3KOD3bDe0NSaD-oK) - CS Engineering Gyan
 * [Operating Systems for Placements 2022](https://www.youtube.com/playlist?list=PLDzeHZWIZsTr3nwuTegHLa2qlI81QweYG) - CodeHelp - by Babbar
 
 

@@ -140,13 +140,14 @@ Example:
     ```text
     GOOD: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
     ```
+    
 - <a id="license"></a>Free Licenses (While we include resources that are "All Rights Reserved" but free to read, we encourage the use of free licenses, such as Creative Commons):
 
     ```text
     GOOD: * [A Very Awesome Book](https://example.org/book.pdf) - Jane Roe (PDF) (CC BY-SA)
     ```
 
-Supported Licences (no versioning):
+    Supported Licences (no versioning):
 
     - `CC BY` 'Creative Commons attribution'
     - `CC BY-NC` 'Creative Commons non-commercial'

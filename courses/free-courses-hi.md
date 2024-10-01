@@ -751,7 +751,7 @@
 * [Software Engineering](https://www.youtube.com/playlist?list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2) - Gate Smashers
 * [Software Engineering](https://www.youtube.com/playlist?list=PLmXKhU9FNesTrw7n8ouPsSLEcduRlENHr) - Knowledge Gate
 * [Software Engineering Lectures](https://www.youtube.com/playlist?list=PLV8vIYTIdSnat3WCO9jfehtZyjnxb74wm) - Easy Engineering Classes
-*[Software Engineering](https://youtube.com/playlist?list=PLPIwNooIb9vgYGBaBDqufEfJC99oD3juf&si=ORCoI-7ZG58HOXf4) - Perfect Computer Engineer
+*[Software Engineering](https://youtube.com/playlist?list=PLPIwNooIb9vgYGBaBDqufEfJC99oD3juf) - Perfect Computer Engineer
 
 
 ### Solidity

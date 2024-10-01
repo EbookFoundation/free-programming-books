@@ -8,8 +8,8 @@
 * [Artificial Intelligence](#artificial-intelligence)
 * [Assembly](#assembly)
 * [Bash and Shell](#bash-and-shell)
-* [Blockchain](#blockchain)
 * [Bootstrap] (#bootstrap)
+* [Blockchain](#blockchain)
 * [C](#c)
 * [C#](#csharp)
     * [ASP.NET](#asp.net)
@@ -61,8 +61,8 @@
     * [Django](#django)
     * [Flask](#flask)
     * [Jupyter](#jupyter)
-* [R](#r)
 * [RaspberryPi] (#raspberry-pi)
+* [R](#r)
 * [Ruby](#ruby)
     * [Ruby on Rails](#ruby-on-rails)
 * [Rust](#rust)
@@ -273,8 +273,8 @@
 
 ### Computer Networks
 
-* [Computer Networks(Complete Playlist)](https://youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_&si=oZks6VlViqpdJUPt) - Gate Smashers
 * [Computer Networks : Computer Science and IT | GATE free Crash Course](https://youtube.com/playlist?list=PL3eEXnCBViH-hlNCNwdfV7VrEcTquANGa&si=T__auWK-bynzBzs6) - GATE Wallah - EE, EC, CS & IN
+* [Computer Networks(Complete Playlist)](https://youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_&si=oZks6VlViqpdJUPt) - Gate Smashers
 
 
 ### Computer Organization and Architecture
@@ -425,8 +425,8 @@
 
 ### IOT- Internet of Things
 
-* [Playlist to Internet of Things](https://youtube.com/playlist?list=PLPIwNooIb9viDc9TZ4Kx206NDMmquLlGc&si=sj07ycIVsBshX-wl) - Perfect Computer Engineer
 * [Internet of things tutorial | IOT Playlist| University Exam specific](https://youtube.com/playlist?list=PLuAADu3OvBt4SUxlYPu_xJogSmVfSLZF0&si=UbXLoMunJGnG7EMZ) - Er Sahil ka Gyan
+* [Playlist to Internet of Things](https://youtube.com/playlist?list=PLPIwNooIb9viDc9TZ4Kx206NDMmquLlGc&si=sj07ycIVsBshX-wl) - Perfect Computer Engineer
 
 
 ### Java
@@ -713,8 +713,8 @@
 
 ### RaspberryPi 
 
-* [Raspberry Pi Tutorials for Beginners in hindi](https://youtube.com/playlist?list=PL0s3O6GgLL5cteXH7CJK7kc2Ar5wR7M81&si=wlu8Q8Pl-Qd0ThE-) - Last Moment Tuitions
 * [Raspberry Pi Tutorials (Hindi)](https://youtube.com/playlist?list=PL0fjgIGwLMWRG-oSDY8XzOmVXVBQECaRI&si=LyapprmJzmEX4oLv) - TechChip
+* [Raspberry Pi Tutorials for Beginners in hindi](https://youtube.com/playlist?list=PL0s3O6GgLL5cteXH7CJK7kc2Ar5wR7M81&si=wlu8Q8Pl-Qd0ThE-) - Last Moment Tuitions
 
 
 ### Ruby
@@ -738,13 +738,13 @@
 ### Security
 
 * [Complete Ethical Hacking Tutorial for Beginners to Pro 2022](https://www.youtube.com/playlist?list=PLjVLYmrlmjGea8U9nphmCHGK_v6p_wq-R) - WsCube Tech
+* [Cryptography and Network Security](https://youtube.com/playlist?list=PL9FuOtXibFjV77w2eyil4Xzp8eooqsPp8&si=IEisqG00PRd40nWo) - Abhishek Sharma
 * [Cryptography and Network Security Lecture in Hindi / Urdu for Beginners](https://youtube.com/playlist?list=PLE3bzAX_OzbkQXKbRFqQqbnlGxTNeaUqe) - Katoon Studio
 * [cyber security course for beginners - Urdu/Hindi](https://www.youtube.com/playlist?list=PLKJfBg0XdWkevCEJ64RK11LylBNX2-zbk) - hashintelligence
 * [Cyber Security Tutorial In Hindi](https://www.youtube.com/playlist?list=PL-JvKqQx2AteIbm-z4X709scVr9OaHpIY) - University Academy
 * [Cyber Security Tutorials In HIndi](https://www.youtube.com/playlist?list=PL0fjgIGwLMWTFmZoLdEPoI9azA-osxcQj) - TechChip
 * [Ethical Hacking Full Couse (Cyber Security in Hindi)](https://www.youtube.com/playlist?list=PLa2xctTiNSCibSUhgYI2RT_loUJP9rDN6) - Masters in IT
 * [Information And Cyber Security](https://www.youtube.com/playlist?list=PLYwpaL_SFmcArHtWmbs_vXX6soTK3WEJw) - 5 Minutes Engineering
-* [Cryptography and Network Security](https://youtube.com/playlist?list=PL9FuOtXibFjV77w2eyil4Xzp8eooqsPp8&si=IEisqG00PRd40nWo) - Abhishek Sharma
 
 
 ### Software Engineering

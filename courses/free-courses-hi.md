@@ -6,8 +6,8 @@
 * [Angular](#angular)
 * [Arduino](#arduino)
 * [Artificial Intelligence](#artificial-intelligence)
-* [Bash and Shell](#bash-and-shell)
 * [Assembly](#assembly)
+* [Bash and Shell](#bash-and-shell)
 * [Blockchain](#blockchain)
 * [C](#c)
 * [C#](#csharp)
@@ -56,11 +56,11 @@
 * [PHP](#php)
     * [CodeIgniter](#codeigniter)
     * [Laravel](#laravel)
-* [Raspberrypi] (#raspberry-pi)
 * [Python](#python)
     * [Django](#django)
     * [Flask](#flask)
     * [Jupyter](#jupyter)
+* [Raspberrypi] (#raspberry-pi)
 * [R](#r)
 * [Ruby](#ruby)
     * [Ruby on Rails](#ruby-on-rails)
@@ -700,6 +700,11 @@
 
 * [Jupyter Tutorials](https://www.youtube.com/playlist?list=PLBx2L_ikudBO7s6SQZaMDCtbyrjQ-04a8) - Saima Academy
 
+### RaspberryPi 
+
+* [Raspberry Pi Tutorials (Hindi)](https://youtube.com/playlist?list=PL0fjgIGwLMWRG-oSDY8XzOmVXVBQECaRI&si=LyapprmJzmEX4oLv) - TechChip
+* [Raspberry Pi Tutorials for Beginners in hindi](https://youtube.com/playlist?list=PL0s3O6GgLL5cteXH7CJK7kc2Ar5wR7M81&si=wlu8Q8Pl-Qd0ThE-) - Last Moment Tuitions
+
 
 ### R
 
@@ -708,12 +713,6 @@
 * [R Programming](https://www.youtube.com/playlist?list=PLWPirh4EWFpEvN4ktS8LE0cvLCSfhD55t) (Tutorials Point (India) Ltd.)
 * [R programming language(Hindi)](https://www.youtube.com/playlist?list=PLgPJX9sVy92wLyuL-rFgbjqCLgXrpIKnc) - CS Geeks
 * [R Tutorial for Beginners](https://www.youtube.com/playlist?list=PLYwpaL_SFmcCRFzBkZ-b92Hdg-qCUfx48) - 5 Minutes Engineering
-
-
-### RaspberryPi 
-
-* [Raspberry Pi Tutorials (Hindi)](https://youtube.com/playlist?list=PL0fjgIGwLMWRG-oSDY8XzOmVXVBQECaRI&si=LyapprmJzmEX4oLv) - TechChip
-* [Raspberry Pi Tutorials for Beginners in hindi](https://youtube.com/playlist?list=PL0s3O6GgLL5cteXH7CJK7kc2Ar5wR7M81&si=wlu8Q8Pl-Qd0ThE-) - Last Moment Tuitions
 
 
 ### Ruby

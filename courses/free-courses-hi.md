@@ -141,6 +141,7 @@
 * [Artificial Intelligence (Complete Playlist)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiHGhOHV-nwb0HR5US5GFKFI) - Gate Smashers
 * [Generative AI Series - Showcasing Generative AI By Building Projects](https://www.youtube.com/playlist?list=PLu0W_9lII9aiS4rUVp2jXwIvCruo27sG6) - CodeWithHarry
 * [Playlist to Artificial Intelligence ](https://www.youtube.com/playlist?list=PLPIwNooIb9vgB1DQEftkKA3qOdeC4vonA) - Perfect Computer Engineer
+* [Playlist to Prompt Engineering ] (https://www.youtube.com/playlist?list=PLyz4Eb45WBQ02Md7BiIO1sUsKTs8GcWKS) - EduExpress
 
 
 ### Assembly

@@ -31,8 +31,8 @@
 * [HTML and CSS](#html-and-css)
     * [Bootstrap](#bootstrap)
     * [Tailwind CSS](#tailwind-css)
-* [iOS](#ios)
 * [Internet of Things](#internet-of-things)
+* [iOS](#ios)
 * [Java](#java)
     * [Spring Boot](#spring-boot)
 * [JavaScript](#javascript)
@@ -414,18 +414,18 @@
 * [Tailwind CSS Tutorials in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ahwFDuExCpPFHAK829Wto2O) - CodeWithHarry
 
 
+### Internet of Things
+
+* [Internet of things tutorial | IOT Playlist| University Exam specific](https://youtube.com/playlist?list=PLuAADu3OvBt4SUxlYPu_xJogSmVfSLZF0&si=UbXLoMunJGnG7EMZ) - Er Sahil ka Gyan
+* [Playlist to Internet of Things](https://youtube.com/playlist?list=PLPIwNooIb9viDc9TZ4Kx206NDMmquLlGc&si=sj07ycIVsBshX-wl) - Perfect Computer Engineer
+
+
 ### iOS
 
 * [Getting Started with iOS in Hindi](https://www.youtube.com/playlist?list=PL5PR3UyfTWvcRhz4ms-nNoGja2-DkA_6T) - iOS Academy
 * [iOS App development Course - Hindi - Xcode 9 - Swift 4](https://www.youtube.com/playlist?list=PL27xikYyFh9Cg5f28LpQuoRL8LEs01_zT) - Confiance Labs
 * [iOS App Development Crash Course in Hindi](https://www.youtube.com/watch?v=n7qOGHWunUY) - Akash Padhiyar
 * [IOS Mobile App Development Tutorial for beginners](https://www.youtube.com/playlist?list=PLtCBuHKmdxOcmrDx2pM4qNvzWF2NI_Qlo) - Fahad Hussain
-
-
-### IOT-Internet of Things
-
-* [Internet of things tutorial | IOT Playlist| University Exam specific](https://youtube.com/playlist?list=PLuAADu3OvBt4SUxlYPu_xJogSmVfSLZF0&si=UbXLoMunJGnG7EMZ) - Er Sahil ka Gyan
-* [Playlist to Internet of Things](https://youtube.com/playlist?list=PLPIwNooIb9viDc9TZ4Kx206NDMmquLlGc&si=sj07ycIVsBshX-wl) - Perfect Computer Engineer
 
 
 ### Java
@@ -737,7 +737,7 @@
 ### Security
 
 * [Complete Ethical Hacking Tutorial for Beginners to Pro 2022](https://www.youtube.com/playlist?list=PLjVLYmrlmjGea8U9nphmCHGK_v6p_wq-R) - WsCube Tech
-* [Cryptography and Network Security](https://youtube.com/playlist?list=PL9FuOtXibFjV77w2eyil4Xzp8eooqsPp8&si=IEisqG00PRd40nWo) - Abhishek Sharma
+* [Cryptography and network security](https://youtube.com/playlist?list=PL9FuOtXibFjV77w2eyil4Xzp8eooqsPp8&si=IEisqG00PRd40nWo) - Abhishek Sharma
 * [Cryptography and Network Security Lecture in Hindi / Urdu for Beginners](https://youtube.com/playlist?list=PLE3bzAX_OzbkQXKbRFqQqbnlGxTNeaUqe) - Katoon Studio
 * [cyber security course for beginners - Urdu/Hindi](https://www.youtube.com/playlist?list=PLKJfBg0XdWkevCEJ64RK11LylBNX2-zbk) - hashintelligence
 * [Cyber Security Tutorial In Hindi](https://www.youtube.com/playlist?list=PL-JvKqQx2AteIbm-z4X709scVr9OaHpIY) - University Academy

@@ -1773,7 +1773,7 @@
 * [WordPress Basic to Advanced Course](https://www.youtube.com/playlist?list=PLQOGKy2nPhxlEVP4RBVrBoXPL6mZNZv5L) - Azharul Rafy
 * [WordPress Elementor Pro Tutorials](https://www.youtube.com/playlist?list=PLjR7HjmPoicEVCFa75468V_XVA47FLJO4) - Nayyar Shaikh
 * [WordPress Tips and Tricks](https://www.youtube.com/playlist?list=PLjR7HjmPoicHi7wS3JK2dGfBmoDFCg7o8) - Nayyar Shaikh
-* [WordPress Development](https://learn.rtcamp.com/courses/wordpress-development/) - rtCamp
+* [WordPress Development](https://learn.rtcamp.com/courses/wordpress-development/) - rtCamp (HTML)
 
 
 ### YAML

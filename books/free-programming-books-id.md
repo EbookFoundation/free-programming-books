@@ -5,6 +5,7 @@
 * [C#](#csharp)
 * [C++](#cpp)
 * [CodeIgniter](#codeigniter)
+* [Data Science](#data-science)
 * [Git](#git)
 * [Go](#go)
 * [HTML and CSS](#html-and-css)
@@ -59,6 +60,8 @@
 * [Tutorial CodeIgniter 3 & 4](https://www.petanikode.com/tutorial/codeigniter/) *(:construction: dalam proses)*
 * [Tutorial CodeIgniter 4](http://mfikri.com/artikel/tutorial-codeigniter4)
 
+### Data Science
+* [Teori dan Panduan Praktis Data Science dan Big Data](https://repository.unpak.ac.id/tukangna/repo/file/files-20191130065759.pdf) - Irvan Wahyudin, Eneng Tita Tosida, Fredi Andria (PDF)
 
 ### Git
 
@@ -204,6 +207,7 @@
 * [Tutorial Dasar Pemrograman Python](https://www.petanikode.com/tutorial/python/) - Petani Kode, Ahmad Muhardian
 * [Tutorial Python](https://docs.python.org/id/3.8/tutorial/)
 * [Workshop Python 101](http://sakti.github.io/python101/)
+* [Proyek Coding dengan Python](https://digilib.stekom.ac.id/assets/dokumen/ebook/feb_2b476eab418c695cec15b3dc45a17efe95199a7e_1643162488.pdf) - Dr. Joseph Teguh Santoso, S.Kom, M.Kom (PDF)
 
 
 ### Rust

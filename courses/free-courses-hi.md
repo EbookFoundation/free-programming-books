@@ -60,8 +60,8 @@
     * [Django](#django)
     * [Flask](#flask)
     * [Jupyter](#jupyter)
+* [R](#r)    
 * [Raspberrypi](#raspberrypi)    
-* [R](#r)
 * [Ruby](#ruby)
     * [Ruby on Rails](#ruby-on-rails)
 * [Rust](#rust)
@@ -701,12 +701,6 @@
 * [Jupyter Tutorials](https://www.youtube.com/playlist?list=PLBx2L_ikudBO7s6SQZaMDCtbyrjQ-04a8) - Saima Academy
 
 
-### Raspberrypi
-
-* [Raspberry Pi Tutorials (Hindi)](https://youtube.com/playlist?list=PL0fjgIGwLMWRG-oSDY8XzOmVXVBQECaRI&si=LyapprmJzmEX4oLv) - TechChip
-* [Raspberry Pi Tutorials for Beginners in hindi](https://youtube.com/playlist?list=PL0s3O6GgLL5cteXH7CJK7kc2Ar5wR7M81&si=wlu8Q8Pl-Qd0ThE-) - Last Moment Tuitions
-
-
 ### R
 
 * [Complete R Programming Tutorial for Beginners to Pro [HINDI]](https://www.youtube.com/playlist?list=PLjVLYmrlmjGdmPrz0Lx7smkd0qIKHInOF) - WsCube Tech
@@ -714,6 +708,12 @@
 * [R Programming](https://www.youtube.com/playlist?list=PLWPirh4EWFpEvN4ktS8LE0cvLCSfhD55t) (Tutorials Point (India) Ltd.)
 * [R programming language(Hindi)](https://www.youtube.com/playlist?list=PLgPJX9sVy92wLyuL-rFgbjqCLgXrpIKnc) - CS Geeks
 * [R Tutorial for Beginners](https://www.youtube.com/playlist?list=PLYwpaL_SFmcCRFzBkZ-b92Hdg-qCUfx48) - 5 Minutes Engineering
+
+
+### Raspberrypi
+
+* [Raspberry Pi Tutorials (Hindi)](https://youtube.com/playlist?list=PL0fjgIGwLMWRG-oSDY8XzOmVXVBQECaRI&si=LyapprmJzmEX4oLv) - TechChip
+* [Raspberry Pi Tutorials for Beginners in hindi](https://youtube.com/playlist?list=PL0s3O6GgLL5cteXH7CJK7kc2Ar5wR7M81&si=wlu8Q8Pl-Qd0ThE-) - Last Moment Tuitions
 
 
 ### Ruby

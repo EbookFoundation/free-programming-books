@@ -1967,6 +1967,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Dive into Python 3](https://diveintopython3.problemsolving.io) - Mark Pilgrim (3.0)
     * [Dive into Python](https://linux.die.net/diveintopython/html/toc/index.html) - Mark Pilgrim (2.3)
 * [Essential Python](https://www.programming-books.io/essential/python/) - Krzysztof Kowalczyk, StackOverflow Contributors
+* [Fluent Python](https://elmoukrie.com/wp-content/uploads/2022/05/luciano-ramalho-fluent-python_-clear-concise-and-effective-programming-oreilly-media-2022.pdf) - Luciano Ramalho
 * [From Python to NumPy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/) - Nicolas P. Rougier (3.6)
 * [Full Stack Python](https://www.fullstackpython.com) - Matt Makai
 * [Functional Programming in Python](https://www.oreilly.com/ideas/functional-programming-in-python) - David Mertz  

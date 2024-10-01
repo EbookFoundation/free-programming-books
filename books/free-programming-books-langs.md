@@ -448,8 +448,8 @@ Books on general-purpose programming that don't focus on a specific language are
 * [C Internals](https://www.avabodh.com/cin/cin.html) - Rajeev Kumar (HTML)
 * [C Notes for Professionals](https://goalkicker.com/CBook) - Compiled from StackOverflow Documentation (PDF)
 * [C Programming](https://en.wikibooks.org/wiki/Programming%3AC) - Wikibooks
-* [C Programming Language](https://www.cimat.mx/ciencia_para_jovenes/bachillerato/libros/[Kernighan-Ritchie]The_C_Programming_Language.pdf) - Brian Kernighan and Dennis Ritchie (PDF)
 * [C Programming Boot Camp - Paul Gribble](https://gribblelab.org/teaching/CBootCamp/)
+* [C Programming Language](https://www.cimat.mx/ciencia_para_jovenes/bachillerato/libros/[Kernighan-Ritchie]The_C_Programming_Language.pdf) - Brian Kernighan and Dennis Ritchie (PDF)
 * [C Programming Tutorial](https://www.tutorialspoint.com/cprogramming/) - Tutorials Point (HTML, PDF)
 * [Coursebook](https://github.com/illinois-cs241/coursebook) - B. Venkatesh, L. Angrave, et al.
 * [Deep C](http://www.slideshare.net/olvemaudal/deep-c)

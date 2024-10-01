@@ -7,7 +7,7 @@
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Linux](#linux)
-* [Networking](#networking)
+* [](#networking)
 * [Php](#php)
 
 
@@ -55,7 +55,7 @@
 * [Linux Pocket Guide \| Hindi](https://ia800305.us.archive.org/27/items/LinuxPocketGuideInHindi/LinuxPocketGuideInHindi.pdf) - Ravishankar Shrivastav (PDF)
 
 
-### Networking
+### 
 
 * [डाटा कम्युनिकेशन और नेटवर्किंग](https://www.aicte-india.org/sites/default/files/HINDI_BOOKS/BOOK%204.pdf) - आर. पी. सिंह, आर. गुप्ता (PDF)
 * [ डाटा कयनकेशन एंड कंयटर नेटवक ](https://www.aicte-india.org/sites/default/files/HINDI_BOOKS/BOOK%203.pdf) -  ई.हरश दाधीच, ई.वकास माथर (PDF)

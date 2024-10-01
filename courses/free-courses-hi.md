@@ -9,6 +9,7 @@
 * [Assembly](#assembly)
 * [Bash and Shell](#bash-and-shell)
 * [Blockchain](#blockchain)
+* [Bootstrap] (#bootstrap)
 * [C](#c)
 * [C#](#csharp)
     * [ASP.NET](#asp.net)
@@ -32,6 +33,7 @@
     * [Bootstrap](#bootstrap)
     * [Tailwind CSS](#tailwind-css)
 * [iOS](#ios)
+* [IOT- Internet of Things](#iot-internet-of-things)
 * [Java](#java)
     * [Spring Boot](#spring-boot)
 * [JavaScript](#javascript)
@@ -60,6 +62,7 @@
     * [Flask](#flask)
     * [Jupyter](#jupyter)
 * [R](#r)
+* [RaspberryPi] (#raspberry-pi)
 * [Ruby](#ruby)
     * [Ruby on Rails](#ruby-on-rails)
 * [Rust](#rust)
@@ -168,6 +171,17 @@
 * [Solidity ^0.8 \| Blockchain \| In Hindi](https://www.youtube.com/playlist?list=PL-Jc9J83PIiG6_thChXWzolj9BEG-Y0gh) - Pepcoding
 
 
+#### Bootstrap
+
+* [Bootstrap 3 Tutorial](https://www.youtube.com/playlist?list=PLjVLYmrlmjGciJ5_Ze6jDIfJpEeMYtsSe) - WsCube Tech
+* [Bootstrap Tutorial for beginners in Hindi / Urdu](https://www.youtube.com/playlist?list=PL0b6OzIxLPbz1cgxiH5KCBsyQij1HsPtG) - Yahoo Baba
+* [Bootstrap Tutorial for Beginners(Hindi)](https://youtube.com/playlist?list=PLgPJX9sVy92wc38jA6JtvkA4l1xmJcKKH) - CS Geeks
+* [Bootstrap Tutorial In Hindi](https://www.youtube.com/playlist?list=PLdPwRNmUlk0k91-qAXTHFqMScNEuo8E5d) - CODE4EDUCATION
+* [Bootstrap Tutorial In Hindi](https://www.youtube.com/watch?v=vpAJ0s5S2t0) - CodeWithHarry
+* [Bootstrap tutorial in Hindi \| Best Course](https://youtube.com/playlist?list=PL7akPJI4biSIQmT7fSHWoMRaNUcRbXHFN) - CodinGyaan
+* [Bootstrap Tutorial in Hindi With 2 Projects for Beginners \| Complete Bootstrap 5 Tutorial in Hindi](https://youtube.com/watch?v=QE5oQh63gGE) - Tech Gun
+
+
 ### <a id="c"></a>C
 
 * [All C Concepts \| Hindi](https://www.youtube.com/playlist?list=PL7ersPsTyYt1d8g5qaxbE6sjWDzs4D_1v) - Saurabh Shukla
@@ -257,6 +271,13 @@
 * [Computer Graphics Full Course in Hindi](https://www.youtube.com/playlist?list=PLAC6WcHCOQCHVfV3vR4At0g0QADIeZc_j) - Edulogy
 
 
+### Computer Networks
+
+* [Computer Networks(Complete Playlist)](https://youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_&si=oZks6VlViqpdJUPt) - Gate Smashers
+* [Computer Networks : Computer Science and IT | GATE free Crash Course](https://youtube.com/playlist?list=PL3eEXnCBViH-hlNCNwdfV7VrEcTquANGa&si=T__auWK-bynzBzs6) - GATE Wallah - EE, EC, CS & IN
+
+
+
 ### Computer Organization and Architecture
 
 * [Computer Organization and Architecture](https://www.youtube.com/playlist?list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX) - Gate Smashers
@@ -268,6 +289,7 @@
 
 * [Data Analyst Course - Beginner's to Advance (हिंदी में) - Full Playlist](https://www.youtube.com/playlist?list=PLxzTa0VPR9ryvGSuCm4RS8aeAvOLXz9XM) - IHHPET: Industries Helping Hands Dot Com
 * [Data Science Course 2023](https://www.youtube.com/playlist?list=PLfP3JxW-T70HvifebGl3d5d5jzI1Kp0i8) - Indian AI Production
+* [Playlist for Applied Data Science ](https://youtube.com/playlist?list=PLPIwNooIb9vgY2qXajjt6_9RQ3Y9DyPTW&si=0IcMY1zC8ZG8Odoj) - Perfect Computer Engineer
 
 
 ### Data Structures
@@ -385,17 +407,6 @@
 * [Website Development Course in Hindi 2022](https://www.youtube.com/playlist?list=PLwGdqUZWnOp2jmYb2TQGYgBYp0xGwj9V1) - Thapa Technical
 
 
-#### Bootstrap
-
-* [Bootstrap 3 Tutorial](https://www.youtube.com/playlist?list=PLjVLYmrlmjGciJ5_Ze6jDIfJpEeMYtsSe) - WsCube Tech
-* [Bootstrap Tutorial for beginners in Hindi / Urdu](https://www.youtube.com/playlist?list=PL0b6OzIxLPbz1cgxiH5KCBsyQij1HsPtG) - Yahoo Baba
-* [Bootstrap Tutorial for Beginners(Hindi)](https://youtube.com/playlist?list=PLgPJX9sVy92wc38jA6JtvkA4l1xmJcKKH) - CS Geeks
-* [Bootstrap Tutorial In Hindi](https://www.youtube.com/playlist?list=PLdPwRNmUlk0k91-qAXTHFqMScNEuo8E5d) - CODE4EDUCATION
-* [Bootstrap Tutorial In Hindi](https://www.youtube.com/watch?v=vpAJ0s5S2t0) - CodeWithHarry
-* [Bootstrap tutorial in Hindi \| Best Course](https://youtube.com/playlist?list=PL7akPJI4biSIQmT7fSHWoMRaNUcRbXHFN) - CodinGyaan
-* [Bootstrap Tutorial in Hindi With 2 Projects for Beginners \| Complete Bootstrap 5 Tutorial in Hindi](https://youtube.com/watch?v=QE5oQh63gGE) - Tech Gun
-
-
 #### Tailwind CSS
 
 * [Learn Tailwind CSS with Projects - Hindi](https://www.youtube.com/playlist?list=PLPppPPmk0i3h9Xs6cAknE9OODTqZD5zFe) - Do Some Coding
@@ -411,6 +422,12 @@
 * [iOS App development Course - Hindi - Xcode 9 - Swift 4](https://www.youtube.com/playlist?list=PL27xikYyFh9Cg5f28LpQuoRL8LEs01_zT) - Confiance Labs
 * [iOS App Development Crash Course in Hindi](https://www.youtube.com/watch?v=n7qOGHWunUY) - Akash Padhiyar
 * [IOS Mobile App Development Tutorial for beginners](https://www.youtube.com/playlist?list=PLtCBuHKmdxOcmrDx2pM4qNvzWF2NI_Qlo) - Fahad Hussain
+
+
+### IOT- Internet of Things
+
+* [Playlist to Internet of Things](https://youtube.com/playlist?list=PLPIwNooIb9viDc9TZ4Kx206NDMmquLlGc&si=sj07ycIVsBshX-wl) - Perfect Computer Engineer
+* [Internet of things tutorial | IOT Playlist| University Exam specific](https://youtube.com/playlist?list=PLuAADu3OvBt4SUxlYPu_xJogSmVfSLZF0&si=UbXLoMunJGnG7EMZ) - Er Sahil ka Gyan
 
 
 ### Java
@@ -695,6 +712,12 @@
 * [R Tutorial for Beginners](https://www.youtube.com/playlist?list=PLYwpaL_SFmcCRFzBkZ-b92Hdg-qCUfx48) - 5 Minutes Engineering
 
 
+### RaspberryPi 
+
+* [Raspberry Pi Tutorials for Beginners in hindi](https://youtube.com/playlist?list=PL0s3O6GgLL5cteXH7CJK7kc2Ar5wR7M81&si=wlu8Q8Pl-Qd0ThE-) - Last Moment Tuitions
+* [Raspberry Pi Tutorials (Hindi)](https://youtube.com/playlist?list=PL0fjgIGwLMWRG-oSDY8XzOmVXVBQECaRI&si=LyapprmJzmEX4oLv) - TechChip
+
+
 ### Ruby
 
 * [Learn Ruby in 45 Minutes \| Hindi](https://www.youtube.com/watch?v=3V9a_WYEQPA) - CS Geeks
@@ -722,6 +745,7 @@
 * [Cyber Security Tutorials In HIndi](https://www.youtube.com/playlist?list=PL0fjgIGwLMWTFmZoLdEPoI9azA-osxcQj) - TechChip
 * [Ethical Hacking Full Couse (Cyber Security in Hindi)](https://www.youtube.com/playlist?list=PLa2xctTiNSCibSUhgYI2RT_loUJP9rDN6) - Masters in IT
 * [Information And Cyber Security](https://www.youtube.com/playlist?list=PLYwpaL_SFmcArHtWmbs_vXX6soTK3WEJw) - 5 Minutes Engineering
+* [Cryptography and Network Security](https://youtube.com/playlist?list=PL9FuOtXibFjV77w2eyil4Xzp8eooqsPp8&si=IEisqG00PRd40nWo) - Abhishek Sharma
 
 
 ### Software Engineering
@@ -729,6 +753,7 @@
 * [Software Engineering](https://www.youtube.com/playlist?list=PLxCzCOWd7aiEed7SKZBnC6ypFDWYLRvB2) - Gate Smashers
 * [Software Engineering](https://www.youtube.com/playlist?list=PLmXKhU9FNesTrw7n8ouPsSLEcduRlENHr) - Knowledge Gate
 * [Software Engineering Lectures](https://www.youtube.com/playlist?list=PLV8vIYTIdSnat3WCO9jfehtZyjnxb74wm) - Easy Engineering Classes
+*[Software Engineering](https://youtube.com/playlist?list=PLPIwNooIb9vgYGBaBDqufEfJC99oD3juf&si=ORCoI-7ZG58HOXf4) - Perfect Computer Engineer
 
 
 ### Solidity

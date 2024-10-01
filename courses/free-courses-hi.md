@@ -635,11 +635,11 @@
 
 ### Laravel
 
-* [Laravel (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhijEqjCa63l0GkWh5EsG5iTR) - Geeky Shows
-* [Laravel 11 Tutorial in Hindi]([https://www.youtube.com/playlist?list=PL0b6OzIxLPbz7JK_YYrRJ1KxlGG4diZHJ](https://youtube.com/playlist?list=PL8p2I9GklV46KYQnt-xJB9dhyG-e-zHnI&si=fCK8a2NJ8ylCA8jb)) - Code Step by Step
 * [Laravel 10 Tutorial Course in Hindi / Urdu](https://www.youtube.com/playlist?list=PL0b6OzIxLPbz7JK_YYrRJ1KxlGG4diZHJ) - Yahoo Baba
+* [Laravel 11 Tutorial in Hindi](https://youtube.com/playlist?list=PL8p2I9GklV46KYQnt-xJB9dhyG-e-zHnI&si=fCK8a2NJ8ylCA8jb) - Code Step by Step
 * [Laravel 9 Course in Hindi/Urdu](https://www.youtube.com/playlist?list=PLDc9bt_00KcLME8wcKFNCF-9nP21L2nB2) - Career Development Lab
 * [Laravel 9 tutorial in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV44dF7G_uPK_9ZHCQon15flp) - Code Step By Step
+* [Laravel (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhijEqjCa63l0GkWh5EsG5iTR) - Geeky Shows
 * [Laravel Framework Complete Tutorial for Beginners to Pro [HINDI]](https://www.youtube.com/playlist?list=PLjVLYmrlmjGfh2rwJjrmKNHzGxCZwBsqj) - WsCube Tech
 * [Step by step learn Laravel 7 in Hindi](https://www.youtube.com/playlist?list=PLWCLxMult9xeJEntBQFZfOxUzDvkuq6uM) - Programming with Vishal
 

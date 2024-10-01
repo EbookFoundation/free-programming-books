@@ -324,6 +324,7 @@
 #### Flask 
 
 * [Flask Web Development with python (Bangla)](https://www.youtube.com/playlist?list=PL5WWFMzXof5hA8cLzEoim7BEkHcmddbOK) - Naimul Hawk
+* [Python Flask Web Development Full Course in One Video(বাংলা)](https://youtu.be/QnbsCC8wvJk?si=sRyiRRehGb_qv2wR) - CodeWithRafiq
 
 
 ### Scratch

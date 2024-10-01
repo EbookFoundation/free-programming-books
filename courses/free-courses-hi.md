@@ -61,7 +61,7 @@
     * [Flask](#flask)
     * [Jupyter](#jupyter)
 * [R](#r)    
-* [Raspberrypi](#raspberrypi)    
+* [Raspberry Pi](#raspberry-pi)    
 * [Ruby](#ruby)
     * [Ruby on Rails](#ruby-on-rails)
 * [Rust](#rust)

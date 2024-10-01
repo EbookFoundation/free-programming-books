@@ -60,7 +60,7 @@
     * [Django](#django)
     * [Flask](#flask)
     * [Jupyter](#jupyter)
-* [Raspberrypi] (#raspberrypi)
+* [Raspberrypi](#raspberrypi)    
 * [R](#r)
 * [Ruby](#ruby)
     * [Ruby on Rails](#ruby-on-rails)

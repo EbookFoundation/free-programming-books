@@ -262,7 +262,7 @@
 ### Computer Networks
 
 * [Computer Networks : Computer Science and IT | GATE free Crash Course](https://youtube.com/playlist?list=PL3eEXnCBViH-hlNCNwdfV7VrEcTquANGa&si=T__auWK-bynzBzs6) - GATE Wallah - EE, EC, CS & IN
-* [Computer Networks(Complete Playlist)](https://youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_&si=oZks6VlViqpdJUPt) - Gate Smashers
+* [Computer Networks (Complete Playlist)](https://youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_&si=oZks6VlViqpdJUPt) - Gate Smashers
 
 
 ### Computer Organization and Architecture

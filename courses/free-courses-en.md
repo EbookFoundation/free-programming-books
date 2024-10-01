@@ -18,6 +18,7 @@
 * [Cloud Computing](#cloud-computing)
     * [AWS](#aws)
     * [Azure](#azure)
+    * [GCP](#gcp)
     * [IBM](#ibm)
 * [Compilers](#compilers)
 * [Computer Organization and Architecture](#computer-organization-and-architecture)
@@ -430,6 +431,11 @@
 * [Azure Administrator Certification](https://www.youtube.com/watch?v=10PbGbTUSAg) - freeCodeCamp
 * [Microsoft Azure Fundamentals](https://www.youtube.com/playlist?list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM) - Adam Marczak
 * [Microsoft Certified: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/) - Microsoft
+
+
+#### GCP
+
+* [Google Cloud Essentials](https://www.youtube.com/playlist?list=PLIivdWyY5sqKh1gDR0WpP9iIOY00IE0xL) - Google Cloud Tech
 
 
 #### IBM

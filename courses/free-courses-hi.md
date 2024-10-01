@@ -32,7 +32,7 @@
     * [Bootstrap](#bootstrap)
     * [Tailwind CSS](#tailwind-css)
 * [iOS](#ios)
-* [IOT- Internet of Things](#iot-internet-of-things)
+* [Internet of Things](#internet-of-things)
 * [Java](#java)
     * [Spring Boot](#spring-boot)
 * [JavaScript](#javascript)

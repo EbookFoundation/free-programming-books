@@ -370,7 +370,7 @@
 
 ### Rust
 
-* [El Lenguaje de Programación Rust](https://book.rustlang-es.org) - Rust en Español (HTML)
+* [El Lenguaje de Programación Rust](https://book.rustlang-es.org) - Steve Klabnik y Carol Nichols, traducido por Rust en Español (HTML)
 
 
 ### R

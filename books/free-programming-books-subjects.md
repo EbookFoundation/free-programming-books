@@ -235,9 +235,9 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Computer Science I](https://cse.unl.edu/~cbourke/ComputerScienceOne.pdf) - Chris Bourke (PDF)
 * [Computer Science II](https://cse.unl.edu/~cbourke/ComputerScienceTwo.pdf) - Chris Bourke (PDF)
 * [CS Principles: Big Ideas in Programming](https://www.openbookproject.net/books/StudentCSP/) - Mark Guzdial, Barbara Ericson (HTML)
+* [Mastering Haddop](https://drive.google.com/file/d/1sdB8ParLAFjQr4xshOkdeqMaFdMZy4lL/view?usp=drivesdk) - Sandeep Karanth (PDF)
 * [Pull Requests and Code Review](https://scs.tl/book-pr) – Sebastien Castiel
 * [What to Look for in a Code Review](https://leanpub.com/whattolookforinacodereview) - Trisha Gee (HTML, PDF, EPUB, Kindle) *(Leanpub account or valid email requested)*
-* [Mastering Haddop](https://drive.google.com/file/d/1sdB8ParLAFjQr4xshOkdeqMaFdMZy4lL/view?usp=drivesdk) - Sandeep Karanth (PDF)
 
 ### Computer Vision
 

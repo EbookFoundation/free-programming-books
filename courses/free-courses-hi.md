@@ -60,7 +60,7 @@
     * [Django](#django)
     * [Flask](#flask)
     * [Jupyter](#jupyter)
-* [Raspberrypi] (#raspberry-pi)
+* [Raspberrypi] (#raspberrypi)
 * [R](#r)
 * [Ruby](#ruby)
     * [Ruby on Rails](#ruby-on-rails)
@@ -422,7 +422,7 @@
 * [IOS Mobile App Development Tutorial for beginners](https://www.youtube.com/playlist?list=PLtCBuHKmdxOcmrDx2pM4qNvzWF2NI_Qlo) - Fahad Hussain
 
 
-### IOT- Internet of Things
+### IOT-Internet of Things
 
 * [Internet of things tutorial | IOT Playlist| University Exam specific](https://youtube.com/playlist?list=PLuAADu3OvBt4SUxlYPu_xJogSmVfSLZF0&si=UbXLoMunJGnG7EMZ) - Er Sahil ka Gyan
 * [Playlist to Internet of Things](https://youtube.com/playlist?list=PLPIwNooIb9viDc9TZ4Kx206NDMmquLlGc&si=sj07ycIVsBshX-wl) - Perfect Computer Engineer
@@ -700,7 +700,8 @@
 
 * [Jupyter Tutorials](https://www.youtube.com/playlist?list=PLBx2L_ikudBO7s6SQZaMDCtbyrjQ-04a8) - Saima Academy
 
-### RaspberryPi 
+
+### Raspberrypi
 
 * [Raspberry Pi Tutorials (Hindi)](https://youtube.com/playlist?list=PL0fjgIGwLMWRG-oSDY8XzOmVXVBQECaRI&si=LyapprmJzmEX4oLv) - TechChip
 * [Raspberry Pi Tutorials for Beginners in hindi](https://youtube.com/playlist?list=PL0s3O6GgLL5cteXH7CJK7kc2Ar5wR7M81&si=wlu8Q8Pl-Qd0ThE-) - Last Moment Tuitions

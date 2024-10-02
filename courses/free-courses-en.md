@@ -247,6 +247,7 @@
 * [Programming Mobile Applications for Android Handheld Systems pt. 2](https://www.coursera.org/course/androidpart2)
 * [Programming Mobile Services for Android Handheld Systems: Communication](https://www.coursera.org/course/posacommunication)
 * [Programming Mobile Services for Android Handheld Systems: Concurrency](https://www.coursera.org/course/posaconcurrency)
+* [Android APP Development Full Course with PRACTICAL (41 Hours) | Learn App Development in 2024](https://www.youtube.com/watch?v=u64gyCdqawU)
 
 
 ### APL

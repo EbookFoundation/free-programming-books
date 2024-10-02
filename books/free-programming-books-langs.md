@@ -61,7 +61,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Force.com](#forcecom)
 * [Forth](#forth)
 * [Fortran](#fortran)
-* [Full-stack](#fullstack).
+* [Full-stack](#fullstack)
 * [FreeBSD](#freebsd)
 * [Go](#go)
 * [Graphs](#graphs)

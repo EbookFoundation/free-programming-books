@@ -270,6 +270,7 @@
 * [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow) - DeepLearning.ai (Coursera)
 * [MIT Deep Learning and Artificial Intelligence Lectures](https://deeplearning.mit.edu) - Lex Fridman, et al.
 * [MIT's Artificial Intelligence](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) - Patrick Henry Winston (MIT OpenCourseWare)
+* [NYU Artificial Intelligence SP24](https://www.youtube.com/playlist?list=PLLHTzKZzVU9cH26X9VQ14lIA0aPwZiZTx) - Alfredo Canziani, Ernest Davis
 * [Stanford CS221: Artificial Intelligence: Principles and Techniques \| Autumn 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX) - Stanford Online
 
 
@@ -438,6 +439,7 @@
 #### GCP
 
 * [Google Cloud Essentials](https://www.youtube.com/playlist?list=PLIivdWyY5sqKh1gDR0WpP9iIOY00IE0xL) - Google Cloud Tech
+* [Learn Google Cloud](https://www.youtube.com/playlist?list=PLBRBRV08tHh1e9oqTsONC5AuhFd-SUXWq) - Cloud Advocate
 
 
 #### IBM
@@ -612,6 +614,7 @@
 * [MIT 6.S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu)
 * [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com) - Alexander Amini, Ava Soleimany
 * [NYU Deep Learning SP21](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI) Alfredo Canziani
+* [NYU Deep Learning SP22](https://www.youtube.com/playlist?list=PLLHTzKZzVU9f3kmEta5dlkMXgtD1LxHzT) - Alfredo Canziani
 * [Practical Deep Learning For Coders taught](http://www.fast.ai) - Jeremy Howard
 * [Practical Deep Learning for Coders, v3 (using fastai library)](https://course.fast.ai)
 * [Recurrent Neural Network](https://www.youtube.com/playlist?list=PLuhqtP7jdD8ARBnzj8SZwNFhwWT89fAFr) - Coding Lane
@@ -1046,6 +1049,7 @@
 
 #### Electron
 
+* [Electron Complete Course](https://www.youtube.com/playlist?list=PLmx8ERLT7ojO2PAH_sDnnoKXcqswxJ6CL) - coderJeet
 * [Electron js Tutorials](https://www.youtube.com/playlist?list=PLC3y8-rFHvwiCJD3WrAFUrIMkGVDE0uqW) - Codevolution
 
 

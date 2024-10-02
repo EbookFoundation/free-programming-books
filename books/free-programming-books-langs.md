@@ -61,7 +61,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Force.com](#forcecom)
 * [Forth](#forth)
 * [Fortran](#fortran)
-* [Full stack](#fullstack).
+* [Full-stack](#fullstack).
 * [FreeBSD](#freebsd)
 * [Go](#go)
 * [Graphs](#graphs)
@@ -795,7 +795,9 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Self Study Guide 2: Programming in Fortran 95](http://www.mrao.cam.ac.uk/~rachael/compphys/SelfStudyF95.pdf) - Dr Rachael Padman (PDF)
 * [User Notes On Fortran Programming (UNFP): An open cooperative practical guide (1998)](https://www.ibiblio.org/pub/languages/fortran/) - Abraham Agay, Arne Vajhoej, et al. (HTML)
 
+
 ### Fullstack
+
 * [The Complete Developer Master the Full Stack With TypeScript,React,Next.js, MongoDB.and Docker](https://drive.google.com/file/d/1ETe5CsDmU86H1lLNRXspvEQdyPbDHnTl/view?usp=sharing)
  
 

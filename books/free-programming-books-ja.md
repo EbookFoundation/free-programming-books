@@ -108,7 +108,7 @@
 
 #### ガベージコレクション
 
-* [一般教養としてのGarbage Collection](http://matsu-www.is.titech.ac.jp/~endo/gc/gc.pdf) - 遠藤敏夫 (PDF)
+* [一般教養としてのGarbage Collection](http://matsu-www.is.titech.ac.jp/~endo/gc/gc.pdf) - 遠藤敏夫 (PDF). CC BY-SA
 * [徹底解剖「G1GC」実装編](https://github.com/authorNari/g1gc-impl-book/) - 中村成洋
 
 
@@ -135,11 +135,11 @@
 #### セキュリティ
 
 * [RSA暗号体験入門](http://www.cybersyndrome.net/rsa) - CyberSyndrome
-* [ウェブ健康診断仕様](https://www.ipa.go.jp/files/000017319.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
-* [クラウドを支えるこれからの暗号技術](https://herumi.github.io/ango) - 光成滋生 (PDF)
+* [ウェブ健康診断仕様](https://www.ipa.go.jp/files/000017319.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF). CC BY-SA
+* [クラウドを支えるこれからの暗号技術](https://herumi.github.io/ango) - 光成滋生 (PDF). CC BY-SA
 * [はやわかり RSA](https://www.mew.org/~kazu/doc/rsa.html) - 山本和彦
-* [安全なSQLの呼び出し方](https://www.ipa.go.jp/files/000017320.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
-* [安全なウェブサイトの作り方](https://www.ipa.go.jp/files/000017316.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
+* [安全なSQLの呼び出し方](https://www.ipa.go.jp/files/000017320.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF). CC BY-SA
+* [安全なウェブサイトの作り方](https://www.ipa.go.jp/files/000017316.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF). CC BY-SA
 * [暗号化アルゴリズム ([1])](https://fussy.web.fc2.com/algo/algo9-1.htm) - Fussy ([2](https://fussy.web.fc2.com/algo/algo9-2.htm)), ([3](https://fussy.web.fc2.com/algo/algo9-3.htm)), ([4](https://fussy.web.fc2.com/algo/cipher4_elgamal.htm))
 
 
@@ -165,10 +165,10 @@
 
 #### ソフトウェア品質
 
-* [高信頼化ソフトウェアのための開発手法ガイドブック](https://www.ipa.go.jp/files/000005144.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
-* [組込みソフトウェア開発における品質向上の勧め [バグ管理手法編]](https://www.ipa.go.jp/files/000027629.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
-* [組込みソフトウェア開発における品質向上の勧め [設計モデリング編]](https://www.ipa.go.jp/files/000005113.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
-* [組込みソフトウェア開発における品質向上の勧め［テスト編～事例集～］](https://www.ipa.go.jp/files/000005149.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
+* [高信頼化ソフトウェアのための開発手法ガイドブック](https://www.ipa.go.jp/files/000005144.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF). CC BY-SA
+* [組込みソフトウェア開発における品質向上の勧め [バグ管理手法編]](https://www.ipa.go.jp/files/000027629.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF). CC BY-SA
+* [組込みソフトウェア開発における品質向上の勧め [設計モデリング編]](https://www.ipa.go.jp/files/000005113.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF). CC BY-SA
+* [組込みソフトウェア開発における品質向上の勧め［テスト編～事例集～］](https://www.ipa.go.jp/files/000005149.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF). CC BY-SA
 
 
 #### ネットワーキング
@@ -176,7 +176,7 @@
 * [HTTP/3 explained](https://http3-explained.haxx.se/ja) - Daniel Stenberg
 * [http2 explained](https://http2-explained.haxx.se/ja) - Daniel Stenberg
 * [ネットワークプログラミングの基礎知識](http://x68000.q-e-d.net/~68user/net) - 68user
-* [プロフェッショナルIPv6 第2版](https://dforest.watch.impress.co.jp/library/p/proipv6/11948/ao-ipv6-2-book-20211220.pdf) - 小川晃通 (PDF)
+* [プロフェッショナルIPv6 第2版](https://dforest.watch.impress.co.jp/library/p/proipv6/11948/ao-ipv6-2-book-20211220.pdf) - 小川晃通 (PDF). CC BY-SA
 
 
 #### 機械学習
@@ -185,7 +185,7 @@
 * [Mahoutで体感する機械学習の実践](https://gihyo.jp/dev/serial/01/mahout) - やまかつ
 * [機械学習 はじめよう](https://gihyo.jp/dev/serial/01/machine-learning) - 中谷秀洋，恩田伊織
 * [機械学習帳](https://chokkan.github.io/mlnote) - 岡崎直観 (Naoaki Okazaki)
-* [強化学習入門](https://github.com/komi1230/Resume/raw/master/book_reinforcement/book.pdf) - 小南佑介 (PDF)
+* [強化学習入門](https://github.com/komi1230/Resume/raw/master/book_reinforcement/book.pdf) - 小南佑介 (PDF). CC BY-SA
 
 
 #### 正規表現
@@ -196,19 +196,19 @@
 
 #### 組み込みシステム
 
-* [【改訂版】 組込みソフトウェア開発向け 品質作り込みガイド](https://www.ipa.go.jp/files/000005146.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
-* [【改訂版】 組込みソフトウェア向け 開発プロセスガイド](https://www.ipa.go.jp/files/000005126.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
+* [【改訂版】 組込みソフトウェア開発向け 品質作り込みガイド](https://www.ipa.go.jp/files/000005146.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF). CC BY-SA
+* [【改訂版】 組込みソフトウェア向け 開発プロセスガイド](https://www.ipa.go.jp/files/000005126.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF). CC BY-SA
 * [【改訂版】組込みソフトウェア開発向け コーディング作法ガイド［C言語版］ESCR Ver.3.0](https://www.ipa.go.jp/sec/publish/tn18-004.html) - 独立行政法人 情報処理推進機構(IPA) ([PDF](https://www.ipa.go.jp/files/000064005.pdf))
-* [組込みソフトウェア向け プロジェクトマネジメントガイド［計画書編］](https://www.ipa.go.jp/files/000005116.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
-* [組込みソフトウェア向け プロジェクト計画立案トレーニングガイド](https://www.ipa.go.jp/files/000005145.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
-* [組込みソフトウェア向け 設計ガイド ESDR［事例編］](https://www.ipa.go.jp/files/000005148.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF)
+* [組込みソフトウェア向け プロジェクトマネジメントガイド［計画書編］](https://www.ipa.go.jp/files/000005116.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF). CC BY-SA
+* [組込みソフトウェア向け プロジェクト計画立案トレーニングガイド](https://www.ipa.go.jp/files/000005145.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF). CC BY-SA
+* [組込みソフトウェア向け 設計ガイド ESDR［事例編］](https://www.ipa.go.jp/files/000005148.pdf) - 独立行政法人 情報処理推進機構(IPA) (PDF). CC BY-SA
 
 
 #### 並列プログラミング
 
-* [インテル コンパイラー OpenMP 入門](https://jp.xlsoft.com/documents/intel/compiler/525J-001.pdf) - 戸室隆彦 (PDF)
-* [これからの並列計算のためのGPGPU連載講座 [I]](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No1/201001gpgpu.pdf) - 大島聡史 ([II](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No2/201003gpgpu.pdf)), ([III](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No3/201005_gpgpu2.pdf)), ([VI](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No4/201007_gpgpu.pdf)), ([V](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No5/201009_gpgpu.pdf)), ([VI](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No6/201011_gpgpu.pdf)) (PDF)
-* [連載講座: 高生産並列言語を使いこなす [1]](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL13/No1/Rensai201101.pdf) - 田浦健次朗 ([2](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL13/No3/Rensai201105.pdf)), ([3](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL13/No4/Rensai201107.pdf)), ([4](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL13/No5/Rennsai201109.pdf)), ([5](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL13/No6/Rennsai201111.pdf)) (PDF)
+* [インテル コンパイラー OpenMP 入門](https://jp.xlsoft.com/documents/intel/compiler/525J-001.pdf) - 戸室隆彦 (PDF). CC BY-SA
+* [これからの並列計算のためのGPGPU連載講座 [I]](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No1/201001gpgpu.pdf) - 大島聡史 ([II](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No2/201003gpgpu.pdf)), ([III](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No3/201005_gpgpu2.pdf)), ([VI](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No4/201007_gpgpu.pdf)), ([V](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No5/201009_gpgpu.pdf)), ([VI](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL12/No6/201011_gpgpu.pdf)) (PDF). CC BY-SA
+* [連載講座: 高生産並列言語を使いこなす [1]](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL13/No1/Rensai201101.pdf) - 田浦健次朗 ([2](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL13/No3/Rensai201105.pdf)), ([3](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL13/No4/Rensai201107.pdf)), ([4](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL13/No5/Rennsai201109.pdf)), ([5](https://www.cc.u-tokyo.ac.jp/support/press/news/VOL13/No6/Rennsai201111.pdf)) (PDF). CC BY-SA
 
 
 #### 理論計算機科学
@@ -233,12 +233,12 @@
 
 ### Assembly
 
-* [リバースエンジニアリング入門 \| Reverse Engineering for Beginners](https://beginners.re/RE4B-JA.pdf) - Dennis Yurichev, shmz, 4ryuJP (PDF)
+* [リバースエンジニアリング入門 \| Reverse Engineering for Beginners](https://beginners.re/RE4B-JA.pdf) - Dennis Yurichev, shmz, 4ryuJP (PDF). CC BY-SA
 
 
 ### AWK
 
-* [AWK の第一歩](https://www.magata.net/memo/index.php?plugin=attach&pcmd=open&file=awk%A5%DE%A5%CB%A5%E5%A5%A2%A5%EB.pdf&refer=%A5%B7%A5%A7%A5%EB%A5%B3%A5%DE%A5%F3%A5%C9) - 小栗栖修 (PDF)
+* [AWK の第一歩](https://www.magata.net/memo/index.php?plugin=attach&pcmd=open&file=awk%A5%DE%A5%CB%A5%E5%A5%A2%A5%EB.pdf&refer=%A5%B7%A5%A7%A5%EB%A5%B3%A5%DE%A5%F3%A5%C9) - 小栗栖修 (PDF). CC BY-SA
 * [AWK リファレンス](https://shellscript.sunone.me/awk.html) - SUNONE
 * [Effective AWK Programming](http://www.kt.rim.or.jp/~kbk/gawk-30/gawk_toc.html) - Arnold D. Robbins
 
@@ -370,16 +370,16 @@
 ### iOS
 
 * [Cocoa Programming Tips 1001](https://web.archive.org/web/20170507034234/http://hmdt.jp/tips/cocoa/index.html) - 木下誠
-* [iOSアプリケーション プログラミングガイド](https://developer.apple.com/jp/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html) - Apple Developer (PDF)
+* [iOSアプリケーション プログラミングガイド](https://developer.apple.com/jp/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html) - Apple Developer (PDF). CC BY-SA
 * [RubyMotion Tutorial: Ruby で iOS アプリを作ろう](http://tutorial.rubymotion.jp) - Clay Allsopp, `trl:` RubyMotion JP
 
 
 ### Java
 
-* [Javaプログラミング学習支援システムのソフトウェアアーキテクチャと2種類の新問題形式の提案](https://ousar.lib.okayama-u.ac.jp/files/public/5/55952/20180614114854955908/K0005730_fulltext.pdf) - 石原信也 (PDF)
+* [Javaプログラミング学習支援システムのソフトウェアアーキテクチャと2種類の新問題形式の提案](https://ousar.lib.okayama-u.ac.jp/files/public/5/55952/20180614114854955908/K0005730_fulltext.pdf) - 石原信也 (PDF). CC BY-SA
 * [Java基礎文法最速マスター](https://d.hatena.ne.jp/nattou_curry_2/20100130/1264821094) - id:nattou\_curry
 * [お気楽 Java プログラミング入門](http://www.nct9.ne.jp/m_hiroi/java) - 広井誠
-* [頑健なJavaプログラムの書き方](http://seiza.dip.jp/link/files/writingrobustjavacode.pdf) - Scott W. Ambler, `trl:` 高橋徹 (PDF)
+* [頑健なJavaプログラムの書き方](http://seiza.dip.jp/link/files/writingrobustjavacode.pdf) - Scott W. Ambler, `trl:` 高橋徹 (PDF). CC BY-SA
 
 
 ### JavaScript
@@ -442,7 +442,7 @@
 ### Julia
 
 * [Julia Language Programming](http://www.nct9.ne.jp/m_hiroi/light/julia.html) - 広井誠
-* [実例で学ぶ Julia-0.4.1](https://www.dropbox.com/s/lk7y8lifjcr1vf2/JuliaBook-20151201.pdf) - Yuichi Motoyama (PDF)
+* [実例で学ぶ Julia-0.4.1](https://www.dropbox.com/s/lk7y8lifjcr1vf2/JuliaBook-20151201.pdf) - Yuichi Motoyama (PDF). CC BY-SA
 * [物理で使う数値計算入門：Julia言語による簡単数値計算](https://github.com/cometscome/Julianotes) - 永井佑紀
 
 
@@ -498,7 +498,7 @@
 ### NoSQL
 
 * [Hibari アプリケーション開発者ガイド](https://hibari.github.io/hibari-doc/hibari-app-developer-guide.ja.html)
-* [MongoDBの薄い本](https://www.cuspy.org/diary/2012-04-17/the-little-mongodb-book-ja.pdf) - Karl Seguin, `trl: 濱野司` (PDF)
+* [MongoDBの薄い本](https://www.cuspy.org/diary/2012-04-17/the-little-mongodb-book-ja.pdf) - Karl Seguin, `trl: 濱野司` (PDF). CC BY-SA
 * [The Little Redis Book](https://github.com/craftgear/the-little-redis-book) - Karl Seguin, `trl.:` @craftgear
 
 
@@ -506,7 +506,7 @@
 
 * [Google Objective-C スタイルガイド 日本語訳](http://www.textdrop.net/google-styleguide-ja/objcguide.xml) - Mike Pinkerton, Greg Miller, Dave MacLachlan, `trl:` Takashi Sasai
 * [Objective-C 2.0 基礎文法最速マスター](https://marycore.jp/prog/objective-c/basic-syntax) - @_marycore
-* [Objective-C プログラミング言語](https://developer.apple.com/jp/documentation/ProgrammingWithObjectiveC.pdf) - Apple Developer (PDF)
+* [Objective-C プログラミング言語](https://developer.apple.com/jp/documentation/ProgrammingWithObjectiveC.pdf) - Apple Developer (PDF). CC BY-SA
 * [Objective-C 最速基礎文法マスター](https://fn7.hatenadiary.org/entry/20100203/1265207098) - @fn7
 
 
@@ -570,9 +570,9 @@
 * [Python プログラマーのための gevent チュートリアル](https://methane.github.io/gevent-tutorial-ja) - Stephen Diehl, Jérémy Bethmont, sww, Bruno Bigras, David Ripton, Travis Cline, Boris Feld, youngsterxyf, Eddie Hebert, Alexis Metaireau, Daniel Velkov, `trl:` methane
 * [Python 基礎文法最速マスター](https://dplusplus.hatenablog.com/entry/20100126/p1) - @dplusplus
 * [The Programming Historian](https://sites.google.com/site/theprogramminghistorianja) - William J. Turkel, Alan MacEachern, `trl:` @moroshigeki, `trl:` @historyanddigi, `trl:` @Say\_no, `trl:` @knagasaki, `trl:` @mak\_goto
-* [Think Python：コンピュータサイエンティストのように考えてみよう](http://www.cauldron.sakura.ne.jp/thinkpython/thinkpython/ThinkPython.pdf) - Allen Downey, `trl:` 相川 利樹 (PDF)
+* [Think Python：コンピュータサイエンティストのように考えてみよう](http://www.cauldron.sakura.ne.jp/thinkpython/thinkpython/ThinkPython.pdf) - Allen Downey, `trl:` 相川 利樹 (PDF). CC BY-SA
 * [お気楽 Python プログラミング入門](http://www.nct9.ne.jp/m_hiroi/light) - 広井誠
-* [プログラミング演習 Python 2019](http://hdl.handle.net/2433/245698) - 喜多一 (PDF)
+* [プログラミング演習 Python 2019](http://hdl.handle.net/2433/245698) - 喜多一 (PDF). CC BY-SA
 * [みんなのPython Webアプリ編](https://coreblog.org/ats/stuff/minpy_web) - 柴田淳
 * [機械学習の Python との出会い (Machine Learning Meets Python)](https://www.kamishima.net/mlmpyja) - 神嶌敏弘 [PDF](https://www.kamishima.net/archive/mlmpyja.pdf), [EPUB](https://www.kamishima.net/archive/mlmpyja.epub)
 
@@ -586,12 +586,12 @@
 ### R
 
 * [R](https://stats.biopapyrus.jp/r) - 孫建強
-* [R 基本統計関数マニュアル](https://cran.r-project.org/doc/contrib/manuals-jp/Mase-Rstatman.pdf) - 間瀬茂 (PDF)
-* [R 言語定義](https://cran.r-project.org/doc/contrib/manuals-jp/R-lang.jp.v110.pdf) - R Development Core Team, `trl:` 間瀬茂 (PDF)
-* [R 入門](https://cran.r-project.org/doc/contrib/manuals-jp/R-intro-170.jp.pdf) - W. N. Venables, D. M. Smith, R Development Core Team, `trl:` 間瀬茂 (PDF)
-* [Rチュートリアルセミナーテキスト](http://psycho.edu.yamaguchi-u.ac.jp/wordpress/wp-content/uploads/2014/01/R_tutorial20131.pdf) - 小杉考司, 押江隆 (PDF)
-* [Rによる統計解析の基礎](https://minato.sip21c.org/statlib/stat.pdf) - 中澤港 (PDF)
-* [Rによる保健医療データ解析演習](http://minato.sip21c.org/msb/medstatbook.pdf) - 中澤港 (PDF)
+* [R 基本統計関数マニュアル](https://cran.r-project.org/doc/contrib/manuals-jp/Mase-Rstatman.pdf) - 間瀬茂 (PDF). CC BY-SA
+* [R 言語定義](https://cran.r-project.org/doc/contrib/manuals-jp/R-lang.jp.v110.pdf) - R Development Core Team, `trl:` 間瀬茂 (PDF). CC BY-SA
+* [R 入門](https://cran.r-project.org/doc/contrib/manuals-jp/R-intro-170.jp.pdf) - W. N. Venables, D. M. Smith, R Development Core Team, `trl:` 間瀬茂 (PDF). CC BY-SA
+* [Rチュートリアルセミナーテキスト](http://psycho.edu.yamaguchi-u.ac.jp/wordpress/wp-content/uploads/2014/01/R_tutorial20131.pdf) - 小杉考司, 押江隆 (PDF). CC BY-SA
+* [Rによる統計解析の基礎](https://minato.sip21c.org/statlib/stat.pdf) - 中澤港 (PDF). CC BY-SA
+* [Rによる保健医療データ解析演習](http://minato.sip21c.org/msb/medstatbook.pdf) - 中澤港 (PDF). CC BY-SA
 * [無料統計ソフトRで心理学](http://blue.zero.jp/yokumura/Rhtml/Haebera2002.html) - 奥村泰之
 
 
@@ -606,7 +606,7 @@
 * [お気楽 Ruby プログラミング入門](http://www.nct9.ne.jp/m_hiroi/light/ruby.html) - 広井誠
 * [つくって学ぶプログラミング言語 RubyによるScheme処理系の実装](https://tatsu-zine.com/books/scheme-in-ruby) - 渡辺昌寛
 * [ホワイの(感動的)Rubyガイド](http://www.aoky.net/articles/why_poignant_guide_to_ruby) - why the lucky stiff, `trl:` 青木靖
-* [実用的Rubyスクリプティング](https://www.gentei.org/~yuuji/support/sr/scrp-2020-05.pdf) - 広瀬雄二 (PDF)
+* [実用的Rubyスクリプティング](https://www.gentei.org/~yuuji/support/sr/scrp-2020-05.pdf) - 広瀬雄二 (PDF). CC BY-SA
 
 
 ### Rust
@@ -652,7 +652,7 @@
 ### SQL(実装非依存)
 
 * [SQL](https://www.techscore.com/tech/sql) - シナジーマーケティング株式会社
-* [SQLアタマ養成講座](https://mickindex.sakura.ne.jp/database/WDP/WDP_44.pdf) - ミック WEB+DB Press Vol.44 (2008) p.47-72 (PDF)
+* [SQLアタマ養成講座](https://mickindex.sakura.ne.jp/database/WDP/WDP_44.pdf) - ミック WEB+DB Press Vol.44 (2008) p.47-72 (PDF). CC BY-SA
 * [SQLプログラミング作法](https://mickindex.sakura.ne.jp) - ミック
 
 
@@ -660,7 +660,7 @@
 
 * [お気楽 Standard ML of New Jersey 入門](http://www.nct9.ne.jp/m_hiroi/func/#sml) - 広井誠
 * [プログラミング言語SML#解説](https://www.pllab.riec.tohoku.ac.jp/smlsharp/docs/3.0/ja/manual.xhtml) - 大堀淳, 上野 雄大
-* [プログラミング言語Standard ML入門](https://www.pllab.riec.tohoku.ac.jp/smlsharp/smlIntroSlidesJP.pdf) - 大堀淳 (PDF)
+* [プログラミング言語Standard ML入門](https://www.pllab.riec.tohoku.ac.jp/smlsharp/smlIntroSlidesJP.pdf) - 大堀淳 (PDF). CC BY-SA
 
 
 ### Swift
@@ -671,7 +671,7 @@
 ### Tcl/Tk
 
 * [Tcl/Tk お気楽 GUI プログラミング](http://www.nct9.ne.jp/m_hiroi/tcl_tk.html) - 広井誠
-* [Tcl/Tk入門](http://aoba.cc.saga-u.ac.jp/lecture/TclTk/text.pdf) - 只木進一 (PDF)
+* [Tcl/Tk入門](http://aoba.cc.saga-u.ac.jp/lecture/TclTk/text.pdf) - 只木進一 (PDF). CC BY-SA
 
 
 ### TypeScript

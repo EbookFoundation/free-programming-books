@@ -53,8 +53,8 @@
 ### CodeIgniter
 
 * [Codeigniter - Pendekatan Praktis](https://leanpub.com/codeigniter-pendekatanpraktis) - Ibnu Daqiqil Id (HTML, PDF, EPUB, Kindle) *(Membutuhkan akun Leanpub atau email yang valid)*
-* [Codeigniter Untuk Pemula](https://repository.bsi.ac.id/index.php/unduh/item/176695/Tutorial-Codeigniter-Untuk-Pemula.pdf) - M Fikri Setiadi (PDF)
-* [Framework Codeigniter - Sebuah Panduan dan Best Practice](https://gilacoding.com/upload/file/Tutorial%20framework%20codeigniter.pdf) - Gila Coding (PDF)
+* [Codeigniter Untuk Pemula](https://repository.bsi.ac.id/index.php/unduh/item/176695/Tutorial-Codeigniter-Untuk-Pemula.pdf) - M Fikri Setiadi (PDF). CC BY-SA
+* [Framework Codeigniter - Sebuah Panduan dan Best Practice](https://gilacoding.com/upload/file/Tutorial%20framework%20codeigniter.pdf) - Gila Coding (PDF). CC BY-SA
 * [Panduan Pengguna CodeIgniter Indonesia](https://codeigniter-id.github.io/user-guide/) - CodeIgniter Indonesia
 * [Tutorial CodeIgniter 3 & 4](https://www.petanikode.com/tutorial/codeigniter/) *(:construction: dalam proses)*
 * [Tutorial CodeIgniter 4](http://mfikri.com/artikel/tutorial-codeigniter4)
@@ -64,14 +64,14 @@
 
 * [Belajar Git untuk Pemula](https://github.com/petanikode/belajar-git) - Ahmad Muhardian, Petani Kode (HTML)
 * [Pro Git 2nd Edition](https://git-scm.com/book/id/) - Scott Chacon, Ben Straub (HTML)
-* [Tutorial Belajar Git dan GitHub untuk Pemula](https://tutorial-git.readthedocs.io/_/downloads/id/latest/pdf/) - Hendy Irawan - (PDF)
+* [Tutorial Belajar Git dan GitHub untuk Pemula](https://tutorial-git.readthedocs.io/_/downloads/id/latest/pdf/) - Hendy Irawan - (PDF). CC BY-SA
 
 
 ### Go
 
-* [Belajar Dengan Jenius Golang](https://raw.githubusercontent.com/gungunfebrianza/Belajar-Dengan-Jenius-Golang/master/Belajar%20Dengan%20Jenius%20Golang.pdf) - Gun Gun Febrianza (PDF)
+* [Belajar Dengan Jenius Golang](https://raw.githubusercontent.com/gungunfebrianza/Belajar-Dengan-Jenius-Golang/master/Belajar%20Dengan%20Jenius%20Golang.pdf) - Gun Gun Febrianza (PDF). CC BY-SA
 * [Dasar Pemrograman Golang](https://dasarpemrogramangolang.novalagung.com) - Noval Agung Prayogo
-* [Mari Belajar Golang](https://www.smashwords.com/books/view/938003) - Risal (PDF)
+* [Mari Belajar Golang](https://www.smashwords.com/books/view/938003) - Risal (PDF). CC BY-SA
 
 
 ### HTML and CSS
@@ -98,14 +98,14 @@
 ### Java
 
 * [Algoritma dan Struktur Data dengan Java oleh Polinema SIB](https://polinema.gitbook.io/jti-modul-praktikum-algoritma-dan-struktur-data/) - Politeknik Negeri Malang
-* [Java Desktop](https://github.com/ifnu/buku-java-desktop/raw/master/java-desktop-ifnu-bima.pdf) - Ifnu Bima (PDF)
-* [Memulai Java Enterprise dengan Spring Boot](https://raw.githubusercontent.com/teten-nugraha/free-ebook-springboot-basic/master/Memulai%20Java%20Enterprise%20dengan%20Spring%20Boot.pdf) - Teten Nugraha (PDF)
+* [Java Desktop](https://github.com/ifnu/buku-java-desktop/raw/master/java-desktop-ifnu-bima.pdf) - Ifnu Bima (PDF). CC BY-SA
+* [Memulai Java Enterprise dengan Spring Boot](https://raw.githubusercontent.com/teten-nugraha/free-ebook-springboot-basic/master/Memulai%20Java%20Enterprise%20dengan%20Spring%20Boot.pdf) - Teten Nugraha (PDF). CC BY-SA
 * [Pemrograman Java](https://blog.rosihanari.net/download-tutorial-java-se-gratis/) - Rosihan Ari Yuana
 
 
 ### JavaScript
 
-* [Javascript Guide](https://gilacoding.com/upload/file/Javascript%20Guide.pdf) - Desrizal (PDF)
+* [Javascript Guide](https://gilacoding.com/upload/file/Javascript%20Guide.pdf) - Desrizal (PDF). CC BY-SA
 * [Mengenal JavaScript](http://masputih.com/2013/01/ebook-gratis-mengenal-javascript)
 * [Otomatisasi dengan gulp.js](https://kristories.gitbooks.io/otomatisasi-dengan-gulp-js/content/)
 * [Tutorial Dasar Javascript untuk Pemula](https://www.petanikode.com/tutorial/javascript/) *(:construction: dalam proses)*
@@ -120,7 +120,7 @@
 
 #### Deno
 
-* [Belajar Dengan Jenius Deno](https://raw.githubusercontent.com/gungunfebrianza/Belajar-Dengan-Jenius-DenoTheWKWKLand/master/Belajar%20Dengan%20Jenius%20Deno.pdf) - Gun Gun Febrianza (PDF)
+* [Belajar Dengan Jenius Deno](https://raw.githubusercontent.com/gungunfebrianza/Belajar-Dengan-Jenius-DenoTheWKWKLand/master/Belajar%20Dengan%20Jenius%20Deno.pdf) - Gun Gun Febrianza (PDF). CC BY-SA
 
 
 #### Next.js
@@ -155,7 +155,7 @@
 
 ### Node.js
 
-* [Belajar Dengan Jenius Amazon Web Service & Node.js](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Node.js/releases/download/1.2/Belajar.Dengan.Jenius.Javascript.Node.pdf) - Gun Gun Febrianza (PDF)
+* [Belajar Dengan Jenius Amazon Web Service & Node.js](https://github.com/gungunfebrianza/Belajar-Dengan-Jenius-Node.js/releases/download/1.2/Belajar.Dengan.Jenius.Javascript.Node.pdf) - Gun Gun Febrianza (PDF). CC BY-SA
 * [Belajar Node.js](http://idjs.github.io/belajar-nodejs/)
 * [Node.js Handbook: Berbahasa Indonesia](https://play.google.com/store/books/details/Bona_Tua_Node_js_Handbook?id=9WhZDwAAQBAJ) - Bona Tua *(Membutuhkan akun Google Play Books atau email yang valid)*
 * [Tutorial Node js untuk pemula Full Tutorial](https://mfikri.com/artikel/tutorial-nodejs) - Mfikri (HTML)
@@ -173,21 +173,21 @@
 
 ### Pemrograman Kompetitif
 
-* [Pemrograman Kompetitif Dasar](https://osn.toki.id/data/pemrograman-kompetitif-dasar.pdf) - William Gozali, Alham Fikri Aji (PDF)
-* [Referensi Pemrograman Bahasa Pascal](https://toki.id/download/referensi-pemrograman-bahasa-pascal/) - Tim Pembina Toki (PDF)
+* [Pemrograman Kompetitif Dasar](https://osn.toki.id/data/pemrograman-kompetitif-dasar.pdf) - William Gozali, Alham Fikri Aji (PDF). CC BY-SA
+* [Referensi Pemrograman Bahasa Pascal](https://toki.id/download/referensi-pemrograman-bahasa-pascal/) - Tim Pembina Toki (PDF). CC BY-SA
 
 
 ### PHP
 
-* [Belajar Laravel Untuk Pemula](https://gilacoding.com/upload/file/Belajar%20Laravel%20Untuk%20Pemula.pdf) - Dadan Hamdani (PDF)
+* [Belajar Laravel Untuk Pemula](https://gilacoding.com/upload/file/Belajar%20Laravel%20Untuk%20Pemula.pdf) - Dadan Hamdani (PDF). CC BY-SA
 * [Belajar PHP Dasar](https://www.malasngoding.com/belajar-php-dasar-pengenalan-dan-kegunaan-php/) - Malasngoding
-* [Membuat Bot Telegram dengan PHP](https://www.slideshare.net/HasanudinHS/ebook-i-membuat-bot-telegram-dengan-php) - Hasanudin H Syafaat (PDF)
-* [Menjelajahi Yii Framework](https://gilacoding.com/upload/file/menjelajahyiiframework.pdf) - Sabit Huraira (PDF)
-* [Panduan Lengkap PHP AJAX jQuery](https://gilacoding.com/upload/file/Panduan%20Lengkap%20PHP%20Ajax%20jQuery.pdf) - Desrizal (PDF)
-* [Pemrograman Berbasis Objek Modern dengan PHP](https://arsiteknologi.com/wp-content/uploads/Pemrograman_Berbasis_Objek_Modern_dengan_PHP_Google_Play_Book.pdf) - Muhamad Surya Iksanudin (PDF)
-* [Pemrograman Berorientasi Objek Dengan PHP5](https://endangcahyapermana.files.wordpress.com/2016/03/belajar-singkat-pemrograman-berorientasi-objek-dengan-php5.pdf) - Gerry Sabar (PDF)
+* [Membuat Bot Telegram dengan PHP](https://www.slideshare.net/HasanudinHS/ebook-i-membuat-bot-telegram-dengan-php) - Hasanudin H Syafaat (PDF). CC BY-SA
+* [Menjelajahi Yii Framework](https://gilacoding.com/upload/file/menjelajahyiiframework.pdf) - Sabit Huraira (PDF). CC BY-SA
+* [Panduan Lengkap PHP AJAX jQuery](https://gilacoding.com/upload/file/Panduan%20Lengkap%20PHP%20Ajax%20jQuery.pdf) - Desrizal (PDF). CC BY-SA
+* [Pemrograman Berbasis Objek Modern dengan PHP](https://arsiteknologi.com/wp-content/uploads/Pemrograman_Berbasis_Objek_Modern_dengan_PHP_Google_Play_Book.pdf) - Muhamad Surya Iksanudin (PDF). CC BY-SA
+* [Pemrograman Berorientasi Objek Dengan PHP5](https://endangcahyapermana.files.wordpress.com/2016/03/belajar-singkat-pemrograman-berorientasi-objek-dengan-php5.pdf) - Gerry Sabar (PDF). CC BY-SA
 * [Pemrograman Web dengan PHP dan MySQL](http://achmatim.net/2009/04/15/buku-gratis-pemrograman-web-dengan-php-dan-mysql/)
-* [PHP Dasar Tutorial](https://gilacoding.com/upload/file/PHP%20Dasar%20Tutorial.pdf) - Rosihan Ari Yuana (PDF)
+* [PHP Dasar Tutorial](https://gilacoding.com/upload/file/PHP%20Dasar%20Tutorial.pdf) - Rosihan Ari Yuana (PDF). CC BY-SA
 * [PHP: The Right Way Bahasa Indonesia](http://id.phptherightway.com/#site-header/)
 * [Tutorial Belajar PHP Dasar Untuk Pemula](https://www.duniailkom.com/tutorial-belajar-php-dasar-untuk-pemula/) - Duniailkom
 * [Tutorial Ebook PHP](http://www.ilmuwebsite.com/ebook-php-free-download)
@@ -197,7 +197,7 @@
 ### Python
 
 * [Belajar Python](http://www.belajarpython.com)
-* [Cepat Mahir Python](https://gilacoding.com/upload/file/Python.pdf) - Hendri, `edt.:` Romi Satria Wahono (PDF)
+* [Cepat Mahir Python](https://gilacoding.com/upload/file/Python.pdf) - Hendri, `edt.:` Romi Satria Wahono (PDF). CC BY-SA
 * [Dasar Pengenalan Pemrograman Python](https://play.google.com/store/books/details/Rolly_Maulana_Awangga_Dasar_dasar_Python?id=YpzDDwAAQBAJ) - Rolly Maulana AwanggaRayhan *(Membutuhkan akun Google Play Books atau email yang valid)*
 * [Kursus Singkat Machine Learning dengan TensorFlow API](https://developers.google.com/machine-learning/crash-course?hl=id)
 * [Python Untuk Pemula](https://santrikoding.com/ebook/python-untuk-pemula) - Rizqi Maulana

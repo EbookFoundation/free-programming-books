@@ -155,7 +155,7 @@
 
 ### 分布式系统
 
-* [走向分布式](http://dcaoyuan.github.io/papers/pdfs/Scalability.pdf) (PDF)
+* [走向分布式](http://dcaoyuan.github.io/papers/pdfs/Scalability.pdf) (PDF). CC BY-SA
 
 
 ### 管理和监控
@@ -280,7 +280,7 @@
 ### WEB服务器
 
 * [Apache 中文手册](http://works.jinbuguo.com/apache/menu22/index.html)
-* [Nginx教程从入门到精通](http://www.ttlsa.com/nginx/nginx-stu-pdf/) - 运维生存时间 (PDF)
+* [Nginx教程从入门到精通](http://www.ttlsa.com/nginx/nginx-stu-pdf/) - 运维生存时间 (PDF). CC BY-SA
 * [Nginx开发从入门到精通](http://tengine.taobao.org/book/index.html) - 淘宝团队
 
 
@@ -298,8 +298,8 @@
 ### Assembly
 
 * 逆向工程权威指南 《Reverse Engineering for Beginners》 - Dennis Yurichev, Antiy Labs, Archer
-    * [逆向工程权威指南 《Reverse Engineering for Beginners》 Vol.1](https://beginners.re/RE4B-CN-vol1.pdf) - Dennis Yurichev, Antiy Labs, Archer (PDF)
-    * [逆向工程权威指南 《Reverse Engineering for Beginners》 Vol.2](https://beginners.re/RE4B-CN-vol2.pdf) - Dennis Yurichev, Antiy Labs, Archer (PDF)
+    * [逆向工程权威指南 《Reverse Engineering for Beginners》 Vol.1](https://beginners.re/RE4B-CN-vol1.pdf) - Dennis Yurichev, Antiy Labs, Archer (PDF). CC BY-SA
+    * [逆向工程权威指南 《Reverse Engineering for Beginners》 Vol.2](https://beginners.re/RE4B-CN-vol2.pdf) - Dennis Yurichev, Antiy Labs, Archer (PDF). CC BY-SA
 * [C/C++面向WebAssembly编程](https://github.com/3dgen/cppwasm-book/tree/master/zh) - Ending, Chai Shushan (HTML, [:package: examples](https://github.com/3dgen/cppwasm-book/tree/master/examples))
 
 
@@ -338,7 +338,7 @@
 * [C++ Primer 5th Answers](https://github.com/Mooophy/Cpp-Primer)
 * [C++ Template 进阶指南](https://github.com/wuye9036/CppTemplateTutorial)
 * [CGDB中文手册](https://github.com/leeyiw/cgdb-manual-in-chinese)
-* [Cmake 实践](https://web.archive.org/web/20170615174144/http://sewm.pku.edu.cn/src/paradise/reference/CMake%20Practice.pdf) (PDF)
+* [Cmake 实践](https://web.archive.org/web/20170615174144/http://sewm.pku.edu.cn/src/paradise/reference/CMake%20Practice.pdf) (PDF). CC BY-SA
 * [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
 * [Google C++ 风格指南](http://zh-google-styleguide.readthedocs.org/en/latest/google-cpp-styleguide/contents/)
 * [ZMQ 指南](https://github.com/anjuke/zguide-cn)
@@ -441,7 +441,7 @@
 
 ### Java
 
-* [阿里巴巴 Java 开发手册](https://raw.githubusercontent.com/alibaba/p3c/HEAD/Java%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C(%E9%BB%84%E5%B1%B1%E7%89%88).pdf) (PDF)
+* [阿里巴巴 Java 开发手册](https://raw.githubusercontent.com/alibaba/p3c/HEAD/Java%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C(%E9%BB%84%E5%B1%B1%E7%89%88).pdf) (PDF). CC BY-SA
 * [用jersey构建REST服务](https://github.com/waylau/RestDemo)
 * [Activiti 5.x 用户指南](https://github.com/waylau/activiti-5.x-user-guide)
 * [Apache MINA 2 用户指南](https://github.com/waylau/apache-mina-2.x-user-guide)
@@ -460,7 +460,7 @@
 * [Nutz-book Nutz烹调向导](http://nutzbook.wendal.net)
 * [Nutz文档](https://nutzam.com/core/nutz_preface.html)
 * [REST 实战](https://github.com/waylau/rest-in-action)
-* [Spring 2.0核心技术与最佳实践](https://michaelliao.github.io/download/pdf/Spring%202.0%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E4%B8%8E%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5.pdf) (PDF)
+* [Spring 2.0核心技术与最佳实践](https://michaelliao.github.io/download/pdf/Spring%202.0%E6%A0%B8%E5%BF%83%E6%8A%80%E6%9C%AF%E4%B8%8E%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5.pdf) (PDF). CC BY-SA
 * [Spring Boot参考指南](https://github.com/qibaoguang/Spring-Boot-Reference-Guide) (:construction: *翻译中*)
 * [Spring Framework 4.x参考文档](https://github.com/waylau/spring-framework-4-reference)
 
@@ -494,7 +494,7 @@
 
 #### Backbone.js
 
-* [Backbone.js入门教程](http://www.the5fire.com/backbone-js-tutorials-pdf-download.html) (PDF)
+* [Backbone.js入门教程](http://www.the5fire.com/backbone-js-tutorials-pdf-download.html) (PDF). CC BY-SA
 * [Backbone.js入门教程第二版](https://github.com/the5fire/backbonejs-learning-note)
 * [Backbone.js中文文档](https://web.archive.org/web/20200916085144/https://www.html.cn/doc/backbone/) *(:card_file_box: archived)*
 
@@ -561,7 +561,7 @@
 
 ### LaTeX
 
-* [大家來學 LaTeX](https://github.com/49951331/graduate-project-102pj/blob/master/docs/latex123.pdf) (PDF)
+* [大家來學 LaTeX](https://github.com/49951331/graduate-project-102pj/blob/master/docs/latex123.pdf) (PDF). CC BY-SA
 * [一份不太简短的 LaTeX2ε 介绍](http://ctan.org/pkg/lshort-zh-cn)
 
 
@@ -671,10 +671,10 @@
 
 ### R
 
-* [153分钟学会 R](http://cran.r-project.org/doc/contrib/Liu-FAQ.pdf) (PDF)
-* [统计学与 R 读书笔记](http://cran.r-project.org/doc/contrib/Xu-Statistics_and_R.pdf) (PDF)
+* [153分钟学会 R](http://cran.r-project.org/doc/contrib/Liu-FAQ.pdf) (PDF). CC BY-SA
+* [统计学与 R 读书笔记](http://cran.r-project.org/doc/contrib/Xu-Statistics_and_R.pdf) (PDF). CC BY-SA
 * [用 R 构建 Shiny 应用程序](https://web.archive.org/web/20200220023703/yanping.me/shiny-tutorial/) (《Building 'Shiny' Applications with R》中文版) *(:card_file_box: archived)*
-* [R 导论](http://cran.r-project.org/doc/contrib/Ding-R-intro_cn.pdf) (《An Introduction to R》中文版) (PDF)
+* [R 导论](http://cran.r-project.org/doc/contrib/Ding-R-intro_cn.pdf) (《An Introduction to R》中文版) (PDF). CC BY-SA
 
 
 ### reStructuredText

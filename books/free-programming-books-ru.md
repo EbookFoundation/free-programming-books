@@ -77,17 +77,17 @@
 
 ### 0 - Language Agnostic
 
-* [Введение в методы машинной обработки данных](https://mkurnosov.net/docs/dsa-book-2020.pdf) - Курносов М.Г. (PDF)
-* [Операционные системы](https://vseloved.github.io/pdf/os-ru.pdf) - Всеволод Дёмкин (PDF)
+* [Введение в методы машинной обработки данных](https://mkurnosov.net/docs/dsa-book-2020.pdf) - Курносов М.Г. (PDF). CC BY-SA
+* [Операционные системы](https://vseloved.github.io/pdf/os-ru.pdf) - Всеволод Дёмкин (PDF). CC BY-SA
 * [Параллельные технологии](http://www.inp.nsk.su/~baldin/Parallel/index.html)
-* [Программирование: введение в профессию](http://stolyarov.info/books/programming_intro) - Столяров Андрей Викторович (PDF)
+* [Программирование: введение в профессию](http://stolyarov.info/books/programming_intro) - Столяров Андрей Викторович (PDF). CC BY-SA
 * [Руководство по HTTP](http://proselyte.net/tutorials/http-tutorial) - Евгений Сулейманов
 * [Руководство по SOAP](http://proselyte.net/tutorials/soap-tutorial) - Евгений Сулейманов
-* [Структура и интерпретация компьютерных программ](http://newstar.rinet.ru/~goga/sicp/sicp-ru-screen.pdf) - Гарольд Абельсон, Джералд Джей Сассман (PDF)
-* [Тестирование программного обеспечения. Базовый курс.](http://svyatoslav.biz/software_testing_book/) - Святослав Куликов (PDF)
+* [Структура и интерпретация компьютерных программ](http://newstar.rinet.ru/~goga/sicp/sicp-ru-screen.pdf) - Гарольд Абельсон, Джералд Джей Сассман (PDF). CC BY-SA
+* [Тестирование программного обеспечения. Базовый курс.](http://svyatoslav.biz/software_testing_book/) - Святослав Куликов (PDF). CC BY-SA
 * [Эффективные алгоритмы и сложность вычислений](http://discopal.ispras.ru/Ru.book-advanced-algorithms.htm) - Кузюрин Н.Н., Фомин С.А.
-* [E-maxx.ru: Сборник алгоритмов с примерами на C++](http://e-maxx.ru/upload/e-maxx_algo.pdf) (PDF)
-* [Scrum и XP: заметки с передовой](http://scrum.org.ua/wp-content/uploads/2008/12/scrum_xp-from-the-trenches-rus-final.pdf) (PDF)
+* [E-maxx.ru: Сборник алгоритмов с примерами на C++](http://e-maxx.ru/upload/e-maxx_algo.pdf) (PDF). CC BY-SA
+* [Scrum и XP: заметки с передовой](http://scrum.org.ua/wp-content/uploads/2008/12/scrum_xp-from-the-trenches-rus-final.pdf) (PDF). CC BY-SA
 
 
 #### Архитектура приложений
@@ -111,7 +111,7 @@
 #### Работа с сетью
 
 * [Наука о Сетях](http://networksciencebook.com) - Альберто Лазло-Барабаси *(:construction: в процессе написания)*
-* [Разъяснение HTTP2](https://github.com/vlet/http2-explained/blob/master/http2.ru.pdf?raw=true) - Даниэль Штенберг (PDF)
+* [Разъяснение HTTP2](https://github.com/vlet/http2-explained/blob/master/http2.ru.pdf?raw=true) - Даниэль Штенберг (PDF). CC BY-SA
 * [IPv6 для знатоков IPv4](https://sites.google.com/site/yartikhiy/home/ipv6book) - Ярослав Тихий (PDF, HTML, EPUB)
 
 
@@ -128,14 +128,14 @@
 #### IDE and editors
 
 * [Поваренная Книга Vim](http://www.opennet.ru/docs/RUS/vim_cookbook) - Steve Oualline
-* [Просто о Vim](http://rus-linux.net/MyLDP/BOOKS/Vim/prosto-o-vim.pdf) - Swaroop (PDF)
+* [Просто о Vim](http://rus-linux.net/MyLDP/BOOKS/Vim/prosto-o-vim.pdf) - Swaroop (PDF). CC BY-SA
 
 
 ### Assembly
 
 * [Ассемблер в Linux для программистов C](https://ru.wikibooks.org/wiki/Ассемблер_в_Linux_для_программистов_C) - Викиучебник
 * [Ассемблер для чайников](http://av-assembler.ru/asm/afd/assembler-for-dummy.htm)
-* [Программирование на языке ассемблера NASM для ОС Unix](http://www.stolyarov.info/books/pdf/nasm_unix.pdf) - Андрей Столяров (PDF)
+* [Программирование на языке ассемблера NASM для ОС Unix](http://www.stolyarov.info/books/pdf/nasm_unix.pdf) - Андрей Столяров (PDF). CC BY-SA
 
 
 ### Bash
@@ -145,12 +145,12 @@
 
 ### C
 
-* [Заметки о языке программирования Си/Си++](https://yurichev.com/writings/C-notes-ru.pdf) - Денис Юричев (PDF)
+* [Заметки о языке программирования Си/Си++](https://yurichev.com/writings/C-notes-ru.pdf) - Денис Юричев (PDF). CC BY-SA
 * [Краткое руководство Beej к GDB](https://paintingvalley.com/ru-bggdb) - Brian "Beej Jorgensen" Hall (HTML)
-* [Особенности языка C. Учебное пособие](https://younglinux.info/c) - C. Шапошникова (PDF)
-* [Разработка сетевых приложений](http://zed.karelia.ru/mmedia/docs/nets.pdf) (PDF)
+* [Особенности языка C. Учебное пособие](https://younglinux.info/c) - C. Шапошникова (PDF). CC BY-SA
+* [Разработка сетевых приложений](http://zed.karelia.ru/mmedia/docs/nets.pdf) (PDF). CC BY-SA
 * [Руководство по языку программирования C](https://metanit.com/cpp/c) - Евгений Попов
-* [Сетевое программирование от Биджа - Использование Интернет Сокетов](http://beej.us/guide/bgnet/translations/bgnet_A4_rus.pdf) - Brian "Beej Jorgensen" Hall, Перевод Андрея Косенко (PDF)
+* [Сетевое программирование от Биджа - Использование Интернет Сокетов](http://beej.us/guide/bgnet/translations/bgnet_A4_rus.pdf) - Brian "Beej Jorgensen" Hall, Перевод Андрея Косенко (PDF). CC BY-SA
 * [Си/Си++. От дилетанта до профессионала](http://ermak.cs.nstu.ru/cprog/html) - Романов Е.Л.
 * [Язык Си в примерах](https://ru.wikibooks.org/wiki/Язык_Си_в_примерах) - Викиучебник
 
@@ -160,13 +160,13 @@
 * [Паттерны проектирования в C# и .NET](https://metanit.com/sharp/patterns) - Евгений Попов
 * [Полное руководство по языку программирования С# 7.0 и платформе .NET 4.7](https://metanit.com/sharp/tutorial) - Евгений Попов
 * [Сетевое программирование в С# и .NET](https://metanit.com/sharp/net) - Евгений Попов
-* [Design Patterns via C#](http://itvdn.com/ru/patterns) - Александр Шевчук, Дмитрий Охрименко, Андрей Касьянов (PDF) *(Требуется аккаунт)*
+* [Design Patterns via C#](http://itvdn.com/ru/patterns) - Александр Шевчук, Дмитрий Охрименко, Андрей Касьянов (PDF). CC BY-SA *(Требуется аккаунт)*
 
 
 ### <a id="cpp"></a>C++
 
 * [Введение в язык программирования С++](http://lib.ru/CPPHB/cpptut.txt_with-big-pictures.html) - Бьерн Страуструп
-* [Введение в язык Си++](http://stolyarov.info/books/cppintro) - Андрей Столяров (PDF)
+* [Введение в язык Си++](http://stolyarov.info/books/cppintro) - Андрей Столяров (PDF). CC BY-SA
 * [Вводный курс по объектно-ориентированному программированию на языке Си++](http://ru.wikibooks.org/wiki/Си-плюс-плюс) - Викиучебник
 * [Руководство по языку программирования C++](https://metanit.com/cpp/tutorial) - Евгений Попов
 * [Справочное руководство по C++](http://lib.ru/CPPHB/cppref.txt_with-big-pictures.html) - Бьерн Страуструп
@@ -368,7 +368,7 @@
 
 ### LaTeX
 
-* [LaTeX за три дня](http://www.stolyarov.info/books/pdf/latex3days.pdf) - Андрей Столяров (PDF)
+* [LaTeX за три дня](http://www.stolyarov.info/books/pdf/latex3days.pdf) - Андрей Столяров (PDF). CC BY-SA
 * [LaTeX, GNU/Linux и русский стиль (сборник статей)](http://www.inp.nsk.su/~baldin/LaTeX/index.html)
 
 
@@ -395,14 +395,14 @@
 
 ### NoSQL
 
-* [Маленькая книга о MongoDB](http://www.pvsm.ru/download/mongodb-ru.pdf) - Карл Сегуин (PDF)
+* [Маленькая книга о MongoDB](http://www.pvsm.ru/download/mongodb-ru.pdf) - Карл Сегуин (PDF). CC BY-SA
 * [Маленькая книга о Redis](https://github.com/kondratovich/the-little-redis-book/blob/master/ru/redis.md) - Карл Сегуин
 * [Руководство по MongoDB](http://proselyte.net/tutorials/mongodb) - Евгений Сулейманов
 
 
 ### Objective-C
 
-* [Хрестоматия iOS паттернов](https://maleevdimka.files.wordpress.com/2013/04/ios-patterns-cliff-notes2.pdf) (PDF)
+* [Хрестоматия iOS паттернов](https://maleevdimka.files.wordpress.com/2013/04/ios-patterns-cliff-notes2.pdf) (PDF). CC BY-SA
 * [Цикл статей разработки под Apple iOS](http://habrahabr.ru/post/149090/)
 * [Become an XCoder](https://yadi.sk/d/ugz7jW4RXLGTN)
 
@@ -455,10 +455,10 @@
 ### Python
 
 * [Вглубь языка Python](https://web.archive.org/web/20170630204729/ru.diveintopython.net/toc.html) *(:card_file_box: archived)*
-* [Основы программирования на Python](http://dfedorov.spb.ru/python3) - Дмитрий Фёдоров (PDF)
+* [Основы программирования на Python](http://dfedorov.spb.ru/python3) - Дмитрий Фёдоров (PDF). CC BY-SA
 * [Пишем Telegram-ботов на Python (v2)](https://mastergroosha.github.io/telegram-tutorial-2/) - MasterGroosha
 * [Руководство по языку программирования Python](https://metanit.com/python/tutorial) - Евгений Попов
-* [Самоучитель Python](https://pythonworld.ru/samouchitel-python) (PDF)
+* [Самоучитель Python](https://pythonworld.ru/samouchitel-python) (PDF). CC BY-SA
 * [Укус Питона](http://wombat.org.ua/AByteOfPython) - Swaroop C H
 * [Учебник Python 2.6](https://ru.wikibooks.org/wiki/Учебник_Python_2.6) - Викиучебник
 * [Problem Solving with Algorithms and Data Structures](https://aliev.github.io/runestone)
@@ -493,8 +493,8 @@
 ### R
 
 * [Анализ данных с R](http://www.inp.nsk.su/~baldin/DataAnalysis/index.html)
-* [Наглядная статистика. Используем R!](https://cran.r-project.org/doc/contrib/Shipunov-rbook.pdf) (PDF)
-* [Рандомизация и бутстреп: статистический анализ в биологии и экологии с использованием R.](http://www.ievbras.ru/ecostat/Kiril/Article/A32/Starb.pdf) (PDF)
+* [Наглядная статистика. Используем R!](https://cran.r-project.org/doc/contrib/Shipunov-rbook.pdf) (PDF). CC BY-SA
+* [Рандомизация и бутстреп: статистический анализ в биологии и экологии с использованием R.](http://www.ievbras.ru/ecostat/Kiril/Article/A32/Starb.pdf) (PDF). CC BY-SA
 
 
 ### Ruby
@@ -541,7 +541,7 @@
 
 ### Scratch
 
-* [Креативное программирование](https://www.dropbox.com/s/qsthpk5r6gqmi6u/CreativeComputing_RUS_june2016.pdf?dl=0) (PDF)
+* [Креативное программирование](https://www.dropbox.com/s/qsthpk5r6gqmi6u/CreativeComputing_RUS_june2016.pdf?dl=0) (PDF). CC BY-SA
 
 
 ### Smalltalk
@@ -551,27 +551,27 @@
 
 ### SQL
 
-* [Работа с MySQL, MS SQL Server и Oracle в примерах](http://svyatoslav.biz/database_book/) - Святослав Куликов (PDF)
+* [Работа с MySQL, MS SQL Server и Oracle в примерах](http://svyatoslav.biz/database_book/) - Святослав Куликов (PDF). CC BY-SA
 * [Руководство по MS SQL Server 2017](https://metanit.com/sql/sqlserver) - Евгений Попов
 * [Руководство по SQL](http://proselyte.net/tutorials/sql) - Евгений Сулейманов
-* [Язык SQL. Базовый курс](https://postgrespro.ru/education/books/sqlprimer) (PDF)
+* [Язык SQL. Базовый курс](https://postgrespro.ru/education/books/sqlprimer) (PDF). CC BY-SA
 
 
 #### FirebirdSQL
 
-* [Краткое руководство по миграции на Firebird 4.0](https://github.com/sim1984/fbmigrgd40/releases/download/1.0/doc.rus.pdf) - Denis Simonov (PDF)
-* [Руководство по аппаратному обеспечению для Firebird](http://www.ibase.ru/files/firebird/Firebird_Hardware_Guide_2015_rus.pdf) - IBSurgeon (PDF)
+* [Краткое руководство по миграции на Firebird 4.0](https://github.com/sim1984/fbmigrgd40/releases/download/1.0/doc.rus.pdf) - Denis Simonov (PDF). CC BY-SA
+* [Руководство по аппаратному обеспечению для Firebird](http://www.ibase.ru/files/firebird/Firebird_Hardware_Guide_2015_rus.pdf) - IBSurgeon (PDF). CC BY-SA
 * [Руководство по написанию UDR на Pascal](https://github.com/sim1984/udr-book) - Denis Simonov ([PDF](https://github.com/sim1984/udr-book/releases/download/1/udr.pdf), [:package: code examples](https://github.com/sim1984/udr-book/tree/master/examples))
-* [Руководство по языку Firebird 3.0](http://www.ibase.ru/files/firebird/Firebird_3_0_Language_Reference_RUS.pdf) - Denis Simonov, Paul Vinkenug, Dmitry Filippov, Dmitry Emanov, Alexander Karpeikin, Dmitry Kuzmenko, Alexey Kovyazin (PDF)
-* [Руководство по языку Firebird 4.0](http://www.ibase.ru/files/firebird/Firebird_4_0_Language_Reference_RUS.pdf) - Dmitry Filippov, Alexander Karpeikin, Alexey Kovyazin, Dmitry Kuzmenko, Denis Simonov, Paul Vinkenoog, Dmitry Emanov, Mark Rotteveel (PDF)
+* [Руководство по языку Firebird 3.0](http://www.ibase.ru/files/firebird/Firebird_3_0_Language_Reference_RUS.pdf) - Denis Simonov, Paul Vinkenug, Dmitry Filippov, Dmitry Emanov, Alexander Karpeikin, Dmitry Kuzmenko, Alexey Kovyazin (PDF). CC BY-SA
+* [Руководство по языку Firebird 4.0](http://www.ibase.ru/files/firebird/Firebird_4_0_Language_Reference_RUS.pdf) - Dmitry Filippov, Alexander Karpeikin, Alexey Kovyazin, Dmitry Kuzmenko, Denis Simonov, Paul Vinkenoog, Dmitry Emanov, Mark Rotteveel (PDF). CC BY-SA
 
 
 #### PostgreSQL
 
-* [Документация](https://postgrespro.ru/docs/postgresql) (PDF)
+* [Документация](https://postgrespro.ru/docs/postgresql) (PDF). CC BY-SA
 * [История о PostgreSQL](http://www.inp.nsk.su/~baldin/PostgreSQL/index.html) - Linux Format
 * [Работа с PostgreSQL - настройка и масштабирование](http://postgresql.leopard.in.ua) - А. Ю. Васильев
-* [PostgreSQL для начинающих](https://postgrespro.ru/education/books/introbook) - Luzanov Pavel Veniaminovich, Rogov Yegor Valerievich, Levshin Igor Viktorovich (PDF)
+* [PostgreSQL для начинающих](https://postgrespro.ru/education/books/introbook) - Luzanov Pavel Veniaminovich, Rogov Yegor Valerievich, Levshin Igor Viktorovich (PDF). CC BY-SA
 
 
 ### Swift

@@ -55,13 +55,13 @@
 
 ### Android
 
-* [Einführung in die Entwicklung von Apps für Android 8](https://www.uni-trier.de/fileadmin/urt/doku/android/android.pdf) - Bernhard Baltes-Götz (PDF)
+* [Einführung in die Entwicklung von Apps für Android 8](https://www.uni-trier.de/fileadmin/urt/doku/android/android.pdf) - Bernhard Baltes-Götz (PDF). CC BY-SA
 
 
 ### Assembly Language
 
 * [PC Assembly Language](http://drpaulcarter.com/pcasm) - Paul A. Carter
-* [Reverse Engineering für Einsteiger](https://beginners.re/RE4B-DE.pdf) - Dennis Yurichev, Dennis Siekmeier, Julius Angres, Dirk Loser, Clemens Tamme, Philipp Schweinzer (PDF)
+* [Reverse Engineering für Einsteiger](https://beginners.re/RE4B-DE.pdf) - Dennis Yurichev, Dennis Siekmeier, Julius Angres, Dirk Loser, Clemens Tamme, Philipp Schweinzer (PDF). CC BY-SA
 
 
 ### C
@@ -69,12 +69,12 @@
 * [C-HowTo: Programmieren lernen mit der Programmiersprache C](https://www.c-howto.de) - Elias Fischer (HTML)
 * [C-Programmierung](https://de.wikibooks.org/wiki/C-Programmierung) - Wikibooks (HTML)
 * [C von A bis Z](http://openbook.rheinwerk-verlag.de/c_von_a_bis_z) - Jürgen Wolf (Online)
-* [Softwareentwicklung in C](https://web.archive.org/web/20190214185910/http://www.asc.tuwien.ac.at/~eprog/download/schmaranz.pdf) - Klaus Schmaranz (PDF)
+* [Softwareentwicklung in C](https://web.archive.org/web/20190214185910/http://www.asc.tuwien.ac.at/~eprog/download/schmaranz.pdf) - Klaus Schmaranz (PDF). CC BY-SA
 
 
 ### <a id="csharp"></a>C\#
 
-* [Einführung in das Programmieren mit C#](https://www.uni-trier.de/universitaet/wichtige-anlaufstellen/zimk/downloads-broschueren/programmierung/c) - Bernhard Baltes-Götz (PDF)
+* [Einführung in das Programmieren mit C#](https://www.uni-trier.de/universitaet/wichtige-anlaufstellen/zimk/downloads-broschueren/programmierung/c) - Bernhard Baltes-Götz (PDF). CC BY-SA
 * [Programmieren in C#: Einführung](http://www.highscore.de/csharp/einfuehrung)
 * [Visual C# 2012](http://openbook.rheinwerk-verlag.de/visual_csharp_2012) - Andreas Kühnel (Online)
 
@@ -82,19 +82,19 @@
 ### <a id="cpp"></a>C++
 
 * [Die Boost C++ Bibliotheken](http://dieboostcppbibliotheken.de) - Boris Schäling (Online)
-* [Lean Testing für C++-Programmierer (2018)](https://www.assets.dpunkt.de/openbooks/Openbook_Lean_Testing.pdf) - Andreas Spillner, Ulrich Breymann (PDF)
+* [Lean Testing für C++-Programmierer (2018)](https://www.assets.dpunkt.de/openbooks/Openbook_Lean_Testing.pdf) - Andreas Spillner, Ulrich Breymann (PDF). CC BY-SA
 * [Programmieren in C++: Aufbau](http://www.highscore.de/cpp/aufbau)
 * [Programmieren in C++: Einführung](http://www.highscore.de/cpp/einfuehrung)
 
 
 ### Component Pascal
 
-* [Module, Klassen, Verträge](http://karlheinz-hug.de/informatik/buch/Karlheinz-Hug_Module-Klassen-Vertraege.pdf) - Karlheinz Hug (PDF)
+* [Module, Klassen, Verträge](http://karlheinz-hug.de/informatik/buch/Karlheinz-Hug_Module-Klassen-Vertraege.pdf) - Karlheinz Hug (PDF). CC BY-SA
 
 
 ### Delphi
 
-* [Delphi-Starter](https://web.archive.org/web/20170714162427/https://downloads.delphi-treff.de/DelphiStarter.pdf) - Florian Hämmerle, Martin Strohal, Christian Rehn, Andreas Hausladen (PDF) *(:card_file_box: archived)*
+* [Delphi-Starter](https://web.archive.org/web/20170714162427/https://downloads.delphi-treff.de/DelphiStarter.pdf) - Florian Hämmerle, Martin Strohal, Christian Rehn, Andreas Hausladen (PDF). CC BY-SA *(:card_file_box: archived)*
 
 
 ### Git
@@ -114,7 +114,7 @@
 
 ### Groovy
 
-* [Groovy für Java-Entwickler](http://examples.oreilly.de/openbooks/pdf_groovyger.pdf) - Jörg Staudemeyer (PDF)
+* [Groovy für Java-Entwickler](http://examples.oreilly.de/openbooks/pdf_groovyger.pdf) - Jörg Staudemeyer (PDF). CC BY-SA
 
 
 ### HTML and CSS
@@ -130,21 +130,21 @@
 
 * [Apps programmieren für iPhone und iPad](http://openbook.rheinwerk-verlag.de/apps_programmieren_fuer_iphone_und_ipad) - Klaus M. Rodewig, Clemens Wagner (Online)
 * [iOS-Rezepte](http://examples.oreilly.de/openbooks/iosrecipesger.zip)
-* [iPad-Programmierung](http://examples.oreilly.de/openbooks/pdf_ipadprogpragger.pdf) - Daniel H. Steinberg, Eric T. Freeman (PDF)
+* [iPad-Programmierung](http://examples.oreilly.de/openbooks/pdf_ipadprogpragger.pdf) - Daniel H. Steinberg, Eric T. Freeman (PDF). CC BY-SA
 
 
 ### Java
 
-* [Einführung in das Programmieren mit Java](https://www.uni-trier.de/universitaet/wichtige-anlaufstellen/zimk/downloads-broschueren/programmierung/java) - Bernhard Baltes-Götz, Johannes Götz (PDF)
+* [Einführung in das Programmieren mit Java](https://www.uni-trier.de/universitaet/wichtige-anlaufstellen/zimk/downloads-broschueren/programmierung/java) - Bernhard Baltes-Götz, Johannes Götz (PDF). CC BY-SA
 * [EJB 3 für Umsteiger: Neuerungen und Änderungen gegenüber dem EJB-2.x-Standard](http://bsd.de/e3fu/umfrage.html) - Heiko W. Rupp
 * [Java 7 Mehr als eine Insel](http://openbook.rheinwerk-verlag.de/java7) - Christian Ullenboom (Online)
 * [Java ist auch eine Insel](http://openbook.rheinwerk-verlag.de/javainsel) - Christian Ullenboom (Online)
 * [Java SE 8 Standard-Bibliothek](http://openbook.rheinwerk-verlag.de/java8) - Christian Ullenboom (Online)
 * [Java Tutorial - Java lernen leicht gemacht](https://java-tutorial.org/index.php) - Björn und Britta Petri
-* [Nebenläufige Programmierung mit Java](https://www.assets.dpunkt.de/openbooks/Hettel_Nebenlaeufige%20Programmierung%20mit%20Java_Broschuere.pdf) - Jörg Hettel und Manh Tien Tran (PDF)
+* [Nebenläufige Programmierung mit Java](https://www.assets.dpunkt.de/openbooks/Hettel_Nebenlaeufige%20Programmierung%20mit%20Java_Broschuere.pdf) - Jörg Hettel und Manh Tien Tran (PDF). CC BY-SA
 * [Programmieren Java: Aufbau](http://www.highscore.de/java/aufbau) - Boris Schäling (HTML)
 * [Programmieren Java: Einführung](http://www.highscore.de/java/einfuehrung) - Boris Schäling (HTML)
-* [Testgetriebene Entwicklung mit JUnit & FIT](http://www.frankwestphal.de/ftp/Westphal_Testgetriebene_Entwicklung.pdf) - Frank Westphal (PDF)
+* [Testgetriebene Entwicklung mit JUnit & FIT](http://www.frankwestphal.de/ftp/Westphal_Testgetriebene_Entwicklung.pdf) - Frank Westphal (PDF). CC BY-SA
 
 
 ### JavaScript
@@ -161,9 +161,9 @@
 
 ### LaTeX
 
-* [LaTeX - eine Einführung und ein bisschen mehr ...](http://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a026_latex_einf.pdf) - Manuela Jürgens, Thomas Feuerstack (PDF)
-* [LaTeX - Forteschrittene Anwendungen (oder: Neues von den Hobbits)](http://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a027_latex_fort.pdf) - Manuela Jürgens (PDF)
-* [LaTeX : Referenz der Umgebungen, Makros, Längen und Zähler](http://www.lehmanns.de/page/latexreferenz) - Herbert Voß (PDF)
+* [LaTeX - eine Einführung und ein bisschen mehr ...](http://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a026_latex_einf.pdf) - Manuela Jürgens, Thomas Feuerstack (PDF). CC BY-SA
+* [LaTeX - Forteschrittene Anwendungen (oder: Neues von den Hobbits)](http://www.fernuni-hagen.de/imperia/md/content/zmi_2010/a027_latex_fort.pdf) - Manuela Jürgens (PDF). CC BY-SA
+* [LaTeX : Referenz der Umgebungen, Makros, Längen und Zähler](http://www.lehmanns.de/page/latexreferenz) - Herbert Voß (PDF). CC BY-SA
 
 
 ### Linux
@@ -184,14 +184,14 @@
 
 ### Neo4j
 
-* [Neo4j 2.0 – Eine Graphdatenbank für alle](https://neo4j.com/neo4j-graphdatenbank-book) - Michael Hunger (PDF) *(email requested)*
+* [Neo4j 2.0 – Eine Graphdatenbank für alle](https://neo4j.com/neo4j-graphdatenbank-book) - Michael Hunger (PDF). CC BY-SA *(email requested)*
 
 
 ### PHP
 
 * [PHP](http://www.peterkropff.de/site/php/php.htm) - Peter Kropff (Grundlagen, OOP, MySQLi, PDO) [Online, PDF]
 * [PHP PEAR](http://openbook.rheinwerk-verlag.de/php_pear) - Carsten Möhrke (Online)
-* [Praktischer Einstieg in MySQL mit PHP](http://examples.oreilly.de/openbooks/pdf_einmysql2ger.pdf) - Sascha Kersken (PDF)
+* [Praktischer Einstieg in MySQL mit PHP](http://examples.oreilly.de/openbooks/pdf_einmysql2ger.pdf) - Sascha Kersken (PDF). CC BY-SA
 
 
 #### Joomla
@@ -206,7 +206,7 @@
 
 ### Python
 
-* [A Byte of Python - Einführung in Python](https://sourceforge.net/projects/abop-german.berlios/files) - Swaroop C H, Bernd Hengelein, Lutz Horn, Bernhard Krieger, Christoph Zwerschke (PDF)
+* [A Byte of Python - Einführung in Python](https://sourceforge.net/projects/abop-german.berlios/files) - Swaroop C H, Bernd Hengelein, Lutz Horn, Bernhard Krieger, Christoph Zwerschke (PDF). CC BY-SA
 * [Programmiereinführung mit Python](http://opentechschool.github.io/python-beginners/de) (Online)
 * [PyQt und PySide: GUI und Anwendungsentwicklung mit Python und Qt](https://github.com/pbouda/pyqt-und-pyside-buch) - Peter Bouda, Michael Palmer, Dr. Markus Wirz (TeX, [PDF](https://github.com/pbouda/pyqt-und-pyside-buch/releases/latest)) *(:construction: in Bearbeitung)*
 * [Python 3 - Das umfassende Handbuch](http://openbook.rheinwerk-verlag.de/python) - Johannes Ernesti, Peter Kaiser (Online)
@@ -224,9 +224,9 @@
 
 ### Ruby on Rails
 
-* [Praxiswissen Ruby](https://web.archive.org/web/20160328183933/https://oreilly.de/german/freebooks/rubybasger/pdf_rubybasger.pdf) - Sascha Kersken (PDF) *(:card_file_box: archived)*
-* [Praxiswissen Ruby On Rails](http://examples.oreilly.de/openbooks/pdf_rubyonrailsbasger.pdf) - Denny Carl (PDF)
-* [Rails Kochbuch](http://examples.oreilly.de/openbooks/pdf_railsckbkger.pdf) - Rob Orsini (PDF)
+* [Praxiswissen Ruby](https://web.archive.org/web/20160328183933/https://oreilly.de/german/freebooks/rubybasger/pdf_rubybasger.pdf) - Sascha Kersken (PDF). CC BY-SA *(:card_file_box: archived)*
+* [Praxiswissen Ruby On Rails](http://examples.oreilly.de/openbooks/pdf_rubyonrailsbasger.pdf) - Denny Carl (PDF). CC BY-SA
+* [Rails Kochbuch](http://examples.oreilly.de/openbooks/pdf_railsckbkger.pdf) - Rob Orsini (PDF). CC BY-SA
 * [Ruby on Rails 2](http://openbook.rheinwerk-verlag.de/ruby_on_rails/) - Hussein Morsy, Tanja Otto (Online)
 * [Ruby on Rails 3.2 für Ein-, Um- und Quereinsteiger](http://ruby-auf-schienen.de/3.2/) (Online)
 
@@ -238,12 +238,12 @@
 
 ### Sage
 
-* [Rechnen mit SageMath](https://www.loria.fr/~zimmerma/sagebook/CalculDeutsch.pdf) - Paul Zimmermann, et al. (PDF)
+* [Rechnen mit SageMath](https://www.loria.fr/~zimmerma/sagebook/CalculDeutsch.pdf) - Paul Zimmermann, et al. (PDF). CC BY-SA
 
 
 ### Scilab
 
-* [Einführung in Scilab/Xcos 5.4](https://web.archive.org/web/20161204131517/http://buech-gifhorn.de/scilab/Einfuehrung.pdf) - Helmut Büch (PDF)
+* [Einführung in Scilab/Xcos 5.4](https://web.archive.org/web/20161204131517/http://buech-gifhorn.de/scilab/Einfuehrung.pdf) - Helmut Büch (PDF). CC BY-SA
 
 
 ### Scratch
@@ -266,7 +266,7 @@
 * [Clean Code Developer: Eine Initiative für mehr Professionalität in der Softwareentwicklung](http://clean-code-developer.de) (Online)
 * [IT-Handbuch für Fachinformatiker](http://openbook.rheinwerk-verlag.de/it_handbuch) - Sascha Kersken (Online)
 * [Objektorientierte Programmierung](http://openbook.rheinwerk-verlag.de/oop) - Bernhard Lahres, Gregor Rayman (Online)
-* [Scrum und XP im harten Projektalltag](https://res.infoq.com/news/2007/06/scrum-xp-book/en/resources/ScrumAndXpFromTheTrenchesonline_German.pdf) - Henrik Kniberg (PDF)
+* [Scrum und XP im harten Projektalltag](https://res.infoq.com/news/2007/06/scrum-xp-book/en/resources/ScrumAndXpFromTheTrenchesonline_German.pdf) - Henrik Kniberg (PDF). CC BY-SA
 
 
 ### Unix

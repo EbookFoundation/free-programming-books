@@ -26,7 +26,7 @@
 
 ### MySQL
 
-* [MySQL](http://profs.info.uaic.ro/~busaco/teach/courses/net/docs/mysql-ro.pdf) (PDF)
+* [MySQL](http://profs.info.uaic.ro/~busaco/teach/courses/net/docs/mysql-ro.pdf) (PDF). CC BY-SA
 
 
 ### PHP

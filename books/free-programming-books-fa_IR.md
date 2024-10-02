@@ -16,7 +16,7 @@
 
 ### رایانش ابری
 
-* [رایانش ابری](http://docs.occc.ir/books/Main%20Book-20110110_2.pdf) (PDF)
+* [رایانش ابری](http://docs.occc.ir/books/Main%20Book-20110110_2.pdf) (PDF). CC BY-SA
 
 
 ### شبکه
@@ -57,7 +57,7 @@
 
 ### Linux
 
-* [تائوی برنامه نویسان](https://aidinhut.com/fa/books/the_tao_of_programming.pdf) (PDF)
+* [تائوی برنامه نویسان](https://aidinhut.com/fa/books/the_tao_of_programming.pdf) (PDF). CC BY-SA
 * [فقط برای تفریح؛ داستان یک انقلابی اتفاقی](https://linuxstory.ir)
 * [لینوکس و زندگی؛‌ درس‌هایی برای گیک های جوان](https://linuxbook.ir)
 
@@ -84,6 +84,6 @@
 
 ### R
 
-* [تحلیل شبکه‌های اجتماعی در R](http://cran.r-project.org/doc/contrib/Raeesi-SNA_in_R_in_Farsi.pdf) (PDF)
-* [راهنمای زبان R](http://cran.r-project.org/doc/contrib/Mousavi-R-lang_in_Farsi.pdf) (PDF)
-* [مباحث ویژه در R](http://cran.r-project.org/doc/contrib/Mousavi-R_topics_in_Farsi.pdf) (PDF)
+* [تحلیل شبکه‌های اجتماعی در R](http://cran.r-project.org/doc/contrib/Raeesi-SNA_in_R_in_Farsi.pdf) (PDF). CC BY-SA
+* [راهنمای زبان R](http://cran.r-project.org/doc/contrib/Mousavi-R-lang_in_Farsi.pdf) (PDF). CC BY-SA
+* [مباحث ویژه در R](http://cran.r-project.org/doc/contrib/Mousavi-R_topics_in_Farsi.pdf) (PDF). CC BY-SA

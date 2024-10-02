@@ -19,18 +19,18 @@
 
 ### 0 - Programozási nyelv független
 
-* [A hitelesítés-szolgáltatókkal szembeni bizalom erősítése](http://mek.oszk.hu/03900/03943/index.phtml) - Várnai Róbert (PDF)
+* [A hitelesítés-szolgáltatókkal szembeni bizalom erősítése](http://mek.oszk.hu/03900/03943/index.phtml) - Várnai Róbert (PDF). CC BY-SA
 * [Adatmodellezés](http://mek.oszk.hu/11100/11144/index.phtml) - Halassy Béla (Word, PDF)
 * [Az adatbázistervezés alapjai és titkai](http://mek.oszk.hu/11100/11123/index.phtml) - Halassy Béla (Word, PDF)
 * [Ember, információ, rendszer](http://mek.oszk.hu/11100/11122/index.phtml) - Halassy Béla (Word, PDF)
-* [Formális nyelvek](http://mek.oszk.hu/05000/05099/index.phtml) - Bach Iván (PDF)
-* [Mese a felhasználó központú tervezőről](http://mek.oszk.hu/11700/11748/index.phtml) - David Travis, `trl.:` Favorit Fordító Iroda (PDF)
+* [Formális nyelvek](http://mek.oszk.hu/05000/05099/index.phtml) - Bach Iván (PDF). CC BY-SA
+* [Mese a felhasználó központú tervezőről](http://mek.oszk.hu/11700/11748/index.phtml) - David Travis, `trl.:` Favorit Fordító Iroda (PDF). CC BY-SA
 * [Prognyelvek portál](http://nyelvek.inf.elte.hu/index.php) - Felelős oktató: Nyékyné Gaizler Judit (HTML)
 
 
 ### Ada
 
-* [Az Ada programozási nyelv](http://mek.oszk.hu/01200/01256/index.phtml) - Kozics Sándor (PDF)
+* [Az Ada programozási nyelv](http://mek.oszk.hu/01200/01256/index.phtml) - Kozics Sándor (PDF). CC BY-SA
 
 
 ### Arduino
@@ -45,71 +45,71 @@
 
 ### <a id="cpp"></a>C++
 
-* [Fejlett programozási technikák](http://www.ms.sapientia.ro/~manyi/teaching/c++/cpp.pdf) - Antal Margit (PDF)
+* [Fejlett programozási technikák](http://www.ms.sapientia.ro/~manyi/teaching/c++/cpp.pdf) - Antal Margit (PDF). CC BY-SA
 
 
 ### HTML and CSS
 
 * [CSS alapjai](http://weblabor.hu/cikkek/cssalapjai1) - Bártházi András (HTML)
-* [Webes szabványok](http://nagygusztav.hu/webes-szabvanyok) - Chris Mills, Ben Buchanan, Tom Hughes-Croucher, Mark Norman "Norm" Francis, Linda Goin, Paul Haine, Jen Hanen, Benjamin Hawkes-Lewis, Ben Henick, Christian Heilmann, Roger Johansson, Peter-Paul Koch, Jonathan Lane, Tommy Olsson, Nicole Sullivan, Mike West, `trl.:` Nagy Gusztáv (PDF)
+* [Webes szabványok](http://nagygusztav.hu/webes-szabvanyok) - Chris Mills, Ben Buchanan, Tom Hughes-Croucher, Mark Norman "Norm" Francis, Linda Goin, Paul Haine, Jen Hanen, Benjamin Hawkes-Lewis, Ben Henick, Christian Heilmann, Roger Johansson, Peter-Paul Koch, Jonathan Lane, Tommy Olsson, Nicole Sullivan, Mike West, `trl.:` Nagy Gusztáv (PDF). CC BY-SA
 
 
 ### Java
 
-* [CORBA-alapú elosztott alkalmazások](http://mek.oszk.hu/01400/01404/index.phtml) - Csizmazia Balázs (PDF)
-* [Fantasztikus programozás](http://mek.oszk.hu/00800/00889/index.phtml) - Bátfai Mária Erika, Bátfai Norbert (PDF)
-* [Hálózati alkalmazások Java nyelven](http://mek.oszk.hu/01300/01304/index.phtml) - Csizmazia Anikó, Csizmazia Balázs (PDF)
+* [CORBA-alapú elosztott alkalmazások](http://mek.oszk.hu/01400/01404/index.phtml) - Csizmazia Balázs (PDF). CC BY-SA
+* [Fantasztikus programozás](http://mek.oszk.hu/00800/00889/index.phtml) - Bátfai Mária Erika, Bátfai Norbert (PDF). CC BY-SA
+* [Hálózati alkalmazások Java nyelven](http://mek.oszk.hu/01300/01304/index.phtml) - Csizmazia Anikó, Csizmazia Balázs (PDF). CC BY-SA
 * [Hálózati alkalmazások készítése: CORBA, Java, WWW](http://mek.oszk.hu/01700/01750/index.phtml) - Csizmazia Balázs (PS)
-* [Java alapú webtechnológiák](http://www.ms.sapientia.ro/~manyi/index_java_techn.html) - Antal Margit (PDF)
-* [Java programozás](http://nagygusztav.hu/java-programozas) - Nagy Gusztáv (PDF)
-* [Objektumorientált programozás](http://www.ms.sapientia.ro/~manyi/teaching/oop/oop.pdf) - Antal Margit (PDF)
-* [Programozás III.](http://www.sze.hu/~varjasin/oktat.html) - Varjasi Norbert (PDF)
-* [RMI](http://mek.oszk.hu/01200/01263/index.phtml) - Dékány Dániel (PDF)
+* [Java alapú webtechnológiák](http://www.ms.sapientia.ro/~manyi/index_java_techn.html) - Antal Margit (PDF). CC BY-SA
+* [Java programozás](http://nagygusztav.hu/java-programozas) - Nagy Gusztáv (PDF). CC BY-SA
+* [Objektumorientált programozás](http://www.ms.sapientia.ro/~manyi/teaching/oop/oop.pdf) - Antal Margit (PDF). CC BY-SA
+* [Programozás III.](http://www.sze.hu/~varjasin/oktat.html) - Varjasi Norbert (PDF). CC BY-SA
+* [RMI](http://mek.oszk.hu/01200/01263/index.phtml) - Dékány Dániel (PDF). CC BY-SA
 
 
 ### Lego Mindstorms
 
-* [A MINDSTORMS EV3 robotok programozásának alapjai](https://hdidakt.hu/wp-content/uploads/2016/01/dw_74.pdf) - Kiss Róbert (PDF)
-* [Egyszerű robotika, A Mindstorms NXT robotok programozásának alapjai](https://web.archive.org/web/20160607074029/http://www.banyai-kkt.sulinet.hu/robotika/Segedanyag/Egyszeru_robotika.pdf) - Kiss Róbert, Badó Zsolt (PDF) *(:card_file_box: archived)*
+* [A MINDSTORMS EV3 robotok programozásának alapjai](https://hdidakt.hu/wp-content/uploads/2016/01/dw_74.pdf) - Kiss Róbert (PDF). CC BY-SA
+* [Egyszerű robotika, A Mindstorms NXT robotok programozásának alapjai](https://web.archive.org/web/20160607074029/http://www.banyai-kkt.sulinet.hu/robotika/Segedanyag/Egyszeru_robotika.pdf) - Kiss Róbert, Badó Zsolt (PDF). CC BY-SA *(:card_file_box: archived)*
 
 
 ### Lisp
 
-* [A LISP programozási nyelv](http://mek.oszk.hu/07200/07258/index.phtml) - Zimányi Magdolna, Kálmán László, Fadgyas Tibor (PDF)
+* [A LISP programozási nyelv](http://mek.oszk.hu/07200/07258/index.phtml) - Zimányi Magdolna, Kálmán László, Fadgyas Tibor (PDF). CC BY-SA
 
 
 ### Linux
 
-* [A GNU/Linux programozása grafikus felületen](http://mek.oszk.hu/05500/05528/index.phtml) - Pere László (PDF)
-* [GNU/Linux segédprogramok használata](http://mek.oszk.hu/08700/08742/index.phtml) - Terék Zsolt (PDF)
+* [A GNU/Linux programozása grafikus felületen](http://mek.oszk.hu/05500/05528/index.phtml) - Pere László (PDF). CC BY-SA
+* [GNU/Linux segédprogramok használata](http://mek.oszk.hu/08700/08742/index.phtml) - Terék Zsolt (PDF). CC BY-SA
 
 
 ### .NET
 
-* [C#](http://mek.oszk.hu/10300/10384/index.phtml) - Reiter István (PDF)
-* [C# programozás lépésről lépésre](https://reiteristvan.files.wordpress.com/2018/01/reiter-istvc3a1n-c-programozc3a1s-lc3a9pc3a9src591l-lc3a9pc3a9sre.pdf) - Reiter István (PDF)
-* [Honlapépítés a XXI. században](http://mek.oszk.hu/10300/10392/index.phtml) - A WebMatrix csapat, Balássy György (PDF)
-* [Silverlight 4](http://mek.oszk.hu/10300/10382/index.phtml) - Árvai Zoltán, Csala Péter, Fár Attila Gergő, Kopacz Botond, Reiter István, Tóth László (PDF)
+* [C#](http://mek.oszk.hu/10300/10384/index.phtml) - Reiter István (PDF). CC BY-SA
+* [C# programozás lépésről lépésre](https://reiteristvan.files.wordpress.com/2018/01/reiter-istvc3a1n-c-programozc3a1s-lc3a9pc3a9src591l-lc3a9pc3a9sre.pdf) - Reiter István (PDF). CC BY-SA
+* [Honlapépítés a XXI. században](http://mek.oszk.hu/10300/10392/index.phtml) - A WebMatrix csapat, Balássy György (PDF). CC BY-SA
+* [Silverlight 4](http://mek.oszk.hu/10300/10382/index.phtml) - Árvai Zoltán, Csala Péter, Fár Attila Gergő, Kopacz Botond, Reiter István, Tóth László (PDF). CC BY-SA
 
 
 ### PHP
 
-* [Drupal 6 alapismeretek](http://nagygusztav.hu/drupal-6-alapismeretek) - Nagy Gusztáv (PDF)
-* [Drupal 7 alapismeretek](http://nagygusztav.hu/drupal-7-alapismeretek) - Nagy Gusztáv (PDF)
-* [Web programozás alapismeretek](http://nagygusztav.hu/web-programozas) - Nagy Gusztáv (PDF)
+* [Drupal 6 alapismeretek](http://nagygusztav.hu/drupal-6-alapismeretek) - Nagy Gusztáv (PDF). CC BY-SA
+* [Drupal 7 alapismeretek](http://nagygusztav.hu/drupal-7-alapismeretek) - Nagy Gusztáv (PDF). CC BY-SA
+* [Web programozás alapismeretek](http://nagygusztav.hu/web-programozas) - Nagy Gusztáv (PDF). CC BY-SA
 * [Webadatbázis-programozás](http://ade.web.elte.hu/wabp/index.html) - Horváth Győző, Tarcsi Ádám (HTML)
 
 
 ### PowerShell
 
-* [Microsoft PowerShell 2.0](http://mek.oszk.hu/10400/10402/index.phtml) - Soós Tibor (PDF)
+* [Microsoft PowerShell 2.0](http://mek.oszk.hu/10400/10402/index.phtml) - Soós Tibor (PDF). CC BY-SA
 
 
 ### Python
 
-* [Bevezetés a Pythonba példákkal](http://mek.oszk.hu/08400/08436/index.phtml) - Raphaël Marvie, `trl.:` Daróczy Péter (PDF)
-* [Bevezetés a wxPythonba](http://mek.oszk.hu/08400/08446/index.phtml) - Jeremy Berthet, Gilles Doge, `trl.:` Daróczy Péter (PDF)
-* [Hogyan gondolkozz úgy, mint egy informatikus:Tanulás Python 3 segítségével](https://mtmi.unideb.hu/pluginfile.php/554/mod_resource/content/3/thinkcspy3.pdf) - Peter Wentworth, Jeffrey Elkner, Allen B. Downey, Chris Meyers, `trl.:` Biró Piroska, Szeghalmy Szilvia, Varga Imre (PDF)
+* [Bevezetés a Pythonba példákkal](http://mek.oszk.hu/08400/08436/index.phtml) - Raphaël Marvie, `trl.:` Daróczy Péter (PDF). CC BY-SA
+* [Bevezetés a wxPythonba](http://mek.oszk.hu/08400/08446/index.phtml) - Jeremy Berthet, Gilles Doge, `trl.:` Daróczy Péter (PDF). CC BY-SA
+* [Hogyan gondolkozz úgy, mint egy informatikus:Tanulás Python 3 segítségével](https://mtmi.unideb.hu/pluginfile.php/554/mod_resource/content/3/thinkcspy3.pdf) - Peter Wentworth, Jeffrey Elkner, Allen B. Downey, Chris Meyers, `trl.:` Biró Piroska, Szeghalmy Szilvia, Varga Imre (PDF). CC BY-SA
 * [Tanuljunk meg programozni Python nyelven](http://mek.oszk.hu/08400/08435/index.phtml) - Gérard Swinnen, `trl.:` Daróczy Péter (PDF, ODT)
 
 
@@ -120,4 +120,4 @@
 
 ### Windows Phone
 
-* [Windows Phone fejlesztés lépésről lépésre](http://mek.oszk.hu/10300/10393/) - Árvai Zoltán, Fár Attila Gergő, Farkas Bálint, Fülöp Dávid, Komjáthy Szabolcs, Turóczi Attila, Velvárt András (PDF)
+* [Windows Phone fejlesztés lépésről lépésre](http://mek.oszk.hu/10300/10393/) - Árvai Zoltán, Fár Attila Gergő, Farkas Bálint, Fülöp Dávid, Komjáthy Szabolcs, Turóczi Attila, Velvárt András (PDF). CC BY-SA

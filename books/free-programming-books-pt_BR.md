@@ -79,17 +79,17 @@
 
 #### Programação
 
-* [Algoritmos e Estruturas de Dados 1](https://www.inf.ufpr.br/marcos/livro_alg1/livro_alg1.pdf) - Marcos Castilho, Fabiano Silva, Daniel Weingaertner (PDF)
-* [Algoritmos e Programação](https://www.ifmg.edu.br/ceadop3/apostilas/algoritmos-e-programacao) - Adolfo José G. S. Baudson, Francisco César R. de Araújo (PDF)
-* [Introdução a Algoritmos e Programação](http://www.ferrari.pro.br/home/documents/FFerrari-CCechinel-Introducao-a-algoritmos.pdf) - Fabricio Ferrari, Cristian Cechinel (PDF)
-* [Lógica de Programação para iniciantes](https://dicasdeprogramacao.com.br/download/ebook-logica-de-programacao-para-iniciantes.pdf) - Gustavo Furtado de Oliveira Alves (PDF)
+* [Algoritmos e Estruturas de Dados 1](https://www.inf.ufpr.br/marcos/livro_alg1/livro_alg1.pdf) - Marcos Castilho, Fabiano Silva, Daniel Weingaertner (PDF). CC BY-SA
+* [Algoritmos e Programação](https://www.ifmg.edu.br/ceadop3/apostilas/algoritmos-e-programacao) - Adolfo José G. S. Baudson, Francisco César R. de Araújo (PDF). CC BY-SA
+* [Introdução a Algoritmos e Programação](http://www.ferrari.pro.br/home/documents/FFerrari-CCechinel-Introducao-a-algoritmos.pdf) - Fabricio Ferrari, Cristian Cechinel (PDF). CC BY-SA
+* [Lógica de Programação para iniciantes](https://dicasdeprogramacao.com.br/download/ebook-logica-de-programacao-para-iniciantes.pdf) - Gustavo Furtado de Oliveira Alves (PDF). CC BY-SA
 * [Paradigmas de programação](https://github.com/edsomjr/Paradigmas) - Edson Alves (HTML)
 
 
 #### Sistemas Operacionais
 
-* [Guia Foca Linux](https://www.guiafoca.org/#download) - Gleydson Maziolli (PDF)
-* [Sistemas Operacionais: Conceitos e Mecanismos](http://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-livro.pdf) - Carlos A. Maziero (PDF) *(:construction: em contínuo desenvolvimento)*
+* [Guia Foca Linux](https://www.guiafoca.org/#download) - Gleydson Maziolli (PDF). CC BY-SA
+* [Sistemas Operacionais: Conceitos e Mecanismos](http://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-livro.pdf) - Carlos A. Maziero (PDF). CC BY-SA *(:construction: em contínuo desenvolvimento)*
 
 
 ### Android
@@ -99,48 +99,48 @@
 
 ### Arduino
 
-* [Arduino Guia Iniciante](https://cdn.multilogica-shop.com/Guia_Arduino/Guia_Arduino_Iniciante_Multilogica_Shop_Versao_2.pdf) - Multilógica Shop (PDF)
+* [Arduino Guia Iniciante](https://cdn.multilogica-shop.com/Guia_Arduino/Guia_Arduino_Iniciante_Multilogica_Shop_Versao_2.pdf) - Multilógica Shop (PDF). CC BY-SA
 
 
 ### Assembly
 
 * [Assembly x86](https://mentebinaria.gitbook.io/assembly-x86/) - Luis Felipe, Mente Binária (gitbook)
-* [Linguagem Assembly: Introdução ao padrão Intel 8086](https://github.com/J-AugustoManzano/livro_Assembly-Intro-8086) - José Augusto N. G. Manzano (PDF)
+* [Linguagem Assembly: Introdução ao padrão Intel 8086](https://github.com/J-AugustoManzano/livro_Assembly-Intro-8086) - José Augusto N. G. Manzano (PDF). CC BY-SA
 
 
 ### Banco de Dados
 
-* [Introdução a Banco de Dados](https://educapes.capes.gov.br/bitstream/capes/564494/2/FASCICULO_Introducao_Banco_Dados_30_08.pdf) - Joyce Aline de Oliveira Marins, Gracyeli Santos Souza Guarienti (PDF)
+* [Introdução a Banco de Dados](https://educapes.capes.gov.br/bitstream/capes/564494/2/FASCICULO_Introducao_Banco_Dados_30_08.pdf) - Joyce Aline de Oliveira Marins, Gracyeli Santos Souza Guarienti (PDF). CC BY-SA
 
 
 ### Basic
 
-* [Programação de computadores para iniciantes com Small Basic](https://github.com/J-AugustoManzano/livro_Small-Basic-1.2) - José Augusto N. G. Manzano (PDF)
+* [Programação de computadores para iniciantes com Small Basic](https://github.com/J-AugustoManzano/livro_Small-Basic-1.2) - José Augusto N. G. Manzano (PDF). CC BY-SA
 
 
 ### C
 
 * [Algoritmos em Grafos](https://www.ime.usp.br/~yoshi/2005i/mac328/) - Yoshiharu Kohayakawa (HTML)
 * [Algoritmos para Grafos (via Sedgewick)](https://www.ime.usp.br/~pf/algoritmos_para_grafos/) - Paulo Feofiloff (HTML)
-* [Apostila Linguagem C](http://www.ime.usp.br/~slago/slago-C.pdf) - Silvio Lago (PDF)
-* [C Completo e Total - Terceira Edição (1996)](https://www.inf.ufpr.br/lesoliveira/download/c-completo-total.pdf) - Herbert Schildt (PDF)
+* [Apostila Linguagem C](http://www.ime.usp.br/~slago/slago-C.pdf) - Silvio Lago (PDF). CC BY-SA
+* [C Completo e Total - Terceira Edição (1996)](https://www.inf.ufpr.br/lesoliveira/download/c-completo-total.pdf) - Herbert Schildt (PDF). CC BY-SA
 * [Guia Beej's Para Programação em Rede - Usando Internet Sockets](http://beej.us/guide/bgnet/translations/bgnet_ptbr.html) - Brian "Beej Jorgensen" Hall, `trl.:` cv8minix3 (HTML)
 * [Introdução a Programação](https://github.com/ufpb-computacao/introducao-a-programacao-livro/releases) - livro adotado na UFPB.
 * [Linguagem C - Notas de Aula](https://www.inf.ufpr.br/cursos/ci067/Docs/NotasAula/) - Carmem Hara, Wagner Zola (HTML, [PDF](https://www.inf.ufpr.br/cursos/ci067/Docs/NotasAula.pdf))
-* [O Fantástico Mundo da Linguagem C](https://fiorix.files.wordpress.com/2014/04/o-fantc3a1stico-mundo-da-linguagem-c.pdf) (PDF)
+* [O Fantástico Mundo da Linguagem C](https://fiorix.files.wordpress.com/2014/04/o-fantc3a1stico-mundo-da-linguagem-c.pdf) (PDF). CC BY-SA
 * [Projeto de Algoritmos (em C)](http://www.ime.usp.br/~pf/algoritmos/) - Paulo Feofiloff (HTML)
 
 
 ### <a id="csharp"></a>C\#
 
 * [C# e Orientação a Objetos](https://www.caelum.com.br/apostila-csharp-orientacao-objetos/) - Caelum
-* [C# para Iniciantes](https://livrocsharp.com.br/wp-content/uploads/dae-uploads/CSharpIniciantes.pdf) - André Carlucci, Carlos dos Santos, Claudenir Andrade, Rafael Almeida, Ray Carneiro, Renato Haddad (PDF)
+* [C# para Iniciantes](https://livrocsharp.com.br/wp-content/uploads/dae-uploads/CSharpIniciantes.pdf) - André Carlucci, Carlos dos Santos, Claudenir Andrade, Rafael Almeida, Ray Carneiro, Renato Haddad (PDF). CC BY-SA
 
 
 ### <a id="cpp"></a>C++
 
-* [Apostila Linguagem C++](http://www.ime.usp.br/~slago/slago-C++.pdf) - Silvio Lago (PDF)
-* [Programação Orientada a Objetos em C++](https://web.archive.org/web/20190124233626/http://webserver2.tecgraf.puc-rio.br/~manuel/Download/Programacao%20Orientada%20a%20Objetos%20em%20C++.pdf) (PDF)
+* [Apostila Linguagem C++](http://www.ime.usp.br/~slago/slago-C++.pdf) - Silvio Lago (PDF). CC BY-SA
+* [Programação Orientada a Objetos em C++](https://web.archive.org/web/20190124233626/http://webserver2.tecgraf.puc-rio.br/~manuel/Download/Programacao%20Orientada%20a%20Objetos%20em%20C++.pdf) (PDF). CC BY-SA
 * [Tópicos Especiais em Programação](https://github.com/edsomjr/TEP) - Edson Alves (HTML)
 
 
@@ -163,7 +163,7 @@
 
 ### Engenharia de Software
 
-* [Engenharia de Software - Uma Abordagem Profissional](https://web.icmc.usp.br/SCATUSU/Boletim_aquisicao/Boletim_Julho_2019/capas_julho_2019/Pressman_Engenharia0001.pdf) - Roger S. Pressman, Bruce R. Maxim (PDF)
+* [Engenharia de Software - Uma Abordagem Profissional](https://web.icmc.usp.br/SCATUSU/Boletim_aquisicao/Boletim_Julho_2019/capas_julho_2019/Pressman_Engenharia0001.pdf) - Roger S. Pressman, Bruce R. Maxim (PDF). CC BY-SA
 * [Engenharia de Software Moderna](https://engsoftmoderna.info) - Marco Tulio Valente (HTML)
 
 
@@ -176,10 +176,10 @@
 
 #### Arquitetura de Software
 
-* [ASP.NET Core architecture](https://docs.microsoft.com/pt-br/dotnet/architecture/modern-web-apps-azure/) (PDF)
+* [ASP.NET Core architecture](https://docs.microsoft.com/pt-br/dotnet/architecture/modern-web-apps-azure/) (PDF). CC BY-SA
 * [Melhores Práticas de Arquitetura de Software na era da Nuvem](https://leanpub.com/manual-arquitetura-software) (Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo nos formatos PDF, EPUB, MOBI ou pelo próprio site)
-* [Microservices architecture](https://docs.microsoft.com/pt-br/dotnet/architecture/microservices/) (PDF)
-* [Modernizing existing .NET apps](https://docs.microsoft.com/pt-br/dotnet/architecture/modernize-with-azure-containers/) (PDF)
+* [Microservices architecture](https://docs.microsoft.com/pt-br/dotnet/architecture/microservices/) (PDF). CC BY-SA
+* [Modernizing existing .NET apps](https://docs.microsoft.com/pt-br/dotnet/architecture/modernize-with-azure-containers/) (PDF). CC BY-SA
 
 
 #### Outros
@@ -191,18 +191,18 @@
 
 ### Fortran
 
-* [Introdução ao Fortran90](https://www.cenapad.unicamp.br/treinamentos/apostilas/apostila_fortran90.pdf) - Unicamp/ Cenapad - SP (PDF)
+* [Introdução ao Fortran90](https://www.cenapad.unicamp.br/treinamentos/apostilas/apostila_fortran90.pdf) - Unicamp/ Cenapad - SP (PDF). CC BY-SA
 
 
 ### Fundamentos Matemáticos Computacionais
 
 * [Análise de Algoritmos](https://www.ime.usp.br/~pf/analise_de_algoritmos/) - Paulo Feofiloff (HTML)
-* [Computação: Matemática Discreta](https://educapes.capes.gov.br/bitstream/capes/432209/2/Livro_Matematica%20Discreta.pdf) - Raquel Montezuma Pinheiro Cabral (PDF)
-* [Exercícios de Teoria dos Grafos](https://www.ime.usp.br/~pf/grafos-exercicios/) - Paulo Feofiloff (PDF)
+* [Computação: Matemática Discreta](https://educapes.capes.gov.br/bitstream/capes/432209/2/Livro_Matematica%20Discreta.pdf) - Raquel Montezuma Pinheiro Cabral (PDF). CC BY-SA
+* [Exercícios de Teoria dos Grafos](https://www.ime.usp.br/~pf/grafos-exercicios/) - Paulo Feofiloff (PDF). CC BY-SA
 * [Matemática Fundacional para Computação - Em progresso](https://www.tsouanas.org/fmcbook/) - Thanos Tsouanas *(:construction: em contínuo desenvolvimento)*
-* [Minicurso de Análise de Algoritmos](https://www.ime.usp.br/~pf/livrinho-AA/) - Paulo Feofiloff (PDF)
-* [Otimização Combinatória](https://www.ime.usp.br/~pf/otimizacao-combinatoria/) - Paulo Feofiloff (PDF)
-* [Uma Introdução Sucinta à Teoria dos Grafos](https://www.ime.usp.br/~pf/teoriadosgrafos/) - Y. Kohayakawa, Y. Wakabayashi, P. Feofiloff (PDF)
+* [Minicurso de Análise de Algoritmos](https://www.ime.usp.br/~pf/livrinho-AA/) - Paulo Feofiloff (PDF). CC BY-SA
+* [Otimização Combinatória](https://www.ime.usp.br/~pf/otimizacao-combinatoria/) - Paulo Feofiloff (PDF). CC BY-SA
+* [Uma Introdução Sucinta à Teoria dos Grafos](https://www.ime.usp.br/~pf/teoriadosgrafos/) - Y. Kohayakawa, Y. Wakabayashi, P. Feofiloff (PDF). CC BY-SA
 
 
 ### Git
@@ -218,7 +218,7 @@
 * [Aprenda Go com Testes](https://larien.gitbook.io/aprenda-go-com-testes) - Lauren Ferreira
 * [Construindo Aplicações Web em Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/pt-br/) - astaxie
 * [Go - hands on](https://github.com/go-br/estudos)
-* [Go Lang - A linguagem do Google](https://www.ime.usp.br/~gold/cursos/2015/MAC5742/reports/GoLang.pdf) - Suelen Goularte Carvalho (PDF)
+* [Go Lang - A linguagem do Google](https://www.ime.usp.br/~gold/cursos/2015/MAC5742/reports/GoLang.pdf) - Suelen Goularte Carvalho (PDF). CC BY-SA
 * [Go por Exemplo](http://goporexemplo.golangbr.org) - Mark McGranaghan, Jeremy Ashkenas, golangbr, Daniela Tamy Iwassa (HTML)
 
 
@@ -229,7 +229,7 @@
 
 ### HTML and CSS
 
-* [Apostila de HTML](https://www.telecom.uff.br/pet/petws/downloads/apostilas/HTML.pdf) - Robertha Pereira Pedroso (PDF)
+* [Apostila de HTML](https://www.telecom.uff.br/pet/petws/downloads/apostilas/HTML.pdf) - Robertha Pereira Pedroso (PDF). CC BY-SA
 * [Curso SASS](https://github.com/amandavilela/curso-sass) - Amanda Vilela
 * [Desenvolvimento Web com HTML, CSS e JavaScript](https://www.caelum.com.br/apostila-html-css-javascript/) - Caelum
 * [Dive Into HTML5](http://diveintohtml5.com.br) - Mark Pilgrim
@@ -238,24 +238,24 @@
 
 ### Inteligência Artificial
 
-* [Inteligência artificial: avanços e tendências](https://www.livrosabertos.sibi.usp.br/portaldelivrosUSP/catalog/view/650/579/2181) - Fabio G. Cozman, Guilherme Ary Plonski, Hugo Neri (PDF)
-* [Processamento de Linguagem Natural: Conceitos, Técnicas e Aplicações em Português](https://brasileiraspln.com/livro-pln/) - Helena M. Caseli, Maria G. V. Nunes (PDF)
+* [Inteligência artificial: avanços e tendências](https://www.livrosabertos.sibi.usp.br/portaldelivrosUSP/catalog/view/650/579/2181) - Fabio G. Cozman, Guilherme Ary Plonski, Hugo Neri (PDF). CC BY-SA
+* [Processamento de Linguagem Natural: Conceitos, Técnicas e Aplicações em Português](https://brasileiraspln.com/livro-pln/) - Helena M. Caseli, Maria G. V. Nunes (PDF). CC BY-SA
 
 
 ### Internet das Coisas
 
-* [A Internet das Coisas](https://bibliotecadigital.fgv.br/dspace/bitstream/handle/10438/23898/A%20internet%20das%20coisas.pdf) - Eduardo Magrani (PDF)
+* [A Internet das Coisas](https://bibliotecadigital.fgv.br/dspace/bitstream/handle/10438/23898/A%20internet%20das%20coisas.pdf) - Eduardo Magrani (PDF). CC BY-SA
 
 
 ### Java
 
 * [Imergindo na JVM](https://leanpub.com/imergindo-jvm) - Otavio Santana *(Leanpub account or valid email requested)*
-* [Introdução a Ciência da Computação com Java](http://ccsl.ime.usp.br/files/publications/files/2008/intro-java-cc.pdf) Alfredo Goldman, Fabio Kon, Paulo J. S. Silva (PDF)
-* [Java Básico e Oriêntação a Objeto](https://canal.cecierj.edu.br/012016/d7d8367338445d5a49b4d5a49f6ad2b9.pdf) - Clayton Escouper das Chagas, Cássia Blondet Baruque, Lúcia Blondet Baruque (PDF)
+* [Introdução a Ciência da Computação com Java](http://ccsl.ime.usp.br/files/publications/files/2008/intro-java-cc.pdf) Alfredo Goldman, Fabio Kon, Paulo J. S. Silva (PDF). CC BY-SA
+* [Java Básico e Oriêntação a Objeto](https://canal.cecierj.edu.br/012016/d7d8367338445d5a49b4d5a49f6ad2b9.pdf) - Clayton Escouper das Chagas, Cássia Blondet Baruque, Lúcia Blondet Baruque (PDF). CC BY-SA
 * [Java e Orientação a Objetos](http://www.caelum.com.br/apostila-java-orientacao-objetos/) - Caelum
 * [Java para Desenvolvimento Web](http://www.caelum.com.br/apostila-java-web/) - Caelum
-* [Programação Orientada a Objetos: Uma Abordagem com Java](https://www.dca.fee.unicamp.br/cursos/PooJava/Aulas/poojava.pdf) - Ivan Luiz Marques Ricarte (PDF)
-* [Programação para iniciantes](https://s3.amazonaws.com/algaworks-assets/ebooks/algaworks-livro-programacao-para-iniciantes-v1.1.pdf) Alexandre Afonso (PDF)
+* [Programação Orientada a Objetos: Uma Abordagem com Java](https://www.dca.fee.unicamp.br/cursos/PooJava/Aulas/poojava.pdf) - Ivan Luiz Marques Ricarte (PDF). CC BY-SA
+* [Programação para iniciantes](https://s3.amazonaws.com/algaworks-assets/ebooks/algaworks-livro-programacao-para-iniciantes-v1.1.pdf) Alexandre Afonso (PDF). CC BY-SA
 
 
 ### JavaScript
@@ -352,7 +352,7 @@
 
 ### Julia
 
-* [Programação de Computadores com Linguagem Julia](https://github.com/J-AugustoManzano/LivroLinJulia) - José Augusto N. G. Manzano (PDF)
+* [Programação de Computadores com Linguagem Julia](https://github.com/J-AugustoManzano/LivroLinJulia) - José Augusto N. G. Manzano (PDF). CC BY-SA
 
 
 ### Kubernetes
@@ -363,21 +363,21 @@
 
 ### LaTeX
 
-* [Breve Introdução ao LaTeX2e](http://www.if.ufrj.br/~sandra/MetComp/doc/latex.pdf) - Lenimar Nunes de Andrade (PDF)
+* [Breve Introdução ao LaTeX2e](http://www.if.ufrj.br/~sandra/MetComp/doc/latex.pdf) - Lenimar Nunes de Andrade (PDF). CC BY-SA
 * [Introdução ao LaTeX 2 - Ou LaTeX 2 em 105 minutos](http://ctan.org/pkg/lshort-portuguese-br)
-* [Latexação](https://www.ime.usp.br/~tassio/arquivo/latex/apostila.pdf) - Tássio Naia dos Santos (PDF)
+* [Latexação](https://www.ime.usp.br/~tassio/arquivo/latex/apostila.pdf) - Tássio Naia dos Santos (PDF). CC BY-SA
 
 
 ### Lisp
 
 * [Introdução a linguagem LISP](http://www.dca.fee.unicamp.br/courses/EA072/lisp9596/Lisp9596.html) (HTML)
-* [Linguagem LISP - Primeiros passos com Common LISP (CL)](https://novo.manzano.pro.br/wp/download/linguagem-lisp-primeiros-passos-com-common-lisp-cl/) - José Augusto N. G. Manzano (PDF)
+* [Linguagem LISP - Primeiros passos com Common LISP (CL)](https://novo.manzano.pro.br/wp/download/linguagem-lisp-primeiros-passos-com-common-lisp-cl/) - José Augusto N. G. Manzano (PDF). CC BY-SA
 
 
 ### Logo
 
-* [Academia da Tartaruga](https://github.com/J-AugustoManzano/livro_AcadTat) - José Augusto N. G. Manzano (PDF)
-* [Linguagem Logo: Introdução com UCBLogo 6.2.2](https://github.com/J-AugustoManzano/livro_Logo-Intro-UCBLogo) - José Augusto N. G. Manzano (PDF)
+* [Academia da Tartaruga](https://github.com/J-AugustoManzano/livro_AcadTat) - José Augusto N. G. Manzano (PDF). CC BY-SA
+* [Linguagem Logo: Introdução com UCBLogo 6.2.2](https://github.com/J-AugustoManzano/livro_Logo-Intro-UCBLogo) - José Augusto N. G. Manzano (PDF). CC BY-SA
 
 
 ### Lua
@@ -387,34 +387,34 @@
 
 ### Pascal
 
-* [Algoritmos e Estruturas de Dados I](https://www.inf.ufpr.br/marcos/livro_alg1/livro_alg1.pdf) - Marcos Alexandre Castilho, Fabiano Silva, Daniel Weingaertner (PDF)
-* [Programando com Pascal](https://ic.ufal.br/professor/jaime/livros/Programando%20com%20Pascal.pdf) - Jaime Evaristo (PDF)
+* [Algoritmos e Estruturas de Dados I](https://www.inf.ufpr.br/marcos/livro_alg1/livro_alg1.pdf) - Marcos Alexandre Castilho, Fabiano Silva, Daniel Weingaertner (PDF). CC BY-SA
+* [Programando com Pascal](https://ic.ufal.br/professor/jaime/livros/Programando%20com%20Pascal.pdf) - Jaime Evaristo (PDF). CC BY-SA
 
 
 ### PHP
 
 * [Api REST Com Silex no GAE](http://bit.ly/ebook-silex) - Nanderson Castro (PDF, EPUB, MOBI)
 * [CakePHP](http://book.cakephp.org/2.0/pt/index.html)
-* [Curso Linguagem PHP 2000](http://www.etelg.com.br/paginaete/downloads/informatica/php.pdf) Maurício Vivas de Souza Barreto (PDF)
+* [Curso Linguagem PHP 2000](http://www.etelg.com.br/paginaete/downloads/informatica/php.pdf) Maurício Vivas de Souza Barreto (PDF). CC BY-SA
 * [PHP Do jeito certo](http://br.phptherightway.com)
 * [PHPUnit](https://phpunit.de/manual/current/pt_br/index.html) (PDF, EPUB, MOBI)
 
 
 ### Python
 
-* [Apostila de Python](https://www1.univap.br/alberson/apostilas/pooi/apostila_pooi_1bi.pdf) - Alberson Wander Sá dos Santos (PDF)
+* [Apostila de Python](https://www1.univap.br/alberson/apostilas/pooi/apostila_pooi_1bi.pdf) - Alberson Wander Sá dos Santos (PDF). CC BY-SA
 * [Aprenda computação com Python](https://aprendendo-computacao-com-python.readthedocs.org/en/latest/index.html)
 * [Curso de Python e Django](https://osantana.me/curso-de-python-e-django)
 * [Django 101 - Introdução ao Django](http://turing.com.br/material/acpython/mod3/django/index.html)
-* [Introdução a Visão Computacional com Python e OpenCV](http://professor.luzerna.ifc.edu.br/ricardo-antonello/wp-content/uploads/sites/8/2017/02/Livro-Introdu%C3%A7%C3%A3o-a-Vis%C3%A3o-Computacional-com-Python-e-OpenCV-3.pdf) (PDF)
+* [Introdução a Visão Computacional com Python e OpenCV](http://professor.luzerna.ifc.edu.br/ricardo-antonello/wp-content/uploads/sites/8/2017/02/Livro-Introdu%C3%A7%C3%A3o-a-Vis%C3%A3o-Computacional-com-Python-e-OpenCV-3.pdf) (PDF). CC BY-SA
 * [O Guia do Mochileiro para Python!](https://python-guide-pt-br.readthedocs.io/pt_BR/latest/)
 * [O tutorial de Python](http://turing.com.br/pydoc/2.7/tutorial/)
-* [Pensando Tkinter](https://www.dcc.ufrj.br/~fabiom/mab225/PensandoTkinter.pdf) - Steven Ferg (PDF)
+* [Pensando Tkinter](https://www.dcc.ufrj.br/~fabiom/mab225/PensandoTkinter.pdf) - Steven Ferg (PDF). CC BY-SA
 * [Pense em Python](https://penseallen.github.io/PensePython2e)
 * [Python e Orientação a Objetos](https://www.caelum.com.br/apostila-python-orientacao-a-objetos/)
 * [Python Fluente, Segunda Edição (2023)](https://pythonfluente.com) - Luciano Ramalho (HTML)
 * [Python Funcional](https://dunossauro.github.io/python-funcional/) - Eduardo Mendes
-* [Python para Desenvolvedores](https://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf) (PDF)
+* [Python para Desenvolvedores](https://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf) (PDF). CC BY-SA
 * [Tutorial Django Girls](http://tutorial.djangogirls.org/pt/)
 
 
@@ -427,10 +427,10 @@
 
 ### R
 
-* [Análise Exploratória de Dados usando o R](http://www.uesc.br/editora/livrosdigitais2/analiseexploratoria_r.pdf) - Enio Jelihovschi (PDF)
-* [Fundamentos Estatísticos de Ciência dos Dados](https://homepages.dcc.ufmg.br/~assuncao/EstatCC/FECD.pdf) - Renato Assunção (PDF)
+* [Análise Exploratória de Dados usando o R](http://www.uesc.br/editora/livrosdigitais2/analiseexploratoria_r.pdf) - Enio Jelihovschi (PDF). CC BY-SA
+* [Fundamentos Estatísticos de Ciência dos Dados](https://homepages.dcc.ufmg.br/~assuncao/EstatCC/FECD.pdf) - Renato Assunção (PDF). CC BY-SA
 * [Introdução à Linguagem R: seus fundamentos e sua prática](https://pedropark99.github.io/Introducao_R/) - Pedro Duarte Faria
-* [R para cientistas sociais](http://www.uesc.br/editora/livrosdigitais_20140513/r_cientistas.pdf) - Jakson Alves de Aquino (PDF)
+* [R para cientistas sociais](http://www.uesc.br/editora/livrosdigitais_20140513/r_cientistas.pdf) - Jakson Alves de Aquino (PDF). CC BY-SA
 
 
 ### RegEx
@@ -452,12 +452,12 @@
 ### Shell / Bash
 
 * [Bash Scripting](https://meleu.gitbooks.io/bashscripting/content/) - Meleu (gitbook)
-* [Casamento de Padrões no Shell do GNU/Linux](https://blauaraujo.com/downloads/shell-pattern-matching.pdf) - Blau Araújo (PDF)
-* [Curso Intensivo de Programação do Bash - Guia de Estudos](https://blauaraujo.com/downloads/cipb-guia.pdf) - Blau Araújo (PDF)
-* [Curso Shell GNU](https://blauaraujo.com/downloads/curso-shell-gnu.pdf) - Blau Araújo (PDF) (:construction: *in process*)
-* [Introdução ao Shell Script](http://aurelio.net/shell/apostila-introducao-shell.pdf) - Aurelio Marinho Jargas (PDF)
-* [Pequena introdução ao linux e ao Shell Script](https://www.telecom.uff.br/pet/petws/downloads/apostilas/LINUX.pdf) (PDF)
-* [Pequeno Manual do Programador GNU/Bash](https://blauaraujo.com/downloads/pmpgb.pdf) - Blau Araújo (PDF)
+* [Casamento de Padrões no Shell do GNU/Linux](https://blauaraujo.com/downloads/shell-pattern-matching.pdf) - Blau Araújo (PDF). CC BY-SA
+* [Curso Intensivo de Programação do Bash - Guia de Estudos](https://blauaraujo.com/downloads/cipb-guia.pdf) - Blau Araújo (PDF). CC BY-SA
+* [Curso Shell GNU](https://blauaraujo.com/downloads/curso-shell-gnu.pdf) - Blau Araújo (PDF). CC BY-SA (:construction: *in process*)
+* [Introdução ao Shell Script](http://aurelio.net/shell/apostila-introducao-shell.pdf) - Aurelio Marinho Jargas (PDF). CC BY-SA
+* [Pequena introdução ao linux e ao Shell Script](https://www.telecom.uff.br/pet/petws/downloads/apostilas/LINUX.pdf) (PDF). CC BY-SA
+* [Pequeno Manual do Programador GNU/Bash](https://blauaraujo.com/downloads/pmpgb.pdf) - Blau Araújo (PDF). CC BY-SA
 
 
 ### TypeScript

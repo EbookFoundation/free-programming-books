@@ -17,7 +17,7 @@
 
 ### Algoritmid ja andmestruktuurid
 
-* [Algoritmid ja andmestruktuurid (2003, Kolmas, parandatud ja täiendatud trükk)](https://dspace.ut.ee/bitstream/handle/10062/16872/9985567676.pdf) - Jüri Kiho (PDF)
+* [Algoritmid ja andmestruktuurid (2003, Kolmas, parandatud ja täiendatud trükk)](https://dspace.ut.ee/bitstream/handle/10062/16872/9985567676.pdf) - Jüri Kiho (PDF). CC BY-SA
 
 
 ### C
@@ -27,7 +27,7 @@
 
 ### <a id="csharp"></a>C\#
 
-* [Microsoft Visual Studio Code ja C#](https://digiarhiiv.ut.ee/Ained/Doc/VFailid/CSharp_ja_VS.pdf) - Kalle Remm (PDF)
+* [Microsoft Visual Studio Code ja C#](https://digiarhiiv.ut.ee/Ained/Doc/VFailid/CSharp_ja_VS.pdf) - Kalle Remm (PDF). CC BY-SA
 
 
 ### Java
@@ -38,22 +38,22 @@
 
 ### JavaScript
 
-* [JavaScript](https://web.archive.org/web/20200922201525/http://puhang.tpt.edu.ee/raamatud/JavaScript_konspekt.pdf) - Jüri Puhang (PDF) *(:card_file_box: archived)*
+* [JavaScript](https://web.archive.org/web/20200922201525/http://puhang.tpt.edu.ee/raamatud/JavaScript_konspekt.pdf) - Jüri Puhang (PDF). CC BY-SA *(:card_file_box: archived)*
 
 
 #### AngularJS
 
-* [AngularJS raamistiku õppematerjal](https://www.cs.tlu.ee/teemad/get_file.php?id=400) - Sander Leetus (PDF)
+* [AngularJS raamistiku õppematerjal](https://www.cs.tlu.ee/teemad/get_file.php?id=400) - Sander Leetus (PDF). CC BY-SA
 
 
 #### Vue.js
 
-* [Vue.js raamistiku õppematerjal](https://www.cs.tlu.ee/teemaderegister/get_file.php?id=715) - Fred Korts (PDF)
+* [Vue.js raamistiku õppematerjal](https://www.cs.tlu.ee/teemaderegister/get_file.php?id=715) - Fred Korts (PDF). CC BY-SA
 
 
 ### LaTex
 
-* [Mitte väga lühike LATEX 2ε sissejuhatus](https://ctan.org/tex-archive/info/lshort/estonian) - Tobias Oetiker, Hubert Partl, Irene Hyna, Elisabeth Schlegl, `trl.:` Tõlkinud Reimo Palm (PDF)
+* [Mitte väga lühike LATEX 2ε sissejuhatus](https://ctan.org/tex-archive/info/lshort/estonian) - Tobias Oetiker, Hubert Partl, Irene Hyna, Elisabeth Schlegl, `trl.:` Tõlkinud Reimo Palm (PDF). CC BY-SA
 
 
 ### PHP
@@ -77,9 +77,9 @@
 ### SQL
 
 * [Andmebaaside alused](https://enos.itcollege.ee/~priit/1.%20Andmebaasid/1.%20Loengumaterjalid) - Priit Raspel (HTML)
-* [SQL päringute koostamine, analüüsimine  ja optimeerimine](https://comserv.cs.ut.ee/home/files/Ivanova_Informaatika_2017.pdf?study=ATILoputoo&reference=C408CC06DE4620A985CDF60C2678C97AE45017AB) - Anastassia Ivanova (PDF)
+* [SQL päringute koostamine, analüüsimine  ja optimeerimine](https://comserv.cs.ut.ee/home/files/Ivanova_Informaatika_2017.pdf?study=ATILoputoo&reference=C408CC06DE4620A985CDF60C2678C97AE45017AB) - Anastassia Ivanova (PDF). CC BY-SA
 
 
 ### WebGL
 
-* [WebGL'i kasutamine interaktiivsete graafikarakenduste loomiseks veebilehitsejas](http://www.cs.tlu.ee/teemaderegister/get_file.php?id=351) - Raner Piibur (PDF)
+* [WebGL'i kasutamine interaktiivsete graafikarakenduste loomiseks veebilehitsejas](http://www.cs.tlu.ee/teemaderegister/get_file.php?id=351) - Raner Piibur (PDF). CC BY-SA

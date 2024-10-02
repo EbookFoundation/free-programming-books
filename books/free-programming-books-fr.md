@@ -61,9 +61,9 @@
 #### Algorithmique
 
 * [Algorithmique](http://pauillac.inria.fr/~quercia/cdrom/cours/) - Michel Quercia
-* [Algorithmique du texte](http://igm.univ-mlv.fr/~mac/CHL/CHL-2011.pdf) - Maxime Crochemore, Christophe Hancart, Thierry Lecroq (PDF)
+* [Algorithmique du texte](http://igm.univ-mlv.fr/~mac/CHL/CHL-2011.pdf) - Maxime Crochemore, Christophe Hancart, Thierry Lecroq (PDF). CC BY-SA
 * [Complexité algorithmique](http://www.liafa.univ-paris-diderot.fr/~sperifel/livre_complexite.html) - Sylvain Perifel
-* [Éléments d'algorithmique](http://www-igm.univ-mlv.fr/~berstel/Elements/Elements.pdf) - D. Beauquier, J. Berstel, Ph. Chrétienne (PDF)
+* [Éléments d'algorithmique](http://www-igm.univ-mlv.fr/~berstel/Elements/Elements.pdf) - D. Beauquier, J. Berstel, Ph. Chrétienne (PDF). CC BY-SA
 * [France-IOI](http://www.france-ioi.org)
 * [Prologin](https://prologin.org)
 
@@ -84,8 +84,8 @@
 
 #### Makefile
 
-* [Concevoir un Makefile](http://icps.u-strasbg.fr/people/loechner/public_html/enseignement/GL/make.pdf) - Vincent Loechner d'après Nicolas Zin (PDF)
-* [Introduction aux Makefile](http://eric.bachard.free.fr/UTBM_LO22/P07/C/Documentation/C/make/intro_makefile.pdf) (PDF)
+* [Concevoir un Makefile](http://icps.u-strasbg.fr/people/loechner/public_html/enseignement/GL/make.pdf) - Vincent Loechner d'après Nicolas Zin (PDF). CC BY-SA
+* [Introduction aux Makefile](http://eric.bachard.free.fr/UTBM_LO22/P07/C/Documentation/C/make/intro_makefile.pdf) (PDF). CC BY-SA
 
 
 #### Mathématiques
@@ -102,13 +102,13 @@
 ### Ada
 
 * [Cours Ada](http://d.feneuille.free.fr/cours-ada-iut.zip) - Daniel Feneuille (Support d'un cours enseigné à l'IUT d'Aix-en-Provence) (ZIP)
-* [Cours Ada 95 pour le programmeur C++](http://d.feneuille.free.fr/c++%20to%20ada%201.0a.pdf) - Quentin Ochem (PDF)
+* [Cours Ada 95 pour le programmeur C++](http://d.feneuille.free.fr/c++%20to%20ada%201.0a.pdf) - Quentin Ochem (PDF). CC BY-SA
 
 
 ### Assembleur
 
 * [PC Assembly Language](https://pacman128.github.io/pcasm/) - Paul A. Carter (HTML)
-* [Reverse Engineering for Beginners](https://beginners.re/RE4B-FR.pdf) - Dennis Yurichev, Florent Besnard, Marc Remy, Baudouin Landais, Téo Dacquet (PDF)
+* [Reverse Engineering for Beginners](https://beginners.re/RE4B-FR.pdf) - Dennis Yurichev, Florent Besnard, Marc Remy, Baudouin Landais, Téo Dacquet (PDF). CC BY-SA
 
 
 ### Bash / Shell
@@ -128,7 +128,7 @@
 ### Caml / OCaml
 
 * [Développement d'applications avec Objective Caml](https://www-apr.lip6.fr/~chaillou/Public/DA-OCAML) - Emmanuel Chailloux, Pascal Manoury, Bruno Pagano
-* [Le langage Caml](https://caml.inria.fr/pub/distrib/books/llc.pdf) - Pierre Weis, Xavier Leroy (PDF)
+* [Le langage Caml](https://caml.inria.fr/pub/distrib/books/llc.pdf) - Pierre Weis, Xavier Leroy (PDF). CC BY-SA
 * [Programmation du système Unix en Objective Caml](https://web.archive.org/web/20211115022546/http://gallium.inria.fr/~remy/camlunix/) - Xavier Leroy, Didier Rémy
 
 
@@ -147,9 +147,9 @@
 
 * [IDRIS adaptation of the Fortran 77 manual](http://www.idris.fr/formations/fortran/fortran-77.html) - IDRIS, Hervé Delouis, Patrick Corde (HTML)
 * [IDRIS Formations Fortran: documentation](http://www.idris.fr/formations/fortran/) (HTML)
-    * [Fortran_Avancé : "Fortran : apports des normes 90 et 95 avec quelques aspects de la norme 2003" (2ème niveau)](http://www.idris.fr/media/formations/fortran/idris_fortran_avance_cours.pdf) - Patrick Corde, Hervé Delouis (PDF) ([:package: travaux pratiques](http://www.idris.fr/media/formations/fortran/idris_fortran_avance_tp.tar.gz))
-    * [Fortran_Base : "Fortran : notions de base" (1er niveau)](http://www.idris.fr/media/formations/fortran/idris_fortran_base_cours.pdf) - Anne Fouilloux, Patrick Corde (PDF) ([:package: examples du support](http://www.idris.fr/media/formations/fortran/idris_fortran_base_exemples.tar.gz), [:package: travaux pratiques](http://www.idris.fr/media/formations/fortran/idris_fortran_base_tp.tar.gz))
-    * [Fortran_Expert : "Fortran : apports de la norme 2003 avec quelques aspects de la norme 2008"](http://www.idris.fr/media/formations/fortran/idris_fortran_expert_cours.pdf) - Patrick Corde, Hervé Delouis (PDF) ([:package: examples du support](http://www.idris.fr/media/formations/fortran/idris_fortran_expert_exemples.tar.gz), [:package: travaux pratiques](http://www.idris.fr/media/formations/fortran/idris_fortran_expert_tp.tar.gz))
+    * [Fortran_Avancé : "Fortran : apports des normes 90 et 95 avec quelques aspects de la norme 2003" (2ème niveau)](http://www.idris.fr/media/formations/fortran/idris_fortran_avance_cours.pdf) - Patrick Corde, Hervé Delouis (PDF). CC BY-SA ([:package: travaux pratiques](http://www.idris.fr/media/formations/fortran/idris_fortran_avance_tp.tar.gz))
+    * [Fortran_Base : "Fortran : notions de base" (1er niveau)](http://www.idris.fr/media/formations/fortran/idris_fortran_base_cours.pdf) - Anne Fouilloux, Patrick Corde (PDF). CC BY-SA ([:package: examples du support](http://www.idris.fr/media/formations/fortran/idris_fortran_base_exemples.tar.gz), [:package: travaux pratiques](http://www.idris.fr/media/formations/fortran/idris_fortran_base_tp.tar.gz))
+    * [Fortran_Expert : "Fortran : apports de la norme 2003 avec quelques aspects de la norme 2008"](http://www.idris.fr/media/formations/fortran/idris_fortran_expert_cours.pdf) - Patrick Corde, Hervé Delouis (PDF). CC BY-SA ([:package: examples du support](http://www.idris.fr/media/formations/fortran/idris_fortran_expert_exemples.tar.gz), [:package: travaux pratiques](http://www.idris.fr/media/formations/fortran/idris_fortran_expert_tp.tar.gz))
 
 
 ### Git
@@ -196,8 +196,8 @@
 
 #### LaTeX
 
-* [Apprends LaTeX](https://tex.loria.fr/general/apprends-latex.pdf) - Marc Baudoin (PDF)
-* [LaTeX... pour le prof de maths !](http://math.univ-lyon1.fr/irem/IMG/pdf/LatexPourLeProfDeMaths.pdf) - Arnaud Gazagnes (PDF)
+* [Apprends LaTeX](https://tex.loria.fr/general/apprends-latex.pdf) - Marc Baudoin (PDF). CC BY-SA
+* [LaTeX... pour le prof de maths !](http://math.univ-lyon1.fr/irem/IMG/pdf/LatexPourLeProfDeMaths.pdf) - Arnaud Gazagnes (PDF). CC BY-SA
 * [Tout ce que vous avez toujours voulu savoir sur LaTeX sans jamais oser le demander](http://framabook.org/tout-sur-latex/) - Vincent Lozano
 * [(Xe)LaTeX appliqué aux sciences humaines](https://web.archive.org/web/20220121031527/geekographie.maieul.net/95) - Maïeul Rouquette *(:card_file_box: archived)*
 
@@ -209,13 +209,13 @@
 
 #### Asymptote
 
-* [Asymptote. Démarrage rapide](http://cgmaths.fr/cgFiles/Dem_Rapide.pdf) - Christophe Grospellier (PDF)
+* [Asymptote. Démarrage rapide](http://cgmaths.fr/cgFiles/Dem_Rapide.pdf) - Christophe Grospellier (PDF). CC BY-SA
 
 
 #### Metapost
 
-* [Tracer des graphes avec Metapost](http://melusine.eu.org/syracuse/metapost/f-mpgraph.pdf) - John D. Hobby (PDF)
-* [Un manuel de Metapost](http://melusine.eu.org/syracuse/metapost/f-mpman-2.pdf) - John D. Hobby (PDF)
+* [Tracer des graphes avec Metapost](http://melusine.eu.org/syracuse/metapost/f-mpgraph.pdf) - John D. Hobby (PDF). CC BY-SA
+* [Un manuel de Metapost](http://melusine.eu.org/syracuse/metapost/f-mpman-2.pdf) - John D. Hobby (PDF). CC BY-SA
 
 
 #### PGF/TikZ
@@ -226,12 +226,12 @@
 #### TeX
 
 * [Apprendre à programmer en TeX](https://ctan.org/pkg/apprendre-a-programmer-en-tex) - Christian Tellechea
-* [TeX pour l'Impatient](http://www.apprendre-en-ligne.net/LaTeX/teximpatient.pdf) - Paul Abrahams, Kathryn Hargreaves, Karl Berry, `trl.:` Marc Chaudemanche (PDF)
+* [TeX pour l'Impatient](http://www.apprendre-en-ligne.net/LaTeX/teximpatient.pdf) - Paul Abrahams, Kathryn Hargreaves, Karl Berry, `trl.:` Marc Chaudemanche (PDF). CC BY-SA
 
 
 ### Lisp
 
-* [Introduction à la programmation en Common Lisp](http://www.algo.be/logo1/lisp/intro-lisp.pdf) - Francis Leboutte (PDF)
+* [Introduction à la programmation en Common Lisp](http://www.algo.be/logo1/lisp/intro-lisp.pdf) - Francis Leboutte (PDF). CC BY-SA
 * [Traité de programmation en Common Lisp](http://dept-info.labri.fr/~strandh/Teaching/Programmation-Symbolique/Common/Book/HTML/programmation.html) - Robert Strandh, Irène Durand
 
 
@@ -255,7 +255,7 @@
 ### PHP
 
 * [Cours de PHP 5](http://g-rossolini.developpez.com/tutoriels/php/cours/?page=introduction) - Guillaume Rossolini
-* [Programmer en PHP](https://web.archive.org/web/20220327155108/lincoste.com/ebooks/pdf/informatique/programmer_php.pdf) - Julien Gaulmin (PDF) *(:card_file_box: archived)*
+* [Programmer en PHP](https://web.archive.org/web/20220327155108/lincoste.com/ebooks/pdf/informatique/programmer_php.pdf) - Julien Gaulmin (PDF). CC BY-SA *(:card_file_box: archived)*
 
 
 #### Symfony
@@ -286,7 +286,7 @@
 ### R
 
 * [Introduction à l'analyse d'enquête avec R et RStudio](https://larmarange.github.io/analyse-R/) - Jospeh Lamarange, et al. (PDF version also available)
-* [Introduction à la programmation en R](http://cran.r-project.org/doc/contrib/Goulet_introduction_programmation_R.pdf) - Vincent Goulet (PDF)
+* [Introduction à la programmation en R](http://cran.r-project.org/doc/contrib/Goulet_introduction_programmation_R.pdf) - Vincent Goulet (PDF). CC BY-SA
 
 
 ### Ruby
@@ -308,7 +308,7 @@
 
 ### Sage
 
-* [Calcul mathématique avec Sage](https://hal.inria.fr/inria-00540485/file/sagebook-web-20130530.pdf) - P. Zimmermann, et al. (PDF)
+* [Calcul mathématique avec Sage](https://hal.inria.fr/inria-00540485/file/sagebook-web-20130530.pdf) - P. Zimmermann, et al. (PDF). CC BY-SA
 
 
 ### Scilab

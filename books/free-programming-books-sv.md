@@ -20,12 +20,12 @@
 
 ### Fortran
 
-* [Lärobok i Fortran 95](http://www.boein.se/f95.pdf) - Linköpings Universitet, Bo Einarsson (PDF)
+* [Lärobok i Fortran 95](http://www.boein.se/f95.pdf) - Linköpings Universitet, Bo Einarsson (PDF). CC BY-SA
 
 
 ### MATLAB
 
-* [Introduktion till MATLAB (2004)](https://www.cvl.isy.liu.se/education/undergraduate/TSKS08/matlab-1/Matlabintro_sve.pdf) - Liber AB, Lennart Harnefors, Johnny Holmberg, Joop Lundqvist (PDF)
+* [Introduktion till MATLAB (2004)](https://www.cvl.isy.liu.se/education/undergraduate/TSKS08/matlab-1/Matlabintro_sve.pdf) - Liber AB, Lennart Harnefors, Johnny Holmberg, Joop Lundqvist (PDF). CC BY-SA
 
 
 ### PHP

@@ -26,17 +26,17 @@
 
 ### Algoritma ve Veri Yapıları
 
-* [Algoritma ve Programlama Soru Bankası](https://ia601404.us.archive.org/34/items/algoritma-ve-programlama-soru-bankasi/algoritma-ve-programlama-soru-bankas%C4%B1.pdf) (PDF)
-* [Algoritma ve Programlamaya Giriş Ders Notları](https://ia601404.us.archive.org/12/items/algoritma-ve-programlamaya-giris-ders-notlari/Algoritma%20ve%20Programlamaya%20Giri%C5%9F%20Ders%20Notlar%C4%B1.pdf) - [İbrahim Küçükkoç](http://ikucukkoc.baun.edu.tr) (PDF)
-* [Algoritmalar ve Programlama](https://ia601408.us.archive.org/31/items/algoritmalar-ve-programlama/Algoritmalar%20ve%20Programlama.pdf) (PDF)
-* [Bilgisayar Teriminde Algoritma](https://ia601504.us.archive.org/20/items/bilgisayar-teriminde-algoritma/Bilgisayar%20Teriminde%20Algoritma.pdf) - Agah Emir (PDF)
+* [Algoritma ve Programlama Soru Bankası](https://ia601404.us.archive.org/34/items/algoritma-ve-programlama-soru-bankasi/algoritma-ve-programlama-soru-bankas%C4%B1.pdf) (PDF). CC BY-SA
+* [Algoritma ve Programlamaya Giriş Ders Notları](https://ia601404.us.archive.org/12/items/algoritma-ve-programlamaya-giris-ders-notlari/Algoritma%20ve%20Programlamaya%20Giri%C5%9F%20Ders%20Notlar%C4%B1.pdf) - [İbrahim Küçükkoç](http://ikucukkoc.baun.edu.tr) (PDF). CC BY-SA
+* [Algoritmalar ve Programlama](https://ia601408.us.archive.org/31/items/algoritmalar-ve-programlama/Algoritmalar%20ve%20Programlama.pdf) (PDF). CC BY-SA
+* [Bilgisayar Teriminde Algoritma](https://ia601504.us.archive.org/20/items/bilgisayar-teriminde-algoritma/Bilgisayar%20Teriminde%20Algoritma.pdf) - Agah Emir (PDF). CC BY-SA
 
 
 ### Android
 
 * [Android Dersleri](https://umiitkose.com/android) - Ümit Köse
 * [Android Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/android)
-* [Android Türkçe PDF](http://umiitkose.com/wp-content/uploads/2015/08/AndroidStudio.pdf) - Ümit Köse (PDF)
+* [Android Türkçe PDF](http://umiitkose.com/wp-content/uploads/2015/08/AndroidStudio.pdf) - Ümit Köse (PDF). CC BY-SA
 
 
 ### C
@@ -52,7 +52,7 @@
 
 ### D
 
-* [D Programlama Dili](https://www.ddili.org/ders/d/D_Programlama_Dili.pdf) - Ali Çehreli (PDF)
+* [D Programlama Dili](https://www.ddili.org/ders/d/D_Programlama_Dili.pdf) - Ali Çehreli (PDF). CC BY-SA
 
 
 ### Dart
@@ -62,7 +62,7 @@
 
 ### Fortran
 
-* [Fortran Programlama Diline Giriş](http://dosyalar.ersoykardesler.net/yayinlar/Fortran_Programlama_Diline_Giris.pdf) (PDF)
+* [Fortran Programlama Diline Giriş](http://dosyalar.ersoykardesler.net/yayinlar/Fortran_Programlama_Diline_Giris.pdf) (PDF). CC BY-SA
 
 
 ### Git
@@ -103,11 +103,11 @@
 
 ### Java
 
-* [24 Saatte Java](https://ia601505.us.archive.org/23/items/24-saatte-java/24-saatte-java-turkce.pdf) (PDF)
+* [24 Saatte Java](https://ia601505.us.archive.org/23/items/24-saatte-java/24-saatte-java-turkce.pdf) (PDF). CC BY-SA
 * [Başkent Üniversitesi Java Dersleri](http://www.baskent.edu.tr/~tkaracay/etudio/ders/prg/java/java_ndx.html) - ttm (Technology Promotion Center)
-* [Java Bilgisayar Diliyle Programlama](http://www.turhancoban.com/kitap/JAVA%20B%C4%B0LG%C4%B0SAYAR%20D%C4%B0L%C4%B0YLE%20PROGRAMLAMA.pdf) - Turhan Coban (PDF)
-* [Java ile Nesneye Yönelik Programlama](https://ia801507.us.archive.org/12/items/java-ile-nesneye-yonelik-programlama/Java%20ile%20Nesneye%20Y%C3%B6nelik%20Programlama.pdf) - Oğuz Aslantürk (PDF)
-* [Java Kitabı](https://ia601503.us.archive.org/27/items/java-kitabi/java-kitabi.pdf) (PDF)
+* [Java Bilgisayar Diliyle Programlama](http://www.turhancoban.com/kitap/JAVA%20B%C4%B0LG%C4%B0SAYAR%20D%C4%B0L%C4%B0YLE%20PROGRAMLAMA.pdf) - Turhan Coban (PDF). CC BY-SA
+* [Java ile Nesneye Yönelik Programlama](https://ia801507.us.archive.org/12/items/java-ile-nesneye-yonelik-programlama/Java%20ile%20Nesneye%20Y%C3%B6nelik%20Programlama.pdf) - Oğuz Aslantürk (PDF). CC BY-SA
+* [Java Kitabı](https://ia601503.us.archive.org/27/items/java-kitabi/java-kitabi.pdf) (PDF). CC BY-SA
 
 
 ### LaTeX
@@ -118,7 +118,7 @@
 ### Linux
 
 * [GNU Bash Başvuru Kılavuzu](http://www.belgeler.org/bashref/bashref.html)
-* [GNU Linux Komutlari](https://www.fullportal.org/GNULINUX/Komutlar/GNULINUXKOMUTLAR.pdf) (PDF)
+* [GNU Linux Komutlari](https://www.fullportal.org/GNULINUX/Komutlar/GNULINUXKOMUTLAR.pdf) (PDF). CC BY-SA
 * [Linux Belgeleri](http://www.belgeler.org/howto/howtos.html)
 * [Linux Sistem Yöneticisinin Kılavuzu](http://www.belgeler.org/sag/sag.html)
 
@@ -144,7 +144,7 @@
 
 * [Ekonometriye Yeni Başlayanlar için Kısa bir R Kılavuzu](https://www.github.com/emraher/eybkbrk) - Emrah Er
 * [R for Data Science](http://tr.r4ds.hadley.nz) - Garrett Grolemund, Hadley Wickham, `trl.:` İsmail Bekar, `trl.:` Nurbahar Usta, `trl.:` Bilgecan Şen
-* [R ile Programlamaya Giriş ve Uygulamalar (2014)](http://inet-tr.org.tr/inetconf19/sunum/16.pdf) - Mustafa Gökçe Baydoğan, Berk Orbay, Uzay Çetin (PDF)
+* [R ile Programlamaya Giriş ve Uygulamalar (2014)](http://inet-tr.org.tr/inetconf19/sunum/16.pdf) - Mustafa Gökçe Baydoğan, Berk Orbay, Uzay Çetin (PDF). CC BY-SA
 
 
 ### Ruby
@@ -159,4 +159,4 @@
 ### Rust
 
 * [Rust ile CHIP-8 Emülatörü Geliştirme](https://onur.github.io/chip8) - Onur Aslan
-* [Rust'a Giriş](https://github.s3.amazonaws.com/downloads/vertexclique/vertexclique.github.io/Rusta-Giris-v1.pdf) - Mahmut Bulut (PDF)
+* [Rust'a Giriş](https://github.s3.amazonaws.com/downloads/vertexclique/vertexclique.github.io/Rusta-Giris-v1.pdf) - Mahmut Bulut (PDF). CC BY-SA

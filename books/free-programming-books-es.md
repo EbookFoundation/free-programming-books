@@ -69,46 +69,46 @@
 
 #### Algoritmos y Estructuras de Datos
 
-* [Algoritmos y Programación (Guía para docentes)](http://www.eduteka.org/pdfdir/AlgoritmosProgramacion.pdf) - Juan Carlos López García (PDF)
-* [Análisis, Diseño e Implantación de Algoritmos](http://fcasua.contad.unam.mx/apuntes/interiores/docs/20181/informatica/1/LI_1164_06097_A_Analisis_Diseno_Implantacion_Algoritmos_Plan2016.pdf) - Universidad Nacional Autónoma de México, Juan Alberto Adam Siade, Gilberto Manzano Peñaloza, René Montesano Brand, Luis Fernando Zúñiga López, et al. (PDF)
-* [Apuntes de Algoritmos y Estructuras de Datos](https://openlibra.com/en/book/download/apuntes-de-algoritmos-y-estructuras-de-datos) - Alejandro Santos (PDF)
-* [Breves Notas sobre Análisis de Algoritmos](https://lya.fciencias.unam.mx/jloa/publicaciones/analisisdeAlgoritmos.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF)
+* [Algoritmos y Programación (Guía para docentes)](http://www.eduteka.org/pdfdir/AlgoritmosProgramacion.pdf) - Juan Carlos López García (PDF). CC BY-SA
+* [Análisis, Diseño e Implantación de Algoritmos](http://fcasua.contad.unam.mx/apuntes/interiores/docs/20181/informatica/1/LI_1164_06097_A_Analisis_Diseno_Implantacion_Algoritmos_Plan2016.pdf) - Universidad Nacional Autónoma de México, Juan Alberto Adam Siade, Gilberto Manzano Peñaloza, René Montesano Brand, Luis Fernando Zúñiga López, et al. (PDF). CC BY-SA
+* [Apuntes de Algoritmos y Estructuras de Datos](https://openlibra.com/en/book/download/apuntes-de-algoritmos-y-estructuras-de-datos) - Alejandro Santos (PDF). CC BY-SA
+* [Breves Notas sobre Análisis de Algoritmos](https://lya.fciencias.unam.mx/jloa/publicaciones/analisisdeAlgoritmos.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF). CC BY-SA
 * [Fundamentos de Informática y Programación](https://informatica.uv.es/docencia/fguia/TI/Libro/Libro_Fundamentos_Inform_Program.htm) - Gregorio Martín Quetglás, Francisco Toledo Lobo, Vicente Cerverón Lleó (HTML)
 * [Fundamentos de programación](https://es.wikibooks.org/wiki/Fundamentos_de_programaci%C3%B3n) - WikiLibros
 * [Introducción a la programación](https://es.wikibooks.org/wiki/Introducci%C3%B3n_a_la_Programaci%C3%B3n) - WikiLibros
-* [Temas selectos de estructuras de datos](https://lya.fciencias.unam.mx/jloa/publicaciones/estructurasdeDatos.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF)
+* [Temas selectos de estructuras de datos](https://lya.fciencias.unam.mx/jloa/publicaciones/estructurasdeDatos.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF). CC BY-SA
 
 
 #### Base de Datos
 
-* [Apuntes de Base de Datos 1](http://rua.ua.es/dspace/bitstream/10045/2990/1/ApuntesBD1.pdf) - Eva Gómez Ballester, Patricio Martínez Barco, Paloma Moreda Pozo, Armando Suárez Cueto, Andrés Montoyo Guijarro, Estela Saquete Boro (PDF)
-* [Base de Datos (2005)](http://www.uoc.edu/masters/oficiales/img/913.pdf) - Rafael Camps Paré, Luis Alberto Casillas Santillán, Dolors Costal Costa, Marc Gibert Ginestà, Carme Martín Escofet, Oscar Pérez Mora (PDF)
-* [Base de Datos (2011)](https://openlibra.com/es/book/download/bases-de-datos-2) - Mercedes Marqués (PDF)
-* [Base de Datos Avanzadas (2013)](https://openlibra.com/es/book/download/bases-de-datos-avanzadas) - María José Aramburu Cabo, Ismael Sanz Blasco (PDF)
-* [Diseño Conceptual de Bases de Datos](https://openlibra.com/es/book/download/diseno-conceptual-de-bases-de-datos) - Jorge Sánchez (PDF)
+* [Apuntes de Base de Datos 1](http://rua.ua.es/dspace/bitstream/10045/2990/1/ApuntesBD1.pdf) - Eva Gómez Ballester, Patricio Martínez Barco, Paloma Moreda Pozo, Armando Suárez Cueto, Andrés Montoyo Guijarro, Estela Saquete Boro (PDF). CC BY-SA
+* [Base de Datos (2005)](http://www.uoc.edu/masters/oficiales/img/913.pdf) - Rafael Camps Paré, Luis Alberto Casillas Santillán, Dolors Costal Costa, Marc Gibert Ginestà, Carme Martín Escofet, Oscar Pérez Mora (PDF). CC BY-SA
+* [Base de Datos (2011)](https://openlibra.com/es/book/download/bases-de-datos-2) - Mercedes Marqués (PDF). CC BY-SA
+* [Base de Datos Avanzadas (2013)](https://openlibra.com/es/book/download/bases-de-datos-avanzadas) - María José Aramburu Cabo, Ismael Sanz Blasco (PDF). CC BY-SA
+* [Diseño Conceptual de Bases de Datos](https://openlibra.com/es/book/download/diseno-conceptual-de-bases-de-datos) - Jorge Sánchez (PDF). CC BY-SA
 
 
 #### Ciencia Computacional
 
-* [Breves Notas sobre Autómatas y Lenguajes](https://lya.fciencias.unam.mx/jloa/publicaciones/automatasyLenguajes.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF)
-* [Breves Notas sobre Complejidad](https://lya.fciencias.unam.mx/jloa/publicaciones/complejidad.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF)
-* [Breves Notas sobre Teoría de la Computación](https://lya.fciencias.unam.mx/jloa/publicaciones/teoria.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF)
-* [Teoría de la Computación: Lenguajes, Autómatas, Gramáticas](http://ciencias.bogota.unal.edu.co/fileadmin/Facultad_de_Ciencias/Publicaciones/Archivos_Libros/Libros_Matematicas/_Teoria_de_la_Computacion___lenguajes__automatas__gramaticas._/teoriacomputacion.pdf) - Rodrigo De Castro Korgi (PDF)
+* [Breves Notas sobre Autómatas y Lenguajes](https://lya.fciencias.unam.mx/jloa/publicaciones/automatasyLenguajes.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF). CC BY-SA
+* [Breves Notas sobre Complejidad](https://lya.fciencias.unam.mx/jloa/publicaciones/complejidad.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF). CC BY-SA
+* [Breves Notas sobre Teoría de la Computación](https://lya.fciencias.unam.mx/jloa/publicaciones/teoria.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF). CC BY-SA
+* [Teoría de la Computación: Lenguajes, Autómatas, Gramáticas](http://ciencias.bogota.unal.edu.co/fileadmin/Facultad_de_Ciencias/Publicaciones/Archivos_Libros/Libros_Matematicas/_Teoria_de_la_Computacion___lenguajes__automatas__gramaticas._/teoriacomputacion.pdf) - Rodrigo De Castro Korgi (PDF). CC BY-SA
 
 
 #### Inteligencia Artificial
 
-* [Deep Learning](http://www.uhu.es/publicaciones/?q=libros&code=1252) - Isaac Pérez Borrero, Manuel E. Gegúndez Arias (PDF)
+* [Deep Learning](http://www.uhu.es/publicaciones/?q=libros&code=1252) - Isaac Pérez Borrero, Manuel E. Gegúndez Arias (PDF). CC BY-SA
 * [Libro online de IAAR](https://iaarbook.github.io) - Raúl E. López Briega, IAAR (HTML)
 
 
 #### Metodologías de desarrollo de software
 
-* [Ingeniería de Software: Una Guía para Crear Sistemas de Información](https://web.archive.org/web/20150824055042/http://www.wolnm.org/apa/articulos/Ingenieria_Software.pdf) - Alejandro Peña Ayala (PDF)
-* [Scrum & Extreme Programming (para programadores)](https://web.archive.org/web/20140209204645/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-agile.pdf) - Eugenia Bahit (PDF)
-* [Scrum Level](https://scrumlevel.com/files/scrumlevel.pdf) - Juan Palacio, Scrum Manager (PDF) [(EPUB)](https://scrumlevel.com/files/scrumlevel.epub)
-* [Scrum Master - Temario troncal 1](https://scrummanager.net/files/scrum_master.pdf) - Marta Palacio, Scrum Manager (PDF) [(EPUB)](https://scrummanager.net/files/scrum_master.epub)
-* [Scrum y XP desde las trincheras](http://www.proyectalis.com/wp-content/uploads/2008/02/scrum-y-xp-desde-las-trincheras.pdf) - Henrik Kniberg, `trl.:` proyectalis.com (PDF)
+* [Ingeniería de Software: Una Guía para Crear Sistemas de Información](https://web.archive.org/web/20150824055042/http://www.wolnm.org/apa/articulos/Ingenieria_Software.pdf) - Alejandro Peña Ayala (PDF). CC BY-SA
+* [Scrum & Extreme Programming (para programadores)](https://web.archive.org/web/20140209204645/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-agile.pdf) - Eugenia Bahit (PDF). CC BY-SA
+* [Scrum Level](https://scrumlevel.com/files/scrumlevel.pdf) - Juan Palacio, Scrum Manager (PDF). CC BY-SA [(EPUB)](https://scrumlevel.com/files/scrumlevel.epub)
+* [Scrum Master - Temario troncal 1](https://scrummanager.net/files/scrum_master.pdf) - Marta Palacio, Scrum Manager (PDF). CC BY-SA [(EPUB)](https://scrummanager.net/files/scrum_master.epub)
+* [Scrum y XP desde las trincheras](http://www.proyectalis.com/wp-content/uploads/2008/02/scrum-y-xp-desde-las-trincheras.pdf) - Henrik Kniberg, `trl.:` proyectalis.com (PDF). CC BY-SA
 
 
 #### Misceláneos
@@ -116,34 +116,34 @@
 * [97 cosas que todo programador debería saber](http://97cosas.com/programador/) - Kevlin Henney, `trl.:` Espartaco Palma, `trl.:` Natán Calzolari (HTML)
 * [Docker](https://github.com/brunocascio/docker-espanol#docker) - Bruno Cascio (GitHub)
 * [El camino a un mejor programador](http://emanchado.github.io/camino-mejor-programador/downloads/camino_2013-01-19_0688b6e.html) - Esteban Manchado Velázquez, Joaquín Caraballo Moreno, Yeray Darias Camacho (HTML) [(PDF, ePub)](http://emanchado.github.io/camino-mejor-programador/)
-* [Introducción a Docker](https://www.rediris.es/tecniris/archie/doc/TECNIRIS47-1b.pdf) - Benito Cuesta, Salvador González (PDF)
-* [Los Apuntes de Majo](https://losapuntesdemajo.vercel.app) - Majo Ledesma (PDF)
-* [Programación de videojuegos SDL](http://libros.metabiblioteca.org/bitstream/001/271/8/Programacion_Videojuegos_SDL.pdf) - Alberto García Serrano (PDF)
+* [Introducción a Docker](https://www.rediris.es/tecniris/archie/doc/TECNIRIS47-1b.pdf) - Benito Cuesta, Salvador González (PDF). CC BY-SA
+* [Los Apuntes de Majo](https://losapuntesdemajo.vercel.app) - Majo Ledesma (PDF). CC BY-SA
+* [Programación de videojuegos SDL](http://libros.metabiblioteca.org/bitstream/001/271/8/Programacion_Videojuegos_SDL.pdf) - Alberto García Serrano (PDF). CC BY-SA
 
 
 #### Sistemas Operativos
 
-* [Fundamentos de Sistemas Operativos](http://sistop.org/pdf/sistemas_operativos.pdf) - Gunnar Wolf, Esteban Ruiz, Federico Bergero, Erwin Meza, et al. (PDF)
-* [Sistemas Operativos](http://sistop.gwolf.org/html/biblio/Sistemas_Operativos_-_Luis_La_Red_Martinez.pdf) - David Luis la Red Martinez (PDF)
+* [Fundamentos de Sistemas Operativos](http://sistop.org/pdf/sistemas_operativos.pdf) - Gunnar Wolf, Esteban Ruiz, Federico Bergero, Erwin Meza, et al. (PDF). CC BY-SA
+* [Sistemas Operativos](http://sistop.gwolf.org/html/biblio/Sistemas_Operativos_-_Luis_La_Red_Martinez.pdf) - David Luis la Red Martinez (PDF). CC BY-SA
 
 
 ### Android
 
 * [Curso Android](https://www.develou.com/android/) (HTML)
-* [Manual de Programación Android v.2.0](http://ns2.elhacker.net/timofonica/manuales/Manual_Programacion_Android_v2.0.pdf) - Salvador Gómez Oliver (PDF)
+* [Manual de Programación Android v.2.0](http://ns2.elhacker.net/timofonica/manuales/Manual_Programacion_Android_v2.0.pdf) - Salvador Gómez Oliver (PDF). CC BY-SA
 
 
 ### <a id="cpp"></a>C++
 
-* [Aprenda C++ avanzado como si estuviera en primero](https://web.archive.org/web/20100701020037/http://www.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/cpp/avanzado/cppavan.pdf) - Paul Bustamante, Iker Aguinaga, Miguel Aybar, Luis Olaizola, Iñigo Lazcano (PDF)
-* [Aprenda C++ básico como si estuviera en primero](https://web.archive.org/web/20100701020025/http://www.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/cpp/basico/cppbasico.pdf) - Paul Bustamante, Iker Aguinaga, Miguel Aybar, Luis Olaizola, Iñigo Lazcano (PDF)
+* [Aprenda C++ avanzado como si estuviera en primero](https://web.archive.org/web/20100701020037/http://www.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/cpp/avanzado/cppavan.pdf) - Paul Bustamante, Iker Aguinaga, Miguel Aybar, Luis Olaizola, Iñigo Lazcano (PDF). CC BY-SA
+* [Aprenda C++ básico como si estuviera en primero](https://web.archive.org/web/20100701020025/http://www.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/cpp/basico/cppbasico.pdf) - Paul Bustamante, Iker Aguinaga, Miguel Aybar, Luis Olaizola, Iñigo Lazcano (PDF). CC BY-SA
 * [Ejercicios de programación creativos y recreativos en C++](http://antares.sip.ucm.es/cpareja/libroCPP/) - Luis Llana, Carlos Gregorio, Raquel Martínez, Pedro Palao, Cristóbal Pareja (HTML)
 
 
 ### Ensamblador
 
 * [Curso ASM de 80x86 por AESOFT](http://redeya.bytemaniacos.com/electronica/cursos/aesoft.htm) - Francisco Jesus Riquelme (HTML)
-* [Lenguaje Ensamblador para PC](https://pacman128.github.io/static/pcasm-book-spanish.pdf) - Paul A. Carter, `trl.:` Leonardo Rodríguez Mújica (PDF)
+* [Lenguaje Ensamblador para PC](https://pacman128.github.io/static/pcasm-book-spanish.pdf) - Paul A. Carter, `trl.:` Leonardo Rodríguez Mújica (PDF). CC BY-SA
 
 
 ### Erlang
@@ -168,37 +168,37 @@
 ### Haskell
 
 * [¡Aprende Haskell por el bien de todos!](http://aprendehaskell.es/main.html) (HTML)
-* [Piensa en Haskell (ejercicios de programación funcional)](http://www.cs.us.es/~jalonso/publicaciones/Piensa_en_Haskell.pdf) - José A. Alonso Jiménez, Mª José Hidalgo Doblado (PDF)
+* [Piensa en Haskell (ejercicios de programación funcional)](http://www.cs.us.es/~jalonso/publicaciones/Piensa_en_Haskell.pdf) - José A. Alonso Jiménez, Mª José Hidalgo Doblado (PDF). CC BY-SA
 
 
 ### HTML and CSS
 
-* [99 tips para Web Development](https://fmontes.gumroad.com/l/99tips) - Freddy Montes (PDF) (se solicita email)
-* [CSS avanzado](http://librosweb.es/libro/css_avanzado) - Javier Eguíluz Pérez (HTML) [(PDF)](https://openlibra.com/es/book/download/css-avanzado)
-* [CSS3 y JavaScript avanzado](https://openlibra.com/es/book/download/css3-y-javascript-avanzado) - Jordi Collell Puig (PDF)
+* [99 tips para Web Development](https://fmontes.gumroad.com/l/99tips) - Freddy Montes (PDF). CC BY-SA (se solicita email)
+* [CSS avanzado](http://librosweb.es/libro/css_avanzado) - Javier Eguíluz Pérez (HTML) [(PDF). CC BY-SA](https://openlibra.com/es/book/download/css-avanzado)
+* [CSS3 y JavaScript avanzado](https://openlibra.com/es/book/download/css3-y-javascript-avanzado) - Jordi Collell Puig (PDF). CC BY-SA
 * [Diseño de Interfaces Web](http://interfacesweb.github.io/unidades/) - Pedro Prieto (HTML)
 * [El gran libro del diseño web](https://freeditorial.com/es/books/el-gran-libro-del-diseno-web) - Rither Cobeña C (HTML, PDF, EPUB, Kindle)
 * [Estructura con CSS](http://es.learnlayout.com) - Greg Smith, Isaac Durazo, `trl.:` Isaac Durazo (HTML)
-* [Guía Completa de CSS3](https://openlibra.com/es/book/download/guia-completa-de-css3) - Antonio Navajas Ojeda (PDF)
-* [HTML5](https://openlibra.com/es/book/html5) - Arkaitz Garro (PDF)
-* [Introducción a CSS](http://librosweb.es/libro/css/) - Javier Eguíluz Pérez (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-a-css)
+* [Guía Completa de CSS3](https://openlibra.com/es/book/download/guia-completa-de-css3) - Antonio Navajas Ojeda (PDF). CC BY-SA
+* [HTML5](https://openlibra.com/es/book/html5) - Arkaitz Garro (PDF). CC BY-SA
+* [Introducción a CSS](http://librosweb.es/libro/css/) - Javier Eguíluz Pérez (HTML) [(PDF). CC BY-SA](https://openlibra.com/es/book/download/introduccion-a-css)
 
 
 ### Java
 
-* [Aprendiendo Java y POO (2008)](https://openlibra.com/es/book/download/aprendiendo-java-y-poo) - Gustavo Guillermo Pérez (PDF)
+* [Aprendiendo Java y POO (2008)](https://openlibra.com/es/book/download/aprendiendo-java-y-poo) - Gustavo Guillermo Pérez (PDF). CC BY-SA
 * [Curso Jakarta EE 9](https://danielme.com/curso-jakarta-ee-indice/) - Daniel Medina
-* [Desarrollando con Java 8: Poker](https://ia601504.us.archive.org/21/items/DesarrollandoConJava8Poker/DesarrollandoConJava8Poker.pdf) - David Pérez Cabrera (PDF)
-* [Desarrollo de proyectos informáticos con Java](http://www3.uji.es/~belfern/libroJava.pdf) - Óscar Belmonte Fernández, Carlos Granell Canut, María del Carmen Erdozain Navarro, et al. (PDF)
-* [Ejercicios de Programación en Java](https://www.arkaitzgarro.com/java/) - Arkaitz Garro, Javier Eguíluz Pérez, A. García-Beltrán, J.M. Arranz (PDF)
-* [Notas de Introducción al Lenguaje de Programación Java (2004)](https://lya.fciencias.unam.mx/jloa/publicaciones/introduccionJava.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF)
-* [Pensando la computación como un científico (con Java)](http://www.ungs.edu.ar/cm/uploaded_files/publicaciones/476_cid03-Pensar%20la%20computacion.pdf) (PDF)
-* [PlugIn Apache Tapestry: desarrollo de aplicaciones y páginas web](https://picodotdev.github.io/blog-bitix/assets/custom/PlugInTapestry.pdf) - picodotdev (PDF) ([EPUB](https://picodotdev.github.io/blog-bitix/assets/custom/PlugInTapestry.epub), [Kindle](https://picodotdev.github.io/blog-bitix/assets/custom/PlugInTapestry.mobi), [:package: código fuente ejemplos](https://github.com/picodotdev/blog-ejemplos/tree/HEAD/PlugInTapestry))
-* [Prácticas de Java (2009)](https://openlibra.com/es/book/download/practicas-de-java) - Gorka Prieto Agujeta, et al. (PDF)
-* [Preparando JavaSun 6 - OCPJP6](https://github.com/PabloReyes/ocpjp-resumen-espanol#ocpjp6-resumen-español) - Pablo Reyes Almagro (GitHub) [(PDF)](https://github.com/PabloReyes/ocpjp-resumen-espanol/blob/master/OCPJP6%20Resumen.pdf)
+* [Desarrollando con Java 8: Poker](https://ia601504.us.archive.org/21/items/DesarrollandoConJava8Poker/DesarrollandoConJava8Poker.pdf) - David Pérez Cabrera (PDF). CC BY-SA
+* [Desarrollo de proyectos informáticos con Java](http://www3.uji.es/~belfern/libroJava.pdf) - Óscar Belmonte Fernández, Carlos Granell Canut, María del Carmen Erdozain Navarro, et al. (PDF). CC BY-SA
+* [Ejercicios de Programación en Java](https://www.arkaitzgarro.com/java/) - Arkaitz Garro, Javier Eguíluz Pérez, A. García-Beltrán, J.M. Arranz (PDF). CC BY-SA
+* [Notas de Introducción al Lenguaje de Programación Java (2004)](https://lya.fciencias.unam.mx/jloa/publicaciones/introduccionJava.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF). CC BY-SA
+* [Pensando la computación como un científico (con Java)](http://www.ungs.edu.ar/cm/uploaded_files/publicaciones/476_cid03-Pensar%20la%20computacion.pdf) (PDF). CC BY-SA
+* [PlugIn Apache Tapestry: desarrollo de aplicaciones y páginas web](https://picodotdev.github.io/blog-bitix/assets/custom/PlugInTapestry.pdf) - picodotdev (PDF). CC BY-SA ([EPUB](https://picodotdev.github.io/blog-bitix/assets/custom/PlugInTapestry.epub), [Kindle](https://picodotdev.github.io/blog-bitix/assets/custom/PlugInTapestry.mobi), [:package: código fuente ejemplos](https://github.com/picodotdev/blog-ejemplos/tree/HEAD/PlugInTapestry))
+* [Prácticas de Java (2009)](https://openlibra.com/es/book/download/practicas-de-java) - Gorka Prieto Agujeta, et al. (PDF). CC BY-SA
+* [Preparando JavaSun 6 - OCPJP6](https://github.com/PabloReyes/ocpjp-resumen-espanol#ocpjp6-resumen-español) - Pablo Reyes Almagro (GitHub) [(PDF). CC BY-SA](https://github.com/PabloReyes/ocpjp-resumen-espanol/blob/master/OCPJP6%20Resumen.pdf)
 * [Programación en Java](http://elvex.ugr.es/decsai/java/) - Fernando Berzal Galiano (HTML)
-* [Tutorial básico de Java EE](http://static1.1.sqspcdn.com/static/f/923743/14770633/1416082087870/JavaEE.pdf) - Abraham Otero (PDF)
-* [Tutorial introducción a Maven 3](http://static1.1.sqspcdn.com/static/f/923743/15025126/1320942755733/Tutorial_de_Maven_3_Erick_Camacho.pdf) - Erick Camacho (PDF)
+* [Tutorial básico de Java EE](http://static1.1.sqspcdn.com/static/f/923743/14770633/1416082087870/JavaEE.pdf) - Abraham Otero (PDF). CC BY-SA
+* [Tutorial introducción a Maven 3](http://static1.1.sqspcdn.com/static/f/923743/15025126/1320942755733/Tutorial_de_Maven_3_Erick_Camacho.pdf) - Erick Camacho (PDF). CC BY-SA
 
 
 ### JavaScript
@@ -206,8 +206,8 @@
 * [El Tutorial de JavaScript Moderno](https://es.javascript.info) - Ilya Kantor, Elizabeth Portilla, joaquinelio, Ezequiel Castellanos, et al. (HTML)
 * [Eloquent JavaScript](https://eloquentjs-es.thedojo.mx) - Marijn Haverbeke, `trl.:` Various (HTML, PDF, EPUB, MOBI)
 * [Guía de JavaScript 'Mozilla'](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide) (HTML)
-* [Introducción a AJAX](http://librosweb.es/libro/ajax) - Javier Eguíluz Pérez (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-ajax)
-* [Introducción a JavaScript](http://librosweb.es/libro/javascript) - Javier Eguíluz Pérez (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-a-javascript)
+* [Introducción a AJAX](http://librosweb.es/libro/ajax) - Javier Eguíluz Pérez (HTML) [(PDF). CC BY-SA](https://openlibra.com/es/book/download/introduccion-ajax)
+* [Introducción a JavaScript](http://librosweb.es/libro/javascript) - Javier Eguíluz Pérez (HTML) [(PDF). CC BY-SA](https://openlibra.com/es/book/download/introduccion-a-javascript)
 * [JavaScript, ¡Inspírate!](https://leanpub.com/javascript-inspirate) - Ulises Gascón González (Leanpub cuenta requerida)
 * [JavaScript Definitivo Vol. I](https://github.com/afuggini/javascript-definitivo-vol1) - Ariel Fuggini (HTML)
 * [JavaScript Para Gatos](https://jsparagatos.com) - Maxwell Ogden, `trl.:` Dan Zajdband (HTML)
@@ -230,14 +230,14 @@
 
 #### jQuery
 
-* [Fundamentos de jQuery](https://librosweb.es/libro/fundamentos_jquery) - Rebecca Murphey, `trl.:` Leandro D'Onofrio (HTML) [(PDF)](https://openlibra.com/es/book/download/fundamentos-de-jquery)
+* [Fundamentos de jQuery](https://librosweb.es/libro/fundamentos_jquery) - Rebecca Murphey, `trl.:` Leandro D'Onofrio (HTML) [(PDF). CC BY-SA](https://openlibra.com/es/book/download/fundamentos-de-jquery)
 * [Manual de jQuery](http://mundosica.github.io/tutorial_hispano_jQuery/) - MundoSICA, et al. (HTML, PDF)
 
 
 #### Node.js
 
 * [El Libro para Principiantes en Node.js](https://www.nodebeginner.org/index-es.html) -  Manuel Kiessling, Herman A. Junge (HTML)
-* [Introducción a Node.js a través de Koans](http://nodejskoans.com) - Arturo Muñoz de la Torre (PDF)
+* [Introducción a Node.js a través de Koans](http://nodejskoans.com) - Arturo Muñoz de la Torre (PDF). CC BY-SA
 
 
 #### React
@@ -253,8 +253,8 @@
 
 ### LaTeX
 
-* [Edición de textos científicos con LaTeX. Composición, gráficos, diseño editorial y presentaciones beamer](https://tecdigital.tec.ac.cr/servicios/revistamatematica/Libros/LaTeX/MoraW_BorbonA_LibroLaTeX.pdf) - Walter Mora F., Alexander Borbón A. (PDF)
-* [La introducción no-tan-corta a LaTeX 2ε](http://osl.ugr.es/CTAN/info/lshort/spanish/lshort-a4.pdf) - Tobias Oetiker, Hubert Partl, Irene Hyna, Elisabeth Schlegl, `trl.:` Enrique Carleos Artime, `trl.:` Daniel Cuevas, `trl.:` J. Luis Rivera (PDF)
+* [Edición de textos científicos con LaTeX. Composición, gráficos, diseño editorial y presentaciones beamer](https://tecdigital.tec.ac.cr/servicios/revistamatematica/Libros/LaTeX/MoraW_BorbonA_LibroLaTeX.pdf) - Walter Mora F., Alexander Borbón A. (PDF). CC BY-SA
+* [La introducción no-tan-corta a LaTeX 2ε](http://osl.ugr.es/CTAN/info/lshort/spanish/lshort-a4.pdf) - Tobias Oetiker, Hubert Partl, Irene Hyna, Elisabeth Schlegl, `trl.:` Enrique Carleos Artime, `trl.:` Daniel Cuevas, `trl.:` J. Luis Rivera (PDF). CC BY-SA
 
 
 ### Linux
@@ -276,7 +276,7 @@
 
 ### .NET (C# / Visual Studio)
 
-* [El lenguaje de programación C#](http://dis.um.es/~bmoros/privado/bibliografia/LibroCsharp.pdf) - José Antonio González Seco (PDF)
+* [El lenguaje de programación C#](http://dis.um.es/~bmoros/privado/bibliografia/LibroCsharp.pdf) - José Antonio González Seco (PDF). CC BY-SA
 * [Guía de Arquitectura N-capas Orientadas al Dominio](https://blogs.msdn.microsoft.com/cesardelatorre/2010/03/11/nuestro-nuevo-libro-guia-de-arquitectura-n-capas-ddd-net-4-0-y-aplicacion-ejemplo-en-disponibles-para-download-en-msdn-y-codeplex) - Cesar De la Torre (HTML)
 
 
@@ -284,7 +284,7 @@
 
 #### DynamoDB
 
-* [Aprendizaje amazon-dynamodb](https://riptutorial.com/Download/amazon-dynamodb-es.pdf) - Compiled from StackOverflow documentation (PDF)
+* [Aprendizaje amazon-dynamodb](https://riptutorial.com/Download/amazon-dynamodb-es.pdf) - Compiled from StackOverflow documentation (PDF). CC BY-SA
 
 
 #### MongoDB
@@ -301,46 +301,46 @@
 ### PHP
 
 * [Domain Driven Design with PHP (Diseño guiado por Dominio con PHP)](https://www.youtube.com/playlist?list=PLfgj7DYkKH3DjmXTOxIMs-5fcOgDg_Dd2) - Carlos Buenosvinos Zamora (YouTube playlist)
-* [Manual de estudio introductorio al lenguaje PHP procedural](https://web.archive.org/web/20140209203630/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-php.pdf) - Eugenia Bahit (PDF)
+* [Manual de estudio introductorio al lenguaje PHP procedural](https://web.archive.org/web/20140209203630/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-php.pdf) - Eugenia Bahit (PDF). CC BY-SA
 * [PHP y Programación orientada a objetos](https://styde.net/php-y-programacion-orientada-a-objetos/) - Duilio Palacios (HTML)
-* [POO y MVC en PHP](https://bibliotecafacet.com.ar/wp-content/uploads/2014/12/eugeniabahitpooymvcenphp.pdf) - Eugenia Bahit (PDF)
+* [POO y MVC en PHP](https://bibliotecafacet.com.ar/wp-content/uploads/2014/12/eugeniabahitpooymvcenphp.pdf) - Eugenia Bahit (PDF). CC BY-SA
 * [Programación en PHP a través de ejemplos](https://openlibra.com/es/book/programacion-en-php-a-traves-de-ejemplos) - Manuel Palomo Duarte, Ildefonso Montero Pérez (HTML)
-* [Programación web avanzada: Ajax y Google Maps](http://rua.ua.es/dspace/bitstream/10045/13176/9/04-ajaxphp.pdf) - Sergio Luján Mora, Universidad de Colima (PDF)
+* [Programación web avanzada: Ajax y Google Maps](http://rua.ua.es/dspace/bitstream/10045/13176/9/04-ajaxphp.pdf) - Sergio Luján Mora, Universidad de Colima (PDF). CC BY-SA
 * [Silex, el manual oficial](http://librosweb.es/libro/silex) - Igor Wiedler, `trl.:` Javier Eguíluz Pérez (HTML)
 
 
 #### Symfony
 
-* [Symfony 1.4, la guía definitiva](http://librosweb.es/libro/symfony_1_4) - Fabien Potencier, François Zaninotto, `trl.:` Javier Eguíluz Pérez (HTML) [(PDF)](https://openlibra.com/es/book/download/symfony-la-guia-definitiva)
-* [Symfony 2.4, el libro oficial](http://librosweb.es/libro/symfony_2_4/) - Fabien Potencier, Ryan Weaver, `trl.:` Javier Eguíluz Pérez (HTML) [(PDF)](https://openlibra.com/es/book/download/manual-de-symfony2-ver-2-0-12)
+* [Symfony 1.4, la guía definitiva](http://librosweb.es/libro/symfony_1_4) - Fabien Potencier, François Zaninotto, `trl.:` Javier Eguíluz Pérez (HTML) [(PDF). CC BY-SA](https://openlibra.com/es/book/download/symfony-la-guia-definitiva)
+* [Symfony 2.4, el libro oficial](http://librosweb.es/libro/symfony_2_4/) - Fabien Potencier, Ryan Weaver, `trl.:` Javier Eguíluz Pérez (HTML) [(PDF). CC BY-SA](https://openlibra.com/es/book/download/manual-de-symfony2-ver-2-0-12)
 * [Symfony 5: La Vía Rápida](https://web.archive.org/web/20210805141343/https://symfony.com/doc/current/the-fast-track/es/index.html) - Fabien Potencier (HTML)
 
 
 ### Perl
 
-* [Tutorial Perl](http://es.tldp.org/Tutoriales/PERL/tutoperl-print.pdf) - Juan Julián Merelo Guervós (PDF)
-* [Tutorial Perl](http://kataix.umag.cl/~ruribe/Utilidades/Tutorial%20de%20Perl.pdf) (PDF)
+* [Tutorial Perl](http://es.tldp.org/Tutoriales/PERL/tutoperl-print.pdf) - Juan Julián Merelo Guervós (PDF). CC BY-SA
+* [Tutorial Perl](http://kataix.umag.cl/~ruribe/Utilidades/Tutorial%20de%20Perl.pdf) (PDF). CC BY-SA
 * [Tutoriales de Perl](http://perlenespanol.com/tutoriales/) - Uriel Lizama (HTML)
 
 
 ### Perl 6 / Raku
 
-* [Piensa en Perl 6](https://uzluisf.gitlab.io/piensaperl6/) - Laurent Rosenfeld, Allen B. Downey, `trl.:` Luis F. Uceta (PDF)
+* [Piensa en Perl 6](https://uzluisf.gitlab.io/piensaperl6/) - Laurent Rosenfeld, Allen B. Downey, `trl.:` Luis F. Uceta (PDF). CC BY-SA
 
 
 ### Python
 
-* [Aprenda a pensar como un programador (con Python)](https://argentinaenpython.com/quiero-aprender-python/aprenda-a-pensar-como-un-programador-con-python.pdf) - Allen Downey, Jeffrey Elkner, Chris Meyers, `trl.:` Miguel Ángel Vilella, `trl.:` Ángel Arnal, `trl.:` Iván Juanes, `trl.:` Litza Amurrio, `trl.:` Efrain Andia, `trl.:` César Ballardini (PDF)
+* [Aprenda a pensar como un programador (con Python)](https://argentinaenpython.com/quiero-aprender-python/aprenda-a-pensar-como-un-programador-con-python.pdf) - Allen Downey, Jeffrey Elkner, Chris Meyers, `trl.:` Miguel Ángel Vilella, `trl.:` Ángel Arnal, `trl.:` Iván Juanes, `trl.:` Litza Amurrio, `trl.:` Efrain Andia, `trl.:` César Ballardini (PDF). CC BY-SA
 * [Aprende Python](https://aprendepython.es) - Sergio Delgado Quintero (HTML, PDF)
-* [Aprendiendo a Programar en Python con mi Computador](https://openlibra.com/en/book/download/aprendiendo-a-programar-en-python-con-mi-computador) (PDF)
+* [Aprendiendo a Programar en Python con mi Computador](https://openlibra.com/en/book/download/aprendiendo-a-programar-en-python-con-mi-computador) (PDF). CC BY-SA
 * [Doma de Serpientes para Niños: Aprendiendo a Programar con Python](http://code.google.com/p/swfk-es/) (HTML)
 * [Inmersión en Python](https://code.google.com/archive/p/inmersionenpython3/) (HTML)
-* [Inmersión en Python 3](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/inmersionenpython3/inmersionEnPython3.0.11.pdf) - Mark Pilgrim, `trl.:` José Miguel González Aguilera (PDF) (descarga directa)
-* [Introducción a la programación con Python](http://repositori.uji.es/xmlui/bitstream/handle/10234/24305/s23.pdf) - Andrés Marzal, Isabel Gracia (PDF)
+* [Inmersión en Python 3](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/inmersionenpython3/inmersionEnPython3.0.11.pdf) - Mark Pilgrim, `trl.:` José Miguel González Aguilera (PDF). CC BY-SA (descarga directa)
+* [Introducción a la programación con Python](http://repositori.uji.es/xmlui/bitstream/handle/10234/24305/s23.pdf) - Andrés Marzal, Isabel Gracia (PDF). CC BY-SA
 * [Introducción a Programando con Python](http://opentechschool.github.io/python-beginners/es_CL/) - OpenTechSchool, et al. (HTML)
 * [Python para ciencia e ingeniería](https://github.com/mgaitan/curso-python-cientifico#curso-de-python-para-ciencias-e-ingenierías) - Martín Gaitán (GitHub)
-* [Python para principiantes](http://librosweb.es/libro/python) - Eugenia Bahit (HTML) [(PDF)](https://web.archive.org/web/20150421012120/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-python.pdf)
-* [Python para todos](https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf) - Raúl González Duque (PDF)
+* [Python para principiantes](http://librosweb.es/libro/python) - Eugenia Bahit (HTML) [(PDF). CC BY-SA](https://web.archive.org/web/20150421012120/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-python.pdf)
+* [Python para todos](https://launchpadlibrarian.net/18980633/Python%20para%20todos.pdf) - Raúl González Duque (PDF). CC BY-SA
 
 
 #### Django
@@ -369,26 +369,26 @@
 
 ### R
 
-* [Cartas sobre Estadística de la Revista Argentina de Bioingeniería](http://cran.r-project.org/doc/contrib/Risk-Cartas-sobre-Estadistica.pdf) - Marcelo R. Risk (PDF)
-* [Generación automática de reportes con R y LaTeX](http://cran.r-project.org/doc/contrib/Rivera-Tutorial_Sweave.pdf) - Mario Alfonso Morales Rivera (PDF)
-* [Gráficos Estadísticos con R](http://cran.r-project.org/doc/contrib/grafi3.pdf) - Juan Carlos Correa, Nelfi González (PDF)
-* [Introducción a R](http://cran.r-project.org/doc/contrib/R-intro-1.1.0-espanol.1.pdf) - R Development Core Team, `trl.:` Andrés González, `trl.:` Silvia González (PDF)
-* [Introducción al uso y programación del sistema estadístico R](http://cran.r-project.org/doc/contrib/curso-R.Diaz-Uriarte.pdf) - Ramón Díaz-Uriarte (PDF)
-* [Métodos Estadísticos con R y R Commander](http://cran.r-project.org/doc/contrib/Saez-Castillo-RRCmdrv21.pdf) - Antonio José Sáez Castillo (PDF)
-* [Optimización Matemática con R: Volúmen I](http://cran.r-project.org/doc/contrib/Optimizacion_Matematica_con_R_Volumen_I.pdf) - Enrique Gabriel Baquela, Andrés Redchuk (PDF)
-* [R para Principiantes](http://cran.r-project.org/doc/contrib/rdebuts_es.pdf) - Michel Schinz, Philipp Haller, `trl.:` Juanjo Bazán (PDF)
+* [Cartas sobre Estadística de la Revista Argentina de Bioingeniería](http://cran.r-project.org/doc/contrib/Risk-Cartas-sobre-Estadistica.pdf) - Marcelo R. Risk (PDF). CC BY-SA
+* [Generación automática de reportes con R y LaTeX](http://cran.r-project.org/doc/contrib/Rivera-Tutorial_Sweave.pdf) - Mario Alfonso Morales Rivera (PDF). CC BY-SA
+* [Gráficos Estadísticos con R](http://cran.r-project.org/doc/contrib/grafi3.pdf) - Juan Carlos Correa, Nelfi González (PDF). CC BY-SA
+* [Introducción a R](http://cran.r-project.org/doc/contrib/R-intro-1.1.0-espanol.1.pdf) - R Development Core Team, `trl.:` Andrés González, `trl.:` Silvia González (PDF). CC BY-SA
+* [Introducción al uso y programación del sistema estadístico R](http://cran.r-project.org/doc/contrib/curso-R.Diaz-Uriarte.pdf) - Ramón Díaz-Uriarte (PDF). CC BY-SA
+* [Métodos Estadísticos con R y R Commander](http://cran.r-project.org/doc/contrib/Saez-Castillo-RRCmdrv21.pdf) - Antonio José Sáez Castillo (PDF). CC BY-SA
+* [Optimización Matemática con R: Volúmen I](http://cran.r-project.org/doc/contrib/Optimizacion_Matematica_con_R_Volumen_I.pdf) - Enrique Gabriel Baquela, Andrés Redchuk (PDF). CC BY-SA
+* [R para Principiantes](http://cran.r-project.org/doc/contrib/rdebuts_es.pdf) - Michel Schinz, Philipp Haller, `trl.:` Juanjo Bazán (PDF). CC BY-SA
 
 
 ### Scala
 
-* [Manual de Scala para programadores Java](http://www.scala-lang.org/docu/files/ScalaTutorial-es_ES.pdf) - Emmanuel Paradis, `trl.:` Jorge A. Ahumada (PDF)
+* [Manual de Scala para programadores Java](http://www.scala-lang.org/docu/files/ScalaTutorial-es_ES.pdf) - Emmanuel Paradis, `trl.:` Jorge A. Ahumada (PDF). CC BY-SA
 * [Scala con Ejemplos](https://github.com/ErunamoJAZZ/ScalaByExample-es) - Martin Odersky, `trl.:` Daniel Erunamo *(:construction: en proceso)*
 
 
 ### Scratch
 
-* [Informática Creativa](https://github.com/programamos/GuiaScratch) - Karen Brennan, Christan Balch, Michelle Chung, `trl.:` programamos (PDF)
-* [Manual de Scratch 2](http://lsi.vc.ehu.es/pablogn/docencia/FdI/Scratch/Aprenda%20a%20programar%20con%20Scratch%20en%20un%20par%20de%20tardes.pdf) - Pablo González Nalda (PDF)
+* [Informática Creativa](https://github.com/programamos/GuiaScratch) - Karen Brennan, Christan Balch, Michelle Chung, `trl.:` programamos (PDF). CC BY-SA
+* [Manual de Scratch 2](http://lsi.vc.ehu.es/pablogn/docencia/FdI/Scratch/Aprenda%20a%20programar%20con%20Scratch%20en%20un%20par%20de%20tardes.pdf) - Pablo González Nalda (PDF). CC BY-SA
 
 
 ### SQL
@@ -404,7 +404,7 @@
 
 ### TypeScript
 
-* [Aprendizaje TypeScript](https://riptutorial.com/Download/typescript-es.pdf) - Compiled from StackOverflow Documentation (PDF)
+* [Aprendizaje TypeScript](https://riptutorial.com/Download/typescript-es.pdf) - Compiled from StackOverflow Documentation (PDF). CC BY-SA
 * [Introduccion a TypeScript](https://khru.gitbooks.io/typescript/) - Emmanuel Valverde Ramos (HTML)
 * [TypeScript Deep Dive](https://github.com/melissarofman/typescript-book) - Basarat Ali Syed, `trl.:` Melissa Rofman (HTML)
 * [Uso avanzado de TypeScript en un ejemplo real](https://neliosoftware.com/es/blog/uso-avanzado-de-typescript/) - Nelio Software (HTML)
@@ -414,6 +414,6 @@
 
 > :information_source: Véase también &#8230; [AngularJS](#angularjs)
 
-* [Aprendizaje Angular](https://riptutorial.com/Download/angular-es.pdf) - Compiled from StackOverflow Documentation (PDF)
-* [Aprendizaje Angular 2](https://riptutorial.com/Download/angular-2-es.pdf) - Compiled from StackOverflow Documentation (PDF)
+* [Aprendizaje Angular](https://riptutorial.com/Download/angular-es.pdf) - Compiled from StackOverflow Documentation (PDF). CC BY-SA
+* [Aprendizaje Angular 2](https://riptutorial.com/Download/angular-2-es.pdf) - Compiled from StackOverflow Documentation (PDF). CC BY-SA
 * [Entendiendo Angular](https://jorgeucano.gitbook.io/entendiendo-angular/) - Jorge Cano

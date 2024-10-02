@@ -7,7 +7,7 @@
 
 ### Algorismes i Estructures de Dades
 
-* [Apropament a les estructures de dades des del programari lliure](https://repositori.udl.cat/bitstream/handle/10459.1/63471/Eines%20Josep%20M%20Ribo%20electronic.pdf?sequence=1&isAllowed=y) Universitat de Lleida, Josep Maria Ribó (PDF)
+* [Apropament a les estructures de dades des del programari lliure](https://repositori.udl.cat/bitstream/handle/10459.1/63471/Eines%20Josep%20M%20Ribo%20electronic.pdf?sequence=1&isAllowed=y) Universitat de Lleida, Josep Maria Ribó (PDF). CC BY-SA
 
 
 ### C
@@ -17,5 +17,5 @@
 
 ### Ciències de la Computació
 
-* [Lògica Proposicional i de Predicats](https://github.com/EbookFoundation/free-programming-books/files/9808381/logica-proposicional-i-predicats.pdf) Universitat de Lleida, Felip Manyà i Serres (PDF)
+* [Lògica Proposicional i de Predicats](https://github.com/EbookFoundation/free-programming-books/files/9808381/logica-proposicional-i-predicats.pdf) Universitat de Lleida, Felip Manyà i Serres (PDF). CC BY-SA
 

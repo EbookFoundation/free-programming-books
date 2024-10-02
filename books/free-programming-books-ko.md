@@ -49,7 +49,7 @@
 
 ### Assembly Language
 
-* [PC Assembly Language](http://pacman128.github.io/static/pcasm-book-korean.pdf) - Paul A. Carter, `trl.:` 이재범 (PDF)
+* [PC Assembly Language](http://pacman128.github.io/static/pcasm-book-korean.pdf) - Paul A. Carter, `trl.:` 이재범 (PDF). CC BY-SA
 
 
 ### AWK
@@ -60,7 +60,7 @@
 ### C
 
 * [모두의 C언어](https://thebook.io/006989/) - 이형우
-* [씹어먹는 C](https://github.com/kev0960/ModooCode/raw/master/book/c/main.pdf) - 이재범 (PDF)
+* [씹어먹는 C](https://github.com/kev0960/ModooCode/raw/master/book/c/main.pdf) - 이재범 (PDF). CC BY-SA
 * [코딩 자율학습 나도코딩의 C 언어 입문](https://thebook.io/007139/) - 나도코딩
 * [BeeJ's Guide to Network Programming - 인터넷 소켓 활용](https://blogofscience.com/Socket_Programming-KLDP.html)
 * [C 프로그래밍: 현대적 접근](https://wikidocs.net/book/2494) - K.N.King, `trl.:` 주민하
@@ -73,7 +73,7 @@
 
 ### <a id="cpp"></a>C++
 
-* [씹어먹는 C++](https://github.com/kev0960/ModooCode/raw/master/book/cpp/main.pdf) - 이재범 (PDF)
+* [씹어먹는 C++](https://github.com/kev0960/ModooCode/raw/master/book/cpp/main.pdf) - 이재범 (PDF). CC BY-SA
 
 
 ### Docker
@@ -135,7 +135,7 @@
 
 ### LaTeX
 
-* [The Not So short Introduction to LaTeX 2ε](https://ctan.org/tex-archive/info/lshort/korean) - Tobias Oetiker, Hubert Partl, Irene Hyna, Elisabeth Schlegl, `trl.:` 김강수, `trl.:` 조인성 (PDF)
+* [The Not So short Introduction to LaTeX 2ε](https://ctan.org/tex-archive/info/lshort/korean) - Tobias Oetiker, Hubert Partl, Irene Hyna, Elisabeth Schlegl, `trl.:` 김강수, `trl.:` 조인성 (PDF). CC BY-SA
 
 
 ### Linux
@@ -151,7 +151,7 @@
 
 ### Mathematics
 
-* [기초정수론: 계산과 법연산, 그리고 비밀통신을 강조한](https://wstein.org/ent/ent_ko.pdf) - William Stein (PDF)
+* [기초정수론: 계산과 법연산, 그리고 비밀통신을 강조한](https://wstein.org/ent/ent_ko.pdf) - William Stein (PDF). CC BY-SA
 
 
 ### OpenStack
@@ -161,7 +161,7 @@
 
 ### Operation System
 
-* [운영체제: 아주 쉬운 세 가지 이야기](https://github.com/remzi-arpacidusseau/ostep-translations/tree/master/korean) - Remzi Arpacidusseau (PDF)
+* [운영체제: 아주 쉬운 세 가지 이야기](https://github.com/remzi-arpacidusseau/ostep-translations/tree/master/korean) - Remzi Arpacidusseau (PDF). CC BY-SA
 
 
 ### Perl
@@ -197,7 +197,7 @@
 * [파이썬 헤엄치기](https://wikidocs.net/book/5148) - 해달 프로그래밍
 * [파이썬을 여행하는 히치하이커를 위한 안내서!](https://python-guide-kr.readthedocs.io/ko/latest/)
 * [파이썬을 이용한 비트코인 자동매매](https://wikidocs.net/book/1665) - 조대표
-* [A Byte of Python 한글 번역](http://byteofpython-korean.sourceforge.net/byte_of_python.pdf) - Jeongbin Park (PDF)
+* [A Byte of Python 한글 번역](http://byteofpython-korean.sourceforge.net/byte_of_python.pdf) - Jeongbin Park (PDF). CC BY-SA
 * [PyQt5 Tutorial - 파이썬으로 만드는 나만의 GUI 프로그램](https://wikidocs.net/book/2165) - Dardao (HTML)
 
 

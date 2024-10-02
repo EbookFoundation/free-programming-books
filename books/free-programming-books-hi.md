@@ -21,19 +21,19 @@
 ### <a id="cpp"></a>C++
 
 * [C++ Brief Notes \| Hindi](https://ehindistudy.com/2020/12/01/cpp-notes-in-hindi/) - Yugal Joshi
-* [C++ in Hindi \| Hindi](https://www.bccfalna.com/IOC-AllEBooks/CPPinHindi.pdf) - Kuldeep Chand (PDF)
-* [C++ Introduction Book \| Hindi](https://ncsmindia.com/wp-content/uploads/2012/04/c++-hindi.pdf) - NCMS India (PDF)
+* [C++ in Hindi \| Hindi](https://www.bccfalna.com/IOC-AllEBooks/CPPinHindi.pdf) - Kuldeep Chand (PDF). CC BY-SA
+* [C++ Introduction Book \| Hindi](https://ncsmindia.com/wp-content/uploads/2012/04/c++-hindi.pdf) - NCMS India (PDF). CC BY-SA
 
 
 ### Computer architecture
 
-* [कम्प्यूटर ऑर्गनाइजेशन एंड आर्किटेक्चर](https://www.aicte-india.org/sites/default/files/HINDI_BOOKS/BOOK%202.pdf) - एम. ए. नसीम, राजस्थान टेक्निकल यूनिवर्सिटी, कोटा (राजस्थान) (PDF)
-* [कम्प्यूटर सिस्टम आर्किटेक्चर](https://www.aicte-india.org/sites/default/files/HINDI_BOOKS/BOOK%207.pdf) - एस. एस. श्रीवास्तव, उच्च शिक्षा उत्कृष्टता संस्थान, भोपाल (म. प्र. ) (PDF)
+* [कम्प्यूटर ऑर्गनाइजेशन एंड आर्किटेक्चर](https://www.aicte-india.org/sites/default/files/HINDI_BOOKS/BOOK%202.pdf) - एम. ए. नसीम, राजस्थान टेक्निकल यूनिवर्सिटी, कोटा (राजस्थान) (PDF). CC BY-SA
+* [कम्प्यूटर सिस्टम आर्किटेक्चर](https://www.aicte-india.org/sites/default/files/HINDI_BOOKS/BOOK%207.pdf) - एस. एस. श्रीवास्तव, उच्च शिक्षा उत्कृष्टता संस्थान, भोपाल (म. प्र. ) (PDF). CC BY-SA
 
 
 ### Data Structure and Algorithms
 
-* [Data Structure with C \| Hindi](http://www.bccfalna.com/IOC-AllEBooks/DSnAinHindi.pdf) - Kuldeep Chand (PDF)
+* [Data Structure with C \| Hindi](http://www.bccfalna.com/IOC-AllEBooks/DSnAinHindi.pdf) - Kuldeep Chand (PDF). CC BY-SA
 
 
 ### Java
@@ -52,13 +52,13 @@
 * [Linux Explained \| Hindi](https://ehindistudy.com/2022/03/31/linux-hindi/) - Yugal Joshi
 * [Linux Guide \| Hindi](https://hindime.net/linux-kya-hai-hindi/) - Hindime.net
 * [Linux in Hindi \| Hindi](https://csestudies.com/linux-in-hindi/) - CSEStudies.com
-* [Linux Pocket Guide \| Hindi](https://ia800305.us.archive.org/27/items/LinuxPocketGuideInHindi/LinuxPocketGuideInHindi.pdf) - Ravishankar Shrivastav (PDF)
+* [Linux Pocket Guide \| Hindi](https://ia800305.us.archive.org/27/items/LinuxPocketGuideInHindi/LinuxPocketGuideInHindi.pdf) - Ravishankar Shrivastav (PDF). CC BY-SA
 
 
 ### Networking
 
-* [डाटा कम्युनिकेशन और नेटवर्किंग](https://www.aicte-india.org/sites/default/files/HINDI_BOOKS/BOOK%204.pdf) - आर. पी. सिंह, आर. गुप्ता (PDF)
-* [ डाटा कयनकेशन एंड कंयटर नेटवक ](https://www.aicte-india.org/sites/default/files/HINDI_BOOKS/BOOK%203.pdf) -  ई.हरश दाधीच, ई.वकास माथर (PDF)
+* [डाटा कम्युनिकेशन और नेटवर्किंग](https://www.aicte-india.org/sites/default/files/HINDI_BOOKS/BOOK%204.pdf) - आर. पी. सिंह, आर. गुप्ता (PDF). CC BY-SA
+* [ डाटा कयनकेशन एंड कंयटर नेटवक ](https://www.aicte-india.org/sites/default/files/HINDI_BOOKS/BOOK%203.pdf) -  ई.हरश दाधीच, ई.वकास माथर (PDF). CC BY-SA
 
 
 ### Php

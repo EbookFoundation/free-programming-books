@@ -14,7 +14,7 @@
 
 ### Blockchain
 
-* [Bitcoin - On Point](https://eimaung.com/bitcoin/) - Ei Maung (PDF)
+* [Bitcoin - On Point](https://eimaung.com/bitcoin/) - Ei Maung (PDF). CC BY-SA
 
 
 ### Go
@@ -24,9 +24,9 @@
 
 ### HTML and CSS
 
-* [Bootstrap - On Point](https://eimaung.com/bootstrap/) - Ei Maung (PDF)
+* [Bootstrap - On Point](https://eimaung.com/bootstrap/) - Ei Maung (PDF). CC BY-SA
 * [HTML](https://books.saturngod.net/HTML5/) - Saturngod
-* [HTML & CSS - Beginner To Super Beginner](https://github.com/lwinmoepaing/html-and-css-beginner-to-super-beginner-ebook) - Lwin Moe Paing (PDF)
+* [HTML & CSS - Beginner To Super Beginner](https://github.com/lwinmoepaing/html-and-css-beginner-to-super-beginner-ebook) - Lwin Moe Paing (PDF). CC BY-SA
 
 
 ### Java
@@ -36,20 +36,20 @@
 
 ### JavaScript
 
-* [API - On Point](https://eimaung.com/api/) - Ei Maung (PDF)
-* [JavaScript - On Point](https://eimaung.com/jsbook/) - Ei Maung (PDF)
-* [React - On Point](https://eimaung.com/react/) - Ei Maung (PDF)
+* [API - On Point](https://eimaung.com/api/) - Ei Maung (PDF). CC BY-SA
+* [JavaScript - On Point](https://eimaung.com/jsbook/) - Ei Maung (PDF). CC BY-SA
+* [React - On Point](https://eimaung.com/react/) - Ei Maung (PDF). CC BY-SA
 
 
 ### Linux
 
-* [Ubuntu Linux for You](http://eimaung.com/ubuntu-for-you) - Ei Maung (PDF)
+* [Ubuntu Linux for You](http://eimaung.com/ubuntu-for-you) - Ei Maung (PDF). CC BY-SA
 
 
 ### PHP
 
-* [Laravel - On Point](https://eimaung.com/laravel/) - Ei Maung (PDF)
-* [PHP - On Point](https://eimaung.com/php/) - Ei Maung (PDF)
+* [Laravel - On Point](https://eimaung.com/laravel/) - Ei Maung (PDF). CC BY-SA
+* [PHP - On Point](https://eimaung.com/php/) - Ei Maung (PDF). CC BY-SA
 
 
 ### Programming
@@ -64,7 +64,7 @@
 
 ### Web Development
 
-* [Professional Web Developer](http://eimaung.com/professional-web-developer) - Ei Maung (PDF)
-* [Professional Web Developer 2023](https://eimaung.com/pwd2023/) - Ei Maung (PDF)
-* [Rockstar Developer](http://eimaung.com/rockstar-developer) - Ei Maung (PDF)
+* [Professional Web Developer](http://eimaung.com/professional-web-developer) - Ei Maung (PDF). CC BY-SA
+* [Professional Web Developer 2023](https://eimaung.com/pwd2023/) - Ei Maung (PDF). CC BY-SA
+* [Rockstar Developer](http://eimaung.com/rockstar-developer) - Ei Maung (PDF). CC BY-SA
 * [Rockstar Developer 2025](https://github.com/eimg/rsd25) - Ei Maung (PDF, EPUB)

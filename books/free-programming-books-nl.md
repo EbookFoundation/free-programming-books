@@ -42,7 +42,7 @@
 
 ### Python
 
-* [De Programmeursleerling: Leren coderen met Python 3](http://www.spronck.net/pythonbook/dutchindex.xhtml) - Pieter Spronck (PDF) (3.x)
+* [De Programmeursleerling: Leren coderen met Python 3](http://www.spronck.net/pythonbook/dutchindex.xhtml) - Pieter Spronck (PDF). CC BY-SA (3.x)
 * [Programmeren in Python](https://nl.wikibooks.org/wiki/Programmeren_in_Python) - Wikibooks
 
 

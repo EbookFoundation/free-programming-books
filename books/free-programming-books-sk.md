@@ -12,7 +12,7 @@
 
 #### Právo
 
-* [Zodpovednosť na internete](https://knihy.nic.cz) - Zodpovednosť na internete (PDF)
+* [Zodpovednosť na internete](https://knihy.nic.cz) - Zodpovednosť na internete (PDF). CC BY-SA
 
 
 #### Všeobecné programovanie
@@ -22,8 +22,8 @@
 
 ### Operačné systémy
 
-* [Linux ako niečo navyše](https://greenie.elist.sk/knihy/linux-ako-nieco-navyse.pdf) - Stanislav Hoferek (PDF)
-* [Linuxové distribúcie](https://greenie.elist.sk/knihy/linuxove-distribucie.pdf) - Stanislav Hoferek (PDF)
+* [Linux ako niečo navyše](https://greenie.elist.sk/knihy/linux-ako-nieco-navyse.pdf) - Stanislav Hoferek (PDF). CC BY-SA
+* [Linuxové distribúcie](https://greenie.elist.sk/knihy/linuxove-distribucie.pdf) - Stanislav Hoferek (PDF). CC BY-SA
 
 
 ### Python

@@ -8,11 +8,14 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
   - [How-to](HOWTO-ar.md)
 - Azerbaijani / Азәрбајҹан дили / آذربايجانجا ديلي
 - Bengali / বাংলা
+  - [Code of Conduct](CODE_OF_CONDUCT-bn.md)
   - [How-to](HOWTO-bn.md)
 - Bosnian / bosanski jezik
   - [How-to](HOWTO-bs.md)
 - Bulgarian / български
 - Burmese / မြန်မာဘာသာ
+- Catalan
+  - [Contribuir](CONTRIBUTING-ca.md)
 - Chinese / 中文
   - [贡献者行为准则](CODE_OF_CONDUCT-zh.md)
   - [Contributing](CONTRIBUTING-zh.md)
@@ -35,7 +38,7 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
   - [Contributing](CONTRIBUTING-fil.md)
   - [How-to](HOWTO-fil.md)
 - French / français
-  - [Code de Contrat](CODE_OF_CONDUCT-fr.md)
+  - [Code de Conduite](CODE_OF_CONDUCT-fr.md)
   - [Contributing](CONTRIBUTING-fr.md)
   - [How-to](HOWTO-fr.md)
 - German / Deutsch
@@ -47,6 +50,7 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
   - [Contributing](CONTRIBUTING-el.md)
   - [How-to](HOWTO-el.md)
 - Hebrew / עברית
+  - [How-to איך לעשות את זה](HOWTO-he.md)
 - Hindi / हिन्दी
   - [आचार संहिता](CODE_OF_CONDUCT-hi.md)
   - [How-to](HOWTO-hi.md)
@@ -60,15 +64,33 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
   - [Contributing](CONTRIBUTING-it.md)
   - [How-to](HOWTO-it.md)
 - Japanese / 日本語
+  - [行動規範](CODE_OF_CONDUCT-ja.md)
+  - [貢献する](CONTRIBUTING-ja.md)
+  - [方法](HOWTO-ja.md)
+- Kannada / ಕನ್ನಡ
+  - [How To](HOWTO-kn.md)
+  - [Contributing](CONTRIBUTING-kn.md)
+  - [Code Of Conduct](CODE_OF_CONDUCT-kn.md)
 - Kazakh / қазақша
 - Khmer / Cambodian / ខ្មែរ
+  - [ក្រមសីលធម៌របស់អ្នកចូលរួម](CODE_OF_CONDUCT-km.md)
   - [How-to](HOWTO-km.md)
-- Korean / 한국어 [韓國語]
+- Korean / 한국어
   - [행동강령](CODE_OF_CONDUCT-ko.md)
   - [Contributing](CONTRIBUTING-ko.md)
   - [How-to](HOWTO-ko.md)
 - Malayalam / മലയാളം
+  - [Code of Conduct](CODE_OF_CONDUCT-ml.md)
+  - [How-to](HOWTO-ml.md)
+- Marathi / मराठी
+  - [आचरण संहिता](CODE_OF_CONDUCT-mr.md)
+- Nepali / नेपाली
+  - [आचार संहिता](CODE_OF_CONDUCT-np.md)
+  - [Contributing](CONTRIBUTING-np.md)
+  - [How-to](HOWTO-np.md)
 - Norwegian / Norsk
+  - [Etiske Retningslinjer](CODE_OF_CONDUCT-no.md)
+  - [How-to](HOWTO-no.md)
 - Persian / Farsi (Iran) / فارسى
   - [مرام‌نامه‌ی](CODE_OF_CONDUCT-fa_IR.md)
   - [Contributing](CONTRIBUTING-fa_IR.md)
@@ -81,29 +103,42 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
   - [Contributing](CONTRIBUTING-pt_BR.md)
   - [How-to](HOWTO-pt_BR.md)
 - Portuguese (Portugal)
+  - [How-to](HOWTO-pt_PT.md)
 - Romanian (Romania) / limba română / român
 - Russian / Русский язык
   - [Кодекс поведения](CODE_OF_CONDUCT-ru.md)
   - [Contributing](CONTRIBUTING-ru.md)
 - Sinhala / සිංහල
+  - [චර්යා ධර්ම සංග්රහය](CODE_OF_CONDUCT-si.md)
 - Slovak / slovenčina
 - Slovenian / slovenščina
+  - [Code of Conduct](CODE_OF_CONDUCT-sl.md)
   - [How-to](HOWTO-sl.md)
 - Spanish / español / castellano
   - [Código de Conducta](CODE_OF_CONDUCT-es.md)
   - [Contributing](CONTRIBUTING-es.md)
   - [How-to](HOWTO-es.md)
 - Swedish / Svenska
+  - [Code of Conduct](CODE_OF_CONDUCT-sv.md)
+  - [Contributing](CONTRIBUTING-sv.md)
   - [How-to](HOWTO-sv.md)
 - Tamil / தமிழ்
+  - [How-to](HOWTO-ta.md)
+- Telugu / తెలుగు
+  - [Code of Conduct](CODE_OF_CONDUCT-te.md)
+  - [Contributing](CONTRIBUTING-te.md)
+  - [How-to](HOWTO-te.md)
 - Thai / ไทย
+  - [Code of Conduct](CODE_OF_CONDUCT-th.md)
   - [How-to](HOWTO-th.md)
 - Turkish / Türkçe
+  - [Code of Conduct](CODE_OF_CONDUCT-tr.md)
   - [How-to](HOWTO-tr.md)
 - Ukrainian / Українська
   - [Кодекс Поведінки](CODE_OF_CONDUCT-uk.md)
   - [How-to](HOWTO-uk.md)
 - Vietnamese / Tiếng Việt
+  - [Quy tắc ứng sử](CODE_OF_CONDUCT-vi.md)
   - [Đóng Góp](CONTRIBUTING-vi.md)
   - [How-to](HOWTO-vi.md)
 

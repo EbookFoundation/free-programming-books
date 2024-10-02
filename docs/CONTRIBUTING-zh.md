@@ -13,9 +13,9 @@
 
 ## 概要
 
-1. "一个可以轻易下载一本书的链接" 并不代表它指向的就是 *免费* 书籍。 请只提供免费内容。 确信你所提供的书籍是免费的。我们不接受指向*需要*工作电子邮件地址才能获取书籍的页面的链接，但我们欢迎有需求它们的列表。
+1. 仅仅因为链接“促进下载书籍”并不意味着它指向“免费”书籍。 请仅提供免费内容的链接。 确保您分享的书籍是免费的。 我们不接受“需要”有效电子邮件地址才能访问书籍的链接，但我们欢迎列出这些资源。
 
-2. 你不需要会 Git：如果你发现了一些有趣的东西 *尚未出现在本仓库* 中，请开一个[Issue](https://github.com/EbookFoundation/free-programming-books/issues)进行主题讨论。
+2. 您不需要熟悉 Git：如果您发现一些有趣的东西*尚未包含在此存储库中*，请打开一个[问题](https://github.com/EbookFoundation/free-programming-books/issues）开始讨论相关主题。
     * 如果你已经知晓Git，请Fork本仓库并提交Pull Request (PR)。
 
 3. 这里有6种列表，请选择正确的一个：
@@ -31,10 +31,26 @@
 
 5. GitHub Actions 将运行测试，以确保你的列表是 **按字母顺序排列** 的，并 **遵循格式化规则**。请 **确保** 你的更改通过了该测试。
 
+### 审查和适应过程
 
+为了确保一致性和准确性，我们在将内容从英语版本翻译成其他语言时遵循审查和调整流程。 它的工作原理如下：
+
+1. **参考英文文件**：我们始终参考该文件的英文版本作为信息和指南的主要来源。
+
+2. **翻译和本地化**：译员仔细地将内容翻译成目标语言，同时牢记语言和文化的细微差别。
+
+3. **审阅**：翻译后，文件会经过母语人士的审阅过程，以确保翻译的准确性。
+
+4. **改编**：在某些情况下，特定术语、短语或参考文献可能需要改编以更好地适应目标受众。 译者可以灵活地进行这些调整，同时保留核心信息。
+
+5. **质量保证**：进行最终的质量保证检查，以验证翻译的文档是否连贯、准确且适合文化。
+
+6. **持续改进**：我们鼓励贡献者和读者提供反馈和建议，以不断改进翻译内容。
+
+通过遵循这一流程，我们的目标是提供既忠实于原始内容又与目标受众相关的高质量翻译。
 ### 基本准则
 
-* 确保你提交的每一本书都是免费的。如有需要请做Double-check。如果你在PR中注明为什么你认为这本书是免费的，这将对管理员是很有帮助的。
+* 请确保您提交的每本书确实是免费的。 如果需要，请仔细检查其状态。 如果您可以在 PR 中解释为什么您认为这本书是免费的，这对管理员会有帮助。
 * 我们不接受存储在Google Drive、Dropbox、Mega、Scribd、Issuu和其他类似文件上传平台上的文件。
 * 请按照字母顺序插入链接, as described [below](#alphabetical-order).
 * 使用最权威来源的链接(意思是原作者的网站比编辑的网站好，比第三方网站好)。
@@ -56,6 +72,7 @@
 * 如果一本书比较旧，请在书名中注明出版日期。
 * 包含作者的名字或适当的名字。中文版本可以用 “`等`” (“`et al.`”) 缩短作者列表。
 * 如果一本书还没有完成，并且仍在编写中，则需添加 “`in process`” 符号，参见[下文](#in_process)所述。
+- if a resource is restored using the [*Internet Archive's Wayback Machine*](https://web.archive.org) (or similar), add the "`archived`" notation, as described [below](#archived). The best versions to use are recent and complete.
 * 如果在开始下载之前需要电子邮件地址或帐户设置，请在括号中添加合适的语言描述，例如：`(*需要*电子邮件，但不是必须的)`。
 
 
@@ -146,14 +163,131 @@
 * <a id="in_process"></a>编写(翻译)中的书籍：
 
     ```text
-    正确：* [马上出版的一本书](http://example.com/book2.html) - 张显宗 (HTML) (:construction: *编写中*)
-    正确：* [马上出版的一本书](http://example.com/book2.html) - 张显宗 (HTML) (:construction: *翻译中*)
+    正确：* [马上出版的一本书](http://example.com/book2.html) - 张显宗 (HTML) *(:construction: 编写中)*
+    正确：* [马上出版的一本书](http://example.com/book2.html) - 张显宗 (HTML) *(:construction: 翻译中)*
     ```
 
-### Alphabetical order
+- <a id="archived"></a>Archived link:
 
-- When there are multiple titles beginning with the same letter order them by the second, and so on. For example: `aa` comes before `ab`.
-- `one two` comes before `onetwo`
+    ```text
+    正确: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
+    ```
 
-If you see a misplaced link, check the linter error message to know which lines should be swapped.
+### 按字母顺序
+
+- 当有多个以相同字母开头的标题时，按第二个排序，依此类推。例如：“aa”位于 “ab” 之前
+- “onetwo” 位于 “onetwo”之前
+
+如果您看到错误的链接，请检查 linter 错误讯息以了解应该交换哪些行。
+
+
+### 笔记
+
+虽然基础知识相对简单，但我们列出的资源却多种多样。以下是关于我们如何处理这种多样性的一些说明。
+
+
+#### 元数据
+
+我们的清单提供了一组最小的元资料：标题、URL、创建者、平台和存取注释。
+
+
+##### 标题
+
+- 不要创作标题。我们尽量从资源本身获取标题；强烈建议贡献者不要创作标题，或者在可以避免的情况下不要编辑它们原始标题。对于较旧的作品有一个例外；如果它们主要具有历史价值，将年份括在标题后的括号内可以帮助用户了解它们是否有兴趣。
+- 不要使用全大写标题。常规的标题大小写是合适的，但如有疑问，请使用来源的大小写格式。
+- 不要使用表情符号
+
+
+##### 网址
+
+- 我们不允许使用短链。
+- 必须从网址中删除追踪代码。
+- 网址应该进行转义。浏览器地址栏的网址通常已被转义，可以去那里拷贝。
+- 在支持 HTTPS 的网站，安全的（https）URL总是优于非安全的（http）URL。
+- 我们不喜欢网址指向不托管所列资源的网页，而是指向其他地方。
+
+
+##### 创作者
+
+- 我们希望在适当的情况下赞扬免费资源的创建者，包括翻译人员！
+- 翻译作品，应注明原作者。我们建议使用 [MARC relators](https://loc.gov/marc/relators/relaterm.html) 来表彰作者以外的创作者，如下例所示：
+
+    ```markdown
+    * [译作](http://example.com/book-zh.html) - John Doe，`trl.:` 译者麦克
+    ```
+    这里，注解「trl.:」使用「翻译器」的 MARC 相关程式码。
+- 使用逗号「，」来分隔作者清单中的每个项目。
+- 您可以使用「`et al.`」来缩短作者清单。
+- 我们不允许为创作者提供链接。
+- 对于编译或混音作品，「创作者」可能需要描述。例如，「Go​​alKicker」或「RIP Tutorial」书籍被标记为「`Compiled from StackOverflow Documentation`」。
+
+
+##### 平台及接入注意事项
+
+- 课程。尤其是对于我们的课程列表，平台是资源描述的重要部分。这是因为不同的课程平台有不同的功能和访问模型。尽管我们通常不会列出需要注册的书籍，但许多课程平台的功能在没有某种帐户的情况下无法工作。课程平台的例子包括 Coursera、EdX、Udacity 和 Udemy。当一个课程依赖于一个平台时，应在括号中列出平台名称。
+- Youtube。我们有许多包含 YouTube 播放清单的课程。我们不会将 YouTube 列为平台，而是尝试列出 YouTube 创作者，这通常是一个子平台。
+- YouTube 影片。我们通常不会链接到单一 YouTube 视频，除非它们的长度超过一个小时并且结构类似于课程或教程。
+- Leanpub。Leanpub 托管具有多种存取模式的书籍。有时一本书无需注册即可阅读；有时一本书需要 Leanpub 帐户才能免费存取。考虑到书籍的品质以及 Leanpub 存取模型的混合性和流动性，我们允许使用存取注释「*（Leanpub 帐户或请求的有效电子邮件）*」列出后者。
+
+
+#### 类型
+
+决定资源属于哪个清单的第一条规则是查看资源如何描述自己。如果它称自己为一本书，那么也许它就是一本书。
+
+
+##### 我们未列出的流派
+
+由于互联网非常庞大，因此我们不将以下内容包括在列表中：
+
+- 博客（博客网站）
+- 博客文章
+- 网站（那些托管我们列出的大量项目的网站除外）。
+- 不属于课程或录屏的视频。
+- 书籍章节
+- 书籍的预览样章
+- IRC 或 Telegram 频道
+- Slack 或邮件列表
+
+我们的竞争性节目清单对这些例外情况没有那么严格。 仓库的范围由社区决定；如果您想建议更改或新增范围，请使用 issue 提出建议
+
+
+##### 书籍与其他东西
+
+我们对书本性并不那么挑剔。以下是一些表示资源是一本书的属性：
+
+- 它有一个 ISBN（国际标准书号）
+- 它有一个目录
+- 提供可下载版本，尤其是 ePub 档案。
+- 它有版本
+- 它不依赖互动内容或视频
+- 它试图全面涵盖一个主题
+- 它是独立的
+
+我们列出的许多书籍不具备这些属性；这可能取决于上下文。
+
+
+##### 书与课程
+
+有时这些可能很难区分！
+
+课程通常有相关的教科书，我们会将其列在图书列表中。课程包括讲座、练习、测试、笔记或其他教学辅助工具。单个讲座或视频本身并不是一门课程。PowerPoint不是课程。
+
+
+##### 交互式教程与其他东西
+
+如果您可以将其打印出来并保留其精髓，那么它就不是交互式教程。
+
+
+### 自动化
+
+- 格式化规则的执行是通过以下方式自动执行的 [GitHub Actions](https://github.com/features/actions) 用 [fpb-lint](https://github.com/vhf/free-programming-books-lint) (参见 [`.github/workflows/fpb-lint.yml`](../.github/workflows/fpb-lint.yml))
+- URL 验证使用 [awesome_bot](https://github.com/dkhamsing/awesome_bot)
+- 要触发 URL 验证，请推送包含以下内容的 commit message 的提交 `check_urls=file_to_check`:
+
+    ```特性
+    check_urls=free-programming-books.md free-programming-books-zh.md
+    ```
+    
+- 您可以指定多个要检查的文件，使用单个空格分隔每个条目。
+- 如果您指定了多个文件，构建的结果将基于最后一个检查的文件的结果。您应该注意，由于这个原因，您可能会得到通过的绿色构建，所以请确保在拉取请求结束时检查构建日志，点击 “Show all checks”->“Details”。
 

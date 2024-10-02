@@ -1,0 +1,209 @@
+name: Stale handler
+
+on:
+  push:                               # when push this files to branches....
+    branches:
+      - 'main'
+      - 'gh-actions/test'
+    paths:
+      - '.github/workflows/stale.yml' #    - this workflow
+  workflow_dispatch:                  # manually
+    inputs:
+      debug-only:
+        type: boolean
+        description: 'If enabled, debug mode is on and then API calls that can alter your issues will not happen'
+        required: true
+        default: true
+  schedule:                           # or
+    - cron: "0 0 * * *"               # once a day at 00:00 o'clock
+
+permissions:
+  # no checkout/branching needed
+  contents: none
+
+# This allows a subsequently queued workflow run to interrupt/wait for previous runs
+concurrency:
+  group: '${{ github.workflow }}'
+  cancel-in-progress: false  # true: interrupt, false = wait for
+
+jobs:
+  stale:
+    name: Staler job
+    runs-on: ubuntu-latest
+    outputs:
+      # "XXX-len": the length of the "XXX" output object
+      staled-issues:     ${{ steps.set-staled.outputs.issues }}
+      staled-issues-len: ${{ steps.set-staled.outputs.issues-len }}
+      staled-prs:     ${{ steps.set-staled.outputs.prs }}
+      staled-prs-len: ${{ steps.set-staled.outputs.prs-len }}
+      closed-issues:     ${{ steps.set-closed.outputs.issues }}
+      closed-issues-len: ${{ steps.set-closed.outputs.issues-len }}
+      closed-prs:     ${{ steps.set-closed.outputs.prs }}
+      closed-prs-len: ${{ steps.set-closed.outputs.prs-len }}
+    # enable write access rights to allow bot comments and labeling
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+      - name: Stale issues
+        uses: actions/stale@v9
+        id: stale-issues
+        with:
+          debug-only: ${{ github.event.inputs.debug-only == 'true' }}
+          operations-per-run: 30
+          days-before-stale: 60
+          days-before-close: 30
+          ignore-updates: false
+          remove-stale-when-updated: true
+          stale-issue-label: "stale"
+          close-issue-label: "stale: closed"
+          stale-issue-message: |
+            This issue has been automatically marked as stale because it has not had recent activity during last 60 days :sleeping:
+
+            It will be closed in 30 days if no further activity occurs. To unstale this issue, remove stale label or add a comment with a detailed explanation.
+
+            There can be many reasons why some specific issue has no activity. The most probable cause is lack of time, not lack of interest.
+
+            Thank you for your patience :heart:
+          close-issue-message: |
+            This issue has been automatically closed because it has been inactive during the last 30 days since being marked as stale.
+
+            As author or maintainer, it can always be reopened if you see that carry on been useful.
+
+            Anyway, thank you for your interest in contribute :heart:
+          close-issue-reason: not_planned
+          exempt-issue-labels: "blocked,must,should,keep,:busts_in_silhouette: discussion,:eyes: Needs Review,:pushpin: pinned"
+          # disable PR processing at all (this step is for treat issues)
+          days-before-pr-stale: -1
+          days-before-pr-close: -1
+          ignore-pr-updates: true
+          remove-pr-stale-when-updated: false
+          stale-pr-label: " "
+
+      - name: Print outputs for issues
+        run: echo ${{ format('{0},{1}', toJSON(steps.stale-issues.outputs.staled-issues-prs), toJSON(steps.stale-issues.outputs.closed-issues-prs)) }}
+
+      - name: Stale Pull Requests
+        uses: actions/stale@v9
+        id: stale-prs
+        with:
+          debug-only: ${{ github.event.inputs.debug-only == 'true' }}
+          operations-per-run: 30
+          days-before-stale: 60
+          days-before-close: 30
+          ignore-updates: false
+          remove-stale-when-updated: true
+          stale-pr-label: "stale"
+          close-pr-label: "stale: closed"
+          stale-pr-message: |
+            This Pull Request has been automatically marked as stale because it has not had recent activity during last 60 days :sleeping:
+
+            It will be closed in 30 days if no further activity occurs. To unstale this PR, draft it, remove stale label, comment with a detailed explanation or push more commits.
+
+            There can be many reasons why some specific PR has no activity. The most probable cause is lack of time, not lack of interest.
+
+            Thank you for your patience :heart:
+          close-pr-message: |
+            This Pull Request has been automatically closed because it has been inactive during the last 30 days since being marked as stale.
+
+            As author or maintainer, it can always be reopened if you see that carry on been useful.
+
+            Anyway, thank you for your interest in contribute :heart:
+          exempt-draft-pr: true
+          exempt-pr-labels: "blocked,must,should,keep,:busts_in_silhouette: discussion,:eyes: Needs Review"
+          delete-branch: false  # if true, job needs permissions "contents: write"
+          # disable issues processing at all (this step is for treat PRs)
+          days-before-issue-stale: -1
+          days-before-issue-close: -1
+          ignore-issue-updates: true
+          remove-issue-stale-when-updated: false
+          stale-issue-label: " "
+
+      - name: Print outputs for PRs
+        run: echo ${{ format('{0},{1}', toJSON(steps.stale-prs.outputs.staled-issues-prs), toJSON(steps.stale-prs.outputs.closed-issues-prs)) }}
+
+      ## Removing private properties from each JSON object and compute array length
+      ## TODO: Delete these set-* workarounds when resolve actions/stale#806 ?
+      - name: Set staled
+        id: set-staled
+        run: |
+          echo $INPUT_ISSUES  \
+            | jq --compact-output --raw-output 'del(.[] | .[to_entries[] | .key | select(startswith("_"))])'  \
+            | sed -e 's/^/issues=/'  \
+            >> $GITHUB_OUTPUT
+          echo $INPUT_ISSUES  \
+            | jq --raw-output '. | length'  \
+            | sed -e 's/^/issues-len=/'  \
+            >> $GITHUB_OUTPUT
+
+          echo $INPUT_PRS  \
+            | jq --compact-output --raw-output 'del(.[] | .[to_entries[] | .key | select(startswith("_"))])'  \
+            | sed -e 's/^/prs=/'  \
+            >> $GITHUB_OUTPUT
+          echo $INPUT_PRS  \
+            | jq --raw-output '. | length'  \
+            | sed -e 's/^/prs-len=/'  \
+            >> $GITHUB_OUTPUT
+        env:
+          INPUT_ISSUES: ${{ steps.stale-issues.outputs.staled-issues-prs }}
+          INPUT_PRS:    ${{ steps.stale-prs.outputs.staled-issues-prs }}
+      - name: Set closed
+        id: set-closed
+        run: |
+          echo $INPUT_ISSUES  \
+            | jq --compact-output --raw-output 'del(.[] | .[to_entries[] | .key | select(startswith("_"))])'  \
+            | sed -e 's/^/issues=/'  \
+            >> $GITHUB_OUTPUT
+          echo $INPUT_ISSUES  \
+            | jq --raw-output '. | length'  \
+            | sed -e 's/^/issues-len=/'  \
+            >> $GITHUB_OUTPUT
+
+          echo $INPUT_PRS  \
+            | jq --compact-output --raw-output 'del(.[] | .[to_entries[] | .key | select(startswith("_"))])'  \
+            | sed -e 's/^/prs=/'  \
+            >> $GITHUB_OUTPUT
+          echo $INPUT_PRS  \
+            | jq --raw-output '. | length'  \
+            | sed -e 's/^/prs-len=/'  \
+            >> $GITHUB_OUTPUT
+        env:
+          INPUT_ISSUES: ${{ steps.stale-issues.outputs.closed-issues-prs }}
+          INPUT_PRS:    ${{ steps.stale-prs.outputs.closed-issues-prs }}
+
+      - name: Write job summary
+        run: |
+          echo "### Staled issues"  \
+            >> $GITHUB_STEP_SUMMARY
+          # render json array to a Markdown table with an optional "No records" message if empty
+          echo "$STALED_ISSUES"  \
+            | jq --raw-output 'map("| [#\(.number)](\(env.GITHUB_ISSUES_URL)/\(.number)) | \(.title) |") | join("\n") | if (. == "") then "\nNo records.\n" else "\n|    | Title |\n|---:|:------|\n\(.)\n" end'  \
+            >> $GITHUB_STEP_SUMMARY
+
+          echo "### Staled pull requests"  \
+            >> $GITHUB_STEP_SUMMARY
+          # render json array to a Markdown table with an optional "No records" message if empty
+          echo "$STALED_PRS"  \
+            | jq --raw-output 'map("| [#\(.number)](\(env.GITHUB_PULL_URL)/\(.number)) | \(.title) |") | join("\n") | if (. == "") then "\nNo records.\n" else "\n|    | Title |\n|---:|:------|\n\(.)\n" end'  \
+            >> $GITHUB_STEP_SUMMARY
+
+          echo "### Closed issues"  \
+            >> $GITHUB_STEP_SUMMARY
+          # render json array to a Markdown table with an optional "No records" message if empty
+          echo "$CLOSED_ISSUES"  \
+            | jq --raw-output 'map("| [#\(.number)](\(env.GITHUB_ISSUES_URL)/\(.number)) | \(.title) |") | join("\n") | if (. == "") then "\nNo records.\n" else "\n|    | Title |\n|---:|:------|\n\(.)\n" end'  \
+            >> $GITHUB_STEP_SUMMARY
+
+          echo "### Closed pull requests"  \
+            >> $GITHUB_STEP_SUMMARY
+          # render json array to a Markdown table with an optional "No records" message if empty
+          echo "$CLOSED_PRS"  \
+            | jq --raw-output 'map("| [#\(.number)](\(env.GITHUB_PULL_URL)/\(.number)) | \(.title) |") | join("\n") | if (. == "") then "\nNo records.\n" else "\n|    | Title |\n|---:|:------|\n\(.)\n" end'  \
+            >> $GITHUB_STEP_SUMMARY
+        env:
+          GITHUB_ISSUES_URL: ${{ format('{0}/{1}/issues', github.server_url, github.repository) }}
+          GITHUB_PULL_URL:   ${{ format('{0}/{1}/pull', github.server_url, github.repository) }}
+          STALED_ISSUES: ${{ steps.set-staled.outputs.issues }}
+          CLOSED_ISSUES: ${{ steps.set-closed.outputs.issues }}
+          STALED_PRS:    ${{ steps.set-staled.outputs.prs }}
+          CLOSED_PRS:    ${{ steps.set-closed.outputs.prs }}

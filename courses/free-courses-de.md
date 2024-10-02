@@ -1,5 +1,7 @@
 ### Index
 
+* [Ansible](#ansible)
+* [Bash](#bash)
 * [C](#c)
 * [C++](#cpp)
 * [Haskell](#haskell)
@@ -7,11 +9,22 @@
     * [Bootstrap](#bootstrap)
 * [Java](#java)
 * [JavaScript](#javascript)
+    * [TypeScript](#typescript)
 * [Künstliche Intelligenz](#künstliche-intelligenz)
 * [Python](#python)
 * [Rust](#rust)
 * [Spieleentwicklung](#spieleentwicklung)
-* [TypeScript](#typescript)
+* [SQL](#sql)
+
+
+### Ansible
+
+* [Ansible Tutorial](https://www.redhat.com/de/topics/automation/learning-ansible-tutorial) - RedHat
+
+
+### Bash
+
+* [Bash-Scripting Grundkurs](https://www.ernstlx.com/linux90script.html)
 
 
 ### <a id="cpp"></a>C++
@@ -21,6 +34,7 @@
 
 ### C
 
+* [C Tutorial Deutsch \| Lerne C in 90 Minuten](https://www.youtube.com/watch?v=BSaF8KxnoLY) - Programmieren lernen
 * [C Tutorials Deutsch](https://www.youtube.com/playlist?list=PLNmsVeXQZj7q4shI4L__SRpetWff9BjLZ) - The Morpheus Tutorials
 
 
@@ -52,6 +66,12 @@
 * [JavaScript Lernen für Anfänger bis Profis](https://www.youtube.com/playlist?list=PLNmsVeXQZj7qOfMI2ZNk-LXUAiXKrwDIi) - The Morpheus Tutorials
 
 
+#### TypeScript
+
+* [Erstellen von JavaScript-Anwendungen mithilfe von TypeScript](https://docs.microsoft.com/de-de/learn/paths/build-javascript-applications-typescript/) - Microsoft
+* [TypeScript lernen: Eine Einführung in 80 Minuten](https://www.youtube.com/watch?v=_CaGUZNEobk) - Golo Roden
+
+
 ### Künstliche Intelligenz
 
 * [Elements of AI](https://www.elementsofai.de)
@@ -61,8 +81,10 @@
 
 * [Programmieren lernen mit Python](https://www.youtube.com/playlist?list=PLL1BYAeNY0gzHheN7kCLEhPDegdHrAyDh)
 * [Programmieren Lernen: Python Tutorial](https://www.youtube.com/playlist?list=PL_tdPUem3eE_k40i65IdRPWrAZxoHcN4o)
+* [Programmieren Starten: Python Tutorial](https://www.youtube.com/playlist?list=PL_pqkvxZ6ho3u8PJAsUU-rOAQ74D0TqZB)
 * [Python-Kurs (Python 2)](https://www.python-kurs.eu/kurs.php)
 * [Python-Kurs (Python 3)](https://www.python-kurs.eu/python3_kurs.php)
+* [Python Tkinter Tutorial deutsch / german (Crashkurs)](https://www.youtube.com/playlist?list=PL_pqkvxZ6ho23EXCx7HJtOaUZ-mDl_GXY) - Programmieren Starten
 * [Python Tutorials Deutsch](https://www.youtube.com/playlist?list=PLNmsVeXQZj7q0ao69AIogD94oBgp3E9Zs)
 
 
@@ -76,7 +98,7 @@
 * [Unreal Engine 4 Tutorial Deutsch/German](https://www.youtube.com/playlist?list=PLNmsVeXQZj7olLCliQ05e6hvEOl6sbBgv) - The Morpheus Tutorials
 
 
-### TypeScript
+### SQL
 
-* [Erstellen von JavaScript-Anwendungen mithilfe von TypeScript](https://docs.microsoft.com/de-de/learn/paths/build-javascript-applications-typescript/) - Microsoft
-* [TypeScript lernen: Eine Einführung in 80 Minuten](https://www.youtube.com/watch?v=_CaGUZNEobk) - Golo Roden
+* [Datenbanken und SQL](https://www.youtube.com/playlist?list=PL_pqkvxZ6ho1dn7jRkTfoYBXhw5c9jll0) - Programmieren Starten 
+* [SQL-Grundlagen](https://wiki.selfhtml.org/wiki/Datenbank/SQL-Grundlagen) - SelfHTML

@@ -2,48 +2,54 @@
 
 * [Amazon Web Service](#amazon-web-service)
 * [Assembly Language](#assembly-language)
-* [AWK](#AWK)
+* [AWK](#awk)
 * [C](#c)
+* [C#](#csharp)
 * [C++](#cpp)
 * [Docker](#docker)
 * [Elastic](#elastic)
-* [GIT](#git)
+* [Git](#git)
 * [Go](#go)
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
     * [Node.js](#nodejs)
+    * [React](#react)
     * [Webpack](#webpack)
 * [LaTeX](#latex)
 * [Linux](#linux)
+* [Machine Learning](#machine-learning)
 * [Mathematics](#mathematics)
+* [OpenStack](#openstack)
 * [Operation System](#operation-system)
 * [Perl](#perl)
 * [PHP](#php)
     * [Laravel](#laravel)
 * [Python](#python)
     * [Django](#django)
+    * [FastAPI](#fastapi)
     * [Flask](#flask)
 * [R](#r)
 * [Raspberry Pi](#raspberry-pi)
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [Scratch](#scratch)
-* [Sed](#Sed)
+* [Sed](#sed)
 * [Software Engineering](#software-engineering)
-* [Springboot](#Springboot)
+* [Springboot](#springboot)
+* [TypeScript](#typescript)
 * [Unicode](#unicode)
+* [Unity3d](#unity3d)
 
 
 ### Amazon Web Service
 
 * [아마존 웹 서비스를 다루는 기술](http://www.pyrasis.com/private/2014/09/30/publish-the-art-of-amazon-web-services-book)
-* [AWS 기초 모듈 Workshop](https://kr-id-general.workshop.aws/ko/basic_modules.html) - Amazon Web Services
 
 
 ### Assembly Language
 
-* [PC Assembly Language](http://pacman128.github.io/static/pcasm-book-korean.pdf) - Paul A. Carter (PDF)
+* [PC Assembly Language](http://pacman128.github.io/static/pcasm-book-korean.pdf) - Paul A. Carter, `trl.:` 이재범 (PDF)
 
 
 ### AWK
@@ -53,8 +59,16 @@
 
 ### C
 
+* [모두의 C언어](https://thebook.io/006989/) - 이형우
 * [씹어먹는 C](https://github.com/kev0960/ModooCode/raw/master/book/c/main.pdf) - 이재범 (PDF)
+* [코딩 자율학습 나도코딩의 C 언어 입문](https://thebook.io/007139/) - 나도코딩
 * [BeeJ's Guide to Network Programming - 인터넷 소켓 활용](https://blogofscience.com/Socket_Programming-KLDP.html)
+* [C 프로그래밍: 현대적 접근](https://wikidocs.net/book/2494) - K.N.King, `trl.:` 주민하
+
+
+### <a id="csharp"></a>C#
+
+* [C# 교과서](https://thebook.io/006890/) - 박용준
 
 
 ### <a id="cpp"></a>C++
@@ -64,7 +78,7 @@
 
 ### Docker
 
-* [가장 빨리 만나는 Docker](http://www.pyrasis.com/private/2014/11/30/publish-docker-for-the-really-impatient-book)
+* [이재홍의 언제나 최신 Docker](http://www.pyrasis.com/jHLsAlwaysUpToDateDocker)
 
 
 ### Elastic
@@ -72,19 +86,21 @@
 * [Elastic 가이드북](https://esbook.kimjmin.net) - 김종민
 
 
-### GIT
+### Git
 
-* [깃허브 치트 시트](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ko.md)
-* [Git - 간편 안내서](http://rogerdudler.github.io/git-guide/index.ko.html)
-* [Pro Git 한글 번역](https://git-scm.com/book/ko/v2) - 최신 버전
+* [깃허브 치트 시트](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ko.md) - Tim Green, `trl.:` marocchino, `trl.:` Chayoung You, `trl.:` Will 保哥 (HTML)
+* [Git - 간편 안내서](https://rogerdudler.github.io/git-guide/index.ko.html) - Roger Dudler, `trl.:` Juntai Park, `trl.:` Ardie Hwang (HTML)
+* [Pro Git 한글 번역](https://git-scm.com/book/ko/) - Scott Chacon, Ben Straub, `trl.:` Sean Lee, `trl.:` Seonghwan Lee, `trl.:` Sungmann Cho, `trl.:` Junyeong Yim, et al. (HTML, PDF, EPUB) *(최신 버전)*
 
 
 ### Go
 
 * [가장 빨리 만나는 Go 언어](http://www.pyrasis.com/private/2015/06/01/publish-go-for-the-really-impatient-book)
-* [AN INTRODUCTION TO PROGRAMMING IN GO 한글 번역](http://www.codingnuri.com/golang-book/index.html)
+* [효과적인 Go 프로그래밍](https://gosudaweb.gitbooks.io/effective-go-in-korean/content/)
+* [Go 문서 한글 번역](https://github.com/golang-kr/golang-doc/wiki)
 * [Go 언어 웹 프로그래밍 철저 입문](https://thebook.io/006806/)
-* [The Little Go Book. 리틀 고 책입니다](https://github.com/byounghoonkim/the-little-go-book/) - Karl Seguin, Byounghoon Kim ([HTML](https://github.com/byounghoonkim/the-little-go-book/blob/master/ko/go.md))
+* [The Little Go Book. 리틀 고 책입니다](https://github.com/byounghoonkim/the-little-go-book/) - Karl Seguin, `trl.:` Byounghoon Kim ([HTML](https://github.com/byounghoonkim/the-little-go-book/blob/master/ko/go.md))
+* [The Ultimate Go Study Guide 한글 번역](https://github.com/ultimate-go-korean/translation)
 
 
 ### HTML and CSS
@@ -99,13 +115,17 @@
 
 ### JavaScript
 
-* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ko)
 * [JavaScript로 만나는 세상](https://helloworldjavascript.net)
 
 
 #### Node.js
 
-* [Node.js API 한글 번역 by outsideris](http://nodejs.sideeffect.kr/docs/)
+* [Node.js API 한글 번역](http://nodejs.sideeffect.kr/docs/) - outsideris
+
+
+#### React
+
+* [리액트를 다루는 기술 [개정판]](https://thebook.io/080203) - 김민준
 
 
 #### Webpack
@@ -115,7 +135,7 @@
 
 ### LaTeX
 
-* [The Not So short Introduction to LaTeX 2ε](https://ctan.org/tex-archive/info/lshort/korean)
+* [The Not So short Introduction to LaTeX 2ε](https://ctan.org/tex-archive/info/lshort/korean) - Tobias Oetiker, Hubert Partl, Irene Hyna, Elisabeth Schlegl, `trl.:` 김강수, `trl.:` 조인성 (PDF)
 
 
 ### Linux
@@ -124,9 +144,19 @@
 * [GNOME 배우기](https://sites.google.com/site/gnomekr/home/learning_gnome)
 
 
+### Machine Learning
+
+[Pytorch로 시작하는 딥 러닝 입문](https://wikidocs.net/book/2788) - 유원준, 상준
+
+
 ### Mathematics
 
 * [기초정수론: 계산과 법연산, 그리고 비밀통신을 강조한](https://wstein.org/ent/ent_ko.pdf) - William Stein (PDF)
+
+
+### OpenStack
+
+* [오픈스택을 다루는 기술](https://thebook.io/006881) - 장현정 (HTML)
 
 
 ### Operation System
@@ -156,22 +186,30 @@
 
 * [내가 파이썬을 배우는 방법](https://wikidocs.net/7839)
 * [모두의 파이썬: 20일 만에 배우는 프로그래밍 기초](https://thebook.io/007026)
+* [사장님 몰래 하는 파이썬 업무자동화(부제: 들키면 일 많아짐)](https://wikidocs.net/book/6353) - 정용범, 손상우 외 1명
 * [실용 파이썬 프로그래밍: 프로그래밍 유경험자를 위한 강좌](https://wikidocs.net/book/4673) - 최용
 * [왕초보를 위한 Python 2.7](https://wikidocs.net/book/2)
 * [점프 투 파이썬 - Python 3](https://wikidocs.net/book/1)
+* [좌충우돌, 파이썬으로 자료구조 구현하기](https://wikidocs.net/book/9059) - 심명수
 * [중급 파이썬: 파이썬 팁들](https://ddanggle.gitbooks.io/interpy-kr/content/)
 * [파이썬 라이브러리](https://wikidocs.net/book/5445) - 박응용
+* [파이썬 코딩 도장](https://pyrasis.com/python.html) - 남재윤
 * [파이썬 헤엄치기](https://wikidocs.net/book/5148) - 해달 프로그래밍
 * [파이썬을 여행하는 히치하이커를 위한 안내서!](https://python-guide-kr.readthedocs.io/ko/latest/)
 * [파이썬을 이용한 비트코인 자동매매](https://wikidocs.net/book/1665) - 조대표
-* [A Byte of Python 한글 번역 by Jeongbin Park](http://byteofpython-korean.sourceforge.net/byte_of_python.pdf) (PDF)
+* [A Byte of Python 한글 번역](http://byteofpython-korean.sourceforge.net/byte_of_python.pdf) - Jeongbin Park (PDF)
 * [PyQt5 Tutorial - 파이썬으로 만드는 나만의 GUI 프로그램](https://wikidocs.net/book/2165) - Dardao (HTML)
 
 
 #### Django
 
-* [장고걸스 튜토리얼 (Django Girls Tutorial)](https://tutorial.djangogirls.org/ko/) (1.11) (HTML) (:construction: *in process*)
+* [장고걸스 튜토리얼 (Django Girls Tutorial)](https://tutorial.djangogirls.org/ko/) (1.11) (HTML) *(:construction: in process)*
 * [점프 투 장고](https://wikidocs.net/book/4223) - 박응용
+
+
+#### FastAPI
+
+* [점프 투 FastAPI](https://wikidocs.net/book/8531) - 박응용
 
 
 #### Flask
@@ -182,6 +220,7 @@
 
 ### R
 
+* [Must Learning with R (개정판)](https://wikidocs.net/book/4315) - DoublekPark 외 1명
 * [R을 이용한 데이터 처리 & 분석 실무](http://r4pda.co.kr) - 서민구 (HTML, PDF - 이전 버젼)
 * [The R Manuals (translated in Korean)](http://www.openstatistics.net)
 
@@ -198,8 +237,8 @@
 
 ### Rust
 
-* [러스트 프로그래밍 언어](https://rinthel.github.io/rust-lang-book-ko/) - 스티브 클라브닉, 캐롤 니콜스 (HTML) (:construction: *in process*)
-* [Rust by Example](https://hanbum.gitbooks.io/rustbyexample/content/) (:construction: *in process*)
+* [러스트 프로그래밍 언어](https://rinthel.github.io/rust-lang-book-ko/) - 스티브 클라브닉, 캐롤 니콜스 (HTML) *(:construction: in process)*
+* [Rust by Example](https://hanbum.gitbooks.io/rustbyexample/content/) *(:construction: in process)*
 
 
 ### Scratch
@@ -219,9 +258,24 @@
 
 ### Springboot
 
+* [점프 투 스프링부트](https://wikidocs.net/book/7601) - 박응용
 * [Springboot 2.X 정리](https://djunnni.gitbook.io/springboot) - 이동준
+
+
+### TypeScript
+
+* [5분 안에 보는 타입스크립트](https://typescript-kr.github.io)
+* [타입스크립트 핸드북](https://joshua1988.github.io/ts) - Captain Pangyo
+* [한눈에 보는 타입스크립트](https://heropy.blog/2020/01/27/typescript) - HEROPY
+Tech
+* [TypeScript Deep Dive](https://radlohead.gitbook.io/typescript-deep-dive)
 
 
 ### Unicode
 
 * [번역 Unicode 이모티콘에 얽힌 이것저것 (이모티콘 표준과 프로그래밍 핸들링)](http://pluu.github.io/blog/android/2020/01/11/unicode-emoji/)
+
+
+### Unity3d
+
+* [번역 Unity Graphics Programming Series](https://github.com/IndieVisualLab/UnityGraphicsProgrammingSeries) - [Indie Visual Lab](https://github.com/IndieVisualLab)

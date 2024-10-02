@@ -1,26 +1,33 @@
 ### Índice
 
 * [Agnósticos](#agnósticos)
-    * [IDE / Editores](#ide--editores)
+    * [Cloud Computing](#cloud-computing)
+    * [IDE and editors](#ide-and-editors)
     * [Programação](#programação)
     * [Sistemas Operacionais](#sistemas-operacionais)
 * [Android](#android)
 * [Arduino](#arduino)
 * [Assembly](#assembly)
+* [Banco de Dados](#banco-de-dados)
+* [Basic](#basic)
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
 * [Dart](#dart)
 * [Docker](#docker)
+* [Elixir](#elixir)
 * [Engenharia de software](#engenharia-de-software)
     * [Arquitetura de Software](#arquitetura-de-software)
     * [Metodologias de Desenvolvimento de Software](#metodologias-de-desenvolvimento-de-software)
     * [Outros](#outros)
+* [Fortran](#fortran)
 * [Fundamentos Matemáticos Computacionais](#fundamentos-matemáticos-computacionais)
 * [Git](#git)
 * [Go](#go)
 * [Haskell](#haskell)
 * [HTML and CSS](#html-and-css)
+* [Inteligência Artificial](#inteligência-artificial)
+* [Internet das Coisas](#internet-das-coisas)
 * [Java](#java)
 * [JavaScript](#javascript)
     * [AngularJS](#angularjs)
@@ -32,12 +39,15 @@
     * [jQuery](#jquery)
     * [Knockout.js](#knockoutjs)
     * [Meteor](#meteor)
+    * [Next.js](#nextjs)
     * [Node.js](#nodejs)
     * [React](#react)
     * [Vue.js](#vuejs)
+* [Julia](#julia)
 * [Kubernetes](#kubernetes)
 * [LaTeX](#latex)
-* [LISP](#lisp)
+* [Lisp](#lisp)
+* [Logo](#logo)
 * [Lua](#lua)
 * [Pascal](#pascal)
 * [PHP](#php)
@@ -46,6 +56,7 @@
 * [R](#r)
 * [RegEx](#regex)
 * [Ruby](#ruby)
+* [Rust](#rust)
 * [Shell / Bash Script](#shell--bash)
 * [TypeScript](#typescript)
     * [Angular](#angular)
@@ -53,35 +64,37 @@
 
 ### Agnósticos
 
-#### IDE / Editores
+#### Cloud Computing
 
-* [Visual Studio Code: Produtividade infinita](https://github.com/bylearn/VS-Code-Produtividade-Infinita) - Felipe Cabrera Ribeiro dos Santos
+* [Guia da Computação em Nuvem: Conceito, Prática & Capacitação](https://archive.org/details/guia-da-computacao-em-nuvem) - Beatriz Oliveira, Mariana Carvalho (PDF, EPUB)
 
 
-#### Vim
+#### IDE and editors
 
-* [O Editor de Texto Vim](https://code.google.com/p/vimbook) - Sérgio Luiz Araújo Silva et al.
+* [O Editor de Texto Vim](https://code.google.com/p/vimbook) - Sérgio Luiz Araújo Silva, et al.
 * [Vim para Noobs](https://woliveiras.com.br/vimparanoobs/) - William Oliveira Souza (HTML, PDF, EPUB) (*Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo*)
 * [Vimbook](https://cassiobotaro.dev/vimbook/) - Cássio Botaro (HTML)
+* [Visual Studio Code: Produtividade infinita](https://github.com/bylearn/VS-Code-Produtividade-Infinita) - Felipe Cabrera Ribeiro dos Santos
 
 
 #### Programação
 
+* [Algoritmos e Estruturas de Dados 1](https://www.inf.ufpr.br/marcos/livro_alg1/livro_alg1.pdf) - Marcos Castilho, Fabiano Silva, Daniel Weingaertner (PDF)
 * [Algoritmos e Programação](https://www.ifmg.edu.br/ceadop3/apostilas/algoritmos-e-programacao) - Adolfo José G. S. Baudson, Francisco César R. de Araújo (PDF)
-* [Introdução a Algoritmos e Programação](http://www.ferrari.pro.br/home/documents/FFerrari-CCechinel-Introducao-a-algoritmos.pdf) - Fabricio Ferrari e Cristian Cechinel (PDF)
+* [Introdução a Algoritmos e Programação](http://www.ferrari.pro.br/home/documents/FFerrari-CCechinel-Introducao-a-algoritmos.pdf) - Fabricio Ferrari, Cristian Cechinel (PDF)
 * [Lógica de Programação para iniciantes](https://dicasdeprogramacao.com.br/download/ebook-logica-de-programacao-para-iniciantes.pdf) - Gustavo Furtado de Oliveira Alves (PDF)
+* [Paradigmas de programação](https://github.com/edsomjr/Paradigmas) - Edson Alves (HTML)
 
 
 #### Sistemas Operacionais
 
-* [Guia com mais de 500 comandos do Linux explicados](https://www.gnulinuxbrasil.com.br/2017/05/24/guia-com-mais-de-500-comandos-do-linux-explicados/) - Bruno Andrade (PDF)
 * [Guia Foca Linux](https://www.guiafoca.org/#download) - Gleydson Maziolli (PDF)
-* [Sistemas Operacionais: Conceitos e Mecanismos](http://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-livro.pdf) - Carlos A. Maziero (PDF) (:construction: *em contínuo desenvolvimento*)
+* [Sistemas Operacionais: Conceitos e Mecanismos](http://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-livro.pdf) - Carlos A. Maziero (PDF) *(:construction: em contínuo desenvolvimento)*
 
 
 ### Android
 
-* [Google Android: Uma abordagem prática e didática](https://leanpub.com/google-android) - Rafael Guimarães Sakurai - (Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo nos formatos PDF, EPUB, MOBI ou pelo próprio site)
+* [Google Android: Uma abordagem prática e didática](https://leanpub.com/google-android) - Rafael Guimarães Sakurai (Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo nos formatos PDF, EPUB, MOBI ou pelo próprio site)
 
 
 ### Arduino
@@ -92,31 +105,43 @@
 ### Assembly
 
 * [Assembly x86](https://mentebinaria.gitbook.io/assembly-x86/) - Luis Felipe, Mente Binária (gitbook)
-* [Execução de Programas: Como funcionam carregadores, ligadores e interpretadores](https://www.inf.ufpr.br/bmuller/assets/docs/livroSB.pdf) - Bruno Müller Junior (PDF)
+* [Linguagem Assembly: Introdução ao padrão Intel 8086](https://github.com/J-AugustoManzano/livro_Assembly-Intro-8086) - José Augusto N. G. Manzano (PDF)
+
+
+### Banco de Dados
+
+* [Introdução a Banco de Dados](https://educapes.capes.gov.br/bitstream/capes/564494/2/FASCICULO_Introducao_Banco_Dados_30_08.pdf) - Joyce Aline de Oliveira Marins, Gracyeli Santos Souza Guarienti (PDF)
+
+
+### Basic
+
+* [Programação de computadores para iniciantes com Small Basic](https://github.com/J-AugustoManzano/livro_Small-Basic-1.2) - José Augusto N. G. Manzano (PDF)
 
 
 ### C
 
+* [Algoritmos em Grafos](https://www.ime.usp.br/~yoshi/2005i/mac328/) - Yoshiharu Kohayakawa (HTML)
+* [Algoritmos para Grafos (via Sedgewick)](https://www.ime.usp.br/~pf/algoritmos_para_grafos/) - Paulo Feofiloff (HTML)
 * [Apostila Linguagem C](http://www.ime.usp.br/~slago/slago-C.pdf) - Silvio Lago (PDF)
-* [Curso de Programação em C - UFMG](http://www2.dcc.ufmg.br/disciplinas/pc/source/introducao_c_renatocm_deeufmg.pdf) - Renato Cardoso Mesquita (PDF)
-* [Guia Beej's Para Programação em Rede - Usando Internet Sockets](http://beej.us/guide/bgnet/translations/bgnet_ptbr.html) - Brian "Beej Jorgensen" Hall, Traduzido por cv8minix3 (HTML)
+* [C Completo e Total - Terceira Edição (1996)](https://www.inf.ufpr.br/lesoliveira/download/c-completo-total.pdf) - Herbert Schildt (PDF)
+* [Guia Beej's Para Programação em Rede - Usando Internet Sockets](http://beej.us/guide/bgnet/translations/bgnet_ptbr.html) - Brian "Beej Jorgensen" Hall, `trl.:` cv8minix3 (HTML)
 * [Introdução a Programação](https://github.com/ufpb-computacao/introducao-a-programacao-livro/releases) - livro adotado na UFPB.
-* [Introdução em Computação - C](http://www.ime.usp.br/~elo/IntroducaoComputacao/).
 * [Linguagem C - Notas de Aula](https://www.inf.ufpr.br/cursos/ci067/Docs/NotasAula/) - Carmem Hara, Wagner Zola (HTML, [PDF](https://www.inf.ufpr.br/cursos/ci067/Docs/NotasAula.pdf))
 * [O Fantástico Mundo da Linguagem C](https://fiorix.files.wordpress.com/2014/04/o-fantc3a1stico-mundo-da-linguagem-c.pdf) (PDF)
-* [Projeto de Algoritmos em C](http://www.ime.usp.br/~pf/algoritmos/)
+* [Projeto de Algoritmos (em C)](http://www.ime.usp.br/~pf/algoritmos/) - Paulo Feofiloff (HTML)
 
 
 ### <a id="csharp"></a>C\#
 
 * [C# e Orientação a Objetos](https://www.caelum.com.br/apostila-csharp-orientacao-objetos/) - Caelum
+* [C# para Iniciantes](https://livrocsharp.com.br/wp-content/uploads/dae-uploads/CSharpIniciantes.pdf) - André Carlucci, Carlos dos Santos, Claudenir Andrade, Rafael Almeida, Ray Carneiro, Renato Haddad (PDF)
 
 
 ### <a id="cpp"></a>C++
 
 * [Apostila Linguagem C++](http://www.ime.usp.br/~slago/slago-C++.pdf) - Silvio Lago (PDF)
-* [Estrutura de Dados](http://calhau.dca.fee.unicamp.br/wiki/images/0/01/EstruturasDados.pdf) (PDF)
 * [Programação Orientada a Objetos em C++](https://web.archive.org/web/20190124233626/http://webserver2.tecgraf.puc-rio.br/~manuel/Download/Programacao%20Orientada%20a%20Objetos%20em%20C++.pdf) (PDF)
+* [Tópicos Especiais em Programação](https://github.com/edsomjr/TEP) - Edson Alves (HTML)
 
 
 ### Dart
@@ -128,10 +153,19 @@
 ### Docker
 
 * [Descomplicando o Docker](https://livro.descomplicandodocker.com.br) - Jeferson Fernando
-* [Docker para desenvolvedores](https://leanpub.com/dockerparadesenvolvedores) - Rafael Gomes *(necessário conta no Leanpub ou e-mail válido)*
+
+
+### Elixir
+
+* [Elixir DOJO](http://victorolinasc.github.io/elixir_dojo/dojo.html) - Victor Oliveira Nascimento (HTML)
+* [Learn4Elixir](https://github.com/Universidade-Livre/Learn4Elixir) - Universidade Brasileira Livre (Livebook)
 
 
 ### Engenharia de Software
+
+* [Engenharia de Software - Uma Abordagem Profissional](https://web.icmc.usp.br/SCATUSU/Boletim_aquisicao/Boletim_Julho_2019/capas_julho_2019/Pressman_Engenharia0001.pdf) - Roger S. Pressman, Bruce R. Maxim (PDF)
+* [Engenharia de Software Moderna](https://engsoftmoderna.info) - Marco Tulio Valente (HTML)
+
 
 #### Metodologias de Desenvolvimento de Software
 
@@ -143,6 +177,7 @@
 #### Arquitetura de Software
 
 * [ASP.NET Core architecture](https://docs.microsoft.com/pt-br/dotnet/architecture/modern-web-apps-azure/) (PDF)
+* [Melhores Práticas de Arquitetura de Software na era da Nuvem](https://leanpub.com/manual-arquitetura-software) (Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo nos formatos PDF, EPUB, MOBI ou pelo próprio site)
 * [Microservices architecture](https://docs.microsoft.com/pt-br/dotnet/architecture/microservices/) (PDF)
 * [Modernizing existing .NET apps](https://docs.microsoft.com/pt-br/dotnet/architecture/modernize-with-azure-containers/) (PDF)
 
@@ -150,56 +185,77 @@
 #### Outros
 
 * [CI - Integração Contínua Sem Desculpa](https://ci.mrprompt.com.br)
-* [Deploy em produção para desenvolvedores](https://leanpub.com/deployemprodparadevs) - Rafael Gomes *(necessário conta no Leanpub ou e-mail válido)*
 * [Engenharia de Software Moderna](https://engsoftmoderna.info) - Marco Tulio Valente (HTML)
 * [Primeiros passos com Padrões de Projeto](https://leanpub.com/primeiros-passos-com-padroes-de-projeto/)
 
 
+### Fortran
+
+* [Introdução ao Fortran90](https://www.cenapad.unicamp.br/treinamentos/apostilas/apostila_fortran90.pdf) - Unicamp/ Cenapad - SP (PDF)
+
+
 ### Fundamentos Matemáticos Computacionais
 
+* [Análise de Algoritmos](https://www.ime.usp.br/~pf/analise_de_algoritmos/) - Paulo Feofiloff (HTML)
 * [Computação: Matemática Discreta](https://educapes.capes.gov.br/bitstream/capes/432209/2/Livro_Matematica%20Discreta.pdf) - Raquel Montezuma Pinheiro Cabral (PDF)
-* [Matemática Fundacional para Computação - Em progresso](https://www.tsouanas.org/fmcbook/) - Thanos Tsouanas (:construction: *in process*)
+* [Exercícios de Teoria dos Grafos](https://www.ime.usp.br/~pf/grafos-exercicios/) - Paulo Feofiloff (PDF)
+* [Matemática Fundacional para Computação - Em progresso](https://www.tsouanas.org/fmcbook/) - Thanos Tsouanas *(:construction: em contínuo desenvolvimento)*
+* [Minicurso de Análise de Algoritmos](https://www.ime.usp.br/~pf/livrinho-AA/) - Paulo Feofiloff (PDF)
+* [Otimização Combinatória](https://www.ime.usp.br/~pf/otimizacao-combinatoria/) - Paulo Feofiloff (PDF)
+* [Uma Introdução Sucinta à Teoria dos Grafos](https://www.ime.usp.br/~pf/teoriadosgrafos/) - Y. Kohayakawa, Y. Wakabayashi, P. Feofiloff (PDF)
 
 
 ### Git
 
-* [Git - guia prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
-* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/)
-* [Minicurso - Controle de Versão usando o Git](https://github.com/ltiaunesp/Git-Minicurso) - LTIA UNESP
-* [Pro Git](http://git-scm.com/book/pt-br/)
+* [Git - guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html) - Roger Dudler (HTML)
+* [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/) - Ben Lynn, `trl.:` Leonardo Siqueira Rodrigues (HTML, PDF)
+* [Minicurso - Controle de Versão usando o Git](https://github.com/ltiaunesp/Git-Minicurso) - LTIA UNESP, Marcelo Augusto Cordeiro
+* [Pro Git](http://git-scm.com/book/pt-br/) - Scott Chacon, Ben Straub, et al. (HTML, PDF, EPUB)
 
 
 ### GO
 
 * [Aprenda Go com Testes](https://larien.gitbook.io/aprenda-go-com-testes) - Lauren Ferreira
+* [Construindo Aplicações Web em Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/pt-br/) - astaxie
 * [Go - hands on](https://github.com/go-br/estudos)
+* [Go Lang - A linguagem do Google](https://www.ime.usp.br/~gold/cursos/2015/MAC5742/reports/GoLang.pdf) - Suelen Goularte Carvalho (PDF)
 * [Go por Exemplo](http://goporexemplo.golangbr.org) - Mark McGranaghan, Jeremy Ashkenas, golangbr, Daniela Tamy Iwassa (HTML)
 
 
 ### Haskell
 
-* [Aprender o Haskell será um grande bem para você (tradução em andamento)](https://github.com/taylorrf/learnhaskell)
+* [Aprender o Haskell será um grande bem para você](https://github.com/taylorrf/learnhaskell) - Miran Lipovača, `trl.:` Tailor Fontela
 
 
 ### HTML and CSS
 
 * [Apostila de HTML](https://www.telecom.uff.br/pet/petws/downloads/apostilas/HTML.pdf) - Robertha Pereira Pedroso (PDF)
+* [Curso SASS](https://github.com/amandavilela/curso-sass) - Amanda Vilela
 * [Desenvolvimento Web com HTML, CSS e JavaScript](https://www.caelum.com.br/apostila-html-css-javascript/) - Caelum
-* [Dive Into HTML5](http://diveintohtml5.com.br)
+* [Dive Into HTML5](http://diveintohtml5.com.br) - Mark Pilgrim
 * [Estruturando o HTML com CSS](http://pt-br.learnlayout.com)
-* [Websites Atendendo a Requisitos de Acessibilidade e Usabilidade](https://leanpub.com/warau) - Leonelo Dell Anhol Almeida, Maria Cecília Calani Baranauskas, Vagner Figueredo de Santana (PDF) *(Leanpub account or valid email requested)*
+
+
+### Inteligência Artificial
+
+* [Inteligência artificial: avanços e tendências](https://www.livrosabertos.sibi.usp.br/portaldelivrosUSP/catalog/view/650/579/2181) - Fabio G. Cozman, Guilherme Ary Plonski, Hugo Neri (PDF)
+* [Processamento de Linguagem Natural: Conceitos, Técnicas e Aplicações em Português](https://brasileiraspln.com/livro-pln/) - Helena M. Caseli, Maria G. V. Nunes (PDF)
+
+
+### Internet das Coisas
+
+* [A Internet das Coisas](https://bibliotecadigital.fgv.br/dspace/bitstream/handle/10438/23898/A%20internet%20das%20coisas.pdf) - Eduardo Magrani (PDF)
 
 
 ### Java
 
-* [Desenvolvimento de Aplicações Web em Java e Outras Tecnologias](https://github.com/davidbuzatto/Livro-Desenvolvimento-de-Aplica-es-Web-em-Java/releases) - David Buzatto (PDF)
-* [Desenvolvimento Distribuído com JavaEE](https://www.gitbook.com/book/rafaelsakurai/desenvolvimento-distribuido) - Rafael Guimarães Sakurai
 * [Imergindo na JVM](https://leanpub.com/imergindo-jvm) - Otavio Santana *(Leanpub account or valid email requested)*
-* [Introdução a Ciência da Computação com Java](http://ccsl.ime.usp.br/files/publications/files/2008/intro-java-cc.pdf) (PDF)
+* [Introdução a Ciência da Computação com Java](http://ccsl.ime.usp.br/files/publications/files/2008/intro-java-cc.pdf) Alfredo Goldman, Fabio Kon, Paulo J. S. Silva (PDF)
+* [Java Básico e Oriêntação a Objeto](https://canal.cecierj.edu.br/012016/d7d8367338445d5a49b4d5a49f6ad2b9.pdf) - Clayton Escouper das Chagas, Cássia Blondet Baruque, Lúcia Blondet Baruque (PDF)
 * [Java e Orientação a Objetos](http://www.caelum.com.br/apostila-java-orientacao-objetos/) - Caelum
 * [Java para Desenvolvimento Web](http://www.caelum.com.br/apostila-java-web/) - Caelum
-* [Programação Básica em Java](http://professor.unisinos.br/pjaques/material/java_basico.pdf) - Patrícia Jaques Maillard (PDF)
-* [Programação para iniciantes](https://s3.amazonaws.com/algaworks-assets/ebooks/algaworks-livro-programacao-para-iniciantes-v1.1.pdf) (PDF)
+* [Programação Orientada a Objetos: Uma Abordagem com Java](https://www.dca.fee.unicamp.br/cursos/PooJava/Aulas/poojava.pdf) - Ivan Luiz Marques Ricarte (PDF)
+* [Programação para iniciantes](https://s3.amazonaws.com/algaworks-assets/ebooks/algaworks-livro-programacao-para-iniciantes-v1.1.pdf) Alexandre Afonso (PDF)
 
 
 ### JavaScript
@@ -207,7 +263,7 @@
 * [Eloquente JavaScript](https://github.com/braziljs/eloquente-javascript)
 * [EXPERT JS Stack](http://stack.desenvolvedor.expert)
 * [Guia JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide)
-* [Guia Rápido de Desenvolvimento para Firefox OS](https://leanpub.com/guiarapidofirefoxos)
+* [Guia Rápido de Desenvolvimento para Firefox OS](https://leanpub.com/guiarapidofirefoxos/read) (HTML)
 * [JS: A forma certa](http://jstherightway.org/pt-br/)
 * [You Don't Know JS: Async & Performance](https://github.com/cezaraugusto/You-Dont-Know-JS/blob/portuguese-translation/async%20&%20performance/README.md)
 * [You Don't Know JS: ES6 & Além](https://github.com/cezaraugusto/You-Dont-Know-JS/blob/portuguese-translation/es6%20&%20beyond/README.md)
@@ -229,7 +285,6 @@
 #### Backbone.js
 
 * [Série Backbone.js (blog.fernandomantoan.com)](http://blog.fernandomantoan.com/serie-backbone-js-parte-1-introducao/)
-* [Série Backbone.js (devfuria.com.br)](http://www.devfuria.com.br/javascript/backbone/)
 
 
 #### Ember.js
@@ -269,10 +324,15 @@
 * [Tudo sobre Meteor](https://udgwebdev.github.io/meteor/)
 
 
+#### Next.js
+
+* [O manual do Next.js para iniciantes](https://www.freecodecamp.org/portuguese/news/o-manual-do-next-js-para-iniciantes/) - freeCodeCamp
+
+
 #### Node.js
 
 * [Aplicações web real-time com Node.js](https://github.com/caio-ribeiro-pereira/livro-nodejs) - Caio Ribeiro Pereira
-* [Construindo APIs testáveis com Node.js](https://leanpub.com/construindo-apis-testaveis-com-nodejs/) - Waldemar Neto *(necessário conta no Leanpub ou e-mail válido)*
+* [Construindo APIs testáveis com Node.js](https://leanpub.com/construindo-apis-testaveis-com-nodejs/read) - Waldemar Neto (HTML)
 * [Node.js para Leigos](https://udgwebdev.github.io/nodejs/)
 * [Raspagem de dados com Node.js](http://tableless.com.br/raspagem-de-dados-com-node-js/)
 
@@ -280,15 +340,19 @@
 #### React
 
 * [React: JavaScript reativo](http://tableless.com.br/react-javascript-reativo/)
-* [The Road to Learn React](https://leanpub.com/the-road-to-learn-react-portuguese) *(necessário conta no Leanpub ou e-mail válido)*
 
 
 #### Vue.js
 
 * [Adicionar Bootstrap e Font-awesome no projeto criado com o Vue Cli](https://web.archive.org/web/20180613054310/http://www.vedovelli.com.br/frontend/adicionar-bootstrap-e-font-awesome-no-projeto-criado-com-o-vue-cli/)
 * [Documentação pt-BR](https://br.vuejs.org/v2/guide/)
-* [Vue.js na prática](https://leanpub.com/livro-vue) - Daniel Schmitz and Daniel Pedrinha Georgii (Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo nos formatos PDF, EPUB, MOBI ou pelo próprio site)
+* [Vue.js na prática](https://leanpub.com/livro-vue) - Daniel Schmitz, Daniel Pedrinha Georgii (Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo nos formatos PDF, EPUB, MOBI ou pelo próprio site)
 * [VueJS: Filtro para criar URL’s amigáveis](http://web.archive.org/web/20160331162636/http://carlosgartner.com.br/vuejs-filtro-para-criar-urls-amigaveis/)
+
+
+### Julia
+
+* [Programação de Computadores com Linguagem Julia](https://github.com/J-AugustoManzano/LivroLinJulia) - José Augusto N. G. Manzano (PDF)
 
 
 ### Kubernetes
@@ -304,9 +368,16 @@
 * [Latexação](https://www.ime.usp.br/~tassio/arquivo/latex/apostila.pdf) - Tássio Naia dos Santos (PDF)
 
 
-### LISP
+### Lisp
 
 * [Introdução a linguagem LISP](http://www.dca.fee.unicamp.br/courses/EA072/lisp9596/Lisp9596.html) (HTML)
+* [Linguagem LISP - Primeiros passos com Common LISP (CL)](https://novo.manzano.pro.br/wp/download/linguagem-lisp-primeiros-passos-com-common-lisp-cl/) - José Augusto N. G. Manzano (PDF)
+
+
+### Logo
+
+* [Academia da Tartaruga](https://github.com/J-AugustoManzano/livro_AcadTat) - José Augusto N. G. Manzano (PDF)
+* [Linguagem Logo: Introdução com UCBLogo 6.2.2](https://github.com/J-AugustoManzano/livro_Logo-Intro-UCBLogo) - José Augusto N. G. Manzano (PDF)
 
 
 ### Lua
@@ -316,31 +387,33 @@
 
 ### Pascal
 
-* [Algoritmos e Estruturas de Dados I](https://www.inf.ufpr.br/marcos/livro_alg1/livro_alg1.pdf) - Marcos Alexandre Castilho, Fabiano Silva e Daniel Weingaertner (PDF)
+* [Algoritmos e Estruturas de Dados I](https://www.inf.ufpr.br/marcos/livro_alg1/livro_alg1.pdf) - Marcos Alexandre Castilho, Fabiano Silva, Daniel Weingaertner (PDF)
+* [Programando com Pascal](https://ic.ufal.br/professor/jaime/livros/Programando%20com%20Pascal.pdf) - Jaime Evaristo (PDF)
 
 
 ### PHP
 
 * [Api REST Com Silex no GAE](http://bit.ly/ebook-silex) - Nanderson Castro (PDF, EPUB, MOBI)
 * [CakePHP](http://book.cakephp.org/2.0/pt/index.html)
-* [Curso Linguagem PHP 2000](http://www.etelg.com.br/paginaete/downloads/informatica/php.pdf) (PDF)
+* [Curso Linguagem PHP 2000](http://www.etelg.com.br/paginaete/downloads/informatica/php.pdf) Maurício Vivas de Souza Barreto (PDF)
 * [PHP Do jeito certo](http://br.phptherightway.com)
 * [PHPUnit](https://phpunit.de/manual/current/pt_br/index.html) (PDF, EPUB, MOBI)
 
 
 ### Python
 
+* [Apostila de Python](https://www1.univap.br/alberson/apostilas/pooi/apostila_pooi_1bi.pdf) - Alberson Wander Sá dos Santos (PDF)
 * [Aprenda computação com Python](https://aprendendo-computacao-com-python.readthedocs.org/en/latest/index.html)
-* [Aprenda Python Básico - Rápido e Fácil de entender](http://felipegalvao.com.br/livros) (PDF / Epub)
 * [Curso de Python e Django](https://osantana.me/curso-de-python-e-django)
 * [Django 101 - Introdução ao Django](http://turing.com.br/material/acpython/mod3/django/index.html)
 * [Introdução a Visão Computacional com Python e OpenCV](http://professor.luzerna.ifc.edu.br/ricardo-antonello/wp-content/uploads/sites/8/2017/02/Livro-Introdu%C3%A7%C3%A3o-a-Vis%C3%A3o-Computacional-com-Python-e-OpenCV-3.pdf) (PDF)
 * [O Guia do Mochileiro para Python!](https://python-guide-pt-br.readthedocs.io/pt_BR/latest/)
 * [O tutorial de Python](http://turing.com.br/pydoc/2.7/tutorial/)
+* [Pensando Tkinter](https://www.dcc.ufrj.br/~fabiom/mab225/PensandoTkinter.pdf) - Steven Ferg (PDF)
 * [Pense em Python](https://penseallen.github.io/PensePython2e)
 * [Python e Orientação a Objetos](https://www.caelum.com.br/apostila-python-orientacao-a-objetos/)
+* [Python Fluente, Segunda Edição (2023)](https://pythonfluente.com) - Luciano Ramalho (HTML)
 * [Python Funcional](https://dunossauro.github.io/python-funcional/) - Eduardo Mendes
-* [Python Orientado a Objetos](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxyYWZhZWx1ZnR8Z3g6NTJlM2UzYzY1ZTgzMDEwMw) (PDF)
 * [Python para Desenvolvedores](https://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf) (PDF)
 * [Tutorial Django Girls](http://tutorial.djangogirls.org/pt/)
 
@@ -355,8 +428,8 @@
 ### R
 
 * [Análise Exploratória de Dados usando o R](http://www.uesc.br/editora/livrosdigitais2/analiseexploratoria_r.pdf) - Enio Jelihovschi (PDF)
-* [Ciência de Dados com R](https://www.ibpad.com.br/o-que-fazemos/publicacoes/introducao-ciencia-de-dados-com-r/) - Paulo Oliveira, Saulo Guerra, and Robert McDonnell (email address *requested*, not required)
 * [Fundamentos Estatísticos de Ciência dos Dados](https://homepages.dcc.ufmg.br/~assuncao/EstatCC/FECD.pdf) - Renato Assunção (PDF)
+* [Introdução à Linguagem R: seus fundamentos e sua prática](https://pedropark99.github.io/Introducao_R/) - Pedro Duarte Faria
 * [R para cientistas sociais](http://www.uesc.br/editora/livrosdigitais_20140513/r_cientistas.pdf) - Jakson Alves de Aquino (PDF)
 
 
@@ -369,15 +442,22 @@
 
 * [Aprenda a Programar](http://www.jmonteiro.com/aprendaaprogramar/)
 * [Conhecendo Ruby - Eustaquio Rangel](https://leanpub.com/conhecendo-ruby/read)
-* [O (comovente) guia de Ruby do Why](http://why.carlosbrando.com)
+
+
+### Rust
+
+* [A Linguagem de Programação Rust](https://rust-br.github.io/rust-book-pt-br/title-page.html) - Steve Klabnik, Carol Nichols, `trl.:` Lucas Guimarães, `trl.:` Mario Idival, `trl.:` Alberto Margarido, et al. (HTML)
 
 
 ### Shell / Bash
 
 * [Bash Scripting](https://meleu.gitbooks.io/bashscripting/content/) - Meleu (gitbook)
+* [Casamento de Padrões no Shell do GNU/Linux](https://blauaraujo.com/downloads/shell-pattern-matching.pdf) - Blau Araújo (PDF)
+* [Curso Intensivo de Programação do Bash - Guia de Estudos](https://blauaraujo.com/downloads/cipb-guia.pdf) - Blau Araújo (PDF)
+* [Curso Shell GNU](https://blauaraujo.com/downloads/curso-shell-gnu.pdf) - Blau Araújo (PDF) (:construction: *in process*)
 * [Introdução ao Shell Script](http://aurelio.net/shell/apostila-introducao-shell.pdf) - Aurelio Marinho Jargas (PDF)
 * [Pequena introdução ao linux e ao Shell Script](https://www.telecom.uff.br/pet/petws/downloads/apostilas/LINUX.pdf) (PDF)
-* [Shell Script do Zero](http://metamorphoselinux.net/Shell_Script_do_Zero.pdf) (PDF)
+* [Pequeno Manual do Programador GNU/Bash](https://blauaraujo.com/downloads/pmpgb.pdf) - Blau Araújo (PDF)
 
 
 ### TypeScript
@@ -389,7 +469,6 @@
 
 #### Angular
 
-> :information_source: Veja também &#8230; [AngularJS](#angularjs)
+> :information_source: Veja também &#8230; [AngularJS](#angularjs), [IDE and editors](#ide-and-editors)
 
 * [Angular 2 - Criando sua primeira aplicação no Visual Studio Code](http://www.macoratti.net/17/02/net_ang2vsc1.htm) - José Carlos Macoratti (HTML)
-* [Implemente um aplicativo de página única com o Angular 2](https://www.ibm.com/developerworks/br/library/implemente-aplicativo-pagina-unica-angular-2/) - IBM, Babu Suresh (HTML)

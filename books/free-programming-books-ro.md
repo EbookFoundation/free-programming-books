@@ -3,9 +3,9 @@
 * [Ajax](#ajax)
 * [C](#c)
 * [HTML and CSS](#html-and-css)
+* [Javascript](#javascript)
 * [MySQL](#mysql)
 * [PHP](#php)
-    * [Symfony](#symfony)
 * [Scratch](#scratch)
 
 
@@ -16,7 +16,7 @@
 
 ### C
 
-* [Ghidul Beej pentru Programarea in Retea - Folosind socket de internet](https://web.archive.org/web/20180710112954/http://weknowyourdreams.com/beej.html) Brian "Beej Jorgensen" Hall, Dragos Moroianu (HTML) *(:card_file_box: archived)*
+* [Ghidul Beej pentru Programarea in Retea - Folosind socket de internet](https://web.archive.org/web/20180710112954/http://weknowyourdreams.com/beej.html) - Brian "Beej Jorgensen" Hall, Dragos Moroianu (HTML) *(:card_file_box: archived)*
 
 
 ### HTML and CSS
@@ -34,11 +34,11 @@
 * [PHP](http://php.punctsivirgula.ro)
 
 
-#### Symfony
-
-* [Symfony 5: Curs rapid](https://symfony.com/doc/current/the-fast-track/ro/index.html)
-
-
 ### Scratch
 
 * [Informatica Creativa](http://scratched.gse.harvard.edu/resources/informatica-creativa-0)
+
+
+### Javascript
+
+* [Curs si Tutoriale JavaScript](https://marplo.net/javascript)

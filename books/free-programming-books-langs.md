@@ -799,7 +799,6 @@ Books on general-purpose programming that don't focus on a specific language are
 ### Fullstack
 
 * [The Complete Developer Master the Full Stack With TypeScript](https://drive.google.com/file/d/1ETe5CsDmU86H1lLNRXspvEQdyPbDHnTl/view?usp=sharing) - Martin Krause
-  
  
 ### FreeBSD
 

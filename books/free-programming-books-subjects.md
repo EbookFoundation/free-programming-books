@@ -536,7 +536,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Lies, Damned Lies, or Statistics: How to Tell the Truth with Statistics](https://www.poritz.net/jonathan/share/ldlos.pdf) - Jonathan A. Poritz (PDF)
 * [Linear Algebra](https://www.math.ucdavis.edu/~linear/linear-guest.pdf) - David Cherney et al. (PDF)
 * [Linear Algebra](http://joshua.smcvt.edu/linearalgebra/) - Jim Hefferon
-* [linear algebra and multidimensional geometry](https://arxiv.org/abs/math/0405323f) - Ruslan Sharipov(PDF)
+* [linear algebra and multidimensional geometry](https://arxiv.org/pdf/math/0405323) - Ruslan Sharipov(PDF)
 * [Linear Algebra Done Right](https://linear.axler.net) - Sheldon Axler
 * [Linear Algebra Done Wrong](https://www.math.brown.edu/streil/papers/LADW/LADW.html) - Sergei Treil
 * [Linear Algebra, Infinite Dimensions, and Maple](https://people.math.gatech.edu/~herod/Hspace/Hspace.html) - James Herod

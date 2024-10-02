@@ -1,4 +1,4 @@
-# List of Free Learning Resources In Many Languages
+# List of Free Learning Resources in Many Languages.
 
 <div align="center" markdown="1">
 
@@ -64,7 +64,7 @@ Click on these badges to see how you might be able to help:
 <a href="http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/EbookFoundation/free-programming-books&title=Free%20Programming%20Books&summary=&source=">Share on LinkedIn</a><br>
 <a href="https://toot.kytta.dev/?mini=true&url=https://github.com/EbookFoundation/free-programming-books&title=Free%20Programming%20Books&summary=&source=">Share on Mastodon/Fediverse</a><br>    
 <a href="https://t.me/share/url?url=https://github.com/EbookFoundation/free-programming-books">Share on Telegram</a><br>
-<a href="https://twitter.com/intent/tweet?text=https://github.com/EbookFoundation/free-programming-books%0AFree%20Programming%20Books">Share on 𝕏 (Twitter)</a><br>
+<a href="https://twitter.com/intent/tweet?text=https://github.com/EbookFoundation/free-programming-books%0AFree%20Programming%20Books">Share on X (formerly Twitter)</a><br>
 </div>
 
 ## Resources

@@ -22,7 +22,7 @@
 
 ### Arduino
 
-* [احترف الأردوينو](https://www.ev-center.com/uploads/2/1/2/6/21261678/arduino.pdf) - Working Group&rlm; (PDF). CC BY-SA
+* [احترف الأردوينو](https://www.ev-center.com/uploads/2/1/2/6/21261678/arduino.pdf) - Working Group&rlm; (PDF). CC BY-SA 
 * [اردوينو ببساطة](https://simplyarduino.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%A7%D8%B1%D8%AF%D9%88%D9%8A%D9%86%D9%88-%D8%A8%D8%A8%D8%B3%D8%A7%D8%B7%D8%A9/) - عبدالله علي عبدالله, Abdallah Ali Abdallah Elmasry&rlm; (PDF). CC BY-SA
 * [AVR ببساطة: من تشغيل دايود ضوئي إلى أنظمة الوقت الحقيقي](https://github.com/abdallah-ali-abdallah/Simply-AVR-Book) - عبدالله علي عبدالله, Abdallah Ali Abdallah Elmasry&rlm; (ODT, PDF)
 

@@ -330,7 +330,7 @@
 * [CryptoZombies.io](https://cryptozombies.io) - CleverFlare, Loom Network
 * [Ethereum Developer Bootcamp](https://www.alchemy.com/university/courses/ethereum) - Alchemy University
 * [Learn Blockchain](https://www.youtube.com/playlist?list=PLlp912GlUiC1xPnwVmKgIiuMERetMwre9) - Roomyan
-* [Learn Blockchain & Solidity Development Full Course 2024](https://youtu.be/jcgfQEbptdo?feature=shared) - Dapp University
+* [Learn Blockchain & Solidity Development Full Course 2024]([https://youtu.be/jcgfQEbptdo?feature=shared](https://www.youtube.com/watch?v=eoQJ6nFZOcs&list=PLS5SEs8ZftgUNcUVXtn2KXiE1Ui9B5UrY)) - Gregory (Dapp University)
 * [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial](https://www.youtube.com/watch?v=M576WGiDBdQ) - Patrick Collins (freeCodeCamp.org)
 
 

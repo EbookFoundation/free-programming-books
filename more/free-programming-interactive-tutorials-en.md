@@ -139,6 +139,7 @@
 
 ### Git
 
+* [Cheatsheet for useful git commands](https://github-cheatsheet.netlify.app) - Raj Dutta
 * [git-game](https://github.com/git-game/git-game)
 * [git-game-v2](https://github.com/git-game/git-game-v2)
 * [Git Tutorial](https://www.w3schools.com/git/) - W3Schools
@@ -147,7 +148,6 @@
 * [Learn git concepts, not commands](https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc) - Nico Riedmann, Dev.to
 * [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
 * [Try Git](http://try.github.io)
-* [Cheatsheet for useful git commands](https://github-cheatsheet.netlify.app) - Raj Dutta
 * [Visualizing Git Concepts with D3](http://onlywei.github.io/explain-git-with-d3) - Wei Wang
 
 

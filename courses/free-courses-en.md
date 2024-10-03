@@ -290,6 +290,7 @@
 
 * [AutoIt Scripting Tutorial](https://www.youtube.com/playlist?list=PL4Jcq5zn02jKpjX0nqI1_fS7mEEb5tw6z) - TutsTeach
 * [AutoIt Tutorials](https://www.youtube.com/playlist?list=PL1DCD109B801D0DE6) - 403forbidden403
+* [The Basics AutoIt Tutorial](https://www.youtube.com/playlist?list=PLmB-aWjqd3PrkiIK-kiD_T08_g48n1Jdn) - MrAutoIt
 
 
 ### Ballerina

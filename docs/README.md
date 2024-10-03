@@ -52,6 +52,7 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
 - Hebrew / עברית
   - [How-to איך לעשות את זה](HOWTO-he.md)
 - Hindi / हिन्दी
+  - [योगदान](CONTRIBUTING-hi.md)
   - [आचार संहिता](CODE_OF_CONDUCT-hi.md)
   - [How-to](HOWTO-hi.md)
 - Hungarian / magyar / magyar nyelv

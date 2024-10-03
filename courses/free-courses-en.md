@@ -331,6 +331,7 @@
 * [Ethereum Developer Bootcamp](https://www.alchemy.com/university/courses/ethereum) - Alchemy University
 * [Learn Blockchain](https://www.youtube.com/playlist?list=PLlp912GlUiC1xPnwVmKgIiuMERetMwre9) - Roomyan
 * [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial](https://www.youtube.com/watch?v=M576WGiDBdQ) - Patrick Collins (freeCodeCamp.org)
+* [Learn Blockchain & Solidity Development Full Course 2024](https://youtu.be/jcgfQEbptdo?feature=shared) - Dapp University
 
 
 ### C

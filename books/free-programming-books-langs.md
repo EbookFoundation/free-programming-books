@@ -410,6 +410,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [The Shell Scripting Tutorial] (https://www.shellscript.sh) - Steve Parker (HTML)
 * [Writing Shell Scripts](http://linuxcommand.org/lc3_writing_shell_scripts.php) - William E. Shotts Jr. (HTML)
 
+
 ### Basic
 
 * [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](http://10print.org) - Nick Montfort, Patsy Baudoin, John Bell, Ian Bogost, Jeremy Douglass, Mark C. Marino, Michael Mateas, Casey Reas, Mark Sample, Noah Vawter

@@ -407,6 +407,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Slackbook (2005)](http://slackbook.org) - Alan Hicks, Chris Lumens, David Cantrell, Logan Johnson (HTML, DocBook, Postscript, PDF)
 * [The Bash Academy](http://guide.bash.academy) - Maarten Billemont (HTML)
 * [The Linux Command Line](http://linuxcommand.org/tlcl.php) - William E. Shotts Jr. (PDF)
+* [The Shell Scripting Tutorial](https://www.shellscript.sh) - Steve Parker (HTML)
 * [Writing Shell Scripts](http://linuxcommand.org/lc3_writing_shell_scripts.php) - William E. Shotts Jr. (HTML)
 
 
@@ -1057,6 +1058,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Introduction to Programming in Java](http://introcs.cs.princeton.edu/java/home/) - Robert Sedgewick, Kevin Wayne
 * [Introduction to Programming Using Java](http://math.hws.edu/javanotes) - David J. Eck (HTML, PDF, ePUB + exercises)
 * [Introduction to Programming Using Java (5th Edition - final version, 2010 Jun)](https://math.hws.edu/eck/cs124/javanotes5) - David J. Eck (HTML, PDF, ePUB + exercises)
+* [Java 23 - Key Concepts in Brief](https://petrucci.dev/java23.html) - Sergio Petrucci (PDF)
 * [Java Application Development on Linux (2005)](https://ptgmedia.pearsoncmg.com/images/013143697X/downloads/013143697X_book.pdf) - Carl Albing, Michael Schwarz (PDF)
 * [Java, Java, Java Object-Oriented Problem Solving](https://archive.org/details/JavaJavaJavaObject-orientedProblemSolving/page/n0) - R. Morelli, R.Walde
 * [Java Language and Virtual Machine Specifications](https://docs.oracle.com/javase/specs/) - James Gosling, et al.

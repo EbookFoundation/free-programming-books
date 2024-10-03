@@ -44,6 +44,7 @@
 * [R](#r)
 * [Ruby](#ruby)
     * [Ruby on Rails](#ruby-on-rails)
+* [Rust](#rust)
 * [Scala](#scala)
 * [Scratch](#scratch)
 * [SQL](#sql)
@@ -365,6 +366,11 @@
 #### Ruby on Rails
 
 * [Introducción a Rails](http://rubysur.org/introduccion.a.rails/) - RubySur (HTML)
+
+
+### Rust
+
+* [El Lenguaje de Programación Rust](https://book.rustlang-es.org) - Steve Klabnik y Carol Nichols, `trl.:` Comunidad Rust en Español (HTML)
 
 
 ### R

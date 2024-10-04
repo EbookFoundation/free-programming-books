@@ -1572,6 +1572,7 @@
 * [Free Robotics Course For School Students Certified Course By Coding Blocks Junior](https://youtube.com/playlist?list=PLhLbJ9UoJCvtlCNamtuDay41AG0JhQBKU) - CodingBlocks Junior
 * [Introduction to Robotics and Robots for Beginners Tutorial](https://www.youtube.com/playlist?list=PLGs0VKk2DiYxkoe2XNxDvVHqL5XG4dMWi) - Paul McWhorter
 * [Introduction to RTOS](https://www.youtube.com/playlist?list=PLEBQazB0HUyQ4hAPU1cJED6t3DU0h34bz) - Shawn Hymel, Digi-Key
+* [Robotics](https://www.youtube.com/playlist?list=PLbRMhDVUMngcdUbBySzyzcPiFTYWr4rV_) - Prof. D K Pratihar
 * [Robotics 1](https://www.youtube.com/playlist?list=PLAQopGWlIcyaqDBW1zSKx7lHfVcOmWSWt) - A. De Luca
 
 

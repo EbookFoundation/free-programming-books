@@ -375,6 +375,7 @@
 
 * [An Introduction to C++ Programming](https://www.udemy.com/course/an-introduction-to-cpp-programming/) - (Udemy)
 * [C++](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) - The Cherno
+* [C++ Basics in One Shot - Strivers A2Z DSA Course - L1](https://www.youtube.com/watch?v=EAR7De6Goz4) - Take U Forward
 * [C++ Compilation, Linking, and Makefiles](https://www.youtube.com/playlist?list=PLNUvpxaaFJ_i6BYqbxTVeK5AOcFzQbboQ) - Amy Larson
 * [C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210) - Catherine Gamboa (Udacity)
 * [C++ Full Course for free](https://www.youtube.com/watch?v=-TkoO8Z07hI) - Bro Code

@@ -134,7 +134,6 @@
 * [InterviewBit](https://www.interviewbit.com)
 * [Kattis](https://open.kattis.com)
 * [Mathproblem of the Month - Bilkent University](http://www.fen.bilkent.edu.tr/~cvmath/prob-month.html)
-* [Neetcode 150](https://neetcode.io/practice)
 * [PEG Judge](http://wcipeg.com)
 * [Pep Coding](https://www.pepcoding.com/resources)
 * [PKU Online Judge](http://poj.org)

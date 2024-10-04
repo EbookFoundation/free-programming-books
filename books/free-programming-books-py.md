@@ -1,0 +1,1 @@
+[AUTOMATE THE BORING STUFF WITH PYTHON](https://drive.google.com/file/d/1iq-FE7zFcHXKBTIZHqTEltLTOQ4cPUUT/view) - AL SWEIGART

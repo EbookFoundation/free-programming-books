@@ -1610,6 +1610,8 @@
 ### Scala
 
 * [Functional Programming in Scala Specialization](https://www.coursera.org/course/reactive)
+* [Scala Tutorial](https://youtu.be/-8V6bMjThNo?si=4QDqJthhYQiAjB02)
+* [Scala & Functional Programming Essentials](https://www.udemy.com/course/rock-the-jvm-scala-for-beginners/)
 
 
 ### Security

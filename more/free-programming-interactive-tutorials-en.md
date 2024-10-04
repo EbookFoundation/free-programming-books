@@ -420,7 +420,8 @@
 * [Rust Quiz](https://dtolnay.github.io/rust-quiz)
 * [Rustlings](https://github.com/rust-lang/rustlings)
 * [TCP Servers in Rust](https://app.codecrafters.io/concepts/rust-tcp-server) - CodeCrafters
-* [Tour of Rust](https://tourofrust.com/)
+* [Tour of Rust](https://tourofrust.com)
+
 
 ### Scala
 

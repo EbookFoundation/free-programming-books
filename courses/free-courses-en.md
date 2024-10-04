@@ -1556,7 +1556,6 @@
 * [R Tutorial For Beginners \| Edureka](https://www.youtube.com/watch?v=fDRa82lxzaU) - Edureka!
 
 
-
 ### Redis
 
 * [Learning Redis Tutorial](https://www.youtube.com/playlist?list=PLTgRMOcmRb3Mt3iBO2eosx5vXHeaM92TG) - Packt Video

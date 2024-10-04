@@ -20,7 +20,7 @@
 
 ### Git
 
-* [Pro Git](https://git-scm.com/book/sv/v2) - (HTML)
+* [Pro Git](https://git-scm.com/book/sv/v2) - (HTML) *(:construction: in process)*
 
 
 ### Fortran

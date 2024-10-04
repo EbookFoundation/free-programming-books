@@ -39,6 +39,7 @@
 ### Java
 
 * [Java \| Hindi](https://www.learnhindituts.com/java) - LearnHindiTuts.com
+* [Java \| Hindi](https://ehindistudy.com/2022/10/14/java-pdf-book-hindi/) - ehindistudy.com
 
 
 ### JavaScript

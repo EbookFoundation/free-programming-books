@@ -1547,13 +1547,13 @@
 
 
 ### R
-
+* [CS50's Introduction to Programming with R](https://learning.edx.org/course/course-v1:HarvardX+CS50R+R/home) - Carter Zenke
 * [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r) - DataCamp
 * [R Basics - R Programming Language Introduction](https://www.udemy.com/course/r-basics/) - R-Tutorials Training (Udemy)
 * [R Programming](https://www.coursera.org/course/rprog)
 * [R Programming Tutorial](https://www.youtube.com/watch?v=_V8eKsto3Ug) - Barton Poulson (freeCodeCamp)
 * [R Tutorial For Beginners \| Edureka](https://www.youtube.com/watch?v=fDRa82lxzaU) - Edureka!
-* [CS50's Introduction to Programming with R](https://learning.edx.org/course/course-v1:HarvardX+CS50R+R/home) - Carter Zenke
+
 
 
 ### Redis

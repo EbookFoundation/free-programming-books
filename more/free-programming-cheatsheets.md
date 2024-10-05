@@ -10,8 +10,8 @@
 * [Clojure](#clojure)
 * [Dart](#dart)
 * [Data Science](#data-science)
+* [Dbms](#dbms)
 * [Data Structures and Algorithms](#data-structures-and-algorithms)
-* [Dbms] (#dbms)
 * [Docker](#docker)
 * [Git](#git)
 * [Go](#go)
@@ -128,7 +128,7 @@
 
 ### DBMS
 
-* [DBMS_Cheatsheet](https://annamalaiuniversity.ac.in/studport/download/engg/CSE_Engg/resources/CSE_CSPC403_DBMS.pdf) - Annamalai University DBMS Course Cheatsheet
+* [DBMS_Cheatsheet](https://annamalaiuniversity.ac.in/studport/download/engg/CSE_Engg/resources/CSE_CSPC403_DBMS.pdf) - Annamalai University DBMS Course Cheatsheet (PDF)
 
 
 ### Data Science

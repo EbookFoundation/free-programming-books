@@ -112,6 +112,7 @@
 ### Android
 
 * [Android App Development Course (Beginner to Advanced) \| WsCube Tech 2.0](https://www.youtube.com/playlist?list=PLjVLYmrlmjGdDps6HAwOOVoAtBPAgIOXL) - WsCube Tech
+* [Android App Development Course in 2024](https://www.youtube.com/playlist?list=PLTV_nsuD2lf4UCTV6xwvNPvFdmCNKyhc8) - Saumya Singh
 * [Android Development Tutorial for Beginners](https://www.youtube.com/playlist?list=PLUcsbZa0qzu3Mri2tL1FzZy-5SX75UJfb) - Anuj Bhaiya
 * [Android Development Tutorials in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9aiL0kysYlfSOUgY5rNlOhUd) - CodeWithHarry
 * [Android Development With KOTLIN \| Android App Development Course In Hindi](https://www.youtube.com/playlist?list=PL6Fr59UplGvL7q7P3Hg6nYzS45gld-CCI) - Zain Farhan
@@ -210,6 +211,7 @@
 * [C++ Tutorial for Beginners \| C++ Tutorials In Hindi](https://www.youtube.com/playlist?list=PLmGElG-9wxc8VMy1nNHDQldH2dU8Y08s7) - Manish Gehlot, WsCube Tech Programming Concepts
 * [C++ Tutorial In Hindi](https://www.youtube.com/playlist?list=PLhvdldYcnZMl3Smc6ANF6rO56ORgwb46g) - Coding Wallah Sir
 * [C++ Tutorials In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL) - CodeWithHarry
+* [Chai aur C++](https://www.youtube.com/playlist?list=PLu71SKxNbfoCPfgKZS8UE0MDuwiKvL8zi) - Chai aur Code
 * [The Complete C++ Course \| Hindi](https://www.youtube.com/playlist?list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF) - Saurabh Shukla
 
 
@@ -652,6 +654,7 @@
 
 * [100 Days of Code (Hindi) - Python Course](https://replit.com/learn/code-with-harry-100-doc) - CodeWithHarry (replit)
 * [Advance Python (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhijd1hUF2VWiKt8FHNBa7kGb) - Rajesh Kumar, Geeky Shows
+* [Chai aur Python](https://www.youtube.com/playlist?list=PLu71SKxNbfoBsMugTFALhdLlZ5VOqCg2s) - Chai aur Code
 * [Class 12 Board \| Python \| Computer Science](https://www.youtube.com/playlist?list=PLKKfKV1b9e8oyESqu5mrGN-eDxHdNoi_j) - Apni Kaksha
 * [Complete Python tutorial in Hindi](https://www.youtube.com/playlist?list=PLmRclvVt5DtmcLF3ywxKg692lhfD6SUOr) - codeitup
 * [Complete Python Tutorial in Hindi (2020)](https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j) - Harshit Vashisth
@@ -667,6 +670,7 @@
 * [Python Tutorial For Beginners in (Hindi)](https://www.youtube.com/playlist?list=PLf0LpPWikpPe5gc6fT9wDj3Y6e97z6ZD_) - DataFlair Hindi
 * [Python Tutorial For Beginners in Hindi](https://www.youtube.com/watch?v=FStwWUkW5RQ&list=PLnSDvcENZlwAcFgFLD5bzt5Zh428yzQXT) - Micro Solution
 * [Python Tutorial in Hindi](https://www.youtube.com/playlist?list=PLQbQOmlGYH3tC535nKa7xB7dd7pZtYMZX) - edureka! Hindi
+* [Web Scraping Full Free Course by WsCube Tech](https://youtube.com/playlist?list=PLjVLYmrlmjGfSYkgH-_jgC8KMxyRzq7US&si=quHKEA6-lapsAXQu) - WsCube Tech
 
 
 #### Django

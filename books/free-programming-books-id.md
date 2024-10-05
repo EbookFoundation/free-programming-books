@@ -23,8 +23,8 @@
 * [Pemrograman Fungsional](#pemrograman-fungsional)
 * [Pemrograman Kompetitif](#pemrograman-kompetitif)
 * [PHP](#php)
-    * [Laravel](#laravel)
     * [CodeIgniter](#codeigniter)
+    * [Laravel](#laravel)
 * [Python](#python)
 * [Rust](#rust)
 * [Solidity](#solidity)
@@ -127,8 +127,8 @@
 * [Dokumentasi React Bahasa Indonesia](https://id.reactjs.org)
 * [React JS Untuk Pemula](https://masputih.com/2021/05/ebook-gratis-reactjs-untuk-pemula) *(Membutuhkan akun Leanpub atau email yang valid)*
 * [React Redux Tutorial Untuk Pemula](https://medium.com/codeacademia/tutorial-redux-bagian-i-membuat-todo-list-c26a979d0a1f) - Yudi Krisnandi
-* [Tutorial React JS Untuk Pemula (React Hooks)](https://mfikri.com/artikel/reactjs-pemula) - Mfikri
 * [Tutorial Belajar Library React JS](https://www.duniailkom.com/tutorial-belajar-library-react-js/) - Duniailkom
+* [Tutorial React JS Untuk Pemula (React Hooks)](https://mfikri.com/artikel/reactjs-pemula) - Mfikri
 
 
 #### TypeScript
@@ -159,6 +159,7 @@
 ### NoSQL
 
 * [MongoDB Untuk Indonesia: Memahami Konsep dan Implementasi MongoDB](https://kristories.gumroad.com/l/mongodb-untuk-indonesia) - Wahyu Kristianto (PDF, email address *requested*, not required)
+
 
 ### Pascal
 
@@ -191,6 +192,7 @@
 * [Tutorial Ebook PHP](http://www.ilmuwebsite.com/ebook-php-free-download)
 * [Tutorial Pemrograman PHP untuk Pemula](https://www.petanikode.com/tutorial/php) - Ahmad Muhardian (Petani Kode) *(:construction: dalam proses)*
 
+
 #### CodeIgniter
 
 * [Codeigniter - Pendekatan Praktis](https://leanpub.com/codeigniter-pendekatanpraktis) - Ibnu Daqiqil Id (HTML, PDF, EPUB, Kindle) *(Membutuhkan akun Leanpub atau email yang valid)*
@@ -200,7 +202,9 @@
 * [Tutorial CodeIgniter 3 & 4](https://www.petanikode.com/tutorial/codeigniter/) *(:construction: dalam proses)*
 * [Tutorial CodeIgniter 4](http://mfikri.com/artikel/tutorial-codeigniter4)
 
+
 #### Laravel
+
 * [Belajar Laravel Untuk Pemula](https://gilacoding.com/upload/file/Belajar%20Laravel%20Untuk%20Pemula.pdf) - Dadan Hamdani (PDF)
 * [Tutorial Belajar Framework Laravel 10](https://www.duniailkom.com/tutorial-belajar-framework-laravel/) - Duniailkom
 

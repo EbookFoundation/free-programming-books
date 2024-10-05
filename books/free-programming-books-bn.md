@@ -21,7 +21,7 @@
 ### C
 
 * [বাংলায় C প্রোগ্রামিং ল্যাঙ্গুয়েজ শেখার কোর্স](https://c.howtocode.dev) - Jakir Hossain, et al.
-* [Computer Programming «কম্পিউটার প্রোগ্রামিং ১ম খণ্ড»](https://cpbook.subeen.com) - Tamim Shahriar Subeen (HTML)
+* [Computer Programming «কম্পিউটার প্রোগ্রামিং ১ম খণ্ড»](http://cpbook.subeen.com) - Tamim Shahriar Subeen (HTML)
 
 
 ### <a id="cpp"></a>C++
@@ -47,13 +47,14 @@
 ### JavaScript
 
 * [জাভাস্ক্রিপ্ট ল্যাঙ্গুয়েজের এর ব্যাসিক, অ্যাডভান্স](https://js.howtocode.dev) - Nuhil Mehdi (howtocode.dev)
-* [হাতেকলমে জাভাস্ক্রিপ্ট: সম্পূর্ণ বাংলায় হাতেকলমে জাভাস্ক্রিপ্ট শিখুন](https://zonayed.js.org) - Zonayed Ahmed (HTML)
+* [হাতেকলমে জাভাস্ক্রিপ্ট: সম্পূর্ণ বাংলায় হাতেকলমে জাভাস্ক্রিপ্ট শিখুন](https://with.zonayed.me/js-basic/) - Zonayed Ahmed (HTML)  
 
 
 ### Machine Learning
 
 * [বাংলায় মেশিন লার্নিং](https://ml.howtocode.dev) - Manos Kumar Mondol (howtocode.dev)
 * [শূন্য থেকে পাইথন মেশিন লার্নিং: হাতেকলমে সাইকিট-লার্ন](https://raqueeb.gitbook.io/scikit-learn/) - Rakibul Hassan (HTML, [Jupyter Notebook](https://github.com/raqueeb/ml-python)) (gitbook)
+* [হাতেকলমে পাইথন ডীপ লার্নিং](https://rakibul-hassan.gitbook.io/deep-learning) - Rakibul Hassan (gitbook)
 * [হাতেকলমে মেশিন লার্নিং: পরিচিতি, প্রজেক্ট টাইটানিক, আর এবং পাইথনসহ](https://rakibul-hassan.gitbook.io/mlbook-titanic/) - Rakibul Hassan (HTML, [scripts](https://github.com/raqueeb/mltraining)) (gitbook)
 
 

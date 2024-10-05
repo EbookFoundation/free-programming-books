@@ -9,9 +9,9 @@
 * [C++](#cpp)
 * [Clojure](#clojure)
 * [Dart](#dart)
-* [DBMS] (#dbms)
 * [Data Science](#data-science)
 * [Data Structures and Algorithms](#data-structures-and-algorithms)
+* [Dbms] (#dbms)
 * [Docker](#docker)
 * [Git](#git)
 * [Go](#go)
@@ -125,9 +125,11 @@
 * [Dart Cheatsheet](https://simplecheatsheet.com/tag/dart-cheat-sheet/#site-header) - Simplecheatsheet.com (HTML)
 * [Dart Quick Reference](https://koenig-media.raywenderlich.com/uploads/2019/08/RW-Dart-Cheatsheet-1.0.2.pdf) - Koenig-media.raywenderlich.com (PDF)
 
+
 ### DBMS
 
-* [Database Management Cheatsheet] (https://annamalaiuniversity.ac.in/studport/download/engg/CSE_Engg/resources/CSE_CSPC403_DBMS.pdf) - Annamalai University DBMS Course Cheatsheet
+* [DBMS_Cheatsheet](https://annamalaiuniversity.ac.in/studport/download/engg/CSE_Engg/resources/CSE_CSPC403_DBMS.pdf) - Annamalai University DBMS Course Cheatsheet
+
 
 ### Data Science
 

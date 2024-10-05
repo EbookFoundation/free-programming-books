@@ -85,8 +85,8 @@
 
 ### Artificial Intelligence
 
-* [What is Artificial Intelligence?](https://intelligencereborn.com/ArtificialIntelligence.html) IntelligenceReborn (HTML)
 * [AI Terminology Simplified: Key Concepts Explained for Humans](https://www.theverge.com/24201441/ai-terminology-explained-humans) TheVerge (HTML)
+* [What is Artificial Intelligence?](https://intelligencereborn.com/ArtificialIntelligence.html) IntelligenceReborn (HTML)
 
 
 ### C

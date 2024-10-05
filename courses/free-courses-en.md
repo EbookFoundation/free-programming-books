@@ -497,9 +497,9 @@
 ### Cuda
 
 * [CUDA Crash Course](https://www.youtube.com/playlist?list=PLxNPSjHT5qvtYRVdNN1yDcdSl39uHV_sU) - CoffeeBeforeArch
+* [CUDA Programming Course – High-Performance Computing with GPUs](https://youtu.be/86FAWCzIe_4?si=nNR5hvJKqT2-M2m9) - Elliot Arledge (FreeCodeCamp)
 * [CUDA Tutorials](https://www.youtube.com/playlist?list=PLKK11Ligqititws0ZOoGk3SW-TZCar4dK) - Creel
 * [Intro to Parallel Programming Using CUDA to Harness the Power of GPUs](https://www.udacity.com/course/intro-to-parallel-programming--cs344) (Udacity)
-* [CUDA Programming Course – High-Performance Computing with GPUs](https://youtu.be/86FAWCzIe_4?si=nNR5hvJKqT2-M2m9) - Elliot Arledge (FreeCodeCamp)
 
 ### Dart
 

@@ -36,6 +36,7 @@
 * [Markdown](#markdown)
 * [MATLAB](#matlab)
 * [MongoDB](#mongodb)
+* [Notion](#notion)
 * [Octave](#octave)
 * [Perl](#perl)
 * [PHP](#php)
@@ -356,6 +357,13 @@
 * [All MongoDb commands you will ever need (MongoDb Cheatsheet)](https://www.codewithharry.com/blogpost/mongodb-cheatsheet/) - CodeWithHarry (HTML)
 * [MongoDB Cheat Sheet](https://www.mongodb.com/developer/quickstart/cheat-sheet) - MongoDB (HTML)
 * [Quick Cheat Sheet for Mongo DB Shell commands](https://gist.github.com/michaeltreat/d3bdc989b54cff969df86484e091fd0c) - Michael Treat's Quick Cheat Sheet (GitHub Gist)
+
+
+### <a id="notion"></a>Notion
+
+* [Notion Formulas 2.0: The Ultimate Cheat Sheet (2023)](https://thomasjfrank.com/notion-formula-cheat-sheet) - Thomas Frank (HTML)
+* [Notion Shortcuts: Cheat Sheet & Template Guide (2024)](https://www.landmarklabs.co/block/notion-shortcuts) - LandMark (HTML)
+* [The Notion Formula Cheat Sheet](https://uno.notion.vip/formulas) - Notion (HTML)
 
 
 ### Octave

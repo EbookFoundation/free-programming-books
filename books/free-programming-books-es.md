@@ -206,7 +206,7 @@
 
 * [El Tutorial de JavaScript Moderno](https://es.javascript.info) - Ilya Kantor, Elizabeth Portilla, joaquinelio, Ezequiel Castellanos, et al. (HTML)
 * [Eloquent JavaScript (3ra Edición)](https://eloquentjs-es.thedojo.mx) - Marijn Haverbeke, `trl.:` Various (HTML, PDF, EPUB, MOBI)
-* [Eloquent JavaScript (4ta Edición)](https://www.eloquentjavascript.es/) - Marijn Haverbeke (HTML) [(PDF)](https://github.com/GNUXDAR/js-de-0-a-experto/blob/master/Docs/EbookEloquent/Eloquent_JavaScript_4ta_ES.pdf)
+* [Eloquent JavaScript (4ta Edición)](https://www.eloquentjavascript.es) - Marijn Haverbeke (HTML) [(PDF)](https://github.com/GNUXDAR/js-de-0-a-experto/blob/master/Docs/EbookEloquent/Eloquent_JavaScript_4ta_ES.pdf)
 * [Guía de JavaScript 'Mozilla'](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide) (HTML)
 * [Introducción a AJAX](http://librosweb.es/libro/ajax) - Javier Eguíluz Pérez (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-ajax)
 * [Introducción a JavaScript](http://librosweb.es/libro/javascript) - Javier Eguíluz Pérez (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-a-javascript)

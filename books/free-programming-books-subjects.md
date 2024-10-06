@@ -288,11 +288,11 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 
 ### Database
 
+* [Comprehensive-DBMS-Guide] (https://annamalaiuniversity.ac.in/studport/download/engg/CSE_Engg/resources/CSE_CSPC403_DBMS.pdf) - Annamalai University DBMS Course PDF (PDF)
 * [Database Design – 2nd Edition](https://opentextbc.ca/dbdesign01/) - Adrienne Watt, Nelson Eng @ BCcampus Open Pressbooks (HTML, PDF, EPUB, Kindle)
 * [Database Design Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/database-design-succinctly) - Joseph D. Booth (HTML, PDF, EPUB, MOBI)
 * [Database Explorations](https://www.dcs.warwick.ac.uk/~hugh/TTM/Database-Explorations-revision-2.pdf) - C.J. Date, Hugh Darwen (PDF)
 * [Database Fundamentals](https://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Database_fundamentals.pdf) - Neeraj Sharma et al. (PDF)
-* [Database Management] (https://annamalaiuniversity.ac.in/studport/download/engg/CSE_Engg/resources/CSE_CSPC403_DBMS.pdf) - Annamalai University DBMS Course PDF (PDF)
 * [Database Management Systems Solutions Manual Third Edition](https://pages.cs.wisc.edu/~dbbook/openAccess/thirdEdition/solutions/ans3ed-oddonly.pdf) - Raghu Ramakrishnan, Johannes Gehrke, Jeff Derstadt, Scott Selikof, and Lin Zhu (PDF)
 * [Databases, Types, and The Relational Model: The Third Manifesto](https://www.dcs.warwick.ac.uk/~hugh/TTM/DTATRM.pdf) - C.J. Date, Hugh Darwen (PDF)
 * [Foundations of Databases](http://webdam.inria.fr/Alice/)

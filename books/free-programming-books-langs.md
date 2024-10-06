@@ -1481,6 +1481,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Getting Started with Ubuntu](http://ubuntu-manual.org)
 * [GNU Autoconf, Automake and Libtool](http://www.sourceware.org/autobook/download.html)
 * [Hardened Linux From Scratch](http://www.linuxfromscratch.org/hlfs/download.html)
+* [Introduction to Linux - A Hands on Guide](https://tldp.org/LDP/intro-linux/intro-linux.pdf) - Machtelt Garrels (PDF)
 * [Kali Linux 2018: Assuring Security by Penetration Testing, Fourth Edition](https://www.packtpub.com/free-ebooks/kali-linux-2018-assuring-security-penetration-testing-fourth-edition) - Shiva V. N Parasram, Alex Samm, Damian Boodoo, Gerard Johansen, Lee Allen, Tedi Heriyanto, Shakeel Ali (Packt account *required*)
 * [Kali Linux: Professional Penetration-Testing Distribution](http://docs.kali.org)
 * [Learning Debian GNU/Linux](http://www.oreilly.com/openbook/debian/book/index.html)
@@ -2566,6 +2567,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Essential TypeScript](https://www.programming-books.io/essential/typescript/) - Krzysztof Kowalczyk, StackOverflow Contributors
 * [Learn TypeScript in Y Minutes](https://learnxinyminutes.com/docs/typescript/)
 * [Tackling TypeScript: Upgrading from JavaScript](https://exploringjs.com/tackling-ts/toc.html) - Axel Rauschmayer
+* [Total TypeScript: Essentials](https://www.totaltypescript.com/books/total-typescript-essentials) (HTML)
 * [TypeScript Accelerated](https://accelerated.amimetic.co.uk) - James Porter
 * [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/)
 * [TypeScript for C# Programmers](http://www.infoq.com/minibooks/typescript-c-sharp-programmers)

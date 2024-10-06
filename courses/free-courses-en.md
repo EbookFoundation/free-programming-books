@@ -330,6 +330,7 @@
 * [Build and Deploy Your First Decentralized App with Etherem](https://www.udemy.com/course/your-first-decentralized-app/) - Gary Simon (Udemy)
 * [CryptoZombies.io](https://cryptozombies.io) - CleverFlare, Loom Network
 * [Ethereum Developer Bootcamp](https://www.alchemy.com/university/courses/ethereum) - Alchemy University
+* [Free Blockchain Development Courses](https://www.youtube.com/playlist?list=PLS5SEs8ZftgUNcUVXtn2KXiE1Ui9B5UrY) - Dapp University
 * [Learn Blockchain](https://www.youtube.com/playlist?list=PLlp912GlUiC1xPnwVmKgIiuMERetMwre9) - Roomyan
 * [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial](https://www.youtube.com/watch?v=M576WGiDBdQ) - Patrick Collins (freeCodeCamp.org)
 
@@ -616,6 +617,7 @@
 * [Introduction to Reinforcement learning with David Silver](https://www.youtube.com/playlist?list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB) - David Silver
 * [MIT 6.S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu)
 * [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com) - Alexander Amini, Ava Soleimany
+* [Neuromatch Academy: Deep Learning](https://deeplearning.neuromatch.io/tutorials/intro.html) - Neuromatch Academy
 * [NYU Deep Learning SP21](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI) Alfredo Canziani
 * [NYU Deep Learning SP22](https://www.youtube.com/playlist?list=PLLHTzKZzVU9f3kmEta5dlkMXgtD1LxHzT) - Alfredo Canziani
 * [Practical Deep Learning For Coders taught](http://www.fast.ai) - Jeremy Howard

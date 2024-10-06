@@ -363,7 +363,7 @@
 * [Github \| All about Git and GitHub](https://www.youtube.com/watch?v=77b2lVHHZqI) - Anuj Bhaiya
 * [GitHub Tutorial in Hindi](https://www.youtube.com/playlist?list=PLVdoaEL574VBxxcGQmTjxS-JoP5rKV8Wi) - Be A Programmar
 * [GitHub with Visual Studio (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhigWA1mNWzwErSBIZvgOJbNc) - Rajesh Kumar, Geeky Shows
-
+* [Git and GitHub Fundamentals in 6 Hours](https://youtube.com/playlist?list=PLfEr2kn3s-brBO7d9irTRvClcjiNhzczH&si=a6kWHhiI4naYkovh) - Anurag Singh ProCodrr
 
 ### Golang
 

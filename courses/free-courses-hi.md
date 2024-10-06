@@ -382,7 +382,7 @@
 * [CSS Tutorial in Hindi \| Complete CSS Course For Beginners to Advanced \| Step By Step Tutorial](https://www.youtube.com/watch?v=WyxzAU3p8CE) - Vishwajeet Kumar (Tech Gun)
 * [Free Web Development Course For School Students (Grade 5 - 10) \| Certified Course By Coding Blocks Junior \| Learn HTML, CSS, Javascript](https://www.youtube.com/playlist?list=PLhLbJ9UoJCvsCXqP9yAOZpzXHhWkLBXdw) - Coding Blocks Junior
 * [Front End Development Tutorial \| Complete HTML and CSS Tutorial for Beginners (9 Hours)](https://www.youtube.com/watch?v=Eu7G0jV0ImY) - WsCube Tech
-* [Full HTML Course for Beginners in Hindi](https://youtube.com/playlist?list=PLfEr2kn3s-bpuh9XfcDlXP6weTISBWzvQ&si=MtAy-OsuM9YT1Ef-) - Anurag Singh ProCodrr
+* [Full HTML Course for Beginners in Hindi](https://www.youtube.com/playlist?list=PLfEr2kn3s-bpuh9XfcDlXP6weTISBWzvQ) - Anurag Singh ProCodrr
 * [HTML CSS & Browser APIs](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHU9RkY9sfh3G64-bd0ptvC) - Pepcoding
 * [HTML Tutorial in Hindi \| Complete HTML Course For Beginners to Advanced](https://www.youtube.com/watch?v=QXPWs00RD3A) - Vishwajeet Kumar (Tech Gun)
 * [Sigma Web Development Course](https://youtube.com/playlist?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&si=mGaDlsxY1dRAR1t0) - CodeWithHarry

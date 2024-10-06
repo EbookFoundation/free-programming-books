@@ -1,6 +1,7 @@
 ### Index
 
 * [Android](#android)
+* [Assembly Language](#assembly-language)
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
@@ -49,6 +50,9 @@
 * [Android Tutorials Material Design](https://www.youtube.com/playlist?list=PLgH5QX0i9K3ru-TfN-YsRWKe4EEOLrWjn) - Anisul Islam
 * [Java, OOP & Android tutorials for beginners in Bengali](https://www.youtube.com/playlist?list=PLV3rqOvr9vgkmELwlSouvJtROQ6MWRbIH) - Zulkarnine Mahmud
 
+### Assembly Language
+
+* [Assembly Language Bangla Tutorial](https://youtube.com/playlist?list=PLEYW3pZS6IQ8UMvusEVnIJ2dDieXKyKRM&si=TWVqCXX-SJ5clOYU) - Maruf Sarker
 
 ### C
 

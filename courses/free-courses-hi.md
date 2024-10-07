@@ -356,6 +356,7 @@
 * [Complete Git and GitHub Tutorials For Beginners In Hindi](https://www.youtube.com/playlist?list=PLzdlNxYnNoafZq1AKcqiGvj0gkzrjmgq7) - Code House
 * [Complete Git Tutorials For Beginners In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi) - CodeWithHarry
 * [Complete Git/GitHub Tutorials In Hindi 2021](https://www.youtube.com/playlist?list=PLoxQvXKPyCeX9__PPTu2M2oeY2QJt-3JB) - Vashishth Muni Singh
+* [Git & GitHub Fundamentals in 6 Hours](https://www.youtube.com/playlist?list=PLfEr2kn3s-brBO7d9irTRvClcjiNhzczH) - Anurag Singh ProCodrr
 * [Git & GitHub Tutorial For Beginners In Hindi](https://www.youtube.com/watch?v=gwWKnnCMQ5c) - CodeWithHarry
 * [Git & GitHub Tutorial in Hindi](https://www.youtube.com/watch?v=NR_A2gCxaLE) - Edureka! Hindi
 * [Git and Github \| Complete हिंदी में (With Examples)](https://www.youtube.com/watch?v=zGq7T9gZH2k) - Knowledge Gate
@@ -382,7 +383,9 @@
 * [CSS Tutorial in Hindi \| Complete CSS Course For Beginners to Advanced \| Step By Step Tutorial](https://www.youtube.com/watch?v=WyxzAU3p8CE) - Vishwajeet Kumar (Tech Gun)
 * [Free Web Development Course For School Students (Grade 5 - 10) \| Certified Course By Coding Blocks Junior \| Learn HTML, CSS, Javascript](https://www.youtube.com/playlist?list=PLhLbJ9UoJCvsCXqP9yAOZpzXHhWkLBXdw) - Coding Blocks Junior
 * [Front End Development Tutorial \| Complete HTML and CSS Tutorial for Beginners (9 Hours)](https://www.youtube.com/watch?v=Eu7G0jV0ImY) - WsCube Tech
+* [Full HTML Course for Beginners in Hindi](https://www.youtube.com/playlist?list=PLfEr2kn3s-bpuh9XfcDlXP6weTISBWzvQ) - Anurag Singh ProCodrr
 * [HTML CSS & Browser APIs](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHU9RkY9sfh3G64-bd0ptvC) - Pepcoding
+* [HTML Tutorial for Beginners in Hindi \| Complete HTML Course with AI + Notes + 5 Project Bundle](https://www.youtube.com/watch?v=k2DSi1zGEc8) - CodeWithHarry
 * [HTML Tutorial in Hindi \| Complete HTML Course For Beginners to Advanced](https://www.youtube.com/watch?v=QXPWs00RD3A) - Vishwajeet Kumar (Tech Gun)
 * [Sigma Web Development Course](https://youtube.com/playlist?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&si=mGaDlsxY1dRAR1t0) - CodeWithHarry
 * [Tailwind CSS Tutorials in Hindi](https://youtube.com/playlist?list=PLu0W_9lII9ahwFDuExCpPFHAK829Wto2O&si=rTTFha3VOrpdSXU2) - CodeWithHarry
@@ -405,6 +408,7 @@
 #### Tailwind CSS
 
 * [Learn Tailwind CSS with Projects - Hindi](https://www.youtube.com/playlist?list=PLPppPPmk0i3h9Xs6cAknE9OODTqZD5zFe) - Do Some Coding
+* [Tailwind CSS Complete Course](https://www.youtube.com/playlist?list=PLfEr2kn3s-br05lTglbEi25A1X07cvihy) - Anurag Singh ProCodrr
 * [Tailwind CSS Complete Course - CSS Framework [Hindi] - Beginner to Advanced](https://www.youtube.com/playlist?list=PLjVLYmrlmjGfpwYhVAbiGAhFl6h8XWDV_) - WsCube Tech
 * [Tailwind css hindi](https://www.youtube.com/playlist?list=PLLCu4ndnReXLXfD-iIGBEB6_l8uF6TMNO) - NST Infotech
 * [Tailwind CSS In Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp3l8tWTcB7R7Bsgd86lCa8a) - Thapa Technical
@@ -663,6 +667,7 @@
 * [Free Python Course For School Students (Grade7-10) Certified Course By Coding Blocks Junior](https://youtube.com/playlist?list=PLhLbJ9UoJCvumawW64knIBSJuHALx3zBE) - Coding Blocks Junior
 * [Full Python Tutorial in Hindi](https://www.youtube.com/playlist?list=PLlgLmuG_KgbZziQYQV1sdhKt-VQHUE_Yl) - Bharani Akella
 * [Intermediate/Advanced python Tutorials in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9aiJWQ7VhY712fuimEpQZYp4) - CodeWithHarry
+* [OpenCV Full Tutorial by WsCube Tech](https://www.youtube.com/playlist?list=PLjVLYmrlmjGelmHXLZ0ukHdb-jjvG6rRm) - WsCube Tech
 * [Python](https://www.youtube.com/playlist?list=PLHjOos34ty4GYwKO-CFTdJKfVNd50tajF) - Computer Gyan Guruji
 * [Python For Beginners](https://youtube.com/playlist?list=PL-5gYa7CLd4iBdPHRaSEwbivCnUq1nxj9) - Technical Sagar
 * [Python for Data Science for Absolute Beginners (Full Course)](https://www.youtube.com/playlist?list=PL1gztxnUtwNfnR0jYniFM5E6HwcQMnFmx) - Data is Good
@@ -728,6 +733,7 @@
 ### Security
 
 * [Complete Ethical Hacking Tutorial for Beginners to Pro 2022](https://www.youtube.com/playlist?list=PLjVLYmrlmjGea8U9nphmCHGK_v6p_wq-R) - WsCube Tech
+* [Cryptography and network security](https://www.youtube.com/playlist?list=PL9FuOtXibFjV77w2eyil4Xzp8eooqsPp8) - Abhishek Sharma
 * [Cryptography and Network Security Lecture in Hindi / Urdu for Beginners](https://youtube.com/playlist?list=PLE3bzAX_OzbkQXKbRFqQqbnlGxTNeaUqe) - Katoon Studio
 * [cyber security course for beginners - Urdu/Hindi](https://www.youtube.com/playlist?list=PLKJfBg0XdWkevCEJ64RK11LylBNX2-zbk) - hashintelligence
 * [Cyber Security Tutorial In Hindi](https://www.youtube.com/playlist?list=PL-JvKqQx2AteIbm-z4X709scVr9OaHpIY) - University Academy

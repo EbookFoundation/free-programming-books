@@ -65,6 +65,8 @@
 ### Angular
 
 * [Angular Cheat Sheet](https://angular.io/guide/cheatsheet) 
+* [Latest Angular CheatSheet](https://github.com/pratap360/Angular-Resources)
+
 
 
 ### Ansible

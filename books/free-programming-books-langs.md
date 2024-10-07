@@ -2587,10 +2587,10 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Angular Docs](https://angular.io/docs) (HTML)
 * [Angular Material](https://material.angular.io/guides) (HTML)
 * [Angular Tutorial](https://angular.io/tutorial) (HTML)
-* [Build a Full-Stack Web Application Using Angular & Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase) - Ankit Sharma (PDF, [:package: code samples](https://github.com/AnkitSharma-007/blogging-app-with-Angular-CloudFirestore))
-* [Pro Angular 5th Edition](https://dl.ebooksworld.ir/books/Pro.Angular.5th.Edition.Apress.9781484281758.EBooksWorld.ir.pdf) - Adam Freeman (PDF)
 * [Angular From Theory To Practice](https://github.com/pratap360/Angular-Resources/blob/main/Angular%20From%20Theory%20To%20Practice%20-%20Asim%20Hussain.pdf) - Asim Hussain (PDF)
+* [Build a Full-Stack Web Application Using Angular & Firebase](https://www.c-sharpcorner.com/ebooks/build-a-full-stack-web-application-using-angular-and-firebase) - Ankit Sharma (PDF, [:package: code samples](https://github.com/AnkitSharma-007/blogging-app-with-Angular-CloudFirestore))
 * [ng-book The Complete Guide to Angular](https://github.com/pratap360/Angular-Resources/blob/main/ng-book%20The%20Complete%20Guide%20to%20Angular.pdf) (PDF)
+* [Pro Angular 5th Edition](https://dl.ebooksworld.ir/books/Pro.Angular.5th.Edition.Apress.9781484281758.EBooksWorld.ir.pdf) - Adam Freeman (PDF)
 
 
 #### Deno

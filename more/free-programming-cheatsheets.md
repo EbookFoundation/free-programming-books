@@ -68,7 +68,6 @@
 * [Latest Angular CheatSheet](https://github.com/pratap360/Angular-Resources)
 
 
-
 ### Ansible
 
 * [Ansible Basic Cheat Sheet](https://intellipaat.com/blog/tutorial/devops-tutorial/ansible-basic-cheat-sheet) - Intellipaat (HTML)

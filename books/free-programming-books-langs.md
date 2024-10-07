@@ -988,6 +988,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 #### Bootstrap
 
+* [Bootstrap 4 Quick Start Book](https://bootstrapclasses.com/shop/bootstrap-quick-start) - Jacob Lett (PDF, EPUB, MOBI)
 * [Twitter Bootstrap 3 Succinctly](https://www.syncfusion.com/resources/techportal/details/ebooks/twitterbootstrap3) - Peter Shaw
 * [Twitter Bootstrap 4 Succinctly](https://www.syncfusion.com/ebooks/twitterbootstrap4-succinctly) - Peter Shaw
 * [Twitter Bootstrap Succinctly](https://www.syncfusion.com/resources/techportal/details/ebooks/twitterbootstrap) - Peter Shaw

@@ -1784,7 +1784,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Higher-Order Perl](http://hop.perl.plover.com/book/) - M. J. Dominus (PDF)
 * [Impatient Perl](https://www.perl.org/books/impatient-perl/)
 * [Learning Perl The Hard Way](http://www.greenteapress.com/perl/)
-* [Modern Perl](http://modernperlbooks.com/books/modern_perl_2016/)
+* [Modern Perl](http://modernperlbooks.com/books/modern_perl_2016/) - chromatic (HTML)
 * [Perl & LWP](http://lwp.interglacial.com/index.html)
 * [Perl 5 Internals](http://www.faqs.org/docs/perl5int/)
 * [Perl for the Web](http://www.globalspin.com/thebook/) - C. Radcliff

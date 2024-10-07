@@ -140,7 +140,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Artificial Intelligence for a Better Future: An Ecosystem Perspective on the Ethics of AI and Emerging Digital Technologies](https://link.springer.com/book/10.1007/978-3-030-69978-9) - Bernd Carsten Stahl (PDF, EPUB)
 * [Artificial Intelligence: Foundations of Computational Agents (2010), 1st Edition](https://artint.info/aifca1e.html) - David L. Poole, Alan K. Mackworth @ Cambridge University Press (HTML)
 * [Artificial Intelligence: Foundations of Computational Agents (2017), 2nd Edition](https://artint.info) - David L. Poole, Alan K. Mackworth @ Cambridge University Press (HTML, Slides)
-* [Clever Algorithms Nature-Inspired Programming Recipes](https://bjpcjp.github.io/pdfs/ruby/Clever-Algorithms.pdf) - Jason Brownlee (PDF)
+* [Clever Algorithms Nature-Inspired Programming Recipes](https://bjpcjp.github.io/pdfs/ruby/Clever-Algorithms.pdf) - Jason Brownlee (PDF) (CC BY-NC-SA)
 * [Getting Started with Artificial Intelligence , 2nd Edition](https://www.ibm.com/downloads/cas/OJ6WX73V) - Tom Markiewicz, Josh Zheng (PDF)
 * [Graph Representational Learning Book](https://www.cs.mcgill.ca/~wlh/grl_book/) - William L. Hamilton
 * [Introduction to Autonomous Robots](https://github.com/correll/Introduction-to-Autonomous-Robots/releases) - Nikolaus Correll (PDF)
@@ -223,7 +223,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 
 * [Basic Computer Architecture](https://www.cse.iitd.ac.in/~srsarangi/archbooksoft.html) - Smruti R. Sarangi (HTML, PDF, Slides, Videos)
 * [Computer Organization and Design Fundamentals](https://faculty.etsu.edu/tarnoff/138292) - David Tarnoff (PDF)
-* [Digital Circuit Projects: An Overview of Digital Circuits Through Implementing Integrated Circuits - Second Edition](https://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1000&context=oer) - Charles W. Kann (PDF)
+* [Digital Circuit Projects: An Overview of Digital Circuits Through Implementing Integrated Circuits - Second Edition](https://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1000&context=oer) - Charles W. Kann (PDF) (CC BY)
 * [Dive Into Systems: A Gentle Introduction to Computer Systems](https://diveintosystems.org) - Suzanne J. Matthews, Tia Newhall, Kevin C. Webb (HTML)
 
 

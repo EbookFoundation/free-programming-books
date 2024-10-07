@@ -24,6 +24,7 @@
     * [React](#react)
     * [Svelte](#svelte)
     * [Vue.js](#vuejs)
+    * [Electron](#electron)
 * [Kotlin](#kotlin)
 * [Linux](#linux)
 * [MongoDB](#mongodb)
@@ -78,6 +79,7 @@
 * [C++ Bangla Tutorial for Beginners - 2022](https://www.youtube.com/playlist?list=PLeqnvPK4PpyWsjZvgLTRcc-dkPQXc8SHc) - Shikkhangon BD
 * [C++ STL (Bangla)](https://youtube.com/playlist?list=PLgLCjVh3O6Sgux985GYG22xkFt9z9Sq0_) - LoveExtendsCode
 * [Object Oriented C++ \| Bangla Tutorial](https://www.youtube.com/playlist?list=PLy7uM3PHzMF1hnqhFGE4_A8qTUfFmZ_3y) - Online School
+* [Standard Template Library of C++ ( STL ) [ Bangla ]](https://youtube.com/playlist?list=PLoa_roVVsxA0D1Kv_T7rbGHtSdYIUo4f5&si=j4mOU8oHm0YduXW8) - CPS Academy
 
 
 ### Competitive Programming
@@ -246,6 +248,11 @@
 
 * [Introduction to Vue.js in Bangla বাংলা  with a full Project - Vue Crash Course](https://www.youtube.com/watch?v=iIvN7upsLoA) - Learn with Sumit
 * [Vue JS 3 Bangla Tutorial](https://www.youtube.com/playlist?list=PLZ8kLhUbDAhADR0nUr2rwhOD0smxVZX-x) - Mamunur Rashid
+
+
+#### Electron
+
+* [Electron JS Bangla Tutorials](https://youtube.com/playlist?list=PL_XxuZqN0xVDgr7KreI5PaVZuG8Sx3L2c&si=FOsXyD-fC87a45YJ) - Stack Learner
 
 
 ### Kotlin

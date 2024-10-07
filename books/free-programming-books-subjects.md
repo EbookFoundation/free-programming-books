@@ -170,7 +170,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 ### Cellular Automata
 
 * [A New Kind of Science](https://www.wolframscience.com/nksonline/toc.html) - Stephen Wolfram
-* [An Introduction to CELLULAR AUTOMATA](https://ia801004.us.archive.org/26/items/viviencellularautomata/vivien%20cellular%20automata.pdf) - Hélène Vivien (PDF)
+* [An Introduction to Cellular Automata](https://ia801004.us.archive.org/26/items/viviencellularautomata/vivien%20cellular%20automata.pdf) - Hélène Vivien (PDF)
 
 
 

@@ -302,7 +302,9 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
   
 
 ### Deep Learning
+
 * [Deep Learning](http://imlab.postech.ac.kr/dkim/class/csed514_2019s/DeepLearningBook.pdf) (PDF)
+
 
 ### Embedded Systems
 

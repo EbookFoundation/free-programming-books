@@ -31,7 +31,6 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Mathematics](#mathematics)
 * [Mathematics For Computer Science](#mathematics-for-computer-science)
 * [Misc](#misc)
-* [MLU-Explain](https://mlu-explain.github.io/)
 * [Networking](#networking)
 * [Object Oriented Programming](#object-oriented-programming)
 * [Open Source Ecosystem](#open-source-ecosystem)
@@ -146,6 +145,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Graph Representational Learning Book](https://www.cs.mcgill.ca/~wlh/grl_book/) - William L. Hamilton
 * [Introduction to Autonomous Robots](https://github.com/correll/Introduction-to-Autonomous-Robots/releases) - Nikolaus Correll (PDF)
 * [Machine Learning For Dummies®, IBM Limited Edition](https://www.ibm.com/downloads/cas/GB8ZMQZ3) - Daniel Kirsch, Judith Hurwitz (PDF)
+* [MLU-EXPLAIN](https://mlu-explain.github.io/) (HTML)
 * [On the Path to AI: Law’s prophecies and the conceptual foundations of the machine learning age](https://link.springer.com/book/10.1007/978-3-030-43582-0) - Thomas D. Grant, Damon J. Wischik (PDF, EPUB)
 * [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp](https://github.com/norvig/paip-lisp) - Peter Norvig
 * [Probabilistic Programming & Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - Cam Davidson-Pilon (HTML, Jupyter Notebook)
@@ -299,7 +299,10 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Readings in Database Systems, 5th Ed.](http://www.redbook.io)
 * [Temporal Database Management](https://people.cs.aau.dk/~csj/Thesis/) - Christian S. Jensen
 * [The Theory of Relational Databases](https://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html)
+  
 
+### Deep Learning
+* [Deep Learning](http://imlab.postech.ac.kr/dkim/class/csed514_2019s/DeepLearningBook.pdf) (PDF)
 
 ### Embedded Systems
 

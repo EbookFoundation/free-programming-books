@@ -55,6 +55,7 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
   - [योगदान](CONTRIBUTING-hi.md)
   - [आचार संहिता](CODE_OF_CONDUCT-hi.md)
   - [How-to](HOWTO-hi.md)
+  - [योगदान](CONTRIBUTING-hi.md)
 - Hungarian / magyar / magyar nyelv
 - Indonesian / Bahasa Indonesia
   - [Berkontribusi](CONTRIBUTING-id.md)

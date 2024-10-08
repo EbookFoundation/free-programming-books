@@ -1,7 +1,13 @@
 ### Index
 
+* [Căn bản](#basics)
 * [Go](#golang)
 * [Học máy](#machine-learning)
+
+
+### <a id="basics"></a>Căn bản
+
+* [Lập Trình Căn Bản](https://thuviensach.vn/img/pdf/13868-lap-trinh-can-ban-thuviensach.vn.pdf) - Codegym (PDF)
 
 
 ### <a id="golang"></a>Go

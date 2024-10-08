@@ -79,6 +79,7 @@
 * [Binary Trees - by LoveBabbar](https://www.youtube.com/playlist?list=PLDzeHZWIZsTo87y1ytEAqp7wYlEP3nner) - CodeHelp - by Babbar
 * [Binary Trees - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHYxUk8dSu2_G7MR1PaGXN4) - Pepcoding
 * [Bit Manipulation - Level 2](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFJRioti3ZV7QabwoJK6eKe) - Pepcoding
+* [Complete C++ DSA Course \| Data Structures & Algorithms Playlist](https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt) - Apna College
 * [Complete C++ Placement DSA Course](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA) - CodeHelp by Babbar
 * [Data Structures and Algorithms Course in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi) - CodeWithHarry
 * [Data Structures and Algorithms for GATE — Complete Playlist](https://www.youtube.com/playlist?list=PLC36xJgs4dxFCQVvjMrrjcY3XrcMm2GHy) - Gate CSE lectures by Amit Khurana

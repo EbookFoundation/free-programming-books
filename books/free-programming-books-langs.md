@@ -1302,7 +1302,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 #### Meteor
 
-* [Your First Meteor Application, A Complete Beginner’s Guide to the Meteor JavaScript Framework](http://meteortips.com/book/)
+* [Your First Meteor Application, A Complete Beginner’s Guide to the Meteor JavaScript Framework](https://web.archive.org/web/20230815173101/http://meteortips.com/first-meteor-tutorial/) (HTML) *(:card_file_box: archived)*
 
 
 #### Next.js

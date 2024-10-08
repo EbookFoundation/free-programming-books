@@ -470,7 +470,7 @@
 
 #### GSAP
 
-* [Animate anything with GSAP | Complete GSAP Course](https://www.youtube.com/playlist?list=PLbtI3_MArDOnIIJxB6xFtpnhM0wTwz0x6) - Sheryians Coding School
+* [Animate anything with GSAP \| Complete GSAP Course](https://www.youtube.com/playlist?list=PLbtI3_MArDOnIIJxB6xFtpnhM0wTwz0x6) - Sheryians Coding School
 
 
 #### jQuery

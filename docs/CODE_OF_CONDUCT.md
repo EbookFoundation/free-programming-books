@@ -1,14 +1,23 @@
 # Contributor Code of Conduct
 
-As contributors and maintainers of this project, and in the interest of
-fostering an open and welcoming community, we pledge to respect all people who
-contribute through reporting issues, posting feature requests, updating
-documentation, submitting pull requests or patches, and other activities.
+As contributors and maintainers of this project, we are committed to fostering an open and welcoming community. We pledge to respect all individuals who contribute to this project, including those who report issues, post feature requests, update documentation, submit pull requests or patches, and engage in other activities.
 
-We are committed to making participation in this project a harassment-free
-experience for everyone, regardless of the level of experience, gender, gender
-identity and expression, sexual orientation, disability, personal appearance,
-body size, race, ethnicity, age, religion, or nationality.
+# Our Commitment
+
+We are dedicated to making participation in this project a harassment-free experience for everyone, regardless of their:
+* Level of experience
+* Gender
+* Gender identity and expression
+* Sexual orientation
+* Disability
+* Personal appearance
+* Body size
+* Race
+* Ethnicity
+* Age
+* Religion
+* Nationality
+* Unacceptable Behavior
 
 Examples of unacceptable behavior by participants include:
 
@@ -16,21 +25,16 @@ Examples of unacceptable behavior by participants include:
 * Personal attacks
 * Trolling or insulting/derogatory comments
 * Public or private harassment
-* Publishing other's private information, such as physical or electronic
-  addresses, without explicit permission
+* Publishing other's private information, such as physical or electronic addresses, without explicit permission
 * Other unethical or unprofessional conduct
+  
+# Enforcement
+Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that do not align with this Code of Conduct.
+Ban temporarily or permanently any contributor who engages in unacceptable behavior.
 
-Project maintainers have the right and responsibility to remove, edit, or
-reject comments, commits, code, wiki edits, issues, and other contributions
-that are not aligned to this Code of Conduct, or to ban temporarily or
-permanently any contributor for other behaviors that they deem inappropriate,
-threatening, offensive, or harmful.
+By adopting this Code of Conduct, project maintainers commit themselves to fairly and consistently applying these principles to every aspect of managing this project. Project maintainers who do not follow or enforce the Code of Conduct may be permanently removed from the project team.
 
-By adopting this Code of Conduct, project maintainers commit themselves to
-fairly and consistently applying these principles to every aspect of managing
-this project. Project maintainers who do not follow or enforce the Code of
-Conduct may be permanently removed from the project team.
-
+# Scope
 This code of conduct applies both within project spaces and in public spaces
 when an individual is representing the project or its community.
 

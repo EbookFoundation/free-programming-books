@@ -756,6 +756,7 @@
 * [Run Bunny, Run! Creating a 2D game in Unity](https://www.youtube.com/playlist?list=PLvUqRm2B9RRBgJipfDmFR7sFhEwBn7aGT) - Rabidgremlin
 * [Unity Beginner Fundamentals](https://learn.unity.com/course/unity-beginner-fundamentals) - Pluralsight Company (Unity Learn)
 * [Unity Beginner Tutorials](https://www.youtube.com/playlist?list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6) (Brackeys)
+* [Learn Unity - Beginner's Game Development Tutorial](https://www.youtube.com/watch?v=gB1F9G0JXOo) - freeCodeCamp.org
 * [Unity User Manual](https://docs.unity3d.com/Manual/)
 
 

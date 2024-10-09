@@ -210,8 +210,8 @@
 
 * [Advanced Android App Development](https://www.udacity.com/course/advanced-android-app-development--ud855) (Udacity)
 * [Advanced Android with Kotlin](https://www.udacity.com/course/advanced-android-with-kotlin--ud940) (Udacity)
-* [Android Development for Beginners - Full Course](https://www.youtube.com/watch?v=fis26HvvDII) - freeCodeCamp.org
 * [Android App Development for Beginners Playlist](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBsvRxJJOzG4r4k_zLKrnxl) - Bucky Roberts (thenewboston)
+* [Android Development for Beginners - Full Course](https://www.youtube.com/watch?v=fis26HvvDII) - freeCodeCamp.org
 * [Android App Development Tutorial for Beginners (2020) \| Complete Guides and Courses](https://www.youtube.com/playlist?list=PLwhVruPHD9rz2MwQuYSenQ0WK1IGP5rYM) - tutorialsEU
 * [Android Basics: Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845) (Udacity)
 * [Android Basics: Multiscreen Apps](https://www.udacity.com/course/android-basics-multiscreen-apps--ud839) (Udacity)

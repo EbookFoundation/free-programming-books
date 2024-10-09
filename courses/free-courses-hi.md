@@ -474,7 +474,9 @@
 
 #### GSAP
 
-* [Animate anything with GSAP | Complete GSAP Course](https://www.youtube.com/playlist?list=PLbtI3_MArDOnIIJxB6xFtpnhM0wTwz0x6) - Sheryians Coding School
+* [Animate anything with GSAP \| Complete GSAP Course](https://www.youtube.com/playlist?list=PLbtI3_MArDOnIIJxB6xFtpnhM0wTwz0x6) - Sheryians Coding School
+* [GSAP Demystified \| From Beginning to Advanced](https://www.youtube.com/playlist?list=PLbtI3_MArDOn9x8DUbc-E0t9PnvrUaPs9) - Sheryians Coding School
+* [Learning GSAP in hindi](https://www.youtube.com/playlist?list=PLf8nAOi8Z9NXGhl7m8rTWmzjyhJEuFYmF) - D.Designing
 
 
 #### jQuery

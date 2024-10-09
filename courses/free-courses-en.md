@@ -572,7 +572,6 @@
 * [Learn SQL Basic for Data Science Specialisation](https://www.coursera.org/specializations/learn-sql-basics-data-science#about) (Coursera)
 
 
-
 #### NoSQL
 
 * [Datastax Academy (Apache Cassandra)](https://www.datastax.com/dev/academy) - Datastax Inc. *(email address required)*

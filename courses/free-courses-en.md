@@ -1095,7 +1095,7 @@
 * [Node.js Introductory Course for Absolute Beginners](https://www.udemy.com/course/nodejs-introductory-course-for-absolute-beginners) - Nodejs Academy (Udemy)
 * [Node.js Tutorial for Beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7occsESx2X1E2R2Uw5wCoeG) - Telusko
 * [Node.js Tutorial for Beginners: Learn Node in 1 Hour](https://www.youtube.com/watch?v=TlB_eWDSMt4) - Moshfegh Hamedani (Programming with Mosh)
-
+* [Build a Full Bank Application with Node.js](https://www.youtube.com/watch?v=cbydD3lOCPg&list=PL8YhozOQUteYwa13S-PGUNMM37gv7gEVq) - Ugwu Somto
 
 #### React
 

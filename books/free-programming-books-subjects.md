@@ -303,7 +303,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 ### Embedded Systems
 
 * [Control and Embedded Systems](http://www.learn-c.com) (HTML)
-* [Discovering the STM32 Microcontroller](http://www.cs.indiana.edu/~geobrown/book.pdf) (PDF)
+* [Discovering the STM32 Microcontroller](http://www.cs.indiana.edu/~geobrown/book.pdf) (PDF) (CC BY-NC-SA)
 * [First Steps with Embedded Systems](https://www.phaedsys.com/principals/bytecraft/bytecraftdata/bcfirststeps.pdf) - Byte Craft Limited (PDF)
 * [Introduction to Embedded Systems, Second Edition](https://ptolemy.berkeley.edu/books/leeseshia/releases/LeeSeshia_DigitalV2_2.pdf) - Edward Ashford Lee, Sanjit Arunkumar Seshia (PDF)
 * [Introduction to Microcontrollers](http://www.embeddedrelated.com/showarticle/453.php) (HTML)
@@ -740,7 +740,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Project Oberon: The Design of an Operating System, a Compiler, and a Computer](https://people.inf.ethz.ch/wirth/ProjectOberon/index.html) - Niklaus Wirth, Jürg Gutknecht (PDF)
 * [The Art of Unix Programming](http://catb.org/esr/writings/taoup/html/) - Eric S. Raymond (HTML)
 * [The Little Book About OS Development](https://littleosbook.github.io) - Erik Helin, Adam Renberg - (PDF, HTML)
-* [The Little Book of Semaphores](https://greenteapress.com/semaphores/) - Allen B. Downey (PDF)
+* [The Little Book of Semaphores](https://greenteapress.com/semaphores/) - Allen B. Downey (PDF) (CC BY-NC-SA)
 * [Think OS: A Brief Introduction to Operating Systems](https://www.greenteapress.com/thinkos/index.html) - Allen B. Downey (PDF)
 * [UNIX Application and System Programming, lecture notes](http://www.compsci.hunter.cuny.edu/~sweiss/course_materials/unix_lecture_notes.php) - Stewart Weiss (PDF)
 * [Writing a Simple Operating System from Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf) - Nick Blundell (PDF)

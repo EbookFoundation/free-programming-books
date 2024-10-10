@@ -33,6 +33,7 @@
 
 * [எளிய தமிழில் Computer Vision](https://freetamilebooks.com/ebooks/computer_vision/) - இரா.அசோகன் (PDF)
 
+
 ### Deep Learning
 
 * [எளிய தமிழில் Deep Learning](https://freetamilebooks.com/ebooks/learn_deep_learning_in_tamil/) - து. நித்யா (PDF)

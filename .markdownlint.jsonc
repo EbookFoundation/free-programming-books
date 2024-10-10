@@ -1,0 +1,286 @@
+//
+// markdownlint config file.
+//
+// Each rule parameters are setted according to FBP-lint and EditorConfig values
+//
+
+/** To override them in a some file...
+
+<!-- markdownlint-configure-file
+{
+  "MD004": { "style": "consistent" },
+  "MD033": { "allowed_elements": [ "a", "abbr", "div", "span" ] },
+  "MD044": { "names": [
+      ".github", ".gitlab", ".markdown", ".mega", ".html", ".css", ".sass", ".html", ".json", ".yaml",
+      "GitHub", "GitLab", "Bitbucket", "Pull Request", "PR",
+      "Google", "Google Drive", "YouTube", "Dropbox", "Mega", "Scribd", "Issuu", "Leanpub", "StackOverflow",
+      "Markdown", "HTML", "CSS", "Sass", "JavaScript", "JSON", "YAML"
+  ] }
+}
+-->
+**/
+
+{
+  // Default state for all rules
+  "default": false,
+
+  // MD001/heading-increment/header-increment - Heading levels should only increment by one level at a time
+  "MD001": true,
+
+  // MD002/first-heading-h1/first-header-h1 - First heading should be a top-level heading
+  "MD002": {
+    // Heading level
+    "level": 1
+  },
+
+  // MD003/heading-style/header-style - Heading style
+  // (sync with .fpb)
+  "MD003": {
+    // Heading style
+    "style": "atx"
+  },
+
+  // MD004/ul-style - Unordered list style
+  // (sync with .fpb)
+  "MD004": {
+    // List style
+    "style": "asterisk"
+  },
+
+  // MD005/list-indent - Inconsistent indentation for list items at the same level
+  "MD005": true,
+
+  // MD006/ul-start-left - Consider starting bulleted lists at the beginning of the line
+  "MD006": true,
+
+  // MD007/ul-indent - Unordered list indentation
+  "MD007": {
+    // Spaces for indent (sync with .editorconfig)
+    "indent": 4,
+    // Whether to indent the first level of the list
+    "start_indented": false
+  },
+
+  // MD009/no-trailing-spaces - Trailing spaces
+  "MD009": {
+    // Spaces for line break (sync with .editorconfig)
+    "br_spaces": 4,
+    // Allow spaces for empty lines in list items
+    "list_item_empty_lines": false,
+    // Include unnecessary breaks
+    "strict": false
+  },
+
+  // MD010/no-hard-tabs - Hard tabs
+  "MD010": {
+    // Include code blocks
+    "code_blocks": true,
+    // Number of spaces for each hard tab
+    "spaces_per_tab": 4
+  },
+
+  // MD011/no-reversed-links - Reversed link syntax
+  "MD011": true,
+
+  // MD012/no-multiple-blanks - Multiple consecutive blank lines
+  // (sync with fpb)
+  "MD012": {
+    // Consecutive blank lines
+    "maximum": 2
+  },
+
+  // MD014/commands-show-output - Dollar signs used before commands without showing output
+  "MD014": true,
+
+  // MD018/no-missing-space-atx - No space after hash on atx style heading
+  "MD018": true,
+
+  // MD019/no-multiple-space-atx - Multiple spaces after hash on atx style heading
+  "MD019": true,
+
+  // MD020/no-missing-space-closed-atx - No space inside hashes on closed atx style heading
+  "MD020": true,
+
+  // MD021/no-multiple-space-closed-atx - Multiple spaces inside hashes on closed atx style heading
+  "MD021": true,
+
+  // MD022/blanks-around-headings/blanks-around-headers - Headings should be surrounded by blank lines
+  // (sync with fpb)
+  "MD022": {
+    // Blank lines above heading
+    "lines_above": 2,
+    // Blank lines below heading
+    "lines_below": 1
+  },
+
+  // MD023/heading-start-left/header-start-left - Headings must start at the beginning of the line
+  // (sync with fpb)
+  "MD023": true,
+
+  // MD024/no-duplicate-heading/no-duplicate-header - Multiple headings with the same content
+  // (sync with fpb)
+  "MD024": {
+    // Only check sibling headings
+    "allow_different_nesting": false,
+    // Only check sibling headings
+    "siblings_only": false
+  },
+
+  // MD025/single-title/single-h1 - Multiple top-level headings in the same document
+  // (sync with fpb)
+  "MD025": {
+    // Heading level
+    "level": 1,
+    // RegExp for matching title in front matter
+    "front_matter_title": "^\\s*title\\s*[:=]"
+  },
+
+  // MD026/no-trailing-punctuation - Trailing punctuation in heading
+  "MD026": {
+    // Punctuation characters
+    "punctuation": ".,;:!。，；：！"
+  },
+
+  // MD027/no-multiple-space-blockquote - Multiple spaces after blockquote symbol
+  "MD027": true,
+
+  // MD028/no-blanks-blockquote - Blank line inside blockquote
+  "MD028": true,
+
+  // MD029/ol-prefix - Ordered list item prefix
+  "MD029": {
+    // List style
+    "style": "one_or_ordered"
+  },
+
+  // MD030/list-marker-space - Spaces after list markers
+  "MD030": {
+    // Spaces for single-line unordered list items
+    "ul_single": 1,
+    // Spaces for single-line ordered list items
+    "ol_single": 1,
+    // Spaces for multi-line unordered list items
+    "ul_multi": 1,
+    // Spaces for multi-line ordered list items
+    "ol_multi": 1
+  },
+
+  // MD031/blanks-around-fences - Fenced code blocks should be surrounded by blank lines
+  "MD031": {
+    // Include list items
+    "list_items": true
+  },
+
+  // MD032/blanks-around-lists - Lists should be surrounded by blank lines
+  "MD032": true,
+
+  // MD033/no-inline-html - Inline HTML
+  "MD033": {
+    // Allowed elements
+    "allowed_elements": [
+      // for anchor alias
+      "a",
+      // for abbreviations (and acronyms)
+      "abbr",
+      // for RTL or aligned blocks
+      "div",
+      // for coloring
+      "span",
+      // for collapsed blocks
+      "details",
+      "summary"
+    ]
+  },
+
+  // MD037/no-space-in-emphasis - Spaces inside emphasis markers
+  "MD037": true,
+
+  // MD038/no-space-in-code - Spaces inside code span elements
+  "MD038": true,
+
+  // MD039/no-space-in-links - Spaces inside link text
+  "MD039": true,
+
+  // MD040/fenced-code-language - Fenced code blocks should have a language specified
+  "MD040": true,
+
+  // MD041/first-line-heading/first-line-h1 - First line in a file should be a top-level heading
+  "MD041": {
+    // Heading level
+    "level": 1,
+    // RegExp for matching title in front matter
+    "front_matter_title": "^\\s*title\\s*[:=]"
+  },
+
+  // MD042/no-empty-links - No empty links
+  "MD042": true,
+
+  // MD043/required-headings/required-headers - Required heading structure
+  "MD043": {
+    // List of headings. Array of string | null
+    "headings": null,
+    // List of headers. Array of string | null
+    "headers": null
+  },
+
+  // MD044/proper-names - Proper names should have the correct capitalization
+  "MD044": {
+    // List of proper names
+    "names": [
+      ".github",
+      ".gitlab",
+      ".markdown",
+      ".mega",
+      ".html",
+      ".css",
+      ".sass",
+      ".html",
+      ".json",
+      ".yaml",
+      "align=",
+      "dir=",
+      "markdown=",
+      "próximo",
+      "GitHub",
+      "GitLab",
+      "Bitbucket",
+      "Pull Request",
+      "PRÓXIMO",
+      "PR",
+      "Google",
+      "Google Drive",
+      "YouTube",
+      "Dropbox",
+      "Mega",
+      "Scribd",
+      "Issuu",
+      "Leanpub",
+      "StackOverflow",
+      "Markdown",
+      "HTML",
+      "CSS",
+      "Sass",
+      "JavaScript",
+      "JSON",
+      "YAML"
+    ],
+    // Include code blocks
+    "code_blocks": true
+  },
+
+  // MD046/code-block-style - Code block style
+  "MD046": {
+    // Block style
+    "style": "fenced"
+  },
+
+  // MD047/single-trailing-newline - Files should end with a single newline character
+  // (sync with fpb & .editorconfig)
+  "MD047": true,
+
+  // MD048/code-fence-style - Code fence style
+  "MD048": {
+    // Code fence style
+    "style": "backtick"
+  }
+}

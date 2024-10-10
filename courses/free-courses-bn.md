@@ -1,6 +1,7 @@
 ### Index
 
 * [Android](#android)
+* [Assembly Language](#assembly-language)
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
@@ -23,6 +24,7 @@
     * [React](#react)
     * [Svelte](#svelte)
     * [Vue.js](#vuejs)
+    * [Electron](#electron)
 * [Kotlin](#kotlin)
 * [Linux](#linux)
 * [MongoDB](#mongodb)
@@ -49,6 +51,9 @@
 * [Android Tutorials Material Design](https://www.youtube.com/playlist?list=PLgH5QX0i9K3ru-TfN-YsRWKe4EEOLrWjn) - Anisul Islam
 * [Java, OOP & Android tutorials for beginners in Bengali](https://www.youtube.com/playlist?list=PLV3rqOvr9vgkmELwlSouvJtROQ6MWRbIH) - Zulkarnine Mahmud
 
+### Assembly Language
+
+* [Assembly Language Bangla Tutorial](https://youtube.com/playlist?list=PLEYW3pZS6IQ8UMvusEVnIJ2dDieXKyKRM) - Maruf Sarker
 
 ### C
 
@@ -74,6 +79,7 @@
 * [C++ Bangla Tutorial for Beginners - 2022](https://www.youtube.com/playlist?list=PLeqnvPK4PpyWsjZvgLTRcc-dkPQXc8SHc) - Shikkhangon BD
 * [C++ STL (Bangla)](https://youtube.com/playlist?list=PLgLCjVh3O6Sgux985GYG22xkFt9z9Sq0_) - LoveExtendsCode
 * [Object Oriented C++ \| Bangla Tutorial](https://www.youtube.com/playlist?list=PLy7uM3PHzMF1hnqhFGE4_A8qTUfFmZ_3y) - Online School
+* [Standard Template Library of C++ (STL) [Bangla]](https://youtube.com/playlist?list=PLoa_roVVsxA0D1Kv_T7rbGHtSdYIUo4f5) - CPS Academy
 
 
 ### Competitive Programming
@@ -242,6 +248,11 @@
 
 * [Introduction to Vue.js in Bangla বাংলা  with a full Project - Vue Crash Course](https://www.youtube.com/watch?v=iIvN7upsLoA) - Learn with Sumit
 * [Vue JS 3 Bangla Tutorial](https://www.youtube.com/playlist?list=PLZ8kLhUbDAhADR0nUr2rwhOD0smxVZX-x) - Mamunur Rashid
+
+
+#### Electron
+
+* [Electron JS Bangla Tutorials](https://youtube.com/playlist?list=PL_XxuZqN0xVDgr7KreI5PaVZuG8Sx3L2c&si=FOsXyD-fC87a45YJ) - Stack Learner
 
 
 ### Kotlin

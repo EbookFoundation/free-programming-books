@@ -34,7 +34,7 @@
     * [Angular](#angular)
 * [Unity](#unity)
 * [Web Development](#web-development)
-* [Wordpress](#wordpress)
+* [WordPress](#wordpress)
 * [XML](#xml)
 
 
@@ -109,7 +109,7 @@
 * [Lập trình ứng dụng Lập Lịch với C# Winform](https://www.youtube.com/playlist?list=PL33lvabfss1zfGzpSGQN7CUoHKS6OQbJc) - Kteam
 
 
-### Cấu trúc dữ liệu và Giải thuật
+### <a id="cautrucdulieuvagiaithuat"></a>Cấu trúc dữ liệu và Giải thuật
 
 * [Cấu trúc dữ liệu và Giải thuật](https://www.youtube.com/playlist?list=PLoaAbmGPgTSNMAzkKBHkh2mLuBk54II5L) - Ông Dev
 

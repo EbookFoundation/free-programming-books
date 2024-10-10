@@ -347,7 +347,7 @@
 * [C Programming 2021: Master The Basics!](https://www.udemy.com/course/c-programming-2019-master-the-basics/) - Ali Badran (Udemy)
 * [C Programming and Assembly Language](https://www.youtube.com/playlist?list=PLyqSpQzTE6M8O9Oy9t-yhiAUXOi-rmTp_) - NPTEL NOC IITM
 * [C Programming for Beginners](https://www.youtube.com/playlist?list=PL98qAXLA6aftD9ZlnjpLhdQAOFI8xIB6e) - Programiz
-* [C Programming Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWoGzOXqtKeM71OLpvZbuU0P)
+* [C Programming Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWoGzOXqtKeM71OLpvZbuU0P) - The Bad Tutorials
 * [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0) - Mike Dane (freeCodeCamp)
 * [C Programming Tutorial for Beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7oBxHp43xQTFrw9f1CDPR6C) - Telusko
 * [C Programming Tutorials for Beginners (Complete Series)](https://www.youtube.com/playlist?list=PLS1QulWo1RIZlA5oGczk8kY7Eenytc33s) - ProgrammingKnowledge

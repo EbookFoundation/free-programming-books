@@ -1444,7 +1444,7 @@
 
 ### Processing
 
-* [Learning Processing: A Beginner's Guide to Programming Images, Animation, and Interaction](https://www.youtube.com/c/TheCodingTrain/playlists?view=50&sort=dd&shelf_id=10) - The Coding Train
+* [Learning Processing: A Beginner's Guide to Programming Images, Animation, and Interaction](https://thecodingtrain.com/tracks/learning-processing) - The Coding Train
 
 
 ### Python

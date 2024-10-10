@@ -1082,7 +1082,7 @@
 
 * [A Beginner's Guide to Node.js](https://www.udemy.com/course/a-beginners-guide-to-nodejs) - DSC VIT Powered by Google Developers, Md Hishaam Akhtar (Udemy)
 * [Beginner's Series to: Node.js](https://www.youtube.com/playlist?list=PLlrxD0HtieHje-_287YJKhY8tDeSItwtg) - Microsoft Developer
-* [Build a Full Bank Application with Node.js](https://www.youtube.com/watch?v=cbydD3lOCPg&list=PL8YhozOQUteYwa13S-PGUNMM37gv7gEVq) - Ugwu Somto
+* [Build a Full Bank Application with Node.js](https://www.youtube.com/playlist?list=PL8YhozOQUteYwa13S-PGUNMM37gv7gEVq) - Ugwu Somto
 * [Build JavaScript applications with Node.js](https://learn.microsoft.com/en-us/training/paths/build-javascript-applications-nodejs) - Microsoft Learn
 * [Building a RESTful API with Node.js](https://www.youtube.com/playlist?list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q) - Academind
 * [Data brokering with Node.js: Process data at the speed of technology](https://heynode.com) - Osio Labs Inc. *(signup requested, not required)*

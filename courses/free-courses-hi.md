@@ -35,6 +35,7 @@
 * [Java](#java)
     * [Spring Boot](#spring-boot)
 * [JavaScript](#javascript)
+    * [GSAP](#gsap)
     * [jQuery](#jquery)
     * [Next.js](#nextjs)
     * [Node.js](#nodejs)
@@ -469,6 +470,13 @@
 * [Namaste JavaScript](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP) - Akshay Saini
 * [RxJS Series (In Hindi)](https://youtube.com/playlist?list=PLLhsXdvz0qjI68a8tLUUMyXmNhl608mcn) - UX Trendz
 * [Web Development Course](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n) - Apna College
+
+
+#### GSAP
+
+* [Animate anything with GSAP \| Complete GSAP Course](https://www.youtube.com/playlist?list=PLbtI3_MArDOnIIJxB6xFtpnhM0wTwz0x6) - Sheryians Coding School
+* [GSAP Demystified \| From Beginning to Advanced](https://www.youtube.com/playlist?list=PLbtI3_MArDOn9x8DUbc-E0t9PnvrUaPs9) - Sheryians Coding School
+* [Learning GSAP in hindi](https://www.youtube.com/playlist?list=PLf8nAOi8Z9NXGhl7m8rTWmzjyhJEuFYmF) - D.Designing
 
 
 #### jQuery

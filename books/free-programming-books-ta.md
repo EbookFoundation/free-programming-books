@@ -63,8 +63,8 @@
 
 ### Machine Learning
 
-* [எளிய தமிழில் ML](https://freetamilebooks.com/ebooks/learn_machine_learning_in_tamil/) - து. நித்யா (PDF)
 * [எளிய தமிழில் Deep Learning](https://freetamilebooks.com/ebooks/learn_deep_learning_in_tamil/) - து. நித்யா (PDF)
+* [எளிய தமிழில் ML](https://freetamilebooks.com/ebooks/learn_machine_learning_in_tamil/) - து. நித்யா (PDF)
 
 
 ### MySQL

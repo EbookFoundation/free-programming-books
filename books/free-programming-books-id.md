@@ -100,6 +100,7 @@
 ### JavaScript
 
 * [Javascript Guide](https://gilacoding.com/upload/file/Javascript%20Guide.pdf) - Desrizal (PDF)
+* [Learn JavaScript](https://javascript.sumankunwar.com.np/id) - Suman Kumar, Github Contributors (HTML, PDF)
 * [Mengenal JavaScript](http://masputih.com/2013/01/ebook-gratis-mengenal-javascript)
 * [Otomatisasi dengan gulp.js](https://kristories.gitbooks.io/otomatisasi-dengan-gulp-js/content/)
 * [Tutorial Dasar Javascript untuk Pemula](https://www.petanikode.com/tutorial/javascript/) *(:construction: dalam proses)*

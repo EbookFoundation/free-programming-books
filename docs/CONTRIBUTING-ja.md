@@ -75,7 +75,7 @@
 
 例
 
-テキスト
+```text
 [...]
 * 素晴らしい本(http://example.com/example.html)
                                 (空行)
@@ -86,30 +86,30 @@
 * その他の本(http://example.com/other.html)
 ```
 
-- と`の間にスペースを入れないでください：
+- `]` と `(`の間にスペースを入れないでください：
 
-    テキスト
+    ```text
     BAD ： * [Another Awesome Book] (http://example.com/book.html)
     GOOD： * [Another Awesome Book](http://example.com/book.html)
     ```
 
 - 著者を含める場合は、` - `（ダッシュを半角スペースで囲む）を使用する：
 
-    テキスト
+    ```text
     BAD ： * [Another Awesome Book](http://example.com/book.html)- John Doe
     GOOD： * [Another Awesome Book](http://example.com/book.html) - John Doe
     ```
 
 - リンクとその形式の間に半角スペースを入れる：
 
-    テキスト
+    ```text
     BAD ： * [とても素晴らしい本](https://example.org/book.pdf)(PDF)
     GOOD： * [とても素晴らしい本](https://example.org/book.pdf) (PDF)
     ```
 
 - 著者はフォーマットの前に来る：
 
-    テキスト
+    ```text
     BAD ： * [A Very Awesome Book](https://example.org/book.pdf)- (PDF) ジェーン・ロー
     GOOD： * [A Very Awesome Book](https://example.org/book.pdf) - ジェーン・ロー (PDF)
     ```
@@ -180,8 +180,8 @@
 - 私たちは、翻訳者を含め、適切な場合、フリーリソースの作成者をクレジットしたいと思います！
 - 翻訳された作品については、原著者がクレジットされるべきです。この例のように、著者以外のクリエイターをクレジットするには、[MARC relators](https://loc.gov/marc/relators/relaterm.html)を使うことをお勧めします：
 
-    マークダウン
-    * 翻訳本](http://example.com/book.html) - John Doe, `trl.:` Mike The Translator
+    ```markdown
+    * [翻訳本](http://example.com/book.html) - John Doe, `trl.:` Mike The Translator
     ```
 
     この例では、`trl.:`という注釈にMARCのリレータコードを使用しています。
@@ -263,7 +263,7 @@
 - URLバリデーションは[awesome_bot](https://github.com/dkhamsing/awesome_bot)を使います。
 - URL バリデーションを起動するには、`check_urls=file_to_check` を含むコミットメッセージを含むコミットをプッシュします：
 
-    プロパティ
+    ```properties
     check_urls=free-programming-books.md free-programming-books-ja.md
     ```
 

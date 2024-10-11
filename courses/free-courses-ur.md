@@ -1,5 +1,5 @@
 ### Index
-
+* [System Design](#system-design)
 * [Algorithms](#algorithms)
 * [Android](#android)
 * [C](#c)
@@ -10,9 +10,15 @@
 * [Java](#java)
 * [Python](#python)
 
+### System Design
+
+* [System Design Roadmap with Videos for SDEs](https://takeuforward.org/system-design/complete-system-design-roadmap-with-videos-for-sdes/) - Striver
+
 
 ### Algorithms
 
+* [Striver's DSA playlist](https://takeuforward.org/array/top-array-interview-questions-structured-path-with-video-solutions/) - Striver
+* [Complete C++ Placement DSA Course](https://www.youtube.com/watch?v=WQoB2z67hvY&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA) - Love Babbar
 * [Data Structures and Algorithms Analysis Complete Course in Hindi/Urdu \| Data structures by Fahad Hussain \| data structures and algorithms tutorial](https://www.youtube.com/playlist?list=PLtCBuHKmdxOfPNlAKWxBqdznCcXV4iWCz) - Fahad Hussain
 
 

@@ -1173,6 +1173,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [JavaScript with Classes](https://diogoeichert.github.io/JSwC.epub) - Diogo Eichert (EPUB)
 * [JS Robots](https://web.archive.org/web/20201029045339/http://markdaggett.com/images/ExpertJavaScript-ch6.pdf) - Mark Daggett (PDF) *(:card_file_box: archived)*
 * [Leaflet Tips and Tricks: Interactive Maps Made Easy](https://leanpub.com/leaflet-tips-and-tricks/read) - Malcolm Maclean (HTML)
+* [Learn JavaScript](https://javascript.sumankunwar.com.np/en) - Suman Kumar, Github Contributors (HTML, PDF)
 * [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) - Addy Osmani (HTML)
 * [Let's Learn ES6](https://bubblin.io/book/let-s-learn-es6-by-ryan-christiani#frontmatter) - Ryan Christiani (Superbook format)
 * [Managing Space and Time with JavaScript - Book 1: The Basics](http://www.noelrappin.com) - Noel Rappin (dead link)

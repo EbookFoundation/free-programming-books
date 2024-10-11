@@ -763,6 +763,7 @@
 
 ### Solidity
 
+* [Solidity ^0.8 \| Blockchain \| In Hindi](https://www.youtube.com/playlist?list=PL-Jc9J83PIiG6_thChXWzolj9BEG-Y0gh) - Pepcoding
 * [Solidity Full Course](https://www.youtube.com/playlist?list=PLgPmWS2dQHW9u6IXZq5t5GMQTpW7JL33i) - Code Eater
 
 
@@ -778,6 +779,7 @@
 
 * [System Analysis and Design](https://www.youtube.com/playlist?list=PLWxTHN2c_6cbuRXdCpsYYMxy0N4SSfIX9) - TJ WEBDEV
 * [System Analysis and Design](https://www.youtube.com/playlist?list=PLi81x6d2Os_8Sa8HifiFruWK6wmgG3Wrg) - Gursimran Singh Dhillon
+* [System Design Playlist](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX) - Gaurav Sen
 * [System Design Playlist in Hindi](https://www.youtube.com/playlist?list=PLA3GkZPtsafZdyC5iucNM_uhqGJ5yFNUM) - Engineering Digest
 * [System Design Series By Coding Ninjas](https://www.youtube.com/playlist?list=PLrk5tgtnMN6RvXrfflstJWgcPFQ_vTOV9) - Coding Ninjas
 

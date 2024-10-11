@@ -1,5 +1,5 @@
 ### Index
-* [System Design](#system-design)
+
 * [Algorithms](#algorithms)
 * [Android](#android)
 * [C](#c)
@@ -9,18 +9,15 @@
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [Python](#python)
+* [System Design](#system-design)
 
-### System Design
-
-* [System Design Roadmap with Videos for SDEs](https://takeuforward.org/system-design/complete-system-design-roadmap-with-videos-for-sdes/) - Striver
 
 
 ### Algorithms
 
-* [Striver's DSA playlist](https://takeuforward.org/array/top-array-interview-questions-structured-path-with-video-solutions/) - Striver
 * [Complete C++ Placement DSA Course](https://www.youtube.com/watch?v=WQoB2z67hvY&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA) - Love Babbar
 * [Data Structures and Algorithms Analysis Complete Course in Hindi/Urdu \| Data structures by Fahad Hussain \| data structures and algorithms tutorial](https://www.youtube.com/playlist?list=PLtCBuHKmdxOfPNlAKWxBqdznCcXV4iWCz) - Fahad Hussain
-
+* [Striver's DSA playlist](https://takeuforward.org/array/top-array-interview-questions-structured-path-with-video-solutions/) - Striver
 
 ### Android
 
@@ -67,3 +64,9 @@
 
 * [Python_ka_chilla (python in 40 days in urdu/Hindi)](https://www.youtube.com/playlist?list=PL9XvIvvVL50HVsu-Ao8NBr0UJSO8O6lBI) - Codeanics
   
+
+### System Design
+
+* [System Design Roadmap with Videos for SDEs](https://takeuforward.org/system-design/complete-system-design-roadmap-with-videos-for-sdes/) - Striver
+
+

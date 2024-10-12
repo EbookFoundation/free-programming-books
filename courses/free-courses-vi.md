@@ -141,7 +141,7 @@
 * [HTML](https://www.codehub.com.vn/HTML) - Codehub
 * [HTML Cơ Bản](https://www.codehub.com.vn/HTML-Co-Ban) - Codehub
 * [HTML Cơ Bản](https://www.youtube.com/playlist?list=PLl4nkmb3a8w135_M4YRPzYD9_6tERz3ce) - Thạch Phạm
-* [HTML Dành Cho Lập Trình Viên Web](https://zendvn.com/mien-phi-html-danh-cho-lap-trinh-vien-web-68) - ZendVN
+* [HTML Dành Cho Lập Trình Viên Web](https://zendvn.com/mien-phi-html-danh-cho-lap-trinh-vien-web-68) - NGUYENVANLINH (ZendVN)
 * [Tự Học Thiết Kế Website với HTML và CSS](https://www.codehub.com.vn/Tu-Hoc-Thiet-Ke-Website-voi-HTML-va-CSS) - Codehub
 
 

@@ -1,7 +1,7 @@
 ### Index
 
-* [Algorithms & Data Structures](#algorithms--data-structures)
-* [Artificial Intelligence](#artificial-intelligence)
+* [ඇල්ගොරිතම සහ දත්ත ව්යුහයන්](#algorithms--data-structures)
+* [කෘතිම බුද්ධිය](#artificial-intelligence)
 * [ASP.NET Core](#aspnet-core)
 * [C#](#csharp)
 * [Docker](#docker)
@@ -16,41 +16,41 @@
 
 ### Algorithms & Data Structures
 
-* [Data Structures and Algorithms \| Sinhala](https://www.youtube.com/playlist?list=PL495mke12zYDIwsabzb61OLdBpg3QDcXg) - CodePRO LK
+* [දත්ත ව්යුහයන් සහ ඇල්ගොරිතම\| Sinhala](https://www.youtube.com/playlist?list=PL495mke12zYDIwsabzb61OLdBpg3QDcXg) - CodePRO LK
 
 
 ### Artificial Intelligence
 
-* [Deep Learning Tutorial \| Sinhala](https://www.youtube.com/playlist?list=PL495mke12zYBLz2j_RoYbIltaYxvaTd9k) - CodePRO LK
-* [Machine Learning Tutorial \| Sinhala](https://www.youtube.com/playlist?list=PL495mke12zYDHN9ONfcal1eQfo8VqmOgu) - CodePRO LK
-* [Machine Learning in Sinhala](https://www.youtube.com/playlist?list=PLtoqJbwHBeHwoVBWYTRvo_HAqwzvYMHGq) - Haritha Weerathunga
+* [ගැඹුරු ඉගෙනුම් නිබන්ධනය \| Sinhala](https://www.youtube.com/playlist?list=PL495mke12zYBLz2j_RoYbIltaYxvaTd9k) - CodePRO LK
+* [යන්ත්ර ඉගෙනුම් නිබන්ධනය \| Sinhala](https://www.youtube.com/playlist?list=PL495mke12zYDHN9ONfcal1eQfo8VqmOgu) - CodePRO LK
+* [යන්ත්ර ඉගෙනීම සිංහලෙන්](https://www.youtube.com/playlist?list=PLtoqJbwHBeHwoVBWYTRvo_HAqwzvYMHGq) - හරිත වීරතුංග
 
 
 ### ASP.NET Core
 
-* [WEB API-ASP.NET Core in Sinhala](https://youtube.com/playlist?list=PLvvtf05eMZ2CpeAsq93DqWJHHyvCSa2Qn) - Fiqri Ismail
+* [WEB API-ASP.NET හරය සිංහලෙන්](https://youtube.com/playlist?list=PLvvtf05eMZ2CpeAsq93DqWJHHyvCSa2Qn) - ෆික්රි ඉස්මයිල්
 
 
 ### Bootstrap
 
-* [Bootstrap](https://youtube.com/playlist?list=PLXNgqM9ig24c7IdumyymD9q3e2hsz9U1m) - Udith Sanjaya
+* [Bootstrap](https://youtube.com/playlist?list=PLXNgqM9ig24c7IdumyymD9q3e2hsz9U1m) - උදිත් සංජය
 
 
 ### <a id="csharp"></a>C\#
 
-* [C# Full Course in Sinhala](https://youtube.com/playlist?list=PLvvtf05eMZ2CXD2JdZgSBgyl13ODqHOkO) - Fiqri Ismail
-* [C# Programming Sinhala - Complete Tutorial Series](https://www.youtube.com/playlist?list=PLUrYmKQ-FfzqVhQWb2qQLWB0hCF9oyVuy) - TechStreet
+* [C# සම්පූර්ණ පාඨමාලාව සිංහල](https://youtube.com/playlist?list=PLvvtf05eMZ2CXD2JdZgSBgyl13ODqHOkO) - Fiqri Ismail
+* [C# වැඩසටහන් සිංහල - සම්පූර්ණ නිබන්ධනය ශ්රේණි](https://www.youtube.com/playlist?list=PLUrYmKQ-FfzqVhQWb2qQLWB0hCF9oyVuy) - තාක්ෂණිකවීදිය
 
 
 ### Docker
 
-* [Docker in Sinhala](https://www.youtube.com/playlist?list=PLtoqJbwHBeHw822TLAz3ODdfT72feqCqP) - Haritha Weerathunga
+* [ඩොකර් සිංහලෙන්](https://www.youtube.com/playlist?list=PLtoqJbwHBeHw822TLAz3ODdfT72feqCqP) - හරිත වීරතුංග
 
 
 ### Flutter
 
 * [Flutter Sinhala Tutorials](https://www.youtube.com/playlist?list=PLdRfLcb1Dvix15denuU7KoSdPiy_Xzp24) - Code Camp Sri Lanka
-* [Flutter Sinhala Tutorial](https://www.youtube.com/playlist?list=PLtoqJbwHBeHwvIdBcZ9ItZ6vr6LM6Bx8W) - Haritha Weerathunga
+* [Flutter Sinhala Tutorial](https://www.youtube.com/playlist?list=PLtoqJbwHBeHwvIdBcZ9ItZ6vr6LM6Bx8W) -  හරිත වීරතුංග
 
 
 ### HTML and CSS
@@ -62,10 +62,10 @@
 
 ### Java
 
-* [Introduction to Java](https://www.youtube.com/playlist?list=PLuhSdp06EMkLgaWqSPZKLqePVw-dtqaTT) - Masith Prasanga
-* [Object Oriented Programming ](https://youtube.com/playlist?list=PLqeCu_1ZdDl63h6YR3QsxcGOB7yDS7i3b) - LankaDroid Programming Kuppiya
-* [Sinhala Java Netbeans Lessons](https://youtube.com/playlist?list=PLA3ZeQncjeVu9VHevp2SmPCQ9muVO3fEB) - Chanux Bro
-* [Java Programming Tutorial \| Sinhala](https://www.youtube.com/playlist?list=PL495mke12zYANEM9p7JT5-99Yx8Z7z_ib) - CodePRO LK
+* [ජාවා හැඳින්වීම](https://www.youtube.com/playlist?list=PLuhSdp06EMkLgaWqSPZKLqePVw-dtqaTT) - Masith Prasanga
+* [වස්තුව නැඹුරු වැඩසටහන් ](https://youtube.com/playlist?list=PLqeCu_1ZdDl63h6YR3QsxcGOB7yDS7i3b) - LankaDroid Programming Kuppiya
+* [සිංහල ජාවා නෙට්බියන් පාඩම්](https://youtube.com/playlist?list=PLA3ZeQncjeVu9VHevp2SmPCQ9muVO3fEB) - Chanux Bro
+* [ජාවා වැඩසටහන් නිබන්ධනය \| Sinhala](https://www.youtube.com/playlist?list=PL495mke12zYANEM9p7JT5-99Yx8Z7z_ib) - CodePRO LK
 
 
 ### JavaScript

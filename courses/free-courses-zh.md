@@ -17,7 +17,7 @@
 
 * [动手学深度学习](https://zh.d2l.ai/index.html) - d2lzh
 * [机器学习速成课程](https://developers.google.com/machine-learning/crash-course/prereqs-and-prework?hl=zh-cn) - 谷歌出品
-
+* [动手实战人工智能](https://aibydoing.com) - huhuhang
 
 ### Flutter
 

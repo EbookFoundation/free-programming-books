@@ -465,7 +465,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Modeling with Data](https://ben.klemens.org/pdfs/gsl_stats.pdf) - Ben Klemens (PDF)
 * [Modern C](https://gustedt.gitlabpages.inria.fr/modern-c/) - Jens Gustedt (PDF)
 * [Object-Oriented Programming With ANSI-C](http://www.planetpdf.com/codecuts/pdfs/ooc.pdf) (PDF)
-* [Practical C Programming - By Steve Oualline](https://repo.zenk-security.com/Programmation/O%20Reilly%20-%20Practical%20C%20Programming,%203rd%20Edition.pdf)
+* [Practical C Programming - By Steve Oualline](https://repo.zenk-security.com/Programmation/O%20Reilly%20-%20Practical%20C%20Programming,%203rd%20Edition.pdf) (PDF)
 * [Programming in C](http://ee.hawaii.edu/~tep/EE160/Book/PDF/) - Bharat Kinariwala & Tep Dobry
 * [Programming in C](https://www.freetechbooks.com/programming-in-c-t1337.html) - Kishori Mundargi
 * [Structures and C](https://www.smashwords.com/books/view/644937) - Prakash Hegade
@@ -476,8 +476,8 @@ Books on general-purpose programming that don't focus on a specific language are
 * [The GNU C Programming Tutorial](http://www.crasseux.com/books/ctut.pdf) - Mark Burgess, Ron Hale-Evans (PDF)
 * [The GNU C Reference Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html) - Trevis Rothwell, James Youngman (HTML) [(PDF)](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf)
 * [The little book about OS development](http://littleosbook.github.io) - Erik Helin, Adam Renberg
-* [TONC GBA Programming - Game Boy Advance Development](http://www.coranac.com/tonc/text/toc.htm)
 * [The New C Standard - An Economic and Cultural commentary (2009)](http://www.knosof.co.uk/cbook/cbook.html) - Derek M. Jones (PDF)
+* [TONC GBA Programming - Game Boy Advance Development](http://www.coranac.com/tonc/text/toc.htm)
 
 
 ### <a id="csharp"></a>C\#
@@ -894,8 +894,8 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Cloudera Impala](https://docs.cloudera.com/documentation/enterprise/latest/PDF/cloudera-impala.pdf) - John Russel (PDF)
 * [Data-Intensive Text Processing with MapReduce](http://lintool.github.io/MapReduceAlgorithms/MapReduce-book-final.pdf) (Jimmy Lin and Chris Dyer) (PDF)
 * [Hadoop for Dummies](https://www.slideshare.net/chirantankar3/hadoop-for-dummies-253650069)
-* [Hadoop Illuminated](http://hadoopilluminated.com/index.html) - Mark Kerzner, Sujee Maniyam (CC BY-NC-SA)
 * [Hadoop for Windows Succinctly](https://www.syncfusion.com/ebooks/hadoop-for-windows-succinctly) - Dave Vickers
+* [Hadoop Illuminated](http://hadoopilluminated.com/index.html) - Mark Kerzner, Sujee Maniyam (CC BY-NC-SA)
 
 
 ### Haskell

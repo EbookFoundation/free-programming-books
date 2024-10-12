@@ -477,6 +477,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [The little book about OS development](http://littleosbook.github.io) - Erik Helin, Adam Renberg
 * [The New C Standard - An Economic and Cultural commentary (2009)](http://www.knosof.co.uk/cbook/cbook.html) - Derek M. Jones (PDF)
 * [TONC GBA Programming - Game Boy Advance Development](http://www.coranac.com/tonc/text/toc.htm)
+* [Practical C Programming - By Steve Oualline] (https://repo.zenk-security.com/Programmation/O%20Reilly%20-%20Practical%20C%20Programming,%203rd%20Edition.pdf)
 
 
 ### <a id="csharp"></a>C\#
@@ -894,6 +895,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Data-Intensive Text Processing with MapReduce](http://lintool.github.io/MapReduceAlgorithms/MapReduce-book-final.pdf) (Jimmy Lin and Chris Dyer) (PDF)
 * [Hadoop for Windows Succinctly](https://www.syncfusion.com/ebooks/hadoop-for-windows-succinctly) - Dave Vickers
 * [Hadoop Illuminated](http://hadoopilluminated.com/index.html) - Mark Kerzner, Sujee Maniyam (CC BY-NC-SA)
+* [Hadoop for Dummies](https://www.slideshare.net/chirantankar3/hadoop-for-dummies-253650069)
 
 
 ### Haskell

@@ -193,7 +193,6 @@
 * [Sorting Algorithms](https://www.youtube.com/playlist?list=PLzgPDYo_3xunyLTJlmoH8IAUvet4-Ka0y) - Amulya's Academy
 * [Stanford University Algorithms: Design and Analysis, Part 1](https://online.stanford.edu/courses/soe-ycsalgorithms1-algorithms-design-and-analysis-part-1)
 * [Stanford University Algorithms: Design and Analysis, Part 2](https://online.stanford.edu/courses/soe-ycs0001-algorithms-design-and-analysis-part-2)
-* [Striver's DSA playlist \| Arrays Series](https://takeuforward.org/array/top-array-interview-questions-structured-path-with-video-solutions/) - take U forward
 * [Strivers A2Z-DSA Course \| DSA Playlist \| Placements](https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz) - take U forward
 * [Tree Algorithms](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsDfGc8rbQ0_58oEZQVtvoIc) - WilliamFiset
 * [Trees by Striver \| C++ \| Java \| Placements \| Binary Trees and Traversals \| Problems](https://www.youtube.com/playlist?list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk) - take U forward
@@ -1704,7 +1703,6 @@
 * [System Design Fundamentals](https://www.youtube.com/playlist?list=PLCRMIe5FDPsd0gVs500xeOewfySTsmEjf) - ByteByteGo
 * [System Design Interview Preparation Series](https://www.youtube.com/playlist?list=PLhgw50vUymycJPN6ZbGTpVKAJ0cL4OEH3) - codeKarle
 * [System Design Primer Course](https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a) - sudoCODE
-* [System Design Roadmap with Videos for SDEs](https://takeuforward.org/system-design/complete-system-design-roadmap-with-videos-for-sdes/) - take U forward
 
 
 ### Terraform

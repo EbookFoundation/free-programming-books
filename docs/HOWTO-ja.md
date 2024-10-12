@@ -6,7 +6,7 @@
 
 </div>
 
-**`Free-Programming-Books`へようこそ!**
+** Free-Programming-Books へようこそ! **
 
 私たちは新しい貢献者を歓迎します。GitHub で初めて Pull Request (PR) を作成する人も歓迎します。もしあなたがその一人であるなら、役に立つかもしれないリソースをいくつか紹介しましょう：
 

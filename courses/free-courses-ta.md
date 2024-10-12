@@ -21,6 +21,7 @@
 * [Rust](#rust)
 * [Solidity](#solidity)
 * [SQL](#sql)
+* [Swift](#swift)
 
 
 ### Android
@@ -169,3 +170,8 @@
 * [Oracle SQL - தமிழில்](https://www.youtube.com/playlist?list=PLsphD3EpR7F-u4Jjp_3fYgLSsKwPPTEH4) - NIC IT Academy
 * [SQL in Tamil (தமிழில் SQL)](https://www.youtube.com/playlist?list=PLgWpUXNR_WCd-oMh-n6LhRYyNZjiiPVGm) - Payilagam
 * [SQL in Tamil for Beginners](https://www.youtube.com/playlist?list=PLYM2_EX_xVvUBh28ZT2i-jH7kBkTfB_W2) - Logic First Tamil
+
+
+### Swift
+
+* [Introduction to Swift Programming language in Tamil](https://www.youtube.com/playlist?list=PLSCKJRsangaXy00U-TpGC-1f83nS5B66O) - Alice Academy

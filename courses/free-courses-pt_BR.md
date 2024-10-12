@@ -38,11 +38,13 @@
 * [Raspberry Pi](#raspberry-pi)
 * [React Native](#react-native)
 * [Ruby](#ruby)
+* [Rust](#rust)
 * [Sass](#sass)
 * [Segurança da Informação](#segurança-da-informação)
 * [SEO](#seo)
 * [Shell](#shell)
 * [Sistemas Embarcados](#sistemas-embarcados)
+* [Smalltalk](#smalltalk)
 * [Swift](#swift)
 * [TypeScript](#typescript)
     * [Angular](#angular)
@@ -294,6 +296,7 @@
 ### PHP
 
 * [Boas práticas em PHP](https://www.udemy.com/boas-praticas-em-php/) - Diego Mariano (Udemy)
+* [Criando e consumindo API RESTful](https://academy.satellasoft.com/course/php-criando-e-consumindo-api-restful) - Gunnar Correa (SatellaSoftware)
 * [Curso Básico de Bootstrap 4 , PHP e MySQL](https://www.udemy.com/curso-basico-de-bootstrap-4-php-e-mysql-gratis/) - Ricardo Milbrath Gonçalves (Udemy)
 * [Curso de CodeIgniter para iniciantes](https://www.youtube.com/playlist?list=PLInBAd9OZCzz2vtRFDwum0OyUmJg8UqDV) - RBtech
 * [Curso de PHP para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k) - Gustavo Guanabara (Curso em Vídeo)
@@ -305,6 +308,7 @@
 * [PDO para quem não sabe PDO](https://www.udemy.com/pdo-para-quem-nao-sabe-pdo/) - Alexandre Cardoso (Udemy)
 * [PHP 7 do Básico ao Intermediário](https://www.udemy.com/php-do-basico-ao-intermediario/) - Gunnar Correa (Udemy)
 * [PHP para quem entende PHP](https://www.udemy.com/php-para-quem-entende-php/) - Alexandre Cardoso (Udemy)
+* [PHP PDO](https://www.youtube.com/playlist?list=PLYGFJHWj9BYqSXzSfHGd46yipCrkjC8AD) - Miriam (Miriam TechCod)
 
 
 ### Programação
@@ -372,6 +376,11 @@
 * [Tutorial Rails Girls](http://guides.railsgirls.com/guides-ptbr/)
 
 
+### Rust
+
+* [Programando do 0 ao avançado na linguagem de programação Rust](https://www.youtube.com/playlist?list=PLWmXJQDlXOHX6UdAmXv6euoqDPUtMLpJf) - Lanby 0xff3 λ
+
+
 ### Sass
 
 * [Sass placeholders: o jeito certo](https://www.udemy.com/course/sass-placeholders-o-jeito-certo/) - Tárcio Zemel (Udemy)
@@ -387,6 +396,12 @@
 ### Sistemas Embarcados
 
 * [Fundamentos de Sistemas Embarcados](https://www.youtube.com/playlist?list=PLqvo6YdcIqXXGY1dLbf_xA-JLMBumTyzG) - Renato Sampaio
+
+
+### Smalltalk
+
+* [Conhecendo o SmallTalk](https://www.researchgate.net/publication/262882317_Conhecendo_o_Smalltalk_-_Todos_os_Detalhes_da_Melhor_Linguagem_de_Programacao_Orientada_a_Objetos) - Daniel Duarte Abdala, Aldo von Wangenheim (PDF)
+* [Introdução à Programação Orientada a Objetos com Smalltalk](https://dcc.ufrj.br/~jonathan/smalltalk/Introd-a-POO-com-Smalltalk-1994.pdf) - Miguel Jonathan (PDF)
 
 
 ### Swift

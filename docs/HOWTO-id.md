@@ -8,7 +8,7 @@
 
 **Selamat datang di `Free-Programming-Books`!**
 
-Kami sangat menyambut kontributor baru, bahkan untuk mereka yang membuat Pull Request (PR) pertamanya di GitHub. Jika Anda termasuk salah satu di antara mereka, berikut adalah sumber daya yang mungkin berguna:
+Kami menyambut hangat kontributor baru, bahkan untuk mereka yang membuat Pull Request (PR) pertamanya di GitHub. Jika Anda termasuk salah satu di antara mereka, berikut adalah tautan-tautan yang mungkin berguna bagi anda:
 
 * [Tentang Pull Requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) *(Dalam Bahasa Inggris)*
 * [Membuat sebuah pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) *(Dalam Bahasa Inggris)*

@@ -7,6 +7,7 @@
 * [JavaScript](#javascript)
     * [AngularJS](#angularjs)
     * [Vue.js](#vuejs)
+* [LaTeX](#latex)
 * [PHP](#php)
 * [Python](#python)
 * [R](#r)
@@ -48,6 +49,11 @@
 #### Vue.js
 
 * [Vue.js raamistiku õppematerjal](https://www.cs.tlu.ee/teemaderegister/get_file.php?id=715) - Fred Korts (PDF)
+
+
+### LaTex
+
+* [Mitte väga lühike LATEX 2ε sissejuhatus](https://ctan.org/tex-archive/info/lshort/estonian) - Tobias Oetiker, Hubert Partl, Irene Hyna, Elisabeth Schlegl, `trl.:` Tõlkinud Reimo Palm (PDF)
 
 
 ### PHP

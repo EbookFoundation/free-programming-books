@@ -183,7 +183,7 @@
 
 ### Machine-Learning
 
-* [Machine learing cơ bản](https://machinelearningcoban.com) - Vũ Hữu Tiệp (:construction: *in process*)
+* [Machine learing cơ bản](https://machinelearningcoban.com) - Vũ Hữu Tiệp *(:construction: in process)*
 
 
 ### MongoDB
@@ -308,6 +308,7 @@
 * [Đồ án Web môi giới](https://www.youtube.com/playlist?list=PLiyVagO7GfBE1j4vjp-QLc1KHR1LPIl3G) - J2Team
 * [Lập Trình Web Chuyên Sâu](https://www.youtube.com/playlist?list=PLiyVagO7GfBE1l9XIGemSpy8bnm7QDmsY) - J2Team
 * [Lập Trình Web Cơ Bản](https://www.youtube.com/playlist?list=PLiyVagO7GfBE3_b-4lJEVk7iq1pHQ-xcM) - J2Team
+* [MERN PRO • Học lập trình Front-end + Back-end | Làm dự án thực tế Trello kéo thả](https://www.youtube.com/playlist?list=PLP6tw4Zpj-RJP2-YrhtkWqObMQ-AA4TDy) - TrungQuanDev - Một Lập Trình Viên
 
 
 ### Wordpress

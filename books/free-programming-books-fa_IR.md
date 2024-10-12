@@ -38,7 +38,9 @@
 
 ### Java
 
-* [آموزش  برنامه‌نویسی جاوا](https://javacup.ir/javacup-training-videos/)
+* [آموزش اسپرينگ](https://github.com/raaminz/training/tree/master/slides/spring)
+* [آموزش جاوا از صفر](https://toplearn.com/courses/85/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AC%D8%A7%D9%88%D8%A7-%D8%A7%D8%B2-%D8%B5%D9%81%D8%B1)
+* [آموزش هايبرنيت](https://github.com/raaminz/training/tree/master/slides/hibernate)
 
 
 ### JavaScript
@@ -84,4 +86,4 @@
 
 * [تحلیل شبکه‌های اجتماعی در R](http://cran.r-project.org/doc/contrib/Raeesi-SNA_in_R_in_Farsi.pdf) (PDF)
 * [راهنمای زبان R](http://cran.r-project.org/doc/contrib/Mousavi-R-lang_in_Farsi.pdf) (PDF)
-* [موضعات ویژه در R](http://cran.r-project.org/doc/contrib/Mousavi-R_topics_in_Farsi.pdf) (PDF)
+* [مباحث ویژه در R](http://cran.r-project.org/doc/contrib/Mousavi-R_topics_in_Farsi.pdf) (PDF)

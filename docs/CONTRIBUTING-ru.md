@@ -137,7 +137,7 @@
 - <a id="in_process"></a>Незавершенные книги:
 
     ```text
-    ХОРОШО: * [Скоро будет отличная книга](http://example.com/book2.html) - Джон Доу (HTML) (:construction: *in process*)
+    ХОРОШО: * [Скоро будет отличная книга](http://example.com/book2.html) - Джон Доу (HTML) *(:construction: in process)*
     ```
 
 - <a id="archived"></a>Archived link:

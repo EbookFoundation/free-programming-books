@@ -27,6 +27,7 @@
 * [Linux](#linux)
 * [MongoDB](#mongodb)
 * [MySQL](#mysql)
+* [Operating Systems](#operating-systems)
 * [PHP](#php)
     * [Laravel](#laravel)
 * [Programming paradigms](#programming-paradigms)
@@ -87,6 +88,7 @@
 * [Dart All You Need To Know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVC2-nXUrvpcQEz3FgCSIQHT) - Stack Learner
 * [Dart Bangla Tutorial](https://www.youtube.com/playlist?list=PLbC4KRSNcMnpQarCowZvUJOf4VhiJllX5) - Learn Hunter
 * [Dart Bangla Tutorial](https://www.youtube.com/playlist?list=PLy0nhnjSE4irkzR9mbo70J2iKbf4a36y5) - Afran Sarkar
+* [Dart Bangla Tutorial](https://www.youtube.com/playlist?list=PLg87mxEuu8-68krJBfgF3yjIPAwdgz1T2) - Techno BD XYZ
 
 
 ### Docker
@@ -94,13 +96,16 @@
 * [Docker and Kubernetes - 2022](https://www.youtube.com/playlist?list=PLzOdtYcAxAiM4_XQrzRmofBJ_ImFkSojg) - CSLCBT Bangla
 * [Docker Tutorial](https://www.youtube.com/playlist?list=PLSNRR4BKcowAuPUEja_ZZUE5Szn1rx90f) - Procoder BD
 * [Docker Tutorial Course](https://www.youtube.com/playlist?list=PLEYpvDF6qy8Yo9SpzhniLCjgRIxCpo2ku) - Foyzul Karim
+* [Mastering Docker -23](https://youtube.com/playlist?list=PLzOdtYcAxAiNNR-8DEbnW2LErzqC3-qcs) - CSLCBT Bangla
 
 
 ### Flutter
 
+* [Flutter Bangla Tutorial](https://www.youtube.com/playlist?list=PLy0nhnjSE4ipl3dXqWbE_ZvBiHeySwiP7) - Afran Sarkar
 * [Flutter Bangla Tutorial](https://www.youtube.com/playlist?list=PLg87mxEuu8-692INeEsxudyVifz7M3efy) - Techno BD XYZ
 * [Flutter Tutorial Bangla](https://www.youtube.com/playlist?list=PLkyGuIcLcmx3-Z3QML9xkYZtdKh91LeYC) - Rabbil Hasan
 * [Flutter Tutorial Bangla](https://www.youtube.com/playlist?list=PLZJlOXxGEkuyZQ-vA7B5vpvvtWU3Upo6p) - Soykot Hosen
+* [Flutter Tutorial Bangla (Full Course) \| Mobile App Development](https://www.youtube.com/playlist?list=PLzHzHuEcLLzDh7koqhZJMrE879XzLAfo4) - Jibon Khan
 
 
 ### Git
@@ -152,6 +157,9 @@
 
 ### IDE and editors
 
+* [How to save coding time using sublime text (bangla)](https://www.youtube.com/playlist?list=PLPkEK3TrAJ1Pi8IUcA9Ldm81ZCVCA_bIm) - Sharif Chowdhury
+* [Notepad++ tutorial in Bangla for beginner](https://www.youtube.com/playlist?list=PLf3nMuwgaMb24VtxNGQcUKr2NVenMkzGC) - Community Solution IT
+* [Sublime Text 3 Bangla Tutorial - (Beginners to Advanced)](https://www.youtube.com/playlist?list=PLgV8FC0EoxMcKrw5VydxZAZ0ZivXWL_ej) - Positive World
 * [VSCode Complete Tutorial Series \| VSCode টিউটোরিয়াল সিরিজ](https://www.youtube.com/playlist?list=PL_XxuZqN0xVB_lroSm_xvTqvVBCpR4PQE) - Stack Learner
 * [VSCode Power Tips](https://www.youtube.com/playlist?list=PLoR56CteKZnBmefc8NTiG8GOHlU1vN3-F) - Learn with Hasin Hayder
 
@@ -198,13 +206,6 @@
 * [jQuery Bangla Tutorial](https://www.youtube.com/playlist?list=PLm64fbD5Onxtpvq--EAMfAHcn8h8_t3iw) - Moshiur
 
 
-### Linux
-
-* [Kali Linux Basics Full Course In Bangla By Mehedi Shakeel](https://www.youtube.com/playlist?list=PL-8coCSOYV9F_tVxJSX1tzNram6PH0K4O) - Mehedi Shakeel
-* [Linux Essentials Full course](https://www.youtube.com/playlist?list=PLzOdtYcAxAiOzVwsu7diaDMJiWlbDPiTb) - CSLCBT Bangla
-* [Ubuntu Linux Bangla Tutorial 2021](https://www.youtube.com/playlist?list=PLKdU0fuY4OFfxTxJduexCuF7nRp5ioOgw) - STUDY MART
-
-
 #### Next.js
 
 * [Next Js Bangla Tutorial Series](https://www.youtube.com/playlist?list=PLwMeE9AWeV59vbQSIArd0-sNB9FPxlWSp) - dSkill
@@ -216,6 +217,7 @@
 
 * [Complete MERN Stack Course in Bangla](https://www.youtube.com/watch?v=ewBBT6Iph0M&list=PL_XxuZqN0xVD0op-QDEgyXFA4fRPChvkl) - Stack Learner
 * [Dive Into NodeJS](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDHFj-ecFSU0SU-B0TuJRk9) - Stack Learner
+* [E-commerce MERN Stack Project in Bangla](https://youtube.com/playlist?list=PLgH5QX0i9K3q_7q9vZ5-EWpoL2bMuFJFV) - Anisul Islam
 * [Node.js Tutorial Bangla  Series for Beginners](https://youtube.com/playlist?list=PLHiZ4m8vCp9PHnOIT7gd30PCBoYCpGoQM) - Learn With Sumit
 * [NodeJS Tutorial Online](https://www.youtube.com/playlist?list=PLEYpvDF6qy8ZHMhSqsdo_Tge0CDxxXd1w) - Foyzul Karim
 * [Raw Node JS Project in Bangla ( বাংলা ) - Uptime Monitoring API](https://youtube.com/playlist?list=PLHiZ4m8vCp9OmVWU2Qf9tZgKdyzoubOpj) - Learn With Sumit
@@ -250,10 +252,18 @@
 * [Kotlin Programming Language Basics in Bangla](https://www.youtube.com/playlist?list=PLYSlHgBmbWcurc9BBThq0WdcESbpEymF1) - Bonny Ahmad
 
 
+### Linux
+
+* [Kali Linux Basics Full Course In Bangla By Mehedi Shakeel](https://www.youtube.com/playlist?list=PL-8coCSOYV9F_tVxJSX1tzNram6PH0K4O) - Mehedi Shakeel
+* [Linux Essentials Full course](https://www.youtube.com/playlist?list=PLzOdtYcAxAiOzVwsu7diaDMJiWlbDPiTb) - CSLCBT Bangla
+* [Ubuntu Linux Bangla Tutorial 2021](https://www.youtube.com/playlist?list=PLKdU0fuY4OFfxTxJduexCuF7nRp5ioOgw) - Study Mart
+
+
 ### MongoDB
 
 * [Mastering MongoDB](https://www.youtube.com/playlist?list=PLEYpvDF6qy8ZTUjMcg4WOUYMxQZDpRnBt) - Foyzul Karim
 * [MongoDB Bangla tutorial series](https://youtube.com/playlist?list=PLgH5QX0i9K3p4ckbNCy71LRr_dG0AWGw9) - Anisul Islam
+* [MongoDB Bangla Tutorials \| MongoDB  Crash Course in Bangla \| MongoDB NoSQL Database Tutorial in Bengali](https://www.youtube.com/playlist?list=PLKdU0fuY4OFe5tIAh3FB8avnQBD5FFXvE) - Study Mart
 
 
 ### MySQL
@@ -262,6 +272,11 @@
 * [mysql bangla tutorial \| Mysql Database \| HSC,CSE, Anyone](https://www.youtube.com/playlist?list=PLbC4KRSNcMnqp4x6XstgFCVi6XVu37t99) - Sohidul Islam, Learn Hunter
 * [MySql Database Bangla Tutorial Beginner to Advanced](https://www.youtube.com/playlist?list=PLH246IZCIBeA4h1R6fdgK06kj9lMb3joi) - Shoaib Hossain, Soft-All
 * [MySQL Database Bangla Tutorials (HSC student / Anyone)](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qLcx9DvVDWmNJ7riPvxzCD) - Anisul Islam
+
+
+### Operating Systems
+
+* [Operating System (OS) Bangla Tutorial (কমপ্লিট কোর্স)](https://www.youtube.com/playlist?list=PLncy2sD7w4Yr3ZbiP_ipAjgjDRn86N_tT) - Lecturelia - CSE Bangla Tutorial
 
 
 ### PHP
@@ -274,7 +289,7 @@
 
 #### Laravel
 
-* [Restapi Bangla tutorial \| Laravel & Lumen Api development](https://www.youtube.com/playlist?list=PLbC4KRSNcMnoQONzuNtFlhEzegTYadoBY) - Learn Hunter
+* [laravel 10 bangla tutorial latest version \| laravel basic to advanced from official documentation](https://www.youtube.com/playlist?list=PLbC4KRSNcMnrY78JyoI8c0pk-reuSw8ff) - Learn Hunter
 
 
 ### Programming paradigms
@@ -288,8 +303,7 @@
 ### Python
 
 * [Bangla Python Tutorial for Beginners](https://www.youtube.com/playlist?list=PLlBKlxyCgmsCYJLq9qc5QzaU-oBFJN79B) - Niamul Hasan (StartBit)
-* [Python All You Need To Know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVCH8fRfZ8sUuKEQQYIFMjtJ) - Stack Learner
-* [Python Bangla Tutorial & Data Science Full Course](https://www.youtube.com/playlist?list=PLmZYUigljiyc-tf7oMmM-s832ibhGxTpT) - Study Mart
+* [Python All You Need to Know / stack learner](https://www.youtube.com/playlist?list=PL3-qJK8D7YirnPBwmPNRyczdVOEwJbtLW) - Stack Learner
 * [Python Bangla Tutorial 2023](https://www.youtube.com/playlist?list=PLNMnAEqLBwmpR8JDBOEl0jrzmH1vPnO7v) - Hablu Programmer
 * [Python Bangla Tutorials for Beginners](https://www.youtube.com/playlist?list=PLgH5QX0i9K3rz5XqMsTk41_j15_6682BN) - Anisul Islam
 * [Python For Beginners - Bangla Tutorials](https://www.youtube.com/playlist?list=PLvr0Ht-XkB_0V-mjAYlfgk-3VRmFarlzC) - Learn With Tawhid
@@ -309,6 +323,7 @@
 #### Flask 
 
 * [Flask Web Development with python (Bangla)](https://www.youtube.com/playlist?list=PL5WWFMzXof5hA8cLzEoim7BEkHcmddbOK) - Naimul Hawk
+* [Python Flask Web Development Full Course in One Video(বাংলা)](https://youtu.be/QnbsCC8wvJk?si=sRyiRRehGb_qv2wR) - CodeWithRafiq
 
 
 ### Scratch
@@ -339,8 +354,8 @@
 ### WordPress
 
 * [WordPress Bangla Tutorial](https://www.youtube.com/playlist?list=PLm64fbD5Onxti7DiUkX3UX3P2tuiEw30E) - Moshiur
-* [Wordpress Bangla Tutorial Course for beginner to advanced level](https://www.youtube.com/playlist?list=PLeCz-UdZ0uzQVPdQN-mWnz8896BdYMqAf) - Freelancer Mannan
 * [WordPress Customization Bangla Tutorial](https://www.youtube.com/playlist?list=PLbC4KRSNcMno7NzhTgGhoZtRjLiHUo8m4) - Learn Hunter
 * [WordPress Plugin Development](https://www.youtube.com/playlist?list=PLSNRR4BKcowCkeAxfdtTsLqwR0LJYwDaz) - Procoder BD
 * [WordPress Theme Development Tutorial Bangla ](https://www.youtube.com/playlist?list=PLSNRR4BKcowD6A-U_ll9ayJWqOEz3XD8l) - Procoder BD
+* [WP Theme Development with ChatGPT](https://www.youtube.com/playlist?list=PLn_JOV5gUeKwLEMqi93W6eswy4hEQ_ouL) - Md Maruf Adnan Sami
 

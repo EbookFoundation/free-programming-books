@@ -29,7 +29,7 @@ jobs:
           echo ${{ github.event.pull_request.html_url }} > ./pr/PRurl
           cat output.log | sed -E 's:/home/runner/work/free-programming-books/|⚠.+::' | uniq > ./pr/error.log
 
-    - uses: actions/upload-artifact@v3
+    - uses: actions/upload-artifact@v4
       if: always()
       with:
         name: pr

@@ -44,6 +44,7 @@
 * [R](#r)
 * [Ruby](#ruby)
     * [Ruby on Rails](#ruby-on-rails)
+* [Rust](#rust)
 * [Scala](#scala)
 * [Scratch](#scratch)
 * [SQL](#sql)
@@ -204,12 +205,15 @@
 ### JavaScript
 
 * [El Tutorial de JavaScript Moderno](https://es.javascript.info) - Ilya Kantor, Elizabeth Portilla, joaquinelio, Ezequiel Castellanos, et al. (HTML)
-* [Eloquent JavaScript](https://eloquentjs-es.thedojo.mx) - Marijn Haverbeke, `trl.:` Various (HTML, PDF, EPUB, MOBI)
+* [Eloquent JavaScript (3ra Edición)](https://eloquentjs-es.thedojo.mx) - Marijn Haverbeke, `trl.:` Various (HTML, PDF, EPUB, MOBI)
+* [Eloquent JavaScript (4ta Edición)](https://www.eloquentjavascript.es) - Marijn Haverbeke (HTML, PDF, EPUB, MOBI)
 * [Guía de JavaScript 'Mozilla'](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide) (HTML)
 * [Introducción a AJAX](http://librosweb.es/libro/ajax) - Javier Eguíluz Pérez (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-ajax)
 * [Introducción a JavaScript](http://librosweb.es/libro/javascript) - Javier Eguíluz Pérez (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-a-javascript)
 * [JavaScript, ¡Inspírate!](https://leanpub.com/javascript-inspirate) - Ulises Gascón González (Leanpub cuenta requerida)
+* [JavaScript Definitivo Vol. I](https://github.com/afuggini/javascript-definitivo-vol1) - Ariel Fuggini (HTML)
 * [JavaScript Para Gatos](https://jsparagatos.com) - Maxwell Ogden, `trl.:` Dan Zajdband (HTML)
+* [Learn JavaScript](https://javascript.sumankunwar.com.np/es) - Suman Kumar, Github Contributors (HTML, PDF)
 * [Manual de JavaScript](https://desarrolloweb.com/manuales/manual-javascript.html#capitulos20) (HTML)
 
 
@@ -252,6 +256,7 @@
 
 ### LaTeX
 
+* [Edición de textos científicos con LaTeX. Composición, gráficos, diseño editorial y presentaciones beamer](https://tecdigital.tec.ac.cr/servicios/revistamatematica/Libros/LaTeX/MoraW_BorbonA_LibroLaTeX.pdf) - Walter Mora F., Alexander Borbón A. (PDF)
 * [La introducción no-tan-corta a LaTeX 2ε](http://osl.ugr.es/CTAN/info/lshort/spanish/lshort-a4.pdf) - Tobias Oetiker, Hubert Partl, Irene Hyna, Elisabeth Schlegl, `trl.:` Enrique Carleos Artime, `trl.:` Daniel Cuevas, `trl.:` J. Luis Rivera (PDF)
 
 
@@ -363,6 +368,11 @@
 #### Ruby on Rails
 
 * [Introducción a Rails](http://rubysur.org/introduccion.a.rails/) - RubySur (HTML)
+
+
+### Rust
+
+* [El Lenguaje de Programación Rust](https://book.rustlang-es.org) - Steve Klabnik y Carol Nichols, `trl.:` Comunidad Rust en Español (HTML)
 
 
 ### R

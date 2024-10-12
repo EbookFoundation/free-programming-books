@@ -173,6 +173,7 @@
 ### JavaScript
 
 * [JavaScript Éloquent : Une introduction moderne à la programmation](http://fr.eloquentjavascript.net) - Marijn Haverbeke
+* [Learn JavaScript](https://javascript.sumankunwar.com.np/fr) - Suman Kumar, Github Contributors (HTML, PDF)
 * [Node.Js: Apprendre par la pratique](https://oncletom.io/node.js/#chapitres) - Thomas Parisot
 
 
@@ -196,7 +197,7 @@
 
 #### LaTeX
 
-* [Apprends LaTeX](https://tex.loria.fr/general/apprends-latex.pdf) - Marc Baudoin (PDF)
+* [Apprends LaTeX](http://www.babafou.eu.org/Apprends_LaTeX/Apprends_LaTeX.pdf) - Marc Baudoin (PDF)
 * [LaTeX... pour le prof de maths !](http://math.univ-lyon1.fr/irem/IMG/pdf/LatexPourLeProfDeMaths.pdf) - Arnaud Gazagnes (PDF)
 * [Tout ce que vous avez toujours voulu savoir sur LaTeX sans jamais oser le demander](http://framabook.org/tout-sur-latex/) - Vincent Lozano
 * [(Xe)LaTeX appliqué aux sciences humaines](https://web.archive.org/web/20220121031527/geekographie.maieul.net/95) - Maïeul Rouquette *(:card_file_box: archived)*
@@ -274,6 +275,7 @@
 * [Apprendre à programmer avec Python](http://inforef.be/swi/python.htm) - Gerard Swinnen
 * [Introduction à la programmation](https://self-learning.info.ucl.ac.be/index/info1-exercises) (Inscription gratuite sur le site. Pour réaliser les exercices sur INGInious.org, créez-vous un compte gratuitement et liez ensuite votre compte self-learning à votre compte INGInious. )
 * [Le guide de l’auto-stoppeur pour Python!](https://python-guide-fr.readthedocs.io/fr/latest/) - Kenneth Reitz
+* [Python Programming in French](https://www.youtube.com/playlist?list=PL0mGkrTWmp4ugGM9fiZjEuzMFeKD6Rh5G) - Data Scientist Nigeria
 * [Une introduction à Python 3](https://perso.limsi.fr/pointal/python:courspython3) - Bob Cordeau, Laurent Pointal
 
 

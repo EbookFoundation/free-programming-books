@@ -188,6 +188,7 @@
 * [Pemrograman Berorientasi Objek Dengan PHP5](https://endangcahyapermana.files.wordpress.com/2016/03/belajar-singkat-pemrograman-berorientasi-objek-dengan-php5.pdf) - Gerry Sabar (PDF)
 * [Pemrograman Web dengan PHP dan MySQL](http://achmatim.net/2009/04/15/buku-gratis-pemrograman-web-dengan-php-dan-mysql/)
 * [PHP Dasar Tutorial](https://gilacoding.com/upload/file/PHP%20Dasar%20Tutorial.pdf) - Rosihan Ari Yuana (PDF)
+* [PHP OOP Mini Serial](https://github.com/nurfawaiq/ebook-collection/blob/a20d319498845976b15a3048916cc8800cde7c6a/PHP/PHP%20OOP%20Mini%20Serial.pdf) - M. Nur Fawaiq (Github / PDF)
 * [PHP: The Right Way Bahasa Indonesia](http://id.phptherightway.com/#site-header/)
 * [Tutorial Belajar PHP Dasar Untuk Pemula](https://www.duniailkom.com/tutorial-belajar-php-dasar-untuk-pemula/) - Duniailkom
 * [Tutorial Ebook PHP](http://www.ilmuwebsite.com/ebook-php-free-download)

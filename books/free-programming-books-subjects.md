@@ -171,6 +171,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 ### Cellular Automata
 
 * [A New Kind of Science](https://www.wolframscience.com/nksonline/toc.html) - Stephen Wolfram
+* [Introduction to the Modeling and Analysis of Complex Systems](https://milneopentextbooks.org/introduction-to-the-modeling-and-analysis-of-complex-systems/) - Hiroki Sayama
 
 
 ### Cloud Computing

@@ -139,6 +139,7 @@
 * [Complete Arduino Tutorial Learn Arduino Programming in Hindi](https://www.youtube.com/playlist?list=PLg2KtP8cgLjzNu5G2bQQLxFeBiqk8IO0s) - Techtalks With Vivek
 * [Learn Arduino in Hindi](https://www.youtube.com/playlist?list=PLVl__93X7ZlxnDtEY1_ibH-fECYEAKAQC) - TEKNOISTIX
 
+
 ### Artificial Intelligence
 
 * [Artificial Intelligence (Complete Playlist)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiHGhOHV-nwb0HR5US5GFKFI) - Gate Smashers

@@ -266,13 +266,17 @@
 * [Artificial Intelligence on Google Cloud Platform](https://www.youtube.com/playlist?list=PL3N9eeOlCrP6Nhv4UFp67IsQ_TVDpXqXK) - Srivatsan Srinivasan @ AIEngineering
 * [Artificial Intelligence Search Methods For Problem Solving](https://www.youtube.com/playlist?list=PLbMVogVj5nJSFZoiF6RDqyz_m6Srjx_MY) - nptelhrd
 * [AWS Certified AI Practitioner (AIF-C01)](https://www.youtube.com/watch?v=WZeZZ8_W-M4) - Andrew Brown (FreeCodeCamp)
+* [Community Computer Vision Course](https://huggingface.co/learn/computer-vision-course) - Hugging Face
 * [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/) - Brian Yu, David J. Malan (Harvard OpenCourseWare and edX)
+* [Deep Reinforcement Learning Course](https://huggingface.co/learn/deep-rl-course) - Hugging Face
+* [Diffusion Course](https://huggingface.co/learn/diffusion-course) - Hugging Face
 * [Elements of AI](https://www.elementsofai.com) - University of Helsinki, Reaktor
 * [Have fun Staying Home And Learning AI - SHALA2020](https://shala2020.github.io) - IIT BOMBAY
 * [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer) - Romeo Kienzler, Saeed Aghabozorgi, Joseph Santarcangelo, Alex Aklson et al. (Coursera)
 * [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow) - DeepLearning.ai (Coursera)
 * [MIT Deep Learning and Artificial Intelligence Lectures](https://deeplearning.mit.edu) - Lex Fridman, et al.
 * [MIT's Artificial Intelligence](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) - Patrick Henry Winston (MIT OpenCourseWare)
+* [NLP Course](https://huggingface.co/learn/nlp-course) - Hugging Face
 * [NYU Artificial Intelligence SP24](https://www.youtube.com/playlist?list=PLLHTzKZzVU9cH26X9VQ14lIA0aPwZiZTx) - Alfredo Canziani, Ernest Davis
 * [Stanford CS221: Artificial Intelligence: Principles and Techniques \| Autumn 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX) - Stanford Online
 

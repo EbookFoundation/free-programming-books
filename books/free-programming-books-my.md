@@ -60,7 +60,7 @@
 ### Python
 
 * [Programming Basic For Beginner](http://books.saturngod.net/programming_basic/) - Saturngod
-* [Learn Python The Hard Way 3rd Edition](https://we.riseup.net/assets/345908/Learn+Python+The+Hard+Way+3rd+Edition+V413HAV.pdf) - Zed A. Shaw
+* [Learn Python The Hard Way 3rd Edition](https://we.riseup.net/assets/345908/Learn+Python+The+Hard+Way+3rd+Edition+V413HAV.pdf) - Zed A. Shaw (PDF)
 
 
 ### Web Development

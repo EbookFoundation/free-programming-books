@@ -47,6 +47,7 @@
 * [Haskell](#haskell)
 * [HTML and CSS](#html-and-css)
     * [Bootstrap](#bootstrap)
+* [Instapage](#instapage)
 * [iOS](#ios)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -890,6 +891,11 @@
 * [Learn Bootstrap 4 in this free 10-part course](https://www.freecodecamp.org/news/want-to-learn-bootstrap-4-heres-our-free-10-part-course-happy-easter-35c004dc45a4/) - Per Harald Borgen (Freecodecamp)
 * [Learn Bootstrap 5 and SASS by Building a Portfolio Website - Full Course](https://www.youtube.com/watch?v=iJKCj8uAHz8) - Patrick Muriungi, freeCodeCamp
 * [Rapid website design with Bootstrap](https://www.udemy.com/course/responsive-website-design) - Laurence Svekis (Udemy)
+
+
+### Instapage
+
+* [Instapage Tutorial (2024): The COMPLETE Step-By-Step Guide for Beginners](https://www.youtube.com/watch?v=xZOL_4h2CJQ) - Ivan Mana
 
 
 ### iOS

@@ -219,6 +219,7 @@
 * [Python Untuk Pemula](https://santrikoding.com/ebook/python-untuk-pemula) - Rizqi Maulana
 * [Tutorial Dasar Pemrograman Python](https://www.petanikode.com/tutorial/python/) - Petani Kode, Ahmad Muhardian
 * [Tutorial Python](https://docs.python.org/id/3.8/tutorial/)
+* [Tutorial Python untuk Pemula](https://www.kevintekno.com/p/tutorial-python-untuk-pemula.html) - Kevin Tekno, Kevin Alfito
 * [Workshop Python 101](http://sakti.github.io/python101/)
 
 

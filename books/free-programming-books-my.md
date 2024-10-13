@@ -60,6 +60,7 @@
 ### Python
 
 * [Programming Basic For Beginner](http://books.saturngod.net/programming_basic/) - Saturngod
+* [Learn Python The Hard Way 3rd Edition](https://www.google.com/search?q=Learn+Python+the+Hard+Way%22+by+Zed+A.+Shaw&sca_esv=778fd8ccaca240ed&ei=ljkMZ6T5JJudseMP9uzouAU&ved=0ahUKEwiknOnNpIyJAxWbTmwGHXY2GlcQ4dUDCA8&uact=5&oq=Learn+Python+the+Hard+Way%22+by+Zed+A.+Shaw&gs_lp=Egxnd3Mtd2l6LXNlcnAiKUxlYXJuIFB5dGhvbiB0aGUgSGFyZCBXYXkiIGJ5IFplZCBBLiBTaGF3MgUQLhiABDIGEAAYFhgeMgYQABgWGB4yCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyFBAuGIAEGJcFGNwEGN4EGOAE2AECSJsSUOwHWOwHcAF4AJABAJgBjQKgAY0CqgEDMi0xuAEDyAEA-AEB-AECmAICoAKkAqgCCsICFBAuGIAEGJECGLQCGIoFGOoC2AEBwgIUEAAYgAQYkQIYtAIYigUY6gLYAQHCAhQQABiABBjjBBi0AhjpBBjqAtgBAcICFBAuGIAEGOMEGLQCGOkEGOoC2AEBwgIWEAAYAxi0AhjlAhjqAhiMAxiPAdgBAZgDD7oGBAgBGAe6BgYIAhABGBSSBwUxLjAuMaAHlAk&sclient=gws-wiz-serp#vhid=zephyr:0&vssid=atritem-https://we.riseup.net/assets/345908/Learn%2BPython%2BThe%2BHard%2BWay%2B3rd%2BEdition%2BV413HAV.pdf&wptab=si:ACC90nxQLWTp1Pj4tdUwZU29vA-Vn4NhXwefPTNPEG9Y0qztldUkDnm9iwZyiVqGICCNrqIF-72FxJKV4g0XyHWt4CoLN7l6O29pOGJcC1Td5SRRl-bxv_kV2LGHVNF_RAHF_hWMaIrZf_8aCoNMAFQRpKNgnYTwEQ%3D%3D) - Zed A. Shaw
 
 
 ### Web Development

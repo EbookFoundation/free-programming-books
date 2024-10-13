@@ -651,6 +651,7 @@
 * [DevOps: Beginner's Guide To Automation With Ansible](https://www.udemy.com/course/devops-beginners-guide-to-automation-with-ansible) - TetraNoodle Team, Manuj Aggarwal (Udemy)
 * [Red Hat Ansible Automation for SAP (RH045)](https://www.udemy.com/course/red-hat-ansible-automation-for-sap) - Red Hat, Inc. (Udemy)
 * [Use Ansible with Amazon Web Services](https://www.udemy.com/course/ansible-aws) - Rohit Abraham (Udemy)
+* [Getting Started with Ansible](https://www.youtube.com/playlist?list=PLT98CRl2KxKEUHie1m24-wkyHpEsa4Y70) - Learn Linux TV
 
 
 #### Chef

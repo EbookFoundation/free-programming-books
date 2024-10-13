@@ -136,6 +136,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 
 ### Artificial Intelligence
 
+* [Artificial Intelligence, 3rd Edition (1993)](https://courses.csail.mit.edu/6.034f/ai3/rest.pdf) - Patrick Henry Winston (PDF)
 * [Artificial Intelligence and the Future for Teaching and Learning](https://www2.ed.gov/documents/ai-report/ai-report.pdf) - Office of Educational Technology (PDF)
 * [Artificial Intelligence for a Better Future: An Ecosystem Perspective on the Ethics of AI and Emerging Digital Technologies](https://link.springer.com/book/10.1007/978-3-030-69978-9) - Bernd Carsten Stahl (PDF, EPUB)
 * [Artificial Intelligence: Foundations of Computational Agents (2010), 1st Edition](https://artint.info/aifca1e.html) - David L. Poole, Alan K. Mackworth @ Cambridge University Press (HTML)
@@ -170,6 +171,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 ### Cellular Automata
 
 * [A New Kind of Science](https://www.wolframscience.com/nksonline/toc.html) - Stephen Wolfram
+* [An Introduction to Cellular Automata](https://ia801004.us.archive.org/26/items/viviencellularautomata/vivien%20cellular%20automata.pdf) - Hélène Vivien (PDF)
 
 
 ### Cloud Computing
@@ -439,11 +441,11 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Probabilistic Machine Learning - An Introduction](https://github.com/probml/pml-book/releases/latest/download/book1.pdf) - Kevin P. Murphy (PDF)
 * [Probabilistic Models in the Study of Language](https://idiom.ucsd.edu/~rlevy/pmsl_textbook/text.html) (Draft, with R code)
 * [Python Machine Learning Projects](https://www.digitalocean.com/community/books/python-machine-learning-projects-a-digitalocean-ebook) - Lisa Tagliaferri, Brian Boucheron, Michelle Morales, Ellie Birkbeck, Alvin Wan (PDF, EPUB, Kindle)
-* [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/RLbook2020.pdf) - Richard S. Sutton, Andrew G. Barto (PDF)
+* [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/RLbook2020.pdf) - Richard S. Sutton, Andrew G. Barto (PDF) (CC BY-NC-ND)
 * [Speech and Language Processing (3rd Edition Draft)](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) - Daniel Jurafsky, James H. Martin (PDF)
 * [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) - Trevor Hastie, Robert Tibshirani, and Jerome Friedman
 * [The LION Way: Machine Learning plus Intelligent Optimization](https://intelligent-optimization.org/LIONbook/lionbook_3v0.pdf) - Roberto Battiti, Mauro Brunato (PDF)
-* [The Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf) - François Fleuret (PDF)
+* [The Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf) - François Fleuret (PDF) (CC BY-NC-SA)
 * [The Mathematical Engineering of Deep Learning](https://deeplearningmath.org) - Benoit Liquet, Sarat Moka, Yoni Nazarathy
 * [The Mechanics of Machine Learning](https://mlbook.explained.ai) - Terence Parr, Jeremy Howard
 * [The Python Game Book](https://web.archive.org/web/20210308080726/https://thepythongamebook.com/en%3Astart) - Horst Jens *(:card_file_box: archived)*
@@ -742,7 +744,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [The Little Book About OS Development](https://littleosbook.github.io) - Erik Helin, Adam Renberg - (PDF, HTML)
 * [The Little Book of Semaphores](https://greenteapress.com/semaphores/) - Allen B. Downey (PDF) (CC BY-NC-SA)
 * [Think OS: A Brief Introduction to Operating Systems](https://www.greenteapress.com/thinkos/index.html) - Allen B. Downey (PDF)
-* [UNIX Application and System Programming, lecture notes](http://www.compsci.hunter.cuny.edu/~sweiss/course_materials/unix_lecture_notes.php) - Stewart Weiss (PDF)
+* [UNIX Application and System Programming, lecture notes](http://www.compsci.hunter.cuny.edu/~sweiss/course_materials/unix_lecture_notes.php) - Stewart Weiss (PDF) (CC BY-SA)
 * [Writing a Simple Operating System from Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf) - Nick Blundell (PDF)
 * [Xv6, a simple Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2022/xv6.html) - Russ Cox, Frans Kaashoek and Robert Morris (PDF, HTML)
 

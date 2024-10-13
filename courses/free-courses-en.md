@@ -149,7 +149,6 @@
 * [Analysis of Algorithms (CSE 373)](https://www3.cs.stonybrook.edu/~skiena/373/videos) - Steven Skiena
 * [Berkeley University CS 61B: Data Structures](http://datastructur.es/sp16/)
 * [Berkeley's CS 61B: Data Structures](https://archive.org/details/ucberkeley_webcast_QMV45tHCYNI)
-* [Binary Trees - by LoveBabbar](https://www.youtube.com/playlist?list=PLDzeHZWIZsTo87y1ytEAqp7wYlEP3nner) - CodeHelp - by Babbar
 * [C Programming & Data Structures](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM) - Neso Academy
 * [Codechef Solutions](https://www.youtube.com/playlist?list=PLRKOqqzwh75huOam-77G1v9uHjO9WWBRX) - Endeavour Monk
 * [Computer Sc - Programming and Data Structure](https://www.youtube.com/playlist?list=PLD9781AC5EBC9FA16) - P.P. Chakraborty
@@ -203,7 +202,6 @@
 
 * [Introduction To Soft Computing](https://www.youtube.com/playlist?list=PLJ5C_6qdAvBFqAYS0P9INAogIMklG8E-9) - Computer Science and Engineering
 * [Learn and Grow](https://www.youtube.com/playlist?list=PL_kjqgSKrEaA8RDh56AeTOrcGj-nMDkSS) - Learn and Grow
-* [Soft Computing /| University exams specific](https://www.youtube.com/playlist?list=PLuAADu3OvBt5-e5yXuIqBi1pttqw3RBeg) - Er Sahil ka Gyan
 
 
 ### Android
@@ -220,6 +218,7 @@
 * [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course) - Google Developers Training
 * [Android Developer Fundamentals (Version 2) — Codelab](https://developer.android.com/courses/fundamentals-training/toc-v2)
 * [Android Developer Fundamentals (Version 2) — Concepts](https://google-developer-training.github.io/android-developer-fundamentals-course-concepts-v2/index.html)
+* [Android Development for Beginners - Full Course](https://www.youtube.com/watch?v=fis26HvvDII) - freeCodeCamp.org
 * [Android Development Tutorials](https://www.youtube.com/playlist?list=PLqM7alHXFySF_Hb1GtyvCX44dBniJ5sNy) -  GeeksforGeeks
 * [Android Performance](https://www.udacity.com/course/android-performance--ud825) (Udacity)
 * [Android Tutorial for Beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7p-lZvWabkVJdM_UVURhUh4) - Telusko
@@ -266,6 +265,7 @@
 * [Aml-2018 Ambient Intelligence](https://www.youtube.com/playlist?list=PLqRTLlwsxDL8fUcY2Y54sITILyJcTySpC) - Fulvio Corno, Luigi De Russis, Alberto Monge Roffarello @ Politecnico di Torino
 * [Artificial Intelligence on Google Cloud Platform](https://www.youtube.com/playlist?list=PL3N9eeOlCrP6Nhv4UFp67IsQ_TVDpXqXK) - Srivatsan Srinivasan @ AIEngineering
 * [Artificial Intelligence Search Methods For Problem Solving](https://www.youtube.com/playlist?list=PLbMVogVj5nJSFZoiF6RDqyz_m6Srjx_MY) - nptelhrd
+* [AWS Certified AI Practitioner (AIF-C01)](https://www.youtube.com/watch?v=WZeZZ8_W-M4) - Andrew Brown (FreeCodeCamp)
 * [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/) - Brian Yu, David J. Malan (Harvard OpenCourseWare and edX)
 * [Elements of AI](https://www.elementsofai.com) - University of Helsinki, Reaktor
 * [Have fun Staying Home And Learning AI - SHALA2020](https://shala2020.github.io) - IIT BOMBAY
@@ -345,15 +345,14 @@
 * [C Programming 2021: Master The Basics!](https://www.udemy.com/course/c-programming-2019-master-the-basics/) - Ali Badran (Udemy)
 * [C Programming and Assembly Language](https://www.youtube.com/playlist?list=PLyqSpQzTE6M8O9Oy9t-yhiAUXOi-rmTp_) - NPTEL NOC IITM
 * [C Programming for Beginners](https://www.youtube.com/playlist?list=PL98qAXLA6aftD9ZlnjpLhdQAOFI8xIB6e) - Programiz
-* [C Programming Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWoGzOXqtKeM71OLpvZbuU0P)
+* [C Programming Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWoGzOXqtKeM71OLpvZbuU0P) - The Bad Tutorials
 * [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0) - Mike Dane (freeCodeCamp)
 * [C Programming Tutorial for Beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7oBxHp43xQTFrw9f1CDPR6C) - Telusko
 * [C Programming Tutorials for Beginners (Complete Series)](https://www.youtube.com/playlist?list=PLS1QulWo1RIZlA5oGczk8kY7Eenytc33s) - ProgrammingKnowledge
-* [C Programming Tutorials for Beginners (with notes & practice questions)](https://www.youtube.com/watch?v=irqbmMNs2Bo) - Apna College
 * [C tutorial for beginners](https://www.youtube.com/playlist?list=PLZPZq0r_RZOOzY_vR4zJM32SqsSInGMwe) - Bro Code
 * [Learn C Programming](https://www.programiz.com/c-programming) - Programiz (HTML)
 * [Programming in C](https://www.youtube.com/playlist?list=PLdo5W4Nhv31a8UcMN9-35ghv8qyFWD9_S) - Jenny's lectures CS/IT NET&JRF
-* [The Arduino Platform and C Programming](https://www.coursera.org/learn/arduino-platform)
+* [The Arduino Platform and C Programming](https://www.coursera.org/learn/arduino-platform) - Ian Harris (Coursera)
 
 
 ### <a id="csharp"></a>C\#
@@ -403,7 +402,7 @@
 
 ### Clojure
 
-* [Clojure language Tutorial - for Beginners](https://www.youtube.com/watch?v=zFPiPBIkAcQ)
+* [Clojure language Tutorial - for Beginners](https://www.youtube.com/watch?v=zFPiPBIkAcQ) - it learning
 * [Clojure Tutorial](https://www.youtube.com/watch?v=ciGyHkDuPAE) - Derek Banas
 * [Functional Programming with Clojure](http://mooc.fi/courses/2014/clojure/)
 * [Poetry of Programming - Clojure for Beginners](https://www.youtube.com/playlist?list=PLI-mrGTUXmHXeKhy6UGdDxIKwM8L4MTbq) - Attila EGRI-NAGY
@@ -563,9 +562,10 @@
 * [Database Management Systems](https://www.youtube.com/playlist?list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ) - Neso Academy
 * [Database Systems](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/) (MIT's opencourseware)
 * [Database Systems - Cornell University Course (SQL, NoSQL, Large-Scale Data Analysis)](https://www.youtube.com/watch?v=4cWkVbC2bNE) - Professor Immanuel Trummer, freeCodeCamp.org
+* [Databases in Depth](https://www.youtube.com/playlist?list=PLliXPok7ZonnALnedG5doBOSCXlU14yJF) - Keerti Purswani
 * [DBMS Course - Master the Fundamentals and Advanced Concepts](https://www.scaler.com/topics/course/dbms/) - A course by Srikanth Varma, Lead DSML Instructor at Scaler
 * [DBMS for GATE Exams](https://www.youtube.com/playlist?list=PLWPirh4EWFpGrpcMfZ6UcdI786QdtSxV8) - Tutorialspoint
-* [DBMS Placement Series](https://www.youtube.com/playlist?list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU) - CodeHelp by Babbar>>>>>>> main
+* [DBMS Placement Series](https://www.youtube.com/playlist?list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU) - CodeHelp by Babbar
 * [DML Server Administration](https://alison.com/course/databases-dml-statements-and-sql-server-administration-revised) (Alison)
 * [Introduction to Databases](https://lagunita.stanford.edu/courses/Engineering/db/2014_1/about) (Stanford University)
 * [Introduction to the Fundamentals of Databases](https://www.simplilearn.com/learn-basics-of-databases-free-course-skillup) (Simplilearn)
@@ -842,7 +842,7 @@
 * [Conquering freeCodeCamp's Curriculum](https://www.youtube.com/playlist?list=PLgBH1CvjOA62oNEVgz-dECiCZCE_Q3ZFH) - Florin Pop
 * [CSS Flexbox - Mastering the Basics](https://www.udemy.com/css-flexbox-mastering-the-basics/) - Vishwas Gopinath (Udemy)
 * [CSS Grid](https://cssgrid.io) - Wesbos
-* [CSS Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWqMH9a9DY8LFKrJ5NJCFHHe)
+* [CSS Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWqMH9a9DY8LFKrJ5NJCFHHe) - The Bad Tutorials
 * [CSS Tutorials](https://www.youtube.com/playlist?list=PLDyQo7g0_nsUjf046cCHKJ16U1SoXrElZ) - Dev Ed
 * [CSS3 tutorial for beginners \| Learn CSS3](https://www.udemy.com/course/css3-tutorial-for-beginners-learn-css3/) - Udemy
 * [Flexbox in 30 Days](https://github.com/samanthaming/Flexbox30) - Samantha Ming
@@ -987,7 +987,7 @@
 * [JavaScript Leetcode](https://www.youtube.com/playlist?list=PLRKOqqzwh75hcG_D4xjUgbg_BAF3MLtoh) - Endeavour Monk
 * [JavaScript Mini Course 2020](https://www.udemy.com/course/javascript-essentials-mini-course/) - Kalob Taulien (Udemy)
 * [JavaScript Projects For Beginners \| Easy To Advance](https://youtube.com/playlist?list=PL9bD98LkBR7P16BndaNtP4x6Wf5Ib85Hm) - Tech2 etc
-* [JavaScript Tutorial for Beginners](https://www.youtube.com/playlist?list=PLK8cqdr55Tsva3vMrKZ9u2eAuGo0wIJ46) - Code With Harry
+* [JavaScript Tutorial for Beginners](https://www.youtube.com/playlist?list=PLK8cqdr55Tsva3vMrKZ9u2eAuGo0wIJ46) - ProgrammingWithHarry
 * [JavaScript Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET) - The Net Ninja
 * [JavaScript Tutorial for beginners](https://www.youtube.com/watch?v=W6NZfCO5SIk) - Moshfegh Hamedani (Programming with Mosh)
 * [JavaScript Tutorial for Beginners - Full Course in 8 Hours [2020]](https://www.youtube.com/watch?v=Qqx_wzMmFeA) - Clever Programmer
@@ -1086,6 +1086,7 @@
 
 * [A Beginner's Guide to Node.js](https://www.udemy.com/course/a-beginners-guide-to-nodejs) - DSC VIT Powered by Google Developers, Md Hishaam Akhtar (Udemy)
 * [Beginner's Series to: Node.js](https://www.youtube.com/playlist?list=PLlrxD0HtieHje-_287YJKhY8tDeSItwtg) - Microsoft Developer
+* [Build a Bank App ...From Scratch](https://www.youtube.com/playlist?list=PL8YhozOQUteYwa13S-PGUNMM37gv7gEVq) - Ugwu Somto
 * [Build JavaScript applications with Node.js](https://learn.microsoft.com/en-us/training/paths/build-javascript-applications-nodejs) - Microsoft Learn
 * [Building a RESTful API with Node.js](https://www.youtube.com/playlist?list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q) - Academind
 * [Data brokering with Node.js: Process data at the speed of technology](https://heynode.com) - Osio Labs Inc. *(signup requested, not required)*
@@ -1444,7 +1445,7 @@
 
 ### Processing
 
-* [Learning Processing: A Beginner's Guide to Programming Images, Animation, and Interaction](https://www.youtube.com/c/TheCodingTrain/playlists?view=50&sort=dd&shelf_id=10) - The Coding Train
+* [Learning Processing: A Beginner's Guide to Programming Images, Animation, and Interaction](https://thecodingtrain.com/tracks/learning-processing) - The Coding Train
 
 
 ### Python
@@ -1489,6 +1490,7 @@
 * [Python Course](https://www.python-course.eu)
 * [Python Course from scratch](https://scrimba.com/playlist/pNpZMAB) - Olaf Paulson (scrimba)
 * [Python Data Analysis](https://www.coursera.org/learn/python-analysis) - Scott Rixner, Joe Warren (Coursera)
+* [Python for Beginners](https://alison.com/course/python-for-beginners) - Merul Dhiman (Alison)
 * [Python for Beginners](https://www.youtube.com/playlist?list=PLUaB-1hjhk8GHKfndKjyDMHPg_HlQ4vpK) - Alex The Analyst
 * [Python for Beginners (Full Course)](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3) - Telusko
 * [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai) - Joseph Santarcangelo (Coursera)

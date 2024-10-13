@@ -137,6 +137,7 @@
 * [Arduino Programming In Hindi (Full Playlist)](https://www.youtube.com/watch?v=KOa1aVijhao) - SBS online classes
 * [Arduino Programming Series (हिंदी में)](https://www.youtube.com/playlist?list=PLV3C-t_tgjGFyXP_-AF37AoIuxM9jzELM) - Engineers & Electronics
 * [Complete Arduino Tutorial Learn Arduino Programming in Hindi](https://www.youtube.com/playlist?list=PLg2KtP8cgLjzNu5G2bQQLxFeBiqk8IO0s) - Techtalks With Vivek
+* [Learn Arduino in Hindi](https://www.youtube.com/playlist?list=PLVl__93X7ZlxnDtEY1_ibH-fECYEAKAQC) - TEKNOISTIX
 
 
 ### Artificial Intelligence
@@ -180,6 +181,7 @@
 * [C Language Tutorial For Beginners In Hindi (With Notes)](https://www.youtube.com/watch?v=ZSPZob_1TOk) - CodeWithHarry
 * [C Language Tutorial in Hindi](https://www.youtube.com/playlist?list=PLmRclvVt5DtksgReOH3s7R1_cb1QA8vrb) - codeitup
 * [C Language Tutorials In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR) - CodeWithHarry
+* [C Programming Course](https://www.youtube.com/playlist?list=PLxgZQoSe9cg1drBnejUaDD9GEJBGQ5hMt) - College Wallah
 * [C Programming Tutorials](https://www.youtube.com/playlist?list=PLiOa6ike4WAHH3HyPUu6pUG-r0LApvW-l) - Vikas Pandey, easytuts4you
 
 
@@ -201,7 +203,6 @@
 ### <a id="cpp"></a>C++
 
 * [C++ and DSA Foundation Course](https://www.youtube.com/playlist?list=PLxgZQoSe9cg0df_GxVjz3DD_Gck5tMXAd) - College Wallah
-* [C++ Basics in One Shot - Strivers A2Z DSA Course - L1](https://www.youtube.com/watch?v=EAR7De6Goz4) - Take U Forward
 * [C++ Full Course \| C++ Tutorial \| Data Structures & Algorithms](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ) - Apna College
 * [C++ Full Course \|Complete C++ Placement DSA Course\| Data Structures & Algorithms](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA) - CodeHelp - by Babbar
 * [C++ Programming in Hindi](https://www.mygreatlearning.com/academy/learn-for-free/courses/c-programming-in-hindi1) - Bharani Akella (My Great Learning)
@@ -376,6 +377,7 @@
 * [Go Lang Tutorials in HINDI](https://www.youtube.com/playlist?list=PL45_xGOyv4bk55CMmqH6S6vvnwKD8qifD) - Coder Singh
 * [Go programming (GoLang) Tutorial for Beginners in Hindi](https://www.youtube.com/playlist?list=PLEtkoO2np9szq1XDH1Mfr36Fg5EXh-z20) - Host Progrmming
 * [Go programming Tutorial for Beginners(Hindi)](https://www.youtube.com/playlist?list=PLgPJX9sVy92yu7If3I7GonlWA8YU1BuAk) - CS Geeks
+* [Golang Tutorial](https://www.youtube.com/playlist?list=PLXQpH_kZIxTWUe-Ee-DZEX5gfeoo4tHV6) - Coder's Gyan
 * [Let's go with golang](https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa) - Hitesh Choudhary
 
 
@@ -763,7 +765,9 @@
 
 ### Solidity
 
+* [Solidity ^0.8 \| Blockchain \| In Hindi](https://www.youtube.com/playlist?list=PL-Jc9J83PIiG6_thChXWzolj9BEG-Y0gh) - Pepcoding
 * [Solidity Full Course](https://www.youtube.com/playlist?list=PLgPmWS2dQHW9u6IXZq5t5GMQTpW7JL33i) - Code Eater
+* [Solidity full course for beginners in Hindi](https://www.youtube.com/playlist?list=PLR0uCBk15bq9a__TgfcZ7oA73MTEZ3NOK) - web3Mantra
 
 
 ### Swift

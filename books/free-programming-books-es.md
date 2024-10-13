@@ -138,6 +138,7 @@
 
 * [Aprenda C++ avanzado como si estuviera en primero](https://web.archive.org/web/20100701020037/http://www.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/cpp/avanzado/cppavan.pdf) - Paul Bustamante, Iker Aguinaga, Miguel Aybar, Luis Olaizola, Iñigo Lazcano (PDF)
 * [Aprenda C++ básico como si estuviera en primero](https://web.archive.org/web/20100701020025/http://www.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/cpp/basico/cppbasico.pdf) - Paul Bustamante, Iker Aguinaga, Miguel Aybar, Luis Olaizola, Iñigo Lazcano (PDF)
+* [Curso de C++](https://conclase.net/c/curso) - Salvador Pozo (HTML)
 * [Ejercicios de programación creativos y recreativos en C++](http://antares.sip.ucm.es/cpareja/libroCPP/) - Luis Llana, Carlos Gregorio, Raquel Martínez, Pedro Palao, Cristóbal Pareja (HTML)
 
 
@@ -213,6 +214,7 @@
 * [JavaScript, ¡Inspírate!](https://leanpub.com/javascript-inspirate) - Ulises Gascón González (Leanpub cuenta requerida)
 * [JavaScript Definitivo Vol. I](https://github.com/afuggini/javascript-definitivo-vol1) - Ariel Fuggini (HTML)
 * [JavaScript Para Gatos](https://jsparagatos.com) - Maxwell Ogden, `trl.:` Dan Zajdband (HTML)
+* [Learn JavaScript](https://javascript.sumankunwar.com.np/es) - Suman Kumar, Github Contributors (HTML, PDF)
 * [Manual de JavaScript](https://desarrolloweb.com/manuales/manual-javascript.html#capitulos20) (HTML)
 
 

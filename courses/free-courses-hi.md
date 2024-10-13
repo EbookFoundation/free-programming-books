@@ -727,7 +727,7 @@
 
 ### Ruby
 
-* [Complete Ruby Programming Course \|\| Hindi](https://www.youtube.com/results?search_query=Ruby+Course+in+Hindi) - CS Geeks
+* [Complete Ruby Programming Course \|\| Hindi](https://www.youtube.com/playlist?list=PLgPJX9sVy92y_ENwi_4hMCpDtQFnazFPp) - CS Geeks
 * [Learn Ruby in 45 Minutes \| Hindi](https://www.youtube.com/watch?v=3V9a_WYEQPA) - CS Geeks
 
 

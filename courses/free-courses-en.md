@@ -266,13 +266,17 @@
 * [Artificial Intelligence on Google Cloud Platform](https://www.youtube.com/playlist?list=PL3N9eeOlCrP6Nhv4UFp67IsQ_TVDpXqXK) - Srivatsan Srinivasan @ AIEngineering
 * [Artificial Intelligence Search Methods For Problem Solving](https://www.youtube.com/playlist?list=PLbMVogVj5nJSFZoiF6RDqyz_m6Srjx_MY) - nptelhrd
 * [AWS Certified AI Practitioner (AIF-C01)](https://www.youtube.com/watch?v=WZeZZ8_W-M4) - Andrew Brown (FreeCodeCamp)
+* [Community Computer Vision Course](https://huggingface.co/learn/computer-vision-course) - Hugging Face
 * [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/) - Brian Yu, David J. Malan (Harvard OpenCourseWare and edX)
+* [Deep Reinforcement Learning Course](https://huggingface.co/learn/deep-rl-course) - Hugging Face
+* [Diffusion Course](https://huggingface.co/learn/diffusion-course) - Hugging Face
 * [Elements of AI](https://www.elementsofai.com) - University of Helsinki, Reaktor
 * [Have fun Staying Home And Learning AI - SHALA2020](https://shala2020.github.io) - IIT BOMBAY
 * [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer) - Romeo Kienzler, Saeed Aghabozorgi, Joseph Santarcangelo, Alex Aklson et al. (Coursera)
 * [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow) - DeepLearning.ai (Coursera)
 * [MIT Deep Learning and Artificial Intelligence Lectures](https://deeplearning.mit.edu) - Lex Fridman, et al.
 * [MIT's Artificial Intelligence](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) - Patrick Henry Winston (MIT OpenCourseWare)
+* [NLP Course](https://huggingface.co/learn/nlp-course) - Hugging Face
 * [NYU Artificial Intelligence SP24](https://www.youtube.com/playlist?list=PLLHTzKZzVU9cH26X9VQ14lIA0aPwZiZTx) - Alfredo Canziani, Ernest Davis
 * [Stanford CS221: Artificial Intelligence: Principles and Techniques \| Autumn 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX) - Stanford Online
 
@@ -649,6 +653,7 @@
 * [Ansible for the Absolute Beginner - DevOps](https://www.udemy.com/course/ansible-for-the-absolute-beginner-devops) -  Vijay Patel (Udemy)
 * [AWS Provisioning using Ansible with real-time examples](https://www.udemy.com/course/aws-provisioning-using-ansible-with-real-time-examples) - Narendra P (Udemy)
 * [DevOps: Beginner's Guide To Automation With Ansible](https://www.udemy.com/course/devops-beginners-guide-to-automation-with-ansible) - TetraNoodle Team, Manuj Aggarwal (Udemy)
+* [Getting Started with Ansible](https://www.youtube.com/playlist?list=PLT98CRl2KxKEUHie1m24-wkyHpEsa4Y70) - Learn Linux TV
 * [Red Hat Ansible Automation for SAP (RH045)](https://www.udemy.com/course/red-hat-ansible-automation-for-sap) - Red Hat, Inc. (Udemy)
 * [Use Ansible with Amazon Web Services](https://www.udemy.com/course/ansible-aws) - Rohit Abraham (Udemy)
 
@@ -1183,6 +1188,7 @@
 * [Introduction to TypeScript](https://www.udemy.com/typescript/) - Daniel Stern (Udemy)
 * [Learn TypeScript](https://www.codecademy.com/learn/learn-typescript) - (CodeAcademy)
 * [Learn TypeScript](https://scrimba.com/learn/typescript) - Ania Kubow (Scrimba)
+* [Typescript](https://www.youtube.com/playlist?list=PLRAV69dS1uWRPSfKzwZsIm-Axxq-LxqhW) - Hitesh Choudhary
 * [TypeScript Course for Beginners- Learn TypeScript from Scratch!](https://www.youtube.com/watch?v=BwuLxPH8IDs) - Academind
 * [TypeScript Fast Crash Course](https://www.udemy.com/typescript-fast-crash-course/) - Edwin Diaz, Coding Faculty Solutions (Udemy)
 * [TypeScript Tutorial for Beginners - 2022](https://www.youtube.com/watch?v=d56mG7DezGs) - Programming with Mosh
@@ -1488,6 +1494,7 @@
 * [Python Course](https://www.python-course.eu)
 * [Python Course from scratch](https://scrimba.com/playlist/pNpZMAB) - Olaf Paulson (scrimba)
 * [Python Data Analysis](https://www.coursera.org/learn/python-analysis) - Scott Rixner, Joe Warren (Coursera)
+* [Python for Beginners](https://alison.com/course/python-for-beginners) - Merul Dhiman (Alison)
 * [Python for Beginners](https://www.youtube.com/playlist?list=PLUaB-1hjhk8GHKfndKjyDMHPg_HlQ4vpK) - Alex The Analyst
 * [Python for Beginners (Full Course)](https://www.youtube.com/playlist?list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3) - Telusko
 * [Python for Data Science, AI & Development](https://www.coursera.org/learn/python-for-applied-data-science-ai) - Joseph Santarcangelo (Coursera)

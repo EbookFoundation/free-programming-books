@@ -134,6 +134,7 @@
 
 ### Arduino
 
+* [Arduino project in hindi](https://www.youtube.com/playlist?list=PLLpp1gWWec-Fj93mz9kfflp_ovplKCpR4) -  Praveen Innovation Lab
 * [Arduino Programming In Hindi (Full Playlist)](https://www.youtube.com/watch?v=KOa1aVijhao) - SBS online classes
 * [Arduino Programming Series (हिंदी में)](https://www.youtube.com/playlist?list=PLV3C-t_tgjGFyXP_-AF37AoIuxM9jzELM) - Engineers & Electronics
 * [Complete Arduino Tutorial Learn Arduino Programming in Hindi](https://www.youtube.com/playlist?list=PLg2KtP8cgLjzNu5G2bQQLxFeBiqk8IO0s) - Techtalks With Vivek

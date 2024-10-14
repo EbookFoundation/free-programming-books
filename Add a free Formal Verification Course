@@ -1,0 +1,28 @@
+# Simple Propositional Logic Evaluator in Python
+
+def evaluate_proposition(proposition, variables):
+    """
+    Evaluates a propositional logic expression.
+    
+    :param proposition: A string representing the proposition (e.g., "A and B")
+    :param variables: A dict mapping variable names to boolean values (e.g., {'A': True, 'B': False})
+    :return: The result of the proposition evaluation
+    """
+    # Replace variable names with their boolean values
+    for var, val in variables.items():
+        proposition = proposition.replace(var, str(val))
+    
+    # Replace logical operators with Python equivalents
+    proposition = proposition.replace("and", "and")
+    proposition = proposition.replace("or", "or")
+    proposition = proposition.replace("not", "not")
+    proposition = proposition.replace("implies", "or not")
+    proposition = proposition.replace("iff", "==")
+    
+    return eval(proposition)
+
+# Example usage
+prop = "A and (B or not C)"
+vars = {'A': True, 'B': False, 'C': True}
+result = evaluate_proposition(prop, vars)
+print(f"The proposition '{prop}' evaluates to {result}")

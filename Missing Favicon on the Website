@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Website Title</title>
+
+    <!-- Favicon in .ico format -->
+    <link rel="icon" href="/favicon/favicon.ico" type="image/x-icon">
+
+    <!-- Favicon in .png format for modern browsers -->
+    <link rel="icon" href="/favicon/favicon-32x32.png" sizes="32x32" type="image/png">
+    <link rel="icon" href="/favicon/favicon-16x16.png" sizes="16x16" type="image/png">
+
+    <!-- SVG Favicon for scalability -->
+    <link rel="icon" href="/favicon/favicon.svg" type="image/svg+xml">
+
+    <!-- Apple Touch Icon for iOS devices -->
+    <link rel="apple-touch-icon" href="/favicon/apple-touch-icon.png" sizes="180x180">
+
+    <!-- Manifest for Progressive Web Apps (optional) -->
+    <link rel="manifest" href="/favicon/site.webmanifest">
+</head>
+<body>
+    <!-- Your website content -->
+</body>
+</html>
+<link rel="icon" href="/favicon/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon/favicon-32x32.png" sizes="32x32" type="image/png">
+<link rel="icon" href="/favicon/favicon-16x16.png" sizes="16x16" type="image/png">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formal Verification Course</title>
+
+    <!-- Favicon in .ico format -->
+    <link rel="icon" href="/favicon/favicon.ico" type="image/x-icon">
+
+    <!-- Favicon in .png format for modern browsers -->
+    <link rel="icon" href="/favicon/favicon-32x32.png" sizes="32x32" type="image/png">
+    <link rel="icon" href="/favicon/favicon-16x16.png" sizes="16x16" type="image/png">
+
+    <!-- SVG Favicon for scalability -->
+    <link rel="icon" href="/favicon/favicon.svg" type="image/svg+xml">
+
+    <!-- Apple Touch Icon for iOS devices -->
+    <link rel="apple-touch-icon" href="/favicon/apple-touch-icon.png" sizes="180x180">
+
+    <!-- Manifest for Progressive Web Apps -->
+    <link rel="manifest" href="/favicon/site.webmanifest">
+
+    <!-- Your CSS Files -->
+    <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to the Formal Verification Course</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Course Overview</h2>
+            <p>This course covers the fundamentals of formal verification, including logic, model checking, and theorem proving.</p>
+        </section>
+        <!-- Additional course content -->
+    </main>
+    <footer>
+        <p>&copy; 2024 Your Name or Organization</p>
+    </footer>
+
+    <!-- Your JavaScript Files -->
+    <script src="/js/scripts.js"></script>
+</body>
+</html>
+  <!-- Your CSS Files -->
+
+{
+  "name": "Formal Verification Course",
+  "short_name": "FormalVerif",
+  "icons": [
+    {
+      "src": "/favicon/favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon/favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff"
+}
+/* Basic styling for the Formal Verification Course website */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header, footer {
+    background-color: #f8f9fa;
+    text-align: center;
+    padding: 20px 0;
+}
+
+main {
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #343a40;
+}

@@ -55,7 +55,6 @@
 ### Git
 
 * [Belajar Git untuk Pemula](https://github.com/petanikode/belajar-git) - Ahmad Muhardian, Petani Kode (HTML)
-* [Dasar Pemrograma Golang](https://santrikoding.com/ebook/dasar-pemrograman-golang) - Ebook dari Santri Koding
 * [Pro Git 2nd Edition](https://git-scm.com/book/id/) - Scott Chacon, Ben Straub (HTML)
 * [Tutorial Belajar Git dan GitHub untuk Pemula](https://tutorial-git.readthedocs.io/_/downloads/id/latest/pdf/) - Hendy Irawan - (PDF)
 
@@ -64,6 +63,7 @@
 
 * [Belajar Dengan Jenius Golang](https://raw.githubusercontent.com/gungunfebrianza/Belajar-Dengan-Jenius-Golang/master/Belajar%20Dengan%20Jenius%20Golang.pdf) - Gun Gun Febrianza (PDF)
 * [Dasar Pemrograman Golang](https://dasarpemrogramangolang.novalagung.com) - Noval Agung Prayogo
+* [Dasar Pemrograman Golang](https://santrikoding.com/ebook/dasar-pemrograman-golang) - Santri Koding Ebook
 * [Mari Belajar Golang](https://www.smashwords.com/books/view/938003) - Risal (PDF)
 
 

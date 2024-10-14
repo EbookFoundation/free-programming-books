@@ -69,7 +69,6 @@
 
 ### HTML and CSS
 
-* [BELAJAR WEB PROGRAMMING: Referensi Pengenalan Dasar Tahapan Belajar Pemrograman Web Untuk Pemula](https://www.researchgate.net/publication/372959551_BELAJAR_WEB_PROGRAMMING_Referensi_Pengenalan_Dasar_Tahapan_Belajar_Pemrograman_Web_Untuk_Pemula) - Haris Kurniawan, S.Pd, M.Kom, dkk.
 * [Ebook Belajar HTML Dan CSS Dasar](https://www.malasngoding.com/download-ebook-belajar-html-dan-css-dasar-gratis/)
 * [Ebook HTML CSS Manual Dasar](https://github.com/LIGMATV/LIGMATV/wiki/Ebook-HTML-CSS-Manual-Dasar) - Muhammad Danish Naufal (PDF, DOCX)
 * [Tutorial Dasar CSS untuk Pemula](https://www.petanikode.com/tutorial/css/) - Ahmad Muhardian (Petani Kode) *(:construction: dalam proses)*

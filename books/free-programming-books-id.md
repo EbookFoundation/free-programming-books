@@ -12,6 +12,7 @@
 * [Java](#java)
 * [JavaScript](#javascript)
     * [Angular](#angular)
+    * [Astro](#astro)
     * [Deno](#deno)
     * [Next.js](#nextjs)
     * [React.js](#reactjs)
@@ -111,6 +112,11 @@
 
 * [Tutorial Angular Indonesia](https://degananda.com/tutorial-angular-indonesia-daftar-isi-download-pdf/) - Degananda Ferdian Priyambada (HTML)
 * [Tutorial Series Belajar Angular 2019](https://www.bewoksatukosong.com/2019/09/tutorial-series-belajar-angular-2019.html) - Bewok Satu Kosong (HTML)
+
+
+#### Astro
+
+* [Framework Astro: Mengembangkan Aplikasi dengan Mudah dan Cepat](https://www.kevintekno.com/2023/06/framework-astro-mengembangkan-aplikasi.html) - Kevin Tekno
 
 
 #### Deno

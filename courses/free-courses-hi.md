@@ -189,6 +189,7 @@
 ### <a id="csharp"></a>C\#
 
 * [Basic C# Programming Tutorials](https://www.youtube.com/playlist?list=PLCqWuVe6WFLLmMTO44hpYKnptJ6765skH) -  Sunny Games & Technology
+* [C# Programming Complete in Hindi By Arvind](https://www.youtube.com/playlist?list=PLOd2apPiwn-Z8GJiZs5HYb7HoiVvTV9H7) - Sarkar Study Waves Education
 * [C# Programming language (Console Applications)](https://www.youtube.com/playlist?list=PLX07l0qxoHFLZftsVKyj3k9kfMca2uaPR) - Learning Never Ends 
 * [C# Tutorial In Hindi](https://www.youtube.com/watch?v=SuLiu5AK9Ps) - CodeWithHarry
 * [C# Tutorial in Hindi for Beginners](https://www.youtube.com/playlist?list=PLV8vIYTIdSnYTYr0bmIbfzYii0YQSPocB) - Easy Engineering Classes

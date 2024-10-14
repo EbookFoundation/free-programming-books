@@ -136,6 +136,7 @@
 
 * [Arduino Programming In Hindi (Full Playlist)](https://www.youtube.com/watch?v=KOa1aVijhao) - SBS online classes
 * [Arduino Programming Series (हिंदी में)](https://www.youtube.com/playlist?list=PLV3C-t_tgjGFyXP_-AF37AoIuxM9jzELM) - Engineers & Electronics
+* [Arduino project in hindi](https://www.youtube.com/playlist?list=PLLpp1gWWec-Fj93mz9kfflp_ovplKCpR4) -  Praveen Innovation Lab
 * [Complete Arduino Tutorial Learn Arduino Programming in Hindi](https://www.youtube.com/playlist?list=PLg2KtP8cgLjzNu5G2bQQLxFeBiqk8IO0s) - Techtalks With Vivek
 * [Learn Arduino in Hindi](https://www.youtube.com/playlist?list=PLVl__93X7ZlxnDtEY1_ibH-fECYEAKAQC) - TEKNOISTIX
 
@@ -143,6 +144,7 @@
 ### Artificial Intelligence
 
 * [Artificial Intelligence (Complete Playlist)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiHGhOHV-nwb0HR5US5GFKFI) - Gate Smashers
+* [Artificial Intelligence Lectures Hindi](https://www.youtube.com/playlist?list=PLV8vIYTIdSnYsdt0Dh9KkD9WFEi7nVgbe) - Easy Engineering Classes
 * [Generative AI Series - Showcasing Generative AI By Building Projects](https://www.youtube.com/playlist?list=PLu0W_9lII9aiS4rUVp2jXwIvCruo27sG6) - CodeWithHarry
 * [Playlist to Artificial Intelligence ](https://www.youtube.com/playlist?list=PLPIwNooIb9vgB1DQEftkKA3qOdeC4vonA) - Perfect Computer Engineer
 * [Prompt Engineering Full Course in Hindi (beginner to Master)](https://www.youtube.com/playlist?list=PLyz4Eb45WBQ02Md7BiIO1sUsKTs8GcWKS) - EduExpress
@@ -188,6 +190,7 @@
 ### <a id="csharp"></a>C\#
 
 * [Basic C# Programming Tutorials](https://www.youtube.com/playlist?list=PLCqWuVe6WFLLmMTO44hpYKnptJ6765skH) -  Sunny Games & Technology
+* [C# Programming Complete in Hindi By Arvind](https://www.youtube.com/playlist?list=PLOd2apPiwn-Z8GJiZs5HYb7HoiVvTV9H7) - Sarkar Study Waves Education
 * [C# Programming language (Console Applications)](https://www.youtube.com/playlist?list=PLX07l0qxoHFLZftsVKyj3k9kfMca2uaPR) - Learning Never Ends 
 * [C# Tutorial In Hindi](https://www.youtube.com/watch?v=SuLiu5AK9Ps) - CodeWithHarry
 * [C# Tutorial in Hindi for Beginners](https://www.youtube.com/playlist?list=PLV8vIYTIdSnYTYr0bmIbfzYii0YQSPocB) - Easy Engineering Classes
@@ -223,9 +226,8 @@
 * [Cloud Computing](https://www.youtube.com/playlist?list=PLYwpaL_SFmcCyQH0n9GHfwviu6KeJ46BV) - 5 Minutes Engineering
 * [Cloud Computing](https://www.youtube.com/playlist?list=PLDN4rrl48XKqNsrDogCpHsul3UHMC0Wdq) - Abdul Bari
 * [Cloud Computing Course Free](https://www.youtube.com/watch?v=lae0mfHBSjk) - Intellipaat
-* [Cloud Computing Full Course In 11 Hours](https://www.youtube.com/watch?v=2LaAJq1lB1Q) - Edureka
 * [Cloud Computing Tutorial](https://www.youtube.com/playlist?list=PL-JvKqQx2AtfQ8cGyKsFE7Tj2FyB1yCkd) - University Academy
-* [NPTEL Cloud Computing Course](https://www.youtube.com/playlist?list=PLShJJCRzJWxhz7SfG4hpaBD5bKOloWx9J) - NPTEL  
+ 
 
 
 #### AWS
@@ -284,7 +286,6 @@
 * [Complete C++ Placement DSA Course](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA) - CodeHelp by Babbar
 * [Data Structure And Algorithms Course \| DSA Tutorial in Hindi](https://www.youtube.com/playlist?list=PLmGElG-9wxc9Us6IK6Qy-KHlG_F3IS6Q9) - ScoreShala
 * [Data Structure Programs \| Hindi](https://www.youtube.com/playlist?list=PLsFNQxKNzefJU-Sj__mljvrmJHZVKWbEm) - Saurabh Shukla
-* [Data Structures and Algorithms](https://www.youtube.com/playlist?list=PLdo5W4Nhv31bbKJzrsKfMpo_grxuLl8LU) - Jenny's Lectures CS IT
 * [Data Structures and Algorithms Course in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi) - CodeWithHarry
 * [DSA-One Course- The Complete Data Structure and Algorithms Course](https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p) - Anuj Bhaiya
 * [Functions and Arrays - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHOV7lm2uSw4ZiVsIRsGS6r) - Pepcoding
@@ -292,7 +293,6 @@
 * [Heap Playlist Interview Questions Coding Tutorials Data Structures](https://youtube.com/playlist?list=PL_z_8CaSLPWdtY9W22VjnPxG30CXNZpI9) - Aditya Verma 
 * [Java + Data Structures + Algorithms](https://www.youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s) - Apni Kaksha
 * [Java + DSA](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop) - Apna College
-* [Java + DSA + Interview Preparation Course](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ) - Kunal Kushwaha
 * [Linked Lists - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_) - Pepcoding
 * [Simplified DSA with FRAZ](https://www.youtube.com/playlist?list=PLKZaSt2df1gy75J3irj89a2vSGqeQdtDA) - Fraz
 * [Stack Playlist \| Interview Questions \| Coding \| Tutorials \| Data Structures](https://www.youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd) - Aditya Verma
@@ -334,7 +334,6 @@
 * [Flutter 3 tutorial in Hindi](https://youtube.com/playlist?list=PLB97yPrFwo5g-XcPlfSXSOeeby23jVAcp) - CODERS NEVER QUIT
 * [Flutter App Development](https://www.youtube.com/playlist?list=PLlvhNpz1tBvH4Wn8rMjtscK3l2pXnC9aN) - Code With Dhruv
 * [Flutter Complete Tutorial in Hindi](https://www.youtube.com/playlist?list=PLjVLYmrlmjGfGLShoW0vVX_tcyT8u1Y3E) - WsCube Tech
-* [Flutter Essential Course](https://www.youtube.com/watch?v=Wdx8vwN_nWI) - freecodecamp
 * [Flutter Series 2020](https://www.youtube.com/playlist?list=PLDzeHZWIZsTo3Cs115GXkot28i406511Y) - CodeHelp - by Babbar
 * [Flutter Tutorial For Beginners in Hindi](https://www.youtube.com/playlist?list=PLMkkZSS5OjPIwDyHHKVex6zr008U1-sWM) - Geeks Rank
 * [Flutter Widgets in Hindi](https://www.youtube.com/playlist?list=PLz7ymP4HzwSH3vAnhDWLkO2TLbwGeigl7) - Ahirlog

@@ -736,6 +736,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [How to Make a Computer Operating System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - Samy Pesse  *(:construction: in process)*
 * [How to write a simple operating system in assembly language](https://mikeos.sourceforge.net/write-your-own-os.html) - Mike Saunders (HTML)
 * [Making Servers Work: A Practical Guide to Linux System Administration](https://www.digitalocean.com/community/books/sysadmin-ebook-making-servers-work) - Jamon Camisso (PDF, EPUB)
+* [Operating System Concepts, Ninth Edition](https://drive.uqu.edu.sa/_/mskhayat/files/MySubjects/2017SS%20Operating%20Systems/Abraham%20Silberschatz-Operating%20System%20Concepts%20(9th,2012_12).pdf) - Abraham Silberschatz, Peter Baer Galvin, Greg Gagne (PDF)
 * [Operating Systems and Middleware](https://gustavus.edu/mcs/max/os-book/) - Max Hailperin (PDF, LaTeX)
 * [Operating Systems: From 0 to 1](https://github.com/tuhdo/os01/releases/tag/0.0.1) - Tu, Ho Doang (PDF) (:construction: *in process*)
 * [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/) - Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau (PDF)

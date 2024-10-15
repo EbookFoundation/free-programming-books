@@ -17,7 +17,6 @@
 * [C++ Kannada | C++ in Kannada](https://youtube.com/playlist?list=PLwtDJD0gVvlWuWEreWPh_SCMfSyTWXZh7&si=CfexYXi1lnee8hLY) - Yuvaraj Madha  <!-- Added new playlists -->
 * [C++ Explained in Kannada](https://youtube.com/playlist?list=PLgfNsCf7RQxdD9jhefWsU3gCafyFLP9nr&si=k4a-dxlraKXyAFGz) - ISATDavanagere 
 
-
 ### HTML and CSS  
 
 * [CSS in Kannada (ಕನ್ನಡದಲ್ಲಿ) - Beginner to Advanced.](https://youtube.com/playlist?list=PLBGSzVCM24iHnpfOMnhuyiyEo_NGSxdPD) - DEBUG CODING

@@ -185,6 +185,7 @@
 * [Linux y Bash](https://aprendeaprogramar.com/course/view.php?id=10) - Javier Hernandez (Aprendeaprogramar.com)
 * [Lógica de programación](https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=7929) - Carlos Slim Foundation (cuenta requerida)
 * [Patrones de diseño](https://refactoring.guru/es/design-patterns) - Alexander Shvets (Refactoring.Guru)
+* [Primeros Pasos con Rust](https://learn.microsoft.com/es-es/training/paths/rust-first-steps) - Microsoft Learn
 * [Principios de PHP](https://programadorwebvalencia.com/cursos/php/base/) - Andros Fenollosa (Programador Web Valencia)
 * [Programación de computadoras](https://es.khanacademy.org/computing/computer-programming#programming) - Khan Academy
 * [Programación en entornos interactivos 'Qt - gtk' (2010)](https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-en-entornos-interactivos-2010.html)

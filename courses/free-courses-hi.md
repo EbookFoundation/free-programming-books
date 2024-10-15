@@ -468,9 +468,9 @@
 * [JavaScript Tutorial for beginners in Hindi / Urdu](https://www.youtube.com/playlist?list=PLw9zMOoodWb5YB2TqrboVoSBkCKaOsvE_) - Husain Sir
 * [JavaScript Tutorials for Beginners in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ahR1blWXxgSlL4y9iQBnLpR) - CodeWithHarry
 * [JavaScript Tutorials In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL) - CodeWithHarry
+* [JavaScript Full Course (2024) in Hindi](https://www.youtube.com/playlist?list=PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW) - Apna College
 * [Namaste JavaScript](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP) - Akshay Saini
 * [RxJS Series (In Hindi)](https://youtube.com/playlist?list=PLLhsXdvz0qjI68a8tLUUMyXmNhl608mcn) - UX Trendz
-* [JavaScript Full Course (2024) in Hindi](https://www.youtube.com/playlist?list=PLGjplNEQ1it_oTvuLRNqXfz_v_0pq6unW) - Apna College
 
 
 #### GSAP

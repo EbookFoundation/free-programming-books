@@ -1132,10 +1132,10 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### JavaScript
 
-* [Airbnb JavaScript Style Guide](https://airbnb.io/javascript/) - Airbnb (HTML)
+* [Airbnb JavaScript Style Guide](https://airbnb.io/javascript/) - Airbnb (HTML) (MIT)
 * [Basic JavaScript for the impatient programmer](http://www.2ality.com/2013/06/basic-javascript.html) - Axel Rauschmayer (HTML)
 * [Bible of JS](https://sheryians.com/download/bibleofjs_by_sheryians) - Harsh Sharma, Sheryians Coding School
-* [Book of Modern Frontend Tooling](https://github.com/tooling/book-of-modern-frontend-tooling) - Various (HTML)
+* [Book of Modern Frontend Tooling](https://github.com/tooling/book-of-modern-frontend-tooling) - Various (HTML) (CC BY-NC)
 * [Building Front-End Web Apps with Plain JavaScript](https://web-engineering.info/JsFrontendApp-Book) - Gerd Wagner (HTML,PDF)
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript) - Ryan McDermott (HTML)
 * [Crockford's JavaScript](http://www.crockford.com/javascript/) - Douglas Crockford (HTML)

@@ -219,6 +219,7 @@
 * [Belajar Full-stack JavaScript Dengan Next.js Dalam 6 Jam](https://www.youtube.com/watch?v=kproo1ezjH0&t=2s) - Nauval, Array Id
 * [Belajar JavaScript](https://alwaysngoding.com/belajar-javascript/teori) - Muhammad Saleh Solahudin, Always Ngoding (account *required*)
 * [Belajar JavaScript Async](https://www.youtube.com/playlist?list=PL-CtdCApEFH-I4CD6km3BcXqrhWAkY4et) - Eko Kurniawan Khannedy, Programmer Zaman Now
+* [Belajar JavaScript Untuk Website](https://app.sko.dev/kelas/belajar-javascript-untuk-website) - sko.dev
 * [Dasar Pemrograman dengan JavaScriipt](https://www.youtube.com/playlist?list=PLFIM0718LjIWXagluzROrA-iBY9eeUt4w) - Web Programming UNPAS
 * [ExpressJS Tutorial Indonesia](https://www.youtube.com/playlist?list=PL9At9z2rvOC-sgzJx7rM_wMDONnEM4E0A) - Ekky Ridyanto (Balademy)
 * [JavaScript dan DOM (Document Object Model)](https://www.youtube.com/playlist?list=PLFIM0718LjIWB3YRoQbQh82ZewAGtE2-3) - Web Programming UNPAS

@@ -1546,7 +1546,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 * [An Introduction to Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html)
 * [GNU Emacs Lisp Reference Manual](http://www.gnu.org/software/emacs/manual/elisp.html)
-
+* [Emacs Programming](https://caiorss.github.io/Emacs-Elisp-Programming/Elisp_Programming.html)
 
 #### PicoLisp
 

@@ -71,6 +71,7 @@
 
 ### C
 
+* [C Tutorial](https://www.w3schools.com/c/) - W3Schools
 * [C Tutorial](https://www.scaler.com/topics/c/) - Scaler Topics
 * [Learn C](http://www.learn-c.org) - Learn-C
 

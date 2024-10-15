@@ -1610,7 +1610,7 @@
 ### Scala
 
 * [Functional Programming in Scala Specialization](https://www.coursera.org/course/reactive)
-* [Scala Tutorial](https://www.youtube.com/playlist?list=PLmtsMNDRU0BxryRX4wiwrTZ661xcp6VPM) - Rock the JVM (Youtube)
+* [Scala at Light Speed](https://www.youtube.com/playlist?list=PLmtsMNDRU0BxryRX4wiwrTZ661xcp6VPM) - Rock the JVM
 
 
 ### Security

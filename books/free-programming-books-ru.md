@@ -572,6 +572,7 @@
 * [История о PostgreSQL](http://www.inp.nsk.su/~baldin/PostgreSQL/index.html) - Linux Format
 * [Работа с PostgreSQL - настройка и масштабирование](http://postgresql.leopard.in.ua) - А. Ю. Васильев
 * [PostgreSQL для начинающих](https://postgrespro.ru/education/books/introbook) - Luzanov Pavel Veniaminovich, Rogov Yegor Valerievich, Levshin Igor Viktorovich (PDF)
+* [PostgreSQL. Основы языка SQL](https://postgrespro.ru/education/books/sqlprimer) - Моргунов Евгений Павлович (PDF)
 
 
 ### Swift

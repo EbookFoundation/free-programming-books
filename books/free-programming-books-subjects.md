@@ -90,9 +90,9 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 
 ### Algorithms & Data Structures
 
-* [A Field Guide To Genetic Programming](https://web.archive.org/web/20191020195105/http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/poli08_fieldguide.pdf) - Riccardo Poli, William B. Langdon, Nicholas F. McPhee (PDF) *(:card_file_box: archived)*
+* [A Field Guide To Genetic Programming](https://web.archive.org/web/20191020195105/http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/poli08_fieldguide.pdf) - Riccardo Poli, William B. Langdon, Nicholas F. McPhee (PDF) *(:card_file_box: archived)* (CC BY-NC-ND)
 * [Algorithm Design](https://archive.org/details/AlgorithmDesign1stEditionByJonKleinbergAndEvaTardos2005PDF) - Jon Kleinberg, Éva Tardos
-* [Algorithmic Graph Theory](https://code.google.com/p/graphbook/) - David Joyner, Minh Van Nguyen, David Phillips (PDF)
+* [Algorithmic Graph Theory](https://code.google.com/p/graphbook/) - David Joyner, Minh Van Nguyen, David Phillips (PDF) (GFDL)
 * [Algorithmic Thinking](https://labuladong.gitbook.io/algo-en) - Donglai Fu
 * [Algorithms](https://en.wikibooks.org/wiki/Algorithms) - Wikibooks
 * [Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf) - Jeff Erickson (PDF)
@@ -136,11 +136,12 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 
 ### Artificial Intelligence
 
+* [Artificial Intelligence, 3rd Edition (1993)](https://courses.csail.mit.edu/6.034f/ai3/rest.pdf) - Patrick Henry Winston (PDF)
 * [Artificial Intelligence and the Future for Teaching and Learning](https://www2.ed.gov/documents/ai-report/ai-report.pdf) - Office of Educational Technology (PDF)
 * [Artificial Intelligence for a Better Future: An Ecosystem Perspective on the Ethics of AI and Emerging Digital Technologies](https://link.springer.com/book/10.1007/978-3-030-69978-9) - Bernd Carsten Stahl (PDF, EPUB)
 * [Artificial Intelligence: Foundations of Computational Agents (2010), 1st Edition](https://artint.info/aifca1e.html) - David L. Poole, Alan K. Mackworth @ Cambridge University Press (HTML)
 * [Artificial Intelligence: Foundations of Computational Agents (2017), 2nd Edition](https://artint.info) - David L. Poole, Alan K. Mackworth @ Cambridge University Press (HTML, Slides)
-* [Clever Algorithms Nature-Inspired Programming Recipes](https://bjpcjp.github.io/pdfs/ruby/Clever-Algorithms.pdf) - Jason Brownlee (PDF)
+* [Clever Algorithms Nature-Inspired Programming Recipes](https://bjpcjp.github.io/pdfs/ruby/Clever-Algorithms.pdf) - Jason Brownlee (PDF) (CC BY-NC-SA)
 * [Getting Started with Artificial Intelligence , 2nd Edition](https://www.ibm.com/downloads/cas/OJ6WX73V) - Tom Markiewicz, Josh Zheng (PDF)
 * [Graph Representational Learning Book](https://www.cs.mcgill.ca/~wlh/grl_book/) - William L. Hamilton
 * [Introduction to Autonomous Robots](https://github.com/correll/Introduction-to-Autonomous-Robots/releases) - Nikolaus Correll (PDF)
@@ -170,6 +171,8 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 ### Cellular Automata
 
 * [A New Kind of Science](https://www.wolframscience.com/nksonline/toc.html) - Stephen Wolfram
+* [An Introduction to Cellular Automata](https://ia801004.us.archive.org/26/items/viviencellularautomata/vivien%20cellular%20automata.pdf) - Hélène Vivien (PDF)
+* [Introduction to the Modeling and Analysis of Complex Systems](https://milneopentextbooks.org/introduction-to-the-modeling-and-analysis-of-complex-systems/) - Hiroki Sayama
 
 
 ### Cloud Computing
@@ -223,7 +226,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 
 * [Basic Computer Architecture](https://www.cse.iitd.ac.in/~srsarangi/archbooksoft.html) - Smruti R. Sarangi (HTML, PDF, Slides, Videos)
 * [Computer Organization and Design Fundamentals](https://faculty.etsu.edu/tarnoff/138292) - David Tarnoff (PDF)
-* [Digital Circuit Projects: An Overview of Digital Circuits Through Implementing Integrated Circuits - Second Edition](https://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1000&context=oer) - Charles W. Kann (PDF)
+* [Digital Circuit Projects: An Overview of Digital Circuits Through Implementing Integrated Circuits - Second Edition](https://cupola.gettysburg.edu/cgi/viewcontent.cgi?article=1000&context=oer) - Charles W. Kann (PDF) (CC BY)
 * [Dive Into Systems: A Gentle Introduction to Computer Systems](https://diveintosystems.org) - Suzanne J. Matthews, Tia Newhall, Kevin C. Webb (HTML)
 
 
@@ -233,8 +236,8 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Computational Thinking](https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf) - Jeannette Wing, Carnegie-Mellon University (PDF)
 * [Computer Science Class XI](https://cbseacademic.nic.in/web_material/doc/cs/1_Computer-Science-Python-Book-Class-XI.pdf) - CBSE (PDF)
 * [Computer Science Class XII](https://cbseacademic.nic.in/web_material/doc/cs/2_Computer_Science_Python_ClassXII.pdf) - CBSE (PDF)
-* [Computer Science I](https://cse.unl.edu/~cbourke/ComputerScienceOne.pdf) - Chris Bourke (PDF)
-* [Computer Science II](https://cse.unl.edu/~cbourke/ComputerScienceTwo.pdf) - Chris Bourke (PDF)
+* [Computer Science I](https://cse.unl.edu/~cbourke/ComputerScienceOne.pdf) - Chris Bourke (PDF) (CC BY-SA) 
+* [Computer Science II](https://cse.unl.edu/~cbourke/ComputerScienceTwo.pdf) - Chris Bourke (PDF) (CC BY-SA)
 * [CS Principles: Big Ideas in Programming](https://www.openbookproject.net/books/StudentCSP/) - Mark Guzdial, Barbara Ericson (HTML)
 * [Pull Requests and Code Review](https://scs.tl/book-pr) – Sebastien Castiel
 * [What to Look for in a Code Review](https://leanpub.com/whattolookforinacodereview) - Trisha Gee (HTML, PDF, EPUB, Kindle) *(Leanpub account or valid email requested)*
@@ -254,7 +257,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [CI/CD for Monorepos: Effectively building, testing, and deploying code with monorepos](https://github.com/semaphoreci/book-monorepo-cicd) - Pablo Tomas Fernandez Zavalia, Marko Anastasov, SemaphoreCI (PDF, EPUB, Kindle)
 * [CI/CD with Docker and Kubernetes Book](https://github.com/semaphoreci/book-cicd-docker-kubernetes) - Marko Anastasov, Jérôme Petazzoni, Pablo Tom F. Zavalia, SemaphoreCI (PDF, EPUB, Kindle)
 * [Docker Jumpstart](https://odewahn.github.io/docker-jumpstart/) - Andrew Odewahn
-* [Docker Tutorial](https://people.irisa.fr/Anthony.Baire/docker-tutorial.pdf) - Anthony Baire (PDF)
+* [Docker Tutorial](https://people.irisa.fr/Anthony.Baire/docker-tutorial.pdf) - Anthony Baire (PDF) (CC BY-NC-ND)
 * [Docker Tutorial](https://www.tutorialspoint.com/docker/) - Tutorials Point (HTML, PDF)
 * [Dotnet Microservices Architecture for Containerized NET Applications](https://aka.ms/microservicesebook) - Cesar de la Torre, Bill Wagner, Mike Rousos (PDF)
 * [Kubernetes Deployment & Security Patterns](https://resources.linuxfoundation.org/LF+Projects/CNCF/TheNewStack_Book2_KubernetesDeploymentAndSecurityPatterns.pdf) - Alex Williams (PDF)
@@ -303,7 +306,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 ### Embedded Systems
 
 * [Control and Embedded Systems](http://www.learn-c.com) (HTML)
-* [Discovering the STM32 Microcontroller](http://www.cs.indiana.edu/~geobrown/book.pdf) (PDF)
+* [Discovering the STM32 Microcontroller](http://www.cs.indiana.edu/~geobrown/book.pdf) (PDF) (CC BY-NC-SA)
 * [First Steps with Embedded Systems](https://www.phaedsys.com/principals/bytecraft/bytecraftdata/bcfirststeps.pdf) - Byte Craft Limited (PDF)
 * [Introduction to Embedded Systems, Second Edition](https://ptolemy.berkeley.edu/books/leeseshia/releases/LeeSeshia_DigitalV2_2.pdf) - Edward Ashford Lee, Sanjit Arunkumar Seshia (PDF)
 * [Introduction to Microcontrollers](http://www.embeddedrelated.com/showarticle/453.php) (HTML)
@@ -439,11 +442,11 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Probabilistic Machine Learning - An Introduction](https://github.com/probml/pml-book/releases/latest/download/book1.pdf) - Kevin P. Murphy (PDF)
 * [Probabilistic Models in the Study of Language](https://idiom.ucsd.edu/~rlevy/pmsl_textbook/text.html) (Draft, with R code)
 * [Python Machine Learning Projects](https://www.digitalocean.com/community/books/python-machine-learning-projects-a-digitalocean-ebook) - Lisa Tagliaferri, Brian Boucheron, Michelle Morales, Ellie Birkbeck, Alvin Wan (PDF, EPUB, Kindle)
-* [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/RLbook2020.pdf) - Richard S. Sutton, Andrew G. Barto (PDF)
+* [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/RLbook2020.pdf) - Richard S. Sutton, Andrew G. Barto (PDF) (CC BY-NC-ND)
 * [Speech and Language Processing (3rd Edition Draft)](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) - Daniel Jurafsky, James H. Martin (PDF)
 * [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) - Trevor Hastie, Robert Tibshirani, and Jerome Friedman
 * [The LION Way: Machine Learning plus Intelligent Optimization](https://intelligent-optimization.org/LIONbook/lionbook_3v0.pdf) - Roberto Battiti, Mauro Brunato (PDF)
-* [The Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf) - François Fleuret (PDF)
+* [The Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf) - François Fleuret (PDF) (CC BY-NC-SA)
 * [The Mathematical Engineering of Deep Learning](https://deeplearningmath.org) - Benoit Liquet, Sarat Moka, Yoni Nazarathy
 * [The Mechanics of Machine Learning](https://mlbook.explained.ai) - Terence Parr, Jeremy Howard
 * [The Python Game Book](https://web.archive.org/web/20210308080726/https://thepythongamebook.com/en%3Astart) - Horst Jens *(:card_file_box: archived)*
@@ -504,6 +507,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Concepts & Applications of Inferential Statistics](http://vassarstats.net/textbook/)
 * [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook) - Stephen Boyd, Lieven Vandenberghe
 * [Coordinate Geometry (1911)](http://djm.cc/library/Coordinate_Geometry_Fine_Thompson_edited03.pdf) - Henry Buchard Fine, Henry Dallas Thompson (PDF)
+* [Course Of Linear Algebra And Multidimensional Geometry](https://arxiv.org/pdf/math/0405323) - Ruslan Sharipov(PDF)
 * [Differential Equations](http://tutorial.math.lamar.edu/Classes/DE/DE.aspx) - Paul Dawkins (PDF, use download menu to download)
 * [Differential Equations (1922)](http://djm.cc/library/Differential_Equations_Phillips_edited.pdf) - H. B. Phillips (PDF)
 * [Discrete Mathematics: An Open Introduction](https://discrete.openmathbooks.org/dmoi3.html) - Oscar Levin
@@ -659,6 +663,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Small Memory Software](https://smallmemory.charlesweir.com/book.html) - Charles Weir, James Noble (HTML)
 * [Software Technical Writing: A Guidebook](https://jamesg.blog/book.pdf) - James Gallagher (PDF)
 * [The Web Development Glossary](https://github.com/frontenddogma/web-development-glossary) – Jens Oliver Meiert
+* [Using Z Specification, Refinement, and Proof](http://www.usingz.com/usingz.pdf) -  Jim Woodcock, Jim Davies (PDF)
 * [Web Almanac](https://almanac.httparchive.org/static/pdfs/web_almanac_2019_en.pdf) (PDF)
 * [Writing Native Mobile Apps in a Functional Language Succinctly](https://www.syncfusion.com/ebooks/writing_native_mobile_apps_in_a_functional_language_succinctly) - Vassili Kaplan
 
@@ -738,9 +743,9 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Project Oberon: The Design of an Operating System, a Compiler, and a Computer](https://people.inf.ethz.ch/wirth/ProjectOberon/index.html) - Niklaus Wirth, Jürg Gutknecht (PDF)
 * [The Art of Unix Programming](http://catb.org/esr/writings/taoup/html/) - Eric S. Raymond (HTML)
 * [The Little Book About OS Development](https://littleosbook.github.io) - Erik Helin, Adam Renberg - (PDF, HTML)
-* [The Little Book of Semaphores](https://greenteapress.com/semaphores/) - Allen B. Downey (PDF)
+* [The Little Book of Semaphores](https://greenteapress.com/semaphores/) - Allen B. Downey (PDF) (CC BY-NC-SA)
 * [Think OS: A Brief Introduction to Operating Systems](https://www.greenteapress.com/thinkos/index.html) - Allen B. Downey (PDF)
-* [UNIX Application and System Programming, lecture notes](http://www.compsci.hunter.cuny.edu/~sweiss/course_materials/unix_lecture_notes.php) - Stewart Weiss (PDF)
+* [UNIX Application and System Programming, lecture notes](http://www.compsci.hunter.cuny.edu/~sweiss/course_materials/unix_lecture_notes.php) - Stewart Weiss (PDF) (CC BY-SA)
 * [Writing a Simple Operating System from Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf) - Nick Blundell (PDF)
 * [Xv6, a simple Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2022/xv6.html) - Russ Cox, Frans Kaashoek and Robert Morris (PDF, HTML)
 
@@ -787,8 +792,8 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Principled Programming / Introduction to Coding in Any Imperative Language](https://www.cs.cornell.edu/info/people/tt/Principled_Programming.html) - Tim Teitelbaum
 * [Programming and Programming Languages](https://papl.cs.brown.edu/2019/) - Shriram Krishnamurthi
 * [Programming Languages: Application and Interpretation (2nd Edition)](https://cs.brown.edu/~sk/Publications/Books/ProgLangs/) - Shriram Krishnamurthi
-* [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf) - Harold Abelson, Gerald Jay Sussman, Julie Sussman (PDF)
-* [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml) - Harold Abelson, Gerald Jay Sussman, Julie Sussman (HTML)
+* [Structure and Interpretation of Computer Programs](https://web.mit.edu/6.001/6.037/sicp.pdf) - Harold Abelson, Gerald Jay Sussman, Julie Sussman (PDF) (CC BY-SA)
+* [Structure and Interpretation of Computer Programs](https://sarabander.github.io/sicp/html/index.xhtml) - Harold Abelson, Gerald Jay Sussman, Julie Sussman (HTML) (CC BY-SA)
 * [The Black Art of Programming](http://self.gutenberg.org/wplbn0002828847-the-black-art-of-programming-by-mcilroy-mark.aspx?) - Mark McIlroy
 * [The Craft of Programming](https://kilthub.cmu.edu/articles/The_Craft_of_Programming/6610514) - John C. Reynolds
 * [The Nature of Code](https://natureofcode.com/book) - Daniel Shiffman (HTML)

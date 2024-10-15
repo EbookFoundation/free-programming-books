@@ -47,6 +47,7 @@
 * [Sigmageek](https://sigmageek.com)
 * [Sphere Online Judge](http://www.spoj.com/contests)
 * [Techgig](https://www.techgig.com)
+* [Top Array Interview Questions – Structured Path with Video Solutions \| Arrays Series](https://takeuforward.org/array/top-array-interview-questions-structured-path-with-video-solutions/)
 * [Top Coding Interview Problems](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/) - Striver
 * [Topcoder](https://www.topcoder.com)
 * [Toph](https://toph.co)
@@ -96,6 +97,7 @@
 * [C2 Ladders](https://c2-ladders-juol.onrender.com)
 * [Striver's A2Z DSA Course/sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
 * [Striver’s CP Sheet](https://takeuforward.org/interview-experience/strivers-cp-sheet/)
+* [System Design Roadmap with Videos for SDEs](https://takeuforward.org/system-design/complete-system-design-roadmap-with-videos-for-sdes/) - take U forward(takeuforward)
 
 
 ### Problem Sets
@@ -134,6 +136,7 @@
 * [InterviewBit](https://www.interviewbit.com)
 * [Kattis](https://open.kattis.com)
 * [Mathproblem of the Month - Bilkent University](http://www.fen.bilkent.edu.tr/~cvmath/prob-month.html)
+* [NeetCode 150](https://neetcode.io/practice)
 * [PEG Judge](http://wcipeg.com)
 * [Pep Coding](https://www.pepcoding.com/resources)
 * [PKU Online Judge](http://poj.org)

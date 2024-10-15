@@ -85,11 +85,13 @@
 
 ### Artificial Intelligence
 
+* [AI is confusing — here’s your cheat sheet](https://www.theverge.com/24201441/ai-terminology-explained-humans) Jay Peters (HTML)
 * [What is Artificial Intelligence?](https://intelligencereborn.com/ArtificialIntelligence.html) IntelligenceReborn (HTML)
 
 
 ### C
 
+* [C Cheat Sheet](https://www.geeksforgeeks.org/c-cheatsheet/) - GeeksforGeeks
 * [C Language Cheat Sheet](https://www.codewithharry.com/blogpost/c-cheatsheet/) - CodeWithHarry(HTML)
 * [C Reference Card (ANSI)](https://users.ece.utexas.edu/~adnan/c-refcard.pdf) (PDF)
 * [Systems Programming Cheat Sheet](https://github.com/jstrieb/systems-programming-cheat-sheet) (HTML)

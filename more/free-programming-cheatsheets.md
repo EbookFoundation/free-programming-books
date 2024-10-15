@@ -91,6 +91,7 @@
 
 ### C
 
+* [C Cheat Sheet](https://www.geeksforgeeks.org/c-cheatsheet/) - GeeksforGeeks
 * [C Language Cheat Sheet](https://www.codewithharry.com/blogpost/c-cheatsheet/) - CodeWithHarry(HTML)
 * [C Reference Card (ANSI)](https://users.ece.utexas.edu/~adnan/c-refcard.pdf) (PDF)
 * [Systems Programming Cheat Sheet](https://github.com/jstrieb/systems-programming-cheat-sheet) (HTML)

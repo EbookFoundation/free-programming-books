@@ -1545,8 +1545,9 @@ Books on general-purpose programming that don't focus on a specific language are
 > :information_source: See also &#8230; [IDE and editors](free-programming-books-subjects.md#ide-and-editors)
 
 * [An Introduction to Programming in Emacs Lisp](https://www.gnu.org/software/emacs/manual/eintr.html)
-* [GNU Emacs Lisp Reference Manual](http://www.gnu.org/software/emacs/manual/elisp.html)
 * [Emacs Programming](https://caiorss.github.io/Emacs-Elisp-Programming/Elisp_Programming.html)
+* [GNU Emacs Lisp Reference Manual](http://www.gnu.org/software/emacs/manual/elisp.html)
+
 
 #### PicoLisp
 

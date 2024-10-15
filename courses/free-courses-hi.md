@@ -413,9 +413,6 @@
 
 #### Material UI
 
-* [Learn Reactjs material ui - Hindi](https://www.youtube.com/watch?v=0euw01oikEw&ab_channel=TechinfoYT) - Techinfo YT
-* [Material UI Complete in One Video (Hindi)](https://www.youtube.com/watch?v=TJz6y9RLtA8&ab_channel=GeekyShows) - Geeky Shows
-* [Material UI in One Video with Project | React JS Material UI Project Tutorial](https://www.youtube.com/watch?v=PF6z8Rs0bhY&ab_channel=RoadsideCoder) - RoadSideCoder
 * [Material UI Tutorial for Beginners in Hindi](https://www.youtube.com/playlist?list=PL8u9CiaEfFDaR0ipsKfHdnZccTm10J7-3) - Basics Adda
 * [Reactjs material ui in hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV4722H3_nosmpdjNXIPuBUXm) - Code Step By Step
 

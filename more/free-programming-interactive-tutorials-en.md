@@ -135,7 +135,7 @@
 
 ### DBMS
 
-* [DBMS Course - Master the Fundamentals and Advanced Concepts](https://www.scaler.com/topics/course/dbms/) - A course by Srikanth Varma Scaler Topics
+* [DBMS Course - Master the Fundamentals and Advanced Concepts](https://www.scaler.com/topics/course/dbms/) - Srikanth Varma (Scaler Topics)
 
 
 ### Erlang

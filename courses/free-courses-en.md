@@ -324,7 +324,7 @@
 
 ### Blockchain
 
-* [Assembly and Formal Verification Course](https://updraft.cyfrin.io/courses/formal-verification) - Cyfrin Updraft
+* [Assembly and Formal Verification](https://updraft.cyfrin.io/courses/formal-verification) - Cyfrin Updraft
 * [BerkeleyX: Blockchain Technology](https://www.edx.org/learn/blockchain/university-of-california-berkeley-blockchain-technology) - Rustie Lin and Nadir Akhtar
 * [Blockchain Developer Tutorials](https://www.youtube.com/playlist?list=PLS5SEs8ZftgUTXs0OJD2LFpYBPr4L54id) - Gregory McCubbin (Dapp University)
 * [Blockchain Essentials](https://cognitiveclass.ai/courses/blockchain-course) - CognitiveClass.ai

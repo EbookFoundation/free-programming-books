@@ -410,6 +410,15 @@
 * [Bootstrap Tutorial in Hindi With 2 Projects for Beginners \| Complete Bootstrap 5 Tutorial in Hindi](https://youtube.com/watch?v=QE5oQh63gGE) - Tech Gun
 
 
+#### Material UI
+
+* [Learn Reactjs material ui - Hindi](https://www.youtube.com/watch?v=0euw01oikEw&ab_channel=TechinfoYT) - Techinfo YT
+* [Material UI Tutorial for Beginners in Hindi](https://www.youtube.com/playlist?list=PL8u9CiaEfFDaR0ipsKfHdnZccTm10J7-3) - Basics Adda
+* [Material UI in One Video with Project | React JS Material UI Project Tutorial](https://www.youtube.com/watch?v=PF6z8Rs0bhY&ab_channel=RoadsideCoder) - RoadSideCoder
+* [Reactjs material ui in hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV4722H3_nosmpdjNXIPuBUXm) - Code Step By Step
+* [Material UI Complete in One Video (Hindi)](https://www.youtube.com/watch?v=TJz6y9RLtA8&ab_channel=GeekyShows) - Geeky Shows
+
+
 #### Tailwind CSS
 
 * [Learn Tailwind CSS with Projects - Hindi](https://www.youtube.com/playlist?list=PLPppPPmk0i3h9Xs6cAknE9OODTqZD5zFe) - Do Some Coding
@@ -420,14 +429,6 @@
 * [Tailwind CSS In Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp3l8tWTcB7R7Bsgd86lCa8a) - Thapa Technical
 * [Tailwind CSS Tutorials in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ahwFDuExCpPFHAK829Wto2O) - CodeWithHarry
 
-
-### Material UI
-
-* [Learn Reactjs material ui - Hindi](https://www.youtube.com/watch?v=0euw01oikEw&ab_channel=TechinfoYT) - Techinfo YT
-* [Material UI Tutorial for Beginners in Hindi](https://www.youtube.com/playlist?list=PL8u9CiaEfFDaR0ipsKfHdnZccTm10J7-3) - Basics Adda
-* [Material UI in One Video with Project | React JS Material UI Project Tutorial](https://www.youtube.com/watch?v=PF6z8Rs0bhY&ab_channel=RoadsideCoder) - RoadSideCoder
-* [Reactjs material ui in hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV4722H3_nosmpdjNXIPuBUXm) - by Code Step By Step
-* [Material UI Complete in One Video (Hindi)](https://www.youtube.com/watch?v=TJz6y9RLtA8&ab_channel=GeekyShows) - by Geeky Shows
 
 ### iOS
 

@@ -250,7 +250,7 @@
 
 ### Compiler Design
 
-* [Compiler Design](https://www.youtube.com/playlist?list=PL1QH9gyQXfguPNDTsnG90W2kBDQpYLDQr) - THE GATEHUB
+* [Compiler Design](https://www.youtube.com/playlist?list=PL1QH9gyQXfguPNDTsnG90W2kBDQpYLDQr) - The Gatehub
 * [Compiler Design](https://www.youtube.com/playlist?list=PL9FuOtXibFjVR-87LcU-DS-9TJcbG97_p) - Abhishek Sharma
 * [Compiler Design](https://www.youtube.com/playlist?list=PL23dd-8zssJBiyntds3X1sVWUDeb0Aa1N) - Start Practicing
 * [Compiler Design (Complete Playlist)](https://www.youtube.com/playlist?list=PLmXKhU9FNesSmu-_DKC7APRoFkaQvGurx) - KnowledgeGATE by Sanchit Sir

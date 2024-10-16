@@ -162,6 +162,7 @@ Books on general-purpose programming that don't focus on a specific language are
     * [Drupal](#drupal)
     * [Laravel](#laravel)
     * [Symfony](#symfony)
+    * [Yii](#yii)
     * [Zend](#zend)
 * [PostgreSQL](#postgresql)
 * [PowerShell](#powershell)
@@ -1862,6 +1863,11 @@ Books on general-purpose programming that don't focus on a specific language are
 * [The Symfony Book 2.8.x](https://symfony.com/doc/2.8/index.html)
 * [The Symfony Book 3.4.x](https://symfony.com/doc/3.4/index.html)
 * [The Symfony Book 4.4.x](https://symfony.com/doc/4.4/index.html)
+
+
+#### Yii
+
+* [The Definitive Guide to Yii 2.0](https://www.yiiframework.com/doc/download/yii-guide-2.0-en.pdf) - Yii Software LLC. (PDF)
 
 
 #### Zend

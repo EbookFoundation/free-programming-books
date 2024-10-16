@@ -7,6 +7,9 @@
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
+* [Embedded](#embedded)
+    * [Arduino](#arduino)
+    * [ESP32](#esp32)
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -53,6 +56,16 @@
 * [Podejście obiektowe dla znających już podstawy C++ (VIDEO)](https://www.youtube.com/playlist?list=PLOYHgt8dIdozvOVheSRb_qPVU-4ZJA7uB) - Mirosław Zelent, Damian Stelmach
 * [PROGRAMOWANIE W C++. KURS OD PODSTAW, DLA KAŻDEGO (VIDEO)](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxx0Y5wzs7CFpmBzb40PaDo) - Mirosław Zelent, Damian Stelmach
 
+
+### Embedded
+
+#### Arduino
+
+* [Kurs podstaw Arduino](https://www.forbot.pl/blog/kurs-arduino-podstawy-programowania-spis-tresci-kursu-id5290)
+
+#### ESP32
+
+* [Kurs STM32L4](https://www.forbot.pl/blog/kurs-stm32-l4-wstep-spis-tresci-dla-kogo-jest-ten-kurs-id48575)
 
 ### HTML and CSS
 

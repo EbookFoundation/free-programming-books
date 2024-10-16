@@ -173,6 +173,7 @@ Books on general-purpose programming that don't focus on a specific language are
     * [Django](#django)
     * [Flask](#flask)
     * [Kivy](#kivy)
+    * [Numpy](#numpy)
     * [Pandas](#pandas)
     * [PyOpenCl](#pyopencl)
     * [Pyramid](#pyramid)
@@ -2119,6 +2120,11 @@ Books on general-purpose programming that don't focus on a specific language are
 #### Kivy
 
 * [Kivy Programming Guide](https://kivy.org/docs/guide-index.html)
+
+
+#### NumPY
+
+* [Guide to NumPY 2010](https://web.mit.edu/dvp/Public/numpybook.pdf) - Travis E. Oliphant (PDF).
 
 
 #### Pandas

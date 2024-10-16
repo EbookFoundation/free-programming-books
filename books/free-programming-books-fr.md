@@ -173,6 +173,7 @@
 ### JavaScript
 
 * [JavaScript Éloquent : Une introduction moderne à la programmation](http://fr.eloquentjavascript.net) - Marijn Haverbeke
+* [Learn JavaScript](https://javascript.sumankunwar.com.np/fr) - Suman Kumar, Github Contributors (HTML, PDF)
 * [Node.Js: Apprendre par la pratique](https://oncletom.io/node.js/#chapitres) - Thomas Parisot
 
 

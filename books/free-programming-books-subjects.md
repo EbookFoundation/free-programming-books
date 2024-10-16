@@ -371,6 +371,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 
 * [A Byte of Vim](https://www.swaroopch.com/notes/vim/) - Swaroop (PDF)
 * [GNU Emacs Manual](https://www.gnu.org/software/emacs/manual/emacs.html) - Free Software Foundation Inc. (HTML, PDF)
+* [Learn Neovim](https://ofirgall.github.io/learn-nvim/chapters/00-why-should-i-learn.html) - Ofir Gal (online, PDF)
 * [Learn Vim (the Smart Way)](https://github.com/iggredible/Learn-Vim) - Igor Irianto (HTML) *(:construction: in process)*
 * [Learn Vim For the Last Time](https://danielmiessler.com/study/vim/) - Daniel Miessler
 * [Learn Vim Progressively](https://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/) - Yann Esposito
@@ -382,7 +383,6 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Vim Reference Guide](https://learnbyexample.github.io/vim_reference/) - Sundeep Agarwal
 * [Vim Regular Expressions 101](https://vimregex.com) - Oleg Raisky
 * [Visual Studio .NET Tips and Tricks](https://www.infoq.com/minibooks/vsnettt) - Minh T. Nguyen (PDF)
-* [Learn Neovim](https://ofirgall.github.io/learn-nvim/chapters/00-why-should-i-learn.html) - Ofir Gal (online, PDF)
 * [Visual Studio 2019 Succinctly](https://www.syncfusion.com/ebooks/visual-studio-2019-succinctly) - Alessandro Del Sole (online, PDF)
 
 

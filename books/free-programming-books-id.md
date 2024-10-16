@@ -25,6 +25,7 @@
 * [PHP](#php)
     * [CodeIgniter](#codeigniter)
     * [Laravel](#laravel)
+    * [Yii](#yii)
 * [Python](#python)
 * [Rust](#rust)
 * [Solidity](#solidity)
@@ -210,6 +211,11 @@
 
 * [Belajar Laravel Untuk Pemula](https://gilacoding.com/upload/file/Belajar%20Laravel%20Untuk%20Pemula.pdf) - Dadan Hamdani (PDF)
 * [Tutorial Belajar Framework Laravel 10](https://www.duniailkom.com/tutorial-belajar-framework-laravel/) - Duniailkom
+
+
+#### Yii
+
+* [Panduan Definitif Untuk Yii 2.0](https://www.yiiframework.com/doc/download/yii-guide-2.0-id.pdf) - Yii Software LLC. (PDF)
 
 
 ### Python

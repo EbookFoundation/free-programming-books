@@ -98,9 +98,11 @@
 
 ### <a id="cpp"></a>C++
 
+* [Codapi](https://codapi.org/cpp/)
 * [Coding Blocks](https://ide.codingblocks.com)
 * [Coding Minutes](https://ide.codingminutes.com)
 * [Compiler Explorer](https://godbolt.org)
+* [C++ Shell](https://cpp.sh/)
 * [InterviewBit](https://www.interviewbit.com/online-cpp-compiler/)
 * [LabStack](https://code.labstack.com/cpp)
 * [Online C++ Compiler](https://www.codinguru.online/compiler/cpp)

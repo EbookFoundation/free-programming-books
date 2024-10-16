@@ -383,6 +383,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Vim Regular Expressions 101](https://vimregex.com) - Oleg Raisky
 * [Visual Studio .NET Tips and Tricks](https://www.infoq.com/minibooks/vsnettt) - Minh T. Nguyen (PDF)
 * [Visual Studio 2019 Succinctly](https://www.syncfusion.com/ebooks/visual-studio-2019-succinctly) - Alessandro Del Sole (online, PDF)
+* [Learn Neovim](https://ofirgall.github.io/learn-nvim/chapters/00-why-should-i-learn.html) - Ofir Gal (online, PDF)
 
 
 ### Information Retrieval

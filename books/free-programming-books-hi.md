@@ -64,5 +64,5 @@
 
 ### PHP
 
-* [PHP Tutorials In Hindi](https://www.learnhindituts.com/php) - LearnHindiTuts.com
 * [PHP In Hindi Tutorial](http://tutorialsroot.com/php/index.html) - TutorialsRoot.com
+* [PHP Tutorials In Hindi](https://www.learnhindituts.com/php) - LearnHindiTuts.com

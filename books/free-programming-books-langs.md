@@ -2135,7 +2135,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [NumPy: the absolute basics for beginners](https://numpy.org/doc/stable/user/absolute_beginners.html) - NumPy developers (HTML).
 * [NumPy user guide](https://numpy.org/doc/stable/user) - NumPY developers (HTML).
 
-  
+
 #### Pandas
 
 * [Best Pandas Tutorial \| Learn with 50 Examples](https://www.listendata.com/2017/12/python-pandas-tutorial.html) - Ekta Aggarwal (HTML)

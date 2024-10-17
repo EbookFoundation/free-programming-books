@@ -239,14 +239,13 @@
 
 ### Rust
 
-* [러스트 코딩인사이트](https://coding-insight.com/docs/rust/start/rust)
+* [Comprehensive Rust](https://google.github.io/comprehensive-rust/ko/index.html)
+* [Rust로 첫 번째 단계 수행](https://learn.microsoft.com/ko-kr/training/paths/rust-first-steps) - 마이크로소프트에서 제공하는 러스트 강의
+* [The Rust Programming Language](https://doc.rust-kr.org/title-page.html)
+* [러스트 코딩인사이트](https://coding-insight.com/docs/category/rust)
 * [러스트 투어](https://tourofrust.com/00_ko.html)
-* [러스트 프로그래밍 공식가이드](https://doc.rust-kr.org/title-page.html)
-* [러스트 프로그래밍 언어](https://rinthel.github.io/rust-lang-book-ko/) - 스티브 클라브닉, 캐롤 니콜스 (HTML) *(:construction: in process)*
-* [마이크로소프트 러스트 강의](https://learn.microsoft.com/ko-kr/training/paths/rust-first-steps): 마이크로소프트에서 제공하는 러스트 강의
-* [예시로 배우는 러스트](https://hanbum.gitbooks.io/rustbyexample/content/) - https://github.com/rust-lang/rust-by-example
-* [예제로 배우는 러스트 프로그래밍](http://rust-lang.xyz)
-* [이해하기 쉬운 러스트:한국어판](https://google.github.io/comprehensive-rust/ko/index.html)
+* [러스트 프로그래밍 언어](https://rinthel.github.io/rust-lang-book-ko/) - 스티브 클라브닉, 캐롤 니콜스
+* [예제로 배우는 Rust 프로그래밍](http://rust-lang.xyz)
 * [파이썬과 비교하며 배우는 러스트 프로그래밍](https://indosaram.github.io/rust-python-book/) - 윤인도
 
 

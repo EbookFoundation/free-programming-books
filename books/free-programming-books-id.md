@@ -25,6 +25,7 @@
 * [PHP](#php)
     * [CodeIgniter](#codeigniter)
     * [Laravel](#laravel)
+    * [Yii](#yii)
 * [Python](#python)
 * [Rust](#rust)
 * [Solidity](#solidity)
@@ -184,7 +185,6 @@
 
 * [Belajar PHP Dasar](https://www.malasngoding.com/belajar-php-dasar-pengenalan-dan-kegunaan-php/) - Malasngoding
 * [Membuat Bot Telegram dengan PHP](https://www.slideshare.net/HasanudinHS/ebook-i-membuat-bot-telegram-dengan-php) - Hasanudin H Syafaat (PDF)
-* [Menjelajahi Yii Framework](https://gilacoding.com/upload/file/menjelajahyiiframework.pdf) - Sabit Huraira (PDF)
 * [Panduan Lengkap PHP AJAX jQuery](https://gilacoding.com/upload/file/Panduan%20Lengkap%20PHP%20Ajax%20jQuery.pdf) - Desrizal (PDF)
 * [Pemrograman Berbasis Objek Modern dengan PHP](https://arsiteknologi.com/wp-content/uploads/Pemrograman_Berbasis_Objek_Modern_dengan_PHP_Google_Play_Book.pdf) - Muhamad Surya Iksanudin (PDF)
 * [Pemrograman Berorientasi Objek Dengan PHP5](https://endangcahyapermana.files.wordpress.com/2016/03/belajar-singkat-pemrograman-berorientasi-objek-dengan-php5.pdf) - Gerry Sabar (PDF)
@@ -210,6 +210,12 @@
 
 * [Belajar Laravel Untuk Pemula](https://gilacoding.com/upload/file/Belajar%20Laravel%20Untuk%20Pemula.pdf) - Dadan Hamdani (PDF)
 * [Tutorial Belajar Framework Laravel 10](https://www.duniailkom.com/tutorial-belajar-framework-laravel/) - Duniailkom
+
+
+#### Yii
+
+* [Menjelajahi Yii Framework](https://gilacoding.com/upload/file/menjelajahyiiframework.pdf) - Sabit Huraira (PDF)
+* [Panduan Definitif Untuk Yii 2.0](https://www.yiiframework.com/doc/download/yii-guide-2.0-id.pdf) - Yii Software (PDF)
 
 
 ### Python

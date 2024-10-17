@@ -435,7 +435,6 @@
 * [PySpark Cheat Sheet: Spark in Python](https://www.datacamp.com/cheat-sheet/pyspark-cheat-sheet-spark-in-python) - DataCamp (HTML)
 
 
-
 ### R
 
 * [All RStudio cheatsheets resources](https://www.rstudio.com/resources/cheatsheets) - RStudio.com (HTML site with PDF links)

@@ -98,6 +98,8 @@
 
 ### <a id="cpp"></a>C++
 
+* [C++ Shell](https://cpp.sh)
+* [Codapi](https://codapi.org/cpp)
 * [Coding Blocks](https://ide.codingblocks.com)
 * [Coding Minutes](https://ide.codingminutes.com)
 * [Compiler Explorer](https://godbolt.org)

@@ -240,11 +240,10 @@
 ### Rust
 
 * [Comprehensive Rust](https://google.github.io/comprehensive-rust/ko/index.html)
-* [Rust로 첫 번째 단계 수행](https://learn.microsoft.com/ko-kr/training/paths/rust-first-steps) - 마이크로소프트에서 제공하는 러스트 강의
 * [러스트 코딩인사이트](https://coding-insight.com/docs/category/rust)
-* [The Rust Programming Language](https://doc.rust-kr.org/title-page.html)
-* [러스트 투어](https://tourofrust.com/00_ko.html) (interactive tutorial)
+* [Rust로 첫 번째 단계 수행](https://learn.microsoft.com/ko-kr/training/paths/rust-first-steps) - 마이크로소프트에서 제공하는 러스트 강의
 * [러스트 프로그래밍 언어](https://rinthel.github.io/rust-lang-book-ko/) - 스티브 클라브닉, 캐롤 니콜스
+* [The Rust Programming Language](https://doc.rust-kr.org/title-page.html)
 * [예제로 배우는 Rust 프로그래밍](http://rust-lang.xyz)
 * [파이썬과 비교하며 배우는 러스트 프로그래밍](https://indosaram.github.io/rust-python-book/) - 윤인도
 

@@ -39,7 +39,7 @@
 * [Internet Problem Solving Contest](http://ipsc.ksp.sk)
 * [Just another Golf Coding](http://jagc.org)
 * [Kattis](https://open.kattis.com)
-* [Last Moment DSA Sheet(79) – Ace Interviews](https://takeuforward.org/interview-sheets/strivers-79-last-moment-dsa-sheet-ace-interviews) - Striver 
+* [Last Moment DSA Sheet(79) – Ace Interviews](https://takeuforward.org/interview-sheets/strivers-79-last-moment-dsa-sheet-ace-interviews) - Striver
 * [LeetCode](https://leetcode.com)
 * [LightOJ](https://lightoj.com)
 * [Meta Hackercup](https://www.facebook.com/codingcompetitions/hacker-cup/)

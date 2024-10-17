@@ -45,7 +45,6 @@
     * [Jupyter](#jupyter)
     * [Numpy Pandas](#numpy-pandas)
     * [PySpark](#pyspark)
-    * [Scikit Learn](#scikit-learn)
 * [R](#r)
 * [Raspberry Pi](#raspberry-pi)
 * [Ruby](#ruby)
@@ -435,10 +434,6 @@
 * [PySpark Cheat Sheet](https://github.com/kevinschaich/pyspark-cheatsheet) - Kevin Schaich (HTML)
 * [PySpark Cheat Sheet: Spark in Python](https://www.datacamp.com/cheat-sheet/pyspark-cheat-sheet-spark-in-python) - DataCamp (HTML)
 
-
-#### Scikit Learn
-
-* [Choosing the right estimator](https://scikit-learn.org/stable/machine_learning_map.html) - Scikit Learn developers. (HTML site with SVG cheatsheet)
 
 
 ### R

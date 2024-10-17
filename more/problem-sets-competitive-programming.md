@@ -45,7 +45,7 @@
 * [Meta Hackercup](https://www.facebook.com/codingcompetitions/hacker-cup/)
 * [Newton School](https://my.newtonschool.co/contest/all)
 * [oj.uz](https://oj.uz)
-* [SDE sheet top coding interview problems](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems)
+* [Striver’s SDE Sheet – Top Coding Interview Problems](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems)
 * [Sigmageek](https://sigmageek.com)
 * [Sphere Online Judge](http://www.spoj.com/contests)
 * [Techgig](https://www.techgig.com)

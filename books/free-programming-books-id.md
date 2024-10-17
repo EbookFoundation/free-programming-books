@@ -25,6 +25,7 @@
 * [PHP](#php)
     * [CodeIgniter](#codeigniter)
     * [Laravel](#laravel)
+    * [Yii](#yii)
 * [Python](#python)
 * [Rust](#rust)
 * [Solidity](#solidity)
@@ -50,6 +51,7 @@
 ### <a id="cpp"></a>C++
 
 * [Belajar C++ Dasar Bahasa Indonesia](https://github.com/kelasterbuka/CPP_dasar-dasar-programming) - Kelas Terbuka
+* [Buku Pintar C++ untuk Pemula](https://www.researchgate.net/publication/236687537_Buku_Pintar_C_untuk_Pemula) - Abdul Kadir
 
 
 ### Git
@@ -91,6 +93,7 @@
 ### Java
 
 * [Algoritma dan Struktur Data dengan Java oleh Polinema SIB](https://polinema.gitbook.io/jti-modul-praktikum-algoritma-dan-struktur-data/) - Politeknik Negeri Malang
+* [Buku Pertama Belajar Pemrograman Java untuk Pemula](https://www.researchgate.net/publication/264422101_Buku_Pertama_Belajar_Pemrograman_Java_untuk_Pemula) - Abdul Kadir
 * [Java Desktop](https://github.com/ifnu/buku-java-desktop/raw/master/java-desktop-ifnu-bima.pdf) - Ifnu Bima (PDF)
 * [Memulai Java Enterprise dengan Spring Boot](https://raw.githubusercontent.com/teten-nugraha/free-ebook-springboot-basic/master/Memulai%20Java%20Enterprise%20dengan%20Spring%20Boot.pdf) - Teten Nugraha (PDF)
 * [Pemrograman Java](https://blog.rosihanari.net/download-tutorial-java-se-gratis/) - Rosihan Ari Yuana
@@ -182,7 +185,6 @@
 
 * [Belajar PHP Dasar](https://www.malasngoding.com/belajar-php-dasar-pengenalan-dan-kegunaan-php/) - Malasngoding
 * [Membuat Bot Telegram dengan PHP](https://www.slideshare.net/HasanudinHS/ebook-i-membuat-bot-telegram-dengan-php) - Hasanudin H Syafaat (PDF)
-* [Menjelajahi Yii Framework](https://gilacoding.com/upload/file/menjelajahyiiframework.pdf) - Sabit Huraira (PDF)
 * [Panduan Lengkap PHP AJAX jQuery](https://gilacoding.com/upload/file/Panduan%20Lengkap%20PHP%20Ajax%20jQuery.pdf) - Desrizal (PDF)
 * [Pemrograman Berbasis Objek Modern dengan PHP](https://arsiteknologi.com/wp-content/uploads/Pemrograman_Berbasis_Objek_Modern_dengan_PHP_Google_Play_Book.pdf) - Muhamad Surya Iksanudin (PDF)
 * [Pemrograman Berorientasi Objek Dengan PHP5](https://endangcahyapermana.files.wordpress.com/2016/03/belajar-singkat-pemrograman-berorientasi-objek-dengan-php5.pdf) - Gerry Sabar (PDF)
@@ -210,15 +212,23 @@
 * [Tutorial Belajar Framework Laravel 10](https://www.duniailkom.com/tutorial-belajar-framework-laravel/) - Duniailkom
 
 
+#### Yii
+
+* [Menjelajahi Yii Framework](https://gilacoding.com/upload/file/menjelajahyiiframework.pdf) - Sabit Huraira (PDF)
+* [Panduan Definitif Untuk Yii 2.0](https://www.yiiframework.com/doc/download/yii-guide-2.0-id.pdf) - Yii Software (PDF)
+
+
 ### Python
 
 * [Belajar Python](http://www.belajarpython.com)
 * [Cepat Mahir Python](https://gilacoding.com/upload/file/Python.pdf) - Hendri, `edt.:` Romi Satria Wahono (PDF)
+* [Dasar-Dasar Python: Panduan Cepat untuk Memahami Fondasi Pemrograman Python](https://www.researchgate.net/publication/361459389_Dasar-Dasar_Python_Panduan_Cepat_untuk_Memahami_Fondasi_Pemrograman_Python) - Abdul Kadir
 * [Dasar Pengenalan Pemrograman Python](https://play.google.com/store/books/details/Rolly_Maulana_Awangga_Dasar_dasar_Python?id=YpzDDwAAQBAJ) - Rolly Maulana AwanggaRayhan *(Membutuhkan akun Google Play Books atau email yang valid)*
 * [Kursus Singkat Machine Learning dengan TensorFlow API](https://developers.google.com/machine-learning/crash-course?hl=id)
 * [Python Untuk Pemula](https://santrikoding.com/ebook/python-untuk-pemula) - Rizqi Maulana
 * [Tutorial Dasar Pemrograman Python](https://www.petanikode.com/tutorial/python/) - Petani Kode, Ahmad Muhardian
 * [Tutorial Python](https://docs.python.org/id/3.8/tutorial/)
+* [Tutorial Python untuk Pemula](https://www.kevintekno.com/p/tutorial-python-untuk-pemula.html) - Kevin Tekno, Kevin Alfito
 * [Workshop Python 101](http://sakti.github.io/python101/)
 
 

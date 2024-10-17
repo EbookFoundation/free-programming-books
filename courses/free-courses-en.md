@@ -48,6 +48,7 @@
 * [HTML and CSS](#html-and-css)
     * [Bootstrap](#bootstrap)
 * [iOS](#ios)
+ [IDE and editors](#ide-and-editors)
 * [Java](#java)
 * [JavaScript](#javascript)
     * [Angular](#angular)
@@ -109,7 +110,6 @@
 * [Theory](#theory)
 * [UI/UX](#uiux)
 * [Verilog / VHDL / SystemVerilog](#verilog--vhdl--systemverilog)
-* [Vim](#vim)
 * [Web Development](#web-development)
 * [Web3](#web3)
 * [Windows Phone](#windows-phone)
@@ -914,6 +914,11 @@
 * [SwiftUI Tutorials for Beginners](https://www.youtube.com/playlist?list=PLMRqhzcHGw1Z-lZaaun3A3mV9PbEfHANI) - CodeWithChris
 * [The Complete Swift iOS Developer - Create Real Apps in Swift](https://www.udemy.com/course/the-complete-ios-10-developer-course/) - Grant Klimaytys (Udemy)
 * [Unit Testing in iOS](https://www.youtube.com/playlist?list=PLMRqhzcHGw1ZLLvLwuW8AP3n-A3nsRn9P) - CodeWithChris
+
+
+### IDE and editors
+
+* [Vim As Your Editor](https://www.youtube.com/playlist?list=PLm323Lc7iSW_wuxqmKx_xxNtJC_hJbQ7R) - ThePrimeagen
 
 
 ### Java
@@ -1751,11 +1756,6 @@
 * [SOC Verification Using SystemVerilog](http://verificationexcellence.in/online-courses/soc-verification-using-systemverilog)
 * [SystemVerilog - Learn basics of SystemVerilog for Hardware Verification](https://verificationexcellence.teachable.com/p/learn-systemverilog)
 * [SystemVerilog based UVM Methodology - Learn to build UVM based Testbenches in SystemVerilog](https://verificationexcellence.teachable.com/p/learn-ovm-uvm)
-
-
-### Vim
-
-* [Vim As Your Editor](https://www.youtube.com/playlist?list=PLm323Lc7iSW_wuxqmKx_xxNtJC_hJbQ7R) - ThePrimeagen
 
 
 ### Web Development

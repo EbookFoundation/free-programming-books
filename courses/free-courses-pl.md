@@ -8,8 +8,6 @@
 * [C#](#csharp)
 * [C++](#cpp)
 * [Embedded](#embedded)
-    * [Arduino](#arduino)
-    * [STM32](#stm32)
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -59,13 +57,7 @@
 
 ### Embedded
 
-#### Arduino
-
 * [Kurs podstaw Arduino](https://www.forbot.pl/blog/kurs-arduino-podstawy-programowania-spis-tresci-kursu-id5290)
-
-
-#### STM32
-
 * [Kurs STM32L4](https://www.forbot.pl/blog/kurs-stm32-l4-wstep-spis-tresci-dla-kogo-jest-ten-kurs-id48575)
 
 

@@ -62,6 +62,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Forth](#forth)
 * [Fortran](#fortran)
 * [FreeBSD](#freebsd)
+* [Fullstack](#fullstack)
 * [Go](#go)
 * [Graphs](#graphs)
     * [GraphQL](#graphql)
@@ -796,14 +797,19 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Modern Fortran Tutorial](https://masuday.github.io/fortran_tutorial/) - Yutaka Masuda (HTML)
 * [Professional Programmer’s Guide to Fortran77 (2005)](https://www.star.le.ac.uk/~cgp/prof77.pdf) - Clive G. Page (PDF)
 * [Self Study Guide 2: Programming in Fortran 95](http://www.mrao.cam.ac.uk/~rachael/compphys/SelfStudyF95.pdf) - Dr Rachael Padman (PDF)
-* [User Notes On Fortran Programming (UNFP): An open cooperative practical guide (1998)](https://www.ibiblio.org/pub/languages/fortran/) - Abraham Agay, Arne Vajhoej, et al. (HTML)
+* [User Notes On Fortran Programming (UNFP): An open cooperative practical guide (1998)](https://www.ibiblio.org/pub/languages/fortran/) - Abraham Agay, Arne Vajhoej,et al. (HTML)
 
-
+ 
 ### FreeBSD
 
 * [Books and Articles from FreeBSD Site](http://www.freebsd.org/docs/books.html)
 * [The Complete FreeBSD](http://www.lemis.com/grog/Documentation/CFBSD/)
 * [Using C on the UNIX System](http://www.bitsinthewind.com/about-dac/publications/using-c-on-the-unix-system) - David A. Curry
+
+
+### Fullstack
+
+* [The Complete Developer Master the Full Stack With TypeScript](https://drive.google.com/file/d/1ETe5CsDmU86H1lLNRXspvEQdyPbDHnTl/view?usp=sharing) - Martin Krause
 
 
 ### Go

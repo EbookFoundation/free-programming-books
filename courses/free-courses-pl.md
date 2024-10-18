@@ -58,6 +58,7 @@
 ### Embedded
 
 * [Kurs podstaw Arduino](https://www.forbot.pl/blog/kurs-arduino-podstawy-programowania-spis-tresci-kursu-id5290)
+* [Kurs Arduino, poziom II](https://www.forbot.pl/blog/kurs-arduino-ii-wstep-spis-tresci-id15494)
 * [Kurs STM32L4](https://www.forbot.pl/blog/kurs-stm32-l4-wstep-spis-tresci-dla-kogo-jest-ten-kurs-id48575)
 
 

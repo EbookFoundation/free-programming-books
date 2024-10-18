@@ -1382,10 +1382,10 @@ Books on general-purpose programming that don't focus on a specific language are
 
 #### React Native
 
-* [Essential React Native](https://www.programming-books.io/essential/reactnative/) - Krzysztof Kowalczyk, StackOverflow Contributors
+* [Essential React Native](https://www.programming-books.io/essential/reactnative/) - Krzysztof Kowalczyk, StackOverflow Contributors (CC BY-SA)
 * [React Native Animation Book](http://browniefed.com/react-native-animation-book/)
 * [React Native Express](http://www.reactnativeexpress.com)
-* [React Native Notes for Professionals](https://goalkicker.com/ReactNativeBook) - Compiled from StackOverflow documentation (PDF)
+* [React Native Notes for Professionals](https://goalkicker.com/ReactNativeBook) - Compiled from StackOverflow documentation (PDF) (CC BY-SA)
 * [React Native Training](https://www.gitbook.com/book/unbug/react-native-training/details)
 * [The Ultimate Guide to React Native Optimization](https://www.callstack.com/blog/download-the-ultimate-guide-to-react-native-optimization-ebook) (PDF) *(email requested, not required)*
 
@@ -1406,7 +1406,7 @@ Books on general-purpose programming that don't focus on a specific language are
 #### Svelte
 
 * [Beginner SvelteKit](https://vercel.com/docs/beginner-sveltekit) - Steph Dietz
-* [Getting started with Svelte](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started) - MDN Web Docs
+* [Getting started with Svelte](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started) - MDN Web Docs (CC BY-SA)
 * [Svelte Tutorial](https://svelte.dev/tutorial/basics) - Svelte.dev
 * [The Svelte Handbook](https://flaviocopes.com/page/svelte-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
 
@@ -1414,7 +1414,7 @@ Books on general-purpose programming that don't focus on a specific language are
 #### Vue.js
 
 * [30 Days Of Vue](https://www.newline.co/30-days-of-vue) - Hassan Djirdeh (HTML; *email required for PDF*)
-* [Learning Vue.js](https://riptutorial.com/Download/vue-js.pdf) - Compiled from StackOverflow Documentation (PDF)
+* [Learning Vue.js](https://riptutorial.com/Download/vue-js.pdf) - Compiled from StackOverflow Documentation (PDF) (CC BY-SA)
 * [The Vue.js Handbook](https://flaviocopes.com/page/vue-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
 
 
@@ -1454,8 +1454,8 @@ Books on general-purpose programming that don't focus on a specific language are
 
 * [Arbitrary LaTex Reference](http://latex.knobs-dials.com)
 * [Begin Latex in minutes](https://github.com/VoLuong/Begin-Latex-in-minutes)
-* [LaTeX](https://en.wikibooks.org/wiki/LaTeX) - Wikibooks
-* [LaTex Notes for Professionals](https://goalkicker.com/LaTeXBook/) - Compiled from StackOverflow documentation (PDF)
+* [LaTeX](https://en.wikibooks.org/wiki/LaTeX) - Wikibooks (CC BY-SA)
+* [LaTex Notes for Professionals](https://goalkicker.com/LaTeXBook/) - Compiled from StackOverflow documentation (PDF) (CC BY-SA)
 * [The Not So Short Introduction to LaTeX](https://tobi.oetiker.ch/lshort/lshort.pdf) (PDF)
 
 

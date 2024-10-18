@@ -197,7 +197,6 @@
 * [Learn advanced html and css](https://www.theodinproject.com/paths/full-stack-javascript/courses/advanced-html-and-css) - The Odin Project
 * [Learn Intermediate html and css](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css) - The Odin Project
 * [LiveCode](https://livecodes.io) - LiveCode
-* [Online Java Playground](https://labex.io/tutorials/java-online-java-playground-372914)
 * [Play Code](https://playcode.io)
 * [SoloLearn](https://code.sololearn.com/web#css)
 * [Tailwind Play](https://play.tailwindcss.com)
@@ -215,6 +214,7 @@
 * [JDoodle - Online Java Compiler Advanced IDE](https://www.jdoodle.com/online-java-compiler-ide/)
 * [JDoodle - Online Java Compiler IDE](https://www.jdoodle.com/online-java-compiler/)
 * [OnlineGDB](https://www.onlinegdb.com/online_java_compiler)
+* [Online Java Playground](https://labex.io/tutorials/java-online-java-playground-372914)
 * [Programiz - Online Java Compiler](https://www.programiz.com/java-programming/online-compiler/)
 * [repl.it](https://repl.it) (_including a separate Java/Swing_)
 * [SoloLearn](https://code.sololearn.com/java)

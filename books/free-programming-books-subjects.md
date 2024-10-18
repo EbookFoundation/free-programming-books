@@ -891,7 +891,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Designing Event-Driven Systems. Concepts and Patterns for Streaming Services with Apache Kafka](https://assets.confluent.io/m/7a91acf41502a75e/original/20180328-EB-Confluent_Designing_Event_Driven_Systems.pdf) - Ben Stopford (PDF)
 * [Developing Reactive Microservices](https://info.lightbend.com/COLL-20XX-Developing-Reactive-Microservices_Landing-Page.html) (email address *requested*, not required)
 * [Domain Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly)
-* [Domain-Driven Design Reference](https://www.domainlanguage.com/ddd/reference) - Eric Evans
+* [Domain-Driven Design Reference](https://www.domainlanguage.com/ddd/reference) - Eric Evans (CC BY)
 * [DSL Engineering: Designing, Implementing and Using Domain-Specific Languages](http://dslbook.org) - Markus Voelter
 * [Exploring CQRS and Event Sourcing](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/jj554200(v=pandp.10)) - Dominic Betts, Julián Domínguez, Grigori Melnik, Mani Subramanian, Fernando Simonazzi ([EPUB, PDF](https://www.microsoft.com/en-us/download/details.aspx?id=34774) - [code samples](https://go.microsoft.com/fwlink/p/?linkid=258571))
 * [Guide to the Software Engineering Body of Knowledge](https://www.computer.org/education/bodies-of-knowledge/software-engineering/v3) (email address *requested*)

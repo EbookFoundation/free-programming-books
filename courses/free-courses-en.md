@@ -48,7 +48,7 @@
 * [HTML and CSS](#html-and-css)
     * [Bootstrap](#bootstrap)
 * [iOS](#ios)
- [IDE and editors](#ide-and-editors)
+* [IDE and editors](#ide-and-editors)
 * [Java](#java)
 * [JavaScript](#javascript)
     * [Angular](#angular)

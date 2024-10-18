@@ -495,7 +495,6 @@
 * [Foundations of Cryptography](https://www.youtube.com/playlist?list=PLgMDNELGJ1CbdGLyn7OrVAP-IKg-0q2U2) - NPTEL  Indian Institute of Science, Bengaluru
 * [Introduction to Cryptography](https://open.ruhr-uni-bochum.de/en/lernangebot/introduction-cryptography) (Christof Paar)
 * [Stanford Cryptography I](https://www.coursera.org/course/crypto) - Dan Boneh
-* [Stanford Cryptography II](https://www.coursera.org/course/crypto2) - Dan Boneh
 
 
 ### Cuda

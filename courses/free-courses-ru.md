@@ -15,6 +15,7 @@
     * [React](#react)
 * [Julia](#julia)
 * [Kotlin](#kotlin)
+* [Linux](#linux)
 * [Perl](#perl)
 * [PHP](#php)
 * [PostgreSQL](#postgresql)
@@ -138,6 +139,11 @@ ADV - Продвинутый. Тонкости.
 * [Разработка Android-приложений на Kotlin](https://stepik.org/course/4792) - Stepik (BEG)
 * [Руководство по языку Kotlin](https://metanit.com/kotlin/tutorial/) - Metanit (BEG/INT)
 * [PRO Kotlin. Основы программирования](https://stepik.org/course/131507) - Stepik (BEG)
+
+
+### Linux
+
+* [Linux для начинающих](https://university.tssolution.ru/kurs-lunux) -  (BEG)
 
 
 ### Perl

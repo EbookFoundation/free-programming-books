@@ -260,12 +260,12 @@
 
 ### JavaScript
 
+* [JavaScript Cheat Sheet – A Basic Guide to JavaScript](https://www.geeksforgeeks.org/javascript-cheat-sheet-a-basic-guide-to-javascript) - GeeksforGeeks (HTML)
 * [JavaScript CheatSheet](https://github.com/wilfredinni/javascript-cheatsheet) - Wilfredinni (HTML)
 * [JavaScript Cheatsheet](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet) - Codecademy (HTML)
 * [JavaScript Cheatsheet](https://www.codewithharry.com/blogpost/javascript-cheatsheet) - Code With Harry
 * [JavaScript CheatSheet](https://htmlcheatsheet.com/js/) (HTML)
 * [JavaScript Cheatsheet](https://overapi.com/javascript) - OverAPI
-* [JavaScript Cheat Sheet – A Basic Guide to JavaScript](https://www.geeksforgeeks.org/javascript-cheat-sheet-a-basic-guide-to-javascript) - GeeksforGeeks (HTML)
 * [JavaScript Regex Cheatsheet](https://www.debuggex.com/cheatsheet/regex/javascript) - Debuggex (HTML)
 * [JavaScript WorldWide Cheatsheet](https://cheatography.com/davechild/cheat-sheets/javascript/) - Cheatography (JavaScript)
 * [Modern JavaScript Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet) (HTML)

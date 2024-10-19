@@ -157,119 +157,118 @@
     正確: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
     ```
 
-<!----><a id="alphabetical-order"></a>
 ### 依照字母排序
 
-- 當出現多個相同字母開頭的標題時，則照第二個字母排序，以此類推。例如：`aa` 排在 `ab` 前面
-- `one two` 排在 `onetwo` 前面
+- 當出現多個相同字母開頭的標題時，則照第二個字母排序，以此類推。例如：`aa` 排在 `ab` 前面。
+- `one two` 排在 `onetwo` 前面。
 
-如果你看到錯誤的連結，請檢查 linter 的錯誤訊息來找到哪一行順序需要交換
-
-
-### Notes
-
-While the basics are relatively simple, there is a great diversity in the resources we list. Here are some notes on how we deal with this diversity.
+如果你看到錯誤的連結，請檢查 linter 的錯誤訊息來找到哪一行順序需要交換。
 
 
-#### Metadata
+### 注意事項
 
-Our lists provide a minimal set of metadata: titles, URLs, creators, platforms, and access notes.
-
-
-##### Titles
-
-- No invented titles. We try to take titles from the resources themselves; contributors are admonished not to invent titles or use them editorially if this can be avoided. An exception is for older works; if they are primarily of historical interest, a year in parentheses appended to the title helps users know if they are of interest.
-- No ALLCAPS titles. Usually title case is appropriate, but when doubt use the capitalization from the source
-- No emojis.
+雖然基本原則相對簡單，但我們列出的資源種類繁多。以下是我們如何處理這些多樣性的說明。
 
 
-##### URLs
+#### 元數據（Metadata）
 
-- We don't permit shortened URLs.
-- Tracking codes must be removed from the URL.
-- International URLs should be escaped. Browser bars typically render these to Unicode, but use copy and paste, please.
-- Secure (`https`) URLs are always preferred over non-secure (`http`) urls where HTTPS has been implemented.
-- We don't like URLs that point to webpages that don't host the listed resource, but instead point elsewhere.
+我們的列表僅提供最基本的元數據：標題、網址、創作者、平台以及存取說明。
 
 
-##### Creators
+##### 標題
 
-- We want to credit the creators of free resources where appropriate, including translators!
-- For translated works the original author should be credited. We recommend using [MARC relators](https://loc.gov/marc/relators/relaterm.html) to credit creators other than authors, as in this example:
+- 禁止自行創造標題。我們儘量從資源本身取得標題，並提醒貢獻者避免在非必要情況下編造或修改標題。對於較早的作品，如果它們主要具歷史價值，可以在標題後加上括號中的年份，方便用戶判斷是否感興趣。
+- 禁止使用全部大寫的標題。一般來說，使用標題大小寫是合適的，但如果您不確定，請按照來源中的大小寫格式撰寫。
+- 禁止使用表情符號。
+
+
+##### 網址
+
+- 禁止使用縮網址。
+- 網址中的追蹤碼必須移除。
+- 國際網址應進行轉義處理。雖然瀏覽器網址欄通常會顯示為 Unicode，請務必使用複製貼上的方式保留正確格式。
+- 若情況允許，應優先使用安全的網址（https），避免使用不安全的網址（http）。
+- 我們不喜歡指向與所列資源無關的網頁，也不接受這類轉址鏈接。
+
+
+##### 創作者
+
+- 我們希望在適當的情況下標明免費資源的創作者，包括翻譯者！
+- 對於翻譯作品，應標註原作者。我們建議使用 [MARC 貢獻者標註](https://loc.gov/marc/relators/relaterm.html) 來標示非作者的其他創作者，如以下範例所示：
 
     ```markdown
-    * [A Translated Book](http://example.com/book-zh.html) - John Doe, `trl.:` Mike The Translator
+    * [中文翻譯版](http://example.com/book-zh.html) - John Doe, `trl.:` Mike The Translator
     ```
 
-    here, the annotation `trl.:` uses the MARC relator code for "translator".
-- Use a comma `,` to delimit each item in the author list.
-- You can shorten author lists with "`et al.`".
-- We do not permit links for Creators.
-- For compilation or remixed works, the "creator" may need a description. For example, "GoalKicker" or "RIP Tutorial" books are credited as "`Compiled from StackOverflow documentation`".
+    在這裡，註記 trl.: 使用了 MARC 關係代碼來標示 “翻譯者”。
+- 作者列表中的每個項目以逗號 `,` 分隔。
+- 可以使用 “`et al.`” 來縮短作者列表。
+- 創作者名稱不可添加鏈接。
+- 對於彙編或混合作品，可能需要對 “創作者” 進行描述。例如，“GoalKicker” 或 “RIP Tutorial” 這類書籍會標註為 “`Compiled from StackOverflow documentation`”。
 
 
-##### Platforms and Access Notes
+##### 平台與存取權限說明
 
-- Courses. Especially for our course lists, the platform is an important part of the resource description. This is because course platforms have different affordances and access models. While we usually won't list a book that requires a registration, many course platforms have affordances that don't work without some sort of account. Example course platforms include Coursera, EdX, Udacity, and Udemy. When a course depends on a platform, the platform name should be listed in parentheses.
-- YouTube. We have many courses which consist of YouTube playlists. We do not list YouTube as a platform, we try to list the YouTube creator, which is often a sub-platform.
-- YouTube videos. We usually don't link to individual YouTube videos unless they are more than an hour long and are structured like a course or a tutorial.
-- Leanpub. Leanpub hosts books with a variety of access models. Sometimes a book can be read without registration; sometimes a book requires a Leanpub account for free access. Given quality of the books and the mixture and fluidity of Leanpub access models, we permit listing of the latter with the access note `*(Leanpub account or valid email requested)*`.
-
-
-#### Genres
-
-The first rule in deciding which list a resource belongs in is to see how the resource describes itself. If it calls itself a book, then maybe it's a book.
+- 課程。特別是在我們的課程列表中，平台是資源描述中重要的一部分。因為不同的課程平台有不同的功能與存取模式。雖然我們通常不會列出需要註冊才能訪問的書籍，但許多課程平台有一些功能必須登入帳戶才能使用。常見的課程平台包括 Coursera、EdX、Udacity 和 Udemy。如果課程依賴某個平台，應在括號中列出該平台名稱。
+- YouTube。我們有許多課程由 YouTube 播放清單構成，但我們不會將 YouTube 列為平台，通常會列出 YouTube 創作者，這通常是該平台的子單位。
+- YouTube 影片。我們通常不會鏈接單一的 YouTube 影片，除非該影片長於一小時，且結構類似於課程或教學。
+- Leanpub。Leanpub 上的書籍有各種存取模式，有時書籍不需要註冊即可閱讀，有時則需要 Leanpub 帳戶來免費存取。鑑於書籍的質量及其存取模式的多樣性與變化，我們允許列出需要帳戶存取的書籍，並註明 `*(需要 Leanpub 帳戶或有效的電子郵件)*`。
 
 
-##### Genres we don't list
+#### 資源類型
 
-Because the Internet is vast, we don't include in our lists:
-
-- blogs
-- blog posts
-- articles
-- websites (except for those that host LOTS of items that we list).
-- videos that aren't courses or screencasts.
-- book chapters
-- teaser samples from books
-- IRC or Telegram channels
-- Slacks or mailing lists
-
-Our competitive programming lists are not as strict about these exclusions. The scope of the repo is determined by the community; if you want to suggest a change or addition to the scope, please use an issue to make the suggestion.
+決定資源歸屬於哪個列表的首要規則是看資源如何自我描述。如果它稱自己是一本書，那麼它就是一本書。
 
 
-##### Books vs. Other Stuff
+##### 我們不列出的資源類型
 
-We're not that fussy about book-ness. Here are some attributes that signify that a resource is a book:
+由於網際網路內容浩瀚無邊，我們的列表不包含以下內容：
 
-- it has an ISBN (International Standard Book Number)
-- it has a Table of Contents
-- a downloadable version is offered, especially ePub files.
-- it has editions
-- it doesn't depend on interactive content or videos
-- it tries to comprehensively cover a topic
-- it's self-contained
+- 部落格
+- 部落格文章
+- 文章
+- 網站（除非該網站包含我們列出的大量資源）
+- 不是課程或螢幕錄製的影片
+- 書籍章節
+- 書籍的試閱樣章
+- IRC 或 Telegram 頻道
+- Slack 或郵件列表
 
-There are lots of books that we list that don't have these attributes; it can depend on context.
-
-
-##### Books vs. Courses
-
-Sometimes these can be hard to distinguish!
-
-Courses often have associated textbooks, which we would list in our books lists. Courses have lectures, exercises, tests, notes or other didactic aids. A single lecture or video by itself is not a course. A powerpoint is not a course.
+對於競賽編程的資源列表，資源類型的審核不會那麼嚴格。這個儲存庫（repository）的範圍由社群決定；如果您想對範圍進行更改或擴展，請通過提交 Issue 來提出建議。
 
 
-##### Interactive Tutorials vs. Other stuff
+##### 書籍與其他資源的區別
 
-If you can print it out and retain its essence, it's not an Interactive Tutorial.
+我們對書籍的定義並不那麼嚴格，但以下特徵通常表明該資源是書籍：
+
+- 它有 ISBN（國際標準書號）
+- 它有目錄
+- 提供可下載的版本，特別是 ePub 文件
+- 它有不同版本
+- 它不依賴互動內容或影片
+- 它試圖全面涵蓋某一主題
+- 它是自成一格的
+
+我們列出的許多書籍不一定具備這些特徵，具體情形取決於上下文。
 
 
-### Automation
+##### 書籍與課程的區別
+
+有時這兩者很難區分！
+
+課程通常會有搭配的教材，這些教材會列在我們的書籍列表中。課程還包括講座、練習、測試、筆記或其他教學輔助資源。單一講座或影片本身不算是課程，PowerPoint 投影片也不算是課程。
+
+
+##### 互動式教程與其他內容的區別
+
+如果你可以將它列印出來並保留其精髓，那麼它就不算是互動式教程。
+
+
+### 自動化測試
 
 - 規定格式驗證是由 [GitHub Actions](https://docs.github.com/en/actions) 自動化進行，使用 [fpb-lint](https://github.com/vhf/free-programming-books-lint) 套件 (參閱 [`.github/workflows/fpb-lint.yml`](../.github/workflows/fpb-lint.yml))。
 - 使用 [awesome_bot](https://github.com/dkhamsing/awesome_bot) 進行連結驗證。
-- 可以藉由提交一個內容包含`check_urls=file_to_check`來觸發連結驗證:
+- 可以藉由提交一個內容包含 `check_urls=file_to_check` 來觸發連結驗證:
 
     ```properties
     check_urls=free-programming-books.md free-programming-books-zh.md

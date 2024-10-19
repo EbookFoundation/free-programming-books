@@ -156,7 +156,6 @@
 * [Docker Cheat Sheet (v1)](https://dockerlux.github.io/pdf/cheat-sheet.pdf) - Gildas Cuisinier, Docker Meetup Luxembourg (PDF)
 * [Docker Cheat Sheet (v2)](https://dockerlux.github.io/pdf/cheat-sheet-v2.pdf) - Gildas Cuisinier, Docker Meetup Luxembourg (PDF)
 * [Docker Cheatsheet: Docker commands that developers should know](https://vishnuch.tech/docker-cheatsheet) - Vishnu Chilamakuru (HTML)
-
 * [Docker CLI \& Dockerfile Cheat Sheet](https://web.archive.org/web/20210909015922/https://design.jboss.org/redhatdeveloper/marketing/docker_cheatsheet/cheatsheet/images/docker_cheatsheet_r3v2.pdf) - Bachir Chihani, Rafael Benevides, Red Hat Developers (PDF) *(:card_file_box: archived)*
 * [Docker CLI cheatsheet](https://devhints.io/docker) - DevHints, Rico Santa Cruz (HTML)
 * [Docker Free Cheatsheet](https://cheatsheet.dennyzhang.com/cheatsheet-docker-a4) - Denny Zhang (HTML, PDF)

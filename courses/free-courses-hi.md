@@ -534,7 +534,6 @@
 * [ReactJS Tutorials for Beginners In Hindi](https://www.youtube.com/playlist?list=PLUVqY59GNZQNTlOnGne0G7DXnmi7CeOtc) - Pradeep Maurya
 
 
-
 #### React Native
 
 * [React Native hindi tutorial](https://www.youtube.com/playlist?list=PL8p2I9GklV479IV5cXwKXqGOcCOu0bPXW) - Code Step By Step

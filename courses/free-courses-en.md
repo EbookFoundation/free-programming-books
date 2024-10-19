@@ -1266,7 +1266,6 @@
 * [Kubernetes Tutorial for Beginners](https://www.youtube.com/playlist?list=PL9ooVrP1hQOF907pPru97cKY9nKwOrDTP) - edureka!
 
 
-
 ### Linux
 
 * [Fundamentals of Red Hat Enterprise Linux](https://www.edx.org/course/fundamentals-of-red-hat-enterprise-linux) - Chris Caillouet (edX)

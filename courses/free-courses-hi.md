@@ -596,6 +596,7 @@
 * [Discrete Mathematics Tutorials In Hindi | B.TECH- B.E.-UGC NET- GATE- LECTURES In Hindi](https://www.youtube.com/playlist?list=PLL8qj6F8dGlTX359q-PBBUFw3BrBvAxq3) - Deepak Garg
 * [Maths for CP](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFs8E0EGeckM89cD8E6sFro) - Pepcoding
 * [Statistics And Probability](https://www.youtube.com/playlist?list=PLU6SqdYcYsfLRq3tu-g_hvkHDcorrtcBK) - Gajendra Purohit
+* [Maths for Machine Learning](https://www.youtube.com/playlist?list=PLKnIA16_RmvbYFaaeLY28cWeqV-3vADST) - CampusX
 
 
 ### Matlab

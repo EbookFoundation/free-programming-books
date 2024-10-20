@@ -58,6 +58,7 @@
 ### Assembly
 
 * [Assembler x86](https://www.youtube.com/playlist?list=PLUJjY3hQLJ3NHQ9315KVvgiZ3v2FLtcbs)
+* [Assembly x86](https://www.youtube.com/playlist?list=PL4GzWsD6ECaXVzneIlSV62plQPdWXIZ_h) - Leonardo Boselli
 
 
 ### Bash / Shell

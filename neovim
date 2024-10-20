@@ -1,0 +1,54 @@
+Learning Neovim can seem daunting at first, but there are plenty of resources available to help you get started. Here’s a curated list of resources, including tutorials, documentation, and community links:
+
+### Official Resources
+1. **Neovim Official Documentation**:  
+   - [Neovim Documentation](https://neovim.io/)  
+   - This is the primary source for learning about Neovim's features and configuration.
+
+2. **Getting Started Guide**:  
+   - [Getting Started](https://neovim.io/)  
+   - A concise guide to help you set up Neovim and understand its basic usage.
+
+### Tutorials and Guides
+1. **Open Source Society University**:  
+   - [OSSU: Computer Science](https://github.com/ossu/computer-science/tree/master/bootcamp)  
+   - Includes a section on Neovim as part of its programming curriculum.
+
+2. **ThePrimeagen's Neovim Configuration**:  
+   - [ThePrimeagen's YouTube Series](https://www.youtube.com/playlist?list=PL1zM4v2Cpt9OgD3S9Hg8_qxkORaWDAwD1)  
+   - A series of videos that cover Neovim configuration and plugins.
+
+3. **Neovim From Scratch**:  
+   - [Neovim from Scratch](https://github.com/LukeSmithxyz/Neovim-from-scratch)  
+   - A guide that walks you through setting up Neovim from the ground up.
+
+### Configuration and Plugins
+1. **Awesome Neovim**:  
+   - [Awesome Neovim](https://github.com/rockerBOO/awesome-neovim)  
+   - A curated list of plugins and resources for enhancing your Neovim experience.
+
+2. **LunarVim**:  
+   - [LunarVim](https://www.lunarvim.org/)  
+   - A Neovim configuration that comes with a set of pre-installed plugins and sensible defaults.
+
+### Community and Support
+1. **Neovim Reddit Community**:  
+   - [r/neovim](https://www.reddit.com/r/neovim/)  
+   - A community where you can ask questions and share tips.
+
+2. **Neovim Discord**:  
+   - [Neovim Discord Server](https://discord.gg/neovim)  
+   - Join the community to chat and get help in real time.
+
+3. **Stack Overflow**:  
+   - [Neovim Questions](https://stackoverflow.com/questions/tagged/neovim)  
+   - A place to ask specific questions and find answers related to Neovim.
+
+### Additional Learning Platforms
+1. **FreeCodeCamp**:  
+   - Look for articles and tutorials about Neovim on [FreeCodeCamp](https://www.freecodecamp.org/news/) or YouTube.
+
+2. **YouTube**:  
+   - Search for "Neovim tutorials" on YouTube for a variety of video tutorials from different creators.
+
+By exploring these resources, you can gradually become proficient in Neovim. Don't hesitate to experiment and customize your setup as you learn!

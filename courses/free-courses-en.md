@@ -1641,13 +1641,9 @@
 
 * [@TJ_Null’s OSCP Prep](https://youtube.com/playlist?list=PLidcsTyj9JXK-fnabFLVEvHinQ14Jy5tf) - IppSec
 * [Computer Systems Security](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014) - Nickolai Zeldovich (MIT OpenCourseWare)
-* [Ethical Hacking](https://www.youtube.com/playlist?list=PLDV15dUauYyOcloXu7GXHJ6Xxq5XTBg1k) - Cyber Square
 * [Ethical Hacking](https://www.hacker101.com/videos) - Hacker101
 * [Ethical Hacking - Basics (Kali 2021)](https://www.udemy.com/course/ethical-hacking-basics-kali-20211) - Arthur Salmon (Udemy)
-* [Ethical Hacking - SQL Injection Attack](https://www.udemy.com/course/sql-injection-ethical-hacking) - Sunil K. Gupta, Knowledge Aacademy (Udemy)
 * [Ethical Hacking for beginners: Beginner to Advance](https://www.udemy.com/course/ethical-hacking-for-beginners-beginner-to-advance) - PaceIT Academy (Udemy)
-* [Ethical Hacking from Scratch - The Complete Course](https://www.udemy.com/course/ethical-hacking-by-digiflax) - DIGIFLAX E-LEARNING (Udemy)
-* [Ethical Hacking Kali Linux Command Line (CLI) Hands-On](https://www.udemy.com/course/kali-linux-command-line-cli-hands-on) - Musab Zayadneh (Udemy)
 * [Ethical hacking with Hak5 devices](https://www.udemy.com/course/ethical-hacking-with-hak5-devices) - David Bombal (Udemy)
 * [Foundations of Hacking and Pentesting Android Apps](https://www.udemy.com/course/foundations-of-hacking-and-pentesting-android-apps) - Scott Cosentino (Udemy)
 * [Full Length Hacking Courses](https://youtube.com/playlist?list=PLLKT__MCUeixqHJ1TRqrHsEd6_EdEvo47) - The Cyber Mentor
@@ -1663,10 +1659,8 @@
 * [Professor Messer’s SY0-601 CompTIA Security+ Course](https://www.professormesser.com/security-plus/sy0-601/sy0-601-video/sy0-601-comptia-security-plus-course/) - Professor Messer
 * [Reverse Engineering For Everyone!](https://0xinfection.github.io/reversing) - mytechnotalent
 * [Stanford Cryptography I](https://www.coursera.org/course/crypto) - Dan Boneh
-* [Stanford Cryptography II](https://www.coursera.org/course/crypto2) - Dan Boneh
 * [Start Ethical Hacking with Parrot Security OS (Alt. to Kali)](https://www.udemy.com/course/ethical-hacking-with-parrot-security-os) - Seyed Farshid Miri (Udemy)
 * [The Complete Cyber Security & Hacking Course](https://academy.ehacking.net/p/cyber-security-training-hacking-course) - INSEC-TECHS (EH Academy)
-* [WireShark for Ethical Hacking](https://www.udemy.com/course/wireshark-for-ethical-hacking-new) - Musab Zayadneh (Udemy)
 * [Zero to Hero: A Practical Network Penetration Testing Course](https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj) - The Cyber Mentor
 
 

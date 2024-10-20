@@ -623,6 +623,7 @@
 * [Natural Language Processing with Deep NLP from Zero to Hero](https://www.youtube.com/playlist?list=PLtCBuHKmdxOefxJhd6u8KY9vTN8G5D5yG) - Fahad Hussain 
 * [NLP Tutorial Playlist Python](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX) - Code Basics
 * [Playlist to Natural Language Processing [ Hindi ]](https://www.youtube.com/playlist?list=PLPIwNooIb9vimsumdWeKF3BRzs9tJ-_gy) - Perfect Computer Engineer
+* [Natural Language Processing](https://www.youtube.com/playlist?list=PLKnIA16_RmvZo7fp5kkIth6nRTeQQsjfX) - CampusX
 
 
 ### Networking

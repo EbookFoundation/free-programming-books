@@ -56,6 +56,7 @@
     * [Deno](#deno)
     * [Electron](#electron)
     * [jQuery](#jquery)
+    * [Nest.js](#nestjs)
     * [Next.js](#nextjs)
     * [NodeJS](#nodejs)
     * [React](#react)
@@ -1046,6 +1047,12 @@
 * [Bento jQuery Track](https://bento.io/topic/jquery) (Bento)
 * [Introduction to JQuery](https://www.udacity.com/course/intro-to-jquery--ud245) (Udacity)
 * [jQuery Crash Course](https://www.youtube.com/playlist?list=PLillGF-RfqbYJVXBgZ_nA7FTAAEpp_IAc) - Brad Traversy, Traversy Media
+
+
+### Nest.js
+
+* [Learn NestJS – Complete Course](https://www.youtube.com/watch?v=sFnAHC9lLaw) - freeCodeCamp
+* [NestJs](https://www.youtube.com/playlist?list=PLlaDAvA2MhR2jb8zavu6I-w1BA878aHcB) - Marius Espejo
 
 
 #### Next.js

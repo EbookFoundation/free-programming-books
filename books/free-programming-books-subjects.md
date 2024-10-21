@@ -802,6 +802,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [The Nature of Code](https://natureofcode.com/book) - Daniel Shiffman (HTML)
 * [The Super Programmer](https://github.com/keyvank/tsp) - Keyvan Kambakhsh (PDF, HTML) *(:construction: in process)*
 * [Think Complexity](https://greenteapress.com/wp/think-complexity-2e/) - - Allen B. Downey (2nd Edition) (PDF, HTML)
+* [Why Programs Fail](https://atakua.org/old-wp/wp-content/uploads/2016/05/Andreas_Zeller_Why_Programs_Fail_Second_Edition_A_Guide_to_Systematic_Debugging__2009.pdf) - Andreas Zeller (PDF)
 
 
 ### Programming Paradigms

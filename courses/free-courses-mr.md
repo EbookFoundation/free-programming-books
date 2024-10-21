@@ -65,7 +65,6 @@
 * [HTML \| HTML For Beginners \| Krushna Pise \| Marathi Programmer](https://youtube.com/playlist?list=PLWSZr_wlNWaw8_iFhKvrPKp1Uh2S1dXHk) - MaRaTHi ProGrammer
 
 
-
 ### Java
 
 * [Core Java in Marathi](https://youtube.com/playlist?list=PLcb3cGQ8kyd_n-B6NWekCItJ-2SrRqm8-) - JavaKatta

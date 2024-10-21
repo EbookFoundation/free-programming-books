@@ -27,6 +27,7 @@
 * [Linux](#linux)
 * [MongoDB](#mongodb)
 * [MySQL](#mysql)
+* [Operating Systems](#operating-systems)
 * [PHP](#php)
     * [Laravel](#laravel)
 * [Programming paradigms](#programming-paradigms)
@@ -273,6 +274,11 @@
 * [MySQL Database Bangla Tutorials (HSC student / Anyone)](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qLcx9DvVDWmNJ7riPvxzCD) - Anisul Islam
 
 
+### Operating Systems
+
+* [Operating System (OS) Bangla Tutorial (কমপ্লিট কোর্স)](https://www.youtube.com/playlist?list=PLncy2sD7w4Yr3ZbiP_ipAjgjDRn86N_tT) - Lecturelia - CSE Bangla Tutorial
+
+
 ### PHP
 
 * [PHP All You Need To Know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVCFLIrGA1GaxacvPTDQcsMV) - Stack Learner
@@ -283,7 +289,7 @@
 
 #### Laravel
 
-* [Restapi Bangla tutorial \| Laravel & Lumen Api development](https://www.youtube.com/playlist?list=PLbC4KRSNcMnoQONzuNtFlhEzegTYadoBY) - Learn Hunter
+* [laravel 10 bangla tutorial latest version \| laravel basic to advanced from official documentation](https://www.youtube.com/playlist?list=PLbC4KRSNcMnrY78JyoI8c0pk-reuSw8ff) - Learn Hunter
 
 
 ### Programming paradigms
@@ -297,8 +303,7 @@
 ### Python
 
 * [Bangla Python Tutorial for Beginners](https://www.youtube.com/playlist?list=PLlBKlxyCgmsCYJLq9qc5QzaU-oBFJN79B) - Niamul Hasan (StartBit)
-* [Python All You Need To Know](https://www.youtube.com/playlist?list=PL_XxuZqN0xVCH8fRfZ8sUuKEQQYIFMjtJ) - Stack Learner
-* [Python Bangla Tutorial & Data Science Full Course](https://www.youtube.com/playlist?list=PLmZYUigljiyc-tf7oMmM-s832ibhGxTpT) - Study Mart
+* [Python All You Need to Know / stack learner](https://www.youtube.com/playlist?list=PL3-qJK8D7YirnPBwmPNRyczdVOEwJbtLW) - Stack Learner
 * [Python Bangla Tutorial 2023](https://www.youtube.com/playlist?list=PLNMnAEqLBwmpR8JDBOEl0jrzmH1vPnO7v) - Hablu Programmer
 * [Python Bangla Tutorials for Beginners](https://www.youtube.com/playlist?list=PLgH5QX0i9K3rz5XqMsTk41_j15_6682BN) - Anisul Islam
 * [Python For Beginners - Bangla Tutorials](https://www.youtube.com/playlist?list=PLvr0Ht-XkB_0V-mjAYlfgk-3VRmFarlzC) - Learn With Tawhid
@@ -318,6 +323,7 @@
 #### Flask 
 
 * [Flask Web Development with python (Bangla)](https://www.youtube.com/playlist?list=PL5WWFMzXof5hA8cLzEoim7BEkHcmddbOK) - Naimul Hawk
+* [Python Flask Web Development Full Course in One Video(বাংলা)](https://youtu.be/QnbsCC8wvJk?si=sRyiRRehGb_qv2wR) - CodeWithRafiq
 
 
 ### Scratch
@@ -348,7 +354,6 @@
 ### WordPress
 
 * [WordPress Bangla Tutorial](https://www.youtube.com/playlist?list=PLm64fbD5Onxti7DiUkX3UX3P2tuiEw30E) - Moshiur
-* [Wordpress Bangla Tutorial Course for beginner to advanced level](https://www.youtube.com/playlist?list=PLeCz-UdZ0uzQVPdQN-mWnz8896BdYMqAf) - Freelancer Mannan
 * [WordPress Customization Bangla Tutorial](https://www.youtube.com/playlist?list=PLbC4KRSNcMno7NzhTgGhoZtRjLiHUo8m4) - Learn Hunter
 * [WordPress Plugin Development](https://www.youtube.com/playlist?list=PLSNRR4BKcowCkeAxfdtTsLqwR0LJYwDaz) - Procoder BD
 * [WordPress Theme Development Tutorial Bangla ](https://www.youtube.com/playlist?list=PLSNRR4BKcowD6A-U_ll9ayJWqOEz3XD8l) - Procoder BD

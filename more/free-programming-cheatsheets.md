@@ -64,7 +64,8 @@
 
 ### Angular
 
-* [Angular Cheat Sheet](https://angular.io/guide/cheatsheet) 
+* [Angular Cheat Sheet](https://angular.io/guide/cheatsheet)
+* [Angular Cheat Sheet – A Basic Guide to Angular](https://www.geeksforgeeks.org/angular-cheat-sheet-a-basic-guide-to-angular/) - GeeksforGeeks
 
 
 ### Ansible
@@ -85,11 +86,13 @@
 
 ### Artificial Intelligence
 
+* [AI is confusing — here’s your cheat sheet](https://www.theverge.com/24201441/ai-terminology-explained-humans) Jay Peters (HTML)
 * [What is Artificial Intelligence?](https://intelligencereborn.com/ArtificialIntelligence.html) IntelligenceReborn (HTML)
 
 
 ### C
 
+* [C Cheat Sheet](https://www.geeksforgeeks.org/c-cheatsheet/) - GeeksforGeeks
 * [C Language Cheat Sheet](https://www.codewithharry.com/blogpost/c-cheatsheet/) - CodeWithHarry(HTML)
 * [C Reference Card (ANSI)](https://users.ece.utexas.edu/~adnan/c-refcard.pdf) (PDF)
 * [Systems Programming Cheat Sheet](https://github.com/jstrieb/systems-programming-cheat-sheet) (HTML)
@@ -104,6 +107,7 @@
 
 ### <a id="cpp"></a>C++
 
+* [C++ Cheatsheet](https://www.geeksforgeeks.org/cpp-cheatsheet) - GeeksforGeeks 
 * [C++ Cheatsheet](https://www.codewithharry.com/blogpost/cpp-cheatsheet) - CodeWithHarry (HTML)
 * [C++ Quick Reference](http://www.hoomanb.com/cs/quickref/CppQuickRef.pdf) - Hooman Baradaran (PDF)
 * [Cheatsheets & Infographics](https://hackingcpp.com/cpp/cheat_sheets.html) - Hacking C++ (HTML & downloadable as PNG)
@@ -148,6 +152,7 @@
 * [Docker Cheat Sheet](https://web.archive.org/web/20210516172426/https://swissarmydevops.com/wp-content/uploads/2021/02/Docker_Cheat_Sheet-2.pdf) - Nikko Pedersen, Swiss Army DevOps (PDF) *(:card_file_box: archived)*
 * [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet) - Will Sargent, et al. (HTML)
 * [Docker Cheat Sheet - Kapeli](https://kapeli.com/cheat_sheets/Docker.docset/Contents/Resources/Documents/index) - Bogdan Popescu (HTML)
+* [Docker Cheat Sheet : Complete Guide (2024)](https://www.geeksforgeeks.org/docker-cheat-sheet) - Geeksforgeeks (HTML)
 * [Docker Cheat Sheet (v1)](https://dockerlux.github.io/pdf/cheat-sheet.pdf) - Gildas Cuisinier, Docker Meetup Luxembourg (PDF)
 * [Docker Cheat Sheet (v2)](https://dockerlux.github.io/pdf/cheat-sheet-v2.pdf) - Gildas Cuisinier, Docker Meetup Luxembourg (PDF)
 * [Docker Cheatsheet: Docker commands that developers should know](https://vishnuch.tech/docker-cheatsheet) - Vishnu Chilamakuru (HTML)
@@ -206,6 +211,7 @@
 
 * [Accessibility CheatSheet](https://learn-the-web.algonquindesign.ca/topics/accessibility-cheat-sheet/) - Algonquin Design (HTML)
 * [Beginner's CheatSheet](https://websitesetup.org/html5-cheat-sheet/) - WebsiteSetup (HTML)
+* [CSS Cheat Sheet – A Basic Guide to CSS](https://www.geeksforgeeks.org/css-cheat-sheet-a-basic-guide-to-css) - GeeksforGeeks (HTML)
 * [CSS CheatSheet](https://htmlcheatsheet.com/css/) (HTML)
 * [CSS Cheatsheet](https://www.codewithharry.com/blogpost/css-cheatsheet/) - CodeWithHarry (HTML)
 * [CSS Cheatsheet](https://web.stanford.edu/group/csp/cs21/csscheatsheet.pdf) - Stanford (PDF)
@@ -245,13 +251,15 @@
 ### Java
 
 * [Java](https://web.archive.org/web/20230816231124/https://programmingwithmosh.com/wp-content/uploads/2019/07/Java-Cheat-Sheet.pdf) - Moshfegh Hamedani (PDF) *(:card_file_box: archived)*
-* [Java Cheat Sheet](https://www.edureka.co/blog/cheatsheets/java-cheat-sheet/) - Edureka (HTML)
+* [Java Cheat Sheet](https://www.geeksforgeeks.org/java-cheat-sheet) - GeeksforGeeks (HTML)
+* [Java Cheat Sheet](https://www.edureka.co/blog/cheatsheets/java-cheat-sheet) - Edureka (HTML)
 * [Java Cheatsheet](https://www.codewithharry.com/blogpost/java-cheatsheet) - CodeWithHarry (HTML)
-* [Java Programming Cheatsheet](https://introcs.cs.princeton.edu/java/11cheatsheet/) - Robert Sedgewick and Kevin Wayne (HTML)
+* [Java Programming Cheatsheet](https://introcs.cs.princeton.edu/java/11cheatsheet) - Robert Sedgewick and Kevin Wayne (HTML)
 
 
 ### JavaScript
 
+* [JavaScript Cheat Sheet – A Basic Guide to JavaScript](https://www.geeksforgeeks.org/javascript-cheat-sheet-a-basic-guide-to-javascript) - GeeksforGeeks (HTML)
 * [JavaScript CheatSheet](https://github.com/wilfredinni/javascript-cheatsheet) - Wilfredinni (HTML)
 * [JavaScript Cheatsheet](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet) - Codecademy (HTML)
 * [JavaScript Cheatsheet](https://www.codewithharry.com/blogpost/javascript-cheatsheet) - Code With Harry
@@ -267,6 +275,7 @@
 
 * [Beginner's essential jQuery Cheat Sheet](https://websitesetup.org/wp-content/uploads/2017/01/wsu-jquery-cheat-sheet.pdf) (PDF)
 * [JQuery Cheat Sheet](https://overapi.com/jquery) - OverAPI
+* [jQuery Cheat Sheet – A Basic Guide to jQuery](https://www.geeksforgeeks.org/jquery-cheat-sheet-a-basic-guide-to-jquery) - GeeksforGeeks (HTML)
 * [jQuery CheatSheet](https://htmlcheatsheet.com/jquery/) (HTML)
 * [jQuery Mega Cheat Sheet](https://makeawebsitehub.com/wp-content/uploads/2015/09/jquery-mega-cheat-sheet-Printable.pdf) - Jamie Spencer (PDF)
 
@@ -394,6 +403,7 @@
 * [Python Cheat Sheet](https://websitesetup.org/python-cheat-sheet/) - WebsiteSetup (HTML, PDF, PNG)
 * [Python Cheat Sheet](https://www.pythoncheatsheet.org) - Wilfredinni (HTML)
 * [Python Cheat Sheet](https://overapi.com/python) - OverAPI
+* [Python Cheat sheet (2024)](https://www.geeksforgeeks.org/python-cheat-sheet) - GeeksforGeeks
 * [Python Crash Course Cheatsheet](https://ehmatthes.github.io/pcc/cheatsheets/README.html) - Eric Matthes (HTML)
 * [Python Crash Course Cheatsheet (2nd Edition)](https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/) - Eric Matthes (PDF)
 * [Python Data Wrangling with pandas](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf) - Pandas (PDF)
@@ -424,6 +434,8 @@
 
 #### Numpy Pandas
 
+* [NumPy Cheat Sheet: Beginner to Advanced (PDF)](https://www.geeksforgeeks.org/numpy-cheat-sheet) - GeeksforGeeks (HTML,PDF)
+* [Pandas Cheat Sheet for Data Science in Python](https://www.geeksforgeeks.org/pandas-cheat-sheet) - GeeksforGeeks (HTML)
 * [Pandas, Numpy, Python Cheatsheet](https://www.kaggle.com/code/lavanyashukla01/pandas-numpy-python-cheatsheet) - Kaggle (HTML)
 
 

@@ -58,6 +58,7 @@
 ### Assembly
 
 * [Assembler x86](https://www.youtube.com/playlist?list=PLUJjY3hQLJ3NHQ9315KVvgiZ3v2FLtcbs)
+* [Assembly x86](https://www.youtube.com/playlist?list=PL4GzWsD6ECaXVzneIlSV62plQPdWXIZ_h) - Leonardo Boselli
 
 
 ### Bash / Shell
@@ -157,6 +158,7 @@
 ### Machine Learning
 
 * [Machine Learning in italiano col Pollo Watzlawick](https://www.youtube.com/playlist?list=PLa-sizbCyh93c0nSPAb8k5ZZeOq4SBIl9) - Piero Savastano
+* [Machine Learning Reti Neurali](https://www.youtube.com/playlist?list=PL-tCoHPn6YlbCQHeyRxc_CQ0f1VZsUD6D) - Davide Manzoni (Brainlink)
 
 
 ### Misto

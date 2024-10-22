@@ -1,5 +1,5 @@
 ## Index
-
+* [11th Std Computer Science Book](#11th-Std-computer-book)
 * [AR/VR/MR](#ar-vr-mr)
 * [C Programming Language](#c-programming-language)
 * [Computer Vision](#computer-vision)
@@ -16,6 +16,9 @@
 * [Selenium](#selenium)
 * [Software Architecture](#software-architecture)
 * [Wordpress](#wordpress)
+
+### 11th Std Computer Science Book
+* [11 வகுப்பு கணினி அறிவியல்](https://d1e5r329t7a85t.cloudfront.net/syllabuspdf/11th_Computer%20Science_TM_Text.pdf) - Goverment Of TamilNadu (PDF)
 
 
 ### AR VR MR

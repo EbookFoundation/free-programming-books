@@ -1072,6 +1072,12 @@
 * [Electron js Tutorials](https://www.youtube.com/playlist?list=PLC3y8-rFHvwiCJD3WrAFUrIMkGVDE0uqW) - Codevolution
 
 
+#### Force.com
+
+* [Apex TrailMix](https://trailhead.salesforce.com/users/rolson5/trailmixes/apex-trail-mix) - Rick Olson
+* [Get Started with Lightning Web Components](https://trailhead.salesforce.com/users/strailhead/trailmixes/lightning-web-components) - Salesforce Trailhead
+
+
 #### jQuery
 
 * [Bento jQuery Track](https://bento.io/topic/jquery) (Bento)

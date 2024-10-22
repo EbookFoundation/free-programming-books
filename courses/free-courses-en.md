@@ -1249,6 +1249,7 @@
 * [Android Kotlin Tutorial: Create Android Apps using Kotlin](https://www.youtube.com/playlist?list=PLlxmoA0rQ-Lw5k_QCqVl3rsoJOnb_00UV) - Sriyank Siddhartha
 * [Android with kotlin](https://www.youtube.com/playlist?list=PLlxmoA0rQ-Lw5k_QCqVl3rsoJOnb_00UV) - Smartherd
 * [Developing Android Apps with Kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012) (Udacity)
+* [Kotlin at Light Speed](https://youtube.com/playlist?list=PLmtsMNDRU0BwGCBDIKKQNLYycRTnQzMfp&si=fyEC8i1DXQt02n5l) (Rock the JVM)
 * [Kotlin Bootcamp for Programmers](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011) - Aleks Haecky, Asser Samak, Sean McQuillan (Udacity)
 * [Kotlin Bootcamp for Programmers](https://developer.android.com/courses/kotlin-bootcamp/overview) - Developer Android (Google)
 * [Kotlin Course - Tutorial for Beginners](https://www.youtube.com/watch?v=F9UC9DY-vIU) - Nate Ebel, freeCodeCamp

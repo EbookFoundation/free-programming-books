@@ -599,17 +599,17 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### COBOL
 
-* [A Guide to COBOL Programming](https://www.ibm.com/docs/en/ssw_ibm_i_71/rzase/sc092540.pdf) - David E. Woolbright (PDF)
-* [COBOL: A Self Instructional Manuel](https://babel.hathitrust.org/cgi/pt?id=mdp.39015000482466&view=1up&seq=14&skin=2021) - James A. Saxon 
-* [COBOL Programmer's Guide and Reference](https://www.microfocus.com/documentation/orbix/orbixfm62/pdfdoc/cobol_guide_and_ref.pdf) - Micro Focus (PDF)
+* [COBOL: A Self Instructional Manual](https://babel.hathitrust.org/cgi/pt?id=mdp.39015000482466&view=1up&seq=14&skin=2021) - James A. Saxon 
+* [Cobol: From Micro To Mainframe](https://vdoc.pub/download/cobol-from-micro-to-mainframe-3rd-edition-5t4osmo5p540) - Robert T. Grauer, Carol Vazquez Villar, Arthur R. Buss (PDF)
 * [COBOL Programming Fundamental](http://yusman.staff.gunadarma.ac.id/Downloads/files/33460/COBOL_Programming_Fundamental.pdf) (PDF)
 * [COBOL Programming Standards](https://www.tonymarston.net/cobol/cobolstandards.html) - A J Marston (HTML)
 * [Enterprise COBOL for z/OS documentation library](http://www-01.ibm.com/support/docview.wss?uid=swg27036733)
 * [GNU COBOL Programmers Guide](https://edoras.sdsu.edu/doc/GNU_Cobol_Programmers_Guide_2.1.pdf) - Gary L. Cutler (PDF)
 * [ILE COBOL Programmer's Guide](https://www.ibm.com/docs/de/ssw_ibm_i_74/pdf/sc092539.pdf) (PDF)
-* [Learn COBOL Programming](https://riptutorial.com/Download/cobol.pdf) - Michael Coughlan (PDF)
 * [Micro Focus: OO Programming with Object COBOL for UNIX (1999)](https://www.microfocus.com/documentation/object-cobol/oc41books/oppubb.htm) - MERANT International Ltd. (HTML)
 * [OpenCOBOL 1.1 - Programmer's Guide](http://open-cobol.sourceforge.net/guides/OpenCOBOL%20Programmers%20Guide.pdf) (PDF)
+* [Sams Teach Yourself COBOL in 21 Days](http://testa.roberta.free.fr/My%20Books/Mainframe/Cobol/Teach%20Yourself%20Cobol%20In%2021%20Days%20(2nd%20Ed).pdf) - Mo Budlong (PDF)
+* [Visual COBOL: A Developer's Guide to Modern COBOL](https://www.microfocus.com/media/ebook/visual_cobol_ebook.pdf) - Paul Kelly (PDF)
 
 
 ### CoffeeScript

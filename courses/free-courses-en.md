@@ -340,6 +340,7 @@
 * [Smart Contract Security](https://updraft.cyfrin.io/courses/security) - Cyfrin Updraft
 * [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial](https://www.youtube.com/watch?v=M576WGiDBdQ) - Patrick Collins (freeCodeCamp.org)
 
+
 ### C
 
 * [A breakdown of the 42 schools curriculum, with project details](https://github.com/pasqualerossi/42-School-Guide?tab=readme-ov-file) - pasqualerossi (Github)

@@ -1548,7 +1548,7 @@
 
 ### R
 
-* [CS50's Introduction to Programming with R](https://learning.edx.org/course/course-v1:HarvardX+CS50R+R/home) - Carter Zenke
+* [CS50's Introduction to Programming with R](https://cs50.harvard.edu/r/2024/) - Carter Zenke
 * [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r) - DataCamp
 * [R Basics - R Programming Language Introduction](https://www.udemy.com/course/r-basics/) - R-Tutorials Training (Udemy)
 * [R Programming](https://www.coursera.org/course/rprog)

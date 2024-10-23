@@ -1,6 +1,6 @@
 ## Index
 
-* [11th Std Computer Science Book](#11th-Std-computer-book)
+* [11th Std Books](#11th-Std-computer-book)
 * [AR/VR/MR](#ar-vr-mr)
 * [C Programming Language](#c-programming-language)
 * [Computer Vision](#computer-vision)
@@ -19,10 +19,18 @@
 * [Wordpress](#wordpress)
 
 
-### 11th Std Computer Science Book
+### 11th Std Computer Application
 
 * [11 கணினி பயன்பாடுகள் - Computer Applications](https://d1e5r329t7a85t.cloudfront.net/syllabuspdf/11th_Computer%20Application_TM_Text.pdf) - Goverment Of TamilNadu (PDF)
+
+
+### 11th std Computer Science
+
 * [11 வகுப்பு கணினி அறிவியல் - Computer Science](https://d1e5r329t7a85t.cloudfront.net/syllabuspdf/11th_Computer%20Science_TM_Text.pdf) - Goverment Of TamilNadu (PDF)
+
+
+### 11th std Computer Technology
+
 * [11 அடிப்படை இயந்திரவியல் - Computer Technology](https://www.selfstudys.com/books/tamilnadu/state-books/class-11th/computer-technology) - Goverment Of TamilNadu (PDF)
 
 

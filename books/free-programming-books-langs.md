@@ -1368,7 +1368,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [React JS Notes for Professionals](https://goalkicker.com/ReactJSBook/) - Compiled from StackOverflow Documentation (PDF)
 * [React Primer Draft](https://github.com/mikechau/react-primer-draft)
 * [React Succinctly](https://www.syncfusion.com/ebooks/react-succinctly) - Samer Buna
-* [React Tutorial](https://reactjs.org/tutorial/tutorial.html)
 * React Tutorial by Josh Finnie
     * [React Tutorial - Part 1](http://www.joshfinnie.com/blog/reactjs-tutorial-part-1/) - Josh Finnie
     * [React Tutorial - Part 2](http://www.joshfinnie.com/blog/reactjs-tutorial-part-2/) - Josh Finnie
@@ -1378,6 +1377,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Redux Tutorial](https://www.tutorialspoint.com/redux/) - Tutorial Point (HTML, PDF)
 * [SurviveJS - Webpack and React](http://survivejs.com)
 * [The React Beginner's Handbook](https://flaviocopes.com/page/react-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
+* [Quick Start](https://react.dev/learn)
 
 
 #### React Native

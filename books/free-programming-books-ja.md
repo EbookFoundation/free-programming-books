@@ -430,7 +430,7 @@
 #### React
 
 * [React 0.13 日本語リファレンス](https://js.studio-kingdom.com/react) - `trl:` @tomof
-* [チュートリアル：React の導入](https://ja.reactjs.org/tutorial/tutorial.html) - Facebook Inc.
+* [クイックスタート](https://ja.react.dev/learn) - Facebook Inc.
 
 
 #### Svelte

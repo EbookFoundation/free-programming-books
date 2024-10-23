@@ -37,7 +37,7 @@
 
 ### DevOps
 
-* [எளிய தமிழில் DevOps](https://freetamilebooks.com/ebooks/learn_devops_in_tamil/) - து.நித்யா (PDF)
+* [எளிய தமிழில் DevOps – கணினி அறிவியல்](https://freetamilebooks.com/ebooks/learn_devops_in_tamil/) - து.நித்யா (PDF)
 
 
 ### Git Github
@@ -107,7 +107,7 @@
 
 ### Software Testing
 
-* [எளிய தமிழில் Software Testing](https://freetamilebooks.com/ebooks/eliya_tamilil_software_testing/) - கி.முத்துராமலிங்கம் (PDF)
+* [எளிய தமிழில் சாப்ட்வேர் டெஸ்டிங் – தொழில்நுட்பம்](https://freetamilebooks.com/ebooks/eliya_tamilil_software_testing/) - கி.முத்துராமலிங்கம் (PDF)
 
 
 ### WordPress

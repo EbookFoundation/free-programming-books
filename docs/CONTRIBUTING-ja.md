@@ -1,4 +1,4 @@
-*他の言語で読む](README.md#translations)*。
+*[他の言語で読む](README.md#translations)*。
 
 
 ## 投稿者ライセンス契約
@@ -8,7 +8,7 @@
 
 ## 投稿者の行動規範
 
-貢献することで、あなたはこのリポジトリの[行動規範](CODE_OF_CONDUCT.md)を尊重することに同意します。([翻訳](README.md#translations))
+貢献することで、あなたはこのリポジトリの[行動規範](CODE_OF_CONDUCT-ja.md)を尊重することに同意します。([翻訳](README.md#translations))
 
 
 ## 一言で言えば
@@ -20,14 +20,14 @@
 
 3. リストには6種類あります。適切なものを選んでください：
 
-    - 書籍* ： 本* : PDF、HTML、ePub、gitbook.ioベースのサイト、Gitレポなど。
-    - コース* ： コースは、本ではない学習教材です。[これはコースです](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)。
+    - *書籍* ： PDF、HTML、ePub、gitbook.ioベースのサイト、Gitレポなど。
+    - *コース* ： コースは、本ではない学習教材です。[これはコースです](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)。
     - インタラクティブなチュートリアル ユーザーがコードやコマンドを入力し、その結果を評価する（「評価する」というのは「採点する」という意味ではない）インタラクティブなウェブサイト： [Haskellを試す](http://tryhaskell.org)、[Gitを試す](https://learngitbranching.js.org)。
     - Playgrounds*：プログラミング学習のためのオンラインかつインタラクティブなウェブサイト、ゲーム、またはデスクトップソフトウェアです。コードの断片を書いたり、コンパイル（または実行）したり、共有したりすることができる。プレイグラウンドでは多くの場合、フォークしてコードで遊んで手を汚すことができます。
     - ポッドキャストとスクリーンキャスト* ： ポッドキャストとスクリーンキャスト。
     - 問題集と競技プログラミング* ： 簡単な問題や複雑な問題を解くことで、自分のプログラミング・スキルを評価することができるウェブサイトやソフトウェア。
 
-4. 以下のガイドライン](#guidelines)を必ず守り、ファイルの[Markdown][フォーマット](#formatting)を尊重してください。
+4. [以下のガイドライン](#ガイドライン)を必ず守り、ファイルの[Markdown フォーマット](#フォーマット)を尊重してください。
 
 5. GitHub Actionsは、**リストがアルファベット順に並んでいるか**、**フォーマットルールが守られているか**を確認するためのテストを実行します。**必ず**テストに合格していることを確認してください。
 
@@ -36,7 +36,7 @@
 
 - 本が無料であることを確認する。必要であればダブルチェックしてください。なぜその本が無料だと思うのか、PRにコメントしていただけると管理者が助かります。
 - Google Drive、Dropbox、Mega、Scribd、Issuu、その他類似のファイルアップロードプラットフォームでホストされているファイルは受け付けません。
-- 下記](#alphabetical-order)のように、アルファベット順にリンクを挿入してください。
+- [下記](#アルファベット順)のように、アルファベット順にリンクを挿入してください。
 - 最も権威のあるソース（編集者のウェブサイトよりも著者のウェブサイト、第三者のウェブサイトよりも著者のウェブサイトの方が良いという意味）のリンクを使用してください。
     - ファイルホスティングサービスは使用しない（DropboxやGoogle Driveのリンクがこれに該当します。
 - 同じドメインにあり、同じコンテンツを提供するのであれば、`http`のリンクよりも`https`のリンクの方が常に好ましい。
@@ -75,7 +75,7 @@
 
 例
 
-テキスト
+```text
 [...]
 * 素晴らしい本(http://example.com/example.html)
                                 (空行)
@@ -86,30 +86,30 @@
 * その他の本(http://example.com/other.html)
 ```
 
-- と`の間にスペースを入れないでください：
+- `]` と `(`の間にスペースを入れないでください：
 
-    テキスト
+    ```text
     BAD ： * [Another Awesome Book] (http://example.com/book.html)
     GOOD： * [Another Awesome Book](http://example.com/book.html)
     ```
 
 - 著者を含める場合は、` - `（ダッシュを半角スペースで囲む）を使用する：
 
-    テキスト
+    ```text
     BAD ： * [Another Awesome Book](http://example.com/book.html)- John Doe
     GOOD： * [Another Awesome Book](http://example.com/book.html) - John Doe
     ```
 
 - リンクとその形式の間に半角スペースを入れる：
 
-    テキスト
+    ```text
     BAD ： * [とても素晴らしい本](https://example.org/book.pdf)(PDF)
     GOOD： * [とても素晴らしい本](https://example.org/book.pdf) (PDF)
     ```
 
 - 著者はフォーマットの前に来る：
 
-    テキスト
+    ```text
     BAD ： * [A Very Awesome Book](https://example.org/book.pdf)- (PDF) ジェーン・ロー
     GOOD： * [A Very Awesome Book](https://example.org/book.pdf) - ジェーン・ロー (PDF)
     ```
@@ -144,7 +144,7 @@
 ### アルファベット順
 
 - 同じ文字で始まるタイトルが複数ある場合は、2番目から順に並べる。例：`aa`は`ab`の前。
-- one two`は`onetwo`の前。
+- `one two`は`onetwo`の前。
 
 リンクがずれている場合は、リンターのエラーメッセージを確認して、どの行を入れ替えるべきか確認してください。
 
@@ -180,8 +180,8 @@
 - 私たちは、翻訳者を含め、適切な場合、フリーリソースの作成者をクレジットしたいと思います！
 - 翻訳された作品については、原著者がクレジットされるべきです。この例のように、著者以外のクリエイターをクレジットするには、[MARC relators](https://loc.gov/marc/relators/relaterm.html)を使うことをお勧めします：
 
-    マークダウン
-    * 翻訳本](http://example.com/book.html) - John Doe, `trl.:` Mike The Translator
+    ```markdown
+    * [翻訳本](http://example.com/book.html) - John Doe, `trl.:` Mike The Translator
     ```
 
     この例では、`trl.:`という注釈にMARCのリレータコードを使用しています。
@@ -192,7 +192,7 @@
 - 「Prof.」や「Dr.」のような敬称はクリエイター名に含めません。
 
 
-###期間限定のコースとトライアル
+##### 期間限定のコースとトライアル
 
 - 6ヶ月以内に削除する必要のあるものは掲載しません。
 - コースの受講期間や期間が限定されている場合、掲載しません。
@@ -263,7 +263,7 @@
 - URLバリデーションは[awesome_bot](https://github.com/dkhamsing/awesome_bot)を使います。
 - URL バリデーションを起動するには、`check_urls=file_to_check` を含むコミットメッセージを含むコミットをプッシュします：
 
-    プロパティ
+    ```properties
     check_urls=free-programming-books.md free-programming-books-ja.md
     ```
 

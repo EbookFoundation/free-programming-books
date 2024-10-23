@@ -1360,6 +1360,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [How To Code in React.js](https://www.digitalocean.com/community/books/how-to-code-in-react-js-ebook) - Joe Morgan
 * [Intro to the React Framework](http://code.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660)
 * [Learning React.js: Getting Started and Concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
+* [Quick Start](https://react.dev/learn)
 * [React-Bits](https://github.com/vasanthk/react-bits)
 * [React Book, your beginner guide to React](https://github.com/softchris/react-book/) - Chris Noring
 * [React Enlightenment](https://www.reactenlightenment.com) - Cody Lindley (HTML)
@@ -1368,7 +1369,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [React JS Notes for Professionals](https://goalkicker.com/ReactJSBook/) - Compiled from StackOverflow Documentation (PDF)
 * [React Primer Draft](https://github.com/mikechau/react-primer-draft)
 * [React Succinctly](https://www.syncfusion.com/ebooks/react-succinctly) - Samer Buna
-* [React Tutorial](https://reactjs.org/tutorial/tutorial.html)
 * React Tutorial by Josh Finnie
     * [React Tutorial - Part 1](http://www.joshfinnie.com/blog/reactjs-tutorial-part-1/) - Josh Finnie
     * [React Tutorial - Part 2](http://www.joshfinnie.com/blog/reactjs-tutorial-part-2/) - Josh Finnie

@@ -1,6 +1,6 @@
 ## Index
 
-* [11th Std Books](#11th-Std-computer-book)
+* [11th Std Books](#11th-Std-books)
 * [AR/VR/MR](#ar-vr-mr)
 * [C Programming Language](#c-programming-language)
 * [Computer Vision](#computer-vision)
@@ -20,7 +20,7 @@
 
 ### 11th Std Books
 
-##11th Std Computer Application
+## 11th Std Computer Application
 
 * [11 கணினி பயன்பாடுகள் - Computer Applications](https://d1e5r329t7a85t.cloudfront.net/syllabuspdf/11th_Computer%20Application_TM_Text.pdf) - Goverment Of TamilNadu (PDF)
 

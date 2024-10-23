@@ -21,8 +21,8 @@
 
 ### 11th Std Computer Science Book
 
-* [11 வகுப்பு கணினி அறிவியல்](https://d1e5r329t7a85t.cloudfront.net/syllabuspdf/11th_Computer%20Science_TM_Text.pdf) - Goverment Of TamilNadu (PDF)
 * [11 கணினி பயன்பாடுகள் - Computer Applications](https://d1e5r329t7a85t.cloudfront.net/syllabuspdf/11th_Computer%20Application_TM_Text.pdf) - Goverment Of TamilNadu (PDF)
+* [11 வகுப்பு கணினி அறிவியல் - Computer Science](https://d1e5r329t7a85t.cloudfront.net/syllabuspdf/11th_Computer%20Science_TM_Text.pdf) - Goverment Of TamilNadu (PDF)
 * [11 அடிப்படை இயந்திரவியல் - Computer Technology](https://www.selfstudys.com/books/tamilnadu/state-books/class-11th/computer-technology) - Goverment Of TamilNadu (PDF)
 
 

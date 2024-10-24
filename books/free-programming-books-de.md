@@ -66,6 +66,7 @@
 
 ### C
 
+* [c-A Book on C : AL Kelley](https://karadev.net/uroci/filespdf/files/a%20book%20on%20c.pdf)(PDF)
 * [C-HowTo: Programmieren lernen mit der Programmiersprache C](https://www.c-howto.de) - Elias Fischer (HTML)
 * [C-Programmierung](https://de.wikibooks.org/wiki/C-Programmierung) - Wikibooks (HTML)
 * [C von A bis Z](http://openbook.rheinwerk-verlag.de/c_von_a_bis_z) - Jürgen Wolf (Online)
@@ -74,6 +75,7 @@
 
 ### <a id="csharp"></a>C\#
 
+* [FUNDAMENTALS OF COMPUTER PROGRAMMING WITH C#](https://introprogramming.info/wp-content/uploads/2013/07/Books/CSharpEn/Fundamentals-of-Computer-Programming-with-CSharp-Nakov-eBook-v2013.pdf)(PDF)
 * [Einführung in das Programmieren mit C#](https://www.uni-trier.de/universitaet/wichtige-anlaufstellen/zimk/downloads-broschueren/programmierung/c) - Bernhard Baltes-Götz (PDF)
 * [Programmieren in C#: Einführung](http://www.highscore.de/csharp/einfuehrung)
 * [Visual C# 2012](http://openbook.rheinwerk-verlag.de/visual_csharp_2012) - Andreas Kühnel (Online)
@@ -81,6 +83,7 @@
 
 ### <a id="cpp"></a>C++
 
+* [A Complete Guide to Programming in C++](https://www.idpoisson.fr/volkov/C++.pdf)(PDF)
 * [Die Boost C++ Bibliotheken](http://dieboostcppbibliotheken.de) - Boris Schäling (Online)
 * [Lean Testing für C++-Programmierer (2018)](https://www.assets.dpunkt.de/openbooks/Openbook_Lean_Testing.pdf) - Andreas Spillner, Ulrich Breymann (PDF)
 * [Programmieren in C++: Aufbau](http://www.highscore.de/cpp/aufbau)

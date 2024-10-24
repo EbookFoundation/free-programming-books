@@ -9,7 +9,7 @@
 * [HTML and CSS](#html-and-css)
 * [IOT](#iot)
 * [JavaScript](#javascript)
-* [Linux](#liunx)
+* [Linux](#linux)
 * [Machine Learning](#machine-learning)
 * [MySQL](#mysql)
 * [Pandas Python](#pandas-python)
@@ -71,8 +71,8 @@
 
 ### Linux
 
-*[Learn GNU Linux in Tamil - Part 1](https://freetamilebooks.com/ebooks/learn-gnulinux-in-tamil-part1/) - து.நித்யா (PDF)
-*[Learn GNU Linux in Tamil - Part 2](https://freetamilebooks.com/ebooks/learn-gnulinux-in-tamil-part2/) - து.நித்யா (PDF)
+* [எளிய தமிழில் GNU Linux / - பாகம் - 1](https://freetamilebooks.com/ebooks/learn-gnulinux-in-tamil-part1/) - து.நித்யா (PDF)
+* [எளிய தமிழில் GNU Linux / - பாகம் - 2](https://freetamilebooks.com/ebooks/learn-gnulinux-in-tamil-part2/) - து.நித்யா (PDF)
 
 
 ### Machine Learning

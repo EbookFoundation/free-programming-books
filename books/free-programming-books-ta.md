@@ -71,8 +71,8 @@
 
 ### Linux
 
-* [எளிய தமிழில் GNU Linux / - பாகம் - 1](https://freetamilebooks.com/ebooks/learn-gnulinux-in-tamil-part1/) - து.நித்யா (PDF)
-* [எளிய தமிழில் GNU Linux / - பாகம் - 2](https://freetamilebooks.com/ebooks/learn-gnulinux-in-tamil-part2/) - து.நித்யா (PDF)
+* [எளிய தமிழில் GNU/Linux - பாகம் - 1](https://freetamilebooks.com/ebooks/learn-gnulinux-in-tamil-part1/) - து.நித்யா (PDF)
+* [எளிய தமிழில் GNU/Linux - பாகம் - 2](https://freetamilebooks.com/ebooks/learn-gnulinux-in-tamil-part2/) - து.நித்யா (PDF)
 
 
 ### Machine Learning

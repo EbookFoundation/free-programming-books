@@ -120,7 +120,7 @@
 * [Kurs Python 3](https://www.youtube.com/playlist?list=PLdBHMlEKo8UcOaykMssI1_X6ui0tzTNoH) - Piotr Baja
 * [Python 3 - Kurs wideo](https://www.youtube.com/playlist?list=PLbOPmSDkHx2pCboufcEKkinpUuramshmr)
 * [Raspberry Pi kurs od podstaw](https://forbot.pl/blog/kurs-raspberry-pi-od-podstaw-wstep-spis-tresci-id23139) - Piotr Bugalski (FORBOT.pl)
-* [Zanurkuj] (https://www.youtube.com/watch?v=BrN3Kdqn85Q) - Kacper Sieradziński
+* [Zanurkuj](https://www.youtube.com/watch?v=BrN3Kdqn85Q) - Kacper Sieradziński - Pandas
 
 
 ### Swift

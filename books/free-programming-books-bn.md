@@ -17,7 +17,7 @@
 
 * [Data Structure](https://hellohasan.com/category/data-structure/) - Hasan
 * [Dynamic Programming Book «ডাইনামিক প্রোগ্রামিং বই»](https://dp-bn.github.io) - Tasmeem Reza, Mamnoon Siam (PDF, [LaTeX](https://github.com/Bruteforceman/dynamic-progamming-book))
-* [গ্রাফ থিওরি](https://www.shafaetsplanet.com/?p=143) - Shafaet Ashraf
+* [Graph Theory](https://www.shafaetsplanet.com/?p=143) - Shafaet Ashraf
 
 
 ### C

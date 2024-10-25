@@ -36,6 +36,7 @@
 * [Perl](#perl)
 * [PHP](#php)
     * [Symfony](#symfony)
+    * [Yii](#yii)
 * [Processing](#processing)
 * [Python](#python)
     * [Django](#django)
@@ -263,6 +264,11 @@
 
 * [En route pour Symfony 5.4](https://symfony.com/doc/5.4/the-fast-track/fr/index.html) - Fabien Potencier
 * [En route pour Symfony 6.2](https://symfony.com/doc/current/the-fast-track/fr/index.html) - Fabien Potencier
+
+
+#### Yii
+
+* [Guide définitif pour Yii 2.0](https://www.yiiframework.com/doc/download/yii-guide-2.0-fr.pdf) - Yii Software (PDF)
 
 
 ### Processing

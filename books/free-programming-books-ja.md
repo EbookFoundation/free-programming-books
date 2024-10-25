@@ -61,6 +61,7 @@
 * [OCaml](#ocaml)
 * [Perl](#perl)
 * [PHP](#php)
+    * [Yii](#yii)
 * [PowerShell](#powershell)
 * [Processing](#processing)
 * [Prolog](#prolog)
@@ -533,6 +534,11 @@
 * [PHP 基礎文法最速マスター](https://www.1x1.jp/blog/2010/01/php-basic-syntax.html) - 新原雅司
 * [PHP4徹底攻略改訂版](https://net-newbie.com/prev/support/pdf2/)
 * [PSR-2 – コーディングスタイルガイド](https://github.com/maosanhioro/fig-standards/blob/master/translation/PSR-2-coding-style-guide.md) - maosanhioro
+
+
+#### Yii
+
+* [Yii 2.0 決定版ガイド](https://www.yiiframework.com/doc/download/yii-guide-2.0-ja.pdf) - Yii Software (PDF)
 
 
 ### PowerShell

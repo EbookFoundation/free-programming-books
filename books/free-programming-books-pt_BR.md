@@ -51,6 +51,7 @@
 * [Lua](#lua)
 * [Pascal](#pascal)
 * [PHP](#php)
+    * [Yii](#yii)
 * [Python](#python)
     * [Django](#django)
 * [R](#r)
@@ -397,6 +398,11 @@
 * [Curso Linguagem PHP 2000](http://www.etelg.com.br/paginaete/downloads/informatica/php.pdf) Maurício Vivas de Souza Barreto (PDF)
 * [PHP Do jeito certo](http://br.phptherightway.com)
 * [PHPUnit](https://phpunit.de/manual/current/pt_br/index.html) (PDF, EPUB, MOBI)
+
+
+#### Yii
+
+* [Guia Definitivo para Yii 2.0](https://www.yiiframework.com/doc/download/yii-guide-2.0-pt-br.pdf) - Yii Software (PDF)
 
 
 ### Python

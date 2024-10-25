@@ -85,8 +85,10 @@
 * [এসকিউএল পরিচিতি(SQL Introduction in Bangla)](https://www.sattacademy.org/sql/index.php) - Satt Academy
 * [বাংলায় SQL টিউটোরিয়াল](https://sql.howtocode.dev) - Saiful, et al.
 
-### গিট এবং গিটহাব
-* [Git Bangla tutorial](https://iishanto.com/git-bangla-tutorial/) - ishanto
+### Git and Github
 
-### ক্লাউড কম্পিউটিং
+* [গিট এবং গিটহাব](https://iishanto.com/git-bangla-tutorial/) - ishanto
+
+### Cloud Computing
+
 * [ক্লাউড কম্পিউটিং কিভাবে কাজ করে](https://itnuthosting.com/blog/cloud-computing/) - itnut

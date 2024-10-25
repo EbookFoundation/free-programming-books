@@ -796,8 +796,8 @@
 
 * [A Tour Of Go](https://tour.golang.org/welcome/1)
 * [DevOps BootCamp](https://github.com/jeffotoni/goworkshopdevops) - Jefferson Otoni Lima, et al.
-* [Go Developer](https://hyperskill.org/courses/25-go-developer) - Hyperskill *(registration required)*
 * [Go / Golang Crash Course](https://www.youtube.com/watch?v=SqrbIlUwR0U) - Traversy Media
+* * [Go Developer](https://hyperskill.org/courses/25-go-developer) - Hyperskill *(registration required)*
 * [Go Programming Language Tutorial](https://www.youtube.com/playlist?list=PLS1QulWo1RIaRoN4vQQCYHWDuubEU8Vij) - ProgrammingKnowledge
 * [Golang](https://www.geeksforgeeks.org/golang/) - GeeksforGeeks
 * [Golang \| Gin HTTP Framework](https://www.youtube.com/playlist?list=PL3eAkoh7fypr8zrkiygiY1e9osoqjoV9w) - Pragmatic Reviews

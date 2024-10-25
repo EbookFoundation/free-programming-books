@@ -39,3 +39,4 @@
 ### Python
 
 * [Python 新教程全集](https://www.youtube.com/playlist?list=PLF2BRDzmXcWqMzQlIUOjiGVmiyEcHiO3q) - 在线教育
+* [Python](https://www.youtube.com/playlist?list=PLVyDH2ns1F75k1hvD2apA0DwI3XMiSDqp)

@@ -9,6 +9,7 @@
 * [HTML and CSS](#html-and-css)
 * [IOT](#iot)
 * [JavaScript](#javascript)
+* [Linux](#linux)
 * [Machine Learning](#machine-learning)
 * [MySQL](#mysql)
 * [Pandas Python](#pandas-python)
@@ -66,6 +67,12 @@
 
 * [எளிய தமிழில் JavaScript](https://freetamilebooks.com/ebooks/learn-javascript-in-tamil/) - து.நித்யா (PDF)
 * [துவக்க நிலையாளர்களுக்கான JavaScript உரைநிரல்](https://freetamilebooks.com/ebooks/javascript_for_beginner/) - ச. குப்பன் (PDF)
+
+
+### Linux
+
+* [எளிய தமிழில் GNU/Linux - பாகம் - 1](https://freetamilebooks.com/ebooks/learn-gnulinux-in-tamil-part1/) - து.நித்யா (PDF)
+* [எளிய தமிழில் GNU/Linux - பாகம் - 2](https://freetamilebooks.com/ebooks/learn-gnulinux-in-tamil-part2/) - து.நித்யா (PDF)
 
 
 ### Machine Learning

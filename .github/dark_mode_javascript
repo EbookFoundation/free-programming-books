@@ -1,0 +1,9 @@
+let isDarkMode = document.documentElement.classList.contains("dark-mode");
+function myfunction(e) {
+    document.documentElement.classList.toggle("dark-mode");
+    document.querySelectorAll(".inverted").forEach((result) => {
+        result.classList.toggle("invert");
+    });
+    e.currentTarget.querySelector("img").src = isDarkMode ? "sun.png" : "moon.png";
+ }
+

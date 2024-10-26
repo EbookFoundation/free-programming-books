@@ -291,6 +291,7 @@
 * [Domain Driven Design Europe](https://dddeurope.com/videos/) (screencast)
     * [Domain Driven Design Europe - 2017](https://2017.dddeurope.com/#videos) (screencast)
 * [FLOSS WEEKLY](https://twit.tv/shows/floss-weekly) - Doc Searls, Aaron Newcomb, Dan Lynch, Simon Phipps, Jonathan Bennett, Shawn Powers, Katherine Druckman (podcast)
+* [Frontend Masters](https://www.youtube.com/playlist?list=PLum3CyP95edxwLIHenKw0nMHlfvr76ZSU) - Marc Grabanski (screencast)
 * [Frontside the Podcast](https://frontside.io/podcast/) - Charles Lowell, Taras Mankovski (podcast)
 * [Full Stack Radio](https://www.fullstackradio.com) - Adam Wathan (podcast)
 * [Functional Geekery](https://www.functionalgeekery.com) - Steven Proctor (podcast)

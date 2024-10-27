@@ -60,7 +60,7 @@
 
 ### Next.js
 
-* [Master Next JS 14: Complete Next JS 14 Tutorial from Basics to Advanced in Hindi/Urdu with Projects & Interview Prep | The Techzeen](https://www.youtube.com/playlist?list=PL5OhSdfH4uDu6YJcHhmQLkwx4hPWyppos) - The Techzeen
+* [Master Next JS 14: Complete Next JS 14 Tutorial from Basics to Advanced in Hindi/Urdu with Projects & Interview Prep](https://www.youtube.com/playlist?list=PL5OhSdfH4uDu6YJcHhmQLkwx4hPWyppos) - The Techzeen
 
 
 ### Python

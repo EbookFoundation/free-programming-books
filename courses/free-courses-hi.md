@@ -280,6 +280,7 @@
 
 * [Data Analyst Course - Beginner's to Advance (हिंदी में) - Full Playlist](https://www.youtube.com/playlist?list=PLxzTa0VPR9ryvGSuCm4RS8aeAvOLXz9XM) - IHHPET: Industries Helping Hands Dot Com
 * [Data Science Course 2023](https://www.youtube.com/playlist?list=PLfP3JxW-T70HvifebGl3d5d5jzI1Kp0i8) - Indian AI Production
+* [Python Data Science and Big Data Tutorials In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agK8pojo23OHiNz3Jm6VQCH) - CodeWithHarry 
 
 
 ### Data Structures

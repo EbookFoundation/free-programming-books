@@ -62,6 +62,7 @@
 
 * [Master Next JS 14: Complete Next JS 14 Tutorial from Basics to Advanced in Hindi/Urdu with Projects & Interview Prep | The Techzeen](https://www.youtube.com/playlist?list=PL5OhSdfH4uDu6YJcHhmQLkwx4hPWyppos) - The Techzeen
 
+
 ### Python
 
 * [Python](https://www.youtube.com/playlist?list=PL-vQNozaqIxuPzFUVEIrYDvd6ieUshJTw) - Kawish - Urdu

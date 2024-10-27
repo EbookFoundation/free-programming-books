@@ -486,8 +486,8 @@
 
 #### Electron.js
 
-* [Electron js tutorial in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV46sT0RXw6PlMRVxJzEDUWuD) - Code Step By Step
 * [Electron js desktop app development tutorial](https://www.youtube.com/playlist?list=PLfxALjnZodrvtzXTg-ZFeRL7AIutdJBV4) - Wap Institute
+* [Electron js tutorial in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV46sT0RXw6PlMRVxJzEDUWuD) - Code Step By Step
 
 
 #### GSAP

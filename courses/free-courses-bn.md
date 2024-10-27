@@ -18,13 +18,13 @@
 * [Java](#java)
 * [JavaScript](#javascript)
     * [Angular](#angular)
+    * [Electron](#electron)
     * [jQuery](#jquery)
     * [Next.js](#nextjs)
     * [Node.js](#nodejs)
     * [React](#react)
     * [Svelte](#svelte)
     * [Vue.js](#vuejs)
-    * [Electron](#electron)
 * [Kotlin](#kotlin)
 * [Linux](#linux)
 * [MongoDB](#mongodb)
@@ -207,6 +207,11 @@
 * [Angularjs bangla tutorial basic](https://www.youtube.com/playlist?list=PLbC4KRSNcMnr2ZFQne_jotsiX9hGwLJHG) - Learn Hunter
 
 
+#### Electron
+
+* [Electron JS Bangla Tutorials](https://youtube.com/playlist?list=PL_XxuZqN0xVDgr7KreI5PaVZuG8Sx3L2c&si=FOsXyD-fC87a45YJ) - Stack Learner
+
+
 #### jQuery
 
 * [jQuery Bangla Series for Beginners](https://www.youtube.com/playlist?list=PLgH5QX0i9K3pSJG9Hwjnykd0hLGEsW4DB) - Anisul Islam
@@ -249,11 +254,6 @@
 
 * [Introduction to Vue.js in Bangla বাংলা  with a full Project - Vue Crash Course](https://www.youtube.com/watch?v=iIvN7upsLoA) - Learn with Sumit
 * [Vue JS 3 Bangla Tutorial](https://www.youtube.com/playlist?list=PLZ8kLhUbDAhADR0nUr2rwhOD0smxVZX-x) - Mamunur Rashid
-
-
-#### Electron
-
-* [Electron JS Bangla Tutorials](https://youtube.com/playlist?list=PL_XxuZqN0xVDgr7KreI5PaVZuG8Sx3L2c&si=FOsXyD-fC87a45YJ) - Stack Learner
 
 
 ### Kotlin

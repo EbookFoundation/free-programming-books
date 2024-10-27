@@ -44,6 +44,7 @@
     * [React Native](#react-native)
     * [Redux](#redux)
     * [Vue.js](#vuejs)
+    * [Three.js](#vthreejs)
 * [Kotlin](#kotlin)
 * [Linux](#linux)
 * [Machine Learning](#machine-learning)
@@ -480,7 +481,13 @@
 * [JavaScript Tutorials In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL) - CodeWithHarry
 * [Namaste JavaScript](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP) - Akshay Saini
 * [RxJS Series (In Hindi)](https://youtube.com/playlist?list=PLLhsXdvz0qjI68a8tLUUMyXmNhl608mcn) - UX Trendz
-* [Web Development Course](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n) - Apna College
+
+
+#### Three.Js
+**[Three.js - Learn What Matters  Elevate Your Web Game!](https://youtu.be/B-4eN1Pb7qo?feature=shared) - Sheryians Coding School
+**[Three js Tutorial for BEGINNER LEVEL](https://youtu.be/Pg1quK1hcIA?feature=shared) - Monk Jha
+
+  
 
 
 #### GSAP

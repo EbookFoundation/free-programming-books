@@ -36,6 +36,7 @@
     * [Spring Boot](#spring-boot)
 * [JavaScript](#javascript)
     * [Angular](#angular)
+    * [Electron.js](#electronjs)
     * [GSAP](#gsap)
     * [jQuery](#jquery)
     * [Next.js](#nextjs)
@@ -87,6 +88,7 @@
 * [Data Structures and Algorithms for GATE — Complete Playlist](https://www.youtube.com/playlist?list=PLC36xJgs4dxFCQVvjMrrjcY3XrcMm2GHy) - Gate CSE lectures by Amit Khurana
 * [Data Structures and Algorithms in Python](https://www.youtube.com/playlist?list=PLyMom0n-MBrpakdIZvnhd6PFUCKNAyKo1) - Jovian
 * [Design And Analysis Of Algorithms](https://www.youtube.com/playlist?list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa) - Gate Smashers
+* [Design and Analysis of Algorithms](https://www.youtube.com/playlist?list=PL1QH9gyQXfgs7foRxIbIH8wmJyDh5QzAm) - The Gatehub
 * [DS & Algorithms Course Using Javascript](https://www.youtube.com/playlist?list=PL_HlKez9XCSOi5thYDzipbJ2pEdzop7vx) - Technical Suneja
 * [Dynamic Programming Playlist \| Coding \| Interview Questions \| Tutorials \| Algorithm](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go) - Aditya Verma
 * [Dynamic Programming Workshop](https://www.youtube.com/playlist?list=PLqf9emQRQrnKA_EeveiXQj_uP25w8_5qL) - Vivek Gupta
@@ -481,6 +483,12 @@
 * [Angular 6/7/8 Series (In Hindi)](https://www.youtube.com/playlist?list=PLLhsXdvz0qjL1HVD2jAtlvoDmS5qj0OvA) - UX Trendz
 * [Angular In Depth](https://www.youtube.com/playlist?list=PLqLR2H326bY4GoOaaxVYwdbNl9dvyWKvU) - Computer Baba
 * [Learn Angular in one video (Hindi)](https://www.youtube.com/watch?v=0LhBvp8qpro&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&index=21) - Code With Harry 
+
+
+#### Electron.js
+
+* [Electron js desktop app development tutorial](https://www.youtube.com/playlist?list=PLfxALjnZodrvtzXTg-ZFeRL7AIutdJBV4) - Wap Institute
+* [Electron js tutorial in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV46sT0RXw6PlMRVxJzEDUWuD) - Code Step By Step
 
 
 #### GSAP

@@ -5,13 +5,13 @@
 * [C++](#cpp)
 * [Data Science](#data-science)
 * [Go](#go)
+* [Git and Github](#git-and-github)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Machine Learning](#machine-learning)
 * [Misc](#misc)
 * [Python](#python)
 * [Sql](#sql)
-* [Git and Github](#git-and-github)
 
 
 ### Algorithms

@@ -7,6 +7,7 @@
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
+* [Embedded](#embedded)
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -54,13 +55,19 @@
 * [PROGRAMOWANIE W C++. KURS OD PODSTAW, DLA KAŻDEGO (VIDEO)](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxx0Y5wzs7CFpmBzb40PaDo) - Mirosław Zelent, Damian Stelmach
 
 
+### Embedded
+
+* [Kurs Arduino, poziom II](https://www.forbot.pl/blog/kurs-arduino-ii-wstep-spis-tresci-id15494) - Damian (Treker) Szymański
+* [Kurs podstaw Arduino](https://www.forbot.pl/blog/kurs-arduino-podstawy-programowania-spis-tresci-kursu-id5290)
+* [Kurs STM32L4](https://www.forbot.pl/blog/kurs-stm32-l4-wstep-spis-tresci-dla-kogo-jest-ten-kurs-id48575)
+
+
 ### HTML and CSS
 
 * [Kurs CSS](http://www.kurshtmlcss.pl/kurs-css) (Netido Interactive Agency)
 * [Kurs CSS. Wygląd strony www - kaskadowe arkusze stylów - Pasja informatyki (VIDEO)](https://www.youtube.com/playlist?list=PLOYHgt8dIdow6b2Qm3aTJbKT2BPo5iybv) - Mirosław Zelent, Damian Stelmach
 * [Kurs HTML](http://www.kurshtmlcss.pl/kurs-html) (Netido Interactive Agency)
 * [Kurs HTML](https://www.youtube.com/playlist?list=PLpwxuvBp359NntV2cLO5LaH6tmd6efmHH) - Marcin Filczyński
-* [Kurs HTML - od zera do Webmastera](https://www.youtube.com/playlist?list=PL0zYPqHK5yJWsIn3PIproSyxO3nchPd99)
 * [Kurs html i css](https://www.youtube.com/playlist?list=PLs8Otihb6zvfosmWesJ_lkJS_HzL58gSS)
 * [Kurs HTML. Tworzenie zawartości stron internetowych](https://www.youtube.com/playlist?list=PLOYHgt8dIdox9Qq3X9iAdSVekS_5Vcp5r) - Mirosław Zelent, Damian Stelmach
 
@@ -84,7 +91,7 @@
 
 #### Vue.js
 
-* [FrontAndBack.pl - Kurs Vue w praktyce](https://frontandback.pl/tags/kurs-vue-w-praktyce/)
+* [FrontAndBack.pl - Kurs Vue w praktyce](https://web.archive.org/web/20221004101108/https://frontandback.pl/tags/kurs-vue-w-praktyce/) *(:card_file_box: archived)*
 
 
 ### MySQL

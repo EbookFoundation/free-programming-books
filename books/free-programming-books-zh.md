@@ -12,6 +12,7 @@
     * [函数式概念](#函数式概念)
     * [计算机图形学](#计算机图形学)
     * [其它](#其它)
+    * [人工智能](#人工智能)
     * [软件开发方法](#软件开发方法)
     * [设计模式](#设计模式)
     * [数据库](#数据库)
@@ -62,6 +63,7 @@
     * [PHP](#php)
         * [Laravel](#laravel)
         * [Symfony](#symfony)
+        * [Yii](#yii)
     * [PostgreSQL](#postgresql)
     * [Python](#python)
         * [Django](#django)
@@ -184,6 +186,11 @@
 * [深入理解并行编程](http://ifeve.com/perfbook/)
 * [SAN 管理入门系列](https://community.emc.com/docs/DOC-16067)
 * [Sketch 中文手册](http://sketchcn.com/sketch-chinese-user-manual.html#introduce)
+
+
+### 人工智能
+
+* [动手实战人工智能](https://aibydoing.com) - huhuhang
 
 
 ### 软件开发方法
@@ -631,6 +638,11 @@
 
 * [Symfony 2 实例教程](https://wusuopu.gitbooks.io/symfony2_tutorial/content)
 * [Symfony 5 快速开发](https://web.archive.org/web/20210812222957/symfony.com/doc/current/the-fast-track/zh_CN/index.html) *(:card_file_box: archived)*
+
+
+#### Yii
+
+* [Yii 2.0 权威指南](https://www.yiiframework.com/doc/download/yii-guide-2.0-zh-cn.pdf) - Yii Software (PDF)
 
 
 ### PostgreSQL

@@ -6,11 +6,11 @@
 
 </div>
 
-**Free-Programming-Books`へようこそ!**
+** Free-Programming-Books へようこそ! **
 
 私たちは新しい貢献者を歓迎します。GitHub で初めて Pull Request (PR) を作成する人も歓迎します。もしあなたがその一人であるなら、役に立つかもしれないリソースをいくつか紹介しましょう：
 
-* プルリクエストについて](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
+* [プルリクエストについて](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
 * [プルリクエストの作成](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
 * [GitHub Hello World](https://docs.github.com/en/get-started/quickstart/hello-world)
 * [YouTube - GitHub Tutorial For Beginners](https://www.youtube.com/watch?v=0fKg7e37bQE)

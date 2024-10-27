@@ -44,6 +44,7 @@
 ### JavaScript
 
 * [JavaScript \| Hindi](https://www.tutorialinhindi.com/javascript-tutorial-hindi/) - TutorialinHindi.com
+* [Learn JavaScript \| Hindi](https://javascript.sumankunwar.com.np/np) - Suman Kumar, Github Contributors (HTML, PDF)
 
 
 ### Linux
@@ -61,7 +62,7 @@
 * [ डाटा कयनकेशन एंड कंयटर नेटवक ](https://www.aicte-india.org/sites/default/files/HINDI_BOOKS/BOOK%203.pdf) -  ई.हरश दाधीच, ई.वकास माथर (PDF)
 
 
-### Php
+### PHP
 
-* [Php \| Hindi](https://www.learnhindituts.com/php) - LearnHindiTuts.com
-* [Php Hindi Tutorial \| Hindi](http://tutorialsroot.com/php/index.html) - TutorialsRoot.com
+* [PHP In Hindi Tutorial](http://tutorialsroot.com/php/index.html) - TutorialsRoot.com
+* [PHP Tutorials In Hindi](https://www.learnhindituts.com/php) - LearnHindiTuts.com

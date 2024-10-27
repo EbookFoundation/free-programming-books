@@ -4,6 +4,7 @@
 * [C](#c)
 * [C++](#cpp)
 * [Data Science](#data-science)
+* [Git and Github](#git-and-github)
 * [Go](#go)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -80,5 +81,11 @@
 
 ### Sql
 
-* [এসকিউএল পরিচিতি(SQL Introduction in Bangla)](https://www.sattacademy.com/sql/sql-intro.php) - Satt Academy
+* [এসকিউএল পরিচিতি(SQL Introduction in Bangla)](https://www.sattacademy.org/sql/index.php) - Satt Academy
 * [বাংলায় SQL টিউটোরিয়াল](https://sql.howtocode.dev) - Saiful, et al.
+
+
+### Git and Github
+
+* [এক পলকে গিট ও গিটহাব](https://with.zonayed.me/book/git-n-github-at-glance/) - Zonayed
+

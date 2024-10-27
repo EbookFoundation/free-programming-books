@@ -11,7 +11,7 @@
 
 ### C
 
-* [Διαδικαστικός προγραμματισμός](https://repository.kallipos.gr/bitstream/11419/1346/1/00_master%20document_KOY.pdf) - Μαστοροκώστας Πάρις (PDF)
+* [Διαδικαστικός προγραμματισμός](https://repository.kallipos.gr/bitstream/11419/1346/3/00_master%20document_KOY.pdf) - Μαστοροκώστας Πάρις (PDF)
 
 
 ### <a id="cpp"></a>C++

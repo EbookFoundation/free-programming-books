@@ -36,6 +36,7 @@
 * [Java](#java)
     * [Spring Boot](#spring-boot)
 * [JavaScript](#javascript)
+    * [Electron.js](#electronjs)
     * [GSAP](#gsap)
     * [jQuery](#jquery)
     * [Next.js](#nextjs)
@@ -87,6 +88,7 @@
 * [Data Structures and Algorithms for GATE — Complete Playlist](https://www.youtube.com/playlist?list=PLC36xJgs4dxFCQVvjMrrjcY3XrcMm2GHy) - Gate CSE lectures by Amit Khurana
 * [Data Structures and Algorithms in Python](https://www.youtube.com/playlist?list=PLyMom0n-MBrpakdIZvnhd6PFUCKNAyKo1) - Jovian
 * [Design And Analysis Of Algorithms](https://www.youtube.com/playlist?list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa) - Gate Smashers
+* [Design and Analysis of Algorithms](https://www.youtube.com/playlist?list=PL1QH9gyQXfgs7foRxIbIH8wmJyDh5QzAm) - The Gatehub
 * [DS & Algorithms Course Using Javascript](https://www.youtube.com/playlist?list=PL_HlKez9XCSOi5thYDzipbJ2pEdzop7vx) - Technical Suneja
 * [Dynamic Programming Playlist \| Coding \| Interview Questions \| Tutorials \| Algorithm](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go) - Aditya Verma
 * [Dynamic Programming Workshop](https://www.youtube.com/playlist?list=PLqf9emQRQrnKA_EeveiXQj_uP25w8_5qL) - Vivek Gupta
@@ -481,6 +483,12 @@
 * [Namaste JavaScript](https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP) - Akshay Saini
 * [RxJS Series (In Hindi)](https://youtube.com/playlist?list=PLLhsXdvz0qjI68a8tLUUMyXmNhl608mcn) - UX Trendz
 * [Web Development Course](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n) - Apna College
+
+
+#### Electron.js
+
+* [Electron js desktop app development tutorial](https://www.youtube.com/playlist?list=PLfxALjnZodrvtzXTg-ZFeRL7AIutdJBV4) - Wap Institute
+* [Electron js tutorial in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV46sT0RXw6PlMRVxJzEDUWuD) - Code Step By Step
 
 
 #### GSAP

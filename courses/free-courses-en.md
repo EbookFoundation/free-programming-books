@@ -1134,10 +1134,12 @@
 * [Full Modern React Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d) - The Net Ninja (with practical)
 * [Full Stack with React and Appwrite](https://egghead.io/playlists/full-stack-with-react-and-appwrite-e1e46f61) - Colby Fayock (Egghead.io)
 * [Introduction to React](https://fullstackopen.com/en/part1/introduction_to_react) - Full Stack open
+* [Learn Class Components in React](https://v2.scrimba.com/learn-class-components-in-react-c0h) - Bob Ziroll (Scrimba)
 * [Learn React + Redux](https://www.sololearn.com/learning/1097) - *registration required*
-* [Learn React for Free](https://scrimba.com/learn/learnreact) - Bob Ziroll (scrimba)
-* [Learn React Router 6](https://scrimba.com/learn/reactrouter6) - Bob Ziroll (scrimba)
+* [Learn React for Free](https://scrimba.com/learn/learnreact) - Bob Ziroll (Scrimba)
+* [Learn React Router 6](https://scrimba.com/learn/reactrouter6) - Bob Ziroll (Scrimba) 
 * [Learn ReactJS](https://www.codecademy.com/learn/react-101) - Codecademy
+* [Learn Styled Components in React](https://v2.scrimba.com/learn-styled-components-in-react-c0r) - Ania Kubow (Scrimba)
 * [React](https://progate.com/languages/react) (progate) *(account required)*
 * [React basic in just 1 hour](https://www.udemy.com/course/react-basic-in-just-1-hour/) (Udemy)
 * [React Context & Hooks Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI) - The Net Ninja
@@ -1262,6 +1264,7 @@
 * [Kotlin Newbie To Pro](https://www.youtube.com/playlist?list=PLQkwcJG4YTCRSQikwhtoApYs9ij_Hc5Z9) - Philipp Lackner
 * [Kotlin Programming Full Tutorial 2023](https://www.youtube.com/watch?v=0MdkXBssRRg) - Scaler
 * [Kotlin Tutorial](https://www.youtube.com/playlist?list=PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh) - Telusko
+* [Kotlin Tutorial - Kotlin at Light Speed](https://www.youtube.com/playlist?list=PLmtsMNDRU0BwGCBDIKKQNLYycRTnQzMfp) - Rock the JVM
 * [Kotlin Tutorial for Beginners: Basics and Fundamentals for Android](https://www.youtube.com/playlist?list=PLlxmoA0rQ-LwgK1JsnMsakYNACYGa1cjR) - Smartherd
 * [One hour Kotlin guide for beginners](https://www.udemy.com/course/one-hour-kotlin-guide-for-beginners) - Tutlets Kkang (Udemy)
 * [Teach Computer Science with Kotlin](https://kotlinlang.org/education/) - Kotlin

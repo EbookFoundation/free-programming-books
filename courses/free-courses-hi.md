@@ -43,6 +43,7 @@
     * [React](#react)
     * [React Native](#react-native)
     * [Redux](#redux)
+    * [TypeScript](#typescript)
     * [Vue.js](#vuejs)
 * [Kotlin](#kotlin)
 * [Linux](#linux)
@@ -70,7 +71,6 @@
 * [Solidity](#solidity)
 * [Swift](#swift)
 * [System Design](#system-design)
-* [TypeScript](#typescript)
 * [WordPress](#wordpress)
 
 
@@ -554,6 +554,14 @@
 * [Redux tutorial in Hindi](https://youtube.com/playlist?list=PL8p2I9GklV47TDYUq8RmFzeI9CgOoVgpJ&si=p-4s6qJ31ReIbKqj) - Code Step by Step
 
 
+#### TypeScript
+
+* [Typescript in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV44eT51JPju4LsTQlce6DPtx) - Code Step By Step
+* [Typescript in Hindi &#124; Crash Course &#124; Coders Gyan](https://www.youtube.com/watch?v=F5pjG-sP0c8) - Coder's Gyan
+* [Typescript Tutorial for Beginners in Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp0xfHQFmlL52b_6-QZ0mnk_) - Thapa Technical
+* [Typescript Tutorial in Hindi](https://youtube.com/playlist?list=PL8p2I9GklV44eT51JPju4LsTQlce6DPtx) - Code Step By Step
+
+
 #### Vue.js
 
 * [Latest vue js 3 tutorial for beginners in hindi](https://www.youtube.com/playlist?list=PLfxALjnZodruGEvbM8zTdnPMrQ5wHMmw8) - Wap Institute
@@ -798,14 +806,6 @@
 * [System Analysis and Design](https://www.youtube.com/playlist?list=PLi81x6d2Os_8Sa8HifiFruWK6wmgG3Wrg) - Gursimran Singh Dhillon
 * [System Design Playlist in Hindi](https://www.youtube.com/playlist?list=PLA3GkZPtsafZdyC5iucNM_uhqGJ5yFNUM) - Engineering Digest
 * [System Design Series By Coding Ninjas](https://www.youtube.com/playlist?list=PLrk5tgtnMN6RvXrfflstJWgcPFQ_vTOV9) - Coding Ninjas
-
-
-### TypeScript
-
-* [Typescript in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV44eT51JPju4LsTQlce6DPtx) - Code Step By Step
-* [Typescript in Hindi &#124; Crash Course &#124; Coders Gyan](https://www.youtube.com/watch?v=F5pjG-sP0c8) - Coder's Gyan
-* [Typescript Tutorial for Beginners in Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp0xfHQFmlL52b_6-QZ0mnk_) - Thapa Technical
-* [Typescript Tutorial in Hindi](https://youtube.com/playlist?list=PL8p2I9GklV44eT51JPju4LsTQlce6DPtx) - Code Step By Step
 
 
 ### Wordpress

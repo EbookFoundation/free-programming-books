@@ -11,13 +11,12 @@
 * [Misc](#misc)
 * [Python](#python)
 * [Sql](#sql)
+* [Git and Github](#git-and-github)
 
 
 ### Algorithms
 
-* [Data Structure](https://hellohasan.com/category/data-structure/) - Hasan
 * [Dynamic Programming Book «ডাইনামিক প্রোগ্রামিং বই»](https://dp-bn.github.io) - Tasmeem Reza, Mamnoon Siam (PDF, [LaTeX](https://github.com/Bruteforceman/dynamic-progamming-book))
-* [Graph Theory](https://www.shafaetsplanet.com/?p=143) - Shafaet Ashraf
 
 
 ### C
@@ -88,9 +87,5 @@
 
 ### Git and Github
 
-* [গিট এবং গিটহাব](https://iishanto.com/git-bangla-tutorial/) - ishanto
+* [এক পলকে গিট ও গিটহাব](https://with.zonayed.me/book/git-n-github-at-glance/) - Zonayed
 
-
-### Cloud Computing
-
-* [ক্লাউড কম্পিউটিং কিভাবে কাজ করে](https://itnuthosting.com/blog/cloud-computing/) - itnut

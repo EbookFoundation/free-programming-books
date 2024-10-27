@@ -44,6 +44,7 @@
 
 * [De Programmeursleerling: Leren coderen met Python 3](http://www.spronck.net/pythonbook/dutchindex.xhtml) - Pieter Spronck (PDF) (3.x)
 * [Programmeren in Python](https://nl.wikibooks.org/wiki/Programmeren_in_Python) - Wikibooks
+* [Je eigen games maken met Python 3e editie](http://inventwithpython.com/nl/games_maken_met_Python_1-13.pdf) - Al Sweigart, `trl.:` Marjo Hahn (PDF)
 
 
 ### Scratch

@@ -225,6 +225,8 @@
 * [Tecnologías Web (2010)](https://ocw.ua.es/es/ingenieria-y-arquitectura/tecnologias-web-2010.html)
 * [XML, marcado de textos y bibliotecas digitales (2007)](https://ocw.ua.es/es/ingenieria-y-arquitectura/xml-marcado-de-textos-y-bibliotecas-digitales-2007.html)
 
+### Python
+* [Introducción a Python: 1 - Comenzando (Spanish)](https://www.youtube.com/watch?v=3jeVIH7sh7A) - Stanford Scholar
 
 ### Redes
 
@@ -305,5 +307,4 @@
 * [Como crear y administrar un curso en MOODLE - TecNMx](https://mooc.tecnm.mx/courses/course-v1:TecNM+CCACM-003+2022-3/about) (TecNMx)
 * [Visual Studio Code: Mejora tu velocidad para codificar](https://www.udemy.com/course/vscode-mejora-tu-velocidad-para-codificar/) - Fernando Herrera (udemy)
 
-### Python
-* [Introducción a Python: 1 - Comenzando (Spanish)](https://www.youtube.com/watch?v=3jeVIH7sh7A) - Stanford Scholar
+

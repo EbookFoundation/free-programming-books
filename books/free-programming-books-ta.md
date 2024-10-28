@@ -5,7 +5,7 @@
 * [Computer Vision](#computer-vision)
 * [DevOps](#devops)
 * [Git/Github](#git-github)
-* [Hadoop](#hadoop)
+* [BigData](#bigdata)
 * [HTML and CSS](#html-and-css)
 * [IOT](#iot)
 * [JavaScript](#javascript)
@@ -43,18 +43,18 @@
 
 ### Git Github
 
-* [எளிய தமிழில் கிட்(Git) – தொழில்நுட்பம்](https://freetamilebooks.com/ebooks/eliya_tamizhil_git/) - கி. முத்துராமலிங்கம் (PDF)
+* [எளிய தமிழில் கிட்(Git) – தொழில்நுட்பம்](https://freetamilebooks.com/ebooks/eliya_tamizhil_git/) - கி.முத்துராமலிங்கம் (PDF)
 
 
-### Hadoop
+### BigData
 
-* [எளிய தமிழில் Big Data](https://freetamilebooks.com/ebooks/learn-bigdata-in-tamil) - து. நித்யா (PDF)
+* [எளிய தமிழில் Big Data](https://freetamilebooks.com/ebooks/learn-bigdata-in-tamil) - து.நித்யா (PDF)
 
 
 ### HTML and CSS
 
-* [எளிய தமிழில் CSS](https://freetamilebooks.com/ebooks/learn-css-in-tamil/) - Kaniyam Foundation (PDF)
-* [எளிய தமிழில் HTML](https://freetamilebooks.com/htmlbooks/html-book/Learn-HTML-in-Tamil.html) = Th . Srinivasan (PDF)
+* [எளிய தமிழில் CSS](https://freetamilebooks.com/ebooks/learn-css-in-tamil/) - து.நித்யா (PDF)
+* [எளிய தமிழில் HTML](https://freetamilebooks.com/htmlbooks/html-book/Learn-HTML-in-Tamil.html) - த.சீனிவாசன் (PDF)
 * [எளிய தமிழில் HTML](https://noolaham.net/project/51/5090/5090.pdf) - வே.நவமோகன் (PDF)
 
 
@@ -77,8 +77,8 @@
 
 ### Machine Learning
 
-* [எளிய தமிழில் Deep Learning](https://freetamilebooks.com/ebooks/learn_deep_learning_in_tamil/) - து. நித்யா (PDF)
-* [எளிய தமிழில் ML](https://freetamilebooks.com/ebooks/learn_machine_learning_in_tamil/) - து. நித்யா (PDF)
+* [எளிய தமிழில் Deep Learning](https://freetamilebooks.com/ebooks/learn_deep_learning_in_tamil/) - து.நித்யா (PDF)
+* [எளிய தமிழில் ML](https://freetamilebooks.com/ebooks/learn_machine_learning_in_tamil/) - து.நித்யா (PDF)
 
 
 ### MySQL
@@ -89,7 +89,7 @@
 
 ### Pandas Python
 
-* [எளிய தமிழில் Pandas](https://freetamilebooks.com/ebooks/learn_pandas_in_tamil/) - து. நித்யா (PDF)
+* [எளிய தமிழில் Pandas](https://freetamilebooks.com/ebooks/learn_pandas_in_tamil/) - து.நித்யா (PDF)
 
 
 ### PHP

@@ -50,8 +50,8 @@
 ### <a id="dsa"></a>Data Structures and Algorithms
 
 * [தமிழில் Data Structures and Algorithms](https://youtube.com/playlist?list=PL_UqaR55i1797oG0BL0wtxdPpa_NYNFLz) - CSE Tamila by Eezytutorials
-* [Data Structures and Algorithms in Java](https://www.youtube.com/playlist?list=PLYM2_EX_xVvX7_AmNY-Deacp3rT3MIXnE) - Logic First Tamil
 * [Data Structures & Algorithms Python](https://www.youtube.com/playlist?list=PLVkDztYhxUGH9AubH9hLy_JYam8EZ9VKs) - Code Meal
+* [Data Structures and Algorithms in Java](https://www.youtube.com/playlist?list=PLYM2_EX_xVvX7_AmNY-Deacp3rT3MIXnE) - Logic First Tamil
 
 
 ### Express JS

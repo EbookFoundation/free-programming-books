@@ -1269,6 +1269,7 @@
 * [Kotlin Tutorial](https://www.youtube.com/playlist?list=PLsyeobzWxl7rooJFZhc3qPLwVROovGCfh) - Telusko
 * [Kotlin Tutorial - Kotlin at Light Speed](https://www.youtube.com/playlist?list=PLmtsMNDRU0BwGCBDIKKQNLYycRTnQzMfp) - Rock the JVM
 * [Kotlin Tutorial for Beginners: Basics and Fundamentals for Android](https://www.youtube.com/playlist?list=PLlxmoA0rQ-LwgK1JsnMsakYNACYGa1cjR) - Smartherd
+* [Learn Kotlin](https://www.codecademy.com/learn/learn-kotlin) - Codecademy *(registration required)*
 * [One hour Kotlin guide for beginners](https://www.udemy.com/course/one-hour-kotlin-guide-for-beginners) - Tutlets Kkang (Udemy)
 * [Teach Computer Science with Kotlin](https://kotlinlang.org/education/) - Kotlin
 * [Track: Kotlin Basics](https://hyperskill.org/tracks/18) - Hyperskill, JetBrains (Hyperskill)
@@ -1710,6 +1711,7 @@
 * [Data Structures and Algorithms in Swift](https://www.udacity.com/course/data-structures-and-algorithms-in-swift--ud1011) - Udacity
 * [How To Make An App For Beginners (iOS/Swift - 2019)](https://www.udemy.com/how-to-make-an-app-for-beginners-iosswift-2019/) - Chris Ching (Udemy)
 * [iOS Development Course - Use Swift 5 and UIKit to Build a Netflix Clone](https://www.youtube.com/watch?v=KCgYDCKqato) - freeCodeCamp.org
+* [Learn Intermediate Swift](https://www.codecademy.com/learn/learn-intermediate-swift) - Codecademy *(registration required)*
 * [Learn Swift](https://www.youtube.com/playlist?list=PLMRqhzcHGw1ZqzYnpIuQAn2rcjhOtbqGX) - CodeWithChris
 * [Learn Swift 4](https://www.sololearn.com/learning/1075) - *Registration required*
 * [Server-Side Swift](https://www.udacity.com/course/server-side-swift--ud1031) - Jarrod Parkes, Nic Jackson (Udacity)

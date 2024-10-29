@@ -113,7 +113,7 @@
 
 #### React Native
 
-* [Créer une application  avec React Native](https://grafikart.fr/tutoriels/react-native-pokedex-2245) - Grafikart
+* [Créer une application avec React Native](https://grafikart.fr/tutoriels/react-native-pokedex-2245) - Grafikart
 
 
 #### Vue.js

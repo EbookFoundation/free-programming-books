@@ -520,6 +520,7 @@
 
 #### Node.js
 
+* [Complete NodeJS + ExpressJS + MongoDB Course in Hindi \| Notes \| Certification](https://www.youtube.com/playlist?list=PL78RhpUUKSwfeSOOwfE9x6l5jTjn5LbY3) - Complete Coding by Prashant Sir
 * [Master NodeJS](https://www.youtube.com/playlist?list=PLinedj3B30sDby4Al-i13hQJGQoRQDfPo) - Piyush Garg
 * [Node JS](https://www.youtube.com/playlist?list=PLbGui_ZYuhiiSVvVP_9w57-aU7kx_H9bu) - Geeky Shows
 * [Node Js Tutorial in Hindi](https://www.youtube.com/watch?v=BLl32FvcdVM&ab_channel=CodeWithHarry) - Code With Harry

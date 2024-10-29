@@ -622,6 +622,7 @@
 
 ### Mongo DB
 
+* [Complete MongoDB Tutorial Series in Hindi](https://www.youtube.com/playlist?list=PL5IobCNPDnI_Xh2iya6p37Ain_71ro71w) - Simple Snip Code
 * [MongoDB Complete Course Tutorial in Hindi](https://www.youtube.com/watch?v=rU9ZODw5yvU) - Vinod Bahadur Thapa (Thapa Technical)
 * [MongoDB full course for beginners](https://youtube.com/playlist?list=PLwGdqUZWnOp1P9xSsJg7g3AY0CUjs-WOa) - Thapa Technical
 * [MongoDB playlist in Hindi](https://www.youtube.com/playlist?list=PLA3GkZPtsafZydhN4nP0h7hw7PQuLsBv1) - Engineering Digest

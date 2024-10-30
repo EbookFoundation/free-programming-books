@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feedback Form</title>
+    <style>
+        /* Basic Reset */
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f4f4f4;
+        }
+        .feedback-container {
+            background-color: #ffffff;
+            padding: 20px;
+            max-width: 500px;
+            width: 100%;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        h2 {
+            text-align: center;
+            margin-bottom: 20px;
+            color: #333;
+        }
+        .form-group {
+            margin-bottom: 15px;
+        }
+        label {
+            display: block;
+            font-weight: bold;
+            color: #555;
+            margin-bottom: 5px;
+        }
+        input, textarea {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+        .error {
+            color: red;
+            font-size: 14px;
+            display: none;
+        }
+        button {
+            width: 100%;
+            padding: 10px;
+            font-size: 16px;
+            background-color: #28a745;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:disabled {
+            background-color: #ccc;
+        }
+        .success-message {
+            color: green;
+            font-weight: bold;
+            text-align: center;
+            margin-top: 15px;
+            display: none;
+        }
+    </style>
+</head>
+<body>
+
+<div class="feedback-container">
+    <h2>Feedback Form</h2>
+    <form id="feedbackForm" action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+        <div class="form-group">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required>
+            <span class="error" id="nameError">Name is required.</span>
+        </div>
+        <div class="form-group">
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+            <span class="error" id="emailError">Valid email is required.</span>
+        </div>
+        <div class="form-group">
+            <label for="feedback">Feedback:</label>
+            <textarea id="feedback" name="feedback" rows="5" required></textarea>
+            <span class="error" id="feedbackError">Feedback cannot be empty.</span>
+        </div>
+        <button type="submit">Submit Feedback</button>
+        <p class="success-message" id="successMessage">Thank you for your feedback!</p>
+    </form>
+</div>
+
+<script>
+    document.getElementById("feedbackForm").addEventListener("submit", function(event) {
+        event.preventDefault();
+
+        // Clear previous error messages
+        document.querySelectorAll(".error").forEach(el => el.style.display = "none");
+
+        let valid = true;
+
+        // Validation
+        if (!document.getElementById("name").value.trim()) {
+            document.getElementById("nameError").style.display = "block";
+            valid = false;
+        }
+        if (!document.getElementById("email").value.includes("@")) {
+            document.getElementById("emailError").style.display = "block";
+            valid = false;
+        }
+        if (!document.getElementById("feedback").value.trim()) {
+            document.getElementById("feedbackError").style.display = "block";
+            valid = false;
+        }
+
+        if (valid) {
+            fetch("https://formspree.io/f/YOUR_FORM_ID", {
+                method: "POST",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({
+                    name: document.getElementById("name").value,
+                    email: document.getElementById("email").value,
+                    feedback: document.getElementById("feedback").value
+                })
+            })
+            .then(response => {
+                if (response.ok) {
+                    document.getElementById("successMessage").style.display = "block";
+                    document.getElementById("feedbackForm").reset();
+                } else {
+                    alert("There was a problem with the submission. Please try again.");
+                }
+            })
+            .catch(error => console.error("Error:", error));
+        }
+    });
+</script>
+
+</body>
+</html>

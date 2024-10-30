@@ -239,6 +239,7 @@
 
 ### Inteligência Artificial
 
+* [Aplicações de Machine Learning](https://editorapantanal.com.br/ebooks/2021/aplicacoes-de-machine-learning/ebook.pdf) - Ricardo Augusto Manfredini, Geraldo Nunes Corrêa, Bruno Rodrigues de Oliveira, Suellen Teixeira Zaradzki de Pauli (PDF)
 * [Inteligência artificial: avanços e tendências](https://www.livrosabertos.sibi.usp.br/portaldelivrosUSP/catalog/view/650/579/2181) - Fabio G. Cozman, Guilherme Ary Plonski, Hugo Neri (PDF) (CC BY-NC-SA)
 * [Processamento de Linguagem Natural: Conceitos, Técnicas e Aplicações em Português](https://brasileiraspln.com/livro-pln/) - Helena M. Caseli, Maria G. V. Nunes (PDF) (CC BY-NC-ND)
 

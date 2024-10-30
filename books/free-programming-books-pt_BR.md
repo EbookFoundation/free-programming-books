@@ -90,7 +90,7 @@
 #### Sistemas Operacionais
 
 * [Guia Foca Linux](https://www.guiafoca.org/#download) - Gleydson Maziolli (PDF)
-* [Sistemas Operacionais: Conceitos e Mecanismos](http://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-livro.pdf) - Carlos A. Maziero (PDF) *(:construction: em contínuo desenvolvimento)*
+* [Sistemas Operacionais: Conceitos e Mecanismos](http://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-livro.pdf) - Carlos A. Maziero (PDF) (CC BY-NC-SA) *(:construction: em contínuo desenvolvimento)*
 
 
 ### Android
@@ -239,13 +239,14 @@
 
 ### Inteligência Artificial
 
-* [Inteligência artificial: avanços e tendências](https://www.livrosabertos.sibi.usp.br/portaldelivrosUSP/catalog/view/650/579/2181) - Fabio G. Cozman, Guilherme Ary Plonski, Hugo Neri (PDF)
-* [Processamento de Linguagem Natural: Conceitos, Técnicas e Aplicações em Português](https://brasileiraspln.com/livro-pln/) - Helena M. Caseli, Maria G. V. Nunes (PDF)
+* [Aplicações de Machine Learning](https://editorapantanal.com.br/ebooks/2021/aplicacoes-de-machine-learning/ebook.pdf) - Ricardo Augusto Manfredini, Geraldo Nunes Corrêa, Bruno Rodrigues de Oliveira, Suellen Teixeira Zaradzki de Pauli (PDF)
+* [Inteligência artificial: avanços e tendências](https://www.livrosabertos.sibi.usp.br/portaldelivrosUSP/catalog/view/650/579/2181) - Fabio G. Cozman, Guilherme Ary Plonski, Hugo Neri (PDF) (CC BY-NC-SA)
+* [Processamento de Linguagem Natural: Conceitos, Técnicas e Aplicações em Português](https://brasileiraspln.com/livro-pln/) - Helena M. Caseli, Maria G. V. Nunes (PDF) (CC BY-NC-ND)
 
 
 ### Internet das Coisas
 
-* [A Internet das Coisas](https://bibliotecadigital.fgv.br/dspace/bitstream/handle/10438/23898/A%20internet%20das%20coisas.pdf) - Eduardo Magrani (PDF)
+* [A Internet das Coisas](https://bibliotecadigital.fgv.br/dspace/bitstream/handle/10438/23898/A%20internet%20das%20coisas.pdf) - Eduardo Magrani (PDF) (CC BY-SA)
 
 
 ### Java

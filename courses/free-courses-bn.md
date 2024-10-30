@@ -2,6 +2,7 @@
 
 * [Android](#android)
 * [Assembly Language](#assembly-language)
+* [Backend Essentials](#backend-essentials)
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
@@ -55,6 +56,15 @@
 ### Assembly Language
 
 * [Assembly Language Bangla Tutorial](https://www.youtube.com/playlist?list=PLEYW3pZS6IQ8UMvusEVnIJ2dDieXKyKRM) - Maruf Sarker
+
+
+### Backend Essentials
+
+* [Career in Backend Workshop](https://www.youtube.com/playlist?list=PL_XxuZqN0xVB2m_jJ1QYOFD2D4JZuY6fO) - Stack Learner
+* [Practical Microservices Workshop](https://www.youtube.com/playlist?list=PL_XxuZqN0xVAO0uVm0ClJ3wsKHJw6G_TL) - Stack Learner
+* [Pro Postman Workshop](https://www.youtube.com/playlist?list=PL_XxuZqN0xVAw_wmOs1iVfdFGiAX-wGKF) - Stack Learner
+* [REST API Design Workshop](https://www.youtube.com/playlist?list=PL_XxuZqN0xVAWGDKIzcn6NWikVkljJQZc) - Stack Learner
+* [System Design & Application Architecture Workshop](https://www.youtube.com/playlist?list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz) - Stack Learner
 
 
 ### C

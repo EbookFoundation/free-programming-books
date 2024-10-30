@@ -475,10 +475,10 @@
 -   [Next.js Tutorials for Beginners in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agtWvR_TZdb_r0dNI8-lDwG) - CodeWithHarry
 -   [NextJS Chai aur full stack](https://www.youtube.com/playlist?list=PLu71SKxNbfoBAaWGtn9GA2PTw0HO0tXzq) - Chai aur Code
 -   [NextJS Tutorial In Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp2rDbpfKAeUi9f8qZMS7_cv) - Vinod Bahadur Thapa (Thapa Technical)
--   [Learn NextJS with Aceternity UI library](https://www.youtube.com/watch?v=cVKB5NQPiFA&t=744s) - Chai aur Code
 -   [NextJS Tutorial with Project in Hindi](https://www.youtube.com/playlist?list=PL0zysOflRCemKr4NHzNgrfZAUjDzlQtO5) - Learn Code With Durgesh
 -   [NextJS Master Course](https://www.youtube.com/playlist?list=PLinedj3B30sDP2CHN5P0lDD64yYZ0Nn4J) - Piyush Garg
 -   [Next.JS Full FREE Course](https://www.youtube.com/playlist?list=PLjVLYmrlmjGcg_ZTmYgMkYp0snH-g4Zf6) - WsCube Tech
+-   [Learn NextJS with Aceternity UI library](https://www.youtube.com/watch?v=cVKB5NQPiFA&t=744s) - Chai aur Code
 -   [Master Next JS 14 Complete Basic to Advance](https://www.youtube.com/watch?v=yN8VXmncvRU&t=190s) - Geeky Shows
 
 #### Node.js

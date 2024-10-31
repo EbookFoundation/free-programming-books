@@ -467,6 +467,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Modeling with Data](https://ben.klemens.org/pdfs/gsl_stats.pdf) - Ben Klemens (PDF)
 * [Modern C](https://gustedt.gitlabpages.inria.fr/modern-c/) - Jens Gustedt (PDF)
 * [Object-Oriented Programming With ANSI-C](http://www.planetpdf.com/codecuts/pdfs/ooc.pdf) (PDF)
+* * [Practical C - O'Reilly](https://repo.zenk-security.com/Programmation/O%20Reilly%20-%20Practical%20C%20Programming,%203rd%20Edition.pdf)
 * [Programming in C](http://ee.hawaii.edu/~tep/EE160/Book/PDF/) - Bharat Kinariwala & Tep Dobry
 * [Programming in C](https://www.freetechbooks.com/programming-in-c-t1337.html) - Kishori Mundargi
 * [Structures and C](https://www.smashwords.com/books/view/644937) - Prakash Hegade
@@ -479,7 +480,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [The little book about OS development](http://littleosbook.github.io) - Erik Helin, Adam Renberg
 * [The New C Standard - An Economic and Cultural commentary (2009)](http://www.knosof.co.uk/cbook/cbook.html) - Derek M. Jones (PDF)
 * [TONC GBA Programming - Game Boy Advance Development](http://www.coranac.com/tonc/text/toc.htm)
-* [Practical C - O'Reilly](https://repo.zenk-security.com/Programmation/O%20Reilly%20-%20Practical%20C%20Programming,%203rd%20Edition.pdf)
+
 
 
 ### <a id="csharp"></a>C\#

@@ -972,7 +972,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Interneting is Hard (But it Doesn't Have to Be)](https://www.internetingishard.com) - Oliver James
 * [Learn CSS Layout](http://learnlayout.com)
 * [Learn CSS Layout the pedantic way](http://book.mixu.net/css/)
-* [HTML & XHTML: The Definitive Guide: The Definitive Guide](https://books.google.co.id/books?hl=en&lr=&id=O5Vpwv0wTYUC&oi=fnd&pg=PR7&dq=html&ots=YOvRvoxN3Q&sig=iNHoJbNV0gfgkAfGpJt4DSnjQSo&redir_esc=y) - Chuck Musciano, Bill Kennedy
+* [HTML & XHTML: The Definitive Guide](https://books.google.co.id/books?hl=en&lr=&id=O5Vpwv0wTYUC&oi=fnd&pg=PR7&dq=html&ots=YOvRvoxN3Q&sig=iNHoJbNV0gfgkAfGpJt4DSnjQSo&redir_esc=y) - *Chuck Musciano, Bill Kennedy*
 * [Learn to Code HTML & CSS](https://learn.shayhowe.com) - Shay Howe
 * [Learning sass](https://riptutorial.com/Download/sass.pdf) - Compiled from Stack Overflow documentation (PDF)
 * [Magic of CSS](https://adamschwartz.co/magic-of-css/) - Adam Schwartz (HTML) *(:construction: in process)*

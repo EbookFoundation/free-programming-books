@@ -44,7 +44,7 @@
 
 ### Ezhil
 
-* [Write Code in Tamil-Ezhil Programming Language](ezhillang.wordpress.com/wp-content/uploads/2022/01/book-write-code-in-tamil-2015.pdf) - மதைதயா அணணாமைல,என. ொசாககன (PDF)
+* [Write Code in Tamil-Ezhil Programming Language](https://ezhillang.wordpress.com/wp-content/uploads/2022/01/book-write-code-in-tamil-2015.pdf) - மதைதயா அணணாமைல,என. ொசாககன (PDF)
 
 
 ### Git Github

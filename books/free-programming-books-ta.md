@@ -4,6 +4,7 @@
 * [C Programming Language](#c-programming-language)
 * [Computer Vision](#computer-vision)
 * [DevOps](#devops)
+* [Ezhil](#ezhil)
 * [Git/Github](#git-github)
 * [Hadoop](#hadoop)
 * [HTML and CSS](#html-and-css)
@@ -39,6 +40,11 @@
 ### DevOps
 
 * [எளிய தமிழில் DevOps – கணினி அறிவியல்](https://freetamilebooks.com/ebooks/learn_devops_in_tamil/) - து.நித்யா (PDF)
+
+
+### Ezhil
+
+* [Write Code in Tamil-Ezhil Programming Language](https://ezhillang.wordpress.com/wp-content/uploads/2022/01/book-write-code-in-tamil-2015.pdf) - மதைதயா அணணாமைல,என. ொசாககன (PDF)
 
 
 ### Git Github

@@ -51,6 +51,7 @@
 * [Lua](#lua)
 * [Pascal](#pascal)
 * [PHP](#php)
+    * [Yii](#yii)
 * [Python](#python)
     * [Django](#django)
 * [R](#r)
@@ -79,7 +80,7 @@
 
 #### Programação
 
-* [Algoritmos e Estruturas de Dados 1](https://www.inf.ufpr.br/marcos/livro_alg1/livro_alg1.pdf) - Marcos Castilho, Fabiano Silva, Daniel Weingaertner (PDF)
+* [Algoritmos e Estruturas de Dados 1](https://www.inf.ufpr.br/marcos/livro_alg1/livro_alg1.pdf) - Marcos Castilho, Fabiano Silva, Daniel Weingaertner (PDF) (CC BY-NC-ND)
 * [Algoritmos e Programação](https://www.ifmg.edu.br/ceadop3/apostilas/algoritmos-e-programacao) - Adolfo José G. S. Baudson, Francisco César R. de Araújo (PDF)
 * [Introdução a Algoritmos e Programação](http://www.ferrari.pro.br/home/documents/FFerrari-CCechinel-Introducao-a-algoritmos.pdf) - Fabricio Ferrari, Cristian Cechinel (PDF)
 * [Lógica de Programação para iniciantes](https://dicasdeprogramacao.com.br/download/ebook-logica-de-programacao-para-iniciantes.pdf) - Gustavo Furtado de Oliveira Alves (PDF)
@@ -89,7 +90,7 @@
 #### Sistemas Operacionais
 
 * [Guia Foca Linux](https://www.guiafoca.org/#download) - Gleydson Maziolli (PDF)
-* [Sistemas Operacionais: Conceitos e Mecanismos](http://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-livro.pdf) - Carlos A. Maziero (PDF) *(:construction: em contínuo desenvolvimento)*
+* [Sistemas Operacionais: Conceitos e Mecanismos](http://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-livro.pdf) - Carlos A. Maziero (PDF) (CC BY-NC-SA) *(:construction: em contínuo desenvolvimento)*
 
 
 ### Android
@@ -216,10 +217,10 @@
 ### GO
 
 * [Aprenda Go com Testes](https://larien.gitbook.io/aprenda-go-com-testes) - Lauren Ferreira
-* [Construindo Aplicações Web em Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/pt-br/) - astaxie
-* [Go - hands on](https://github.com/go-br/estudos)
+* [Construindo Aplicações Web em Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/pt-br/) - astaxie (CC BY-SA)
+* [Go - hands on](https://github.com/go-br/estudos) (CC BY-SA)
 * [Go Lang - A linguagem do Google](https://www.ime.usp.br/~gold/cursos/2015/MAC5742/reports/GoLang.pdf) - Suelen Goularte Carvalho (PDF)
-* [Go por Exemplo](http://goporexemplo.golangbr.org) - Mark McGranaghan, Jeremy Ashkenas, golangbr, Daniela Tamy Iwassa (HTML)
+* [Go por Exemplo](http://goporexemplo.golangbr.org) - Mark McGranaghan, Jeremy Ashkenas, golangbr, Daniela Tamy Iwassa (HTML) (CC BY)
 
 
 ### Haskell
@@ -238,13 +239,14 @@
 
 ### Inteligência Artificial
 
-* [Inteligência artificial: avanços e tendências](https://www.livrosabertos.sibi.usp.br/portaldelivrosUSP/catalog/view/650/579/2181) - Fabio G. Cozman, Guilherme Ary Plonski, Hugo Neri (PDF)
-* [Processamento de Linguagem Natural: Conceitos, Técnicas e Aplicações em Português](https://brasileiraspln.com/livro-pln/) - Helena M. Caseli, Maria G. V. Nunes (PDF)
+* [Aplicações de Machine Learning](https://editorapantanal.com.br/ebooks/2021/aplicacoes-de-machine-learning/ebook.pdf) - Ricardo Augusto Manfredini, Geraldo Nunes Corrêa, Bruno Rodrigues de Oliveira, Suellen Teixeira Zaradzki de Pauli (PDF)
+* [Inteligência artificial: avanços e tendências](https://www.livrosabertos.sibi.usp.br/portaldelivrosUSP/catalog/view/650/579/2181) - Fabio G. Cozman, Guilherme Ary Plonski, Hugo Neri (PDF) (CC BY-NC-SA)
+* [Processamento de Linguagem Natural: Conceitos, Técnicas e Aplicações em Português](https://brasileiraspln.com/livro-pln/) - Helena M. Caseli, Maria G. V. Nunes (PDF) (CC BY-NC-ND)
 
 
 ### Internet das Coisas
 
-* [A Internet das Coisas](https://bibliotecadigital.fgv.br/dspace/bitstream/handle/10438/23898/A%20internet%20das%20coisas.pdf) - Eduardo Magrani (PDF)
+* [A Internet das Coisas](https://bibliotecadigital.fgv.br/dspace/bitstream/handle/10438/23898/A%20internet%20das%20coisas.pdf) - Eduardo Magrani (PDF) (CC BY-SA)
 
 
 ### Java
@@ -387,7 +389,6 @@
 
 ### Pascal
 
-* [Algoritmos e Estruturas de Dados I](https://www.inf.ufpr.br/marcos/livro_alg1/livro_alg1.pdf) - Marcos Alexandre Castilho, Fabiano Silva, Daniel Weingaertner (PDF)
 * [Programando com Pascal](https://ic.ufal.br/professor/jaime/livros/Programando%20com%20Pascal.pdf) - Jaime Evaristo (PDF)
 
 
@@ -398,6 +399,11 @@
 * [Curso Linguagem PHP 2000](http://www.etelg.com.br/paginaete/downloads/informatica/php.pdf) Maurício Vivas de Souza Barreto (PDF)
 * [PHP Do jeito certo](http://br.phptherightway.com)
 * [PHPUnit](https://phpunit.de/manual/current/pt_br/index.html) (PDF, EPUB, MOBI)
+
+
+#### Yii
+
+* [Guia Definitivo para Yii 2.0](https://www.yiiframework.com/doc/download/yii-guide-2.0-pt-br.pdf) - Yii Software (PDF)
 
 
 ### Python

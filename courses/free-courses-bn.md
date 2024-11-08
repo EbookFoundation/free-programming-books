@@ -1,6 +1,7 @@
 ### Index
 
 * [Android](#android)
+* [Assembly Language](#assembly-language)
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
@@ -17,6 +18,7 @@
 * [Java](#java)
 * [JavaScript](#javascript)
     * [Angular](#angular)
+    * [Electron](#electron)
     * [jQuery](#jquery)
     * [Next.js](#nextjs)
     * [Node.js](#nodejs)
@@ -36,6 +38,7 @@
     * [Flask](#flask)
 * [Scratch](#scratch)
 * [Shell scripting](#shell-scripting)
+* [Software Architecture](#software-architecture)
 * [Swift](#swift)
 * [TypeScript](#typescript)
 * [WordPress](#wordpress)
@@ -48,6 +51,11 @@
 * [Android SQLite Database Bangla Tutorials](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oJBRutwsFgUKrKJCjv9K3p) - Anisul Islam
 * [Android Tutorials Material Design](https://www.youtube.com/playlist?list=PLgH5QX0i9K3ru-TfN-YsRWKe4EEOLrWjn) - Anisul Islam
 * [Java, OOP & Android tutorials for beginners in Bengali](https://www.youtube.com/playlist?list=PLV3rqOvr9vgkmELwlSouvJtROQ6MWRbIH) - Zulkarnine Mahmud
+
+
+### Assembly Language
+
+* [Assembly Language Bangla Tutorial](https://www.youtube.com/playlist?list=PLEYW3pZS6IQ8UMvusEVnIJ2dDieXKyKRM) - Maruf Sarker
 
 
 ### C
@@ -74,6 +82,7 @@
 * [C++ Bangla Tutorial for Beginners - 2022](https://www.youtube.com/playlist?list=PLeqnvPK4PpyWsjZvgLTRcc-dkPQXc8SHc) - Shikkhangon BD
 * [C++ STL (Bangla)](https://youtube.com/playlist?list=PLgLCjVh3O6Sgux985GYG22xkFt9z9Sq0_) - LoveExtendsCode
 * [Object Oriented C++ \| Bangla Tutorial](https://www.youtube.com/playlist?list=PLy7uM3PHzMF1hnqhFGE4_A8qTUfFmZ_3y) - Online School
+* [Standard Template Library of C++ (STL)](https://www.youtube.com/playlist?list=PLoa_roVVsxA0D1Kv_T7rbGHtSdYIUo4f5) - CPS Academy
 
 
 ### Competitive Programming
@@ -198,6 +207,11 @@
 * [Angular Tutorials for Beginners in Bangla](https://www.youtube.com/playlist?list=PLDP_-KW5VxNRqG7317GyBlOwvtxP6d-LE) - miTechSoln
 * [AngularJS bangla tutorial](https://www.youtube.com/playlist?list=PLZURtcoL43SUpJj_n_yGoqM4RMqQoBbst) - tutplus24
 * [Angularjs bangla tutorial basic](https://www.youtube.com/playlist?list=PLbC4KRSNcMnr2ZFQne_jotsiX9hGwLJHG) - Learn Hunter
+
+
+#### Electron
+
+* [Electron JS Bangla Tutorials](https://www.youtube.com/playlist?list=PL_XxuZqN0xVDgr7KreI5PaVZuG8Sx3L2c&si=FOsXyD-fC87a45YJ) - Stack Learner
 
 
 #### jQuery
@@ -339,6 +353,15 @@
 * [Shell Scripting Tutorial in Bangla](https://www.youtube.com/playlist?list=PLuDISCShhAlxIduQrBqee-dlCAQTygm4l) - Mohammad Shakirul Islam
 
 
+### Software Architecture
+
+* [Career in Backend Workshop](https://www.youtube.com/playlist?list=PL_XxuZqN0xVB2m_jJ1QYOFD2D4JZuY6fO) - Stack Learner
+* [Practical Microservices Workshop](https://www.youtube.com/playlist?list=PL_XxuZqN0xVAO0uVm0ClJ3wsKHJw6G_TL) - Stack Learner
+* [Pro Postman Workshop](https://www.youtube.com/playlist?list=PL_XxuZqN0xVAw_wmOs1iVfdFGiAX-wGKF) - Stack Learner
+* [REST API Design Workshop](https://www.youtube.com/playlist?list=PL_XxuZqN0xVAWGDKIzcn6NWikVkljJQZc) - Stack Learner
+* [System Design & Application Architecture Workshop](https://www.youtube.com/playlist?list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz) - Stack Learner
+
+
 ### Swift
 
 * [Swift Programming Tutorial](https://www.youtube.com/playlist?list=PLO3_9DDlL5oQtl1_DmfAC6lAC2IoHx31K) - FHT Bangla
@@ -358,4 +381,3 @@
 * [WordPress Plugin Development](https://www.youtube.com/playlist?list=PLSNRR4BKcowCkeAxfdtTsLqwR0LJYwDaz) - Procoder BD
 * [WordPress Theme Development Tutorial Bangla ](https://www.youtube.com/playlist?list=PLSNRR4BKcowD6A-U_ll9ayJWqOEz3XD8l) - Procoder BD
 * [WP Theme Development with ChatGPT](https://www.youtube.com/playlist?list=PLn_JOV5gUeKwLEMqi93W6eswy4hEQ_ouL) - Md Maruf Adnan Sami
-

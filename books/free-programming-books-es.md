@@ -38,6 +38,7 @@
 * [Perl 6 / Raku](#perl-6--raku)
 * [PHP](#php)
     * [Symfony](#symfony)
+    * [Yii](#yii)
 * [Python](#python)
     * [Django](#django)
     * [Web2py](#web2py)
@@ -318,6 +319,11 @@
 * [Symfony 1.4, la guía definitiva](http://librosweb.es/libro/symfony_1_4) - Fabien Potencier, François Zaninotto, `trl.:` Javier Eguíluz Pérez (HTML) [(PDF)](https://openlibra.com/es/book/download/symfony-la-guia-definitiva)
 * [Symfony 2.4, el libro oficial](http://librosweb.es/libro/symfony_2_4/) - Fabien Potencier, Ryan Weaver, `trl.:` Javier Eguíluz Pérez (HTML) [(PDF)](https://openlibra.com/es/book/download/manual-de-symfony2-ver-2-0-12)
 * [Symfony 5: La Vía Rápida](https://web.archive.org/web/20210805141343/https://symfony.com/doc/current/the-fast-track/es/index.html) - Fabien Potencier (HTML)
+
+
+#### Yii
+
+* [Gu´ıa Definitiva de Yii 2.0](https://www.yiiframework.com/doc/download/yii-guide-2.0-es.pdf) - Yii Software (PDF)
 
 
 ### Perl

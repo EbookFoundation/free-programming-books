@@ -36,6 +36,7 @@
 * [Java](#java)
     * [Spring Boot](#spring-boot)
 * [JavaScript](#javascript)
+    * [Electron.js](#electronjs)
     * [GSAP](#gsap)
     * [jQuery](#jquery)
     * [Next.js](#nextjs)
@@ -87,6 +88,7 @@
 * [Data Structures and Algorithms for GATE — Complete Playlist](https://www.youtube.com/playlist?list=PLC36xJgs4dxFCQVvjMrrjcY3XrcMm2GHy) - Gate CSE lectures by Amit Khurana
 * [Data Structures and Algorithms in Python](https://www.youtube.com/playlist?list=PLyMom0n-MBrpakdIZvnhd6PFUCKNAyKo1) - Jovian
 * [Design And Analysis Of Algorithms](https://www.youtube.com/playlist?list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa) - Gate Smashers
+* [Design and Analysis of Algorithms](https://www.youtube.com/playlist?list=PL1QH9gyQXfgs7foRxIbIH8wmJyDh5QzAm) - The Gatehub
 * [DS & Algorithms Course Using Javascript](https://www.youtube.com/playlist?list=PL_HlKez9XCSOi5thYDzipbJ2pEdzop7vx) - Technical Suneja
 * [Dynamic Programming Playlist \| Coding \| Interview Questions \| Tutorials \| Algorithm](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go) - Aditya Verma
 * [Dynamic Programming Workshop](https://www.youtube.com/playlist?list=PLqf9emQRQrnKA_EeveiXQj_uP25w8_5qL) - Vivek Gupta
@@ -278,6 +280,7 @@
 
 * [Data Analyst Course - Beginner's to Advance (हिंदी में) - Full Playlist](https://www.youtube.com/playlist?list=PLxzTa0VPR9ryvGSuCm4RS8aeAvOLXz9XM) - IHHPET: Industries Helping Hands Dot Com
 * [Data Science Course 2023](https://www.youtube.com/playlist?list=PLfP3JxW-T70HvifebGl3d5d5jzI1Kp0i8) - Indian AI Production
+* [Python Data Science and Big Data Tutorials In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agK8pojo23OHiNz3Jm6VQCH) - CodeWithHarry 
 
 
 ### Data Structures
@@ -288,6 +291,7 @@
 * [Complete C++ Placement DSA Course](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA) - CodeHelp by Babbar
 * [Data Structure And Algorithms Course \| DSA Tutorial in Hindi](https://www.youtube.com/playlist?list=PLmGElG-9wxc9Us6IK6Qy-KHlG_F3IS6Q9) - ScoreShala
 * [Data Structure Programs \| Hindi](https://www.youtube.com/playlist?list=PLsFNQxKNzefJU-Sj__mljvrmJHZVKWbEm) - Saurabh Shukla
+* [Data Structure using Java](https://www.youtube.com/playlist?list=PLH9iLcrNpXtQYQiudzpZpGw0mptHc06Su) - ForMyScholars
 * [Data Structures and Algorithms Course in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi) - CodeWithHarry
 * [DSA-One Course- The Complete Data Structure and Algorithms Course](https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p) - Anuj Bhaiya
 * [Functions and Arrays - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHOV7lm2uSw4ZiVsIRsGS6r) - Pepcoding
@@ -413,6 +417,8 @@
 
 #### Material UI
 
+* [Material UI Complete in One Video (Hindi)](https://www.youtube.com/watch?v=TJz6y9RLtA8) - Geeky Shows
+* [Material UI Tutorial](https://www.youtube.com/playlist?list=PLlR2O33QQkfXnZMMZC0y22gLayBbB1UQd) - Indian Coders
 * [Material UI Tutorial for Beginners in Hindi](https://www.youtube.com/playlist?list=PL8u9CiaEfFDaR0ipsKfHdnZccTm10J7-3) - Basics Adda
 * [Reactjs material ui in hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV4722H3_nosmpdjNXIPuBUXm) - Code Step By Step
 
@@ -480,6 +486,13 @@
 * [Web Development Course](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n) - Apna College
 
 
+#### Electron.js
+
+* [Electron js Course in Hindi for beginner](https://www.youtube.com/playlist?list=PLCHw5ssvpa9sYFawfqZPeb70Le-3H9nTt) - satendrasingh programmer
+* [Electron js desktop app development tutorial](https://www.youtube.com/playlist?list=PLfxALjnZodrvtzXTg-ZFeRL7AIutdJBV4) - Wap Institute
+* [Electron js tutorial in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV46sT0RXw6PlMRVxJzEDUWuD) - Code Step By Step
+
+
 #### GSAP
 
 * [Animate anything with GSAP \| Complete GSAP Course](https://www.youtube.com/playlist?list=PLbtI3_MArDOnIIJxB6xFtpnhM0wTwz0x6) - Sheryians Coding School
@@ -499,21 +512,28 @@
 
 #### Next.js
 
+* [Learn NextJS with Aceternity UI library by building a project](https://www.youtube.com/watch?v=cVKB5NQPiFA&t=744s) - Chai aur Code
+* [Master Next JS 14 Complete Basic to Advance](https://www.youtube.com/watch?v=yN8VXmncvRU&t=190s) - Geeky Shows
 * [Next JS Tutorial for Beginners in Hindi](https://www.youtube.com/playlist?list=PLZjjdd9-SJS2ZvI4ct5Qtkje_Vdb5O_KM) - ILive4Coding
 * [Next js tutorial in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV44sj_Ikp8jQSvwD-m9htnHT) - Code Step By Step
+* [Next.JS Full FREE Course (New Updated) by WsCube Tech](https://www.youtube.com/playlist?list=PLjVLYmrlmjGcg_ZTmYgMkYp0snH-g4Zf6) - WsCube Tech
 * [Next.js Tutorials for Beginners in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agtWvR_TZdb_r0dNI8-lDwG) - CodeWithHarry
 * [NextJS Chai aur full stack](https://www.youtube.com/playlist?list=PLu71SKxNbfoBAaWGtn9GA2PTw0HO0tXzq) - Chai aur Code
+* [NextJS Master Course](https://www.youtube.com/playlist?list=PLinedj3B30sDP2CHN5P0lDD64yYZ0Nn4J) - Piyush Garg
 * [NextJS Tutorial In Hindi](https://www.youtube.com/playlist?list=PLwGdqUZWnOp2rDbpfKAeUi9f8qZMS7_cv) - Vinod Bahadur Thapa (Thapa Technical)
+* [NextJS Tutorial with Project in Hindi](https://www.youtube.com/playlist?list=PL0zysOflRCemKr4NHzNgrfZAUjDzlQtO5) - Learn Code With Durgesh
 
 
 #### Node.js
 
+* [Complete NodeJS + ExpressJS + MongoDB Course in Hindi \| Notes \| Certification](https://www.youtube.com/playlist?list=PL78RhpUUKSwfeSOOwfE9x6l5jTjn5LbY3) - Complete Coding by Prashant Sir
 * [Master NodeJS](https://www.youtube.com/playlist?list=PLinedj3B30sDby4Al-i13hQJGQoRQDfPo) - Piyush Garg
 * [Node JS](https://www.youtube.com/playlist?list=PLbGui_ZYuhiiSVvVP_9w57-aU7kx_H9bu) - Geeky Shows
 * [Node Js Tutorial in Hindi](https://www.youtube.com/watch?v=BLl32FvcdVM&ab_channel=CodeWithHarry) - Code With Harry
 * [Node.js Tutorial in Hindi](https://www.youtube.com/playlist?list=PLgOUQYMnO_SRqPikOJBu5G1ld4bJUZCmy) - truecodex
 * [Node.js Tutorials for Beginners in Hindi](https://www.youtube.com/playlist?list=PLUVqY59GNZQNCk_D9VW_zNh60WuQIzo3K) - Tutorials Website
 * [NodeJS in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV456iofeMKReMTvWLr7Ki9At) - Code Step By Step
+* [NodeJS Tutorial for Beginners](https://www.youtube.com/playlist?list=PLzjZaW71kMwScTRKzoasdyB1sX-a9EbFp) - Hello World
 * [NodeJS Tutorial for Beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7occsESx2X1E2R2Uw5wCoeG) - Telusko
 * [NodeJS Tutorial in Hindi 2020](https://www.youtube.com/playlist?list=PLwGdqUZWnOp00IbeN0OtL9dmnasipZ9x8) - Vinod Bahadur Thapa (Thapa Technical)
 
@@ -529,6 +549,7 @@
 * [React Js Tutorials in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt) - Haris Ali Khan, CodeWithHarry
 * [React Tutorial for Beginners in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV47BCAjiCtuV_liN9IwAl8pM) - Code Step By Step
 * [React Tutorial in Hindi](https://www.youtube.com/watch?v=RGKi6LSPDLU) - CodeWithHarry
+* [React.js Full Course in Hindi \| Zero to Advanced in 28 Hours](https://www.youtube.com/playlist?list=PLfEr2kn3s-bqpPUbeTZP6iRXTxTLwNB7F) - Anurag Singh ProCodrr
 * [ReactJS Tutorial for Beginners to Advanced](https://youtube.com/playlist?list=PL_HlKez9XCSO1g7c61SyJZE4iehJDFg_w) - Technical Suneja 
 * [ReactJS Tutorials for Beginners In Hindi](https://www.youtube.com/playlist?list=PLUVqY59GNZQNTlOnGne0G7DXnmi7CeOtc) - Pradeep Maurya
 
@@ -593,7 +614,8 @@
 * [Discrete Mathematics (Full Course) By Dr.Gajendra Purohit](https://www.youtube.com/playlist?list=PLU6SqdYcYsfJ27O0dvuMwafS3X8CecqUg) - Gajendra Purohit
 * [Discrete Mathematics Tutorials In Hindi | B.TECH- B.E.-UGC NET- GATE- LECTURES In Hindi](https://www.youtube.com/playlist?list=PLL8qj6F8dGlTX359q-PBBUFw3BrBvAxq3) - Deepak Garg
 * [Maths for CP](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFs8E0EGeckM89cD8E6sFro) - Pepcoding
-* [Statistics And Probability](https://www.youtube.com/playlist?list=PLU6SqdYcYsfLRq3tu-g_hvkHDcorrtcBK) - Gajendra Purohit
+* [Maths for Machine Learning](https://www.youtube.com/playlist?list=PLKnIA16_RmvbYFaaeLY28cWeqV-3vADST) - CampusX
+* [Statistics And Probability](https://www.youtube.com/playlist?list=PLU6SqdYcYsfLRq3tu-g_hvkHDcorrtcBK) - Gajendra Purohit  
 
 
 ### Matlab
@@ -606,6 +628,7 @@
 
 ### Mongo DB
 
+* [Complete MongoDB Tutorial Series in Hindi](https://www.youtube.com/playlist?list=PL5IobCNPDnI_Xh2iya6p37Ain_71ro71w) - Simple Snip Code
 * [MongoDB Complete Course Tutorial in Hindi](https://www.youtube.com/watch?v=rU9ZODw5yvU) - Vinod Bahadur Thapa (Thapa Technical)
 * [MongoDB full course for beginners](https://youtube.com/playlist?list=PLwGdqUZWnOp1P9xSsJg7g3AY0CUjs-WOa) - Thapa Technical
 * [MongoDB playlist in Hindi](https://www.youtube.com/playlist?list=PLA3GkZPtsafZydhN4nP0h7hw7PQuLsBv1) - Engineering Digest
@@ -617,6 +640,7 @@
 
 ### Natural Language Processing
 
+* [Natural Language Processing](https://www.youtube.com/playlist?list=PLKnIA16_RmvZo7fp5kkIth6nRTeQQsjfX) - CampusX
 * [Natural Language Processing with Deep NLP from Zero to Hero](https://www.youtube.com/playlist?list=PLtCBuHKmdxOefxJhd6u8KY9vTN8G5D5yG) - Fahad Hussain 
 * [NLP Tutorial Playlist Python](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX) - Code Basics
 * [Playlist to Natural Language Processing [ Hindi ]](https://www.youtube.com/playlist?list=PLPIwNooIb9vimsumdWeKF3BRzs9tJ-_gy) - Perfect Computer Engineer
@@ -714,6 +738,7 @@
 
 * [[Hindi] Flask Tutorial For Beginners 2020](https://www.youtube.com/playlist?list=PLkPmSWtWNIyQ-_mlHIQho9nCnxdbvnQIl) - Knowledge Shelf
 * [Flask (Python) In Hindi](https://www.youtube.com/playlist?list=PLy-CGmBdq2VGQGbhmSQEOD3Ty-Fp19pGC) - HindiSiksha
+* [Flask for Machine Learning](https://learnwith.campusx.in/courses/Flask-for-Machine-Learning-Introduction-to-Flask--Dynamic-URL-Redirection-URL-Building-Jinja-Templates-Forms--Input-Validation-Databases-Sessions-Cookies-Training--Deloyment-of-ML-Model-6658698ad54433398d1a487b) - Mohammed Misbahullah Sheriff (CampusX)
 * [Web Development Using Flask and Python](https://www.youtube.com/playlist?list=PLu0W_9lII9agAiWp6Y41ueUKx1VcTRxmf) - CodeWithHarry
 
 
@@ -735,16 +760,20 @@
 
 * [Complete Ruby Programming Course \|\| Hindi](https://www.youtube.com/playlist?list=PLgPJX9sVy92y_ENwi_4hMCpDtQFnazFPp) - CS Geeks
 * [Learn Ruby in 45 Minutes \| Hindi](https://www.youtube.com/watch?v=3V9a_WYEQPA) - CS Geeks
+* [Ruby Tutorial for Beginners (Hindi)](https://www.youtube.com/playlist?list=PLgPJX9sVy92yefe1xmyxgcyXjxmLHsSEV) - CS Geeks
 
 
 #### Ruby on Rails
 
 * [Full Stack Development in Ruby on Rails - Hindi](https://www.youtube.com/playlist?list=PLSfx1NJkuWPWlVjFy5datW4Y-54ltIFw7) - APPSIMPACT Academy Hindi
 * [Ruby on Rails 5 Tutorial(Hindi)](https://www.youtube.com/playlist?list=PLgPJX9sVy92yV7Qt6_8ElC9paGWdtdIbb) - CS Geeks
+* [Ruby on Rails Course \| Urdu / Hindi](https://www.youtube.com/playlist?list=PL9WbyKqkuCAYT-IPvo5PxR_hijMuR1RCB) - Code with Naqvi
+* [Ruby on Rails Tutorial in Hindi](https://www.youtube.com/playlist?list=PLWWB_UKBNWcuATKL6_MjSkPOMckEgYpcD) - AJ Technical
 
 
 ### Rust
 
+* [Complete Rust Course - Zero to Advanced 2023](https://www.youtube.com/playlist?list=PLOY5k46NyxirlL6Pk3Py6_5SL1EIdXg5c) - Blockchain Wala 
 * [Rust Complete Tutorial In Hindi](https://www.youtube.com/playlist?list=PLRuqvIc0eAmp8Lv6M4BKQWEinvCuqdVFP) - One Two Coding
 * [Rust Programming Complete Tutorial In Hindi 2023.](https://www.youtube.com/playlist?list=PLndmg9UIKNomnnSxd__VKkUX4zT1YpSoY) - Code Your Money
 * [Rust-Programming in Hindi](https://www.youtube.com/playlist?list=PL8fnAiiuQeFsss4xdjXyHJ4fT4_w10s3J) - Go Guru

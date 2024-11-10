@@ -136,7 +136,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 
 ### Artificial Intelligence
 
-* [AI Safety for Fleshy Humans](https:/aisafety.dance) - Nicky Case and Hack Club *(:construction: in process)* (CC BY-NC)
+* [AI Safety for Fleshy Humans](https://aisafety.dance) - Nicky Case and Hack Club *(:construction: in process)* (CC BY-NC)
 * [Artificial Intelligence, 3rd Edition (1993)](https://courses.csail.mit.edu/6.034f/ai3/rest.pdf) - Patrick Henry Winston (PDF)
 * [Artificial Intelligence and the Future for Teaching and Learning](https://www2.ed.gov/documents/ai-report/ai-report.pdf) - Office of Educational Technology (PDF)
 * [Artificial Intelligence for a Better Future: An Ecosystem Perspective on the Ethics of AI and Emerging Digital Technologies](https://link.springer.com/book/10.1007/978-3-030-69978-9) - Bernd Carsten Stahl (PDF, EPUB)

@@ -785,7 +785,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Professional Software Development For Students](https://mixmastamyk.bitbucket.io/pro_soft_dev/intro.html) - Mike G. Miller
 * [Software Engineering at Google](https://abseil.io/resources/swe-book) - Titus Winters, Tom Manshreck, Hyrum Wright
 * [Software Environment Concepts](https://softwareconcepts.vercel.app) - Amr Elmohamady *(:construction: in process)*
-* [Succeed In Software: A Comprehensive Guide To Software Career Excellence]([http://teachtogether.tech/en/](https://github.com/succeedinsoftware/book)) - Sean Cannon (PDF, ePUB) (CC BY-NC-ND)
+* [Succeed In Software: A Comprehensive Guide To Software Career Excellence](https://github.com/succeedinsoftware/book) - Sean Cannon (PDF, ePUB) (CC BY-NC-ND)
 * [Teaching Tech Together](http://teachtogether.tech/en/) - Greg Wilson (HTML)
 * [What I've Learned From Failure](https://leanpub.com/shippingsoftware/read) - Reginald Braithwaite
 

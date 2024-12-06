@@ -87,6 +87,7 @@
 
 * [Kurs JavaScript. Programowanie frontendowe (VIDEO)](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxTUYuHS9ZYNlcJq5R3jBsC) - Mirosław Zelent, Damian Stelmach
 * [Programowanie w JavaScript od podstaw w 1 miesiąc](https://www.youtube.com/playlist?list=PLTs20Q-BTEMPRSzhrlAuu7yus1BuOLVrS)
+* [Zostań Programistą JavaScript](https://youtube.com/playlist?list=PLaRAejmsc8gGAs-Ml8aa4eLCkm6ESvdnN&si=aGm9u8lJl4B1_Fh3) - Kacper Szarkiewicz
 
 
 #### Vue.js
@@ -127,3 +128,4 @@
 * [Kurs Swift - Lekcja 0: Zakładamy konto deweloperskie i pobieramy Xcode](https://myapple.pl/posts/8599-kurs-swift-lekcja-0-zakladamy-konto-deweloperskie-i-pobieramy-xcode) - Michał Lipiński
 * [Kurs Swift - Lekcja 1: Podstawy języka](https://myapple.pl/posts/8600-kurs-swift-lekcja-1-podstawy-jezyka) - Michał Lipiński
 * [Kurs Swift - Lekcja 2: Jak zbudowane są aplikacje](https://myapple.pl/posts/8601-kurs-swift-lekcja-2-jak-zbudowane-sa-aplikacje) - Michał Lipiński
+

@@ -116,6 +116,7 @@
 * [Windows Phone](#windows-phone)
 * [WordPress](#wordpress)
 * [YAML](#yaml)
+* [Neovim](#Neovim)
 
 
 ### 0 - MOOC
@@ -1848,3 +1849,9 @@
 
 * [Complete YAML Course - Beginner to Advanced for DevOps and more!](https://www.youtube.com/watch?v=IA90BTozdow) - Kunal Kushwaha
 
+
+### Neovim
+
+* [From 0 to IDE in NEOVIM from scratch](https://www.youtube.com/watch?v=zHTeCSVAFNY&list=PLsz00TDipIffreIaUNk64KxTIkQaGguqn) - typecraft
+* [The Only Video You Need to Get Started with Neovim](https://www.youtube.com/watch?v=m8C0Cq9Uv9o) - TJ DeVries
+* [Teaching Neovim From Scratch To A Noob](https://youtu.be/-ybCiHPWKNA?si=SDzToayfJ0EBpADn) - TheVimeagen

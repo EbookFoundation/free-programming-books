@@ -44,6 +44,7 @@
     * [React](#react)
     * [React Native](#react-native)
     * [Redux](#redux)
+    * [Three.js](#threejs) 
     * [Vue.js](#vuejs)
 * [Kotlin](#kotlin)
 * [Linux](#linux)
@@ -498,6 +499,12 @@
 * [Animate anything with GSAP \| Complete GSAP Course](https://www.youtube.com/playlist?list=PLbtI3_MArDOnIIJxB6xFtpnhM0wTwz0x6) - Sheryians Coding School
 * [GSAP Demystified \| From Beginning to Advanced](https://www.youtube.com/playlist?list=PLbtI3_MArDOn9x8DUbc-E0t9PnvrUaPs9) - Sheryians Coding School
 * [Learning GSAP in hindi](https://www.youtube.com/playlist?list=PLf8nAOi8Z9NXGhl7m8rTWmzjyhJEuFYmF) - D.Designing
+  
+
+#### Three.js
+
+* [ThreeJS basics in Hindi ](https://youtube.com/playlist?list=PLLtf5zkw51ACvR9vGt-kTWZazamN1SXCz) - CodingBaaz
+* [three js tutorial playlist Hindi](https://youtube.com/playlist?list=PLFxQ9Nd5bltj8Yp6G6Sjq3Du52tNt90Ax) - Monk Jha
 
 
 #### jQuery

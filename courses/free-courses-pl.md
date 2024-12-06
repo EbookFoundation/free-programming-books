@@ -119,8 +119,8 @@
 * [Kurs Python - Darmowy Po Polsku](https://www.youtube.com/playlist?list=PL_dDQ_G9rdI6dQsDkwqSQyAeXY3uUrWzp)
 * [Kurs Python 3](https://www.youtube.com/playlist?list=PLdBHMlEKo8UcOaykMssI1_X6ui0tzTNoH) - Piotr Baja
 * [Python 3 - Kurs wideo](https://www.youtube.com/playlist?list=PLbOPmSDkHx2pCboufcEKkinpUuramshmr)
+* [Podstawy Pythona](https://www.youtube.com/playlist?list=PL3U271IN44UrPNw-tb9ar36jy2phIJrmr) - Kacper Sieradziński
 * [Raspberry Pi kurs od podstaw](https://forbot.pl/blog/kurs-raspberry-pi-od-podstaw-wstep-spis-tresci-id23139) - Piotr Bugalski (FORBOT.pl)
-
 
 ### Swift
 

@@ -526,6 +526,7 @@
 
 * [Advanced Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/advanceddataminingwithweka/)
 * [An Introduction to Data Science](https://www.udemy.com/course/an-introduction-to-data-science/)
+* [Practical Statistics for Data Science](https://github.com/Chandra0505/Data-Science-Resources/blob/master/machine-learning/Practical%20Statistics%20for%20Data%20Scientists.pdf) -Andrew Bruce, Peter Bruce, and Peter Gedeck
 * [Apache Airflow Tutorials](https://www.youtube.com/playlist?list=PLYizQ5FvN6pvIOcOd6dFZu3lQqc6zBGp2) - Tuan Vu
 * [Applied Data Science with Python](https://cognitiveclass.ai/learn/data-science-with-python) - CognitiveClass.ai
 * [Big Data Engineering Course](https://www.youtube.com/playlist?list=PLLa_h7BriLH2UYJIO9oDoP3W-b6gQeA12) - Data Engineering

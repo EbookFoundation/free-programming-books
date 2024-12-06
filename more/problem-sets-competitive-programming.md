@@ -57,13 +57,18 @@
 ### Capture the flag
 
 * [ångstromCTF](https://angstromctf.com)
+* [Attack Defense](https://attackdefense.com) (email address *requested*)
+* [CryptoHack](https://cryptohack.org) (email address *requested*)
+* [Cmd Challenge](https://cmdchallenge.com)
 * [CTFlearn](https://ctflearn.com) (email address *requested*)
 * [CTFtime](https://ctftime.org)
 * [DamnVulnerableDefi](https://www.damnvulnerabledefi.xyz)
 * [echoCTF](https://echoctf.red) (email address *requested*)
+* [Exploit Education](https://exploit.education)
 * [Google CTF](https://capturetheflag.withgoogle.com) (email address *requested*)
 * [Hacker101](https://ctf.hacker101.com) (email address *requested*)
 * [Hackthebox](https://www.hackthebox.eu) (email address *requested*)
+* [Hacka Flag](https://hackaflag.com.br) (email address *requested*)
 * [HackThisSite](https://www.hackthissite.org) (email address *requested*)
 * [InCTF](https://inctf.in)
 * [Microcorruption](https://microcorruption.com/login)
@@ -71,8 +76,12 @@
 * [Picoctf](https://picoctf.org/resources.html) (email address *requested*)
 * [ringzer0ctf](https://ringzer0ctf.com/home) (email address *required*)
 * [ROP Wargame Repository](https://github.com/xelenonz/game)
+* [Root Me](https://www.root-me.org) (email address *required*)
 * [SmashTheStack](http://www.smashthestack.org/main.html#wargames)
 * [TryHackMe](https://tryhackme.com) (email address *requested*)
+* [Vulnhub](https://www.vulnhub.com)
+* [W3Challs](https://w3challs.com) (email address *requested*)
+* [Zenk Security](https://www.zenk-security.com) (email address *requested*)
 
 
 ### Data science

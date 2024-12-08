@@ -92,9 +92,20 @@
 
 ### <a id="csharp"></a>C\#
 
+* [Codeapi](https://codapi.org/csharp)
+* [CodeSandbox](https://codesandbox.io/s/c-z2m9v)
+* [Dotfiddlenet](https://dotnetfiddle.net)
+* [GDB](https://www.onlinegdb.com/online_csharp_compiler)
+* [Getvm](https://getvm.io/playgrounds/c-sharp-playground)
+* [Jdoodle](https://www.jdoodle.com/compile-c-sharp-online)
+* [myCompiler](https://www.mycompiler.io/online-csharp-compiler)
+* [Onecompiler](https://onecompiler.com/csharp/3wv9zujyk)
 * [OnlineGDB](https://www.onlinegdb.com/online_csharp_compiler)
-* [Programiz - Online Compiler](https://www.programiz.com/csharp-programming/online-compiler/)
+* [Programiz - Online Compiler](https://www.programiz.com/csharp-programming/online-compiler)
+* [Scholarhat](https://www.scholarhat.com/compiler/csharp)
+* [Sharplab](https://sharplab.io)
 * [SoloLearn](https://code.sololearn.com/csharp)
+* [W3Schools](https://www.w3schools.com/cs/cs_compiler.php)
 
 
 ### <a id="cpp"></a>C++
@@ -164,7 +175,9 @@
 
 ### Git
 
-* [Git](https://learngitbranching.js.org/?NODEMO)
+* [Codeapi](https://git-school.github.io/visualizing-git)
+* [Git-school](https://git-school.github.io/visualizing-git)
+* [Js](https://learngitbranching.js.org/?NODEMO)
 
 
 ### Go
@@ -204,6 +217,7 @@
 
 ### Ionic
 
+* [Codepen](https://codepen.io/ajp8164/pen/zrLQYP)
 * [StackBlitz](https://stackblitz.com/fork/ionic)
 
 

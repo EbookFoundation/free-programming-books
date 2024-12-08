@@ -175,7 +175,9 @@
 
 ### Git
 
-* [Git](https://learngitbranching.js.org/?NODEMO)
+* [Codeapi](https://git-school.github.io/visualizing-git)
+* [Js](https://learngitbranching.js.org/?NODEMO)
+* [Git-school](https://git-school.github.io/visualizing-git)
 
 
 ### Go

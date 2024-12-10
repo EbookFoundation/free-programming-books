@@ -310,6 +310,7 @@
 * [Codepad](http://codepad.org/?lang=PHP)
 * [ExtendsClass](https://extendsclass.com/php.html)
 * [PHP Online Compiler](https://www.codinguru.online/compiler/php)
+* [PHPHub](https://phphub.net/sandbox/)
 * [PHPTester](http://phptester.net)
 * [SoloLearn](https://code.sololearn.com/php)
 

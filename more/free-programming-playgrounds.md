@@ -177,7 +177,7 @@
 
 * [Codeapi](https://git-school.github.io/visualizing-git)
 * [Git-school](https://git-school.github.io/visualizing-git)
-* [Js](https://learngitbranching.js.org/?NODEMO)
+* [Learn Git Branching](https://learngitbranching.js.org/?NODEMO)
 
 
 ### Go

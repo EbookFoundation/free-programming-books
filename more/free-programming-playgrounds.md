@@ -102,7 +102,7 @@
 * [Onecompiler](https://onecompiler.com/csharp/3wv9zujyk)
 * [OnlineGDB](https://www.onlinegdb.com/online_csharp_compiler)
 * [Programiz - Online Compiler](https://www.programiz.com/csharp-programming/online-compiler)
-* [Scholarhat](https://www.scholarhat.com/compiler/csharp)
+* [C# Online Compiler](https://www.scholarhat.com/compiler/csharp) - ScholarHat
 * [Sharplab](https://sharplab.io)
 * [SoloLearn](https://code.sololearn.com/csharp)
 * [W3Schools](https://www.w3schools.com/cs/cs_compiler.php)

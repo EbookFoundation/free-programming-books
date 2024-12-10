@@ -105,7 +105,7 @@
 * [C# Online Compiler](https://www.scholarhat.com/compiler/csharp) - ScholarHat
 * [SharpLab](https://sharplab.io)
 * [SoloLearn](https://code.sololearn.com/csharp)
-* [W3Schools](https://www.w3schools.com/cs/cs_compiler.php)
+* [C# Online Compiler](https://www.w3schools.com/cs/cs_compiler.php) - W3Schools
 
 
 ### <a id="cpp"></a>C++

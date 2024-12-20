@@ -96,7 +96,7 @@
 * [C# Online Compiler](https://www.w3schools.com/cs/cs_compiler.php) - W3Schools
 * [C# playground](https://codapi.org/csharp) - Codeapi
 * [Onecompiler](https://onecompiler.com/csharp/3wv9zujyk)
-* [CodeSandbox](https://codesandbox.io/s/c-z2m9v)
+* [Onecompiler](https://onecompiler.com/csharp/3wv9zujyk)
 * [Onecompiler](https://onecompiler.com/csharp/3wv9zujyk)
 * [Online C# Compiler](https://www.mycompiler.io/online-csharp-compiler) - myCompiler
 * [OneCompiler](https://onecompiler.com/csharp/3wv9zujyk)

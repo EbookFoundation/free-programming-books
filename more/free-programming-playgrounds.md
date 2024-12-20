@@ -97,7 +97,7 @@
 * [C# playground](https://codapi.org/csharp) - Codeapi
 * [CodeSandbox](https://codesandbox.io/s/c-z2m9v)
 * [Getvm](https://getvm.io/playgrounds/c-sharp-playground)
-* [Jdoodle](https://www.jdoodle.com/compile-c-sharp-online)
+* [Online C# Compiler IDE](https://www.jdoodle.com/compile-c-sharp-online) - JDoodle
 * [myCompiler](https://www.mycompiler.io/online-csharp-compiler)
 * [.Net Fiddle](https://dotnetfiddle.net)
 * [Onecompiler](https://onecompiler.com/csharp/3wv9zujyk)

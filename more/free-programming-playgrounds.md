@@ -95,7 +95,7 @@
 * [C# Online Compiler](https://www.scholarhat.com/compiler/csharp) - ScholarHat
 * [C# Online Compiler](https://www.w3schools.com/cs/cs_compiler.php) - W3Schools
 * [C# playground](https://codapi.org/csharp) - Codeapi
-* [Onecompiler](https://onecompiler.com/csharp/3wv9zujyk)
+* [OneCompiler](https://onecompiler.com/csharp/3wv9zujyk)
 * [Online C# Compiler](https://www.mycompiler.io/online-csharp-compiler) - myCompiler
 * [Online C# Compiler IDE](https://www.jdoodle.com/compile-c-sharp-online) - JDoodle
 * [OnlineGDB](https://www.onlinegdb.com/online_csharp_compiler)

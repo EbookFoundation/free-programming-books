@@ -96,10 +96,10 @@
 * [C# Online Compiler](https://www.w3schools.com/cs/cs_compiler.php) - W3Schools
 * [C# playground](https://codapi.org/csharp) - Codeapi
 * [CodeSandbox](https://codesandbox.io/s/c-z2m9v)
-* [Getvm](https://getvm.io/playgrounds/c-sharp-playground)
-* [myCompiler](https://www.mycompiler.io/online-csharp-compiler)
+* [C# Playground](https://getvm.io/playgrounds/c-sharp-playground) - GetVM
+* [Online C# Compiler](https://www.mycompiler.io/online-csharp-compiler) - myCompiler
 * [.Net Fiddle](https://dotnetfiddle.net)
-* [Onecompiler](https://onecompiler.com/csharp/3wv9zujyk)
+* [OneCompiler](https://onecompiler.com/csharp/3wv9zujyk)
 * [Online C# Compiler IDE](https://www.jdoodle.com/compile-c-sharp-online) - JDoodle
 * [OnlineGDB](https://www.onlinegdb.com/online_csharp_compiler)
 * [Programiz - Online Compiler](https://www.programiz.com/csharp-programming/online-compiler)

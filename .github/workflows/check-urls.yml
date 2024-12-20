@@ -1,70 +1,55 @@
-name: Check URLs from changed files
+name: Check URLs from Changed Files
 
 on:
   push:
   pull_request:
 
 permissions:
-  # needed for checkout code
-  contents: read
+  contents: read # Needed for checkout
 
-# This allows a subsequently queued workflow run to interrupt/wait for previous runs
 concurrency:
   group: '${{ github.workflow }} @ ${{ github.run_id }}'
-  cancel-in-progress: false         # true = interrupt, false = wait
+  cancel-in-progress: false
 
 jobs:
-
-# NOTE: tj-actions/changed-files.
-# For push events you need to include fetch-depth: 0 | 2 depending on your use case.
-#  0: retrieve all history for all branches and tags
-#  1: retrieve only current commit (by default)
-#  2: retrieve until the preceding commit
   get-changed-files:
-    name: Get changed files
+    name: Get Changed Files
     runs-on: ubuntu-latest
     outputs:
       fetch-depth: ${{ steps.set-params.outputs.fetch-depth }}
-      files:       ${{ steps.set-files.outputs.files }}
-      files-len:   ${{ steps.set-files.outputs.files-len }}
-      matrix:      ${{ steps.set-matrix.outputs.matrix }}
+      files: ${{ steps.set-files.outputs.files }}
+      files-len: ${{ steps.set-files.outputs.files-len }}
+      matrix: ${{ steps.set-matrix.outputs.matrix }}
     steps:
-      - name: Determine workflow params
+      - name: Determine Workflow Parameters
         id: set-params
         run: |
           echo "fetch_depth=0" >> $GITHUB_OUTPUT
           if [ "${{ github.event_name }}" == "pull_request" ]; then
             echo "fetch_depth=0" >> $GITHUB_OUTPUT
           fi
-      - name: Checkout
+      - name: Checkout Code
         uses: actions/checkout@v4
         with:
           fetch-depth: ${{ steps.set-params.outputs.fetch-depth }}
-      - name: Get changed files
+      - name: Identify Changed Files
         id: changed-files
         uses: tj-actions/changed-files@v45.0.5
         with:
           separator: " "
           json: true
-      - id: set-files
+      - name: Set Changed Files Outputs
+        id: set-files
         run: |
-          echo "${{ steps.changed-files.outputs.all_changed_files }}"  \
-            | jq --raw-output '. | join(" ")'  \
-            | sed -e 's/^/files=/'  \
-            >> $GITHUB_OUTPUT
-          echo "${{ steps.changed-files.outputs.all_changed_files }}"  \
-            | jq --raw-output '. | length'  \
-            | sed -e 's/^/files-len=/'  \
-            >> $GITHUB_OUTPUT
-      - id: set-matrix
+          echo "files=$(echo ${{ steps.changed-files.outputs.all_changed_files }} | jq -r '. | join(\" \")')" >> $GITHUB_OUTPUT
+          echo "files-len=$(echo ${{ steps.changed-files.outputs.all_changed_files }} | jq -r '. | length')" >> $GITHUB_OUTPUT
+      - name: Create Matrix for Changed Files
+        id: set-matrix
         run: |
-          echo "{\"file\":${{ steps.changed-files.outputs.all_changed_files }}}"  \
-            | sed -e 's/^/matrix=/'  \
-            >> $GITHUB_OUTPUT
-
+          echo "matrix={\"file\":${{ steps.changed-files.outputs.all_changed_files }}}" >> $GITHUB_OUTPUT
 
   check-urls:
-    name: Check @ ${{ matrix.file }}
+    name: Check URLs @ ${{ matrix.file }}
     if: ${{ fromJSON(needs.get-changed-files.outputs.files-len) > 0 }}
     needs: [get-changed-files]
     runs-on: ubuntu-latest
@@ -73,60 +58,52 @@ jobs:
       max-parallel: 10
       fail-fast: false
     steps:
-      - name: Checkout
+      - name: Checkout Code
         if: ${{ endsWith(matrix.file, '.yml') || endsWith(matrix.file, '.md') }}
         uses: actions/checkout@v4
         with:
           fetch-depth: ${{ needs.get-changed-files.outputs.fetch-depth }}
-      - name: Setup Ruby v2.6
+      - name: Setup Ruby Environment
         if: ${{ endsWith(matrix.file, '.yml') || endsWith(matrix.file, '.md') }}
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: 2.6
-      - name: Install awesome_bot
+      - name: Install Awesome Bot
         if: ${{ endsWith(matrix.file, '.yml') || endsWith(matrix.file, '.md') }}
         run: |
           gem install awesome_bot
-      - name: Set output
+      - name: Set Output Variables
         id: set-output
-        # FILENAME takes the complete file path and strips everything before the final '/'
-        # FILEPATH replaces all '/' with '-' in the file path since '/' is not allowed in upload artifact name
-        # Due to a bug in actions/download-artifact, we need to rename README.md to BASE_README.md
         run: |
-          echo "FILENAME=$(echo ${{ matrix.file }} | grep -oE '[a-zA-Z0-9_-]+(\.yml|\.md)')" >> "$GITHUB_OUTPUT"
-
-          file_path="${{ matrix.file }}"
-          file_path="${file_path//\//-}"
-
+          echo "FILENAME=$(basename ${{ matrix.file }})" >> $GITHUB_OUTPUT
+          file_path="${{ matrix.file //\//- }}"
           if [[ "$file_path" == "README.md" ]]; then
             file_path="BASE_README.md"
           fi
-
-          echo "FILEPATH=${file_path}" >> "$GITHUB_OUTPUT"
-      - name: "Check URLs of file: ${{ matrix.file }}"
+          echo "FILEPATH=${file_path}" >> $GITHUB_OUTPUT
+      - name: Validate URLs in File
         if: ${{ endsWith(matrix.file, '.yml') || endsWith(matrix.file, '.md') }}
         run: |
-          awesome_bot "${{ matrix.file }}" --allow-redirect --allow-dupe --allow-ssl || true;
-      - uses: actions/upload-artifact@v4
+          awesome_bot "${{ matrix.file }}" --allow-redirect --allow-dupe --allow-ssl || true
+      - name: Upload Validation Results
+        uses: actions/upload-artifact@v4
         with:
           name: ${{ steps.set-output.outputs.FILEPATH }}
           path: ${{ github.workspace }}/ab-results-*.json
 
-
   reporter:
-    name: GitHub report
+    name: Generate GitHub Report
     needs: [get-changed-files, check-urls]
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout  # for having the sources of the local action
+      - name: Checkout Code
         uses: actions/checkout@v4
-        # download and unzip the ab-results-*.json generated by job-matrix: check-urls
-      - name: Download artifacts
+      - name: Download Validation Artifacts
         uses: actions/download-artifact@v4
-      - name: Generate Summary Report
+      - name: Generate URL Check Summary
         uses: ./.github/actions/awesomebot-gh-summary-action
         with:
           ab-root: ${{ github.workspace }}
           files: ${{ needs.get-changed-files.outputs.files }}
           separator: " "
-          append-heading: ${{ true }}
+          append-heading: true

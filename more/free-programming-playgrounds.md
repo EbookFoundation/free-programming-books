@@ -96,11 +96,10 @@
 * [C# Online Compiler](https://www.scholarhat.com/compiler/csharp) - ScholarHat
 * [C# Online Compiler](https://www.w3schools.com/cs/cs_compiler.php) - W3Schools
 * [CodeSandbox](https://codesandbox.io/s/c-z2m9v)
-* [.Net Fiddle](https://dotnetfiddle.net)
-* [OnlineGDB](https://www.onlinegdb.com/online_csharp_compiler)
 * [Getvm](https://getvm.io/playgrounds/c-sharp-playground)
 * [Jdoodle](https://www.jdoodle.com/compile-c-sharp-online)
 * [myCompiler](https://www.mycompiler.io/online-csharp-compiler)
+* [.Net Fiddle](https://dotnetfiddle.net)
 * [Onecompiler](https://onecompiler.com/csharp/3wv9zujyk)
 * [OnlineGDB](https://www.onlinegdb.com/online_csharp_compiler)
 * [Programiz - Online Compiler](https://www.programiz.com/csharp-programming/online-compiler)

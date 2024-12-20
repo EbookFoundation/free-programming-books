@@ -85,6 +85,7 @@
 
 ### JavaScript
 
+* [Kurs Javascript: Moduł 1: Poczatkujacy](https://youtube.com/playlist?list=PLaRAejmsc8gGAs-Ml8aa4eLCkm6ESvdnN) - Kacper Szarkiewicz
 * [Kurs JavaScript. Programowanie frontendowe (VIDEO)](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxTUYuHS9ZYNlcJq5R3jBsC) - Mirosław Zelent, Damian Stelmach
 * [Programowanie w JavaScript od podstaw w 1 miesiąc](https://www.youtube.com/playlist?list=PLTs20Q-BTEMPRSzhrlAuu7yus1BuOLVrS)
 

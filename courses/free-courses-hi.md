@@ -540,6 +540,7 @@
 
 #### React
 
+* [🚀🔥 React & Redux Complete Course (2024) with Projects | Notes | Free Certification](https://www.youtube.com/watch?v=eILUmCJhl64&t=48567s) - Complete Coding by Prashant Sir
 * [10-Hour React Tutorial 2023 - Zero to Advanced \| Learn React JS in Hindi](https://www.youtube.com/watch?v=6l8RWV8D-Yo&list=PL2PkZdv6p7ZnS2QIz8WAPmqeqUUccPNQY) - Coder Dost
 * [Chai aur react \| with projects](https://www.youtube.com/playlist?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige) - Chai aur Code
 * [React JS (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhignjLLXTJWkRJKN-SgAqClL) - Rajesh Kumar, Geeky Shows
@@ -615,7 +616,8 @@
 * [Discrete Mathematics Tutorials In Hindi | B.TECH- B.E.-UGC NET- GATE- LECTURES In Hindi](https://www.youtube.com/playlist?list=PLL8qj6F8dGlTX359q-PBBUFw3BrBvAxq3) - Deepak Garg
 * [Maths for CP](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFs8E0EGeckM89cD8E6sFro) - Pepcoding
 * [Maths for Machine Learning](https://www.youtube.com/playlist?list=PLKnIA16_RmvbYFaaeLY28cWeqV-3vADST) - CampusX
-* [Statistics And Probability](https://www.youtube.com/playlist?list=PLU6SqdYcYsfLRq3tu-g_hvkHDcorrtcBK) - Gajendra Purohit  
+* [Numerical Analysis](https://www.youtube.com/playlist?list=PLU6SqdYcYsfLrTna7UuaVfGZYkNo0cpVC) - Gajendra Purohit
+* [Statistics And Probability](https://www.youtube.com/playlist?list=PLU6SqdYcYsfLRq3tu-g_hvkHDcorrtcBK) - Gajendra Purohit
 
 
 ### Matlab
@@ -659,6 +661,7 @@
 ### Open Source
 
 * [Open Source BootCamp - Master Open Source Contributions](https://www.youtube.com/playlist?list=PLinedj3B30sAT6CotNj0iffhRV89SkNK9) - Piyush Garg
+* [Open Source Contribution Guide](https://www.youtube.com/playlist?list=PLSH9gf0XETovNnkF0iuL0ADYoHnwKiIIT) - Vishal Rajput
 
 
 ### Operating Systems

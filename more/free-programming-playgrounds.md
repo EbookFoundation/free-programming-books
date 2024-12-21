@@ -173,7 +173,6 @@
 
 * [Git-school](https://git-school.github.io/visualizing-git)
 * [Learn Git Branching](https://learngitbranching.js.org/?NODEMO)
-* [Visualizing Git](https://git-school.github.io/visualizing-git)
 
 
 ### Go

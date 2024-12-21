@@ -92,8 +92,15 @@
 
 ### <a id="csharp"></a>C\#
 
+* [C# Online Compiler](https://www.scholarhat.com/compiler/csharp) - ScholarHat
+* [C# Online Compiler](https://www.w3schools.com/cs/cs_compiler.php) - W3Schools
+* [C# playground](https://codapi.org/csharp) - Codeapi
+* [OneCompiler](https://onecompiler.com/csharp/3wv9zujyk)
+* [Online C# Compiler](https://www.mycompiler.io/online-csharp-compiler) - myCompiler
+* [Online C# Compiler IDE](https://www.jdoodle.com/compile-c-sharp-online) - JDoodle
 * [OnlineGDB](https://www.onlinegdb.com/online_csharp_compiler)
-* [Programiz - Online Compiler](https://www.programiz.com/csharp-programming/online-compiler/)
+* [Programiz - Online Compiler](https://www.programiz.com/csharp-programming/online-compiler)
+* [SharpLab](https://sharplab.io)
 * [SoloLearn](https://code.sololearn.com/csharp)
 
 
@@ -164,7 +171,8 @@
 
 ### Git
 
-* [Git](https://learngitbranching.js.org/?NODEMO)
+* [Git-school](https://git-school.github.io/visualizing-git)
+* [Learn Git Branching](https://learngitbranching.js.org/?NODEMO)
 
 
 ### Go

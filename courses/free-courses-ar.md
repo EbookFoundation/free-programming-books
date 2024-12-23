@@ -524,10 +524,10 @@
 * [Mastering Python Tutorial - Python for Beginners \| كورس بايثون كامل للمبتدئين](https://www.youtube.com/playlist?list=PLknwEmKsW8OsG8dnisr_-2WGyx7lpgGEE) - Abdelrahman Gamal
 * [Object Oriented Programming - شرح البرمجة كائنية التوجه](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzUrgCyaX_WEIJljx_We-c1) - Codezilla
 * [Python Beginners Tutorial](https://www.youtube.com/playlist?list=PL1DUmTEdeA6JCaY0EKssdqbiqq4sgRlUC) - محمد الدسوقي
-* [python projects] (https://www.youtube.com/playlist?list=PLGbzY-VLUfcrCfjvstUqYZ4K9rwIPbwqg) Code With D
-* [Data structer in puthon] (https://www.youtube.com/playlist?list=PLGbzY-VLUfcp6UEVB2vJpoCiRJyZsbgX4) code with D
-* [FastApi Course] (https://www.youtube.com/playlist?list=PLGbzY-VLUfcpzhB-iyGvju-NMMez_NNP9)
-* [Desktop Apps Python And Pyqt5] (https://www.youtube.com/playlist?list=PLGbzY-VLUfcrsdLENBJE8WtKGMgY-ZzUT)
+* [Python for Beginners](https://www.youtube.com/playlist?list=PLGbzY-VLUfcrCfjvstUqYZ4K9rwIPbwqg) - Code with D
+* [Data structer in python](https://www.youtube.com/playlist?list=PLGbzY-VLUfcp6UEVB2vJpoCiRJyZsbgX4) - Code with D
+* [FastApi Course](https://www.youtube.com/playlist?list=PLGbzY-VLUfcpzhB-iyGvju-NMMez_NNP9)-Code with D
+* [Desktop Apps Python And Pyqt5](https://www.youtube.com/playlist?list=PLGbzY-VLUfcrsdLENBJE8WtKGMgY-ZzUT)-Code with D
 
 
 #### Django

@@ -513,21 +513,20 @@
 
 
 ### Python
-
-* [تعلم أساسيات البرمجة](https://www.youtube.com/playlist?list=PLvGNfY-tFUN8HRLDE-D2sXvIgYwspdmFE) - غريب الشيخ \|\| Ghareeb Elshaik
+* [تعلم أساسيات البرمجة](https://www.youtube.com/playlist?list=PLvGNfY-tFUN8HRLDE-D2sXvIgYwspdmFE) - غريب الشيخ | Ghareeb Elshaik
 * [قناة علم البيانات - حسام الحوراني](https://www.youtube.com/playlist?list=PLYW0LRZ3ePo6IYDS2K5IhmuP5qY3dmI9e) - Hussam Hourani
 * [كورس بايثون - تعلم بايثون من الصفر للإحتراف](https://www.youtube.com/playlist?list=PLoP3S2S1qTfCUdNazAZY1LFALcUr0Vbs9) - OctuCode
-* [كورس بايثون من الصفر \| سلسلة دروس لغة البايثون \| python](https://www.youtube.com/playlist?list=PLYyqC4bNbCIcxKO_r77w5MN1SRRnnfvNQ) - أكاديمية ترميز
-* [Learn Python3&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNOazcliAXXivOrg9GiAVuoQg) - Algorithm Academy
+* [كورس بايثون من الصفر | سلسلة دروس لغة البايثون | Python](https://www.youtube.com/playlist?list=PLYyqC4bNbCIcxKO_r77w5MN1SRRnnfvNQ) - أكاديمية ترميز
+* [Learn Python3](https://www.youtube.com/playlist?list=PLfDx4cQoUNOazcliAXXivOrg9GiAVuoQg) - Algorithm Academy
 * [Master Python from Beginner to Advanced in Arabic - دورة تعلم بايثون من الصفر كاملة للمبتدئين](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ) - Codezilla
-* [Mastering Python&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs) - Elzero Web School
-* [Mastering Python Tutorial - Python for Beginners \| كورس بايثون كامل للمبتدئين](https://www.youtube.com/playlist?list=PLknwEmKsW8OsG8dnisr_-2WGyx7lpgGEE) - Abdelrahman Gamal
+* [Mastering Python](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs) - Elzero Web School
+* [Mastering Python Tutorial - Python for Beginners | كورس بايثون كامل للمبتدئين](https://www.youtube.com/playlist?list=PLknwEmKsW8OsG8dnisr_-2WGyx7lpgGEE) - Abdelrahman Gamal
 * [Object Oriented Programming - شرح البرمجة كائنية التوجه](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzUrgCyaX_WEIJljx_We-c1) - Codezilla
 * [Python Beginners Tutorial](https://www.youtube.com/playlist?list=PL1DUmTEdeA6JCaY0EKssdqbiqq4sgRlUC) - محمد الدسوقي
 * [Python for Beginners](https://www.youtube.com/playlist?list=PLGbzY-VLUfcrCfjvstUqYZ4K9rwIPbwqg) - Code with D
-* [Data structer in python](https://www.youtube.com/playlist?list=PLGbzY-VLUfcp6UEVB2vJpoCiRJyZsbgX4) - Code with D
-* [FastApi Course](https://www.youtube.com/playlist?list=PLGbzY-VLUfcpzhB-iyGvju-NMMez_NNP9) - Code with D
-* [Desktop Apps Python And Pyqt5](https://www.youtube.com/playlist?list=PLGbzY-VLUfcrsdLENBJE8WtKGMgY-ZzUT) - Code with D
+* [Data Structure in Python](https://www.youtube.com/playlist?list=PLGbzY-VLUfcp6UEVB2vJpoCiRJyZsbgX4) - Code with D
+* [FastAPI Course](https://www.youtube.com/playlist?list=PLGbzY-VLUfcpzhB-iyGvju-NMMez_NNP9) - Code with D
+* [Desktop Apps with Python and PyQt5](https://www.youtube.com/playlist?list=PLGbzY-VLUfcrsdLENBJE8WtKGMgY-ZzUT) - Code with D
 
 
 #### Django

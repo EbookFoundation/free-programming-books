@@ -526,8 +526,8 @@
 * [Python Beginners Tutorial](https://www.youtube.com/playlist?list=PL1DUmTEdeA6JCaY0EKssdqbiqq4sgRlUC) - محمد الدسوقي
 * [Python for Beginners](https://www.youtube.com/playlist?list=PLGbzY-VLUfcrCfjvstUqYZ4K9rwIPbwqg) - Code with D
 * [Data structer in python](https://www.youtube.com/playlist?list=PLGbzY-VLUfcp6UEVB2vJpoCiRJyZsbgX4) - Code with D
-* [FastApi Course](https://www.youtube.com/playlist?list=PLGbzY-VLUfcpzhB-iyGvju-NMMez_NNP9)-Code with D
-* [Desktop Apps Python And Pyqt5](https://www.youtube.com/playlist?list=PLGbzY-VLUfcrsdLENBJE8WtKGMgY-ZzUT)-Code with D
+* [FastApi Course](https://www.youtube.com/playlist?list=PLGbzY-VLUfcpzhB-iyGvju-NMMez_NNP9) - Code with D
+* [Desktop Apps Python And Pyqt5](https://www.youtube.com/playlist?list=PLGbzY-VLUfcrsdLENBJE8WtKGMgY-ZzUT) - Code with D
 
 
 #### Django

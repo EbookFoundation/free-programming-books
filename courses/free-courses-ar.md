@@ -524,6 +524,7 @@
 * [Mastering Python Tutorial - Python for Beginners \| كورس بايثون كامل للمبتدئين](https://www.youtube.com/playlist?list=PLknwEmKsW8OsG8dnisr_-2WGyx7lpgGEE) - Abdelrahman Gamal
 * [Object Oriented Programming - شرح البرمجة كائنية التوجه](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzUrgCyaX_WEIJljx_We-c1) - Codezilla
 * [Python Beginners Tutorial](https://www.youtube.com/playlist?list=PL1DUmTEdeA6JCaY0EKssdqbiqq4sgRlUC) - محمد الدسوقي
+* [Python Data Structure  For Beginners ](https://www.youtube.com/playlist?list=PLGbzY-VLUfcp6UEVB2vJpoCiRJyZsbgX4) - Code With D
 
 
 #### Django

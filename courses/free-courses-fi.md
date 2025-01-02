@@ -21,7 +21,8 @@
 
 ### Python
 
-* [Ohjelmoinnin perusteet ja jatkokurssi](https://ohjelmointi-25.mooc.fi/) - Helsingin yliopisto
+* [Ohjelmoinnin perusteet ja jatkokurssi](https://ohjelmointi-25.mooc.fi) - Helsingin yliopisto
+
 
 ### Web Development
 

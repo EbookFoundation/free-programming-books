@@ -7,11 +7,15 @@
 * [C#](#csharp)
 * [C++](#cpp)
 * [Data Science](#datascience)
+* [Data Analyst](#dataanalyst)
 * [Databases](#databases)
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
+* [Power BI](#powerbi)
 * [Python](#python)
+* [R](#r)
+
 
 
 ### Android
@@ -53,6 +57,13 @@
 * [Data Science Mentorship (Marathi)](https://youtube.com/playlist?list=PL9WbN_hBLtt9pYOryPps3J1M2ngFb5C14) - Rajesh MORE
 
 
+### DataAnalyst
+
+* [Data Analyst In Python](https://www.youtube.com/playlist?list=PL2MmZiE0Vh2_MKjCEcq4TeliODtPtYTVX) - Atul Marathi
+
+
+
+
 ### Databases
 
 * [Database Management System](https://youtube.com/playlist?list=PLNUHhIfQzCNcVcVbMDI8jmjxbZ9u3QSUY) - Dnyaneshwar Cholke
@@ -77,6 +88,12 @@
 * [Javascript Series Marathi \| Zero to Hero](https://youtube.com/playlist?list=PLpHGE1RJRnR2dONhkep0994hYIAXj2trt) - Shodkk Shantanu
 * [Javascript Tutorials with examples in Marathi](https://youtube.com/playlist?list=PL_9bg9gibAYofFlo--HF_j1NWKBoK58YL) - AMIT GAIKWAD
 
+### PowerBI
+
+* [Microsoft Power BI](https://www.youtube.com/playlist?list=PL2MmZiE0Vh29VqrRDPB1-kNzKsDyRm0Jx) - Atul Marathi
+
+
+
 
 ### Python
 
@@ -86,5 +103,6 @@
 * [Python Tutorial for Beginners In Marathi {आता आपल्या भाषेत कोडिंग } From Basic TO Advance](https://youtube.com/playlist?list=PLFwH5aoadVcnfGG9WtTd-4qYO9gzk773P) - Code Marathi
 
 
+### R
 
-  
+* [R for Data Visualization](https://www.youtube.com/playlist?list=PL2MmZiE0Vh2_J64aJbFs15Qd7H0V-7hNV) - Atul Marathi

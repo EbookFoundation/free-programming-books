@@ -6,6 +6,7 @@
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
+* [DSA](#dsa)
 * [Data Science](#datascience)
 * [Data Analyst](#dataanalyst)
 * [Databases](#databases)
@@ -50,6 +51,9 @@
 
 * [C++ Full Course in Marathi Live Teaching (Oct 2021 Batch)](https://youtube.com/playlist?list=PLddGZGOJ3oy61NpGiR83kYQDK8nIeTcRX) - Prasad Computer
 * [C++ Programming \| Krushna Pise \| MaRaTHi ProGrammer](https://youtube.com/playlist?list=PLWSZr_wlNWazn-waH7XkwE2VfT13f5oAG) - MaRaTHi ProGrammer
+
+### DSA
+
 
 
 ### Data Science

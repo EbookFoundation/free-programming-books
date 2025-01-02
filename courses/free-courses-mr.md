@@ -16,6 +16,7 @@
 * [Power BI](#powerbi)
 * [Python](#python)
 * [R](#r)
+* [SQL](#sql)
 
 
 
@@ -54,6 +55,7 @@
 
 ### DSA
 
+* [Data Structure (DSA) (Marathi)](https://www.youtube.com/playlist?list=PLU7J10KW9nLCOM20EQgrHKDcUJfXvuCGG) - Yogesh Babar
 
 
 ### Data Science
@@ -110,3 +112,9 @@
 ### R
 
 * [R for Data Visualization](https://www.youtube.com/playlist?list=PL2MmZiE0Vh2_J64aJbFs15Qd7H0V-7hNV) - Atul Marathi
+
+
+### SQL
+
+* [SQL Tutorial For Beginners in Marathi](https://www.youtube.com/playlist?list=PLFwH5aoadVcnimSkNWYKUjsvOTXvVnfVw) - Code Marathi
+* [Full SQL Course](https://www.youtube.com/playlist?list=PL2MmZiE0Vh28z_4i6zVDvHlPNdb-vMjM9) - Atul Marathi

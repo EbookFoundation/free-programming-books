@@ -118,3 +118,4 @@
 
 * [SQL Tutorial For Beginners in Marathi](https://www.youtube.com/playlist?list=PLFwH5aoadVcnimSkNWYKUjsvOTXvVnfVw) - Code Marathi
 * [Full SQL Course](https://www.youtube.com/playlist?list=PL2MmZiE0Vh28z_4i6zVDvHlPNdb-vMjM9) - Atul Marathi
+

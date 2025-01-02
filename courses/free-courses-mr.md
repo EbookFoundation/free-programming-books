@@ -19,7 +19,6 @@
 * [SQL](#sql)
 
 
-
 ### Android
 
 * [अँड्रॉइड ऍप डेव्हलपमेंट मराठी \| Android App Development in Marathi](https://youtube.com/playlist?list=PLy1NOWTMDFjDLCgmxRNLDJtlutJOYl2d7) - उत्तर
@@ -53,6 +52,7 @@
 * [C++ Full Course in Marathi Live Teaching (Oct 2021 Batch)](https://youtube.com/playlist?list=PLddGZGOJ3oy61NpGiR83kYQDK8nIeTcRX) - Prasad Computer
 * [C++ Programming \| Krushna Pise \| MaRaTHi ProGrammer](https://youtube.com/playlist?list=PLWSZr_wlNWazn-waH7XkwE2VfT13f5oAG) - MaRaTHi ProGrammer
 
+
 ### DSA
 
 * [Data Structure (DSA) (Marathi)](https://www.youtube.com/playlist?list=PLU7J10KW9nLCOM20EQgrHKDcUJfXvuCGG) - Yogesh Babar
@@ -66,8 +66,6 @@
 ### DataAnalyst
 
 * [Data Analyst In Python](https://www.youtube.com/playlist?list=PL2MmZiE0Vh2_MKjCEcq4TeliODtPtYTVX) - Atul Marathi
-
-
 
 
 ### Databases
@@ -94,14 +92,14 @@
 * [Javascript Series Marathi \| Zero to Hero](https://youtube.com/playlist?list=PLpHGE1RJRnR2dONhkep0994hYIAXj2trt) - Shodkk Shantanu
 * [Javascript Tutorials with examples in Marathi](https://youtube.com/playlist?list=PL_9bg9gibAYofFlo--HF_j1NWKBoK58YL) - AMIT GAIKWAD
 
+
 ### PowerBI
 
 * [Microsoft Power BI](https://www.youtube.com/playlist?list=PL2MmZiE0Vh29VqrRDPB1-kNzKsDyRm0Jx) - Atul Marathi
 
 
-
-
 ### Python
+
 
 * [Python in Marathi](https://youtube.com/playlist?list=PL9D-kb1y7d4cL3xI0Wk1krRjjiPE4IPUd) - MITU Skillologies
 * [Python Programming in Marathi (मराठी)](https://youtube.com/playlist?list=PLI1D7QZwksP64N_zkmXxr9DAzLy9mJClY) - I.T. मंडळ

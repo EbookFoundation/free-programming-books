@@ -58,6 +58,7 @@
 ### Assembly
 
 * [Assembler x86](https://www.youtube.com/playlist?list=PLUJjY3hQLJ3NHQ9315KVvgiZ3v2FLtcbs)
+* [Assembly x86](https://www.youtube.com/playlist?list=PL4GzWsD6ECaXVzneIlSV62plQPdWXIZ_h) - Leonardo Boselli
 
 
 ### Bash / Shell
@@ -157,6 +158,7 @@
 ### Machine Learning
 
 * [Machine Learning in italiano col Pollo Watzlawick](https://www.youtube.com/playlist?list=PLa-sizbCyh93c0nSPAb8k5ZZeOq4SBIl9) - Piero Savastano
+* [Machine Learning Reti Neurali](https://www.youtube.com/playlist?list=PL-tCoHPn6YlbCQHeyRxc_CQ0f1VZsUD6D) - Davide Manzoni (Brainlink)
 
 
 ### Misto
@@ -235,11 +237,13 @@
 ### Web
 
 * [Computer grafica 2017/2018](https://www.youtube.com/playlist?list=PLUFFnpJdi99kXjntQ0LNPnLbRLjKzmQaC) - A. Bottino, Politecnico di Torino
+* [Corso Bootstrap Italiano](https://www.youtube.com/playlist?list=PLP5MAKLy8lP_boQ2FBTSvA1fU73x2BiEv) - Edoardo Midali
 * [Corso CSS 3 Completo 2023](https://www.youtube.com/playlist?list=PLP5MAKLy8lP-a0MG-MFHKCISmj2Wg4vT6) - Edoardo Midali
 * [Corso Flutter 2020](https://www.youtube.com/playlist?list=PLFD-5ZFcEgYX5q5pobSkQGfC6rMYy_puq) - Angelo Cassano
 * [Corso HTML 5 Completo 2023](https://www.youtube.com/playlist?list=PLP5MAKLy8lP8U-yYn6J4hGfcee4Tirieg) - Edoardo Midali
 * [Corso HTML 5 Italiano 2023](https://www.youtube.com/playlist?list=PL6PilnEO6HWbTXL8nLSkp-875H-x-vhEo) - Manuel Ricci
 * [Corso SEO Italiano 2023](https://www.youtube.com/playlist?list=PLP5MAKLy8lP9OpFQyF2LnTWgtcoDLgYm7) - Edoardo Midali
+* [Corso Typescript 2023](https://www.youtube.com/playlist?list=PLP5MAKLy8lP--n8iUsDsFMuTiKW5ooZE6) - Edoardo Midali
 * [Mini Corso React / TypeScript / TSX 2023](https://www.youtube.com/playlist?list=PLUioGv_6G9YJw8uZb040obhcCi8tQX9IQ) - Fabio Biondi
 * [Progettazione di applicazioni Web](https://www.youtube.com/playlist?list=PLE0AA1735F10543A6) - Fulvio Corno, S. Di Carlo, Politecnico di Torino
 

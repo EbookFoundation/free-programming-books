@@ -39,7 +39,7 @@
 守らなければなりません。
 
 この行動規範は、[貢献者規約][ホームページ]から引用したものです、
-バージョン1.3.0（https://contributor-covenant.org/version/1/3/0/）から引用したものです。
+バージョン1.3.0(https://contributor-covenant.org/version/1/3/0/) から引用したものです。
 
 [ホームページ]: https://contributor-covenant.org
 

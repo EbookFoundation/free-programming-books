@@ -8,6 +8,7 @@
 * [Figma](#figma)
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
+* [Next.js](#nextjs)
 * [Python](#python)
 
 
@@ -57,7 +58,12 @@
 * [Java Programming in Urdu/Hindi](https://www.youtube.com/playlist?list=PLU4yvac0MJbKs78u32MyVgYFg9d-6DYGL) - OnlineUstaad
 
 
+### Next.js
+
+* [Master Next JS 14: Complete Next JS 14 Tutorial from Basics to Advanced in Hindi/Urdu with Projects & Interview Prep](https://www.youtube.com/playlist?list=PL5OhSdfH4uDu6YJcHhmQLkwx4hPWyppos) - The Techzeen
+
+
 ### Python
 
+* [Python](https://www.youtube.com/playlist?list=PL-vQNozaqIxuPzFUVEIrYDvd6ieUshJTw) - Kawish - Urdu
 * [Python_ka_chilla (python in 40 days in urdu/Hindi)](https://www.youtube.com/playlist?list=PL9XvIvvVL50HVsu-Ao8NBr0UJSO8O6lBI) - Codeanics
-  

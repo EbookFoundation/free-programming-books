@@ -4,6 +4,7 @@
 * [C](#c)
 * [C++](#cpp)
 * [Data Science](#data-science)
+* [Git and Github](#git-and-github)
 * [Go](#go)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -22,6 +23,7 @@
 
 * [বাংলায় C প্রোগ্রামিং ল্যাঙ্গুয়েজ শেখার কোর্স](https://c.howtocode.dev) - Jakir Hossain, et al.
 * [Computer Programming «কম্পিউটার প্রোগ্রামিং ১ম খণ্ড»](http://cpbook.subeen.com) - Tamim Shahriar Subeen (HTML)
+* [Computer Programming Part 3](https://archive.org/details/computer-programming-part-3-tamim-shaharier-subin) - Tamim Shahriar Subeen (PDF)
 
 
 ### <a id="cpp"></a>C++
@@ -80,5 +82,11 @@
 
 ### Sql
 
-* [এসকিউএল পরিচিতি(SQL Introduction in Bangla)](https://www.sattacademy.com/sql/sql-intro.php) - Satt Academy
+* [এসকিউএল পরিচিতি(SQL Introduction in Bangla)](https://www.sattacademy.org/sql/index.php) - Satt Academy
 * [বাংলায় SQL টিউটোরিয়াল](https://sql.howtocode.dev) - Saiful, et al.
+
+
+### Git and Github
+
+* [এক পলকে গিট ও গিটহাব](https://with.zonayed.me/book/git-n-github-at-glance/) - Zonayed
+

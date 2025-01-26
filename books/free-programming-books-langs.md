@@ -247,7 +247,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Ada Reference Manual - ISO/IEC 8652:2012(E) Language and Standard Libraries](http://www.ada-auth.org/standards/12rm/RM-Final.pdf) (PDF)
 * [Introduction To Ada](https://learn.adacore.com/courses/intro-to-ada/index.html)
 * [Introduction To SPARK](https://learn.adacore.com/courses/SPARK_for_the_MISRA_C_Developer/index.html)
-* [The Big Online Book of Linux Ada Programming](http://www.pegasoft.ca/resources/boblap/book.html)
+* [The Big Online Book of Linux Ada Programming](http://www.pegasoft.ca/resources/boblap/book.html) (LGPL)
 
 
 ### Agda
@@ -372,7 +372,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Autotools
 
-* [Autotools Mythbuster](https://autotools.io/index.html)
+* [Autotools Mythbuster](https://autotools.io/index.html)- Diego Elio “Flameeyes” Pettenò (CC BY-NC-SA)
 * [GNU Autoconf, Automake and Libtool](http://sourceware.org/autobook/)
 
 

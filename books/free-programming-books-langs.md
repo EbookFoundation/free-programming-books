@@ -1588,13 +1588,14 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Learn Markdown](https://www.gitbook.com/book/gitbookio/markdown/details) - Sammy P., Aaron O. (PDF) (EPUB) (MOBI)
 
 
-### Mathematica
+### Mathematical
 
 * [Mathematica® programming: an advanced introduction](http://www.mathprogramming-intro.org) - Leonid Shifrin
 * [Power Programming with Mathematica](http://mathematica.stackexchange.com/questions/16485/are-you-interested-in-purchasing-david-wagners-power-programming-with-mathemat/22724) - David B. Wagner
 * [Stephen Wolfram's The Mathematica Book](http://reference.wolfram.com/legacy/v5_2/)
 * [Vector Math for 3d Computer Graphics](http://chortle.ccsu.edu/VectorLessons/index.html) (CC BY-NC)
 * [Wolfram Mathematica Product Training: Wolfram U](https://www.wolfram.com/wolfram-u/catalog/product-training/mathematica/)
+* [Practical Statistics](https://github.com/Chandra0505/Data-Science-Resources/blob/master/machine-learning/Practical%20Statistics%20for%20Data%20Scientists.pdf) -Andrew Bruce, Peter Bruce, and Peter Gedeck
 
 
 ### MATLAB

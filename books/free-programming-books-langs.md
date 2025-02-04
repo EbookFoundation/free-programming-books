@@ -230,6 +230,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Windows Phone](#windows-phone)
 * [Workflow](#workflow)
 * [xBase (dBase / Clipper / Harbour)](#xbase-dbase--clipper--harbour)
+* [Zig](#zig)
 
 
 ### ABAP
@@ -2705,3 +2706,9 @@ Books on general-purpose programming that don't focus on a specific language are
 ### YAML
 
 * [YAML Tutorial](https://www.tutorialspoint.com/yaml/yaml_tutorial.pdf) - TutorialsPoint (PDF)
+
+
+### Zig
+
+* [Introduction to Zig](https://pedropark99.github.io/zig-book) - Pedro Duarte Faria (HTML)
+* [Zig Language Reference](https://ziglang.org/documentation/master) (HTML)

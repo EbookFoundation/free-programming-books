@@ -538,7 +538,6 @@
 * [Data Engineering](https://www.youtube.com/playlist?list=PLy4OcwImJzBKg3rmROyI_CBBAYlQISkOO) - Kahan Data Solutions
 * [Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/dataminingwithweka/)
 * [Data science for beginners](https://microsoft.github.io/Data-Science-For-Beginners) - Microsoft
-* [Data Science from Scratch](https://github.com/joelgrus/data-science-from-scratch) - Joel Grus (GitHub)
 * [Data Science Fundamentals](https://cognitiveclass.ai/learn/data-science) - CognitiveClass.ai
 * [Data Science interview questions](https://www.youtube.com/playlist?list=PLZoTAELRMXVPkl7oRvzyNnyj1HS4wt2K-) - Krish Naik
 * [Data Science Methodology](https://cognitiveclass.ai/courses/data-science-methodology-2) - CognitiveClass.ai
@@ -559,6 +558,7 @@
 * [NICO 101 - Introduction to Programming for Big Data](https://github.com/amarallab/Amaral_Lab_Intro_to_Data_Science) - Luis Amaral, Helio Tejedor, Luiz Alves
 * [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-3)
 * [Time Series Modelling and Analysis](https://www.youtube.com/playlist?list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK) - AIEngineering
+* [Data Science from Scratch](https://github.com/joelgrus/data-science-from-scratch) - Joel Grus (GitHub)
 
 ### Databases
 

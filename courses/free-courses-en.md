@@ -560,7 +560,6 @@
 * [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-3)
 * [Time Series Modelling and Analysis](https://www.youtube.com/playlist?list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK) - AIEngineering
 
-
 ### Databases
 
 * [15-721 Advanced Database Systems (Spring 2023)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYzlLMbX3cR0sxWnRM7CLFn) - CMU Database Group

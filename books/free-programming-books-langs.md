@@ -1151,7 +1151,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Designing Scalable JavaScript Applications](https://www.manning.com/books/designing-scalable-javascript-applications) - Emmit Scott (PDF+livebook)
 * [Dev Docs](https://devdocs.io/javascript/) - Various (HTML)
 * [DOM Enlightenment](https://frontendmasters.com/guides/javascript-enlightenment/) - Cody Linley
-* [Eloquent JavaScript 3rd edition](http://eloquentjavascript.net) - Marijn Haverbeke (HTML, PDF, EPUB, MOBI) (CC BY-NC)
+* [Eloquent JavaScript 4th edition](https://eloquentjavascript.net) - Marijn Haverbeke (HTML, PDF, EPUB, MOBI) (CC BY-NC)
 * [Essential Javascript](https://www.programming-books.io/essential/javascript/) - Krzysztof Kowalczyk, StackOverflow Contributors
 * [Exploring ES6](http://exploringjs.com/es6/) - Axel Rauschmayer (HTML)
 * [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS) - Kyle Simpson (HTML)

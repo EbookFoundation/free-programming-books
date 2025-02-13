@@ -5,6 +5,7 @@
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
+* [TypeScript](#typescript)
 * [Linux](#linux)
 * [PHP](#php)
 * [Programming](#programming)
@@ -39,6 +40,12 @@
 * [API - On Point](https://eimaung.com/api/) - Ei Maung (PDF)
 * [JavaScript - On Point](https://eimaung.com/jsbook/) - Ei Maung (PDF)
 * [React - On Point](https://eimaung.com/react/) - Ei Maung (PDF)
+
+
+### TypeScript
+
+* [TypeScript Baby](https://lwin-moe-paing.gitbook.io/typescript-baby-by-lwin-moe-paing) - Lwin Moe Paing (Git Book)
+* [TypeScript Baby](https://drive.google.com/file/d/1T5qUG7PH289nAxw0BdL7JX7QdN8L3amO/view) - Lwin Moe Paing (PDF)
 
 
 ### Linux

@@ -5,11 +5,11 @@
 * [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
-* [TypeScript](#typescript)
 * [Linux](#linux)
 * [PHP](#php)
 * [Programming](#programming)
 * [Python](#python)
+* [TypeScript](#typescript)
 * [Web Development](#web-development)
 
 
@@ -42,12 +42,6 @@
 * [React - On Point](https://eimaung.com/react/) - Ei Maung (PDF)
 
 
-### TypeScript
-
-* [TypeScript Baby](https://lwin-moe-paing.gitbook.io/typescript-baby-by-lwin-moe-paing) - Lwin Moe Paing (Git Book)
-* [TypeScript Baby](https://drive.google.com/file/d/1T5qUG7PH289nAxw0BdL7JX7QdN8L3amO/view) - Lwin Moe Paing (PDF)
-
-
 ### Linux
 
 * [Ubuntu Linux for You](http://eimaung.com/ubuntu-for-you) - Ei Maung (PDF)
@@ -67,6 +61,12 @@
 ### Python
 
 * [Programming Basic For Beginner](http://books.saturngod.net/programming_basic/) - Saturngod
+
+
+### TypeScript
+
+* [TypeScript Baby](https://lwin-moe-paing.gitbook.io/typescript-baby-by-lwin-moe-paing) - Lwin Moe Paing (Git Book)
+* [TypeScript Baby](https://drive.google.com/file/d/1T5qUG7PH289nAxw0BdL7JX7QdN8L3amO/view) - Lwin Moe Paing (PDF)
 
 
 ### Web Development

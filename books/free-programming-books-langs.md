@@ -2712,3 +2712,6 @@ Books on general-purpose programming that don't focus on a specific language are
 
 * [Introduction to Zig](https://pedropark99.github.io/zig-book) - Pedro Duarte Faria (HTML)
 * [Zig Language Reference](https://ziglang.org/documentation/master) (HTML)
+
+### Git
+* [Learn Git the Hard Way](https://learn-git-the-hard-way.com/) 

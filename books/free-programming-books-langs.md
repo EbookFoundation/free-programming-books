@@ -1119,7 +1119,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 #### Spring Boot
 
-* [Building modern Web Apps with Spring Boot and Vaadin](https://vaadin.com/docs/v14/flow/tutorial/overview) - Vaadin
+* [Building modern Web Apps with Spring Boot and Vaadin](https://vaadin.com/docs/v14/flow/tutorial/overview) - Vaadin (HTML)
 * [Spring Boot Reference Guide](https://docs.spring.io/spring-boot/docs/current/reference/html/) - Phillip Webb, et al. ([PDF](https://docs.spring.io/spring-boot/docs/current/reference/pdf/spring-boot-reference.pdf))
 
 

@@ -42,6 +42,7 @@
 * [HTML Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx7aP99nDNRKDi70bLFr_kX-) - Hakan Yalçınkaya \| Kodluyoruz
 * [HTML+CSS Öğreniyoruz](https://www.youtube.com/playlist?list=PLadt0EaV4m3Ae9mBaQNylUKUaFK38F4EB) - Adem Ilter
 * [Sıfırdan CSS Eğitim](https://www.youtube.com/playlist?list=PLadt0EaV4m3BX9JaZbKS9B8076bruv93Y) - Adem Ilter
+* [XHTML(HTML) ve CSS Dersleri](https://www.youtube.com/playlist?list=PLWctyKyPphPjm1jnFNsQfOIDgR3wf-prc) - Erol Mesut Gün (Yakın Kampüs)
 
 
 ### IDE and editors

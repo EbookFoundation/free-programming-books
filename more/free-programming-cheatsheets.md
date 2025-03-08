@@ -288,6 +288,7 @@
 #### Next.js
 
 * [Next.js Cheatsheet - handy snippets and tips](https://gourav.io/blog/nextjs-cheatsheet) - Gourav Goyal (HTML)
+*  [Next.js all features in depth features (upto v14)]([https://gourav.io/blog/nextjs-cheatsheet](https://youtube.com/playlist?list=PLC3y8-rFHvwjOKd6gdf4QtV1uYNiQnruI&si=IRyMKAXUMwXuzsgu)) - Codevolution(NextJS)
 * [TypeScript Next.js Cheatsheet](https://www.saltycrane.com/cheat-sheets/typescript/next.js/latest/) - SaltyCrane Cheat Sheets
 
 

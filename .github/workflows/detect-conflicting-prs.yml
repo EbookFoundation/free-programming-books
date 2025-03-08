@@ -29,7 +29,7 @@ jobs:
 
       - name: Label conflicting PRs that are open
         id: pr-labeler
-        uses: eps1lon/actions-label-merge-conflict@v3.0.2
+        uses: eps1lon/actions-label-merge-conflict@v3.0.3
         with:
           repoToken:  ${{ secrets.GITHUB_TOKEN }}
           retryAfter: 30 # seconds

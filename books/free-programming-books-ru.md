@@ -135,7 +135,7 @@
 
 ### Arduino
 
-* [Science, Programming, Art and Radioelectronics Club (SPARC)](https://github.com/artyom-poptsov/SPARC) - Artyom V. Poptsov (PDF) (CC BY-SA)
+* [Автомато-программато-компарадио-кружок](https://github.com/artyom-poptsov/SPARC/blob/master/README.ru.org) - Artyom V. Poptsov (PDF) (CC BY-SA)
 
 
 ### Assembly

@@ -8,6 +8,7 @@
     * [Управление конфигурациями](#управление-конфигурациями)
     * [Экосистема открытого исходного кода](#экосистема-открытого-исходного-кода)
     * [IDE and editors](#ide-and-editors)
+* [Arduino](#arduino)
 * [Assembly](#assembly)
 * [Bash](#bash)
 * [C](#c)
@@ -130,6 +131,11 @@
 
 * [Поваренная Книга Vim](http://www.opennet.ru/docs/RUS/vim_cookbook) - Steve Oualline
 * [Просто о Vim](http://rus-linux.net/MyLDP/BOOKS/Vim/prosto-o-vim.pdf) - Swaroop (PDF)
+
+
+### Arduino
+
+* [Автомато-программато-компарадио-кружок](https://github.com/artyom-poptsov/SPARC/blob/master/README.ru.org) - Artyom V. Poptsov (PDF) (CC BY-SA)
 
 
 ### Assembly

@@ -7,7 +7,7 @@
 * [Java](#java)
 * [PHP](#PHP)
 * [Python](#python)
-
+* [Ruby](#ruby)
 
 ### Apache Spark
 
@@ -47,3 +47,7 @@
 ### Python
 
 * [Python ๑๐๑](https://www.cp.eng.chula.ac.th/books/python101/) - กิตติภณ พละการ, กิตติภพ พละการ, สมชาย ประสิทธิ์จูตระกูล, สุกรี สินธุภิญโญ
+
+### Ruby
+
+* [ภาษา Ruby](https://marcuscode.com/lang/ruby) - MarcusCode

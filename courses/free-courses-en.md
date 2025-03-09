@@ -591,10 +591,12 @@
 #### SQL
 
 * [CS50’s Introduction to Databases with SQL](https://cs50.harvard.edu/sql/2023/) - Carter Zenke, David J. Malan (Harvard OpenCourseWare and edX)
+* [Databases with SQL and Python](https://hyperskill.org/courses/30-databases-with-sql-and-python) - Hyperskill *(registration required)*
 * [Getting Started with SQL for Application Developers](https://university.cockroachlabs.com/courses/course-v1:crl+getting-started-with-sql-for-app-devs+self-paced/about) - Wade Waldron (Cockroach Labs Inc.) *(email address required)*
 * [Introduction to Database Queries](https://www.edx.org/course/introduction-to-database-queries) - Aspen Olmsted (edX New York University)
 * [Introduction to Databases and SQL Querying](https://www.udemy.com/course/introduction-to-databases-and-sql-querying/) - Rakesh Gopalakrishnan (Udemy)
 * [Introduction to Distributed SQL and CockroachDB](https://university.cockroachlabs.com/courses/course-v1:crl+intro-to-distributed-sql-and-cockroachdb+self-paced/about) - Lauren Hirata Singh and Will Cross (Cockroach Labs Inc.) *(email address required)*
+* [Introduction to SQL](https://hyperskill.org/courses/31-introduction-to-sql) - Hyperskill *(registration required)*
 * [Learn SQL](https://popsql.com/learn-sql) - PopSQL
 * [Learn SQL](https://www.sololearn.com/learning/1060) - *registration required*
 * [Learn SQL: SQL Tutorial for Beginners](https://www.programiz.com/sql) - Programiz

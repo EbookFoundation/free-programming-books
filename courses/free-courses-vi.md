@@ -156,6 +156,7 @@
 * [JavaScript A-Z 2020](https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-uPZnTdScfuH0xD-O6Kb-V-) - CodersX
 * [JavaScript Advanced 2020](https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-tVbSFcv-p1yOaHiG8fo0kP) - CodersX
 * [JavaScript Cơ Bản](https://web.archive.org/web/20241106041514/https://www.codehub.com.vn/JavaScript-Co-Ban) - Codehub (:card_file_box: archived)
+  
 
 #### AngularJS
 

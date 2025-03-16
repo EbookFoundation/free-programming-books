@@ -40,14 +40,15 @@
 
 ### AJAX
 
-* [Học AJAX cơ bản và nâng cao](https://hoclaptrinh.vn/tutorial/hoc-ajax)
+* [Học AJAX cơ bản và nâng cao](https://web.archive.org/web/20231203174733/https://hoclaptrinh.vn/tutorial/hoc-ajax) (:card_file_box: archived)
 
 
 ### Android
 
-* [Lập trình Android - Android Widgets - Các điều khiển](https://www.youtube.com/playlist?list=PLv6GftO355At6jjYThbMn-5r164GJ5Vyb) - ZendVN
-* [Lập trình Android - Menu - Context Menu - Dialog](https://www.youtube.com/playlist?list=PLv6GftO355Avjf5iuNbEUsIZbltzDEuIU) - ZendVN
-* [Lập trình Android - Xây dựng bố cục giao diện với Android Layout](https://www.youtube.com/playlist?list=PLv6GftO355AtfPQx7M3dkWgi9KPUB9S0V) - ZendVN
+* [Lập trình Android - Android Widgets - Các điều khiển](https://web.archive.org/web/20230225180731/https://www.youtube.com/playlist?list=PLv6GftO355At6jjYThbMn-5r164GJ5Vyb) - ZendVN
+* (:card_file_box: archived)
+* [Lập trình Android - Menu - Context Menu - Dialog](https://web.archive.org/web/20230225180731/https://www.youtube.com/playlist?list=PLv6GftO355Avjf5iuNbEUsIZbltzDEuIU) - ZendVN
+* (:card_file_box: archived)
 * [Lập trình Android A-Z](https://www.youtube.com/playlist?list=PL5uqQAwS_KDjAgLGiaCakwJV1f4vRnTLS) - Khoa Phạm
 * [Lập trình Android cơ bản](https://www.youtube.com/playlist?list=PL33lvabfss1wDeQMvegg_OZQfaXcbqOQh) - Kteam
 * [Lập trình Android với Kotlin](https://www.youtube.com/playlist?list=PLzrVYRai0riRFcvx8VYTF7fx4hXbd_nhU) - Khoa Phạm
@@ -91,7 +92,6 @@
 * [Học lập trình C++ cho người mới bắt đầu](https://www.youtube.com/playlist?list=PLh91SaQgRYnp-NC3WnFDMWQV40a6m61Hr) - Lập Trình Không Khó
 * [Lập trình C++ cơ bản - HowKteam](https://www.youtube.com/playlist?list=PL33lvabfss1xagFyyQPRcppjFKMQ7lvJM) - K team
 * [Ngôn Ngữ Lập Trình C](https://www.youtube.com/playlist?list=PLyiioioEJSxHr5X8RNY3QXUGcjzeZeI7l) - Dạy Nhau Học
-* [Series Con trỏ trong C](http://diendan.congdongcviet.com/threads/t42977::tim-hieu-ban-chat-cua-con-tro-tu-co-ban-den-nang-cao.cpp) - Cộng đồng C Việt
 
 
 ### <a id="csharp"></a>C\#
@@ -135,14 +135,13 @@
 
 ### HTML and CSS
 
-* [CSS Cơ Bản](https://www.codehub.com.vn/CSS-Co-Ban) - Codehub
+* [CSS Cơ Bản](https://web.archive.org/web/20231031081349/https://www.codehub.com.vn/CSS-Co-Ban) - Codehub (:card_file_box: archived)
 * [CSS Cơ Bản](https://www.youtube.com/playlist?list=PLl4nkmb3a8w1cnIhegAj5_mE8w_mbYvY4) - Thạch Phạm
-* [Học HTML](https://www.codehub.com.vn/Hoc-HTML) - Codehub
-* [HTML](https://www.codehub.com.vn/HTML) - Codehub
-* [HTML Cơ Bản](https://www.codehub.com.vn/HTML-Co-Ban) - Codehub
+* [Học HTML](https://web.archive.org/web/20241106060920/https://www.codehub.com.vn/Hoc-HTML) - Codehub (:card_file_box: archived)
+* [HTML](https://web.archive.org/web/20241009065814/https://www.codehub.com.vn/HTML) - Codehub (:card_file_box: archived)
+* [HTML Cơ Bản](https://web.archive.org/web/20231031081352/https://www.codehub.com.vn/HTML-Co-Ban) - Codehub (:card_file_box: archived)
 * [HTML Cơ Bản](https://www.youtube.com/playlist?list=PLl4nkmb3a8w135_M4YRPzYD9_6tERz3ce) - Thạch Phạm
 * [HTML Dành Cho Lập Trình Viên Web](https://zendvn.com/mien-phi-html-danh-cho-lap-trinh-vien-web-68) - Nguyen Van Linh (ZendVN)
-* [Tự Học Thiết Kế Website với HTML và CSS](https://www.codehub.com.vn/Tu-Hoc-Thiet-Ke-Website-voi-HTML-va-CSS) - Codehub
 
 
 ### Java
@@ -156,9 +155,7 @@
 
 * [JavaScript A-Z 2020](https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-uPZnTdScfuH0xD-O6Kb-V-) - CodersX
 * [JavaScript Advanced 2020](https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-tVbSFcv-p1yOaHiG8fo0kP) - CodersX
-* [JavaScript Cơ Bản](https://www.codehub.com.vn/JavaScript-Co-Ban) - Codehub
-* [Tự Học Thiết Kế Website với HTML, CSS và JavaScript](https://www.codehub.com.vn/Tu-Hoc-Thiet-Ke-Website-voi-HTML-CSS-va-JavaScript/Tao-Hieu-Ung-Accordion) - Codehub
-
+* [JavaScript Cơ Bản](https://web.archive.org/web/20241106041514/https://www.codehub.com.vn/JavaScript-Co-Ban) - Codehub (:card_file_box: archived)
 
 #### AngularJS
 
@@ -171,7 +168,7 @@
 
 #### jQuery
 
-* [jQuery Cơ Bản](https://www.codehub.com.vn/jQuery-Co-Ban) - Codehub
+* [jQuery Cơ Bản](https://web.archive.org/web/20231031081244/https://www.codehub.com.vn/jQuery-Co-Ban) - Codehub (:card_file_box: archived)
 * [Lập trình jQuery từ cơ bản đến nâng cao](https://www.youtube.com/playlist?list=PLRhlTlpDUWsyAGY7FDGSndEhOD3F2Ruhm) - TEDU
 
 
@@ -206,24 +203,21 @@
 ### Objective-C
 
 * [Học lập trình objective-c miễn phí](https://www.youtube.com/playlist?list=PLgT92sqeoAUC6gHyrbdZTbulFF8qwxGSK) - Kênh học miễn phí qua video trên youtube
-* [Objective-C Cơ Bản](https://www.codehub.com.vn/Objective-C-Co-Ban) - Codehub
+* [Objective-C Cơ Bản](https://web.archive.org/web/20241009064838/https://www.codehub.com.vn/Objective-C-Co-Ban) - Codehub (:card_file_box: archived)
 
 
 ### PHP
 
-* [Học PHP qua các hàm thông dụng](https://www.codehub.com.vn/PHP) - Codehub
-* [Lập Trình Website Với PHP và MySQL](https://www.codehub.com.vn/Lap-Trinh-Website-Voi-PHP-va-MySQL) - Codehub
-* [PHP Cơ Bản](https://www.codehub.com.vn/PHP-Co-Ban) - Codehub
+* [Học PHP qua các hàm thông dụng](https://web.archive.org/web/20240813183257/https://www.codehub.com.vn/PHP) - Codehub (:card_file_box: archived)
+* [Lập Trình Website Với PHP và MySQL](https://web.archive.org/web/20240921033453/https://www.codehub.com.vn/Lap-Trinh-Website-Voi-PHP-va-MySQL) - Codehub (:card_file_box: archived)
+* [PHP Cơ Bản](https://web.archive.org/web/20241009064041/https://www.codehub.com.vn/PHP-Co-Ban) - Codehub (:card_file_box: archived)
 * [PHP Cơ Bản](https://www.youtube.com/playlist?list=PLU4OBh9yHE940f_T2IyAWHAjXhMxYFZky) - RHP Team
-* [Tự học PHP - Các đối tượng khác trong PHP](https://www.youtube.com/playlist?list=PLv6GftO355Av7YIhRHajDEWCHq1viEKEy) - ZendVN
-* [Tự học PHP - Căn Bản](https://www.youtube.com/playlist?list=PLv6GftO355AulVlaWLp41kieNB9dTG1_l) - ZendVN
-* [Tự học PHP - Làm việc với ASNT](https://www.youtube.com/playlist?list=PLv6GftO355At4rfAAqGCtokc3W1uDnv28) - ZendVN
 
 
 ### Python
 
 * [Lập trình website với Python Django](https://www.youtube.com/playlist?list=PL33lvabfss1z8GYxjyMulCnhcYGk5ah8P) - Kteam
-* [Python Cơ Bản](https://www.codehub.com.vn/Python-Co-Ban) - Codehub
+* [Python Cơ Bản](https://web.archive.org/web/20240525115906/https://www.codehub.com.vn/Python-Co-Ban) - Codehub (:card_file_box: archived)
 * [Python Cơ Bản](https://www.youtube.com/playlist?list=PLyiioioEJSxEh_S_XFvG0d2xKRMSWLfN_) - Dạy Nhau Học
 * [Python Cơ Bản](https://www.youtube.com/playlist?list=PL33lvabfss1xczCv2BA0SaNJHu_VXsFtg) - Kteam
 
@@ -256,7 +250,7 @@
 ### SQL
 
 * [Học SQL Cơ Bản](https://www.youtube.com/playlist?list=PLE1qPKuGSJaDkQQB5vK7t7-PRIVjtqeHB) - Thân Triệu
-* [Học SQL Cơ Bản](https://www.codehub.com.vn/Hoc-SQL) - Codehub
+* [Học SQL Cơ Bản](https://web.archive.org/web/20231031081300/https://www.codehub.com.vn/Hoc-SQL) - Codehub (:card_file_box: archived)
 * [Lập trình SQL Server căn bản](https://tedu.com.vn/khoa-hoc/lap-trinh-sql-server-can-ban-6.html) - TEDU
 * [SQL](https://www.youtube.com/playlist?list=PLiyVagO7GfBEOReFCMbcffzkgfWaGl-AN) - J2Team
 * [SQL Cơ Bản](https://www.youtube.com/playlist?list=PL33lvabfss1xnFpWQF6YH11kMTS1HmLsw) - Kteam
@@ -288,7 +282,6 @@
 * [Angular 4 Cơ Bản](https://www.youtube.com/playlist?list=PLzrVYRai0riTA1m7Dasg8eraBr6R9nFgC) - Khoa Phạm
 * [Làm dự án thực tế với Angular 2+ Web API](https://tedu.com.vn/khoa-hoc/lam-du-an-thuc-te-voi-angular-2-web-api-13.html) - TEDU
 * [Tự học Angular 2020](https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-uBQaBU8wMLo2CrFkE-9VIZ) - CodersX
-* [Tự học Angular 5](https://www.youtube.com/playlist?list=PLWBrqglnjNl1qQw2nH5O1A8W_DVC3xo-V) - Nguyen Duc Hoang
 
 
 ### Unity
@@ -321,4 +314,4 @@
 
 ### XML
 
-* [Học XML cơ bản và nâng cao](https://hoclaptrinh.vn/tutorial/hoc-xml-co-ban-va-nang-cao)
+* [Học XML cơ bản và nâng cao](https://web.archive.org/web/20231203165523/https://hoclaptrinh.vn/tutorial/hoc-xml-co-ban-va-nang-cao) (:card_file_box: archived) 

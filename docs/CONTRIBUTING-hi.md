@@ -24,7 +24,8 @@
     - *Podcasts and Screencasts* : पॉडकास्ट और स्क्रीनकास्ट।  
     - *Problem Sets & Competitive Programming* : एक वेबसाइट या सॉफ़्टवेयर जो आपको सरल या जटिल समस्याओं को हल करके अपनी प्रोग्रामिंग कौशल का आकलन करने देता है, कोड समीक्षा के साथ या बिना, अन्य उपयोगकर्ताओं के साथ परिणामों की तुलना के साथ या बिना।
 
-4. सुनिश्चित करें कि आप [नीचे दिए गए दिशानिर्देशों](#guidelines) का पालन करें और फ़ाइलों के [Markdown स्वरूपण](#formatting) का सम्मान करें।
+4. सुनिश्चित करें कि आप [नीचे दिए गए दिशानिर्देशों](#दिशा-निर्देशों) का पालन करें और फ़ाइलों के [Markdown स्वरूपण](#formatting) का सम्मान करें।
+
 
 5. GitHub Actions परीक्षण चलाएगा ताकि **आपकी सूचियाँ वर्णानुक्रमित हों** और **स्वरूपण नियमों का पालन किया गया हो**। **परीक्षण पास करने के लिए** सुनिश्चित करें कि आपके परिवर्तनों ने परीक्षण पास किए हैं।
 
@@ -68,40 +69,40 @@
 - दो लिंक के बीच `0` खाली लाइन हो।  
 - प्रत्येक `.md` फ़ाइल के अंत में `1` खाली लाइन हो।
 
-Example:
+उदाहरण:
 
 ```text  
 [...]  
-* [An Awesome Book](http://example.com/example.html)  
+* [एक अद्भुत किताब](http://example.com/example.html)  
                                 (खाली लाइन)  
                                 (खाली लाइन)  
-### Example  
+### उदाहरण  
                                 (खाली लाइन)  
-* [Another Awesome Book](http://example.com/book.html)  
-* [Some Other Book](http://example.com/other.html)  
+* [एक और अद्भुत किताब](http://example.com/book.html)  
+* [कुछ अन्य पुस्तक](http://example.com/other.html)  
 ```
 
 - `]` और `(` के बीच में कोई स्पेस न डालें:
 
     ```text  
-    खराब: * [Another Awesome Book] (http://example.com/book.html)  
-    अच्छा: * [Another Awesome Book](http://example.com/book.html)  
+    खराब: * [एक और अद्भुत किताब] (http://example.com/book.html)  
+    अच्छा: * [एक और अद्भुत किताब](http://example.com/book.html)  
     ```
 
 - यदि आप लेखक को शामिल करते हैं, तो ` - ` (एक डैश जिसमें सिंगल स्पेस शामिल हैं) का उपयोग करें:
 
     ```text  
-    खराब : * [Another Awesome Book](http://example.com/book.html)- John Doe  
-    अच्छा: * [Another Awesome Book](http://example.com/book.html) - John Doe  
+    खराब : * [एक और अद्भुत किताब](http://example.com/book.html)- जॉन डो  
+    अच्छा: * [एक और अद्भुत किताब](http://example.com/book.html) - जॉन डो  
     ```
 
 - लिंक और उसके फॉर्मेट के बीच एक स्पेस डालें:
 
     ```text
 
-    खराब : * [A Very Awesome Book]([https://example.org/book.pdf](https://example.org/book.pdf))(PDF)
+    खराब : * [एक बहुत बढ़िया किताब]([https://example.org/book.pdf](https://example.org/book.pdf))(PDF)
 
-    अच्छा: * [A Very Awesome Book\](https://example.org/book.pdf) (PDF)
+    अच्छा: * [एक बहुत बढ़िया किताब\](https://example.org/book.pdf) (PDF)
 
     ```
 
@@ -109,9 +110,9 @@ Example:
 
     ```text
 
-    खराब : * [A Very Awesome Book](https://example.org/book.pdf)- (PDF) Jane Roe
+    खराब : * [A Very Awesome Book](https://example.org/book.pdf)- (PDF) जेन रो
 
-    अच्छा: * [A Very Awesome Book](https://example.org/book.pdf) - Jane Roe (PDF)
+    अच्छा: * [एक बहुत बढ़िया किताब](https://example.org/book.pdf) - जेन रो (PDF)
 
     ```
 
@@ -119,11 +120,11 @@ Example:
 
     ```text
 
-    खराब : * [Another Awesome Book](http://example.com/)- John Doe (HTML)
+    खराब : * [एक और अद्भुत किताब](http://example.com/)- जॉन डो  (HTML)
 
-    खराब : * [Another Awesome Book](https://downloads.example.org/book.html)- John Doe            (डाउनलोड साइट)
+    खराब : * [एक और अद्भुत किताब](https://downloads.example.org/book.html)- जॉन डो             (डाउनलोड साइट)
 
-    अच्छा: * [Another Awesome Book](http://example.com/) - John Doe (HTML) [(PDF, EPUB)](https://downloads.example.org/book.html)
+    अच्छा: * [एक और अद्भुत किताब](http://example.com/) - जॉन डो  (HTML) [(PDF, EPUB)](https://downloads.example.org/book.html)
 
     ```
 
@@ -131,9 +132,9 @@ Example:
 
     ```text
 
-    खराब : \* \[A Very Awesome Book\](https://example.org/book.html) \- Jane Roe \- 1970
+    खराब : \* \[एक बहुत बढ़िया किताब\](https://example.org/book.html) \- जेन रो \- 1970
 
-    अच्छा: \* \[A Very Awesome Book (1970)\](https://example.org/book.html) \- Jane Roe
+    अच्छा: \* \[एक बहुत बढ़िया किताब (1970)\](https://example.org/book.html) \- जेन रो
 
     ```
 
@@ -141,7 +142,7 @@ Example:
 
     ```text
 
-    अच्छा: * [Will Be An Awesome Book Soon](http://example.com/book2.html) - John Doe (HTML) *(:construction: प्रक्रियाधीन)*
+    अच्छा: * [शीघ्र ही एक अद्भुत पुस्तक होगी](http://example.com/book2.html) - जेन रो (HTML) *(:निर्माण: प्रक्रियाधीन)*
 
     ```
 
@@ -149,7 +150,7 @@ Example:
 
     ```text
 
-    अच्छा: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: संरक्षित)*
+    अच्छा: * [एक मार्ग-समर्थित दिलचस्प किताब](https://web.archive.org/web/20211016123456/http://example.com/) - जॉन डो  (HTML) *(:कार्ड_फ़ाइल_बॉक्स: संरक्षित)*
 
     ```
 

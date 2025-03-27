@@ -116,6 +116,7 @@
 ### JavaScript
 
 * [JavaScript로 만나는 세상](https://helloworldjavascript.net)
+* [모던 JavaScript 튜토리얼](https://ko.javascript.info/) - Ilya Kantor
 
 
 #### Node.js

@@ -149,9 +149,9 @@
 
 ### Procesadores de lenguaje
 
-* [Compiladores e Intérpretes (2012)](http://ocw.uji.es/curso/4949)
+* [Compiladores e Intérpretes (2012)](https://web.archive.org/web/20130613211947/http://ocw.uji.es/curso/4949) *(:card_file_box: archived)*
 * [Procesadores de lenguaje (2006)](https://ocw.ua.es/es/ingenieria-y-arquitectura/procesadores-de-lenguaje-2006.html)
-* [Procesadores de Lenguaje (2012)](http://ocw.uji.es/curso/5180)
+* [Procesadores de Lenguaje (2012)](https://web.archive.org/web/20130524191858/http://ocw.uji.es/curso/5180) *(:card_file_box: archived)*
 * [Procesadores de lenguajes -enfocado en Perl-](https://campusvirtual.ull.es/ocw/course/view.php?id=45)
 * [Procesadores de lenguajes II](https://ocw.uca.es/course/view.php?id=56)
 
@@ -185,6 +185,7 @@
 * [Linux y Bash](https://aprendeaprogramar.com/course/view.php?id=10) - Javier Hernandez (Aprendeaprogramar.com)
 * [Lógica de programación](https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=7929) - Carlos Slim Foundation (cuenta requerida)
 * [Patrones de diseño](https://refactoring.guru/es/design-patterns) - Alexander Shvets (Refactoring.Guru)
+* [Primeros Pasos con Rust](https://learn.microsoft.com/es-es/training/paths/rust-first-steps) - Microsoft Learn
 * [Principios de PHP](https://programadorwebvalencia.com/cursos/php/base/) - Andros Fenollosa (Programador Web Valencia)
 * [Programación de computadoras](https://es.khanacademy.org/computing/computer-programming#programming) - Khan Academy
 * [Programación en entornos interactivos 'Qt - gtk' (2010)](https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-en-entornos-interactivos-2010.html)
@@ -193,7 +194,6 @@
 * [Programación en lenguaje Java (2009)](https://ocw.unican.es/course/view.php?id=217)
 * [Programación en lenguaje Java (2015)](https://ocw.unican.es/course/view.php?id=240)
 * [Programación en paralelo -Perl- (2012)](https://campusvirtual.ull.es/ocw/course/view.php?id=44)
-* [Programación para principiantes - primeros pasos](https://www.udemy.com/course/programacion-para-principiantes) - Fernando Herrera (Udemy)
 * [Programación POO (2011)](https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-3-2011.html)
 * [Programador en C#](https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=12989) - Carlos Slim Foundation (cuenta requerida)
 * [Programador orientado a objetos](https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=4244) - Carlos Slim Foundation (cuenta requerida)

@@ -132,6 +132,7 @@
 
 * [Curso de Git](https://www.youtube.com/playlist?list=PLucm8g_ezqNq0dOgug6paAkH0AQSJPlIe) - Bóson Treinamentos
 * [Curso de Git e GitHub: grátis, prático e sem usar comandos no terminal](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA) - Gustavo Guanabara
+* [Curso Git e Github 2024](https://www.youtube.com/playlist?list=PLHbGjxRVA_FmFRF1-OqWaWwqhIiS9Cg0w) - Carlos Uchoa
 * [Git e contribuições para projetos Open Source](https://www.udemy.com/course/git-e-github/) - Bruno Orlandi (Udemy)
 * [Git e Github para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/) - Willian Justen de Vasconcellos (Udemy)
 * [Git para iniciantes](https://www.udemy.com/git-para-iniciantes/) - Ricardo Netto (Udemy)

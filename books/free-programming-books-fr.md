@@ -36,6 +36,7 @@
 * [Perl](#perl)
 * [PHP](#php)
     * [Symfony](#symfony)
+    * [Yii](#yii)
 * [Processing](#processing)
 * [Python](#python)
     * [Django](#django)
@@ -173,6 +174,7 @@
 ### JavaScript
 
 * [JavaScript Éloquent : Une introduction moderne à la programmation](http://fr.eloquentjavascript.net) - Marijn Haverbeke
+* [Learn JavaScript](https://javascript.sumankunwar.com.np/fr) - Suman Kumar, Github Contributors (HTML, PDF)
 * [Node.Js: Apprendre par la pratique](https://oncletom.io/node.js/#chapitres) - Thomas Parisot
 
 
@@ -196,7 +198,7 @@
 
 #### LaTeX
 
-* [Apprends LaTeX](https://tex.loria.fr/general/apprends-latex.pdf) - Marc Baudoin (PDF)
+* [Apprends LaTeX](http://www.babafou.eu.org/Apprends_LaTeX/Apprends_LaTeX.pdf) - Marc Baudoin (PDF)
 * [LaTeX... pour le prof de maths !](http://math.univ-lyon1.fr/irem/IMG/pdf/LatexPourLeProfDeMaths.pdf) - Arnaud Gazagnes (PDF)
 * [Tout ce que vous avez toujours voulu savoir sur LaTeX sans jamais oser le demander](http://framabook.org/tout-sur-latex/) - Vincent Lozano
 * [(Xe)LaTeX appliqué aux sciences humaines](https://web.archive.org/web/20220121031527/geekographie.maieul.net/95) - Maïeul Rouquette *(:card_file_box: archived)*
@@ -262,6 +264,11 @@
 
 * [En route pour Symfony 5.4](https://symfony.com/doc/5.4/the-fast-track/fr/index.html) - Fabien Potencier
 * [En route pour Symfony 6.2](https://symfony.com/doc/current/the-fast-track/fr/index.html) - Fabien Potencier
+
+
+#### Yii
+
+* [Guide définitif pour Yii 2.0](https://www.yiiframework.com/doc/download/yii-guide-2.0-fr.pdf) - Yii Software (PDF)
 
 
 ### Processing

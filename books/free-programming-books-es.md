@@ -38,12 +38,14 @@
 * [Perl 6 / Raku](#perl-6--raku)
 * [PHP](#php)
     * [Symfony](#symfony)
+    * [Yii](#yii)
 * [Python](#python)
     * [Django](#django)
     * [Web2py](#web2py)
 * [R](#r)
 * [Ruby](#ruby)
     * [Ruby on Rails](#ruby-on-rails)
+* [Rust](#rust)
 * [Scala](#scala)
 * [Scratch](#scratch)
 * [SQL](#sql)
@@ -137,6 +139,7 @@
 
 * [Aprenda C++ avanzado como si estuviera en primero](https://web.archive.org/web/20100701020037/http://www.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/cpp/avanzado/cppavan.pdf) - Paul Bustamante, Iker Aguinaga, Miguel Aybar, Luis Olaizola, Iñigo Lazcano (PDF)
 * [Aprenda C++ básico como si estuviera en primero](https://web.archive.org/web/20100701020025/http://www.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/cpp/basico/cppbasico.pdf) - Paul Bustamante, Iker Aguinaga, Miguel Aybar, Luis Olaizola, Iñigo Lazcano (PDF)
+* [Curso de C++](https://conclase.net/c/curso) - Salvador Pozo (HTML)
 * [Ejercicios de programación creativos y recreativos en C++](http://antares.sip.ucm.es/cpareja/libroCPP/) - Luis Llana, Carlos Gregorio, Raquel Martínez, Pedro Palao, Cristóbal Pareja (HTML)
 
 
@@ -204,13 +207,15 @@
 ### JavaScript
 
 * [El Tutorial de JavaScript Moderno](https://es.javascript.info) - Ilya Kantor, Elizabeth Portilla, joaquinelio, Ezequiel Castellanos, et al. (HTML)
-* [Eloquent JavaScript](https://eloquentjs-es.thedojo.mx) - Marijn Haverbeke, `trl.:` Various (HTML, PDF, EPUB, MOBI)
+* [Eloquent JavaScript (3ra Edición)](https://eloquentjs-es.thedojo.mx) - Marijn Haverbeke, `trl.:` Various (HTML, PDF, EPUB, MOBI)
+* [Eloquent JavaScript (4ta Edición)](https://www.eloquentjavascript.es) - Marijn Haverbeke (HTML, PDF, EPUB, MOBI)
 * [Guía de JavaScript 'Mozilla'](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide) (HTML)
 * [Introducción a AJAX](http://librosweb.es/libro/ajax) - Javier Eguíluz Pérez (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-ajax)
 * [Introducción a JavaScript](http://librosweb.es/libro/javascript) - Javier Eguíluz Pérez (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-a-javascript)
 * [JavaScript, ¡Inspírate!](https://leanpub.com/javascript-inspirate) - Ulises Gascón González (Leanpub cuenta requerida)
 * [JavaScript Definitivo Vol. I](https://github.com/afuggini/javascript-definitivo-vol1) - Ariel Fuggini (HTML)
 * [JavaScript Para Gatos](https://jsparagatos.com) - Maxwell Ogden, `trl.:` Dan Zajdband (HTML)
+* [Learn JavaScript](https://javascript.sumankunwar.com.np/es) - Suman Kumar, Github Contributors (HTML, PDF)
 * [Manual de JavaScript](https://desarrolloweb.com/manuales/manual-javascript.html#capitulos20) (HTML)
 
 
@@ -316,6 +321,11 @@
 * [Symfony 5: La Vía Rápida](https://web.archive.org/web/20210805141343/https://symfony.com/doc/current/the-fast-track/es/index.html) - Fabien Potencier (HTML)
 
 
+#### Yii
+
+* [Gu´ıa Definitiva de Yii 2.0](https://www.yiiframework.com/doc/download/yii-guide-2.0-es.pdf) - Yii Software (PDF)
+
+
 ### Perl
 
 * [Tutorial Perl](http://es.tldp.org/Tutoriales/PERL/tutoperl-print.pdf) - Juan Julián Merelo Guervós (PDF)
@@ -365,6 +375,11 @@
 #### Ruby on Rails
 
 * [Introducción a Rails](http://rubysur.org/introduccion.a.rails/) - RubySur (HTML)
+
+
+### Rust
+
+* [El Lenguaje de Programación Rust](https://book.rustlang-es.org) - Steve Klabnik y Carol Nichols, `trl.:` Comunidad Rust en Español (HTML)
 
 
 ### R

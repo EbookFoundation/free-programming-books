@@ -9,6 +9,7 @@
 * [PHP](#php)
 * [Programming](#programming)
 * [Python](#python)
+* [TypeScript](#typescript)
 * [Web Development](#web-development)
 
 
@@ -60,6 +61,11 @@
 ### Python
 
 * [Programming Basic For Beginner](http://books.saturngod.net/programming_basic/) - Saturngod
+
+
+### TypeScript
+
+* [TypeScript Baby](https://lwin-moe-paing.gitbook.io/typescript-baby-by-lwin-moe-paing) - Lwin Moe Paing (Git Book)
 
 
 ### Web Development

@@ -38,4 +38,4 @@
 
 ### Python
 
-* [Python 新教程全集](https://www.youtube.com/playlist?list=PLF2BRDzmXcWqMzQlIUOjiGVmiyEcHiO3q) - 在线教育
+* [最新Python编程教程19天从入门到精通](https://www.youtube.com/playlist?list=PLVyDH2ns1F75k1hvD2apA0DwI3XMiSDqp) - 知知识改变命运

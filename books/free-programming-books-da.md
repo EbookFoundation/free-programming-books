@@ -17,6 +17,7 @@
 ### <a id="csharp"></a>C\#
 
 * [Object-oriented Programming in C#](http://people.cs.aau.dk/~normark/oop-csharp/pdf/all.pdf) - Kurt Nørmark (PDF)
+* [Bogen om C#](https://mcronberg.github.io/bogenomcsharp/) - Michell Cronberg (HTML)
 
 
 ### <a id="cpp"></a>C++

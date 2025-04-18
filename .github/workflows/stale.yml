@@ -42,4 +42,5 @@ jobs:
           labels-to-remove-when-unstale: 'stale'
           exempt-draft-pr: true
           debug-only: ${{ github.event.inputs.debug-only == 'true' }}
+          enable-statistics: true
           # delete-branch: true

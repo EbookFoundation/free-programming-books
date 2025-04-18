@@ -138,7 +138,7 @@
 #### TypeScript
 
 * [TypeScript untuk Pemula, Bagian 1: Memulai](https://code.tutsplus.com/id/tutorials/typescript-for-beginners-getting-started--cms-29329) - Tutsplus (HTML)
-
+* [Tutorial Membuat REST API dengan Express, Typescript, dan PostgreSQL](https://www.petanikode.com/express-rest-api-ts/)- Petani Kode (HTML)
 
 #### Vue.js
 

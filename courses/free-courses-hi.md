@@ -183,7 +183,7 @@
 * [All C Concepts \| Hindi](https://www.youtube.com/playlist?list=PL7ersPsTyYt1d8g5qaxbE6sjWDzs4D_1v) - Saurabh Shukla
 * [C Language for GATE — Complete Playlist](https://www.youtube.com/playlist?list=PLC36xJgs4dxG-IqARhc23jYTDMYt7yvZP) - Gate CSE lectures by Amit Khurana
 * [C Language Tutorial for Beginners (with Notes & Practice Questions)](https://www.youtube.com/watch?v=irqbmMNs2Bo) - Apna College
-* [C Language Tutorial For Beginners In Hindi (With Notes)](https://www.youtube.com/watch?v=ZSPZob_1TOk) - CodeWithHarry
+* [C Language Tutorial for Beginners (With Notes + Surprise)](https://youtu.be/aZb0iu4uGwA?si=WX7d5lobVBpjgwbH) - CodeWithHarry
 * [C Language Tutorial in Hindi](https://www.youtube.com/playlist?list=PLmRclvVt5DtksgReOH3s7R1_cb1QA8vrb) - codeitup
 * [C Language Tutorials In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR) - CodeWithHarry
 * [C Programming Course](https://www.youtube.com/playlist?list=PLxgZQoSe9cg1drBnejUaDD9GEJBGQ5hMt) - College Wallah

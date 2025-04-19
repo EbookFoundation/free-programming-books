@@ -38,6 +38,7 @@
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [Sass](#sass)
+* [Security](#security)
 * [SQL](#sql)
 * [Swift](#swift)
 * [TypeScript](#typescript)
@@ -512,6 +513,25 @@
 * [SASS](https://www.youtube.com/playlist?list=PLw_erwgZq4-EGs9VEEKROpDbjCuzgx01W) - ZenDvn
 * [Sass Cơ Bản](https://www.youtube.com/playlist?list=PLzrVYRai0riSWPPRE6Ib99zd5fV4YYH0Q) - Khoa Phạm
 * [Tự Học Sass](https://www.youtube.com/playlist?list=PLv6GftO355AtWld1EE7SBAH-OkKKt23Bb) - ZendVN
+
+
+### Security
+
+* [AN NINH MẠNG CHO NGƯỜI MỚI](https://www.youtube.com/playlist?list=PLLHcUwF4MJE2nZhxQtXCk2bpYi4ZtCZIg) - Trung tâm đào tạo an ninh mạng - Cybersecurity
+* [Cyber Security](https://www.youtube.com/playlist?list=PLLHcUwF4MJE1xHr5tuBvyLUxu09dGInRm) - Trung tâm đào tạo an ninh mạng - Cybersecurity
+* [Giải thích lỗ hổng Web phổ biến và cách khai thác](https://www.youtube.com/playlist?list=PLu9yx0lLtsRhWd2ZQsaM881HXbxZ0dgkS) - Cookie Han Hoan
+* [Hướng dẫn Bug Bounty cho người mới](https://www.youtube.com/playlist?list=PLu9yx0lLtsRgpVspJJeZ_CfcsDY-onsCo) - Cookie Han Hoan
+* [HỌC BẢO MẬT CÙNG CYBERJUTSU](https://www.youtube.com/playlist?list=PLijX7E_0LDO-UFu2KluCfxbFZE-NS3TQ_) - CyberJutsuTV
+* [Introduction to Web Application Security](https://www.youtube.com/playlist?list=PLu9yx0lLtsRiWkLUlOyQg-U4Gu0VTPMe_) - Cookie Han Hoan
+* [Khoá học an ninh mạng của Cisco về CyberSecurity](https://www.youtube.com/playlist?list=PLRSnr8eajoQyUdyywoUOvDRd9FLoovfg3) - VQT Network
+* [Khóa Học Hacker Mũ Trắng Và Bảo Mật Thông Tin](https://www.youtube.com/playlist?list=PLggwtzPh_8VkV50VGVpvybnnqCdgIBCVb) - Nguyễn Thế Lợi
+* [Khóa Học Hacker Mũ Trắng-AEH](https://www.youtube.com/playlist?list=PLSzZlHir9jJSSygXLtqkhPQNIYkYqGTAU) - Trung Tam Athena
+* [NHẬP MÔN AN TOÀN THÔNG TIN](https://www.youtube.com/playlist?list=PLijX7E_0LDO_-v_UhGNujj_NBTysTwzkC) - CyberJutsuTV
+* [OWASP Top 10 Vulnerabilities](https://www.youtube.com/playlist?list=PLu9yx0lLtsRiaeIQ-yn0huBD3YKgJ6wzC) - Cookie Han Hoan
+* [Quản trị An ninh mạng Cisco CCNA Security](https://www.youtube.com/playlist?list=PLOBQKf6CISRQK4laM3VLug8wweoMv0iz4) - Giai Phap Mang H3T
+* [Quản trị mạng máy tính Cisco CCNA](https://www.youtube.com/playlist?list=PLFJBtgskuhZYoOqwnRNLbUvFadA6ApqjH) - An ninh mạng
+* [Tìm kiếm lỗ hổng Web](https://www.youtube.com/playlist?list=PLu9yx0lLtsRhM3QN-R6tzMbLr7gBmD6c-) - Cookie Han Hoan
+* [Web Hacking Techniques](https://www.youtube.com/playlist?list=PLu9yx0lLtsRi3rG11n0fl0H_-3jkSBZk3) - Cookie Han Hoan
 
 
 ### SQL

@@ -45,13 +45,21 @@
 
 ### Android
 
+* [Android Cơ Bản](https://www.youtube.com/playlist?list=PLE1qPKuGSJaAeaWy8eRkuDjrqm4Rhm-cx) - thân triệu
+* [Android app bán hàng online](https://www.youtube.com/playlist?list=PLbhheUORMqP2_2bdQ3QYnkst8TFldm3p3) - NH Android
+* [Android với kolin cho người mới](https://www.youtube.com/playlist?list=PLPt6-BtUI22qf3KE1V1PyAm1v8M2qqwL5) - Gà Lại Lập Trình
+* [Học Android + Kotlin cơ bản](https://www.youtube.com/playlist?list=PLpgD-OxlvlqFNyyaFlan2-WTtSaBkWllm) - Xin chào, mình là Sữa
+* [Lập Trình Android Rest API](https://www.youtube.com/playlist?list=PLFPekWzEN9zMPU_se3HtbdmPDvXnX7V80) - Nam Nguyen Poly Lab
+* [Lập trình Android - Android Studio](https://www.youtube.com/playlist?list=PLwJr0JSP7i8AU_esH4BC0NDz_m_yLV4PW) - XuanThuLab
 * [Lập trình Android - Android Widgets - Các điều khiển](https://www.youtube.com/playlist?list=PLv6GftO355At6jjYThbMn-5r164GJ5Vyb) - ZendVN
 * [Lập trình Android - Menu - Context Menu - Dialog](https://www.youtube.com/playlist?list=PLv6GftO355Avjf5iuNbEUsIZbltzDEuIU) - ZendVN
 * [Lập trình Android - Xây dựng bố cục giao diện với Android Layout](https://www.youtube.com/playlist?list=PLv6GftO355AtfPQx7M3dkWgi9KPUB9S0V) - ZendVN
 * [Lập trình Android A-Z](https://www.youtube.com/playlist?list=PL5uqQAwS_KDjAgLGiaCakwJV1f4vRnTLS) - Khoa Phạm
 * [Lập trình Android cơ bản](https://www.youtube.com/playlist?list=PL33lvabfss1wDeQMvegg_OZQfaXcbqOQh) - Kteam
+* [Lập trình Android cơ bản - v2022](https://www.youtube.com/playlist?list=PLn9lhDYvf_3FDMIcSTSuXZIAB1NJuPuaS) - Anh Nguyen Ngoc
 * [Lập trình Android với Kotlin](https://www.youtube.com/playlist?list=PLzrVYRai0riRFcvx8VYTF7fx4hXbd_nhU) - Khoa Phạm
 * [Lập trình Android với new Firebase](https://www.youtube.com/playlist?list=PLzrVYRai0riTLPLclyGuByHvZ8_tDZZIr) - Khoa Phạm
+* [Tự học Lập Trình Android từ A đến Z](https://www.youtube.com/playlist?list=PL6aoXCbsHwIayYCo9aDuzZ3dMC9oShs1u) - Kênh Công nghệ
 
 
 ### ASP

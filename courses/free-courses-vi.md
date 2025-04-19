@@ -165,14 +165,19 @@
 
 * [C# Căn Bản](https://www.youtube.com/playlist?list=PL33lvabfss1wUj15ea6W0A-TtDOrWWSRK) - Kteam
 * [C# Nâng Cao](https://www.youtube.com/playlist?list=PL33lvabfss1y5jmklzilr2W2LZiltk6bU) - Kteam
+* [HttpRequest - Crawl data từ website](https://www.youtube.com/playlist?list=PL33lvabfss1w4-G4wujhFVZGTlFkooCck) - K team
+* [Hướng dẫn code Game Server Basic & Game Client](https://www.youtube.com/playlist?list=PLm5N2Ku5IP9eZPS20m8AEpdzYNB-lQ7Dp) - Code Phủi
+* [Học Lập Trình C# Cơ Bản](https://www.youtube.com/playlist?list=PLE1qPKuGSJaANYwZJweIuzceWHCJI8mnE) - thân triệu
 * [Lập trình C# - NET Core](https://www.youtube.com/playlist?list=PLwJr0JSP7i8BERdErX9Ird67xTflZkxb-) - XuanThuLab
-* [Lập trình C# cho người mới bắt đầu](https://tedu.com.vn/khoa-hoc/lap-trinh-c-toan-tap-cho-nguoi-moi-bat-dau-46.html) - TEDU
 * [Lập trình C# Winform cơ bản](https://www.youtube.com/playlist?list=PL33lvabfss1y2T7yK--YZJHCsU7LZVzBS) - Kteam
+* [Lập trình C# cho người mới bắt đầu](https://tedu.com.vn/khoa-hoc/lap-trinh-c-toan-tap-cho-nguoi-moi-bat-dau-46.html) - TEDU
+* [Lập trình C# cơ bản](https://www.youtube.com/playlist?list=PL33lvabfss1wUj15ea6W0A-TtDOrWWSRK) - K team
+* [Lập trình Key logger với C# Console Application](https://www.youtube.com/playlist?list=PL33lvabfss1xfA6027EDgEqUp79XRft5I) - Kteam
+* [Lập trình Selenium với C# - WPF](https://www.youtube.com/playlist?list=PL33lvabfss1ys_UxBqlKvdm6mVs1sL9T2) - Kteam
+* [Lập trình WPF cơ bản](https://www.youtube.com/playlist?list=PL33lvabfss1ywgHcDF2aB8YBxwtj1_Rjk) - K team
 * [Lập trình game Caro với C# Winform](https://www.youtube.com/playlist?list=PL33lvabfss1yCEzvLavt8jD4daqpejzwN) - Kteam
 * [Lập trình hướng đối tượng trong C#](https://www.youtube.com/playlist?list=PL33lvabfss1zRgaWBcC__Bnt5AOSRfU71) - Kteam
-* [Lập trình Key logger với C# Console Application](https://www.youtube.com/playlist?list=PL33lvabfss1xfA6027EDgEqUp79XRft5I) - Kteam
 * [Lập trình phần mềm Quản Lý Quán Cafe với C# Winform](https://www.youtube.com/playlist?list=PL33lvabfss1xnPhBJHjM0A8TEBBcGCTsf) - Kteam
-* [Lập trình Selenium với C# - WPF](https://www.youtube.com/playlist?list=PL33lvabfss1ys_UxBqlKvdm6mVs1sL9T2) - Kteam
 * [Lập trình ứng dụng Lập Lịch với C# Winform](https://www.youtube.com/playlist?list=PL33lvabfss1zfGzpSGQN7CUoHKS6OQbJc) - Kteam
 
 

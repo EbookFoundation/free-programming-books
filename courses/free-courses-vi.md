@@ -3,6 +3,7 @@
 * [AJAX](#ajax)
 * [Android](#android)
 * [ASP.NET](#asp)
+* [Assembly](#assembly)
 * [AutoIt](#autoit)
 * [Bash](#bash)
 * [Blazor](#blazor)
@@ -76,6 +77,18 @@
 * [Website Thương mại Điện tử với ASP.NET Core MVC](https://www.youtube.com/playlist?list=PLE5Bje814fYbtRxvDgmWJ6fUpIZXtbNrb) - HIENLTH Channel
 * [Xây dựng Backend ứng dụng chứng khoán với ASP .NET Core 7 Api và Websocket](https://www.youtube.com/watch?v=hNoCIW4iM10) - Nguyen Duc Hoang
 * [Xây dựng ứng dụng web với ASP.NET Core](https://www.youtube.com/playlist?list=PLRhlTlpDUWsyP9PB1yrhNAYI7LC6yr4tZ) - TEDU
+
+
+### Assembly
+
+* [Asembly, lập trình hợp ngữ trên emu 8086](https://www.youtube.com/playlist?list=PLDYXQL9eThN7o1fsQIEn40eTiJCZTFVoc) - Huy Init
+* [Assembly - Lập trình hợp ngữ](https://www.youtube.com/playlist?list=PLqNgXeR4XrjBgFcjPV46Nb2k4D23alTK_) - KienThucTin
+* [Lập Trình ARM Assembly](https://www.youtube.com/playlist?list=PLGZ_RWetU5HJLQmSNExog6Wiws-tCDxh0) - Lập Trình Nhúng A-Z
+* [Lập Trình ASSEMBLY ARM](https://www.youtube.com/playlist?list=PLE9xJNSB3lTFBf2zj0Mp4gBhGqSDJxj0z) - HuLa Embedded
+* [Lập Trình x86 Assembly](https://www.youtube.com/playlist?list=PLGZ_RWetU5HInf6eYocQXXAaikHbvZI81) - Lập Trình Nhúng A-Z
+* [Lập trình Assembly](https://www.youtube.com/playlist?list=PL_5qWES7xEtCt5z3Fi4rKh71xBKSXzNzv) - Ky Nguyen IoT
+* [Lập trình hợp ngữ](https://www.youtube.com/playlist?list=PL9sn2M__GrF--BchVjp9msnEniq3hWw1k) - K.Huynh.
+* [Lập trình hợp ngữ Assembly 8051](https://www.youtube.com/playlist?list=PLBlxAM4UiXxQ2Vz7C-z1voTjDmsRqEEd1) - Vũ Minh Đức
 
 
 ### AutoIt

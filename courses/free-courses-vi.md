@@ -125,11 +125,21 @@
 * [Bài toán kinh điển trong lập trình C++](https://www.youtube.com/playlist?list=PL33lvabfss1zRuwxONgKLc_BBsZ-Y2B6b) - K team
 * [C++](https://www.youtube.com/playlist?list=PLyiioioEJSxHVTaeL-ELYy6Io-I8diIVZ) - Dạy Nhau Học
 * [C++ Cấu trúc dữ liệu](https://www.youtube.com/playlist?list=PLyiioioEJSxHr-4yQvc6biuGsiYqPq35F) - Dạy Nhau Học
+* [Học lập trình C](https://www.youtube.com/playlist?list=PLE1qPKuGSJaBq4VFzTYrhzCiPvCoI8JDv) - thân triệu
 * [Học lập trình C cho người mới bắt đầu (2019)](https://www.youtube.com/playlist?list=PLh91SaQgRYnpj1GqVmVMq4acSAHtSKKwR) - Lập Trình Không Khó
 * [Học lập trình C cơ bản](https://www.youtube.com/playlist?list=PLZEIt444jqpAEl0D3W17WDS3ZtGbHIxF3) - Son Nguyen
 * [Học lập trình C++ cho người mới bắt đầu](https://www.youtube.com/playlist?list=PLh91SaQgRYnp-NC3WnFDMWQV40a6m61Hr) - Lập Trình Không Khó
+* [Lập Trình C Từ Cơ Bản Đến Nâng Cao](https://www.youtube.com/playlist?list=PL6h8VcmH2PuJzGN8UFhMAoAsPcHg2uepd) - Full House
+* [Lập Trình C | Xâu Ký Tự | Chuỗi](https://www.youtube.com/playlist?list=PLux-_phi0Rz3XyMk0JHqeN2DM69XDAyyo) - 28tech
+* [Lập trình C](https://www.youtube.com/playlist?list=PLyxSzL3F7487Nh-ib25lcLEzhL5mgZkFJ) - TITV
+* [Lập trình C cho người mới bắt đầu học lập trình](https://www.youtube.com/playlist?list=PLzQuu4-Qxlh7lfDpA2lhuBHMNMskLE2QZ) - Học Công Nghệ
 * [Lập trình C++ cơ bản - HowKteam](https://www.youtube.com/playlist?list=PL33lvabfss1xagFyyQPRcppjFKMQ7lvJM) - K team
 * [Ngôn Ngữ Lập Trình C](https://www.youtube.com/playlist?list=PLyiioioEJSxHr5X8RNY3QXUGcjzeZeI7l) - Dạy Nhau Học
+* [Ngôn Ngữ Lập Trình C](https://www.youtube.com/playlist?list=PLux-_phi0Rz2TB5D16sJzy3MgOht3IlND) - 28tech
+* [Ngôn Ngữ Lập Trình C |IUH](https://www.youtube.com/playlist?list=PLOWHQCkFdTueoPoil-FTma3-q-_uxsvhR) - Jerry Thắng
+* [Ngôn ngữ lập trình C-GV. Nguyễn Văn Phúc](https://www.youtube.com/playlist?list=PLdgLBTCcFWkfWhf3qSPX-pNGyLOj8IA3w) - CCE- eLEARN
+* [Nhập môn LẬP TRÌNH CĂN BẢN với C](https://www.youtube.com/playlist?list=PLayYhLZuuO9t9F8tIKR5RE7HQbDwNtnSV) - giáo.làng
+* [Nhập môn lập trình C cơ bản](https://www.youtube.com/playlist?list=PLQj93CJe0N72nRYDYEdVpV3ZzGHMJvgqt) - Đỗ Phúc Hảo
 * [Series Con trỏ trong C](http://diendan.congdongcviet.com/threads/t42977::tim-hieu-ban-chat-cua-con-tro-tu-co-ban-den-nang-cao.cpp) - Cộng đồng C Việt
 
 

@@ -31,6 +31,7 @@
 * [NodeJS](#nodejs)
 * [Objective-C](#objective-c)
 * [PHP](#php)
+* [PostgreSQL](#postgresql)
 * [Python](#python)
 * [React](#react)
 * [Ruby](#ruby)
@@ -431,6 +432,13 @@
 * [Tự học PHP - Các đối tượng khác trong PHP](https://www.youtube.com/playlist?list=PLv6GftO355Av7YIhRHajDEWCHq1viEKEy) - ZendVN
 * [Tự học PHP - Căn Bản](https://www.youtube.com/playlist?list=PLv6GftO355AulVlaWLp41kieNB9dTG1_l) - ZendVN
 * [Tự học PHP - Làm việc với ASNT](https://www.youtube.com/playlist?list=PLv6GftO355At4rfAAqGCtokc3W1uDnv28) - ZendVN
+
+
+### PostgreSQL
+
+* [Hiểu toàn bộ PostgreSQL trong 1h30p - 2023](https://www.youtube.com/watch?v=OUlLQK_gN8k) - Trần Quốc Huy
+* [Học PostgreSQL qua ví dụ || PostgreSQL Tutorial](https://www.youtube.com/playlist?list=PLMbuMydSxMKxfg0OeJJoNsdRTnTIEcqmg) - Lập Trình B2A
+* [Postgresql cơ bản](https://www.youtube.com/playlist?list=PLRoAKls-7kksI-BbBn_ihFB9sRjSrDrs4) - Migolab
 
 
 ### Python

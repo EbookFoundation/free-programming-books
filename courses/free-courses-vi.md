@@ -418,10 +418,16 @@
 
 ### PHP
 
+* [Học Lập Trình PHP + Mysql](https://www.youtube.com/playlist?list=PLaevEBkXyvnXEMoe6ZHFJGjPDb_eCCVNc) - Hoàng Thương Official
 * [Học PHP qua các hàm thông dụng](https://www.codehub.com.vn/PHP) - Codehub
+* [Học php từ cơ bản đến nâng cao - web bán hàng](https://www.youtube.com/playlist?list=PLSMUwja5VsJWoq5VmD5cW2Xoy52FILBV3) - gv cybersoft
+* [Khoá học PHP & MYSQL bài bản từ A-Z](https://www.youtube.com/playlist?list=PL88QwC-jiH9ByYqO0mVStNEHB6QT24yx1) - Học Lập Trình - Hienu
 * [Lập Trình Website Với PHP và MySQL](https://www.codehub.com.vn/Lap-Trinh-Website-Voi-PHP-va-MySQL) - Codehub
+* [Lập trình PHP1 - SU22](https://www.youtube.com/playlist?list=PLieAxB9_noZlWuur0Hxw7BIYVbGJ-hS0N) - Thầy Hộ Fpoly
 * [PHP Cơ Bản](https://www.codehub.com.vn/PHP-Co-Ban) - Codehub
 * [PHP Cơ Bản](https://www.youtube.com/playlist?list=PLU4OBh9yHE940f_T2IyAWHAjXhMxYFZky) - RHP Team
+* [Tự Học Lập trình PHP](https://www.youtube.com/playlist?list=PLv6GftO355AsZFXlWLKob6tMsWZa4VCY1) - ZendVN - Học Lập Trình Online
+* [Tự học PHP  Laravel Framework cho người mới bắt đầu](https://www.youtube.com/playlist?list=PLsVJaIeVT78qJEPWJ9rIwgPCcmuVI-r4k) - Đặng Kim Thi
 * [Tự học PHP - Các đối tượng khác trong PHP](https://www.youtube.com/playlist?list=PLv6GftO355Av7YIhRHajDEWCHq1viEKEy) - ZendVN
 * [Tự học PHP - Căn Bản](https://www.youtube.com/playlist?list=PLv6GftO355AulVlaWLp41kieNB9dTG1_l) - ZendVN
 * [Tự học PHP - Làm việc với ASNT](https://www.youtube.com/playlist?list=PLv6GftO355At4rfAAqGCtokc3W1uDnv28) - ZendVN

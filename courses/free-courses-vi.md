@@ -606,7 +606,14 @@
 
 ### Unity
 
-* [Học Lập Trình Game Unity3D - Cơ Bản](https://www.youtube.com/playlist?list=PL33lvabfss1wO1v5j9J5PHsbkQRlmo7KD) - K team
+* [C0: Cơ bản Unity C#](https://www.youtube.com/playlist?list=PL9YFzEkTXjbMlVFT3AtHiaARHoZgAP8sm) - Sai Game
+* [C2: Cơ bản Unity 3D](https://www.youtube.com/playlist?list=PL9YFzEkTXjbM7gq3QVkb5rC4dO8JdIsdj) - Sai Game
+* [C3: Học Làm Game Unity2D](https://www.youtube.com/playlist?list=PL9YFzEkTXjbOUFE0wCrSa4SAjJN7Nz6yq) - Sai Game
+* [C4 - Cơ bản Unity 3D C#](https://www.youtube.com/playlist?list=PL9YFzEkTXjbNa2vGgWFCBkNaNCzAFRSQ1) - Sai Game
+* [Free Unity - Zitga](https://www.youtube.com/playlist?list=PLE5Rxh1l0Qs5zorOJMa777FzSYoTNreJH) - Unity3d Việt Nam
+* [G1: Hướng Dẫn Unity 3D - City Building](https://www.youtube.com/playlist?list=PL9YFzEkTXjbPJLYHlMQ4oxrqdXYVc8t9G) - Sai Game
+* [G2: Cách làm Game 2D và Tower Defense](https://www.youtube.com/playlist?list=PL9YFzEkTXjbMkbjtjdxHFySO5rhPN1uMx) - Sai Game
+* [G3: Cách làm game thẻ bài - Game Card](https://www.youtube.com/playlist?list=PL9YFzEkTXjbP7XXmElG-bRc5R84Hxifes) - Sai Game
 * [Học Lập Trình Game Unity3D - Cơ Bản](https://www.youtube.com/playlist?list=PLzrVYRai0riS2khouy_siPTcR0ajoS8a6) - Khoa Phạm
 * [Học Lập Trình Game Unity3D - Cờ Vua 3D](https://www.youtube.com/playlist?list=PLqLksqdSk4b2VcB_yvIkqRPCymXE-q48e) - The Brown Box
 * [Học Lập Trình Game Unity3D - Doge Game](https://www.youtube.com/playlist?list=PL33lvabfss1xyYt5jGWqGlITZQCrNwHd6) - K team
@@ -614,7 +621,11 @@
 * [Học Lập Trình Game Unity3D - Flappy Bird](https://www.youtube.com/playlist?list=PL33lvabfss1x9P0eiUcr8f-3g2mG-PNTz) - K team
 * [Học Lập Trình Game Unity3D - Game Sprider Cave](https://www.youtube.com/playlist?list=PLzrVYRai0riT-fZ_Wgi_NrELvqzbASetQ) - Khoa Phạm
 * [Học Lập Trình Game Unity3D - Zombie Hunter](https://www.youtube.com/playlist?list=PL33lvabfss1zGxMf1P-ReSoOoFN7L_jo0) - K team
+* [Học làm game 2D trên Unity](https://www.youtube.com/playlist?list=PLw2nfWzUTIAkZGD8r2jPjVw-sSCIIV1wa) - Tech Lap
+* [Khóa học lập trình Game Unity](https://www.youtube.com/playlist?list=PL4voWW1tQT6qfAR8XTD6VcYglb8Kvdw5F) - CodeGym
 * [Lập Trình Game 2D Trên Unity3D](https://www.youtube.com/playlist?list=PLl-dkipSQUGcQQgvh9j8a75Sz4zx9vWo8) - U DEV
+* [Unity 3D](https://www.youtube.com/playlist?list=PL33lvabfss1wO1v5j9J5PHsbkQRlmo7KD) - K team
+* [Unity Azure Cloud Game](https://www.youtube.com/playlist?list=PLRz-2ltlXLUKYiFcSG1ME0G5-ukGCHtc_) - Coding Reshape Future
 
 
 ### Web Development

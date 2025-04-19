@@ -9,6 +9,7 @@
 * [Blazor](#blazor)
 * [Bootstrap](#bootstrap)
 * [C](#c)
+* [C++](#cpp)
 * [C#](#a-idcsharpac)
 * [Cấu trúc dữ liệu và Giải thuật](#cấu-trúc-dữ-liệu-và-giải-thuật)
 * [Flutter](#flutter)

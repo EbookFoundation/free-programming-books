@@ -591,9 +591,14 @@
 
 > :information_source: See also &#8230; [AngularJS](#angularjs)
 
-* [Angular 2 căn bản](https://tedu.com.vn/khoa-hoc/khoa-hoc-angular-2-can-ban-10.html) - TEDU
+* [100 Days Of Angular (from Angular Vietnam)](https://www.youtube.com/playlist?list=PLMTyi4Bfd5pW73uXw-6jgRxDwdPYqwk0r) - Angular Vietnam
+* [Angular 12 - Hướng dẫn từ căn bản](https://www.youtube.com/playlist?list=PLiNjao7yG417iy0SwSuaGDZ7GBJs654ME) - Code là Ghiền
+* [Angular 16 - 2023](https://www.youtube.com/playlist?list=PLFWDoeAHRLTYaOhywzqEOwYk9sCVbIBB-) - Lửng Code
 * [Angular 2 Cơ Bản](https://tedu.com.vn/khoa-hoc/khoa-hoc-angular2-can-ban-10.html) - TEDU
 * [Angular 4 Cơ Bản](https://www.youtube.com/playlist?list=PLzrVYRai0riTA1m7Dasg8eraBr6R9nFgC) - Khoa Phạm
+* [Angular căn bản 2023](https://www.youtube.com/playlist?list=PLRhlTlpDUWswOJnLxzotd7MgqaRrBlZOG) - TEDU
+* [Học Angular 8+ qua các ví dụ thực tế](https://www.youtube.com/playlist?list=PLlahAO-uyDzJ2tRFJ8hFkiPf6xuSg9IQa) - TechMaster Vietnam
+* [Khóa học Angular Mới Nhất 2024](https://www.youtube.com/playlist?list=PLnRJxWEhhmzrta5bu4gJsZX_kdDff3Y4R) - Ninedev
 * [Làm dự án thực tế với Angular 2+ Web API](https://tedu.com.vn/khoa-hoc/lam-du-an-thuc-te-voi-angular-2-web-api-13.html) - TEDU
 * [Tự học Angular 2020](https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-uBQaBU8wMLo2CrFkE-9VIZ) - CodersX
 * [Tự học Angular 5](https://www.youtube.com/playlist?list=PLWBrqglnjNl1qQw2nH5O1A8W_DVC3xo-V) - Nguyen Duc Hoang

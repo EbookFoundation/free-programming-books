@@ -361,8 +361,12 @@
 ### MongoDB
 
 * [Giáo trình tự học NoSQL - MongoDB](https://www.youtube.com/playlist?list=PLv6GftO355Aug0rwKfb6v96mlYrwOw7XV) - ZendVN
+* [Học MongoDB trọn vẹn trong 1 giờ 30 phút](https://www.youtube.com/watch?v=8Nx7cdwT86c) - Trần Quốc Huy
+* [Học lập trình Web BackEnd NodeJS và MongoDB thực chiến](https://www.youtube.com/playlist?list=PLimFJKGsbn1lQlDQW3A5yb2CdVJ8MqqG8) - Thien Tam Nguyen
+* [Khóa học lập trình backend Nodejs và MongoDB](https://www.youtube.com/playlist?list=PLEnECmpTzvQO-1tEWazRmPNV02vkUhU0R) - Kênh Tổng Hợp Source Code Website
 * [Mongo DB cơ bản](https://www.youtube.com/playlist?list=PLU4OBh9yHE94QAav7qIuaTtH9-pq39We8) - RHP Team
 * [MongoDB 2020](https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-vgHI_wNWPHKdiRwlgQXaTR) - CodersX
+* [Thực chiến Back-end NodeJS + MongoDB](https://www.youtube.com/playlist?list=PLP6tw4Zpj-RIMgUPYxhLBVCpaBs94D73V) - TrungQuanDev
 
 
 ### NodeJS

@@ -264,8 +264,22 @@
 ### Java
 
 * [Học Lập Trình Java Cơ Bản](https://www.youtube.com/playlist?list=PLE1qPKuGSJaB4DMiP4wYbLjfszqKg89lL) - Thân Triệu
+* [Học Lập trình Java với Netbeans IDE](https://www.youtube.com/playlist?list=PLE1qPKuGSJaA6-6So-knCgNNq3vNbCRD6) - thân triệu
+* [Khoá Học Java Nâng Cao](https://www.youtube.com/playlist?list=PLMPBVRu4TjAxXA5KuqKFU7gwGiucyif_r) - Trần Văn Điệp Official
+* [Khóa Học Java Cơ Bản](https://www.youtube.com/playlist?list=PLsfLgp1K1xQ4ukX-Y7w5i76eJkApL641w) - JMaster IO
+* [Khóa học Java Core](https://www.youtube.com/playlist?list=PLmGP0M1IXtjXnqg-GdVmLZcinnt6aXvW3) - Lê Vũ Nguyên Vlog
+* [Khóa học Java Nâng Cao (Java EE)](https://www.youtube.com/playlist?list=PLsfLgp1K1xQ51TV6pCyS9yNQvstVk_le_) - JMaster IO
+* [Khóa học Java Web Servlet/Jsp](https://www.youtube.com/playlist?list=PLsfLgp1K1xQ53rzo7vo2dKamBu0bj7lkv) - JMaster IO
+* [Khóa học lập trình Backend Java Spring(28tech)](https://www.youtube.com/playlist?list=PLPCCr-MyxGncORR0AX73cVlz_WGQhKn4e) - khangmoihocit
+* [Khóa học lập trình Java Spring boot 3 miễn phí cho người mới (2024)](https://www.youtube.com/playlist?list=PL2xsxmVse9IaxzE8Mght4CFltGOqcG6FC) - Devteria
+* [Khóa học lập trình Java cơ bản đến hướng đối tượng](https://www.youtube.com/playlist?list=PL33lvabfss1yGrOutFR03OZoqm91TSsvs) - K team
 * [Khóa học lập trình JavaFX](https://www.youtube.com/playlist?list=PL33lvabfss1yRgFCgFXjtYaGAuDJjjH-j) - Kteam
+* [Lập trình Java](https://www.youtube.com/playlist?list=PLyxSzL3F748401hWFgJ8gKMnN6MM8QQ7F) - TITV
 * [Lập trình Java căn bản](https://tedu.com.vn/video/bai-1-gioi-thieu-tong-quan-ve-java-520.html) - TEDU
+* [Lập trình java | Tự học java siêu tốc](https://www.youtube.com/playlist?list=PLPt6-BtUI22rxpe6PZc5H6XAgPusA6fDQ) - Gà Lại Lập Trình
+* [Tự Học Java Core Từ A tới Z Dành cho Beginners](https://www.youtube.com/playlist?list=PLncHg6Kn2JT5EVkhKoJmzOytHY39Mrf_o) - Hỏi Dân IT
+* [Tự học Java cho người mới bắt đầu 2025](https://www.youtube.com/playlist?list=PLAv1wIkQKlEt3RIZuS50MKOZwxLrSyR-c) - Tập Làm Mentor
+* [Tự học Lập trình JAVA](https://www.youtube.com/playlist?list=PLv6GftO355Av6u60DTCvrUe6aXror_bdE) - ZendVN
 
 
 ### JavaScript

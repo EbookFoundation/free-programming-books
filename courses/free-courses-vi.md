@@ -27,6 +27,7 @@
 * [Machine-Learning](#machine-learning)
 * [MongoDB](#mongodb)
 * [MySQL](#mysql)
+* [Next.js](#nextjs)
 * [NodeJS](#nodejs)
 * [Objective-C](#objective-c)
 * [PHP](#php)
@@ -380,6 +381,14 @@
 * [Khoá học PHP & MYSQL bài bản từ A-Z](https://www.youtube.com/playlist?list=PL88QwC-jiH9ByYqO0mVStNEHB6QT24yx1) - Hienu
 * [Khóa học cơ sở dữ liệu Mysql](https://www.youtube.com/playlist?list=PLmGP0M1IXtjULXD1KUAf7Snkq9O0RMsYT) - Lê Vũ Nguyên Vlog
 * [Tự Học SQL cùng Vịt - Khóa Cơ Bản cho Người Mới Bắt Đầu](https://www.youtube.com/playlist?list=PL01fPqVNMdrmtcb_Yui_Oh23X_3laoZoO) - Vịt làm Data
+
+
+### Next.js
+
+* [Lập trình NextJS](https://www.youtube.com/playlist?list=PLv6GftO355AvWAQv4or-RE2RAFFXaI3Jz) - ZendVN - Học Lập Trình Online
+* [NextJS cơ bản 🎉](https://www.youtube.com/playlist?list=PLeS7aZkL6GOuMvDYcyW9VVLCvKnNhm4It) - Easy Frontend
+* [Tự Học Next.JS Cơ Bản (với React và TypeScript) | Hỏi Dân IT](https://www.youtube.com/playlist?list=PLncHg6Kn2JT6zw4JiFOE1z90ghnyrFl5B) - Hỏi Dân IT
+* [[2024] Học Next.js 14 miễn phí | Khóa học NextJs TypeScript siêu chi tiết | Được Dev](https://www.youtube.com/playlist?list=PLFfVmM19UNqn1ZIWvxn1artfz-C6dgAFb) - Được Dev
 
 
 ### NodeJS

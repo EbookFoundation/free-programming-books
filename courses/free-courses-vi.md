@@ -577,8 +577,14 @@
 
 ### TypeScript
 
+* [ES6 & TypeScript cho người mới bắt đầu](https://www.youtube.com/playlist?list=PLRhlTlpDUWswObIX8HNCSHWOpgvjMiMe2) - TEDU
+* [ReactJS và Typescript Cho Người Mới Bắt Đầu](https://www.youtube.com/playlist?list=PLnRJxWEhhmzpneEcZIZY_fs18OANMlxhA) - Ninedev
 * [TypeScript căn bản](https://www.youtube.com/playlist?list=PLv6GftO355AsQtYp_YrsqEihOCiNlZkCb) - ZendVN
 * [TypeScript căn bản (ES6)](https://tedu.com.vn/khoa-hoc/khoa-hoc-su-dung-typescript-can-ban-9.html) - TEDU
+* [Typescript cơ bản](https://www.youtube.com/playlist?list=PLeS7aZkL6GOtUGTQ81kfm3iGlRTycKjrZ) - Easy Frontend
+* [Tự Học Fullstack Next.js/Nest.js (TypeScript)](https://www.youtube.com/playlist?list=PLncHg6Kn2JT5009M5nlo_un6wlIHM-0HS) - Hỏi Dân IT
+* [Tự Học TypeScript Cơ Bản Từ A đến Z Cho Người Mới Bắt Đầu](https://www.youtube.com/playlist?list=PLncHg6Kn2JT5emvXmG6kgeGkrQjRqxsb4) - Hỏi Dân IT
+* [Tự học TypeScript 2021](https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-vTdKt2QdlCqoIKEFrWHx9l) - CodersX
 
 
 #### Angular

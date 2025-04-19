@@ -326,9 +326,15 @@
 
 #### Vue.js
 
+* [Demo Dự án Vue JS 3!](https://www.youtube.com/playlist?list=PL7akNQhSmpsYTQsV6jqZmmlLEu37IWA7f) - Tips Web Hay
+* [Học Vue JS 2 cơ bản](https://www.youtube.com/playlist?list=PLU4OBh9yHE95G_Y1cUVY-5Mc9P-rQBY3F) - RHP Team
 * [Học Vue js trong một video duy nhất](https://www.youtube.com/watch?v=j97QtHf0CHY) - Lập trình viên TV (Bùi Văn Nguyện)
+* [Khoá học Vuejs từ cơ bản đến nâng cao](https://www.youtube.com/playlist?list=PLwJIrGynFq9B_BQJZJi-ikWDDkYKVUpM5) - Tech Mely
 * [Lập trình VueJS](https://www.youtube.com/playlist?list=PLv6GftO355AtDjStqeyXvhA1oRLuhvJWf) - ZendVN - Học Lập Trình Online
+* [Series Tự học Vuejs 3 A - Z](https://www.youtube.com/playlist?list=PLieV0Y7g-FFy_hVCs3lf973Yo8_rsRGc0) - Tự học lập trình từ A đến Z
 * [Vue JS cơ bản](https://www.youtube.com/playlist?list=PLU4OBh9yHE95G_Y1cUVY-5Mc9P-rQBY3F) - RHP Team
+* [Vue js 3 Cơ Bản](https://www.youtube.com/playlist?list=PL7akNQhSmpsZUB7aP-ttyYVHHaKjn0W7P) - Tips Web Hay
+* [VueJS Dành Cho Người Mới Bắt Đầu 2024](https://www.youtube.com/playlist?list=PLnRJxWEhhmzrtVhPAzNCv4DbQk1R7_fS4) - Ninedev
 
 
 ### Machine-Learning

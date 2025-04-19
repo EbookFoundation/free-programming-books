@@ -33,6 +33,7 @@
 * [PHP](#php)
 * [PostgreSQL](#postgresql)
 * [Python](#python)
+* [R](#r)
 * [React](#react)
 * [Ruby](#ruby)
 * [Sass](#sass)
@@ -457,6 +458,17 @@
 * [Python Cơ Bản](https://www.youtube.com/playlist?list=PL33lvabfss1xczCv2BA0SaNJHu_VXsFtg) - Kteam
 * [Tự học lập trình python](https://www.youtube.com/playlist?list=PLPt6-BtUI22oGqQwAEF6xwrFL6aOjtHWl) - Gà Lại Lập Trình
 * [Tự học python cơ bản](https://www.youtube.com/playlist?list=PLUocOGc7RDEJAH2152KaiY9H8S-C8TvT-) - Gà Python
+
+
+### R
+
+* [Bài giảng về ngôn ngữ R](https://www.youtube.com/playlist?list=PLbRKZL7ww3qj1f1FjDE7Wl6tkZebPPrf2) - Nguyễn Văn Tuấn
+* [HƯỚNG DẪN SỬ DỤNG R ĐỂ XỬ LÝ DỮ LIỆU](https://www.youtube.com/playlist?list=PLCKFKYBfLgPU4mSgJ-5MhGDcki2UTBr2H) - DUC NGUYEN
+* [Hướng dẫn học R](https://www.youtube.com/playlist?list=PLMIaO-u3S5-jO2rMt8r8HD5ifiZv_Sd9O) - SciEco
+* [Hướng dẫn phần mềm thống kê R và R-studio](https://www.youtube.com/playlist?list=PLpDNYPX7w1RYuBxWT0blVTrmxyb9KfJMg) - Bài Học 10 Phút
+* [HỌC R SIÊU NHANH QUA CASE STUDY | R CRASH COURSE](https://www.youtube.com/playlist?list=PLCKFKYBfLgPV07MhYMoOMlazOSS7KwKuA) - DUC NGUYEN
+* [Phân tích dữ liệu bằng ngôn ngữ R](https://www.youtube.com/playlist?list=PLteVqnBNrrGWr8qmCJienB1ySL93aiIpW) - Chiến Tiên Nhân
+* [Thống kê trong R-Studio](https://www.youtube.com/playlist?list=PL9XZJEFXvG9E9HJn2n1Gu_TLAsVPc1MkJ) - Học một chút
 
 
 ### React

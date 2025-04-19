@@ -313,8 +313,15 @@
 
 #### jQuery
 
-* [jQuery Cơ Bản](https://www.codehub.com.vn/jQuery-Co-Ban) - Codehub
+* [Học Jquery](https://www.youtube.com/playlist?list=PLJz8fm2GRwfX6F-Ed8BFH7NH5K5Z4b02f) - Tiến Nguyễn
+* [Học jQuery cơ bản](https://www.youtube.com/playlist?list=PL75xdq9Y-GaQly0pFP2pFO8xYYfLQXjtG) - CiOne eLearning
+* [Học jQuery từ cơ bản đến nâng cao](https://www.youtube.com/playlist?list=PLuEp4OGUFN9s2Lw4msL-5xevemYEPcLCS) - Học online
+* [Học jQuery từ cơ bản đến nâng cao](https://www.youtube.com/playlist?list=PLjjB_k3ljmLRu_Xvtq7pxOEhgikS6xonm) - Ngọc Hoàng IT
+* [Khóa Học Lập Trình Jquery Với Project Thực Tế](https://www.youtube.com/playlist?list=PLttNL2ipMblsb9w03TUDAInwnH-bXaTft) - Coding Is Life
 * [Lập trình jQuery từ cơ bản đến nâng cao](https://www.youtube.com/playlist?list=PLRhlTlpDUWsyAGY7FDGSndEhOD3F2Ruhm) - TEDU
+* [Tự Học JQuery](https://www.youtube.com/playlist?list=PLepCFdNQOPNfY15_XAp-cRN3XrKYCvT-h) - T.A.N
+* [Tự học Jquery](https://www.youtube.com/playlist?list=PLJz8fm2GRwfX7ZbZGuOSpsdQ1BBdzsPeN) - Tiến Nguyễn
+* [jQuery Cơ Bản](https://www.codehub.com.vn/jQuery-Co-Ban) - Codehub
 
 
 #### Vue.js

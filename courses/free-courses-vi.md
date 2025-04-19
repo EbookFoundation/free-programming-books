@@ -26,6 +26,7 @@
 * [Kotlin](#kotlin)
 * [Machine-Learning](#machine-learning)
 * [MongoDB](#mongodb)
+* [MySQL](#mysql)
 * [NodeJS](#nodejs)
 * [Objective-C](#objective-c)
 * [PHP](#php)
@@ -367,6 +368,18 @@
 * [Mongo DB cơ bản](https://www.youtube.com/playlist?list=PLU4OBh9yHE94QAav7qIuaTtH9-pq39We8) - RHP Team
 * [MongoDB 2020](https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-vgHI_wNWPHKdiRwlgQXaTR) - CodersX
 * [Thực chiến Back-end NodeJS + MongoDB](https://www.youtube.com/playlist?list=PLP6tw4Zpj-RIMgUPYxhLBVCpaBs94D73V) - TrungQuanDev
+
+
+### MySQL
+
+* [Hiểu toàn bộ MySQL Database trong 1 giờ 42 phút](https://www.youtube.com/watch?v=TslBGnENTFw) - Trần Quốc Huy
+* [Học MySQL, học Database](https://www.youtube.com/playlist?list=PLoI3zgRgTJKbmTPE2em22aqed3412CO17) - Nguyễn Danh Tú
+* [Học SQL (sử dụng MySQL)](https://www.youtube.com/playlist?list=PLyxSzL3F7487f2BrlHKg87WlUEennWOKu) - TITV
+* [Học SQL Cơ Bản](https://www.youtube.com/playlist?list=PLE1qPKuGSJaDkQQB5vK7t7-PRIVjtqeHB) - thân triệu
+* [Học nhanh cơ sở dữ liệu (trên Mysql Workbench)](https://www.youtube.com/playlist?list=PLDYXQL9eThN4fvrP8J0ASHnxSKJFtkU-Q) - Huy Init
+* [Khoá học PHP & MYSQL bài bản từ A-Z](https://www.youtube.com/playlist?list=PL88QwC-jiH9ByYqO0mVStNEHB6QT24yx1) - Hienu
+* [Khóa học cơ sở dữ liệu Mysql](https://www.youtube.com/playlist?list=PLmGP0M1IXtjULXD1KUAf7Snkq9O0RMsYT) - Lê Vũ Nguyên Vlog
+* [Tự Học SQL cùng Vịt - Khóa Cơ Bản cho Người Mới Bắt Đầu](https://www.youtube.com/playlist?list=PL01fPqVNMdrmtcb_Yui_Oh23X_3laoZoO) - Vịt làm Data
 
 
 ### NodeJS

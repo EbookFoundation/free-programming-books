@@ -227,7 +227,10 @@
 
 * [Cách sử dụng Git trong THỰC TẾ \| Github](https://www.youtube.com/watch?v=O5uT6p6VWjY) - Ông Dev
 * [Git - from Zero to Hero](https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-viFVtaVps_h_Emi2wQyE7q) - CodersX
+* [Git Siêu Căn Bản Cho Người Mới Bắt Đầu Từ Z Đến A với Hỏi Dân IT](https://www.youtube.com/playlist?list=PLncHg6Kn2JT6nWS9MRjSnt6Z-9Rj0pAlo) - Hỏi Dân IT
+* [Học Git và Github](https://www.youtube.com/playlist?list=PLyxSzL3F7485Xgn7novgNxnou8QU6i485) - TITV
 * [Quản lý source code trong dự án với GIT](https://tedu.com.vn/khoa-hoc/quan-ly-source-code-trong-du-an-voi-git-8.html) - TEDU
+* [Tóm tắt toàn diện về việc sử dụng Git và quy trình làm việc của GitFlow và sếp yêu cầu tôi phải học](https://www.youtube.com/watch?v=vQgcl8VouLU) - Tips Javascript
 * [Từ gà tới pro Git và Github trong 20 phút - Tự học Git siêu tốc](https://www.youtube.com/watch?v=1JuYQgpbrW0) - Phạm Huy Hoàng (toidicodedao)
 
 

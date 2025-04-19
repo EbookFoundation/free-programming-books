@@ -143,6 +143,23 @@
 * [Series Con trỏ trong C](http://diendan.congdongcviet.com/threads/t42977::tim-hieu-ban-chat-cua-con-tro-tu-co-ban-den-nang-cao.cpp) - Cộng đồng C Việt
 
 
+### <a id="cpp"></a>C++
+
+* [Học C++ cơ bản | Học lập trình C++ cơ bản](https://www.youtube.com/playlist?list=PLZEIt444jqpD6NUtMg5X6Y3T4lYqcudO9) - Son Nguyen
+* [Học lập trình C++ (CŨ Cmnr)](https://www.youtube.com/playlist?list=PLE1qPKuGSJaB3x2P8vAob9V1BIEp9VYwp) - thân triệu
+* [Học lập trình C++ cho người mới bắt đầu](https://www.youtube.com/playlist?list=PLh91SaQgRYnp-NC3WnFDMWQV40a6m61Hr) - Lập Trình Không Khó
+* [Khoá học lập trình C++ từ cơ bản đến nâng cao](https://www.youtube.com/playlist?list=PLE1qPKuGSJaD7sejCSC8ivSueeesNFyov) - thân triệu
+* [Khóa học Lập trình C++ từ cơ bản đến nâng cao](https://www.youtube.com/playlist?list=PLzQuu4-Qxlh6xm5_uswCkfkudKs00dsNK) - Học Công Nghệ
+* [LẬP TRÌNH C++ TỪ CƠ BẢN ĐẾN NÂNG CAO](https://www.youtube.com/playlist?list=PLqfkD788zZGCmOyQaymJv4G-au94QqBLj) - Tờ Mờ Sáng học Lập trình
+* [Lập Trình Game C++ SDL](https://www.youtube.com/playlist?list=PLR7NDiX0QsfQQ2iFXsXepwH46wf3D4Y4C) - Phát Triển Phần Mềm 123A-Z
+* [Lập trình C++ cơ bản - HowKteam](https://www.youtube.com/playlist?list=PL33lvabfss1xagFyyQPRcppjFKMQ7lvJM) - K team
+* [Lập trình C++ cơ bản 2023 | Tự học lập trình C++ siêu dễ hiểu cho người mới](https://www.youtube.com/playlist?list=PLPt6-BtUI22rZ-lB276VBY85mUNeIFJf5) - Gà Lại Lập Trình
+* [Lập trình C++ từ cơ bản tới nâng cao](https://www.youtube.com/playlist?list=PL_-VfJajZj0Uo72G_6tSY4NRLpmffeXSA) - F8 Official
+* [Lập trình C++ từ cơ bản tới nâng cao](https://www.youtube.com/playlist?list=PLjnaYcKy3HzOq4SkNVvXQ1FaXk9QlEkaq) - Minh Quang
+* [Lập trình căn bản C/C++](https://www.youtube.com/playlist?list=PLimFJKGsbn1lG2-vNW57FyESDlT-_F2QQ) - Thien Tam Nguyen
+* [Ngôn Ngữ Lập trình C++](https://www.youtube.com/playlist?list=PLux-_phi0Rz0Hq9fDP4TlOulBl8APKp79) - 28tech
+
+
 ### <a id="csharp"></a>C\#
 
 * [C# Căn Bản](https://www.youtube.com/playlist?list=PL33lvabfss1wUj15ea6W0A-TtDOrWWSRK) - Kteam

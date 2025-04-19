@@ -536,11 +536,16 @@
 
 ### SQL
 
+* [Hiểu toàn bộ MySQL Database trong 1 giờ 42 phút](https://www.youtube.com/watch?v=TslBGnENTFw) - Trần Quốc Huy
+* [Hướng dẫn học SQL siêu dễ hiểu](https://www.youtube.com/watch?v=XQbBW4atzr8) - Maz Học Data
 * [Học SQL Cơ Bản](https://www.youtube.com/playlist?list=PLE1qPKuGSJaDkQQB5vK7t7-PRIVjtqeHB) - Thân Triệu
 * [Học SQL Cơ Bản](https://www.codehub.com.vn/Hoc-SQL) - Codehub
 * [Lập trình SQL Server căn bản](https://tedu.com.vn/khoa-hoc/lap-trinh-sql-server-can-ban-6.html) - TEDU
 * [SQL](https://www.youtube.com/playlist?list=PLiyVagO7GfBEOReFCMbcffzkgfWaGl-AN) - J2Team
 * [SQL Cơ Bản](https://www.youtube.com/playlist?list=PL33lvabfss1xnFpWQF6YH11kMTS1HmLsw) - Kteam
+* [Tự Học SQL Cơ Bản Đến Nâng Cao](https://www.youtube.com/playlist?list=PLavGKPtOxApM2hfcLdIU3mVWIo5G2ZX2a) - Test Mentor
+* [Tự Học SQL cùng Vịt - Khóa Cơ Bản cho Người Mới Bắt Đầu](https://www.youtube.com/playlist?list=PL01fPqVNMdrmtcb_Yui_Oh23X_3laoZoO) - Vịt làm Data
+* [Tự học SQL - Ngôn ngữ SQL](https://www.youtube.com/playlist?list=PLv6GftO355AtXdxv1WLgxmorw3OMesoS7) - ZendVN
 
 
 ### Swift

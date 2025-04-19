@@ -64,9 +64,18 @@
 
 ### ASP
 
+* [ASP.NET Core Web API](https://www.youtube.com/playlist?list=PLE5Bje814fYbhdwSHiHN9rlwJlwJ2YD3t) - HIENLTH Channel
+* [C.51 - .NET Core - Angular 12 - Quản Lý Nhà Hàng](https://www.youtube.com/playlist?list=PLiNjao7yG415y_J0G21QUc40akV2vRntP) - Code là Ghiền
 * [Làm dự án với ASP.NET Core 3.1](https://tedu.com.vn/khoa-hoc/lam-du-an-voi-aspnet-core-31-34.html) - TEDU
+* [Làm dự án với ASP.NET Core 3.1](https://www.youtube.com/playlist?list=PLRhlTlpDUWsyN_FiVQrDWMtHix_E2A_UD) - TEDU
 * [Lập trình ASP.NET Core từ căn bản đến nâng cao](https://tedu.com.vn/khoa-hoc/lap-trinh-aspnet-core-tu-co-ban-den-nang-cao-33.html) - TEDU
+* [Lập trình ASP.NET MVC Core](https://www.youtube.com/playlist?list=PLwJr0JSP7i8DXGzj8NgnhOApBMRhWD4J-) - XuanThuLab
+* [Lập trình ASP.NET MVC Core cơ bản](https://www.youtube.com/playlist?list=PLRhlTlpDUWsxSup77UnO2pWEkr4ahTohJ) - TEDU
 * [Lập trình dự án Website bán hàng ASP.NET MVC 4](https://tedu.com.vn/khoa-hoc/lap-trinh-du-an-website-ban-hang-aspnet-mvc-4-1.html) - TEDU
+* [Web bán hàng ASP.NET Core 6 to 8 EF MVC](https://www.youtube.com/playlist?list=PLWTu87GngvNzYGOXJnXQwlkdhV6_RWs1b) - Hiếu Tutorial with live project
+* [Website Thương mại Điện tử với ASP.NET Core MVC](https://www.youtube.com/playlist?list=PLE5Bje814fYbtRxvDgmWJ6fUpIZXtbNrb) - HIENLTH Channel
+* [Xây dựng Backend ứng dụng chứng khoán với ASP .NET Core 7 Api và Websocket](https://www.youtube.com/watch?v=hNoCIW4iM10) - Nguyen Duc Hoang
+* [Xây dựng ứng dụng web với ASP.NET Core](https://www.youtube.com/playlist?list=PLRhlTlpDUWsyP9PB1yrhNAYI7LC6yr4tZ) - TEDU
 
 
 ### AutoIt

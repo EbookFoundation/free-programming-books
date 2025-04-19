@@ -40,6 +40,7 @@
 * [Sass](#sass)
 * [Security](#security)
 * [SQL](#sql)
+* [SQL Server](#sql-server)
 * [Swift](#swift)
 * [TypeScript](#typescript)
     * [Angular](#angular)
@@ -546,6 +547,15 @@
 * [Tự Học SQL Cơ Bản Đến Nâng Cao](https://www.youtube.com/playlist?list=PLavGKPtOxApM2hfcLdIU3mVWIo5G2ZX2a) - Test Mentor
 * [Tự Học SQL cùng Vịt - Khóa Cơ Bản cho Người Mới Bắt Đầu](https://www.youtube.com/playlist?list=PL01fPqVNMdrmtcb_Yui_Oh23X_3laoZoO) - Vịt làm Data
 * [Tự học SQL - Ngôn ngữ SQL](https://www.youtube.com/playlist?list=PLv6GftO355AtXdxv1WLgxmorw3OMesoS7) - ZendVN
+
+
+### SQL Server
+
+* [Học SQL Server trong 60 phút - 2023](https://www.youtube.com/watch?v=alqEF4I23nw) - Trần Quốc Huy
+* [Khóa học SQL Server cho người mới (2023)](https://www.youtube.com/playlist?list=PLyxSzL3F7484deka_j1czssCiHygV6oF-) - TITV
+* [Tự Học SQL Server Cơ Bản](https://www.youtube.com/playlist?list=PLyOUYAtDpqrfVUnjw5h0kG5a2-b9sHNKd) - Học Viện Công nghệ MCI
+* [Tự học Microsoft SQL Server](https://www.youtube.com/playlist?list=PLNJklplv9g14lsZqtDd879kdyrs02NlBx) - 1Click2beDBA
+* [[SQL Server] Khóa học sử dụng SQL server](https://www.youtube.com/playlist?list=PL33lvabfss1xnFpWQF6YH11kMTS1HmLsw) - K team
 
 
 ### Swift

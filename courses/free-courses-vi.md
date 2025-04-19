@@ -638,9 +638,18 @@
 
 ### Wordpress
 
+* [Học WordPress 4 cơ bản (2015)](https://www.youtube.com/playlist?list=PLl4nkmb3a8w3EEFbxkPjd6snE11eAPh5e) - Thạch Phạm
+* [Học WordPress cơ bản cho người mới bắt đầu tự làm website](https://www.youtube.com/playlist?list=PL8tBvUxXM0tww5FCbQcCuKVlDxEjlyiau) - Digital Marketing IMTA
+* [Học thiết kế Website Wordpress từ A đến Z](https://www.youtube.com/playlist?list=PLFsfDLNKS58x01diBZc-jrRWukDdSWI4z) - Học WordPress
+* [Lập trình WordPress 2023](https://www.youtube.com/playlist?list=PL0-Cg8lpmCm3lBsQ6dciJGU4e7oNs-S5w) - Quảng Trị Coder
+* [Tự học WordPress Online - Cài đặt và sử dụng WordPress CMS](https://www.youtube.com/playlist?list=PLv6GftO355As7yY0I6-fDZOHKatBjq9jI) - ZendVN
+* [Tự học Wordpress](https://www.youtube.com/playlist?list=PLyxSzL3F7487-LYICz9nzlbQ5XJxFQPoI) - TITV
+* [Tự học làm website WordPress 2023 (Module nền tảng + làm blog cá nhân)](https://www.youtube.com/playlist?list=PLoNIfk8yyjz6Z-r6s8oksoB0xo4NUsMQN) - Võ Thanh Duy
 * [WordPress Cơ Bản](https://www.youtube.com/playlist?list=PLl4nkmb3a8w3qzoFaXLsPohofWUMTOHBU) - Thạch Phạm
 * [WordPress Nâng Cao](https://www.youtube.com/playlist?list=PLl4nkmb3a8w3qzoFaXLsPohofWUMTOHBU) - Thạch Phạm
+* [WordPress Tinh Gọn 2024](https://www.youtube.com/playlist?list=PLl4nkmb3a8w2Z_sEJv_0xoXIHWMfhEw76) - Thạch Phạm
 * [Xây dựng Plugin Wordpress căn bản](https://www.youtube.com/playlist?list=PLv6GftO355AucJ4Td8_6h007nQuVJQsPN) - ZendVN
+* [học thiết kế web bằng wordpress](https://www.youtube.com/playlist?list=PLSYhjar46cY7AAFWKqXfilAHfhdizCoAQ) - Richard Quang
 
 
 ### XML

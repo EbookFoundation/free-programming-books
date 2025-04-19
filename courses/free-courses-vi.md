@@ -443,10 +443,20 @@
 
 ### Python
 
+* [Khóa học Lập trình Game với Python](https://www.youtube.com/playlist?list=PLzQuu4-Qxlh47gX_HnqKSJIycFNekP79m) - Học Công Nghệ
+* [Khóa học Lập trình Python cơ bản cho người mới bắt đầu](https://youtu.be/cZQ6m3W4OU4?si=p0sZRZfvW-YygFrp) - Tờ Mờ Sáng học Lập trình
+* [Khóa học Lập trình Python từ Cơ bản đến Nâng cao](https://www.youtube.com/playlist?list=PLzQuu4-Qxlh44nsjdQH2quvfKePtAaI3_) - Học Công Nghệ
+* [Khóa học Python cơ bản và nâng cao](https://www.youtube.com/playlist?list=PLSpCQre3PzmWlodvqNcr0lg_10Bil8oF7) - Lập trình Python
+* [LẬP TRÌNH PYTHON CƠ BẢN](https://www.youtube.com/playlist?list=PLqfkD788zZGDjIctPlbff9doS_KTXOyDc) - Tờ Mờ Sáng học Lập trình
+* [LẬP TRÌNH PYTHON TỪ CƠ BẢN TỚI NÂNG CAO](https://www.youtube.com/playlist?list=PLux-_phi0Rz0Ngc01o_GYe0JUGjL1yIAm) - 28tech
+* [Lập Trình Python](https://www.youtube.com/playlist?list=PLKzXIbeO5pQ0J2boMB4btE7VDs7gP8vdl) - Dũng Lại Lập Trình
+* [Lập trình Python cơ bản cho người mới bắt đầu](https://www.youtube.com/playlist?list=PLyxSzL3F7486SaHaQayPdKJUScVFh1UwA) - TITV
 * [Lập trình website với Python Django](https://www.youtube.com/playlist?list=PL33lvabfss1z8GYxjyMulCnhcYGk5ah8P) - Kteam
 * [Python Cơ Bản](https://www.codehub.com.vn/Python-Co-Ban) - Codehub
 * [Python Cơ Bản](https://www.youtube.com/playlist?list=PLyiioioEJSxEh_S_XFvG0d2xKRMSWLfN_) - Dạy Nhau Học
 * [Python Cơ Bản](https://www.youtube.com/playlist?list=PL33lvabfss1xczCv2BA0SaNJHu_VXsFtg) - Kteam
+* [Tự học lập trình python](https://www.youtube.com/playlist?list=PLPt6-BtUI22oGqQwAEF6xwrFL6aOjtHWl) - Gà Lại Lập Trình
+* [Tự học python cơ bản](https://www.youtube.com/playlist?list=PLUocOGc7RDEJAH2152KaiY9H8S-C8TvT-) - Gà Python
 
 
 ### React

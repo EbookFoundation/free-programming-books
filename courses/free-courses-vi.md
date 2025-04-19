@@ -211,7 +211,16 @@
 
 ### Flutter
 
+* [Flutter Tutorial 2021 for Beginners: English App | Flutter Lab](https://www.youtube.com/playlist?list=PLFcgubjtcw5U-Y6z1gpR02ebF-jyLoyga) - 200Lab
+* [Flutter Từ Cơ Bản Đến Nâng Cao 2024 - 2025](https://www.youtube.com/playlist?list=PLE1qPKuGSJaAmSo-tC02ugcyttOcsK7C9) - thân triệu
 * [Flutter căn bản](https://tedu.com.vn/khoa-hoc/xay-dung-ung-dung-mobile-voi-flutter-can-ban-31.html) - TEDU
+* [Lập trình Flutter - thiết bị di động](https://www.youtube.com/playlist?list=PLyxSzL3F7484qhNw1K08o8kDn8ecCpA_j) - TITV
+* [Lập trình di động Flutter (Mobile Development Flutter)](https://www.youtube.com/playlist?list=PLZqHbMxF8mzbcMAjOtClkRcEIkhvV3ZtL) - Dummy Fresher
+* [Lập trình di động với Flutter](https://www.youtube.com/playlist?list=PLv6GftO355AsxyLjGVkpOmN8DUbcPdIBv) - ZendVN - Học Lập Trình Online
+* [Lập trình di động với Flutter căn bản](https://www.youtube.com/playlist?list=PLRhlTlpDUWsxWhGA4jTr0oGeNs7xYyDPW) - TEDU
+* [Tự học Flutter 2020](https://www.youtube.com/playlist?list=PLWBrqglnjNl3DzS2RHds5KlanGqQ1uLNQ) - Nguyen Duc Hoang
+* [Tự học lập trình Flutter 2023](https://www.youtube.com/playlist?list=PL3Ob3F0T-08brnWfs8np2ROjICeT-Pr6T) - TinCoder
+* [Xây dựng ứng dụng Flutter thực tế.](https://www.youtube.com/playlist?list=PLFDupNa8166hj4TEZcq3_za4GirSiawzN) - Chàng Dev Mobile
 
 
 ### Git

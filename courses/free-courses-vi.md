@@ -561,12 +561,18 @@
 ### Swift
 
 * [Hướng dẫn làm app bản đồ với MapKit](https://www.youtube.com/playlist?list=PL4VEtQ6PTTQGCgMhgVx7zbyVj6HIC8aPH) - Ide Academy
+* [Hướng dẫn lập trình Swift iOS từ A đến Z](https://www.youtube.com/playlist?list=PLRb-vAn1juPSOsB7sUhs6QYLkMg1mYawl) - Thạch Phạm Dev
 * [Kỹ thuật làm app camera scan QR code](https://www.youtube.com/playlist?list=PL4VEtQ6PTTQGKBD6EVZXqPZr_YUbxXBMM) - Ide Academy
+* [Lập trình iOS - Swift](https://www.youtube.com/playlist?list=PLBgIyLVk3GlT07wf1UPCDg6duV2iDKVbu) - laptrinh0kho
 * [Lập trình iOS cơ bản với Swift 3 và Xcode 8](https://www.youtube.com/playlist?list=PLzrVYRai0riSlAocQR3BvHCtEhcKa204E) - Khoa Phạm
+* [Lập trình iOS với SwiftUI](https://www.youtube.com/playlist?list=PLBgIyLVk3GlSGQ68t3Qvfqg_x_RacLXje) - laptrinh0kho
+* [Swift - Tổng quan](https://www.youtube.com/playlist?list=PLR1-CgtL7hK6bbuXUSgAKZveZsKa2tehl) - Dev Step by Step
 * [Swift 3 Căn Bản](https://www.youtube.com/playlist?list=PL4VEtQ6PTTQFCBxdxUIS3h6h7wSTEHrPu) - Ide Academy
 * [Swift Căn Bản](https://www.youtube.com/playlist?list=PLq6u-dSlAr2QBxCn8pbcCK2cE8PMdbar8) - Gramy
 * [Tổng hợp các vấn đề mới và hóc búa trong Swift](https://www.youtube.com/playlist?list=PL4VEtQ6PTTQGMYPnBh-2MqKhvWcPg9oNk) - Ide Academy
 * [Tổng hợp kỹ thuật làm app với Swift 3.x và XCode 8](https://www.youtube.com/playlist?list=PL4VEtQ6PTTQEsxWUwqkwbjZfXGTdMpb6T) - Ide Academy
+* [Tự Học Swift iOS](https://www.youtube.com/playlist?list=PLOxRl_MBrBg9plgHWtA2R62CRzRPW7Pvq) - Học Lập Trình Cho Người Mới
+* [Tự học và xây dựng 10 ứng dụng IOS với SWIFT](https://www.youtube.com/playlist?list=PLw0_ti13tferyQFB7pJpqbk5mFOjJsyU9) - Thích Code
 
 
 ### TypeScript

@@ -284,10 +284,22 @@
 
 ### JavaScript
 
+* [Cafedev - Series tự học Javascript từ cơ bản tới nâng cao](https://www.youtube.com/playlist?list=PLq3KxntIWWrJ-YMciMrAqgXWjZIJyje1b) - cafedev
+* [Học JavaScript](https://www.youtube.com/playlist?list=PLqQ6Lvascx2tbLuhCg3E1nC1qcHrckpue) - HoleTex
+* [Học JavaScript](https://www.youtube.com/playlist?list=PLE1qPKuGSJaDd2AiY_FkSJ2TVyuDal_k8) - thân triệu
+* [Học Javascript cùng F8](https://www.youtube.com/playlist?list=PLwJIrGynFq9APduetgi3l9xehOCZCTZEG) - Tech Mely
 * [JavaScript A-Z 2020](https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-uPZnTdScfuH0xD-O6Kb-V-) - CodersX
 * [JavaScript Advanced 2020](https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-tVbSFcv-p1yOaHiG8fo0kP) - CodersX
 * [JavaScript Cơ Bản](https://www.codehub.com.vn/JavaScript-Co-Ban) - Codehub
+* [JavaScript siêu tốc - Khóa học lập trình JavaScript từ cơ bản đến nâng cao](https://www.youtube.com/playlist?list=PLPt6-BtUI22pYwpfmkP4EuJkf6GRe63KU) - Gà Lại Lập Trình
+* [Javascript Cơ Bản](https://www.youtube.com/playlist?list=PL_-VfJajZj0VgpFpEVFzS5Z-lkXtBe-x5) - F8 Official
+* [Khóa học Javascript siêu dễ 2023 - Lập trình thật dễ](https://www.youtube.com/playlist?list=PL_QEvEi9neNS1rdD8jeQR0xP0EZEiSELT) - Lập trình thật dễ
+* [Tutorial học Javascript cơ bản thông qua dự án](https://www.youtube.com/playlist?list=PLZdbOLxIxNPCw1ljJRlpBTEFtbNPpvKsP) - Thầy Hoàng JS (phecode)
+* [Tự Học JavaScript Nâng Cao -  Modern JavaScript Từ A đến Z Cho Beginners](https://www.youtube.com/playlist?list=PLncHg6Kn2JT4eGJ__iQv6BrvL_YnZLHyX) - Hỏi Dân IT
+* [Tự Học Javascript Cơ Bản Từ A đến Z Cho Người Mới Bắt Đầu với Hỏi Dân IT](https://www.youtube.com/playlist?list=PLncHg6Kn2JT5dfQqpVtfNYvv3EBVHHVKo) - Hỏi Dân IT
 * [Tự Học Thiết Kế Website với HTML, CSS và JavaScript](https://www.codehub.com.vn/Tu-Hoc-Thiet-Ke-Website-voi-HTML-CSS-va-JavaScript/Tao-Hieu-Ung-Accordion) - Codehub
+* [Tự học Javascript - Lập trình Javascript](https://www.youtube.com/playlist?list=PLv6GftO355AvAl13CUVcVvWu0hOZnpfW8) - ZendVN
+* [🔥 Javascript cho người mới bắt đầu 🚀](https://www.youtube.com/playlist?list=PLeS7aZkL6GOtpuqMKVTfS37RNTlkolLCk) - Easy Frontend
 
 
 #### AngularJS

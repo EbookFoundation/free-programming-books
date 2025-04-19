@@ -506,6 +506,10 @@
 
 ### Sass
 
+* [Khóa Học Lập Trình SASS](https://www.youtube.com/playlist?list=PLIRbquK6vGyf7sCUAGAYFOrS-kgbBc-O1) - IT News
+* [Khóa Học Lập Trình SCSS Từ Căn Bản Đến Nâng Cao](https://www.youtube.com/playlist?list=PLJ5qtRQovuEMWzLVs3iuwcNsWeElizTwF) - Nghiep Phan
+* [Khóa học lập trình CSS và SASS nâng cao cho website Landing Page 2019](https://www.youtube.com/playlist?list=PL33lvabfss1wstoZNI8szds9s0ESVbuqs) - K team
+* [SASS](https://www.youtube.com/playlist?list=PLw_erwgZq4-EGs9VEEKROpDbjCuzgx01W) - ZenDvn
 * [Sass Cơ Bản](https://www.youtube.com/playlist?list=PLzrVYRai0riSWPPRE6Ib99zd5fV4YYH0Q) - Khoa Phạm
 * [Tự Học Sass](https://www.youtube.com/playlist?list=PLv6GftO355AtWld1EE7SBAH-OkKKt23Bb) - ZendVN
 

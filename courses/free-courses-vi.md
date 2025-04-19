@@ -491,6 +491,8 @@
 ### Ruby
 
 * [Học Ruby on Rails Căn Bản](https://www.udemy.com/course/hoc-ruby-on-rails-can-ban) - Udemy
+* [Học Ruby on Rails Căn Bản](https://www.youtube.com/playlist?list=PLFoXG6w6FhAp8WtQ7GicFWfILjdegaNET) - Luân Nguyễn Thành
+* [Từ ruby tới rails 2022](https://www.youtube.com/playlist?list=PL2hl9DVcc5u1f2uhSYko6Ea3bdaI_BGeB) - Lupca
 
 
 ### Sass

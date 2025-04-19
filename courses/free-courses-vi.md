@@ -256,6 +256,8 @@
 * [HTML Cơ Bản](https://www.codehub.com.vn/HTML-Co-Ban) - Codehub
 * [HTML Cơ Bản](https://www.youtube.com/playlist?list=PLl4nkmb3a8w135_M4YRPzYD9_6tERz3ce) - Thạch Phạm
 * [HTML Dành Cho Lập Trình Viên Web](https://zendvn.com/mien-phi-html-danh-cho-lap-trinh-vien-web-68) - Nguyen Van Linh (ZendVN)
+* [HTML, CSS cơ bản dễ hiểu- học lập trình online miễn phí](https://www.youtube.com/playlist?list=PLPt6-BtUI22oveeGAyckbAXRSmTBGLZP4) - Gà Lại Lập Trình
+* [HTML, CSS từ Zero Tới Hero](https://www.youtube.com/playlist?list=PL_-VfJajZj0U9nEXa4qyfB4U5ZIYCMPlz) - F8 Official
 * [Tự Học Thiết Kế Website với HTML và CSS](https://www.codehub.com.vn/Tu-Hoc-Thiet-Ke-Website-voi-HTML-va-CSS) - Codehub
 
 

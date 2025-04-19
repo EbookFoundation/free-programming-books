@@ -93,7 +93,14 @@
 
 ### AutoIt
 
+* [Auto Game Tutorial](https://www.youtube.com/playlist?list=PLlhlxkw8o0Ga8Vg3Sw5iXHubFxoOvV6aq) - Tool By Autoit
+* [AutoIT - Cách làm Auto Chuột và Bàn Phím](https://www.youtube.com/playlist?list=PLNeDQQ_ukvRpn7NfdLvtQ9PgVJfkNEsAr) - LeeSai
+* [Học AutoIT](https://www.youtube.com/playlist?list=PLYi1bpA-AvSC7cGGZTTwLXP4azlMaUVKN) - nghịch máy tính
+* [Học AutoIT - Auto game BoomOnline](https://www.youtube.com/playlist?list=PLMz2PqxT4j96uqILfWfypxsUPz9UiZZOM) - Triển IS Official
+* [Học Cheat Engine với AutoIT](https://www.youtube.com/playlist?list=PLNeDQQ_ukvRrPcOXOQW47aalcFM9T8wIw) - LeeSai
+* [Học lập trình Auto game bằng AutoIT](https://www.youtube.com/playlist?list=PLAFIcN_lkOfDP78ug2IhgO0heMJ9N2Kxl) - LongHai Auto
 * [Học lập trình AutoIt](https://j2team.teachable.com/p/hoc-lap-trinh-autoit) - J2TEAM *yêu cầu đăng ký*
+* [Học lập trình AutoIt từ cơ bản đến nâng cao](https://www.youtube.com/playlist?list=PLRqrlsp_0RPWgxqRv5vlXFFpa3s4VA7zZ) - J2TEAM
 
 
 ### Bash

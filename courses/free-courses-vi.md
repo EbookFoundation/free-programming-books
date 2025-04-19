@@ -23,6 +23,7 @@
     * [AngularJS](#angularjs)
     * [jQuery](#jquery)
     * [Vue.js](#vuejs)
+* [Kotlin](#kotlin)
 * [Machine-Learning](#machine-learning)
 * [MongoDB](#mongodb)
 * [NodeJS](#nodejs)
@@ -335,6 +336,14 @@
 * [Vue JS cơ bản](https://www.youtube.com/playlist?list=PLU4OBh9yHE95G_Y1cUVY-5Mc9P-rQBY3F) - RHP Team
 * [Vue js 3 Cơ Bản](https://www.youtube.com/playlist?list=PL7akNQhSmpsZUB7aP-ttyYVHHaKjn0W7P) - Tips Web Hay
 * [VueJS Dành Cho Người Mới Bắt Đầu 2024](https://www.youtube.com/playlist?list=PLnRJxWEhhmzrtVhPAzNCv4DbQk1R7_fS4) - Ninedev
+
+
+### Kotlin
+
+* [Android với kolin cho người mới](https://www.youtube.com/playlist?list=PLPt6-BtUI22qf3KE1V1PyAm1v8M2qqwL5) - Gà Lại Lập Trình
+* [Học Android + Kotlin cơ bản](https://www.youtube.com/playlist?list=PLpgD-OxlvlqFNyyaFlan2-WTtSaBkWllm) - Xin chào, mình là Sữa
+* [Lập trình Android với Kotlin full tại Khoa Phạm](https://www.youtube.com/playlist?list=PLzrVYRai0riRFcvx8VYTF7fx4hXbd_nhU) - Khoa Phạm
+* [Lập trình Kotlin từ cơ bản đến nâng cao](https://www.youtube.com/playlist?list=PLn9lhDYvf_3E_5JZ-1jlk67o9101Lu9N6) - Anh Nguyen Ngoc
 
 
 ### Machine-Learning

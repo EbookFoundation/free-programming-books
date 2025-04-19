@@ -106,6 +106,8 @@
 ### Bash
 
 * [Khóa học Bash Shell cơ bản cho người mới](https://nguyenvanhieu.vn/hoc-bash-shell-co-ban)
+* [Lập trình Bash Shell Script cơ bản](https://www.youtube.com/playlist?list=PLcW6QFb7l0G7ukw6LBcPJbvxbFhgfX9-S) - Curry
+* [SHELL/BASH](https://www.youtube.com/playlist?list=PL1HxRSJMOMPKOJhefnyfYLICczYTiUGaK) - Toan Nguyen
 
 
 ### Blazor

@@ -12,6 +12,7 @@
 * [C++](#cpp)
 * [C#](#a-idcsharpac)
 * [Cấu trúc dữ liệu và Giải thuật](#cấu-trúc-dữ-liệu-và-giải-thuật)
+* [Dart](#dart)
 * [Flutter](#flutter)
 * [Git](#git)
 * [Go](#go)
@@ -185,6 +186,13 @@
 
 * [Cấu trúc dữ liệu và Giải thuật](https://www.youtube.com/playlist?list=PLoaAbmGPgTSNMAzkKBHkh2mLuBk54II5L) - Ông Dev
 * [Danh sách những tài liệu hay về Thuật toán và Lập trình thi đấu](https://github.com/tmsanghoclaptrinh/tmsang-hoc-thuat-toan) - Tờ Mờ Sáng học Lập trình
+
+
+### Dart
+
+* [Lập trình Dart](https://www.youtube.com/playlist?list=PLRoAKls-7kksChE3OhiE2iAeCa7h1kk5k) - Migolab
+* [Lập trình Dart](https://www.youtube.com/playlist?list=PLanHRxSQZoQEs0ApO55id4KGyXUjPReQA) - Coder Studio
+* [Lập trình ngôn ngữ Dart | Flutter cơ bản](https://www.youtube.com/playlist?list=PLRnNjVSYDePhLyD_bKgQnEGyL6R2-fKU1) - Tùng Sugar
 
 
 ### Flutter

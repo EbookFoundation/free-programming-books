@@ -36,6 +36,7 @@
 * [R](#r)
 * [React](#react)
 * [Ruby](#ruby)
+* [Rust](#rust)
 * [Sass](#sass)
 * [SQL](#sql)
 * [Swift](#swift)
@@ -493,6 +494,14 @@
 * [Học Ruby on Rails Căn Bản](https://www.udemy.com/course/hoc-ruby-on-rails-can-ban) - Udemy
 * [Học Ruby on Rails Căn Bản](https://www.youtube.com/playlist?list=PLFoXG6w6FhAp8WtQ7GicFWfILjdegaNET) - Luân Nguyễn Thành
 * [Từ ruby tới rails 2022](https://www.youtube.com/playlist?list=PL2hl9DVcc5u1f2uhSYko6Ea3bdaI_BGeB) - Lupca
+
+
+### Rust
+
+* [LẬP TRÌNH RUST](https://www.youtube.com/playlist?list=PLFnEYduGTiXE2ejxmzTIraP2feI-pmeuw) - Jayden Dang
+* [Lập trình cơ bản Rust](https://www.youtube.com/playlist?list=PLOB8_oGJl40SPgVOMJ6ivoEgmSvTiSdNQ) - Nguyen Tuan Dung
+* [Rust](https://www.youtube.com/playlist?list=PLbVzvoeVj6gTQvZq46tqqvDQ8d5WZbBPT) - Nỡm
+* [Rust Back-End - Microservices | Server High Performance](https://www.youtube.com/playlist?list=PLFnEYduGTiXEPQ1pVCcg5zxgBS4RwM6wd) - Jayden Dang
 
 
 ### Sass

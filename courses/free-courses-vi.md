@@ -13,6 +13,7 @@
 * [C#](#a-idcsharpac)
 * [Cấu trúc dữ liệu và Giải thuật](#cấu-trúc-dữ-liệu-và-giải-thuật)
 * [Dart](#dart)
+* [ExpressJS](#expressjs)
 * [Flutter](#flutter)
 * [Git](#git)
 * [Go](#go)
@@ -193,6 +194,19 @@
 * [Lập trình Dart](https://www.youtube.com/playlist?list=PLRoAKls-7kksChE3OhiE2iAeCa7h1kk5k) - Migolab
 * [Lập trình Dart](https://www.youtube.com/playlist?list=PLanHRxSQZoQEs0ApO55id4KGyXUjPReQA) - Coder Studio
 * [Lập trình ngôn ngữ Dart | Flutter cơ bản](https://www.youtube.com/playlist?list=PLRnNjVSYDePhLyD_bKgQnEGyL6R2-fKU1) - Tùng Sugar
+
+
+### ExpressJS
+
+* [ExpressJS & NodeJS - Xây dựng hệ thống server chuẩn RESTFUL, xác thực phân quyền làm blog cá nhân](https://www.youtube.com/playlist?list=PLodO7Gi1F7R1GMefX_44suLAaXnaNYMyC) - Nodemy
+* [Học Nodejs cùng F8](https://www.youtube.com/playlist?list=PLwJIrGynFq9BZto5VvKw7OEDNxN6plq_3) - Tech Mely
+* [Khóa học Fullstack SERN (SQL, Express.js, React.js, Node.js)](https://www.youtube.com/playlist?list=PLncHg6Kn2JT6E38Z3kit9Hnif1xC_9VqI) - Hỏi Dân IT
+* [Khóa học Xây dựng Rest API với Nodejs, Express và MongoDB](https://www.youtube.com/playlist?list=PLRhlTlpDUWsz4IwOpkEmtgwAom3Puw8rx) - TEDU
+* [MERN Stack (MongoDB, Express, React, Node.js)- Lập trình web bán hàng fullstack](https://www.youtube.com/playlist?list=PL_QEvEi9neNSOGrmYOZSYFk9DpYr-Zd9p) - Lập trình thật dễ
+* [NodeJS & ExpressJS](https://www.youtube.com/playlist?list=PL_-VfJajZj0VatBpaXkEHK_UPHL7dW6I3) - F8 Official
+* [React Native EventHub Fullstack với NodeJS ExpressJS MongoDB](https://www.youtube.com/playlist?list=PLwRuTV6YR6x1_CzgvKEDEPH1Czl6Mmu6h) - Đào Quang
+* [UDEMY - Backend RESTFul Server với Node.JS và Express (SQL/MongoDB)](https://www.youtube.com/playlist?list=PLncHg6Kn2JT734qFpgJeSfFR0mMOklC_3) - Hỏi Dân IT
+* [[FULL STACK] MERN PRO • Học lập trình Front-end + Back-end | Làm dự án thực tế Trello kéo thả](https://www.youtube.com/playlist?list=PLP6tw4Zpj-RJP2-YrhtkWqObMQ-AA4TDy) - TrungQuanDev
 
 
 ### Flutter

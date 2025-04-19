@@ -184,6 +184,7 @@
 ### Cấu trúc dữ liệu và Giải thuật
 
 * [Cấu trúc dữ liệu và Giải thuật](https://www.youtube.com/playlist?list=PLoaAbmGPgTSNMAzkKBHkh2mLuBk54II5L) - Ông Dev
+* [Danh sách những tài liệu hay về Thuật toán và Lập trình thi đấu](https://github.com/tmsanghoclaptrinh/tmsang-hoc-thuat-toan) - Tờ Mờ Sáng học Lập trình
 
 
 ### Flutter

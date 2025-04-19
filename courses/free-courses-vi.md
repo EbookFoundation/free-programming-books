@@ -393,11 +393,21 @@
 
 ### NodeJS
 
+* [Course - Node.js Backend Architecture](https://www.youtube.com/playlist?list=PLw0w5s5b9NK4ucXizOF-eKAXKvn9ruCw8) - Tips Javascript
+* [Học Nodejs cùng F8](https://www.youtube.com/playlist?list=PLwJIrGynFq9BZto5VvKw7OEDNxN6plq_3) - Tech Mely
+* [Khóa học Fullstack SERN (SQL, Express.js, React.js, Node.js) Web Developer](https://www.youtube.com/playlist?list=PLncHg6Kn2JT6E38Z3kit9Hnif1xC_9VqI) - Hỏi Dân IT
 * [Khóa học NodeJS căn bản](https://tedu.com.vn/khoa-hoc/khoa-hoc-nodejs-can-ban-20.html) - TEDU
+* [Khóa học NodeJs trọn bộ](https://www.youtube.com/playlist?list=PLqnlyu33Xy-6g7IqU5-3BXOfewcJKoL08) - TK Vlogs
 * [Lập Trình Nodejs Cơ Bản Tại Khoa Phạm](https://www.youtube.com/playlist?list=PLzrVYRai0riQXAXJL9rg62tBvwD0ltJn-) - Trung Tâm Đào Tạo Tin Học Khoa Phạm
+* [NodeJS & ExpressJS](https://www.youtube.com/playlist?list=PL_-VfJajZj0VatBpaXkEHK_UPHL7dW6I3) - F8 Official
 * [NodeJS Cơ Bản](https://www.youtube.com/playlist?list=PLU4OBh9yHE950LJR6uH_MqcgUC0-NCV2k) - RHP Team
 * [NodeJS Cơ Bản](https://www.youtube.com/playlist?list=PL4VEtQ6PTTQEZp2kLIC7OE0E8OsObv0k8) - Ide Academy
+* [NodeJS Mới Nhất 2024](https://www.youtube.com/playlist?list=PLnRJxWEhhmzrN03mUHESraIva5Ppi1FaG) - Ninedev
 * [NodeJS Web Server Sử Dụng Express 2020](https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-s-m-qFBQFoeNSfpCTBiwMU) - CodersX
+* [Thực chiến Back-end NodeJS + MongoDB](https://www.youtube.com/playlist?list=PLP6tw4Zpj-RIMgUPYxhLBVCpaBs94D73V) - TrungQuanDev
+* [Tự Học Node.JS Cơ Bản Từ A Đến Z Cho Người Mới Bắt Đầu](https://www.youtube.com/playlist?list=PLncHg6Kn2JT4smWdJceM0bDg4YUF3yqLu) - Hỏi Dân IT
+* [UDEMY - Backend RESTFul Server với Node.JS và Express (SQL/MongoDB)](https://www.youtube.com/playlist?list=PLncHg6Kn2JT734qFpgJeSfFR0mMOklC_3) - Hỏi Dân IT
+* [Xây dựng Backend ứng dụng ShopApp với NodeJS, MySQL, Google Firebase](https://www.youtube.com/playlist?list=PLWBrqglnjNl271vpuIiKZtn-xrAZcX92a) - Nguyen Duc Hoang
 
 
 ### Objective-C

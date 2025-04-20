@@ -12,6 +12,7 @@ on:
 
 permissions:
   pull-requests: write
+  actions: write
 
 jobs:
   stale:

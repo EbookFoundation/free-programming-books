@@ -341,7 +341,7 @@
 ### Python
 
 * [Aprenda a pensar como un programador (con Python)](https://argentinaenpython.com/quiero-aprender-python/aprenda-a-pensar-como-un-programador-con-python.pdf) - Allen Downey, Jeffrey Elkner, Chris Meyers, `trl.:` Miguel Ángel Vilella, `trl.:` Ángel Arnal, `trl.:` Iván Juanes, `trl.:` Litza Amurrio, `trl.:` Efrain Andia, `trl.:` César Ballardini (PDF)
-* [Aprende Python](https://aprendepython.es) - Sergio Delgado Quintero (HTML, PDF)
+* [Aprende Python](https://aprendepython.es) - Sergio Delgado Quintero (HTML, PDF) (CC BY)
 * [Aprendiendo a Programar en Python con mi Computador](https://openlibra.com/en/book/download/aprendiendo-a-programar-en-python-con-mi-computador) (PDF)
 * [Doma de Serpientes para Niños: Aprendiendo a Programar con Python](http://code.google.com/p/swfk-es/) (HTML)
 * [Inmersión en Python](https://code.google.com/archive/p/inmersionenpython3/) (HTML)

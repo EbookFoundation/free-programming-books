@@ -1,33 +1,24 @@
 ### Index
 
 * [C](#c)
-* [HTML and CSS](#html-and-css)
-* [JavaScript](#javascript)
+* [HTML](#html)
 * [Linux](#linux)
-* [PHP](#php)
+  
 
 
 ### C
 
-* [C Proqramlaşdırma Dili](http://ilkaddimlar.com/ders/c-proqramlasdirma-dili)
+* [C Proqramlaşdırma Dili](https://web.archive.org/web/20241214000729/https://ilkaddimlar.com/ders/c-proqramlasdirma-dili) (:card_file_box: archived)
 
 
-### HTML and CSS
+### HTML
 
-* [CSS](http://ilkaddimlar.com/ders/css)
-* [HTML](http://ilkaddimlar.com/ders/html)
-
-
-### JavaScript
-
-* [JavaScript](http://ilkaddimlar.com/ders/javascript)
+* [HTML](https://web.archive.org/web/20241214005042/https://ilkaddimlar.com/ders/html) (:card_file_box: archived)
 
 
 ### Linux
 
-* [Linux](http://ilkaddimlar.com/ders/linux)
+* [Linux](https://web.archive.org/web/20241214095624/https://ilkaddimlar.com/ders/linux) (:card_file_box: archived)
 
 
-### PHP
 
-* [PHP](http://ilkaddimlar.com/ders/php)

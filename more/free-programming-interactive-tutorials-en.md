@@ -11,6 +11,7 @@
 * [CoffeeScript](#coffeescript)
 * [Dart](#dart)
 * [Data Science](#data-science)
+* [DBMS](#dbms)
 * [Erlang](#erlang)
 * [Git](#git)
 * [GLSL](#glsl)
@@ -71,6 +72,7 @@
 
 ### C
 
+* [C Tutorial](https://www.w3schools.com/c/) - W3Schools
 * [C Tutorial](https://www.scaler.com/topics/c/) - Scaler Topics
 * [Learn C](http://www.learn-c.org) - Learn-C
 
@@ -130,6 +132,11 @@
 * [Essential Linear Algebra for Data Science and Machine Learning](https://www.kdnuggets.com/2021/05/essential-linear-algebra-data-science-machine-learning.html) - KDnuggets
 * [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/) - Dan Margalit, Joseph Rabinoff (HTML, PDF)
 * [Top 10 Data Science Projects for Beginners - KDnuggets](https://www.kdnuggets.com/2021/06/top-10-data-science-projects-beginners.html)
+
+
+### DBMS
+
+* [DBMS Course - Master the Fundamentals and Advanced Concepts](https://www.scaler.com/topics/course/dbms/) - Srikanth Varma (Scaler Topics)
 
 
 ### Erlang
@@ -298,6 +305,7 @@
 * [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os) - Sergey Matyukevich *(:construction: in process)*
 * [Linux Journey - Fun and Easy](https://linuxjourney.com) - Cindy Quach
 * [Operating System Tutorial](https://www.scaler.com/topics/operating-system/) - Scaler Topics
+* [Practice Linux Commands (Hands-On Labs)](https://labex.io/tutorials/practice-linux-commands-free-tutorials-398420) - LabEx
 * [Project eXpOS: eXperimental Operating System](https://exposnitc.github.io) - Murali Krishnan K., Department of Computer Science and Engineering of the Calicut National Institute of Technology (HTML)
 
 

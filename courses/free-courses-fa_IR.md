@@ -112,6 +112,7 @@
 ### PHP
 
 * [آموزش پی‌اچ‌پی - سکان آکادمی](https://sokanacademy.com/courses/php/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-PHP) - Behzad Moradi
+* [آموزش PHP - سبز دانش](https://sabzdanesh.com/php-tutorial/) - Omid Rajaei
 
 
 #### Codeigniter
@@ -132,6 +133,7 @@
 
 ### Python
 
+* [آموزش پایتون رایگان (برنامه نویسی python از صفر)](https://sabzdanesh.com/python-tutorial/) - Omid Rajaei *(به‌همراه کوئیز و تمرین بیشتر با ثبت‌نام رایگان)*
 * [دوره آموزش رایگان زبان پایتون ( Python ) از مقدماتی تا پیشرفته](https://toplearn.com/courses/2150/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-(-python-)) - Mohammad Ordokhani (TopLearn) *(نیاز به ثبت نام دارد)*
 * [دوره مقدماتی تا پیشترفته پایتون - کدتراپی](https://www.youtube.com/playlist?list=PLSMC8KtOWURqgm0c6iVXrGzK4ymzJUnfj) - CodeTherapy
 * [متخصص پایتون (Python)](https://sabzlearn.ir/course/python/) - Reza Davalit

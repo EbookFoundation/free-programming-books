@@ -17,6 +17,7 @@
 * [MySQL](#mysql)
 * [Perl](#perl)
 * [PHP](#php)
+    * [Yii](#yii)
 * [Prolog](#prolog)
 * [Python](#python)
     * [Django](#django)
@@ -147,6 +148,11 @@
 * [Kurs PHP](http://phpkurs.pl) - Leszek Krupiński
 * [PHP](https://pl.wikibooks.org/wiki/PHP) - Wikibooks
 * [PHP: The Right Way](http://pl.phptherightway.com) - Josh Lockhart
+
+
+#### Yii
+
+* [Przewodnik po Yii 2.0](https://www.yiiframework.com/doc/download/yii-guide-2.0-pl.pdf) - Yii Software (PDF)
 
 
 ### Prolog

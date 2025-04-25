@@ -115,6 +115,7 @@
 
 ### JavaScript
 
+* [모던 JavaScript 튜토리얼](https://ko.javascript.info) - Ilya Kantor
 * [JavaScript로 만나는 세상](https://helloworldjavascript.net)
 
 
@@ -146,7 +147,9 @@
 
 ### Machine Learning
 
-[Pytorch로 시작하는 딥 러닝 입문](https://wikidocs.net/book/2788) - 유원준, 상준
+* [<랭체인LangChain 노트> - LangChain 한국어 튜토리얼](https://wikidocs.net/book/14314) - 테디노트
+* [딥 러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155) - 유원준, 상준
+* [Pytorch로 시작하는 딥 러닝 입문](https://wikidocs.net/book/2788) - 유원준, 상준
 
 
 ### Mathematics
@@ -237,8 +240,13 @@
 
 ### Rust
 
-* [러스트 프로그래밍 언어](https://rinthel.github.io/rust-lang-book-ko/) - 스티브 클라브닉, 캐롤 니콜스 (HTML) *(:construction: in process)*
-* [Rust by Example](https://hanbum.gitbooks.io/rustbyexample/content/) *(:construction: in process)*
+* [러스트 코딩인사이트](https://coding-insight.com/docs/category/rust)
+* [러스트 프로그래밍 언어](https://rinthel.github.io/rust-lang-book-ko/) - 스티브 클라브닉, 캐롤 니콜스
+* [예제로 배우는 Rust 프로그래밍](http://rust-lang.xyz)
+* [파이썬과 비교하며 배우는 러스트 프로그래밍](https://indosaram.github.io/rust-python-book/) - 윤인도
+* [Comprehensive Rust](https://google.github.io/comprehensive-rust/ko/index.html)
+* [Rust로 첫 번째 단계 수행](https://learn.microsoft.com/ko-kr/training/paths/rust-first-steps) - 마이크로소프트에서 제공하는 러스트 강의
+* [The Rust Programming Language](https://doc.rust-kr.org/title-page.html)
 
 
 ### Scratch

@@ -157,7 +157,7 @@
 
 ### <a id="csharp"></a>C\#
 
-* [Học Lập Trình .NET cơ bản] (https://www.youtube.com/playlist?list=PLRLJQuuRRcFlaITD5F6XKQJxOt8QgCNAg) - Nam .NET
+* [Học Lập Trình .NET cơ bản](https://www.youtube.com/playlist?list=PLRLJQuuRRcFlaITD5F6XKQJxOt8QgCNAg) - Nam .NET
 * [C# Căn Bản](https://www.youtube.com/playlist?list=PL33lvabfss1wUj15ea6W0A-TtDOrWWSRK) - Kteam
 * [C# Nâng Cao](https://www.youtube.com/playlist?list=PL33lvabfss1y5jmklzilr2W2LZiltk6bU) - Kteam
 * [Học Lập Trình C# Cơ Bản](https://www.youtube.com/playlist?list=PLE1qPKuGSJaANYwZJweIuzceWHCJI8mnE) - thân triệu

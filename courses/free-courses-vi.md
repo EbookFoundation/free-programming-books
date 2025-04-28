@@ -78,6 +78,7 @@
 
 * [ASP.NET Core Web API](https://www.youtube.com/playlist?list=PLE5Bje814fYbhdwSHiHN9rlwJlwJ2YD3t) - HIENLTH Channel
 * [C.51 - .NET Core - Angular 12 - Quản Lý Nhà Hàng](https://www.youtube.com/playlist?list=PLiNjao7yG415y_J0G21QUc40akV2vRntP) - Code là Ghiền
+* [Học lập trình web với ASP.NET] (https://www.youtube.com/playlist?list=PLRLJQuuRRcFnwlQxGeVSVv-z_5tFwAh0j) - Nam .NET
 * [Làm dự án với ASP.NET Core 3.1](https://tedu.com.vn/khoa-hoc/lam-du-an-voi-aspnet-core-31-34.html) - TEDU
 * [Làm dự án với ASP.NET Core 3.1](https://www.youtube.com/playlist?list=PLRhlTlpDUWsyN_FiVQrDWMtHix_E2A_UD) - TEDU
 * [Lập trình ASP.NET Core từ căn bản đến nâng cao](https://tedu.com.vn/khoa-hoc/lap-trinh-aspnet-core-tu-co-ban-den-nang-cao-33.html) - TEDU
@@ -159,6 +160,7 @@
 * [C# Căn Bản](https://www.youtube.com/playlist?list=PL33lvabfss1wUj15ea6W0A-TtDOrWWSRK) - Kteam
 * [C# Nâng Cao](https://www.youtube.com/playlist?list=PL33lvabfss1y5jmklzilr2W2LZiltk6bU) - Kteam
 * [Học Lập Trình C# Cơ Bản](https://www.youtube.com/playlist?list=PLE1qPKuGSJaANYwZJweIuzceWHCJI8mnE) - thân triệu
+* [Học lập trình .NET cơ bản] (https://www.youtube.com/playlist?list=PLRLJQuuRRcFlaITD5F6XKQJxOt8QgCNAg) - Nam .NET
 * [HttpRequest - Crawl data từ website](https://www.youtube.com/playlist?list=PL33lvabfss1w4-G4wujhFVZGTlFkooCck) - K team
 * [Hướng dẫn code Game Server Basic & Game Client](https://www.youtube.com/playlist?list=PLm5N2Ku5IP9eZPS20m8AEpdzYNB-lQ7Dp) - Code Phủi
 * [Lập trình C# - NET Core](https://www.youtube.com/playlist?list=PLwJr0JSP7i8BERdErX9Ird67xTflZkxb-) - XuanThuLab

@@ -76,7 +76,7 @@
 
 ### ASP
 
-* [Học lập trình web với ASP.NET] (https://www.youtube.com/playlist?list=PLRLJQuuRRcFnwlQxGeVSVv-z_5tFwAh0j) - Nam .NET
+* [Học lập trình web với ASP.NET](https://www.youtube.com/playlist?list=PLRLJQuuRRcFnwlQxGeVSVv-z_5tFwAh0j) - Nam .NET
 * [ASP.NET Core Web API](https://www.youtube.com/playlist?list=PLE5Bje814fYbhdwSHiHN9rlwJlwJ2YD3t) - HIENLTH Channel
 * [C.51 - .NET Core - Angular 12 - Quản Lý Nhà Hàng](https://www.youtube.com/playlist?list=PLiNjao7yG415y_J0G21QUc40akV2vRntP) - Code là Ghiền
 * [Làm dự án với ASP.NET Core 3.1](https://tedu.com.vn/khoa-hoc/lam-du-an-voi-aspnet-core-31-34.html) - TEDU

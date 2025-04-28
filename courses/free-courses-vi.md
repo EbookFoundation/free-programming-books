@@ -159,8 +159,8 @@
 
 * [C# Căn Bản](https://www.youtube.com/playlist?list=PL33lvabfss1wUj15ea6W0A-TtDOrWWSRK) - Kteam
 * [C# Nâng Cao](https://www.youtube.com/playlist?list=PL33lvabfss1y5jmklzilr2W2LZiltk6bU) - Kteam
-* [Học Lập Trình C# Cơ Bản](https://www.youtube.com/playlist?list=PLE1qPKuGSJaANYwZJweIuzceWHCJI8mnE) - thân triệu
 * [Học Lập Trình .NET cơ bản] (https://www.youtube.com/playlist?list=PLRLJQuuRRcFlaITD5F6XKQJxOt8QgCNAg) - Nam .NET
+* [Học Lập Trình C# Cơ Bản](https://www.youtube.com/playlist?list=PLE1qPKuGSJaANYwZJweIuzceWHCJI8mnE) - thân triệu
 * [HttpRequest - Crawl data từ website](https://www.youtube.com/playlist?list=PL33lvabfss1w4-G4wujhFVZGTlFkooCck) - K team
 * [Hướng dẫn code Game Server Basic & Game Client](https://www.youtube.com/playlist?list=PLm5N2Ku5IP9eZPS20m8AEpdzYNB-lQ7Dp) - Code Phủi
 * [Lập trình C# - NET Core](https://www.youtube.com/playlist?list=PLwJr0JSP7i8BERdErX9Ird67xTflZkxb-) - XuanThuLab

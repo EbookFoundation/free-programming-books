@@ -41,13 +41,11 @@
 
 * [التحريك عبر CSS&rlm;](https://academy.hsoub.com/files/14-التحريك-عبر-css/) - Donovan Hutchinson, Mohamed Beghat&rlm; (PDF)
 * [نحو فهم أعمق لتقنيات HTML5&rlm;](https://academy.hsoub.com/files/13-نحو-فهم-أعمق-لتقنيات-html5/) - Mark Pilgrim, Abdullatif Eymash&rlm; (PDF)
-* [تعلم HTML](https://example.com/html-arabic) - مؤلف تجريبي (PDF)
 
 
 ### Introduction to Programming in Arabic
 
 * [مختصر دليل لغات البرمجة](https://alyassen.github.io/Brief-guide-to-programming-languages-v1.2.4.pdf) - Ali Al-Yassen&rlm; (PDF)
-* [تعلم C#](https://example.com/csharp-arabic) - مؤلف تجريبي (PDF)
 
 
 ### JavaScript
@@ -82,7 +80,7 @@
 ### Python
 
 * [البرمجة بلغة بايثون](https://academy.hsoub.com/files/15-البرمجة-بلغة-بايثون/)
-* [Learn Python](https://example.com/learn-python) - Test Author (PDF)
+
 
 ### Raspberry Pi
 
@@ -98,7 +96,6 @@
 
 * [تأمين الشبكات اللاسلكية للمستخدم المنزلي](https://mohamedation.com/securing-wifi/ar/) - Mohamed Adel&rlm; (HTML)
 * [دليل الأمان الرقمي](https://academy.hsoub.com/files/20-%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%A3%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A/)
-* [كتاب جديد](https://example.com/new-book) - أحمد علي (PDF, HTML)
 
 
 ### SQL

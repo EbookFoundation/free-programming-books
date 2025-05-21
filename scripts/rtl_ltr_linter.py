@@ -524,7 +524,7 @@ def main():
                                     m = re.search(r'line=(\d+)', issue_str)
                                     if m and int(m.group(1)) in changed_lines_map.get(file_path, set()):
                                         print(issue_str)
-                                        if issue_str.startswith("::error") or issue_str.startswith("::warning"):
+                                        if issue_str.startswith("::error"):
                                             annotated_errs += 1
                                 if issue_str.startswith("::error") or issue_str.startswith("::warning"):
                                     errs += 1
@@ -553,7 +553,7 @@ def main():
                             print(issue_str)
 
                             # Count errors/warnings on changed lines for the exit code logic
-                            if issue_str.startswith("::error") or issue_str.startswith("::warning"):
+                            if issue_str.startswith("::error"):
                                 annotated_errs += 1
 
                     # Count all errors/warnings for reporting/debugging purposes

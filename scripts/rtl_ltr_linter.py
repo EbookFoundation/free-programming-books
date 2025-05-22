@@ -588,7 +588,7 @@ def main():
             pass
 
     # Print a debug message to stderr summarizing the linting process
-    print(f"::debug::Processed {total} files, found {errs} issues.")
+    print(f"Processed {total} files, found {errs} issues.")
 
     # Exit code: 1 only if there are annotated errors/warnings on changed lines
     sys.exit(1 if annotated_errs else 0)

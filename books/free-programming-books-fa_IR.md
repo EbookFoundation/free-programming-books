@@ -26,14 +26,14 @@
 
 ### مهندسی نرم‌افزار
 
-* [الگوهای طراحی](https://holosen.net/what-is-design-pattern/) - Hossein Badrnezhad *(نیاز به ثبت نام دارد)*
+* [الگوهای طراحی](https://holosen.net/what-is-design-pattern/) - Hossein Badrnezhad&lrm; *(نیاز به ثبت نام دارد)*
 * [الگوهای طراحی در برنامه‌نویسی شیء‌گرا](https://github.com/khajavi/Practical-Design-Patterns)
 * [ترجمه آزاد کتاب کد تمیز](https://codetamiz.vercel.app) - Robert C. Martin, et al.
 
 
 ### HTML and CSS
 
-* [یادگیری پیکربندی با CSS](http://fa.learnlayout.com)
+* [یادگیری پیکربندی با CSS&lrm;](http://fa.learnlayout.com)
 
 
 ### Java
@@ -52,7 +52,7 @@
 
 ### LaTeX
 
-* [مقدمه‌ای نه چندان کوتاه بر LaTeX](http://www.ctan.org/tex-archive/info/lshort/persian)
+* [مقدمه‌ای نه چندان کوتاه بر LaTeX&lrm;](http://www.ctan.org/tex-archive/info/lshort/persian)
 
 
 ### Linux
@@ -66,24 +66,24 @@
 
 #### Symfony
 
-* [سیمفونی ۵: سریع‌ترین مسیر](https://web.archive.org/web/20210122133755/https://symfony.com/doc/current/the-fast-track/fa/index.html) *(:card_file_box: archived)*
+* [سیمفونی ۵: سریع‌ترین مسیر](https://web.archive.org/web/20210122133755/https://symfony.com/doc/current/the-fast-track/fa/index.html)&lrm; *(:card_file_box: archived)*
 
 
 ### Python
 
 * [پایتون به پارسی](https://python.coderz.ir) - سعید درویش (HTML)
-* [ترجمه آزاد کتاب Asyncio in Python](https://github.com/ftg-iran/aip-persian)
+* [ترجمه آزاد کتاب Asyncio in Python&lrm;](https://github.com/ftg-iran/aip-persian)
 
 
 #### Django
 
-* [ترجمه آزاد کتاب Django Design Patterns and Best Practices](https://github.com/ftg-iran/ddpabp-persian)
+* [ترجمه آزاد کتاب Django Design Patterns and Best Practices&lrm;](https://github.com/ftg-iran/ddpabp-persian)
 * [کتاب جنگو برای حرفه‌ای‌ها](https://github.com/mthri/dfp-persian)
-* [کتاب جنگو برای API](https://github.com/ftg-iran/dfa-persian)
+* [کتاب جنگو برای API&lrm;](https://github.com/ftg-iran/dfa-persian)
 
 
 ### R
 
-* [تحلیل شبکه‌های اجتماعی در R](http://cran.r-project.org/doc/contrib/Raeesi-SNA_in_R_in_Farsi.pdf) (PDF)
-* [راهنمای زبان R](http://cran.r-project.org/doc/contrib/Mousavi-R-lang_in_Farsi.pdf) (PDF)
-* [مباحث ویژه در R](http://cran.r-project.org/doc/contrib/Mousavi-R_topics_in_Farsi.pdf) (PDF)
+* [تحلیل شبکه‌های اجتماعی در R&lrm;](http://cran.r-project.org/doc/contrib/Raeesi-SNA_in_R_in_Farsi.pdf) (PDF)
+* [راهنمای زبان R&lrm;](http://cran.r-project.org/doc/contrib/Mousavi-R-lang_in_Farsi.pdf) (PDF)
+* [مباحث ویژه در R&lrm;](http://cran.r-project.org/doc/contrib/Mousavi-R_topics_in_Farsi.pdf) (PDF)

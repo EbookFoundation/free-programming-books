@@ -54,7 +54,7 @@ def load_config(path):
             'pure_ltr': 'notice',       # A purely LTR segment in an RTL context might need a trailing &lrm;
             'author_meta': 'notice'     # Specific rules for LTR authors/metadata in RTL contexts.
         },
-        'ignore_meta': ['PDF', 'EPUB', 'HTML'],
+        'ignore_meta': ['PDF', 'EPUB', 'HTML', 'podcast', 'videocast'],
         'min_ltr_length': 3,
         'rlm_entities': ['&rlm;', '&#x200F;', '&#8207;'],
         'lrm_entities': ['&lrm;', '&#x200E;', '&#8206;']

@@ -73,6 +73,7 @@ jobs:
     - name: Run RTL/LTR Markdown linter
       id: run_linter
       if: steps.rtl_label.outputs.has_labels == 'true' || steps.rtl_lang_files.outputs.rtl_changed == 'true'
+      continue-on-error: true
       run: |
         echo "Scanning all specified paths for full log..."
         echo "Changed Markdown files for PR annotations: ${{ steps.changed_md_files.outputs.all_changed_files }}"

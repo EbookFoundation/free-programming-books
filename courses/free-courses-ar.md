@@ -178,11 +178,11 @@
 
 ### Databases
 
-* [CS Master - Level 3 - Databases قواعد البيانات](https://www.youtube.com/playlist?list=PLL2zWZTDFZzhXQ1bcYlO3PtN4MsLiG-gy) - KMR Script&rlm;
-* [Database 1 - المقرر النظرى - Fundamentals of Database Systems](https://www.youtube.com/playlist?list=PL37D52B7714788190) - محمد الدسوقى
+* [CS Master - Level 3 - Databases&lrm; قواعد البيانات](https://www.youtube.com/playlist?list=PLL2zWZTDFZzhXQ1bcYlO3PtN4MsLiG-gy) - KMR Script&rlm;
+* [Database 1 -&lrm; المقرر النظرى - Fundamentals of Database Systems&lrm;](https://www.youtube.com/playlist?list=PL37D52B7714788190) - محمد الدسوقى
 * [Database Design](https://www.youtube.com/playlist?list=PLkzDzmo9y3VHDFKp7LuXd-FwbefvTL5o0) - تخاريف مبرمج
-* [Designing Data Intensive Applications بالعربي](https://www.youtube.com/playlist?list=PLTRDUPO2OmIljJwE9XMYE_XEgEIWZDCuQ) - Ahmed Elemam&rlm;
-* [Relational Database Internals (Arabic - عربي)](https://www.youtube.com/playlist?list=PLE8kQVoC67PzGwMMsSk3C8MvfAqcYjusF) - TechVault&rlm;
+* [Designing Data Intensive Applications&lrm; بالعربي](https://www.youtube.com/playlist?list=PLTRDUPO2OmIljJwE9XMYE_XEgEIWZDCuQ) - Ahmed Elemam&rlm;
+* [Relational Database Internals (Arabic -&lrm; عربي)&lrm;](https://www.youtube.com/playlist?list=PLE8kQVoC67PzGwMMsSk3C8MvfAqcYjusF) - TechVault&rlm;
 
 
 #### NoSQL
@@ -195,7 +195,7 @@
 #### SQL
 
 * [Arabic MySQL Essentials&lrm; مبادئ ماي سكوال](https://www.youtube.com/playlist?list=PLL2zWZTDFZzhBxhIJkhz-B-HulZUN6YzY) - KMR Script&rlm;
-* [Database 1 - المقرر العملى - Learn SQL In Arabic](https://www.youtube.com/playlist?list=PL85D9FC9DFD6B9484) - محمد الدسوقى
+* [Database 1 -&lrm; المقرر العملى - Learn SQL In Arabic&lrm;](https://www.youtube.com/playlist?list=PL85D9FC9DFD6B9484) - محمد الدسوقى
 * [Learn MySQL&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz6DT8SzQ1CODJTH-NIA7R9) - Elzero Web School&rlm;
 * [MS SQL Server For Beginners](https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE) - محمد الدسوقى
 * [MySQL tutorials \|\|&lrm; بناء قواعد البيانات بكفاءة عالية](https://www.youtube.com/playlist?list=PLF8OvnCBlEY25O_Ql0CrgQUAc5NVYkWF2) - TheNewBaghdad&rlm;
@@ -223,7 +223,7 @@
 * [Docker&lrm; سلسلة تعلم](https://www.youtube.com/playlist?list=PLX1bW_GeBRhDkTf_jbdvBbkHs2LCWVeXZ) - Codographia&rlm;
 * [Docker and Kubernetes \|&lrm; العلبة دي فيها سوعبان \| Arabic&rlm;](https://www.youtube.com/watch?v=PrusdhS2lmo) - Ahmed Sami&rlm;
 * [Docker Practical Course in Arabic&lrm; - بالعربي Docker&lrm; شرح](https://www.youtube.com/playlist?list=PLzNfs-3kBUJnY7Cy1XovLaAkgfjim05RR) - Tresmerge&rlm;
-* [Software Containerization for Beginners&rlm;](https://www.youtube.com/playlist?list=PLsV97AQt78NTJTBGKI0GE3eJc2Q_SC2B-) - Passionate Coders \| محمد المهدي
+* [Software Containerization for Beginners&rlm;](https://www.youtube.com/playlist?list=PLsV97AQt78NTJTBGKI0GE3eJc2Q_SC2B-) - Passionate Coders \|&lrm; محمد المهدي
 
 
 ### Elastic
@@ -267,16 +267,16 @@
 
 ### HTML and CSS
 
-* [برمجة المواقع \| تعلم لغة الhtml من الصفر](https://www.youtube.com/playlist?list=PLYyqC4bNbCIfMY5CoGmiWaPi9l86qaz5B) - أكاديمية ترميز
-* [برمجة المواقع \| سلسلة دروس لغة css](https://www.youtube.com/playlist?list=PLYyqC4bNbCIdES52srHE6xTiIgvgMkBWu) - أكاديمية ترميز
+* [برمجة المواقع \| تعلم لغة ال&lrm;html&lrm; من الصفر](https://www.youtube.com/playlist?list=PLYyqC4bNbCIfMY5CoGmiWaPi9l86qaz5B) - أكاديمية ترميز
+* [برمجة المواقع \| سلسلة دروس لغة &lrm;css&lrm;](https://www.youtube.com/playlist?list=PLYyqC4bNbCIdES52srHE6xTiIgvgMkBWu) - أكاديمية ترميز
 * [كورس CSS3&lrm; بالعربي-ITI&rlm;](https://www.youtube.com/playlist?list=PLzCpl3aBwaY7e-LGHKT1LUrQOBZheSQLh) - Mobarmg&rlm;
-* [كورس HTML&lrm; من الصفر](https://www.youtube.com/playlist?list=PLoP3S2S1qTfCVIETOGwaK3lyaL3UKu403) - OctuCode
+* [كورس HTML&lrm; من الصفر](https://www.youtube.com/playlist?list=PLoP3S2S1qTfCVIETOGwaK3lyaL3UKu403) - OctuCode&rlm;
 * [كورس HTML5&lrm; بالعربي-ITI&rlm;](https://www.youtube.com/playlist?list=PLzCpl3aBwaY76fLdWZt7T8FfVHpvu0zOm) - Mobarmg&rlm;
 * [CSS Art Tutorials&rlm;](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzxCiht69IlCe0_VeIuh4ty) - Codezilla&rlm;
 * [HTML And CSS Template 1&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzHSjcR-HnW9tnxyuye8KbF) - Elzero Web School&rlm;
 * [HTML And CSS Template 2&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy1l-2A21ng3gxEyocruT0t) - Elzero Web School&rlm;
 * [HTML And CSS Template 3&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAxuCSp2_-9LurPqRVwketnc) - Elzero Web School&rlm;
-* [HTML Crash Course Tutorials for Beginners: HTML كامل للمبتدئين](https://www.youtube.com/watch?v=rytA8dLsSV8) - Mohammed Elzanaty&rlm;
+* [HTML Crash Course Tutorials for Beginners: HTML&lrm; كامل للمبتدئين](https://www.youtube.com/watch?v=rytA8dLsSV8) - Mohammed Elzanaty&rlm;
 * [Learn CSS In Arabic 2021&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzjsz06gkzlSrlev53MGIKe) - Elzero Web School&rlm;
 * [Learn HTML In Arabic 2021&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji) - Elzero Web School&rlm;
 * [Learn SASS In Arabic 2021&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzlpyFHOaB3b-eubmF0TAV2) - Elzero Web School&rlm;
@@ -330,7 +330,7 @@
 * [Javascript Tutorial&lrm; \| كورس جافا سكريبت كامل](https://www.youtube.com/playlist?list=PLknwEmKsW8OuTqUDaFRBiAViDZ5uI3VcE) - Abdelrahman Gamal&rlm;
 * [JavaScript Unit Testing With Jest&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwSrfBPERTnCmWAbcMAwG9O) - Elzero Web School&rlm;
 * [Learn JavaScript in Arabic 2021&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv) - Elzero Web School&rlm;
-* [Software Testing Course in Arabic - بالعربي software testing شرح](https://www.youtube.com/playlist?list=PLzNfs-3kBUJllCa8_6pLYDMnIlg6Lfvu4) - Tresmerge&rlm;
+* [Software Testing Course in Arabic -&lrm; بالعربي &lrm;software testing&lrm; شرح](https://www.youtube.com/playlist?list=PLzNfs-3kBUJllCa8_6pLYDMnIlg6Lfvu4) - Tresmerge&rlm;
 * [SOLID Principles In Arabic&rlm;](https://www.youtube.com/playlist?list=PLQtNtS-WfRa9Dwu0xHfC0gALHCdia6L6w) - codeZone&rlm;
 
 
@@ -365,7 +365,7 @@
 * [JWT Authentication using Node, Express, Typescript, Jasmine & Postgres&rlm;](https://www.youtube.com/playlist?list=PLLWuK602vNiVLQ4rAylfIkqp3rkN0TuPD) - Mohammed Elzanaty&rlm;
 * [Learn Basic of NodeJS&rlm;](https://www.youtube.com/playlist?list=PLGhZWewM_75LQf3KvHo6HHSclmDyDazl7) - Emam Academy&rlm;
 * [Learn NodeJS from zero to hero&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNOa3EiUpjO04DVxEE9Ox12ta) - Algorithm Academy&rlm;
-* [NodeJS - Build a Full E-Commerce RESTful APIs (بالعربي)](https://www.youtube.com/playlist?list=PLDQ11FgmbqQNFuGQTKbAIGEyOKWUGBs6i) - Programming Solutions - Academy&rlm;
+* [NodeJS - Build a Full E-Commerce RESTful APIs (&lrm;بالعربي&lrm;)](https://www.youtube.com/playlist?list=PLDQ11FgmbqQNFuGQTKbAIGEyOKWUGBs6i) - Programming Solutions - Academy&rlm;
 * [NodeJS - From Zero To Hero](https://www.youtube.com/playlist?list=PLkzDzmo9y3VG_pByjuxE7uuLYvmWgfBub) - تخاريف مبرمج
 * [NodeJS Advanced Topics](https://www.youtube.com/playlist?list=PLkzDzmo9y3VETa2XvIch29djB47v4zJQS) - تخاريف مبرمج
 * [NodeJS Course (2017&lrm; - عربي)](https://www.youtube.com/playlist?list=PLrvHCesHYw38kFL6w-i6Rv85oS3L0sp-o) - برمجيات حسان
@@ -490,7 +490,7 @@
 * [دورة انشاء برنامج المدارس Php - Laravel&rlm;](https://www.youtube.com/playlist?list=PLftLUHfDSiZ7-RAsH8NskS7AYofykW_WN) - Mora Soft&rlm;
 * [دورة انشاء برنامج فواتير php- laravel&rlm;](https://www.youtube.com/playlist?list=PLftLUHfDSiZ7pKXkpGCoZATm5rF6msj5A) - Mora Soft&rlm;
 * [دورة Laravel 6/7/8 PHP&rlm;](https://www.youtube.com/playlist?list=PLMYF6NkLrdN8V2JKIMxqMsZNPsgUj3WOK) - Muhammed Essa&rlm;
-* [كورس اساسيات لارافيل 9](https://www.youtube.com/playlist?list=PLftLUHfDSiZ4GfPZxaFDsA7ejUzD7SpWa) - Mora Soft&rlm;
+* [كورس اساسيات لارافيل &lrm;9&lrm;](https://www.youtube.com/playlist?list=PLftLUHfDSiZ4GfPZxaFDsA7ejUzD7SpWa) - Mora Soft&rlm;
 * [لارافيل للمبتدئين](https://www.youtube.com/playlist?list=PLWCBAKY7-4buQazvDjeZhjLl54UqbF3lM) - Ahmed Abd El Ftah&rlm;
 * [مشروع لارافل متجر الكتروني متعدد التجار واللغات متكامل - تطبيقات لارافل عمليه](https://www.youtube.com/playlist?list=PLCm7ZeRfGSP7DCb-NamG2tt7uQUfxP2va) - Professional Code&rlm;
 * [API-Course-For-Beginners&rlm;](https://www.youtube.com/playlist?list=PLftLUHfDSiZ6MfN8UhhcXDhh64eejvIKK) - Mora Soft&rlm;
@@ -509,17 +509,17 @@
 
 ### Prolog
 
-* [Logic Programming - Prolog - برمجة منطقية](https://www.youtube.com/playlist?list=PLMm8EjqH1EFW9Faldu6D6Uh2j1EWWaTYe) - Ahmed Sallam&rlm;
+* [Logic Programming - Prolog -&lrm; برمجة منطقية](https://www.youtube.com/playlist?list=PLMm8EjqH1EFW9Faldu6D6Uh2j1EWWaTYe) - Ahmed Sallam&rlm;
 
 
 ### Python
 
-* [تعلم أساسيات البرمجة](https://www.youtube.com/playlist?list=PLvGNfY-tFUN8HRLDE-D2sXvIgYwspdmFE) - غريب الشيخ \|\| Ghareeb Elshaik
+* [تعلم أساسيات البرمجة](https://www.youtube.com/playlist?list=PLvGNfY-tFUN8HRLDE-D2sXvIgYwspdmFE) - غريب الشيخ \|\|&lrm; Ghareeb Elshaik
 * [قناة علم البيانات - حسام الحوراني](https://www.youtube.com/playlist?list=PLYW0LRZ3ePo6IYDS2K5IhmuP5qY3dmI9e) - Hussam Hourani&rlm;
 * [كورس بايثون - تعلم بايثون من الصفر للإحتراف](https://www.youtube.com/playlist?list=PLoP3S2S1qTfCUdNazAZY1LFALcUr0Vbs9) - OctuCode&rlm;
 * [كورس بايثون من الصفر \| سلسلة دروس لغة البايثون \| python&lrm;](https://www.youtube.com/playlist?list=PLYyqC4bNbCIcxKO_r77w5MN1SRRnnfvNQ) - أكاديمية ترميز
 * [Learn Python3&rlm;](https://www.youtube.com/playlist?list=PLfDx4cQoUNOazcliAXXivOrg9GiAVuoQg) - Algorithm Academy&rlm;
-* [Master Python from Beginner to Advanced in Arabic&lrm; - دورة تعلم بايثون من الصفر كاملة للمبتدئين](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ) - Codezilla
+* [Master Python from Beginner to Advanced in Arabic&lrm; - دورة تعلم بايثون من الصفر كاملة للمبتدئين](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ) - Codezilla&rlm;
 * [Mastering Python&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs) - Elzero Web School&rlm;
 * [Mastering Python Tutorial - Python for Beginners&lrm; \| كورس بايثون كامل للمبتدئين](https://www.youtube.com/playlist?list=PLknwEmKsW8OsG8dnisr_-2WGyx7lpgGEE) - Abdelrahman Gamal&rlm;
 * [Object Oriented Programming&lrm; - شرح البرمجة كائنية التوجه](https://www.youtube.com/playlist?list=PLuXY3ddo_8nzUrgCyaX_WEIJljx_We-c1) - Codezilla&rlm;
@@ -559,7 +559,7 @@
 ### RegEx
 
 * [التعابير النمطية‌&lrm; \| REGEX&rlm;](https://www.youtube.com/playlist?list=PLt0HRIA9i35v2W3JFiCIeUMC4GoD9titN) - Learn With Naw&rlm;
-* [Crash Course - Regular Expression - Regex&lrm; \| دورة مكثفة - التعابير النظامية](https://www.youtube.com/playlist?list=PLBPdtL8DZBZISjop48YSJ82FF-2uIhe-f) - Abdallah Alfaham • عبد الله الفحام
+* [Crash Course - Regular Expression - Regex&lrm; \| دورة مكثفة - التعابير النظامية](https://www.youtube.com/playlist?list=PLBPdtL8DZBZISjop48YSJ82FF-2uIhe-f) - Abdallah Alfaham •&rlm; عبد الله الفحام
 * [Regular Expression tutorial - Arabic&rlm;](https://www.youtube.com/playlist?list=PLwCMLs3sjOY4aVMg7hgQGHyQBZnHgFjJk) - Hard-Code&rlm;
 
 
@@ -574,7 +574,7 @@
 * [Design Patterns&lrm; - بالعربي](https://www.youtube.com/playlist?list=PLwWuxCLlF_uczNpsoKEEi7zHcuL07Otos) - Omar Ahmed&rlm; *(:construction: in process)*
 * [Software Design Patterns](https://www.youtube.com/playlist?app=desktop&list=PLrwRNJX9gLs3oQyBoXtYimY7M5aSF0_oC) - محمد يحيى
 * [SOLID Principles&rlm;](https://www.youtube.com/playlist?list=PLZafHDYyxnk7fKmAuCJhWTMwJZ89f0Tug) - Mahmoud Youssef - محمود يوسف *(:construction: in process)*
-* [SOLID Principles&rlm;](https://www.youtube.com/playlist?list=PLsV97AQt78NRT1GmH2EJ-o-2_ILFM9feq) - Passionate Coders \| محمد المهدي
+* [SOLID Principles&rlm;](https://www.youtube.com/playlist?list=PLsV97AQt78NRT1GmH2EJ-o-2_ILFM9feq) - Passionate Coders \|&lrm; محمد المهدي
 * [Solid Principles \| Uncle bob&rlm;](https://www.youtube.com/playlist?list=PLINp1xZ5bPrqtE3Hee3vnyrHCaOyMADBt) - DevLoopers&rlm;
 * [SOLID Principles&lrm; بالعربى](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdflFSS4NigVB7aSoYPNwHTL) -  Mohammed Reda&rlm;
 * [SOLID Principles&lrm; بالعربي](https://www.youtube.com/playlist?list=PLwWuxCLlF_uevri_OpofVLXkRRFnZ7TSV) - Omar Ahmed&rlm;

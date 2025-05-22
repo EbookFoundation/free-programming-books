@@ -99,9 +99,3 @@ jobs:
         name: rtl-linter-output # Name of the artifact
         path: rtl-linter-output.log # Path to the output file
         if-no-files-found: ignore # Ignore if no files are found
-
-    # Debug run_linter outcome
-    - name: Debug run_linter outcome
-      run: |
-        echo "Outcome: ${{ steps.run_linter.outcome }}"
-        echo "Conclusion: ${{ steps.run_linter.conclusion }}"

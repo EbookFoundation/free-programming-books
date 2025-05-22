@@ -13,7 +13,7 @@
 * [Essam Cafe - &rlm;قهوة عصام](https://essamcafe.com) - Ahmed Essam&rlm; (podcast)
 * [Nakerah Podcast](https://nakerah.net/podcast) - Nakerah Network&rlm; (podcast)
 * [null++: &rlm;بالعربي](https://nullplus.plus) - Mohamed Luay, Ahmad Alfy&rlm; (podcast)
-* [Tech Podcast &rlm;بالعربي](https://anchor.fm/ahmdelemam) - Ahmed Elemam (podcast)
+* [Tech Podcast &rlm;بالعربي](https://anchor.fm/ahmdelemam) - Ahmed Elemam&rlm; (podcast)
 * [The Egyptian Guy](https://anchor.fm/refaie) - Mohamed Refaie&rlm; (podcast)
 * [The Weekly Noob](https://theweeklynoob.netlify.app) - Nabil Tharwat&rlm; (podcast)
 * [Untyped Podcast](https://logaretm.com/untyped/) - Abdelrahman Awad&rlm; (podcast)

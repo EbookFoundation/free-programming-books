@@ -30,7 +30,7 @@
 
 ### C
 
-* [ספר לימוד שפה עילית (שפת C)](https://moked.education.gov.il/MafmarFiles/C_LangIG_3Version.pdf) – מרק טסליצקי&rlm; (PDF)
+* [ספר לימוד שפה עילית (שפת C&lrm;)](https://moked.education.gov.il/MafmarFiles/C_LangIG_3Version.pdf) – מרק טסליצקי&rlm; (PDF)
 
 
 ### <a id="csharp"></a>C#&lrm;

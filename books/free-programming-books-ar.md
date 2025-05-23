@@ -34,7 +34,7 @@
 
 ### DB & DBMS
 
-* [تصميم قواعد البيانات](https://academy.hsoub.com/files/26-تصميم-قواعد-البيانات/) - Adrienne Watt, Nelson Eng&rlm;، ترجمة أيمن طارق وعلا عباس (PDF)
+* [تصميم قواعد البيانات](https://academy.hsoub.com/files/26-تصميم-قواعد-البيانات/) - Adrienne Watt, Nelson Eng&rlm;، ترجمة أيمن طارق وعلا عباس&rlm; (PDF)
 
 
 ### HTML and CSS
@@ -50,7 +50,7 @@
 
 ### JavaScript
 
-* [تعلم JavaScript&rlm;](https://itwadi.com/node/3002) - Cody Lindley,&rlm; عبداللطيف ايمش (PDF)
+* [تعلم JavaScript&rlm;](https://itwadi.com/node/3002) - Cody Lindley,&rlm; عبداللطيف ايمش&rlm; (PDF)
 * [سلسلة تعلم Next.js&rlm; بالعربية](https://blog.abdelhadi.org/learn-nextjs-in-arabic/) - Flavio Copes,&rlm; عبدالهادي الأندلسي
 
 
@@ -64,7 +64,7 @@
 * [أوبنتو ببساطة](https://www.simplyubuntu.com) - Ahmed AbouZaid&rlm; (PDF)
 * [دفتر مدير دبيان](https://ar.debian-handbook.info) - Raphaël Hertzog, Roland Mas, MUHAMMET SAİT Muhammet Sait&rlm; (PDF, HTML&rlm;)
 * [دليل إدارة خواديم أوبنتو 14.04&rlm;](https://academy.hsoub.com/files/10-دليل-إدارة-خواديم-أوبنتو/) - Ubuntu documentation team, Abdullatif Eymash&rlm; (PDF)
-* [سطر أوامر لينكس](https://itwadi.com/node/2765) - Willam E. Shotts Jr.,&rlm; ترجمة عبد اللطيف ايمش (PDF)
+* [سطر أوامر لينكس](https://itwadi.com/node/2765) - Willam E. Shotts Jr.,&rlm; ترجمة عبد اللطيف ايمش&rlm; (PDF)
 
 
 ### Open Source Software
@@ -74,7 +74,7 @@
 
 ### Operating Systems
 
-* [أنظمة التشغيل للمبرمجين](https://academy.hsoub.com/files/24-أنظمة-التشغيل-للمبرمجين/) - Allen B. Downey,&rlm; ترجمة علا عباس (PDF)
+* [أنظمة التشغيل للمبرمجين](https://academy.hsoub.com/files/24-أنظمة-التشغيل-للمبرمجين/) - Allen B. Downey,&rlm; ترجمة علا عباس&rlm; (PDF)
 
 
 ### Python
@@ -105,7 +105,7 @@
 
 #### PostgreSQL
 
-* [الدليل العملي إلى قواعد بيانات PostgreSQL&rlm;](https://academy.hsoub.com/files/18-%D8%A7%D9%84%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D9%8A-%D8%A5%D9%84%D9%89-%D9%82%D9%88%D8%A7%D8%B9%D8%AF-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-postgresql/) - Craig Kerstiens،&rlm; مصطفى عطا العايش (PDF)
+* [الدليل العملي إلى قواعد بيانات PostgreSQL&rlm;](https://academy.hsoub.com/files/18-%D8%A7%D9%84%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D9%8A-%D8%A5%D9%84%D9%89-%D9%82%D9%88%D8%A7%D8%B9%D8%AF-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-postgresql/) - Craig Kerstiens،&rlm; مصطفى عطا العايش&rlm; (PDF)
 * [بوستجريسكل كتاب الوصفات](https://itwadi.com/PostgreSQL_Cookbook) - Chitij Chauhan&rlm; (PDF)
 
 

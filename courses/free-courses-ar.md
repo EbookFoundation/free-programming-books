@@ -65,12 +65,12 @@
 * [Data Structure&rlm;](https://www.youtube.com/playlist?list=PLwCMLs3sjOY4UQq4vXgGPwGLVX1Y5faaS) - Hard-Code&rlm;
 * [Data Structure : JavaScript (leetcode problem solving)&rlm;](https://www.youtube.com/playlist?list=PLS-MrzRLZtmdIHJ-Osvv_sJO1Msc4VM_7) - Shadow Coding&rlm;
 * [Data Structure C++&lrm;&rlm;](https://www.youtube.com/playlist?list=PLsGJzJ8SQXTcsXRVviurGei0lf_t_I4D8) - Mega Code&rlm;
-* [Data Structures and Algorithms&rlm;](https://www.youtube.com/playlist?list=PL0vtyWBHY2NVOtPYuz0rNw6kmuLmVZ780) - Tarek Alabd&rlm; (:construction: *in process*)
+* [Data Structures and Algorithms&rlm;](https://www.youtube.com/playlist?list=PL0vtyWBHY2NVOtPYuz0rNw6kmuLmVZ780) - Tarek Alabd&rlm; (:construction: *in process*&rlm;)
 * [Data Structures Full Course In Arabic&rlm;](https://www.youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp) - Adel Nasim&rlm;
 * [grokking-algorithms&rlm;](https://www.youtube.com/playlist?list=PLIxq078xdGdZl38Yx2IhYc_YpKjx7MAXW) - Nehal Elsamoly&rlm;
 * [Problem solving (Arabic)&rlm;](https://www.youtube.com/playlist?list=PLYknlDiw2kSwdDhTSDoX7ZoVEle8nbZdk) - Muhammed Afifi&rlm;
 * [Problems Solving With C++ Level One&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyX4CCOP--TR36SfD5g7gru) - Elzero Web School&rlm;
-* [Problems Solving With C++ Level Two&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwgefuRqj8OB5ioMT1eC_EZ) - Elzero Web School&rlm; (:construction: *in process*)
+* [Problems Solving With C++ Level Two&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwgefuRqj8OB5ioMT1eC_EZ) - Elzero Web School&rlm; (:construction: *in process*&rlm;)
 * [Sorting algorithms \|&rlm; خوارزميات الترتيب](https://www.youtube.com/playlist?list=PLINp1xZ5bPrpmnL0cdk80czipnIqPAzWH) - DevLoopers&rlm;
 * [Standard Template Library (STL) Full Tutorial Using C++ In Arabic&rlm;](https://www.youtube.com/playlist?list=PLCInYL3l2AainAE4Xq2kdNGDfG0bys2xp) - Adel Nasim&rlm;
 
@@ -204,11 +204,11 @@
 
 ### Deep Learning
 
-* [14 الكورس الأول : التعلم العميق و الشبكات العصبية](https://www.youtube.com/playlist?list=PL6-3IRz2XF5WyBLsw6yJYWIiFJ1OmmRyK) - Hesham Asem&rlm;
-* [15 الكورس الثاني : تطوير الشبكات العميقة](https://www.youtube.com/playlist?list=PL6-3IRz2XF5VAuf-d71pu2vGZDgGZnZMw) - Hesham Asem&rlm;
-* [16 الكورس الثالث : هيكلية مشاريع تعلم الآلة](https://www.youtube.com/playlist?list=PL6-3IRz2XF5XhL1i0vvBi39LA_ChPzyWw) - Hesham Asem&rlm;
-* [17 الكورس الرابع : الشبكات العصبية الملتفة CNN&rlm;](https://www.youtube.com/playlist?list=PL6-3IRz2XF5XHyhWNs-jxFtfERv4NlZmm) - Hesham Asem&rlm;
-* [18 الكورس الخامس : الشبكات العصبية المتكررة RNN&rlm;](https://www.youtube.com/playlist?list=PL6-3IRz2XF5WTcrGAWlZUL9sOGYgSsON_) - Hesham Asem&rlm;
+* [14&rlm; الكورس الأول : التعلم العميق و الشبكات العصبية](https://www.youtube.com/playlist?list=PL6-3IRz2XF5WyBLsw6yJYWIiFJ1OmmRyK) - Hesham Asem&rlm;
+* [15&rlm; الكورس الثاني : تطوير الشبكات العميقة](https://www.youtube.com/playlist?list=PL6-3IRz2XF5VAuf-d71pu2vGZDgGZnZMw) - Hesham Asem&rlm;
+* [16&rlm; الكورس الثالث : هيكلية مشاريع تعلم الآلة](https://www.youtube.com/playlist?list=PL6-3IRz2XF5XhL1i0vvBi39LA_ChPzyWw) - Hesham Asem&rlm;
+* [17&rlm; الكورس الرابع : الشبكات العصبية الملتفة CNN&rlm;](https://www.youtube.com/playlist?list=PL6-3IRz2XF5XHyhWNs-jxFtfERv4NlZmm) - Hesham Asem&rlm;
+* [18&rlm; الكورس الخامس : الشبكات العصبية المتكررة RNN&rlm;](https://www.youtube.com/playlist?list=PL6-3IRz2XF5WTcrGAWlZUL9sOGYgSsON_) - Hesham Asem&rlm;
 
 
 ### DevOps
@@ -234,13 +234,13 @@
 
 ### Flutter
 
-* [Advanced Flutter Tutorial - build E commerce App&rlm;](https://www.youtube.com/playlist?list=PLGVaNq6mHiniedDoXJd35XFBNvJAoq-xe) - Scholar Tech
-* [Best Flutter Course For Beginner in Arabic\|&rlm; افضل دوره فلاتر بالعربي](https://www.youtube.com/playlist?list=PLGVaNq6mHinjCPki-3xraQdGWKVz7PhgI) - Scholar Tech
-* [E-commerce App with Flutter & Dart&rlm;](https://www.youtube.com/playlist?list=PL0vtyWBHY2NXpW_Hazx7jCYqwVlwe7SYk) - Tarek Alabd
-* [Flutter & Dart Bootcamp For Beginners&rlm;](https://www.youtube.com/playlist?list=PL0vtyWBHY2NXQ9PxbZV8ixhIRirs8WCt_) - Tarek Alabd
-* [Flutter&rlm; بالعربى](https://www.youtube.com/playlist?list=PLMDrOnfT8EAhsiJwkzspHp_Ob6oRCHxv0) - Asem Saafan
-* [Flutter Advanced Complete Course -&rlm; بالعربي](https://www.youtube.com/playlist?list=PLwWuxCLlF_ucnfkI-_yNRCOTI-yJa5N-a) - Omar Ahmed
-* [Flutter BLoC -&rlm; بالعربي](https://www.youtube.com/playlist?list=PLwWuxCLlF_ufA0GYYjlx_R4smekKH_AuB) - Omar Ahmed
+* [Advanced Flutter Tutorial - build E commerce App&rlm;](https://www.youtube.com/playlist?list=PLGVaNq6mHiniedDoXJd35XFBNvJAoq-xe) - Scholar Tech&rlm;
+* [Best Flutter Course For Beginner in Arabic\|&rlm; افضل دوره فلاتر بالعربي](https://www.youtube.com/playlist?list=PLGVaNq6mHinjCPki-3xraQdGWKVz7PhgI) - Scholar Tech&rlm;
+* [E-commerce App with Flutter & Dart&rlm;](https://www.youtube.com/playlist?list=PL0vtyWBHY2NXpW_Hazx7jCYqwVlwe7SYk) - Tarek Alabd&rlm;
+* [Flutter & Dart Bootcamp For Beginners&rlm;](https://www.youtube.com/playlist?list=PL0vtyWBHY2NXQ9PxbZV8ixhIRirs8WCt_) - Tarek Alabd&rlm;
+* [Flutter&rlm; بالعربى](https://www.youtube.com/playlist?list=PLMDrOnfT8EAhsiJwkzspHp_Ob6oRCHxv0) - Asem Saafan&rlm;
+* [Flutter Advanced Complete Course -&rlm; بالعربي](https://www.youtube.com/playlist?list=PLwWuxCLlF_ucnfkI-_yNRCOTI-yJa5N-a) - Omar Ahmed&rlm;
+* [Flutter BLoC -&rlm; بالعربي](https://www.youtube.com/playlist?list=PLwWuxCLlF_ufA0GYYjlx_R4smekKH_AuB) - Omar Ahmed&rlm;
 * [Mastering Firebase And Flutter version 2 (2021) - Course - project&rlm; -فلاتر- مشروع - دورة - فايربيز - شرح - احتراف - كورس](https://www.youtube.com/playlist?list=PL93xoMrxRJIve-GSKU61X6okh5pncG0sH) - Wael Abu hamza&rlm;
 * [State Management in Flutter&rlm;](https://www.youtube.com/playlist?list=PL0vtyWBHY2NUxuaEebvtZ6GNGScR9J2QI) - Tarek Alabd&rlm;
 
@@ -414,17 +414,17 @@
 ### Machine Learning
 
 * [01 machine learning&rlm; تعليم الآلة , القسم الأول : مقدمة](https://www.youtube.com/playlist?list=PL6-3IRz2XF5Vf1RAHyBo4tRzT8lEavPhR) - Hesham Asem&rlm;
-* [02 تعليم الآلة , القسم الثاني : التوقع Machine learning , Regression&rlm;](https://www.youtube.com/playlist?list=PL6-3IRz2XF5UJE2PbY7UU4SHi7UpV1mXo) - Hesham Asem&rlm;
-* [03 تعليم الآلة , القسم الثالث : بايثون Machine learning , Python&rlm;](https://www.youtube.com/playlist?list=PL6-3IRz2XF5UM-FWfQeF1_YhMMa12Eg3s) - Hesham Asem&rlm;
-* [04 القسم الرابع : التصنيف Classification & Logistic Regression&rlm;](https://www.youtube.com/playlist?list=PL6-3IRz2XF5Uq7PkI_PWOm_DLC2CFvSzU) - Hesham Asem&rlm;
-* [05 القسم الخامس : الشبكات العصبية Neural Network&rlm;](https://www.youtube.com/playlist?list=PL6-3IRz2XF5UX-Yi32r925nsgW-3GrnSa) - Hesham Asem&rlm;
-* [06 القسم السادس : نظام الدعم الآلي SVM&rlm;](https://www.youtube.com/playlist?list=PL6-3IRz2XF5U98PPtkc34sg7EEGC34WRs) - Hesham Asem&rlm;
-* [07 القسم السابع : التعليم بدون إشراف Unsupervised ML&rlm;](https://www.youtube.com/playlist?list=PL6-3IRz2XF5VEygzpmG1GZgI8l1xwPDBP) - Hesham Asem&rlm;
-* [08 القسم الثامن : مواضيع هامة في تعليم الآلة](https://www.youtube.com/playlist?list=PL6-3IRz2XF5UnONA8-ENhR0NE04mIllqB) - Hesham Asem&rlm;
-* [09 القسم التاسع : تكنيكات حديثة في تعليم الآلة](https://www.youtube.com/playlist?list=PL6-3IRz2XF5XJKEXITqCNQN8209q3qlrL) - Hesham Asem&rlm;
-* [10 القسم العاشر : مكتبة سايكيتليرن Sklearn Library&rlm;](https://www.youtube.com/playlist?list=PL6-3IRz2XF5X_9JeJh1xeciAbkijvc09k) - Hesham Asem&rlm;
-* [11 القسم الحادي عشر : تنسر فلو و كيراس TensorFlow & Keras&rlm;](https://www.youtube.com/playlist?list=PL6-3IRz2XF5VbuU2T0gS_mFhCpKmLxvCP) - Hesham Asem&rlm;
-* [12 القسم الثاني عشر : تطبيقات عملية من كاجل و جيتهاب Kaggle & Github&rlm;](https://www.youtube.com/playlist?list=PL6-3IRz2XF5XA13ZqfacovmyOLjYwwhMt) - Hesham Asem&rlm;
+* [02&rlm; تعليم الآلة , القسم الثاني : التوقع Machine learning , Regression&rlm;](https://www.youtube.com/playlist?list=PL6-3IRz2XF5UJE2PbY7UU4SHi7UpV1mXo) - Hesham Asem&rlm;
+* [03&rlm; تعليم الآلة , القسم الثالث : بايثون Machine learning , Python&rlm;](https://www.youtube.com/playlist?list=PL6-3IRz2XF5UM-FWfQeF1_YhMMa12Eg3s) - Hesham Asem&rlm;
+* [04&rlm; القسم الرابع : التصنيف Classification & Logistic Regression&rlm;](https://www.youtube.com/playlist?list=PL6-3IRz2XF5Uq7PkI_PWOm_DLC2CFvSzU) - Hesham Asem&rlm;
+* [05&rlm; القسم الخامس : الشبكات العصبية Neural Network&rlm;](https://www.youtube.com/playlist?list=PL6-3IRz2XF5UX-Yi32r925nsgW-3GrnSa) - Hesham Asem&rlm;
+* [06&rlm; القسم السادس : نظام الدعم الآلي SVM&rlm;](https://www.youtube.com/playlist?list=PL6-3IRz2XF5U98PPtkc34sg7EEGC34WRs) - Hesham Asem&rlm;
+* [07&rlm; القسم السابع : التعليم بدون إشراف Unsupervised ML&rlm;](https://www.youtube.com/playlist?list=PL6-3IRz2XF5VEygzpmG1GZgI8l1xwPDBP) - Hesham Asem&rlm;
+* [08&rlm; القسم الثامن : مواضيع هامة في تعليم الآلة](https://www.youtube.com/playlist?list=PL6-3IRz2XF5UnONA8-ENhR0NE04mIllqB) - Hesham Asem&rlm;
+* [09&rlm; القسم التاسع : تكنيكات حديثة في تعليم الآلة](https://www.youtube.com/playlist?list=PL6-3IRz2XF5XJKEXITqCNQN8209q3qlrL) - Hesham Asem&rlm;
+* [10&rlm; القسم العاشر : مكتبة سايكيتليرن Sklearn Library&rlm;](https://www.youtube.com/playlist?list=PL6-3IRz2XF5X_9JeJh1xeciAbkijvc09k) - Hesham Asem&rlm;
+* [11&rlm; القسم الحادي عشر : تنسر فلو و كيراس TensorFlow & Keras&rlm;](https://www.youtube.com/playlist?list=PL6-3IRz2XF5VbuU2T0gS_mFhCpKmLxvCP) - Hesham Asem&rlm;
+* [12&rlm; القسم الثاني عشر : تطبيقات عملية من كاجل و جيتهاب Kaggle & Github&rlm;](https://www.youtube.com/playlist?list=PL6-3IRz2XF5XA13ZqfacovmyOLjYwwhMt) - Hesham Asem&rlm;
 * [13 ML Helper Tutorials&rlm; برنامج المساعد في تعليم الآلة](https://www.youtube.com/playlist?list=PL6-3IRz2XF5VdA0sd-nLM0LMzhfivfwmu) - Hesham Asem&rlm;
 * [Introduction to Machine Learning&rlm;](https://www.youtube.com/playlist?list=PL5JZLxl_tFCdOXYNVz7Wl7XyFR67q658r) - Khaled Mostafa Elsayed&rlm;
 

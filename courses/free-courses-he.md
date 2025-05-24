@@ -9,7 +9,7 @@
 
 ### <a id="cpp"></a>C++
 
-* [מבוא לתכנות בשפת C++&lrm;](https://campus.gov.il/course/course-v1-basmach-pc264/) (קמפוסIL ובסמ״ח)
+* [מבוא לתכנות בשפת C++&lrm;](https://campus.gov.il/course/course-v1-basmach-pc264/) (קמפוסIL&lrm; ובסמ״ח)
 
 
 ### Python
@@ -22,6 +22,6 @@
 
 ### R
 
-* [מבוא לתכנות ועיבוד נתונים בשפת R&rlm;](https://campus.gov.il/course/telhai-acd-rfp4-telhai-r/) (קמפוסIL ומכללת תל־חי)
+* [מבוא לתכנות ועיבוד נתונים בשפת R&rlm;](https://campus.gov.il/course/telhai-acd-rfp4-telhai-r/) (קמפוסIL&lrm; ומכללת תל־חי)
 
 </div>

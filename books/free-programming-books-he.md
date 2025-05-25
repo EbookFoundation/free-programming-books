@@ -1,4 +1,4 @@
-<div dir="rtl">
+<div dir="rtl" markdown="1">
 
 ### Index
 
@@ -46,5 +46,6 @@
 ### Python
 
 * [תכנות בשפת פייתון](https://data.cyber.org.il/python/python_book.pdf) – ברק גונן&rlm;, המרכז לחינוך סייבר&rlm; (PDF)
+
 
 </div>

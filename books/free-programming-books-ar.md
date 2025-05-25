@@ -64,7 +64,7 @@
 * [أوبنتو ببساطة](https://www.simplyubuntu.com) - Ahmed AbouZaid&rlm; (PDF)
 * [دفتر مدير دبيان](https://ar.debian-handbook.info) - Raphaël Hertzog, Roland Mas, MUHAMMET SAİT Muhammet Sait&rlm; (PDF, HTML&rlm;)
 * [دليل إدارة خواديم أوبنتو 14.04&rlm;](https://academy.hsoub.com/files/10-دليل-إدارة-خواديم-أوبنتو/) - Ubuntu documentation team, Abdullatif Eymash&rlm; (PDF)
-* [سطر أوامر لينكس](https://itwadi.com/node/2765) - Willam E. Shotts Jr.,&rlm; ترجمة عبد اللطيف ايمش&rlm; (PDF)
+* [سطر أوامر لينكس](https://itwadi.com/node/2765) - Willam E. Shotts Jr.&lrm;, ترجمة عبد اللطيف ايمش&rlm; (PDF)
 
 
 ### Open Source Software

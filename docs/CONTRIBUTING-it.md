@@ -262,3 +262,52 @@ Se riesci a stamparlo e conservarne l'essenza, non è un tutorial interattivo.
 
 - È possibile specificare più di un file da controllare, utilizzando un singolo spazio per separare ogni voce.
 - Se specifichi più di un file, i risultati della build si basano sul risultato dell'ultimo file controllato. Dovresti essere consapevole che potresti ottenere il passaggio di build verdi a causa di ciò, quindi assicurati di ispezionare il registro di build alla fine della Pull Request facendo clic su "Show all checks" -> "Details".
+
+
+### Come risolvere gli errori del linter RTL/LTR
+
+Se viene eseguito il linter RTL/LTR Markdown Linter (sui file `*-ar.md`, `*-he.md`, `*-fa.md`, `*-ur.md`) e si vedono errori o warning:
+
+- **Parole LTR** (ad esempio "HTML", "JavaScript") in testo RTL: aggiungi `&rlm;` immediatamente dopo ogni segmento LTR;
+- **Simboli LTR** (ad esempio "C#", "C++"): aggiungi `&lrm;` immediatamente dopo ogni simbolo LTR;
+
+#### Esempi
+
+**SCORRETTO**
+```html
+<div dir="rtl" markdown="1">
+* [كتاب الأمثلة في R](URL) - John Doe (PDF)
+</div>
+```
+**CORRETTO**
+```html
+<div dir="rtl" markdown="1">
+* [كتاب الأمثلة في R&rlm;](URL) - John Doe&rlm; (PDF)
+</div>
+```
+---
+**SCORRETTO**
+```html
+<div dir="rtl" markdown="1">
+* [Tech Podcast - بودكاست المثال](URL) – Ahmad Hasan, محمد علي
+</div>
+```
+**CORRETTO**
+```html
+<div dir="rtl" markdown="1">
+* [Tech Podcast - بودكاست المثال](URL) – Ahmad Hasan,&rlm; محمد علي
+</div>
+```
+---
+**SCORRETTO**
+```html
+<div dir="rtl" markdown="1">
+* [أساسيات C#](URL)
+</div>
+```
+**CORRETTO**
+```html
+<div dir="rtl" markdown="1">
+* [أساسيات C#&lrm;](URL)
+</div>
+```

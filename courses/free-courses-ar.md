@@ -59,7 +59,7 @@
 * [Algorithms - Full Coures In Arabic&rlm;](https://www.youtube.com/playlist?list=PLwCMLs3sjOY6KH-8c9F-lMWn-r02hyoV_) - Hard-Code&rlm;
 * [Algorithms Design & Analysis&rlm;](https://www.youtube.com/playlist?list=PLEBRPBUkZ4maAlTZw3eZFwfwIGXaln0in) - FCI-Career-Build&rlm;
 * [C++ Data Structures -&rlm; تراكيب البيانات](https://www.youtube.com/playlist?list=PL1DUmTEdeA6JlommmGP5wicYLxX5PVCQt) - محمد الدسوقي
-* [Competitive Programming and Problem Solving](https://www.youtube.com/playlist?list=PLCInYL3l2AagpjRJQp0q8D1D3Uuh1hsVH) - Adel Nasim&rlm;
+* [Competitive Programming and Problem Solving&rlm;](https://www.youtube.com/playlist?list=PLCInYL3l2AagpjRJQp0q8D1D3Uuh1hsVH) - Adel Nasim&rlm;
 * [CS Master - Level 1- Algorithms & Data Structures&rlm; الخوارزميات وهياكل البيانات](https://www.youtube.com/playlist?list=PLL2zWZTDFZzjxarUL23ydiOgibhRipGYC) - KMR Script&rlm;
 * [Data structure&rlm;](https://www.youtube.com/playlist?list=PLIxq078xdGdZWUXwumK9lbEn3kKwKLTwx) - Nehal Elsamoly&rlm;
 * [Data Structure&rlm;](https://www.youtube.com/playlist?list=PLwCMLs3sjOY4UQq4vXgGPwGLVX1Y5faaS) - Hard-Code&rlm;
@@ -148,12 +148,12 @@
 #### AWS
 
 * [AWS Certified Solutions Architect - Associate By Eng-Mohammed Oday \| Arabic&rlm;](https://www.youtube.com/playlist?list=PLCIJjtzQPZJ_yv1T4eKYsY1hZxcYSjhGY) - Free4arab \| Information Technology&rlm;
-* [AWS SAA-C02 -&rlm; كورس كامل بالعربي مع المهندس عيسى أبو شريف](youtube.com/playlist?list=PLOoZRfEtk6kWSM_l9xMjDh-_MJXl03-pf) - AWS Riyadh User Group&rlm;
+* [AWS SAA-C02 - &rlm;كورس كامل بالعربي مع المهندس عيسى أبو شريف](youtube.com/playlist?list=PLOoZRfEtk6kWSM_l9xMjDh-_MJXl03-pf) - AWS Riyadh User Group&rlm;
 
 
 ### Computer Architecture
 
-* [Computer Architecture -&rlm; تنظيم وبناء الحاسب](https://www.youtube.com/playlist?list=PLMm8EjqH1EFVEVWSiBdCoBEJHffjHUScZ) - Ahmed Sallam&rlm;
+* [Computer Architecture - &rlm;تنظيم وبناء الحاسب](https://www.youtube.com/playlist?list=PLMm8EjqH1EFVEVWSiBdCoBEJHffjHUScZ) - Ahmed Sallam&rlm;
 
 
 ### Computer Science
@@ -173,42 +173,42 @@
 
 ### Dart
 
-* [Dart&rlm; بالعربى](https://www.youtube.com/playlist?list=PLMDrOnfT8EAj6Yjdki9OCLSwqdBs4xhQz) - Asem Saafan&rlm;
+* [Dart &rlm;بالعربى](https://www.youtube.com/playlist?list=PLMDrOnfT8EAj6Yjdki9OCLSwqdBs4xhQz) - Asem Saafan&rlm;
 
 
 ### Databases
 
 * [CS Master - Level 3 - Databases&rlm; قواعد البيانات](https://www.youtube.com/playlist?list=PLL2zWZTDFZzhXQ1bcYlO3PtN4MsLiG-gy) - KMR Script&rlm;
-* [Database 1 -&rlm; المقرر النظرى - Fundamentals of Database Systems&rlm;](https://www.youtube.com/playlist?list=PL37D52B7714788190) - محمد الدسوقى
+* [Database 1 - &rlm;المقرر النظرى - Fundamentals of Database Systems&rlm;](https://www.youtube.com/playlist?list=PL37D52B7714788190) - محمد الدسوقى
 * [Database Design](https://www.youtube.com/playlist?list=PLkzDzmo9y3VHDFKp7LuXd-FwbefvTL5o0) - تخاريف مبرمج
-* [Designing Data Intensive Applications&rlm; بالعربي](https://www.youtube.com/playlist?list=PLTRDUPO2OmIljJwE9XMYE_XEgEIWZDCuQ) - Ahmed Elemam&rlm;
-* [Relational Database Internals (Arabic -&rlm; عربي)](https://www.youtube.com/playlist?list=PLE8kQVoC67PzGwMMsSk3C8MvfAqcYjusF) - TechVault&rlm;
+* [Designing Data Intensive Applications &rlm;بالعربي](https://www.youtube.com/playlist?list=PLTRDUPO2OmIljJwE9XMYE_XEgEIWZDCuQ) - Ahmed Elemam&rlm;
+* [Relational Database Internals (Arabic - &rlm;عربي)](https://www.youtube.com/playlist?list=PLE8kQVoC67PzGwMMsSk3C8MvfAqcYjusF) - TechVault&rlm;
 
 
 #### NoSQL
 
-* [Mongodb -&rlm; دورة تعلم](https://www.youtube.com/playlist?list=PLfDx4cQoUNObp1ujQRNooNiadKdlflevM) - Algorithm Academy&rlm;
-* [Mongodb -&rlm; دورة قواعد بيانات(للكفيف)م](https://www.youtube.com/playlist?list=PLF8OvnCBlEY1sdUym7Cnb5Xc3d7HXLjqf) - TheNewBaghdad&rlm;
-* [Mongodb -&rlm; شرح قواعد البيانات](https://www.youtube.com/playlist?list=PLGhZWewM_75IILJm_1QDq0yPLbLQz_TCb) - Emam Academy&rlm;
+* [Mongodb - &rlm;دورة تعلم](https://www.youtube.com/playlist?list=PLfDx4cQoUNObp1ujQRNooNiadKdlflevM) - Algorithm Academy&rlm;
+* [Mongodb - &rlm;دورة قواعد بيانات(للكفيف)م](https://www.youtube.com/playlist?list=PLF8OvnCBlEY1sdUym7Cnb5Xc3d7HXLjqf) - TheNewBaghdad&rlm;
+* [Mongodb - &rlm;شرح قواعد البيانات](https://www.youtube.com/playlist?list=PLGhZWewM_75IILJm_1QDq0yPLbLQz_TCb) - Emam Academy&rlm;
 
 
 #### SQL
 
-* [Arabic MySQL Essentials&rlm; مبادئ ماي سكوال](https://www.youtube.com/playlist?list=PLL2zWZTDFZzhBxhIJkhz-B-HulZUN6YzY) - KMR Script&rlm;
-* [Database 1 -&rlm; المقرر العملى - Learn SQL In Arabic&rlm;](https://www.youtube.com/playlist?list=PL85D9FC9DFD6B9484) - محمد الدسوقى
+* [Arabic MySQL Essentials &rlm;مبادئ ماي سكوال](https://www.youtube.com/playlist?list=PLL2zWZTDFZzhBxhIJkhz-B-HulZUN6YzY) - KMR Script&rlm;
+* [Database 1 - &rlm;المقرر العملى - Learn SQL In Arabic](https://www.youtube.com/playlist?list=PL85D9FC9DFD6B9484) - &rlm;محمد الدسوقى
 * [Learn MySQL&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz6DT8SzQ1CODJTH-NIA7R9) - Elzero Web School&rlm;
-* [MS SQL Server For Beginners&rlm;](https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE) - محمد الدسوقى
-* [MySQL tutorials \|\|&rlm; بناء قواعد البيانات بكفاءة عالية](https://www.youtube.com/playlist?list=PLF8OvnCBlEY25O_Ql0CrgQUAc5NVYkWF2) - TheNewBaghdad&rlm;
-* [SQL for Data Analysis \|&rlm; شاهد كيف أصبح الفيل والدرفيل أصدقاء](https://www.youtube.com/watch?v=kb-_GbpH3sQ) -  Big Data&rlm;
+* [MS SQL Server For Beginners](https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE) - &rlm;محمد الدسوقى
+* [MySQL tutorials \|\| &rlm;بناء قواعد البيانات بكفاءة عالية](https://www.youtube.com/playlist?list=PLF8OvnCBlEY25O_Ql0CrgQUAc5NVYkWF2) - TheNewBaghdad&rlm;
+* [SQL for Data Analysis \| &rlm;شاهد كيف أصبح الفيل والدرفيل أصدقاء](https://www.youtube.com/watch?v=kb-_GbpH3sQ) -  Big Data&rlm;
 
 
 ### Deep Learning
 
-* [14&rlm; الكورس الأول : التعلم العميق و الشبكات العصبية](https://www.youtube.com/playlist?list=PL6-3IRz2XF5WyBLsw6yJYWIiFJ1OmmRyK) - Hesham Asem&rlm;
-* [15&rlm; الكورس الثاني : تطوير الشبكات العميقة](https://www.youtube.com/playlist?list=PL6-3IRz2XF5VAuf-d71pu2vGZDgGZnZMw) - Hesham Asem&rlm;
-* [16&rlm; الكورس الثالث : هيكلية مشاريع تعلم الآلة](https://www.youtube.com/playlist?list=PL6-3IRz2XF5XhL1i0vvBi39LA_ChPzyWw) - Hesham Asem&rlm;
-* [17&rlm; الكورس الرابع : الشبكات العصبية الملتفة CNN&rlm;](https://www.youtube.com/playlist?list=PL6-3IRz2XF5XHyhWNs-jxFtfERv4NlZmm) - Hesham Asem&rlm;
-* [18&rlm; الكورس الخامس : الشبكات العصبية المتكررة RNN&rlm;](https://www.youtube.com/playlist?list=PL6-3IRz2XF5WTcrGAWlZUL9sOGYgSsON_) - Hesham Asem&rlm;
+* [14 &rlm;الكورس الأول : التعلم العميق و الشبكات العصبية](https://www.youtube.com/playlist?list=PL6-3IRz2XF5WyBLsw6yJYWIiFJ1OmmRyK) - Hesham Asem&rlm;
+* [15 &rlm;الكورس الثاني : تطوير الشبكات العميقة](https://www.youtube.com/playlist?list=PL6-3IRz2XF5VAuf-d71pu2vGZDgGZnZMw) - Hesham Asem&rlm;
+* [16 &rlm;الكورس الثالث : هيكلية مشاريع تعلم الآلة](https://www.youtube.com/playlist?list=PL6-3IRz2XF5XhL1i0vvBi39LA_ChPzyWw) - Hesham Asem&rlm;
+* [17 &rlm;الكورس الرابع : الشبكات العصبية الملتفة CNN&rlm;](https://www.youtube.com/playlist?list=PL6-3IRz2XF5XHyhWNs-jxFtfERv4NlZmm) - Hesham Asem&rlm;
+* [18 &rlm;الكورس الخامس : الشبكات العصبية المتكررة RNN&rlm;](https://www.youtube.com/playlist?list=PL6-3IRz2XF5WTcrGAWlZUL9sOGYgSsON_) - Hesham Asem&rlm;
 
 
 ### DevOps
@@ -223,7 +223,7 @@
 * [Docker&rlm; سلسلة تعلم](https://www.youtube.com/playlist?list=PLX1bW_GeBRhDkTf_jbdvBbkHs2LCWVeXZ) - Codographia&rlm;
 * [Docker and Kubernetes \|&rlm; العلبة دي فيها سوعبان \| Arabic&rlm;](https://www.youtube.com/watch?v=PrusdhS2lmo) - Ahmed Sami&rlm;
 * [Docker Practical Course in Arabic -&rlm; بالعربي Docker شرح](https://www.youtube.com/playlist?list=PLzNfs-3kBUJnY7Cy1XovLaAkgfjim05RR) - Tresmerge&rlm;
-* [Software Containerization for Beginners&rlm;](https://www.youtube.com/playlist?list=PLsV97AQt78NTJTBGKI0GE3eJc2Q_SC2B-) - Passionate Coders \|&rlm; محمد المهدي
+* [Software Containerization for Beginners&rlm;](https://www.youtube.com/playlist?list=PLsV97AQt78NTJTBGKI0GE3eJc2Q_SC2B-) - Passionate Coders \| &rlm;محمد المهدي
 
 
 ### Elastic
@@ -235,13 +235,13 @@
 ### Flutter
 
 * [Advanced Flutter Tutorial - build E commerce App&rlm;](https://www.youtube.com/playlist?list=PLGVaNq6mHiniedDoXJd35XFBNvJAoq-xe) - Scholar Tech&rlm;
-* [Best Flutter Course For Beginner in Arabic\|&rlm; افضل دوره فلاتر بالعربي](https://www.youtube.com/playlist?list=PLGVaNq6mHinjCPki-3xraQdGWKVz7PhgI) - Scholar Tech&rlm;
+* [Best Flutter Course For Beginner in Arabic\| &rlm;افضل دوره فلاتر بالعربي](https://www.youtube.com/playlist?list=PLGVaNq6mHinjCPki-3xraQdGWKVz7PhgI) - Scholar Tech&rlm;
 * [E-commerce App with Flutter & Dart&rlm;](https://www.youtube.com/playlist?list=PL0vtyWBHY2NXpW_Hazx7jCYqwVlwe7SYk) - Tarek Alabd&rlm;
 * [Flutter & Dart Bootcamp For Beginners&rlm;](https://www.youtube.com/playlist?list=PL0vtyWBHY2NXQ9PxbZV8ixhIRirs8WCt_) - Tarek Alabd&rlm;
-* [Flutter&rlm; بالعربى](https://www.youtube.com/playlist?list=PLMDrOnfT8EAhsiJwkzspHp_Ob6oRCHxv0) - Asem Saafan&rlm;
-* [Flutter Advanced Complete Course -&rlm; بالعربي](https://www.youtube.com/playlist?list=PLwWuxCLlF_ucnfkI-_yNRCOTI-yJa5N-a) - Omar Ahmed&rlm;
-* [Flutter BLoC -&rlm; بالعربي](https://www.youtube.com/playlist?list=PLwWuxCLlF_ufA0GYYjlx_R4smekKH_AuB) - Omar Ahmed&rlm;
-* [Mastering Firebase And Flutter version 2 (2021) - Course - project&rlm; -فلاتر- مشروع - دورة - فايربيز - شرح - احتراف - كورس](https://www.youtube.com/playlist?list=PL93xoMrxRJIve-GSKU61X6okh5pncG0sH) - Wael Abu hamza&rlm;
+* [Flutter &rlm;بالعربى](https://www.youtube.com/playlist?list=PLMDrOnfT8EAhsiJwkzspHp_Ob6oRCHxv0) - Asem Saafan&rlm;
+* [Flutter Advanced Complete Course - &rlm;بالعربي](https://www.youtube.com/playlist?list=PLwWuxCLlF_ucnfkI-_yNRCOTI-yJa5N-a) - Omar Ahmed&rlm;
+* [Flutter BLoC - &rlm;بالعربي](https://www.youtube.com/playlist?list=PLwWuxCLlF_ufA0GYYjlx_R4smekKH_AuB) - Omar Ahmed&rlm;
+* [Mastering Firebase And Flutter version 2 (2021) - Course - project &rlm;-فلاتر- مشروع - دورة - فايربيز - شرح - احتراف - كورس](https://www.youtube.com/playlist?list=PL93xoMrxRJIve-GSKU61X6okh5pncG0sH) - Wael Abu hamza&rlm;
 * [State Management in Flutter&rlm;](https://www.youtube.com/playlist?list=PL0vtyWBHY2NUxuaEebvtZ6GNGScR9J2QI) - Tarek Alabd&rlm;
 
 
@@ -288,21 +288,21 @@
 
 ### Java
 
-* [Java -&rlm; بالعربي](https://www.youtube.com/playlist?list=PLwWuxCLlF_ucgIJOLT2KH5aQ9tt-sXyQ9) - Omar Ahmed&rlm;
+* [Java - &rlm;بالعربي](https://www.youtube.com/playlist?list=PLwWuxCLlF_ucgIJOLT2KH5aQ9tt-sXyQ9) - Omar Ahmed&rlm;
 * [JAVA Course Level 1 Basics By Arabic](https://www.youtube.com/playlist?list=PLnzqK5HvcpwTgEDztQ8y4K4-VoeoK1QCG) - محمد شوشان
 * [JAVA For Beginners - Course 1 - in Arabic](https://www.youtube.com/playlist?list=PL1DUmTEdeA6K7rdxKiWJq6JIxTvHalY8f) - محمد الدسوقى
 * [Java FX&rlm;](https://www.youtube.com/playlist?list=PLwj1YcMhLRN1ISKdFo23inpSYyzXWrGDm) - Khalid ESSAADANI&rlm;
 * [Java Programming - Eng. Marwa Radwan&rlm;](https://www.youtube.com/playlist?list=PLsECTUuTGe7okDiRTQjUOilwYssOyx-t4) - Techs Experts&rlm;
-* [JAVA Programming Course Level 2 Object Oriented Programming By Arabic&rlm;](https://www.youtube.com/playlist?list=PLnzqK5HvcpwQp6zaFd7o728neR1XhPvid) - محمد شوشان
-* [JAVA Programming Course Level 3 Graphic User Interface By Arabic&rlm;](https://www.youtube.com/playlist?list=PLnzqK5HvcpwRhWDkdkM4jSTPW3CgxKH8G) - محمد شوشان
-* [JAVA Programming Course Level 4 Connect Database and JAVA By Arabic&rlm;](https://www.youtube.com/playlist?list=PLnzqK5HvcpwTmQTPK54W95WyNzT-33MR0) - محمد شوشان
-* [JAVA Programming Full Project by Arabic (uni_staff project)&rlm; \|(المشروع الختامي بالجافا كاملا بشرح عربي )](https://www.youtube.com/playlist?list=PLnzqK5HvcpwQbsAGChtjlNPLVv6kTEXRG) - محمد شوشان
+* [JAVA Programming Course Level 2 Object Oriented Programming By Arabic](https://www.youtube.com/playlist?list=PLnzqK5HvcpwQp6zaFd7o728neR1XhPvid) - &rlm;محمد شوشان
+* [JAVA Programming Course Level 3 Graphic User Interface By Arabic](https://www.youtube.com/playlist?list=PLnzqK5HvcpwRhWDkdkM4jSTPW3CgxKH8G) - &rlm;محمد شوشان
+* [JAVA Programming Course Level 4 Connect Database and JAVA By Arabic](https://www.youtube.com/playlist?list=PLnzqK5HvcpwTmQTPK54W95WyNzT-33MR0) - &rlm;محمد شوشان
+* [JAVA Programming Full Project by Arabic (uni_staff project) \| &rlm;(المشروع الختامي بالجافا كاملا بشرح عربي)&lrm;](https://www.youtube.com/playlist?list=PLnzqK5HvcpwQbsAGChtjlNPLVv6kTEXRG) - &rlm;محمد شوشان
 * [Java SE 8 Core Features&rlm;](https://www.youtube.com/playlist?list=PLEBRPBUkZ4mZ-5ziYzaoK1leOLYHpqPXJ) - FCI-Career-Build&rlm;
 * [Java Tutorial for beginners- full course&rlm;  -تعلم البرمجة- جافا](https://www.youtube.com/playlist?list=PLwAjM63H9bRuXIojpKDei4dVLRcvqP8V7) - genial code&rlm;
 * [Learn JAVA Programming From Scratch In Arabic&rlm;](https://www.youtube.com/playlist?list=PLCInYL3l2AajYlZGzU_LVrHdoouf8W6ZN) - Adel Nasim&rlm;
 * [Object-Oriented Programming JAVA in Arabic&rlm;](https://www.youtube.com/playlist?list=PLCInYL3l2AagY7fFlhCrjpLiIFybW3yQv) - Adel Nasim&rlm;
 * [OOP -&rlm; بالعربي](https://www.youtube.com/playlist?list=PLwWuxCLlF_ue7GPvoG_Ko1x43tZw5cz9v) - Omar Ahmed&rlm;
-* [Programming 2 - Object Oriented Programming With Java&rlm;](https://www.youtube.com/playlist?list=PL1DUmTEdeA6Icttz-O9C3RPRF8R8Px5vk) - محمد الدسوقى
+* [Programming 2 - Object Oriented Programming With Java](https://www.youtube.com/playlist?list=PL1DUmTEdeA6Icttz-O9C3RPRF8R8Px5vk) - &rlm;محمد الدسوقى
 
 
 ### JavaScript
@@ -351,10 +351,10 @@
 
 #### Nest.js
 
-[كورس Nest JS&rlm; في ٣ ساعات \| Type ORM - MySql DB - Modules - Dependency Injection&rlm;](https://www.youtube.com/watch?v=RwOxUg2rsjY) - أكاديمية ترميز
-[Learn Nestjs Framework&rlm; ( بالعربي )](https://www.youtube.com/playlist?list=PLDQ11FgmbqQP1aaCCiU74LzebvZjY_S4G) - Index Academy -&rlm; اتعلم برمجة بالعربي
-[Nestjs&rlm;](https://www.youtube.com/playlist?list=PLOldSEMXUdZsFAEJwxYkE83dhm1ZkWEOL) - Mahmoud Abdullah&rlm;
-[NestJS - Progressive Node.js framework&rlm;](https://www.youtube.com/playlist?list=PLMYF6NkLrdN_5_pwGSQt2OXLDMMXpeotD) - Muhammed Essa&rlm;
+* [كورس Nest JS&rlm; في ٣ ساعات \| Type ORM - MySql DB - Modules - Dependency Injection&rlm;](https://www.youtube.com/watch?v=RwOxUg2rsjY) - أكاديمية ترميز
+* [Learn Nestjs Framework&rlm; ( بالعربي )](https://www.youtube.com/playlist?list=PLDQ11FgmbqQP1aaCCiU74LzebvZjY_S4G) - Index Academy -&rlm; اتعلم برمجة بالعربي
+* [Nestjs&rlm;](https://www.youtube.com/playlist?list=PLOldSEMXUdZsFAEJwxYkE83dhm1ZkWEOL) - Mahmoud Abdullah&rlm;
+* [NestJS - Progressive Node.js framework&rlm;](https://www.youtube.com/playlist?list=PLMYF6NkLrdN_5_pwGSQt2OXLDMMXpeotD) - Muhammed Essa&rlm;
 
 
 #### NodeJS
@@ -377,7 +377,7 @@
 
 #### Nuxt.js
 
-* [Nuxt.js Course&rlm;](https://www.youtube.com/playlist?list=PLLXntwspGdhCBdax1ZJTEX6Gg5vCwOSUL) - Mahmoud Zohdi \-&rlm; محمود زهدي
+* [Nuxt.js Course&rlm;](https://www.youtube.com/playlist?list=PLLXntwspGdhCBdax1ZJTEX6Gg5vCwOSUL) - Mahmoud Zohdi \- &rlm;محمود زهدي
 
 
 #### PugJs
@@ -413,39 +413,39 @@
 
 ### Machine Learning
 
-* [01 machine learning&rlm; تعليم الآلة , القسم الأول : مقدمة](https://www.youtube.com/playlist?list=PL6-3IRz2XF5Vf1RAHyBo4tRzT8lEavPhR) - Hesham Asem&rlm;
-* [02&rlm; تعليم الآلة , القسم الثاني : التوقع Machine learning , Regression&rlm;](https://www.youtube.com/playlist?list=PL6-3IRz2XF5UJE2PbY7UU4SHi7UpV1mXo) - Hesham Asem&rlm;
-* [03&rlm; تعليم الآلة , القسم الثالث : بايثون Machine learning , Python&rlm;](https://www.youtube.com/playlist?list=PL6-3IRz2XF5UM-FWfQeF1_YhMMa12Eg3s) - Hesham Asem&rlm;
-* [04&rlm; القسم الرابع : التصنيف Classification & Logistic Regression&rlm;](https://www.youtube.com/playlist?list=PL6-3IRz2XF5Uq7PkI_PWOm_DLC2CFvSzU) - Hesham Asem&rlm;
-* [05&rlm; القسم الخامس : الشبكات العصبية Neural Network&rlm;](https://www.youtube.com/playlist?list=PL6-3IRz2XF5UX-Yi32r925nsgW-3GrnSa) - Hesham Asem&rlm;
-* [06&rlm; القسم السادس : نظام الدعم الآلي SVM&rlm;](https://www.youtube.com/playlist?list=PL6-3IRz2XF5U98PPtkc34sg7EEGC34WRs) - Hesham Asem&rlm;
-* [07&rlm; القسم السابع : التعليم بدون إشراف Unsupervised ML&rlm;](https://www.youtube.com/playlist?list=PL6-3IRz2XF5VEygzpmG1GZgI8l1xwPDBP) - Hesham Asem&rlm;
-* [08&rlm; القسم الثامن : مواضيع هامة في تعليم الآلة](https://www.youtube.com/playlist?list=PL6-3IRz2XF5UnONA8-ENhR0NE04mIllqB) - Hesham Asem&rlm;
-* [09&rlm; القسم التاسع : تكنيكات حديثة في تعليم الآلة](https://www.youtube.com/playlist?list=PL6-3IRz2XF5XJKEXITqCNQN8209q3qlrL) - Hesham Asem&rlm;
-* [10&rlm; القسم العاشر : مكتبة سايكيتليرن Sklearn Library&rlm;](https://www.youtube.com/playlist?list=PL6-3IRz2XF5X_9JeJh1xeciAbkijvc09k) - Hesham Asem&rlm;
-* [11&rlm; القسم الحادي عشر : تنسر فلو و كيراس TensorFlow & Keras&rlm;](https://www.youtube.com/playlist?list=PL6-3IRz2XF5VbuU2T0gS_mFhCpKmLxvCP) - Hesham Asem&rlm;
-* [12&rlm; القسم الثاني عشر : تطبيقات عملية من كاجل و جيتهاب Kaggle & Github&rlm;](https://www.youtube.com/playlist?list=PL6-3IRz2XF5XA13ZqfacovmyOLjYwwhMt) - Hesham Asem&rlm;
-* [13 ML Helper Tutorials&rlm; برنامج المساعد في تعليم الآلة](https://www.youtube.com/playlist?list=PL6-3IRz2XF5VdA0sd-nLM0LMzhfivfwmu) - Hesham Asem&rlm;
+* [01 machine learning &rlm;تعليم الآلة , القسم الأول : مقدمة](https://www.youtube.com/playlist?list=PL6-3IRz2XF5Vf1RAHyBo4tRzT8lEavPhR) - Hesham Asem&rlm;
+* [02 &rlm;تعليم الآلة , القسم الثاني : التوقع Machine learning , Regression&rlm;](https://www.youtube.com/playlist?list=PL6-3IRz2XF5UJE2PbY7UU4SHi7UpV1mXo) - Hesham Asem&rlm;
+* [03 &rlm;تعليم الآلة , القسم الثالث : بايثون Machine learning , Python&rlm;](https://www.youtube.com/playlist?list=PL6-3IRz2XF5UM-FWfQeF1_YhMMa12Eg3s) - Hesham Asem&rlm;
+* [04 &rlm;القسم الرابع : التصنيف Classification & Logistic Regression&rlm;](https://www.youtube.com/playlist?list=PL6-3IRz2XF5Uq7PkI_PWOm_DLC2CFvSzU) - Hesham Asem&rlm;
+* [05 &rlm;القسم الخامس : الشبكات العصبية Neural Network&rlm;](https://www.youtube.com/playlist?list=PL6-3IRz2XF5UX-Yi32r925nsgW-3GrnSa) - Hesham Asem&rlm;
+* [06 &rlm;القسم السادس : نظام الدعم الآلي SVM&rlm;](https://www.youtube.com/playlist?list=PL6-3IRz2XF5U98PPtkc34sg7EEGC34WRs) - Hesham Asem&rlm;
+* [07 &rlm;القسم السابع : التعليم بدون إشراف Unsupervised ML&rlm;](https://www.youtube.com/playlist?list=PL6-3IRz2XF5VEygzpmG1GZgI8l1xwPDBP) - Hesham Asem&rlm;
+* [08 &rlm;القسم الثامن : مواضيع هامة في تعليم الآلة](https://www.youtube.com/playlist?list=PL6-3IRz2XF5UnONA8-ENhR0NE04mIllqB) - Hesham Asem&rlm;
+* [09 &rlm;القسم التاسع : تكنيكات حديثة في تعليم الآلة](https://www.youtube.com/playlist?list=PL6-3IRz2XF5XJKEXITqCNQN8209q3qlrL) - Hesham Asem&rlm;
+* [10 &rlm;القسم العاشر : مكتبة سايكيتليرن Sklearn Library&rlm;](https://www.youtube.com/playlist?list=PL6-3IRz2XF5X_9JeJh1xeciAbkijvc09k) - Hesham Asem&rlm;
+* [11 &rlm;القسم الحادي عشر : تنسر فلو و كيراس TensorFlow & Keras&rlm;](https://www.youtube.com/playlist?list=PL6-3IRz2XF5VbuU2T0gS_mFhCpKmLxvCP) - Hesham Asem&rlm;
+* [12 &rlm;القسم الثاني عشر : تطبيقات عملية من كاجل و جيتهاب Kaggle & Github&rlm;](https://www.youtube.com/playlist?list=PL6-3IRz2XF5XA13ZqfacovmyOLjYwwhMt) - Hesham Asem&rlm;
+* [13 ML Helper Tutorials &rlm;برنامج المساعد في تعليم الآلة](https://www.youtube.com/playlist?list=PL6-3IRz2XF5VdA0sd-nLM0LMzhfivfwmu) - Hesham Asem&rlm;
 * [Introduction to Machine Learning&rlm;](https://www.youtube.com/playlist?list=PL5JZLxl_tFCdOXYNVz7Wl7XyFR67q658r) - Khaled Mostafa Elsayed&rlm;
 
 
 ## Microservice 
 
-* [Building Microservices&rlm;](https://www.youtube.com/playlist?list=PLZafHDYyxnk5kALJAZKVAqjcJpG6ngsFq) - Mahmoud Youssef -&rlm; محمود يوسف *(:construction: in process)*
+* [Building Microservices&rlm;](https://www.youtube.com/playlist?list=PLZafHDYyxnk5kALJAZKVAqjcJpG6ngsFq) - Mahmoud Youssef - &rlm;محمود يوسف *(:construction: in process)*
 * [Microservice&rlm; بالعربي](https://www.youtube.com/playlist?list=PLZd2bo_SbAm-LKJ_x_OuOZtuwEFqbJ5B7) - Ismail Anjrini&rlm;
 * [Microservices Architecture in Arabic&rlm;](https://www.youtube.com/playlist?list=PLgAqrVq84PDdfiDow3YVsgc1q34JD415Z) - Software Architecture Talks in Arabic&rlm;
 
 
 ### Natural Language Programming
 
-* [21 NLP-01&rlm; مقدمة](https://www.youtube.com/playlist?list=PL6-3IRz2XF5XpTaCGcWlSx-hy8JcIxsU7) - Hesham Asem&rlm;
-* [22 NLP-02&rlm; أساسيات المعالجة اللغوية الطبيعية](https://www.youtube.com/playlist?list=PL6-3IRz2XF5VFSRQLI7skbH8UPEdfCFBg) - Hesham Asem&rlm;
-* [23 NLP-03&rlm; أدوات المعالجة اللغوية الطبيعية](https://www.youtube.com/playlist?list=PL6-3IRz2XF5WYpWu6Y8T3firJLflZ3Ufi) - Hesham Asem&rlm;
-* [24 NLP-04&rlm; المعالجة البسيطة للنصوص](https://www.youtube.com/playlist?list=PL6-3IRz2XF5W7brQxe9RHNpHSeUTuz-V_) - Hesham Asem&rlm;
-* [25 NLP-05&rlm; المعالجة المتقدمة للنصوص](https://www.youtube.com/playlist?list=PL6-3IRz2XF5W7QQ3mKJ1kldXpN3Vquzbc) - Hesham Asem&rlm;
-* [26 NLP-06&rlm; تجميع البيانات](https://www.youtube.com/playlist?list=PL6-3IRz2XF5UsyOPThnWFKUzSkrQwQHJ0) - Hesham Asem&rlm;
-* [27 NLP-07&rlm; الشبكات العصبية المتكررة](https://www.youtube.com/playlist?list=PL6-3IRz2XF5XZCwISqNQPFFns9bnx2wUG) - Hesham Asem&rlm;
-* [28 NLP-08&rlm; تكنيكات حديثة في المعالجة اللغوية الطبيعية](https://www.youtube.com/playlist?list=PL6-3IRz2XF5XHsUtAUid97yRi011KSDBZ) - Hesham Asem&rlm;
+* [21 NLP-01 &rlm;مقدمة](https://www.youtube.com/playlist?list=PL6-3IRz2XF5XpTaCGcWlSx-hy8JcIxsU7) - Hesham Asem&rlm;
+* [22 NLP-02 &rlm;أساسيات المعالجة اللغوية الطبيعية](https://www.youtube.com/playlist?list=PL6-3IRz2XF5VFSRQLI7skbH8UPEdfCFBg) - Hesham Asem&rlm;
+* [23 NLP-03 &rlm;أدوات المعالجة اللغوية الطبيعية](https://www.youtube.com/playlist?list=PL6-3IRz2XF5WYpWu6Y8T3firJLflZ3Ufi) - Hesham Asem&rlm;
+* [24 NLP-04 &rlm;المعالجة البسيطة للنصوص](https://www.youtube.com/playlist?list=PL6-3IRz2XF5W7brQxe9RHNpHSeUTuz-V_) - Hesham Asem&rlm;
+* [25 NLP-05 &rlm;المعالجة المتقدمة للنصوص](https://www.youtube.com/playlist?list=PL6-3IRz2XF5W7QQ3mKJ1kldXpN3Vquzbc) - Hesham Asem&rlm;
+* [26 NLP-06 &rlm;تجميع البيانات](https://www.youtube.com/playlist?list=PL6-3IRz2XF5UsyOPThnWFKUzSkrQwQHJ0) - Hesham Asem&rlm;
+* [27 NLP-07 &rlm;الشبكات العصبية المتكررة](https://www.youtube.com/playlist?list=PL6-3IRz2XF5XZCwISqNQPFFns9bnx2wUG) - Hesham Asem&rlm;
+* [28 NLP-08 &rlm;تكنيكات حديثة في المعالجة اللغوية الطبيعية](https://www.youtube.com/playlist?list=PL6-3IRz2XF5XHsUtAUid97yRi011KSDBZ) - Hesham Asem&rlm;
 * [Convolutional Neural Network (CNN)&rlm;](https://www.youtube.com/playlist?list=PL5JZLxl_tFCcKucpxtkwbneqAvHaPOCK6) - Khaled Mostafa Elsayed&rlm;
 * [NLP-Transformers&rlm;](https://www.youtube.com/playlist?list=PL5JZLxl_tFCd-ixMkn_CJPQhhQRFhZXjY) - Khaled Mostafa Elsayed&rlm;
 
@@ -509,7 +509,7 @@
 
 ### Prolog
 
-* [Logic Programming - Prolog -&rlm; برمجة منطقية](https://www.youtube.com/playlist?list=PLMm8EjqH1EFW9Faldu6D6Uh2j1EWWaTYe) - Ahmed Sallam&rlm;
+* [Logic Programming - Prolog - &rlm;برمجة منطقية](https://www.youtube.com/playlist?list=PLMm8EjqH1EFW9Faldu6D6Uh2j1EWWaTYe) - Ahmed Sallam&rlm;
 
 
 ### Python
@@ -529,8 +529,8 @@
 #### Django
 
 * [Arabic Django&rlm;](https://www.youtube.com/playlist?list=PLdZYzC8fohEKjuYyvITqYc2vL0lAWRvhs) - Elsafy Hegazy&rlm;
-* [Django 2.x&rlm;](https://www.youtube.com/playlist?list=PLTcPeoMjkuCxoyflbe4AuNWMZWulKVbr4) - شبكة علوم
-* [Django Create Blog&rlm;](https://www.youtube.com/playlist?list=PLTcPeoMjkuCyoKpr6II_2aXUUOmtCDW4f) - شبكة علوم
+* [Django 2.x](https://www.youtube.com/playlist?list=PLTcPeoMjkuCxoyflbe4AuNWMZWulKVbr4) - &rlm;شبكة علوم
+* [Django Create Blog](https://www.youtube.com/playlist?list=PLTcPeoMjkuCyoKpr6II_2aXUUOmtCDW4f) - &rlm;شبكة علوم
 * [Django Tutorial for Beginners \|&rlm; كورس دجانجو كامل للمبتدئين](https://www.youtube.com/playlist?list=PLknwEmKsW8OtK_n48UOuYGxJPbSFrICxm) - Abdelrahman Gamal&rlm;
 
 
@@ -542,7 +542,7 @@
 
 ### R
 
-* [R Tutorial For Beginners&rlm;](https://www.youtube.com/playlist?list=PL1DUmTEdeA6LKTMW3wrlT3GiFMCL_r_Sn) - محمد الدسوقي
+* [R Tutorial For Beginners](https://www.youtube.com/playlist?list=PL1DUmTEdeA6LKTMW3wrlT3GiFMCL_r_Sn) - &rlm;محمد الدسوقي
 
 
 ### RabbitMQ
@@ -568,9 +568,9 @@
 * [Behavioral Design Patterns&rlm; بالعربى](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdex66Z6ViaYFQqvFD1C_G7j) - Mohammed Reda&rlm; *(:construction: in process)*
 * [Clean Code Book -&rlm; بالعربي](https://www.youtube.com/playlist?list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX) - Omar Ahmed&rlm;
 * [Creational Design Patterns&rlm; بالعربى](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdewk9UKGBcHLulZNUBpNSKJ) - Mohammed Reda&rlm;
-* [Declarative Programming&rlm;](https://www.youtube.com/playlist?list=PLpbZuj8hP-I6F-Zj1Ay8nQ1rMnmFnlK2f) - درة الاكواد لابن حماد
+* [Declarative Programming](https://www.youtube.com/playlist?list=PLpbZuj8hP-I6F-Zj1Ay8nQ1rMnmFnlK2f) - &rlm;درة الاكواد لابن حماد
 * [Design patterns&rlm;](https://www.youtube.com/playlist?list=PLIxq078xdGdYIo2Slyt4XvBElKDcTSgHM) - Nehal Elsamoly&rlm; *(:construction: in process)*
-* [Design Patterns&rlm;](https://www.youtube.com/playlist?list=PLsV97AQt78NTrqUAZM562JbR3ljX19JFR) - Passionate Coders \|&rlm; محمد المهدي *(:construction: in process)*
+* [Design Patterns&rlm;](https://www.youtube.com/playlist?list=PLsV97AQt78NTrqUAZM562JbR3ljX19JFR) - Passionate Coders \| &rlm;محمد المهدي *(:construction: in process)*
 * [Design Patterns -&rlm; بالعربي](https://www.youtube.com/playlist?list=PLwWuxCLlF_uczNpsoKEEi7zHcuL07Otos) - Omar Ahmed&rlm; *(:construction: in process)*
 * [Software Design Patterns&rlm;](https://www.youtube.com/playlist?app=desktop&list=PLrwRNJX9gLs3oQyBoXtYimY7M5aSF0_oC) - محمد يحيى
 * [SOLID Principles&rlm;](https://www.youtube.com/playlist?list=PLZafHDYyxnk7fKmAuCJhWTMwJZ89f0Tug) - Mahmoud Youssef -&rlm; محمود يوسف *(:construction: in process)*
@@ -579,8 +579,8 @@
 * [SOLID Principles&rlm; بالعربى](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdflFSS4NigVB7aSoYPNwHTL) -  Mohammed Reda&rlm;
 * [SOLID Principles&rlm; بالعربي](https://www.youtube.com/playlist?list=PLwWuxCLlF_uevri_OpofVLXkRRFnZ7TSV) - Omar Ahmed&rlm;
 * [Structural Design Patterns&rlm; بالعربى](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdcW3viz_oXRal_FNkg2Dssm) - Mohammed Reda&rlm;
-* [Tennis Game Refactoring Kata&rlm;](https://www.youtube.com/playlist?list=PLZafHDYyxnk7XNSOaQsb8GyeuGWk75WDy) - Mahmoud Youssef -&rlm; محمود يوسف *(:construction: in process)*
-* [Write Better Code With Refactoring&rlm;](https://www.youtube.com/playlist?list=PLZafHDYyxnk5h31weDexEeNtchOgqR2ji) - Mahmoud Youssef -&rlm; محمود يوسف *(:construction: in process)*
+* [Tennis Game Refactoring Kata&rlm;](https://www.youtube.com/playlist?list=PLZafHDYyxnk7XNSOaQsb8GyeuGWk75WDy) - Mahmoud Youssef - &rlm;محمود يوسف *(:construction: in process)*
+* [Write Better Code With Refactoring&rlm;](https://www.youtube.com/playlist?list=PLZafHDYyxnk5h31weDexEeNtchOgqR2ji) - Mahmoud Youssef - &rlm;محمود يوسف *(:construction: in process)*
 
 
 ### TypeScript
@@ -603,7 +603,7 @@
 
 ### iOS
 
-* [iOS & Xcode&rlm; دورة برمجة تطبيقات الايفون باستخدام لغة سويفت](https://www.youtube.com/playlist?list=PLQaOY10EEc8bNbEBMyiJU1I-GIgs1LQfj) - بامبرمج
+* [<span dir="ltr">iOS &amp; Xcode</span> دورة برمجة تطبيقات الايفون باستخدام لغة سويفت](https://www.youtube.com/playlist?list=PLQaOY10EEc8bNbEBMyiJU1I-GIgs1LQfj) - بامبرمج
 
 
 </div>

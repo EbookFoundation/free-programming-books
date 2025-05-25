@@ -91,6 +91,10 @@ rtl_config:
     - Scrum
     - Emacs
     - IntelliJ
+    - PowerShell
+    - VS Code
+    - Sublime Text
+    - AngularJS
 
   # LTR symbols/patterns needing LRM in RTL context.
   ltr_symbols:
@@ -105,12 +109,8 @@ rtl_config:
     - Express.js
     - Next.js
     - Nuxt.js
-    - AngularJS
     - Objective-C
     - CI/CD
-    - PowerShell
-    - VS Code
-    - Sublime Text
 
   # Regex pattern for identifying pure LTR text segments
   pure_ltr_pattern: "^[\\u0000-\\u007F]+$"

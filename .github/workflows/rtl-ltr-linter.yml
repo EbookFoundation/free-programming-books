@@ -45,12 +45,35 @@ jobs:
         files: |
           **/*.md
 
+    # Check if the PR has the "RTL" label
+    - name: Check for RTL label
+      id: rtl_label
+      run: |
+        gh pr view ${{ github.event.pull_request.number }} --json labels --jq '.labels[].name' | grep -q '^RTL$' && echo "has_labels=true" >> $GITHUB_OUTPUT || echo "has_labels=false" >> $GITHUB_OUTPUT
+      env:
+        GH_TOKEN: ${{ github.token }}
+      
+    # Check if any changed file is in ar, he, fa, ur
+    - name: Check for RTL language file changes
+      id: rtl_lang_files
+      run: |
+        RTL_CHANGED=false
+        for f in ${{ steps.changed_md_files.outputs.all_changed_files }}; do
+          if [[ "$f" =~ (ar|he|fa|ur) ]]; then
+            RTL_CHANGED=true
+            break
+          fi
+        done
+        echo "rtl_changed=$RTL_CHANGED" >> $GITHUB_OUTPUT
+
     # Run the RTL/LTR Markdown linter:
     # - Scans all Markdown files for issues and writes a full log
     # - Prints GitHub Actions annotations only for issues on changed lines in changed files
     # - Fails the job if any error or warning is found on changed lines
     - name: Run RTL/LTR Markdown linter
       id: run_linter
+      if: steps.rtl_label.outputs.has_labels == 'true' || steps.rtl_lang_files.outputs.rtl_changed == 'true'
+      continue-on-error: true
       run: |
         echo "Scanning all specified paths for full log..."
         echo "Changed Markdown files for PR annotations: ${{ steps.changed_md_files.outputs.all_changed_files }}"
@@ -58,21 +81,21 @@ jobs:
         CHANGED_FILES_ARGS=""
         if [ "${{ steps.changed_md_files.outputs.all_changed_files_count }}" -gt 0 ]; then
           # Pass changed files to the script for PR annotation generation
-          # The paths from tj-actions/changed-files are space-separated
           CHANGED_FILES_ARGS="--changed-files ${{ steps.changed_md_files.outputs.all_changed_files }}"
         fi
         
         # Execute the linter.
         # Annotations for changed files will be printed to stdout by the script.
         # The script will also write a full log to 'rtl-linter-output.log'.
-        # If the script exits with a non-zero code (issues found), this step will fail.
+        # If the script exits with a non-zero code (error found), this step will fail.
         python3 scripts/rtl_ltr_linter.py books casts courses more ${CHANGED_FILES_ARGS} --log-file rtl-linter-output.log
-
-    # Upload the linter output log as a workflow artifact for further inspection
+    
+    # Upload the linter output log as a workflow artifact
+    # Only if the linter step was executed (success or failure)
     - name: Upload linter output artifact
+      if: steps.run_linter.conclusion == 'success' || steps.run_linter.conclusion == 'failure'
       uses: actions/upload-artifact@v4
-      if: always() # Upload artifact even if the linter step failed
       with:
         name: rtl-linter-output # Name of the artifact
         path: rtl-linter-output.log # Path to the output file
-        retention-days: 7 # How long to keep the artifact
+        if-no-files-found: ignore # Ignore if no files are found

@@ -54,7 +54,7 @@ def load_config(path):
             'pure_ltr': 'notice',       # A purely LTR segment in an RTL context might need a trailing &lrm;
             'author_meta': 'notice'     # Specific rules for LTR authors/metadata in RTL contexts.
         },
-        'ignore_meta': ['PDF', 'EPUB', 'HTML'],
+        'ignore_meta': ['PDF', 'EPUB', 'HTML', 'podcast', 'videocast'],
         'min_ltr_length': 3,
         'rlm_entities': ['&rlm;', '&#x200F;', '&#8207;'],
         'lrm_entities': ['&lrm;', '&#x200E;', '&#8206;']
@@ -500,6 +500,9 @@ def main():
     for f in changed_files_set:
         changed_lines_map[f] = get_changed_lines_for_file(f)
 
+    # Flag to check if any issues were found
+    any_issues = False
+
     # Open the specified log file in write mode with UTF-8 encoding
     with open(args.log_file, 'w', encoding='utf-8') as log_f:
 
@@ -511,21 +514,36 @@ def main():
 
             # If the path is a directory, recursively scan for .md files
             if os.path.isdir(normalized_scan_path):
+
+                # Walk through the directory and its subdirectories to find all Markdown files
                 for root, _, files in os.walk(normalized_scan_path):
+
+                    # For each file in the directory
                     for fn in files:
+
+                        # If the file is a Markdown file, lint it
                         if fn.lower().endswith('.md'):
                             file_path = os.path.normpath(os.path.join(root, fn))
                             total += 1
                             issues_found = lint_file(file_path, cfg)
+
+                            # Process each issue found
                             for issue_str in issues_found:
                                 log_f.write(issue_str + '\n')
-                                # Print annotation only if file and line are changed in PR
+                                any_issues = True # Flag to check if any issues were found
+
+                                # For GitHub Actions PR annotations: print only if the file is changed
+                                # and the issue is on a line that was actually modified or added in the PR
                                 if file_path in changed_files_set:
                                     m = re.search(r'line=(\d+)', issue_str)
                                     if m and int(m.group(1)) in changed_lines_map.get(file_path, set()):
                                         print(issue_str)
-                                        if issue_str.startswith("::error") or issue_str.startswith("::warning"):
+
+                                        # Count errors on changed lines for the exit code logic
+                                        if issue_str.startswith("::error"):
                                             annotated_errs += 1
+                                
+                                # Count all errors/warnings for reporting/debugging purposes
                                 if issue_str.startswith("::error") or issue_str.startswith("::warning"):
                                     errs += 1
 
@@ -539,6 +557,7 @@ def main():
 
                     # Always write the issue to the log file for full reporting
                     log_f.write(issue_str + '\n')
+                    any_issues = True # Flag to check if any issues were found
 
                     # For GitHub Actions PR annotations: print only if the file is changed
                     # and the issue is on a line that was actually modified or added in the PR
@@ -549,19 +568,27 @@ def main():
 
                         if m and int(m.group(1)) in changed_lines_map.get(normalized_scan_path, set()):
 
-                            # Print the annotation so that GitHub Actions can display it in the PR summary
+                            # For GitHub Actions PR annotations: print the annotation
+                            # so that GitHub Actions can display it in the PR summary
                             print(issue_str)
 
-                            # Count errors/warnings on changed lines for the exit code logic
-                            if issue_str.startswith("::error") or issue_str.startswith("::warning"):
+                            # Count errors on changed lines for the exit code logic
+                            if issue_str.startswith("::error"):
                                 annotated_errs += 1
 
                     # Count all errors/warnings for reporting/debugging purposes
                     if issue_str.startswith("::error") or issue_str.startswith("::warning"):
                         errs += 1
 
+    # If no issues were found, remove the log file
+    if not any_issues:
+        try:
+            os.remove(args.log_file)
+        except Exception:
+            pass
+
     # Print a debug message to stderr summarizing the linting process
-    print(f"::debug::Processed {total} files, found {errs} issues.", file=sys.stderr)
+    print(f"::notice ::Processed {total} files, found {errs} issues.")
 
     # Exit code: 1 only if there are annotated errors/warnings on changed lines
     sys.exit(1 if annotated_errs else 0)

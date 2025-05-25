@@ -10,9 +10,13 @@
 * [LaTeX](#latex)
 * [Linux](#linux)
 * [PHP](#php)
-    * [Symfony](#symfony)
+  <ul dir="rtl">
+    <li><a href="#symfony">Symfony</a></li>
+  </ul>
 * [Python](#python)
-    * [Django](#django)
+  <ul dir="rtl">
+    <li><a href="#django">Django</a></li>
+  </ul>
 * [R](#r)
 
 
@@ -47,7 +51,7 @@
 
 ### JavaScript
 
-* [جاوااسکریپت شیوا](http://eloquentjs.ir) - مارین هاوربک, مهران عفتی (HTML)
+* [جاوااسکریپت شیوا](http://eloquentjs.ir) - مارین هاوربک, مهران عفتی&rlm; (HTML)
 * [ریکت جی اس](https://github.com/reactjs/fa.reactjs.org)
 * [یادگیری اصولی جاوااسکریپت](https://github.com/Mariotek/BetterUnderstandingOfJavascript)
 
@@ -73,7 +77,7 @@
 
 ### Python
 
-* [پایتون به پارسی](https://python.coderz.ir) - سعید درویش (HTML)
+* [پایتون به پارسی](https://python.coderz.ir) - سعید درویش&rlm; (HTML)
 * [ترجمه آزاد کتاب Asyncio in Python&rlm;](https://github.com/ftg-iran/aip-persian)
 
 

@@ -286,3 +286,52 @@ If you can print it out and retain its essence, it's not an Interactive Tutorial
 
 - You may specify more than one file to check, using a single space to separate each entry.
 - If you specify more than one file, results of the build are based on the result of the last file checked. You should be aware that you may get passing green builds due to this so be sure to inspect the build log at the end of the Pull Request by clicking on "Show all checks" -> "Details".
+
+
+### Fixing RTL/LTR linter errors
+
+If you run the RTL/LTR Markdown Linter (on `*-ar.md`, `*-he.md`, `*-fa.md`, `*-ur.md` files) and see errors or warnings:
+
+- **LTR words** (e.g. “HTML”, “JavaScript”) in RTL text: append `&rlm;` immediately after each LTR segment;
+- **LTR symbols** (e.g. “C#”, “C++”): append `&lrm;` immediately after each LTR symbol;
+
+#### Examples
+
+**BAD**
+```html
+<div dir="rtl" markdown="1">
+* [كتاب الأمثلة في R](URL) - John Doe (PDF)
+</div>
+```
+**GOOD**
+```html
+<div dir="rtl" markdown="1">
+* [كتاب الأمثلة في R&rlm;](URL) - John Doe&rlm; (PDF)
+</div>
+```
+---
+**BAD**
+```html
+<div dir="rtl" markdown="1">
+* [Tech Podcast - بودكاست المثال](URL) – Ahmad Hasan, محمد علي
+</div>
+```
+**GOOD**
+```html
+<div dir="rtl" markdown="1">
+* [Tech Podcast - بودكاست المثال](URL) – Ahmad Hasan,&rlm; محمد علي
+</div>
+```
+---
+**BAD**
+```html
+<div dir="rtl" markdown="1">
+* [أساسيات C#](URL)
+</div>
+```
+**GOOD**
+```html
+<div dir="rtl" markdown="1">
+* [أساسيات C#&lrm;](URL)
+</div>
+```

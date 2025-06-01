@@ -42,8 +42,8 @@
 ### JavaScript
 
 -   [জাভাস্ক্রিপ্ট ল্যাঙ্গুয়েজের এর ব্যাসিক, অ্যাডভান্স](https://js.howtocode.dev) - Nuhil Mehdi (howtocode.dev)
--   [হাতেকলমে জাভাস্ক্রিপ্ট: সম্পূর্ণ বাংলায় হাতেকলমে জাভাস্ক্রিপ্ট শিখুন](https://with.zonayed.me/js-basic/) - Zonayed Ahmed (HTML)
 -   [জাভাস্ক্রিপ্ট টিউটোরিয়াল-শিখুন গল্পে গল্পে সাথে 1100+ Exercise](https://web.programming-hero.com/home/ph-book/জাভাস্ক্রিপ্ট-টিউটোরিয়াল/প্রোগ্রামিং-শুরুর-আগে-যত-ভয়/জাভাস্ক্রিপ্ট-পরিচিতি) - Jhankar Mahbub
+-   [হাতেকলমে জাভাস্ক্রিপ্ট: সম্পূর্ণ বাংলায় হাতেকলমে জাভাস্ক্রিপ্ট শিখুন](https://with.zonayed.me/js-basic/) - Zonayed Ahmed (HTML)
 
 ### Machine Learning
 

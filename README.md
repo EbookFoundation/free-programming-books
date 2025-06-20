@@ -233,3 +233,13 @@ You might notice that there are [some missing translations here](docs/README.md#
 ## License
 
 Each file included in this repository is licensed under the [CC BY License](LICENSE).
+
+## Зміни, внесені для навчального завдання
+
+Автор: Зиков Михайло  
+Група: ТЦР-34  
+Варіант: 11
+
+Цей форк був змінений у межах виконання практичної роботи №1 з дисципліни  
+**"Програмування мобільних платформ"**
+

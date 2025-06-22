@@ -566,8 +566,8 @@
 
 ### Rust
 
-* [Rust للغلابة](https://www.youtube.com/playlist?list=PLald6EODoOJU0GMuYHlkS9MLhTPE7HiaT) - Ahmed Farghal
-* [Rust and chill بالعربي](https://www.youtube.com/playlist?list=PLald6EODoOJWcSXfix8tgr5aVS76IU11M) - Ahmed Farghal
+* [Rust-&rlm; للغلابة](https://www.youtube.com/playlist?list=PLald6EODoOJU0GMuYHlkS9MLhTPE7HiaT) - Ahmed Farghal&rlm;
+* [Rust and chill-&rlm; بالعربي](https://www.youtube.com/playlist?list=PLald6EODoOJWcSXfix8tgr5aVS76IU11M) - Ahmed Farghal&rlm;
 
 
 ### Software Architecture

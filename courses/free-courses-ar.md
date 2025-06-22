@@ -48,6 +48,7 @@
 * [R](#r)
 * [RabbitMQ](#rabbitmq)
 * [Redis](#redis)
+* [Rust](#rust)
 * [Software Architecture](#software-architecture)
 * [TypeScript](#typescript)
     * [Angular](#angular)
@@ -561,6 +562,12 @@
 * [التعابير النمطية‌ \| REGEX&rlm;](https://www.youtube.com/playlist?list=PLt0HRIA9i35v2W3JFiCIeUMC4GoD9titN) - Learn With Naw&rlm;
 * [Crash Course - Regular Expression - Regex \|&rlm; دورة مكثفة - التعابير النظامية](https://www.youtube.com/playlist?list=PLBPdtL8DZBZISjop48YSJ82FF-2uIhe-f) - Abdallah Alfaham •&rlm; عبد الله الفحام
 * [Regular Expression tutorial - Arabic&rlm;](https://www.youtube.com/playlist?list=PLwCMLs3sjOY4aVMg7hgQGHyQBZnHgFjJk) - Hard-Code&rlm;
+
+
+### Rust
+
+* [Rust للغلابة](https://www.youtube.com/playlist?list=PLald6EODoOJU0GMuYHlkS9MLhTPE7HiaT) - Ahmed Farghal
+* [Rust and chill بالعربي](https://www.youtube.com/playlist?list=PLald6EODoOJWcSXfix8tgr5aVS76IU11M) - Ahmed Farghal
 
 
 ### Software Architecture

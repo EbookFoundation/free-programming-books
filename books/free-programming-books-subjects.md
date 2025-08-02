@@ -930,7 +930,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Web Browser Engineering](https://browser.engineering/index.html) - Pavel Panchekha, Chris Harrelson
 * [Working with Web APIs](https://launchschool.com/books/working_with_apis) - Launch School
 * [Your API Is Bad](https://leanpub.com/yourapiisbad/read) - Paddy Foran
-
+* [Safe by design](https://github.com/SanQri/safe-by-design) - Mykola Haliullin
 
 ### Standards
 

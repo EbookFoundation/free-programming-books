@@ -105,6 +105,7 @@
 * [Sliding Window Algorithm - Face to Face Interviews](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeM8BDJmIYDaoQ5zuwyxnfj) - Aditya Verma
 * [Time and Space - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFc7hJ5eeCb579PS8p-en4f) - Pepcoding
 
+
 #### Soft Computing
 
 * [Application of Soft Computing](https://www.youtube.com/playlist?list=PLLmJo5LKwNNiSl_a8II-0xyujwPfdXFHR) - AKTU TechQuantum

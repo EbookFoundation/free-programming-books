@@ -84,6 +84,7 @@
 * [Bit Manipulation - Level 2](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFJRioti3ZV7QabwoJK6eKe) - Pepcoding
 * [Complete C++ DSA Course \| Data Structures & Algorithms Playlist](https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt) - Apna College
 * [Complete C++ Placement DSA Course](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA) - CodeHelp by Babbar
+* [Complete DAA Design and Analysis of Algorithm in one shot \| Semester Exam | Hindi](https://www.youtube.com/watch?v=z6DY_YSdyww) - KnowledgeGATE by Sanchit Sir
 * [Data Structures and Algorithms Course in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi) - CodeWithHarry
 * [Data Structures and Algorithms for GATE — Complete Playlist](https://www.youtube.com/playlist?list=PLC36xJgs4dxFCQVvjMrrjcY3XrcMm2GHy) - Gate CSE lectures by Amit Khurana
 * [Data Structures and Algorithms in Python](https://www.youtube.com/playlist?list=PLyMom0n-MBrpakdIZvnhd6PFUCKNAyKo1) - Jovian
@@ -221,6 +222,7 @@
 * [C++ Tutorial In Hindi](https://www.youtube.com/playlist?list=PLhvdldYcnZMl3Smc6ANF6rO56ORgwb46g) - Coding Wallah Sir
 * [C++ Tutorials In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL) - CodeWithHarry
 * [Chai aur C++](https://www.youtube.com/playlist?list=PLu71SKxNbfoCPfgKZS8UE0MDuwiKvL8zi) - Chai aur Code
+* [Object Oriented Programming in C++](https://www.youtube.com/playlist?list=PLQEaRBV9gAFujcBWJhBT2XXsuMlIfETBy) - Coder Army
 * [The Complete C++ Course \| Hindi](https://www.youtube.com/playlist?list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF) - Saurabh Shukla
 
 
@@ -458,6 +460,7 @@
 * [Java Tutorials for Beginners](https://www.youtube.com/playlist?list=PLlhM4lkb2sEhfuXL-2BDrJ67WkUdQ2v9b) - Deepak Panwar, Smart Programming
 * [Java Tutorials For Beginners In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q) - CodeWithHarry
 * [Microservice Tutorial in Hindi 2023](https://www.youtube.com/playlist?list=PL0zysOflRCelb2Y4WOVckFC6B050BzV0D) - Learn Code With Durgesh
+* [Object Oriented Programming with Java](https://www.youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk) - Kunal Kushwaha
 * [Spring Framework Tutorial with SpringBoot  in Hindi Complete Course](https://www.youtube.com/playlist?list=PLiOIhBfKi8AIYNWEjYy1zZFe1N8GvPRHR) - CoderX Ankit
 
 

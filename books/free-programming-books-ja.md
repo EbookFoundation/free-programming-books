@@ -7,6 +7,7 @@
     * [ガベージコレクション](#%e3%82%ac%e3%83%99%e3%83%bc%e3%82%b8%e3%82%b3%e3%83%ac%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3)
     * [グラフィックスプログラミング](#%e3%82%b0%e3%83%a9%e3%83%95%e3%82%a3%e3%83%83%e3%82%af%e3%82%b9%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0)
     * [グラフィックユーザーインターフェイス](#%e3%82%b0%e3%83%a9%e3%83%95%e3%82%a3%e3%83%83%e3%82%af%e3%83%a6%e3%83%bc%e3%82%b6%e3%83%bc%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%95%e3%82%a7%e3%82%a4%e3%82%b9)
+    * [ゲーム開発](#%e3%82%b2%e3%83%bc%e3%83%A0%e9%96%8b%e7%99%ba)
     * [コンテナ](#%E3%82%B3%E3%83%B3%E3%83%86%E3%83%8A)
     * [セキュリティ](#%e3%82%bb%e3%82%ad%e3%83%a5%e3%83%aa%e3%83%86%e3%82%a3)
     * [その他の話題](#%e3%81%9d%e3%81%ae%e4%bb%96%e3%81%ae%e8%a9%b1%e9%a1%8c)
@@ -125,6 +126,15 @@
 #### グラフィックユーザーインターフェイス
 
 * [Qtプログラミング入門](https://densan-labs.net/tech/qt) - @nishio_dens
+
+
+#### ゲーム開発
+
+* [C# スタイルガイドを作成する：拡張性のある、よりクリーンなコードを書く](https://unity3d.jp/game/game-ebooks/create-code-c-sharp-style-guide-e-book/) - Unity Technologies (HTML & PDF)
+* [C# スタイルガイドを使用して、クリーンでスケーラブルなゲームコードを書く - Unity 6版](https://unity3d.jp/game/create-code-c-sharp-style-guide-e-book-unity-6/) - Unity Technologies (HTML & PDF)
+* [ゲームプログラミングのパターンを活用してコードをレベルアップ](https://unity3d.jp/game/game-ebooks/level-up-your-code-with-game-programming-patterns/) - Unity Technologies (HTML & PDF)
+* [ゲームレベルデザイン入門](https://unity3d.jp/game/game-ebooks/game-level-design/) - Unity Technologies (HTML & PDF)
+* [デザインパターンとSOLIDでコードをレベルアップ](https://unity3d.jp/game/design-patterns-solid-ebook/) - Unity Technologies (HTML & PDF)
 
 
 #### コンテナ

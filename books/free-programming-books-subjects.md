@@ -210,12 +210,12 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 
 * [An Introduction to GCC](https://web.archive.org/web/20170326232435/http://www.network-theory.co.uk/docs/gccintro/index.html) - Brian Gough *(:card_file_box: archived)*
 * [Basics of Compiler Design (Anniversary Edition)](http://www.diku.dk/~torbenm/Basics/) - Torben Mogensen
+* [Compiler Construction using C# (SLANGFOR.NET)](https://github.com/praseedpai/SlangForDotNet/blob/master/CompilerEbook/SLANG_FOR_DOT_NET_STEP7.pdf) - Praseed Pai (PDF)
 * [Compiler Design in C (1990)](https://holub.com/goodies/compiler/compilerDesignInC.pdf) - Allen Holub, Prentice Hall (PDF)
 * [Compiler Design: Theory, Tools, and Examples, C/C++ Edition](https://web.archive.org/web/20230816024714/http://elvis.rowan.edu/~bergmann/books/Compiler_Design/c_cpp/Text/C_CppEd.pdf) - Seth D. Bergmann (PDF) *(:card_file_box: archived)*
 * [Compiler Design: Theory, Tools, and Examples, Java Edition](https://web.archive.org/web/20230816024714/http://elvis.rowan.edu/~bergmann/books/Compiler_Design/java/CompilerDesignBook.pdf) - Seth D. Bergmann (PDF) *(:card_file_box: archived)*
 * [Compiling Scala for the Java Virtual Machine](https://lampwww.epfl.ch/~schinz/thesis-final-A4.pdf) - Michel Schinz (PDF)
 * [Compiling Techniques (1969)](https://www.chilton-computing.org.uk/acl/literature/books/compilingtechniques/overview.htm) - F.R.A. Hopgood, Macdonald
-* [Compiler Construction using C# (SLANGFOR.NET)](https://github.com/praseedpai/SlangForDotNet/blob/master/CompilerEbook/SLANG_FOR_DOT_NET_STEP7.pdf) - Praseed Pai (PDF)
 * [Crafting Interpreters](https://www.craftinginterpreters.com/contents.html) - Bob Nystrom (HTML)
 * [EXPL NITC: Build your own Compiler](https://silcnitc.github.io) - Murali Krishnan K., students in the Department of Computer Science and Engineering of the Calicut National Institute of Technology (HTML)
 * [Implementing Functional Languages: A Tutorial](https://research.microsoft.com/en-us/um/people/simonpj/Papers/pj-lester-book/) - Simon Peyton Jones, David Lester
@@ -223,8 +223,6 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Let's Build a Compiler](https://www.stack.nl/~marcov/compiler.pdf) - Jack W. Crenshaw (PDF)
 * [Practical and Theoretical Aspects of Compiler Construction](https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/) (class lectures and slides)
 * [The ANTLR Mega Tutorial](https://tomassetti.me/antlr-mega-tutorial/)
-
-
 
 
 ### Computer Organization and Architecture

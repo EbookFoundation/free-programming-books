@@ -47,7 +47,7 @@
 
 #### Metodologie di sviluppo del software
 
-* [Analisi e progettazione del software](http://www.diegm.uniud.it/schaerf/APS/Dispensa_APS_2_3.pdf) - S. Ceschia, A. Schaerf (PDF)
+* [Analisi e progettazione del software](https://web.archive.org/web/20210819183048/http://www.diegm.uniud.it/schaerf/APS/Dispensa_APS_2_3.pdf) - S. Ceschia, A. Schaerf (PDF)
 * [Programmazione Funzionale](http://minimalprocedure.pragmas.org/writings/programmazione_funzionale/programmazione_funzionale.html) - Massimo Maria Ghisalberti
 
 

@@ -15,7 +15,6 @@
 * [C / C++](#c--c)
 * [Caml / OCaml](#caml--ocaml)
 * [Chaîne de blocs / Blockchain](#chaîne-de-blocs--blockchain)
-* [Coq](#coq)
 * [Fortran](#fortran)
 * [Git](#git)
 * [Go](#go)
@@ -41,6 +40,7 @@
 * [Python](#python)
     * [Django](#django)
 * [R](#r)
+* [Rocq Prover](#rocq-prover)
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [Sage](#sage)
@@ -137,11 +137,6 @@
 
 * [Maîtriser Bitcoin: Programmer la chaîne de blocs publique](https://bitcoin.maitriser.ca) - Andreas M. Antonopoulos, Serafim Dos Santos (asciidoc, HTML)
 * [Maîtriser Ethereum: Développer des contrats intelligents et des DApps](https://ethereum.maitriser.ca) - Andreas M. Antonopoulos, Gavin Wood, Serafim Dos Santos (asciidoc, HTML)
-
-
-### Coq
-
-* [Le Coq'Art (V8)](http://www.labri.fr/perso/casteran/CoqArt/) - Yves Bertot, Pierre Castéran
 
 
 ### Fortran
@@ -294,6 +289,11 @@
 
 * [Introduction à l'analyse d'enquête avec R et RStudio](https://larmarange.github.io/analyse-R/) - Jospeh Lamarange, et al. (PDF version also available)
 * [Introduction à la programmation en R](http://cran.r-project.org/doc/contrib/Goulet_introduction_programmation_R.pdf) - Vincent Goulet (PDF)
+
+
+### Rocq Prover
+
+* [Le Coq'Art (V8)](http://www.labri.fr/perso/casteran/CoqArt/) - Yves Bertot, Pierre Castéran
 
 
 ### Ruby

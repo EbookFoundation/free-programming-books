@@ -29,7 +29,6 @@
 * [C++](#cpp)
 * [Clojure](#clojure)
 * [CoffeeScript](#coffeescript)
-* [Coq](#coq)
 * [D](#d)
 * [Elixir](#elixir)
 * [Erlang](#erlang)
@@ -69,6 +68,7 @@
 * [Python](#python)
     * [Flask](#flask)
 * [R](#r)
+* [Rocq Prover](#rocq-prover)
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [Sather](#sather)
@@ -302,11 +302,6 @@
 * [The Little Book on CoffeeScript](https://minghai.github.io/library/coffeescript) - Alex MacCaw, `trl:` Narumi Katoh
 * [基本操作逆引きリファレンス（CoffeeScript）](https://kyu-mu.net/coffeescript/revref) - 飯塚直
 * [正規表現リファレンス（CoffeeScript)](https://kyu-mu.net/coffeescript/regexp) - 飯塚直
-
-
-### Coq
-
-* [ソフトウェアの基礎](http://proofcafe.org/sf) - Benjamin C. Pierce, Chris Casinghino, Michael Greenberg, Vilhelm Sjöberg, Brent Yorgey, `trl:` 梅村晃広, `trl:` 片山功士, `trl:` 水野洋樹, `trl:` 大橋台地, `trl:` 増子萌, `trl:` 今井宜洋
 
 
 ### D
@@ -609,6 +604,11 @@
 * [Rによる統計解析の基礎](https://minato.sip21c.org/statlib/stat.pdf) - 中澤港 (PDF)
 * [Rによる保健医療データ解析演習](http://minato.sip21c.org/msb/medstatbook.pdf) - 中澤港 (PDF)
 * [無料統計ソフトRで心理学](http://blue.zero.jp/yokumura/Rhtml/Haebera2002.html) - 奥村泰之
+
+
+### Rocq Prover
+
+* [ソフトウェアの基礎](http://proofcafe.org/sf) - Benjamin C. Pierce, Chris Casinghino, Michael Greenberg, Vilhelm Sjöberg, Brent Yorgey, `trl:` 梅村晃広, `trl:` 片山功士, `trl:` 水野洋樹, `trl:` 大橋台地, `trl:` 増子萌, `trl:` 今井宜洋
 
 
 ### Ruby

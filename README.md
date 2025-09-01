@@ -226,6 +226,9 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
   + [Contributing](docs/CONTRIBUTING.md)
   + [How-to](docs/HOWTO.md)
 + ... *[More languages](docs/README.md#translations)* ...
+### C Programming
+- [Learn C Programming - Beginners Guide](https://www.learn-c.org/) - Free interactive tutorial
+
 
 You might notice that there are [some missing translations here](docs/README.md#translations) - perhaps you would like to help out by [contributing a translation](docs/CONTRIBUTING.md#help-out-by-contributing-a-translation)?
 

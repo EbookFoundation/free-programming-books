@@ -2125,7 +2125,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 #### Flask
 
-* [Explore Flask](https://exploreflask.com) - Robert Picard
+* [Explore Flask](https://explore-flask.readthedocs.io) - Robert Picard
 * [Flask Documentation](https://flask.palletsprojects.com) - Pallets
 * [Python Flask Tutorial](https://www.tutorialspoint.com/flask/) - Tutorials Point (HTML, PDF)
 * [The Flask Mega-Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) - Miguel Grinberg (0.9)

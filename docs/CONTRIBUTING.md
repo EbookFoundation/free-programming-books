@@ -157,6 +157,31 @@ Example:
     - `CC BY-NC-ND` 'Creative Commons non-commercial, no-derivatives'
     - `GFDL` 'Gnu Free Documentation License'
 
+#### Adding a license note (step‑by‑step)
+
+When a resource is distributed under a free/open license, add a short license note in parentheses after the format note. Follow these steps:
+
+1. Confirm the license on the resource page.
+   - Look for a site footer, an “About” page, or a LICENSE/Legal section.
+   - Only add license notes for free/open content licenses (see the supported list above). Do not add notes like “All Rights Reserved”.
+2. Normalize the license string to one of the supported short codes with no version number.
+   - Examples: “Creative Commons Attribution 4.0” → `CC BY`; “CC BY-SA 3.0” → `CC BY-SA`; “GNU Free Documentation License” → `GFDL`.
+3. Place the license after the format(s) and before any other notes.
+   - Single format:
+     ```markdown
+     * [A Very Awesome Book](https://example.org/book.pdf) - Jane Roe (PDF) (CC BY-SA)
+     ```
+   - Multiple formats:
+     ```markdown
+     * [Awesome Guide](https://example.org/) - Jane Roe (HTML, PDF) (CC BY)
+     ```
+   - With an additional note (e.g., archived or in process):
+     ```markdown
+     * [Old but Gold](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) (CC BY) *(:card_file_box: archived)*
+     ```
+4. If different editions/formats have different licenses, list them as separate items and note the correct license on each entry.
+5. If you are unsure, add a comment in your PR explaining why you believe the resource is under a free license and where you found the information.
+
 
 ### Alphabetical order
 

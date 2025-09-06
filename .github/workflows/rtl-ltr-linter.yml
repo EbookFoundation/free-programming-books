@@ -20,7 +20,7 @@ jobs:
 
     # Set up the required Python version for the linter
     - name: Set up Python
-      uses: actions/setup-python@v5
+      uses: actions/setup-python@v6
       with:
         python-version: '3.11' # Use a recent Python version for compatibility
 

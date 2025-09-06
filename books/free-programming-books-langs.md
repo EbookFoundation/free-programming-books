@@ -587,7 +587,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Data Sorcery with Clojure](http://data-sorcery.org/contents/)
 * [Learn ClojureScript](https://www.learn-clojurescript.com) - Andrew Meredith
 * [Modern cljs](https://github.com/magomimmo/modern-cljs)
-* [SICP Distilled - An idiosyncratic tour of SICP in Clojure](http://www.sicpdistilled.com)
+* [SICP Distilled - An idiosyncratic tour of SICP in Clojure](http://www.sicpdistilled.com) - Tom Hall (HTML) (CC BY-SA)
 * [The Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide)
 
 

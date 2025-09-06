@@ -576,7 +576,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Clojure - Functional Programming for the JVM](http://java.ociweb.com/mark/clojure/article.html) - R. Mark Volkmann
 * [Clojure by Example](https://kimh.github.io/clojure-by-example/) - Hirokuni Kim
 * [Clojure community-driven documentation](http://clojure-doc.org)
-* [Clojure Cookbook](https://github.com/clojure-cookbook/clojure-cookbook)
+* [Clojure Cookbook](https://github.com/clojure-cookbook/clojure-cookbook) (CC BY-NC-ND)
 * [Clojure Distilled Beginner Guide](http://yogthos.github.io/ClojureDistilled.html)
 * [Clojure for the Brave and True](http://www.braveclojure.com)
 * [Clojure in Small Pieces](https://web.archive.org/web/20201013022918/http://daly.axiom-developer.org/clojure.pdf) - Rich Hickey, Timothy Daly (PDF) *(:card_file_box: archived)* [(:card_file_box: *unglued*)](https://unglue.it/work/489419/)

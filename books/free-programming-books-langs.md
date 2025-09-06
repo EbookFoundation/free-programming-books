@@ -572,7 +572,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Clojure
 
-* [Clojure](https://clojure-book.gitlab.io) - Karthikeyan A K
+* [Clojure](https://clojure-book.gitlab.io) - Karthikeyan A K (GFDL)
 * [Clojure - Functional Programming for the JVM](http://java.ociweb.com/mark/clojure/article.html) - R. Mark Volkmann
 * [Clojure by Example](https://kimh.github.io/clojure-by-example/) - Hirokuni Kim
 * [Clojure community-driven documentation](http://clojure-doc.org)

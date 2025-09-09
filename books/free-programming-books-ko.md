@@ -156,11 +156,6 @@
 * [기초정수론: 계산과 법연산, 그리고 비밀통신을 강조한](https://wstein.org/ent/ent_ko.pdf) - William Stein (PDF)
 
 
-### OpenStack
-
-* [오픈스택을 다루는 기술](https://thebook.io/006881) - 장현정 (HTML)
-
-
 ### Operation System
 
 * [운영체제: 아주 쉬운 세 가지 이야기](https://github.com/remzi-arpacidusseau/ostep-translations/tree/master/korean) - Remzi Arpacidusseau (PDF)
@@ -239,7 +234,6 @@
 
 ### Rust
 
-* [러스트 코딩인사이트](https://coding-insight.com/docs/category/rust)
 * [러스트 프로그래밍 언어](https://rinthel.github.io/rust-lang-book-ko/) - 스티브 클라브닉, 캐롤 니콜스
 * [예제로 배우는 Rust 프로그래밍](http://rust-lang.xyz)
 * [파이썬과 비교하며 배우는 러스트 프로그래밍](https://indosaram.github.io/rust-python-book/) - 윤인도

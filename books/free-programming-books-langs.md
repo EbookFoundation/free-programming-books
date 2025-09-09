@@ -1403,7 +1403,6 @@ Books on general-purpose programming that don't focus on a specific language are
 
 #### Remix
 
-* [Developer Blog Tutorial](https://remix.run/docs/en/v1/tutorials/blog)
 * [Jokes App Tutorial](https://remix.run/docs/en/v1/tutorials/jokes)
 
 

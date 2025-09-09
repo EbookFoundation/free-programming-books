@@ -20,7 +20,6 @@
 * [Linux](#linux)
 * [Machine Learning](#machine-learning)
 * [Mathematics](#mathematics)
-* [OpenStack](#openstack)
 * [Operation System](#operation-system)
 * [Perl](#perl)
 * [PHP](#php)

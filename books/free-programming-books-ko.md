@@ -244,7 +244,7 @@
 
 ### Scratch
 
-* [창의컴퓨팅(Creative Computing) 가이드북](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?barcode=480150000247P)
+* [창의컴퓨팅(Creative Computing) 가이드북](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/480150000247P)
 
 
 ### Sed

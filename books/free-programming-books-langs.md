@@ -1401,11 +1401,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [The Complete Redux Book](https://leanpub.com/redux-book/read) - Boris Dinkevich, Ilya Gelman (HTML)
 
 
-#### Remix
-
-* [Jokes App Tutorial](https://remix.run/docs/en/v1/tutorials/jokes)
-
-
 #### Svelte
 
 * [Beginner SvelteKit](https://vercel.com/docs/beginner-sveltekit) - Steph Dietz

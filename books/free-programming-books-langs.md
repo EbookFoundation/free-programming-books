@@ -114,7 +114,6 @@ Books on general-purpose programming that don't focus on a specific language are
     * [React](#react)
     * [React Native](#react-native)
     * [Redux](#redux)
-    * [Remix](#remix)
     * [Svelte](#svelte)
     * [Vue.js](#vuejs)
 * [Jenkins](#jenkins)
@@ -1399,12 +1398,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 * [SoundCloud Application in React + Redux](https://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)
 * [The Complete Redux Book](https://leanpub.com/redux-book/read) - Boris Dinkevich, Ilya Gelman (HTML)
-
-
-#### Remix
-
-* [Developer Blog Tutorial](https://remix.run/docs/en/v1/tutorials/blog)
-* [Jokes App Tutorial](https://remix.run/docs/en/v1/tutorials/jokes)
 
 
 #### Svelte

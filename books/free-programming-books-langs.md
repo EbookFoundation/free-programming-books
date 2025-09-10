@@ -114,7 +114,6 @@ Books on general-purpose programming that don't focus on a specific language are
     * [React](#react)
     * [React Native](#react-native)
     * [Redux](#redux)
-    * [Remix](#remix)
     * [Svelte](#svelte)
     * [Vue.js](#vuejs)
 * [Jenkins](#jenkins)

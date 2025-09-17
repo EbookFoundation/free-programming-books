@@ -78,8 +78,8 @@
 
 ### Algorithms and Data Structures
 
-Data Structures :information_source: See [Data Structures](#data-structures)
-Algorithms :information_source: See [Algorithms](#algorithms)
+* Data Structures :information_source: See [Data Structures](#data-structures)
+* Algorithms :information_source: See [Algorithms](#algorithms)
 
 * [Complete C++ DSA Course \| Data Structures & Algorithms Playlist](https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt) - Apna College
 * [Complete C++ Placement DSA Course](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA) - CodeHelp by Babbar
@@ -88,6 +88,8 @@ Algorithms :information_source: See [Algorithms](#algorithms)
 * [Data Structures and Algorithms in Python](https://www.youtube.com/playlist?list=PLyMom0n-MBrpakdIZvnhd6PFUCKNAyKo1) - Jovian
 * [DS & Algorithms Course Using Javascript](https://www.youtube.com/playlist?list=PL_HlKez9XCSOi5thYDzipbJ2pEdzop7vx) - Technical Suneja
 * [Hindi Data Structures And Algorithms Tutorial Python](https://www.youtube.com/playlist?list=PLPbgcxheSpE3NlJ30EDpxNYU6P2Jylns8) - codebasics Hindi
+
+
 
 #### Algorithms
 
@@ -101,6 +103,7 @@ Algorithms :information_source: See [Algorithms](#algorithms)
 * [Graph Theory](https://www.youtube.com/playlist?list=PLxCzCOWd7aiG0M5FqjyoqB20Edk0tyzVt) - Gate Smashers
 * [Recursion Playlist \| Coding \| Interview Questions \| Algorithm \| Tutorials](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY) - Aditya Verma
 * [Sliding Window Algorithm - Face to Face Interviews](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeM8BDJmIYDaoQ5zuwyxnfj) - Aditya Verma
+
 
 #### Data Structures
 

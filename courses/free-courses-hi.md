@@ -78,9 +78,9 @@
 
 ### Algorithms and Data Structures
 
-* Algorithms :information_source: See [Algorithms](#algorithms)
-* Data Structures :information_source: See [Data Structures](#data-structures)
- 
+Algorithms :information_source: See [Algorithms](#algorithms)
+Data Structures :information_source: See [Data Structures](#data-structures)
+
 * [Complete C++ DSA Course \| Data Structures & Algorithms Playlist](https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt) - Apna College
 * [Complete C++ Placement DSA Course](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA) - CodeHelp by Babbar
 * [Data Structures and Algorithms Course in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi) - CodeWithHarry

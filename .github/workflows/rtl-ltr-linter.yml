@@ -40,7 +40,7 @@ jobs:
     # Identify all changed Markdown files in the PR using tj-actions/changed-files
     - name: Get changed Markdown files
       id: changed_md_files
-      uses: tj-actions/changed-files@v46
+      uses: tj-actions/changed-files@v47
       with:
         files: |
           **/*.md

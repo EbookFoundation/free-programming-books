@@ -43,13 +43,21 @@
 - **Type**: Content addition
 - **Status**: ❌ Needs fixes
 - **Issues Found**:
-  - Has "linter error" label
-  - Missing PR description details
-  - Need to check actual file changes for formatting
+  1. **Critical formatting error**: Missing proper markdown format
+     - Current: `* Sách 2 https://cafedev.vn/review-va-chia-se-sach-ve-python-cuc-hay-cho-ace/`
+     - Should be: `* [Title](URL) - Author`
+  2. **No proper title**: Using "Sách 2" (Book 2) as placeholder
+  3. **No author information**
+  4. **Wrong section**: Python book added to Machine Learning section
+  5. **Incorrect alphabetical order** (if kept in ML section)
+  6. **Missing blank line** at end of file
+  7. **Link validation**: The link is to a blog review, not the actual book
 - **Action Required**:
-  - Review the specific book addition
-  - Check alphabetical ordering
-  - Verify formatting compliance
+  - Provide proper book title
+  - Add author information
+  - Fix markdown formatting
+  - Move to Python section (needs to be created)
+  - Ensure link points to actual free book, not a review
 
 #### PR #11946 - Malayalam CONTRIBUTING.md Translation
 - **Author**: Symbian-Bro

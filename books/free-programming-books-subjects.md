@@ -692,8 +692,8 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [IPv6 for IPv4 Experts](https://sites.google.com/site/yartikhiy/home/ipv6book) - Yar Tikhiy (PDF)
 * [Kafka gentle introduction](https://www.gentlydownthe.stream) - Mitch Seymour
 * [Kafka, The definitive Guide](https://assets.confluent.io/m/1b509accf21490f0/original/20170707-EB-Confluent_Kafka_Definitive-Guide_Complete.pdf) - Neha Narkhede (PDF)
-* [Linux Networking](https://linux-training.be/linuxnet.pdf) - Paul Cobbaut (PDF)
 * [Linux IP Stacks Commentary](https://www.satchell.net/ipstacks/) - Stephen Satchell, H. B. J. Clifford (HTML) *(:construction: in process)*
+* [Linux Networking](https://linux-training.be/linuxnet.pdf) - Paul Cobbaut (PDF)
 * [Mininet Walkthrough](https://mininet.org/walkthrough/)
 * [Network Science](http://networksciencebook.com) - Albert-Laszló Barabási
 * [Networking! ACK!](https://wizardzines.com/zines/networking/) - Julia Evans (PDF)

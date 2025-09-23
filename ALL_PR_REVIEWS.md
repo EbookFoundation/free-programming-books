@@ -1,10 +1,12 @@
 # Comprehensive PR Review Report
 
-## Summary Statistics
+## Summary Statistics (Updated)
 - **Total PRs Reviewed**: 8
-- **Ready to Merge**: 5
-- **Needs Fixes**: 2
+- **Ready to Merge**: 2 (after conflict checks)
+- **Needs Minor Fixes**: 1
+- **Needs Major Revision**: 1
 - **Needs Native Review**: 1
+- **Needs Conflict Check**: 3 (1+ year old PRs)
 
 ## Detailed Review Results
 
@@ -29,16 +31,14 @@
      - Required: `* [Title](URL) - Author`
   2. **No proper title**: Using "Sách 2" (Book 2) as placeholder
   3. **No author information**
-  4. **Wrong section**: Python book in Machine Learning section
-  5. **Incorrect alphabetical order**
-  6. **Missing blank line at end of file**
-  7. **Invalid link**: Points to blog review, not actual book
-- **Recommendation**: Request major revision
+  4. **Missing blank line at end of file**
+  5. **Invalid link**: Points to blog review, not actual book
+- **Recommendation**: Request major revision or withdrawal
 
-### ✅ PR #11946 - Malayalam CONTRIBUTING.md Translation
+### 🔍 PR #11946 - Malayalam CONTRIBUTING.md Translation
 - **Author**: Symbian-Bro
 - **Type**: Translation
-- **Status**: ✅ Ready to merge (pending native review)
+- **Status**: 🔍 Needs native speaker review
 - **CI Status**: All checks passing
 - **Review Notes**:
   - New file: `docs/CONTRIBUTING-ml.md`
@@ -46,7 +46,7 @@
   - Proper markdown formatting maintained
   - All sections present
   - README.md properly updated with reference
-- **Recommendation**: Approve (ideally after Malayalam speaker review)
+- **Recommendation**: **REQUIRES Malayalam speaker review before merge**
 
 ### ⚠️ PR #11683 - Add Go lang courses
 - **Author**: ikayz
@@ -83,29 +83,29 @@
   - Proper markdown formatting
 - **Recommendation**: Approve
 
-### ✅ PR #10915 - Malay CODE_OF_CONDUCT Translation
+### ⚠️ PR #10915 - Malay CODE_OF_CONDUCT Translation
 - **Author**: pizofreude
 - **Type**: Translation
-- **Status**: ✅ Ready to merge (1+ year old)
+- **Status**: ⚠️ Needs conflict check (1+ year old)
 - **CI Status**: Unknown (old PR)
 - **Review Notes**:
   - New file: `docs/CODE_OF_CONDUCT-ms.md`
   - Complete translation of Code of Conduct
   - Proper structure and formatting
   - **Note**: PR is over 1 year old
-- **Recommendation**: Approve and merge (very old PR)
+- **Recommendation**: Check for merge conflicts before approval
 
-### ✅ PR #10909 - Malay HOWTO Translation
+### ⚠️ PR #10909 - Malay HOWTO Translation
 - **Author**: pizofreude
 - **Type**: Translation
-- **Status**: ✅ Ready to merge (1+ year old)
+- **Status**: ⚠️ Needs conflict check (1+ year old)
 - **CI Status**: Unknown (old PR)
 - **Review Notes**:
   - New file: `docs/HOWTO-ms.md`
   - Complete translation with proper structure
   - Markdown formatting preserved
   - **Note**: PR is over 1 year old
-- **Recommendation**: Approve and merge (very old PR)
+- **Recommendation**: Check for merge conflicts before approval
 
 ### ⚠️ PR #9953 - Marathi Translations
 - **Author**: Neeraaaj

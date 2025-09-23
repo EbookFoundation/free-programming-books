@@ -27,31 +27,22 @@ The added line doesn't follow the required markdown format:
 
 The URL points to a blog review about Python books, not to an actual free book. This repository only accepts direct links to free books, not reviews or articles about books.
 
-### 4. ❌ **Wrong Section**
-
-Based on the URL, this appears to be about Python books, but it's being added to the "Học máy" (Machine Learning) section. If this is a Python book, it should either:
-- Go in a Python section (which doesn't exist yet in the Vietnamese file)
-- Only be added if it's actually about Machine Learning
-
-### 5. ❌ **Missing Final Blank Line**
+### 4. ❌ **Missing Final Blank Line**
 
 The file should end with a blank line.
 
 ## Suggested Fix
 
-If you're adding a specific Python book from that blog post, please:
+The main issue is that the link points to a blog review rather than an actual free book. Please:
 
-1. Find the direct link to the free book itself
-2. Use the proper format:
+1. **Find a direct link to a free book** (not a review or blog post)
+2. **Use the proper markdown format:**
    ```markdown
    * [Actual Book Title](direct-link-to-book) - Author Name
    ```
-3. Consider creating a Python section if adding Python books:
-   ```markdown
-   ### Python
+3. **Ensure the book is actually free** and accessible without payment
 
-   * [Book Title](URL) - Author
-   ```
+If you cannot find a direct link to a free book, please consider withdrawing this addition.
 
 ## Example of Correct Format
 

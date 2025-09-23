@@ -7,7 +7,10 @@
       "Bash(git commit:*)",
       "Bash(git push:*)",
       "Bash(gh pr diff:*)",
-      "Bash(gh pr checks:*)"
+      "Bash(gh pr checks:*)",
+      "Bash(git checkout:*)",
+      "Bash(git fetch:*)",
+      "Bash(git merge:*)"
     ],
     "deny": [],
     "ask": []

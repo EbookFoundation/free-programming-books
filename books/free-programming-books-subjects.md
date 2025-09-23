@@ -742,10 +742,10 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [How to Make a Computer Operating System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) - Samy Pesse  *(:construction: in process)*
 * [How to write a simple operating system in assembly language](https://mikeos.sourceforge.net/write-your-own-os.html) - Mike Saunders (HTML)
 * [Linux Fundamentals](https://linux-training.be/linuxfun.pdf) - Paul Cobbaut (PDF)
+* [Linux Kernel in a Nutshell](http://www.linuxtopia.org/online_books/linux_kernel/kernel_configuration) - Greg Kroah-Hartman (HTML)
 * [Linux Servers](https://linux-training.be/linuxsrv.pdf) - Paul Cobbaut (PDF)
 * [Linux Storage](https://linux-training.be/linuxsto.pdf) - Paul Cobbaut (PDF)
 * [Linux System Administration](https://linux-training.be/linuxsys.pdf) - Paul Cobbaut (PDF)
-* [Linux Kernel in a Nutshell](http://www.linuxtopia.org/online_books/linux_kernel/kernel_configuration) - Greg Kroah-Hartman (HTML)
 * [Making Servers Work: A Practical Guide to Linux System Administration](https://www.digitalocean.com/community/books/sysadmin-ebook-making-servers-work) - Jamon Camisso (PDF, EPUB)
 * [Operating Systems and Middleware](https://gustavus.edu/mcs/max/os-book/) - Max Hailperin (PDF, LaTeX)
 * [Operating Systems: From 0 to 1](https://github.com/tuhdo/os01/releases/tag/0.0.1) - Tu, Ho Doang (PDF) (:construction: *in process*)

@@ -246,7 +246,6 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [What to Look for in a Code Review](https://leanpub.com/whattolookforinacodereview) - Trisha Gee (HTML, PDF, EPUB, Kindle) *(Leanpub account or valid email requested)*
 
 
-
 ### Computer Vision
 
 * [Computer Vision](https://homepages.inf.ed.ac.uk/rbf/BOOKS/BANDB/bandb.htm) - Dana Ballard, Chris Brown

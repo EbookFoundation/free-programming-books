@@ -1498,7 +1498,11 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Linux Kernel in a Nutshell](http://www.kroah.com/lkn/)
 * [Linux Newbie Administrator Guide](http://lnag.sourceforge.net)
 * [Linux Notes for Professionals](https://books.goalkicker.com/LinuxBook) - Compiled from StackOverflow Documentation (PDF)
+* [Linux Security](https://linux-training.be/linuxsec.pdf) - Paul Cobbaut (PDF)
+* [Linux Servers](https://linux-training.be/linuxsrv.pdf) - Paul Cobbaut (PDF)
+* [Linux Storage](https://linux-training.be/linuxsto.pdf) - Paul Cobbaut (PDF)
 * [Linux Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/linux) (PDF, Kindle) (email address *requested*, not required)
+* [Linux System Administration](https://linux-training.be/linuxsys.pdf) - Paul Cobbaut (PDF)
 * [Secure Programming HOWTO - Creating Secure Software](http://www.dwheeler.com/secure-programs/) - D. A. Wheeler (HTML, PDF)
 * [Ten Steps to Linux Survival: Bash for Windows People](http://dullroar.com/book/TenStepsToLinuxSurvival.html) - Jim Lehmer
 * [The Debian Administrator's Handbook](https://debian-handbook.info)

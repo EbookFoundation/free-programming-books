@@ -32,6 +32,6 @@ updates:
       separator: "/"
     # Add the arrays of assignees and reviewers
     assignees:
-      - "EbookFoundation/Maintainers"
+      - "EbookFoundation/maintainers"
     reviewers:
       - "EbookFoundation/reviewers"

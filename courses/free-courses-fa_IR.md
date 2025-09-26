@@ -172,6 +172,6 @@
 * [برنامه نویسی وب با HTML&rlm; و CSS&rlm;](https://holosen.net/web-design/) - Hossein Badrnezhad&rlm; *(نیاز به ثبت نام دارد)*
 * [دوره آموزشی بوت استرپ 5&rlm;](https://www.youtube.com/playlist?list=PLAt10Vana3YciJv9EIcNSsm1yTGpOdJIp) - Mehran Tarif&rlm; (Silicium&rlm;)
 * [وب‌فریم‌ورک‌ها چگونه کار می‌کنند؟](https://www.youtube.com/playlist?list=PLRU2zoAmuzJ33x-___WkhyTJ8dDPaoOPk) - Shahriar Shariati&rlm;
-
+* [آموزش 0 تا 100 طراحی سایت با وردپرس](https://www.youtube.com/playlist?list=PLh9zdkDdmi81Cu_4HGlXoq2mvtyu7t8Fn) - Ali Karbasi&rlm;
 
 </div>

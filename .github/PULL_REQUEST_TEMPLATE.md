@@ -3,7 +3,7 @@ Add resource(s) | Remove resource(s) | Add info | Improve repo
 
 ## IMPORTANT
 - [ ] Read our [contributing guidelines](https://github.com/EbookFoundation/free-programming-books/blob/main/docs/CONTRIBUTING.md).
-- [ ] Is this a revision of a previously submitted PR? If so, STOP! Go back, reopen the PR, and add commit(s) the the branch you previously submitted. Please don't make the job of reviewing more difficult by hiding previous work.
+- [ ] Is this a revision of a previously submitted PR? If so, STOP! Go back, reopen the PR, and add commit(s) the branch you previously submitted. Please don't make the job of reviewing more difficult by hiding previous work.
 
 ## For resources
 ### Description

@@ -314,6 +314,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Introduction to Embedded Systems, Second Edition](https://ptolemy.berkeley.edu/books/leeseshia/releases/LeeSeshia_DigitalV2_2.pdf) - Edward Ashford Lee, Sanjit Arunkumar Seshia (PDF) (CC BY-NC-ND)
 * [Introduction to Microcontrollers](http://www.embeddedrelated.com/showarticle/453.php) (HTML)
 * [Mastering the FreeRTOS Real Time Kernel - a Hands On Tutorial Guide](https://freertos.org/Documentation/RTOS_book.html) - freertos.org ([PDF](https://freertos.org/fr-content-src/uploads/2018/07/161204_Mastering_the_FreeRTOS_Real_Time_Kernel-A_Hands-On_Tutorial_Guide.pdf))
+* [Real-Time Systems: Design Principles for Distributed Embedded Applications](https://aursbackend.admasuniversity.edu.et/uploads/documents/e3860a59-0ce7-43d8-92f7-0058ea099e82.pdf) - Hermann Kopetz (PDF)
 
 
 ### Game Development

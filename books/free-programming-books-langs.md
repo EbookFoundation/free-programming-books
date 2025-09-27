@@ -114,7 +114,6 @@ Books on general-purpose programming that don't focus on a specific language are
     * [React](#react)
     * [React Native](#react-native)
     * [Redux](#redux)
-    * [Remix](#remix)
     * [Svelte](#svelte)
     * [Vue.js](#vuejs)
 * [Jenkins](#jenkins)
@@ -333,7 +332,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Assembly Language
 
-* [A fundamental introduction to x86 assembly prorgamming](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming) - Project Nayuki (HTML)
+* [A fundamental introduction to x86 assembly programming](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming) - Project Nayuki (HTML)
 * [ARM Assembly Language Programming](http://www.rigwit.co.uk/ARMBook/ARMBook.pdf) - Peter Knaggs (PDF) *(:construction: in process)*
 * [Assemblers And Loaders (1993)](http://www.davidsalomon.name/assem.advertis/asl.pdf) - David Salomon (PDF)
 * [Assembly Language Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/assemblylanguage) - Christopher Rose, Syncfusion Inc. (HTML, PDF, EPUB, Kindle)
@@ -572,11 +571,11 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Clojure
 
-* [Clojure](https://clojure-book.gitlab.io) - Karthikeyan A K
+* [Clojure](https://clojure-book.gitlab.io) - Karthikeyan A K (GFDL)
 * [Clojure - Functional Programming for the JVM](http://java.ociweb.com/mark/clojure/article.html) - R. Mark Volkmann
 * [Clojure by Example](https://kimh.github.io/clojure-by-example/) - Hirokuni Kim
 * [Clojure community-driven documentation](http://clojure-doc.org)
-* [Clojure Cookbook](https://github.com/clojure-cookbook/clojure-cookbook)
+* [Clojure Cookbook](https://github.com/clojure-cookbook/clojure-cookbook) (CC BY-NC-ND)
 * [Clojure Distilled Beginner Guide](http://yogthos.github.io/ClojureDistilled.html)
 * [Clojure for the Brave and True](http://www.braveclojure.com)
 * [Clojure in Small Pieces](https://web.archive.org/web/20201013022918/http://daly.axiom-developer.org/clojure.pdf) - Rich Hickey, Timothy Daly (PDF) *(:card_file_box: archived)* [(:card_file_box: *unglued*)](https://unglue.it/work/489419/)
@@ -587,7 +586,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Data Sorcery with Clojure](http://data-sorcery.org/contents/)
 * [Learn ClojureScript](https://www.learn-clojurescript.com) - Andrew Meredith
 * [Modern cljs](https://github.com/magomimmo/modern-cljs)
-* [SICP Distilled - An idiosyncratic tour of SICP in Clojure](http://www.sicpdistilled.com)
+* [SICP Distilled - An idiosyncratic tour of SICP in Clojure](http://www.sicpdistilled.com) - Tom Hall (HTML) (CC BY-SA)
 * [The Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide)
 
 
@@ -1335,7 +1334,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Node Documentation](https://nodejs.org/en/docs/) (PDF)
 * [Node: Up and Running](https://www.oreilly.com/library/view/node-up-and/9781449332235/) - Tom Hughes-Croucher
 * [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) - Yoni Goldberg, et al.
-* [Node.js Design Patterns](https://ia801309.us.archive.org/5/items/HandbookOfNeuralComputingApplicationsPDFStormRG/Node.js%20Design%20Patterns%20-%20Casciaro,%20Mario%20%5BPDF%5D%5BStormRG%5D.pdf) - Mario Casciaro (PDF)
 * [Node.js Notes for Professionals](http://goalkicker.com/NodeJSBook) - Compiled from StackOverflow Documentation (PDF)
 * [Node.js Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/nodejs) (PDF, Kindle) (email address *requested*, not required)
 * [Practical Node.js: Building Real-World Scalable Web Apps](https://github.com/azat-co/practicalnode) - Azat Mardan
@@ -1400,12 +1398,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 * [SoundCloud Application in React + Redux](https://www.robinwieruch.de/the-soundcloud-client-in-react-redux/)
 * [The Complete Redux Book](https://leanpub.com/redux-book/read) - Boris Dinkevich, Ilya Gelman (HTML)
-
-
-#### Remix
-
-* [Developer Blog Tutorial](https://remix.run/docs/en/v1/tutorials/blog)
-* [Jokes App Tutorial](https://remix.run/docs/en/v1/tutorials/jokes)
 
 
 #### Svelte
@@ -1506,7 +1498,11 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Linux Kernel in a Nutshell](http://www.kroah.com/lkn/)
 * [Linux Newbie Administrator Guide](http://lnag.sourceforge.net)
 * [Linux Notes for Professionals](https://books.goalkicker.com/LinuxBook) - Compiled from StackOverflow Documentation (PDF)
+* [Linux Security](https://linux-training.be/linuxsec.pdf) - Paul Cobbaut (PDF)
+* [Linux Servers](https://linux-training.be/linuxsrv.pdf) - Paul Cobbaut (PDF)
+* [Linux Storage](https://linux-training.be/linuxsto.pdf) - Paul Cobbaut (PDF)
 * [Linux Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/linux) (PDF, Kindle) (email address *requested*, not required)
+* [Linux System Administration](https://linux-training.be/linuxsys.pdf) - Paul Cobbaut (PDF)
 * [Secure Programming HOWTO - Creating Secure Software](http://www.dwheeler.com/secure-programs/) - D. A. Wheeler (HTML, PDF)
 * [Ten Steps to Linux Survival: Bash for Windows People](http://dullroar.com/book/TenStepsToLinuxSurvival.html) - Jim Lehmer
 * [The Debian Administrator's Handbook](https://debian-handbook.info)

@@ -20,7 +20,6 @@
 * [Linux](#linux)
 * [Machine Learning](#machine-learning)
 * [Mathematics](#mathematics)
-* [OpenStack](#openstack)
 * [Operation System](#operation-system)
 * [Perl](#perl)
 * [PHP](#php)
@@ -98,7 +97,6 @@
 * [가장 빨리 만나는 Go 언어](http://www.pyrasis.com/private/2015/06/01/publish-go-for-the-really-impatient-book)
 * [효과적인 Go 프로그래밍](https://gosudaweb.gitbooks.io/effective-go-in-korean/content/)
 * [Go 문서 한글 번역](https://github.com/golang-kr/golang-doc/wiki)
-* [Go 언어 웹 프로그래밍 철저 입문](https://thebook.io/006806/)
 * [The Little Go Book. 리틀 고 책입니다](https://github.com/byounghoonkim/the-little-go-book/) - Karl Seguin, `trl.:` Byounghoon Kim ([HTML](https://github.com/byounghoonkim/the-little-go-book/blob/master/ko/go.md))
 * [The Ultimate Go Study Guide 한글 번역](https://github.com/ultimate-go-korean/translation)
 
@@ -157,11 +155,6 @@
 * [기초정수론: 계산과 법연산, 그리고 비밀통신을 강조한](https://wstein.org/ent/ent_ko.pdf) - William Stein (PDF)
 
 
-### OpenStack
-
-* [오픈스택을 다루는 기술](https://thebook.io/006881) - 장현정 (HTML)
-
-
 ### Operation System
 
 * [운영체제: 아주 쉬운 세 가지 이야기](https://github.com/remzi-arpacidusseau/ostep-translations/tree/master/korean) - Remzi Arpacidusseau (PDF)
@@ -201,6 +194,7 @@
 * [파이썬을 여행하는 히치하이커를 위한 안내서!](https://python-guide-kr.readthedocs.io/ko/latest/)
 * [파이썬을 이용한 비트코인 자동매매](https://wikidocs.net/book/1665) - 조대표
 * [A Byte of Python 한글 번역](http://byteofpython-korean.sourceforge.net/byte_of_python.pdf) - Jeongbin Park (PDF)
+* [Let's Get IT 파이썬 프로그래밍](https://thebook.io/080251) - 안지혜
 * [PyQt5 Tutorial - 파이썬으로 만드는 나만의 GUI 프로그램](https://wikidocs.net/book/2165) - Dardao (HTML)
 
 
@@ -240,7 +234,6 @@
 
 ### Rust
 
-* [러스트 코딩인사이트](https://coding-insight.com/docs/category/rust)
 * [러스트 프로그래밍 언어](https://rinthel.github.io/rust-lang-book-ko/) - 스티브 클라브닉, 캐롤 니콜스
 * [예제로 배우는 Rust 프로그래밍](http://rust-lang.xyz)
 * [파이썬과 비교하며 배우는 러스트 프로그래밍](https://indosaram.github.io/rust-python-book/) - 윤인도
@@ -251,7 +244,7 @@
 
 ### Scratch
 
-* [창의컴퓨팅(Creative Computing) 가이드북](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?barcode=480150000247P)
+* [창의컴퓨팅(Creative Computing) 가이드북](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/480150000247P)
 
 
 ### Sed

@@ -48,6 +48,7 @@
 ### Go
 
 * [Aprenda Go :brazil:](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg) (screencast)
+* [Curso de Go Básico - Lucas Badico](https://www.youtube.com/playlist?list=PL-tb3yiDrcKr-OryokjvgHWeOLNJ1quIr) (screencast)
 
 
 ### Haskell
@@ -75,6 +76,8 @@
 * [Maratona Java - O maior curso Java em português](https://www.youtube.com/playlist?list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL) (screencast)
 * [Maratona JSF - O maior curso JSF do Brasil](https://www.youtube.com/playlist?list=PL62G310vn6nHSNpACkELWiPlM8J8z8t5J) (screencast)
 * [Spring Boot essentials: O essencial do Spring Boot](https://www.youtube.com/playlist?list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1) (screencast)
+* [Curso de Springboot - iniciante - Fiasco](https://www.youtube.com/watch?v=n8_qrrc8WN4) (screencast)
+* [Estrutura de dados - Matheus Leandro Ferreira](https://www.youtube.com/watch?v=OyJTHUt7Y3c&list=PLCUSYmPGwekcXnzf6_UtgRM0OsOEGoiG_) (screencast)
 
 
 ### Language Agnostic

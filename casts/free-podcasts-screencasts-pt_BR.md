@@ -48,6 +48,7 @@
 ### Go
 
 * [Aprenda Go :brazil:](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg) (screencast)
+* [Golang do Zero](https://www.youtube.com/watch?v=sfgrCb9Y_88&list=PLIIX-IKjIiwOpAr_kyvpxTVyvUoxXqGEQ) Stephanie Cardoso - (screencast)
 
 
 ### Haskell
@@ -70,6 +71,7 @@
 
 * [Curso em Vídeo - Java Iniciante](https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR) - Gustavo Guanabara (screencast)
 * [Curso em Vídeo - Java Orientado a Objetos](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY) - Gustavo Guanabara (screencast)
+* [Curso Grátis de Estrutura de Dados com Java](https://www.youtube.com/watch?v=Ly1To6_5eQM) - Matheus Leandro Ferreira (screencast)
 * [Loiane - Java Básico](https://www.youtube.com/watch?v=LnORjqZUMIQ&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r) (screencast)
 * [Loiane - Java Intermediario](https://www.youtube.com/watch?v=EdEKx24xHGc&list=PLGxZ4Rq3BOBoqYyFWOV_YbfBW80YGAGEI) (screencast)
 * [Maratona Java - O maior curso Java em português](https://www.youtube.com/playlist?list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL) (screencast)

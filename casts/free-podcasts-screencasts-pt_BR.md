@@ -70,12 +70,12 @@
 
 * [Curso em Vídeo - Java Iniciante](https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR) - Gustavo Guanabara (screencast)
 * [Curso em Vídeo - Java Orientado a Objetos](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY) - Gustavo Guanabara (screencast)
-* [Loiane - Java Básico](https://www.youtube.com/watch?v=LnORjqZUMIQ&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r) (screencast)
-* [Loiane - Java Intermediario](https://www.youtube.com/watch?v=EdEKx24xHGc&list=PLGxZ4Rq3BOBoqYyFWOV_YbfBW80YGAGEI) (screencast)
-* [Maratona Java - O maior curso Java em português](https://www.youtube.com/playlist?list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL) (screencast)
-* [Maratona JSF - O maior curso JSF do Brasil](https://www.youtube.com/playlist?list=PL62G310vn6nHSNpACkELWiPlM8J8z8t5J) (screencast)
-* [Spring Boot essentials: O essencial do Spring Boot](https://www.youtube.com/playlist?list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1) (screencast)
-
+* [Curso Grátis de Estrutura de Dados com Java](https://www.youtube.com/watch?v=Ly1To6_5eQM) - Matheus Leandro Ferreira (screencast)
+* [Loiane - Java Básico](https://www.youtube.com/watch?v=LnORjqZUMIQ&list=PLGxZ4Rq3BOBq0KXHsp5J3PxyFaBIXVs3r) - Loiane Groner (screencast)
+* [Loiane - Java Intermediário](https://www.youtube.com/watch?v=EdEKx24xHGc&list=PLGxZ4Rq3BOBoqYyFWOV_YbfBW80YGAGEI) - Loiane Groner (screencast)
+* [Maratona JSF - O maior curso JSF do Brasil](https://www.youtube.com/playlist?list=PL62G310vn6nHSNpACkELWiPlM8J8z8t5J) - DevDojo (screencast)
+* [Maratona Java - O maior curso Java em português](https://www.youtube.com/playlist?list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL) - DevDojo (screencast)
+* [Spring Boot essentials: O essencial do Spring Boot](https://www.youtube.com/playlist?list=PL62G310vn6nF3gssjqfCKLpTK2sZJ_a_1)
 
 ### Language Agnostic
 

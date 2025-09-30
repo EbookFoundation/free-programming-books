@@ -132,13 +132,13 @@
   - \<a id="in\_process"\>\</a\>പണിപ്പുരയിലുള്ള പുസ്തകങ്ങൾ:
 
     ```text
-    ശരി: * [Will Be An Awesome Book Soon](http://example.com/book2.html) - John Doe (HTML) *(:construction: in process)*
+    ശരി: * [Will Be An Awesome Book Soon](http://example.com/book2.html) - John Doe (HTML) *( :construction: in process)*
     ```
 
   - \<a id="archived"\>\</a\>ആർക്കൈവ് ചെയ്ത ലിങ്ക്:
 
     ```text
-    ശരി: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
+    ശരി: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *( :card_file_box: archived)*
     ```
 
   - \<a id="license"\>\</a\>സൗജന്യ ലൈസൻസുകൾ (വായിക്കാൻ സൗജന്യമായതും എന്നാൽ "എല്ലാ അവകാശങ്ങളും നിക്ഷിപ്‌തവുമാണ്" എന്ന വിഭാഗത്തിൽ വരുന്നതുമായ റിസോഴ്‌സുകൾ ഞങ്ങൾ ഉൾപ്പെടുത്തുന്നുണ്ടെങ്കിലും, ക്രിയേറ്റീവ് കോമൺസ് പോലുള്ള സൗജന്യ ലൈസൻസുകളുടെ ഉപയോഗത്തെ ഞങ്ങൾ പ്രോത്സാഹിപ്പിക്കുന്നു):
@@ -177,7 +177,7 @@
         ```
       - ഒരു അധിക കുറിപ്പോടൊപ്പം (ഉദാ., ആർക്കൈവ് ചെയ്തത് അല്ലെങ്കിൽ പണിപ്പുരയിലുള്ളത്):
         ```markdown
-        * [Old but Gold](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) (CC BY) *(:card_file_box: archived)*
+        * [Old but Gold](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) (CC BY) *( :card_file_box: archived)*
         ```
 4.  വ്യത്യസ്ത എഡിഷനുകൾക്കോ ഫോർമാറ്റുകൾക്കോ വ്യത്യസ്ത ലൈസൻസുകളുണ്ടെങ്കിൽ, അവയെ പ്രത്യേക ഇനങ്ങളായി ലിസ്റ്റ് ചെയ്യുകയും ഓരോ എൻട്രിയിലും ശരിയായ ലൈസൻസ് രേഖപ്പെടുത്തുകയും ചെയ്യുക.
 5.  നിങ്ങൾക്ക് ഉറപ്പില്ലെങ്കിൽ, എന്തുകൊണ്ടാണ് റിസോഴ്സ് ഒരു സൗജന്യ ലൈസൻസിന് കീഴിലാണെന്ന് നിങ്ങൾ വിശ്വസിക്കുന്നതെന്നും എവിടെ നിന്നാണ് നിങ്ങൾക്ക് വിവരം ലഭിച്ചതെന്നും വിശദീകരിച്ച് നിങ്ങളുടെ PR-ൽ ഒരു കമന്റ് ചേർക്കുക.

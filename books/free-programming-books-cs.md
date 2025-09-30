@@ -135,7 +135,7 @@
 
 #### Django
 
-* [Django Girls Tutoriál](https://tutorial.djangogirls.org/cs/) (1.11) (HTML) *(:construction: in process)*
+* [Django Girls Tutoriál](https://tutorial.djangogirls.org/cs/) (1.11) (HTML) *( :construction: in process)*
 
 
 ### Perl

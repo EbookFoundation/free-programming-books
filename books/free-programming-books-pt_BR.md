@@ -90,7 +90,7 @@
 #### Sistemas Operacionais
 
 * [Guia Foca Linux](https://www.guiafoca.org/#download) - Gleydson Maziolli (PDF)
-* [Sistemas Operacionais: Conceitos e Mecanismos](http://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-livro.pdf) - Carlos A. Maziero (PDF) (CC BY-NC-SA) *(:construction: em contínuo desenvolvimento)*
+* [Sistemas Operacionais: Conceitos e Mecanismos](http://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-livro.pdf) - Carlos A. Maziero (PDF) (CC BY-NC-SA) *( :construction: em contínuo desenvolvimento)*
 
 
 ### Android
@@ -200,7 +200,7 @@
 * [Análise de Algoritmos](https://www.ime.usp.br/~pf/analise_de_algoritmos/) - Paulo Feofiloff (HTML)
 * [Computação: Matemática Discreta](https://educapes.capes.gov.br/bitstream/capes/432209/2/Livro_Matematica%20Discreta.pdf) - Raquel Montezuma Pinheiro Cabral (PDF)
 * [Exercícios de Teoria dos Grafos](https://www.ime.usp.br/~pf/grafos-exercicios/) - Paulo Feofiloff (PDF)
-* [Matemática Fundacional para Computação - Em progresso](https://www.tsouanas.org/fmcbook/) - Thanos Tsouanas *(:construction: em contínuo desenvolvimento)*
+* [Matemática Fundacional para Computação - Em progresso](https://www.tsouanas.org/fmcbook/) - Thanos Tsouanas *( :construction: em contínuo desenvolvimento)*
 * [Minicurso de Análise de Algoritmos](https://www.ime.usp.br/~pf/livrinho-AA/) - Paulo Feofiloff (PDF)
 * [Otimização Combinatória](https://www.ime.usp.br/~pf/otimizacao-combinatoria/) - Paulo Feofiloff (PDF)
 * [Uma Introdução Sucinta à Teoria dos Grafos](https://www.ime.usp.br/~pf/teoriadosgrafos/) - Y. Kohayakawa, Y. Wakabayashi, P. Feofiloff (PDF)
@@ -461,7 +461,7 @@
 * [Bash Scripting](https://meleu.gitbooks.io/bashscripting/content/) - Meleu (gitbook)
 * [Casamento de Padrões no Shell do GNU/Linux](https://blauaraujo.com/downloads/shell-pattern-matching.pdf) - Blau Araújo (PDF)
 * [Curso Intensivo de Programação do Bash - Guia de Estudos](https://blauaraujo.com/downloads/cipb-guia.pdf) - Blau Araújo (PDF)
-* [Curso Shell GNU](https://blauaraujo.com/downloads/curso-shell-gnu.pdf) - Blau Araújo (PDF) (:construction: *in process*)
+* [Curso Shell GNU](https://blauaraujo.com/downloads/curso-shell-gnu.pdf) - Blau Araújo (PDF) ( :construction: *in process*)
 * [Introdução ao Shell Script](http://aurelio.net/shell/apostila-introducao-shell.pdf) - Aurelio Marinho Jargas (PDF)
 * [Pequena introdução ao linux e ao Shell Script](https://www.telecom.uff.br/pet/petws/downloads/apostilas/LINUX.pdf) (PDF)
 * [Pequeno Manual do Programador GNU/Bash](https://blauaraujo.com/downloads/pmpgb.pdf) - Blau Araújo (PDF)

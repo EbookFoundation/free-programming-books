@@ -137,7 +137,7 @@
 
 ### Linux
 
-* [리눅스 서버를 다루는 기술](https://web.archive.org/web/20220107111504/https://thebook.io/006718/) *(:card_file_box: archived)*
+* [리눅스 서버를 다루는 기술](https://web.archive.org/web/20220107111504/https://thebook.io/006718/) *( :card_file_box: archived)*
 * [GNOME 배우기](https://sites.google.com/site/gnomekr/home/learning_gnome)
 
 
@@ -196,7 +196,7 @@
 
 #### Django
 
-* [장고걸스 튜토리얼 (Django Girls Tutorial)](https://tutorial.djangogirls.org/ko/) (1.11) (HTML) *(:construction: in process)*
+* [장고걸스 튜토리얼 (Django Girls Tutorial)](https://tutorial.djangogirls.org/ko/) (1.11) (HTML) *( :construction: in process)*
 * [점프 투 장고](https://wikidocs.net/book/4223) - 박응용
 
 

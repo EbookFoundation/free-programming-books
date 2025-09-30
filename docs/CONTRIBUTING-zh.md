@@ -163,14 +163,14 @@
 * <a id="in_process"></a>编写(翻译)中的书籍：
 
     ```text
-    正确：* [马上出版的一本书](http://example.com/book2.html) - 张显宗 (HTML) *(:construction: 编写中)*
-    正确：* [马上出版的一本书](http://example.com/book2.html) - 张显宗 (HTML) *(:construction: 翻译中)*
+    正确：* [马上出版的一本书](http://example.com/book2.html) - 张显宗 (HTML) *( :construction: 编写中)*
+    正确：* [马上出版的一本书](http://example.com/book2.html) - 张显宗 (HTML) *( :construction: 翻译中)*
     ```
 
 - <a id="archived"></a>Archived link:
 
     ```text
-    正确: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
+    正确: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *( :card_file_box: archived)*
     ```
 
 ### 按字母顺序

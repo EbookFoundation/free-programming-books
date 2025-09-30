@@ -10,6 +10,7 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
 - Bengali / বাংলা
   - [Code of Conduct](CODE_OF_CONDUCT-bn.md)
   - [How-to](HOWTO-bn.md)
+  - [Contributing](CONTRIBUTING-bn.md)
 - Bosnian / bosanski jezik
   - [How-to](HOWTO-bs.md)
 - Bulgarian / български

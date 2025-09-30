@@ -38,7 +38,6 @@
 * [Springboot](#springboot)
 * [TypeScript](#typescript)
 * [Unicode](#unicode)
-* [Unity3d](#unity3d)
 
 
 ### Amazon Web Service
@@ -61,7 +60,6 @@
 * [모두의 C언어](https://thebook.io/006989/) - 이형우
 * [씹어먹는 C](https://github.com/kev0960/ModooCode/raw/master/book/c/main.pdf) - 이재범 (PDF)
 * [코딩 자율학습 나도코딩의 C 언어 입문](https://thebook.io/007139/) - 나도코딩
-* [BeeJ's Guide to Network Programming - 인터넷 소켓 활용](https://blogofscience.com/Socket_Programming-KLDP.html)
 * [C 프로그래밍: 현대적 접근](https://wikidocs.net/book/2494) - K.N.King, `trl.:` 주민하
 
 
@@ -164,18 +162,16 @@
 
 * [2시간 반만에 펄 익히기](http://qntm.org/files/perl/perl_kr.html)
 * [Perl 객체지향프로그래밍(OOP)](https://github.com/aero/perl_docs/blob/master/hatena_perl_oop.md) : Hatena-TextBook의 oop-for-perl 문서 한역 by aero
-* [Seoul.pm 펄 크리스마스 달력 #2014 \| Seoul.pm Perl Advent Calendar 2014](http://advent.perl.kr/2014/)
 
 
 ### PHP
 
-* [PHP5 의 주요 기능](https://www.lesstif.com/pages/viewpage.action?pageId=24445740)
+* [숏텀 PHP](https://wikidocs.net/book/17209) - 디지털감성
 
 
 #### Laravel
 
 * [라라벨 (Laravel) 5 입문 및 실전 강좌](https://github.com/appkr/l5essential)
-* [쉽게 배우는 라라벨 5 프로그래밍](https://www.lesstif.com/display/laravelprog)
 
 
 ### Python
@@ -218,8 +214,7 @@
 ### R
 
 * [Must Learning with R (개정판)](https://wikidocs.net/book/4315) - DoublekPark 외 1명
-* [R을 이용한 데이터 처리 & 분석 실무](http://r4pda.co.kr) - 서민구 (HTML, PDF - 이전 버젼)
-* [The R Manuals (translated in Korean)](http://www.openstatistics.net)
+* [The R Manuals (translated in Korean)](http://www.openstatistics.net/ko.html)
 
 
 ### Raspberry Pi
@@ -238,7 +233,6 @@
 * [예제로 배우는 Rust 프로그래밍](http://rust-lang.xyz)
 * [파이썬과 비교하며 배우는 러스트 프로그래밍](https://indosaram.github.io/rust-python-book/) - 윤인도
 * [Comprehensive Rust](https://google.github.io/comprehensive-rust/ko/index.html)
-* [Rust로 첫 번째 단계 수행](https://learn.microsoft.com/ko-kr/training/paths/rust-first-steps) - 마이크로소프트에서 제공하는 러스트 강의
 * [The Rust Programming Language](https://doc.rust-kr.org/title-page.html)
 
 
@@ -267,16 +261,10 @@
 
 * [5분 안에 보는 타입스크립트](https://typescript-kr.github.io)
 * [타입스크립트 핸드북](https://joshua1988.github.io/ts) - Captain Pangyo
-* [한눈에 보는 타입스크립트](https://heropy.blog/2020/01/27/typescript) - HEROPY
-Tech
+* [한눈에 보는 타입스크립트](https://heropy.blog/2020/01/27/typescript) - HEROPY Tech
 * [TypeScript Deep Dive](https://radlohead.gitbook.io/typescript-deep-dive)
 
 
 ### Unicode
 
 * [번역 Unicode 이모티콘에 얽힌 이것저것 (이모티콘 표준과 프로그래밍 핸들링)](http://pluu.github.io/blog/android/2020/01/11/unicode-emoji/)
-
-
-### Unity3d
-
-* [번역 Unity Graphics Programming Series](https://github.com/IndieVisualLab/UnityGraphicsProgrammingSeries) - [Indie Visual Lab](https://github.com/IndieVisualLab)

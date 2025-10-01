@@ -37,7 +37,7 @@ jobs:
         if: github.event.action == 'pinned'
         uses: actions-ecosystem/action-add-labels@v1
         with:
-          repo:   ${{ github.repository }}
+          repo: ${{ github.repository }}
           number: ${{ github.event.issue.number }}
           labels: |
             :pushpin: pinned
@@ -47,7 +47,7 @@ jobs:
         if: github.event.action == 'unpinned'
         uses: actions-ecosystem/action-remove-labels@v1
         with:
-          repo:   ${{ github.repository }}
+          repo: ${{ github.repository }}
           number: ${{ github.event.issue.number }}
           labels: |
             :pushpin: pinned
@@ -58,7 +58,6 @@ jobs:
         run: |
           echo "$INPUT_SUMMARY"  >> $GITHUB_STEP_SUMMARY;
         env:
-          INPUT_SUMMARY: ${{ format('Issue [\#{2}]({0}/{1}/issues/{2}) should be `{3}`.',
-                                    github.server_url, github.repository,
-                                    github.event.issue.number,
-                                    github.event.action) }}
+          INPUT_SUMMARY: ${{ format('Issue [\#{2}]({0}/{1}/issues/{2})
+            should be `{3}`.', github.server_url, github.repository,
+            github.event.issue.number, github.event.action) }}

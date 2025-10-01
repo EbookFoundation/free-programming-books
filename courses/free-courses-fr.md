@@ -24,7 +24,7 @@
 
 ### Algorithmes
 
-* [Algorithmie - Cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfE0AkOm795c2qpLQJNiEBbZ) - Formation Video
+* [Algorithmie - Cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfE0AkOm795c2qpLQJNiEBbZ) - EvoluNoob (anc. Formation Video)
 
 
 ### APL

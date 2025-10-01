@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📚 Free Programming Books Website
+    url: https://ebookfoundation.github.io/free-programming-books/
+    about: Browse the free programming books collection on our website
+  - name: 💬 Community Discussion
+    url: https://github.com/EbookFoundation/free-programming-books/discussions
+    about: Ask questions and discuss with the community
+  - name: 📖 Contributing Guidelines
+    url: https://github.com/EbookFoundation/free-programming-books/blob/main/docs/CONTRIBUTING.md
+    about: Read our detailed contributing guidelines before submitting

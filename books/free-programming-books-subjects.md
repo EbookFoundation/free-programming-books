@@ -132,7 +132,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [The Great Tree List Recursion Problem](http://cslibrary.stanford.edu/109/TreeListRecursion.pdf) - Nick Parlante (PDF)
 * [The Kademlia Protocol Succinctly](https://www.syncfusion.com/ebooks/kademlia_protocol_succinctly) - Marc Clifton
 * [Think Complexity (2nd Edition)](https://greenteapress.com/wp/think-complexity-2e/) - Allen B. Downey
-
+* [An Open Guide to Data Structures and Algorithms](https://pressbooks.palni.org/anopenguidetodatastructuresandalgorithms/) - Paul W. Bible & Lucas Moser
 
 ### Artificial Intelligence
 

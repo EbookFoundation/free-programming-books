@@ -191,7 +191,7 @@ Free Podcasts and Screencasts:
 + [Chinese / 中文](casts/free-podcasts-screencasts-zh.md)
 + [Czech / čeština / český jazyk](casts/free-podcasts-screencasts-cs.md)
 + [Dutch / Nederlands](casts/free-podcasts-screencasts-nl.md)
-+ [English](casts/free-podcasts-screencasts-en.md)
++ [English / English](casts/free-podcasts-screencasts-en.md)
 + [Finnish / Suomi](casts/free-podcasts-screencasts-fi.md)
 + [French / français](casts/free-podcasts-screencasts-fr.md)
 + [German / Deutsch](casts/free-podcasts-screencasts-de.md)

@@ -1323,8 +1323,8 @@
 * [AWS Machine Learning Foundations Course](https://www.udacity.com/course/aws-machine-learning-foundations--ud065) - AWS (Udacity)
 * [Caltech's Learning From data](https://work.caltech.edu/telecourse.html)
 * [Complete Machine Learning Bootcamp](https://www.youtube.com/playlist?list=PLyzHIYrZBplo3K0dNUqppd2ynnoZPD6N1) - Code for Cause
-* [CS229: Machine Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) - Andrew Ng (Stanford University)
 * [Complete Machine Learning in Python playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe) - Krish Naik
+* [CS229: Machine Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) - Andrew Ng (Stanford University)
 * [Convolutional Neural Network](https://www.youtube.com/playlist?list=PLuhqtP7jdD8CD6rOWy20INGM44kULvrHu) - Coding Lane
 * [Deep Learning Fundamentals](https://cognitiveclass.ai/courses/introduction-deep-learning) - DeepLearning.TV (cognitiveclass.ai)
 * [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)

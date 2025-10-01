@@ -87,7 +87,7 @@
 
 ### Java
 
-* [Cours Java](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHkq8dd3BbSaopVgRSYtgPv) - Formation Video
+* [Cours Java](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHkq8dd3BbSaopVgRSYtgPv) - EvoluNoob (anc. Formation Video)
 
 
 ### JavaScript

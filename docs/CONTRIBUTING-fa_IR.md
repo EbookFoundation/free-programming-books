@@ -136,13 +136,13 @@
 * <a id="in_process"></a>کتاب‌های در دست تالیف:
 
     ```text
-    خوب: * [کتابی که عالی خواهدشد](http://example.com/book2.html) - نام نویسنده (HTML) *(:construction: in process)*
+    خوب: * [کتابی که عالی خواهدشد](http://example.com/book2.html) - نام نویسنده (HTML) *( :construction: in process)*
     ```
 
 - <a id="archived"></a>Archived link:
 
     ```text
-    خوب: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
+    خوب: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *( :card_file_box: archived)*
     ```
 
 ### ترتیب الفبایی

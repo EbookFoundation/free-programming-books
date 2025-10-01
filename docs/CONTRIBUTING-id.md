@@ -138,13 +138,13 @@ Contoh:
 - <a id="in_process"></a>Buku dalam proses penulisan:
 
     ```text
-    BAIK  : * [Akan Segera Menjadi Buku yang Luar Biasa](http://example.com/book2.html) - John Doe (HTML) *(:construction: in process)*
+    BAIK  : * [Akan Segera Menjadi Buku yang Luar Biasa](http://example.com/book2.html) - John Doe (HTML) *( :construction: in process)*
     ```
 
 - <a id="archived"></a>Tautan yang diarsipkan:
 
     ```text
-    BAIK  : * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
+    BAIK  : * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *( :card_file_box: archived)*
     ```
 
 <!----><a id="alphabetical-order"></a>

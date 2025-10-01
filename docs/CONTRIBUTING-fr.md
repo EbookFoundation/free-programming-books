@@ -132,13 +132,13 @@ Exemple:
 - <a id="in_process"></a>Livres en cours :
 
     ```
-    BIEN   : * [Sera bientôt un livre génial](http://exemple.com/livre2.html) - John Doe (HTML) *(:construction: in process)*
+    BIEN   : * [Sera bientôt un livre génial](http://exemple.com/livre2.html) - John Doe (HTML) *( :construction: in process)*
     ```
 
 - <a id="archived"></a>Lien archivé:
 
     ```text
-    BIEN   : * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
+    BIEN   : * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *( :card_file_box: archived)*
     ```
 
 ### <a id="alphabetical-order"></a>Ordre alphabétique

@@ -167,11 +167,11 @@
 ### Web Development
 
 * [آموزش اینسپکت المنت](https://holosen.net/inspect-element-1/) - Hossein Badrnezhad&rlm;
+* [آموزش 0 تا 100 طراحی سایت با وردپرس](https://www.youtube.com/playlist?list=PLh9zdkDdmi81Cu_4HGlXoq2mvtyu7t8Fn) - Ali Karbasi&rlm;
 * [آموزش طراحی وب](https://www.youtube.com/playlist?list=PLF10DSJQktjlCvLNuyxNjMPIHThHuIVqG) - Siavash Mahmoudian&rlm;
 * [برنامه نویسی وب](https://maktabkhooneh.org/course/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%88%D8%A8-mk74) - Mohammad Salehe&rlm;
 * [برنامه نویسی وب با HTML&rlm; و CSS&rlm;](https://holosen.net/web-design/) - Hossein Badrnezhad&rlm; *(نیاز به ثبت نام دارد)*
 * [دوره آموزشی بوت استرپ 5&rlm;](https://www.youtube.com/playlist?list=PLAt10Vana3YciJv9EIcNSsm1yTGpOdJIp) - Mehran Tarif&rlm; (Silicium&rlm;)
 * [وب‌فریم‌ورک‌ها چگونه کار می‌کنند؟](https://www.youtube.com/playlist?list=PLRU2zoAmuzJ33x-___WkhyTJ8dDPaoOPk) - Shahriar Shariati&rlm;
-* [آموزش 0 تا 100 طراحی سایت با وردپرس](https://www.youtube.com/playlist?list=PLh9zdkDdmi81Cu_4HGlXoq2mvtyu7t8Fn) - Ali Karbasi&rlm;
 
 </div>

@@ -77,8 +77,8 @@
 * [Apprendre l'HTML](https://www.youtube.com/playlist?list=PLjwdMgw5TTLUeixVGPNl1uZNeJy4UY6qX) - Grafikart
 * [Découvrir CSS](https://www.youtube.com/playlist?list=PLjwdMgw5TTLVjTZQocrMwKicV5wsZlRpj) - Grafikart
 * [Documentation du MDN](https://developer.mozilla.org/fr/) (MDN Mozilla)
-* [HTML/CSS - Exercices](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHEFVqv0pjGkPHv6PhWZQBb) - Formation Video
-* [HTML/CSS - Tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfG1_4HrfPttdwF8aLpgdsRL) - Formation Video
+* [HTML/CSS - Exercices](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHEFVqv0pjGkPHv6PhWZQBb) - EvoluNoob (anc. Formation Video)
+* [HTML/CSS - Tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfG1_4HrfPttdwF8aLpgdsRL) - EvoluNoob (anc. Formation Video)
 * [Le préprocesseur SASS](https://www.youtube.com/playlist?list=PLjwdMgw5TTLWVp8WUGheSrGnmEWIMk9H6) - Grafikart
 * [Tutoriel CSS](http://fr.html.net/tutorials/css/) - `trl.:` Jean Jacques Solari
 * [Tutoriel HTML](http://fr.html.net/tutorials/html/) - `trl.:` Jean Jacques Solari

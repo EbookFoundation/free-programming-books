@@ -6,6 +6,7 @@
 * [Android](#android)
 * [APL](#apl)
 * [Artificial Intelligence](#artificial-intelligence)
+    * [Generative AI](#generative-ai)
 * [Assembly](#assembly)
 * [AutoIt](#autoit)
 * [Ballerina](#ballerina)
@@ -280,6 +281,22 @@
 * [NLP Course](https://huggingface.co/learn/nlp-course) - Hugging Face
 * [NYU Artificial Intelligence SP24](https://www.youtube.com/playlist?list=PLLHTzKZzVU9cH26X9VQ14lIA0aPwZiZTx) - Alfredo Canziani, Ernest Davis
 * [Stanford CS221: Artificial Intelligence: Principles and Techniques \| Autumn 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX) - Stanford Online
+
+
+#### Generative AI
+
+* [CS 194/294-267: Understanding Large Language Models — Foundations and Safety](https://rdi.berkeley.edu/understanding_llms/s24) - Responsible Decentralized Intelligence (UC Berkeley)
+* [CS236: Deep Generative Models](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8) - Stefano Ermon (Stanford)
+* [CS324: Large Language Models](https://stanford-cs324.github.io/winter2022/) - Percy Liang, et al. (Stanford)
+* [Deep Generative Models](https://www.youtube.com/playlist?list=PL2UML_KCiC0UPzjW9BjO-IW6dqliu9O4B) - Volodymyr Kuleshov (Cornell Tech)
+* [Deep Unsupervised Learning](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPIvv4kgBkvu_uygrV3ut_U) - Pieter Abbeel (UC Berkeley)
+* [Diffusion Models Course](https://huggingface.co/learn/diffusion-course/en/unit0/1) - Hugging Face
+* [ETH Zürich: Large Language Models](https://rycolab.io/classes/llm-s24/) - Ryan Cotterell, Clara Meister (ETH Zürich)
+* [Foundation Models and Generative AI](https://ocw.mit.edu/courses/6-s087-foundation-models-and-generative-ai-january-iap-2024/) - Rickard Gabrielsson (MIT OpenCourseWare)
+* [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/) - Microsoft Cloud Advocates (Microsoft)
+* [Hugging Face — LLM Course](https://huggingface.co/learn) - Hugging Face
+* [LLM Systems (11-868)](https://llmsystem.github.io/llmsystem2024spring/) - Lei Li (Carnegie Mellon University)
+
 
 
 ### Assembly
@@ -1759,6 +1776,7 @@
 * [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313) (Udacity)
 * [Theory of Computation](https://www.youtube.com/playlist?list=PLyqSpQzTE6M9-v4V62bCygAVYGluaijyo) - Subrahmanyam Kalyanasundaram
 * [Theory of Computation & Automata Theory](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev) - Neso Academy
+* [MIT's Theory of Computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020) - Michael Sipser (MIT OpenCourseWare)
 
 
 ### UI/UX

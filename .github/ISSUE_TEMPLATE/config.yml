@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Project Documentation
+    url: https://github.com/EbookFoundation/free-programming-books/blob/main/README.md
+    about: Check our documentation before submitting an issue
+  - name: Project Contributing Guidelines
+    url: https://github.com/EbookFoundation/free-programming-books/blob/main/docs/CONTRIBUTING.md
+    about: Please read our contributing guidelines before submitting an issue

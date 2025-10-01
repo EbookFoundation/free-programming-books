@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🔒 Security reports
+    url: https://github.com/<owner>/<repo>/blob/main/SECURITY.md
+    about: Please report vulnerabilities privately.
+  - name: 📖 Contributing guide
+    url: https://github.com/<owner>/<repo>/blob/main/docs/CONTRIBUTING.md
+    about: Read rules before filing issues.

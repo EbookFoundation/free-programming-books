@@ -1,0 +1,18 @@
+name: 🛠️ Enhancement
+description: Improve existing behavior
+title: "[ENH] <short title>"
+labels: ["type: enhancement", "needs triage"]
+body:
+  - type: textarea
+    attributes:
+      label: Current behavior
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Suggested improvement
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Additional context

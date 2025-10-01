@@ -123,7 +123,7 @@
 ### Python
 
 * [Apprendre à programmer en Python \| Cours complet (2019)](https://www.pierre-giraud.com/python-apprendre-programmer-cours/) - Pierre Giraud
-* [Apprendre Python](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC) - Formation Video
+* [Apprendre Python](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC) - EvoluNoob (anc. Formation Video)
 
 
 ### PHP

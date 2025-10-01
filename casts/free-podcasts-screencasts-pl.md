@@ -13,4 +13,5 @@
 * [Piątki po deployu](https://piatkipodeployu.pl) - Mateusz Anioła, Miłosz Kusiciel (podcast)
 * [Porozmawiajmy o IT](https://porozmawiajmyoit.pl) - Krzysztof Kempiński (podcast)
 * [Przeprogramowani](https://anchor.fm/przeprogramowani) - Przemek Smyrdek, Marcin Czarkowski (podcast)
+* [Rozchmurzony](https://cloudowski.com/podcast/) - Tomasz Cholewa (podcast)
 * [Rozmowa Kontrolowana](https://www.youtube.com/playlist?list=PLTKLAGr6FHxOcW4NRX3BCkU7Zml92WU1u) - Zaufana Trzecia Strona (screencast)

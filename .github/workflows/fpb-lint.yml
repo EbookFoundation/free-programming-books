@@ -11,26 +11,28 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v5
-    - name: Use Node.js
-      uses: actions/setup-node@v5
-      with:
-        node-version: '16.x'
-    - run: npm install -g free-programming-books-lint
+      - uses: actions/checkout@v5
+      - name: Use Node.js
+        uses: actions/setup-node@v5
+        with:
+          node-version: '16.x'
+      - run: npm install -g free-programming-books-lint
 
-    - name: Pull Request
-      run: |
-        fpb-lint books casts courses more &> output.log
+      - name: Pull Request
+        run: |
+          fpb-lint books casts courses more &> output.log
 
-    - name: Clean output and create artifacts
-      if: always()
-      run: |
+      - name: Clean output and create artifacts
+        if: always()
+        run: |
           mkdir -p ./pr
           echo ${{ github.event.pull_request.html_url }} > ./pr/PRurl
-          cat output.log | sed -E 's:/home/runner/work/free-programming-books/|⚠.+::' | uniq > ./pr/error.log
+          # Remove file path and warning symbols from output
+          cat output.log | sed -E 's:/home/runner/work/free-programming-books/|⚠.+::' \
+            | uniq > ./pr/error.log
 
-    - uses: actions/upload-artifact@v4
-      if: always()
-      with:
-        name: pr
-        path: pr/
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: pr
+          path: pr/

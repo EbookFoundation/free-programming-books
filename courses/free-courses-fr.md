@@ -50,7 +50,7 @@
 ### <a id="csharp"></a>C\#
 
 * [Apprendre le C#](https://www.youtube.com/playlist?list=PLkHw7J3J2iapWFUnQmVzsRCU5YxaAWHSY) - Pentiminax
-* [C# - Cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGBHAMEg9Om9nF_7R7h5mO7) - Formation Video
+* [C# - Cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGBHAMEg9Om9nF_7R7h5mO7) - EvoluNoob (anc. Formation Video)
 
 
 ### <a id="cpp"></a>C++

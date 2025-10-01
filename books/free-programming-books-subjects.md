@@ -668,6 +668,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Signal Computing: Digital Signals in the Software Domain](http://faculty.washington.edu/stiber/pubs/Signal-Computing/Signal%20Computing.pdf) - Michael Stiber, Bilin Zhang Stiber, Eric C. Larson (PDF)
 * [Small Memory Software](https://smallmemory.charlesweir.com/book.html) - Charles Weir, James Noble (HTML)
 * [Software Technical Writing: A Guidebook](https://jamesg.blog/book.pdf) - James Gallagher (PDF)
+* [SRE Books](https://sre.google/books/) - Google (HTML)
 * [The Web Development Glossary](https://github.com/frontenddogma/web-development-glossary) – Jens Oliver Meiert
 * [Using Z Specification, Refinement, and Proof](http://www.usingz.com/usingz.pdf) -  Jim Woodcock, Jim Davies (PDF)
 * [Web Almanac](https://almanac.httparchive.org/static/pdfs/web_almanac_2019_en.pdf) (PDF)

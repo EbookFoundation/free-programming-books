@@ -427,6 +427,8 @@
 * [New Rustacean](http://www.newrustacean.com) - Chris Krycho (podcast)
 * [Rusty Radio](https://soundcloud.com/posix4e) - Alex Newman (podcast)
 * [The Rustacean Station Podcast](https://rustacean-station.org) - Allen Wyma, Tim McNamara, Sean Chen, et al. (podcast)
+* [The Rust Lang Book](https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8) - Let's Get Rusty (screencast)
+
 
 
 ### Swift

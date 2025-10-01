@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="20" viewBox="0 0 200 20">
+  <defs>
+    <linearGradient id="a" x1="50%" y1="0%" x2="50%" y2="100%">
+      <stop offset="0%" stop-color="#fff" stop-opacity=".1"/>
+      <stop offset="100%" stop-color="#000" stop-opacity=".1"/>
+    </linearGradient>
+  </defs>
+  <rect width="200" height="20" rx="3" fill="#000"/>
+  <rect width="200" height="20" rx="3" fill="url(#a)"/>
+  <rect width="179" height="20" rx="3" fill="#ff6b35"/>
+  <rect width="179" height="20" rx="3" fill="url(#a)"/>
+  <path d="M0 0h4v20H0z" fill="#ff6b35"/>
+  <path d="M0 0h4v20H0z" fill="url(#a)"/>
+  <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,Verdana,Geneva,sans-serif" font-size="11">
+    <text x="89.5" y="14">Hacktoberfest 2025</text>
+  </g>
+</svg>

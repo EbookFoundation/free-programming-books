@@ -6,4 +6,31 @@
 <!-- You can set your favicon here -->
 <link rel="shortcut icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}">
 
+<!-- Custom CSS for enhanced UI -->
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+
+<!-- Preload critical images -->
+<link rel="preload" href="{{ '/assets/images/awesome-badge.svg' | relative_url }}" as="image">
+<link rel="preload" href="{{ '/assets/images/license-badge.svg' | relative_url }}" as="image">
+<link rel="preload" href="{{ '/assets/images/hacktoberfest-badge.svg' | relative_url }}" as="image">
+
+<!-- Meta tags for better SEO and performance -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#4c1">
+<meta name="description" content="List of Free Learning Resources In Many Languages - Free Programming Books">
+
+<!-- Open Graph tags for better social sharing -->
+<meta property="og:title" content="Free Programming Books">
+<meta property="og:description" content="List of Free Learning Resources In Many Languages">
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+
+<!-- Twitter Card tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Free Programming Books">
+<meta name="twitter:description" content="List of Free Learning Resources In Many Languages">
+
+<!-- Enhanced UI JavaScript -->
+<script src="{{ '/assets/js/enhanced-ui.js' | relative_url }}" defer></script>
+
 <!-- end custom head snippets -->

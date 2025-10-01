@@ -1,0 +1,275 @@
+/* Custom CSS for Free Programming Books */
+
+/* Enhanced typography and spacing */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+}
+
+/* Improved badge styling */
+.badge-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 16px 0;
+    align-items: center;
+    justify-content: center;
+}
+
+.badge {
+    display: inline-block;
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 12px;
+    font-weight: 600;
+    text-decoration: none;
+    transition: all 0.2s ease;
+    border: 1px solid transparent;
+}
+
+.badge:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+
+.badge-awesome {
+    background: linear-gradient(135deg, #4c1, #3a9);
+    color: white;
+}
+
+.badge-license {
+    background: linear-gradient(135deg, #4c1, #2d7);
+    color: white;
+}
+
+.badge-hacktoberfest {
+    background: linear-gradient(135deg, #ff6b35, #f7931e);
+    color: white;
+}
+
+/* Enhanced search form */
+.search-container {
+    background: linear-gradient(135deg, #f8f9fa, #e9ecef);
+    padding: 24px;
+    border-radius: 12px;
+    margin: 24px 0;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+    border: 1px solid #dee2e6;
+}
+
+.search-form {
+    display: flex;
+    gap: 12px;
+    max-width: 500px;
+    margin: 0 auto;
+    align-items: center;
+}
+
+.search-input {
+    flex: 1;
+    padding: 12px 16px;
+    border: 2px solid #dee2e6;
+    border-radius: 8px;
+    font-size: 16px;
+    transition: all 0.2s ease;
+    background: white;
+}
+
+.search-input:focus {
+    outline: none;
+    border-color: #4c1;
+    box-shadow: 0 0 0 3px rgba(76, 17, 0, 0.1);
+}
+
+.search-button {
+    padding: 12px 24px;
+    background: linear-gradient(135deg, #4c1, #3a9);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    white-space: nowrap;
+}
+
+.search-button:hover {
+    background: linear-gradient(135deg, #3a9, #2d7);
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(76, 17, 0, 0.3);
+}
+
+/* Enhanced section styling */
+.section {
+    margin: 32px 0;
+    padding: 24px;
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    border: 1px solid #e9ecef;
+}
+
+.section h2 {
+    color: #2c3e50;
+    border-bottom: 3px solid #4c1;
+    padding-bottom: 8px;
+    margin-bottom: 20px;
+}
+
+.section h3 {
+    color: #34495e;
+    margin-top: 24px;
+    margin-bottom: 16px;
+}
+
+/* Enhanced list styling */
+.resource-list {
+    list-style: none;
+    padding: 0;
+}
+
+.resource-list li {
+    padding: 12px 0;
+    border-bottom: 1px solid #f1f3f4;
+    transition: all 0.2s ease;
+}
+
+.resource-list li:hover {
+    background: #f8f9fa;
+    padding-left: 8px;
+    border-radius: 6px;
+}
+
+.resource-list li:last-child {
+    border-bottom: none;
+}
+
+.resource-list a {
+    color: #2c3e50;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.2s ease;
+}
+
+.resource-list a:hover {
+    color: #4c1;
+    text-decoration: underline;
+}
+
+/* Language selector styling */
+.language-selector {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 16px 0;
+}
+
+.language-link {
+    display: inline-block;
+    padding: 8px 16px;
+    background: #f8f9fa;
+    color: #495057;
+    text-decoration: none;
+    border-radius: 20px;
+    border: 1px solid #dee2e6;
+    font-size: 14px;
+    transition: all 0.2s ease;
+}
+
+.language-link:hover {
+    background: #4c1;
+    color: white;
+    transform: translateY(-1px);
+    box-shadow: 0 2px 8px rgba(76, 17, 0, 0.2);
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .search-form {
+        flex-direction: column;
+        gap: 12px;
+    }
+    
+    .search-input,
+    .search-button {
+        width: 100%;
+    }
+    
+    .badge-container {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .section {
+        margin: 16px 0;
+        padding: 16px;
+    }
+}
+
+/* Loading states */
+.loading {
+    opacity: 0.6;
+    pointer-events: none;
+}
+
+.loading::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 20px;
+    height: 20px;
+    margin: -10px 0 0 -10px;
+    border: 2px solid #f3f3f3;
+    border-top: 2px solid #4c1;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+/* Accessibility improvements */
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+}
+
+/* Focus styles for keyboard navigation */
+a:focus,
+button:focus,
+input:focus {
+    outline: 2px solid #4c1;
+    outline-offset: 2px;
+}
+
+/* High contrast mode support */
+@media (prefers-contrast: high) {
+    .badge {
+        border: 2px solid currentColor;
+    }
+    
+    .search-input {
+        border-width: 3px;
+    }
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+    * {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+    }
+}

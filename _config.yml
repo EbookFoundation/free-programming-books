@@ -20,3 +20,7 @@ include:
   - LICENSE.md
   - CODE_OF_CONDUCT.md
 
+# Custom CSS
+assets:
+  - assets/css/custom.css
+

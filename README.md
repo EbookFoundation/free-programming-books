@@ -1,10 +1,10 @@
 # List of Free Learning Resources In Many Languages
 
-<div align="center" markdown="1">
+<div align="center" markdown="1" class="badge-container">
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)&#160;
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)&#160;
-[![Hacktoberfest 2025 stats](https://img.shields.io/github/hacktoberfest/2025/EbookFoundation/free-programming-books?label=Hacktoberfest+2025)](https://github.com/EbookFoundation/free-programming-books/pulls?q=is%3Apr+is%3Amerged+created%3A2025-10-01..2025-10-31)
+[![Awesome](assets/images/awesome-badge.svg)](https://github.com/sindresorhus/awesome)&#160;
+[![License: CC BY 4.0](assets/images/license-badge.svg)](https://creativecommons.org/licenses/by/4.0/)&#160;
+[![Hacktoberfest 2025 stats](assets/images/hacktoberfest-badge.svg)](https://github.com/EbookFoundation/free-programming-books/pulls?q=is%3Apr+is%3Amerged+created%3A2025-10-01..2025-10-31)
 
 </div>
 
@@ -12,11 +12,11 @@ Search the list at [https://ebookfoundation.github.io/free-programming-books-sea
 
 This page is available as an easy-to-read website. Access it by clicking on [![https://ebookfoundation.github.io/free-programming-books/](https://img.shields.io/website?style=flat&logo=www&logoColor=whitesmoke&label=Static%20site&down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Febookfoundation.github.io%2Ffree-programming-books%2F)](https://ebookfoundation.github.io/free-programming-books/).
 
-<div align="center">
-  <form action="https://ebookfoundation.github.io/free-programming-books-search">
-    <input type="text" id="fpbSearch" name="search" required placeholder="Search Book or Author"/>
-    <label for="submit"> </label>
-    <input type="submit" id="submit" name="submit" value="Search" />
+<div align="center" class="search-container">
+  <form action="https://ebookfoundation.github.io/free-programming-books-search" class="search-form">
+    <input type="text" id="fpbSearch" name="search" required placeholder="Search Book or Author" class="search-input" aria-label="Search for books or authors"/>
+    <label for="submit" class="sr-only">Search</label>
+    <input type="submit" id="submit" name="submit" value="Search" class="search-button" />
   </form>
 </div>
 
@@ -71,6 +71,8 @@ Click on these badges to see how you might be able to help:
 
 This project lists books and other resources grouped by genres:
 
+<div class="section">
+
 ### Books
 
 [English, By Programming Language](books/free-programming-books-langs.md)
@@ -78,6 +80,8 @@ This project lists books and other resources grouped by genres:
 [English, By Subject](books/free-programming-books-subjects.md)
 
 #### Other Languages
+
+<div class="language-selector">
 
 + [Arabic / al arabiya / العربية](books/free-programming-books-ar.md)
 + [Armenian / Հայերեն](books/free-programming-books-hy.md)
@@ -121,6 +125,8 @@ This project lists books and other resources grouped by genres:
 + [Turkish / Türkçe](books/free-programming-books-tr.md)
 + [Ukrainian / Українська](books/free-programming-books-uk.md)
 + [Vietnamese / Tiếng Việt](books/free-programming-books-vi.md)
+
+</div>
 
 ### Cheat Sheets
 

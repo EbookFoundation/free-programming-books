@@ -129,7 +129,7 @@
 ### PHP
 
 * [Apprendre Laravel 5.0.X](https://www.youtube.com/playlist?list=PLjwdMgw5TTLUCpXVEehCHs99N7IWByS3i) - Grafikart
-* [Apprendre PHP](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFuZttC17M-jNpKnzUL5Adc) - Formation Video
+* [Apprendre PHP](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFuZttC17M-jNpKnzUL5Adc) - EvoluNoob (anc. Formation Video)
 * [Apprendre PHP - Cours Complet + POO](https://www.youtube.com/playlist?list=PLjwdMgw5TTLVDv-ceONHM_C19dPW1MAMD) - Grafikart
 * [Apprendre Symfony 4 par l'exemple](https://www.youtube.com/playlist?list=PLjwdMgw5TTLX7wmorGgfrqI9TcA8nMb29) - Grafikart
 * [Cours complet de Pierre Giraud sur le développement PHP avec MySQL](https://www.pierre-giraud.com/php-mysql-apprendre-coder-cours/) - Pierre Giraud

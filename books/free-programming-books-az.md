@@ -9,6 +9,7 @@
 ### C
 
 * [C Proqramlaşdırma Dili](https://web.archive.org/web/20241214000729/https://ilkaddimlar.com/ders/c-proqramlasdirma-dili) ( :card_file_box: archived)
+* [C Programming Guide for Beginners](https://www.learn-c.org/) (:books: guide)
 
 
 ### HTML

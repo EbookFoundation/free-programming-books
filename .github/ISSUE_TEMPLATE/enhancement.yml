@@ -1,0 +1,97 @@
+name: Enhancement
+description: Suggest an improvement to existing content or functionality
+title: "[ENHANCEMENT] "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting an enhancement! Please fill out the form below to help us understand your improvement idea.
+
+  - type: dropdown
+    id: type
+    attributes:
+      label: Enhancement Type
+      description: What type of enhancement is this?
+      options:
+        - Content improvement (better book/resource)
+        - Documentation enhancement
+        - Link update/fix
+        - Formatting improvement
+        - Translation improvement
+        - Accessibility improvement
+        - Other
+    validations:
+      required: true
+
+  - type: input
+    id: location
+    attributes:
+      label: Location
+      description: Which file, section, or page needs enhancement?
+      placeholder: e.g., books/free-programming-books.md, JavaScript section
+    validations:
+      required: true
+
+  - type: textarea
+    id: current
+    attributes:
+      label: Current State
+      description: Describe the current state of what you want to enhance.
+      placeholder: Currently, the section/content/feature...
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposed
+    attributes:
+      label: Proposed Enhancement
+      description: Describe your proposed improvement in detail.
+      placeholder: I suggest improving this by...
+    validations:
+      required: true
+
+  - type: textarea
+    id: reasoning
+    attributes:
+      label: Reasoning
+      description: Why is this enhancement needed? What problem does it solve?
+      placeholder: This enhancement is needed because...
+    validations:
+      required: true
+
+  - type: textarea
+    id: impact
+    attributes:
+      label: Expected Impact
+      description: How will this enhancement benefit users?
+      placeholder: This will help users by...
+
+  - type: textarea
+    id: resources
+    attributes:
+      label: Suggested Resources
+      description: If applicable, suggest specific books, links, or resources to add/replace.
+      placeholder: |
+        - [Resource Name](URL) - Description
+        - [Another Resource](URL) - Description
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Context
+      description: Add any other context, examples, or screenshots about the enhancement.
+      placeholder: Additional information...
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Checklist
+      description: Please confirm the following
+      options:
+        - label: I have searched existing issues to ensure this enhancement hasn't been suggested before
+          required: true
+        - label: I have read the contributing guidelines
+          required: true
+        - label: I have verified that suggested resources (if any) are freely available
+          required: false

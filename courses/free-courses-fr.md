@@ -147,7 +147,7 @@
 ### SQL
 
 * [Apprendre MySQL - Ancien Cours](https://www.youtube.com/playlist?list=PLjwdMgw5TTLUJLpzUYGBK7K5-hPgZA7zo) - Grafikart
-* [SQL - Cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGl66sXijiN8SU9YJaM_EQg) - Formation Video
+* [SQL - Cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGl66sXijiN8SU9YJaM_EQg) - EvoluNoob (anc. Formation Video)
 
 
 ### SysAdmin

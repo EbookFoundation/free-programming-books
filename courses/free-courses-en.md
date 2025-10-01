@@ -1774,9 +1774,9 @@
 * [Automata Theory](https://online.stanford.edu/courses/soe-ycsautomata-automata-theory)
 * [Formal Languages & Automata Theory](https://www.youtube.com/playlist?list=PLLvKknWU7N4zvTGcw9N2_7eZSTTkryb0U) - Lalit Vashistha
 * [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313) (Udacity)
+* [MIT's Theory of Computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020) - Michael Sipser (MIT OpenCourseWare)
 * [Theory of Computation](https://www.youtube.com/playlist?list=PLyqSpQzTE6M9-v4V62bCygAVYGluaijyo) - Subrahmanyam Kalyanasundaram
 * [Theory of Computation & Automata Theory](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev) - Neso Academy
-* [MIT's Theory of Computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020) - Michael Sipser (MIT OpenCourseWare)
 
 
 ### UI/UX

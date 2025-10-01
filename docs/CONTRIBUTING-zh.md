@@ -163,14 +163,14 @@
 * <a id="in_process"></a>编写(翻译)中的书籍：
 
     ```text
-    正确：* [马上出版的一本书](http://example.com/book2.html) - 张显宗 (HTML) (:construction: *编写中*)
-    正确：* [马上出版的一本书](http://example.com/book2.html) - 张显宗 (HTML) (:construction: *翻译中*)
+    正确：* [马上出版的一本书](http://example.com/book2.html) - 张显宗 (HTML) *( :construction: 编写中)*
+    正确：* [马上出版的一本书](http://example.com/book2.html) - 张显宗 (HTML) *( :construction: 翻译中)*
     ```
 
 - <a id="archived"></a>Archived link:
 
     ```text
-    正确: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
+    正确: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *( :card_file_box: archived)*
     ```
 
 ### 按字母顺序
@@ -288,5 +288,6 @@
     check_urls=free-programming-books.md free-programming-books-zh.md
     ```
     
-- - 您可以指定多个要检查的文件，使用单个空格分隔每个条目。
+- 您可以指定多个要检查的文件，使用单个空格分隔每个条目。
 - 如果您指定了多个文件，构建的结果将基于最后一个检查的文件的结果。您应该注意，由于这个原因，您可能会得到通过的绿色构建，所以请确保在拉取请求结束时检查构建日志，点击 “Show all checks”->“Details”。
+

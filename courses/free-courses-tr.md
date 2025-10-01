@@ -9,6 +9,7 @@
 * [JavaScript](#javascript)
 * [Python](#python)
 * [React](#react)
+* [SQL](#sql)
 * [Temel programlama](#temel-programlama)
 * [Version Control Systems](#version-control-systems)
 
@@ -41,6 +42,7 @@
 * [HTML Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx7aP99nDNRKDi70bLFr_kX-) - Hakan Yalçınkaya \| Kodluyoruz
 * [HTML+CSS Öğreniyoruz](https://www.youtube.com/playlist?list=PLadt0EaV4m3Ae9mBaQNylUKUaFK38F4EB) - Adem Ilter
 * [Sıfırdan CSS Eğitim](https://www.youtube.com/playlist?list=PLadt0EaV4m3BX9JaZbKS9B8076bruv93Y) - Adem Ilter
+* [XHTML(HTML) ve CSS Dersleri](https://www.youtube.com/playlist?list=PLWctyKyPphPjm1jnFNsQfOIDgR3wf-prc) - Erol Mesut Gün (Yakın Kampüs)
 
 
 ### IDE and editors
@@ -81,6 +83,12 @@
 * [Yeni Başlayanlar İçin React](https://www.youtube.com/playlist?list=PL-Hkw4CrSVq_eyixSZ4sVI1x6d7akLpsy) - Arin Yazilim
 
 
+### SQL
+
+* [Her Yönüyle SQL Server](https://www.btkakademi.gov.tr/portal/course/her-yonuyle-sql-server-9007) - Ömer Faruk Çolakoğlu
+* [Uygulamalarla SQL Öğreniyorum](https://www.btkakademi.gov.tr/portal/course/uygulamalarla-sql-ogreniyorum-8249) - Ömer Faruk Çolakoğlu
+
+
 ### Temel programlama
 
 * [Bilgisayar programlama I](https://acikders.ankara.edu.tr/course/view.php?id=8750) - Semra Gündüç
@@ -93,3 +101,5 @@
 * [Git Giriş Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx4WAg9LPX_GKk7cKF7KBXOg) - Hakan Yalçınkaya \| Kodluyoruz
 * [Git, GitHub ve GitLab Kullanımı](https://www.youtube.com/playlist?list=PLPrHLaayVkhnNstGIzQcxxnj6VYvsHBHy) - Barış Aslan
 * [Git İleri Eğitim Serisi](https://youtube.com/playlist?list=PLGrTHqyRDvx6PVwxJmcQ0Veg1uoXRxQY8) - Kodluyoruz
+* [Git/Github Sıfırdan Kapsamlı Eğitim Seti](https://www.youtube.com/playlist?list=PLld6WWpFK1nEhFvvYi5ts-_JoUL3wF3zz) - Bidoluyazılım
+

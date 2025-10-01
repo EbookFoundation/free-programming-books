@@ -8,6 +8,7 @@
     * [Управление конфигурациями](#управление-конфигурациями)
     * [Экосистема открытого исходного кода](#экосистема-открытого-исходного-кода)
     * [IDE and editors](#ide-and-editors)
+* [Arduino](#arduino)
 * [Assembly](#assembly)
 * [Bash](#bash)
 * [C](#c)
@@ -52,6 +53,7 @@
     * [CodeIgniter](#codeigniter)
     * [Laravel](#laravel)
     * [Symfony](#symfony)
+    * [Yii](#yii)
 * [Python](#python)
     * [Django](#django)
     * [Jupyter Notebook](#jupyter-notebook)
@@ -110,7 +112,7 @@
 
 #### Работа с сетью
 
-* [Наука о Сетях](http://networksciencebook.com) - Альберто Лазло-Барабаси (:construction: *in process*)
+* [Наука о Сетях](http://networksciencebook.com) - Альберто Лазло-Барабаси *( :construction: в процессе написания)*
 * [Разъяснение HTTP2](https://github.com/vlet/http2-explained/blob/master/http2.ru.pdf?raw=true) - Даниэль Штенберг (PDF)
 * [IPv6 для знатоков IPv4](https://sites.google.com/site/yartikhiy/home/ipv6book) - Ярослав Тихий (PDF, HTML, EPUB)
 
@@ -129,6 +131,11 @@
 
 * [Поваренная Книга Vim](http://www.opennet.ru/docs/RUS/vim_cookbook) - Steve Oualline
 * [Просто о Vim](http://rus-linux.net/MyLDP/BOOKS/Vim/prosto-o-vim.pdf) - Swaroop (PDF)
+
+
+### Arduino
+
+* [Автомато-программато-компарадио-кружок](https://github.com/artyom-poptsov/SPARC/blob/master/README.ru.org) - Artyom V. Poptsov (PDF) (CC BY-SA)
 
 
 ### Assembly
@@ -212,7 +219,7 @@
 * [Введение в программирование на Go](http://golang-book.ru) - Калеб Докси
 * [Руководство по языку Go](https://metanit.com/go/tutorial) - Евгений Попов
 * [Эффективный Go](https://github.com/Konstantin8105/Effective_Go_RU)
-* [Go в примерах](https://web.archive.org/web/20210727024101/https://gobyexample.ru) *(:card_file_box: archived)*
+* [Go в примерах](https://web.archive.org/web/20210727024101/https://gobyexample.ru) *( :card_file_box: archived)*
 * [Go для PHP-разработчиков](https://pahanini.gitbooks.io/golang-for-php-developers/content/) - Pavel Tetyaev (gitbook)
 * [The Little Go Book (перевод)](https://sefus.ru/little-go-book) - Karl Seguin, `trl.:` Roman Dolgolopov, Evgeny Popov, Alexander Dunin ([HTML](https://github.com/sefus/the-little-go-book/blob/master/ru/go.md), [EPUB](https://sefus.ru/dl/go.epub))
 
@@ -223,7 +230,6 @@
 * [Учебник по Haskell](http://anton-k.github.io/ru-haskell-book/book/home.html) - Антон Холомьёв
 * [Язык и библиотеки Haskell 98](http://www.haskell.ru) - Simon Peyton Jones
 * [Язык программирования Haskell: Учимся быть ленивыми](https://github.com/Number571/Haskell/tree/master/Book) - Г. Коваленко
-* [Developing Web Applications with Haskell and Yesod](https://bitbucket.org/darkus/yesod/downloads) - Майкл Сноймен
 * [Haskell: введение в функциональное программирование](https://wiki.nsunc.com/_export/html/haskell) - В.Н. Власов
 
 
@@ -322,7 +328,6 @@
 > :information_source: See also &#8230; [Angular](#angular)
 
 * [Онлайн-руководство по AngularJS](https://metanit.com/web/angular) - Евгений Попов
-* [Перевод документации](http://angular-doc.herokuapp.com)
 * [AngularJS Tutorial](https://coderlessons.com/tutorials/veb-razrabotka/vyuchit-angularjs/angularjs-tutorial) - CoderLessons.com
 
 
@@ -377,7 +382,7 @@
 ### Lisp
 
 * [Lisp In Small Pieces (translation)](https://github.com/ilammy/lisp)
-* [Practical Common Lisp (перевод)](https://web.archive.org/web/20220130051228/http://lisper.ru/pcl/) (HTML) *(:card_file_box: archived)*
+* [Practical Common Lisp (перевод)](https://web.archive.org/web/20220130051228/http://lisper.ru/pcl/) (HTML) *( :card_file_box: archived)*
 
 
 ### MetaPost
@@ -450,12 +455,18 @@
 #### Symfony
 
 * [Учебник по Symfony](https://coderlessons.com/tutorials/veb-razrabotka/uchit-symfony/uchebnik-po-symfony)
-* [Symfony 5. Быстрый старт](https://symfony.com/doc/5.0/the-fast-track/ru/index.html)
+* [Symfony 5.4: Быстрый старт](https://symfony.com/doc/5.4/the-fast-track/ru/index.html)
+* [Symfony 6.2: Быстрый старт](https://symfony.com/doc/6.2/the-fast-track/ru/index.html)
+
+
+#### Yii
+
+* [Полное руководство по Yii 2.0](https://www.yiiframework.com/doc/download/yii-guide-2.0-ru.pdf) - Yii Software (PDF)
 
 
 ### Python
 
-* [Вглубь языка Python](https://web.archive.org/web/20170630204729/ru.diveintopython.net/toc.html) *(:card_file_box: archived)*
+* [Вглубь языка Python](https://web.archive.org/web/20170630204729/ru.diveintopython.net/toc.html) *( :card_file_box: archived)*
 * [Основы программирования на Python](http://dfedorov.spb.ru/python3) - Дмитрий Фёдоров (PDF)
 * [Пишем Telegram-ботов на Python (v2)](https://mastergroosha.github.io/telegram-tutorial-2/) - MasterGroosha
 * [Руководство по языку программирования Python](https://metanit.com/python/tutorial) - Евгений Попов
@@ -473,7 +484,7 @@
 #### Django
 
 * [Руководство по веб-фреймворку Django](https://metanit.com/python/django) - Евгений Попов
-* [Руководство Django Girls](https://tutorial.djangogirls.org/ru) (1.11) (HTML) (:construction: *в процессе написания*)
+* [Руководство Django Girls](https://tutorial.djangogirls.org/ru) (1.11) (HTML) *( :construction: в процессе написания)*
 
 
 #### Jupyter Notebook
@@ -494,6 +505,7 @@
 ### R
 
 * [Анализ данных с R](http://www.inp.nsk.su/~baldin/DataAnalysis/index.html)
+* [Наглядная статистика. Используем R!](https://cran.r-project.org/doc/contrib/Shipunov-rbook.pdf) (PDF)
 * [Рандомизация и бутстреп: статистический анализ в биологии и экологии с использованием R.](http://www.ievbras.ru/ecostat/Kiril/Article/A32/Starb.pdf) (PDF)
 
 
@@ -514,7 +526,7 @@
 #### Ruby on Rails
 
 * [Ruby on Rails по-русски](http://rusrails.ru)
-* [Ruby on Rails Tutorial. Изучение Rails на Примерах](https://web.archive.org/web/20181124010958/railstutorial.ru/chapters/4_0/beginning) - Майкл Хартл *(:card_file_box: archived)*
+* [Ruby on Rails Tutorial. Изучение Rails на Примерах](https://web.archive.org/web/20181124010958/railstutorial.ru/chapters/4_0/beginning) - Майкл Хартл *( :card_file_box: archived)*
 
 
 ### Rust
@@ -572,6 +584,7 @@
 * [История о PostgreSQL](http://www.inp.nsk.su/~baldin/PostgreSQL/index.html) - Linux Format
 * [Работа с PostgreSQL - настройка и масштабирование](http://postgresql.leopard.in.ua) - А. Ю. Васильев
 * [PostgreSQL для начинающих](https://postgrespro.ru/education/books/introbook) - Luzanov Pavel Veniaminovich, Rogov Yegor Valerievich, Levshin Igor Viktorovich (PDF)
+* [PostgreSQL. Основы языка SQL](https://postgrespro.ru/education/books/sqlprimer) - Моргунов Евгений Павлович (PDF)
 
 
 ### Swift

@@ -5,6 +5,7 @@
 * [Computer architecture](#computer-architecture)
 * [Data Structure and Algorithms](#data-structure-and-algorithms)
 * [Java](#java)
+* [JavaScript](#javascript)
 * [Linux](#linux)
 * [Networking](#networking)
 * [Php](#php)
@@ -40,6 +41,12 @@
 * [Java \| Hindi](https://www.learnhindituts.com/java) - LearnHindiTuts.com
 
 
+### JavaScript
+
+* [JavaScript \| Hindi](https://www.tutorialinhindi.com/javascript-tutorial-hindi/) - TutorialinHindi.com
+* [Learn JavaScript \| Hindi](https://javascript.sumankunwar.com.np/np) - Suman Kumar, Github Contributors (HTML, PDF)
+
+
 ### Linux
 
 * [Linux Commands \| Hindi](https://ehindistudy.com/2022/06/24/linux-commands-hindi/) - Vinay Bhatt
@@ -55,7 +62,7 @@
 * [ डाटा कयनकेशन एंड कंयटर नेटवक ](https://www.aicte-india.org/sites/default/files/HINDI_BOOKS/BOOK%203.pdf) -  ई.हरश दाधीच, ई.वकास माथर (PDF)
 
 
-### Php
+### PHP
 
-* [Php \| Hindi](https://www.learnhindituts.com/php) - LearnHindiTuts.com
-* [Php Hindi Tutorial \| Hindi](http://tutorialsroot.com/php/index.html) - TutorialsRoot.com
+* [PHP In Hindi Tutorial](http://tutorialsroot.com/php/index.html) - TutorialsRoot.com
+* [PHP Tutorials In Hindi](https://www.learnhindituts.com/php) - LearnHindiTuts.com

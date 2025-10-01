@@ -11,6 +11,7 @@
 * [CoffeeScript](#coffeescript)
 * [Dart](#dart)
 * [Data Science](#data-science)
+* [DBMS](#dbms)
 * [Erlang](#erlang)
 * [Git](#git)
 * [GLSL](#glsl)
@@ -71,6 +72,7 @@
 
 ### C
 
+* [C Tutorial](https://www.w3schools.com/c/) - W3Schools
 * [C Tutorial](https://www.scaler.com/topics/c/) - Scaler Topics
 * [Learn C](http://www.learn-c.org) - Learn-C
 
@@ -132,6 +134,11 @@
 * [Top 10 Data Science Projects for Beginners - KDnuggets](https://www.kdnuggets.com/2021/06/top-10-data-science-projects-beginners.html)
 
 
+### DBMS
+
+* [DBMS Course - Master the Fundamentals and Advanced Concepts](https://www.scaler.com/topics/course/dbms/) - Srikanth Varma (Scaler Topics)
+
+
 ### Erlang
 
 * [Try Erlang](http://www.tryerlang.org)
@@ -161,6 +168,7 @@
 * [Go Tutorial](https://www.w3schools.com/go/) - W3Schools
 * [Learn Go](https://www.codecademy.com/learn/learn-go) - Google, Robert Griesemer, Rob Pike, and Ken Thompson (Codecademy) *(account required)*
 * [Start using Go](https://docs.microsoft.com/en-us/learn/paths/go-first-steps/) - Microsoft
+* [TCP Servers in Go](https://app.codecrafters.io/concepts/go-tcp-server) - CodeCrafters
 * [The Go Tutorial](http://tour.golang.org)
 
 
@@ -228,6 +236,7 @@
 * [JavaScript interactive tutorial on CoderMania](http://www.codermania.com/javascript/lesson/1a/hello-world)
 * [JavaScript Tutorial](https://www.w3schools.com/js) - W3Schools
 * [JavaScript Tutorial](https://www.scaler.com/topics/javascript/) - Scaler Topics
+* [JavaScript Tutorial and Overview](https://www.afterhoursprogramming.com/tutorial/javascript/) - After Hours Programming
 * [Javascripting](https://github.com/sethvincent/javascripting)
 * [JSchallenger](https://www.jschallenger.com)
 * [Learn JavaScript](http://www.learn-js.org)
@@ -240,7 +249,6 @@
 
 #### AngularJS
 
-* [AngularJS - Step by Logical Step](http://nicholasjohnson.com/angular-book/) - Nicholas Johnson
 * [AngularJS Basics](http://www.angularjsbook.com) - Chris Smith
 * [AngularJS Tutorial](https://www.tutlane.com/tutorial/angularjs) - tutlane
 * [AngularJS Tutorial](https://www.w3schools.com/angular/) - W3Schools
@@ -262,6 +270,7 @@
 * [React Tutorial](https://react-tutorial.app)
 * [React Tutorial](https://www.w3schools.com/react/) - W3Schools
 * [React Tutorial](https://www.scaler.com/topics/react/) - Scaler Topics
+* [React Tutorial: Learn React JS](https://scrimba.com/learn/learnreact) - Srimba
 
 
 #### Redux
@@ -293,10 +302,11 @@
 
 #### Operating systems
 
-* [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os) - Sergey Matyukevich (:construction: *in process*)
+* [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os) - Sergey Matyukevich *( :construction: in process)*
 * [Linux Journey - Fun and Easy](https://linuxjourney.com) - Cindy Quach
 * [Operating System Tutorial](https://www.scaler.com/topics/operating-system/) - Scaler Topics
-* [Project eXpOS: eXperimental Operating System](https://exposnitc.github.io) - Dr. Murali Krishnan K., Department of Computer Science and Engineering of the Calicut National Institute of Technology (HTML)
+* [Practice Linux Commands (Hands-On Labs)](https://labex.io/tutorials/practice-linux-commands-free-tutorials-398420) - LabEx
+* [Project eXpOS: eXperimental Operating System](https://exposnitc.github.io) - Murali Krishnan K., Department of Computer Science and Engineering of the Calicut National Institute of Technology (HTML)
 
 
 ### LaTeX
@@ -367,6 +377,7 @@
 * [Codecademy Python course](https://www.codecademy.com/learn/python)
 * [Computer Science Circles](https://cscircles.cemc.uwaterloo.ca) - Centre for Education in Mathematics and Computing (University of Waterloo)
 * [Data Analysis with Python Certification](https://www.freecodecamp.org/learn/data-analysis-with-python/) - freeCodeCamp
+* [Foundations of Python Programming](https://runestone.academy/ns/books/published/fopp/index.html) - Runestone Interactive
 * [futurecoder](https://futurecoder.io) - Alex Hall
 * [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html)
 * [Learn Python](http://www.learnpython.org)
@@ -413,8 +424,11 @@
 ### Rust
 
 * [Rust-101](https://www.ralfj.de/projects/rust-101/main.html) - ralfj.de
+* [Rust Primer](https://app.codecrafters.io/collections/rust-primer) - CodeCrafters
 * [Rust Quiz](https://dtolnay.github.io/rust-quiz)
 * [Rustlings](https://github.com/rust-lang/rustlings)
+* [TCP Servers in Rust](https://app.codecrafters.io/concepts/rust-tcp-server) - CodeCrafters
+* [Tour of Rust](https://tourofrust.com)
 
 
 ### Scala
@@ -449,3 +463,4 @@
 ### XML
 
 * [XML Tutorial](https://www.w3schools.com/xml) - W3Schools
+

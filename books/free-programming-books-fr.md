@@ -6,6 +6,7 @@
     * [IDE et éditeurs de texte](#ide-et-editeurs-de-texte)
     * [Logiciels libres](#logiciels-libres)
     * [Makefile](#makefile)
+    * [Mathématiques](#mathématiques)
     * [Pédagogie pour les enfants et adolescents](#pédagogie-pour-les-enfants-et-adolescents)
     * [Théorie des langages](#théorie-des-langages)
 * [Ada](#ada)
@@ -14,12 +15,11 @@
 * [C / C++](#c--c)
 * [Caml / OCaml](#caml--ocaml)
 * [Chaîne de blocs / Blockchain](#chaîne-de-blocs--blockchain)
-* [Coq](#coq)
 * [Fortran](#fortran)
 * [Git](#git)
 * [Go](#go)
 * [Haskell](#haskell)
-* [HTML and CSS](#css)
+* [HTML and CSS](#html-and-css)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [jQuery](#jquery)
@@ -31,15 +31,16 @@
     * [TeX](#tex)
 * [Lisp](#lisp)
 * [Lua](#lua)
-* [Mathématiques](#math%C3%A9matiques)
 * [Meteor](#meteor)
 * [Perl](#perl)
 * [PHP](#php)
     * [Symfony](#symfony)
+    * [Yii](#yii)
 * [Processing](#processing)
 * [Python](#python)
     * [Django](#django)
 * [R](#r)
+* [Rocq Prover](#rocq-prover)
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [Sage](#sage)
@@ -47,7 +48,7 @@
 * [Scratch](#scratch)
 * [SPIP](#spip)
 * [SQL](#sql)
-* [Systèmes d'exploitation](#systemes-d-exploitation)
+* [Systèmes d'exploitation](#systèmes-dexploitation)
 * [TEI](#tei)
 
 
@@ -76,7 +77,7 @@
 
 #### Logiciels libres
 
-* [Histoires et cultures du Libre](http://framabook.org/histoiresetculturesdulibre/)
+* [Histoires et cultures du Libre](https://archives.framabook.org/histoiresetculturesdulibre/) - Camille Paloque-Berges, Christophe Masutti, `edt.:` Framasoft (coll. Framabook)
 * [Option libre. Du bon usage des licences libres](http://framabook.org/optionlibre-dubonusagedeslicenceslibres/) - Jean Benjamin
 * [Produire du logiciel libre](http://framabook.org/produire-du-logiciel-libre-2/) - Karl Fogel
 * [Richard Stallman et la révolution du logiciel libre](http://framabook.org/richard-stallman-et-la-revolution-du-logiciel-libre-2/) - R.M. Stallman, S. Williams, C. Masutti
@@ -88,9 +89,14 @@
 * [Introduction aux Makefile](http://eric.bachard.free.fr/UTBM_LO22/P07/C/Documentation/C/make/intro_makefile.pdf) (PDF)
 
 
+#### Mathématiques
+
+* [Approfondissements de lycée](https://fr.wikibooks.org/wiki/Approfondissements_de_lycée) - Wikibooks contributors, Zhuo Jia Dai, `ctb.:` R3m0t, `ctb.:` Martin Warmer (HTML) ( :construction: *in process*)
+
+
 #### Pédagogie pour les enfants et adolescents
 
-* [Activités débranchées](https://pixees.fr/?cat=612) Catalogue de ressource pour apprendre l'informatique sans ordinateur.
+* [Activités débranchées](https://pixees.fr/?cat=612)
 * [Apprendre l'informatique sans ordinateur](https://interstices.info/enseigner-et-apprendre-les-sciences-informatiques-a-lecole/) - Tim Bell, Ian H. Witten, `trl.:` Mike Fellows
 
 
@@ -108,7 +114,7 @@
 
 ### Bash / Shell
 
-* [Guide avancé d'écriture des scripts Bash](http://abs.traduc.org/abs-fr/)
+* [Guide avancé d'écriture des scripts Bash](https://abs.traduc.org/abs-fr/) - Mendel Cooper, `trl.:` Adrien Rebollo et al.
 * [La programmation Shell](https://frederic-lang.developpez.com/tutoriels/linux/prog-shell/) - Frederic Lang, Idriss Neumann
 
 
@@ -130,12 +136,7 @@
 ### Chaîne de blocs / Blockchain
 
 * [Maîtriser Bitcoin: Programmer la chaîne de blocs publique](https://bitcoin.maitriser.ca) - Andreas M. Antonopoulos, Serafim Dos Santos (asciidoc, HTML)
-* [Maîtriser Ethereum: Développer des contrats intelligents et des DApps](https://ethereum.maitriser.ca) - Andreas M. Antonopoulos, Dr. Gavin Wood, Serafim Dos Santos (asciidoc, HTML)
-
-
-### Coq
-
-* [Le Coq'Art (V8)](http://www.labri.fr/perso/casteran/CoqArt/) - Yves Bertot, Pierre Castéran
+* [Maîtriser Ethereum: Développer des contrats intelligents et des DApps](https://ethereum.maitriser.ca) - Andreas M. Antonopoulos, Gavin Wood, Serafim Dos Santos (asciidoc, HTML)
 
 
 ### Fortran
@@ -168,6 +169,7 @@
 ### JavaScript
 
 * [JavaScript Éloquent : Une introduction moderne à la programmation](http://fr.eloquentjavascript.net) - Marijn Haverbeke
+* [Learn JavaScript](https://javascript.sumankunwar.com.np/fr) - Suman Kumar, Github Contributors (HTML, PDF)
 * [Node.Js: Apprendre par la pratique](https://oncletom.io/node.js/#chapitres) - Thomas Parisot
 
 
@@ -179,22 +181,22 @@
 ### Haskell
 
 * [A Gentle Introduction to Haskell](http://gorgonite.developpez.com/livres/traductions/haskell/gentle-haskell/) - Paul Hudak, John Peterson, Joseph Fasel, `trl.:` Nicolas Vallée, Gnux, ggnore, fearyourself, Joyeux-oli, Kikof, khayyam90
-* [Apprendre Haskell vous fera le plus grand bien !](http://lyah.haskell.fr)
+* [Apprendre Haskell vous fera le plus grand bien !](https://lyah.haskell.fr) - Miran Lipovača, `trl.:` Valentin Robert
 
 
 ### HTML and CSS
 
-* [Apprendre les mises en page CSS](http://fr.learnlayout.com)
+* [Apprendre les mises en page CSS](https://fr.learnlayout.com) - Greg Smith, `dsr.:` Isaac Durazo, `trl.:` Joël Matelli (HTML)
 
 
 ### (La)TeX et associés
 
 #### LaTeX
 
-* [Apprends LaTeX](https://tex.loria.fr/general/apprends-latex.pdf) - Marc Baudoin (PDF)
+* [Apprends LaTeX](http://www.babafou.eu.org/Apprends_LaTeX/Apprends_LaTeX.pdf) - Marc Baudoin (PDF)
 * [LaTeX... pour le prof de maths !](http://math.univ-lyon1.fr/irem/IMG/pdf/LatexPourLeProfDeMaths.pdf) - Arnaud Gazagnes (PDF)
 * [Tout ce que vous avez toujours voulu savoir sur LaTeX sans jamais oser le demander](http://framabook.org/tout-sur-latex/) - Vincent Lozano
-* [(Xe)LaTeX appliqué aux sciences humaines](https://web.archive.org/web/20220121031527/geekographie.maieul.net/95) - Maïeul Rouquette *(:card_file_box: archived)*
+* [(Xe)LaTeX appliqué aux sciences humaines](https://web.archive.org/web/20220121031527/geekographie.maieul.net/95) - Maïeul Rouquette *( :card_file_box: archived)*
 
 
 ##### KOMA-Script
@@ -250,13 +252,18 @@
 ### PHP
 
 * [Cours de PHP 5](http://g-rossolini.developpez.com/tutoriels/php/cours/?page=introduction) - Guillaume Rossolini
-* [Programmer en PHP](https://web.archive.org/web/20220327155108/lincoste.com/ebooks/pdf/informatique/programmer_php.pdf) - Julien Gaulmin (PDF) *(:card_file_box: archived)*
+* [Programmer en PHP](https://web.archive.org/web/20220327155108/lincoste.com/ebooks/pdf/informatique/programmer_php.pdf) - Julien Gaulmin (PDF) *( :card_file_box: archived)*
 
 
 #### Symfony
 
 * [En route pour Symfony 5.4](https://symfony.com/doc/5.4/the-fast-track/fr/index.html) - Fabien Potencier
 * [En route pour Symfony 6.2](https://symfony.com/doc/current/the-fast-track/fr/index.html) - Fabien Potencier
+
+
+#### Yii
+
+* [Guide définitif pour Yii 2.0](https://www.yiiframework.com/doc/download/yii-guide-2.0-fr.pdf) - Yii Software (PDF)
 
 
 ### Processing
@@ -269,6 +276,7 @@
 * [Apprendre à programmer avec Python](http://inforef.be/swi/python.htm) - Gerard Swinnen
 * [Introduction à la programmation](https://self-learning.info.ucl.ac.be/index/info1-exercises) (Inscription gratuite sur le site. Pour réaliser les exercices sur INGInious.org, créez-vous un compte gratuitement et liez ensuite votre compte self-learning à votre compte INGInious. )
 * [Le guide de l’auto-stoppeur pour Python!](https://python-guide-fr.readthedocs.io/fr/latest/) - Kenneth Reitz
+* [Python Programming in French](https://www.youtube.com/playlist?list=PL0mGkrTWmp4ugGM9fiZjEuzMFeKD6Rh5G) - Data Scientist Nigeria
 * [Une introduction à Python 3](https://perso.limsi.fr/pointal/python:courspython3) - Bob Cordeau, Laurent Pointal
 
 
@@ -283,6 +291,11 @@
 * [Introduction à la programmation en R](http://cran.r-project.org/doc/contrib/Goulet_introduction_programmation_R.pdf) - Vincent Goulet (PDF)
 
 
+### Rocq Prover
+
+* [Le Coq'Art (V8)](http://www.labri.fr/perso/casteran/CoqArt/) - Yves Bertot, Pierre Castéran
+
+
 ### Ruby
 
 * [Ruby en vingt minutes](https://www.ruby-lang.org/fr/documentation/quickstart/)
@@ -291,7 +304,7 @@
 
 #### Ruby on Rails
 
-* [Tutoriel Ruby on Rails : Apprendre Rails par l'exemple](https://web.archive.org/web/20210801160026/french.railstutorial.org/chapters/beginning) - Michael Hartl *(:card_file_box: archived)*
+* [Tutoriel Ruby on Rails : Apprendre Rails par l'exemple](https://web.archive.org/web/20210801160026/french.railstutorial.org/chapters/beginning) - Michael Hartl *( :card_file_box: archived)*
 
 
 ### Rust
@@ -312,17 +325,18 @@
 
 ### Scratch
 
-* [Informatique Créative](https://pixees.fr/programmation-creative-en-scratch/)
+* [Informatique Créative](https://pixees.fr/programmation-creative-en-scratch/) - Christan Balch, Michelle Chung, Karen Brennan, `trl.:` Inria, Provence Traduction (PDF, PPTX)
 
 
 ### SPIP
 
-* [Programmer avec SPIP](http://programmer.spip.net) - Matthieu Marcimat, collectif SPIP
+* [Programmer avec SPIP](https://programmer.spip.net) - Matthieu Marcimat, collectif SPIP
 
 
 ### SQL
 
 * [Cours complet pour apprendre les différents types de bases de données et le langage SQL](https://sgbd.developpez.com/tutoriels/cours-complet-bdd-sql/) - Jacques Le Maitre
+* [Cours de SQL base du langage SQL et des bases de données](https://sql.sh) - Tony Archambeau
 * [Only SQL. Tout ce que vous avez toujours voulu savoir sur les SGBD sans jamais avoir osé le demander.](https://framabook.org/not-only-sql/) - Vincent Lozano, Éric Georges
 
 

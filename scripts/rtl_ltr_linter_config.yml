@@ -1,0 +1,131 @@
+rtl_config:
+  # Common LTR keywords needing RLM in RTL context
+  ltr_keywords:
+    - HTML
+    - HTML5
+    - CSS
+    - CSS3
+    - ES6
+    - JavaScript
+    - PHP
+    - Python
+    - Java
+    - Ruby
+    - Perl
+    - Swift
+    - Kotlin
+    - Scala
+    - Go
+    - Rust
+    - SQL
+    - API
+    - SDK
+    - IDE
+    - JSON
+    - XML
+    - AJAX
+    - REST
+    - SOAP
+    - GraphQL
+    - Docker
+    - Kubernetes
+    - AWS
+    - Azure
+    - GCP
+    - Git
+    - GitHub
+    - Linux
+    - Unix
+    - macOS
+    - Windows
+    - Android
+    - iOS
+    - React
+    - Angular
+    - Vue
+    - jQuery
+    - Svelte
+    - Bash
+    - Zsh
+    - Vim
+    - Bootstrap
+    - Sass
+    - LESS
+    - TypeScript
+    - CoffeeScript
+    - WordPress
+    - Drupal
+    - Joomla
+    - Django
+    - Flask
+    - Laravel
+    - Symfony
+    - Spring
+    - Gatsby
+    - OpenGL
+    - DirectX
+    - Unity
+    - Unreal Engine
+    - TensorFlow
+    - PyTorch
+    - Keras
+    - Pandas
+    - NumPy
+    - SciPy
+    - Matplotlib
+    - Arduino
+    - Raspberry Pi
+    - Scratch
+    - PostgreSQL
+    - MySQL
+    - MongoDB
+    - SQLite
+    - Oracle
+    - DB
+    - DBMS
+    - OS
+    - MVC
+    - OOP
+    - DevOps
+    - Agile
+    - Scrum
+    - Emacs
+    - IntelliJ
+    - PowerShell
+    - VS Code
+    - Sublime Text
+    - AngularJS
+
+  # LTR symbols/patterns needing LRM in RTL context.
+  ltr_symbols:
+    - C#
+    - C++
+    - F#
+    - .NET
+    - ASP.NET
+    - Vue.js
+    - Node.js
+    - React.js
+    - Express.js
+    - Next.js
+    - Nuxt.js
+    - Objective-C
+    - CI/CD
+
+  # Regex pattern for identifying pure LTR text segments
+  pure_ltr_pattern: "^[\\u0000-\\u007F]+$"
+
+  # Regex pattern for identifying RTL characters
+  rtl_chars_pattern: "[\\u0590-\\u08FF]"
+
+  # HTML directional markers to be recognised
+  rlm_entities: ['&rlm;', '&#x200F;', '&#8207;']
+  lrm_entities: ['&lrm;', '&#x200E;', '&#8206;']
+
+  # Severity levels for different issue types
+  severity:
+    bidi_mismatch: error
+    keyword: warning
+    symbol: warning
+    pure_ltr: notice
+    author_meta: notice

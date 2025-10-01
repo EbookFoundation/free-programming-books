@@ -4,7 +4,6 @@
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
-* [CodeIgniter](#codeigniter)
 * [Git](#git)
 * [Go](#go)
 * [HTML and CSS](#html-and-css)
@@ -20,9 +19,13 @@
     * [Vue.js](#vuejs)
 * [Node.js](#nodejs)
 * [NoSQL](#nosql)
+* [Pascal](#pascal)
 * [Pemrograman Fungsional](#pemrograman-fungsional)
 * [Pemrograman Kompetitif](#pemrograman-kompetitif)
 * [PHP](#php)
+    * [CodeIgniter](#codeigniter)
+    * [Laravel](#laravel)
+    * [Yii](#yii)
 * [Python](#python)
 * [Rust](#rust)
 * [Solidity](#solidity)
@@ -36,7 +39,7 @@
 
 ### C
 
-* [Belajar Pemrograman C untuk Pemula](https://www.petanikode.com/tutorial/c/) - Ahmad Muhardian (:construction: *in process*)
+* [Belajar Pemrograman C untuk Pemula](https://www.petanikode.com/tutorial/c/) - Ahmad Muhardian *( :construction: in process)*
 * [Tutorial Belajar Bahasa Pemrograman C Untuk Pemula](https://www.duniailkom.com/tutorial-belajar-bahasa-pemrograman-c-bagi-pemula/) - Duniailkom
 
 
@@ -48,16 +51,7 @@
 ### <a id="cpp"></a>C++
 
 * [Belajar C++ Dasar Bahasa Indonesia](https://github.com/kelasterbuka/CPP_dasar-dasar-programming) - Kelas Terbuka
-
-
-### CodeIgniter
-
-* [Codeigniter - Pendekatan Praktis](https://leanpub.com/codeigniter-pendekatanpraktis) - Ibnu Daqiqil Id (HTML, PDF, EPUB, Kindle) *(Membutuhkan akun Leanpub atau email yang valid)*
-* [Codeigniter Untuk Pemula](https://repository.bsi.ac.id/index.php/unduh/item/176695/Tutorial-Codeigniter-Untuk-Pemula.pdf) - M Fikri Setiadi (PDF)
-* [Framework Codeigniter - Sebuah Panduan dan Best Practice](https://gilacoding.com/upload/file/Tutorial%20framework%20codeigniter.pdf) - Gila Coding (PDF)
-* [Panduan Pengguna CodeIgniter Indonesia](https://codeigniter-id.github.io/user-guide/) - CodeIgniter Indonesia
-* [Tutorial CodeIgniter 3 & 4](https://www.petanikode.com/tutorial/codeigniter/) *(Dalam Proses)*
-* [Tutorial CodeIgniter 4](http://mfikri.com/artikel/tutorial-codeigniter4)
+* [Buku Pintar C++ untuk Pemula](https://www.researchgate.net/publication/236687537_Buku_Pintar_C_untuk_Pemula) - Abdul Kadir
 
 
 ### Git
@@ -77,7 +71,8 @@
 ### HTML and CSS
 
 * [Ebook Belajar HTML Dan CSS Dasar](https://www.malasngoding.com/download-ebook-belajar-html-dan-css-dasar-gratis/)
-* [Tutorial Dasar CSS untuk Pemula](https://www.petanikode.com/tutorial/css/) - Ahmad Muhardian (Petani Kode) *(:construction: Dalam Proses)*
+* [Ebook HTML CSS Manual Dasar](https://github.com/LIGMATV/LIGMATV/wiki/Ebook-HTML-CSS-Manual-Dasar) - Muhammad Danish Naufal (PDF, DOCX)
+* [Tutorial Dasar CSS untuk Pemula](https://www.petanikode.com/tutorial/css/) - Ahmad Muhardian (Petani Kode) *( :construction: dalam proses)*
 * [Tutorial HTML untuk Pemula](https://www.petanikode.com/tutorial/html/) - Ahmad Muhardian (Petani Kode)
 
 
@@ -86,6 +81,7 @@
 * [Bootstrap](https://www.malasngoding.com/category/bootstrap/) - Diki Alfarabi Hadi
 * [Bootstrap 5 : Pengertian, Fitur, Keunggulan dan Cara Menggunakannya](https://www.niagahoster.co.id/blog/tutorial-bootstrap-5/) - Niagahoster (HTML)
 * [Daftar Tutorial Bootstrap 4 Bahasa Indonesia](https://www.bewoksatukosong.com/2019/02/tutorial-bootstrap-4-bahasa-indonesia.html) - Gerald Cahya Prambudi
+* [Tutorial Belajar Framework Bootstrap 5](https://www.duniailkom.com/tutorial-belajar-framework-bootstrap/) - Duniailkom
 
 
 ### IDE and editors
@@ -97,17 +93,20 @@
 ### Java
 
 * [Algoritma dan Struktur Data dengan Java oleh Polinema SIB](https://polinema.gitbook.io/jti-modul-praktikum-algoritma-dan-struktur-data/) - Politeknik Negeri Malang
+* [Buku Pertama Belajar Pemrograman Java untuk Pemula](https://www.researchgate.net/publication/264422101_Buku_Pertama_Belajar_Pemrograman_Java_untuk_Pemula) - Abdul Kadir
 * [Java Desktop](https://github.com/ifnu/buku-java-desktop/raw/master/java-desktop-ifnu-bima.pdf) - Ifnu Bima (PDF)
 * [Memulai Java Enterprise dengan Spring Boot](https://raw.githubusercontent.com/teten-nugraha/free-ebook-springboot-basic/master/Memulai%20Java%20Enterprise%20dengan%20Spring%20Boot.pdf) - Teten Nugraha (PDF)
 * [Pemrograman Java](https://blog.rosihanari.net/download-tutorial-java-se-gratis/) - Rosihan Ari Yuana
+* [Tutorial Belajar Bahasa Pemrograman Java untuk Pemula](https://www.duniailkom.com/tutorial-belajar-bahasa-pemrograman-java-untuk-pemula/) - Duniailkom
 
 
 ### JavaScript
 
 * [Javascript Guide](https://gilacoding.com/upload/file/Javascript%20Guide.pdf) - Desrizal (PDF)
+* [Learn JavaScript](https://javascript.sumankunwar.com.np/id) - Suman Kumar, Github Contributors (HTML, PDF)
 * [Mengenal JavaScript](http://masputih.com/2013/01/ebook-gratis-mengenal-javascript)
 * [Otomatisasi dengan gulp.js](https://kristories.gitbooks.io/otomatisasi-dengan-gulp-js/content/)
-* [Tutorial Dasar Javascript untuk Pemula](https://www.petanikode.com/tutorial/javascript/) *(Dalam Proses)*
+* [Tutorial Dasar Javascript untuk Pemula](https://www.petanikode.com/tutorial/javascript/) *( :construction: dalam proses)*
 * [Tutorial JavaScript Modern](https://id.javascript.info) - Ilya Kantor
 
 
@@ -132,6 +131,7 @@
 * [Dokumentasi React Bahasa Indonesia](https://id.reactjs.org)
 * [React JS Untuk Pemula](https://masputih.com/2021/05/ebook-gratis-reactjs-untuk-pemula) *(Membutuhkan akun Leanpub atau email yang valid)*
 * [React Redux Tutorial Untuk Pemula](https://medium.com/codeacademia/tutorial-redux-bagian-i-membuat-todo-list-c26a979d0a1f) - Yudi Krisnandi
+* [Tutorial Belajar Library React JS](https://www.duniailkom.com/tutorial-belajar-library-react-js/) - Duniailkom
 * [Tutorial React JS Untuk Pemula (React Hooks)](https://mfikri.com/artikel/reactjs-pemula) - Mfikri
 
 
@@ -165,6 +165,11 @@
 * [MongoDB Untuk Indonesia: Memahami Konsep dan Implementasi MongoDB](https://kristories.gumroad.com/l/mongodb-untuk-indonesia) - Wahyu Kristianto (PDF, email address *requested*, not required)
 
 
+### Pascal
+
+* [Tutorial Belajar Bahasa Pemrograman Python Untuk Pemula](https://www.duniailkom.com/tutorial-belajar-bahasa-pemrograman-pascal-bagi-pemula/) - Duniailkom
+
+
 ### Pemrograman Fungsional
 
 * [Pemrograman Fungsional untuk Rakyat Jelata dengan Scalaz](https://leanpub.com/fpmortals-id/read) (HTML)
@@ -178,10 +183,8 @@
 
 ### PHP
 
-* [Belajar Laravel Untuk Pemula](https://gilacoding.com/upload/file/Belajar%20Laravel%20Untuk%20Pemula.pdf) - Dadan Hamdani (PDF)
 * [Belajar PHP Dasar](https://www.malasngoding.com/belajar-php-dasar-pengenalan-dan-kegunaan-php/) - Malasngoding
 * [Membuat Bot Telegram dengan PHP](https://www.slideshare.net/HasanudinHS/ebook-i-membuat-bot-telegram-dengan-php) - Hasanudin H Syafaat (PDF)
-* [Menjelajahi Yii Framework](https://gilacoding.com/upload/file/menjelajahyiiframework.pdf) - Sabit Huraira (PDF)
 * [Panduan Lengkap PHP AJAX jQuery](https://gilacoding.com/upload/file/Panduan%20Lengkap%20PHP%20Ajax%20jQuery.pdf) - Desrizal (PDF)
 * [Pemrograman Berbasis Objek Modern dengan PHP](https://arsiteknologi.com/wp-content/uploads/Pemrograman_Berbasis_Objek_Modern_dengan_PHP_Google_Play_Book.pdf) - Muhamad Surya Iksanudin (PDF)
 * [Pemrograman Berorientasi Objek Dengan PHP5](https://endangcahyapermana.files.wordpress.com/2016/03/belajar-singkat-pemrograman-berorientasi-objek-dengan-php5.pdf) - Gerry Sabar (PDF)
@@ -190,18 +193,42 @@
 * [PHP: The Right Way Bahasa Indonesia](http://id.phptherightway.com/#site-header/)
 * [Tutorial Belajar PHP Dasar Untuk Pemula](https://www.duniailkom.com/tutorial-belajar-php-dasar-untuk-pemula/) - Duniailkom
 * [Tutorial Ebook PHP](http://www.ilmuwebsite.com/ebook-php-free-download)
-* [Tutorial Pemrograman PHP untuk Pemula](https://www.petanikode.com/tutorial/php) - Ahmad Muhardian (Petani Kode) *(Dalam Proses)*
+* [Tutorial Pemrograman PHP untuk Pemula](https://www.petanikode.com/tutorial/php) - Ahmad Muhardian (Petani Kode) *( :construction: dalam proses)*
+
+
+#### CodeIgniter
+
+* [Codeigniter - Pendekatan Praktis](https://leanpub.com/codeigniter-pendekatanpraktis) - Ibnu Daqiqil Id (HTML, PDF, EPUB, Kindle) *(Membutuhkan akun Leanpub atau email yang valid)*
+* [Codeigniter Untuk Pemula](https://repository.bsi.ac.id/index.php/unduh/item/176695/Tutorial-Codeigniter-Untuk-Pemula.pdf) - M Fikri Setiadi (PDF)
+* [Framework Codeigniter - Sebuah Panduan dan Best Practice](https://gilacoding.com/upload/file/Tutorial%20framework%20codeigniter.pdf) - Gila Coding (PDF)
+* [Panduan Pengguna CodeIgniter Indonesia](https://codeigniter-id.github.io/user-guide/) - CodeIgniter Indonesia
+* [Tutorial CodeIgniter 3 & 4](https://www.petanikode.com/tutorial/codeigniter/) *( :construction: dalam proses)*
+* [Tutorial CodeIgniter 4](http://mfikri.com/artikel/tutorial-codeigniter4)
+
+
+#### Laravel
+
+* [Belajar Laravel Untuk Pemula](https://gilacoding.com/upload/file/Belajar%20Laravel%20Untuk%20Pemula.pdf) - Dadan Hamdani (PDF)
+* [Tutorial Belajar Framework Laravel 10](https://www.duniailkom.com/tutorial-belajar-framework-laravel/) - Duniailkom
+
+
+#### Yii
+
+* [Menjelajahi Yii Framework](https://gilacoding.com/upload/file/menjelajahyiiframework.pdf) - Sabit Huraira (PDF)
+* [Panduan Definitif Untuk Yii 2.0](https://www.yiiframework.com/doc/download/yii-guide-2.0-id.pdf) - Yii Software (PDF)
 
 
 ### Python
 
 * [Belajar Python](http://www.belajarpython.com)
 * [Cepat Mahir Python](https://gilacoding.com/upload/file/Python.pdf) - Hendri, `edt.:` Romi Satria Wahono (PDF)
+* [Dasar-Dasar Python: Panduan Cepat untuk Memahami Fondasi Pemrograman Python](https://www.researchgate.net/publication/361459389_Dasar-Dasar_Python_Panduan_Cepat_untuk_Memahami_Fondasi_Pemrograman_Python) - Abdul Kadir
 * [Dasar Pengenalan Pemrograman Python](https://play.google.com/store/books/details/Rolly_Maulana_Awangga_Dasar_dasar_Python?id=YpzDDwAAQBAJ) - Rolly Maulana AwanggaRayhan *(Membutuhkan akun Google Play Books atau email yang valid)*
 * [Kursus Singkat Machine Learning dengan TensorFlow API](https://developers.google.com/machine-learning/crash-course?hl=id)
 * [Python Untuk Pemula](https://santrikoding.com/ebook/python-untuk-pemula) - Rizqi Maulana
 * [Tutorial Dasar Pemrograman Python](https://www.petanikode.com/tutorial/python/) - Petani Kode, Ahmad Muhardian
 * [Tutorial Python](https://docs.python.org/id/3.8/tutorial/)
+* [Tutorial Python untuk Pemula](https://www.kevintekno.com/p/tutorial-python-untuk-pemula.html) - Kevin Tekno, Kevin Alfito
 * [Workshop Python 101](http://sakti.github.io/python101/)
 
 

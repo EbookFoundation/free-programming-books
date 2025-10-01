@@ -71,6 +71,7 @@
 * [git - basit rehber](https://rogerdudler.github.io/git-guide/index.tr.html) - Roger Dudler (HTML)
 * [Git 101](https://aliozgur.gitbooks.io/git101/) - Ali Özgür (GitBook)
 * [Git ve Github Rehberi](https://github.com/mkdemir/Git_ve_Github_Rehberi) - Mustafa Kaan Demir
+* [Pro Git](https://git-scm.com/book/tr/v2) - Scott Chacon, Ben Straub (Çeviri: Murat Yaşar)
 
 
 ### Go
@@ -112,7 +113,7 @@
 
 ### JavaScript
 
-* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/tr)
+* [Learn JavaScript](https://javascript.sumankunwar.com.np/tr) - Suman Kumar, Github Contributors (HTML, PDF)
 
 
 ### LaTeX
@@ -140,9 +141,9 @@
 
 #### Django
 
-* [Django](https://web.archive.org/web/20210302105925/https://www.pythondersleri.com/p/django-egitim-serisi.html) - Python Dersleri *(:card_file_box: archived)*
-* [Django Egitimi](https://web.archive.org/web/20210802025720/https://gokmengorgen.net/django-notes/) *(:card_file_box: archived)*
-* [Django Girls Eğitimi](https://tutorial.djangogirls.org/tr) (1.11) (HTML) (:construction: *in process*)
+* [Django](https://web.archive.org/web/20210302105925/https://www.pythondersleri.com/p/django-egitim-serisi.html) - Python Dersleri *( :card_file_box: archived)*
+* [Django Egitimi](https://web.archive.org/web/20210802025720/https://gokmengorgen.net/django-notes/) *( :card_file_box: archived)*
+* [Django Girls Eğitimi](https://tutorial.djangogirls.org/tr) (1.11) (HTML) *( :construction: in process)*
 
 
 ### R

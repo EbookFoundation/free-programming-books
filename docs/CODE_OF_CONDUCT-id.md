@@ -15,7 +15,7 @@ Contoh perilaku partisipan yang tidak dapat diterima meliputi:
 
 * Penggunaan bahasa atau citra seksual
 * Serangan pribadi
-* Trolling atau komentar yang menghina/menghujat
+* Trolling atau komentar yang bersifat menghina/menghujat
 * Pelecehan publik atau pribadi
 * Memublikasikan informasi pribadi orang lain, seperti alamat fisik atau elektronik, tanpa izin eksplisit
 * Perilaku tidak etis atau tidak profesional lainnya

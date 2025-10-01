@@ -4,6 +4,7 @@
 * [CTF Capture the Flag](#capture-the-flag)
 * [Data science](#data-science)
 * [HTML and CSS](#html-and-css)
+* [Ladders](#ladders)
 * [Problem Sets](#problem-sets)
 
 
@@ -37,6 +38,7 @@
 * [Internet Problem Solving Contest](http://ipsc.ksp.sk)
 * [Just another Golf Coding](http://jagc.org)
 * [Kattis](https://open.kattis.com)
+* [Last Moment DSA Sheet(79) – Ace Interviews](https://takeuforward.org/interview-sheets/strivers-79-last-moment-dsa-sheet-ace-interviews) - Striver
 * [LeetCode](https://leetcode.com)
 * [LightOJ](https://lightoj.com)
 * [Meta Hackercup](https://www.facebook.com/codingcompetitions/hacker-cup/)
@@ -44,8 +46,9 @@
 * [oj.uz](https://oj.uz)
 * [Sigmageek](https://sigmageek.com)
 * [Sphere Online Judge](http://www.spoj.com/contests)
-* [Striver’s CP Sheet](https://takeuforward.org/interview-experience/strivers-cp-sheet/)
 * [Techgig](https://www.techgig.com)
+* [Top Array Interview Questions – Structured Path with Video Solutions \| Arrays Series](https://takeuforward.org/array/top-array-interview-questions-structured-path-with-video-solutions/)
+* [Top Coding Interview Problems](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/) - Striver
 * [Topcoder](https://www.topcoder.com)
 * [Toph](https://toph.co)
 * [USACO.guide](https://usaco.guide)
@@ -56,6 +59,8 @@
 * [ångstromCTF](https://angstromctf.com)
 * [CTFlearn](https://ctflearn.com) (email address *requested*)
 * [CTFtime](https://ctftime.org)
+* [DamnVulnerableDefi](https://www.damnvulnerabledefi.xyz)
+* [echoCTF](https://echoctf.red) (email address *requested*)
 * [Google CTF](https://capturetheflag.withgoogle.com) (email address *requested*)
 * [Hacker101](https://ctf.hacker101.com) (email address *requested*)
 * [Hackthebox](https://www.hackthebox.eu) (email address *requested*)
@@ -64,6 +69,8 @@
 * [Microcorruption](https://microcorruption.com/login)
 * [Overthewire Wargames fungame to practice CTF](https://overthewire.org/wargames/bandit)
 * [Picoctf](https://picoctf.org/resources.html) (email address *requested*)
+* [ringzer0ctf](https://ringzer0ctf.com/home) (email address *required*)
+* [ROP Wargame Repository](https://github.com/xelenonz/game)
 * [SmashTheStack](http://www.smashthestack.org/main.html#wargames)
 * [TryHackMe](https://tryhackme.com) (email address *requested*)
 
@@ -75,6 +82,7 @@
 * [CrowdANALYTIX](https://www.crowdanalytix.com/community)
 * [DrivenData](https://www.drivendata.org)
 * [Kaggle](https://www.kaggle.com)
+* [Zindi](https://zindi.africa)
 
 
 ### HTML and CSS
@@ -82,10 +90,22 @@
 * [Frontend Mentor](https://www.frontendmentor.io/challenges?languages=CSS&sort=difficulty%7Casc&type=free) *(email address requested)*
 
 
+### Ladders
+
+* [A2 Online Judge](https://a2oj.netlify.app)
+* [Atcoder Problems](https://kenkoooo.com/atcoder/#/table)
+* [C2 Ladders](https://c2-ladders-juol.onrender.com)
+* [Striver's A2Z DSA Course/sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
+* [Striver’s CP Sheet](https://takeuforward.org/interview-experience/strivers-cp-sheet/)
+* [System Design Roadmap with Videos for SDEs](https://takeuforward.org/system-design/complete-system-design-roadmap-with-videos-for-sdes/) - take U forward(takeuforward)
+
+
 ### Problem Sets
 
+* [#C++](https://www.youtube.com/playlist?list=PLliXPok7ZonkJEe0cUbVZ3umyKbFA-Dd9) - Keerti Purswani
+* [100 Days CSS Challenge](https://100dayscss.com) - Matthias Martin *(Codepen account requested, not required)*
 * [500 Data structures and algorithms interview questions and their solutions in C++](https://www.quora.com/q/techiedelight/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions)
-* [A2 Online Judge](https://a2oj.netlify.app)
+* [Abekus \| Free Practice Questions with Solutions](https://abekus.com)
 * [Advent Of Code](http://adventofcode.com)
 * [AdventJS - 25 días de retos con JavaScript](https://adventjs.dev) - Miguel Ángel Durán «midudev» *(GitHub account requested, not required)*
 * [Anarchy Golf](http://golf.shinh.org)
@@ -111,10 +131,12 @@
 * [Hacker.org](http://www.hacker.org)
 * [HackerEarth](https://www.hackerearth.com)
 * [HDU Online Judge](http://acm.hdu.edu.cn)
+* [IndiaBix](https://www.indiabix.com)
 * [Interactive Coding Challenge](https://github.com/donnemartin/interactive-coding-challenges)
 * [InterviewBit](https://www.interviewbit.com)
 * [Kattis](https://open.kattis.com)
 * [Mathproblem of the Month - Bilkent University](http://www.fen.bilkent.edu.tr/~cvmath/prob-month.html)
+* [NeetCode 150](https://neetcode.io/practice)
 * [PEG Judge](http://wcipeg.com)
 * [Pep Coding](https://www.pepcoding.com/resources)
 * [PKU Online Judge](http://poj.org)
@@ -125,7 +147,6 @@
 * [Python Practice Projects](http://pythonpracticeprojects.com)
 * [Rosalind](http://rosalind.info/problems/locations/)
 * [Sphere Online Judge](http://www.spoj.com/problems/classical)
-* [Striver's A2Z DSA Course/sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
 * [TalentBuddy](http://www.talentbuddy.co/blog/)
 * [The Ultimate Topic List(with Tutorials, Problems, and Templates)](https://blog.shahjalalshohag.com/topic-list/) - Shahjalal Shohag
 * [Timus Online Judge](http://acm.timus.ru)

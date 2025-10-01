@@ -132,13 +132,13 @@ Example:
 - <a id="in_process"></a>In-process books:
 
     ```text
-    GOOD: * [Will Be An Awesome Book Soon](http://example.com/book2.html) - John Doe (HTML) *(:construction: in process)*
+    GOOD: * [Will Be An Awesome Book Soon](http://example.com/book2.html) - John Doe (HTML) *( :construction: in process)*
     ```
 
 - <a id="archived"></a>Archived link:
 
     ```text
-    GOOD: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
+    GOOD: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *( :card_file_box: archived)*
     ```
     
 - <a id="license"></a>Free Licenses (While we include resources that are "All Rights Reserved" but free to read, we encourage the use of free licenses, such as Creative Commons):
@@ -177,7 +177,7 @@ When a resource is distributed under a free/open license, add a short license no
      ```
    - With an additional note (e.g., archived or in process):
      ```markdown
-     * [Old but Gold](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) (CC BY) *(:card_file_box: archived)*
+     * [Old but Gold](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) (CC BY) *( :card_file_box: archived)*
      ```
 4. If different editions/formats have different licenses, list them as separate items and note the correct license on each entry.
 5. If you are unsure, add a comment in your PR explaining why you believe the resource is under a free license and where you found the information.

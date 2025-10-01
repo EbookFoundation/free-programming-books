@@ -38,7 +38,7 @@
 
 ### JavaScript
 
-* [JavaScript](https://web.archive.org/web/20200922201525/http://puhang.tpt.edu.ee/raamatud/JavaScript_konspekt.pdf) - Jüri Puhang (PDF) *(:card_file_box: archived)*
+* [JavaScript](https://web.archive.org/web/20200922201525/http://puhang.tpt.edu.ee/raamatud/JavaScript_konspekt.pdf) - Jüri Puhang (PDF) *( :card_file_box: archived)*
 
 
 #### AngularJS

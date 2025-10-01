@@ -19,4 +19,4 @@
 
 ### Linux
 
-* [Linux](https://web.archive.org/web/20241214095624/https://ilkaddimlar.com/ders/linux) ( :card_file_box: archived)
+* [Linux](https://web.archive.org/web/20241214095624/ilkaddimlar.com/ders/linux) (:card_file_box: archived)

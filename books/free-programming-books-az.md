@@ -14,7 +14,7 @@
 ### HTML
 
 * [HTML](https://web.archive.org/web/20241214005042/https://ilkaddimlar.com/ders/html) ( :card_file_box: archived)
-
+* [HTML Tutorial for Beginners](https://www.w3schools.com/html/) (:books: guide)
 
 ### Linux
 

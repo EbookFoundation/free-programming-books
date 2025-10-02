@@ -18,15 +18,19 @@ Key Features:
 - Filters to ignore code blocks, inline code, and text within parentheses.
 - Specific check for RTL authors followed by LTR metadata.
 """
-import sys
-import os
+
 import argparse
+import contextlib
+import os
 import re
+import subprocess
+import sys
+
 import yaml
 from bidi.algorithm import get_display
 
 
-def load_config(path):
+def load_config(path: str) -> dict:
     """
     Loads configuration from the specified YAML file.
 
@@ -46,18 +50,18 @@ def load_config(path):
         'ltr_keywords': [],
         'ltr_symbols': [],
         'pure_ltr_pattern': r"^[\u0000-\u007F]+$",  # Matches ASCII characters (Basic Latin character)
-        'rtl_chars_pattern': r"[\u0590-\u08FF]",    # Matches Right-to-Left (RTL) characters (Arabic, Hebrew, etc.)
+        'rtl_chars_pattern': r"[\u0590-\u08FF]",  # Matches Right-to-Left (RTL) characters (Arabic, Hebrew, etc.)
         'severity': {
-            'bidi_mismatch': 'error',   # A difference between the displayed and logical order of text
-            'keyword': 'warning',       # An LTR keyword (e.g., "HTML") in an RTL context might need an &rlm;
-            'symbol': 'warning',        # An LTR symbol (e.g., "C#") in an RTL context might need an &lrm;
-            'pure_ltr': 'notice',       # A purely LTR segment in an RTL context might need a trailing &lrm;
-            'author_meta': 'notice'     # Specific rules for LTR authors/metadata in RTL contexts.
+            'bidi_mismatch': 'error',  # A difference between the displayed and logical order of text
+            'keyword': 'warning',  # An LTR keyword (e.g., "HTML") in an RTL context might need an &rlm;
+            'symbol': 'warning',  # An LTR symbol (e.g., "C#") in an RTL context might need an &lrm;
+            'pure_ltr': 'notice',  # A purely LTR segment in an RTL context might need a trailing &lrm;
+            'author_meta': 'notice',  # Specific rules for LTR authors/metadata in RTL contexts.
         },
         'ignore_meta': ['PDF', 'EPUB', 'HTML', 'podcast', 'videocast'],
         'min_ltr_length': 3,
         'rlm_entities': ['&rlm;', '&#x200F;', '&#8207;'],
-        'lrm_entities': ['&lrm;', '&#x200E;', '&#8206;']
+        'lrm_entities': ['&lrm;', '&#x200E;', '&#8206;'],
     }
 
     # If a path is specified and the file exists, attempt to load it
@@ -68,13 +72,15 @@ def load_config(path):
                 conf = data.get('rtl_config', {})
                 default.update(conf)
         except Exception as e:
-            print(f"::warning file={path}::Could not load config: {e}. Using defaults.") # Output to stdout for GitHub Actions
+            print(
+                f"::warning file={path}::Could not load config: {e}. Using defaults."
+            )  # Output to stdout for GitHub Actions
 
     # Return the configuration (updated defaults or just defaults)
     return default
 
 
-def is_rtl_filename(path):
+def is_rtl_filename(path: str) -> bool:
     '''
     Checks if the given filename indicates an RTL filename.
 
@@ -85,7 +91,19 @@ def is_rtl_filename(path):
         bool: True if the filename suggests an RTL language, False otherwise.
     '''
     name = os.path.basename(path).lower()
-    return any(name.endswith(suf) for suf in ['-ar.md','_ar.md','-he.md','_he.md','-fa.md','_fa.md','-ur.md','_ur.md'])
+    return name.endswith(
+        (
+            "-ar.md",
+            "_ar.md",
+            "-he.md",
+            "_he.md",
+            "-fa.md",
+            "_fa.md",
+            "-ur.md",
+            "_ur.md",
+        )
+    )
+
 
 # Regex to identify a Markdown list item (e.g., "* text", "- text")
 LIST_ITEM_RE = re.compile(r'^\s*[\*\-\+]\s+(.*)')
@@ -93,9 +111,9 @@ LIST_ITEM_RE = re.compile(r'^\s*[\*\-\+]\s+(.*)')
 # Regex to extract title, URL, author, and metadata from a formatted book item
 # Example: Book Title - Author (Metadata)
 BOOK_ITEM_RE = re.compile(
-    r"^\s*\[(?P<title>.+?)\]\((?P<url>.+?)\)"   # Title and URL (required)
+    r"^\s*\[(?P<title>.+?)\]\((?P<url>.+?)\)"  # Title and URL (required)
     r"(?:\s*[-–—]\s*(?P<author>[^\(\n\[]+?))?"  # Author (optional), separated by -, –, —
-    r"(?:\s*[\(\[](?P<meta>.*?)[\)\]])?\s*$"    # Metadata (optional), enclosed in parentheses () or []
+    r"(?:\s*[\(\[](?P<meta>.*?)[\)\]])?\s*$"  # Metadata (optional), enclosed in parentheses () or []
 )
 
 # Regex to find the dir="rtl" or dir="ltr" attribute in an HTML tag
@@ -113,16 +131,19 @@ CODE_FENCE_START = re.compile(r'^\s*>?\s*```')
 
 # Regex to identify text entirely enclosed in parentheses or square brackets.
 # Useful for skipping segments like "(PDF)" or "[Free]" during analysis.
-BRACKET_CONTENT_RE = re.compile(r'''
+BRACKET_CONTENT_RE = re.compile(
+    r'''
     (?:^|\W)        # Start of line or non-word character
     (\[|\()         # Open square or round bracket
     ([^\n\)\]]*?)   # Content
     (\]|\))         # Close square or round bracket
     (?:\W|$)        # End of line or non-word character
-''', re.VERBOSE | re.UNICODE)   # VERBOSE for comments, UNICODE for correct matching
+''',
+    re.VERBOSE | re.UNICODE,
+)  # VERBOSE for comments, UNICODE for correct matching
 
 
-def split_by_span(text, base_ctx):
+def split_by_span(text: str, base_ctx: str) -> list:
     """
     Splits text into segments based on nested <span> tags with dir attributes.
 
@@ -165,7 +186,6 @@ def split_by_span(text, base_ctx):
 
     # for each token
     for tok in tokens:
-
         # Skip empty tokens
         if not tok:
             continue
@@ -175,13 +195,14 @@ def split_by_span(text, base_ctx):
 
         # If so, push the new context onto the stack
         if m:
-            stack.append(m.group(1).lower()); continue
-        
+            stack.append(m.group(1).lower())
+            continue
+
         # If the token is a closing </span> tag
         if tok.lower() == '</span>':
-
             # Pop the last context from the stack
-            if len(stack) > 1: stack.pop()
+            if len(stack) > 1:
+                stack.pop()
             continue
 
         # Otherwise, if the token is not a span tag, it's a text segment.
@@ -193,7 +214,7 @@ def split_by_span(text, base_ctx):
     return segments
 
 
-def lint_file(path, cfg):
+def lint_file(path: str, cfg: dict) -> list:
     """
     Analyzes a single Markdown file for RTL/LTR issues.
 
@@ -212,7 +233,9 @@ def lint_file(path, cfg):
     try:
         lines = open(path, encoding='utf-8').read().splitlines()
     except Exception as e:
-        return [f"::error file={path},line=1::Cannot read file: {e}"] # Return as a list of issues
+        return [
+            f"::error file={path},line=1::Cannot read file: {e}"
+        ]  # Return as a list of issues
 
     # Extract configuration parameters for easier access and readability
     keywords_orig = cfg['ltr_keywords']
@@ -240,33 +263,38 @@ def lint_file(path, cfg):
 
     # Iterate over each line of the file with its line number
     for idx, line in enumerate(lines, 1):
-
         # The active block direction context for the current line is the top of the stack.
         active_block_direction_ctx = block_context_stack[-1]
 
         # Skip lines that start a code block (```)
-        if CODE_FENCE_START.match(line): continue
+        if CODE_FENCE_START.match(line):
+            continue
 
         # Check for block-level directionality changes (e.g., <div dir="rtl">)
         m_div_open = HTML_DIR_ATTR_RE.search(line)
-        
+
         # If an opening <div dir="..." markdown="1"> tag is found
         if m_div_open and 'markdown="1"' in line:
-            new_div_ctx = m_div_open.group(2).lower()   # Extract the new directionality context from the opening div tag
-            block_context_stack.append(new_div_ctx)     # Push the new directionality context onto the stack
-            continue                                    # Continue to the next line of the file
-        
+            new_div_ctx = m_div_open.group(
+                2
+            ).lower()  # Extract the new directionality context from the opening div tag
+            block_context_stack.append(
+                new_div_ctx
+            )  # Push the new directionality context onto the stack
+            continue  # Continue to the next line of the file
+
         # If a closing </div> tag is found and we are inside a div context
         # (i.e., the stack has more than just the base file_direction_ctx)
         if '</div>' in line and len(block_context_stack) > 1:
-            block_context_stack.pop()   # Pop the last directionality context from the stack
-            continue                    # Continue to the next line of the file
-        
+            block_context_stack.pop()  # Pop the last directionality context from the stack
+            continue  # Continue to the next line of the file
+
         # Check if the line is a Markdown list item
         list_item = LIST_ITEM_RE.match(line)
 
         # If the line is not a list item, skip to the next line
-        if not list_item: continue
+        if not list_item:
+            continue
 
         # Extract the text content of the list item and remove leading/trailing whitespace
         text = list_item.group(1).strip()
@@ -276,7 +304,6 @@ def lint_file(path, cfg):
 
         # If the current line is a book item
         if book_item:
-
             # Extract title, author, and metadata from the book item
             title = book_item.group('title')
             author = (book_item.group('author') or '').strip()
@@ -287,7 +314,6 @@ def lint_file(path, cfg):
 
         # Otherwise, if it's not a book item
         else:
-
             # Initialize title, author, and meta with empty strings
             title, author, meta = text, '', ''
 
@@ -295,32 +321,35 @@ def lint_file(path, cfg):
             is_link_only_item = False
 
         # Specific check: RTL author followed by LTR metadata (e.g., اسم المؤلف (PDF))
-        if  active_block_direction_ctx == 'rtl' and \
-            author and meta and \
-            rtl_char_re.search(author) and pure_ltr_re.match(meta) and \
-            len(meta) >= min_len and \
-            not any(author.strip().endswith(rlm_marker) for rlm_marker in RLM):
+        if (
+            active_block_direction_ctx == 'rtl'
+            and author
+            and meta
+            and rtl_char_re.search(author)
+            and pure_ltr_re.match(meta)
+            and len(meta) >= min_len
+            and not any(author.strip().endswith(rlm_marker) for rlm_marker in RLM)
+        ):
             issues.append(
                 f"::{sev['author_meta'].lower()} file={path},line={idx}::RTL author '{author.strip()}' followed by LTR meta '{meta}' may need '&rlm;' after author."
             )
-        
+
         # Analyze individual parts of the item (title, author, metadata)
         for part, raw_text in [('title', title), ('author', author), ('meta', meta)]:
-
             # Skip if the part is empty or if it's metadata to be ignored (e.g., "PDF")
-            if not raw_text or (part=='meta' and raw_text in ignore_meta): continue
+            if not raw_text or (part == 'meta' and raw_text in ignore_meta):
+                continue
 
             # Split the part into segments based on <span> tags with dir attributes
             segments = split_by_span(raw_text, active_block_direction_ctx)
 
             # Filter keywords to avoid duplicates with symbols (a symbol can contain a keyword)
-            filtered_keywords = [kw for kw in keywords_orig]
+            filtered_keywords = list(keywords_orig)
             for sym in symbols:
                 filtered_keywords = [kw for kw in filtered_keywords if kw not in sym]
 
             # Iterate over each text segment and its directionality context
             for segment_text, segment_direction_ctx in segments:
-
                 # Remove leading/trailing whitespace from the segment text
                 s = segment_text.strip()
 
@@ -332,7 +361,6 @@ def lint_file(path, cfg):
                 # Check if the segment is entirely enclosed in parentheses or brackets.
                 m_bracket = BRACKET_CONTENT_RE.fullmatch(s)
                 if m_bracket:
-
                     # If it is, extract the content inside the parentheses/brackets.
                     inner_content = m_bracket.group(2)
 
@@ -340,18 +368,19 @@ def lint_file(path, cfg):
                     is_pure_ltr_inner = pure_ltr_re.match(inner_content) is not None
 
                     # Check for pure RTL: contains RTL chars AND no LTR chars (using [A-Za-z0-9] as a proxy for common LTR chars)
-                    is_pure_rtl_inner = rtl_char_re.search(inner_content) is not None and re.search(r"[A-Za-z0-9]", inner_content) is None
-                    
+                    is_pure_rtl_inner = (
+                        rtl_char_re.search(inner_content) is not None
+                        and re.search(r"[A-Za-z0-9]", inner_content) is None
+                    )
+
                     # Skip the segment ONLY if the content inside is purely LTR or purely RTL.
-                    if is_pure_ltr_inner or is_pure_rtl_inner: continue
-                
+                    if is_pure_ltr_inner or is_pure_rtl_inner:
+                        continue
+
                 # Skip if it's inline code (i.e., `...`) or already contains directionality markers (e.g., &rlm; or &lrm;)
-                if any([
-                    INLINE_CODE_RE.match(s),
-                    any(mk in s for mk in RLM+LRM)
-                ]):
+                if any([INLINE_CODE_RE.match(s), any(mk in s for mk in RLM + LRM)]):
                     continue
-                
+
                 # Check for BIDI mismatch: if the text contains both RTL and LTR
                 # characters and the calculated visual order differs from the logical order.
                 if rtl_char_re.search(s) and re.search(r"[A-Za-z0-9]", s):
@@ -360,14 +389,14 @@ def lint_file(path, cfg):
                         issues.append(
                             f"::{sev['bidi_mismatch'].lower()} file={path},line={idx}::BIDI mismatch in {part}: the text '{s}' is displayed as '{disp}'"
                         )
-                
+
                 # If the segment context is LTR, there is no need to check LTR keywords and LTR symbols
                 # that might need directionality markers, so we can skip the next checks and move on to the next line of the file
-                if segment_direction_ctx != 'rtl': continue
+                if segment_direction_ctx != 'rtl':
+                    continue
 
                 # Skip keyword and symbol checks for titles of link-only items (e.g., in the Index section of markdown files)
                 if not (part == 'title' and is_link_only_item):
-
                     # Check for LTR symbols: if an LTR symbol is present and lacks an '&lrm;' marker
                     for sym in symbols:
                         if sym in s and not any(m in s for m in LRM):
@@ -381,10 +410,15 @@ def lint_file(path, cfg):
                             issues.append(
                                 f"::{sev['keyword'].lower()} file={path},line={idx}::Keyword '{kw}' in {part} '{s}' may need trailing '&rlm;' marker."
                             )
-                
+
                 # Check for "Pure LTR" text: if the segment is entirely LTR,
                 # it's not a title, and has a minimum length, it might need a trailing RLM.
-                if (part != 'title') and pure_ltr_re.match(s) and not rtl_char_re.search(s) and len(s)>=min_len:
+                if (
+                    (part != 'title')
+                    and pure_ltr_re.match(s)
+                    and not rtl_char_re.search(s)
+                    and len(s) >= min_len
+                ):
                     issues.append(
                         f"::{sev['pure_ltr'].lower()} file={path},line={idx}::Pure LTR text '{s}' in {part} of RTL context may need trailing '&rlm;' marker."
                     )
@@ -393,7 +427,7 @@ def lint_file(path, cfg):
     return issues
 
 
-def get_changed_lines_for_file(filepath):
+def get_changed_lines_for_file(filepath: str) -> set:
     """
     Returns a set of line numbers (1-based) that were changed in the given file in the current PR.
 
@@ -411,30 +445,27 @@ def get_changed_lines_for_file(filepath):
         - Requires that the script is run inside a Git repository.
         - If the merge base cannot be found, returns an empty set and does not print errors.
     """
-    import subprocess
     changed_lines = set()
-    try:
+    # Silently ignore errors (e.g., unable to find merge base)
+    with contextlib.suppress(Exception):
         # Get the diff for the file (unified=0 for no context lines)
         diff = subprocess.check_output(
             ['git', 'diff', '--unified=0', 'origin/main...', '--', filepath],
-            encoding='utf-8', errors='ignore'
+            encoding='utf-8',
+            errors='ignore',
         )
         for line in diff.splitlines():
             if line.startswith('@@'):
                 # Example: @@ -10,0 +11,3 @@
-                m = re.search(r'\+(\d+)(?:,(\d+))?', line)
-                if m:
+                if m := re.search(r'\+(\d+)(?:,(\d+))?', line):
                     start = int(m.group(1))
                     count = int(m.group(2) or '1')
                     for i in range(start, start + count):
                         changed_lines.add(i)
-    except Exception:
-        # Silently ignore errors (e.g., unable to find merge base)
-        pass
     return changed_lines
 
 
-def main():
+def main() -> None:
     """
     Main entry point for the RTL/LTR Markdown linter.
 
@@ -459,7 +490,7 @@ def main():
     parser.add_argument(
         'paths_to_scan',
         nargs='+',
-        help="List of files or directories to scan for all issues."
+        help="List of files or directories to scan for all issues.",
     )
 
     # Optional argument for changed files (for PR annotation filtering)
@@ -467,14 +498,14 @@ def main():
         '--changed-files',
         nargs='*',
         default=None,
-        help="List of changed files to generate PR annotations for."
+        help="List of changed files to generate PR annotations for.",
     )
 
     # Optional argument for the log file path
     parser.add_argument(
         '--log-file',
         default='rtl-linter-output.log',
-        help="File to write all linter output to."
+        help="File to write all linter output to.",
     )
 
     # Parse the command-line arguments
@@ -493,7 +524,7 @@ def main():
     annotated_errs = 0
 
     # Normalize changed file paths for consistent comparison
-    changed_files_set = set(os.path.normpath(f) for f in args.changed_files) if args.changed_files else set()
+    changed_files_set = {os.path.normpath(f) for f in (args.changed_files or [])}
 
     # Build a map: {filepath: set(line_numbers)} for changed files
     changed_lines_map = {}
@@ -505,22 +536,17 @@ def main():
 
     # Open the specified log file in write mode with UTF-8 encoding
     with open(args.log_file, 'w', encoding='utf-8') as log_f:
-
         # Iterate over each path provided in 'paths_to_scan'
         for p_scan_arg in args.paths_to_scan:
-
             # Normalize the scan path to ensure consistent handling (e.g., slashes)
             normalized_scan_path = os.path.normpath(p_scan_arg)
 
             # If the path is a directory, recursively scan for .md files
             if os.path.isdir(normalized_scan_path):
-
                 # Walk through the directory and its subdirectories to find all Markdown files
                 for root, _, files in os.walk(normalized_scan_path):
-
                     # For each file in the directory
                     for fn in files:
-
                         # If the file is a Markdown file, lint it
                         if fn.lower().endswith('.md'):
                             file_path = os.path.normpath(os.path.join(root, fn))
@@ -530,21 +556,25 @@ def main():
                             # Process each issue found
                             for issue_str in issues_found:
                                 log_f.write(issue_str + '\n')
-                                any_issues = True # Flag to check if any issues were found
+                                any_issues = (
+                                    True  # Flag to check if any issues were found
+                                )
 
                                 # For GitHub Actions PR annotations: print only if the file is changed
                                 # and the issue is on a line that was actually modified or added in the PR
                                 if file_path in changed_files_set:
                                     m = re.search(r'line=(\d+)', issue_str)
-                                    if m and int(m.group(1)) in changed_lines_map.get(file_path, set()):
+                                    if m and int(m.group(1)) in changed_lines_map.get(
+                                        file_path, set()
+                                    ):
                                         print(issue_str)
 
                                         # Count errors on changed lines for the exit code logic
                                         if issue_str.startswith("::error"):
                                             annotated_errs += 1
-                                
+
                                 # Count all errors/warnings for reporting/debugging purposes
-                                if issue_str.startswith("::error") or issue_str.startswith("::warning"):
+                                if issue_str.startswith(("::error", "::warning")):
                                     errs += 1
 
             # If the path is a Markdown file, lint it directly
@@ -554,20 +584,19 @@ def main():
 
                 # Process each issue found
                 for issue_str in issues_found:
-
                     # Always write the issue to the log file for full reporting
                     log_f.write(issue_str + '\n')
-                    any_issues = True # Flag to check if any issues were found
+                    any_issues = True  # Flag to check if any issues were found
 
                     # For GitHub Actions PR annotations: print only if the file is changed
                     # and the issue is on a line that was actually modified or added in the PR
                     if normalized_scan_path in changed_files_set:
-
                         # Extract the line number from the issue string (e.g., ...line=123::)
                         m = re.search(r'line=(\d+)', issue_str)
 
-                        if m and int(m.group(1)) in changed_lines_map.get(normalized_scan_path, set()):
-
+                        if m and int(m.group(1)) in changed_lines_map.get(
+                            normalized_scan_path, set()
+                        ):
                             # For GitHub Actions PR annotations: print the annotation
                             # so that GitHub Actions can display it in the PR summary
                             print(issue_str)
@@ -577,21 +606,20 @@ def main():
                                 annotated_errs += 1
 
                     # Count all errors/warnings for reporting/debugging purposes
-                    if issue_str.startswith("::error") or issue_str.startswith("::warning"):
+                    if issue_str.startswith(("::error", "::warning")):
                         errs += 1
 
     # If no issues were found, remove the log file
     if not any_issues:
-        try:
+        with contextlib.suppress(Exception):
             os.remove(args.log_file)
-        except Exception:
-            pass
 
     # Print a debug message to stderr summarizing the linting process
     print(f"::notice ::Processed {total} files, found {errs} issues.")
 
     # Exit code: 1 only if there are annotated errors/warnings on changed lines
     sys.exit(1 if annotated_errs else 0)
+
 
 if __name__ == '__main__':
     main()

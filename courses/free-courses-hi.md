@@ -448,6 +448,7 @@
 ### Java
 
 * [Complete Java Programming in Hindi](https://www.youtube.com/playlist?list=PLmRclvVt5DtnqhXTJwd-oqVRwO3bLZCGV) - Anand Kumar, CodeitUp
+* [Complete Java Programming Course 2025](https://www.youtube.com/playlist?list=PLA3GkZPtsafY62QhQ030p85HAer0pFDdr) - Engineering Digest
 * [Core Java in Hindi](https://www.youtube.com/playlist?list=PLVlQHNRLflP8kPvCvEM7ZopbRB93joJXy) - Naresh i Technologies
 * [Core Java Programming (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhij8Oplrvjt_RlDliZQgdxoV) - Rajesh Kumar, Geeky Shows
 * [Hibernate tutorial Basic to Advance in Hindi](https://youtube.com/playlist?list=PL0zysOflRCekX8OO7V7pGQ9kxZ28JyJlk) - Learn Code With Durgesh

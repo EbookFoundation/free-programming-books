@@ -13,9 +13,11 @@
 
 ### C
 
-* [C language Notes by sbistudy.com\| Hindi](https://www.sbistudy.com/c-language-notes-in-hindi/) - Shivom Classes
-* [C Tutorial by Masterprogramming.in \| Hindi](https://masterprogramming.in/learn-c-language-tutorial-in-hindi/) - Jeetu Sahu
-* [C Tutorial/Notes \| Hindi](https://programming-tutorial-hindi.blogspot.com/p/index.html) - Hridayesh Kumar Gupta
+* [C language Notes by sbistudy.com | Hindi](https://www.sbistudy.com/c-language-notes-in-hindi/) - Shivom Classes
+* [C Tutorial by Masterprogramming.in | Hindi](https://masterprogramming.in/learn-c-language-tutorial-in-hindi/) - Jeetu Sahu
+* [C Tutorial/Notes | Hindi](https://programming-tutorial-hindi.blogspot.com/p/index.html) - Hridayesh Kumar Gupta
+* [C Complete Notes | Hindi](https://cwh-full-next-space.fra1.cdn.digitaloceanspaces.com/notes/C_Complete_Notes.pdf) - CodeWithHarry (PDF)
+
 
 
 ### <a id="cpp"></a>C++

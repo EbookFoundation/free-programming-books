@@ -830,7 +830,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Prompt Engineering Guide](https://www.promptingguide.ai) - DAIR.AI (HTML)
 
 
-
 ### Quantum Computing
 
 * [Introduction to Classical and Quantum Computing](https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e3p.pdf) - Thomas G. Wong (PDF)

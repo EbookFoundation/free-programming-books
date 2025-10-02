@@ -19,13 +19,12 @@
 ### MCP
 
 * [Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions](https://xinyi-hou.github.io/files/hou2025mcp.pdf) (PDF)
-* [The MCP Illustrated Guidebook](https://blog.dailydoseofds.com/p/the-mcp-illustrated-guidebook) (HTML)
+* [The MCP Illustrated Guidebook](https://blog.dailydoseofds.com/p/the-mcp-illustrated-guidebook) (HTML,PDF)
 
 
 ### LangChain
 
 * [LangChain Programming For Beginners ](https://www.scribd.com/document/888213673/LangChain-programming-for-Beginners) (HTML,PDF)
-* [Learning LangChain](https://dokumen.pub/learning-langchain-for-true-epub-9781098167288.html) (HTML)
 
 
 ### LangGraph

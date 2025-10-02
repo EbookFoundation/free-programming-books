@@ -2088,7 +2088,8 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Tiny Python 3.6 Notebook](https://github.com/mattharrison/Tiny-Python-3.6-Notebook) - Matt Harrison (3.6)
 * [Tiny Python Projects](http://tinypythonprojects.com/Tiny_Python_Projects.pdf) - Ken Youens-Clark(PDF)
 * [Web2py: Complete Reference Manual, 6th Edition (pre-release)](http://web2py.com/book) (2.5 - 2.x)
-* [FastAPI: Modern Python web development by O'Reilly](http://103.203.175.90:81/fdScript/RootOfEBooks/E%20Book%20collection%20-%202024%20-%20I/CSE%20%20IT%20AIDS%20ML/FastAPI%20Modern%20Python%20Web%20Development%29.pdf) - Bill Lubanovic
+* [FastAPI: Modern Python web development by O'Reilly](http://103.203.175.90:81/fdScript/RootOfEBooks/E%20Book%20collection%20-%202024%20-%20I/CSE%20%20IT%20AIDS%20ML/FastAPI%20Modern%20Python%20Web%20Development%29.pdf) - Bill Lubanovic (PDF)
+
 
 
 #### Django

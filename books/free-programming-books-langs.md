@@ -2091,7 +2091,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [FastAPI: Modern Python web development by O'Reilly](http://103.203.175.90:81/fdScript/RootOfEBooks/E%20Book%20collection%20-%202024%20-%20I/CSE%20%20IT%20AIDS%20ML/FastAPI%20Modern%20Python%20Web%20Development%29.pdf) - Bill Lubanovic (PDF)
 
 
-
 #### Django
 
 * [All-Auth](https://django-allauth.readthedocs.io/en/latest/overview.html) (HTML)

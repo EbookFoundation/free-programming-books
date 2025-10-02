@@ -390,7 +390,7 @@
 - [C++ Tutorials](https://www.youtube.com/playlist?list=PL_c9BZzLwBRJVJsIfe97ey45V4LP_HXiG) - Caleb Curry
 - [Google's C++ Course](https://developers.google.com/edu/c++/)
 - [Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) (MIT's OpenCourseWare)
-- [Introduction to C++](https://www.edx.org/course/introduction-to-c-3) - Microsoft (edX) ( :card_file_box: _archived_)
+- [Introduction to C++](https://www.edx.org/course/introduction-to-c-3) - Microsoft (edX) ( :card*file_box: \_archived*)
 - [Introduction to Programming through C++](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2qzihjdDEseWrrY1DyxH9P) - NPTEL
 - [Learn C++ With Me](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lmGC8VW0iu6qfMHjy7gLQ3) - Tech With Tim
 - [Sololearn C++](https://www.sololearn.com/learning/1051) - _registration required_
@@ -1221,8 +1221,8 @@
 
 - [Fundamentals of Red Hat Enterprise Linux](https://www.edx.org/course/fundamentals-of-red-hat-enterprise-linux) - Chris Caillouet (edX)
 - [IIEC RISE 1.0 RHCSA8 and Python3](https://www.youtube.com/playlist?list=PLAi9X1uG6jZ2b1mUmrUcc_aEoc8tfss8e) - Vimal Daga
-- [Introduction to Linux LFS101](https://training.linuxfoundation.org/training/introduction-to-linux-lfs101-jp/) - The Linux Foundation (linuxfoundation)
 - [Introduction To Linux](https://www.edx.org/course/introduction-to-linux/) - The Linux Foundation (edx)
+- [Introduction to Linux LFS101](https://training.linuxfoundation.org/training/introduction-to-linux-lfs101-jp/) - The Linux Foundation (linuxfoundation)
 - [Introduction to Linux – Full Course for Beginners](https://www.youtube.com/watch?v=sWbUDq4S6Y8) - Beau (freeCodeCamp.org)
 - [Linux Administration Tutorial Videos](https://www.youtube.com/playlist?list=PL9ooVrP1hQOH3SvcgkC4Qv2cyCebvs0Ik) - edureka!
 - [Linux Command Line](https://www.udemy.com/course/command-line/) - Adam Eubankas (Udemy)
@@ -1313,7 +1313,7 @@
 
 - [Advanced Adobe XD (Web Design)](https://webdesign.tutsplus.com/courses/advanced-adobe-xd-for-everyone) - Adi Purdila
 - [Computer Graphics](http://nptel.ac.in/courses/106106090/)
-- [FindLectures.com](https://web.archive.org/web/20161219180842/https://www.findlectures.com/?class1=Technology) - Index of conference talks by language / topic ( :card_file_box: _archived_)
+- [FindLectures.com](https://web.archive.org/web/20161219180842/https://www.findlectures.com/?class1=Technology) - Index of conference talks by language / topic ( :card*file_box: \_archived*)
 - [Introduction to Quantum Computing and Quantum Hardware](https://qiskit.org/learn/intro-qc-qh) - Qiskit
 - [Introduction to Reinforcement Learning with David Silver](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver) - David Silver
 - [MIT Numerical Methods (2014)](http://www.iitg.ernet.in/kartha/CE601-14/CourseSchedule.htm)

@@ -1082,7 +1082,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Open Data Structures (in Java)](http://opendatastructures.org/ods-java.pdf) - Pat Morin (PDF)
 * [Playing with Java Microservices on Kubernetes and OpenShift](https://leanpub.com/playing-with-java-microservices-on-k8s-and-ocp) - Nebrass Lamouchi *(Leanpub account or valid email requested)*
 * [Processing XML with Java (A Guide to SAX, DOM, JDOM, JAXP, and TrAX) (2002)](http://www.cafeconleche.org/books/xmljava/) - Elliotte Rusty Harold
-* [Programming With Java](https://paadopt.org/wp-content/uploads/2025/03/Programming-With-Java-ABhuiyan-MAmiruzzaman-2025031201.pdf) - Ashik Ahmed Bhuiyan & Md Amiruzzaman
+* [Programming With Java](https://paadopt.org/wp-content/uploads/2025/03/Programming-With-Java-ABhuiyan-MAmiruzzaman-2025031201.pdf) - Ashik Ahmed Bhuiyan & Md Amiruzzaman (PDF)
 * [The Java EE6 Tutorial](https://docs.oracle.com/javaee/6/tutorial/doc/javaeetutorial6.pdf) (PDF)
 * [The Java EE7 Tutorial](https://docs.oracle.com/javaee/7/JEETT.pdf) - Eric Jendrock, et al. (PDF)
 * [The Java Tutorials](https://docs.oracle.com/javase/tutorial/index.html)

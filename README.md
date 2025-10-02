@@ -1,9 +1,8 @@
 # List of Free Learning Resources In Many Languages
 
 <img width="4950" height="1238" alt="Professional Modern Technology LinkedIn Banner" src="https://github.com/user-attachments/assets/69ec20b6-2664-4102-9b3b-0ba2b9494b28" />
-
-                          <div align="center" markdown="1">
-
+ <div align="center" markdown="1">
+     
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)&#160;
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)&#160;
 [![Hacktoberfest 2025 stats](https://img.shields.io/github/hacktoberfest/2025/EbookFoundation/free-programming-books?label=Hacktoberfest+2025)](https://github.com/EbookFoundation/free-programming-books/pulls?q=is%3Apr+is%3Amerged+created%3A2025-10-01..2025-10-31)

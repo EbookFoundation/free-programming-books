@@ -20,13 +20,3 @@
 
 * [Model Context Protocol (MCP): Landscape, Security Threats, and Future Research Directions](https://xinyi-hou.github.io/files/hou2025mcp.pdf) (PDF)
 
-
-### LangChain
-
-* [LangChain AI Handbook](https://www.pinecone.io/learn/series/langchain/) (HTML)
-
-
-### LangGraph
-
-* [LangGraph Tutorial: A Comprehensive Guide for Beginners](https://blog.futuresmart.ai/langgraph-tutorial-for-beginners) (HTML)
-

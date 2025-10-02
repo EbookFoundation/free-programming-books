@@ -2091,7 +2091,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Web2py: Complete Reference Manual, 6th Edition (pre-release)](http://web2py.com/book) (2.5 - 2.x)
 
 
-
 #### Django
 
 * [All-Auth](https://django-allauth.readthedocs.io/en/latest/overview.html) (HTML)

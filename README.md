@@ -1,18 +1,11 @@
 # List of Free Learning Resources In Many Languages
 
-The Repository includes curated 
+<img width="4950" height="1238" alt="Professional Modern Technology LinkedIn Banner" src="https://github.com/user-attachments/assets/69ec20b6-2664-4102-9b3b-0ba2b9494b28" />
 
- ____                                          _
-|  _ \ _ __ ___   __ _ _ __ __ _ _ __ ___  _ __ _(_)_ __   __ _
-| |_) | '__/ _ \ / _` | '__/ _` | '_ ` _ \| '_ ` | | '_ \ / _` |
-|  __/| | | (_) | (_| | | | (_| | | | | | | | | | | | | | (_| |
-|_|   |_|  \___/ \__, |_|  \__,_|_| |_| |_|_| |_|_|_| |_|\__, |
-                 |___/                                   |___/
- ____              _
-| __ )  ___   ___ | | _____
-|  _ \ / _ \ / _ \| |/ / __|
-| |_) | (_) | (_) |   <\__ \
-|____/ \___/ \___/|_|\_\___/
+
+The Repository contains curated collection of free programing resources.
+
+                          
 <div align="center" markdown="1">
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)&#160;

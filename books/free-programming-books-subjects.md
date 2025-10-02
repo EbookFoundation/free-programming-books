@@ -464,7 +464,6 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [User Guide - scikit-learn](https://scikit-learn.org/stable/user_guide.html) - Scikit-learn developers (HTML) (BSD)
 
 
-
 ### Mathematics
 
 * [A Computational Introduction to Number Theory and Algebra](https://shoup.net/ntb/) - Victor Shoup

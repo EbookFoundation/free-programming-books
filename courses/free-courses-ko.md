@@ -34,7 +34,6 @@
 * [Spring](#spring)
 * [Swift](#swift)
 * [Unity](#unity)
-* [Unreal Engine](#unreal-engine)
 * [Web Development](#web-development)
 * [WebRTC](#webrtc)
 * [Windows](#windows)
@@ -195,8 +194,6 @@
 ### Operation System
 
 * [운영체제](http://ocw.kookmin.ac.kr/?course=15329) - 이시윤
-* [운영체제](http://www.kocw.net/home/search/kemView.do?kemId=1194929) - 최린
-* [운영체제론](http://socw.skku.edu/Lectures/Regular/Detail.do) - 엄영익
 
 
 ### PHP
@@ -261,13 +258,7 @@
 
 * [유니티 강좌 (초급)](https://www.youtube.com/playlist?list=PLC2Tit6NyViewOPACJai5zNAfZuUW8aYq) - 고박사의 유니티 노트
 * [유니티 기초 강좌](https://www.youtube.com/playlist?list=PLO-mt5Iu5TeYI4dbYwWP8JqZMC9iuUIW2) - 골드메달
-* [유니티 기초 벡서라이크 언데드서바이벌](https://www.youtube.com/playlist?list=PLO-mt5Iu5TeZF8xMHqtT_DhAPKmjf6i3x) - 골드메달
 * [유니티 초보 강의 + 실전 프로젝트](https://www.youtube.com/playlist?list=PLMsa_0kAjjrdcdM4RcpGni9OLv-xy8FiB) - 나도코딩
-
-
-### Unreal Engine
-
-* [실전 게임 제작으로 배우는 언리얼엔진](https://www.youtube.com/playlist?list=PL9kzervdzKxyIPMBHt26wkaAvCv6JkHQV)
 
 
 ### Web Development

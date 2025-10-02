@@ -247,6 +247,7 @@
 ### Internet das Coisas
 
 * [A Internet das Coisas](https://bibliotecadigital.fgv.br/dspace/bitstream/handle/10438/23898/A%20internet%20das%20coisas.pdf) - Eduardo Magrani (PDF) (CC BY-SA)
+* [Internet Das Coisas Uma Breve Introdução E Perspectivas Na Área Da Saúde](https://educapes.capes.gov.br/bitstream/capes/747555/1/Internet%20das%20Coisas.pdf) - Adriana Camargo Ferrasi, et al. (PDF)
 
 
 ### Java

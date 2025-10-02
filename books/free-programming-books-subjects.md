@@ -107,12 +107,12 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Algorithms for Competitive Programming](https://cp-algorithms.com) - E-Maxx English Translation Project (HTML)
 * [Algorithms Illuminated](https://www.algorithmsilluminated.org) - Tim Roughgarden (HTML)
 * [Algorithms Notes for Professionals](https://goalkicker.com/AlgorithmsBook) - Compiled from StackOverflow Documentation (PDF)
-* [Analysis of Algorithms](https://aofa.cs.princeton.edu/home/) - Robert Sedgewick, Philippe Flajolet
 * [An Open Guide to Data Structures and Algorithms](https://opendsa-server.cs.vt.edu/OpenDSA/Books/Everything/html/) - Paul W. Bible, Lucas Moser
+* [Analysis of Algorithms](https://aofa.cs.princeton.edu/home/) - Robert Sedgewick, Philippe Flajolet
 * [Annotated Algorithms in Python: Applications in Physics, Biology, and Finance](https://github.com/mdipierro/nlib) - Massimo Di Pierro
 * [Binary Trees](http://cslibrary.stanford.edu/110/BinaryTrees.pdf) - Nick Parlante (PDF)
-* [Competitive Programming](https://cpbook.net) - Steven Halim, Felix Halim (PDF)
 * [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf) - Antti Laaksonen (PDF)
+* [Competitive Programming](https://cpbook.net) - Steven Halim, Felix Halim (PDF)
 * [Data Structures](https://adityacse.weebly.com/uploads/2/4/0/7/24078687/data-structures.pdf) - Aditya CSE (PDF)
 * [Data Structures](https://en.wikibooks.org/wiki/Data_Structures) - Wikibooks
 * [Data Structures (Into Java)](https://inst.eecs.berkeley.edu/~cs61b/fa14/book2/data-structures.pdf) - Paul N. Hilfinger (PDF)

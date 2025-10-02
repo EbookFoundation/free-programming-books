@@ -706,6 +706,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 
 * [Object Oriented Programming](https://www.cl.cam.ac.uk/teaching/0910/OOProg/OOP.pdf) - Robert Harle (PDF)
 * [OOP – Learn Object Oriented Thinking and Programming](https://files.bruckner.cz/be2a5b2104bf393da7092a4200903cc0/PecinovskyOOP.pdf) - Rudolf Pecinovsky (PDF)
+* [Principles of Object-Oriented Programming](https://www.opentextbooks.org.hk/system/files/export/8/8163/pdf/Principles_of_ObjectOriented_Programming_8163_r.pdf) - Stephen Wong, Dung Nguyen, Mark Husband (PDF) (CC BY-SA)
 
 
 ### Open Source Ecosystem

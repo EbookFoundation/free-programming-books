@@ -23,10 +23,10 @@
 
 ### LangChain
 
-* [LangChain Programming For Beginners ](https://www.scribd.com/document/888213673/LangChain-programming-for-Beginners) (HTML)
+* [LangChain AI Handbook](https://www.pinecone.io/learn/series/langchain/) (HTML)
 
 
 ### LangGraph
 
-* [The Complete LangGraph Blueprint](https://www.scribd.com/document/898428369/The-Complete-LangGraph-Blueprint-Build-50-AI-Agents-for-Business-Success-Karanja-Maina-James-Z-Library) (HTML)
+* [LangGraph Tutorial: A Comprehensive Guide for Beginners](https://blog.futuresmart.ai/langgraph-tutorial-for-beginners) (HTML)
 

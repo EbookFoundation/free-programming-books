@@ -47,7 +47,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Search Engines](#search-engines)
 * [Security & Privacy](#security--privacy)
 * [Software Architecture](#software-architecture)
-* [Software Testing & Quality Assurance](#software-testing--quality-assurance) 
+* [Software Engineering](#software-engineering) 
 * [Standards](#standards)
 * [Theoretical Computer Science](#theoretical-computer-science)
 * [Version Control Systems](#version-control-systems)
@@ -938,7 +938,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Your API Is Bad](https://leanpub.com/yourapiisbad/read) - Paddy Foran
 
 
-### Software Testing & Quality Assurance
+### Software Engineering
 
 * [Lecture Notes on Software Engineering (BCS-306)](https://www.vssut.ac.in/lecture_notes/lecture1428551142.pdf) - Dr. H.S. Behera, Asst. Prof K.K. Sahu, Asst. Prof Gargi Bhattacharjee (PDF)
 * [Software Quality Assurance (DCAP503)](https://ebooks.lpude.in/computer_application/mca/term_3/DCAP503_SOFTWARE_TESTING_AND_QUALITY_ASSURANCE.pdf) - Editor: Manpreet Kaur (PDF)

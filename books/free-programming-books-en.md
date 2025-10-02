@@ -22,5 +22,7 @@
 * [LangChain Programming For Beginners](https://www.scribd.com/document/888213673/LangChain-programming-for-Beginners)
 * [Learning LangChain](https://dokumen.pub/learning-langchain-for-true-epub-9781098167288.html)
 
+
 ### LangGraph
-* [The Complete LangGraph Blueprint](https://www.scribd.com/document/898428369/The-Complete-LangG
+* [The Complete LangGraph Blueprint](https://www.scribd.com/document/898428369/The-Complete-LangGraph-Blueprint-Build-50-AI-Agents-for-Business-Success-Karanja-Maina-James-Z-Library)
+* [LangGraph Tutorial: A Comprehensive Guide for Beginners](https://blog.futuresmart.ai/langgraph-tutorial-for-beginners)

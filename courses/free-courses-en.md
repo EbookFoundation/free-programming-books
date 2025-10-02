@@ -285,7 +285,7 @@
 
 #### Generative AI
 
-* [CS236: Deep Generative Models](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8) - Stefano Ermon (Stanford University)
+* [CS236: Deep Generative Models](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8) - Stefano Ermon (Stanford Online)
 * [CS324: Large Language Models](https://stanford-cs324.github.io/winter2022/) - Percy Liang, et al. (Stanford University)
 * [Deep Generative Models](https://www.youtube.com/playlist?list=PL2UML_KCiC0UPzjW9BjO-IW6dqliu9O4B) - Volodymyr Kuleshov (Cornell Tech)
 * Large Language Models](https://rycolab.io/classes/llm-s24/) - Ryan Cotterell, Clara Meister (ETH Zurich)

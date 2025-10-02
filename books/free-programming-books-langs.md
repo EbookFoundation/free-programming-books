@@ -837,6 +837,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Practical Go Lessons](https://www.practical-go-lessons.com) - Maximilien Andile
 * [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html) - Dave Cheney (HTML)
 * [Production Go](https://leanpub.com/productiongo/read) - Herman Schaaf and Shawn Smith (EPUB, HTML, PDF) ( :construction: *in process*) *(Leanpub account or valid email requested for EPUB or PDF)*
+* [Spaceship Go - A Journey to the Standard Library](https://blasrodri.github.io/spaceship-go-gh-pages/) - Blas Rodriguez Irizar
 * [The Go Tutorial](http://tour.golang.org)
 * [The Little Go Book](https://github.com/karlseguin/the-little-go-book) - Karl Seguin ([PDF](https://www.openmymind.net/assets/go/go.pdf), [ePUB](https://www.openmymind.net/assets/go/go.epub)) (CC BY-NC-SA)
 * [Web apps in Go, the anti textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook/) (CC BY-SA)
@@ -1814,7 +1815,6 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### PHP
 
-* [An Introduction to the PHP Programming Language](https://codeahoy.com/learn/php/toc/) - CodeAhoy (HTML)
 * [Clean Code PHP](https://github.com/jupeter/clean-code-php)
 * [Essential PHP](https://www.programming-books.io/essential/php/) - Krzysztof Kowalczyk, StackOverflow Contributors
 * [PHP 5 Power Programming](http://www.informit.com/content/images/013147149X/downloads/013147149X_book.pdf) (PDF)
@@ -1827,9 +1827,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [PHP Pandas](http://daylerees.com/php-pandas/) - Dayle Rees
 * [PHP Programming](https://en.wikibooks.org/wiki/PHP_Programming) - Wikibooks
 * [PHP Reference: Beginner to Intermediate PHP5](https://phpreferencebook.com/pdf/download/) - Mario Lurig (PDF)
-* [PHP Security Guide](http://phpsec.org/projects/guide/)
 * [PHP: The Right Way](http://www.phptherightway.com)
-* [PHPUnit Manual](https://phpunit.de/manual/current/en/phpunit-book.pdf) - Sebastian Bergmann (PDF)
 * [Practical PHP Programming](http://www.hackingwithphp.com)
 * [Practical PHP Testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
 * [Survive The Deep End: PHP Security](https://phpsecurity.readthedocs.org/en/latest/)

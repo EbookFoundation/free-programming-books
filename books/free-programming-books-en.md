@@ -12,8 +12,8 @@
 
 ## Gen AI
 
-* [Generative AI Foundations in Python](https://d15k2d11r6t6rl.cloudfront.net/pub/40qd/gy9g2422/rk0/66s/hxt/Free%20PDF%20-%20Generative%20AI%20Foundations%20in%20Python.pdf) (PDF,HTML)
-* [Generative AI in Practice](https://www.hamdoun.info/wp-content/uploads/2024/09/Generative-AI-in-Practice-100-Amazing-Ways-Generative-Artificial-Intelligence-is-Changing-Business-.pdf) (PDF,HTML)
+* [Generative AI Foundations in Python](https://d15k2d11r6t6rl.cloudfront.net/pub/40qd/gy9g2422/rk0/66s/hxt/Free%20PDF%20-%20Generative%20AI%20Foundations%20in%20Python.pdf) (PDF, HTML)
+* [Generative AI in Practice](https://www.hamdoun.info/wp-content/uploads/2024/09/Generative-AI-in-Practice-100-Amazing-Ways-Generative-Artificial-Intelligence-is-Changing-Business-.pdf) (PDF, HTML)
 
 
 ### MCP

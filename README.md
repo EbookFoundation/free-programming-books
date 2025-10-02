@@ -3,7 +3,7 @@
 <img width="4950" height="1238" alt="Professional Modern Technology LinkedIn Banner" src="https://github.com/user-attachments/assets/69ec20b6-2664-4102-9b3b-0ba2b9494b28" />
 
 
-##The Repository contains curated collection of free programing resources.##
+**The Repository contains curated collection of free programing resources.**
 
                           
 <div align="center" markdown="1">

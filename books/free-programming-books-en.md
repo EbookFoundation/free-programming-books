@@ -21,8 +21,9 @@
 
 ### LangChain
 
-* [LangChain Programming For Beginners](https://www.scribd.com/document/888213673/LangChain-programming-for-Beginners)
 * [Learning LangChain](https://dokumen.pub/learning-langchain-for-true-epub-9781098167288.html)
+* [LangChain Programming For Beginners](https://www.scribd.com/document/888213673/LangChain-programming-for-Beginners)
+
 
 ### LangGraph
 

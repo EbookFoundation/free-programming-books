@@ -2060,7 +2060,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Python Programming](https://en.wikibooks.org/wiki/Python_Programming) - Wikibooks (2.7)
 * [Python Programming](https://upload.wikimedia.org/wikipedia/commons/9/91/Python_Programming.pdf) - Wikibooks (PDF) (2.6)
 * [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html) - Qingkai Kong, Timmy Siauw, Alexandre Bayen (3.7)
-* [Python Programming Course material](https://www.rgmcet.edu.in/assets/img/departments/CSE/materials/R19/2-1/Python.pdf) - Mr. P. PRATHAP NAIDU
+* [Python Programming Course material](https://www.rgmcet.edu.in/assets/img/departments/CSE/materials/R19/2-1/Python.pdf) - Mr. P. PRATHAP NAIDU (PDF)
 * [Python Programming Exercises, Gently Explained](https://inventwithpython.com/PythonProgrammingExercisesGentlyExplained.pdf) - Al Sweigart (PDF)
 * [Python Tutorial](https://www.tutorialspoint.com/python/) - Tutorials Point (HTML, PDF)
 * [Research Software Engineering with Python](https://merely-useful.tech/py-rse/) - Damien Irving, Kate Hertweck, Luke Johnston, Joel Ostblom, Charlotte Wickham, Greg Wilson (HTML)

@@ -18,10 +18,20 @@ Key Features:
 - Filters to ignore code blocks, inline code, and text within parentheses.
 - Specific check for RTL authors followed by LTR metadata.
 """
-import sys
-import os
+
+# /// script
+# dependencies = [
+#     "python-bidi",
+#     "PyYAML",
+# ]
+# ///
+
 import argparse
+import os
 import re
+import subprocess
+import sys
+
 import yaml
 from bidi.algorithm import get_display
 

@@ -286,12 +286,9 @@
 #### Generative AI
 
 * [CS236: Deep Generative Models](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8) - Stefano Ermon (Stanford Online)
-* [CS324: Large Language Models](https://stanford-cs324.github.io/winter2022/) - Percy Liang, et al. (Stanford University)
 * [Deep Generative Models](https://www.youtube.com/playlist?list=PL2UML_KCiC0UPzjW9BjO-IW6dqliu9O4B) - Volodymyr Kuleshov (Cornell Tech)
-* Large Language Models](https://rycolab.io/classes/llm-s24/) - Ryan Cotterell, Clara Meister (ETH Zurich)
 * [Foundation Models and Generative AI](https://ocw.mit.edu/courses/6-s087-foundation-models-and-generative-ai-january-iap-2024) - Rickard Gabrielsson (MIT OpenCourseWare)
-* [LLM Systems (11-868)](https://llmsystem.github.io/llmsystem2024spring/) - Lei Li (Carnegie Mellon University)
-* [Understanding Large Language Models — Foundations and Safety (CS 194/294-267)](https://rdi.berkeley.edu/understanding_llms/s24) - Responsible Decentralized Intelligence (UC Berkeley)
+* [Understanding Large Language Models — Foundations and Safety (CS 194/294-267)](https://www.youtube.com/playlist?list=PLJ66BAXN6D8H_gRQJGjmbnS5qCWoxJNfe) - Responsible Decentralized Intelligence (UC Berkeley EECS)
 
 
 ### Assembly

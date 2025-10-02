@@ -2,11 +2,7 @@
 
 <img width="4950" height="1238" alt="Professional Modern Technology LinkedIn Banner" src="https://github.com/user-attachments/assets/69ec20b6-2664-4102-9b3b-0ba2b9494b28" />
 
-
-## The Repository contains curated collection of free programing resources.
-
-                          
-<div align="center" markdown="1">
+                          <div align="center" markdown="1">
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)&#160;
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)&#160;

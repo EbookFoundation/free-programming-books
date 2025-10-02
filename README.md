@@ -1,8 +1,18 @@
 # List of Free Learning Resources In Many Languages
 
 The Repository includes curated 
-https://automatetheboringstuff.com/
 
+ ____                                          _
+|  _ \ _ __ ___   __ _ _ __ __ _ _ __ ___  _ __ _(_)_ __   __ _
+| |_) | '__/ _ \ / _` | '__/ _` | '_ ` _ \| '_ ` | | '_ \ / _` |
+|  __/| | | (_) | (_| | | | (_| | | | | | | | | | | | | | (_| |
+|_|   |_|  \___/ \__, |_|  \__,_|_| |_| |_|_| |_|_|_| |_|\__, |
+                 |___/                                   |___/
+ ____              _
+| __ )  ___   ___ | | _____
+|  _ \ / _ \ / _ \| |/ / __|
+| |_) | (_) | (_) |   <\__ \
+|____/ \___/ \___/|_|\_\___/
 <div align="center" markdown="1">
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)&#160;

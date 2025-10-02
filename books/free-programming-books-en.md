@@ -9,6 +9,6 @@
 
 ### Python
 
-* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - Al Sweigart (HTML)
-* [Python for Everybody](https://www.py4e.com/) - Dr. Charles Severance (HTML & PDF)
-* [Dive Into Python 3](https://diveintopython3.problemsolving.io/) - Mark Pilgrim (HTML)
+* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com) - Al Sweigart (HTML)
+* [Python for Everybody](https://www.py4e.com) - Dr. Charles Severance (HTML & PDF)
+* [Dive Into Python 3](https://diveintopython3.problemsolving.io) - Mark Pilgrim (HTML)

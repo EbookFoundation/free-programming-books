@@ -368,7 +368,7 @@
 
 ### Rego
 
-* [Rego Playground](https://play.openpolicyagent.org) - [Open Policy Agent](https://www.openpolicyagent.org)
+* [Rego Playground](https://play.openpolicyagent.org) - Open Policy Agent
 
 
 ### Regular Expressions

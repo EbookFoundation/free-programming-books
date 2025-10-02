@@ -421,7 +421,6 @@ def get_changed_lines_for_file(filepath):
         - Requires that the script is run inside a Git repository.
         - If the merge base cannot be found, returns an empty set and does not print errors.
     """
-    import subprocess
     changed_lines = set()
     try:
         # Get the diff for the file (unified=0 for no context lines)

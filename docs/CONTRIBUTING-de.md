@@ -178,7 +178,7 @@ Unsere Listen enthalten einen minimalen Satz an Metadaten: Titel, URLs, Autoren,
 ##### Urheber
 
 - Wir wollen alle Urheber kostenloser Inhalte angemessen nennen, inklusive eventueller Übersetzer!
-- For übersetzte Werke sollte der Autor des ursprünglichen Werks genannt werden. We recommend using [MARC relators](https://loc.gov/marc/relators/relaterm.html) to credit creators other than authors, as in this example:
+- Für übersetzte Werke sollte der Autor des ursprünglichen Werks genannt werden. We recommend using [MARC relators](https://loc.gov/marc/relators/relaterm.html) to credit creators other than authors, as in this example:
 
     ```markdown
     * [A Translated Book](http://example.com/book-de.html) - John Doe, `trl.:` Mike The Translator

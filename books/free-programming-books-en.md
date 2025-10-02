@@ -12,4 +12,3 @@
 ### Machine Learning
 
 * [Dive into Deep Learning](https://d2l.ai/) - Aston Zhang, Zachary C. Lipton, Mu Li, Alexander J. Smola (HTML, PDF, Jupyter Notebooks) (CC BY-SA)
-

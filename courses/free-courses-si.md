@@ -12,6 +12,7 @@
 * [JavaScript](#javascript)
     * [React](#react)
 * [PHP](#php)
+* [DBMS-(DataBase Management Systems)](#DBMS)
 
 
 ### Algorithms & Data Structures
@@ -98,3 +99,7 @@
 #### Spring Boot
 
 * [REST API with Spring Boot](https://www.youtube.com/playlist?list=PLuhSdp06EMkIhKEo_H-IjrG0cozCuS9lE) - Masith Prasanga
+
+### DBMS
+
+* [DataBase Management Systems in Sinhala](https://youtube.com/playlist?list=PLqeCu_1ZdDl6g55l5SgdNtuk5AL0K_qcV&si=O_5urFWB59379fiH) -LankaDroid-Programming Kuppiya

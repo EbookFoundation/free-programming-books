@@ -394,6 +394,7 @@
 * [Curso intensivo de programação em Bash](https://www.youtube.com/playlist?list=PLXoSGejyuQGr53w4IzUzbPCqR4HPOHjAI) - debxp (YouTube)
 * [Curso Shell GNU](https://www.youtube.com/playlist?list=PLXoSGejyuQGqJEEyo2fY3SA-QCKlF2rxO) - debxp
 
+
 ### Sistemas Embarcados
 
 * [Fundamentos de Sistemas Embarcados](https://www.youtube.com/playlist?list=PLqvo6YdcIqXXGY1dLbf_xA-JLMBumTyzG) - Renato Sampaio

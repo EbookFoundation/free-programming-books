@@ -90,6 +90,7 @@
 #### Sistemas Operacionais
 
 * [Guia Foca Linux](https://www.guiafoca.org/#download) - Gleydson Maziolli (PDF)
+* [Linux Essentials](https://learning.lpi.org/pt/learning-materials/010-160/) - Linux Professional Institute (HTML, PDF) (CC BY-NC-ND 4.0)
 * [Sistemas Operacionais: Conceitos e Mecanismos](http://wiki.inf.ufpr.br/maziero/lib/exe/fetch.php?media=socm:socm-livro.pdf) - Carlos A. Maziero (PDF) (CC BY-NC-SA) *( :construction: em contínuo desenvolvimento)*
 
 

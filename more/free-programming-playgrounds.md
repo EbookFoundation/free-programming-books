@@ -39,8 +39,8 @@
 * [R](#r)
 * [React](#react)
 * [Redis](#redis)
-* [Regular Expressions](#regular-expressions)
 * [Rego](#rego)
+* [Regular Expressions](#regular-expressions)
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [RxJS](#rxjs)
@@ -366,6 +366,11 @@
 * [Try Redis](https://try.redis.io)
 
 
+### Rego
+
+* [Rego Playground](https://play.openpolicyagent.org) - [Open Policy Agent](https://www.openpolicyagent.org)
+
+
 ### Regular Expressions
 
 * [iHateRegex: regex for playground](https://ihateregex.io/playground) - Geon George
@@ -374,10 +379,6 @@
 * [Regex101: build, test, and debug regex](https://regex101.com) - Firas Dib (regex101.com)
 * [Regexper](https://regexper.com) - Jeff Avallone
 * [RegExr: Learn, Build, \& Test RegEx](https://regexr.com) - GSkinner Inc.
-
-### Rego
-
-* [Rego Playground](https://play.openpolicyagent.org/) - [Open Policy Agent](https://www.openpolicyagent.org/)
 
 
 ### Ruby

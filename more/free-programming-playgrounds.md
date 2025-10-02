@@ -40,6 +40,7 @@
 * [React](#react)
 * [Redis](#redis)
 * [Regular Expressions](#regular-expressions)
+* [Rego](#rego)
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [RxJS](#rxjs)
@@ -373,6 +374,10 @@
 * [Regex101: build, test, and debug regex](https://regex101.com) - Firas Dib (regex101.com)
 * [Regexper](https://regexper.com) - Jeff Avallone
 * [RegExr: Learn, Build, \& Test RegEx](https://regexr.com) - GSkinner Inc.
+
+### Rego
+
+* [Rego Playground](https://play.openpolicyagent.org/) - [Open Policy Agent](https://www.openpolicyagent.org/)
 
 
 ### Ruby

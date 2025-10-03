@@ -203,8 +203,8 @@
 * [Estrutura de Dados com Java](https://loiane.training/curso/estrutura-de-dados) - Loiane Groner
 * [Estrutura de Dados com Java](https://www.youtube.com/playlist?list=PLCUSYmPGwekcXnzf6_UtgRM0OsOEGoiG_) - Matheus Leandro Ferreira
 * [Fundamentos do Java para Iniciantes](https://www.youtube.com/playlist?list=PLiFLtuN04BS2GSi8Q-haYkRy8KEv6Grvf) - Giuliana Bezerra
-* [Introdução a Programação Linguagem Java](https://www.youtube.com/playlist?list=PLCUSYmPGwekfDhQHllAkUZ30vOsxhVfhM) - Matheus Leandro Ferreira
 * [Introdução à Interfaces Gráficas em Java com o NetBeans](https://www.udemy.com/introducao-a-interface-grafica-em-java-com-o-netbeans/) - Cezar Augusto Crummenauer (Udemy)
+* [Introdução a Programação Linguagem Java](https://www.youtube.com/playlist?list=PLCUSYmPGwekfDhQHllAkUZ30vOsxhVfhM) - Matheus Leandro Ferreira
 * [Introdução ao Java e Orientação a Objetos](https://www.udemy.com/introducao-ao-java-e-orientacao-a-objetos/) - Helder Guimaraes Aragao (Udemy)
 * [Java Avançado](https://www.youtube.com/playlist?list=PLiFLtuN04BS2bWB9UcIrun35kV080KoKU) - Giuliana Bezerra
 * [Java SE - Polimorfismo](https://www.udemy.com/java-se-polimorfismo/) - Fernando Franzini (Udemy)

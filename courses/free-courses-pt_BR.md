@@ -187,7 +187,7 @@
 ### Java
 
 * [Aulões Spring Boot](https://www.youtube.com/playlist?list=PLiFLtuN04BS2yfbo3HYLNq_O1zDq9RRQi) - Giuliana Bezerra
-* [CURSO Gratis de Estrutura de Dados com Java](https://youtu.be/Ly1To6_5eQM?si=p6X2EZIadl-goZR-) - Matheus Leandro Ferreira
+* [Curso Gratis de Estrutura de Dados com Java](https://youtu.be/Ly1To6_5eQM?si=p6X2EZIadl-goZR-) - Matheus Leandro Ferreira
 * [Curso de Java Básico](https://loiane.training/curso/java-basico) - Loiane Groner
 * [Curso de Java Intermediário](https://loiane.training/curso/java-intermediario) - Loiane Groner
 * [Curso de Java para Iniciantes - Grátis, Completo e com Certificado](https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR) - Gustavo Guanabara

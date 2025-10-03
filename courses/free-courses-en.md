@@ -206,6 +206,10 @@
 
 * [Introduction To Soft Computing](https://www.youtube.com/playlist?list=PLJ5C_6qdAvBFqAYS0P9INAogIMklG8E-9) - Computer Science and Engineering
 * [Learn and Grow](https://www.youtube.com/playlist?list=PL_kjqgSKrEaA8RDh56AeTOrcGj-nMDkSS) - Learn and Grow
+* [Soft Computing lectures / tutorial for semester](https://www.youtube.com/playlist?list=PL09DGz_tVz8K30SQirf5LsuxxZYXCnkw1) - Sanjay Pathak
+
+
+
 
 
 ### Android

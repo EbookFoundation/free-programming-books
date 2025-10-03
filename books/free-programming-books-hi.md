@@ -16,6 +16,7 @@
 * [C language Notes by sbistudy.com\| Hindi](https://www.sbistudy.com/c-language-notes-in-hindi/) - Shivom Classes
 * [C Tutorial by Masterprogramming.in \| Hindi](https://masterprogramming.in/learn-c-language-tutorial-in-hindi/) - Jeetu Sahu
 * [C Tutorial/Notes \| Hindi](https://programming-tutorial-hindi.blogspot.com/p/index.html) - Hridayesh Kumar Gupta
+* [C language Notes by rakeshmgs.in\| Hindi](https://www.rakeshmgs.in/p/c-programming-complete-hindi-notes.html) - Rakesh MGS
 
 
 ### <a id="cpp"></a>C++

@@ -209,9 +209,6 @@
 * [Soft Computing lectures / tutorial for semester](https://www.youtube.com/playlist?list=PL09DGz_tVz8K30SQirf5LsuxxZYXCnkw1) - Sanjay Pathak
 
 
-
-
-
 ### Android
 
 * [Advanced Android App Development](https://www.udacity.com/course/advanced-android-app-development--ud855) (Udacity)

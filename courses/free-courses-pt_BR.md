@@ -187,15 +187,15 @@
 ### Java
 
 * [Aulões Spring Boot](https://www.youtube.com/playlist?list=PLiFLtuN04BS2yfbo3HYLNq_O1zDq9RRQi) - Giuliana Bezerra
+* [CURSO Gratis de Estrutura de Dados com Java](https://youtu.be/Ly1To6_5eQM?si=p6X2EZIadl-goZR-) - Matheus Leandro Ferreira
 * [Curso de Java Básico](https://loiane.training/curso/java-basico) - Loiane Groner
 * [Curso de Java Intermediário](https://loiane.training/curso/java-intermediario) - Loiane Groner
 * [Curso de Java para Iniciantes - Grátis, Completo e com Certificado](https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR) - Gustavo Guanabara
 * [Curso de Programação Java para Iniciantes | Fundamentos + Programação Orientada Objetos](https://youtu.be/nODe5lFcGpg?si=TJkj5c8d9Cw60qhR) - Fernanda Kipper
 * [Curso de Programação Orientada a Objetos em Java - Grátis, Completo e com Certificado](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY) - Gustavo Guanabara
-* [Curso de Spring Boot | Java - Do Absoluto Zero ao Deploy!](https://www.youtube.com/watch?v=0V8OKTYNeU8) - Daniele Leão
 * [Curso de Spring Boot - Criando um blog com Spring Boot e deploy na AWS Elastic Beanstalk](https://www.youtube.com/playlist?list=PL8iIphQOyG-AdKMQWtt1bqdVm8QUnX7_S) - Michelli Brito
+* [Curso de Spring Boot - Java - Do Absoluto Zero ao Deploy](https://www.youtube.com/watch?v=0V8OKTYNeU8) - Daniele Leão
 * [Curso de Spring para Iniciantes | Tutorial de Java Spring no Zero](https://www.youtube.com/watch?v=n8_qrrc8WN4) - Fiasco
-* [CURSO Gratis de Estrutura de Dados com Java](https://youtu.be/Ly1To6_5eQM?si=p6X2EZIadl-goZR-) - Matheus Leandro Ferreira
 * [Demos Spring](https://www.youtube.com/playlist?list=PLiFLtuN04BS3_4VvGYqcyTUI6xRasK_QF) - Giuliana Bezerra
 * [Desenvolvedor Funcional com Java 8](https://www.udemy.com/desenvolvedor-funcional-com-java-8/) - Fernando Franzini (Udemy)
 * [Desenvolvimento Ágil com Java Avançado](https://www.coursera.org/learn/desenvolvimento-agil-com-java-avancado) - Eduardo Guerra, Clovis Fernandes - ITA (Coursera)
@@ -227,7 +227,6 @@
 * [Testes unitários com Java utilizando o Junit](https://www.udemy.com/testes-unidade-automaticos-software-junit/) - Gustavo Farias (Udemy)
 * [Tutoriais Spring](https://www.youtube.com/playlist?list=PLiFLtuN04BS1pObTFjm5g2TwgBIBfEyze) - Giuliana Bezerra
 * [Tutoriais Spring Batch](https://www.youtube.com/playlist?list=PLiFLtuN04BS07Yw7rnoz1ytWCLu8yteVv) - Giuliana Bezerra
-
 
 
 ### JavaScript

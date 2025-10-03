@@ -235,7 +235,7 @@
 ### Lua
 
 * [Introduction à la programmation Lua](https://web.archive.org/web/20240109085639/https://www.luteus.biz/Download/LoriotPro_Doc/LUA/LUA_Training_FR/Introduction_Programmation.html) (HTML) *( :card_file_box: archived)*
-* [Lua : le tutoriel](http://wxlua.developpez.com/tutoriels/lua/general/cours-complet/) - Claude Urban
+* [Lua : le tutoriel](http://wxlua.developpez.com/tutoriels/lua/general/cours-complet/) - Claude Urban, `edt.:` Alexandre Laurent, ALT, Max (HTML, PDF)
 
 
 ### Meteor

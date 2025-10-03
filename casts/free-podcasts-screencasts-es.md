@@ -75,6 +75,7 @@
 * [Hijos de la Web](https://www.ivoox.com/podcast-hijos-web_sq_f1588708_1.html) - Hector Trejo, Juan José Gutierrez, Óscar Miranda (podcast)
 * [iCharlas](https://www.ivoox.com/podcast-icharlas-podcast_sq_f155400_1.html) - Manuel Terrón, Philippe Rochette (podcast)
 * [La Tecnologería](https://tecnologeria.com) - Pablo Trinidad, Frank Blanco, Clarisa Guerra, Adrián Mesa, Jorge Cantón, José María García, Manuel Fernández, Iñigo Sendino (podcast)
+* [Mangocast](https://www.mangocast.net) - Luis Benitez, Pablo Santa Cruz, Miguel Balsevich, Luis Corvalán, Rolando Natalizia (podcast)
 * [Más allá de la innovación](https://masalladelainnovacion.com/todos-los-podcasts/) - Philippe Lardy, Rosa Cano, Jose Miguel Parella, Paco Estrada, Mónica del Valle, Beatriz Ferrolasa (podcast)
 * [Mixx.io](https://mixx.io/podcasts) - Álex Barredo, Matías S. Zavia (podcast)
 * [Ni cero, ni uno - Habilidades esenciales en un mundo tecnológico](https://podcast.carlosble.com) - Carlos Blé Jurado (podcast)
@@ -84,4 +85,3 @@
 * [TechAndLadies](https://anchor.fm/techladies) - Silvia Morillo, Cristina Pampín, Silvia García (podcast)
 * [UGeek](https://ugeek.github.io) - Ángel Jiménez de Luis (podcast)
 * [Webificando - El podcast de side projects](https://webificando.com) - Abel Fernandez, Robert Menetray (podcast)
-* [Mangocast](https://www.mangocast.net) - Luis Benitez, Pablo Santa Cruz, Miguel Balsevich, Luis Corvalán, Rolando Natalizia (podcast)

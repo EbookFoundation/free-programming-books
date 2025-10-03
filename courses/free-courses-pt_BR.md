@@ -116,8 +116,8 @@
 * [Curso Gratuito de Docker](https://www.youtube.com/playlist?list=PLNCSWIsR6ADKRq-XBvAcRd4XtqLj3f_mf) - Fernanda Kipper
 * [Descomplicando o Docker](https://www.youtube.com/playlist?list=PLf-O3X2-mxDn1VpyU2q3fuI6YYeIWp5rR) - LINUXtips
 * [Docker](https://www.youtube.com/playlist?list=PLZfrXScDmaiNw3k2-TdfML9GhpsmOlhM3) - Fabricio Veronez
-* [Docker na prática](https://www.youtube.com/playlist?list=PLR8JXremim5BWiO-MCaAffQYwFZrD11-j) - Thiago Veigah
 * [Docker Essencial: Primeiros Passos](https://www.youtube.com/playlist?list=PLViOsriojeLrdw5VByn96gphHFxqH3O_N) - TechEduca
+* [Docker na prática](https://www.youtube.com/playlist?list=PLR8JXremim5BWiO-MCaAffQYwFZrD11-j) - Thiago Veigah
 * [Minicurso Docker](https://www.youtube.com/playlist?list=PLPqoPgWuohm6eTyf2_yczUDN0wpHpsjf1) - Iago Ferreira TI - Aprenda Cloud e DevOps do ZERO
 * [O Minimo de Docker Pro Profissional DevOps](https://www.youtube.com/live/n2UQ-HtfM0g?si=Ej-8YWzdbtgr7M9m) - Fabricio Veronez
 * [Tudo O que Você Precisa Saber Sobre Docker](https://youtu.be/MeFyp4VnNx0?si=F4hwCiNiqdQ6HqLh) - LINUXtips

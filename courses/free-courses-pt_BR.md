@@ -140,12 +140,19 @@
 
 ### Go
 
+* [Aprenda Go 🇧🇷](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg) - Aprenda Go
 * [Aprenda Go / Golang (Curso Tutorial de Programação)](https://www.youtube.com/playlist?list=PLUbb2i4BuuzCX8CLeArvx663_0a_hSguW) - NBK Mundo Tech
+* [Aprendendo GoLang](https://www.youtube.com/playlist?list=PLm-xZWCprwYSlEHjZDvhaq9izo3AVbiRO) - HunCoding
 * [Curso de Introdução a Linguagem Go (Golang)](https://www.youtube.com/playlist?list=PLXFk6ROPeWoAvLMyJ_PPfu8oF0-N_NgEI) - EuProgramador
 * [Curso Golang](https://www.youtube.com/playlist?list=PL3IMfVHTpXw14FL_TRIdHfeYTeOet1GS9) - Universo Mainframe
+* [Estruturas de Dados em Go](https://www.youtube.com/playlist?list=PLHPgIIn9ls69DRXLaYHu4pKYDB_8H_05i) - Tiago Temporin
+* [Estruturas de  Dados em GoLang (DSA in Go)](https://www.youtube.com/playlist?list=PLm-xZWCprwYTEKad8bM1H0kxHxDMlzXeO) - HunCoding
 * [Go - Aprenda a Programar (Curso)](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg) - Ellen Körbes
 * [Go 101 (Curso)](https://www.youtube.com/playlist?list=PLHPgIIn9ls6-1l7h8RUClMKPHi4NoKeQF) - Tiago Temporin
 * [Golang do Zero](https://www.youtube.com/playlist?list=PL5aY_NrL1rjucQqO21QH8KclsLDYu1BIg) - Full Cycle
+* [Golang do Zero](https://www.youtube.com/playlist?list=PLIIX-IKjIiwOpAr_kyvpxTVyvUoxXqGEQ) - Stephanie Cardoso
+* [Masterclass Golang 2024 - Explorando Conceitos Fundamentais da Linguagem Go](https://youtu.be/8BrZIPGPgK0?si=CeKgO6hqhxe9MnQT) - Codr Cursos
+* [Meu Primeiro CRUD em GoLang](https://www.youtube.com/playlist?list=PLm-xZWCprwYQ3gyCxJ8TR1L2ZnUOPvOpr) - HunCoding
 
 
 ### Gulp

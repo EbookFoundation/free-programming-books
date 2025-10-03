@@ -84,3 +84,4 @@
 * [TechAndLadies](https://anchor.fm/techladies) - Silvia Morillo, Cristina Pampín, Silvia García (podcast)
 * [UGeek](https://ugeek.github.io) - Ángel Jiménez de Luis (podcast)
 * [Webificando - El podcast de side projects](https://webificando.com) - Abel Fernandez, Robert Menetray (podcast)
+* [Mangocast](https://www.mangocast.net) - Luis Benitez, Pablo Santa Cruz, Miguel Balsevich, Luis Corvalán, Rolando Natalizia (podcast)

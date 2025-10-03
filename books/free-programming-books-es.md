@@ -189,6 +189,7 @@
 
 ### Java
 
+* [Aprenda Java con Ejemplos](http://profesores.fi-b.unam.mx/ingdepaz/LibroJava.pdf) - Ing. Jorge A. De Paz
 * [Aprendiendo Java y POO (2008)](https://openlibra.com/es/book/download/aprendiendo-java-y-poo) - Gustavo Guillermo Pérez (PDF)
 * [Curso Jakarta EE 9](https://danielme.com/curso-jakarta-ee-indice/) - Daniel Medina
 * [Desarrollando con Java 8: Poker](https://ia601504.us.archive.org/21/items/DesarrollandoConJava8Poker/DesarrollandoConJava8Poker.pdf) - David Pérez Cabrera (PDF)

@@ -187,12 +187,12 @@
 ### Java
 
 * [Aulões Spring Boot](https://www.youtube.com/playlist?list=PLiFLtuN04BS2yfbo3HYLNq_O1zDq9RRQi) - Giuliana Bezerra
+* [Curso de Estrutura de Dados com Java](https://youtu.be/Ly1To6_5eQM?si=p6X2EZIadl-goZR-) - Matheus Leandro Ferreira
 * [Curso de Java Básico](https://loiane.training/curso/java-basico) - Loiane Groner
 * [Curso de Java Intermediário](https://loiane.training/curso/java-intermediario) - Loiane Groner
 * [Curso de Java para Iniciantes - Grátis, Completo e com Certificado](https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR) - Gustavo Guanabara
 * [Curso de Programação Java para Iniciantes | Fundamentos + Programação Orientada Objetos](https://youtu.be/nODe5lFcGpg?si=TJkj5c8d9Cw60qhR) - Fernanda Kipper
 * [Curso de Programação Orientada a Objetos em Java - Grátis, Completo e com Certificado](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY) - Gustavo Guanabara
-* [Curso Gratis de Estrutura de Dados com Java](https://youtu.be/Ly1To6_5eQM?si=p6X2EZIadl-goZR-) - Matheus Leandro Ferreira
 * [Curso de Spring Boot - Criando um blog com Spring Boot e deploy na AWS Elastic Beanstalk](https://www.youtube.com/playlist?list=PL8iIphQOyG-AdKMQWtt1bqdVm8QUnX7_S) - Michelli Brito
 * [Curso de Spring Boot - Java - Do Absoluto Zero ao Deploy](https://www.youtube.com/watch?v=0V8OKTYNeU8) - Daniele Leão
 * [Curso de Spring para Iniciantes | Tutorial de Java Spring no Zero](https://www.youtube.com/watch?v=n8_qrrc8WN4) - Fiasco
@@ -204,8 +204,8 @@
 * [Estrutura de Dados com Java](https://www.youtube.com/playlist?list=PLCUSYmPGwekcXnzf6_UtgRM0OsOEGoiG_) - Matheus Leandro Ferreira
 * [Fundamentos do Java para Iniciantes](https://www.youtube.com/playlist?list=PLiFLtuN04BS2GSi8Q-haYkRy8KEv6Grvf) - Giuliana Bezerra
 * [Introdução a Programação Linguagem Java](https://www.youtube.com/playlist?list=PLCUSYmPGwekfDhQHllAkUZ30vOsxhVfhM) - Matheus Leandro Ferreira
-* [Introdução ao Java e Orientação a Objetos](https://www.udemy.com/introducao-ao-java-e-orientacao-a-objetos/) - Helder Guimaraes Aragao (Udemy)
 * [Introdução à Interfaces Gráficas em Java com o NetBeans](https://www.udemy.com/introducao-a-interface-grafica-em-java-com-o-netbeans/) - Cezar Augusto Crummenauer (Udemy)
+* [Introdução ao Java e Orientação a Objetos](https://www.udemy.com/introducao-ao-java-e-orientacao-a-objetos/) - Helder Guimaraes Aragao (Udemy)
 * [Java Avançado](https://www.youtube.com/playlist?list=PLiFLtuN04BS2bWB9UcIrun35kV080KoKU) - Giuliana Bezerra
 * [Java SE - Polimorfismo](https://www.udemy.com/java-se-polimorfismo/) - Fernando Franzini (Udemy)
 * [Maratona Java Virado no Jiraya](https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW) - DevDojo

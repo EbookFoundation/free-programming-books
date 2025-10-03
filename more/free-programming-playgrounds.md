@@ -39,6 +39,7 @@
 * [R](#r)
 * [React](#react)
 * [Redis](#redis)
+* [Rego](#rego)
 * [Regular Expressions](#regular-expressions)
 * [Ruby](#ruby)
 * [Rust](#rust)
@@ -363,6 +364,11 @@
 ### Redis
 
 * [Try Redis](https://try.redis.io)
+
+
+### Rego
+
+* [Rego Playground](https://play.openpolicyagent.org) - Open Policy Agent
 
 
 ### Regular Expressions

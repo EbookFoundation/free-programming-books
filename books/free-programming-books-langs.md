@@ -76,7 +76,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Haxe](#haxe)
 * [HTML and CSS](#html-and-css)
     * [Bootstrap](#bootstrap)
-    * [Tailwindcss](https://tailwindcss.com/docs) - Adam Wathan
+    * [TailwindCSS](#tailwindcss)
 * [HTTP](#http)
 * [HTTPS](#https)
 * [Icon](#icon)
@@ -1000,6 +1000,10 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Twitter Bootstrap 4 Succinctly](https://www.syncfusion.com/ebooks/twitterbootstrap4-succinctly) - Peter Shaw
 * [Twitter Bootstrap Succinctly](https://www.syncfusion.com/resources/techportal/details/ebooks/twitterbootstrap) - Peter Shaw
 
+
+#### TailwindCSS
+
+* [TailwindCSS Documentation](https://tailwindcss.com/docs)
 
 ### Icon
 

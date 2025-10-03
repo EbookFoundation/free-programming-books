@@ -127,6 +127,7 @@
 * [Informatica](https://didattica.polito.it/pls/portal30/sviluppo.videolezioni.vis?cor=232) - Marco Mezzalama, Politecnico di Torino
 * [Informatica di Base - Corso intensivo](https://www.youtube.com/playlist?list=PLG31HS6yEI8dv6TUmv9w0W6YmEAQm0P2q) - G. Pellegrini Parisi
 * [Informatica I - Modelli dell'Informatica](https://www.youtube.com/playlist?list=PLAQopGWlIcyalkb2baN9mnotsdBm5Vbkc) - A. Marchetti Spaccamela, Università La Sapienza di Roma
+* [Interview Time Informatica](https://www.youtube.com/playlist?list=PLCbSCJEIR6Co_sQhv5iRZvAVh604af-G7) - Mauro Cicolella
 * [Sistemi di Calcolo](https://www.youtube.com/playlist?list=PLAQopGWlIcybT12h7fjVvlGAeSqOKDnTA) - C. Demetrescu, Università La Sapienza di Roma
 * [Teoria dell'informazione](https://www.youtube.com/playlist?list=PL0qAPtx8YtJeGo5g4Esi7tm6kHPRivkvb) - Fabrizio Camuso
 

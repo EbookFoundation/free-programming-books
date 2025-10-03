@@ -240,7 +240,7 @@
 
 ### Meteor
 
-* [Apprendre Meteor](https://mquandalle.gitbooks.io/apprendre-meteor/content/) - Maxime Quandalle
+* [Apprendre Meteor](https://mquandalle.gitbooks.io/apprendre-meteor/content/) - Maxime Quandalle (HTML) (CC BY-NC-SA) *( :construction: in process)*
 
 
 ### Perl

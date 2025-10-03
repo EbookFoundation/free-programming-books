@@ -83,3 +83,12 @@
 ### WebGL
 
 * [WebGL'i kasutamine interaktiivsete graafikarakenduste loomiseks veebilehitsejas](http://www.cs.tlu.ee/teemaderegister/get_file.php?id=351) - Raner Piibur (PDF)
+
+
+## Contribute
+
+This list is maintained in the repository: https://github.com/pranavdate8788/free-programming-books
+
+If you'd like to contribute (add/remove links, fix formatting, or translate), please open a pull request or issue on the repository. See `CONTRIBUTING.md` for guidelines.
+
+_Last updated: 2025-10-03_

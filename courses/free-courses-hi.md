@@ -225,6 +225,7 @@
 ### <a id="asp.net"></a>ASP.NET
 
 * [ASP .Net in Hindi](https://www.youtube.com/playlist?list=PLbsXhdgwIKL1g2vE86yGBK_RYuqt98yWL) - ComputerHindiNotes
+* [ASP.NET CORE 8/9 MVC TUTORIAL IN HINDI](https://www.youtube.com/playlist?list=PLASTeDjso-U0MafqiUpAU49YoU-LHux02) - Indian School Of Coding
 * [ASP.NET Core Tutorials in Hindi](https://www.youtube.com/playlist?list=PL18HZjtdIA4Al-wYHC-i2TA-lgXLvHVmB) - Technology Keeda
 * [ASP.NET Course 2023](https://www.youtube.com/playlist?list=PLMoluEXvWXK6Q1h-5vVX4tzX7-O2FdgZA) - Coder Baba
 

@@ -177,8 +177,6 @@ Books on general-purpose programming that don't focus on a specific language are
     * [PyOpenCl](#pyopencl)
     * [Pyramid](#pyramid)
     * [Tornado](#tornado)
-    * [Dive into Deep Learning](https://d2l.ai/) 
-* [Natural Language Processing with Transformers](https://huggingface.co/learn/nlp-course) 
 * [Q#](#q-sharp)
 * [QML](#qml)
 * [R](#r)
@@ -1983,6 +1981,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Data Structures and Information Retrieval in Python](https://greenteapress.com/wp/data-structures-and-information-retrieval-in-python/) - Allen B. Downey
 * [Dive into Python 3](https://diveintopython3.problemsolving.io) - Mark Pilgrim (3.0)
     * [Dive into Python](https://linux.die.net/diveintopython/html/toc/index.html) - Mark Pilgrim (2.3)
+* [Dive into Deep Learning](https://d2l.ai) - Interactive deep learning book with code, math, and discussions, based on the NumPy interface.
 * [Essential Python](https://www.programming-books.io/essential/python/) - Krzysztof Kowalczyk, StackOverflow Contributors
 * [Full Stack Python](https://www.fullstackpython.com) - Matt Makai
 * [Functional Programming in Python](https://www.oreilly.com/ideas/functional-programming-in-python) - David Mertz  
@@ -1992,6 +1991,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Google's Python Style Guide](https://google.github.io/styleguide/pyguide.html)
 * [Hadoop with Python](https://www.oreilly.com/learning/hadoop-with-python) - Zachary Radtka, Donald Miner
 * [Hands-On Natural Language Processing with Python](https://www.packtpub.com/free-ebook/hands-on-natural-language-processing-with-python/9781789139495) - Rajesh Arumugam, Rajalingappaa Shanmugamani (Packt account *required*)
+*  [Natural Language Processing with Transformers](https://huggingface.co/learn/nlp-course) - A course by Hugging Face that teaches you everything about the Transformers library.
 * [Hands-on Python 3 Tutorial](https://anh.cs.luc.edu/handsonPythonTutorial) - Andrew N. Harrington (HTML)
 * [Hitchhiker's Guide to Python!](http://docs.python-guide.org/en/latest/) (2.6)
 * [How to Code in Python 3](https://assets.digitalocean.com/books/python/how-to-code-in-python.pdf) - Lisa Tagliaferri (PDF)

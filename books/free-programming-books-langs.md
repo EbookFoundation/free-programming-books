@@ -177,6 +177,8 @@ Books on general-purpose programming that don't focus on a specific language are
     * [PyOpenCl](#pyopencl)
     * [Pyramid](#pyramid)
     * [Tornado](#tornado)
+    * [Dive into Deep Learning](https://d2l.ai/) 
+* [Natural Language Processing with Transformers](https://huggingface.co/learn/nlp-course) 
 * [Q#](#q-sharp)
 * [QML](#qml)
 * [R](#r)

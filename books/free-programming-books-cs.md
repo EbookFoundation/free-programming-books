@@ -132,6 +132,14 @@
 * [Ponořme se do Pythonu 3](https://knihy.nic.cz/files/nic/edice/mark_pilgrim_dip3_ver3.pdf) - Mark Pilgrim (PDF)
 * [Učebnice jazyka Python](http://i.iinfo.cz/files/root/k/Ucebnice_jazyka_Python.pdf) (PDF)
 
+#### FastAPI
+
+* [API Development with FastAPI: Building Web APIs with Python](https://cdn.bookey.app/files/pdf/book/en/building-python-web-apis-with-fastapi.pdf) - Fernando Doglio
+
+* [FastAPI: The Complete Guide](https://www.cosmicpython.com/book/preface.html) - Matthew Gibbons
+* [FastAPI Made Simple](https://dokumen.pub/fastapi-fourth-release-9781098135508.html) - Sarah Skewes
+* [FastAPI for Python Developers](https://github.com/makskhaliosa/full-stack-fastapi-postgresql) - Michael Harrington
+* [Full Stack FastAPI and PostgreSQL](https://dokumen.pub/fastapi-modern-python-web-development-1nbsped-1098135504-9781098135508.html) - Sebastián Ramírez
 
 #### Django
 

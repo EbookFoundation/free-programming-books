@@ -79,8 +79,8 @@
 
 ### Language Agnostic
 
-* [Castálio Podcast](http://castalio.info) (podcast)
 * [Baltacast - Podcast do balta.io](https://www.youtube.com/playlist?list=PLHlHvK2lnJneed8g24W1e0Zz9q1uvD7wg) (podcast)
+* [Castálio Podcast](http://castalio.info) (podcast)
 * [DevNaEstrada](http://devnaestrada.com.br) (podcast)
 * [Experience Podcast - Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dlAL49NfFvf7lUP2jrcMlYQ) (podcast)
 * [Grok Podcast](http://www.grokpodcast.com) (podcast)

@@ -1624,6 +1624,8 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Maven by Example](http://books.sonatype.com/mvnex-book/reference/public-book.html)
 * [Maven: The Complete Reference](http://books.sonatype.com/mvnref-book/reference/public-book.html)
 * [Repository Management with Nexus](http://books.sonatype.com/nexus-book/reference/)
+* [Networking and Security with Linux (2019)](https://sandilands.info/nsl/nsl.pdf) - Steven Gordon (PDF, HTML)
+
 
 
 ### Mercury

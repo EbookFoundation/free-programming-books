@@ -91,7 +91,9 @@
 * [C++ Programming Language](https://www.geeksforgeeks.org/c-plus-plus/) - GeeksforGeeks
 * [C++ Tutorial](https://www.w3schools.com/cpp) - W3Schools
 * [C++ Tutorial](https://www.scaler.com/topics/cpp/) - Scaler Topics
+* [Codewars](https://www.codewars.com/?language=cpp) - Codewars
 * [CppKoans](https://github.com/torbjoernk/CppKoans)
+* [Exercism](https://exercism.org/tracks/cpp) - Exercism
 
 
 ### Clojure
@@ -164,6 +166,8 @@
 
 ### Go
 
+* [Codewars](https://www.codewars.com/?language=go) - Codewars
+* [Exercism](https://exercism.org/tracks/go) - Exercism
 * [Go Koans](https://github.com/cdarwin/go-koans)
 * [Go Tutorial](https://www.w3schools.com/go/) - W3Schools
 * [Learn Go](https://www.codecademy.com/learn/learn-go) - Google, Robert Griesemer, Rob Pike, and Ken Thompson (Codecademy) *(account required)*
@@ -218,6 +222,8 @@
 ### Java
 
 * [CodingBat code practice](http://codingbat.com/java)
+* [Codewars](https://www.codewars.com/?language=java) - Codewars
+* [Exercism](https://exercism.org/tracks/java) - Exercism
 * [Java at Codecademy](https://www.codecademy.com/courses/learn-java)
 * [Java Tutorial](https://www.w3schools.com/java) - W3Schools
 * [Java Tutorial](https://www.scaler.com/topics/java/) - Scaler Topics

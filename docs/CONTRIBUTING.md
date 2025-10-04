@@ -1,6 +1,18 @@
 *[Read this in other languages](README.md#translations)*
 
+## Getting Started
 
+Welcome! 🎉  
+Thank you for your interest in contributing to *Free Programming Books*.  
+If this is your first time contributing to an open-source project, don’t worry — follow these steps to get started easily:
+
+### 1. Fork this Repository
+Click the *Fork* button at the top right of this page to create your own copy of the repository.
+
+### 2. Clone Your Fork
+Clone your forked repository to your local machine:
+```bash
+git clone https://github.com/Aditya8369/free-programming-books.git
 ## Contributor License Agreement
 
 By contributing, you agree to the [LICENSE](../LICENSE) of this repository.

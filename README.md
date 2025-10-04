@@ -2,8 +2,8 @@
 
 <div align="center" markdown="1">
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)&#160;
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)&#160;
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) 
 [![Hacktoberfest 2025 stats](https://img.shields.io/github/hacktoberfest/2025/EbookFoundation/free-programming-books?label=Hacktoberfest+2025)](https://github.com/EbookFoundation/free-programming-books/pulls?q=is%3Apr+is%3Amerged+created%3A2025-10-01..2025-10-31)
 
 </div>
@@ -28,17 +28,77 @@ The list was moved to GitHub by Victor Felder for collaborative updating and mai
 
 <div align="center" markdown="1">
 
-[![GitHub repo forks](https://img.shields.io/github/forks/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=whitesmoke&label=Forks)](https://github.com/EbookFoundation/free-programming-books/network)&#160;
-[![GitHub repo stars](https://img.shields.io/github/stars/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=whitesmoke&label=Stars)](https://github.com/EbookFoundation/free-programming-books/stargazers)&#160;
+[![GitHub repo forks](https://img.shields.io/github/forks/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=whitesmoke&label=Forks)](https://github.com/EbookFoundation/free-programming-books/network) 
+[![GitHub repo stars](https://img.shields.io/github/stars/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=whitesmoke&label=Stars)](https://github.com/EbookFoundation/free-programming-books/stargazers) 
 [![GitHub repo contributors](https://img.shields.io/github/contributors-anon/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=whitesmoke&label=Contributors)](https://github.com/EbookFoundation/free-programming-books/graphs/contributors)    
-[![GitHub org sponsors](https://img.shields.io/github/sponsors/EbookFoundation?style=flat&logo=github&logoColor=whitesmoke&label=Sponsors)](https://github.com/sponsors/EbookFoundation)&#160;
-[![GitHub repo watchers](https://img.shields.io/github/watchers/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=whitesmoke&label=Watchers)](https://github.com/EbookFoundation/free-programming-books/watchers)&#160;
+[![GitHub org sponsors](https://img.shields.io/github/sponsors/EbookFoundation?style=flat&logo=github&logoColor=whitesmoke&label=Sponsors)](https://github.com/sponsors/EbookFoundation) 
+[![GitHub repo watchers](https://img.shields.io/github/watchers/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=whitesmoke&label=Watchers)](https://github.com/EbookFoundation/free-programming-books/watchers) 
 [![GitHub repo size](https://img.shields.io/github/repo-size/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=whitesmoke&label=Repo%20Size)](https://github.com/EbookFoundation/free-programming-books/archive/refs/heads/main.zip)
 
 </div>
 
 The [Free Ebook Foundation](https://ebookfoundation.org) now administers the repo, a not-for-profit organization devoted to promoting the creation, distribution, archiving, and sustainability of free ebooks. [Donations](https://ebookfoundation.org/contributions.html) to the Free Ebook Foundation are tax-deductible in the US.
 
+## Getting Started
+
+New to this repository? Here's how to get started with contributing to this massive collection of free programming resources.
+
+### Quick Navigation
+
+This repository contains thousands of free learning resources organized into several categories:
+
+- **[Books](books/)** - Programming books in multiple languages
+- **[Courses](courses/)** - Free online courses and tutorials  
+- **[Interactive Resources](more/)** - Hands-on programming tutorials
+- **[Podcasts & Screencasts](casts/)** - Audio and video learning content
+- **[Cheat Sheets](more/free-programming-cheatsheets.md)** - Quick reference guides
+
+### Making Your First Contribution
+
+Ready to add a resource or fix something? Follow these steps:
+
+1. **Fork the repository**
+   - Click the "Fork" button at the top of this page
+   - This creates your own copy of the repository
+
+2. **Clone your fork locally**
+```
+git clone https://github.com/YOUR-USERNAME/free-programming-books.git
+cd free-programming-b
+```
+3. **Create a new branch**
+```
+git checkout -b add-new-resource
+```
+4. 
+4. **Make your changes**
+- Add your resource to the appropriate file
+- Follow the formatting guidelines in [CONTRIBUTING.md](docs/CONTRIBUTING.md)
+- Keep entries in alphabetical order
+
+5. **Commit and push**
+```
+git add .
+git commit -m "Add [Resource Name] to [Category]"
+git push origin add-new-resource
+```
+6. **Create a Pull Request**
+- Go to your fork on GitHub
+- Click "New Pull Request"
+- Describe what you've added or changed
+
+### Before Contributing
+
+- Read our [Contributing Guidelines](docs/CONTRIBUTING.md) - **Essential reading!**
+- Check our [Code of Conduct](docs/CODE_OF_CONDUCT.md)
+- Browse [existing issues](https://github.com/EbookFoundation/free-programming-books/issues) to see if someone else is already working on what you want to add
+- Use our [search tool](https://ebookfoundation.github.io/free-programming-books-search/) to avoid duplicates
+
+### Need Help?
+
+- **New to GitHub?** Check out our [How-To Guide](docs/HOWTO.md)
+- **Questions about contributing?** Look for issues labeled [`good first issue`](https://github.com/EbookFoundation/free-programming-books/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
+- **Found a problem?** Create an [issue](https://github.com/EbookFoundation/free-programming-books/issues/new)
 
 ## How To Contribute
 
@@ -48,11 +108,11 @@ Click on these badges to see how you might be able to help:
 
 <div align="center" markdown="1">
 
-[![GitHub repo Issues](https://img.shields.io/github/issues/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=red&label=Issues)](https://github.com/EbookFoundation/free-programming-books/issues)&#160;
-[![GitHub repo Good Issues for newbies](https://img.shields.io/github/issues/EbookFoundation/free-programming-books/good%20first%20issue?style=flat&logo=github&logoColor=green&label=Good%20First%20issues)](https://github.com/EbookFoundation/free-programming-books/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)&#160;
+[![GitHub repo Issues](https://img.shields.io/github/issues/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=red&label=Issues)](https://github.com/EbookFoundation/free-programming-books/issues) 
+[![GitHub repo Good Issues for newbies](https://img.shields.io/github/issues/EbookFoundation/free-programming-books/good%20first%20issue?style=flat&logo=github&logoColor=green&label=Good%20First%20issues)](https://github.com/EbookFoundation/free-programming-books/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22) 
 [![GitHub Help Wanted issues](https://img.shields.io/github/issues/EbookFoundation/free-programming-books/help%20wanted?style=flat&logo=github&logoColor=b545d1&label=%22Help%20Wanted%22%20issues)](https://github.com/EbookFoundation/free-programming-books/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)    
-[![GitHub repo PRs](https://img.shields.io/github/issues-pr/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=orange&label=PRs)](https://github.com/EbookFoundation/free-programming-books/pulls)&#160;
-[![GitHub repo Merged PRs](https://img.shields.io/github/issues-search/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=green&label=Merged%20PRs&query=is%3Amerged)](https://github.com/EbookFoundation/free-programming-books/pulls?q=is%3Apr+is%3Amerged)&#160;
+[![GitHub repo PRs](https://img.shields.io/github/issues-pr/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=orange&label=PRs)](https://github.com/EbookFoundation/free-programming-books/pulls) 
+[![GitHub repo Merged PRs](https://img.shields.io/github/issues-search/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=green&label=Merged%20PRs&query=is%3Amerged)](https://github.com/EbookFoundation/free-programming-books/pulls?q=is%3Apr+is%3Amerged) 
 [![GitHub Help Wanted PRs](https://img.shields.io/github/issues-pr/EbookFoundation/free-programming-books/help%20wanted?style=flat&logo=github&logoColor=b545d1&label=%22Help%20Wanted%22%20PRs)](https://github.com/EbookFoundation/free-programming-books/pulls?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
 
 </div>
@@ -167,7 +227,6 @@ This project lists books and other resources grouped by genres:
 + [Urdu / اردو](courses/free-courses-ur.md)
 + [Vietnamese / Tiếng Việt](courses/free-courses-vi.md)
 
-
 ### Interactive Programming Resources
 
 + [Chinese / 中文](more/free-programming-interactive-tutorials-zh.md)
@@ -176,11 +235,9 @@ This project lists books and other resources grouped by genres:
 + [Japanese / 日本語](more/free-programming-interactive-tutorials-ja.md)
 + [Russian / Русский язык](more/free-programming-interactive-tutorials-ru.md)
 
-
 ### Problem Sets and Competitive Programming
 
 + [Problem Sets](more/problem-sets-competitive-programming.md)
-
 
 ### Podcast - Screencast
 
@@ -208,7 +265,6 @@ Free Podcasts and Screencasts:
 + [Turkish / Türkçe](casts/free-podcasts-screencasts-tr.md)
 + [Ukrainian / Українська](casts/free-podcasts-screencasts-uk.md)
 
-
 ### Programming Playgrounds
 
 Write, compile, and run your code within a browser. Try it out!
@@ -222,13 +278,12 @@ Write, compile, and run your code within a browser. Try it out!
 Volunteers have translated many of our Contributing, How-to, and Code of Conduct documents into languages covered by our lists.
 
 + English
-  + [Code of Conduct](docs/CODE_OF_CONDUCT.md)
-  + [Contributing](docs/CONTRIBUTING.md)
-  + [How-to](docs/HOWTO.md)
++ [Code of Conduct](docs/CODE_OF_CONDUCT.md)
++ [Contributing](docs/CONTRIBUTING.md)
++ [How-to](docs/HOWTO.md)
 + ... *[More languages](docs/README.md#translations)* ...
 
 You might notice that there are [some missing translations here](docs/README.md#translations) - perhaps you would like to help out by [contributing a translation](docs/CONTRIBUTING.md#help-out-by-contributing-a-translation)?
-
 
 ## License
 

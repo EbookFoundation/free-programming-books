@@ -209,6 +209,7 @@
 
 * [Curso de Javascript Completo](https://www.youtube.com/playlist?list=PL2Fdisxwzt_d590u3uad46W-kHA0PTjjw) - Programação Web
 * [Curso Grátis de JavaScript e ECMAScript para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) - Gustavo Guanabara (Curso em Vídeo)
+* [Curso Javacript do Zero](https://www.youtube.com/playlist?list=PLNCSWIsR6ADLpv3kir5rOX07nE3LXAPya) - Fernanda Kipper
 * [Curso Javascript Completo 2023 [Iniciantes] + 14 Mini-Projetos](https://www.youtube.com/watch?v=i6Oi-YtXnAU) - Jhonatan de Souza
 * [Fast & Furious](https://www.youtube.com/playlist?list=PLy5T05I_eQYOoUz2TtAqq35RLCc-xBZCe) - Codecasts
 * [Kubernetes para Devs Javascript](https://www.youtube.com/playlist?list=PLqFwRPueWb5ccEFVx5vOvrKlYT_uQ3aQw) - Erick Wendel, Lucas Santos

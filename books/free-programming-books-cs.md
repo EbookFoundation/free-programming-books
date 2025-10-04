@@ -134,10 +134,9 @@
 
 #### FastAPI
 
-* [API Development with FastAPI: Building Web APIs with Python](https://cdn.bookey.app/files/pdf/book/en/building-python-web-apis-with-fastapi.pdf) - Fernando Doglio
-
-* [FastAPI: The Complete Guide](https://www.cosmicpython.com/book/preface.html) - Matthew Gibbons
+* [API Development with FastAPI: Building Web APIs with Python](https://cdn.bookey.app/files/pdf/book/en/building-python-web-apis-with-fastapi.pdf) - Fernando Doglio (PDF)
 * [FastAPI Made Simple](https://dokumen.pub/fastapi-fourth-release-9781098135508.html) - Sarah Skewes
+* [FastAPI: The Complete Guide](https://www.cosmicpython.com/book/preface.html) - Matthew Gibbons
 
 
 #### Django

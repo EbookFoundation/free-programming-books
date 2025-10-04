@@ -149,9 +149,9 @@
 
 ### Procesadores de lenguaje
 
-* [Compiladores e Intérpretes (2012)](https://web.archive.org/web/20130613211947/http://ocw.uji.es/curso/4949) *(:card_file_box: archived)*
+* [Compiladores e Intérpretes (2012)](https://web.archive.org/web/20130613211947/http://ocw.uji.es/curso/4949) *( :card_file_box: archived)*
 * [Procesadores de lenguaje (2006)](https://ocw.ua.es/es/ingenieria-y-arquitectura/procesadores-de-lenguaje-2006.html)
-* [Procesadores de Lenguaje (2012)](https://web.archive.org/web/20130524191858/http://ocw.uji.es/curso/5180) *(:card_file_box: archived)*
+* [Procesadores de Lenguaje (2012)](https://web.archive.org/web/20130524191858/http://ocw.uji.es/curso/5180) *( :card_file_box: archived)*
 * [Procesadores de lenguajes -enfocado en Perl-](https://campusvirtual.ull.es/ocw/course/view.php?id=45)
 * [Procesadores de lenguajes II](https://ocw.uca.es/course/view.php?id=56)
 

@@ -70,6 +70,7 @@
 
 * [Corso C Italiano](https://www.youtube.com/playlist?list=PLP5MAKLy8lP9J2blw2HWEDnaNjmvUW-QG) - Edoardo Midali
 * [Corso di programmazione in C](https://www.youtube.com/playlist?list=PLO4y9a8lTpK2ugwPRLN_1oOrlzX9Zc9It) - R. Rizzi, Università di Verona
+* [Corso di programmazione in C](https://www.youtube.com/playlist?list=PLrEMgOSrS_3cFJpM2gdw8EGFyRBZOyAKY) - Salvatore Sanfilippo
 * [Linguaggio C - Corso completo](https://www.youtube.com/playlist?list=PL83Ordjpzm5oUl7tFEjc4iirkPBiv7FxR) - Programmazione Time
 
 

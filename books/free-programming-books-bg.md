@@ -50,3 +50,4 @@
 ### Python
 
 * [Основи на програмирането с Python](https://python-book.softuni.bg) - Светлин Наков и колектив
+

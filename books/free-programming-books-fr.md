@@ -15,7 +15,6 @@
 * [C / C++](#c--c)
 * [Caml / OCaml](#caml--ocaml)
 * [Chaîne de blocs / Blockchain](#chaîne-de-blocs--blockchain)
-* [Coq](#coq)
 * [Fortran](#fortran)
 * [Git](#git)
 * [Go](#go)
@@ -41,6 +40,7 @@
 * [Python](#python)
     * [Django](#django)
 * [R](#r)
+* [Rocq Prover](#rocq-prover)
 * [Ruby](#ruby)
 * [Rust](#rust)
 * [Sage](#sage)
@@ -91,7 +91,7 @@
 
 #### Mathématiques
 
-* [Approfondissements de lycée](https://fr.wikibooks.org/wiki/Approfondissements_de_lycée) - Wikibooks contributors, Zhuo Jia Dai, `ctb.:` R3m0t, `ctb.:` Martin Warmer (HTML) (:construction: *in process*)
+* [Approfondissements de lycée](https://fr.wikibooks.org/wiki/Approfondissements_de_lycée) - Wikibooks contributors, Zhuo Jia Dai, `ctb.:` R3m0t, `ctb.:` Martin Warmer (HTML) ( :construction: *in process*)
 
 
 #### Pédagogie pour les enfants et adolescents
@@ -137,11 +137,6 @@
 
 * [Maîtriser Bitcoin: Programmer la chaîne de blocs publique](https://bitcoin.maitriser.ca) - Andreas M. Antonopoulos, Serafim Dos Santos (asciidoc, HTML)
 * [Maîtriser Ethereum: Développer des contrats intelligents et des DApps](https://ethereum.maitriser.ca) - Andreas M. Antonopoulos, Gavin Wood, Serafim Dos Santos (asciidoc, HTML)
-
-
-### Coq
-
-* [Le Coq'Art (V8)](http://www.labri.fr/perso/casteran/CoqArt/) - Yves Bertot, Pierre Castéran
 
 
 ### Fortran
@@ -201,7 +196,7 @@
 * [Apprends LaTeX](http://www.babafou.eu.org/Apprends_LaTeX/Apprends_LaTeX.pdf) - Marc Baudoin (PDF)
 * [LaTeX... pour le prof de maths !](http://math.univ-lyon1.fr/irem/IMG/pdf/LatexPourLeProfDeMaths.pdf) - Arnaud Gazagnes (PDF)
 * [Tout ce que vous avez toujours voulu savoir sur LaTeX sans jamais oser le demander](http://framabook.org/tout-sur-latex/) - Vincent Lozano
-* [(Xe)LaTeX appliqué aux sciences humaines](https://web.archive.org/web/20220121031527/geekographie.maieul.net/95) - Maïeul Rouquette *(:card_file_box: archived)*
+* [(Xe)LaTeX appliqué aux sciences humaines](https://web.archive.org/web/20220121031527/geekographie.maieul.net/95) - Maïeul Rouquette *( :card_file_box: archived)*
 
 
 ##### KOMA-Script
@@ -239,13 +234,13 @@
 
 ### Lua
 
-* [Introduction à la programmation Lua](http://www.luteus.biz/Download/LoriotPro_Doc/LUA/LUA_Training_FR/Introduction_Programmation.html)
-* [Lua : le tutoriel](http://wxlua.developpez.com/tutoriels/lua/general/cours-complet/) - Claude Urban
+* [Introduction à la programmation Lua](https://web.archive.org/web/20240109085639/https://www.luteus.biz/Download/LoriotPro_Doc/LUA/LUA_Training_FR/Introduction_Programmation.html) (HTML) *( :card_file_box: archived)*
+* [Lua : le tutoriel](https://wxlua.developpez.com/tutoriels/lua/general/cours-complet/) - Claude Urban, `edt.:` Alexandre Laurent, ALT, Max (HTML, PDF)
 
 
 ### Meteor
 
-* [Apprendre Meteor](https://mquandalle.gitbooks.io/apprendre-meteor/content/) - Maxime Quandalle
+* [Apprendre Meteor](https://mquandalle.gitbooks.io/apprendre-meteor/content/) - Maxime Quandalle (HTML) (CC BY-NC-SA) *( :construction: in process)*
 
 
 ### Perl
@@ -257,7 +252,7 @@
 ### PHP
 
 * [Cours de PHP 5](http://g-rossolini.developpez.com/tutoriels/php/cours/?page=introduction) - Guillaume Rossolini
-* [Programmer en PHP](https://web.archive.org/web/20220327155108/lincoste.com/ebooks/pdf/informatique/programmer_php.pdf) - Julien Gaulmin (PDF) *(:card_file_box: archived)*
+* [Programmer en PHP](https://web.archive.org/web/20220327155108/lincoste.com/ebooks/pdf/informatique/programmer_php.pdf) - Julien Gaulmin (PDF) *( :card_file_box: archived)*
 
 
 #### Symfony
@@ -296,6 +291,11 @@
 * [Introduction à la programmation en R](http://cran.r-project.org/doc/contrib/Goulet_introduction_programmation_R.pdf) - Vincent Goulet (PDF)
 
 
+### Rocq Prover
+
+* [Le Coq'Art (V8)](http://www.labri.fr/perso/casteran/CoqArt/) - Yves Bertot, Pierre Castéran
+
+
 ### Ruby
 
 * [Ruby en vingt minutes](https://www.ruby-lang.org/fr/documentation/quickstart/)
@@ -304,7 +304,7 @@
 
 #### Ruby on Rails
 
-* [Tutoriel Ruby on Rails : Apprendre Rails par l'exemple](https://web.archive.org/web/20210801160026/french.railstutorial.org/chapters/beginning) - Michael Hartl *(:card_file_box: archived)*
+* [Tutoriel Ruby on Rails : Apprendre Rails par l'exemple](https://web.archive.org/web/20210801160026/french.railstutorial.org/chapters/beginning) - Michael Hartl *( :card_file_box: archived)*
 
 
 ### Rust

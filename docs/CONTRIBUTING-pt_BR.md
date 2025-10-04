@@ -132,13 +132,13 @@ Exemplo:
 - <a id="in_process"></a>Livros em processo:
 
     ```text
-    BOM  : * [Será Um Livro Incrível Em Breve](http://exemplo.com/livro2.html) - Fulano de Tal (HTML) *(:construction: em processo)*
+    BOM  : * [Será Um Livro Incrível Em Breve](http://exemplo.com/livro2.html) - Fulano de Tal (HTML) *( :construction: em processo)*
     ```
 
 - <a id="archived"></a>Archived link:
 
     ```text
-    BOM  : * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
+    BOM  : * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *( :card_file_box: archived)*
     ```
 
 ### Alphabetical order

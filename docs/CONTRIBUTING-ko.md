@@ -128,13 +128,13 @@
 - <a id="in_process"></a>작성 중인 책:
 
     ```text
-    GOOD: * [Will Be An Awesome Book Soon](http://example.com/book2.html) - John Doe (HTML) *(:construction: in process)*
+    GOOD: * [Will Be An Awesome Book Soon](http://example.com/book2.html) - John Doe (HTML) *( :construction: in process)*
     ```
 
 - <a id="archived"></a>아카이브된 링크:
 
     ```text
-    GOOD: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
+    GOOD: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *( :card_file_box: archived)*
     ```
 
 ### 알파벳 순서

@@ -40,7 +40,7 @@
 
 ### C
 
-* [Beej útmutatója a hálózati programozáshoz - Internet Socketek használatával](https://web.archive.org/web/20180630204236/http://weknowyourdreams.com/bgnet-sw.html) - Brian "Beej Jorgensen" Hall, Hajdu Gábor (HTML) *(:card_file_box: archived)*
+* [Beej útmutatója a hálózati programozáshoz - Internet Socketek használatával](https://web.archive.org/web/20180630204236/http://weknowyourdreams.com/bgnet-sw.html) - Brian "Beej Jorgensen" Hall, Hajdu Gábor (HTML) *( :card_file_box: archived)*
 
 
 ### <a id="cpp"></a>C++
@@ -70,7 +70,7 @@
 ### Lego Mindstorms
 
 * [A MINDSTORMS EV3 robotok programozásának alapjai](https://hdidakt.hu/wp-content/uploads/2016/01/dw_74.pdf) - Kiss Róbert (PDF)
-* [Egyszerű robotika, A Mindstorms NXT robotok programozásának alapjai](https://web.archive.org/web/20160607074029/http://www.banyai-kkt.sulinet.hu/robotika/Segedanyag/Egyszeru_robotika.pdf) - Kiss Róbert, Badó Zsolt (PDF) *(:card_file_box: archived)*
+* [Egyszerű robotika, A Mindstorms NXT robotok programozásának alapjai](https://web.archive.org/web/20160607074029/http://www.banyai-kkt.sulinet.hu/robotika/Segedanyag/Egyszeru_robotika.pdf) - Kiss Róbert, Badó Zsolt (PDF) *( :card_file_box: archived)*
 
 
 ### Lisp
@@ -115,7 +115,7 @@
 
 #### Django
 
-* [Django Girls Tutorial](https://tutorial.djangogirls.org/hu/) (1.11) (HTML) *(:construction: in process)*
+* [Django Girls Tutorial](https://tutorial.djangogirls.org/hu/) (1.11) (HTML) *( :construction: in process)*
 
 
 ### Windows Phone

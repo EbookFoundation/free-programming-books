@@ -74,7 +74,7 @@
 
 ### Java
 
-* [Darmowe kursy z Javy dla początkujących](https://web.archive.org/web/20220326010054/http://programowaniejava.pl/edukacja/darmowe-szkolenia.html) *(:card_file_box: archived)*
+* [Darmowe kursy z Javy dla początkujących](https://web.archive.org/web/20220326010054/http://programowaniejava.pl/edukacja/darmowe-szkolenia.html) *( :card_file_box: archived)*
 * [JAVA FX-wprowadzenie](https://www.youtube.com/playlist?list=PL-ikpm9wGd1HkA9PvGTYWZHtO-Xq_i_Mw)
 * [Java GUI: programowanie Graficznego Interfejsu Użytkownika](https://www.youtube.com/playlist?list=PL3298E3EB8CFDE9BA)
 * [Kurs JavaFX od podstaw](https://www.youtube.com/playlist?list=PLpzwMkmxJDUwQuQR7Rezut5UE_8UGDxkU)
@@ -92,7 +92,7 @@
 
 #### Vue.js
 
-* [FrontAndBack.pl - Kurs Vue w praktyce](https://web.archive.org/web/20221004101108/https://frontandback.pl/tags/kurs-vue-w-praktyce/) *(:card_file_box: archived)*
+* [FrontAndBack.pl - Kurs Vue w praktyce](https://web.archive.org/web/20221004101108/https://frontandback.pl/tags/kurs-vue-w-praktyce/) *( :card_file_box: archived)*
 
 
 ### MySQL

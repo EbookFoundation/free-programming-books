@@ -112,7 +112,7 @@
 
 #### Работа с сетью
 
-* [Наука о Сетях](http://networksciencebook.com) - Альберто Лазло-Барабаси *(:construction: в процессе написания)*
+* [Наука о Сетях](http://networksciencebook.com) - Альберто Лазло-Барабаси *( :construction: в процессе написания)*
 * [Разъяснение HTTP2](https://github.com/vlet/http2-explained/blob/master/http2.ru.pdf?raw=true) - Даниэль Штенберг (PDF)
 * [IPv6 для знатоков IPv4](https://sites.google.com/site/yartikhiy/home/ipv6book) - Ярослав Тихий (PDF, HTML, EPUB)
 
@@ -219,7 +219,7 @@
 * [Введение в программирование на Go](http://golang-book.ru) - Калеб Докси
 * [Руководство по языку Go](https://metanit.com/go/tutorial) - Евгений Попов
 * [Эффективный Go](https://github.com/Konstantin8105/Effective_Go_RU)
-* [Go в примерах](https://web.archive.org/web/20210727024101/https://gobyexample.ru) *(:card_file_box: archived)*
+* [Go в примерах](https://web.archive.org/web/20210727024101/https://gobyexample.ru) *( :card_file_box: archived)*
 * [Go для PHP-разработчиков](https://pahanini.gitbooks.io/golang-for-php-developers/content/) - Pavel Tetyaev (gitbook)
 * [The Little Go Book (перевод)](https://sefus.ru/little-go-book) - Karl Seguin, `trl.:` Roman Dolgolopov, Evgeny Popov, Alexander Dunin ([HTML](https://github.com/sefus/the-little-go-book/blob/master/ru/go.md), [EPUB](https://sefus.ru/dl/go.epub))
 
@@ -382,7 +382,7 @@
 ### Lisp
 
 * [Lisp In Small Pieces (translation)](https://github.com/ilammy/lisp)
-* [Practical Common Lisp (перевод)](https://web.archive.org/web/20220130051228/http://lisper.ru/pcl/) (HTML) *(:card_file_box: archived)*
+* [Practical Common Lisp (перевод)](https://web.archive.org/web/20220130051228/http://lisper.ru/pcl/) (HTML) *( :card_file_box: archived)*
 
 
 ### MetaPost
@@ -466,7 +466,7 @@
 
 ### Python
 
-* [Вглубь языка Python](https://web.archive.org/web/20170630204729/ru.diveintopython.net/toc.html) *(:card_file_box: archived)*
+* [Вглубь языка Python](https://web.archive.org/web/20170630204729/ru.diveintopython.net/toc.html) *( :card_file_box: archived)*
 * [Основы программирования на Python](http://dfedorov.spb.ru/python3) - Дмитрий Фёдоров (PDF)
 * [Пишем Telegram-ботов на Python (v2)](https://mastergroosha.github.io/telegram-tutorial-2/) - MasterGroosha
 * [Руководство по языку программирования Python](https://metanit.com/python/tutorial) - Евгений Попов
@@ -484,7 +484,7 @@
 #### Django
 
 * [Руководство по веб-фреймворку Django](https://metanit.com/python/django) - Евгений Попов
-* [Руководство Django Girls](https://tutorial.djangogirls.org/ru) (1.11) (HTML) *(:construction: в процессе написания)*
+* [Руководство Django Girls](https://tutorial.djangogirls.org/ru) (1.11) (HTML) *( :construction: в процессе написания)*
 
 
 #### Jupyter Notebook
@@ -526,7 +526,7 @@
 #### Ruby on Rails
 
 * [Ruby on Rails по-русски](http://rusrails.ru)
-* [Ruby on Rails Tutorial. Изучение Rails на Примерах](https://web.archive.org/web/20181124010958/railstutorial.ru/chapters/4_0/beginning) - Майкл Хартл *(:card_file_box: archived)*
+* [Ruby on Rails Tutorial. Изучение Rails на Примерах](https://web.archive.org/web/20181124010958/railstutorial.ru/chapters/4_0/beginning) - Майкл Хартл *( :card_file_box: archived)*
 
 
 ### Rust

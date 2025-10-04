@@ -302,7 +302,7 @@
 
 #### Operating systems
 
-* [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os) - Sergey Matyukevich *(:construction: in process)*
+* [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os) - Sergey Matyukevich *( :construction: in process)*
 * [Linux Journey - Fun and Easy](https://linuxjourney.com) - Cindy Quach
 * [Operating System Tutorial](https://www.scaler.com/topics/operating-system/) - Scaler Topics
 * [Practice Linux Commands (Hands-On Labs)](https://labex.io/tutorials/practice-linux-commands-free-tutorials-398420) - LabEx

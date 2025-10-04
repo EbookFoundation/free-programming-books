@@ -132,13 +132,13 @@
 - <a id="in_process"></a>In-process books:
 
     ```text
-    GOOD: * [Will Be An Awesome Book Soon](http://example.com/book2.html) - John Doe (HTML) (:construction: *in process*)
+    GOOD: * [Will Be An Awesome Book Soon](http://example.com/book2.html) - John Doe (HTML) ( :construction: *in process*)
     ```
 
 - <a id="archived"></a>Archived link:
 
     ```text
-    GOOD： * [ウェイバックされた面白い本](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
+    GOOD： * [ウェイバックされた面白い本](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *( :card_file_box: archived)*
      ```
 
 ### アルファベット順

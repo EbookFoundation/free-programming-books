@@ -30,4 +30,4 @@
 
 #### Django
 
-* [Príručka k Django Girls](https://tutorial.djangogirls.org/sk/) (1.11) (HTML) *(:construction: in process)*
+* [Príručka k Django Girls](https://tutorial.djangogirls.org/sk/) (1.11) (HTML) *( :construction: in process)*

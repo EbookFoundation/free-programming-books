@@ -134,13 +134,13 @@ Esempi:
 - <a id="in_process"></a>Libri in sviluppo:
 
     ```text
-    CORRETTO : * [Will Be An Awesome Book Soon](http://example.com/book2.html) - John Doe (HTML) *(:construction: in process)*
+    CORRETTO : * [Will Be An Awesome Book Soon](http://example.com/book2.html) - John Doe (HTML) *( :construction: in process)*
     ```
 
 - <a id="archived"></a>Link archiviato:
 
     ```text
-    CORRETTO : * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
+    CORRETTO : * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *( :card_file_box: archived)*
     ```
 
 ### Ordinamento alfabetico

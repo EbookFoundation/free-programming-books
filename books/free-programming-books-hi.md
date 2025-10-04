@@ -9,6 +9,7 @@
 * [Linux](#linux)
 * [Networking](#networking)
 * [Php](#php)
+* [Python](#python)
 
 
 ### C
@@ -66,3 +67,9 @@
 
 * [PHP In Hindi Tutorial](http://tutorialsroot.com/php/index.html) - TutorialsRoot.com
 * [PHP Tutorials In Hindi](https://www.learnhindituts.com/php) - LearnHindiTuts.com
+
+
+### Python
+
+* [Python In Hindi](https://www.scribd.com/document/656151789/Python-Book-PDF-in-Hindi) - Scribd (PDF)
+

@@ -16,9 +16,21 @@ By contributing, you agree to respect the [Code of Conduct](CODE_OF_CONDUCT.md) 
 1. "A link to easily download a book" is not always a link to a *free* book. Please only contribute free content. Make sure it's free. We do not accept links to pages that *require* working email addresses to obtain books, but we welcome listings that request them.
 
 2. You don't have to know Git: if you found something of interest which is *not already in this repo*, please open an [Issue](https://github.com/EbookFoundation/free-programming-books/issues) with your links propositions.
+3. ## Getting Started
+1. **Fork this repository** to your GitHub account.
+2. **Create a new branch** for your changes (for example: `git checkout -b docs/getting-started`).
+3. **Make a small change** to begin with:
+   - Fix a typo in a list
+   - Add a new free resource in the correct format
+   - Remove or replace a broken link
+4. **Follow formatting rules** described below (alphabetical ordering, link style, etc.).
+5. **Commit** with a clear message, e.g. `docs: add Getting Started section to contributing guide`.
+6. **Open a Pull Request** from your branch to `main`, and explain *what you changed* and *why*.
+7. **Respond to feedback** if maintainers request edits.
+    
     - If you know Git, please Fork the repo and send Pull Requests (PR).
 
-3. We have 6 kinds of lists. Choose the right one:
+4. We have 6 kinds of lists. Choose the right one:
 
     - *Books* : PDF, HTML, ePub, a gitbook.io based site, a Git repo, etc.
     - *Courses* : A course is a learning material which is not a book. [This is a course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
@@ -27,9 +39,9 @@ By contributing, you agree to respect the [Code of Conduct](CODE_OF_CONDUCT.md) 
     - *Podcasts and Screencasts* : Podcasts and screencasts.
     - *Problem Sets & Competitive Programming* : A website or software which lets you assess your programming skills by solving simple or complex problems, with or without code review, with or without comparing the results with other users.
 
-4. Make sure to follow the [guidelines below](#guidelines) and respect the [Markdown formatting](#formatting) of the files.
+5. Make sure to follow the [guidelines below](#guidelines) and respect the [Markdown formatting](#formatting) of the files.
 
-5. GitHub Actions will run tests to **make sure your lists are alphabetized** and **formatting rules are followed**. **Be sure** to check that your changes pass the tests.
+6. GitHub Actions will run tests to **make sure your lists are alphabetized** and **formatting rules are followed**. **Be sure** to check that your changes pass the tests.
 
 
 ### Guidelines

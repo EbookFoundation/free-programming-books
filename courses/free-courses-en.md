@@ -412,6 +412,7 @@
 * [C++ Tutorial for Complete Beginners](https://www.udemy.com/course/free-learn-c-tutorial-beginners/) - John Purcell (Udemy)
 * [C++ Tutorials](https://www.youtube.com/playlist?list=PL_c9BZzLwBRJVJsIfe97ey45V4LP_HXiG) - Caleb Curry
 * [C++ STL Complete Tutotial in One Video](https://youtu.be/RRVYpIET_RU?si=cGarnTa6IoVyTRby) - Striver (take U forward)
+* [C++ Algorithm Complete Playlist](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) - Abdul Bari Sir
 * [Google's C++ Course](https://developers.google.com/edu/c++/)
 * [Introduction to C++](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/) (MIT's OpenCourseWare)
 * [Introduction to C++](https://www.edx.org/course/introduction-to-c-3) - Microsoft (edX) ( :card_file_box: *archived*)

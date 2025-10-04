@@ -611,7 +611,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Asterisk™: The Definitive Guide](https://solmu.org/pub/help/Asterisk/3nd_Edition_for_Asterisk_1.8) - Leif Madsen, Jim Van Meggelen, Russell Bryant (HTML)
 * [Atomic Design](https://atomicdesign.bradfrost.com) - Brad Frost
 * [Barcode Overview](https://www.tec-it.com/download/PDF/Barcode_Reference_EN.pdf) (PDF)
-* [Build Secure & Reliable System - Best Practice for Designing, Implementing and Maintaining Systems](https://google.github.io/building-secure-and-reliable-systems/raw/toc.html) - Heather Adkins, Betsy Beyer, Paul Plankinship, Piotr Lewandowski, Ana Oprea & Adam Stubblefield (HTML)
+* [Build Secure & Reliable System - Best Practice for Designing, Implementing and Maintaining Systems](https://google.github.io/building-secure-and-reliable-systems/raw/toc.html) - Heather Adkins, Betsy Beyer, Paul Plankinship, Piotr Lewandowski, Ana Oprea, Adam Stubblefield (HTML)
 * [Come, Let's Play: Scenario-Based Programming Using Live Sequence Charts](https://www.wisdom.weizmann.ac.il/~playbook/) - David Harel, Rami Marelly
 * [Communicating Sequential Processes](http://www.usingcsp.com/cspbook.pdf) - Tony Hoare (PDF)
 * [Confessions of an Unintentional CTO: Lessons in Growing a Web App](https://www.jackkinsella.ie/books/confessions_of_an_unintentional_cto) - Jack Kinsella

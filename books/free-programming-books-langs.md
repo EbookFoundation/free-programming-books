@@ -567,6 +567,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 * [Chapel Tutorial](http://faculty.knox.edu/dbunde/teaching/chapel/)
 * [Chapel Tutorial for Programmers](http://web.archive.org/web/20150310075109/http://cs.colby.edu/kgburke/?resource=chapelTutorial) *( :card_file_box: archived)*
+* [Chapel Language Specification](https://chapel-lang.org/docs/) - Chapel Team (HTML)
 
 
 ### Clojure
@@ -644,6 +645,7 @@ Books on general-purpose programming that don't focus on a specific language are
 ### Crystal
 
 * [Crystal for Rubyists](http://www.crystalforrubyists.com)
+* [Crystal Programming Language Documentation](https://crystal-lang.org/reference/) - Crystal Lang Team (HTML)
 
 
 ### CUDA

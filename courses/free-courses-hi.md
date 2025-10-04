@@ -210,8 +210,8 @@
 * [C Language Tutorial For Beginners In Hindi (With Notes)](https://www.youtube.com/watch?v=ZSPZob_1TOk) - CodeWithHarry
 * [C Language Tutorial in Hindi](https://www.youtube.com/playlist?list=PLmRclvVt5DtksgReOH3s7R1_cb1QA8vrb) - codeitup
 * [C Language Tutorials In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR) - CodeWithHarry
-* [C Programming for Beginners](https://www.youtube.com/playlist?list=PL98qAXLA6aftD9ZlnjpLhdQAOFI8xIB6e) - Programiz
 * [C Programming Course](https://www.youtube.com/playlist?list=PLxgZQoSe9cg1drBnejUaDD9GEJBGQ5hMt) - College Wallah
+* [C Programming for Beginners](https://www.youtube.com/playlist?list=PL98qAXLA6aftD9ZlnjpLhdQAOFI8xIB6e) - Programiz
 * [C Programming Tutorials](https://www.youtube.com/playlist?list=PLiOa6ike4WAHH3HyPUu6pUG-r0LApvW-l) - Vikas Pandey, easytuts4you
 
 
@@ -742,7 +742,6 @@
 * [Django in Hindi](https://www.youtube.com/playlist?list=PLKkAfNrxxRKqYLB9bCqMXrvoYd13WVxOq) - Effcon Technology
 * [Django REST Framework (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhijTKyrlu-0g5GcP9nUp_HlN) - Rajesh Kumar, Geeky Shows
 * [Django Tutorial for Beginners(Hindi)](https://www.youtube.com/playlist?list=PLgPJX9sVy92yWUMgLpWrXtegKxrWLRnRv) - Vijay Manral, CS Geeks
-* [Django(Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhigchy8DTw4pX4duTTpvqlh6) - Rajesh Kumar, GeekyShows
 * [Python Django Tutorials In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ah7DDtYtflgwMwpT3xmjXY9) - CodeWithHarry
 
 

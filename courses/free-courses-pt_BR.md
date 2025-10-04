@@ -17,6 +17,7 @@
 * [Haskell](#haskell)
 * [HTML and CSS](#html-and-css)
 * [IDE and editors](#ide-and-editors)
+* [Inteligência Artificial](#inteligência-artificial)
 * [Ionic](#ionic)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -175,6 +176,10 @@
 * [Eclipse IDE para Desenvolvedores Java](https://www.udemy.com/eclipse-ide-para-desenvolvedores-java/) - Fernando Franzini (Udemy)
 * [Intellij IDE para Desenvolvedores Java](https://www.udemy.com/intellij-ide-para-desenvolvedores-java/) - Fernando Franzini (Udemy)
 * [Produtividade máxima com o VS Code (Visual Studio Code)](https://www.udemy.com/course/truques-vscode/) - Diego Martins de Pinho (Udemy)
+
+
+### Inteligência Artificial
+* [Curso Grátis de Inteligência Artificial](https://www.youtube.com/playlist?list=PLHz_AreHm4dm24MhlWJYiR_Rm7TFtvs6S) - Gustavo Guanabara (Curso em Vídeo)
 
 
 ### Ionic

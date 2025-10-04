@@ -1756,7 +1756,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### OpenResty
 
-* [Programming OpenResty](https://www.gitbook.com/book/openresty/programming-openresty/details)
+* [Programming OpenResty](https://openresty.gitbooks.io/programming-openresty/content/)
 
 
 ### OpenSCAD

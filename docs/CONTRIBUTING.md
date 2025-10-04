@@ -1,5 +1,20 @@
 *[Read this in other languages](README.md#translations)*
 
+## Getting Started
+
+Welcome! If you're new to open-source contributions (like for Hacktoberfest), here's a quick guide to get you set up and contributing confidently.
+
+1. Fork the repo: Click the "Fork" button on the top-right of the [main repo page](https://github.com/EbookFoundation/free-programming-books).
+2. Clone your fork locally: Open a terminal and run `git clone https://github.com/anshmittal2004/free-programming-books.git` (replace with your username if different).
+3. Create a branch: Run `git checkout -b your-feature-branch` (e.g., `add-getting-started-section`).
+4. Make your changes: Edit files as needed (like this one!).
+5. Commit your changes: Run `git add .` then `git commit -m "Brief description of your change, e.g., Add Getting Started section"`.
+6. Push to GitHub: Run `git push origin your-feature-branch`.
+7. Open a Pull Request (PR): Go to your fork on GitHub, click "Compare & pull request" from the branch, add a title and description (reference the issue like "Fixes #12150"), and submit.
+
+After your PR is open, the maintainers will review it. Feel free to ask questions in the comments!
+
+Now, continue with the rest of this guide for detailed rules on what to contribute.
 
 ## Contributor License Agreement
 

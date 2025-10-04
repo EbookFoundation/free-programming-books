@@ -87,6 +87,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Java](#java)
     * [Codename One](#codename-one)
     * [Java Reporting](#java-reporting)
+    * [Software Foundations](https://softwarefoundations.cis.upenn.edu/) - Benjamin C. Pierce et al. (HTML, PDF)
     * [Spring](#spring)
     * [Spring Boot](#spring-boot)
     * [Spring Data](#spring-data)

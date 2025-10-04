@@ -411,6 +411,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [The Linux Command Line](http://linuxcommand.org/tlcl.php) - William E. Shotts Jr. (PDF)
 * [The Shell Scripting Tutorial](https://www.shellscript.sh) - Steve Parker (HTML)
 * [Writing Shell Scripts](http://linuxcommand.org/lc3_writing_shell_scripts.php) - William E. Shotts Jr. (HTML)
+* [Networking and Security with Linux](https://sandilands.info/nsl/nsl.pdf) - Steven Gordon (PDF)
 
 
 ### Basic

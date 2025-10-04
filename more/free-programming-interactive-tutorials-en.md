@@ -229,6 +229,7 @@
 
 * [ABC of JavaScript : An Interactive JavaScript Tutorial](http://www.openjs.com/tutorials/basic_tutorial/)
 * [Codecademy jquery track](https://www.codecademy.com/learn/jquery)
+* [Exercism](https://exercism.org/tracks/javascript) - Exercism
 * [Functional Programming in Javascript](https://github.com/ReactiveX/learnrx)
 * [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) - freeCodeCamp
 * [JavaScript in 14 minutes](https://jgthms.com/javascript-in-14-minutes/) - Jeremy Thomas
@@ -296,6 +297,7 @@
 * [CodeCombat](http://codecombat.com) - Python, JavaScript, CoffeeScript, Clojure, Lua, Io
 * [Codility](https://codility.com/programmers/)
 * [Introduction to the Coding Interview Prep Algorithms](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms) (freeCodeCamp)
+* [LeetCode](https://leetcode.com) - LeetCode
 * [Python Tutor](http://pythontutor.com) - Python, Java, JavaScript, TypeScript, Ruby, C, C++
 * [The Fullstack Tutorial for GraphQL](https://www.howtographql.com)
 
@@ -375,8 +377,10 @@
 ### Python
 
 * [Codecademy Python course](https://www.codecademy.com/learn/python)
+* [Codewars](https://www.codewars.com/?language=python) - Codewars
 * [Computer Science Circles](https://cscircles.cemc.uwaterloo.ca) - Centre for Education in Mathematics and Computing (University of Waterloo)
 * [Data Analysis with Python Certification](https://www.freecodecamp.org/learn/data-analysis-with-python/) - freeCodeCamp
+* [Exercism](https://exercism.org/tracks/python) - Exercism
 * [Foundations of Python Programming](https://runestone.academy/ns/books/published/fopp/index.html) - Runestone Interactive
 * [futurecoder](https://futurecoder.io) - Alex Hall
 * [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html)

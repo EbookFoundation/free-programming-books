@@ -659,6 +659,7 @@
 * [DevOps Full Course ](https://www.youtube.com/watch?v=lpk7VpGqkKw) - Simplilearn
 * [DevOps Tutorial for Beginners](https://www.youtube.com/playlist?list=PLVHgQku8Z934suC9LSE6vaAKjOH_MfRbE) - Intellipaat
 * [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611) - Karl Krueger, Dwayne Lessner, Gundega Dekena (Udacity)
+* [DevOps 100 Days Challenge - Beginner Course](https://engineer.kodekloud.com/) - KodeKloude Engineer
 
 
 #### Ansible
@@ -671,6 +672,7 @@
 * [Getting Started with Ansible](https://www.youtube.com/playlist?list=PLT98CRl2KxKEUHie1m24-wkyHpEsa4Y70) - Learn Linux TV
 * [Red Hat Ansible Automation for SAP (RH045)](https://www.udemy.com/course/red-hat-ansible-automation-for-sap) - Red Hat, Inc. (Udemy)
 * [Use Ansible with Amazon Web Services](https://www.udemy.com/course/ansible-aws) - Rohit Abraham (Udemy)
+* [Ansible: Beginner Level to Professional](https://engineer.kodekloud.com/) - KodeKloude Engineer
 
 
 #### Chef
@@ -713,6 +715,7 @@
 * [Docker Tutorial for Beginners \| Full Course \[2021\]](https://www.youtube.com/watch?v=p28piYY_wv8) - Amigoscode
 * [Docker Tutorial Videos \| DevOps Tool](https://www.youtube.com/playlist?list=PL9ooVrP1hQOHUKuqGuiWLQoJ-LD25KxI5) - edureka!
 * [IIEC RISE 1.0 Docker](https://www.youtube.com/playlist?list=PLAi9X1uG6jZ30QGz7FZ55A27jPeY8EwkE)
+* [Docker: Beginner Level to Professional](https://engineer.kodekloud.com/) - KodeKloude Engineer
 
 
 ### Elastic
@@ -1299,6 +1302,7 @@
 * [Kubernetes Full Course in 7 Hours](https://www.youtube.com/watch?v=0j-iIW3_sbg) - Edureka
 * [Kubernetes Tutorial for Beginners](https://www.youtube.com/playlist?list=PLy7NrYWoggjziYQIDorlXjTvvwweTYoNC) - TechWorld with Nana
 * [Kubernetes Tutorial for Beginners](https://www.youtube.com/playlist?list=PL9ooVrP1hQOF907pPru97cKY9nKwOrDTP) - edureka!
+* [Kubernetes: Beginner Level to Professional](https://engineer.kodekloud.com/) - KodeKloude Engineer
 
 
 ### Linux
@@ -1762,6 +1766,7 @@
 * [Terraform tutorial for beginners Videos in English by Techworld with Murali](https://www.youtube.com/playlist?list=PLuJTeEt6HH9fUj7oRRLT0g1ttVl--Fv1T) - Murali
 * [Terraform Tutorials](https://www.youtube.com/playlist?list=PL2qzCKTbjutKff_ns750TFESQc44nlULv) - Narendra
 * [Terraform Zero to Hero](https://www.youtube.com/playlist?list=PLdpzxOOAlwvI0O4PeKVV1-yJoX2AqIWuf) - Abhishek Veeramalla
+* [Terraform Beginner to Professional](https://engineer.kodekloud.com/) - KodeKloude Engineer
 
 
 ### Theory

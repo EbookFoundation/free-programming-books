@@ -391,6 +391,7 @@
 
 * [Conceitos de Programação em Shell Script](https://www.udemy.com/conceitos-de-programacao-em-shell-script/) - TemWeb (Udemy)
 * [Curso de Shell Scripting - Programação no Linux](https://www.youtube.com/playlist?list=PLucm8g_ezqNrYgjXC8_CgbvHbvI7dDfhs) - Bóson Treinamentos
+* [Curso intensivo de programação em Bash](https://www.youtube.com/playlist?list=PLXoSGejyuQGr53w4IzUzbPCqR4HPOHjAI) - debxp
 * [Curso Shell GNU](https://www.youtube.com/playlist?list=PLXoSGejyuQGqJEEyo2fY3SA-QCKlF2rxO) - debxp
 
 
@@ -421,9 +422,14 @@
 
 #### Angular
 
+* [Angular](https://www.youtube.com/playlist?list=PLnDvRpP8Bnex2GQEN0768_AxZg_RaIGmw) - Matheus Battisti
+* [Angular 17 - 2024](https://www.youtube.com/playlist?list=PLWXw8Gu52TRKj3tFWHlkheh8rLQRqQ1__) - Ralf Lima
+* [Aprenda Angular Do Zero - primeiro passos](https://www.youtube.com/live/OmkmeBOAg44) - Fernanda Kipper
 * [Começando com Angular](https://balta.io/cursos/comecando-com-angular) - Andre Baltieri (balta.io)
 * [Curso Angular 9](https://www.youtube.com/playlist?list=PLdPPE0hUkt0rPyAkdhHIIquKbwrGUkvw3) - Cod3r
 * [Curso de Angular](https://loiane.training/curso/angular/) - Loiane Groner
+* [Curso de Angular 17](https://www.youtube.com/playlist?list=PLXEUJjGpEX7zwdFSAzIPiSf9p0tOeI1Yu) - Code Dimension
+* [Curso gratuito de Angular](https://www.youtube.com/playlist?list=PLhna1crYw0SOFqiss05ybqJCc6fvGn6BF) - Café com Bug
 
 
 ### WordPress

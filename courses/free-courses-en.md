@@ -6,6 +6,7 @@
 * [Android](#android)
 * [APL](#apl)
 * [Artificial Intelligence](#artificial-intelligence)
+    * [Generative AI](#generative-ai)
 * [Assembly](#assembly)
 * [AutoIt](#autoit)
 * [Ballerina](#ballerina)
@@ -280,6 +281,14 @@
 * [NLP Course](https://huggingface.co/learn/nlp-course) - Hugging Face
 * [NYU Artificial Intelligence SP24](https://www.youtube.com/playlist?list=PLLHTzKZzVU9cH26X9VQ14lIA0aPwZiZTx) - Alfredo Canziani, Ernest Davis
 * [Stanford CS221: Artificial Intelligence: Principles and Techniques \| Autumn 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX) - Stanford Online
+
+
+#### Generative AI
+
+* [CS236: Deep Generative Models](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8) - Stefano Ermon (Stanford Online)
+* [Deep Generative Models](https://www.youtube.com/playlist?list=PL2UML_KCiC0UPzjW9BjO-IW6dqliu9O4B) - Volodymyr Kuleshov
+* [Foundation Models and Generative AI](https://ocw.mit.edu/courses/6-s087-foundation-models-and-generative-ai-january-iap-2024) - Rickard Gabrielsson (MIT OpenCourseWare)
+* [Understanding Large Language Models — Foundations and Safety (CS 194/294-267)](https://www.youtube.com/playlist?list=PLJ66BAXN6D8H_gRQJGjmbnS5qCWoxJNfe) - Responsible Decentralized Intelligence (UC Berkeley EECS)
 
 
 ### Assembly
@@ -1760,6 +1769,7 @@
 * [Automata Theory](https://online.stanford.edu/courses/soe-ycsautomata-automata-theory)
 * [Formal Languages & Automata Theory](https://www.youtube.com/playlist?list=PLLvKknWU7N4zvTGcw9N2_7eZSTTkryb0U) - Lalit Vashistha
 * [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313) (Udacity)
+* [Theory of Computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020) - Michael Sipser (MIT OpenCourseWare)
 * [Theory of Computation](https://www.youtube.com/playlist?list=PLyqSpQzTE6M9-v4V62bCygAVYGluaijyo) - Subrahmanyam Kalyanasundaram
 * [Theory of Computation & Automata Theory](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev) - Neso Academy
 

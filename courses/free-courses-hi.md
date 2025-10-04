@@ -111,6 +111,7 @@
 * [Data Structure And Algorithms Course \| DSA Tutorial in Hindi](https://www.youtube.com/playlist?list=PLmGElG-9wxc9Us6IK6Qy-KHlG_F3IS6Q9) - ScoreShala
 * [Data Structure Programs \| Hindi](https://www.youtube.com/playlist?list=PLsFNQxKNzefJU-Sj__mljvrmJHZVKWbEm) - Saurabh Shukla
 * [Data Structure using Java](https://www.youtube.com/playlist?list=PLH9iLcrNpXtQYQiudzpZpGw0mptHc06Su) - ForMyScholars
+* [Data Structures by Nargish Gupta](https://www.youtube.com/playlist?list=PLPzfPcir5uPQ6LrB421cvMvcF3EcsGrr5) - NG Tutorials
 * [DSA-One Course- The Complete Data Structure and Algorithms Course](https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p) - Anuj Bhaiya
 * [Functions and Arrays - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHOV7lm2uSw4ZiVsIRsGS6r) - Pepcoding
 * [Generic Trees - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiEmjuIVDrwR9h5i9TT2CEU_) - Pepcoding
@@ -227,6 +228,7 @@
 * [ASP .Net in Hindi](https://www.youtube.com/playlist?list=PLbsXhdgwIKL1g2vE86yGBK_RYuqt98yWL) - ComputerHindiNotes
 * [ASP.NET Core Tutorials in Hindi](https://www.youtube.com/playlist?list=PL18HZjtdIA4Al-wYHC-i2TA-lgXLvHVmB) - Technology Keeda
 * [ASP.NET Course 2023](https://www.youtube.com/playlist?list=PLMoluEXvWXK6Q1h-5vVX4tzX7-O2FdgZA) - Coder Baba
+* [ASP.NET Web Forms Tutorial](https://www.youtube.com/playlist?list=PLp_RsiLZjwQS1FNXy0neuYgRGKNYPWpPk) - Programentor
 
 
 ### <a id="cpp"></a>C++
@@ -252,9 +254,9 @@
 
 * [Cloud Computing](https://www.youtube.com/playlist?list=PLYwpaL_SFmcCyQH0n9GHfwviu6KeJ46BV) - 5 Minutes Engineering
 * [Cloud Computing](https://www.youtube.com/playlist?list=PLDN4rrl48XKqNsrDogCpHsul3UHMC0Wdq) - Abdul Bari
+* [Cloud Computing (Complete Course)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiHRHVUtR-O52MsrdUSrzuy4) - Gate Smashers
 * [Cloud Computing Course Free](https://www.youtube.com/watch?v=lae0mfHBSjk) - Intellipaat
 * [Cloud Computing Tutorial](https://www.youtube.com/playlist?list=PL-JvKqQx2AtfQ8cGyKsFE7Tj2FyB1yCkd) - University Academy
- 
 
 
 #### AWS
@@ -324,6 +326,7 @@
 * [DevOps Training Tutorials For Beginners in Hindi](https://www.youtube.com/playlist?list=PLYEK_dHOjwtODYB46wFuc34muw9Gl5X5x) - Linux Wale Guruji
 * [DevOps Training Videos in Hindi](https://www.youtube.com/playlist?list=PLQbQOmlGYH3sxlq9ugoq1ipNFP7tus5Gd) - edureka! Hindi
 * [DevOps Tutorials in Hindi/Urdu \| Devops सीखने का सबसे आसान तरीका \| Complete Devops including Git,Jenkins,Maven,Chef,docker,Ansible and Kubernetes](https://www.youtube.com/playlist?list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10) - Bhupinder Rajput, Technical Guftgu
+* [Free Terraform Course](https://www.youtube.com/playlist?list=PLlfy9GnSVerQzwhT644uP14iqZa0ZC4pn) - TrainWithShubham
 * [Server Configuration, Deployment & VPS Tutorials For Beginners](https://www.youtube.com/playlist?list=PLu0W_9lII9aiBNXUisDdSmfNbsKq407XC) - CodeWithHarry
 
 
@@ -447,6 +450,7 @@
 
 ### Java
 
+* [Complete Java Programming Course 2025](https://www.youtube.com/playlist?list=PLA3GkZPtsafY62QhQ030p85HAer0pFDdr) - Engineering Digest
 * [Complete Java Programming in Hindi](https://www.youtube.com/playlist?list=PLmRclvVt5DtnqhXTJwd-oqVRwO3bLZCGV) - Anand Kumar, CodeitUp
 * [Core Java in Hindi](https://www.youtube.com/playlist?list=PLVlQHNRLflP8kPvCvEM7ZopbRB93joJXy) - Naresh i Technologies
 * [Core Java Programming (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhij8Oplrvjt_RlDliZQgdxoV) - Rajesh Kumar, Geeky Shows

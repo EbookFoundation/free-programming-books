@@ -109,13 +109,14 @@
 
 ### Docker
 
-* [Aprendendo Docker Do Zero - Introdução a Containers e imagens](https://youtu.be/wnAQWuTOXsA?si=iW-dovUi1Ga-mlN1) - Fiasco
 * [Curso de Docker Completo](https://www.youtube.com/playlist?list=PLg7nVxv7fa6dxsV1ftKI8FAm4YD6iZuI4) - Robert Silva
 * [Curso de Docker para iniciantes - aprenda Docker em 1 hora](https://www.youtube.com/watch?v=np_vyd7QlXk) - Matheus Battisti
 * [Curso de Introdução ao Docker](https://www.youtube.com/playlist?list=PLXzx948cNtr8N5zLNJNVYrvIG6hk0Kxl-) - Insight Lab
 * [Curso Gratuito de Docker](https://www.youtube.com/playlist?list=PLNCSWIsR6ADKRq-XBvAcRd4XtqLj3f_mf) - Fernanda Kipper
 * [Descomplicando o Docker](https://www.youtube.com/playlist?list=PLf-O3X2-mxDn1VpyU2q3fuI6YYeIWp5rR) - LINUXtips
 * [Docker](https://www.youtube.com/playlist?list=PLZfrXScDmaiNw3k2-TdfML9GhpsmOlhM3) - Fabricio Veronez
+* [Docker](https://www.youtube.com/playlist?list=PL5aY_NrL1rjsvaRqv_0HOFA_91lqJGRWe) - Full Cycle
+* [Docker](https://www.youtube.com/playlist?list=PLZTjHbp2Y78013IcGa-vCAcqQUwGt_MW6) - AlgaWorks
 * [Docker Essencial: Primeiros Passos](https://www.youtube.com/playlist?list=PLViOsriojeLrdw5VByn96gphHFxqH3O_N) - TechEduca
 * [Docker na prática](https://www.youtube.com/playlist?list=PLR8JXremim5BWiO-MCaAffQYwFZrD11-j) - Thiago Veigah
 * [Minicurso Docker](https://www.youtube.com/playlist?list=PLPqoPgWuohm6eTyf2_yczUDN0wpHpsjf1) - Iago Ferreira TI - Aprenda Cloud e DevOps do ZERO

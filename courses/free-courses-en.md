@@ -91,9 +91,10 @@
 * [PLC - Programmable logic controllers](#plc---programmable-logic-controllers)
 * [Processing](#processing)
 * [Python](#python)
-    * [Django](#django)
-    * [Flask](#flask)
-    * [Jupyter](#jupyter)
+  * [Django](#django)
+  * [FastAPI](#fastapi)
+  * [Flask](#flask)
+  * [Jupyter](#jupyter)
 * [QB64](#qb64)
 * [R](#r)
 * [Redis](#redis)
@@ -1585,6 +1586,11 @@
 * [Python Django Tutorial 2021](https://www.youtube.com/playlist?list=PL-51WBLyFTg1pUMaTJ4WSgnyvWfLGmwDm) - Dennis Ivy
 * [Python Django Web Framework - Full Course for Beginners](https://www.youtube.com/playlist?list=PLBfoYdk-WAlyr3cpOiOI4UXBfVVuF05e6) - freeCodeCamp (Justin Mitchel)
 * [Try Django 3.2 - Python Web Development Tutorial Series](https://www.youtube.com/playlist?list=PLEsfXFp6DpzRMby_cSoWTFw8zaMdTEXgL) - Justin Mitchel, CodingEntrepreneurs
+
+
+#### FastAPI
+
+* [FastAPI - A Python Framework | Full Course](https://www.youtube.com/watch?v=7t2alSnE2-I) - Bitfumes (YouTube)
 
 
 #### Flask

@@ -128,6 +128,7 @@ This project lists books and other resources grouped by genres:
 
 ### Free Online Courses
 
++ new line
 + [Arabic / al arabiya / العربية](courses/free-courses-ar.md)
 + [Bengali / বাংলা](courses/free-courses-bn.md)
 + [Bulgarian / български](courses/free-courses-bg.md)

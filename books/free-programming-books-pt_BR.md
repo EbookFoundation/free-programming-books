@@ -209,6 +209,7 @@
 
 ### Git
 
+* [Descomplicando Git](https://github.com/badtuxx/DescomplicandoGit) - Linuxtips
 * [Git - guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html) - Roger Dudler (HTML)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/) - Ben Lynn, `trl.:` Leonardo Siqueira Rodrigues (HTML, PDF)
 * [Minicurso - Controle de Versão usando o Git](https://github.com/ltiaunesp/Git-Minicurso) - LTIA UNESP, Marcelo Augusto Cordeiro

@@ -91,9 +91,7 @@
 * [C++ Programming Language](https://www.geeksforgeeks.org/c-plus-plus/) - GeeksforGeeks
 * [C++ Tutorial](https://www.w3schools.com/cpp) - W3Schools
 * [C++ Tutorial](https://www.scaler.com/topics/cpp/) - Scaler Topics
-* [Codewars](https://www.codewars.com/?language=cpp) - Codewars
 * [CppKoans](https://github.com/torbjoernk/CppKoans)
-* [Exercism](https://exercism.org/tracks/cpp) - Exercism
 
 
 ### Clojure
@@ -166,14 +164,12 @@
 
 ### Go
 
-* [Codewars](https://www.codewars.com/?language=go) - Codewars
-* [Exercism](https://exercism.org/tracks/go) - Exercism
 * [Go Koans](https://github.com/cdarwin/go-koans)
 * [Go Tutorial](https://www.w3schools.com/go/) - W3Schools
 * [Learn Go](https://www.codecademy.com/learn/learn-go) - Google, Robert Griesemer, Rob Pike, and Ken Thompson (Codecademy) *(account required)*
 * [Start using Go](https://docs.microsoft.com/en-us/learn/paths/go-first-steps/) - Microsoft
 * [TCP Servers in Go](https://app.codecrafters.io/concepts/go-tcp-server) - CodeCrafters
-* [The Go Tutorial](http://tour.golang.org)
+* [The Go Tutorial](https://tour.golang.org)
 
 
 ### GraphQL
@@ -221,13 +217,11 @@
 
 ### Java
 
-* [CodingBat code practice](http://codingbat.com/java)
-* [Codewars](https://www.codewars.com/?language=java) - Codewars
-* [Exercism](https://exercism.org/tracks/java) - Exercism
+* [CodingBat code practice](https://codingbat.com/java)
 * [Java at Codecademy](https://www.codecademy.com/courses/learn-java)
 * [Java Tutorial](https://www.w3schools.com/java) - W3Schools
 * [Java Tutorial](https://www.scaler.com/topics/java/) - Scaler Topics
-* [Learn Java](http://www.learnjavaonline.org)
+* [Learn Java](https://www.learnjavaonline.org)
 * [Learneroo Java tutorial](https://www.learneroo.com/modules/11)
 
 
@@ -246,12 +240,12 @@
 * [JavaScript Tutorial and Overview](https://www.afterhoursprogramming.com/tutorial/javascript/) - After Hours Programming
 * [Javascripting](https://github.com/sethvincent/javascripting)
 * [JSchallenger](https://www.jschallenger.com)
-* [Learn JavaScript](http://www.learn-js.org)
+* [Learn JavaScript](https://www.learn-js.org)
 * [Learn JavaScript](https://learnjavascript.online)
 * [Learn knockout.js](http://learn.knockoutjs.com)
 * [Learn to Code for Free – Grasshopper](https://grasshopper.app)
 * [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
-* [Try jQuery](http://try.jquery.com)
+* [Try jQuery](https://try.jquery.com)
 
 
 #### AngularJS

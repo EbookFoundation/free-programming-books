@@ -439,6 +439,11 @@
 * [Jupyter Cheatsheet](https://www.datacamp.com/cheat-sheet/jupyter-notebook-cheat-sheet) - Data Camp (HTML site with PDF links)
 
 
+#### Matplotlib
+
+* [Matplotlib Cheat Sheet: Plotting in Python](https://www.datacamp.com/cheat-sheet/matplotlib-cheat-sheet-plotting-in-python) - Data Camp (HTML site with PDF links)
+
+
 #### Numpy Pandas
 
 * [NumPy Cheat Sheet: Beginner to Advanced (PDF)](https://www.geeksforgeeks.org/numpy-cheat-sheet) - GeeksforGeeks (HTML,PDF)

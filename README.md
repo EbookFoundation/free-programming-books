@@ -20,6 +20,7 @@ This page is available as an easy-to-read website. Access it by clicking on [![h
   </form>
 </div>
 
+
 ## Intro
 
 This list was originally a clone of [StackOverflow - List of Freely Available Programming Books](https://web.archive.org/web/20140606191453/http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926) with contributions from Karan Bhangui and George Stocker.
@@ -39,6 +40,40 @@ The list was moved to GitHub by Victor Felder for collaborative updating and mai
 
 The [Free Ebook Foundation](https://ebookfoundation.org) now administers the repo, a not-for-profit organization devoted to promoting the creation, distribution, archiving, and sustainability of free ebooks. [Donations](https://ebookfoundation.org/contributions.html) to the Free Ebook Foundation are tax-deductible in the US.
 
+
+## Getting Started
+
+Want to contribute? Here's how to get started:
+
+1. **Fork the Repository**
+   - Click the "Fork" button in the top-right corner of this page
+   - This creates your own copy of the repository
+
+2. **Clone Your Fork**
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/free-programming-books.git
+   cd free-programming-books
+   ```
+
+3. **Create a Branch**
+   ```bash
+   git checkout -b your-branch-name
+   ```
+
+4. **Make Your Changes**
+   - Add or update resources following our [contribution guidelines](docs/CONTRIBUTING.md)
+   - Check that your changes match our [formatting requirements](docs/CONTRIBUTING.md#formatting)
+
+5. **Submit Your Contribution**
+   ```bash
+   git add .
+   git commit -m "Brief description of your changes"
+   git push origin your-branch-name
+   ```
+   - Go to GitHub and create a Pull Request from your fork
+   - Wait for review and address any feedback
+
+Need more help? Check out our detailed [How-to Guide](docs/HOWTO.md) for beginners.
 
 ## How To Contribute
 

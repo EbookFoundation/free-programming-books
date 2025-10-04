@@ -137,6 +137,7 @@
 ### Python
 
 * [Python Programlama Dili](https://python-istihza.yazbel.com) - YazBel Yazılım Belgelendirme Projesi - Python 3
+* [Python Programlama Dili](https://pybilim.wordpress.com) - Kaan Öztürk - Python 3
 
 
 #### Django

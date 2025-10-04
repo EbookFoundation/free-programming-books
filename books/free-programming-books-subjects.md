@@ -832,6 +832,10 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Prompt Engineering](https://www.innopreneur.io/wp-content/uploads/2025/04/22365_3_Prompt-Engineering_v7-1.pdf) - Lee Boonstra (PDF)
 * [Prompt Engineering Guide](https://learnprompting.org/docs/introduction) - LearnPrompting (HTML)
 * [Prompt Engineering Guide](https://www.promptingguide.ai) - DAIR.AI (HTML)
+* [LangChain: Introduction and Getting Started](https://www.pinecone.io/learn/series/langchain/langchain-intro/) - Pinecone Team (HTML)
+* [LangGraph Cookbook](https://github.com/abhishekmaroon5/langgraph-cookbook) - Abhishek Maroon (GitHub)
+* [Model Context Protocol (MCP) - Complete Deep Dive](https://www.scribd.com/document/880507979/Model-Context-Protocol-MCP-Complete-Deep-Dive) - Author (PDF)
+* [Model Context Protocol (MCP) - Guide With Demo Project](https://www.scribd.com/document/885885278/Model-Context-Protocol-MCP-a-Guide-With-Demo-Project-DataCamp) - DataCamp Team (PDF)
 
 
 ### Quantum Computing

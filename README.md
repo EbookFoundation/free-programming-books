@@ -20,6 +20,17 @@ This page is available as an easy-to-read website. Access it by clicking on [![h
   </form>
 </div>
 
+## Getting Started
+
+New to programming or looking for free learning resources? Here's how to navigate this repository:
+
+1. **Browse by Language**: Check [English Books by Programming Language](books/free-programming-books-langs.md) for resources in your preferred programming language
+2. **Browse by Subject**: Visit [English Books by Subject](books/free-programming-books-subjects.md) for topic-specific resources
+3. **Non-English Resources**: Select your language from the [Other Languages](#other-languages) section below
+4. **Interactive Learning**: Try [Interactive Tutorials](#interactive-programming-resources) for hands-on practice
+5. **Online Courses**: Explore [Free Online Courses](#free-online-courses) for structured learning
+6. **Search**: Use the [dynamic search site](https://ebookfoundation.github.io/free-programming-books-search/) to find specific topics
+
 ## Intro
 
 This list was originally a clone of [StackOverflow - List of Freely Available Programming Books](https://web.archive.org/web/20140606191453/http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926) with contributions from Karan Bhangui and George Stocker.

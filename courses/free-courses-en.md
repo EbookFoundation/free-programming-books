@@ -276,6 +276,7 @@
 * [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer) - Romeo Kienzler, Saeed Aghabozorgi, Joseph Santarcangelo, Alex Aklson et al. (Coursera)
 * [Intro to Claude AI](https://v2.scrimba.com/claude-ai-c09gsmkso3) - Shant Dashjian (Scrimba)
 * [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow) - DeepLearning.ai (Coursera)
+* [MCP: Build Rich-Context AI Apps with Anthropic](https://learn.deeplearning.ai/courses/mcp-build-rich-context-ai-apps-with-anthropic) - Elie Schoppik (DeepLearning.ai)
 * [MIT Deep Learning and Artificial Intelligence Lectures](https://deeplearning.mit.edu) - Lex Fridman, et al.
 * [MIT's Artificial Intelligence](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) - Patrick Henry Winston (MIT OpenCourseWare)
 * [NLP Course](https://huggingface.co/learn/nlp-course) - Hugging Face

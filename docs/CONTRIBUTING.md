@@ -1,5 +1,49 @@
 *[Read this in other languages](README.md#translations)*
 
+---
+
+## Getting Started
+
+1. **Fork this repository** to your GitHub account by clicking the "Fork" button on the top right.  
+
+2. **Clone your fork** locally:  
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/free-programming-books.git
+
+3. **Navigate to the project directory:**
+
+bash
+Copy code
+cd free-programming-books
+
+4. **Create a new branch for your contribution:**
+
+bash
+Copy code
+git checkout -b add-new-resource
+
+5. **Make your changes**
+
+- Add your resource (book, course, tutorial, etc.) in the appropriate file.
+- Follow the formatting rules and guidelines mentioned in this CONTRIBUTING.md.
+
+6. **Commit your changes:**
+
+bash
+Copy code
+git add .
+git commit -m "Added [Book Name] - [Author]"
+
+7. **Push to your fork:**
+
+bash
+Copy code
+git push origin add-new-resource
+
+8. **Open a Pull Request from your fork’s branch to the main branch of this repository.**
+
+---
+
 
 ## Contributor License Agreement
 

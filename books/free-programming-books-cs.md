@@ -138,8 +138,7 @@
 
 * [FastAPI: The Complete Guide](https://www.cosmicpython.com/book/preface.html) - Matthew Gibbons
 * [FastAPI Made Simple](https://dokumen.pub/fastapi-fourth-release-9781098135508.html) - Sarah Skewes
-* [FastAPI for Python Developers](https://github.com/makskhaliosa/full-stack-fastapi-postgresql) - Michael Harrington
-* [Full Stack FastAPI and PostgreSQL](https://dokumen.pub/fastapi-modern-python-web-development-1nbsped-1098135504-9781098135508.html) - Sebastián Ramírez
+
 
 #### Django
 

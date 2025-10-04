@@ -142,6 +142,7 @@
 
 * [Aprenda Go / Golang (Curso Tutorial de Programação)](https://www.youtube.com/playlist?list=PLUbb2i4BuuzCX8CLeArvx663_0a_hSguW) - NBK Mundo Tech
 * [Aprenda Go 🇧🇷](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg) - Aprenda Go
+* [Aprendendo Go](https://www.youtube.com/playlist?list=PLcF8UVYja9nacMX3sXbOV1Kqyc-GdaJTu) - Lais Lima
 * [Aprendendo GoLang](https://www.youtube.com/playlist?list=PLm-xZWCprwYSlEHjZDvhaq9izo3AVbiRO) - HunCoding
 * [Curso de Introdução a Linguagem Go (Golang)](https://www.youtube.com/playlist?list=PLXFk6ROPeWoAvLMyJ_PPfu8oF0-N_NgEI) - EuProgramador
 * [Curso Golang](https://www.youtube.com/playlist?list=PL3IMfVHTpXw14FL_TRIdHfeYTeOet1GS9) - Universo Mainframe
@@ -151,7 +152,6 @@
 * [Go 101 (Curso)](https://www.youtube.com/playlist?list=PLHPgIIn9ls6-1l7h8RUClMKPHi4NoKeQF) - Tiago Temporin
 * [Golang do Zero](https://www.youtube.com/playlist?list=PL5aY_NrL1rjucQqO21QH8KclsLDYu1BIg) - Full Cycle
 * [Golang do Zero](https://www.youtube.com/playlist?list=PLIIX-IKjIiwOpAr_kyvpxTVyvUoxXqGEQ) - Stephanie Cardoso
-* [Masterclass Golang 2024 - Explorando Conceitos Fundamentais da Linguagem Go](https://youtu.be/8BrZIPGPgK0?si=CeKgO6hqhxe9MnQT) - Codr Cursos
 * [Meu Primeiro CRUD em GoLang](https://www.youtube.com/playlist?list=PLm-xZWCprwYQ3gyCxJ8TR1L2ZnUOPvOpr) - HunCoding
 
 

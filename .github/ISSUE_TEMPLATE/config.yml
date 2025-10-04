@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions
+    url: https://github.com/EbookFoundation/free-programming-books/discussions
+    about: Ask questions here
+  - name: Contributing Guide
+    url: https://github.com/EbookFoundation/free-programming-books/blob/main/docs/CONTRIBUTING.md
+    about: Read before contributing

@@ -1,0 +1,24 @@
+name: Bug Report
+description: Found something broken?
+title: "Bug: "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: What's wrong?
+      placeholder: "Describe the issue"
+    validations:
+      required: true
+  
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Books
+        - Courses
+        - Website
+        - Other
+    validations:
+      required: true

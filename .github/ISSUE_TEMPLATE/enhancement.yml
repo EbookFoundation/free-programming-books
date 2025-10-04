@@ -1,0 +1,12 @@
+name: Enhancement
+description: Improve something existing
+title: "Enhancement: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: What should be improved?
+      placeholder: "Describe what you want to improve and how"
+    validations:
+      required: true

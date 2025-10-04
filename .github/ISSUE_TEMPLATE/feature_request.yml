@@ -1,0 +1,24 @@
+name: Feature Request
+description: Suggest something new
+title: "Feature: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: What would you like to see?
+      placeholder: "Describe your idea"
+    validations:
+      required: true
+  
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Books
+        - Courses
+        - Website
+        - Other
+    validations:
+      required: true

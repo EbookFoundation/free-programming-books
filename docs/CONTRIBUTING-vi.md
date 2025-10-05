@@ -142,13 +142,13 @@ Ví dụ:
 - <a id="in_process"></a>Sách đang trong quá trình viết:
 
     ```text
-    TỐT: * [Sách sẽ sớm trở nên tuyệt vời](http://example.com/book2.html) - John Doe (HTML) *(:construction: in process)*
+    TỐT: * [Sách sẽ sớm trở nên tuyệt vời](http://example.com/book2.html) - John Doe (HTML) *( :construction: in process)*
     ```
 
 - <a id="archived"></a>Liên kết đã lưu trữ:
 
     ```text
-    TỐT: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
+    TỐT: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *( :card_file_box: archived)*
     ```
 
 ### Thứ tự bảng chữ cái

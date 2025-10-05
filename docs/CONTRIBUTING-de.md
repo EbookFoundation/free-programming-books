@@ -132,13 +132,13 @@ Beispiel:
 - <a id="in_process"></a>Bücher in Bearbeitung:
 
     ```text
-    RICHTIG: * [Wird bald ein tolles Buch sein](http://example.com/book2.html) - John Doe (HTML) *(:construction: in Bearbeitung)*
+    RICHTIG: * [Wird bald ein tolles Buch sein](http://example.com/book2.html) - John Doe (HTML) *( :construction: in Bearbeitung)*
     ```
 
 - <a id="archived"></a>Archived link:
 
     ```text
-    RICHTIG: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
+    RICHTIG: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *( :card_file_box: archived)*
     ```
 
 ### Alphabetische Sortierung

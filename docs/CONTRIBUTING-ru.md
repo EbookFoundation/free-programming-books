@@ -137,13 +137,13 @@
 - <a id="in_process"></a>Незавершенные книги:
 
     ```text
-    ХОРОШО: * [Скоро будет отличная книга](http://example.com/book2.html) - Джон Доу (HTML) *(:construction: in process)*
+    ХОРОШО: * [Скоро будет отличная книга](http://example.com/book2.html) - Джон Доу (HTML) *( :construction: in process)*
     ```
 
 - <a id="archived"></a>Archived link:
 
     ```text
-    ХОРОШО: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: archived)*
+    ХОРОШО: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *( :card_file_box: archived)*
     ```
 
 ### Алфавитный порядок

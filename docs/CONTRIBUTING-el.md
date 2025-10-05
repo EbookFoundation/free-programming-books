@@ -137,13 +137,13 @@
 - <a id="in_process"></a>Βιβλία σε εξέλιξη:
 
     ```text
-    ΚΑΛΟ: * [Θα Είναι Σύντομα Ένα Φοβερό Βιβλίο](http://example.com/book2.html) - John Doe (HTML) *(:construction: σε εξέλιξη)*
+    ΚΑΛΟ: * [Θα Είναι Σύντομα Ένα Φοβερό Βιβλίο](http://example.com/book2.html) - John Doe (HTML) *( :construction: σε εξέλιξη)*
     ```
 
 - <a id="archived"></a>Αρχειοθετημένοι σύνδεσμοι:
 
     ```text
-    ΚΑΛΟ: * [Ένα Ενδιαφέρον Way-backed Βιβλίο](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: αρχειοθετημένο)*
+    ΚΑΛΟ: * [Ένα Ενδιαφέρον Way-backed Βιβλίο](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *( :card_file_box: αρχειοθετημένο)*
     ```
 
 ### Alphabetical order

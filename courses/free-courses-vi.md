@@ -356,7 +356,7 @@
 
 * [Khóa tự học machine learning cơ bản](https://www.youtube.com/playlist?list=PLZEIt444jqpBPoqtW2ARJp9ICnF3c7vJC) - Son Nguyen
 * [Lập trình Machine learning cơ bản với Python](https://www.youtube.com/playlist?list=PL33lvabfss1zLDVHXW_YUJxhxBFap-vm_) - K team
-* [Machine learing cơ bản](https://machinelearningcoban.com) - Vũ Hữu Tiệp *(:construction: in process)*
+* [Machine learing cơ bản](https://machinelearningcoban.com) - Vũ Hữu Tiệp *( :construction: in process)*
 * [Machine Learning](https://www.youtube.com/playlist?list=PLsWjY--3QXFWE1Nk6erXuTSf3QLC161pm) - Son Tran
 * [Machine Learning Cơ Bản](https://www.youtube.com/playlist?list=PLu-LVHS6JzYjoUuPAwcE9sff2NMrEH6KD) - Học Lập Trình cùng Phát
 * [Machine learning cơ bản (Học máy thống kê)](https://www.youtube.com/playlist?list=PLpDNYPX7w1RYeDSr3q0EJA978jjuMz4TX) - Bài Học 10 Phút

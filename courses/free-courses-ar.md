@@ -66,12 +66,12 @@
 * [Data Structure&rlm;](https://www.youtube.com/playlist?list=PLwCMLs3sjOY4UQq4vXgGPwGLVX1Y5faaS) - Hard-Code&rlm;
 * [Data Structure : JavaScript (leetcode problem solving)&rlm;](https://www.youtube.com/playlist?list=PLS-MrzRLZtmdIHJ-Osvv_sJO1Msc4VM_7) - Shadow Coding&rlm;
 * [Data Structure C++&lrm;&rlm;](https://www.youtube.com/playlist?list=PLsGJzJ8SQXTcsXRVviurGei0lf_t_I4D8) - Mega Code&rlm;
-* [Data Structures and Algorithms&rlm;](https://www.youtube.com/playlist?list=PL0vtyWBHY2NVOtPYuz0rNw6kmuLmVZ780) - Tarek Alabd&rlm; (:construction: *in process*&rlm;)
+* [Data Structures and Algorithms&rlm;](https://www.youtube.com/playlist?list=PL0vtyWBHY2NVOtPYuz0rNw6kmuLmVZ780) - Tarek Alabd&rlm; ( :construction: *in process*&rlm;)
 * [Data Structures Full Course In Arabic&rlm;](https://www.youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp) - Adel Nasim&rlm;
 * [grokking-algorithms&rlm;](https://www.youtube.com/playlist?list=PLIxq078xdGdZl38Yx2IhYc_YpKjx7MAXW) - Nehal Elsamoly&rlm;
 * [Problem solving (Arabic)&rlm;](https://www.youtube.com/playlist?list=PLYknlDiw2kSwdDhTSDoX7ZoVEle8nbZdk) - Muhammed Afifi&rlm;
 * [Problems Solving With C++ Level One&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyX4CCOP--TR36SfD5g7gru) - Elzero Web School&rlm;
-* [Problems Solving With C++ Level Two&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwgefuRqj8OB5ioMT1eC_EZ) - Elzero Web School&rlm; (:construction: *in process*&rlm;)
+* [Problems Solving With C++ Level Two&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwgefuRqj8OB5ioMT1eC_EZ) - Elzero Web School&rlm; ( :construction: *in process*&rlm;)
 * [Sorting algorithms \|&rlm; خوارزميات الترتيب](https://www.youtube.com/playlist?list=PLINp1xZ5bPrpmnL0cdk80czipnIqPAzWH) - DevLoopers&rlm;
 * [Standard Template Library (STL) Full Tutorial Using C++ In Arabic&rlm;](https://www.youtube.com/playlist?list=PLCInYL3l2AainAE4Xq2kdNGDfG0bys2xp) - Adel Nasim&rlm;
 
@@ -133,7 +133,7 @@
 * [CS Master - Level 4 - Object Oriented Programming & Design Patterns&rlm;](https://www.youtube.com/playlist?list=PLL2zWZTDFZzhul3X8djkfXzUxl7Cw7-sF) - KMR Script&rlm;
 * [Fundamentals Of Programming With C++&lrm;&rlm;](https://www.youtube.com/playlist?list=PLDoPjvoNmBAwy-rS6WKudwVeb_x63EzgS) - Elzero Web School&rlm;
 * [Introduction to Programming Using C++&lrm;&rlm;](https://www.youtube.com/playlist?list=PL3X--QIIK-OFIRbOHbOXbcfSAvw198lUy) - Programming Advices&rlm;
-* [Modern c++&lrm;&rlm;](https://www.youtube.com/playlist?list=PLkH1REggdbJpykrlVYYRteEstS6F4VNtP) - Moatasem El Sayed&rlm; *(:construction: in process)*
+* [Modern c++&lrm;&rlm;](https://www.youtube.com/playlist?list=PLkH1REggdbJpykrlVYYRteEstS6F4VNtP) - Moatasem El Sayed&rlm; *( :construction: in process)*
 * [Object-Oriented Programming C++ in Arabic&rlm;](https://www.youtube.com/playlist?list=PLCInYL3l2Aaiq1oLvi9TlWtArJyAuCVow) - Adel Nasim&rlm;
 * [Object-Oriented Programming with C++&lrm;&rlm;](https://www.youtube.com/playlist?list=PLMm8EjqH1EFXG_-EgmKb1gxW5S4XaQYaE) - Ahmed Sallam&rlm;
 * [Programming 1 - Programming For Beginners - C++&lrm;&rlm;](https://www.youtube.com/playlist?list=PL1DUmTEdeA6IUD9Gt5rZlQfbZyAWXd-oD) - محمد الدسوقي
@@ -168,8 +168,8 @@
 * [CS Master - Level 2- Dive into the Computer&rlm; كيف يعمل الكمبيوتر](https://www.youtube.com/playlist?list=PLL2zWZTDFZziX_xS2bbGfLAOHVmlzURhF) - KMR Script&rlm;
 * [CS50 in Arabic&rlm;](https://www.youtube.com/playlist?list=PLL2zWZTDFZzibJ49gBM2owqCzda8meSNj) - KMR Script&rlm;
 * [CS50 In Arabic&rlm;](https://www.youtube.com/playlist?list=PLnrlZUDQofUv7JE4QIahAyztrQU9bnJmd) - Coders Camp - Rasha Abdeen&rlm;
-* [Cs50 In Arabic 2022 \|&rlm; كورس cs50&rlm; بالعربي كامل](https://www.youtube.com/playlist?list=PLknwEmKsW8OvsdJ64v5YljHNtt100kN6w) - Abdelrahman Gamal&rlm; *(:construction: in process)*
-* [Distributed Systems Design Patterns&rlm;](https://www.youtube.com/playlist?list=PLZafHDYyxnk6ssRA-8LzMpep1MrqocFiY) - Mahmoud Youssef -&rlm; محمود يوسف *(:construction: in process)*
+* [Cs50 In Arabic 2022 \|&rlm; كورس cs50&rlm; بالعربي كامل](https://www.youtube.com/playlist?list=PLknwEmKsW8OvsdJ64v5YljHNtt100kN6w) - Abdelrahman Gamal&rlm; *( :construction: in process)*
+* [Distributed Systems Design Patterns&rlm;](https://www.youtube.com/playlist?list=PLZafHDYyxnk6ssRA-8LzMpep1MrqocFiY) - Mahmoud Youssef -&rlm; محمود يوسف *( :construction: in process)*
 
 
 ### Dart
@@ -432,7 +432,7 @@
 
 ## Microservice 
 
-* [Building Microservices&rlm;](https://www.youtube.com/playlist?list=PLZafHDYyxnk5kALJAZKVAqjcJpG6ngsFq) - Mahmoud Youssef - &rlm;محمود يوسف *(:construction: in process)*
+* [Building Microservices&rlm;](https://www.youtube.com/playlist?list=PLZafHDYyxnk5kALJAZKVAqjcJpG6ngsFq) - Mahmoud Youssef - &rlm;محمود يوسف *( :construction: in process)*
 * [Microservice&rlm; بالعربي](https://www.youtube.com/playlist?list=PLZd2bo_SbAm-LKJ_x_OuOZtuwEFqbJ5B7) - Ismail Anjrini&rlm;
 * [Microservices Architecture in Arabic&rlm;](https://www.youtube.com/playlist?list=PLgAqrVq84PDdfiDow3YVsgc1q34JD415Z) - Software Architecture Talks in Arabic&rlm;
 
@@ -572,22 +572,22 @@
 
 ### Software Architecture
 
-* [Behavioral Design Patterns&rlm; بالعربى](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdex66Z6ViaYFQqvFD1C_G7j) - Mohammed Reda&rlm; *(:construction: in process)*
+* [Behavioral Design Patterns&rlm; بالعربى](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdex66Z6ViaYFQqvFD1C_G7j) - Mohammed Reda&rlm; *( :construction: in process)*
 * [Clean Code Book -&rlm; بالعربي](https://www.youtube.com/playlist?list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX) - Omar Ahmed&rlm;
 * [Creational Design Patterns&rlm; بالعربى](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdewk9UKGBcHLulZNUBpNSKJ) - Mohammed Reda&rlm;
 * [Declarative Programming](https://www.youtube.com/playlist?list=PLpbZuj8hP-I6F-Zj1Ay8nQ1rMnmFnlK2f) - &rlm;درة الاكواد لابن حماد
-* [Design patterns&rlm;](https://www.youtube.com/playlist?list=PLIxq078xdGdYIo2Slyt4XvBElKDcTSgHM) - Nehal Elsamoly&rlm; *(:construction: in process)*
-* [Design Patterns&rlm;](https://www.youtube.com/playlist?list=PLsV97AQt78NTrqUAZM562JbR3ljX19JFR) - Passionate Coders \| &rlm;محمد المهدي *(:construction: in process)*
-* [Design Patterns -&rlm; بالعربي](https://www.youtube.com/playlist?list=PLwWuxCLlF_uczNpsoKEEi7zHcuL07Otos) - Omar Ahmed&rlm; *(:construction: in process)*
+* [Design patterns&rlm;](https://www.youtube.com/playlist?list=PLIxq078xdGdYIo2Slyt4XvBElKDcTSgHM) - Nehal Elsamoly&rlm; *( :construction: in process)*
+* [Design Patterns&rlm;](https://www.youtube.com/playlist?list=PLsV97AQt78NTrqUAZM562JbR3ljX19JFR) - Passionate Coders \| &rlm;محمد المهدي *( :construction: in process)*
+* [Design Patterns -&rlm; بالعربي](https://www.youtube.com/playlist?list=PLwWuxCLlF_uczNpsoKEEi7zHcuL07Otos) - Omar Ahmed&rlm; *( :construction: in process)*
 * [Software Design Patterns&rlm;](https://www.youtube.com/playlist?app=desktop&list=PLrwRNJX9gLs3oQyBoXtYimY7M5aSF0_oC) - محمد يحيى
-* [SOLID Principles&rlm;](https://www.youtube.com/playlist?list=PLZafHDYyxnk7fKmAuCJhWTMwJZ89f0Tug) - Mahmoud Youssef -&rlm; محمود يوسف *(:construction: in process)*
+* [SOLID Principles&rlm;](https://www.youtube.com/playlist?list=PLZafHDYyxnk7fKmAuCJhWTMwJZ89f0Tug) - Mahmoud Youssef -&rlm; محمود يوسف *( :construction: in process)*
 * [SOLID Principles&rlm;](https://www.youtube.com/playlist?list=PLsV97AQt78NRT1GmH2EJ-o-2_ILFM9feq) - Passionate Coders \|&rlm; محمد المهدي
 * [Solid Principles \| Uncle bob&rlm;](https://www.youtube.com/playlist?list=PLINp1xZ5bPrqtE3Hee3vnyrHCaOyMADBt) - DevLoopers&rlm;
 * [SOLID Principles&rlm; بالعربى](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdflFSS4NigVB7aSoYPNwHTL) -  Mohammed Reda&rlm;
 * [SOLID Principles&rlm; بالعربي](https://www.youtube.com/playlist?list=PLwWuxCLlF_uevri_OpofVLXkRRFnZ7TSV) - Omar Ahmed&rlm;
 * [Structural Design Patterns&rlm; بالعربى](https://www.youtube.com/playlist?list=PLnqAlQ9hFYdcW3viz_oXRal_FNkg2Dssm) - Mohammed Reda&rlm;
-* [Tennis Game Refactoring Kata&rlm;](https://www.youtube.com/playlist?list=PLZafHDYyxnk7XNSOaQsb8GyeuGWk75WDy) - Mahmoud Youssef - &rlm;محمود يوسف *(:construction: in process)*
-* [Write Better Code With Refactoring&rlm;](https://www.youtube.com/playlist?list=PLZafHDYyxnk5h31weDexEeNtchOgqR2ji) - Mahmoud Youssef - &rlm;محمود يوسف *(:construction: in process)*
+* [Tennis Game Refactoring Kata&rlm;](https://www.youtube.com/playlist?list=PLZafHDYyxnk7XNSOaQsb8GyeuGWk75WDy) - Mahmoud Youssef - &rlm;محمود يوسف *( :construction: in process)*
+* [Write Better Code With Refactoring&rlm;](https://www.youtube.com/playlist?list=PLZafHDYyxnk5h31weDexEeNtchOgqR2ji) - Mahmoud Youssef - &rlm;محمود يوسف *( :construction: in process)*
 
 
 ### TypeScript

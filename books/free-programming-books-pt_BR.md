@@ -112,6 +112,7 @@
 
 ### Banco de Dados
 
+* [Introdução a Banco de Dados](https://www.ime.usp.br/~jef/apostila.pdf) - Osvaldo Kotaro Takai Isabel (PDF)
 * [Introdução a Banco de Dados](https://educapes.capes.gov.br/bitstream/capes/564494/2/FASCICULO_Introducao_Banco_Dados_30_08.pdf) - Joyce Aline de Oliveira Marins, Gracyeli Santos Souza Guarienti (PDF)
 
 

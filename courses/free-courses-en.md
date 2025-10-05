@@ -277,6 +277,7 @@
 * [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer) - Romeo Kienzler, Saeed Aghabozorgi, Joseph Santarcangelo, Alex Aklson et al. (Coursera)
 * [Intro to Claude AI](https://v2.scrimba.com/claude-ai-c09gsmkso3) - Shant Dashjian (Scrimba)
 * [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow) - DeepLearning.ai (Coursera)
+* [LangGraph Cookbook](https://github.com/abhishekmaroon5/langgraph-cookbook) - Abhishek Maroon (GitHub)
 * [LLM Course](https://huggingface.co/learn/llm-course/chapter0/1) - Hugging Face
 * [MCP Course](https://huggingface.co/learn/mcp-course/unit0/introduction) - Hugging Face
 * [MIT Deep Learning and Artificial Intelligence Lectures](https://deeplearning.mit.edu) - Lex Fridman, et al.

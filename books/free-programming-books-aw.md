@@ -1,22 +1,21 @@
 
 ### Index
 
-* [OPERATING SYSTEM](#operating-system)
-* [RUST](#rust)
-* [NATURAL LANGUAGE PROCESSING](#natural-language-processing)
+* [Natural Language Processing](#natural-language-processing)
+* [Operating System](#operating-system)
+* [Rust](#rust)
 
 
+### Natural Language Processing
 
-### OPERATING SYSTEM
-
-* [Principles of Operating Systems](https://pdfcoffee.com/qdownload/principles-of-operating-systems-pdf-free.html) ( :card_file_box: archived)
-
-
-### RUST
-
-* [The Rust Programming Language](https://dl.ebooksworld.ir/motoman/No.Starch.Press.The.Rust.Programming.Language.www.EBooksWorld.ir.pdf) ( :card_file_box: archived)
+* [Natural Language Processing with Python](https://cseweb.ucsd.edu/~nnakashole/teaching/eisenstein-nov18.pdf) (PDF) - Jacob Eisenstein
 
 
-### NATURAL LANGUAGE PROCESSING
+### Operating System
 
-* [Natural Language Processing with Python](https://cseweb.ucsd.edu/~nnakashole/teaching/eisenstein-nov18.pdf) ( :card_file_box: archived)
+* [Principles of Operating Systems](https://pdfcoffee.com/qdownload/principles-of-operating-systems-pdf-free.html) (PDF) - Naresh Chauhan
+
+
+### Rust
+
+* [The Rust Programming Language](https://dl.ebooksworld.ir/motoman/No.Starch.Press.The.Rust.Programming.Language.www.EBooksWorld.ir.pdf) (PDF) - Steve Klabnik and Carol Nichols

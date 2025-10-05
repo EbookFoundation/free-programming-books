@@ -441,7 +441,7 @@
 
 #### Matplotlib
 
-* [Matplotlib Cheat Sheet: Plotting in Python](https://www.datacamp.com/cheat-sheet/matplotlib-cheat-sheet-plotting-in-python) - Data Camp (HTML site with PDF links)
+* [Matplotlib Cheat Sheet: Plotting in Python](https://www.datacamp.com/cheat-sheet/matplotlib-cheat-sheet-plotting-in-python) - Data Camp (HTML)
 
 
 #### Numpy Pandas

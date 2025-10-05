@@ -128,8 +128,8 @@
 * [GNU Bash Başvuru Kılavuzu](http://www.belgeler.org/bashref/bashref.html)
 * [GNU Linux Komutlari](https://www.fullportal.org/GNULINUX/Komutlar/GNULINUXKOMUTLAR.pdf) (PDF)
 * [Linux Belgeleri](http://www.belgeler.org/howto/howtos.html)
-* [Linux Sistem Yöneticisinin Kılavuzu](http://www.belgeler.org/sag/sag.html)
 * [Linux Sistem Yönetimi](https://web.deu.edu.tr/doc/misc/Linux_Sistem_Yonetimi.pdf)
+* [Linux Sistem Yöneticisinin Kılavuzu](http://www.belgeler.org/sag/sag.html)
 
 
 ### .NET Framework
@@ -170,5 +170,7 @@
 * [Rust ile CHIP-8 Emülatörü Geliştirme](https://onur.github.io/chip8) - Onur Aslan
 * [Rust'a Giriş](https://github.s3.amazonaws.com/downloads/vertexclique/vertexclique.github.io/Rusta-Giris-v1.pdf) - Mahmut Bulut (PDF)
 
+
 ### Yapay Zeka
+
 * [Derin Öğrenmeye Dalış](https://tr.d2l.ai/d2l-tr-pytorch.pdf)

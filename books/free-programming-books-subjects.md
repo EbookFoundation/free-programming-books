@@ -102,7 +102,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Algorithms and Data Structures - With Applications to Graphics and Geometry](https://textbookequity.org/Textbooks/Nievergelt_Algorithms%20and%20Data%20Structures08.pdf) - Jurg Nievergelt, Klaus Hinrichs (PDF)
 * [Algorithms Course Materials](https://jeffe.cs.illinois.edu/teaching/algorithms/) - Jeff Erickson
 * [Algorithms Notes for Professionals](https://goalkicker.com/AlgorithmsBook) - Compiled from StackOverflow Documentation (PDF)
-* [An Open Guide to Data Structures and Algorithms](https://opendsa-server.cs.vt.edu/OpenDSA/Books/Everything/html/) - Paul W. Bible, Lucas Moser
+* [OpenDSA Data Structures and Algorithms Modules Collection](https://opendsa-server.cs.vt.edu/OpenDSA/Books/Everything/html/) - Paul W. Bible, Lucas Moser
 * [Annotated Algorithms in Python: Applications in Physics, Biology, and Finance](https://github.com/mdipierro/nlib) - Massimo Di Pierro
 * [Binary Trees](http://cslibrary.stanford.edu/110/BinaryTrees.pdf) - Nick Parlante (PDF)
 * [Data Structures](https://adityacse.weebly.com/uploads/2/4/0/7/24078687/data-structures.pdf) - Aditya CSE (PDF)

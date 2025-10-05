@@ -428,9 +428,11 @@
 * [Django Web App Beginners Cheat sheet](https://ordinarycoders.com/blog/article/django-beginners-guide) - Jaysha (HTML)
 * [(Python + Django) Cheatsheet](https://dev.to/ericchapman/my-beloved-django-cheat-sheet-2056) - Eric The Coder (HTML)
 
-### FastAPI
+
+#### FastAPI
 
 * [FastAPI Cheat Sheet](https://github.com/Vasu-Devs/fastapi-cheatsheet) - Vasudev Siddh (Markdown)
+
 
 #### Flask
 

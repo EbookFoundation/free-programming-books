@@ -315,15 +315,16 @@
 ### Programação
 
 * [Algoritmos de Ordenação](https://www.youtube.com/playlist?list=PLzZut2slkqywtFxqTY8AQwIG65h_2oMBL) - Bruno Ribas
-* [Curso Lógica de Programação Completo 2023 [Iniciantes] + Desafios + Muita prática](https://www.youtube.com/watch?v=iF2MdbrTiBM) - Jonathan de Souza
 * [Como Computadores Funcionam?](https://www.youtube.com/playlist?list=PLdsnXVqbHDUcQIuiH9b-i9A85H3A2ZW5W) - Fabio Akita
 * [Conceitos de Programação](https://www.youtube.com/playlist?list=PLdsnXVqbHDUcrE56CH8sXaPF3TTqoBP2z) - Fabio Akita
+* [Curso Lógica de Programação Completo 2023 [Iniciantes] + Desafios + Muita prática](https://www.youtube.com/watch?v=iF2MdbrTiBM) - Jonathan de Souza
 * [Frontend para Iniciantes](https://www.youtube.com/playlist?list=PLsGmTzb4NxK2sGY3KqKmg1UTxNTcPPK1Z) - LuizTools
 * [Inteligência Artificial](https://www.youtube.com/playlist?list=PLdsnXVqbHDUeowsAO0sChHDY4D65T5s1U) - Fabio Akita
 * [Programação para Iniciantes](https://www.youtube.com/playlist?list=PLdsnXVqbHDUc7htGFobbZoNen3r_wm3ki) - Fabio Akita
 * [Programação para Iniciantes](https://www.youtube.com/playlist?list=PLsGmTzb4NxK3r0_sMLyHKaYX97tPN2QPm) - LuizTools
 * [Scrum para Iniciantes](https://www.youtube.com/playlist?list=PLsGmTzb4NxK0DmRwEO4IBRjuCRyRZ8FnQ) - LuizTools
 * [Sistemas Operacionais](https://www.youtube.com/playlist?list=PLdsnXVqbHDUd17xLINVEXhJ32RxbzCEWV) - Fabio Akita
+
 
 ### Python
 

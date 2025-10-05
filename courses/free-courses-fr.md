@@ -71,9 +71,9 @@
 
 ### HTML / CSS
 
-* [Apprendre à coder en HTML et CSS \| Cours complet (2020)](https://www.pierre-giraud.com/html-css-apprendre-coder-cours/) - Pierre Giraud
-* [Apprendre à utiliser le framework Bootstrap \| Cours complet (2020)](https://www.pierre-giraud.com/bootstrap-apprendre-cours/) - Pierre Giraud
-* [Apprendre à utiliser Sass \| Cours Complet (2020)](https://www.pierre-giraud.com/sass-apprendre-cours-complet/) - Pierre Giraud
+* [Apprendre à coder en HTML et CSS \| Cours complet (2020)](https://www.pierre-giraud.com/html-css-apprendre-coder-cours/) - Pierre Giraud (HTML)
+* [Apprendre à utiliser le framework Bootstrap \| Cours complet (2020)](https://www.pierre-giraud.com/bootstrap-apprendre-cours/) - Pierre Giraud (HTML)
+* [Apprendre à utiliser Sass \| Cours Complet (2020)](https://www.pierre-giraud.com/sass-apprendre-cours-complet/) - Pierre Giraud (HTML)
 * [Apprendre l'HTML](https://www.youtube.com/playlist?list=PLjwdMgw5TTLUeixVGPNl1uZNeJy4UY6qX) - Grafikart
 * [Découvrir CSS](https://www.youtube.com/playlist?list=PLjwdMgw5TTLVjTZQocrMwKicV5wsZlRpj) - Grafikart
 * [Documentation du MDN](https://developer.mozilla.org/fr/) (MDN Mozilla)

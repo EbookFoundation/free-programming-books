@@ -417,9 +417,9 @@
 * [Python for Data Science - A Cheat Sheet for Beginners](https://www.datacamp.com/cheat-sheet/python-for-data-science-a-cheat-sheet-for-beginners) - DataCamp (PDF)
 * [Python Regex Cheatsheet](https://www.debuggex.com/cheatsheet/regex/python) - Debuggex (HTML)
 * [Python WorldWide Cheatsheet](https://cheatography.com/davechild/cheat-sheets/python/) - Cheatography (Python)
-* [Scapy Cheat Sheet](https://www.templateroller.com/template/160817/scapy-cheat-sheet-jeremy-stretch.html) - Jeremy Stretch (PDF)
 * [Python Beautiful Soup: Cheat Sheet](https://howtodoinjava.com/python/beautifulsoup-example-cheat-sheet) - HowToDoInJava
-* [Selenium Python Bindings](Selenium Python Bindings) - ReadTheDocs (PDF)
+* [Scapy Cheat Sheet](https://www.templateroller.com/template/160817/scapy-cheat-sheet-jeremy-stretch.html) - Jeremy Stretch (PDF)
+* [Selenium Python Bindings](https://app.readthedocs.org/projects/selenium-python/downloads/pdf/latest) - Baiju Muthukadan (PDF)
 
 #### Django
 

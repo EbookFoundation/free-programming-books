@@ -18,3 +18,8 @@
 ### <a id="python"></a>Python
 
 * [Python Course in Telugu: 30 days challenge](https://www.youtube.com/playlist?list=PLNgoFk5SYUglQOaXSY8lAlPXmK6tQBHaw) - Vamsi Bhavani
+
+
+  ### <a id="MERN"></a>MERN Web development
+
+  *[Web Development Full Course in Telugu (MERN)](https://youtube.com/playlist?list=PL2Kd-KQLppEFbfdJHywOu6b_GAjn3LxE1&si=btWBIKe1EbMntfys) - Dodagatta Nihar

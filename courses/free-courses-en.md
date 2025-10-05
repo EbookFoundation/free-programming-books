@@ -467,7 +467,6 @@
 #### GCP
 
 * [Google Cloud Essentials](https://www.youtube.com/playlist?list=PLIivdWyY5sqKh1gDR0WpP9iIOY00IE0xL) - Google Cloud Tech
-* [Google Cloud Platform Course](https://www.youtube.com/live/IUU6OR8yHCc) - edureka!
 * [Google Cloud Platform Full Course](https://www.youtube.com/watch?v=fZOz13joN0o) - Scalar
 * [Learn Google Cloud](https://www.youtube.com/playlist?list=PLBRBRV08tHh1e9oqTsONC5AuhFd-SUXWq) - Cloud Advocate
 

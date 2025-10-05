@@ -1016,7 +1016,10 @@ Kerridge (PDF) (email address *requested*, not required)
 * [High Performance Accelerated Websites](https://thisisyuu.github.io/ebook) - Anshul (HTML) *( :construction: in process)*
 * [High Performance Browser Networking](https://hpbn.co) - Ilya Grigorik
 * [Mature Optimization](https://carlos.bueno.org/optimization/mature-optimization.pdf) - Carlos Bueno (PDF)
-
+* [Even Faster Web Sites](https://www.oreilly.com/library/view/even-faster-web/9780596522308/) - Steve Souders
+* [High Performance Web Sites](https://www.oreilly.com/library/view/high-performance-web/9780596529307/) - Steve Souders
+* [Web Performance in Action](https://www.manning.com/books/web-performance-in-action) - Jeremy L. Wagner
+  
 
 ### Web Services
 

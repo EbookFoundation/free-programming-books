@@ -42,10 +42,10 @@
 * [PHP](#php)
 * [Python](#python)
     * [Django](#django)
+    * [FastAPI](#fastapi)
     * [Flask](#flask)
     * [Jupyter](#jupyter)
     * [Numpy Pandas](#numpy-pandas)
-    * [FastAPI](#fastapi)
     * [PySpark](#pyspark)
 * [R](#r)
 * [Raspberry Pi](#raspberry-pi)
@@ -429,6 +429,11 @@
 * [(Python + Django) Cheatsheet](https://dev.to/ericchapman/my-beloved-django-cheat-sheet-2056) - Eric The Coder (HTML)
 
 
+#### FastAPI
+
+* [FastAPI Cheat Sheet](https://cheatsheetshero.com/user/all/391-fastapi-cheat-sheet.pdf) - CheatsheetsHero (PDF)
+
+
 #### Flask
 
 * [Flask Cheat Sheet](https://codeinsightacademy.com/blog/python/flask-cheat-sheet) - Code Insight Academy (HTML)
@@ -451,12 +456,6 @@
 
 * [PySpark Cheat Sheet](https://github.com/kevinschaich/pyspark-cheatsheet) - Kevin Schaich (HTML)
 * [PySpark Cheat Sheet: Spark in Python](https://www.datacamp.com/cheat-sheet/pyspark-cheat-sheet-spark-in-python) - DataCamp (HTML)
-
-#### FastAPI
-
-* [FastAPI Cheat Sheet](https://cheatsheetshero.com/user/all/391-fastapi-cheat-sheet.pdf) - CheatsheetsHero (PDF)
-
-
 
 
 

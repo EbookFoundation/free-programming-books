@@ -133,7 +133,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Linked List Problems](http://cslibrary.stanford.edu/105/LinkedListProblems.pdf) - Nick Parlante (PDF)
 * [Matters Computational: Ideas, Algorithms, Source Code](https://www.jjj.de/fxt/fxtbook.pdf) - Jörg Arndt (PDF)
 * [Open Data Structures: An Introduction](https://opendatastructures.org) - Pat 
-* [OpenDSA Data Structures and Algorithms Modules Collection](https://opendsa-server.cs.vt.edu/OpenDSA/Books/Everything/html/) - Paul W. Bible, Lucas Moser
+* [OpenDSA Data Structures and Algorithms Modules Collection](https://opendsa-server.cs.vt.edu/OpenDSA/Books/Everything/html/)
 * [Planning Algorithms](http://lavalle.pl/planning/) -  Steven M. LaValle
 * [Probabilistic Data Structures and Algorithms for Big Data Applications](https://pdsa.gakhov.com) - Andrii Gakhov
 * [Problems on Algorithms (Second Edition)](https://ianparberry.com/books/free/license.html) - Ian Parberry (use form at bottom of license)

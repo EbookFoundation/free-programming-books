@@ -276,6 +276,7 @@
 #### Redux
 
 * [Front End Development Libraries: Redux](https://www.freecodecamp.org/learn/front-end-development-libraries/redux) - freeCodeCamp
+* [Redux Official Documentation](https://redux.js.org/introduction/getting-started)
 
 
 #### Svelte
@@ -311,6 +312,7 @@
 
 ### LaTeX
 
+* [Learn LaTeX](https://www.overleaf.com/learn) - Overleaf
 * [Learn LaTeX in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 
 
@@ -359,6 +361,7 @@
 
 * [CodeCademy PHP](https://www.codecademy.com/learn/php)
 * [Learn PHP](http://www.learn-php.org)
+* [PHP tutorial](https://www.tutorialspoint.com/php/) - Tutorialspoint
 * [PHP tutorial](https://www.w3schools.com/php) - W3Schools
 
 
@@ -370,6 +373,8 @@
 ### PostgreSQL
 
 * [PostgreSQL Tutorial](https://www.postgresqltutorial.com)
+* [PostgreSQL Tutorial](https://neon.com/postgresql/tutorial)
+* [PostgreSQL Tutorial](https://www.w3schools.com/postgresql/) - W3Schools
 
 
 ### Python
@@ -434,7 +439,9 @@
 ### Scala
 
 * [A Tour of Scala - an interactive scala tutorial](https://scalatutorials.com/tour/)
+* [Hands-on Scala](https://github.com/handsonscala/handsonscala)
 * [Scala Exercises](https://www.scala-exercises.org)
+* [Scala For Statistical Computing and Data Science](https://github.com/darrenjw/scala-course)
 
 
 ### Selenium

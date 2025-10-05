@@ -110,7 +110,7 @@
 
 * [Golang Programming Tutotrial - Malayalam](https://www.youtube.com/watch?v=5QXVlWzjjnw&list=PL1pQFrHyimJQu8svbooHn5DMW4ntrbUPu) - Build From Zero
 * [Golang: Complete Tutorial in മലയാളം for Beginners](https://www.youtube.com/watch?v=S7Dfsky1bZ4) - CodeEase with Anu
-* [Go Tutorial - Malayalam](https://youtube.com/playlist?list=PLbn-9j68Y5NWV-mrEjX4z0JDvlr4dGC1h&si=HVcMpsGrxw_o9i0K) - Mr.Mallu Programmer
+* [Go Tutorial - Malayalam](https://www.youtube.com/playlist?list=PLbn-9j68Y5NWV-mrEjX4z0JDvlr4dGC1h) - Mr.Mallu Programmer
 
 
 ### HTML and CSS

@@ -253,8 +253,13 @@
 
 * [Aprenda Next.js,GraphQL e Leaflet na prática!](https://www.youtube.com/playlist?list=PLR8OzKI52ppWoTRvAmB_FQPPlHS0otV7V) - Willian Justen
 * [Bootcamp da Brainn de React](https://www.youtube.com/playlist?list=PLF7Mi9HNzvVmzOyDyl--xQVdi60jxduU1) - Canal Brainn Co.
+* [Curso de React](https://www.youtube.com/playlist?list=PLx4x_zx8csUh752BVDGZkxYpY9lS40fyC) - CFBCursos
+* [Curso de React](https://www.youtube.com/playlist?list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO) - Matheus Battisti
+* [Curso de React Next JS](https://www.youtube.com/playlist?list=PLx4x_zx8csUhxQHo-w0xAIMrmt8WgAowL) - CFBCursos
 * [Curso Intensivo de Next.js & React](https://www.cod3r.com.br/courses/curso-intensivo-next-react) - Leonardo Leitão (Cod3r)
-* [Next js 13.4 Masterclass Prático c/ Stripe e Shadcn-ui](https://www.youtube.com/playlist?list=PLR8OzKI52ppWoTRvAmB_FQPPlHS0otV7V) - DeveloperDeck101
+* [Next.js 13.4 Masterclass Prático c/ Stripe e Shadcn-ui](https://www.youtube.com/playlist?list=PLR8OzKI52ppWoTRvAmB_FQPPlHS0otV7V) - DeveloperDeck101
+* [React & Node.js](https://www.youtube.com/playlist?list=PLm-VCNNTu3LlQ3APFZeUn-9JztCM4_c28) - Felipe Rocha
+* [ReactJS - Básico](https://www.youtube.com/playlist?list=PLWXw8Gu52TRK1W0emFvUl3ozgV2JW3_8p) - Ralf Lima
 
 
 #### Vue.js

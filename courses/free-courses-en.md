@@ -1263,8 +1263,8 @@
 
 #### Webpack
 
-* [Learn Webpack Course](https://www.classcentral.com/course/youtube-learn-webpack-course-45823/classroom) - Colt Steele
 * [Learn Webpack](https://www.youtube.com/watch?v=MpGLUVbqoYQ) - freeCodeCamp
+* [Learn Webpack Course](https://www.classcentral.com/course/youtube-learn-webpack-course-45823/classroom) - Colt Steele
 * [Webpack 5](https://www.youtube.com/playlist?list=PLmZPx_9ZF_sB4orswXdpThGMX9ii2uP7Z) - Swashbuckling with Code
 * [Webpack Tutorials for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iTQ3J5oa6orDIMQKKxl8dC) - Net Ninja
 

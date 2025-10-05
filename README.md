@@ -40,6 +40,153 @@ The list was moved to GitHub by Victor Felder for collaborative updating and mai
 The [Free Ebook Foundation](https://ebookfoundation.org) now administers the repo, a not-for-profit organization devoted to promoting the creation, distribution, archiving, and sustainability of free ebooks. [Donations](https://ebookfoundation.org/contributions.html) to the Free Ebook Foundation are tax-deductible in the US.
 
 
+## Getting Started
+
+**First time contributing to open source?** Welcome! This is a great place to start. Follow this step-by-step guide to make your first contribution.
+
+### Quick Start Guide
+
+#### 1. Fork the Repository
+
+Click the **"Fork"** button at the top right of [this page](https://github.com/EbookFoundation/free-programming-books). This creates your own copy of the repository.
+
+#### 2. Clone Your Fork
+
+Open your terminal and run:
+
+```bash
+git clone https://github.com/YOUR-USERNAME/free-programming-books.git
+cd free-programming-books
+```
+
+Replace `YOUR-USERNAME` with your actual GitHub username.
+
+#### 3. Set Up Remote Upstream (Optional but Recommended)
+
+This helps you keep your fork synchronized with the original repository:
+
+```bash
+git remote add upstream https://github.com/EbookFoundation/free-programming-books.git
+```
+
+#### 4. Create a New Branch
+
+Always create a new branch for your changes:
+
+```bash
+git checkout -b add-resource-name
+```
+
+Use a descriptive branch name (e.g., `add-python-django-book` or `add-javascript-course`).
+
+#### 5. Make Your Changes
+
+1. **Find the right file**: Navigate to the appropriate directory:
+   - Books: `books/` directory
+   - Courses: `courses/` directory
+   - Cheat Sheets: `more/` directory
+   - Podcasts/Screencasts: `casts/` directory
+
+2. **Edit the file**: Open the relevant `.md` file and add your resource
+
+3. **Follow the format**: Use this structure:
+   ```markdown
+   * [Book/Resource Title](http://example.com/book.html) - Author Name (optional)
+   ```
+
+4. **Key rules**:
+   - Add links in **alphabetical order**
+   - Ensure the resource is **completely free**
+   - Use **HTTPS** links when possible
+   - Check for **duplicate entries**
+   - Follow [formatting guidelines](docs/CONTRIBUTING.md#formatting)
+
+#### 6. Test Your Changes
+
+Before committing, make sure:
+- [ ] Links are working
+- [ ] Content is in alphabetical order
+- [ ] Markdown formatting is correct
+- [ ] No duplicate entries exist
+
+#### 7. Commit Your Changes
+
+```bash
+git add .
+git commit -m "Add [Resource Title] to [Category/Language]"
+```
+
+**Example**: `git commit -m "Add Python Machine Learning Book to Python section"`
+
+#### 8. Push to Your Fork
+
+```bash
+git push origin add-resource-name
+```
+
+#### 9. Create a Pull Request (PR)
+
+1. Go to your fork on GitHub
+2. Click **"Compare & pull request"**
+3. Fill in the PR template with:
+   - **Title**: Brief description (e.g., "Add Python Django Tutorial")
+   - **Description**: Explain what you're adding and why it's valuable
+   - Confirm the resource is free
+4. Click **"Create pull request"**
+
+#### 10. Wait for Review
+
+- GitHub Actions will automatically run tests
+- Maintainers will review your PR
+- Be ready to make changes if requested
+- Once approved, your contribution will be merged!
+
+### Common Issues & Solutions
+
+**Problem**: GitHub Actions checks fail
+- **Solution**: Click "Details" to see what failed. Usually it's alphabetization or formatting. Fix and push again.
+
+**Problem**: Not sure which file to edit
+- **Solution**: Check the [Resources](#resources) section below or ask in the PR comments.
+
+**Problem**: Link already exists
+- **Solution**: Search the file (Ctrl+F / Cmd+F) before adding to avoid duplicates.
+
+### Alternative Ways to Contribute
+
+**Don't want to use Git?** No problem!
+
+1. **Submit an Issue**: Found a great resource? [Open an issue](https://github.com/EbookFoundation/free-programming-books/issues/new) with the link
+2. **Report broken links**: Help us maintain quality by reporting dead links
+3. **Translate documentation**: Help translate [contributing guides](docs/CONTRIBUTING.md) to other languages
+4. **Improve existing entries**: Fix typos, update outdated links, or improve descriptions
+
+### Resources for Beginners
+
+**New to Git & GitHub?**
+- [GitHub Hello World Tutorial](https://docs.github.com/en/get-started/quickstart/hello-world)
+- [How-To Guide for this Project](docs/HOWTO.md)
+- [Git Tutorial Video](https://www.youtube.com/watch?v=0fKg7e37bQE)
+- [Fork & Pull Request Tutorial](https://www.youtube.com/watch?v=G1I3HF4YWEw)
+
+**Understanding Markdown:**
+- [Markdown Guide](https://guides.github.com/features/mastering-markdown/)
+- [Markdown Crash Course](https://www.youtube.com/watch?v=HUBNt18RFbo)
+
+**Read the Documentation:**
+- [Full Contributing Guidelines](docs/CONTRIBUTING.md)
+- [Code of Conduct](docs/CODE_OF_CONDUCT.md)
+- [Translations](docs/README.md#translations)
+
+**Find Easy Issues:**
+- [Good First Issues](https://github.com/EbookFoundation/free-programming-books/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
+- [Help Wanted](https://github.com/EbookFoundation/free-programming-books/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
+
+### Questions?
+
+Don't hesitate to ask! Every contributor started somewhere. Join our [growing community](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=ebookfoundation/free-programming-books) of contributors worldwide.
+
+
 ## How To Contribute
 
 Please read [CONTRIBUTING](docs/CONTRIBUTING.md). If you're new to GitHub, [welcome](docs/HOWTO.md)! Remember to abide by our adapted from ![Contributor Covenant 1.3](https://img.shields.io/badge/Contributor%20Covenant-1.3-4baaaa.svg) [Code of Conduct](docs/CODE_OF_CONDUCT.md) too ([translations](#translations) also available).

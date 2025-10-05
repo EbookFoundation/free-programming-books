@@ -458,7 +458,7 @@
 #### Azure
 
 * [Azure Administrator Certification](https://www.youtube.com/watch?v=10PbGbTUSAg) - freeCodeCamp
-* [Azure Full Course](https://www.youtube.com/live/Pb25WCwFHGQ?si=d_N4m1azt0T5cUPi) - Intellipaat
+* [Azure Full Course](https://www.youtube.com/live/Pb25WCwFHGQ) - Intellipaat
 * [Azure Fundamentals](https://www.youtube.com/watch?v=-pX5PjIYTJs) - Tech Tutorial with Piyush
 * [Microsoft Azure Fundamentals](https://www.youtube.com/playlist?list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM) - Adam Marczak
 * [Microsoft Certified: Azure Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/) - Microsoft
@@ -467,7 +467,7 @@
 #### GCP
 
 * [Google Cloud Essentials](https://www.youtube.com/playlist?list=PLIivdWyY5sqKh1gDR0WpP9iIOY00IE0xL) - Google Cloud Tech
-* [Google Cloud Platform Course](https://www.youtube.com/live/IUU6OR8yHCc?si=OSEzTbGWfiLoJL6W) - edureka!
+* [Google Cloud Platform Course](https://www.youtube.com/live/IUU6OR8yHCc) - edureka!
 * [Google Cloud Platform Full Course](https://www.youtube.com/watch?v=fZOz13joN0o) - Scalar
 * [Learn Google Cloud](https://www.youtube.com/playlist?list=PLBRBRV08tHh1e9oqTsONC5AuhFd-SUXWq) - Cloud Advocate
 

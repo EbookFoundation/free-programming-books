@@ -420,7 +420,7 @@
 * [Introduction to Programming through C++](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2qzihjdDEseWrrY1DyxH9P) - NPTEL
 * [Learn C++ With Me](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lmGC8VW0iu6qfMHjy7gLQ3) - Tech With Tim
 * [Sololearn C++](https://www.sololearn.com/learning/1051) - *registration required*
-
+* [Programming in Modern C++]([https://www.youtube.com/playlist?list=PLzMcBGfZo4-lmGC8VW0iu6qfMHjy7gLQ3](https://www.youtube.com/playlist?list=PLqu1LEUz3ju04dXn0JOgKYPHHnV2at-lG)) - Professor Partha Pratim Das (IIT Kharagur)
 
 ### Clojure
 

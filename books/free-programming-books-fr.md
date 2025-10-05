@@ -234,13 +234,13 @@
 
 ### Lua
 
-* [Introduction à la programmation Lua](http://www.luteus.biz/Download/LoriotPro_Doc/LUA/LUA_Training_FR/Introduction_Programmation.html)
-* [Lua : le tutoriel](http://wxlua.developpez.com/tutoriels/lua/general/cours-complet/) - Claude Urban
+* [Introduction à la programmation Lua](https://web.archive.org/web/20240109085639/https://www.luteus.biz/Download/LoriotPro_Doc/LUA/LUA_Training_FR/Introduction_Programmation.html) (HTML) *( :card_file_box: archived)*
+* [Lua : le tutoriel](https://wxlua.developpez.com/tutoriels/lua/general/cours-complet/) - Claude Urban, `edt.:` Alexandre Laurent, ALT, Max (HTML, PDF)
 
 
 ### Meteor
 
-* [Apprendre Meteor](https://mquandalle.gitbooks.io/apprendre-meteor/content/) - Maxime Quandalle
+* [Apprendre Meteor](https://mquandalle.gitbooks.io/apprendre-meteor/content/) - Maxime Quandalle (HTML) (CC BY-NC-SA) *( :construction: in process)*
 
 
 ### Perl

@@ -1,4 +1,20 @@
+# <a name="top"></a>
 # List of Free Learning Resources In Many Languages
+
+## Table of Contents
+- [Intro](#intro)
+- [How To Contribute](#how-to-contribute)
+- [How To Share](#how-to-share)
+- [Resources](#resources)
+  - [Books](#books)
+  - [Cheat Sheets](#cheat-sheets)
+  - [Free Online Courses](#free-online-courses)
+  - [Interactive Programming Resources](#interactive-programming-resources)
+  - [Problem Sets and Competitive Programming](#problem-sets-and-competitive-programming)
+  - [Podcast - Screencast](#podcast---screencast)
+  - [Programming Playgrounds](#programming-playgrounds)
+- [Translations](#translations)
+- [License](#license)
 
 <div align="center" markdown="1">
 
@@ -39,6 +55,8 @@ The list was moved to GitHub by Victor Felder for collaborative updating and mai
 
 The [Free Ebook Foundation](https://ebookfoundation.org) now administers the repo, a not-for-profit organization devoted to promoting the creation, distribution, archiving, and sustainability of free ebooks. [Donations](https://ebookfoundation.org/contributions.html) to the Free Ebook Foundation are tax-deductible in the US.
 
+[🔝 Go to Top](#top)
+
 
 ## How To Contribute
 
@@ -55,6 +73,8 @@ Click on these badges to see how you might be able to help:
 [![GitHub repo Merged PRs](https://img.shields.io/github/issues-search/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=green&label=Merged%20PRs&query=is%3Amerged)](https://github.com/EbookFoundation/free-programming-books/pulls?q=is%3Apr+is%3Amerged)&#160;
 [![GitHub Help Wanted PRs](https://img.shields.io/github/issues-pr/EbookFoundation/free-programming-books/help%20wanted?style=flat&logo=github&logoColor=b545d1&label=%22Help%20Wanted%22%20PRs)](https://github.com/EbookFoundation/free-programming-books/pulls?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
 
+[🔝 Go to Top](#top)
+
 </div>
 
 ## How To Share
@@ -67,11 +87,18 @@ Click on these badges to see how you might be able to help:
 <a href="https://twitter.com/intent/tweet?text=https://github.com/EbookFoundation/free-programming-books%0AFree%20Programming%20Books">Share on 𝕏 (Twitter)</a><br>
 </div>
 
+[🔝 Go to Top](#top)
+
 ## Resources
 
 This project lists books and other resources grouped by genres:
 
+[🔝 Go to Top](#top)
+
 ### Books
+ [Vietnamese / Tiếng Việt](books/free-programming-books-vi.md)
+
+[🔝 Go to Top](#top)
 
 [English, By Programming Language](books/free-programming-books-langs.md)
 
@@ -123,10 +150,16 @@ This project lists books and other resources grouped by genres:
 + [Vietnamese / Tiếng Việt](books/free-programming-books-vi.md)
 
 ### Cheat Sheets
+ [All Languages](more/free-programming-cheatsheets.md)
+
+[🔝 Go to Top](#top)
 
 + [All Languages](more/free-programming-cheatsheets.md)
 
 ### Free Online Courses
+ [Vietnamese / Tiếng Việt](courses/free-courses-vi.md)
+
+[🔝 Go to Top](#top)
 
 + [Arabic / al arabiya / العربية](courses/free-courses-ar.md)
 + [Bengali / বাংলা](courses/free-courses-bn.md)
@@ -169,6 +202,9 @@ This project lists books and other resources grouped by genres:
 
 
 ### Interactive Programming Resources
+ [Russian / Русский язык](more/free-programming-interactive-tutorials-ru.md)
+
+[🔝 Go to Top](#top)
 
 + [Chinese / 中文](more/free-programming-interactive-tutorials-zh.md)
 + [English](more/free-programming-interactive-tutorials-en.md)
@@ -178,11 +214,18 @@ This project lists books and other resources grouped by genres:
 
 
 ### Problem Sets and Competitive Programming
+ [Problem Sets](more/problem-sets-competitive-programming.md)
+
+[🔝 Go to Top](#top)
 
 + [Problem Sets](more/problem-sets-competitive-programming.md)
 
 
 ### Podcast - Screencast
+ [Turkish / Türkçe](casts/free-podcasts-screencasts-tr.md)
+ [Ukrainian / Українська](casts/free-podcasts-screencasts-uk.md)
+
+[🔝 Go to Top](#top)
 
 Free Podcasts and Screencasts:
 
@@ -210,6 +253,9 @@ Free Podcasts and Screencasts:
 
 
 ### Programming Playgrounds
+ [German / Deutsch](more/free-programming-playgrounds-de.md)
+
+[🔝 Go to Top](#top)
 
 Write, compile, and run your code within a browser. Try it out!
 
@@ -229,7 +275,11 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
 
 You might notice that there are [some missing translations here](docs/README.md#translations) - perhaps you would like to help out by [contributing a translation](docs/CONTRIBUTING.md#help-out-by-contributing-a-translation)?
 
+[🔝 Go to Top](#top)
+
 
 ## License
 
 Each file included in this repository is licensed under the [CC BY License](LICENSE).
+
+[🔝 Go to Top](#top)

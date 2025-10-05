@@ -76,7 +76,7 @@
 * [Apprendre à utiliser Sass \| Cours Complet (2020)](https://www.pierre-giraud.com/sass-apprendre-cours-complet/) - Pierre Giraud (HTML)
 * [Apprendre l'HTML](https://www.youtube.com/playlist?list=PLjwdMgw5TTLUeixVGPNl1uZNeJy4UY6qX) - Grafikart
 * [Découvrir CSS](https://www.youtube.com/playlist?list=PLjwdMgw5TTLVjTZQocrMwKicV5wsZlRpj) - Grafikart
-* [Documentation du MDN](https://developer.mozilla.org/fr/) (MDN Mozilla)
+* [MDN Web Doc](https://developer.mozilla.org/fr/) - Contributrices et contributeurs de Mozilla (HTML) (CC-BY-SA)
 * [HTML/CSS - Exercices](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHEFVqv0pjGkPHv6PhWZQBb) - EvoluNoob
 * [HTML/CSS - Tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfG1_4HrfPttdwF8aLpgdsRL) - EvoluNoob
 * [Le préprocesseur SASS](https://www.youtube.com/playlist?list=PLjwdMgw5TTLWVp8WUGheSrGnmEWIMk9H6) - Grafikart

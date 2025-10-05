@@ -26,4 +26,9 @@
 
 
 ### <a id="JAVA"></a>JAVA
+
 * [Core Java in Telugu | Java Programming](https://youtube.com/playlist?list=PLz8gl4BEGkEGYXNZrIRHJUSoxS_FPBrDy&si=w9idhgQmPCsUzEZX) - H Y R Tutorials
+
+### <a id="c"></a>C
+
+* [C language Full Tutorial for Beginners in Telugu](https://youtube.com/playlist?list=PL40oTeawokV-CC8RHFV5YH9Ag3QVhpXqn&si=9b-0ynFQh5dBd78h) - MSquare

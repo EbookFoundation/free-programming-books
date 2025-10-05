@@ -107,7 +107,6 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Algorithms for Competitive Programming](https://cp-algorithms.com) - E-Maxx English Translation Project (HTML)
 * [Algorithms Illuminated](https://www.algorithmsilluminated.org) - Tim Roughgarden (HTML)
 * [Algorithms Notes for Professionals](https://goalkicker.com/AlgorithmsBook) - Compiled from StackOverflow Documentation (PDF)
-* [An Open Guide to Data Structures and Algorithms](https://opendsa-server.cs.vt.edu/OpenDSA/Books/Everything/html/) - Paul W. Bible, Lucas Moser
 * [Analysis of Algorithms](https://aofa.cs.princeton.edu/home/) - Robert Sedgewick, Philippe Flajolet
 * [Annotated Algorithms in Python: Applications in Physics, Biology, and Finance](https://github.com/mdipierro/nlib) - Massimo Di Pierro
 * [Binary Trees](http://cslibrary.stanford.edu/110/BinaryTrees.pdf) - Nick Parlante (PDF)
@@ -133,7 +132,8 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Linked List Basics](http://cslibrary.stanford.edu/103/LinkedListBasics.pdf) - Nick Parlante (PDF)
 * [Linked List Problems](http://cslibrary.stanford.edu/105/LinkedListProblems.pdf) - Nick Parlante (PDF)
 * [Matters Computational: Ideas, Algorithms, Source Code](https://www.jjj.de/fxt/fxtbook.pdf) - Jörg Arndt (PDF)
-* [Open Data Structures: An Introduction](https://opendatastructures.org) - Pat Morin
+* [Open Data Structures: An Introduction](https://opendatastructures.org) - Pat 
+* [OpenDSA Data Structures and Algorithms Modules Collection](https://opendsa-server.cs.vt.edu/OpenDSA/Books/Everything/html/) - Paul W. Bible, Lucas Moser
 * [Planning Algorithms](http://lavalle.pl/planning/) -  Steven M. LaValle
 * [Probabilistic Data Structures and Algorithms for Big Data Applications](https://pdsa.gakhov.com) - Andrii Gakhov
 * [Problems on Algorithms (Second Edition)](https://ianparberry.com/books/free/license.html) - Ian Parberry (use form at bottom of license)

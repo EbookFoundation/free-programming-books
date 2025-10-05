@@ -69,7 +69,7 @@
 * [Formation Git en vidéo, Cours Complet](https://www.youtube.com/playlist?list=PLjwdMgw5TTLXuY5i7RW0QqGdW0NZntqiP) - Grafikart
 
 
-### HTML and CSS
+### HTML / CSS
 
 * [Apprendre à coder en HTML et CSS \| Cours complet (2020)](https://www.pierre-giraud.com/html-css-apprendre-coder-cours/) - Pierre Giraud
 * [Apprendre à utiliser le framework Bootstrap \| Cours complet (2020)](https://www.pierre-giraud.com/bootstrap-apprendre-cours/) - Pierre Giraud

@@ -6,6 +6,7 @@
 * [Android](#android)
 * [APL](#apl)
 * [Artificial Intelligence](#artificial-intelligence)
+    * [Generative AI](#generative-ai)
 * [Assembly](#assembly)
 * [AutoIt](#autoit)
 * [Ballerina](#ballerina)
@@ -259,6 +260,7 @@
 
 ### Artificial Intelligence
 
+* [Agents Course](https://huggingface.co/learn/agents-course/unit0/introduction) - Hugging Face
 * [AI Courses](https://software.intel.com/content/www/us/en/develop/topics/ai/training/courses.html) - Intel Corporation
 * [AI Fundamentals](https://www.udacity.com/course/ai-fundamentals--ud099) - Microsoft Azure (Udacity)
 * [AI Python for Beginners](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/) - Andrew Ng (DeepLearning.ai)
@@ -275,6 +277,8 @@
 * [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer) - Romeo Kienzler, Saeed Aghabozorgi, Joseph Santarcangelo, Alex Aklson et al. (Coursera)
 * [Intro to Claude AI](https://v2.scrimba.com/claude-ai-c09gsmkso3) - Shant Dashjian (Scrimba)
 * [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow) - DeepLearning.ai (Coursera)
+* [LLM Course](https://huggingface.co/learn/llm-course/chapter0/1) - Hugging Face
+* [MCP Course](https://huggingface.co/learn/mcp-course/unit0/introduction) - Hugging Face
 * [MIT Deep Learning and Artificial Intelligence Lectures](https://deeplearning.mit.edu) - Lex Fridman, et al.
 * [MIT's Artificial Intelligence](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) - Patrick Henry Winston (MIT OpenCourseWare)
 * [NLP Course](https://huggingface.co/learn/nlp-course) - Hugging Face
@@ -282,10 +286,19 @@
 * [Stanford CS221: Artificial Intelligence: Principles and Techniques \| Autumn 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX) - Stanford Online
 
 
+#### Generative AI
+
+* [CS236: Deep Generative Models](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8) - Stefano Ermon (Stanford Online)
+* [Deep Generative Models](https://www.youtube.com/playlist?list=PL2UML_KCiC0UPzjW9BjO-IW6dqliu9O4B) - Volodymyr Kuleshov
+* [Foundation Models and Generative AI](https://ocw.mit.edu/courses/6-s087-foundation-models-and-generative-ai-january-iap-2024) - Rickard Gabrielsson (MIT OpenCourseWare)
+* [Understanding Large Language Models — Foundations and Safety (CS 194/294-267)](https://www.youtube.com/playlist?list=PLJ66BAXN6D8H_gRQJGjmbnS5qCWoxJNfe) - Responsible Decentralized Intelligence (UC Berkeley EECS)
+
+
 ### Assembly
 
 * [Assembly Language complete course](https://www.youtube.com/playlist?list=PLMa5a9Dh6SlhJq4wCH_CLSdfRaAbuJTzb) - Exceptional Programmers
 * [Assembly Language Programming](https://www.youtube.com/playlist?list=PLPedo-T7QiNsIji329HyTzbKBuCAHwNFC) - Rasmurtech
+* [Assembly Language Programming](https://alison.com/course/assembly-language-programming) - Alison (HTML)
 * [Binary Exploitation / Memory Corruption by LiveOverflow](https://www.youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN) - LiveOverflow
 * [Introduction to Assembly Programming with ARM](https://www.udemy.com/course/introduction-to-assembly-programming-with-arm/) - Scott Cosentino (Udemy)
 * [Introduction To Reverse Engineering Software](http://opensecuritytraining.info/IntroductionToReverseEngineering.html) - Matt Briggs (OpenSecurityTraining)
@@ -551,6 +564,7 @@
 * [Introduction to Data Science](https://alison.com/course/introduction-to-data-science-revised) - Alison
 * [Introduction to Data Science](https://www.simplilearn.com/data-science-free-course-for-beginners-skillup) - SkillUp by Simplilearn
 * [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) - Christopher Brooks (Coursera)
+* [Introduction to Data Science with python](https://www.edx.org/learn/data-science/harvard-university-introduction-to-data-science-with-python) - Pavlos Protopapas (edX HarvardX)
 * [Learn Data Science](https://www.sololearn.com/learning/1093) - *registration required*
 * [Learn Data Science Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=ua-CiDNNj30) - Barton Poulson (FreeCodeCamp.org)
 * [MIT's Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) - Eric Grimson, John Guttag, Ana Bell (MIT OpenCourseWare)
@@ -627,6 +641,7 @@
 * [Introduction to Reinforcement learning with David Silver](https://www.youtube.com/playlist?list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB) - David Silver
 * [MIT 6.S094: Deep Learning for Self-Driving Cars](https://selfdrivingcars.mit.edu)
 * [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com) - Alexander Amini, Ava Soleimany
+* [Neural Networks / Deep Learning](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1) - StatQuest by Josh Starmer
 * [Neuromatch Academy: Deep Learning](https://deeplearning.neuromatch.io/tutorials/intro.html) - Neuromatch Academy
 * [NYU Deep Learning SP21](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI) Alfredo Canziani
 * [NYU Deep Learning SP22](https://www.youtube.com/playlist?list=PLLHTzKZzVU9f3kmEta5dlkMXgtD1LxHzT) - Alfredo Canziani
@@ -1174,6 +1189,7 @@
 * [CS50's Mobile App Development with React Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native) - edX
 * [Introduction to React Native](https://fullstackopen.com/en/part10/introduction_to_react_native) - Full Stack Open
 * [React Native for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ) - The Net Ninja
+* [React Native Mastery with 10 apps](https://www.youtube.com/playlist?list=PLRAV69dS1uWSjBBJ-egNNOd4mdblt1P4c) - Hitesh Choudary(Youtube)
 * [React Native Tutorial (2021)](https://www.youtube.com/playlist?list=PL8kfZyp--gEXs4YsSLtB3KqDtdOFHMjWZ) - Programming with Mash, MAhdi SHarifimehr
 
 
@@ -1346,6 +1362,7 @@
 * [Machine Learning Tutorial in Python](https://www.youtube.com/playlist?list=PL9ooVrP1hQOHUfd-g8GUpKI3hHOwM_9Dn) - edureka!
 * [Machine Learning Tutorial Python \| Machine Learning For Beginners](https://www.youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9rw) - Dhaval Patel
 * [Machine Learning with Python](https://cognitiveclass.ai/courses/machine-learning-with-python) - Saeed Aghabozorgi (cognitiveclass.ai)
+* [Machine Learning with Python: from Linear Models to Deep Learning](https://www.edx.org/learn/machine-learning/massachusetts-institute-of-technology-machine-learning-with-python-from-linear-models-to-deep-learning) - (edX MITx)
 * [Machine Learning with Python: Zero to GBMs](https://jovian.ai/learn/machine-learning-with-python-zero-to-gbms) (Jovian)
 * [Made with ML](https://madewithml.com) - Goku Mohandas (Applied ML · MLOps · Production)
 * [Mathematics for Machine Learning - Linear Algebra](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3) - Imperial College London, Dr David Dye, Dr Sam Cooper
@@ -1356,6 +1373,7 @@
 * [PyTorch tutorials](https://pytorch.org/tutorials) - PyTorch.org
 * [Stanford SEE 229 - Machine Learning](https://see.stanford.edu/Course/CS229)
 * [Stanford University Machine Learning](https://www.coursera.org/learn/machine-learning)
+* [Statistics and Machine Learning in R](https://youtube.com/playlist?list=PLblh5JKOoLUJJpBNfk8_YadPwDTO2SCbx) - StatQuest by Josh Starmer
 * [Statistics for Applications](https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/) - MIT OpenCourseWare
 * [Understand Machine Learning Engineering by Building Projects](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp) - Alexey Grigorev
 * [Understanding AI from Scratch – Neural Networks Course](https://www.youtube.com/watch?v=VgzHT9quo5c) - Radu (FreeCodeCamp)
@@ -1640,6 +1658,7 @@
 * [Comprehensive Rust](https://google.github.io/comprehensive-rust/index.html) - Google
 * [Intro to Rust](https://www.youtube.com/playlist?list=PLJbE2Yu2zumDF6BX6_RdPisRVHgzV02NW) - Tensor Programming
 * [Learn Rust from scratch](https://www.educative.io/courses/learn-rust-from-scratch) - Educative.io
+* [Memory Management](https://www.youtube.com/playlist?list=PLai5B987bZ9BnS7dBlTF9HRop55vYUL7r) - Let's Get Rusty
 * [Rust Basics](https://www.youtube.com/playlist?list=PLlcnQQJK8SUjApd95LIcd3K9XXmE-IeCS) - Engineer Man
 * [Rust Crash Course](https://www.youtube.com/watch?v=zF34dRivLOw) - Traversy Media
 * [Rust for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x) - Microsoft Developer
@@ -1757,6 +1776,7 @@
 * [Automata Theory](https://online.stanford.edu/courses/soe-ycsautomata-automata-theory)
 * [Formal Languages & Automata Theory](https://www.youtube.com/playlist?list=PLLvKknWU7N4zvTGcw9N2_7eZSTTkryb0U) - Lalit Vashistha
 * [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313) (Udacity)
+* [Theory of Computation](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020) - Michael Sipser (MIT OpenCourseWare)
 * [Theory of Computation](https://www.youtube.com/playlist?list=PLyqSpQzTE6M9-v4V62bCygAVYGluaijyo) - Subrahmanyam Kalyanasundaram
 * [Theory of Computation & Automata Theory](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev) - Neso Academy
 

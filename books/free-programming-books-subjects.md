@@ -62,6 +62,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Bitsavers.org](http://bitsavers.trailing-edge.com)
 * [Code Catalog: A Collection of Code Examples from Prominent Open Source Projects](https://codecatalog.org)
 * [conceptf1.blogspot.com](https://conceptf1.blogspot.com/2013/11/list-of-freely-available-programming.html)
+* [dBooks - Free download open books](https://www.dbooks.org)
 * [Free Tech Books](https://www.freetechbooks.com)
 * [Goalkicker](https://goalkicker.com) - Programming Notes for Professionals books
 * [IBM Redbooks](https://www.redbooks.ibm.com)
@@ -143,10 +144,12 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Artificial Intelligence: Foundations of Computational Agents (2010), 1st Edition](https://artint.info/aifca1e.html) - David L. Poole, Alan K. Mackworth @ Cambridge University Press (HTML)
 * [Artificial Intelligence: Foundations of Computational Agents (2017), 2nd Edition](https://artint.info) - David L. Poole, Alan K. Mackworth @ Cambridge University Press (HTML, Slides)
 * [Clever Algorithms Nature-Inspired Programming Recipes](https://bjpcjp.github.io/pdfs/ruby/Clever-Algorithms.pdf) - Jason Brownlee (PDF) (CC BY-NC-SA)
+* [Generative AI in Higher Education: The ChatGPT Effect](https://www.taylorfrancis.com/books/oa-mono/10.4324/9781003459026/generative-ai-higher-education-cecilia-ka-yuk-chan-tom-colloton) - Cecilia Ka Yuk Chan, Tom Colloton (PDF) (CC BY)
 * [Getting Started with Artificial Intelligence , 2nd Edition](https://www.ibm.com/downloads/cas/OJ6WX73V) - Tom Markiewicz, Josh Zheng (PDF)
 * [Graph Representational Learning Book](https://www.cs.mcgill.ca/~wlh/grl_book/) - William L. Hamilton
 * [Introduction to Autonomous Robots](https://github.com/correll/Introduction-to-Autonomous-Robots/releases) - Nikolaus Correll (PDF) (CC BY-NC-ND)
 * [Machine Learning For Dummies®, IBM Limited Edition](https://www.ibm.com/downloads/cas/GB8ZMQZ3) - Daniel Kirsch, Judith Hurwitz (PDF)
+* [Mastering Generative AI and Prompt Engineering: A Practical Guide for Data Scientists](https://datasciencehorizons.com/pub/Mastering_Generative_AI_Prompt_Engineering_Data_Science_Horizons_v2.pdf) - Data Science Horizons (PDF)
 * [On the Path to AI: Law’s prophecies and the conceptual foundations of the machine learning age](https://link.springer.com/book/10.1007/978-3-030-43582-0) - Thomas D. Grant, Damon J. Wischik (PDF, EPUB)
 * [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp](https://github.com/norvig/paip-lisp) - Peter Norvig
 * [Probabilistic Programming & Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - Cam Davidson-Pilon (HTML, Jupyter Notebook)
@@ -165,7 +168,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [IBM Blockchain: The Founder’s Handbook, Third Edition](https://www.ibm.com/downloads/cas/GZPPMWM5) - Antonio Banda, Matthew Hamilton, Eileen Lowry, John Widdifield, et al. (PDF)
 * [Learning Bitcoin from the Command Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line) - Christopher Allen, Shannon Appelcline, et al. (HTML)
 * [Mastering Bitcoin - Unlocking digital currencies (2017), 2nd Edition](https://github.com/bitcoinbook/bitcoinbook) - Andreas M. Antonopoulos (AsciiDoc) `(CC BY-NC-ND)`
-* [Mastering Ethereum (2018), 1st Edition](https://github.com/ethereumbook/ethereumbook) - Andreas M. Antonopoulos, Gavin Wood (AsciiDoc) 
+* [Mastering Ethereum (2018), 1st Edition](https://github.com/ethereumbook/ethereumbook) - Andreas M. Antonopoulos, Gavin Wood (AsciiDoc)
 * [Mastering the Lightning Network](https://github.com/lnbook/lnbook) - Andreas M. Antonopoulos, Olaoluwa Osuntokun, Rene Pickhardt (AsciiDoc)
 * [Playtime with Hyperledger Composer](https://schadokar.dev/ebooks/playtime-with-hyperledger-composer/) - Shubham Chadokar (PDF)
 
@@ -239,9 +242,10 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Computational Thinking](https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf) - Jeannette Wing, Carnegie-Mellon University (PDF)
 * [Computer Science Class XI](https://cbseacademic.nic.in/web_material/doc/cs/1_Computer-Science-Python-Book-Class-XI.pdf) - CBSE (PDF)
 * [Computer Science Class XII](https://cbseacademic.nic.in/web_material/doc/cs/2_Computer_Science_Python_ClassXII.pdf) - CBSE (PDF)
-* [Computer Science I](https://cse.unl.edu/~cbourke/ComputerScienceOne.pdf) - Chris Bourke (PDF) (CC BY-SA) 
+* [Computer Science I](https://cse.unl.edu/~cbourke/ComputerScienceOne.pdf) - Chris Bourke (PDF) (CC BY-SA)
 * [Computer Science II](https://cse.unl.edu/~cbourke/ComputerScienceTwo.pdf) - Chris Bourke (PDF) (CC BY-SA)
 * [CS Principles: Big Ideas in Programming](https://www.openbookproject.net/books/StudentCSP/) - Mark Guzdial, Barbara Ericson (HTML)
+* [Introduction to Computer Science](https://openstax.org/details/books/introduction-computer-science) - Jean Claude Franchitti et al. (PDF, HTML) (CC BY)
 * [Pull Requests and Code Review](https://scs.tl/book-pr) – Sebastien Castiel
 * [What to Look for in a Code Review](https://leanpub.com/whattolookforinacodereview) - Trisha Gee (HTML, PDF, EPUB, Kindle) *(Leanpub account or valid email requested)*
 
@@ -398,7 +402,6 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 ### Licensing
 
 * [Creative Commons: a user guide](https://archive.org/download/CreativeCommonsUserGuide/CreativeCommonsUserGuide.pdf) - Simone Aliprandi (PDF)
-* [Open Source Licensing Software Freedom and Intellectual Property Law](https://rosenlaw.com/oslbook/) - Lawrence Rosen
 * [The Public Domain: Enclosing the Commons of the Mind](https://www.thepublicdomain.org/download/) - James Boyle
 
 
@@ -611,6 +614,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Asterisk™: The Definitive Guide](https://solmu.org/pub/help/Asterisk/3nd_Edition_for_Asterisk_1.8) - Leif Madsen, Jim Van Meggelen, Russell Bryant (HTML)
 * [Atomic Design](https://atomicdesign.bradfrost.com) - Brad Frost
 * [Barcode Overview](https://www.tec-it.com/download/PDF/Barcode_Reference_EN.pdf) (PDF)
+* [Build Secure & Reliable System - Best Practice for Designing, Implementing and Maintaining Systems](https://google.github.io/building-secure-and-reliable-systems/raw/toc.html) - Heather Adkins, Betsy Beyer, Paul Plankinship, Piotr Lewandowski, Ana Oprea, Adam Stubblefield (HTML)
 * [Come, Let's Play: Scenario-Based Programming Using Live Sequence Charts](https://www.wisdom.weizmann.ac.il/~playbook/) - David Harel, Rami Marelly
 * [Communicating Sequential Processes](http://www.usingcsp.com/cspbook.pdf) - Tony Hoare (PDF)
 * [Confessions of an Unintentional CTO: Lessons in Growing a Web App](https://www.jackkinsella.ie/books/confessions_of_an_unintentional_cto) - Jack Kinsella
@@ -666,8 +670,10 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Record-Playback Test Automation: Sahi & Selenium IDE: Critical Evaluation of Record-Playback Automation Tools](https://leanpub.com/manualToAutomatedWithSeleniumIDEAndSahi) - Shashikant Jagtap *(Leanpub account or valid email requested)*
 * [Scientific Programming and Computer Architecture](https://divakarvi.github.io/bk-spca/spca.html) - Divakar Viswanath
 * [Signal Computing: Digital Signals in the Software Domain](http://faculty.washington.edu/stiber/pubs/Signal-Computing/Signal%20Computing.pdf) - Michael Stiber, Bilin Zhang Stiber, Eric C. Larson (PDF)
+* [Site Reliability Engineering - How Google run production systems](https://sre.google/sre-book/table-of-contents/) - Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Murphy (HTML)
 * [Small Memory Software](https://smallmemory.charlesweir.com/book.html) - Charles Weir, James Noble (HTML)
 * [Software Technical Writing: A Guidebook](https://jamesg.blog/book.pdf) - James Gallagher (PDF)
+* [The Site Reliability Workbook - Practical Ways to Implement SRE](https://sre.google/workbook/table-of-contents/) - Betsy Beyer, Niall Richard Murphy, David K. Rensin, Kent Kawahara, Stephen Thorne (HTML)
 * [The Web Development Glossary](https://github.com/frontenddogma/web-development-glossary) – Jens Oliver Meiert
 * [Using Z Specification, Refinement, and Proof](http://www.usingz.com/usingz.pdf) -  Jim Woodcock, Jim Davies (PDF)
 * [Web Almanac](https://almanac.httparchive.org/static/pdfs/web_almanac_2019_en.pdf) (PDF)
@@ -705,7 +711,8 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 ### Object Oriented Programming
 
 * [Object Oriented Programming](https://www.cl.cam.ac.uk/teaching/0910/OOProg/OOP.pdf) - Robert Harle (PDF)
-* [OOP – Learn Object Oriented Thinking and Programming](https://files.bruckner.cz/be2a5b2104bf393da7092a4200903cc0/PecinovskyOOP.pdf) - Rudolf Pecinovsky (PDF) 
+* [OOP – Learn Object Oriented Thinking and Programming](https://files.bruckner.cz/be2a5b2104bf393da7092a4200903cc0/PecinovskyOOP.pdf) - Rudolf Pecinovsky (PDF)
+* [Principles of Object-Oriented Programming](https://www.opentextbooks.org.hk/system/files/export/8/8163/pdf/Principles_of_ObjectOriented_Programming_8163_r.pdf) - Stephen Wong, Dung Nguyen, Mark Husband (PDF) (CC BY-SA)
 
 
 ### Open Source Ecosystem
@@ -824,6 +831,9 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [DALLE-E 2 prompt book](https://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book.pdf) - Dallery.Gallery, Guy Parson (PDF)
 * [Guide to Prompt Engineering](https://codeahoy.com/learn/promptengineering/toc) - CodeAhoy (HTML)
+* [LLM Prompt Engineering Simplified Book](https://github.com/AkmmusAI/LLM-Prompt-Engineering-Simplified-Book) - Katikapalli Subramanyam Kalyan (GitHub)
+* [Prompt Engineering](https://www.innopreneur.io/wp-content/uploads/2025/04/22365_3_Prompt-Engineering_v7-1.pdf) - Lee Boonstra (PDF)
+* [Prompt Engineering Guide](https://learnprompting.org/docs/introduction) - LearnPrompting (HTML)
 * [Prompt Engineering Guide](https://www.promptingguide.ai) - DAIR.AI (HTML)
 
 
@@ -885,6 +895,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Security Engineering](https://www.cl.cam.ac.uk/~rja14/book.html)
 * [The Joy of Cryptography (2021)](https://joyofcryptography.com/pdf/book.pdf) - Mike Rosulek (PDF)
 * [The MoonMath Manual to zk-SNARKs](https://leastauthority.com/community-matters/moonmath-manual/) - Least Authority
+* [The SELinux Notebook](https://github.com/SELinuxProject/selinux-notebook) - Richard Haines, Paul Moore, SELinux Community (HTML, PDF, EPUB, azw3) (GFDL)
 
 
 ### Software Architecture
@@ -902,7 +913,8 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Domain Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly)
 * [Domain-Driven Design Reference](https://www.domainlanguage.com/ddd/reference) - Eric Evans (CC BY)
 * [DSL Engineering: Designing, Implementing and Using Domain-Specific Languages](http://dslbook.org) - Markus Voelter
-* [Evidence-based Software Engineering](http://knosof.co.uk/ESEUR) - Derek M. Jones (PDF) (CC BY-SA) 
+* [Engineering Software as a Service: An Agile Approach Using Cloud Computing](https://e.saasbook.info) - Armando Fox, David Patterson (HTML) (CC BY-NC-ND)
+* [Evidence-based Software Engineering](http://knosof.co.uk/ESEUR) - Derek M. Jones (PDF) (CC BY-SA)
 * [Exploring CQRS and Event Sourcing](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/jj554200(v=pandp.10)) - Dominic Betts, Julián Domínguez, Grigori Melnik, Mani Subramanian, Fernando Simonazzi ([EPUB, PDF](https://www.microsoft.com/en-us/download/details.aspx?id=34774) - [code samples](https://go.microsoft.com/fwlink/p/?linkid=258571))
 * [Guide to the Software Engineering Body of Knowledge](https://www.computer.org/education/bodies-of-knowledge/software-engineering/v3) (email address *requested*)
 * [How to Design Programs](https://www.htdp.org)
@@ -928,6 +940,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Software Engineering for Internet Applications](https://philip.greenspun.com/seia/)
 * [Source Making Design Patterns and UML](https://sourcemaking.com/design_patterns)
 * [Test Driven Development, Extensive Tutorial](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski
+* [The Accidental CTO: How I Scaled from Zero to a Million Stores on Dukaan, Without a CS Degree](https://github.com/subhashchy/The-Accidental-CTO) - Subhash Choudhary
 * [The Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog)
 * [The Site Reliability Workbook](https://landing.google.com/sre/workbook/toc/) - Betsy Beyer, Niall Richard Murphy, David K. Rensin, Kent Kawahara, Stephen Thorne
 * [Web API Design](https://pages.apigee.com/rs/apigee/images/api-design-ebook-2012-03.pdf) - Brian Mulloy (PDF)

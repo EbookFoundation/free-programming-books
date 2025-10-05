@@ -23,6 +23,7 @@
 * [R](#r)
 * [Ruby](#ruby)
 * [Rust](#rust)
+* [Yapay Zeka](#yapay-zeka)
 
 
 ### Algoritma ve Veri Yapıları
@@ -31,6 +32,7 @@
 * [Algoritma ve Programlamaya Giriş Ders Notları](https://ia601404.us.archive.org/12/items/algoritma-ve-programlamaya-giris-ders-notlari/Algoritma%20ve%20Programlamaya%20Giri%C5%9F%20Ders%20Notlar%C4%B1.pdf) - [İbrahim Küçükkoç](http://ikucukkoc.baun.edu.tr) (PDF)
 * [Algoritmalar ve Programlama](https://ia601408.us.archive.org/31/items/algoritmalar-ve-programlama/Algoritmalar%20ve%20Programlama.pdf) (PDF)
 * [Bilgisayar Teriminde Algoritma](https://ia601504.us.archive.org/20/items/bilgisayar-teriminde-algoritma/Bilgisayar%20Teriminde%20Algoritma.pdf) - Agah Emir (PDF)
+* [Veri Yapıları Ders Notları](https://avesis.kayseri.edu.tr/resume/lessonmaterieldownload/kayaalti?key=a9b67077-3132-489c-a460-53cb34d3afc3) - Y. Doç. Dr. Aybars UGUR 
 
 
 ### Android
@@ -166,3 +168,6 @@
 
 * [Rust ile CHIP-8 Emülatörü Geliştirme](https://onur.github.io/chip8) - Onur Aslan
 * [Rust'a Giriş](https://github.s3.amazonaws.com/downloads/vertexclique/vertexclique.github.io/Rusta-Giris-v1.pdf) - Mahmut Bulut (PDF)
+
+### Yapay Zeka
+* [Derin Öğrenmeye Dalış](https://tr.d2l.ai/d2l-tr-pytorch.pdf)

@@ -45,6 +45,7 @@
     * [Flask](#flask)
     * [Jupyter](#jupyter)
     * [Numpy Pandas](#numpy-pandas)
+    * [FastAPI](#fastapi)
     * [PySpark](#pyspark)
 * [R](#r)
 * [Raspberry Pi](#raspberry-pi)
@@ -450,6 +451,13 @@
 
 * [PySpark Cheat Sheet](https://github.com/kevinschaich/pyspark-cheatsheet) - Kevin Schaich (HTML)
 * [PySpark Cheat Sheet: Spark in Python](https://www.datacamp.com/cheat-sheet/pyspark-cheat-sheet-spark-in-python) - DataCamp (HTML)
+
+#### FastAPI
+
+* [FastAPI Cheat Sheet](https://cheatsheetshero.com/user/all/391-fastapi-cheat-sheet.pdf) - CheatsheetsHero (PDF)
+
+
+
 
 
 ### R

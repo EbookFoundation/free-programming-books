@@ -1,3 +1,5 @@
+<a name="top"></a>
+
 # List of Free Learning Resources In Many Languages
 
 <div align="center" markdown="1">
@@ -20,6 +22,28 @@ This page is available as an easy-to-read website. Access it by clicking on [![h
   </form>
 </div>
 
+## Table of Contents
+
+<details>
+  <summary><strong>Show/Hide</strong></summary>
+
+  - [Intro](#intro)
+  - [How To Contribute](#how-to-contribute)
+  - [How To Share](#how-to-share)
+  - [Resources](#resources)
+    - [Books](#books)
+    - [Other Languages](#other-languages)
+    - [Cheat Sheets](#cheat-sheets)
+    - [Free Online Courses](#free-online-courses)
+    - [Interactive Programming Resources](#interactive-programming-resources)
+    - [Problem Sets and Competitive Programming](#problem-sets-and-competitive-programming)
+    - [Podcast - Screencast](#podcast---screencast)
+    - [Programming Playgrounds](#programming-playgrounds)
+  - [Translations](#translations)
+  - [License](#license)
+
+</details>
+
 ## Intro
 
 This list was originally a clone of [StackOverflow - List of Freely Available Programming Books](https://web.archive.org/web/20140606191453/http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926) with contributions from Karan Bhangui and George Stocker.
@@ -40,6 +64,9 @@ The list was moved to GitHub by Victor Felder for collaborative updating and mai
 The [Free Ebook Foundation](https://ebookfoundation.org) now administers the repo, a not-for-profit organization devoted to promoting the creation, distribution, archiving, and sustainability of free ebooks. [Donations](https://ebookfoundation.org/contributions.html) to the Free Ebook Foundation are tax-deductible in the US.
 
 
+<p align="right"><a href="#top">⬆️ Back to top</a></p>
+
+
 ## How To Contribute
 
 Please read [CONTRIBUTING](docs/CONTRIBUTING.md). If you're new to GitHub, [welcome](docs/HOWTO.md)! Remember to abide by our adapted from ![Contributor Covenant 1.3](https://img.shields.io/badge/Contributor%20Covenant-1.3-4baaaa.svg) [Code of Conduct](docs/CODE_OF_CONDUCT.md) too ([translations](#translations) also available).
@@ -57,6 +84,8 @@ Click on these badges to see how you might be able to help:
 
 </div>
 
+<p align="right"><a href="#top">⬆️ Back to top</a></p>
+
 ## How To Share
 
 <div align="left" markdown="1">
@@ -66,6 +95,8 @@ Click on these badges to see how you might be able to help:
 <a href="https://t.me/share/url?url=https://github.com/EbookFoundation/free-programming-books">Share on Telegram</a><br>
 <a href="https://twitter.com/intent/tweet?text=https://github.com/EbookFoundation/free-programming-books%0AFree%20Programming%20Books">Share on 𝕏 (Twitter)</a><br>
 </div>
+
+<p align="right"><a href="#top">⬆️ Back to top</a></p>
 
 ## Resources
 
@@ -217,6 +248,8 @@ Write, compile, and run your code within a browser. Try it out!
 + [English](more/free-programming-playgrounds.md)
 + [German / Deutsch](more/free-programming-playgrounds-de.md)
 
+<p align="right"><a href="#top">⬆️ Back to top</a></p>
+
 ## Translations
 
 Volunteers have translated many of our Contributing, How-to, and Code of Conduct documents into languages covered by our lists.
@@ -230,6 +263,11 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
 You might notice that there are [some missing translations here](docs/README.md#translations) - perhaps you would like to help out by [contributing a translation](docs/CONTRIBUTING.md#help-out-by-contributing-a-translation)?
 
 
+<p align="right"><a href="#top">⬆️ Back to top</a></p>
+
+
 ## License
 
 Each file included in this repository is licensed under the [CC BY License](LICENSE).
+
+<p align="right"><a href="#top">⬆️ Back to top</a></p>

@@ -107,7 +107,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Algorithms for Competitive Programming](https://cp-algorithms.com) - E-Maxx English Translation Project (HTML)
 * [Algorithms Illuminated](https://www.algorithmsilluminated.org) - Tim Roughgarden (HTML)
 * [Algorithms Notes for Professionals](https://goalkicker.com/AlgorithmsBook) - Compiled from StackOverflow Documentation (PDF)
-* [An Open Guide to Data Structures and Algorithms](https://opendsa-server.cs.vt.edu/OpenDSA/Books/Everything/html/) - Paul W. Bible, Lucas Moser
+* [OpenDSA Data Structures and Algorithms Modules Collection](https://opendsa-server.cs.vt.edu/OpenDSA/Books/Everything/html/) - Paul W. Bible, Lucas Moser
 * [Analysis of Algorithms](https://aofa.cs.princeton.edu/home/) - Robert Sedgewick, Philippe Flajolet
 * [Annotated Algorithms in Python: Applications in Physics, Biology, and Finance](https://github.com/mdipierro/nlib) - Massimo Di Pierro
 * [Binary Trees](http://cslibrary.stanford.edu/110/BinaryTrees.pdf) - Nick Parlante (PDF)

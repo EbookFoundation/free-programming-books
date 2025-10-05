@@ -105,7 +105,7 @@ HTML_DIR_ATTR_RE = re.compile(r"dir\s*=\s*(['\"])(rtl|ltr)\1", re.IGNORECASE)
 SPAN_DIR_RE = re.compile(r'<span[^>]*dir=["\'](rtl|ltr)["\'][^>]*>', re.IGNORECASE)
 
 # Regex to identify inline code (text enclosed in single backticks)
-INLINE_CODE_RE = re.compile(r'^`.*`$')
+INLINE_CODE_RE = re.compile(r'`[^`]+`')
 
 # Regex to identify the start of a code block (```)
 # Can be preceded by spaces or a '>' character (for blockquotes)

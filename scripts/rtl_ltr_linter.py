@@ -271,6 +271,10 @@ def lint_file(path, cfg):
         # Extract the text content of the list item and remove leading/trailing whitespace
         text = list_item.group(1).strip()
 
+
+        # Always define is_link_only_item to avoid UnboundLocalError later
+        is_link_only_item = False
+        
         # Extract item parts (title, author, metadata) if it matches the book format
         book_item = BOOK_ITEM_RE.match(text)
 
@@ -290,9 +294,6 @@ def lint_file(path, cfg):
 
             # Initialize title, author, and meta with empty strings
             title, author, meta = text, '', ''
-
-            # Set is_link_only_item to False
-            is_link_only_item = False
 
         # Specific check: RTL author followed by LTR metadata (e.g., اسم المؤلف (PDF))
         if  active_block_direction_ctx == 'rtl' and \

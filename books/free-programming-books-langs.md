@@ -991,6 +991,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [W3.CSS Succinctly](https://www.syncfusion.com/ebooks/w3_css_succinctly) - Joseph D. Booth
 * [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552) - Boris Smus
 * [Web Visual Effects with CSS3](https://leanpub.com/web-visual-effects-with-css3/read) - Thomas Mak
+* [Your First 30 Days of Web Development](https://www.newline.co/30-days-of-webdev) - Angel Garbarino (online)
 
 
 #### Bootstrap

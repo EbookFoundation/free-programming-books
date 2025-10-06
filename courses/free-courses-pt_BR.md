@@ -251,13 +251,14 @@
 * [Curso Completo de Kubernetes Para Devs](https://www.youtube.com/playlist?list=PLnOICPAPShyTwuLit7vP6In9kETQ0BSnQ) - Lucas Santos
 * [Curso De Introdução ao Kubernetes](https://www.youtube.com/playlist?list=PLXzx948cNtr8XI5JBemHT9OWuYSPNUtXs) - Insight Lab
 * [Descomplicando o Kubernetes](https://www.youtube.com/playlist?list=PLf-O3X2-mxDmXQU-mJVgeaSL7Rtejvv0S) - LinuxTips
-* [Maratona Kubernetes](https://www.youtube.com/playlist?list=PLB1hpnUGshULerdlzMknMLrHI810xIBJv&origin=CursosErickWendel) - Microsoft Brasil
-* [Mutirão Kubernetes](https://www.youtube.com/playlist?list=PLf-O3X2-mxDli3suNEnRquFyKYdrFLm3t) - LinuxTips
 * [Kubernetes](https://www.youtube.com/playlist?list=PL9wKVHxY5DoN9MfK7_iJcLDI75POJoRUL) - Marcones Nunes
+* [Kubernetes (K8s): Minicurso Gratuito](https://www.youtube.com/playlist?list=PL18bbNo7xuh8pIU-odMSjd_r8TyD7_jb7) - Erudito
 * [Kubernetes Dicas e Truques Para O Dia A Dia](https://www.youtube.com/playlist?list=PLAbYWcQD84aPfGZNaf8Pa35eGy_ywcR7V) - Canal dotNet
 * [Kubernetes Em Drops](https://www.youtube.com/playlist?list=PLZfrXScDmaiPF9EH1Uyh8kZdZ612h5eSz) - Fabricio Veronez
 * [Kubernetes Geral](https://www.youtube.com/playlist?list=PLf-O3X2-mxDm9d-RJSpjut6qDuGqRMsY2) - LinuxTips
-* [Kubernetes (K8s): Minicurso Gratuito](https://www.youtube.com/playlist?list=PL18bbNo7xuh8pIU-odMSjd_r8TyD7_jb7) - Erudito
+* [Maratona Kubernetes](https://www.youtube.com/playlist?list=PLB1hpnUGshULerdlzMknMLrHI810xIBJv&origin=CursosErickWendel) - Microsoft Brasil
+* [Mutirão Kubernetes](https://www.youtube.com/playlist?list=PLf-O3X2-mxDli3suNEnRquFyKYdrFLm3t) - LinuxTips
+
 
 ### Linux
 

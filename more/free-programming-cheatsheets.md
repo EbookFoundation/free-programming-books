@@ -432,6 +432,7 @@
 #### FastAPI
 
 * [FastAPI Cheat Sheet](https://github.com/Vasu-Devs/fastapi-cheatsheet) - Vasudev Siddh (Markdown)
+* [FastAPI Cheat Sheet](https://cheatsheetshero.com/user/all/391-fastapi-cheat-sheet.pdf) - CheatsheetsHero (PDF)
 
 
 #### Flask
@@ -443,6 +444,11 @@
 #### Jupyter
 
 * [Jupyter Cheatsheet](https://www.datacamp.com/cheat-sheet/jupyter-notebook-cheat-sheet) - Data Camp (HTML site with PDF links)
+
+
+#### Matplotlib
+
+* [Matplotlib Cheat Sheet: Plotting in Python](https://www.datacamp.com/cheat-sheet/matplotlib-cheat-sheet-plotting-in-python) - Data Camp (HTML)
 
 
 #### Numpy Pandas

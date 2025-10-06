@@ -82,7 +82,7 @@
 * [MDN Web Docs](https://developer.mozilla.org/fr/docs/Web) - Mozilla (HTML) (CC-BY-SA)
 * [Tutoriel CSS](https://web.archive.org/web/20240807215319/http://fr.html.net/tutorials/css/) - `trl.:` Jean Jacques Solari (HTML) *( :card_file_box: archived)*
 * [Tutoriel HTML](https://web.archive.org/web/20240910145639/http://fr.html.net/tutorials/html/) - `trl.:` Jean Jacques Solari (HTML) *( :card_file_box: archived)*
-* [TUTOS HTML et CSS](https://www.youtube.com/playlist?list=PLEagTQfI6nPObScwsDmTCbLuZXRYfiUM-) - Boris ('PrimFX')
+* [TUTOS HTML et CSS](https://www.youtube.com/playlist?list=PLEagTQfI6nPObScwsDmTCbLuZXRYfiUM-) - Boris 'PrimFX'
 
 
 ### Java

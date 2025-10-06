@@ -8,7 +8,7 @@
 * [C++](#cpp)
 * [Delphi](#delphi)
 * [Git](#git)
-* [HTML and CSS](#html-and-css)
+* [HTML / CSS](#html--css)
 * [Java](#java)
 * [JavaScript](#javascript)
     * [jQuery](#jquery)

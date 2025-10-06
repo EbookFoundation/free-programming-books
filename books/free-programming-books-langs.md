@@ -61,6 +61,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Forth](#forth)
 * [Fortran](#fortran)
 * [FreeBSD](#freebsd)
+* [Git](#Git)
 * [Go](#go)
 * [Graphs](#graphs)
     * [GraphQL](#graphql)
@@ -808,6 +809,11 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Books and Articles from FreeBSD Site](http://www.freebsd.org/docs/books.html)
 * [The Complete FreeBSD](http://www.lemis.com/grog/Documentation/CFBSD/)
 * [Using C on the UNIX System](http://www.bitsinthewind.com/about-dac/publications/using-c-on-the-unix-system) - David A. Curry
+
+
+### Git
+
+* [Pro Git](https://git-scm.com/book/en/v2) - Scott Chacon and Ben Straub (HTML, PDF, ePub)
 
 
 ### Go

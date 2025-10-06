@@ -380,7 +380,7 @@
 * [OpenCV untuk Pemula](https://www.youtube.com/playlist?list=PLl-Zj2iuqlwt4cBsBy_Ej7gNlXdQ7blCB) - NgodingPython
 * [Python](https://codesaya.com/python/) - CodeSaya
 * [Python (dasar)](https://www.youtube.com/playlist?list=PLT2AwM1dOOUe27iCPe68Z0qwwDeNyJawN) - beecoder id *(Dalam Proses)*
-* [Tutorial Belajar Machine Learning Dasar|Python Scikit-Learn](https://www.youtube.com/playlist?list=PL2O3HdJI4voHNEv59SdXKRQVRZAFmwN9E) - Indonesia Belajar
+* [Tutorial Belajar Machine Learning Dasar\|Python Scikit-Learn](https://www.youtube.com/playlist?list=PL2O3HdJI4voHNEv59SdXKRQVRZAFmwN9E) - Indonesia Belajar
 * [Tutorial Belajar Python Pandas](https://www.youtube.com/playlist?list=PL2O3HdJI4voGdD_9xhVCTBoDTDNHpajm5) - Indonesia Belajar
 * [Tutorial Python Beginner Bahasa Indonesia](https://www.youtube.com/watch?v=rWC2iFlN3TM) - Agung Setiawan
 * [Tutorial Python GUI dengan TKinter](https://www.youtube.com/playlist?list=PL2O3HdJI4voHjX09IpdsiSBNnLRaR-CbJ) - Indonesia Belajar

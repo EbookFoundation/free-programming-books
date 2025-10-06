@@ -109,6 +109,7 @@
 
 * [Data Structures in Telugu in 7hrs \| Full Course \| Learn Data Structures](https://www.youtube.com/watch?v=pm_ugbO2FlY) - Believer 01
 * [Data Structures](https://www.youtube.com/playlist?list=PLJSrGkRNEDAgmq4kKkPuh8aFJs-zxVbWK) - Lab Mug
++ [Java + DSA Course From scratch in Telugu] (https://www.youtube.com/playlist?list=PLjzLBp9HHZWhVXBSPS1VqxXXDoVk07gd9) - engineering animuthyam
 
 
 ### Ethical Hacking

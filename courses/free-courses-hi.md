@@ -669,6 +669,7 @@
 ### Open Source
 
 * [Open Source BootCamp - Master Open Source Contributions](https://www.youtube.com/playlist?list=PLinedj3B30sAT6CotNj0iffhRV89SkNK9) - Piyush Garg
+* [Open Souce Intro - How to Contribute in Open Source](https://www.youtube.com/watch?v=v3eCIPnn9Uo) - Anuj Singla
 
 
 ### Operating Systems

@@ -63,6 +63,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Code Catalog: A Collection of Code Examples from Prominent Open Source Projects](https://codecatalog.org)
 * [conceptf1.blogspot.com](https://conceptf1.blogspot.com/2013/11/list-of-freely-available-programming.html)
 * [dBooks - Free download open books](https://www.dbooks.org)
+* [FUTA School of Computing](https://soclibrary.futa.edu.ng/books)
 * [Free Tech Books](https://www.freetechbooks.com)
 * [Goalkicker](https://goalkicker.com) - Programming Notes for Professionals books
 * [IBM Redbooks](https://www.redbooks.ibm.com)

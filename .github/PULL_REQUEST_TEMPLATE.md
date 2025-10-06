@@ -1,26 +1,52 @@
-## What does this PR do?
+## 📝 What Does This PR Do?
+
 Add resource(s) | Remove resource(s) | Add info | Improve repo
 
-## IMPORTANT
-- [ ] Read our [contributing guidelines](https://github.com/EbookFoundation/free-programming-books/blob/main/docs/CONTRIBUTING.md).
-- [ ] Is this a revision of a previously submitted PR? If so, STOP! Go back, reopen the Pull Request, and add commit(s) the branch you previously submitted. Please don't make the job of reviewing more difficult by hiding previous work.
+---
 
-## For resources
+## ⚠️ Important Guidelines
+
+- [ ] I have read the [contributing guidelines](https://github.com/EbookFoundation/free-programming-books/blob/main/docs/CONTRIBUTING.md).  
+- [ ] Is this a revision of a previously submitted PR?  
+  - If yes, **stop!** Reopen the previous PR and add your new commits to the same branch.  
+  - Avoid creating a new PR for the same content — it makes the review process harder.
+
+---
+
+## 📚 For Resources
+
 ### Description
+- Describe the resource you are adding or updating.
 
 ### Why is this valuable (or not)?
+- Explain why this resource is helpful.
 
-### How do we know it's really free?
+### How do we know it’s truly free?
+- Confirm that the resource is freely accessible.
 
-### For book lists, is it a book? For course lists, is it a course? etc.
+### Resource Type
+- For books: Is it a book?  
+- For courses: Is it a course?  
+- Clearly indicate the type of resource.
 
-## Checklist:
-- [ ] [Search](https://ebookfoundation.github.io/free-programming-books-search/) for duplicates.
-- [ ] Include author(s) and platform where appropriate.
-- [ ] Put lists in alphabetical order, correct spacing.
-- [ ] Add needed indications (PDF, access notes, under construction).
-- [ ] Used an informative name for this pull request.
+---
 
-## Follow-up
+## ✅ Checklist Before Submitting
 
-- Check the status of GitHub Actions and resolve any reported warnings!
+- [ ] Search the [existing resources](https://ebookfoundation.github.io/free-programming-books-search/) to avoid duplicates.  
+- [ ] Include author(s) and platform where applicable.  
+- [ ] Ensure lists are in **alphabetical order** with proper spacing.  
+- [ ] Add necessary notes (PDF, access restrictions, under construction).  
+- [ ] Use a clear and informative title for the Pull Request.
+
+---
+
+## 🔧 Follow-up
+
+- Check the **GitHub Actions status** and fix any reported warnings or errors before submission.
+
+---
+
+> Contributing to open-source helps you learn, share knowledge, and grow as a developer.  
+> Thank you for your contributions! 💖
+

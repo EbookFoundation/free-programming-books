@@ -42,6 +42,7 @@
 * [PHP](#php)
 * [Python](#python)
     * [Django](#django)
+    * [FastAPI](#fastapi)
     * [Flask](#flask)
     * [Jupyter](#jupyter)
     * [Numpy Pandas](#numpy-pandas)
@@ -426,6 +427,11 @@
 * [Django Quick Reference](https://www.codewithharry.com/blogpost/django-cheatsheet/) - Code with Harry (HTML)
 * [Django Web App Beginners Cheat sheet](https://ordinarycoders.com/blog/article/django-beginners-guide) - Jaysha (HTML)
 * [(Python + Django) Cheatsheet](https://dev.to/ericchapman/my-beloved-django-cheat-sheet-2056) - Eric The Coder (HTML)
+
+
+#### FastAPI
+
+* [FastAPI Cheat Sheet](https://cheatsheetshero.com/user/all/391-fastapi-cheat-sheet.pdf) - CheatsheetsHero (PDF)
 
 
 #### Flask

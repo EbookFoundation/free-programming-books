@@ -482,6 +482,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [The New C Standard - An Economic and Cultural commentary (2009)](http://www.knosof.co.uk/cbook/cbook.html) - Derek M. Jones (PDF)
 * [TONC GBA Programming - Game Boy Advance Development](http://www.coranac.com/tonc/text/toc.htm)
 
+
 ### <a id="csharp"></a>C\#
 
 * [Architect Modern Web Applications with ASP.NET Core and Azure](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/) - Steve "ardalis" Smith

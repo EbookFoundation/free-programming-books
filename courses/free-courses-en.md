@@ -182,7 +182,6 @@
 * [Graph Series by Striver \| C++ \| Java \| Interview Centric \| Algorithms \| Problems](https://www.youtube.com/playlist?list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn) - take U forward
 * [Graph Theory playlist](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P) - WilliamFiset
 * [IIT Bombay Foundation of Data Structures (CS213.1x)](https://courses.edx.org/courses/course-v1:IITBombayX+CS213.1x+1T2017/course/)
-* [Intro to Data Structures and Algorithms](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) - Brynn Claypoole, Horatio Thomas (Udacity)
 * [JavaScript Algorithms and Data Structures](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP) - Codevolution
 * [Learn DS and Algorithms](https://www.programiz.com/dsa) - Programiz
 * [MIT's Design and Analysis of Algorithms (Spring 2012)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2012) - Dana Moshkovitz, Bruce Tidor
@@ -514,7 +513,6 @@
 * [CUDA Crash Course](https://www.youtube.com/playlist?list=PLxNPSjHT5qvtYRVdNN1yDcdSl39uHV_sU) - CoffeeBeforeArch
 * [CUDA Programming Course – High-Performance Computing with GPUs](https://www.youtube.com/watch?v=86FAWCzIe_4&t=2s) - Elliot Arledge (FreeCodeCamp)
 * [CUDA Tutorials](https://www.youtube.com/playlist?list=PLKK11Ligqititws0ZOoGk3SW-TZCar4dK) - Creel
-* [Intro to Parallel Programming Using CUDA to Harness the Power of GPUs](https://www.udacity.com/course/intro-to-parallel-programming--cs344) (Udacity)
 
 
 ### Dart
@@ -553,7 +551,6 @@
 * [Hive Tutorial](https://www.youtube.com/watch?v=MLDcapDQba4) - Great Learning
 * [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) (Coursera)
 * [Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170) - Udacity
-* [Intro to Data Science](https://www.udacity.com/course/intro-to-data-science--ud359) - Udacity
 * [Introduction to Data Science](https://alison.com/course/introduction-to-data-science-revised) - Alison
 * [Introduction to Data Science](https://www.simplilearn.com/data-science-free-course-for-beginners-skillup) - SkillUp by Simplilearn
 * [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) - Christopher Brooks (Coursera)
@@ -645,7 +642,6 @@
 * [Stanford CS 224N: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) (Stanford Online)
 * [Stanford CS230: Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb) (Stanford Online)
 * [Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/tutorial)
-* [What is Deep Learning](https://www.udacity.com/course/deep-learning--ud730) (Udacity)
 
 
 ### DevOps
@@ -655,7 +651,6 @@
 * [DevOps Bootcamp](https://www.youtube.com/playlist?list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak) - Kunal Kushwaha
 * [DevOps Full Course ](https://www.youtube.com/watch?v=lpk7VpGqkKw) - Simplilearn
 * [DevOps Tutorial for Beginners](https://www.youtube.com/playlist?list=PLVHgQku8Z934suC9LSE6vaAKjOH_MfRbE) - Intellipaat
-* [Intro to DevOps](https://www.udacity.com/course/intro-to-devops--ud611) - Karl Krueger, Dwayne Lessner, Gundega Dekena (Udacity)
 
 
 #### Ansible
@@ -732,7 +727,6 @@
 * [Flutter Course for Beginners - 37 hour](https://www.youtube.com/watch?v=VPvVD8t02U8) - freeCodeCamp.org
 * [Flutter Crash Course](https://fluttercrashcourse.com/courses/basics/lessons/materialapp-scaffold-appbar-text) - Nick Manning *(account required)*
 * [Flutter State Management Course](https://www.youtube.com/playlist?list=PL6yRaaP0WPkUf-ff1OX99DVSL1cynLHxO) - Vandad Nahavandipoor
-* [Flutter Tutorial](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905) - Matt Sullivan, James Williams, Mary Xia (Udacity)
 * [Flutter Tutorial for Beginners](https://www.udemy.com/course/learn-flutter-beginners-course) - Mayuresh Wankhede (Udemy)
 * [Flutter Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ) - The Net Ninja
 * [Flutter Tutorial for Beginners](https://www.solutelabs.com/blog/flutter-tutorial-for-beginners-step-by-step-guide) - Solute Labs
@@ -798,7 +792,6 @@
 * [Git How To](https://githowto.com) - Alexander Shvets
 * [Git Tutorial - Learn Command-line Git & GitHub](https://www.youtube.com/playlist?list=PLpcSpRrAaOarEpNz71TSfNVd0eQmsZSgN) - LearnWebCode
 * [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE) - Moshfegh Hamedani (Programming with Mosh)
-* [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775) (Udacity)
 * [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) - Google (Coursera)
 * [Introduction to version control with Git](https://learn.microsoft.com/en-us/training/paths/intro-to-vc-git/) - Microsoft Learn
 * [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud) - Atlassian
@@ -974,7 +967,6 @@
 * [Object-Oriented programming with Java, part I](https://moocfi.github.io/courses/2013/programming-part-1/)
 * [Object-Oriented programming with Java, part II](https://moocfi.github.io/courses/2013/programming-part-2/)
 * [Princeton Algorithms, Part 1](https://www.coursera.org/course/algs4partI)
-* [Problem Solving With Java](https://www.udacity.com/course/intro-to-java-programming--cs046) (Udacity)
 * [Servlet & JSP Tutorial Full Course](https://www.youtube.com/watch?v=OuBUUkQfBYM) - Telusko (Navin Reddy)
 * [Software Construction in Java](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.1x+3T2016/about) - MIT Open Learning Library
 * [Spring 5 Core - An Ultimate Guide](https://www.udemy.com/learn-spring-5-core-from-scratch/) - Somnath Musib (Udemy)
@@ -1529,7 +1521,6 @@
 * [Practical Python: An Immersive Python Course](https://practical.learnpython.dev) - Nina Zakharenko
 * [Practical Python Programming](https://dabeaz-course.github.io/practical-python/) - David Beazley
 * [Problem Solving, Python Programming, and Video Games](https://www.coursera.org/learn/problem-solving-programming-video-games) - Duane Szafron, Paul Lu (Coursera)
-* [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) (Udacity)
 * [Python 101 – Introduction to Programming](https://www.tutorialspoint.com/python_101_andndash_introduction_to_programming/index.asp) - Zenva (Tutorials Point)
 * [Python 3](https://www.sololearn.com/Course/Python/) (SoloLearn)
 * [Python 3 Programming Tutorials for Beginners](https://www.youtube.com/playlist?list=PLeo1K3hjS3uv5U-Lmlnucd7gqF-3ehIh0) - Codebasics

@@ -343,15 +343,15 @@
 * [Introdução a linguagem de programação python](https://www.udemy.com/introducao-programacaopython/) - Abraão Passos de Oliveira (Udemy)
 * [Introdução à linguagem Python](https://www.udemy.com/intro_python/) - Diego Mariano (Udemy)
 * [Logging no Python](https://www.youtube.com/playlist?list=PLbIBj8vQhvm28qR-yvWP3JELGelWxsxaI) - Otávio Miranda
-* [Orientação a Objetos](https://www.youtube.com/playlist?list=PLucm8g_ezqNqj--UUSn16yfDp3xcZi40t) - Otávio Miranda
 * [Matemática com Python](https://www.youtube.com/playlist?list=PLucm8g_ezqNrCFUZ3vPIKs41hveecygsm) -  Otávio Miranda
+* [Orientação a Objetos](https://www.youtube.com/playlist?list=PLucm8g_ezqNqj--UUSn16yfDp3xcZi40t) - Otávio Miranda
 * [Programação em Python](https://www.youtube.com/playlist?list=PLucm8g_ezqNrrtduPx7s4BM8phepMn9I2) - Bóson Treinamentos
 * [Programação em Python: O Guia para Iniciantes](https://www.udemy.com/course/programacao-python-guia-para-iniciantes/) - Jones Granatyr (Udemy)
 * [Python 3 na Prática](https://www.udemy.com/python-3-na-pratica/) - João Batista (Udemy)
 * [Python 3 na Web com Django (Básico e Intermediário)](https://www.udemy.com/python-3-na-web-com-django-basico-intermediario/) - Gileno Alves Santa Cruz Filho (Udemy)
 * [Python Básico](https://solyd.com.br/treinamentos/python-basico) - Guilherme Junqueira (Solyd Offensive Security)
+* [Python Com Bancos de Dados](https://www.youtube.com/playlist?list=PLucm8g_ezqNp7ECP-fidzdgeVDufBTYDV) - Bóson Treinamentos
 * [Python Fundamentos para Análise de Dados](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) - Data Science Academy
-* [Python com Bancos de Dados](https://www.youtube.com/playlist?list=PLucm8g_ezqNp7ECP-fidzdgeVDufBTYDV) - Bóson Treinamentos
 * [Python Orientado a Objetos Python POO](https://www.youtube.com/playlist?list=PLbIBj8vQhvm34qAAEEH_PdL2tMG9rz-P7) - Otávio Miranda
 * [Python para Competições de Programação](https://www.youtube.com/playlist?list=PLMxflQ9_eOd9CY6Id5gfs3Edqt8vLC47p) - Adorilson
 * [Python para Iniciantes](https://www.udemy.com/python-para-iniciantes/) - Tiago Miguel (Udemy)

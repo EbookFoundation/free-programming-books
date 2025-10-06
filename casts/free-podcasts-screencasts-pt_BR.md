@@ -80,6 +80,7 @@
 ### Language Agnostic
 
 * [Castálio Podcast](http://castalio.info) (podcast)
+* [DevShow](https://www.youtube.com/playlist?list=PL3thWewfjbFSbTH0_A1HOjexDNAEEonCQ) - (podcast)
 * [DevNaEstrada](http://devnaestrada.com.br) (podcast)
 * [Grok Podcast](http://www.grokpodcast.com) (podcast)
 * [Hipsters Ponto Tech](http://hipsters.tech) (podcast)

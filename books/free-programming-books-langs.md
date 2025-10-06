@@ -1493,6 +1493,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Kali Linux: Professional Penetration-Testing Distribution](http://docs.kali.org)
 * [Learning Debian GNU/Linux](http://www.oreilly.com/openbook/debian/book/index.html)
 * [Linux 101 Hacks](http://thegeekstuff.s3.amazonaws.com/files/linux-101-hacks.zip) - Ramesh Natarajan (PDF)
+* [Linux Administration II : Linux as a Network Client](https://www.tuxcademy.org/download/en/adm2/adm2-en-manual.pdf) - Anselm Lingnau,Tobias Elsner (PDF)  (CC BY-SA)
 * [Linux Advanced Routing & Traffic Control HOWTO](http://lartc.org)
 * [Linux Appliance Design: A Hands-On Guide to Building Linux Appliances](http://librta.org/book.html) - Bob Smith, John Hardin, Graham Phillips, Bill Pierce (PDF, EPUB, MOBI)
 * [Linux commands Notes for Professionals](https://goalkicker.com/LinuxBook/) - Compiled from StackOverflow documentation (PDF)
@@ -2085,7 +2086,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [The Python Coding Book](https://thepythoncodingbook.com) - Stephen Gruppetta (HTML)
 * [The Python GTK+ 3 Tutorial](http://python-gtk-3-tutorial.readthedocs.org/en/latest/)
 * [The Python Handbook](https://flaviocopes.com/page/python-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
-* [The Recursive Book of Recursion](https://inventwithpython.com/recursion/) - Al Swigart (HTML) (3.x)
+* [The Recursive Book of Recursion](https://inventwithpython.com/recursion/) - Al Sweigart (HTML) (3.x)
 * [The Standard Python Library](https://web.archive.org/web/20200626001242/http://effbot.org/librarybook/) - Fredrik Lundh *( :card_file_box: archived)*
 * [Think Complexity](https://greenteapress.com/wp/think-complexity-2e/) - Allen B. Downey (2nd Edition) (PDF, HTML)
 * [Think DSP - Digital Signal Processing in Python](https://greenteapress.com/wp/think-dsp/) - Allen B. Downey (PDF, HTML)

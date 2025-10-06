@@ -336,8 +336,13 @@
 * [Criando APIs com NodeJs](https://www.youtube.com/playlist?list=PLHlHvK2lnJndvvycjBqQAbgEDqXxKLoqn) - Balta.io
 * [Curso de Node](https://www.youtube.com/watch?v=XN705pQeoyU&list=PLx4x_zx8csUjFC41ev2qX5dnr-0ThpoXE) - Bruno CFBCursos
 * [Curso de Node.js](https://www.youtube.com/playlist?list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B) - Victor Lima Guia do Programador
+* [Curso de Node.js](https://www.youtube.com/playlist?list=PLmY5AEiqDWwAY8AyeNy1zv-n4LEdGz1iE) - Celke
 * [Do Zero A Produção: Aprenda A Construir Uma API Node.Js Com Typescript](https://www.youtube.com/playlist?list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh) - Waldemar Neto Dev Lab
 * [Imersão em desenvolvimento de APIs com Node.js](https://erickwendel.teachable.com/p/node-js-para-iniciantes-nodebr) - Erick Wendel (Teachable)
+* [Minicurso de NodeJS](https://www.youtube.com/playlist?list=PLpdAy0tYrnKxtfd_aI9ZGmnHfZHveudsh) - Hashtag Programação
+* [Node](https://www.youtube.com/playlist?list=PLsFVybaG4mOARbjw1gfUKiYMYh3PsxDFp) - DevClub Programação
+* [NodeJS](https://www.youtube.com/playlist?list=PLbIBj8vQhvm39CsidhA5SJBBu7-hPbuwy) - Otávio Miranda
+* [NodeJS/Express](https://www.youtube.com/playlist?list=PLDqnSpzNKDvkgJdaBT14ll07yXCbuMucM) - Angelo Luz
 * [RESTful com Node.js e Restify](https://www.youtube.com/playlist?list=PLy5T05I_eQYO5Y3S3kVqBxQzkUNllPazF) - Codecasts
 * [Serie API NodeJS](https://www.youtube.com/playlist?list=PL85ITvJ7FLoiXVwHXeOsOuVppGbBzo2dp) - Diego Fernandes (Rocketseat)
 * [Testes no NodeJS aplicando TDD com Jest](https://www.youtube.com/watch?v=2G_mWfG0DZE&list=PL85ITvJ7FLoh7QBmTVzuNYvZaYPYwDmei) - Diego Fernandes (Rocketseat)
@@ -365,7 +370,15 @@
 ### Programação
 
 * [Algoritmos de Ordenação](https://www.youtube.com/playlist?list=PLzZut2slkqywtFxqTY8AQwIG65h_2oMBL) - Bruno Ribas
+* [Como Computadores Funcionam?](https://www.youtube.com/playlist?list=PLdsnXVqbHDUcQIuiH9b-i9A85H3A2ZW5W) - Fabio Akita
+* [Conceitos de Programação](https://www.youtube.com/playlist?list=PLdsnXVqbHDUcrE56CH8sXaPF3TTqoBP2z) - Fabio Akita
 * [Curso Lógica de Programação Completo 2023 [Iniciantes] + Desafios + Muita prática](https://www.youtube.com/watch?v=iF2MdbrTiBM) - Jonathan de Souza
+* [Frontend para Iniciantes](https://www.youtube.com/playlist?list=PLsGmTzb4NxK2sGY3KqKmg1UTxNTcPPK1Z) - LuizTools
+* [Inteligência Artificial](https://www.youtube.com/playlist?list=PLdsnXVqbHDUeowsAO0sChHDY4D65T5s1U) - Fabio Akita
+* [Programação para Iniciantes](https://www.youtube.com/playlist?list=PLdsnXVqbHDUc7htGFobbZoNen3r_wm3ki) - Fabio Akita
+* [Programação para Iniciantes](https://www.youtube.com/playlist?list=PLsGmTzb4NxK3r0_sMLyHKaYX97tPN2QPm) - LuizTools
+* [Scrum para Iniciantes](https://www.youtube.com/playlist?list=PLsGmTzb4NxK0DmRwEO4IBRjuCRyRZ8FnQ) - LuizTools
+* [Sistemas Operacionais](https://www.youtube.com/playlist?list=PLdsnXVqbHDUd17xLINVEXhJ32RxbzCEWV) - Fabio Akita
 
 
 ### Python

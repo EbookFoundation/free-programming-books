@@ -32,7 +32,7 @@
 * [Algoritma ve Programlamaya Giriş Ders Notları](https://ia601404.us.archive.org/12/items/algoritma-ve-programlamaya-giris-ders-notlari/Algoritma%20ve%20Programlamaya%20Giri%C5%9F%20Ders%20Notlar%C4%B1.pdf) - [İbrahim Küçükkoç](http://ikucukkoc.baun.edu.tr) (PDF)
 * [Algoritmalar ve Programlama](https://ia601408.us.archive.org/31/items/algoritmalar-ve-programlama/Algoritmalar%20ve%20Programlama.pdf) (PDF)
 * [Bilgisayar Teriminde Algoritma](https://ia601504.us.archive.org/20/items/bilgisayar-teriminde-algoritma/Bilgisayar%20Teriminde%20Algoritma.pdf) - Agah Emir (PDF)
-* [Veri Yapıları Ders Notları](https://avesis.kayseri.edu.tr/resume/lessonmaterieldownload/kayaalti?key=a9b67077-3132-489c-a460-53cb34d3afc3) - Y. Doç. Dr. Aybars UGUR 
+* [Veri Yapıları Ders Notları](https://avesis.kayseri.edu.tr/resume/lessonmaterieldownload/kayaalti?key=a9b67077-3132-489c-a460-53cb34d3afc3) - Aybars UGUR (PDF)
 
 
 ### Android
@@ -129,7 +129,7 @@
 * [GNU Linux Komutlari](https://www.fullportal.org/GNULINUX/Komutlar/GNULINUXKOMUTLAR.pdf) (PDF)
 * [Linux Belgeleri](http://www.belgeler.org/howto/howtos.html)
 * [Linux Sistem Yöneticisinin Kılavuzu](http://www.belgeler.org/sag/sag.html)
-* [Linux Sistem Yönetimi](https://web.deu.edu.tr/doc/misc/Linux_Sistem_Yonetimi.pdf) (PDF)
+* [Linux Sistem Yönetimi](https://web.deu.edu.tr/doc/misc/Linux_Sistem_Yonetimi.pdf) - Linux Kullanıcıları Derneği Burak DAYIOĞLU, Berk DEMİR(PDF)
 
 
 ### .NET Framework
@@ -171,6 +171,6 @@
 * [Rust'a Giriş](https://github.s3.amazonaws.com/downloads/vertexclique/vertexclique.github.io/Rusta-Giris-v1.pdf) - Mahmut Bulut (PDF)
 
 
-### Yapay Zeka
+### <a id="yapay-zeka"></a>Yapay Zeka
 
-* [Derin Öğrenmeye Dalış](https://tr.d2l.ai/d2l-tr-pytorch.pdf) (PDF) 
+* [Derin Öğrenmeye Dalış](https://tr.d2l.ai/d2l-tr-pytorch.pdf) - Aston Zhang, Zachary C. Lipton, Mu Li, and Alexander J. Smola (PDF) 

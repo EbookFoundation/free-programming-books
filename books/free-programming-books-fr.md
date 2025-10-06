@@ -273,9 +273,7 @@
 
 ### Python
 
-* [Introduction à la programmation](https://self-learning.info.ucl.ac.be/index/info1-exercises) (Inscription gratuite sur le site. Pour réaliser les exercices sur INGInious.org, créez-vous un compte gratuitement et liez ensuite votre compte self-learning à votre compte INGInious. )
 * [Le guide de l’auto-stoppeur pour Python!](https://python-guide-fr.readthedocs.io/fr/latest/) - Kenneth Reitz
-* [Python Programming in French](https://www.youtube.com/playlist?list=PL0mGkrTWmp4ugGM9fiZjEuzMFeKD6Rh5G) - Data Scientist Nigeria
 * [Apprendre à programmer avec Python](https://inforef.be/swi/python.htm) - Gerard Swinnen, `trl.:` Péter Daróczy, Hichem Razgallah, Mohamed Amine et al. (HTML, PDF, EPUB, ODT) (CC BY-NC-SA) (2.x & 3.x)
 * [Une introduction à Python 3](https://perso.limsi.fr/pointal/python:courspython3) - Bob Cordeau, Laurent Pointal
 

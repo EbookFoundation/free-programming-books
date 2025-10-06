@@ -274,8 +274,8 @@
 ### Python
 
 * [Apprendre à programmer avec Python](https://inforef.be/swi/python.htm) - Gerard Swinnen, `trl.:` Péter Daróczy, Hichem Razgallah, Mohamed Amine et al. (HTML, PDF, EPUB, ODT) (CC BY-NC-SA) (2.x & 3.x)
-* [Une introduction à Python 3](https://perso.limsi.fr/pointal/python:courspython3) - Bob Cordeau, Laurent Pointal
 * [Le guide de l’auto-stoppeur pour Python!](https://python-guide-fr.readthedocs.io/fr/latest/) - Kenneth Reitzi (HTML, PDF) (CC BY-NC-SA)
+* [Une introduction à Python 3](https://web.archive.org/web/20250204070442if_/https://perso.limsi.fr/pointal/python:courspython3) - Bob Cordeau, Laurent Pointali (CC BY-NC-SA) *( :card_file_box: archived)*
 
 
 #### Django

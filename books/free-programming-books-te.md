@@ -27,8 +27,3 @@
 ### <a id="java"></a>JAVA
 
 * [Core Java in Telugu | Java Programming](https://youtube.com/playlist?list=PLz8gl4BEGkEGYXNZrIRHJUSoxS_FPBrDy&si=w9idhgQmPCsUzEZX) - H Y R Tutorials
-
-
-### <a id="cpp"></a>C
-
-* [C language Full Tutorial for Beginners in Telugu](https://youtube.com/playlist?list=PLNgoFk5SYUglsFq6H2WkQODuzsQyyRrPl&si=5hm0I7G_8ksFzk6v) - Vamsi Bhavan

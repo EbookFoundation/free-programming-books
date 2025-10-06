@@ -133,6 +133,7 @@
 
 ### Java
 
+* [Corso Base Spring Boot](https://www.youtube.com/playlist?list=PLoZNHBEyxFQHFkgxYwri50YEmbiRADl-O) - Giovanni Pace
 * [Corso di Java Spring Framework](https://www.youtube.com/playlist?list=PLCbSCJEIR6CqgCLyVzqp49xOm8A5YDTKA) - Mauro Cicolella
 * [Corso di JPA Java Persistence API](https://www.youtube.com/playlist?list=PLCbSCJEIR6Co1aPvFfPuIsRGouF9D0Jk3) - Mauro Cicolella
 * [Corso Java in Italiano COMPLETO 2023/2024](https://www.youtube.com/playlist?list=PLUnSLr48xh3CAuL_Q0VAjthv0WbPuQQRR) - Code Brothers
@@ -228,6 +229,7 @@
 #### Git
 
 * [Corso Git 2017](https://www.youtube.com/playlist?list=PLA27EZBY5veN02RzEr6Ecm7KcjWadthBh) - POuL Politecnico di Milano
+* [Dominare GIT - La Guida Completa per Principianti e Professionisti](https://www.youtube.com/playlist?list=PLoZNHBEyxFQFc2fn3raEjovUK_BLWS0kO) - Giovanni Pace
 
 
 #### Maven

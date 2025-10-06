@@ -431,6 +431,7 @@
 
 #### FastAPI
 
+* [FastAPI Cheat Sheet](https://github.com/Vasu-Devs/fastapi-cheatsheet) - Vasudev Siddh (Markdown)
 * [FastAPI Cheat Sheet](https://cheatsheetshero.com/user/all/391-fastapi-cheat-sheet.pdf) - CheatsheetsHero (PDF)
 
 

@@ -312,7 +312,6 @@
 
 ### LaTeX
 
-* [Learn LaTeX](https://www.overleaf.com/learn) - Overleaf
 * [Learn LaTeX in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 
 
@@ -361,7 +360,6 @@
 
 * [CodeCademy PHP](https://www.codecademy.com/learn/php)
 * [Learn PHP](http://www.learn-php.org)
-* [PHP tutorial](https://www.tutorialspoint.com/php/) - Tutorialspoint
 * [PHP tutorial](https://www.w3schools.com/php) - W3Schools
 
 

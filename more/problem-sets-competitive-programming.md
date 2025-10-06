@@ -99,7 +99,8 @@
 * [Striver’s CP Sheet](https://takeuforward.org/interview-experience/strivers-cp-sheet/)
 * [System Design Roadmap with Videos for SDEs](https://takeuforward.org/system-design/complete-system-design-roadmap-with-videos-for-sdes/) - take U forward(takeuforward)
 * [Ask senior's cp sheet](https://www.asksenior.in/learn)
-* [Tle eliminator's cp sheet](https://www.tle-eliminators.com/)
+* [Tle eliminator's cp sheet](https://www.tle-eliminators.com)
+
 
 ### Problem Sets
 

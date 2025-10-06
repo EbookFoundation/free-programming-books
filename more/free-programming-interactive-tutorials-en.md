@@ -373,7 +373,6 @@
 ### PostgreSQL
 
 * [PostgreSQL Tutorial](https://www.postgresqltutorial.com)
-* [PostgreSQL Tutorial](https://neon.com/postgresql/tutorial)
 * [PostgreSQL Tutorial](https://www.w3schools.com/postgresql/) - W3Schools
 
 
@@ -439,9 +438,7 @@
 ### Scala
 
 * [A Tour of Scala - an interactive scala tutorial](https://scalatutorials.com/tour/)
-* [Hands-on Scala](https://github.com/handsonscala/handsonscala)
 * [Scala Exercises](https://www.scala-exercises.org)
-* [Scala For Statistical Computing and Data Science](https://github.com/darrenjw/scala-course)
 
 
 ### Selenium

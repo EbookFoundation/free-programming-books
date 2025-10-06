@@ -79,7 +79,7 @@
 * [HTML/CSS - Exercices](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHEFVqv0pjGkPHv6PhWZQBb) - EvoluNoob
 * [HTML/CSS - Tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfG1_4HrfPttdwF8aLpgdsRL) - EvoluNoob
 * [Le préprocesseur SASS](https://www.youtube.com/playlist?list=PLjwdMgw5TTLWVp8WUGheSrGnmEWIMk9H6) - Grafikart
-* [MDN Web Docs](https://developer.mozilla.org/fr/) - Contributrices et contributeurs de Mozilla (HTML) (CC-BY-SA)
+* [MDN Web Docs](https://developer.mozilla.org/fr/docs/Web) - Mozilla (HTML) (CC-BY-SA)
 * [Tutoriel CSS](https://web.archive.org/web/20240807215319/http://fr.html.net/tutorials/css/) - `trl.:` Jean Jacques Solari (HTML) *( :card_file_box: archived)*
 * [Tutoriel HTML](https://web.archive.org/web/20240910145639/http://fr.html.net/tutorials/html/) - `trl.:` Jean Jacques Solari (HTML) *( :card_file_box: archived)*
 * [TUTOS HTML et CSS](https://www.youtube.com/playlist?list=PLEagTQfI6nPObScwsDmTCbLuZXRYfiUM-) - Boris ('PrimFX')

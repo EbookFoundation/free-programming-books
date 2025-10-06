@@ -302,7 +302,7 @@
 
 #### Operating systems
 
-* [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os) - Sergey Matyukevich *(:construction: in process)*
+* [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os) - Sergey Matyukevich *( :construction: in process)*
 * [Linux Journey - Fun and Easy](https://linuxjourney.com) - Cindy Quach
 * [Operating System Tutorial](https://www.scaler.com/topics/operating-system/) - Scaler Topics
 * [Practice Linux Commands (Hands-On Labs)](https://labex.io/tutorials/practice-linux-commands-free-tutorials-398420) - LabEx
@@ -451,6 +451,7 @@
 
 * [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql) - Khan Academy
 * [MySQL Tutorial](https://www.w3schools.com/MySQL/) - W3Schools
+* [Select Star SQL](https://selectstarsql.com) - Zi Chong Kao (CC BY-SA)
 * [SQL at Codecademy](https://www.codecademy.com/courses/learn-sql)
 * [SQL Server Tutorial](https://www.tutlane.com/tutorial/sql-server) - tutlane
 * [SQL Teaching](https://www.sqlteaching.com)

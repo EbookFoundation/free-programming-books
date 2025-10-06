@@ -39,7 +39,7 @@
 * [C++](https://fi.wikibooks.org/wiki/C%2B%2B) - Wikikirjasto
 * [C++-ohjelmointi](https://www.ohjelmointiputka.net/oppaat/opas.php?tunnus=cpp_ohj_01)
 * [C++-opas](http://www.nic.funet.fi/c++opas/) - Aleksi Kallio
-* [Olioiden ohjelmointi C++:lla](https://web.archive.org/web/20170918213135/http://www.cs.tut.fi/~oliot/kirja/olioiden-ohjelmointi-uusin.pdf) - Matti Rintala, Jyke Jokinen (PDF) *(:card_file_box: archived)*
+* [Olioiden ohjelmointi C++:lla](https://web.archive.org/web/20170918213135/http://www.cs.tut.fi/~oliot/kirja/olioiden-ohjelmointi-uusin.pdf) - Matti Rintala, Jyke Jokinen (PDF) *( :card_file_box: archived)*
 
 
 ### Java
@@ -60,7 +60,7 @@
 
 ### OpenGL
 
-* [OpenGL](https://fi.wikibooks.org/wiki/OpenGL) - Wikikirjasto *(:construction: keskeneräinen)*
+* [OpenGL](https://fi.wikibooks.org/wiki/OpenGL) - Wikikirjasto *( :construction: keskeneräinen)*
 
 
 ### PHP

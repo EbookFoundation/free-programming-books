@@ -135,13 +135,13 @@ Exemple:
 - <a id="in_process"></a>Llibres en procés / encara no acabats:
 
     ```text
-    CORRECTE : * [A punt de ser un llibre fascinant](http://example.com/book2.html) - John Doe (HTML) (:construction: *en procés
+    CORRECTE : * [A punt de ser un llibre fascinant](http://example.com/book2.html) - John Doe (HTML) ( :construction: *en procés
     ```
 
 - <a id="archived"></a>Enllaços arxivats:
 
     ```text
-    CORRECTE : * [Un recurs recuperat a partir de la seva línia de temps](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *(:card_file_box: arxivat)*
+    CORRECTE : * [Un recurs recuperat a partir de la seva línia de temps](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *( :card_file_box: arxivat)*
     ```
 
 <!----><a id="alphabetical-order"></a>

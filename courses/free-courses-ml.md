@@ -216,6 +216,7 @@
 * [Python Programming Malayalam Tutorial](https://www.youtube.com/watch?v=ihnWXGPxNEk) - Yes Tech Media
 * [Python Tutorial Malayalam \| Best Malayalam Python Programming Tutorial](https://youtube.com/playlist?list=PLY-ecO2csVHfbpOmWamlb8Mujjdnl1jks) - Brototype Malayalam
 * [Python Tutorial Malayalam \| Full videos Playlist](https://youtube.com/playlist?list=PLd_rdeTABMgQgZj2g9IyWqA2bnkHDUyof&feature=shared) - Safeonnet
+* [Python FastAPI Tutorial Malayalam](https://youtube.com/playlist?list=PL1pQFrHyimJTUk2w27AU1n3jzxJjycZFc&si=64k_-OQrN000-_I9) - by Build From Zero
 
 
 #### Django

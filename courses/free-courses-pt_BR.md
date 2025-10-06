@@ -17,6 +17,7 @@
 * [Haskell](#haskell)
 * [HTML and CSS](#html-and-css)
 * [IDE and editors](#ide-and-editors)
+* [Inteligência Artificial](#inteligência-artificial)
 * [Ionic](#ionic)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -111,6 +112,16 @@
 
 * [Curso de Docker Completo](https://www.youtube.com/playlist?list=PLg7nVxv7fa6dxsV1ftKI8FAm4YD6iZuI4) - Robert Silva
 * [Curso de Docker para iniciantes - aprenda Docker em 1 hora](https://www.youtube.com/watch?v=np_vyd7QlXk) - Matheus Battisti
+* [Curso de Introdução ao Docker](https://www.youtube.com/playlist?list=PLXzx948cNtr8N5zLNJNVYrvIG6hk0Kxl-) - Insight Lab
+* [Curso Gratuito de Docker](https://www.youtube.com/playlist?list=PLNCSWIsR6ADKRq-XBvAcRd4XtqLj3f_mf) - Fernanda Kipper
+* [Descomplicando o Docker](https://www.youtube.com/playlist?list=PLf-O3X2-mxDn1VpyU2q3fuI6YYeIWp5rR) - LINUXtips
+* [Docker](https://www.youtube.com/playlist?list=PLZfrXScDmaiNw3k2-TdfML9GhpsmOlhM3) - Fabricio Veronez
+* [Docker](https://www.youtube.com/playlist?list=PL5aY_NrL1rjsvaRqv_0HOFA_91lqJGRWe) - Full Cycle
+* [Docker](https://www.youtube.com/playlist?list=PLZTjHbp2Y78013IcGa-vCAcqQUwGt_MW6) - AlgaWorks
+* [Docker](https://www.youtube.com/playlist?list=PLZfrXScDmaiPb8hegiJTqKI8aDUJpo-IJ) - Fabricio Veronez
+* [Docker Essencial: Primeiros Passos](https://www.youtube.com/playlist?list=PLViOsriojeLrdw5VByn96gphHFxqH3O_N) - TechEduca
+* [Docker na prática](https://www.youtube.com/playlist?list=PLR8JXremim5BWiO-MCaAffQYwFZrD11-j) - Thiago Veigah
+* [Minicurso Docker](https://www.youtube.com/playlist?list=PLPqoPgWuohm6eTyf2_yczUDN0wpHpsjf1) - Iago Ferreira TI - Aprenda Cloud e DevOps do ZERO
 
 
 ### Elixir
@@ -132,8 +143,12 @@
 
 * [Curso de Git](https://www.youtube.com/playlist?list=PLucm8g_ezqNq0dOgug6paAkH0AQSJPlIe) - Bóson Treinamentos
 * [Curso de Git e GitHub: grátis, prático e sem usar comandos no terminal](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA) - Gustavo Guanabara
+* [Curso de Versionamento com Git](https://www.youtube.com/playlist?list=PLDqnSpzNKDvkfF_ZMfukmOG3MtGKfXlfJ) - Angelo Luz
 * [Curso Git e Github 2024](https://www.youtube.com/playlist?list=PLHbGjxRVA_FmFRF1-OqWaWwqhIiS9Cg0w) - Carlos Uchoa
+* [Curso gratuito Git e GitHub](https://www.youtube.com/playlist?list=PLcoYAcR89n-qbO7YAVj5S0alABLis_QVU) - Tiago Matos
+* [Git](https://www.youtube.com/playlist?list=PL85ITvJ7FLoh-1TFRDe7bHzAWY4DlIRtk) - Rocketseat
 * [Git e contribuições para projetos Open Source](https://www.udemy.com/course/git-e-github/) - Bruno Orlandi (Udemy)
+* [Git e Github na Vida Real](https://www.youtube.com/playlist?list=PLlAbYrWSYTiNqugqFFWWsgONJsmc3eMpg) - Willian Justen
 * [Git e Github para iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/) - Willian Justen de Vasconcellos (Udemy)
 * [Git para iniciantes](https://www.udemy.com/git-para-iniciantes/) - Ricardo Netto (Udemy)
 
@@ -141,11 +156,18 @@
 ### Go
 
 * [Aprenda Go / Golang (Curso Tutorial de Programação)](https://www.youtube.com/playlist?list=PLUbb2i4BuuzCX8CLeArvx663_0a_hSguW) - NBK Mundo Tech
+* [Aprenda Go 🇧🇷](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg) - Aprenda Go
+* [Aprendendo Go](https://www.youtube.com/playlist?list=PLcF8UVYja9nacMX3sXbOV1Kqyc-GdaJTu) - Lais Lima
+* [Aprendendo GoLang](https://www.youtube.com/playlist?list=PLm-xZWCprwYSlEHjZDvhaq9izo3AVbiRO) - HunCoding
 * [Curso de Introdução a Linguagem Go (Golang)](https://www.youtube.com/playlist?list=PLXFk6ROPeWoAvLMyJ_PPfu8oF0-N_NgEI) - EuProgramador
 * [Curso Golang](https://www.youtube.com/playlist?list=PL3IMfVHTpXw14FL_TRIdHfeYTeOet1GS9) - Universo Mainframe
+* [Estruturas de  Dados em GoLang (DSA in Go)](https://www.youtube.com/playlist?list=PLm-xZWCprwYTEKad8bM1H0kxHxDMlzXeO) - HunCoding
+* [Estruturas de Dados em Go](https://www.youtube.com/playlist?list=PLHPgIIn9ls69DRXLaYHu4pKYDB_8H_05i) - Tiago Temporin
 * [Go - Aprenda a Programar (Curso)](https://www.youtube.com/playlist?list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg) - Ellen Körbes
 * [Go 101 (Curso)](https://www.youtube.com/playlist?list=PLHPgIIn9ls6-1l7h8RUClMKPHi4NoKeQF) - Tiago Temporin
 * [Golang do Zero](https://www.youtube.com/playlist?list=PL5aY_NrL1rjucQqO21QH8KclsLDYu1BIg) - Full Cycle
+* [Golang do Zero](https://www.youtube.com/playlist?list=PLIIX-IKjIiwOpAr_kyvpxTVyvUoxXqGEQ) - Stephanie Cardoso
+* [Meu Primeiro CRUD em GoLang](https://www.youtube.com/playlist?list=PLm-xZWCprwYQ3gyCxJ8TR1L2ZnUOPvOpr) - HunCoding
 
 
 ### Gulp
@@ -177,6 +199,11 @@
 * [Produtividade máxima com o VS Code (Visual Studio Code)](https://www.udemy.com/course/truques-vscode/) - Diego Martins de Pinho (Udemy)
 
 
+### Inteligência Artificial
+
+* [Curso Grátis de Inteligência Artificial](https://www.youtube.com/playlist?list=PLHz_AreHm4dm24MhlWJYiR_Rm7TFtvs6S) - Gustavo Guanabara (Curso em Vídeo)
+
+
 ### Ionic
 
 * [Curso IONIC 6 🚀 - De 0 a PRO](https://www.youtube.com/playlist?list=PLsngLoGbAagFEG-jwlpPhGsLzMSQ0tadP) - Randy Varela
@@ -186,29 +213,46 @@
 
 ### Java
 
+* [Aulões Spring Boot](https://www.youtube.com/playlist?list=PLiFLtuN04BS2yfbo3HYLNq_O1zDq9RRQi) - Giuliana Bezerra
 * [Curso de Java Básico](https://loiane.training/curso/java-basico) - Loiane Groner
 * [Curso de Java Intermediário](https://loiane.training/curso/java-intermediario) - Loiane Groner
 * [Curso de Java para Iniciantes - Grátis, Completo e com Certificado](https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR) - Gustavo Guanabara
+* [Curso de Java, Spring COMPLETO e GRATUITO](https://www.youtube.com/playlist?list=PLNCSWIsR6ADI_wMAx9F-Iu8Hs9HHxj4sb) - Fernanda Kipper
 * [Curso de Programação Orientada a Objetos em Java - Grátis, Completo e com Certificado](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY) - Gustavo Guanabara
 * [Curso de Spring Boot - Criando um blog com Spring Boot e deploy na AWS Elastic Beanstalk](https://www.youtube.com/playlist?list=PL8iIphQOyG-AdKMQWtt1bqdVm8QUnX7_S) - Michelli Brito
+* [Demos Spring](https://www.youtube.com/playlist?list=PLiFLtuN04BS3_4VvGYqcyTUI6xRasK_QF) - Giuliana Bezerra
 * [Desenvolvedor Funcional com Java 8](https://www.udemy.com/desenvolvedor-funcional-com-java-8/) - Fernando Franzini (Udemy)
 * [Desenvolvimento Ágil com Java Avançado](https://www.coursera.org/learn/desenvolvimento-agil-com-java-avancado) - Eduardo Guerra, Clovis Fernandes - ITA (Coursera)
 * [Desenvolvimento Ágil com Padrões de Projeto](https://www.coursera.org/learn/desenvolvimento-agil-com-padroes-de-projeto) - Eduardo Guerra e Clovis Fernandes - ITA (Coursera)
 * [Estrutura de Dados com Java](https://loiane.training/curso/estrutura-de-dados) - Loiane Groner
+* [Estrutura de Dados com Java](https://www.youtube.com/playlist?list=PLCUSYmPGwekcXnzf6_UtgRM0OsOEGoiG_) - Matheus Leandro Ferreira
+* [Fundamentos do Java para Iniciantes](https://www.youtube.com/playlist?list=PLiFLtuN04BS2GSi8Q-haYkRy8KEv6Grvf) - Giuliana Bezerra
 * [Introdução à Interfaces Gráficas em Java com o NetBeans](https://www.udemy.com/introducao-a-interface-grafica-em-java-com-o-netbeans/) - Cezar Augusto Crummenauer (Udemy)
-* [Introdução ao Java e Orientação a objetos](https://www.udemy.com/introducao-ao-java-e-orientacao-a-objetos/) - Helder Guimaraes Aragao (Udemy)
+* [Introdução a Programação Linguagem Java](https://www.youtube.com/playlist?list=PLCUSYmPGwekfDhQHllAkUZ30vOsxhVfhM) - Matheus Leandro Ferreira
+* [Introdução ao Java e Orientação a Objetos](https://www.udemy.com/introducao-ao-java-e-orientacao-a-objetos/) - Helder Guimaraes Aragao (Udemy)
+* [Java Avançado](https://www.youtube.com/playlist?list=PLiFLtuN04BS2bWB9UcIrun35kV080KoKU) - Giuliana Bezerra
 * [Java SE - Polimorfismo](https://www.udemy.com/java-se-polimorfismo/) - Fernando Franzini (Udemy)
+* [Maratona Java Virado no Jiraya](https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW) - DevDojo
+* [MicroServices com Java Spring](https://www.youtube.com/playlist?list=PL8iIphQOyG-Dp037UnFG0x8aduelvZZWE) - Michelli Brito
+* [Microsserviços](https://www.youtube.com/playlist?list=PLiFLtuN04BS2pgvdO2W7s6HEGhNojtk0F) - Giuliana Bezerra
 * [Orientação a Objetos com Java](https://www.coursera.org/learn/orientacao-a-objetos-com-java) - Eduardo Guerra e Clovis Fernandes - ITA (Coursera)
 * [Princípios de Desenvolvimento Ágil de Software](https://www.coursera.org/learn/principios-de-desenvolvimento-agil-de-software) - Eduardo Guerra e Clovis Fernandes - ITA (Coursera)
 * [Produtos Java - Especificações versus Proprietários](https://www.udemy.com/produtos-java-especificacoes-versus-proprietarios/) - Fernando Franzini (Udemy)
+* [Programação Orientada a Objetos](https://www.youtube.com/playlist?list=PLCUSYmPGwekfNNbgSBsepDqAk1fktpgpf) - Matheus Leandro Ferreira
+* [Spring Boot](https://www.youtube.com/playlist?list=PLiFLtuN04BS0ENOAIL2NiqNNV0FmUKZH-) - Giuliana Bezerra
+* [Spring Boot](https://www.youtube.com/playlist?list=PL3HEMC6Di0YwaP7p4G2CVkU9pGtmr47--) - Daniele Leão
+* [Spring Cloud](https://www.youtube.com/playlist?list=PLiFLtuN04BS1rAjaXCPIytXBHDP2h3Vk3) - Giuliana Bezerra
 * [TDD – Desenvolvimento de software guiado por testes](https://www.coursera.org/learn/tdd-desenvolvimento-de-software-guiado-por-testes) - Eduardo Guerra e Clovis Fernandes - ITA (Coursera)
 * [Testes unitários com Java utilizando o Junit](https://www.udemy.com/testes-unidade-automaticos-software-junit/) - Gustavo Farias (Udemy)
+* [Tutoriais Spring](https://www.youtube.com/playlist?list=PLiFLtuN04BS1pObTFjm5g2TwgBIBfEyze) - Giuliana Bezerra
+* [Tutoriais Spring Batch](https://www.youtube.com/playlist?list=PLiFLtuN04BS07Yw7rnoz1ytWCLu8yteVv) - Giuliana Bezerra
 
 
 ### JavaScript
 
 * [Curso de Javascript Completo](https://www.youtube.com/playlist?list=PL2Fdisxwzt_d590u3uad46W-kHA0PTjjw) - Programação Web
 * [Curso Grátis de JavaScript e ECMAScript para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1) - Gustavo Guanabara (Curso em Vídeo)
+* [Curso Javacript do Zero](https://www.youtube.com/playlist?list=PLNCSWIsR6ADLpv3kir5rOX07nE3LXAPya) - Fernanda Kipper
 * [Curso Javascript Completo 2023 [Iniciantes] + 14 Mini-Projetos](https://www.youtube.com/watch?v=i6Oi-YtXnAU) - Jhonatan de Souza
 * [Fast & Furious](https://www.youtube.com/playlist?list=PLy5T05I_eQYOoUz2TtAqq35RLCc-xBZCe) - Codecasts
 * [Kubernetes para Devs Javascript](https://www.youtube.com/playlist?list=PLqFwRPueWb5ccEFVx5vOvrKlYT_uQ3aQw) - Erick Wendel, Lucas Santos
@@ -219,8 +263,13 @@
 
 * [Aprenda Next.js,GraphQL e Leaflet na prática!](https://www.youtube.com/playlist?list=PLR8OzKI52ppWoTRvAmB_FQPPlHS0otV7V) - Willian Justen
 * [Bootcamp da Brainn de React](https://www.youtube.com/playlist?list=PLF7Mi9HNzvVmzOyDyl--xQVdi60jxduU1) - Canal Brainn Co.
+* [Curso de React](https://www.youtube.com/playlist?list=PLx4x_zx8csUh752BVDGZkxYpY9lS40fyC) - CFBCursos
+* [Curso de React](https://www.youtube.com/playlist?list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO) - Matheus Battisti
+* [Curso de React Next JS](https://www.youtube.com/playlist?list=PLx4x_zx8csUhxQHo-w0xAIMrmt8WgAowL) - CFBCursos
 * [Curso Intensivo de Next.js & React](https://www.cod3r.com.br/courses/curso-intensivo-next-react) - Leonardo Leitão (Cod3r)
-* [Next js 13.4 Masterclass Prático c/ Stripe e Shadcn-ui](https://www.youtube.com/playlist?list=PLR8OzKI52ppWoTRvAmB_FQPPlHS0otV7V) - DeveloperDeck101
+* [Next.js 13.4 Masterclass Prático c/ Stripe e Shadcn-ui](https://www.youtube.com/playlist?list=PLR8OzKI52ppWoTRvAmB_FQPPlHS0otV7V) - DeveloperDeck101
+* [React & Node.js](https://www.youtube.com/playlist?list=PLm-VCNNTu3LlQ3APFZeUn-9JztCM4_c28) - Felipe Rocha
+* [ReactJS - Básico](https://www.youtube.com/playlist?list=PLWXw8Gu52TRK1W0emFvUl3ozgV2JW3_8p) - Ralf Lima
 
 
 #### Vue.js
@@ -300,6 +349,7 @@
 * [Criando e consumindo API RESTful](https://academy.satellasoft.com/course/php-criando-e-consumindo-api-restful) - Gunnar Correa (SatellaSoftware)
 * [Curso Básico de Bootstrap 4 , PHP e MySQL](https://www.udemy.com/curso-basico-de-bootstrap-4-php-e-mysql-gratis/) - Ricardo Milbrath Gonçalves (Udemy)
 * [Curso de CodeIgniter para iniciantes](https://www.youtube.com/playlist?list=PLInBAd9OZCzz2vtRFDwum0OyUmJg8UqDV) - RBtech
+* [Curso de PHP Moderno](https://www.youtube.com/playlist?list=PLHz_AreHm4dlFPrCXCmd5g92860x_Pbr_) - Gustavo Guanabara (Curso em Vídeo)
 * [Curso de PHP para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k) - Gustavo Guanabara (Curso em Vídeo)
 * [Curso Introdução ao Laravel 8](https://academy.especializati.com.br/curso/introducao-ao-laravel-8) - Carlos Ferreira (Especializati academy)
 * [Introdução à Criação de Sites Dinâmicos com PHP](https://www.udemy.com/criacao-de-paginas-de-internet-dinamicas-com-php-basico/) - Diego Mariano (Udemy)
@@ -391,6 +441,7 @@
 
 * [Conceitos de Programação em Shell Script](https://www.udemy.com/conceitos-de-programacao-em-shell-script/) - TemWeb (Udemy)
 * [Curso de Shell Scripting - Programação no Linux](https://www.youtube.com/playlist?list=PLucm8g_ezqNrYgjXC8_CgbvHbvI7dDfhs) - Bóson Treinamentos
+* [Curso intensivo de programação em Bash](https://www.youtube.com/playlist?list=PLXoSGejyuQGr53w4IzUzbPCqR4HPOHjAI) - debxp
 * [Curso Shell GNU](https://www.youtube.com/playlist?list=PLXoSGejyuQGqJEEyo2fY3SA-QCKlF2rxO) - debxp
 
 
@@ -421,9 +472,14 @@
 
 #### Angular
 
+* [Angular](https://www.youtube.com/playlist?list=PLnDvRpP8Bnex2GQEN0768_AxZg_RaIGmw) - Matheus Battisti
+* [Angular 17 - 2024](https://www.youtube.com/playlist?list=PLWXw8Gu52TRKj3tFWHlkheh8rLQRqQ1__) - Ralf Lima
+* [Aprenda Angular Do Zero - primeiro passos](https://www.youtube.com/live/OmkmeBOAg44) - Fernanda Kipper
 * [Começando com Angular](https://balta.io/cursos/comecando-com-angular) - Andre Baltieri (balta.io)
 * [Curso Angular 9](https://www.youtube.com/playlist?list=PLdPPE0hUkt0rPyAkdhHIIquKbwrGUkvw3) - Cod3r
 * [Curso de Angular](https://loiane.training/curso/angular/) - Loiane Groner
+* [Curso de Angular 17](https://www.youtube.com/playlist?list=PLXEUJjGpEX7zwdFSAzIPiSf9p0tOeI1Yu) - Code Dimension
+* [Curso gratuito de Angular](https://www.youtube.com/playlist?list=PLhna1crYw0SOFqiss05ybqJCc6fvGn6BF) - Café com Bug
 
 
 ### WordPress

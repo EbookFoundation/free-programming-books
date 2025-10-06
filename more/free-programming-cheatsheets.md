@@ -8,6 +8,7 @@
 * [C#](#csharp)
 * [C++](#cpp)
 * [Clojure](#clojure)
+* [Conda](#conda)
 * [Dart](#dart)
 * [Data Science](#data-science)
 * [Data Structures and Algorithms](#data-structures-and-algorithms)
@@ -41,6 +42,7 @@
 * [PHP](#php)
 * [Python](#python)
     * [Django](#django)
+    * [FastAPI](#fastapi)
     * [Flask](#flask)
     * [Jupyter](#jupyter)
     * [Numpy Pandas](#numpy-pandas)
@@ -121,6 +123,11 @@
 * [Clojure Cheatsheet](http://clojure.org/cheatsheet) (HTML)
 
 
+### Conda
+
+* [Conda (miniconda Cheatsheat)](https://docs.conda.io/projects/conda/en/stable/user-guide/cheatsheet.html) - Conda (HTML)
+
+
 ### Dart
 
 * [Dart Cheatsheet](https://quickref.me/dart) - Quickref.me (HTML)
@@ -147,16 +154,16 @@
 ### Docker
 
 * [Docker Cheat Sheet](https://low-orbit.net/docker-cheat-sheet) - Anthony Rioux, Low Orbit Flux (HTML, PDF)
-* [Docker Cheat Sheet](https://web.archive.org/web/20220925022529/https://www.docker.com/wp-content/uploads/2022/03/docker-cheat-sheet.pdf) - Docker Inc., Solomon Hykes (PDF) *(:card_file_box: archived)*
+* [Docker Cheat Sheet](https://web.archive.org/web/20220925022529/https://www.docker.com/wp-content/uploads/2022/03/docker-cheat-sheet.pdf) - Docker Inc., Solomon Hykes (PDF) *( :card_file_box: archived)*
 * [Docker Cheat Sheet](https://intellipaat.com/blog/tutorial/devops-tutorial/docker-cheat-sheet/) - IntelliPaat (HTML, PDF)
-* [Docker Cheat Sheet](https://web.archive.org/web/20210516172426/https://swissarmydevops.com/wp-content/uploads/2021/02/Docker_Cheat_Sheet-2.pdf) - Nikko Pedersen, Swiss Army DevOps (PDF) *(:card_file_box: archived)*
+* [Docker Cheat Sheet](https://web.archive.org/web/20210516172426/https://swissarmydevops.com/wp-content/uploads/2021/02/Docker_Cheat_Sheet-2.pdf) - Nikko Pedersen, Swiss Army DevOps (PDF) *( :card_file_box: archived)*
 * [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet) - Will Sargent, et al. (HTML)
 * [Docker Cheat Sheet - Kapeli](https://kapeli.com/cheat_sheets/Docker.docset/Contents/Resources/Documents/index) - Bogdan Popescu (HTML)
 * [Docker Cheat Sheet : Complete Guide (2024)](https://www.geeksforgeeks.org/docker-cheat-sheet) - Geeksforgeeks (HTML)
 * [Docker Cheat Sheet (v1)](https://dockerlux.github.io/pdf/cheat-sheet.pdf) - Gildas Cuisinier, Docker Meetup Luxembourg (PDF)
 * [Docker Cheat Sheet (v2)](https://dockerlux.github.io/pdf/cheat-sheet-v2.pdf) - Gildas Cuisinier, Docker Meetup Luxembourg (PDF)
 * [Docker Cheatsheet: Docker commands that developers should know](https://vishnuch.tech/docker-cheatsheet) - Vishnu Chilamakuru (HTML)
-* [Docker CLI \& Dockerfile Cheat Sheet](https://web.archive.org/web/20210909015922/https://design.jboss.org/redhatdeveloper/marketing/docker_cheatsheet/cheatsheet/images/docker_cheatsheet_r3v2.pdf) - Bachir Chihani, Rafael Benevides, Red Hat Developers (PDF) *(:card_file_box: archived)*
+* [Docker CLI \& Dockerfile Cheat Sheet](https://web.archive.org/web/20210909015922/https://design.jboss.org/redhatdeveloper/marketing/docker_cheatsheet/cheatsheet/images/docker_cheatsheet_r3v2.pdf) - Bachir Chihani, Rafael Benevides, Red Hat Developers (PDF) *( :card_file_box: archived)*
 * [Docker CLI cheatsheet](https://devhints.io/docker) - DevHints, Rico Santa Cruz (HTML)
 * [Docker Free Cheatsheet](https://cheatsheet.dennyzhang.com/cheatsheet-docker-a4) - Denny Zhang (HTML, PDF)
 * [Docker Security Best Practices & Cheat Sheet](https://blog.gitguardian.com/how-to-improve-your-docker-containers-security-cheat-sheet/) - Thomas Segura, GitGuardian (HTML, PDF)
@@ -176,7 +183,7 @@
     * [Git Cheat Sheet](https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet.pdf) (PDF)
     * [Git Cheat Sheet - extended](https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet-v2.zip) (PDF)
 * [Git cheat sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet) - Atlassian (PDF)
-* [Git Cheat Sheet](https://web.archive.org/web/20230816231123/https://programmingwithmosh.com/wp-content/uploads/2020/09/Git-Cheat-Sheet.pdf) - Moshfegh Hamedani (PDF) *(:card_file_box: archived)*
+* [Git Cheat Sheet](https://web.archive.org/web/20230816231123/https://programmingwithmosh.com/wp-content/uploads/2020/09/Git-Cheat-Sheet.pdf) - Moshfegh Hamedani (PDF) *( :card_file_box: archived)*
 * [Git Cheat Sheet (id)](https://reyhanhamidi.medium.com/buku-saku-git-cheatsheet-git-bahasa-indonesia-3af42e42156e) - Reyhan Alhafizal (HTML)
 * [Git ściąga (pl)](https://training.github.com/downloads/pl/github-git-cheat-sheet/) - GitHub (HTML)
 * [GitHub Actions Security Best Practices \[cheat sheet included\]](https://blog.gitguardian.com/github-actions-security-cheat-sheet/) - Thomas Segura, GitGuardian, C.J. May (HTML, PDF)
@@ -234,7 +241,7 @@
 * [Editor VI - Guia de Referência (pt)](https://aurelio.net/curso/material/vim-ref.html) - Aurelio Marinho Jargas (HTML)
 * [GNU Emacs Reference Card](https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf) - GNU.org (PDF)
 * [IntelliJ IDEA Keyboard Shortcuts](https://cheatography.com/dmop/cheat-sheets/intellij-idea/) - Cheatography
-* [Jupyter Notebook Cheat sheet](https://web.archive.org/web/20230116111001/http://datacamp-community-prod.s3.amazonaws.com/21fdc814-3f08-4aa9-90fa-247eedefd655) - Datacamp (PDF) *(:card_file_box: archived)*
+* [Jupyter Notebook Cheat sheet](https://web.archive.org/web/20230116111001/http://datacamp-community-prod.s3.amazonaws.com/21fdc814-3f08-4aa9-90fa-247eedefd655) - Datacamp (PDF) *( :card_file_box: archived)*
 * [Sublime Text 2 - Shortcuts (Verbose Mac) Keyboard Shortcuts by gelicia](https://cheatography.com/gelicia/cheat-sheets/sublime-text-2-shortcuts-verbose-mac/) - Cheatography
 * [Vim Avançado (pt)](https://aurelio.net/vim/vim-avancado.txt) - Aurelio Marinho Jargas (HTML)
 * [Vim Básico (pt)](https://aurelio.net/vim/vim-basico.txt) - Aurelio Marinho Jargas (HTML)
@@ -245,12 +252,12 @@
 * [Visual Studio Code: Keyboard shortcuts for Linux](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf) - Visual Studio Code (PDF)
 * [Visual Studio Code: Keyboard shortcuts for macOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf) - Visual Studio Code (PDF)
 * [Visual Studio Code: Keyboard shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf) - Visual Studio Code (PDF)
-* [VSCheatsheet](https://web.archive.org/web/20230816231124/https://www.vscheatsheet.com/) - Nicolas Constantinou (HTML) *(:card_file_box: archived)*
+* [VSCheatsheet](https://web.archive.org/web/20230816231124/https://www.vscheatsheet.com/) - Nicolas Constantinou (HTML) *( :card_file_box: archived)*
 
 
 ### Java
 
-* [Java](https://web.archive.org/web/20230816231124/https://programmingwithmosh.com/wp-content/uploads/2019/07/Java-Cheat-Sheet.pdf) - Moshfegh Hamedani (PDF) *(:card_file_box: archived)*
+* [Java](https://web.archive.org/web/20230816231124/https://programmingwithmosh.com/wp-content/uploads/2019/07/Java-Cheat-Sheet.pdf) - Moshfegh Hamedani (PDF) *( :card_file_box: archived)*
 * [Java Cheat Sheet](https://www.geeksforgeeks.org/java-cheat-sheet) - GeeksforGeeks (HTML)
 * [Java Cheat Sheet](https://www.edureka.co/blog/cheatsheets/java-cheat-sheet) - Edureka (HTML)
 * [Java Cheatsheet](https://www.codewithharry.com/blogpost/java-cheatsheet) - CodeWithHarry (HTML)
@@ -422,6 +429,11 @@
 * [(Python + Django) Cheatsheet](https://dev.to/ericchapman/my-beloved-django-cheat-sheet-2056) - Eric The Coder (HTML)
 
 
+#### FastAPI
+
+* [FastAPI Cheat Sheet](https://cheatsheetshero.com/user/all/391-fastapi-cheat-sheet.pdf) - CheatsheetsHero (PDF)
+
+
 #### Flask
 
 * [Flask Cheat Sheet](https://codeinsightacademy.com/blog/python/flask-cheat-sheet) - Code Insight Academy (HTML)
@@ -431,6 +443,11 @@
 #### Jupyter
 
 * [Jupyter Cheatsheet](https://www.datacamp.com/cheat-sheet/jupyter-notebook-cheat-sheet) - Data Camp (HTML site with PDF links)
+
+
+#### Matplotlib
+
+* [Matplotlib Cheat Sheet: Plotting in Python](https://www.datacamp.com/cheat-sheet/matplotlib-cheat-sheet-plotting-in-python) - Data Camp (HTML)
 
 
 #### Numpy Pandas
@@ -512,9 +529,9 @@
 
 ### TensorFlow
 
-* [DeepLearning- Keras & TF Cheat Sheet](https://cheatography.com/chesterhsieh/cheat-sheets/deeplearning-keras-and-tf/pdf/) - Chester Hsieh, Cheatography (PDF) *(:construction: in process)*
+* [DeepLearning- Keras & TF Cheat Sheet](https://cheatography.com/chesterhsieh/cheat-sheets/deeplearning-keras-and-tf/pdf/) - Chester Hsieh, Cheatography (PDF) *( :construction: in process)*
 * [TensorFlow Quick Reference Table](https://secretdatascientist.com/tensor-flow-cheat-sheet/) - Secret data scientist (HTML)
-* [TensorFlow v2.0 Cheat Sheet](https://web.archive.org/web/20200922212358/https://www.aicheatsheets.com/static/pdfs/tensorflow_v_2.0.pdf) - Altoros (PDF) *(:card_file_box: archived)*
+* [TensorFlow v2.0 Cheat Sheet](https://web.archive.org/web/20200922212358/https://www.aicheatsheets.com/static/pdfs/tensorflow_v_2.0.pdf) - Altoros (PDF) *( :card_file_box: archived)*
 
 
 ### Terraform

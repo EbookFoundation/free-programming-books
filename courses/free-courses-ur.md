@@ -24,9 +24,12 @@
 * [Mobile App Development Tutorial Series using React Native in Urdu / Hindi](https://www.youtube.com/playlist?list=PL9fcHFJHtFaZ6DuInqORqFUaKiZO1XCmb) - Perfect Web Solutions&rlm;
 
 
-### <a id="c"></a>C
+### C
 
-* [C language tutorial for beginners Urdu/Hindi](https://www.youtube.com/playlist?list=PLtCBuHKmdxOfDo1cChVR3jYEzLtNpGjXa) - Fahad Hussain&rlm;
+* [C Language Full Course in Hindi Urdu - One Video Crash Course](https://youtu.be/azcbNgkBCN0?si=zfeZIJhXRx2z0OWI) - RealGulraiz
+* [C Language Tutorials (Urdu/Hindi)](https://youtube.com/playlist?list=PL0yiR-15Ytq8ro6SA-0JWkdyihxxVc_cB&si=7AlPtkx9mLIEuk7z) - AssadUllahCh
+* [C language tutorial for beginners Urdu/Hindi](https://www.youtube.com/playlist?list=PLtCBuHKmdxOfDo1cChVR3jYEzLtNpGjXa) - Fahad Hussain
+* [C Programming for Beginners Urdu/Hindi](https://youtube.com/playlist?list=PLezGSay-CjmxobCUsJnIelVG5kM12qKY_&si=-Wth_-v2Npug5_sG) - Super Learning
 
 
 ### <a id="cplusplus"></a>C++

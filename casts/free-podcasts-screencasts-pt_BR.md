@@ -83,6 +83,7 @@
 * [Castálio Podcast](http://castalio.info) (podcast)
 * [DevNaEstrada](http://devnaestrada.com.br) (podcast)
 * [DevShow](https://www.youtube.com/playlist?list=PL3thWewfjbFSbTH0_A1HOjexDNAEEonCQ) - André Secco (podcast)
+* [Experience Podcast - Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dlAL49NfFvf7lUP2jrcMlYQ) - Curso Em Video, Gustavo Guanabara (podcast)
 * [Grok Podcast](http://www.grokpodcast.com) (podcast)
 * [Hipsters Ponto Tech](http://hipsters.tech) (podcast)
 * [Lambda3](https://blog.lambda3.com.br/category/podcast) (podcast)

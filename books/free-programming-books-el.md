@@ -47,7 +47,7 @@
 
 ### R
 
-* [Προγραμματισμός σε R](https://repository.kallipos.gr/bitstream/11419/8588/13/7-NIKOLAIDIS-Programming-in-R.pdf) Βασίλης Νικολαΐδης (PDF) (CC BY-NC-SA)
+* [Προγραμματισμός σε R](https://repository.kallipos.gr/handle/11419/8588) Βασίλης Νικολαΐδης (PDF) (CC BY-NC-SA)
 
 
 ### Scala

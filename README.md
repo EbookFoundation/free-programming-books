@@ -156,6 +156,7 @@ This project lists books and other resources grouped by genres:
 + [Portuguese (Brazil)](courses/free-courses-pt_BR.md)
 + [Portuguese (Portugal)](courses/free-courses-pt_PT.md)
 + [Russian / Русский язык](courses/free-courses-ru.md)
++ [Romanian (Romania) / limba română / român](courses/free-courses-ro.md)
 + [Sinhala / සිංහල](courses/free-courses-si.md)
 + [Spanish / español / castellano](courses/free-courses-es.md)
 + [Swedish / svenska](courses/free-courses-sv.md)

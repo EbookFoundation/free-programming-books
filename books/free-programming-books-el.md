@@ -5,6 +5,7 @@
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Python](#python)
+* [R](#r)
 * [Scala](#scala)
 * [SQL](#sql)
 
@@ -42,6 +43,11 @@
 * [Εισαγωγή στον Προγραμματισμό με Αρωγό τη Γλώσσα Python](https://www.ebooks4greeks.gr/eisagwgh-ston-programmatismo-me-arwgo-th-glwssa-python)
 * [Ένα byte της Python](https://archive.org/details/AByteOfPythonEl)
 * [Εισαγωγή στον αντικειμενοστραφή προγραμματισμό με Python](https://repository.kallipos.gr/bitstream/11419/1708/3/85_Magoutis.pdf) (PDF)
+
+
+### R
+
+* [Προγραμματισμός σε R](https://repository.kallipos.gr/bitstream/11419/8588/13/7-NIKOLAIDIS-Programming-in-R.pdf) Βασίλης Νικολαΐδης (PDF) (CC BY-NC-SA)
 
 
 ### Scala

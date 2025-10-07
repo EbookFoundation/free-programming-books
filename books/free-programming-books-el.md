@@ -4,6 +4,7 @@
 * [C++](#cpp)
 * [Java](#java)
 * [JavaScript](#javascript)
+* [Matlab](#matlab)
 * [Python](#python)
 * [Scala](#scala)
 * [SQL](#sql)
@@ -35,6 +36,11 @@
 ### JavaScript
 
 * [HTML5-JavaScript (Δημιουργώντας παιχνίδια – Ο εύκολος τρόπος)](https://www.ebooks4greeks.gr/html5-javascript)
+
+
+### Matlab
+
+* [Εισαγωγή στον προγραμματισμό](https://repository.kallipos.gr/bitstream/11419/8671/8/63-ECONOMOU-Introduction-to-programming.pdf) Πολυχρόνης Οικονόμου, Πολύκαρπος Παπαδόπουλος (PDF) (CC BY-NC-SA)
 
 
 ### Python

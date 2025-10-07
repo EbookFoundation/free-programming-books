@@ -79,6 +79,7 @@
 
 ### Language Agnostic
 
+* [Baltacast - Podcast do balta.io](https://www.youtube.com/playlist?list=PLHlHvK2lnJneed8g24W1e0Zz9q1uvD7wg) (podcast)
 * [Castálio Podcast](http://castalio.info) (podcast)
 * [DevNaEstrada](http://devnaestrada.com.br) (podcast)
 * [DevShow](https://www.youtube.com/playlist?list=PL3thWewfjbFSbTH0_A1HOjexDNAEEonCQ) - André Secco (podcast)
@@ -87,6 +88,7 @@
 * [Lambda3](https://blog.lambda3.com.br/category/podcast) (podcast)
 * [NerdTech (Jovem Nerd)](https://jovemnerd.com.br/playlist/nerdtech) (podcast)
 * [OsProgramadores](https://anchor.fm/osprogramadores) (podcast)
+* [Papinho Tech [Episódios Completos]](https://www.youtube.com/playlist?list=PLylCwvNCtoanRxj-mOOyC9PnD5Yb2P1-j) (podcast)
 * [PODebug](http://www.podebug.com) (podcast)
 * [PodProgramar](https://mundopodcast.com.br/podprogramar) (podcast)
 * [podTag](https://podtag.com.br) (podcast)

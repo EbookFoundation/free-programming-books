@@ -144,10 +144,12 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Artificial Intelligence: Foundations of Computational Agents (2010), 1st Edition](https://artint.info/aifca1e.html) - David L. Poole, Alan K. Mackworth @ Cambridge University Press (HTML)
 * [Artificial Intelligence: Foundations of Computational Agents (2017), 2nd Edition](https://artint.info) - David L. Poole, Alan K. Mackworth @ Cambridge University Press (HTML, Slides)
 * [Clever Algorithms Nature-Inspired Programming Recipes](https://bjpcjp.github.io/pdfs/ruby/Clever-Algorithms.pdf) - Jason Brownlee (PDF) (CC BY-NC-SA)
+* [Generative AI in Higher Education: The ChatGPT Effect](https://www.taylorfrancis.com/books/oa-mono/10.4324/9781003459026/generative-ai-higher-education-cecilia-ka-yuk-chan-tom-colloton) - Cecilia Ka Yuk Chan, Tom Colloton (PDF) (CC BY)
 * [Getting Started with Artificial Intelligence , 2nd Edition](https://www.ibm.com/downloads/cas/OJ6WX73V) - Tom Markiewicz, Josh Zheng (PDF)
 * [Graph Representational Learning Book](https://www.cs.mcgill.ca/~wlh/grl_book/) - William L. Hamilton
 * [Introduction to Autonomous Robots](https://github.com/correll/Introduction-to-Autonomous-Robots/releases) - Nikolaus Correll (PDF) (CC BY-NC-ND)
 * [Machine Learning For Dummies®, IBM Limited Edition](https://www.ibm.com/downloads/cas/GB8ZMQZ3) - Daniel Kirsch, Judith Hurwitz (PDF)
+* [Mastering Generative AI and Prompt Engineering: A Practical Guide for Data Scientists](https://datasciencehorizons.com/pub/Mastering_Generative_AI_Prompt_Engineering_Data_Science_Horizons_v2.pdf) - Data Science Horizons (PDF)
 * [On the Path to AI: Law’s prophecies and the conceptual foundations of the machine learning age](https://link.springer.com/book/10.1007/978-3-030-43582-0) - Thomas D. Grant, Damon J. Wischik (PDF, EPUB)
 * [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp](https://github.com/norvig/paip-lisp) - Peter Norvig
 * [Probabilistic Programming & Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - Cam Davidson-Pilon (HTML, Jupyter Notebook)
@@ -612,6 +614,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Asterisk™: The Definitive Guide](https://solmu.org/pub/help/Asterisk/3nd_Edition_for_Asterisk_1.8) - Leif Madsen, Jim Van Meggelen, Russell Bryant (HTML)
 * [Atomic Design](https://atomicdesign.bradfrost.com) - Brad Frost
 * [Barcode Overview](https://www.tec-it.com/download/PDF/Barcode_Reference_EN.pdf) (PDF)
+* [Build Secure & Reliable System - Best Practice for Designing, Implementing and Maintaining Systems](https://google.github.io/building-secure-and-reliable-systems/raw/toc.html) - Heather Adkins, Betsy Beyer, Paul Plankinship, Piotr Lewandowski, Ana Oprea, Adam Stubblefield (HTML)
 * [Come, Let's Play: Scenario-Based Programming Using Live Sequence Charts](https://www.wisdom.weizmann.ac.il/~playbook/) - David Harel, Rami Marelly
 * [Communicating Sequential Processes](http://www.usingcsp.com/cspbook.pdf) - Tony Hoare (PDF)
 * [Confessions of an Unintentional CTO: Lessons in Growing a Web App](https://www.jackkinsella.ie/books/confessions_of_an_unintentional_cto) - Jack Kinsella
@@ -667,8 +670,10 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Record-Playback Test Automation: Sahi & Selenium IDE: Critical Evaluation of Record-Playback Automation Tools](https://leanpub.com/manualToAutomatedWithSeleniumIDEAndSahi) - Shashikant Jagtap *(Leanpub account or valid email requested)*
 * [Scientific Programming and Computer Architecture](https://divakarvi.github.io/bk-spca/spca.html) - Divakar Viswanath
 * [Signal Computing: Digital Signals in the Software Domain](http://faculty.washington.edu/stiber/pubs/Signal-Computing/Signal%20Computing.pdf) - Michael Stiber, Bilin Zhang Stiber, Eric C. Larson (PDF)
+* [Site Reliability Engineering - How Google run production systems](https://sre.google/sre-book/table-of-contents/) - Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Murphy (HTML)
 * [Small Memory Software](https://smallmemory.charlesweir.com/book.html) - Charles Weir, James Noble (HTML)
 * [Software Technical Writing: A Guidebook](https://jamesg.blog/book.pdf) - James Gallagher (PDF)
+* [The Site Reliability Workbook - Practical Ways to Implement SRE](https://sre.google/workbook/table-of-contents/) - Betsy Beyer, Niall Richard Murphy, David K. Rensin, Kent Kawahara, Stephen Thorne (HTML)
 * [The Web Development Glossary](https://github.com/frontenddogma/web-development-glossary) – Jens Oliver Meiert
 * [Using Z Specification, Refinement, and Proof](http://www.usingz.com/usingz.pdf) -  Jim Woodcock, Jim Davies (PDF)
 * [Web Almanac](https://almanac.httparchive.org/static/pdfs/web_almanac_2019_en.pdf) (PDF)
@@ -826,6 +831,9 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [DALLE-E 2 prompt book](https://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book.pdf) - Dallery.Gallery, Guy Parson (PDF)
 * [Guide to Prompt Engineering](https://codeahoy.com/learn/promptengineering/toc) - CodeAhoy (HTML)
+* [LLM Prompt Engineering Simplified Book](https://github.com/AkmmusAI/LLM-Prompt-Engineering-Simplified-Book) - Katikapalli Subramanyam Kalyan (GitHub)
+* [Prompt Engineering](https://www.innopreneur.io/wp-content/uploads/2025/04/22365_3_Prompt-Engineering_v7-1.pdf) - Lee Boonstra (PDF)
+* [Prompt Engineering Guide](https://learnprompting.org/docs/introduction) - LearnPrompting (HTML)
 * [Prompt Engineering Guide](https://www.promptingguide.ai) - DAIR.AI (HTML)
 
 
@@ -887,6 +895,8 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Security Engineering](https://www.cl.cam.ac.uk/~rja14/book.html)
 * [The Joy of Cryptography (2021)](https://joyofcryptography.com/pdf/book.pdf) - Mike Rosulek (PDF)
 * [The MoonMath Manual to zk-SNARKs](https://leastauthority.com/community-matters/moonmath-manual/) - Least Authority
+* [The SELINUX Coloring Book](https://github.com/mairin/selinux-coloring-book) -  Daniel J Walsh, Máirín Duffy (PDF) (CC BY-SA)
+* [The SELinux Notebook](https://github.com/SELinuxProject/selinux-notebook) - Richard Haines, Paul Moore, SELinux Community (HTML, PDF, EPUB, azw3) (GFDL)
 
 
 ### Software Architecture

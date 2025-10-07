@@ -174,8 +174,8 @@
 * [Artificial Intelligence Lectures Hindi](https://www.youtube.com/playlist?list=PLV8vIYTIdSnYsdt0Dh9KkD9WFEi7nVgbe) - Easy Engineering Classes
 * [Generative AI Series - Showcasing Generative AI By Building Projects](https://www.youtube.com/playlist?list=PLu0W_9lII9aiS4rUVp2jXwIvCruo27sG6) - CodeWithHarry
 * [Playlist to Artificial Intelligence ](https://www.youtube.com/playlist?list=PLPIwNooIb9vgB1DQEftkKA3qOdeC4vonA) - Perfect Computer Engineer
-* [Prompt Engineering Full Course in Hindi (beginner to Master)](https://www.youtube.com/playlist?list=PLyz4Eb45WBQ02Md7BiIO1sUsKTs8GcWKS) - EduExpress
 * [Playlist on LangChain](https://www.youtube.com/watch?v=tEL833CPhqw&list=PLTDARY42LDV6flFgQLJCcVSXXa58mZ9Ty) - Krish Naik Hindi
+* [Prompt Engineering Full Course in Hindi (beginner to Master)](https://www.youtube.com/playlist?list=PLyz4Eb45WBQ02Md7BiIO1sUsKTs8GcWKS) - EduExpress
 
 ### Assembly
 

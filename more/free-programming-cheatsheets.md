@@ -42,6 +42,7 @@
 * [PHP](#php)
 * [Python](#python)
     * [Django](#django)
+    * [FastAPI](#fastapi)
     * [Flask](#flask)
     * [Jupyter](#jupyter)
     * [Numpy Pandas](#numpy-pandas)
@@ -428,6 +429,12 @@
 * [(Python + Django) Cheatsheet](https://dev.to/ericchapman/my-beloved-django-cheat-sheet-2056) - Eric The Coder (HTML)
 
 
+#### FastAPI
+
+* [FastAPI Cheat Sheet](https://github.com/Vasu-Devs/fastapi-cheatsheet) - Vasudev Siddh (Markdown)
+* [FastAPI Cheat Sheet](https://cheatsheetshero.com/user/all/391-fastapi-cheat-sheet.pdf) - CheatsheetsHero (PDF)
+
+
 #### Flask
 
 * [Flask Cheat Sheet](https://codeinsightacademy.com/blog/python/flask-cheat-sheet) - Code Insight Academy (HTML)
@@ -437,6 +444,11 @@
 #### Jupyter
 
 * [Jupyter Cheatsheet](https://www.datacamp.com/cheat-sheet/jupyter-notebook-cheat-sheet) - Data Camp (HTML site with PDF links)
+
+
+#### Matplotlib
+
+* [Matplotlib Cheat Sheet: Plotting in Python](https://www.datacamp.com/cheat-sheet/matplotlib-cheat-sheet-plotting-in-python) - Data Camp (HTML)
 
 
 #### Numpy Pandas

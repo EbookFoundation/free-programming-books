@@ -106,6 +106,7 @@
 ### DevOps
 
 * [Corso DevOps](https://www.youtube.com/playlist?list=PLU2FPKLp7ojKcxrKXr1cFmXH81tMK4P3E) - Michele Ferracin
+* [DevOps con GitHub Actions](https://www.youtube.com/playlist?list=PLoZNHBEyxFQHOR8EiAD_tQnRAP49_Ev24) - Giovanni Pace
 * [Docker - EmmeCiLab](https://www.youtube.com/playlist?list=PLCbSCJEIR6CpDJw4MawjHlgbsP3IG376e) - Mauro Cicolella
 
 
@@ -229,6 +230,7 @@
 #### Git
 
 * [Corso Git 2017](https://www.youtube.com/playlist?list=PLA27EZBY5veN02RzEr6Ecm7KcjWadthBh) - POuL Politecnico di Milano
+* [Dominare GIT - La Guida Completa per Principianti e Professionisti](https://www.youtube.com/playlist?list=PLoZNHBEyxFQFc2fn3raEjovUK_BLWS0kO) - Giovanni Pace
 
 
 #### Maven

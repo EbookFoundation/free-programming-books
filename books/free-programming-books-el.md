@@ -47,7 +47,7 @@
 
 ### R
 
-* [Εισαγωγή στον προγραμματισμό και στη στατιστική ανάλυση με R](https://repository.kallipos.gr/bitstream/11419/2601/3/Ntzoufras_Karlis_2016.pdf) (PDF) (CC BY-NC-SA)
+* [Εισαγωγή στον προγραμματισμό και στη στατιστική ανάλυση με R](https://repository.kallipos.gr/bitstream/11419/2601/3/Ntzoufras_Karlis_2016.pdf) Ιωάννης Ντζούφρας, Δημήτριος Καρλής (PDF) (CC BY-NC-SA)
 
 
 ### Scala

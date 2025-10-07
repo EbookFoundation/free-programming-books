@@ -4,6 +4,7 @@
 * [C++](#cpp)
 * [Java](#java)
 * [JavaScript](#javascript)
+* [Prolog](#prolog)
 * [Python](#python)
 * [Scala](#scala)
 * [SQL](#sql)
@@ -35,6 +36,11 @@
 ### JavaScript
 
 * [HTML5-JavaScript (Δημιουργώντας παιχνίδια – Ο εύκολος τρόπος)](https://www.ebooks4greeks.gr/html5-javascript)
+
+
+### Prolog
+
+* [Τεχνικές Λογικού Προγραμματισμού](https://repository.kallipos.gr/bitstream/11419/777/3/LPTechniquesProlog_%CE%9A%CE%9F%CE%A5.pdf) Ηλίας Σακελλαρίου, Νικόλαος Βασιλειάδης, Πέτρος Κεφαλάς, Δημοσθένης Σταμάτης (PDF) (CC BY-NC-SA)
 
 
 ### Python

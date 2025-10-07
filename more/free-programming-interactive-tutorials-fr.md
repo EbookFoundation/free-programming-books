@@ -5,10 +5,10 @@
 * [GLSL](#glsl)
 * [HTML et CSS](#html-et-css)
 * [Indépendant du Langage](#indépendant-du-langage)
-    * [Systèmes d'exploitation](#systemes-dexploitation)
+    * [Systèmes d'exploitation](#systèmes-dexploitation)
 * [JavaScript](#javascript)
 * [Kotlin](#kotlin)
-* [Science des données](#science-des-donnees)
+* [Science des données](#science-des-données)
 
 
 ### C

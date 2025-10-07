@@ -1482,6 +1482,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 * [Ad Hoc Data Analysis From The Unix Command Line](https://en.wikibooks.org/wiki/Ad_Hoc_Data_Analysis_From_The_Unix_Command_Line) - Wikibooks
 * [Advanced Linux Programming](https://sourcerytools.github.io/advancedlinuxprogramming/) (PDF)
+* [Advanced Linux :The Linux Shell And Toolkit](https://www.tuxcademy.org/download/en/grd2/grd2-en-manual.pdf) - Tobias Elsner, Anselm Lingnau (PDF) (CC BY-SA)
 * [Adventures with the Linux Command Line](http://linuxcommand.org/lc3_adventures.php) - William E. Shotts Jr.
 * [Automated Linux From Scratch](http://www.linuxfromscratch.org/alfs/download.html)
 * [Getting Started with Ubuntu](http://ubuntu-manual.org)

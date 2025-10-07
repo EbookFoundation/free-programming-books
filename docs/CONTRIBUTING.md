@@ -360,3 +360,5 @@ If you run the RTL/LTR Markdown Linter (on `*-ar.md`, `*-he.md`, `*-fa.md`, `*-u
 * [أساسيات C#&lrm;](URL)
 </div>
 ```
+* [Think Python (2nd Edition)](https://greenteapress.com/wp/think-python-2e/) - Allen B. Downey (HTML, PDF) (CC BY)
+

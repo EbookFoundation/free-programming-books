@@ -40,7 +40,7 @@
 
 ### Prolog
 
-* [Τεχνικές Λογικού Προγραμματισμού](https://repository.kallipos.gr/bitstream/11419/777/3/LPTechniquesProlog_%CE%9A%CE%9F%CE%A5.pdf) Ηλίας Σακελλαρίου, Νικόλαος Βασιλειάδης, Πέτρος Κεφαλάς, Δημοσθένης Σταμάτης (PDF) (CC BY-NC-SA)
+* [Τεχνικές Λογικού Προγραμματισμού](https://repository.kallipos.gr/handle/11419/777) Ηλίας Σακελλαρίου, Νικόλαος Βασιλειάδης, Πέτρος Κεφαλάς, Δημοσθένης Σταμάτης (PDF) (CC BY-NC-SA)
 
 
 ### Python

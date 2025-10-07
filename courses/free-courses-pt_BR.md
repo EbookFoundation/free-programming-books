@@ -449,7 +449,6 @@
 * [Curso de FastAPI Sincrono](https://www.youtube.com/playlist?list=PLOQgLBuj2-3IuFbt-wJw2p2NiV9WTRzIP) - Eduardo Mendes
 
 
-
 #### Flask
 
 * [Flask](https://www.youtube.com/playlist?list=PLyOx5V4KUjDf3-flamHYkJ2ygYmdRDdE9) - Lan Code

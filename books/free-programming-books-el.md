@@ -40,7 +40,7 @@
 
 ### Matlab
 
-* [Εισαγωγή στον προγραμματισμό](https://repository.kallipos.gr/bitstream/11419/8671/8/63-ECONOMOU-Introduction-to-programming.pdf) Πολυχρόνης Οικονόμου, Πολύκαρπος Παπαδόπουλος (PDF) (CC BY-NC-SA)
+* [Εισαγωγή στον προγραμματισμό](https://repository.kallipos.gr/handle/11419/8671) Πολυχρόνης Οικονόμου, Πολύκαρπος Παπαδόπουλος (PDF) (CC BY-NC-SA)
 
 
 ### Python

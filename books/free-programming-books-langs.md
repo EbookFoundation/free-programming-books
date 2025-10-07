@@ -62,6 +62,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Fortran](#fortran)
 * [FreeBSD](#freebsd)
 * [Go](#go)
+* [Git](#git)
 * [Graphs](#graphs)
     * [GraphQL](#graphql)
     * [Gremlin](#gremlin)
@@ -70,7 +71,6 @@ Books on general-purpose programming that don't focus on a specific language are
     * [Gradle](#gradle)
     * [Grails](#grails)
     * [Spock Framework](#spock-framework)
-* [Git](#git)
 * [Hack](#hack)
 * [Hadoop](#hadoop)
 * [Haskell](#haskell)
@@ -811,7 +811,9 @@ Books on general-purpose programming that don't focus on a specific language are
 * [The Complete FreeBSD](http://www.lemis.com/grog/Documentation/CFBSD/)
 * [Using C on the UNIX System](http://www.bitsinthewind.com/about-dac/publications/using-c-on-the-unix-system) - David A. Curry
 
+
 ### Git
+
 * [Pro Git](https://git-scm.com/book/en/v2) - Scott Chacon and Ben Straub (HTML, PDF) 
 
 
@@ -1745,6 +1747,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Unix System Programming in OCaml](http://ocaml.github.io/ocamlunix/) - Xavier Leroy, Didier Rémy (HTML, [GitHub Repo](https://github.com/ocaml/ocamlunix/))
 * [Using, Understanding, and Unraveling The OCaml Language: From Practice to Theory and vice versa](http://pauillac.inria.fr/~remy/cours/appsem/) - Didier Rémy
 
+
 ### OpenSource
 
 * [The Architecture of Open Source Applications](http://aosabook.org/en/index.html) - Multiple authors (HTML) 
@@ -1965,8 +1968,8 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Python
 
-* [100 Page Python Intro](https://learnbyexample.github.io/100_page_python_intro/) - Sundeep Agarwal
 * [20 Python Libraries You Aren't Using (But Should)](https://www.oreilly.com/learning/20-python-libraries-you-arent-using-but-should) - Caleb Hattingh
+* [100 Page Python Intro](https://learnbyexample.github.io/100_page_python_intro/) - Sundeep Agarwal
 * [A Beginner's Python Tutorial](https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial) - Wikibooks
 * [Automated Machine Learning: Methods, Systems, Challenges](https://link.springer.com/book/10.1007/978-3-030-05318-5) - Frank Hutter, Lars Kotthoff, and Joaquin Vanschoren (PDF, HTML)
 * [A Byte of Python](https://python.swaroopch.com) (3.x) (HTML, PDF, EPUB, Mobi) (CC BY-SA)
@@ -2078,7 +2081,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html) - Qingkai Kong, Timmy Siauw, Alexandre Bayen (3.7)
 * [Python Programming Exercises, Gently Explained](https://inventwithpython.com/PythonProgrammingExercisesGentlyExplained.pdf) - Al Sweigart (PDF)
 * [Python Tutorial](https://www.tutorialspoint.com/python/) - Tutorials Point (HTML, PDF)
-* * [Programming for Computations – Python](https://link.springer.com/book/10.1007/978-3-319-32428-9) - Svein Linge and Hans Petter Langtangen (PDF, HTML)
+* [Programming for Computations – Python](https://link.springer.com/book/10.1007/978-3-319-32428-9) - Svein Linge and Hans Petter Langtangen (PDF, HTML)
 * [Research Software Engineering with Python](https://merely-useful.tech/py-rse/) - Damien Irving, Kate Hertweck, Luke Johnston, Joel Ostblom, Charlotte Wickham, Greg Wilson (HTML)
 * [Scientific Visualization: Python + Matplotlib](https://github.com/rougier/scientific-visualization-book) - Nicolas P. Rougier (PDF)
 * [Scipy Lecture Notes](http://scipy-lectures.github.io)
@@ -2102,7 +2105,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Think Complexity](https://greenteapress.com/wp/think-complexity-2e/) - Allen B. Downey (2nd Edition) (PDF, HTML)
 * [Think DSP - Digital Signal Processing in Python](https://greenteapress.com/wp/think-dsp/) - Allen B. Downey (PDF, HTML)
 * [Think Python 2nd Edition](https://greenteapress.com/wp/think-python-2e/) - Allen B. Downey (3.x) (HTML, PDF) (CC BY-NC)
-    * [Think Python First Edition](https://greenteapress.com/wp/think-python/) - Allen B. Downey (2.x) (HTML, PDF) (CC BY-NC)
+* [Think Python First Edition](https://greenteapress.com/wp/think-python/) - Allen B. Downey (2.x) (HTML, PDF) (CC BY-NC)
 * [Tiny Python 3.6 Notebook](https://github.com/mattharrison/Tiny-Python-3.6-Notebook) - Matt Harrison (3.6)
 * [Tiny Python Projects](http://tinypythonprojects.com/Tiny_Python_Projects.pdf) - Ken Youens-Clark(PDF)
 * [Web2py: Complete Reference Manual, 6th Edition (pre-release)](http://web2py.com/book) (2.5 - 2.x)

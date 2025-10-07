@@ -177,6 +177,7 @@
 * [Playlist to Artificial Intelligence ](https://www.youtube.com/playlist?list=PLPIwNooIb9vgB1DQEftkKA3qOdeC4vonA) - Perfect Computer Engineer
 * [Prompt Engineering Full Course in Hindi (beginner to Master)](https://www.youtube.com/playlist?list=PLyz4Eb45WBQ02Md7BiIO1sUsKTs8GcWKS) - EduExpress
 
+
 ### Assembly
 
 * [Assembly Language programming tutorial 8086 in hindi learn full](https://www.youtube.com/playlist?list=PLAZj-jE2acZLdYT7HLFgNph190z2cjmAG) - Malik Shahzaib Official

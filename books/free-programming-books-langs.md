@@ -2543,7 +2543,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [ML for the Working Programmer, 2nd Edition](https://www.cl.cam.ac.uk/~lp15/MLbook/pub-details.html) - Lawrence C. Paulson
 * [Programming in Standard ML '97](http://homepages.inf.ed.ac.uk/stg/NOTES/) - Stephen Gilmore, University of Edinburgh
 * [Programming in Standard ML, DRAFT](http://www.cs.cmu.edu/~rwh/isml/book.pdf) - Robert Harper (PDF)
-* [SML# Document](https://smlsharp.github.io/en/documents/4.0.0/manual.pdf) - Atsushi Ohori, Katsuhiro Ueno
+* [SML# Document](https://smlsharp.github.io/en/documents/4.0.0/manual.pdf) - Atsushi Ohori, Katsuhiro Ueno (PDF)
 * [The Definition of Standard ML (Revised)](http://sml-family.org/sml97-defn.pdf) - SMLFamily GitHub project (PDF)
 * [The Standard ML Basis Library](https://smlfamily.github.io/Basis/index.html) - Emden R. Gansner, John H. Reppy (HTML)
 * [Unix System Programming with Standard ML](http://mlton.org/References.attachments/Shipman02.pdf) - Anthony L. Shipman (PDF)
@@ -2654,7 +2654,7 @@ Books on general-purpose programming that don't focus on a specific language are
 ### VHDL
 
 * [Free Range VHDL](https://github.com/fabriziotappero/Free-Range-VHDL-book) - Bryan Mealy, Fabrizio Tappero (TeX and PDF)
-* [VHDL Tutorial](http://www.pldworld.com/_hdl/2/-seas.upenn.edu/_ese201/vhdl/vhdl_primer.html)
+* [VHDL Tutorial](http://www.pldworld.com/_hdl/2/-seas.upenn.edu/_ese201/vhdl/vhdl_primer.html) - (HTML)
 * [VHDL Tutorial: Learn By Example](http://esd.cs.ucr.edu/labs/tutorial/)
 
 

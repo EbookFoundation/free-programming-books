@@ -296,7 +296,17 @@
 
 ### Kubernetes
 
+* [Curso Completo de Kubernetes](https://www.youtube.com/playlist?list=PL9wKVHxY5DoNy-D4errvry9sVktl9YNcA) - Marcones Nunes
+* [Curso Completo de Kubernetes Para Devs](https://www.youtube.com/playlist?list=PLnOICPAPShyTwuLit7vP6In9kETQ0BSnQ) - Lucas Santos
+* [Curso De Introdução ao Kubernetes](https://www.youtube.com/playlist?list=PLXzx948cNtr8XI5JBemHT9OWuYSPNUtXs) - Insight Lab
+* [Descomplicando o Kubernetes](https://www.youtube.com/playlist?list=PLf-O3X2-mxDmXQU-mJVgeaSL7Rtejvv0S) - LinuxTips
+* [Kubernetes](https://www.youtube.com/playlist?list=PL9wKVHxY5DoN9MfK7_iJcLDI75POJoRUL) - Marcones Nunes
+* [Kubernetes (K8s): Minicurso Gratuito](https://www.youtube.com/playlist?list=PL18bbNo7xuh8pIU-odMSjd_r8TyD7_jb7) - Erudito
+* [Kubernetes Dicas e Truques Para O Dia A Dia](https://www.youtube.com/playlist?list=PLAbYWcQD84aPfGZNaf8Pa35eGy_ywcR7V) - Canal dotNet
+* [Kubernetes Em Drops](https://www.youtube.com/playlist?list=PLZfrXScDmaiPF9EH1Uyh8kZdZ612h5eSz) - Fabricio Veronez
+* [Kubernetes Geral](https://www.youtube.com/playlist?list=PLf-O3X2-mxDm9d-RJSpjut6qDuGqRMsY2) - LinuxTips
 * [Maratona Kubernetes](https://www.youtube.com/playlist?list=PLB1hpnUGshULerdlzMknMLrHI810xIBJv&origin=CursosErickWendel) - Microsoft Brasil
+* [Mutirão Kubernetes](https://www.youtube.com/playlist?list=PLf-O3X2-mxDli3suNEnRquFyKYdrFLm3t) - LinuxTips
 
 
 ### Linux
@@ -389,9 +399,11 @@
 * [Construindo API's robustas utilizando Python](https://github.com/luizalabs/tutorial-python-brasil) - Cássio Botaro, et al.
 * [Curso de Programação em Python](https://www.youtube.com/playlist?list=PLFKhhNd35zq_INvuX9YzXIbtpo_LGDzYK) - Prime Cursos do Brasil
 * [Curso de Python](https://www.youtube.com/playlist?list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj) - Cláudio Rogério Carvalho Filho (eXcript)
+* [Curso de Python](https://www.youtube.com/playlist?list=PLbIBj8vQhvm0ayQsrhEf-7-8JAj-MwmPr) - Otávio Miranda
 * [Curso de Python 3 - Mundo 1: Fundamentos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6) - Gustavo Guanabara (Curso em Vídeo)
 * [Curso de Python 3 - Mundo 2: Estruturas de Controle](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye) - Gustavo Guanabara (Curso em Vídeo)
 * [Curso de Python 3 - Mundo 3: Estruturas Compostas](https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH) - Gustavo Guanabara (Curso em Vídeo)
+* [Curso de Type Hints no Python do Básico](https://www.youtube.com/playlist?list=PLbIBj8vQhvm04EuddtleOAoEmfU9vwQlN) - Otávio Miranda
 * [Curso em vídeo - Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) - Gustavo Guanabara, Joao Pedro Araujo (Curso em Vídeo)
 * [Data Science: Visualização de Dados com Python](https://www.udemy.com/visualizacao-de-dados-com-python/) - Diego Mariano (Udemy)
 * [Django 2.0 - Aprendendo os conceitos fundamentais](https://www.udemy.com/django-20-aprendendo-os-conceitos-fundamentais/) - Gregory Pacheco (Udemy)
@@ -403,12 +415,17 @@
 * [Introdução à Ciência da Computação com Python - Parte 2](https://pt.coursera.org/learn/ciencia-computacao-python-conceitos-2) - USP (Coursera)
 * [Introdução a linguagem de programação python](https://www.udemy.com/introducao-programacaopython/) - Abraão Passos de Oliveira (Udemy)
 * [Introdução à linguagem Python](https://www.udemy.com/intro_python/) - Diego Mariano (Udemy)
+* [Logging no Python](https://www.youtube.com/playlist?list=PLbIBj8vQhvm28qR-yvWP3JELGelWxsxaI) - Otávio Miranda
+* [Matemática com Python](https://www.youtube.com/playlist?list=PLucm8g_ezqNrCFUZ3vPIKs41hveecygsm) -  Otávio Miranda
+* [Orientação a Objetos](https://www.youtube.com/playlist?list=PLucm8g_ezqNqj--UUSn16yfDp3xcZi40t) - Otávio Miranda
 * [Programação em Python](https://www.youtube.com/playlist?list=PLucm8g_ezqNrrtduPx7s4BM8phepMn9I2) - Bóson Treinamentos
 * [Programação em Python: O Guia para Iniciantes](https://www.udemy.com/course/programacao-python-guia-para-iniciantes/) - Jones Granatyr (Udemy)
 * [Python 3 na Prática](https://www.udemy.com/python-3-na-pratica/) - João Batista (Udemy)
 * [Python 3 na Web com Django (Básico e Intermediário)](https://www.udemy.com/python-3-na-web-com-django-basico-intermediario/) - Gileno Alves Santa Cruz Filho (Udemy)
 * [Python Básico](https://solyd.com.br/treinamentos/python-basico) - Guilherme Junqueira (Solyd Offensive Security)
+* [Python Com Bancos de Dados](https://www.youtube.com/playlist?list=PLucm8g_ezqNp7ECP-fidzdgeVDufBTYDV) - Bóson Treinamentos
 * [Python Fundamentos para Análise de Dados](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) - Data Science Academy
+* [Python Orientado a Objetos Python POO](https://www.youtube.com/playlist?list=PLbIBj8vQhvm34qAAEEH_PdL2tMG9rz-P7) - Otávio Miranda
 * [Python para Competições de Programação](https://www.youtube.com/playlist?list=PLMxflQ9_eOd9CY6Id5gfs3Edqt8vLC47p) - Adorilson
 * [Python para Iniciantes](https://www.udemy.com/python-para-iniciantes/) - Tiago Miguel (Udemy)
 * [Selenium com Python](https://www.youtube.com/playlist?list=PLOQgLBuj2-3LqnMYKZZgzeC7CKCPF375B) - Eduardo Mendes

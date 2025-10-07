@@ -17,7 +17,7 @@
 
 ### <a id="csharp"></a>C\#
 
-* [Επίλυση προβλημάτων με τη γλώσσα C#](https://repository.kallipos.gr/bitstream/11419/9349/1/56-ZACHARIS-Problems-solving-using-C.pdf) - Νικόλαος Ζάχαρης (PDF) (CC BY-NC-SA)
+* [Επίλυση προβλημάτων με τη γλώσσα C#](https://repository.kallipos.gr/handle/11419/9349) - Νικόλαος Ζάχαρης (PDF) (CC BY-NC-SA)
 
 
 ### <a id="cpp"></a>C++

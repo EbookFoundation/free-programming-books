@@ -276,6 +276,7 @@
 #### Redux
 
 * [Front End Development Libraries: Redux](https://www.freecodecamp.org/learn/front-end-development-libraries/redux) - freeCodeCamp
+* [Redux Official Documentation](https://redux.js.org/introduction/getting-started)
 
 
 #### Svelte
@@ -370,6 +371,7 @@
 ### PostgreSQL
 
 * [PostgreSQL Tutorial](https://www.postgresqltutorial.com)
+* [PostgreSQL Tutorial](https://www.w3schools.com/postgresql/) - W3Schools
 
 
 ### Python

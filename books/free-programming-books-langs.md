@@ -1484,7 +1484,8 @@ Books on general-purpose programming that don't focus on a specific language are
 ### Linux
 
 * [Ad Hoc Data Analysis From The Unix Command Line](https://en.wikibooks.org/wiki/Ad_Hoc_Data_Analysis_From_The_Unix_Command_Line) - Wikibooks
-* [Advanced Linux Programming](https://mentorembedded.github.io/advancedlinuxprogramming/) (PDF)
+* [Advanced Linux Programming](https://sourcerytools.github.io/advancedlinuxprogramming/) (PDF)
+* [Advanced Linux :The Linux Shell And Toolkit](https://www.tuxcademy.org/download/en/grd2/grd2-en-manual.pdf) - Tobias Elsner, Anselm Lingnau (PDF) (CC BY-SA)
 * [Adventures with the Linux Command Line](http://linuxcommand.org/lc3_adventures.php) - William E. Shotts Jr.
 * [Automated Linux From Scratch](http://www.linuxfromscratch.org/alfs/download.html)
 * [Getting Started with Ubuntu](http://ubuntu-manual.org)
@@ -1495,6 +1496,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Kali Linux: Professional Penetration-Testing Distribution](http://docs.kali.org)
 * [Learning Debian GNU/Linux](http://www.oreilly.com/openbook/debian/book/index.html)
 * [Linux 101 Hacks](http://thegeekstuff.s3.amazonaws.com/files/linux-101-hacks.zip) - Ramesh Natarajan (PDF)
+* [Linux Administration II : Linux as a Network Client](https://www.tuxcademy.org/download/en/adm2/adm2-en-manual.pdf) - Anselm Lingnau,Tobias Elsner (PDF)  (CC BY-SA)
 * [Linux Advanced Routing & Traffic Control HOWTO](http://lartc.org)
 * [Linux Appliance Design: A Hands-On Guide to Building Linux Appliances](http://librta.org/book.html) - Bob Smith, John Hardin, Graham Phillips, Bill Pierce (PDF, EPUB, MOBI)
 * [Linux commands Notes for Professionals](https://goalkicker.com/LinuxBook/) - Compiled from StackOverflow documentation (PDF)
@@ -2087,7 +2089,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [The Python Coding Book](https://thepythoncodingbook.com) - Stephen Gruppetta (HTML)
 * [The Python GTK+ 3 Tutorial](http://python-gtk-3-tutorial.readthedocs.org/en/latest/)
 * [The Python Handbook](https://flaviocopes.com/page/python-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
-* [The Recursive Book of Recursion](https://inventwithpython.com/recursion/) - Al Swigart (HTML) (3.x)
+* [The Recursive Book of Recursion](https://inventwithpython.com/recursion/) - Al Sweigart (HTML) (3.x)
 * [The Standard Python Library](https://web.archive.org/web/20200626001242/http://effbot.org/librarybook/) - Fredrik Lundh *( :card_file_box: archived)*
 * [Think Complexity](https://greenteapress.com/wp/think-complexity-2e/) - Allen B. Downey (2nd Edition) (PDF, HTML)
 * [Think DSP - Digital Signal Processing in Python](https://greenteapress.com/wp/think-dsp/) - Allen B. Downey (PDF, HTML)
@@ -2379,6 +2381,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Essential Scala](http://underscore.io/books/essential-scala/) - Noel Welsh, Dave Gurnell (PDF, HTML, EPUB) (email address *requested*, not required)
 * [Functional Programming for Mortals](https://leanpub.com/fpmortals/read) - Sam Halliday
 * [Functional Programming, Simplified (Scala edition)](https://alvinalexander.com/photos/functional-programming-simplied-free-pdf-preview) - Alvin Alexander (free preview (400 pages from 595), PDF)
+* [Hands-on Scala](https://github.com/handsonscala/handsonscala)
 * [Hello, Scala](https://alvinalexander.com/photos/hello-scala-free-pdf-preview) - Alvin Alexander (free preview (120 pages from 257), PDF)
 * [Learning Scala in small bites](http://matt.might.net/articles/learning-scala-in-small-bites/)
 * [Learning Scalaz](http://eed3si9n.com/learning-scalaz/)
@@ -2431,6 +2434,7 @@ Books on general-purpose programming that don't focus on a specific language are
 ### Scilab
 
 * [Introduction to Scilab](http://forge.scilab.org/index.php/p/docintrotoscilab/downloads/)
+* [PHP tutorial](https://www.tutorialspoint.com/php/) - Tutorialspoint
 * [Programming in Scilab](http://forge.scilab.org/index.php/p/docprogscilab/downloads/)
 * [Writing Scilab Extensions](http://forge.scilab.org/index.php/p/docsciextensions/downloads/)
 

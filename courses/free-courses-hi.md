@@ -330,6 +330,7 @@
 * [DevOps Tutorials in Hindi/Urdu \| Devops सीखने का सबसे आसान तरीका \| Complete Devops including Git,Jenkins,Maven,Chef,docker,Ansible and Kubernetes](https://www.youtube.com/playlist?list=PLBGx66SQNZ8aPsFDwb79JrS2KQBTIZo10) - Bhupinder Rajput, Technical Guftgu
 * [Free Terraform Course](https://www.youtube.com/playlist?list=PLlfy9GnSVerQzwhT644uP14iqZa0ZC4pn) - TrainWithShubham
 * [Server Configuration, Deployment & VPS Tutorials For Beginners](https://www.youtube.com/playlist?list=PLu0W_9lII9aiBNXUisDdSmfNbsKq407XC) - CodeWithHarry
+* [Terraform Tutorials For Beginners In Hindi](https://www.youtube.com/playlist?list=PL6XT0grm_TfgdaAjTmLb4QedMCCMQHISm) - Gaurav Sharma
 
 
 ### Figma

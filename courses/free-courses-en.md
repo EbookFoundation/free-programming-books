@@ -500,8 +500,8 @@
 * [MIT's Computer Language Engineering](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-sma-5502-fall-2005/lecture-notes/)
 * [MIT's Introduction to Computer Science and Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) - John Guttag (MIT OpenCourseWare)
 * [MIT's Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) - Ana Bell, Eric Grimson, John Guttag (MIT OpenCourseWare)
-* [Open Source Society University - Computer Science](https://github.com/ossu/computer-science) - A complete self-paced curriculum using free online courses covering core Computer Science subjects.
 * [MIT's Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/)
+* [Open Source Society University - Computer Science](https://github.com/ossu/computer-science) - A complete self-paced curriculum using free online courses covering core Computer Science subjects.
 
 
 ### Cryptography

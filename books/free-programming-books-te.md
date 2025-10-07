@@ -27,4 +27,4 @@
 
 ### <a id="java"></a>JAVA
 
-* [Core Java in Telugu | Java Programming](https://youtube.com/playlist?list=PLz8gl4BEGkEGYXNZrIRHJUSoxS_FPBrDy&si=w9idhgQmPCsUzEZX) - H Y R Tutorials
+* [Core Java in Telugu \| Java Programming](https://www.youtube.com/playlist?list=PLz8gl4BEGkEGYXNZrIRHJUSoxS_FPBrDy) - H Y R Tutorials

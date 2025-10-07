@@ -3,12 +3,12 @@
 * [C](#c)
 * [Cloud Computing](#cloud-computing)
 * [GLSL](#glsl)
-* [HTML and CSS](#html-and-css)
+* [HTML et CSS](#html-et-css)
 * [Indépendant du Langage](#indépendant-du-langage)
     * [Systèmes d'exploitation](#systemes-dexploitation)
 * [JavaScript](#javascript)
 * [Kotlin](#kotlin)
-* [Science des données](#sciences-des-donnees)
+* [Science des données](#science-des-donnees)
 
 
 ### C
@@ -26,7 +26,7 @@
 * [The Book of Shaders](https://thebookofshaders.com)
 
 
-### HTML and CSS
+### HTML et CSS
 
 * [Flexbox Froggy](https://flexboxfroggy.com/#fr)
 * [Grid Garden](https://cssgridgarden.com/#fr)

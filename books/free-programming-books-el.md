@@ -23,7 +23,6 @@
 ### <a id="cpp"></a>C++
 
 * [Εισαγωγή στη C++](http://www.ebooks4greeks.gr/2011.Download_free-ebooks/Pliroforikis/glossa_programmatismoy_C++__eBooks4Greeks.gr.pdf) (PDF)
-* [Προγραμματισμός με τη γλώσσα C++](https://repository.kallipos.gr/bitstream/11419/6443/3/00_master_document-KOY.pdf) - Θεόδωρος Αλεβίζος (PDF) (CC BY-NC-SA)
 
 
 ### Java

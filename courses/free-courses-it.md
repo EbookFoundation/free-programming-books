@@ -153,7 +153,7 @@
 * [Corso Javascript (ES6)](https://www.youtube.com/playlist?list=PL0qAPtx8YtJceyk5_NpNvLbbkrmfX9kkw) - Fabrizio Camuso
 * [Corso Javascript Completo 2022](https://www.youtube.com/playlist?list=PLP5MAKLy8lP9FUx06-avV66mS8LXz7_Bb) - Edoardo Midali
 
-  
+
 #### Vue.js
 
 * [Vue 2.x (corso base)](https://www.youtube.com/playlist?list=PL0qAPtx8YtJdUH44fvkzVxy9waP23I_bE) - Fabrizio Camuso

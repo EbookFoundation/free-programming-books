@@ -296,6 +296,7 @@
 
 * [Prompt Engineering Guide](https://learnprompting.org/docs) - Learn Prompting
 
+
 ### Assembly
 
 * [Assembly Language complete course](https://www.youtube.com/playlist?list=PLMa5a9Dh6SlhJq4wCH_CLSdfRaAbuJTzb) - Exceptional Programmers

@@ -61,8 +61,8 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Forth](#forth)
 * [Fortran](#fortran)
 * [FreeBSD](#freebsd)
-* [Go](#go)
 * [Git](#git)
+* [Go](#go)
 * [Graphs](#graphs)
     * [GraphQL](#graphql)
     * [Gremlin](#gremlin)
@@ -1968,11 +1968,11 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Python
 
+* [100 Page Python Intro](https://learnbyexample.github.io/100_page_python_intro/) - Sundeep Agarwal  
 * [20 Python Libraries You Aren't Using (But Should)](https://www.oreilly.com/learning/20-python-libraries-you-arent-using-but-should) - Caleb Hattingh
-* [100 Page Python Intro](https://learnbyexample.github.io/100_page_python_intro/) - Sundeep Agarwal
 * [A Beginner's Python Tutorial](https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial) - Wikibooks
-* [Automated Machine Learning: Methods, Systems, Challenges](https://link.springer.com/book/10.1007/978-3-030-05318-5) - Frank Hutter, Lars Kotthoff, and Joaquin Vanschoren (PDF, HTML)
 * [A Byte of Python](https://python.swaroopch.com) (3.x) (HTML, PDF, EPUB, Mobi) (CC BY-SA)
+* [Automated Machine Learning: Methods, Systems, Challenges](https://link.springer.com/book/10.1007/978-3-030-05318-5) - Frank Hutter, Lars Kotthoff, and Joaquin Vanschoren (PDF, HTML)
 * [A Guide to Python's Magic Methods](https://github.com/RafeKettler/magicmethods) - Rafe Kettler
 * [A Practical Introduction to Python Programming](https://www.brianheinold.net/python/) - Brian Heinold (HTML, PDF, Exercises sources)
 * [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) - Jake VanderPlas
@@ -2080,8 +2080,8 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Python Programming](https://upload.wikimedia.org/wikipedia/commons/9/91/Python_Programming.pdf) - Wikibooks (PDF) (2.6)
 * [Python Programming And Numerical Methods: A Guide For Engineers And Scientists](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html) - Qingkai Kong, Timmy Siauw, Alexandre Bayen (3.7)
 * [Python Programming Exercises, Gently Explained](https://inventwithpython.com/PythonProgrammingExercisesGentlyExplained.pdf) - Al Sweigart (PDF)
-* [Python Tutorial](https://www.tutorialspoint.com/python/) - Tutorials Point (HTML, PDF)
 * [Programming for Computations – Python](https://link.springer.com/book/10.1007/978-3-319-32428-9) - Svein Linge and Hans Petter Langtangen (PDF, HTML)
+* [Python Tutorial](https://www.tutorialspoint.com/python/) - Tutorials Point (HTML, PDF)
 * [Research Software Engineering with Python](https://merely-useful.tech/py-rse/) - Damien Irving, Kate Hertweck, Luke Johnston, Joel Ostblom, Charlotte Wickham, Greg Wilson (HTML)
 * [Scientific Visualization: Python + Matplotlib](https://github.com/rougier/scientific-visualization-book) - Nicolas P. Rougier (PDF)
 * [Scipy Lecture Notes](http://scipy-lectures.github.io)

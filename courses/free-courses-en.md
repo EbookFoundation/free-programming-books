@@ -291,6 +291,10 @@
 * [Understanding Large Language Models — Foundations and Safety (CS 194/294-267)](https://www.youtube.com/playlist?list=PLJ66BAXN6D8H_gRQJGjmbnS5qCWoxJNfe) - Responsible Decentralized Intelligence (UC Berkeley EECS)
 
 
+#### Prompt Engineering
+
+* [Prompt Engineering Guide](https://learnprompting.org/docs) - Learn Prompting
+
 ### Assembly
 
 * [Assembly Language complete course](https://www.youtube.com/playlist?list=PLMa5a9Dh6SlhJq4wCH_CLSdfRaAbuJTzb) - Exceptional Programmers

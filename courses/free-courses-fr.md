@@ -69,6 +69,11 @@
 * [Formation Git en vidéo, Cours Complet](https://www.youtube.com/playlist?list=PLjwdMgw5TTLXuY5i7RW0QqGdW0NZntqiP) - Grafikart
 
 
+### Intelligence Artificielle
+
+* [Générative AI pour Débutants .NET - Un Cours](https://github.com/microsoft/Generative-AI-for-beginners-dotnet/tree/main/translations/fr) - Microsoft (GitHub)
+
+
 ### HTML / CSS
 
 * [Apprendre à coder en HTML et CSS \| Cours complet (2020)](https://www.pierre-giraud.com/html-css-apprendre-coder-cours/) - Pierre Giraud (HTML)

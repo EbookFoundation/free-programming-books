@@ -112,6 +112,7 @@
 
 ### Banco de Dados
 
+* [Introdução a Banco de Dados](https://www.ime.usp.br/~jef/apostila.pdf) - Osvaldo Kotaro Takai, Isabel Cristina Italiano, João Eduardo Ferreira (PDF)
 * [Introdução a Banco de Dados](https://educapes.capes.gov.br/bitstream/capes/564494/2/FASCICULO_Introducao_Banco_Dados_30_08.pdf) - Joyce Aline de Oliveira Marins, Gracyeli Santos Souza Guarienti (PDF)
 
 
@@ -259,6 +260,7 @@
 * [Java Básico e Oriêntação a Objeto](https://canal.cecierj.edu.br/012016/d7d8367338445d5a49b4d5a49f6ad2b9.pdf) - Clayton Escouper das Chagas, Cássia Blondet Baruque, Lúcia Blondet Baruque (PDF)
 * [Java e Orientação a Objetos](http://www.caelum.com.br/apostila-java-orientacao-objetos/) - Caelum
 * [Java para Desenvolvimento Web](http://www.caelum.com.br/apostila-java-web/) - Caelum
+* [Programação em JAVA](https://www.faeterj-rio.edu.br/downloads/bbv/0031.pdf) - Daniela Barreiro Claro, João Bosco Mangueira Sobral (PDF)
 * [Programação Orientada a Objetos: Uma Abordagem com Java](https://www.dca.fee.unicamp.br/cursos/PooJava/Aulas/poojava.pdf) - Ivan Luiz Marques Ricarte (PDF)
 * [Programação para iniciantes](https://s3.amazonaws.com/algaworks-assets/ebooks/algaworks-livro-programacao-para-iniciantes-v1.1.pdf) Alexandre Afonso (PDF)
 

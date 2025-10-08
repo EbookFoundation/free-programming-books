@@ -165,7 +165,8 @@
 * [Curso C#](https://www.pildorasinformaticas.es/course/curso-c) - Juan Díaz (Píldoras Informáticas)
 * [Curso de Javascript](https://edutin.com/curso-de-javascript-4284) - (Edutin Academy)
 * [Curso de JavaScript Gratis](https://codigofacilito.com/cursos/javascript) - Código Facilito
-* [Curso de PHP/MySQL](https://www.youtube.com/playlist?list=PLU8oAlHdN5BkinrODGXToK9oPAlnJxmW_) - Juan Díaz (Píldoras informáticas) 
+* [Curso de PHP/MySQL](https://www.youtube.com/playlist?list=PLU8oAlHdN5BkinrODGXToK9oPAlnJxmW_) - Juan Díaz (Píldoras informáticas)
+* [Curso de Python](https://www.youtube.com/playlist?list=PLNdFk2_brsRcrVO-C915sjog0WclPgxHb) - Brias Moure "MoureDev"
 * [Curso de Python gratis y con certificación](https://edutin.com/curso-de-python-4276) - Edutin
 * [Curso Gratis de Programación Básica](https://platzi.com/clases/programacion-basica/) - Platzi
 * [Curso Gratis de Ruby](https://codigofacilito.com/cursos/ruby-2) - Código Facilito

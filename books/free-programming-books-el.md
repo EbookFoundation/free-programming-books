@@ -14,6 +14,7 @@
 ### C
 
 * [Διαδικαστικός προγραμματισμός](https://repository.kallipos.gr/bitstream/11419/1346/3/00_master%20document_KOY.pdf) - Μαστοροκώστας Πάρις (PDF)
+* [Μια σύγχρονη προσέγγιση στη γλώσσα C](https://repository.kallipos.gr/handle/11419/11683) - Αλέξανδρος Τζάλλας, Χρήστος Γκόγκος, Ιωάννης Τσούλος (PDF) (CC BY-NC-SA)
 
 
 ### <a id="csharp"></a>C\#

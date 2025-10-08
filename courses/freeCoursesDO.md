@@ -8,18 +8,18 @@
   * [Jaeger Intro - CNCF (YouTube)](https://www.youtube.com/watch?v=UNqilb9_zwY)
 * **New Relic**
   * [Ingesting OpenTelemetry Data with New Relic One (YouTube)](https://www.youtube.com/watch?v=YHyopdCfxsQ)
-  * [New Relic - Amazon Web Services (YouTube)](https://www.youtube.com/watch?v=aU6A-45c7Vs)
   * [New Relic (YouTube)](https://www.youtube.com/c/NewRelicInc)
+  * [New Relic - Amazon Web Services (YouTube)](https://www.youtube.com/watch?v=aU6A-45c7Vs)
 
 ---
 
 ### CI/CD
 
-* **Jenkins**
+* [GitHub Actions](https://www.youtube.com/watch?v=R8_veQiYBjI)
+* *Jenkins*
   * [Docs](https://www.jenkins.io/doc/tutorials)
   * [Jenkins Tutorial - TechWorld with Nana (YouTube)](https://www.youtube.com/watch?v=7KCS70sCoK0)
   * [Jenkins Tutorial - Tutorialspoint](https://www.tutorialspoint.com/jenkins/index.htm)
-* [GitHub Actions](https://www.youtube.com/watch?v=R8_veQiYBjI)
 * [What Is CI/CD](https://www.youtube.com/watch?v=62N8UiWUdQo&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak&index=21)
 
 ---
@@ -86,11 +86,11 @@
 ### GoLang
 
 * [Complete Golang Tutorial - Hitesh Choudhary (YouTube)](https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa)
-* [Getting Started - Go](https://go.dev/learn)
 * [Go Programming - GoLang Course with Bonus Project (YouTube)](https://youtu.be/un6ZyFkqFKo)
 * [Go Tutorial - TutorialsPoint](https://www.tutorialspoint.com/go/index.htm)
 * [Go Tutorial - W3Schools](https://www.w3schools.com/go)
 * [Golang Tutorial - TechWorld with Nana (YouTube)](https://www.youtube.com/watch?v=yyUHQIec83I)
+* [Getting Started - Go](https://go.dev/learn)
 * [Learn Go - Codecademy](https://www.codecademy.com/learn/learn-go)
 * [Learn Go Programming - freeCodeCamp (YouTube)](https://www.youtube.com/watch?v=YS4e4q9oBaU)
 

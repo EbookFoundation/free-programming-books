@@ -235,5 +235,5 @@
 ### Security
 
 * [Cyber Security Tutorial Malayalam \| Ethical Hacking Courses for IT Career](https://www.youtube.com/playlist?list=PLR2UNjW_Pkm8LUpryeuiLMpEf4KgCDeBu) - RootSaid - Robotics, Technology & Cyber Security
-* [Security Fundamentals](https://www.youtube.com/playlist?list=PLEhpnavDYfVhGnYA4l8btphQG8i2zO4cI) - Cyber Security Malayalam
+* [Ethical Hacking](https://www.youtube.com/playlist?list=PLLPuX9XQz1lU_ZNcTWcMn9CZOhgT6yjyZ) - Scratch Media
 

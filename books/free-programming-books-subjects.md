@@ -158,6 +158,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 
 
 ### Blockchain
+
 * [A Simple Blockchain Guide](https://example.com/simple_guide.html) - Jane Roe (HTML)
 * [Bitcoin and Cryptocurrency Technologies](https://bitcoinbook.cs.princeton.edu) - Arvind Narayanan, Joseph Bonneau, Eduard Felten, Andrew Miller, Steven Goldfeder, Jeremy Clark (PDF)
 * [Blockchain for Dummies, 2nd IBM Limited Edition](https://www.ibm.com/downloads/cas/36KBMBOC) - Manav Gupta (PDF)

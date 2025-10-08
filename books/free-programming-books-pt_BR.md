@@ -138,6 +138,7 @@
 
 * [C# e Orientação a Objetos](https://www.caelum.com.br/apostila-csharp-orientacao-objetos/) - Caelum
 * [C# para Iniciantes](https://livrocsharp.com.br/wp-content/uploads/dae-uploads/CSharpIniciantes.pdf) - André Carlucci, Carlos dos Santos, Claudenir Andrade, Rafael Almeida, Ray Carneiro, Renato Haddad (PDF)
+* [Free Foundational C# with Microsoft Certification](https://www.freecodecamp.org/portuguese/learn/foundational-c-sharp-with-microsoft/) - FreeCodeCamp
 
 
 ### <a id="cpp"></a>C++
@@ -414,6 +415,7 @@
 
 * [Apostila de Python](https://www1.univap.br/alberson/apostilas/pooi/apostila_pooi_1bi.pdf) - Alberson Wander Sá dos Santos (PDF)
 * [Aprenda computação com Python](https://aprendendo-computacao-com-python.readthedocs.org/en/latest/index.html)
+* [Aprendizado de máquina com Python](https://www.freecodecamp.org/portuguese/learn/machine-learning-with-python/) - FreeCodeCamp
 * [Curso de Python e Django](https://osantana.me/curso-de-python-e-django)
 * [Django 101 - Introdução ao Django](http://turing.com.br/material/acpython/mod3/django/index.html)
 * [Introdução a Visão Computacional com Python e OpenCV](http://professor.luzerna.ifc.edu.br/ricardo-antonello/wp-content/uploads/sites/8/2017/02/Livro-Introdu%C3%A7%C3%A3o-a-Vis%C3%A3o-Computacional-com-Python-e-OpenCV-3.pdf) (PDF)

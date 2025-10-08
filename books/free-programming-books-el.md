@@ -6,6 +6,7 @@
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Matlab](#matlab)
+* [Prolog](#prolog)
 * [Python](#python)
 * [R](#r)
 * [Scala](#scala)
@@ -49,6 +50,11 @@
 ### Matlab
 
 * [Εισαγωγή στον προγραμματισμό](https://repository.kallipos.gr/handle/11419/8671) Πολυχρόνης Οικονόμου, Πολύκαρπος Παπαδόπουλος (PDF) (CC BY-NC-SA)
+
+
+### Prolog
+
+* [Τεχνικές Λογικού Προγραμματισμού](https://repository.kallipos.gr/handle/11419/777) Ηλίας Σακελλαρίου, Νικόλαος Βασιλειάδης, Πέτρος Κεφαλάς, Δημοσθένης Σταμάτης (EPUB, PDF) (CC BY-NC-SA)
 
 
 ### Python

@@ -1619,7 +1619,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [MATLAB Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/matlab) (PDF, Kindle) (email address *requested*, not required)
 * [Numerical Computing with MATLAB](http://www.mathworks.com/moler/index_ncm.html?requestedDomain=www.mathworks.com&nocookie=true)
 * [Physical Modeling in MATLAB](http://greenteapress.com/matlab/index.html) - Alan B. Downey
-* [Scientific Computing](https://www.math.ust.hk/~machas/scientific-computing.pdf) - Jeffrey R. Chasnov (PDF)
+* [Scientific Computing](https://www.math.ust.hk/~machas/scientific-computing.pdf) - Jeffrey R. Chasnov (PDF) (CC BY)
 
 
 ### Maven

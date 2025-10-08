@@ -159,8 +159,9 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 
 ### Blockchain
 
-* [Bitcoin and Cryptocurrency Technologies](https://bitcoinbook.cs.princeton.edu) - Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller, Steven Goldfeder, Jeremy Clark (PDF)
-* [Blockchain for Dummies, 2nd IBM Limited Edition](https://www.ibm.com/downloads/cas/36KBMBOG) - Manav Gupta (PDF)
+* [Bitcoin and Cryptocurrency Technologies](https://bitcoinbook.cs.princeton.edu) - Arvind Narayanan, Joseph Bonneau, Eduard Felten, Andrew Miller, Steven Goldfeder, Jeremy Clark (PDF)
+* [A Simple Blockchain Guide](https://example.com/simple_guide.html) - Jane Roe (HTML)
+* [Blockchain for Dummies, 2nd IBM Limited Edition](https://www.ibm.com/downloads/cas/36KBMBOC) - Manav Gupta (PDF)
 * [Build a Blockchain from Scratch in Go with gRPC](https://github.com/volodymyrprokopyuk/go-blockchain) - Volodymyr Prokopyuk
 * [chain.courses](https://web.archive.org/web/20220127020549/https://chain.courses/) - James Gan, Rishub Kumar *( :card_file_box: archived)*
 * [Getting Started with Enterprise Blockchain: A Guide to Design and Development](https://www.ibm.com/downloads/cas/RYWXAR0M) - Michael Bradley, David Gorman, Matt Lucas, Matthew Golby-Kirk (PDF)
@@ -178,6 +179,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [A New Kind of Science](https://www.wolframscience.com/nksonline/toc.html) - Stephen Wolfram
 * [An Introduction to Cellular Automata](https://ia801004.us.archive.org/26/items/viviencellularautomata/vivien%20cellular%20automata.pdf) - Hélène Vivien (PDF)
 * [Introduction to the Modeling and Analysis of Complex Systems](https://milneopentextbooks.org/introduction-to-the-modeling-and-analysis-of-complex-systems/) - Hiroki Sayama
+* [The Secret Life of Cellular Automata](https://example.com/thesecretlife.html) - John Doe (HTML)
 
 
 ### Cloud Computing

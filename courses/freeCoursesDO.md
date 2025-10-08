@@ -8,19 +8,19 @@
   * [Jaeger Intro - CNCF (YouTube)](https://www.youtube.com/watch?v=UNqilb9_zwY)
 * **New Relic**
   * [Ingesting OpenTelemetry Data with New Relic One (YouTube)](https://www.youtube.com/watch?v=YHyopdCfxsQ)
-  * [New Relic (YouTube)](https://www.youtube.com/c/NewRelicInc)
   * [New Relic - Amazon Web Services (YouTube)](https://www.youtube.com/watch?v=aU6A-45c7Vs)
+  * [New Relic (YouTube)](https://www.youtube.com/c/NewRelicInc)
 
 ---
 
 ### CI/CD
 
-* [GitHub Actions](https://www.youtube.com/watch?v=R8_veQiYBjI)
-* [What Is CI/CD](https://www.youtube.com/watch?v=62N8UiWUdQo&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak&index=21)
 * **Jenkins**
   * [Docs](https://www.jenkins.io/doc/tutorials)
   * [Jenkins Tutorial - TechWorld with Nana (YouTube)](https://www.youtube.com/watch?v=7KCS70sCoK0)
   * [Jenkins Tutorial - Tutorialspoint](https://www.tutorialspoint.com/jenkins/index.htm)
+* [GitHub Actions](https://www.youtube.com/watch?v=R8_veQiYBjI)
+* [What Is CI/CD](https://www.youtube.com/watch?v=62N8UiWUdQo&list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak&index=21)
 
 ---
 
@@ -42,8 +42,8 @@
 
 * [Ansible Docs](https://docs.ansible.com/ansible/latest/index.html)
 * [Ansible Tutorial for Beginners: Ultimate Playbook & Examples - Spacelift](https://spacelift.io/blog/ansible-tutorial)
-* [Chef, Puppet, Ansible Course](https://www.youtube.com/watch?v=O1s16cYzC10)
 * [Chef vs Puppet vs Ansible](https://www.youtube.com/watch?v=_TVNCTK808I)
+* [Chef, Puppet, Ansible Course](https://www.youtube.com/watch?v=O1s16cYzC10)
 * [Getting Started with Ansible (YouTube)](https://www.youtube.com/playlist?list=PLT98CRl2KxKEUHie1m24-wkyHpEsa4Y70)
 * [What is Ansible](https://www.youtube.com/watch?v=wgQ3rHFTM4E)
 
@@ -100,8 +100,8 @@
 
 * [Grafana Docs](https://grafana.com/docs/grafana/latest/getting-started/get-started-grafana-prometheus)
 * [How Prometheus Monitoring Works - TechWorld with Nana (YouTube)](https://www.youtube.com/watch?v=h4Sl21AKiDg)
-* [Prometheus and Grafana Tutorial - The Digital Life (YouTube)](https://www.youtube.com/watch?v=9TJx7QTrTyo)
 * [Prometheus Docs](https://prometheus.io/docs/introduction/overview)
+* [Prometheus and Grafana Tutorial - The Digital Life (YouTube)](https://www.youtube.com/watch?v=9TJx7QTrTyo)
 
 ---
 
@@ -136,8 +136,8 @@
   * [OpenDev 2017 - Microsoft Azure (YouTube)](https://www.youtube.com/watch?v=tOqWX9JWEYc)
   * [What is Elasticsearch? - IBM Technology (YouTube)](https://www.youtube.com/watch?v=ZP0NmfyfsoM)
 * **ELK**
-  * [Log Management at Scale with ELK - Logz.io (YouTube)](https://www.youtube.com/watch?v=MuPhf6uL-kE)
   * [Log Management With ELK - CPrime](https://www.cprime.com/resources/blog/log-management-elk-and-why-you-should-care)
+  * [Log Management at Scale with ELK - Logz.io (YouTube)](https://www.youtube.com/watch?v=MuPhf6uL-kE)
   * [What is ELK? - Tech Primers (YouTube)](https://www.youtube.com/watch?v=4X0WLg05ASw)
   * [What is the ELK Stack - Sematext](https://sematext.com/guides/elk-stack)
 
@@ -182,7 +182,6 @@
 
 ### Service Mesh
 
-* [What Is a Service Mesh? (YouTube)](https://www.youtube.com/watch?v=vh1YtWjfcyk)
 * **Consul**
   * [Docs](https://www.consul.io/docs)
   * [Introduction (YouTube)](https://www.youtube.com/watch?v=UHLr8UsHuDA)
@@ -190,6 +189,7 @@
   * [Docs](https://istio.io/latest/docs/setup/getting-started)
   * [Istio & Service Mesh - TechWorld with Nana (YouTube)](https://www.youtube.com/watch?v=16fgzklcF7Y)
   * [Istio Service Mesh Explained - IBM Technology (YouTube)](https://www.youtube.com/watch?v=6zDrLvpfCK4)
+* [What Is a Service Mesh? (YouTube)](https://www.youtube.com/watch?v=vh1YtWjfcyk)
 
 ---
 

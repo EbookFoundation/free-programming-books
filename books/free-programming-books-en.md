@@ -2,7 +2,6 @@
 
 * [All](#all)
 
-
 ### All
 
 * [English, By Programming Language](free-programming-books-langs.md)

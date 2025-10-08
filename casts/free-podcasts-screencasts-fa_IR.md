@@ -9,6 +9,7 @@
 ### Programming News
 
 * [پادکست کافه برنامه نویس](https://anchor.fm/codemy) - CafeCodemy&rlm; (podcast)
+* [راکت کست](https://roocket.ir/podcast/) - (podcast)
 
 
 ### Technology

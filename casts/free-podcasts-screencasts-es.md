@@ -69,7 +69,7 @@
 
 * [Code on the Rocks](http://codeontherocks.fm) - Jorge Barroso, Jorge Lería, Davide Mendolia (podcast)
 * [Codely.TV screencasts](https://codely.com/blog/category/screencasts) - Codely.TV (screencasts)
-* [Cosas de Internet](https://cosasdeinternet.fm/episodios) - Santiago Espinosa, Laura Rojas Aponte (podcast) *(Última Actualización: Ep.50 2024)*
+* [Cosas de Internet](https://cosasdeinternet.fm/episodios) - Santiago Espinosa, Laura Rojas Aponte (podcast)
 * [Día30](https://www.dia30.mx) - Víctor Velázquez, Mariana Ruiz (podcast) *(Última Actualización: Noviembre 2021)*
 * [Digital. Innovation. Engineers.](https://anchor.fm/mimacom) - Mimacom (podcast)
 * [Doomling & Chill](https://anchor.fm/bel-rey) - Bel Rey (podcast) *(Última Actualización: Marzo 2021)*

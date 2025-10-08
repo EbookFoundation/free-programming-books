@@ -86,6 +86,6 @@
 * [NoSoloTech](https://www.ivoox.com/podcast-nosolotech-podcast_sq_f1851397_1.html) - Diana Aceves, Félix López, Katia Aresti, Jorge Barrachina (podcast) *(Última Actualización: Octubre 2021)*
 * [Red de Sospechosos Habituales](https://www.ivoox.com/podcast-red-sospechosos-habituales_sq_f1564393_1.html) - Javier Fernández (podcast)
 * [Reescribiendo el Código](https://open.spotify.com/show/6efO7Lp5LENT3jqR0sYIG5) - Catalina Arismendi, Julia Calvo, Jesica Checa, Florencia Risolo (podcast)
-* [TechAndLadies](https://anchor.fm/techladies) - Silvia Morillo, Cristina Pampín, Silvia García (podcast) *(Última Actualización: Abril 2024)*
+* [TechAndLadies](https://anchor.fm/techladies) - Silvia Morillo, Cristina Pampín, Silvia García (podcast)
 * [UGeek](https://ugeek.github.io) - Ángel Jiménez de Luis (podcast)
 * [Webificando - El podcast de side projects](https://podcasts.apple.com/co/podcast/webificando-el-podcast-de-side-projects/id1547290552) - Abel Fernandez, Robert Menetray (podcast) *(Última Actualización: Junio 2021)*

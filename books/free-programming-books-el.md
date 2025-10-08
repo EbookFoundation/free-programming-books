@@ -6,6 +6,7 @@
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Matlab](#matlab)
+* [Prolog](#prolog)
 * [Python](#python)
 * [R](#r)
 * [Scala](#scala)
@@ -51,6 +52,11 @@
 * [Εισαγωγή στον προγραμματισμό](https://repository.kallipos.gr/handle/11419/8671) Πολυχρόνης Οικονόμου, Πολύκαρπος Παπαδόπουλος (PDF) (CC BY-NC-SA)
 
 
+### Prolog
+
+* [Τεχνικές Λογικού Προγραμματισμού](https://repository.kallipos.gr/handle/11419/777) Ηλίας Σακελλαρίου, Νικόλαος Βασιλειάδης, Πέτρος Κεφαλάς, Δημοσθένης Σταμάτης (EPUB, PDF) (CC BY-NC-SA)
+
+
 ### Python
 
 * [Εισαγωγή στον Προγραμματισμό με Αρωγό τη Γλώσσα Python](https://www.ebooks4greeks.gr/eisagwgh-ston-programmatismo-me-arwgo-th-glwssa-python)
@@ -61,6 +67,7 @@
 ### R
 
 * [Εισαγωγή στην Επιχειρησιακή Έρευνα και στον Γραμμικό Προγραμματισμό](https://repository.kallipos.gr/handle/11419/5699) Κωνσταντίνος Κουνετάς, Νικόλαος Χατζησταμούλου (EPUB, PDF) (CC BY-NC-SA)
+* [Εισαγωγή στον προγραμματισμό και στη στατιστική ανάλυση με R](https://repository.kallipos.gr/handle/11419/2601) Ιωάννης Ντζούφρας, Δημήτριος Καρλής (EPUB, PDF) (CC BY-NC-SA)
 
 
 ### Scala

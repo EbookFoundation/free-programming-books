@@ -1,9 +1,11 @@
 ### Περιεχόμενα
 
 * [C](#c)
+* [C#](#csharp)
 * [C++](#cpp)
 * [Java](#java)
 * [JavaScript](#javascript)
+* [Matlab](#matlab)
 * [Python](#python)
 * [R](#r)
 * [Scala](#scala)
@@ -13,6 +15,12 @@
 ### C
 
 * [Διαδικαστικός προγραμματισμός](https://repository.kallipos.gr/bitstream/11419/1346/3/00_master%20document_KOY.pdf) - Μαστοροκώστας Πάρις (PDF)
+* [Μια σύγχρονη προσέγγιση στη γλώσσα C](https://repository.kallipos.gr/handle/11419/11683) - Αλέξανδρος Τζάλλας, Χρήστος Γκόγκος, Ιωάννης Τσούλος (PDF) (CC BY-NC-SA)
+
+
+### <a id="csharp"></a>C\#
+
+* [Επίλυση προβλημάτων με τη γλώσσα C#](https://repository.kallipos.gr/handle/11419/9349) - Νικόλαος Ζάχαρης (PDF) (CC BY-NC-SA)
 
 
 ### <a id="cpp"></a>C++
@@ -38,6 +46,11 @@
 * [HTML5-JavaScript (Δημιουργώντας παιχνίδια – Ο εύκολος τρόπος)](https://www.ebooks4greeks.gr/html5-javascript)
 
 
+### Matlab
+
+* [Εισαγωγή στον προγραμματισμό](https://repository.kallipos.gr/handle/11419/8671) Πολυχρόνης Οικονόμου, Πολύκαρπος Παπαδόπουλος (PDF) (CC BY-NC-SA)
+
+
 ### Python
 
 * [Εισαγωγή στον Προγραμματισμό με Αρωγό τη Γλώσσα Python](https://www.ebooks4greeks.gr/eisagwgh-ston-programmatismo-me-arwgo-th-glwssa-python)
@@ -47,6 +60,7 @@
 
 ### R
 
+* [Εισαγωγή στην Επιχειρησιακή Έρευνα και στον Γραμμικό Προγραμματισμό](https://repository.kallipos.gr/handle/11419/5699) Κωνσταντίνος Κουνετάς, Νικόλαος Χατζησταμούλου (EPUB, PDF) (CC BY-NC-SA)
 * [Προγραμματισμός σε R](https://repository.kallipos.gr/handle/11419/8588) Βασίλης Νικολαΐδης (PDF) (CC BY-NC-SA)
 
 

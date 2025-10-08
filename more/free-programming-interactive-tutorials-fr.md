@@ -3,8 +3,7 @@
 * [C](#c)
 * [Cloud Computing](#cloud-computing)
 * [GLSL](#glsl)
-* [Indépendant du Langage](#indépendant-du-langage)
-    * [Systèmes d'exploitation](#systèmes-dexploitation)
+* [Systèmes d'exploitation](#systèmes-dexploitation)
 * [JavaScript](#javascript)
 * [Science des données](#science-des-données)
 
@@ -23,11 +22,7 @@
 
 * [The Book of Shaders](https://thebookofshaders.com/?lan=fr)
 
-
-### Indépendant du Langage
-
-
-#### Systèmes d'exploitation
+### Systèmes d'exploitation
 
 * [Linux Journey](https://labex.io/fr/linuxjourney) - LabEx
 

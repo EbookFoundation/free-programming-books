@@ -544,7 +544,7 @@
 ### TypeScript
 
 * [TypeScript Cheat Sheet](https://rmolinamir.github.io/typescript-cheatsheet/) - Robert Molina (HTML)
-
+* [TypeScript — Frontend & Backend (file setup, types, generics, React + TS)](https://github.com/SAYOUNCDR/TS-CheatSheet) - SAYOUNCDR (Markdown)
 
 ### UI/UX
 

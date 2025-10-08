@@ -87,9 +87,10 @@
 
 ### Competitive Programming
 
+* [[Complete] Data Structures and Algorithms Bangla Tutorial](https://youtube.com/playlist?list=PLdl6zXgLsy3w1m6Hl5g2wfCJOLhBR8bg_&si=EP4A8F1HG7mXo7qr) - Bangla Coding Tutor
 * [Competitive Programming Course in Bengali](https://www.youtube.com/channel/UCozCCU3b1HmcmCf2gLN_7HA/videos) - Bangladesh IOI team
 * [Data Structures and Algorithms in Bangla](https://www.youtube.com/playlist?list=PLym69wpbTIIEOesltWGUsVnY9HDWbJit_) - Tamim Shahriar
-
+ 
 
 ### Dart
 

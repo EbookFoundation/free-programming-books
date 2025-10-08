@@ -1098,7 +1098,6 @@
 * [Learn NestJS – Complete Course](https://www.youtube.com/watch?v=sFnAHC9lLaw) - freeCodeCamp
 * [Nest.js Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g8YFseGdkyj9RH9kVs_cMr) - Net Ninja
 * [NestJs](https://www.youtube.com/playlist?list=PLlaDAvA2MhR2jb8zavu6I-w1BA878aHcB) - Marius Espejo
-* [Next.js 15 Tutorial - Beginner to Advanced](https://youtube.com/playlist?list=PLC3y8-rFHvwhIEc4I4YsRz5C7GOBnxSJY&si=EivqxQFtG6r-fsxV) - Codevolution
 
 
 #### Next.js
@@ -1108,6 +1107,7 @@
 * [Master Next JS by Building Real Projects](https://www.youtube.com/playlist?list=PL6QREj8te1P7gixBDSU8JLvQndTEEX3c3) - JavaScript Mastery
 * [Mastering Next.js](https://masteringnextjs.com)
 * [Next.js 14 Beginner Roadmap & Course](https://www.youtube.com/playlist?list=PLrnPJCHvNZuBH7pax5p75JDNblo8rpl00) - Coding in Flow
+* [Next.js 15 Tutorial - Beginner to Advanced](https://youtube.com/playlist?list=PLC3y8-rFHvwhIEc4I4YsRz5C7GOBnxSJY&si=EivqxQFtG6r-fsxV) - Codevolution
 * [Next.js for Beginners - Full Course](https://www.youtube.com/watch?v=1WmNXEVia8I) - Kapehe (FreeCodeCamp)
 * [Next.js Tutorial for Beginners](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgC9mj0qv972IO5DmD-H0ZH) - Codevolution
 * [Next.js Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw) - Net Ninja

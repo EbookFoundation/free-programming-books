@@ -240,7 +240,7 @@
 #### React
 
 * [১ ভিডিওতে রিয়্যাক্ট শিখুন ! ফুল কোর্স](https://www.youtube.com/watch?v=6wilewRV3xQ) - Rabbil Hasan
-* [বাংলা REACT JS  টিউটোরিয়াল \| REACT full course \| REACT TUTORIAL in BANGLA \| REACT js in Bangla](https://youtube.com/playlist?list=PLvT67qI_dN-LPi-_6sTrxdqdKvMGeEh8N) - IT VAYA
+* [বাংলা REACT JS  টিউটোরিয়াল \| REACT full course \| REACT TUTORIAL in BANGLA \| REACT js in Bangla](https://www.youtube.com/playlist?list=PLvT67qI_dN-LPi-_6sTrxdqdKvMGeEh8N) - IT VAYA
 * [React - Redux Complete Course](https://www.youtube.com/playlist?list=PL_XxuZqN0xVAvcGzTEAyPSOqgUQA08rNB) - Stack Learner
 * [React JS Bangla Tutorial \| React Tutorial For Beginners](https://www.youtube.com/playlist?list=PLNMnAEqLBwmqvuLEb5fVyGfcdMMlrEsHL) - Hablu Programmer
 * [React JS Tutorial Bangla Series for Beginners](https://www.youtube.com/playlist?list=PLHiZ4m8vCp9M6HVQv7a36cp8LKzyHIePr) - Sumit Saha (Learn with Sumit)

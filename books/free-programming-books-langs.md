@@ -1735,6 +1735,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [OCaml From the Ground Up](https://ocamlbook.org) - Daniil Baturin (HTML) *( :construction: in process)*
 * [OCaml from the Very Beginning](https://johnwhitington.net/ocamlfromtheverybeginning/) - John Whitington
 * [OCaml Scientific Computing](https://ocaml.xyz/book/) - Liang Wang, Jianxin Zhao (HTML) *( :construction: in process)*
+* [Learn Programming with OCaml: Algorithms and Data Structures](https://usr.lmf.cnrs.fr/lpo/lpo.pdf) - Sylvain Conchon, Jean-Christophe Filliâtre (PDF)
 * [Real World OCaml](https://dev.realworldocaml.org/toc.html)
 * [Think OCaml](http://greenteapress.com/thinkocaml/index.html) - Allen B. Downey, Nicholas Monje
 * [Unix System Programming in OCaml](http://ocaml.github.io/ocamlunix/) - Xavier Leroy, Didier Rémy (HTML, [GitHub Repo](https://github.com/ocaml/ocamlunix/))

@@ -1,6 +1,7 @@
 ### Περιεχόμενα
 
 * [C](#c)
+* [C#](#csharp)
 * [C++](#cpp)
 * [Java](#java)
 * [JavaScript](#javascript)
@@ -12,6 +13,11 @@
 ### C
 
 * [Διαδικαστικός προγραμματισμός](https://repository.kallipos.gr/bitstream/11419/1346/3/00_master%20document_KOY.pdf) - Μαστοροκώστας Πάρις (PDF)
+
+
+### <a id="csharp"></a>C\#
+
+* [Επίλυση προβλημάτων με τη γλώσσα C#](https://repository.kallipos.gr/handle/11419/9349) - Νικόλαος Ζάχαρης (PDF) (CC BY-NC-SA)
 
 
 ### <a id="cpp"></a>C++

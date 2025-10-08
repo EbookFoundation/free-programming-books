@@ -1193,9 +1193,6 @@
 #### Remix
 
 * [Remix and Strapi Crash Course – Full Stack Development](https://youtu.be/5yIivwrvH6w?si=CwqLL4f6LrXxQKd2) - freeCodeCamp.org
-* [Remix Crash Course | Full Stack React](https://youtu.be/d_BhzHVV4aQ?si=WfdpM2SWL9vNvv0r) - Traversy Media
-* [Remix React Fullstack Tutorial | Crash Course](https://youtu.be/HOlYQu_r4Io?si=62xcZXC53KsXDTz1) - Marius Espejo
-* [Remix Tutorial For Beginners - Learn Remix In 1 Hour](https://youtu.be/rw1xAHJnBV8?si=I1zNRj6bxLz2nIAM) - PedroTech
 * [Remix Tutorial with Kent](https://www.youtube.com/live/hsIWJpuxNj0?si=ZsKD3AkaXjk_6sgk) - Remix
 
 

@@ -18,6 +18,7 @@
 * [Java](#java)
 * [JavaScript](#javascript)
     * [Vue.js](#vuejs)
+* [Julia](#julia)
 * [Machine Learning](#machine-learning)
 * [Misto](#misto)
 * [Mobile](#mobile)
@@ -156,6 +157,11 @@
 #### Vue.js
 
 * [Vue 2.x (corso base)](https://www.youtube.com/playlist?list=PL0qAPtx8YtJdUH44fvkzVxy9waP23I_bE) - Fabrizio Camuso
+
+
+### Julia
+
+* [Corso di linguaggio Julia](https://www.youtube.com/playlist?list=PL4GzWsD6ECaWvDCPuPB9OxdIye8IZXCuE) - Leonardo Boselli
 
 
 ### Machine Learning

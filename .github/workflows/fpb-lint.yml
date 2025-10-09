@@ -1,36 +1,34 @@
-name: free-programming-books-lint
+name: FPB Linter
 
-on: [pull_request]
-
-permissions:
-  contents: read
+on:
+  push:
+    branches: [main, fix-fpb-lint-alphabetization]
+  pull_request:
+    branches: [main]
 
 jobs:
-  build:
-
+  lint:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v5
-    - name: Use Node.js
-      uses: actions/setup-node@v5
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
       with:
-        node-version: '16.x'
-    - run: npm install -g free-programming-books-lint
+        python-version: "3.11"
 
-    - name: Pull Request
+    - name: Install dependencies
       run: |
-        fpb-lint books casts courses more &> output.log
+        python -m pip install --upgrade pip
+        pip install click markdown-it-py
 
-    - name: Clean output and create artifacts
-      if: always()
+    - name: Run FPB Linter
       run: |
-          mkdir -p ./pr
-          echo ${{ github.event.pull_request.html_url }} > ./pr/PRurl
-          cat output.log | sed -E 's:/home/runner/work/free-programming-books/|⚠.+::' | uniq > ./pr/error.log
+        python fpb_lint_local.py
+      continue-on-error: false
 
-    - uses: actions/upload-artifact@v4
-      if: always()
-      with:
-        name: pr
-        path: pr/
+    - name: Show log file
+      if: success() || failure()
+      run: cat fpb_lint_log.md || echo "No log generated"

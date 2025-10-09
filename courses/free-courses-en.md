@@ -1056,7 +1056,7 @@
 
 ### Astro
 
-* [Astro](https://youtube.com/playlist?list=PLMZnTut8a7icI97DDc2izk6nOoNlHyXgw&si=Oddk5kwLfwDx4HZD) - Stefan Rows
+* [Astro](https://www.youtube.com/playlist?list=PLMZnTut8a7icI97DDc2izk6nOoNlHyXgw) - Stefan Rows
 * [Astro Blog Course](https://www.youtube.com/playlist?list=PLoqZcxvpWzzeRwF8TEpXHtO7KYY6cNJeF) - Coding in Public
 * [Astro Crash Course](https://www.youtube.com/watch?v=Oi9z5gfIHJs) - Traversy Media
 * [Astro Web Framework Crash Course](https://www.youtube.com/watch?v=e-hTm5VmofI) - freeCodeCamp

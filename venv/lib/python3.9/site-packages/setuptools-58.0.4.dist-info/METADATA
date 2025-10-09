@@ -1,0 +1,119 @@
+Metadata-Version: 2.1
+Name: setuptools
+Version: 58.0.4
+Summary: Easily download, build, install, upgrade, and uninstall Python packages
+Home-page: https://github.com/pypa/setuptools
+Author: Python Packaging Authority
+Author-email: distutils-sig@python.org
+License: UNKNOWN
+Project-URL: Documentation, https://setuptools.readthedocs.io/
+Keywords: CPAN PyPI distutils eggs package management
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: System :: Archiving :: Packaging
+Classifier: Topic :: System :: Systems Administration
+Classifier: Topic :: Utilities
+Requires-Python: >=3.6
+License-File: LICENSE
+Provides-Extra: certs
+Provides-Extra: docs
+Requires-Dist: sphinx ; extra == 'docs'
+Requires-Dist: jaraco.packaging (>=8.2) ; extra == 'docs'
+Requires-Dist: rst.linker (>=1.9) ; extra == 'docs'
+Requires-Dist: jaraco.tidelift (>=1.4) ; extra == 'docs'
+Requires-Dist: pygments-github-lexers (==0.0.5) ; extra == 'docs'
+Requires-Dist: sphinx-inline-tabs ; extra == 'docs'
+Requires-Dist: sphinxcontrib-towncrier ; extra == 'docs'
+Requires-Dist: furo ; extra == 'docs'
+Provides-Extra: ssl
+Provides-Extra: testing
+Requires-Dist: pytest (>=4.6) ; extra == 'testing'
+Requires-Dist: pytest-checkdocs (>=2.4) ; extra == 'testing'
+Requires-Dist: pytest-flake8 ; extra == 'testing'
+Requires-Dist: pytest-cov ; extra == 'testing'
+Requires-Dist: pytest-enabler (>=1.0.1) ; extra == 'testing'
+Requires-Dist: mock ; extra == 'testing'
+Requires-Dist: flake8-2020 ; extra == 'testing'
+Requires-Dist: virtualenv (>=13.0.0) ; extra == 'testing'
+Requires-Dist: pytest-virtualenv (>=1.2.7) ; extra == 'testing'
+Requires-Dist: wheel ; extra == 'testing'
+Requires-Dist: paver ; extra == 'testing'
+Requires-Dist: pip (>=19.1) ; extra == 'testing'
+Requires-Dist: jaraco.envs ; extra == 'testing'
+Requires-Dist: pytest-xdist ; extra == 'testing'
+Requires-Dist: sphinx ; extra == 'testing'
+Requires-Dist: jaraco.path (>=3.2.0) ; extra == 'testing'
+Requires-Dist: pytest-black (>=0.3.7) ; (platform_python_implementation != "PyPy") and extra == 'testing'
+Requires-Dist: pytest-mypy ; (platform_python_implementation != "PyPy") and extra == 'testing'
+
+.. image:: https://img.shields.io/pypi/v/setuptools.svg
+   :target: `PyPI link`_
+
+.. image:: https://img.shields.io/pypi/pyversions/setuptools.svg
+   :target: `PyPI link`_
+
+.. _PyPI link: https://pypi.org/project/setuptools
+
+.. image:: https://github.com/pypa/setuptools/workflows/tests/badge.svg
+   :target: https://github.com/pypa/setuptools/actions?query=workflow%3A%22tests%22
+   :alt: tests
+
+.. image:: https://img.shields.io/badge/code%20style-black-000000.svg
+   :target: https://github.com/psf/black
+   :alt: Code style: Black
+
+.. image:: https://img.shields.io/readthedocs/setuptools/latest.svg
+    :target: https://setuptools.readthedocs.io
+
+.. image:: https://img.shields.io/badge/skeleton-2021-informational
+   :target: https://blog.jaraco.com/skeleton
+
+.. image:: https://img.shields.io/codecov/c/github/pypa/setuptools/master.svg?logo=codecov&logoColor=white
+   :target: https://codecov.io/gh/pypa/setuptools
+
+.. image:: https://tidelift.com/badges/github/pypa/setuptools?style=flat
+   :target: https://tidelift.com/subscription/pkg/pypi-setuptools?utm_source=pypi-setuptools&utm_medium=readme
+
+See the `Installation Instructions
+<https://packaging.python.org/installing/>`_ in the Python Packaging
+User's Guide for instructions on installing, upgrading, and uninstalling
+Setuptools.
+
+Questions and comments should be directed to the `distutils-sig
+mailing list <http://mail.python.org/pipermail/distutils-sig/>`_.
+Bug reports and especially tested patches may be
+submitted directly to the `bug tracker
+<https://github.com/pypa/setuptools/issues>`_.
+
+
+Code of Conduct
+===============
+
+Everyone interacting in the setuptools project's codebases, issue trackers,
+chat rooms, and mailing lists is expected to follow the
+`PSF Code of Conduct <https://github.com/pypa/.github/blob/main/CODE_OF_CONDUCT.md>`_.
+
+
+For Enterprise
+==============
+
+Available as part of the Tidelift Subscription.
+
+Setuptools and the maintainers of thousands of other packages are working with Tidelift to deliver one enterprise subscription that covers all of the open source you use.
+
+`Learn more <https://tidelift.com/subscription/pkg/pypi-setuptools?utm_source=pypi-setuptools&utm_medium=referral&utm_campaign=github>`_.
+
+
+Security Contact
+================
+
+To report a security vulnerability, please use the
+`Tidelift security contact <https://tidelift.com/security>`_.
+Tidelift will coordinate the fix and disclosure.
+
+

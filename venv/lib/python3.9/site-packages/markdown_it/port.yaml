@@ -1,0 +1,48 @@
+- package: markdown-it/markdown-it
+  version: 13.0.1
+  commit: e843acc9edad115cbf8cf85e676443f01658be08
+  date: May 3, 2022
+  notes:
+    - Rename variables that use python built-in names, e.g.
+      - `max` -> `maximum`
+      - `len` -> `length`
+      - `str` -> `string`
+    - |
+      Convert JS `for` loops to `while` loops
+      this is generally the main difference between the codes,
+      because in python you can't do e.g. `for {i=1;i<x;i++} {}`
+    - |
+      `env` is a common Python dictionary, and so does not have attribute access to keys,
+      as with JavaScript dictionaries.
+      `options` have attribute access only to core markdownit configuration options
+    - |
+      `Token.attrs` is a dictionary, instead of a list of lists.
+      Upstream the list format is only used to guarantee order: https://github.com/markdown-it/markdown-it/issues/142,
+      but in Python 3.7+ order of dictionaries is guaranteed.
+      One should anyhow use the `attrGet`, `attrSet`, `attrPush` and `attrJoin` methods
+      to manipulate `Token.attrs`, which have an identical signature to those upstream.
+    - Use python version of `charCodeAt`
+    - |
+      Use `str` units instead of `int`s to represent Unicode codepoints.
+      This provides a significant performance boost
+    - |
+      In markdown_it/rules_block/reference.py,
+      record line range in state.env["references"] and add state.env["duplicate_refs"]
+      This is to allow renderers to report on issues regarding references
+    - |
+      The `MarkdownIt.__init__` signature is slightly different for updating options,
+      since you must always specify the config first, e.g.
+      use `MarkdownIt("commonmark", {"html": False})` instead of `MarkdownIt({"html": False})`
+    - The default configuration preset for `MarkdownIt` is "commonmark" not "default"
+    - Allow custom renderer to be passed to `MarkdownIt`
+    - |
+      change render method signatures
+      `func(tokens, idx, options, env, slf)` to
+      `func(self, tokens, idx, options, env)`
+    - |
+      Extensions add render methods by format
+      `MarkdownIt.add_render_rule(name, function, fmt="html")`,
+      rather than `MarkdownIt.renderer.rules[name] = function`
+      and renderers should declare a class property `__output__ = "html"`.
+      This allows for extensibility to more than just HTML renderers
+    - inline tokens in tables are assigned a map (this is helpful for propagation to children)

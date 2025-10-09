@@ -1,0 +1,205 @@
+Metadata-Version: 2.1
+Name: markdown-it-py
+Version: 3.0.0
+Summary: Python port of markdown-it. Markdown parsing, done right!
+Keywords: markdown,lexer,parser,commonmark,markdown-it
+Author-email: Chris Sewell <chrisj_sewell@hotmail.com>
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Text Processing :: Markup
+Requires-Dist: mdurl~=0.1
+Requires-Dist: psutil ; extra == "benchmarking"
+Requires-Dist: pytest ; extra == "benchmarking"
+Requires-Dist: pytest-benchmark ; extra == "benchmarking"
+Requires-Dist: pre-commit~=3.0 ; extra == "code_style"
+Requires-Dist: commonmark~=0.9 ; extra == "compare"
+Requires-Dist: markdown~=3.4 ; extra == "compare"
+Requires-Dist: mistletoe~=1.0 ; extra == "compare"
+Requires-Dist: mistune~=2.0 ; extra == "compare"
+Requires-Dist: panflute~=2.3 ; extra == "compare"
+Requires-Dist: linkify-it-py>=1,<3 ; extra == "linkify"
+Requires-Dist: mdit-py-plugins ; extra == "plugins"
+Requires-Dist: gprof2dot ; extra == "profiling"
+Requires-Dist: mdit-py-plugins ; extra == "rtd"
+Requires-Dist: myst-parser ; extra == "rtd"
+Requires-Dist: pyyaml ; extra == "rtd"
+Requires-Dist: sphinx ; extra == "rtd"
+Requires-Dist: sphinx-copybutton ; extra == "rtd"
+Requires-Dist: sphinx-design ; extra == "rtd"
+Requires-Dist: sphinx_book_theme ; extra == "rtd"
+Requires-Dist: jupyter_sphinx ; extra == "rtd"
+Requires-Dist: coverage ; extra == "testing"
+Requires-Dist: pytest ; extra == "testing"
+Requires-Dist: pytest-cov ; extra == "testing"
+Requires-Dist: pytest-regressions ; extra == "testing"
+Project-URL: Documentation, https://markdown-it-py.readthedocs.io
+Project-URL: Homepage, https://github.com/executablebooks/markdown-it-py
+Provides-Extra: benchmarking
+Provides-Extra: code_style
+Provides-Extra: compare
+Provides-Extra: linkify
+Provides-Extra: plugins
+Provides-Extra: profiling
+Provides-Extra: rtd
+Provides-Extra: testing
+
+# markdown-it-py
+
+[![Github-CI][github-ci]][github-link]
+[![Coverage Status][codecov-badge]][codecov-link]
+[![PyPI][pypi-badge]][pypi-link]
+[![Conda][conda-badge]][conda-link]
+[![Code style: black][black-badge]][black-link]
+[![PyPI - Downloads][install-badge]][install-link]
+
+> Markdown parser done right.
+
+- Follows the __[CommonMark spec](http://spec.commonmark.org/)__ for baseline parsing
+- Configurable syntax: you can add new rules and even replace existing ones.
+- Pluggable: Adds syntax extensions to extend the parser (see the [plugin list][md-plugins]).
+- High speed (see our [benchmarking tests][md-performance])
+- [Safe by default][md-security]
+- Member of [Google's Assured Open Source Software](https://cloud.google.com/assured-open-source-software/docs/supported-packages)
+
+This is a Python port of [markdown-it], and some of its associated plugins.
+For more details see: <https://markdown-it-py.readthedocs.io>.
+
+For details on [markdown-it] itself, see:
+
+- The __[Live demo](https://markdown-it.github.io)__
+- [The markdown-it README][markdown-it-readme]
+
+## Installation
+
+```bash
+conda install -c conda-forge markdown-it-py
+```
+
+or
+
+```bash
+pip install markdown-it-py[plugins]
+```
+
+or with extras
+
+```bash
+conda install -c conda-forge markdown-it-py linkify-it-py mdit-py-plugins
+pip install markdown-it-py[linkify,plugins]
+```
+
+## Usage
+
+### Python API Usage
+
+Render markdown to HTML with markdown-it-py and a custom configuration
+with and without plugins and features:
+
+```python
+from markdown_it import MarkdownIt
+from mdit_py_plugins.front_matter import front_matter_plugin
+from mdit_py_plugins.footnote import footnote_plugin
+
+md = (
+    MarkdownIt('commonmark' ,{'breaks':True,'html':True})
+    .use(front_matter_plugin)
+    .use(footnote_plugin)
+    .enable('table')
+)
+text = ("""
+---
+a: 1
+---
+
+a | b
+- | -
+1 | 2
+
+A footnote [^1]
+
+[^1]: some details
+""")
+tokens = md.parse(text)
+html_text = md.render(text)
+
+## To export the html to a file, uncomment the lines below:
+# from pathlib import Path
+# Path("output.html").write_text(html_text)
+```
+
+### Command-line Usage
+
+Render markdown to HTML with markdown-it-py from the
+command-line:
+
+```console
+usage: markdown-it [-h] [-v] [filenames [filenames ...]]
+
+Parse one or more markdown files, convert each to HTML, and print to stdout
+
+positional arguments:
+  filenames      specify an optional list of files to convert
+
+optional arguments:
+  -h, --help     show this help message and exit
+  -v, --version  show program's version number and exit
+
+Interactive:
+
+  $ markdown-it
+  markdown-it-py [version 0.0.0] (interactive)
+  Type Ctrl-D to complete input, or Ctrl-C to exit.
+  >>> # Example
+  ... > markdown *input*
+  ...
+  <h1>Example</h1>
+  <blockquote>
+  <p>markdown <em>input</em></p>
+  </blockquote>
+
+Batch:
+
+  $ markdown-it README.md README.footer.md > index.html
+
+```
+
+## References / Thanks
+
+Big thanks to the authors of [markdown-it]:
+
+- Alex Kocharin [github/rlidwka](https://github.com/rlidwka)
+- Vitaly Puzrin [github/puzrin](https://github.com/puzrin)
+
+Also [John MacFarlane](https://github.com/jgm) for his work on the CommonMark spec and reference implementations.
+
+[github-ci]: https://github.com/executablebooks/markdown-it-py/workflows/Python%20package/badge.svg?branch=master
+[github-link]: https://github.com/executablebooks/markdown-it-py
+[pypi-badge]: https://img.shields.io/pypi/v/markdown-it-py.svg
+[pypi-link]: https://pypi.org/project/markdown-it-py
+[conda-badge]: https://anaconda.org/conda-forge/markdown-it-py/badges/version.svg
+[conda-link]: https://anaconda.org/conda-forge/markdown-it-py
+[codecov-badge]: https://codecov.io/gh/executablebooks/markdown-it-py/branch/master/graph/badge.svg
+[codecov-link]: https://codecov.io/gh/executablebooks/markdown-it-py
+[black-badge]: https://img.shields.io/badge/code%20style-black-000000.svg
+[black-link]: https://github.com/ambv/black
+[install-badge]: https://img.shields.io/pypi/dw/markdown-it-py?label=pypi%20installs
+[install-link]: https://pypistats.org/packages/markdown-it-py
+
+[CommonMark spec]: http://spec.commonmark.org/
+[markdown-it]: https://github.com/markdown-it/markdown-it
+[markdown-it-readme]: https://github.com/markdown-it/markdown-it/blob/master/README.md
+[md-security]: https://markdown-it-py.readthedocs.io/en/latest/other.html
+[md-performance]: https://markdown-it-py.readthedocs.io/en/latest/other.html
+[md-plugins]: https://markdown-it-py.readthedocs.io/en/latest/plugins.html
+

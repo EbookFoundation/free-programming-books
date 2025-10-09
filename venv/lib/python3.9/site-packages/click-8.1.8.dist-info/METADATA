@@ -1,0 +1,74 @@
+Metadata-Version: 2.3
+Name: click
+Version: 8.1.8
+Summary: Composable command line interface toolkit
+Maintainer-email: Pallets <contact@palletsprojects.com>
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Typing :: Typed
+Requires-Dist: colorama; platform_system == 'Windows'
+Requires-Dist: importlib-metadata; python_version < '3.8'
+Project-URL: Changes, https://click.palletsprojects.com/changes/
+Project-URL: Chat, https://discord.gg/pallets
+Project-URL: Documentation, https://click.palletsprojects.com/
+Project-URL: Donate, https://palletsprojects.com/donate
+Project-URL: Source, https://github.com/pallets/click/
+
+# $ click_
+
+Click is a Python package for creating beautiful command line interfaces
+in a composable way with as little code as necessary. It's the "Command
+Line Interface Creation Kit". It's highly configurable but comes with
+sensible defaults out of the box.
+
+It aims to make the process of writing command line tools quick and fun
+while also preventing any frustration caused by the inability to
+implement an intended CLI API.
+
+Click in three points:
+
+-   Arbitrary nesting of commands
+-   Automatic help page generation
+-   Supports lazy loading of subcommands at runtime
+
+
+## A Simple Example
+
+```python
+import click
+
+@click.command()
+@click.option("--count", default=1, help="Number of greetings.")
+@click.option("--name", prompt="Your name", help="The person to greet.")
+def hello(count, name):
+    """Simple program that greets NAME for a total of COUNT times."""
+    for _ in range(count):
+        click.echo(f"Hello, {name}!")
+
+if __name__ == '__main__':
+    hello()
+```
+
+```
+$ python hello.py --count=3
+Your name: Click
+Hello, Click!
+Hello, Click!
+Hello, Click!
+```
+
+
+## Donate
+
+The Pallets organization develops and supports Click and other popular
+packages. In order to grow the community of contributors and users, and
+allow the maintainers to devote more time to the projects, [please
+donate today][].
+
+[please donate today]: https://palletsprojects.com/donate
+

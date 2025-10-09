@@ -1,0 +1,112 @@
+Metadata-Version: 2.4
+Name: pip
+Version: 25.2
+Summary: The PyPA recommended tool for installing Python packages.
+Author-email: The pip developers <distutils-sig@python.org>
+License-Expression: MIT
+Project-URL: Homepage, https://pip.pypa.io/
+Project-URL: Documentation, https://pip.pypa.io
+Project-URL: Source, https://github.com/pypa/pip
+Project-URL: Changelog, https://pip.pypa.io/en/stable/news/
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Programming Language :: Python :: 3.13
+Classifier: Programming Language :: Python :: 3.14
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Requires-Python: >=3.9
+Description-Content-Type: text/x-rst
+License-File: AUTHORS.txt
+License-File: LICENSE.txt
+License-File: src/pip/_vendor/msgpack/COPYING
+License-File: src/pip/_vendor/cachecontrol/LICENSE.txt
+License-File: src/pip/_vendor/certifi/LICENSE
+License-File: src/pip/_vendor/dependency_groups/LICENSE.txt
+License-File: src/pip/_vendor/distlib/LICENSE.txt
+License-File: src/pip/_vendor/distro/LICENSE
+License-File: src/pip/_vendor/idna/LICENSE.md
+License-File: src/pip/_vendor/packaging/LICENSE
+License-File: src/pip/_vendor/packaging/LICENSE.APACHE
+License-File: src/pip/_vendor/packaging/LICENSE.BSD
+License-File: src/pip/_vendor/pkg_resources/LICENSE
+License-File: src/pip/_vendor/platformdirs/LICENSE
+License-File: src/pip/_vendor/pygments/LICENSE
+License-File: src/pip/_vendor/pyproject_hooks/LICENSE
+License-File: src/pip/_vendor/requests/LICENSE
+License-File: src/pip/_vendor/resolvelib/LICENSE
+License-File: src/pip/_vendor/rich/LICENSE
+License-File: src/pip/_vendor/tomli/LICENSE
+License-File: src/pip/_vendor/tomli/LICENSE-HEADER
+License-File: src/pip/_vendor/tomli_w/LICENSE
+License-File: src/pip/_vendor/truststore/LICENSE
+License-File: src/pip/_vendor/urllib3/LICENSE.txt
+Dynamic: license-file
+
+pip - The Python Package Installer
+==================================
+
+.. |pypi-version| image:: https://img.shields.io/pypi/v/pip.svg
+   :target: https://pypi.org/project/pip/
+   :alt: PyPI
+
+.. |python-versions| image:: https://img.shields.io/pypi/pyversions/pip
+   :target: https://pypi.org/project/pip
+   :alt: PyPI - Python Version
+
+.. |docs-badge| image:: https://readthedocs.org/projects/pip/badge/?version=latest
+   :target: https://pip.pypa.io/en/latest
+   :alt: Documentation
+
+|pypi-version| |python-versions| |docs-badge|
+
+pip is the `package installer`_ for Python. You can use pip to install packages from the `Python Package Index`_ and other indexes.
+
+Please take a look at our documentation for how to install and use pip:
+
+* `Installation`_
+* `Usage`_
+
+We release updates regularly, with a new version every 3 months. Find more details in our documentation:
+
+* `Release notes`_
+* `Release process`_
+
+If you find bugs, need help, or want to talk to the developers, please use our mailing lists or chat rooms:
+
+* `Issue tracking`_
+* `Discourse channel`_
+* `User IRC`_
+
+If you want to get involved head over to GitHub to get the source code, look at our development documentation and feel free to jump on the developer mailing lists and chat rooms:
+
+* `GitHub page`_
+* `Development documentation`_
+* `Development IRC`_
+
+Code of Conduct
+---------------
+
+Everyone interacting in the pip project's codebases, issue trackers, chat
+rooms, and mailing lists is expected to follow the `PSF Code of Conduct`_.
+
+.. _package installer: https://packaging.python.org/guides/tool-recommendations/
+.. _Python Package Index: https://pypi.org
+.. _Installation: https://pip.pypa.io/en/stable/installation/
+.. _Usage: https://pip.pypa.io/en/stable/
+.. _Release notes: https://pip.pypa.io/en/stable/news.html
+.. _Release process: https://pip.pypa.io/en/latest/development/release-process/
+.. _GitHub page: https://github.com/pypa/pip
+.. _Development documentation: https://pip.pypa.io/en/latest/development
+.. _Issue tracking: https://github.com/pypa/pip/issues
+.. _Discourse channel: https://discuss.python.org/c/packaging
+.. _User IRC: https://kiwiirc.com/nextclient/#ircs://irc.libera.chat:+6697/pypa
+.. _Development IRC: https://kiwiirc.com/nextclient/#ircs://irc.libera.chat:+6697/pypa-dev
+.. _PSF Code of Conduct: https://github.com/pypa/.github/blob/main/CODE_OF_CONDUCT.md

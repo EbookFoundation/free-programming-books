@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: mdurl
+Version: 0.1.2
+Summary: Markdown URL utilities
+Keywords: markdown,commonmark
+Author-email: Taneli Hukkinen <hukkin@users.noreply.github.com>
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: MacOS
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Typing :: Typed
+Project-URL: Homepage, https://github.com/executablebooks/mdurl
+
+# mdurl
+
+[![Build Status](https://github.com/executablebooks/mdurl/workflows/Tests/badge.svg?branch=master)](https://github.com/executablebooks/mdurl/actions?query=workflow%3ATests+branch%3Amaster+event%3Apush)
+[![codecov.io](https://codecov.io/gh/executablebooks/mdurl/branch/master/graph/badge.svg)](https://codecov.io/gh/executablebooks/mdurl)
+[![PyPI version](https://img.shields.io/pypi/v/mdurl)](https://pypi.org/project/mdurl)
+
+This is a Python port of the JavaScript [mdurl](https://www.npmjs.com/package/mdurl) package.
+See the [upstream README.md file](https://github.com/markdown-it/mdurl/blob/master/README.md) for API documentation.
+

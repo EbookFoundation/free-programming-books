@@ -376,7 +376,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 
 > :information_source: See also &#8230; [Emacs Lisp](free-programming-books-langs.md#emacs-lisp), [Regular Expressions](#regular-expressions)
 
-* [A Byte of Vim](https://www.swaroopch.com/notes/vim/) - Swaroop (PDF)
+* [A Byte of Vim](https://vim.swaroopch.com/) - Swaroop Chitlur, Nofrak, Fuzzymonk, Karmadude, Yesyo, Hbvit7, Leochingkwake (PDF)
 * [GNU Emacs Manual](https://www.gnu.org/software/emacs/manual/emacs.html) - Free Software Foundation Inc. (HTML, PDF)
 * [Learn Neovim](https://ofirgall.github.io/learn-nvim/chapters/00-why-should-i-learn.html) - Ofir Gal (online, PDF)
 * [Learn Vim (the Smart Way)](https://github.com/iggredible/Learn-Vim) - Igor Irianto (HTML) *( :construction: in process)*

@@ -129,7 +129,7 @@
 * [GNU Linux Komutlari](https://www.fullportal.org/GNULINUX/Komutlar/GNULINUXKOMUTLAR.pdf) (PDF)
 * [Linux Belgeleri](http://www.belgeler.org/howto/howtos.html)
 * [Linux Sistem Yöneticisinin Kılavuzu](http://www.belgeler.org/sag/sag.html)
-* [Linux Sistem Yönetimi](https://web.deu.edu.tr/doc/misc/Linux_Sistem_Yonetimi.pdf) - Linux Kullanıcıları Derneği Burak DAYIOĞLU, Berk DEMİR(PDF)
+* [Linux Sistem Yönetimi](https://web.deu.edu.tr/doc/misc/Linux_Sistem_Yonetimi.pdf) - Linux Kullanıcıları Derneği Burak DAYIOĞLU, Berk DEMİR (PDF)
 
 
 ### .NET Framework

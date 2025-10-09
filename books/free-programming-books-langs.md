@@ -1967,10 +1967,11 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Architecture Patterns with Python](https://www.cosmicpython.com/book/preface.html) - Harry J.W. Percival, Bob Gregory (HTML)
 * [Automate the Boring Stuff with Python, 2nd Edition: Practical Programming for Total Beginners](https://automatetheboringstuff.com/2e/chapter0/) - Al Sweigart (3.8)
     * [Automate the Boring Stuff with Python: Practical Programming for Total Beginners](https://automatetheboringstuff.com/chapter0/) - Al Sweigart (3.4)
+#### FastAPI
 * [FastAPI Course for Beginners](https://www.youtube.com/watch?v=0sOvCWFmrtA) - freeCodeCamp.org (YouTube)
 * [FastAPI Documentation](https://fastapi.tiangolo.com) - Sebastián Ramírez (HTML)
-* [Full Stack FastAPI and PostgreSQL](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Sebastián Ramírez (GitHub)
 * [FastAPI Tutorial Series](https://testdriven.io/blog/topics/fastapi/) - TestDriven.io (HTML)
+* [Full Stack FastAPI and PostgreSQL](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Sebastián Ramírez (GitHub)
 
 * [Beej's Guide to Python Programming - For Beginners](http://beej.us/guide/bgpython/) - Brian "Beej Jorgensen" Hall (HTML,PDF)
 * [Beyond the Basic Stuff with Python](https://inventwithpython.com/beyond/) - Al Sweigart (3.x)

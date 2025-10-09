@@ -286,6 +286,9 @@
 * [Generative AI for Beginners (.NET Edition)](https://github.com/microsoft/Generative-AI-for-beginners-dotnet) - Microsoft (GitHub)
 * [LangChain for LLM Application Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development) - Harrison Chase, Andrew Ng (DeepLearning.AI)
 * [Understanding Large Language Models — Foundations and Safety (CS 194/294-267)](https://www.youtube.com/playlist?list=PLJ66BAXN6D8H_gRQJGjmbnS5qCWoxJNfe) - Responsible Decentralized Intelligence (UC Berkeley EECS)
+* [AI Agents for Beginners](https://www.youtube.com/watch?v=OhI005_aJkA)
+* [Guide to Agentic AI - Build a Python Coding Agent](https://www.youtube.com/watch?v=YtHdaXuOAks)
+* [Ollama Course](https://www.youtube.com/watch?v=GWB9ApTPTv4)
 
 
 ### Assembly

@@ -113,6 +113,11 @@
 * [Probar Django \| Crear una Aplicación Web](https://www.udemy.com/course/probar-django-construir-una-aplicacion-web-en-python) - Justin Mitchel, Karlita K (Udemy)
 
 
+### Inteligencia Artificial
+
+* [Generative AI para Principiantes .NET - Un Curso](https://github.com/microsoft/Generative-AI-for-beginners-dotnet/tree/main/translations/es) - Microsoft (GitHub)
+
+
 ### LaTeX
 
 * [Curso no convencional de LaTeX](https://ondiz.github.io/cursoLatex/)

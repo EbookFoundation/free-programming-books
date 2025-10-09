@@ -298,7 +298,6 @@
 
 ### Computer Organization and Architecture
 
-* [Complete COA Computer Organization and Architecture in One Shot (6 Hours) | In Hindi](https://youtu.be/1rUevQ3bSEY?si=_4FtbCgLtnpmoVQh) - 5 Minutes Engineering
 * [Computer Organisation and Architecture | Coa Complete Course in Hindi | True Engineer](https://youtube.com/playlist?list=PLo4m8hx3sbb9SGSZy2Os7K4sAr53K9m-W&si=eVRdqnUzj6nHMmqQ) - True Engineer
 * [Computer Organization and Architecture](https://www.youtube.com/playlist?list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX) - Gate Smashers
 * [Computer Organization and Architecture ( COA ) | CS & IT | GATE 2025 Crash Course](https://youtube.com/playlist?list=PL3eEXnCBViH8OS7fH0uQdre5YGCIOhCBH&si=fJEP14BWHTCakSy1) - GATE Wallah - EE, EC, CS & IN

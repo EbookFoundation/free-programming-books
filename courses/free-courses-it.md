@@ -24,6 +24,7 @@
 * [Mobile](#mobile)
 * [Networking](#networking)
 * [Pascal](#pascal)
+* [Php](#php)
 * [Programmazione](#programmazione)
 * [Python](#python)
 * [Ruby](#ruby)
@@ -192,6 +193,11 @@
 
 * [Corso di programmazione in Pascal](https://www.youtube.com/playlist?list=PLO4y9a8lTpK1DS45Wljy0l5rMtVNIesRJ) - R. Rizzi, Università di Verona
 * [Videocorso Pascal (Turbo e FPC)](https://www.youtube.com/playlist?list=PLC98ABC853EAEFD7F) - Fabrizio Camuso
+
+
+### Php
+
+* [Corso PHP Completo 2023](https://www.youtube.com/playlist?list=PLP5MAKLy8lP_zqdyjNaPjh95NG40Op8he) - Edoardo Midali 
 
 
 ### Python

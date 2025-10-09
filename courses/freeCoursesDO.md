@@ -8,8 +8,8 @@
   * [Jaeger Intro - CNCF (YouTube)](https://www.youtube.com/watch?v=UNqilb9_zwY)
 * **New Relic**
   * [Ingesting OpenTelemetry Data with New Relic One (YouTube)](https://www.youtube.com/watch?v=YHyopdCfxsQ)
-  * [New Relic (YouTube)](https://www.youtube.com/c/NewRelicInc)
   * [New Relic - Amazon Web Services (YouTube)](https://www.youtube.com/watch?v=aU6A-45c7Vs)
+  * [New Relic (YouTube)](https://www.youtube.com/c/NewRelicInc)
 
 ### CI/CD
 
@@ -60,9 +60,9 @@
 * [Containers Explained](https://www.youtube.com/watch?v=0qotVMX-J5s)
 * **Docker**
   * [Complete Docker Course - DevOps Directive (YouTube)](https://www.youtube.com/watch?v=RqTEHSBrYFw&t=3615s)
-  * [Docs](https://docs.docker.com)
   * [Docker Tutorial - Kunal Kushwaha (YouTube)](https://www.youtube.com/watch?v=17Bl31rlnRM)
   * [Docker Tutorial - TechWorld with Nana (YouTube)](https://www.youtube.com/watch?v=3c-iBn73dDE)
+  * [Docs](https://docs.docker.com)
   * [Learn Docker - freeCodeCamp (YouTube)](https://www.youtube.com/watch?v=9zUHg7xjIqQ)
 
 ### DevOps Books
@@ -72,11 +72,11 @@
 ### GoLang
 
 * [Complete Golang Tutorial - Hitesh Choudhary (YouTube)](https://www.youtube.com/playlist?list=PLRAV69dS1uWQGDQoBYMZWKjzuhCaOnBpa)
+* [Getting Started - Go](https://go.dev/learn)
 * [Go Programming - GoLang Course with Bonus Project (YouTube)](https://youtu.be/un6ZyFkqFKo)
 * [Go Tutorial - TutorialsPoint](https://www.tutorialspoint.com/go/index.htm)
 * [Go Tutorial - W3Schools](https://www.w3schools.com/go)
 * [Golang Tutorial - TechWorld with Nana (YouTube)](https://www.youtube.com/watch?v=yyUHQIec83I)
-* [Getting Started - Go](https://go.dev/learn)
 * [Learn Go - Codecademy](https://www.codecademy.com/learn/learn-go)
 * [Learn Go Programming - freeCodeCamp (YouTube)](https://www.youtube.com/watch?v=YS4e4q9oBaU)
 
@@ -84,8 +84,8 @@
 
 * [Grafana Docs](https://grafana.com/docs/grafana/latest/getting-started/get-started-grafana-prometheus)
 * [How Prometheus Monitoring Works - TechWorld with Nana (YouTube)](https://www.youtube.com/watch?v=h4Sl21AKiDg)
-* [Prometheus Docs](https://prometheus.io/docs/introduction/overview)
 * [Prometheus and Grafana Tutorial - The Digital Life (YouTube)](https://www.youtube.com/watch?v=9TJx7QTrTyo)
+* [Prometheus Docs](https://prometheus.io/docs/introduction/overview)
 
 ### Infrastructure Provisioning
 

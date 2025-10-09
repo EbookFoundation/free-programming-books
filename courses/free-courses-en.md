@@ -1192,7 +1192,7 @@
 
 #### Remix
 
-* [Remix and Strapi Crash Course – Full Stack Development](https://youtu.be/5yIivwrvH6w?si=CwqLL4f6LrXxQKd2) - freeCodeCamp.org
+* [Remix and Strapi Crash Course – Full Stack Development](https://www.youtube.com/watch?v=5yIivwrvH6w) - freeCodeCamp.org
 * [Remix Tutorial with Kent](https://www.youtube.com/live/hsIWJpuxNj0?si=ZsKD3AkaXjk_6sgk) - Remix
 
 

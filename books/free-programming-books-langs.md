@@ -152,7 +152,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [OpenMP](#openmp)
 * [OpenResty](#openresty)
 * [OpenSCAD](#openscad)
-* [OpenSource](#opensource)
 * [Pascal](#pascal)
 * [Perl](#perl)
 * [PHP](#php)
@@ -1740,11 +1739,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Think OCaml](http://greenteapress.com/thinkocaml/index.html) - Allen B. Downey, Nicholas Monje
 * [Unix System Programming in OCaml](http://ocaml.github.io/ocamlunix/) - Xavier Leroy, Didier Rémy (HTML, [GitHub Repo](https://github.com/ocaml/ocamlunix/))
 * [Using, Understanding, and Unraveling The OCaml Language: From Practice to Theory and vice versa](http://pauillac.inria.fr/~remy/cours/appsem/) - Didier Rémy
-
-
-### OpenSource
-
-* [The Architecture of Open Source Applications](http://aosabook.org/en/index.html) - Multiple authors (HTML) 
 
 
 ### Octave

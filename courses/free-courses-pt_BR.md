@@ -35,6 +35,9 @@
 * [PHP](#php)
 * [Programação](#programação)
 * [Python](#python)
+    * [Django](#django)
+    * [FastAPI](#fastapi)
+    * [Flask](#flask)
 * [R](#r)
 * [Raspberry Pi](#raspberry-pi)
 * [React Native](#react-native)
@@ -325,6 +328,7 @@
 ### Machine Learning
 
 * [Curso Data Science e Machine Learning](https://youtube.com/playlist?list=PLFE-LjWAAP9R4G0WOXWuha4P5cCvw7hGB) - Data ICMC
+* [Curso de Machine Learning](https://www.youtube.com/playlist?list=PLFE-LjWAAP9QEC8KhIBWxM_tquU8UmuYW) - Data ICMC
 * [Curso Deep Learning](https://www.youtube.com/playlist?list=PLSZEVLiOtIgF19_cPrvhJC2bWn-dUh1zB) - Deep Learning Brasil
 * [Machine Learning e Data Science: O Guia para Iniciantes](https://www.udemy.com/course/guia-iniciantes-machine-learning-data-science/) - Jones Granatyr (Udemy)
 * [Neural Networks e Deep Learning para Leigos: Sem Mistérios!](https://www.udemy.com/course/neural-networks-e-deep-learnig-para-leigos/) - Fernando Amaral (Udemy)
@@ -429,6 +433,26 @@
 * [Python para Competições de Programação](https://www.youtube.com/playlist?list=PLMxflQ9_eOd9CY6Id5gfs3Edqt8vLC47p) - Adorilson
 * [Python para Iniciantes](https://www.udemy.com/python-para-iniciantes/) - Tiago Miguel (Udemy)
 * [Selenium com Python](https://www.youtube.com/playlist?list=PLOQgLBuj2-3LqnMYKZZgzeC7CKCPF375B) - Eduardo Mendes
+
+
+#### Django
+
+* [Curso de Django Aprenda a Desenvolver Aplicações Web Do Zero](https://www.youtube.com/playlist?list=PLLVddSbilcumgeyk0z6ko5U_FYPfbRO2C) - Jefferson Lobato
+* [Curso de Django To-Do-List](https://www.youtube.com/playlist?list=PLLVddSbilcunGg0IJ4zP05Z91yrEaIiQh) - Jefferson Lobato
+* [Django](https://www.youtube.com/playlist?list=PL3gEA6Xsr_el-1m_ew_kwPVGgDiG1nwY-) - Pythonando
+
+
+#### FastAPI
+
+* [Criando uma API com FastAPI](https://www.youtube.com/playlist?list=PLJHVw_wMqnI-eX95g9U_W941l_yWsIDIL) - Anderson Rocha
+* [Curso de FastAPI 2025](https://www.youtube.com/playlist?list=PLOQgLBuj2-3KT9ZWvPmaGFQ0KjIez0403) - Eduardo Mendes
+* [Curso de FastAPI Rest API com Python ](https://www.youtube.com/playlist?list=PLpdAy0tYrnKy3TvpCT-x7kGqMQ5grk1Xq) - HashTag Programação
+* [Curso de FastAPI Sincrono](https://www.youtube.com/playlist?list=PLOQgLBuj2-3IuFbt-wJw2p2NiV9WTRzIP) - Eduardo Mendes
+
+
+#### Flask
+
+* [Flask](https://www.youtube.com/playlist?list=PLyOx5V4KUjDf3-flamHYkJ2ygYmdRDdE9) - Lan Code
 
 
 ### R

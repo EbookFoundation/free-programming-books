@@ -18,11 +18,13 @@
 * [Java](#java)
 * [JavaScript](#javascript)
     * [Vue.js](#vuejs)
+* [Julia](#julia)
 * [Machine Learning](#machine-learning)
 * [Misto](#misto)
 * [Mobile](#mobile)
 * [Networking](#networking)
 * [Pascal](#pascal)
+* [Php](#php)
 * [Programmazione](#programmazione)
 * [Python](#python)
 * [Ruby](#ruby)
@@ -158,6 +160,11 @@
 * [Vue 2.x (corso base)](https://www.youtube.com/playlist?list=PL0qAPtx8YtJdUH44fvkzVxy9waP23I_bE) - Fabrizio Camuso
 
 
+### Julia
+
+* [Corso di linguaggio Julia](https://www.youtube.com/playlist?list=PL4GzWsD6ECaWvDCPuPB9OxdIye8IZXCuE) - Leonardo Boselli
+
+
 ### Machine Learning
 
 * [Machine Learning in italiano col Pollo Watzlawick](https://www.youtube.com/playlist?list=PLa-sizbCyh93c0nSPAb8k5ZZeOq4SBIl9) - Piero Savastano
@@ -186,6 +193,11 @@
 
 * [Corso di programmazione in Pascal](https://www.youtube.com/playlist?list=PLO4y9a8lTpK1DS45Wljy0l5rMtVNIesRJ) - R. Rizzi, Università di Verona
 * [Videocorso Pascal (Turbo e FPC)](https://www.youtube.com/playlist?list=PLC98ABC853EAEFD7F) - Fabrizio Camuso
+
+
+### Php
+
+* [Corso PHP Completo 2023](https://www.youtube.com/playlist?list=PLP5MAKLy8lP_zqdyjNaPjh95NG40Op8he) - Edoardo Midali 
 
 
 ### Python

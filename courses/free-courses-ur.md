@@ -22,6 +22,7 @@
 * [Flutter App Development](https://www.youtube.com/playlist?list=PLlvhNpz1tBvH4Wn8rMjtscK3l2pXnC9aN) - Code With Dhruv&rlm;
 * [The complete Android Application Development Course in Hindi/Urdu \| Android Development for Beginners in Hindi - Urdu \| Android tutorial in Urdu](https://www.youtube.com/playlist?list=PLtCBuHKmdxOe8IWZnA515lGPKaWx5WNOE) - Fahad Hussain&rlm;
 * [Mobile App Development Tutorial Series using React Native in Urdu / Hindi](https://www.youtube.com/playlist?list=PL9fcHFJHtFaZ6DuInqORqFUaKiZO1XCmb) - Perfect Web Solutions&rlm;
+* [Flutter App Development Tutorial in Urdu / Hindi](https://www.youtube.com/playlist?list=PLFyjjoCMAPtxq8V9fuVmgsYKLNIKqSEV4) - The Tech Brothers&rlm;
 
 
 ### <a id="c"></a>C

@@ -725,7 +725,7 @@
 * [Workplace Search Fundamentals](https://www.elastic.co/training/workplace-search-fundamentals) - Elastic
 
 
-### Elastic
+### Earth Observation
 
 * [ARSET - An Introduction to Synthetic Aperture Radar (SAR) and its Applications](https://appliedsciences.nasa.gov/get-involved/training/english/arset-introduction-synthetic-aperture-radar-sar-and-its-applications) - NASA ARSET
 * [ARSET - Mapping Crops and their Biophysical Characteristics with Polarimetric SAR and Optical Remote Sensing](https://appliedsciences.nasa.gov/get-involved/training/english/arset-mapping-crops-and-their-biophysical-characteristics) - NASA ARSET

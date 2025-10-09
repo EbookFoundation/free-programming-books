@@ -1080,6 +1080,7 @@
 #### Electron
 
 * [Electron Complete Course](https://www.youtube.com/playlist?list=PLmx8ERLT7ojO2PAH_sDnnoKXcqswxJ6CL) - coderJeet
+* [Electron Course - Code Desktop Applications (inc. React and Typescript)](https://www.youtube.com/watch?v=fP-371MN0Ck) - freeCodeCamp.org
 * [Electron js Tutorials](https://www.youtube.com/playlist?list=PLC3y8-rFHvwiCJD3WrAFUrIMkGVDE0uqW) - Codevolution
 
 

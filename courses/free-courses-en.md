@@ -39,6 +39,7 @@
 * [Digital Electronics](#digital-electronics)
 * [Docker](#docker)
 * [Elastic](#elastic)
+* [EarthObservation](#earth-observation)
 * [Flutter](#flutter)
 * [Fortran](#fortran)
 * [Game Development](#game-development)

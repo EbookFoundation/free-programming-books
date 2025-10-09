@@ -543,7 +543,7 @@
 
 ### TypeScript
 
-* [TypeScript — Frontend & Backend (file setup, types, generics, React + TS)](https://github.com/SAYOUNCDR/TS-CheatSheet) - SAYOUNCDR (Markdown)
+* [TypeScript Cheatsheet](https://github.com/SAYOUNCDR/TS-CheatSheet) - Sayoun Parui (Markdown)
 * [TypeScript Cheat Sheet](https://rmolinamir.github.io/typescript-cheatsheet/) - Robert Molina (HTML)
 
 

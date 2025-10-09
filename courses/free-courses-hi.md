@@ -191,8 +191,8 @@
 * [Bash Scripting tutorial](https://www.youtube.com/playlist?list=PLxLRoXCDIalcosmDOQizh31EIHEK1njfO) - Fortify Solutions
 * [Bash Shell Scripting (NOOB)](https://www.youtube.com/playlist?list=PLzOLSdbK1deNuVMOw0EkKGSsES-rPeONe) - Noob Coders
 * [SHELL SCRIPTING Tutorial For Beginners](https://www.youtube.com/playlist?list=PL0tP8lerTbX3MeIyMxGW2sLhWnPdn_xhd) - M Prashant
-* [shell scripting complete tutorial in hindi](https://www.youtube.com/playlist?list=PL9A0tISr5Ow5nZSY8-ICNAyXHJKesl_XL) - Cybersploit
 * [Shell Scripting Linux Beginners to Advanced in Hindi | Shell Scripting Tutorials for Beginner to Advanced in Hindi](https://www.youtube.com/playlist?list=PLrFWmDe-rblpqyEzyAW6TMJyut-pbQHlr) - Cloud Tech Burner
+* [shell scripting complete tutorial in hindi](https://www.youtube.com/playlist?list=PL9A0tISr5Ow5nZSY8-ICNAyXHJKesl_XL) - Cybersploit
 
 
 ### Blockchain

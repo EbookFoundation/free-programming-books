@@ -240,6 +240,7 @@
 * [Programming Mobile Applications for Android Handheld Systems pt. 2](https://www.coursera.org/course/androidpart2)
 * [Programming Mobile Services for Android Handheld Systems: Communication](https://www.coursera.org/course/posacommunication)
 * [Programming Mobile Services for Android Handheld Systems: Concurrency](https://www.coursera.org/course/posaconcurrency)
+* [The Ultimate Flutter Tutorial for Beginners - 2025 Full Course](https://www.youtube.com/watch?v=3kaGC_DrUnw&pp=ygUORmx1dHRlciBjb3Vyc2U%3D)
 
 
 ### APL

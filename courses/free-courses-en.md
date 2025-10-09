@@ -508,6 +508,7 @@
 
 ### Cryptography
 
+* [Applied Cryptography](https://www.udacity.com/course/applied-cryptography--cs387) - Udacity
 * [Cryptography & Network Security](https://www.youtube.com/playlist?list=PLBlnK6fEyqRgJU3EsOYDTW7m6SUmW6kII) - Neso Academy
 * [Cryptography Lecture Series](https://www.youtube.com/playlist?list=PL2jrku-ebl3H50FiEPr4erSJiJHURM9BX) - Christof Paar
 * [Foundations of Cryptography](https://www.youtube.com/playlist?list=PLgMDNELGJ1CbdGLyn7OrVAP-IKg-0q2U2) - NPTEL  Indian Institute of Science, Bengaluru

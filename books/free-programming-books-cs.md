@@ -146,6 +146,7 @@
 ### Ruby
 
 * [Ruby Tutoriál](http://i.iinfo.cz/files/root/k/Ruby_tutorial.pdf) (PDF)
+* [The Little Book Of Ruby](https://dl.icdst.org/pdfs/files4/4acbe001592c72e41cd79ca7aacddce8.pdf) — H. Collingbourne (PDF)
 
 
 ### TeX

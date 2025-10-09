@@ -101,6 +101,11 @@
 * [Flutter 중급](https://www.youtube.com/playlist?list=PLxTmPHxRH3VWLY-eyQuV1C_IbIQlCXEhe) - 오준석의 생존코딩
 
 
+### Generative AI
+
+* [초보자를 위한 Generative AI .NET - 강좌](https://github.com/microsoft/Generative-AI-for-beginners-dotnet/tree/main/translations/ko) - Microsoft (GitHub)
+
+
 ### Git
 
 * [12가지 명령어로 배우는 Git](https://www.youtube.com/playlist?list=PLcqDmjxt30RvjqpIBi4mtkK5LkzYtXluF) - ZeroCho TV

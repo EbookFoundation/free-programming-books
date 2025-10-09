@@ -1619,14 +1619,14 @@ Books on general-purpose programming that don't focus on a specific language are
 * [MATLAB Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/matlab) (PDF, Kindle) (email address *requested*, not required)
 * [Numerical Computing with MATLAB](http://www.mathworks.com/moler/index_ncm.html?requestedDomain=www.mathworks.com&nocookie=true)
 * [Physical Modeling in MATLAB](http://greenteapress.com/matlab/index.html) - Alan B. Downey
-* [Scientific Computing](https://www.math.ust.hk/~machas/scientific-computing.pdf) - Jeffrey R. Chasnov (PDF)
+* [Scientific Computing](https://www.math.ust.hk/~machas/scientific-computing.pdf) - Jeffrey R. Chasnov (PDF) (CC BY)
 
 
 ### Maven
 
 * [Developing with Eclipse and Maven](https://books.sonatype.com/m2eclipse-book/reference/index.html)
 * [Maven by Example](http://books.sonatype.com/mvnex-book/reference/public-book.html)
-* [Maven: The Complete Reference](http://books.sonatype.com/mvnref-book/reference/public-book.html)
+* [Maven: The Complete Reference](http://books.sonatype.com/mvnref-book/reference/public-book.html) (CC BY-NC-ND)
 * [Repository Management with Nexus](http://books.sonatype.com/nexus-book/reference/)
 
 

@@ -129,6 +129,8 @@
 
 * [Apprendre à programmer en Python \| Cours complet (2019)](https://www.pierre-giraud.com/python-apprendre-programmer-cours/) - Pierre Giraud
 * [Apprendre Python](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC) - EvoluNoob
+* [Introduction à la programmation](https://self-learning.info.ucl.ac.be/index/info1-exercises) - Tanguy De Bels, Kim Mens, Siegfried Nijssen, Charles Pecheur (HTML) (CC BY-SA)
+* [Python Programming in French](https://www.youtube.com/playlist?list=PL0mGkrTWmp4ugGM9fiZjEuzMFeKD6Rh5G) - Data Science Nigeria
 
 
 ### PHP

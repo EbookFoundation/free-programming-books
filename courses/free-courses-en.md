@@ -728,8 +728,8 @@
 * [Basic Development With Flutter](https://10pearlsuniversity.org/courses/basic-development-with-flutter/) - Muhammad Noman
 * [Build Apps with Flutter](https://developers.google.com/learn/pathways/intro-to-flutter) - Google for Developers
 * [Flutter & Firebase App Build](https://www.youtube.com/playlist?list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC) - The Net Ninja
-* [Flutter Bloc Tutorial For Beginners | BLoC Architecture/Pattern & State Management Explained](https://youtu.be/SDk_GldOtK8?si=IM1Zx8qF2j7Lzwq7) - Rivaan Ranawat
-* [Flutter Clean Architecture Full Course For Beginners - Bloc, Supabase, Hive, GetIt](https://youtu.be/ELFORM9fmss?si=OjfHG0_r0o7DsGwV) - Rivaan Ranawat
+* [Flutter Bloc Tutorial For Beginners | BLoC Architecture/Pattern & State Management Explained](https://www.youtube.com/watch?v=SDk_GldOtK8) - Rivaan Ranawat
+* [Flutter Clean Architecture Full Course For Beginners - Bloc, Supabase, Hive, GetIt](https://www.youtube.com/watch?v=ELFORM9fmss) - Rivaan Ranawat
 * [Flutter Course for Beginners - 37 hour](https://www.youtube.com/watch?v=VPvVD8t02U8) - freeCodeCamp.org
 * [Flutter Crash Course](https://fluttercrashcourse.com/courses/basics/lessons/materialapp-scaffold-appbar-text) - Nick Manning *(account required)*
 * [Flutter State Management Course](https://www.youtube.com/playlist?list=PL6yRaaP0WPkUf-ff1OX99DVSL1cynLHxO) - Vandad Nahavandipoor

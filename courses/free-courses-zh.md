@@ -17,7 +17,8 @@
 
 * [动手学深度学习](https://zh.d2l.ai/index.html) - d2lzh
 * [机器学习速成课程](https://developers.google.com/machine-learning/crash-course/prereqs-and-prework?hl=zh-cn) - 谷歌出品
-* [初學者的生成式 AI .NET 課程](https://github.com/microsoft/Generative-AI-for-beginners-dotnet/tree/main/translations/tw) - Microsoft (GitHub)
+* [初学者的生成式 AI .NET - 一门课程](https://github.com/microsoft/Generative-AI-for-beginners-dotnet/tree/main/translations/zh) - Microsoft (GitHub)
+
 
 
 ### Flutter

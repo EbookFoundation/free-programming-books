@@ -8,6 +8,7 @@
 * [C#](#csharp)
 * [Deep Learning](#deep-learning)
 * [Flutter](#flutter)
+* [Generative AI](#generative-ai)
 * [Git](#git)
 * [Go](#go)
 * [iOS](#ios)

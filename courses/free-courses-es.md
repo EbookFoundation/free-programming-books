@@ -8,6 +8,7 @@
 * [Control de Versiones](#control-de-versiones)
 * [Flujos de trabajo](#flujos-de-trabajo)
 * [Frameworks](#frameworks)
+* [Inteligencia Artificial](#inteligencia-artificial)
 * [LaTeX](#latex)
 * [Markdown](#markdown)
 * [Ofimática](#ofim&#x00E1;tica)

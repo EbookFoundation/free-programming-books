@@ -1,21 +1,9 @@
-# GitHub Copilot, please complete this script:
-
-# Task:
-# 1. Scan all Markdown files in the 'casts/' folder.
-# 2. For each line matching "(podcast) Name - Title", fetch the last episode date.
-#    - Use podcast RSS feeds if possible.
-#    - If RSS is not available, fallback to a default date (e.g., June 2022).
-# 3. Append "(last updated: Month YYYY)" to the line if not already present.
-# 4. Only update if more than 2 years have passed since last episode.
-# 5. Save all changes back to the same Markdown file.
-# 6. Handle UTF-8 and Unicode characters properly.
-# 7. Include all imports, helper functions, and comments for clarity.
-# 8. Make the code modular so that it can later integrate with a JSON or CSV of known dates.
-# 9. Print logs of updated files and podcast lines.
-
 import os
 import re
 from datetime import datetime
+import feedparser
+import requests
+import json
 
 # Configuration
 CASTS_FOLDER = "casts"
@@ -25,43 +13,112 @@ YEARS_THRESHOLD = 2
 # Regex to match podcast lines
 podcast_pattern = re.compile(r"^\(podcast\) (.+) - (.+)$")
 
-# Helper: append last updated if needed
 def append_last_updated(line, date_str):
+    """
+    Append (last updated: Month YYYY) if not already present.
+    """
     if "(last updated:" not in line:
         return line.strip() + f" (last updated: {date_str})\n"
     return line
 
-# Placeholder for fetching last episode date from RSS/Spotify/Apple Podcasts
+def find_rss_feed(podcast_name):
+    """
+    Try to find the RSS feed for a podcast using the iTunes Search API.
+    Returns the feed URL if found, else None.
+    """
+    try:
+        url = f"https://itunes.apple.com/search?term={requests.utils.quote(podcast_name)}&entity=podcast&limit=1"
+        resp = requests.get(url, timeout=10)
+        if resp.status_code == 200:
+            data = resp.json()
+            if data.get("resultCount", 0) > 0:
+                feed_url = data["results"][0].get("feedUrl")
+                if feed_url:
+                    return feed_url
+    except Exception as e:
+        print(f"⚠️ Could not find RSS for podcast '{podcast_name}': {e}")
+    return None
+
+def parse_pub_date(entry):
+    """
+    Parse the published date from a feed entry into a datetime object.
+    Supports multiple RSS date formats.
+    Returns None if it can't be parsed.
+    """
+    for key in ["published", "pubDate", "updated"]:
+        pub_date = entry.get(key)
+        if pub_date:
+            # Try several date formats
+            for fmt in (
+                "%a, %d %b %Y %H:%M:%S %z",
+                "%a, %d %b %Y %H:%M:%S %Z",
+                "%Y-%m-%dT%H:%M:%S%z",
+                "%Y-%m-%dT%H:%M:%SZ",
+                "%Y-%m-%d"
+            ):
+                try:
+                    return datetime.strptime(pub_date, fmt)
+                except Exception:
+                    continue
+    # Try feedparser's parsed time
+    if "published_parsed" in entry and entry["published_parsed"]:
+        try:
+            return datetime(*entry["published_parsed"][:6])
+        except Exception:
+            pass
+    return None
+
 def get_last_episode_date(podcast_name, podcast_title):
     """
-    Copilot: fill this function to fetch the last episode date
-    from RSS feeds, Spotify API, or Apple Podcasts API.
-    Return "Month YYYY" format.
-    If not available, return DEFAULT_DATE.
+    Get the last episode's date as "Month YYYY" from the feed, or DEFAULT_DATE if not found.
     """
-    return DEFAULT_DATE  # fallback
+    feed_url = find_rss_feed(podcast_name)
+    if feed_url:
+        try:
+            feed = feedparser.parse(feed_url)
+            if feed.entries:
+                dt = parse_pub_date(feed.entries[0])
+                if dt:
+                    return dt.strftime("%B %Y"), dt
+        except Exception as e:
+            print(f"⚠️ Error parsing feed for '{podcast_name}': {e}")
+    # Fallback
+    return DEFAULT_DATE, None
 
-# Process a single Markdown file
 def process_file(file_path):
     with open(file_path, "r", encoding="utf-8") as f:
         lines = f.readlines()
 
     new_lines = []
+    updated = False
     for line in lines:
         match = podcast_pattern.match(line)
         if match:
             name, title = match.groups()
-            last_date = get_last_episode_date(name, title)
-            # Only update if older than threshold
-            # Copilot: fill logic to compare last_date with today and YEARS_THRESHOLD
-            line = append_last_updated(line, last_date)
+            last_date_str, last_date_dt = get_last_episode_date(name, title)
+            # Check if last episode is older than YEARS_THRESHOLD
+            if last_date_dt:
+                years_passed = (datetime.now() - last_date_dt).days / 365.25
+                if years_passed > YEARS_THRESHOLD:
+                    old_line = line
+                    line = append_last_updated(line, last_date_str)
+                    if line != old_line:
+                        print(f"🔁 {file_path}: {name} - {title} (last episode: {last_date_str})")
+                        updated = True
+            else:
+                # If no date info, append anyway as fallback
+                old_line = line
+                line = append_last_updated(line, last_date_str)
+                if line != old_line:
+                    print(f"🔁 {file_path}: {name} - {title} (last episode: {last_date_str}, fallback)")
+                    updated = True
         new_lines.append(line)
 
-    with open(file_path, "w", encoding="utf-8") as f:
-        f.writelines(new_lines)
-    print(f"✅ Updated: {file_path}")
+    if updated:
+        with open(file_path, "w", encoding="utf-8") as f:
+            f.writelines(new_lines)
+        print(f"✅ Updated: {file_path}")
 
-# Main loop: scan all Markdown files
 def main():
     for root, dirs, files in os.walk(CASTS_FOLDER):
         for file in files:

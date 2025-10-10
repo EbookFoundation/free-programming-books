@@ -28,7 +28,7 @@
 
 * [C Language Tutorials (Urdu/Hindi)](https://www.youtube.com/playlist?list=PL0yiR-15Ytq8ro6SA-0JWkdyihxxVc_cB) - AssadUllahCh
 * [C language tutorial for beginners Urdu/Hindi](https://www.youtube.com/playlist?list=PLtCBuHKmdxOfDo1cChVR3jYEzLtNpGjXa) - Fahad Hussain
-* [C Programming for Beginners Urdu/Hindi](https://youtube.com/playlist?list=PLezGSay-CjmxobCUsJnIelVG5kM12qKY_&si=-Wth_-v2Npug5_sG) - Super Learning
+* [C Programming for Beginners Urdu/Hindi](https://www.youtube.com/playlist?list=PLezGSay-CjmxobCUsJnIelVG5kM12qKY_) - Super Learning
 
 
 ### <a id="cplusplus"></a>C++

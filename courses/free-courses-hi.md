@@ -301,7 +301,7 @@
 * [Computer Organisation and Architecture \| Coa Complete Course in Hindi \| True Engineer](https://youtube.com/playlist?list=PLo4m8hx3sbb9SGSZy2Os7K4sAr53K9m-W) - True Engineer
 * [Computer Organization and Architecture](https://www.youtube.com/playlist?list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX) - Gate Smashers
 * [Computer Organization and Architecture ( COA ) \| CS & IT \| GATE 2025 Crash Course](https://youtube.com/playlist?list=PL3eEXnCBViH8OS7fH0uQdre5YGCIOhCBH&si=fJEP14BWHTCakSy1) - GATE Wallah - EE, EC, CS & IN
-* [Computer Organization and Architecture GATE (Hindi) \| Computer Organization GATE \| Computer Organization and Architecture Tutorials](https://youtube.com/playlist?list=PL9zFgBale5fsVaOVUqXA1cJ22ePKpDEim&si=KyevWmfBNZW8pJ01) - Well Academy
+* [Computer Organization and Architecture GATE (Hindi) \| Computer Organization GATE \| Computer Organization and Architecture Tutorials](https://youtube.com/playlist?list=PL9zFgBale5fsVaOVUqXA1cJ22ePKpDEim) - Well Academy
 * [Computer Organization and Architecture Lectures in Hindi](https://www.youtube.com/playlist?list=PLV8vIYTIdSnar4uzz-4TIlgyFJ2m18NE3) - Easy Engineering Classes
 * [Introduction to Computer Organization and Architecture](https://youtube.com/playlist?list=PLBlnK6fEyqRjC2nTHdeUtWFkoiPVespkc) - Neso Academy
 

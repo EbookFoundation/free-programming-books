@@ -1371,6 +1371,7 @@
 * [Python Machine Learning and AI Mega Course - Learn 4 Different Areas of ML & AI](https://www.youtube.com/watch?v=WFr2WgN9_xE) - Tech With Tim (Tim Ruscica)
 * [Python Machine Learning Tutorials](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mP7qA9cagf68V06sko5otr) - Tech With Tim (Tim Ruscica)
 * [PyTorch tutorials](https://pytorch.org/tutorials) - PyTorch.org
+* [Random Forests](https://www.youtube.com/playlist?list=PLblh5JKOoLUIE96dI3U7oxHaCAbZgfhHk) - StatQuest by Josh Starmer
 * [Stanford SEE 229 - Machine Learning](https://see.stanford.edu/Course/CS229)
 * [Stanford University Machine Learning](https://www.coursera.org/learn/machine-learning)
 * [Statistics and Machine Learning in R](https://youtube.com/playlist?list=PLblh5JKOoLUJJpBNfk8_YadPwDTO2SCbx) - StatQuest by Josh Starmer

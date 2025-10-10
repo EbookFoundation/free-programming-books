@@ -228,6 +228,7 @@
 ### <a id="asp.net"></a>ASP.NET
 
 * [ASP .Net in Hindi](https://www.youtube.com/playlist?list=PLbsXhdgwIKL1g2vE86yGBK_RYuqt98yWL) - ComputerHindiNotes
+* [ASP.NET C# Web Form Tutorial In Hindi](https://www.youtube.com/playlist?list=PLx8RMTm-T9mq86-hvog8fHjJS1pBsPurS) - IT Tech Hindi Hub World
 * [ASP.NET Core Tutorials in Hindi](https://www.youtube.com/playlist?list=PL18HZjtdIA4Al-wYHC-i2TA-lgXLvHVmB) - Technology Keeda
 * [ASP.NET Course 2023](https://www.youtube.com/playlist?list=PLMoluEXvWXK6Q1h-5vVX4tzX7-O2FdgZA) - Coder Baba
 * [ASP.NET Web Forms Tutorial](https://www.youtube.com/playlist?list=PLp_RsiLZjwQS1FNXy0neuYgRGKNYPWpPk) - Programentor

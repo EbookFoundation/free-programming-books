@@ -1218,6 +1218,7 @@
 
 #### Three.js
 
+* [JavaScript Tutorial with Three.js - 5 Projects for Beginners](https://www.youtube.com/watch?v=tPkJLnDqAKk) - Bobby Roe (freeCodeCamp)
 * [Three.js Advanced Tutorial](https://www.youtube.com/watch?v=rxTb9ys834w) - Andrew Woan
 * [Three.js Tutorial Crash Course](https://www.youtube.com/watch?v=YK1Sw_hnm58) - Chris Courses
 * [Three.js Tutorials](https://www.youtube.com/playlist?list=PLjcjAqAnHd1EIxV4FSZIiJZvsdrBc1Xho) - Wael Yasmina

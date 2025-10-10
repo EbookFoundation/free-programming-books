@@ -88,7 +88,7 @@
 
 ### Cloud Computing 
 
-* [Cloud Computing Tutorial](https://youtube.com/playlist?list=PLEYpvDF6qy8YfccPez3rkafASd9PZV3te&si=lInxQauwm-na__iW) - Foyzul Karim
+* [Cloud Computing Tutorial](https://www.youtube.com/playlist?list=PLEYpvDF6qy8YfccPez3rkafASd9PZV3te) - Foyzul Karim
 
 
 ### Competitive Programming

@@ -18,7 +18,8 @@
 
 ### Spring / Spring Boot
 
-* [Spring Boot Tutorial | English](https://www.tutorialspoint.com/spring_boot/index.htm) - TutorialsPoint (HTML)
-* [Spring Boot Tutorial | English](https://www.geeksforgeeks.org/spring-boot/) - GeeksforGeeks (HTML)
 * [Building an Application with Spring Boot | English](https://spring.io/guides/gs/spring-boot) - Spring Guides (HTML)
+* [Spring Boot Tutorial | English](https://www.geeksforgeeks.org/spring-boot/) - GeeksforGeeks (HTML)
+* [Spring Boot Tutorial | English](https://www.tutorialspoint.com/spring_boot/index.htm) - TutorialsPoint (HTML)
+
 

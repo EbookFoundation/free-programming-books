@@ -759,6 +759,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 * [Cookbook](https://flutter.dev/docs/cookbook)
 * [Flutter in Action](https://livebook.manning.com/book/flutter-in-action/) - Eric Windmill (HTML) *(email address requested, not required)*
+* [Flutter or Dart Package Publishing: A Complete Guide to GitHub Actions & OIDC](https://medium.com/@jayadevpanthaplavil/automate-your-dart-flutter-package-publishing-a-complete-guide-to-github-actions-oidc-39a7c6eac613) - Jayadev Panthaplavil (HTML)
 * [Flutter Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/flutter-succinctly) (PDF, Kindle) (email address *requested*, not required)
 * [Flutter Tutorial](https://www.tutorialspoint.com/flutter/) - Tutorials Point (HTML, PDF)
 * [Flutter Tutorials Handbook](https://kodestat.gitbook.io/flutter)

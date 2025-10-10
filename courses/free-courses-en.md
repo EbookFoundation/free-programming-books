@@ -1101,9 +1101,13 @@
 
 ### Nest.js
 
+* [Comprehensive Nest JS Course: From Beginner to Expert](https://www.youtube.com/playlist?list=PL1BztTYDF-QPfrzXwoC_6OSLs818uAqN2) - procademy
 * [Learn NestJS – Complete Course](https://www.youtube.com/watch?v=sFnAHC9lLaw) - freeCodeCamp
+* [Nest JS Advanced Course [Latest]](https://www.youtube.com/playlist?list=PLIGDNOJWiL1_YrquGbDDN4BNNRy678Spr) - Code with tkssharma
 * [Nest.js Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g8YFseGdkyj9RH9kVs_cMr) - Net Ninja
 * [NestJs](https://www.youtube.com/playlist?list=PLlaDAvA2MhR2jb8zavu6I-w1BA878aHcB) - Marius Espejo
+* [NestJS Full Course 2024](https://www.youtube.com/playlist?list=PLhnVDNT5zYN_PfPXedWpMy_UTeYNExbfR) - Sakura Dev
+* [NestJS Tutorials for Beginners](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6MexSAh5x1R3rU6Mg2zYBVr) - Dave Gray
 
 
 #### Next.js

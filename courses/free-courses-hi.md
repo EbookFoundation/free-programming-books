@@ -188,9 +188,12 @@
 ### Bash and Shell
 
 * [Bash Basic Commands](https://www.youtube.com/playlist?list=PLzOLSdbK1deOKmOiiv-o4wn7xUj6ZYzrM) - Noob Coders
+* [Bash Scripting | Complete Course In Hindi](https://www.youtube.com/playlist?list=PLDnEHblf8hExnR-Xpmrpu3GdeO_4YJ_tD) - ENCODERSPRO
 * [Bash Scripting tutorial](https://www.youtube.com/playlist?list=PLxLRoXCDIalcosmDOQizh31EIHEK1njfO) - Fortify Solutions
 * [Bash Shell Scripting (NOOB)](https://www.youtube.com/playlist?list=PLzOLSdbK1deNuVMOw0EkKGSsES-rPeONe) - Noob Coders
 * [shell scripting complete tutorial in hindi](https://www.youtube.com/playlist?list=PL9A0tISr5Ow5nZSY8-ICNAyXHJKesl_XL) - Cybersploit
+* [Shell Scripting Linux Beginners to Advanced in Hindi | Shell Scripting Tutorials for Beginner to Advanced in Hindi](https://www.youtube.com/playlist?list=PLrFWmDe-rblpqyEzyAW6TMJyut-pbQHlr) - Cloud Tech Burner
+* [SHELL SCRIPTING Tutorial For Beginners](https://www.youtube.com/playlist?list=PL0tP8lerTbX3MeIyMxGW2sLhWnPdn_xhd) - M Prashant
 
 
 ### Blockchain
@@ -228,6 +231,7 @@
 ### <a id="asp.net"></a>ASP.NET
 
 * [ASP .Net in Hindi](https://www.youtube.com/playlist?list=PLbsXhdgwIKL1g2vE86yGBK_RYuqt98yWL) - ComputerHindiNotes
+* [ASP.NET C# Web Form Tutorial In Hindi](https://www.youtube.com/playlist?list=PLx8RMTm-T9mq86-hvog8fHjJS1pBsPurS) - IT Tech Hindi Hub World
 * [ASP.NET Core Tutorials in Hindi](https://www.youtube.com/playlist?list=PL18HZjtdIA4Al-wYHC-i2TA-lgXLvHVmB) - Technology Keeda
 * [ASP.NET Course 2023](https://www.youtube.com/playlist?list=PLMoluEXvWXK6Q1h-5vVX4tzX7-O2FdgZA) - Coder Baba
 * [ASP.NET Web Forms Tutorial](https://www.youtube.com/playlist?list=PLp_RsiLZjwQS1FNXy0neuYgRGKNYPWpPk) - Programentor
@@ -477,6 +481,7 @@
 
 ### Spring Boot
 
+* [Spring Boot complete course in Hindi](https://www.youtube.com/playlist?list=PLX1XVaZeuvXfDHGqgYF6WBZsBjpA-hCCa) - Bits And Bytes
 * [Spring Boot In Hindi](https://www.youtube.com/playlist?list=PLJc-LD5TzDQToG2MOYDAuCl-JFZoMBxgC) - ekumeed help
 * [Spring Boot Tutorial (Full Course In Hindi)](https://www.youtube.com/playlist?list=PLnfapp4Woqprxl6N1r4Gkq87Lkn-IEZ0z) - AndroJava Tech4U
 * [Spring Boot Tutorial For Beginners (in Hindi)](https://www.youtube.com/playlist?list=PL5mjp3QjkuoLPS-L28yKCKyzCMX8WRVno) - ProgRank

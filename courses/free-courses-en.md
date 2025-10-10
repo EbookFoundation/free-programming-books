@@ -205,6 +205,7 @@
 #### Soft Computing
 
 * [Introduction To Soft Computing](https://www.youtube.com/playlist?list=PLJ5C_6qdAvBFqAYS0P9INAogIMklG8E-9) - Computer Science and Engineering
+* [Introduction To Soft Computing](https://www.youtube.com/playlist?list=PL5cGuSxneHHd7X4ZbHs8DPbRnoiYixpBA) - Introduction To Soft Computing - IITKGP
 * [Learn and Grow](https://www.youtube.com/playlist?list=PL_kjqgSKrEaA8RDh56AeTOrcGj-nMDkSS) - Learn and Grow
 
 
@@ -1059,6 +1060,7 @@
 
 ### Astro
 
+* [Astro](https://www.youtube.com/playlist?list=PLMZnTut8a7icI97DDc2izk6nOoNlHyXgw) - Stefan Rows
 * [Astro Blog Course](https://www.youtube.com/playlist?list=PLoqZcxvpWzzeRwF8TEpXHtO7KYY6cNJeF) - Coding in Public
 * [Astro Crash Course](https://www.youtube.com/watch?v=Oi9z5gfIHJs) - Traversy Media
 * [Astro Web Framework Crash Course](https://www.youtube.com/watch?v=e-hTm5VmofI) - freeCodeCamp
@@ -1080,6 +1082,7 @@
 #### Electron
 
 * [Electron Complete Course](https://www.youtube.com/playlist?list=PLmx8ERLT7ojO2PAH_sDnnoKXcqswxJ6CL) - coderJeet
+* [Electron Course - Code Desktop Applications (inc. React and Typescript)](https://www.youtube.com/watch?v=fP-371MN0Ck) - freeCodeCamp.org
 * [Electron js Tutorials](https://www.youtube.com/playlist?list=PLC3y8-rFHvwiCJD3WrAFUrIMkGVDE0uqW) - Codevolution
 
 
@@ -1098,9 +1101,13 @@
 
 ### Nest.js
 
+* [Comprehensive Nest JS Course: From Beginner to Expert](https://www.youtube.com/playlist?list=PL1BztTYDF-QPfrzXwoC_6OSLs818uAqN2) - procademy
 * [Learn NestJS – Complete Course](https://www.youtube.com/watch?v=sFnAHC9lLaw) - freeCodeCamp
+* [Nest JS Advanced Course [Latest]](https://www.youtube.com/playlist?list=PLIGDNOJWiL1_YrquGbDDN4BNNRy678Spr) - Code with tkssharma
 * [Nest.js Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g8YFseGdkyj9RH9kVs_cMr) - Net Ninja
 * [NestJs](https://www.youtube.com/playlist?list=PLlaDAvA2MhR2jb8zavu6I-w1BA878aHcB) - Marius Espejo
+* [NestJS Full Course 2024](https://www.youtube.com/playlist?list=PLhnVDNT5zYN_PfPXedWpMy_UTeYNExbfR) - Sakura Dev
+* [NestJS Tutorials for Beginners](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6MexSAh5x1R3rU6Mg2zYBVr) - Dave Gray
 
 
 #### Next.js
@@ -1163,6 +1170,7 @@
 * [React State Management Intermediate JavaScript Course](https://www.youtube.com/watch?v=-bEzt5ISACA) - Jack Herrington (freeCodeCamp)
 * [React State Management using Context API (useContext + useReducer Hooks = Magic)](https://www.youtube.com/watch?v=zxP4oGejqpU) - The Full Stack Junkie
 * [React Testing Library Crash Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gm4_-5UsNmLqMosM-dzuvQ) - The Net Ninja
+* [React Tutorial Full Course - Beginner to Pro (React 19, 2025)](https://www.youtube.com/watch?v=TtPXvEcE11E) - SuperSimpleDev
 * [React Tutorials](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkArDMazoARtNz1aMwNWmvC) - freeCodeCamp
 * [ReactJS - Tutorial for Beginners](https://www.youtube.com/watch?v=Ke90Tje7VS0) - Mosh Hamedani (Programming with Mosh)
 * [ReactJS Basics](https://www.youtube.com/playlist?list=PLe30vg_FG4OSw8SIcLVci-jB_-W1ZkLYp) - Bitfumes

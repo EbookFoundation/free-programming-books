@@ -12,6 +12,13 @@
 
 ### Java
 
-* [Java | Hindi](https://www.learnhindituts.com/java) - LearnHindiTuts.com
-* [JavaTpoint Java Tutorial | Hindi](https://www.javatpoint.com/java-tutorial-hindi) - JavaTpoint (HTML)
-* [JavaTpoint Spring Boot Tutorial | Hindi](https://www.javatpoint.com/spring-boot-tutorial-hindi) - JavaTpoint (HTML)
+* [Java Tutorial | English](https://www.tutorialspoint.com/java/index.htm) - TutorialsPoint (HTML)
+* [Java Tutorial | English](https://www.geeksforgeeks.org/java/) - GeeksforGeeks (HTML)
+
+
+### Spring / Spring Boot
+
+* [Spring Boot Tutorial | English](https://www.tutorialspoint.com/spring_boot/index.htm) - TutorialsPoint (HTML)
+* [Spring Boot Tutorial | English](https://www.geeksforgeeks.org/spring-boot/) - GeeksforGeeks (HTML)
+* [Building an Application with Spring Boot | English](https://spring.io/guides/gs/spring-boot) - Spring Guides (HTML)
+

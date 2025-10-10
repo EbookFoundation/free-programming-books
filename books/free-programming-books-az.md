@@ -3,8 +3,7 @@
 * [C](#c)
 * [HTML](#html)
 * [Linux](#linux)
-  
-
+* [C#](#C#)
 
 ### C
 
@@ -20,5 +19,7 @@
 
 * [Linux](https://web.archive.org/web/20241214095624/https://ilkaddimlar.com/ders/linux) ( :card_file_box: archived)
 
+### C#
 
+* [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) (Official Microsoft Documentation)
 

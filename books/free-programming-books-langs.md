@@ -76,7 +76,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Haxe](#haxe)
 * [HTML and CSS](#html-and-css)
     * [Bootstrap](#bootstrap)
-    * [Tailwindcss](https://tailwindcss.com/docs) - Adam Wathan
+    * [Tailwindcss](#tailwindcss)
 * [HTTP](#http)
 * [HTTPS](#https)
 * [Icon](#icon)

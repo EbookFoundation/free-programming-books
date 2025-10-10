@@ -205,6 +205,7 @@
 ### Inteligência Artificial
 
 * [Curso Grátis de Inteligência Artificial](https://www.youtube.com/playlist?list=PLHz_AreHm4dm24MhlWJYiR_Rm7TFtvs6S) - Gustavo Guanabara (Curso em Vídeo)
+* [IA Generativa para Iniciantes .NET - Um Curso](https://github.com/microsoft/Generative-AI-for-beginners-dotnet/tree/main/translations/pt) - Microsoft (GitHub)
 
 
 ### Ionic

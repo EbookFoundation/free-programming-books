@@ -557,8 +557,8 @@
 * [Chai aur react \| with projects](https://www.youtube.com/playlist?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige) - Chai aur Code
 * [React JS (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhignjLLXTJWkRJKN-SgAqClL) - Rajesh Kumar, Geeky Shows
 * [React JS Course 2023](https://www.youtube.com/playlist?list=PLt5mNkGuWcuWSUHxSzWP74IU9U4BTVLt0) - 6 Pack Programmer
-* [React JS Tutorial For Beginners in Hindi 2024 | React JS Tutorial](https://www.youtube.com/playlist?list=PLrdDvCsCDu0Gdr-E7NlcFYaNPw29t7xmq) - CODE with Sufyan Shaikh
-* [React JS Tutorial in Hindi | React JS for Beginner to Advanced | Step by Step Video Tutorials](https://www.youtube.com/playlist?list=PLjVLYmrlmjGdnIQKgnTeR1T9-1ltJEaJh) - WsCubeTech
+* [React JS Tutorial For Beginners in Hindi 2024 \| React JS Tutorial](https://www.youtube.com/playlist?list=PLrdDvCsCDu0Gdr-E7NlcFYaNPw29t7xmq) - CODE with Sufyan Shaikh
+* [React JS Tutorial in Hindi \| React JS for Beginner to Advanced \| Step by Step Video Tutorials](https://www.youtube.com/playlist?list=PLjVLYmrlmjGdnIQKgnTeR1T9-1ltJEaJh) - WsCubeTech
 * [React JS Tutorial in Hindi 2022](https://www.youtube.com/playlist?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ) - Vinod Bahadur Thapa, Thapa Technical
 * [React Js Tutorials in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt) - Haris Ali Khan, CodeWithHarry
 * [React Tutorial for Beginners in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV47BCAjiCtuV_liN9IwAl8pM) - Code Step By Step

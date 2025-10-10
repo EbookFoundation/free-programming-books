@@ -5,6 +5,7 @@
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
+* [Cloud Computing](#cloud-computing)
 * [Competitive Programming](#competitive-programming)
 * [Dart](#dart)
 * [Docker](#docker)
@@ -83,6 +84,11 @@
 * [C++ STL (Bangla)](https://youtube.com/playlist?list=PLgLCjVh3O6Sgux985GYG22xkFt9z9Sq0_) - LoveExtendsCode
 * [Object Oriented C++ \| Bangla Tutorial](https://www.youtube.com/playlist?list=PLy7uM3PHzMF1hnqhFGE4_A8qTUfFmZ_3y) - Online School
 * [Standard Template Library of C++ (STL)](https://www.youtube.com/playlist?list=PLoa_roVVsxA0D1Kv_T7rbGHtSdYIUo4f5) - CPS Academy
+
+
+### Cloud Computing 
+
+* [Cloud Computing Tutorial](https://youtube.com/playlist?list=PLEYpvDF6qy8YfccPez3rkafASd9PZV3te&si=lInxQauwm-na__iW) - Foyzul Karim
 
 
 ### Competitive Programming

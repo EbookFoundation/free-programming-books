@@ -14,7 +14,6 @@ A strong grasp of mathematics is key for understanding AI/ML algorithms.
 
 * **Mathematics for Machine Learning**: [IIT MADRAS NPTEL](https://nptel.ac.in/courses/106106139)
 
-
 ### 2. Python
 
 Python is the primary language for AI engineering.

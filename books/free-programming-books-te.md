@@ -25,6 +25,6 @@
 * [Python Course in Telugu: 30 days challenge](https://www.youtube.com/playlist?list=PLNgoFk5SYUglQOaXSY8lAlPXmK6tQBHaw) - Vamsi Bhavani
 
 
-### <a id="java"></a>JAVA
+### <a id="java"></a>Java
 
 * [Core Java in Telugu \| Java Programming](https://www.youtube.com/playlist?list=PLz8gl4BEGkEGYXNZrIRHJUSoxS_FPBrDy) - H Y R Tutorials

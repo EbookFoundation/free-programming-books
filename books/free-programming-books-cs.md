@@ -146,7 +146,6 @@
 ### Ruby
 
 * [Ruby Tutoriál](http://i.iinfo.cz/files/root/k/Ruby_tutorial.pdf) (PDF)
-* [The Ruby Programming Language](https://theswissbay.ch/pdf/Gentoomen%20Library/Programming/Ruby/The%20Ruby%20Programming%20Language%20-%20Oreilly.pdf) — David Flanagan and Yukihiro Matsumoto (PDF)
 
 
 ### TeX

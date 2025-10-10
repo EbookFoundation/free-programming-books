@@ -3,15 +3,17 @@
 * [C](#c)
 * [HTML](#html)
 * [Linux](#linux)
-* [C#](#c)
+* [C#](#C#)
 
 ### C
 
 * [C Proqramlaşdırma Dili](https://web.archive.org/web/20241214000729/https://ilkaddimlar.com/ders/c-proqramlasdirma-dili) ( :card_file_box: archived)
 
+
 ### HTML
 
 * [HTML](https://web.archive.org/web/20241214005042/https://ilkaddimlar.com/ders/html) ( :card_file_box: archived)
+
 
 ### Linux
 
@@ -19,4 +21,5 @@
 
 ### C#
 
-* [C# Programming Language](https://docs.microsoft.com/en-us/dotnet/csharp/) (Official Microsoft Documentation)
+* [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) (Official Microsoft Documentation)
+

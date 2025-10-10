@@ -2320,6 +2320,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Ruby on Rails Guides](http://guides.rubyonrails.org)
 * [Ruby on Rails Notes for Professionals](https://goalkicker.com/RubyOnRailsBook/) - Compiled from StackOverflow Documentation (PDF)
 * [Ruby on Rails Tutorial (Rails 5): Learn Web Development with Rails](https://www.railstutorial.org/book) - [Michael Hartl](http://www.michaelhartl.com)
+* [The Ruby Programming Language](https://theswissbay.ch/pdf/Gentoomen%20Library/Programming/Ruby/The%20Ruby%20Programming%20Language%20-%20Oreilly.pdf) — David Flanagan and Yukihiro Matsumoto (PDF)
 * [Upgrading to Rails 4](https://github.com/alindeman/upgradingtorails4)
 
 

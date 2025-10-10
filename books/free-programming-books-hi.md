@@ -35,6 +35,7 @@
 ### Data Structure and Algorithms
 
 * [Data Structure with C \| Hindi](http://www.bccfalna.com/IOC-AllEBooks/DSnAinHindi.pdf) - Kuldeep Chand (PDF)
+* [Data Structures and classification](https://ehindistudy.com/2015/11/25/what-is-data-structure-in-hindi-classification-in-hindi/) - eHindiStudy
 
 
 ### Java

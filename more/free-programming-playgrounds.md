@@ -418,8 +418,13 @@
 ### SQL
 
 * [Extends Class](https://extendsclass.com/sqlite-browser.html)
+* [Online SQL Editor](https://www.programiz.com/sql/online-compiler) - Programiz
+* [Online SQL Editor](https://www.tutorialspoint.com/compilers/online-sql-editor.htm) - Tutorialspoint
+* [Oracle Live SQL](https://livesql.oracle.com/landing/)
+* [Practice SQL](https://www.sql-practice.com/)
 * [SQLFiddle](http://sqlfiddle.com)
 * [SQLite Online](https://sqliteonline.com)
+* [SQL Server Online Editor & Compiler](https://onecompiler.com/sqlserver) - OneCompiler
 
 
 ### Svelte

@@ -13,3 +13,4 @@
 
 * [Đắm chìm vào Học sâu](https://d2l.aivivn.com) - `trl.:` Nhóm dịch thuật Đắm chìm vào Học sâu (HTML)
 
+* Sách 2 https://cafedev.vn/review-va-chia-se-sach-ve-python-cuc-hay-cho-ace/

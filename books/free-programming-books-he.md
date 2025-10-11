@@ -46,6 +46,6 @@
 ### Python
 
 * [תכנות בשפת פייתון](https://data.cyber.org.il/python/python_book.pdf) – ברק גונן&rlm;, המרכז לחינוך סייבר&rlm; (PDF)
-
+* [תכנות בשפת Python&lrm;](https://mitmachim.top/assets/uploads/files/1697357423114-python_ver3f.pdf) – מרק טסליצקי&rlm; (PDF)
 
 </div>

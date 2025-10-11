@@ -1,8 +1,14 @@
 ### Index
 
+* [Algoritmi și Structuri de Date](#algoritmi-structuri-date)
 * [C++](#cpp)
 * [Javascript](#javascript)
 * [Python](#python)
+
+
+### <a id="algoritmi-structuri-date"></a>Algoritmi și Structuri de Date
+
+* [Structuri de Date și Algoritmi](https://lectii.utm.md/courses/structuri-de-date-si-algoritmi/) - Universitatea Tehnică a Moldovei
 
 
 ### <a id="cpp"></a>C++

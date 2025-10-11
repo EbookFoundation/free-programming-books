@@ -8,6 +8,7 @@
 * [C#](#csharp)
 * [Deep Learning](#deep-learning)
 * [Flutter](#flutter)
+* [Generative AI](#generative-ai)
 * [Git](#git)
 * [Go](#go)
 * [iOS](#ios)
@@ -99,6 +100,11 @@
 * [Flutter 강좌 순한맛](https://www.youtube.com/playlist?list=PLQt_pzi-LLfpcRFhWMywTePfZ2aPapvyl) - 코딩셰프
 * [Flutter 입문](https://www.youtube.com/playlist?list=PLxTmPHxRH3VUueVvEnrP8qxHAP5x9XAPv) - 오준석의 생존코딩
 * [Flutter 중급](https://www.youtube.com/playlist?list=PLxTmPHxRH3VWLY-eyQuV1C_IbIQlCXEhe) - 오준석의 생존코딩
+
+
+### Generative AI
+
+* [초보자를 위한 Generative AI .NET - 강좌](https://github.com/microsoft/Generative-AI-for-beginners-dotnet/tree/main/translations/ko) - Microsoft (GitHub)
 
 
 ### Git

@@ -735,7 +735,7 @@
 * [Basic Development With Flutter](https://10pearlsuniversity.org/courses/basic-development-with-flutter/) - Muhammad Noman
 * [Build Apps with Flutter](https://developers.google.com/learn/pathways/intro-to-flutter) - Google for Developers
 * [Flutter & Firebase App Build](https://www.youtube.com/playlist?list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC) - The Net Ninja
-* [Flutter Bloc Tutorial For Beginners | BLoC Architecture/Pattern & State Management Explained](https://www.youtube.com/watch?v=SDk_GldOtK8) - Rivaan Ranawat
+* [Flutter Bloc Tutorial For Beginners \| BLoC Architecture/Pattern & State Management Explained](https://www.youtube.com/watch?v=SDk_GldOtK8) - Rivaan Ranawat
 * [Flutter Clean Architecture Full Course For Beginners - Bloc, Supabase, Hive, GetIt](https://www.youtube.com/watch?v=ELFORM9fmss) - Rivaan Ranawat
 * [Flutter Course for Beginners - 37 hour](https://www.youtube.com/watch?v=VPvVD8t02U8) - freeCodeCamp.org
 * [Flutter Crash Course](https://fluttercrashcourse.com/courses/basics/lessons/materialapp-scaffold-appbar-text) - Nick Manning *(account required)*
@@ -746,7 +746,7 @@
 * [Free Flutter Animations Course](https://youtube.com/playlist?list=PL4cUxeGkcC9gP1qg8yj-Jokef29VRCLt1) - The Net Ninja
 * [Free Flutter Course](https://www.youtube.com/playlist?list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT) - Vandad Nahavandipoor
 * [Getting Started With Flutter](https://10pearlsuniversity.org/courses/getting-started-with-flutter/) - Muhammad Noman
-* [The Complete Dart & Flutter Developer Course | Full Tutorial For Beginners to Advanced](https://youtu.be/CzRQ9mnmh44?si=1QaXNaH117mI4mLE) - Rivaan Ranawat
+* [The Complete Dart & Flutter Developer Course \| Full Tutorial For Beginners to Advanced](https://youtu.be/CzRQ9mnmh44?si=1QaXNaH117mI4mLE) - Rivaan Ranawat
 
 
 ### Fortran

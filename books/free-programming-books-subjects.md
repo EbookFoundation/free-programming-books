@@ -842,7 +842,7 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Prompt Engineering
 
 * [DALLE-E 2 prompt book](https://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book.pdf) - Dallery.Gallery, Guy Parson (PDF)
-* [Guide to Prompt Engineering](https://codeahoy.com/learn/promptengineering/toc) - CodeAhoy (HTML)
+* [Guide to Prompt Engineering](https://web.archive.org/web/20241107021929/https://codeahoy.com/learn/promptengineering/toc/) - CodeAhoy (HTML) *( :card_file_box: archived)*
 * [LLM Prompt Engineering Simplified Book](https://github.com/AkmmusAI/LLM-Prompt-Engineering-Simplified-Book) - Katikapalli Subramanyam Kalyan (GitHub)
 * [Prompt Engineering](https://www.innopreneur.io/wp-content/uploads/2025/04/22365_3_Prompt-Engineering_v7-1.pdf) - Lee Boonstra (PDF)
 * [Prompt Engineering Guide](https://learnprompting.org/docs/introduction) - LearnPrompting (HTML)

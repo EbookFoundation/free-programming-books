@@ -44,10 +44,9 @@
 
 ### JavaScript
 
-* [JavaScript \| Hindi](https://www.tutorialinhindi.com/javascript-tutorial-hindi/) - TutorialinHindi.com
-* [Learn JavaScript \| Hindi](https://javascript.sumankunwar.com.np/np) - Suman Kumar, Github Contributors (HTML, PDF)
 * [JavaScript Course in Hindi](https://www.learnvern.com/course/javascript-tutorials-in-hindi) - LearnVern (HTML)
-
+* [JavaScript \| Hindi](https://www.tutorialinhindi.com/javascript-tutorial-hindi/) - TutorialinHindi.com
+* [Learn JavaScript \| Hindi](https://javascript.sumankunwar.com.np/) - Suman Kumar, Github Contributors (HTML, PDF)
 
 
 ### Linux

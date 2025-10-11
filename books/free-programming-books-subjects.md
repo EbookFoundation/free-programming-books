@@ -698,7 +698,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Beej's Guide to Network Programming - Using Internet Sockets](https://beej.us/guide/bgnet/) - Brian "Beej Jorgensen" Hall (HTML, PDF)
 * [Bits, Signals, and Packets: An Introduction to Digital Communications and Networks](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/readings/)
 * [Code Connected vol.1](https://hintjens.wdfiles.com/local--files/main%3Afiles/cc1pe.pdf) (PDF) (book on ZeroMQ)
-* [Computer Networking : Principles, Protocols and Practice](http://cnp3book.info.ucl.ac.be/1st/html/index.html) (HTML, ePub, PDF, Kindle)
+* [Computer Networking : Principles, Protocols and Practice](https://www.computer-networking.info/) (HTML, ePub, PDF, Kindle)
 * [Computer Networks: A Systems Approach](https://book.systemsapproach.org) - Larry Peterson, Bruce Davie (HTML, epub, mobi, PDF)
 * [Distributed systems for fun and profit](https://book.mixu.net/distsys/single-page.html)
 * [High-Performance Browser Networking](https://hpbn.co) - Ilya Grigorik

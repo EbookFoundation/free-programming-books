@@ -125,6 +125,8 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
   - [Contributing](CONTRIBUTING-sv.md)
   - [How-to](HOWTO-sv.md)
 - Tamil / தமிழ்
+  - [Code of Conduct](CODE_OF_CONDUCT-ta.md)
+  - [Contributing](CONTRIBUTING-ta.md)
   - [How-to](HOWTO-ta.md)
 - Telugu / తెలుగు
   - [Code of Conduct](CODE_OF_CONDUCT-te.md)

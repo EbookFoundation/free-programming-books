@@ -1364,7 +1364,6 @@
 * [Machine Learning](https://www.sololearn.com/Course/machine-learning) (SoloLearn) *(account required)*
 * [Machine Learning](https://www.youtube.com/playlist?list=PL7T06JEc5PF5Vuz1U7lEEaFPOExDbKVEh) - Nerd's Lesson
 * [Machine Learning](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF) - StatQuest with Josh Starmer
-* [Machine Learning — Andrew Ng, Stanford University](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) - Andrew Ng
 * [Machine Learning Course for Beginners](https://www.youtube.com/watch?v=NWONeJKn6kc) - freeCodeCamp.org
 * [Machine Learning Course With Python](https://www.youtube.com/playlist?list=PLfFghEzKVmjsNtIRwErklMAN8nJmebB0I) - Siddhardhan
 * [Machine Learning Foundations](https://www.youtube.com/playlist?list=PLOU2XLYxmsII9mzQ-Xxug4l2o04JBrkLV) - Google for Developers

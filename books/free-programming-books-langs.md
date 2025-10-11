@@ -1730,6 +1730,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### OCaml
 
+* [Architecture of Advanced Numerical Analysis Systems: Designing a Scientific Computing System using OCaml](https://link.springer.com/content/pdf/10.1007/978-1-4842-8853-5.pdf) - Liang Wang, Jianxin Zhao (PDF)
 * [Developing Applications With Objective Caml](http://caml.inria.fr/pub/docs/oreilly-book/)
 * [Functional Programming in OCaml](https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/) - Michael R. Clarkson
 * [Learn Programming with OCaml: Algorithms and Data Structures](https://usr.lmf.cnrs.fr/lpo/lpo.pdf) - Sylvain Conchon, Jean-Christophe Filliâtre - trl.: Urmila Nair (PDF)

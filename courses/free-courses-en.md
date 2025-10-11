@@ -746,7 +746,7 @@
 * [Free Flutter Animations Course](https://youtube.com/playlist?list=PL4cUxeGkcC9gP1qg8yj-Jokef29VRCLt1) - The Net Ninja
 * [Free Flutter Course](https://www.youtube.com/playlist?list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT) - Vandad Nahavandipoor
 * [Getting Started With Flutter](https://10pearlsuniversity.org/courses/getting-started-with-flutter/) - Muhammad Noman
-* [The Complete Dart & Flutter Developer Course \| Full Tutorial For Beginners to Advanced](https://youtu.be/CzRQ9mnmh44?si=1QaXNaH117mI4mLE) - Rivaan Ranawat
+* [The Complete Dart & Flutter Developer Course \| Full Tutorial For Beginners to Advanced](https://www.youtube.com/watch?v=CzRQ9mnmh44) - Rivaan Ranawat
 
 
 ### Fortran

@@ -7,7 +7,6 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 ### Index
 
 * [0 - Meta-Lists](#0---meta-lists)
-* [Algebra](#algebra)
 * [Algorithms & Data Structures](#algorithms--data-structures)
 * [Artificial Intelligence](#artificial-intelligence)
 * [Blockchain](#blockchain)
@@ -30,7 +29,8 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Licensing](#licensing)
 * [Machine Learning](#machine-learning)
 * [Mathematics](#mathematics)
-* [Mathematics For Computer Science](#mathematics-for-computer-science)
+  * [Algebra](#algebra)
+  * [Mathematics For Computer Science](#mathematics-for-computer-science)
 * [Misc](#misc)
 * [Networking](#networking)
 * [Object Oriented Programming](#object-oriented-programming)
@@ -599,7 +599,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Second Course in Algebra](http://djm.cc/library/Second_Algebra_Hawkes_Luby_Touton_edited.pdf) - Herbert E. Hawkes, William A. Luby, Frank C. Touton (PDF)
 
 
-### Mathematics For Computer Science
+#### Mathematics For Computer Science
 
 * [A Mathematical Theory of Communication](https://archive.org/details/bstj27-4-623) - Claude E.Shannon
 * [Combinatorial Problems And Exercises (1979)](https://archive.org/details/in.ernet.dli.2015.141538/) - L. Lovasz

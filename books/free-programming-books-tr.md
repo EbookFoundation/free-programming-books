@@ -137,7 +137,7 @@
 ### Python
 
 * [Python ile Programlamaya Giriş](https://pitonca.com/haluktanrikulu/kitap/Python%20Programlama%20_%20Haluk%20Tanr%C4%B1kulu.pdf) - Haluk Tanrıkulu - Python 3
-* [Python Programlama Dili](https://python-istihza.yazbel.com) - YazBel Yazılım Belgelendirme Projesi - Python 3
+* [Python Programlama Dili](https://python-istihza.yazbel.com) - YazBel Yazılım Belgelendirme Projesi - Python 3 (PDF)
 
 
 #### Django

@@ -309,7 +309,7 @@
 
 ### PostgreSQL
 
-* [PostgreSQL Full Course In Bangla](https://youtube.com/playlist?list=PLnAO8EqszeI_OihleIZQf_Nz2jx8J7fa5&si=ueuRU5VEl-Ju4wHX) - Nexist
+* [PostgreSQL Full Course In Bangla 2025](https://www.youtube.com/playlist?list=PLnAO8EqszeI_OihleIZQf_Nz2jx8J7fa5) - Nexist
 
 
 ### Programming paradigms

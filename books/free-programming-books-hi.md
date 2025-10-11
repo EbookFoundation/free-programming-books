@@ -44,8 +44,8 @@
 
 ### JavaScript
 
-* [JavaScript Course in Hindi](https://www.learnvern.com/course/javascript-tutorials-in-hindi) - LearnVern (HTML)
 * [JavaScript \| Hindi](https://www.tutorialinhindi.com/javascript-tutorial-hindi/) - TutorialinHindi.com
+* [JavaScript Course in Hindi](https://www.learnvern.com/course/javascript-tutorials-in-hindi) - LearnVern (HTML)
 * [Learn JavaScript \| Hindi](https://javascript.sumankunwar.com.np/) - Suman Kumar, Github Contributors (HTML, PDF)
 
 
@@ -55,7 +55,7 @@
 * [Linux Explained \| Hindi](https://ehindistudy.com/2022/03/31/linux-hindi/) - Yugal Joshi
 * [Linux Guide \| Hindi](https://hindime.net/linux-kya-hai-hindi/) - Hindime.net
 * [Linux in Hindi \| Hindi](https://csestudies.com/linux-in-hindi/) - CSEStudies.com
-* [Linux Pocket Guide \| Hindi](https://ia800305.us.archive.org/27/items/LinuxPocketGuideInHindi/LinuxPocketGuideInHindi.pdf) - Ravishankar Shrivastav (PDF)
+* [Linux Pocket Guide \| Hindi](https://ia800305.us.archive.org/27/items/LinuxPocketGuideInHindi/LinuxPocketGuideInHindi.pdf) - Ravishankar
 
 
 ### Networking

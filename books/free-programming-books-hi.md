@@ -40,13 +40,13 @@
 ### Java
 
 * [Java \| Hindi](https://www.learnhindituts.com/java) - LearnHindiTuts.com
-  
 
+  
 ### JavaScript
 
-* [JavaScript \| Hindi](https://www.tutorialinhindi.com/javascript-tutorial-hindi/) - TutorialinHindi.com
+* [JavaScript \| Hindi](https://www.tutorialinhindi.com/javascript-tutorial-hindi) - TutorialinHindi.com
 * [JavaScript Course in Hindi](https://www.learnvern.com/course/javascript-tutorials-in-hindi) - LearnVern (HTML)
-* [Learn JavaScript \| Hindi](https://javascript.sumankunwar.com.np/) - Suman Kumar, Github Contributors (HTML, PDF)
+* [Learn JavaScript \| Hindi](https://javascript.sumankunwar.com.np) - Suman Kumar, Github Contributors (HTML, PDF)
   
 
 ### Linux

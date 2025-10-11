@@ -1,7 +1,7 @@
 ### Index
 
 * [C](#c)
-* [C#](#c)
+* [C#](#CSharp)
 * [HTML](#html)
 * [Linux](#linux)
 
@@ -11,7 +11,7 @@
 * [C Proqramlaşdırma Dili](https://web.archive.org/web/20241214000729/https://ilkaddimlar.com/ders/c-proqramlasdirma-dili) ( :card_file_box: archived)
 
 
-### C#
+### CSharp
 
 * [C# Programming Language](https://docs.microsoft.com/en-us/dotnet/csharp/) (Official Microsoft Documentation)
 

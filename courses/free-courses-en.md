@@ -65,6 +65,7 @@
     * [React](#react)
     * [React Native](#react-native)
     * [Redux](#redux)
+    * [Remix](#remix)
     * [Svelte](#svelte)
     * [Three.js](#threejs)
     * [TypeScript](#typescript)
@@ -1198,6 +1199,12 @@
 * [Learn Redux](https://learnredux.com) - Wes Bos (email address *requested*)
 * [Redux Toolkit Tutorial](https://youtube.com/playlist?list=PLC3y8-rFHvwiaOAuTtVXittwybYIorRB3) - Codevolution
 * [Redux Tutorial- Learn Redux from Scratch](https://www.youtube.com/watch?v=poQXNp9ItL4) - Mosh Hamedani
+
+
+#### Remix
+
+* [Remix and Strapi Crash Course – Full Stack Development](https://www.youtube.com/watch?v=5yIivwrvH6w) - freeCodeCamp.org
+* [Remix Tutorial with Kent](https://www.youtube.com/live/hsIWJpuxNj0) - Remix
 
 
 #### Svelte

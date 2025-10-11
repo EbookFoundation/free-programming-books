@@ -18,11 +18,13 @@
 * [Java](#java)
 * [JavaScript](#javascript)
     * [Vue.js](#vuejs)
+* [Julia](#julia)
 * [Machine Learning](#machine-learning)
 * [Misto](#misto)
 * [Mobile](#mobile)
 * [Networking](#networking)
 * [Pascal](#pascal)
+* [Php](#php)
 * [Programmazione](#programmazione)
 * [Python](#python)
 * [Ruby](#ruby)
@@ -142,7 +144,8 @@
 * [Esercitazioni di Spring Boot](https://www.youtube.com/playlist?list=PLCbSCJEIR6CpGchit9OCI6fX_qVYs78d_) - Mauro Cicolella
 * [Java EE](https://www.youtube.com/playlist?list=PLjGYWJ4Dcy-erfReHXB9Ush0cREGSmyIe) - Sonia Zorba
 * [Programmazione a Oggetti (Java)](https://www.youtube.com/playlist?list=PLUFFnpJdi99kewGZIHpCDgarZER_-J1am) - M. Torchiano, Politecnico di Torino
-* [Programmazione ad Oggetti - Java](https://www.youtube.com/playlist?list=PLhlcRDRHVUzTruZmXalUSJAK26pouP8ST) - Nicola Bicocchi 
+* [Programmazione ad Oggetti - Java](https://www.youtube.com/playlist?list=PLhlcRDRHVUzTruZmXalUSJAK26pouP8ST) - Nicola Bicocchi
+* [Spring Boot su Docker](https://www.youtube.com/playlist?list=PLoZNHBEyxFQGdNvr_5mMikHxuv2YHPjDz) - Giovanni Pace
 
 
 ### JavaScript
@@ -156,6 +159,11 @@
 #### Vue.js
 
 * [Vue 2.x (corso base)](https://www.youtube.com/playlist?list=PL0qAPtx8YtJdUH44fvkzVxy9waP23I_bE) - Fabrizio Camuso
+
+
+### Julia
+
+* [Corso di linguaggio Julia](https://www.youtube.com/playlist?list=PL4GzWsD6ECaWvDCPuPB9OxdIye8IZXCuE) - Leonardo Boselli
 
 
 ### Machine Learning
@@ -186,6 +194,11 @@
 
 * [Corso di programmazione in Pascal](https://www.youtube.com/playlist?list=PLO4y9a8lTpK1DS45Wljy0l5rMtVNIesRJ) - R. Rizzi, Università di Verona
 * [Videocorso Pascal (Turbo e FPC)](https://www.youtube.com/playlist?list=PLC98ABC853EAEFD7F) - Fabrizio Camuso
+
+
+### Php
+
+* [Corso PHP Completo 2023](https://www.youtube.com/playlist?list=PLP5MAKLy8lP_zqdyjNaPjh95NG40Op8he) - Edoardo Midali 
 
 
 ### Python

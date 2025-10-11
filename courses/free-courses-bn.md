@@ -88,7 +88,7 @@
 
 ### Cloud Computing 
 
-* [Cloud Computing Tutorial](https://www.youtube.com/playlist?list=PLEYpvDF6qy8YfccPez3rkafASd9PZV3te) - Foyzul Karim
+* [(Bangla) Cloud computing tutorial series : Learn and enjoy AWS Azure and other cloud technologies like never before](https://www.youtube.com/playlist?list=PLEYpvDF6qy8YfccPez3rkafASd9PZV3te) - Foyzul Karim
 
 
 ### Competitive Programming

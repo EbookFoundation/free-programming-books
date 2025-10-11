@@ -37,6 +37,7 @@
 * [C++ Course Series for Beginner in Urdu/Hindi](https://www.youtube.com/playlist?list=PLuuQCKO44unsLwJMkR8_koVG6vDPjMYmH) - Learning Point&rlm;
 * [C++ Free Course for Beginners in (Urdu /Hindi)](https://www.youtube.com/playlist?list=PLt4rWC_3rBbWnDrIv4IeC4Vm7PN1wvrNg) - CodeMite&rlm;
 * [Programming Fundamentals With C++ Complete Course In urdu \| Hindi](https://www.youtube.com/playlist?list=PL4QkPoTgwFULciDFVJEHEwOKMtf9Q_Aqh) - Kacs Learnings&rlm;
+* [Object Oriented Programming with C++ (Urdu)](https://www.youtube.com/playlist?list=PLnd7R4Mcw3rJicg4QtoI8gFkoefyCLvEq) - Recluze&rlm;
 
 
 ### <a id="csharp"></a>C#&lrm;
@@ -70,3 +71,4 @@
 
 * [Python](https://www.youtube.com/playlist?list=PL-vQNozaqIxuPzFUVEIrYDvd6ieUshJTw) - Kawish - Urdu&rlm;
 * [Python_ka_chilla (python in 40 days in urdu/Hindi)](https://www.youtube.com/playlist?list=PL9XvIvvVL50HVsu-Ao8NBr0UJSO8O6lBI) - Codeanics&rlm;
+* [Python (Urdu)](https://www.youtube.com/playlist?list=PL0vKVrkG4hWonNrHafPb2ZD-VnlzVUwmA) - Panaversity Urdu&rlm;

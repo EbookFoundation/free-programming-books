@@ -1607,6 +1607,7 @@
 #### FastAPI
 
 * [FastAPI - A Python Framework | Full Course](https://www.youtube.com/watch?v=7t2alSnE2-I) - Bitfumes (YouTube)
+* [FastAPI Beyond CRUD FastAPI Course](https://www.youtube.com/playlist?list=PLEt8Tae2spYnHy378vMlPH--87cfeh33P) - Ssali Jonathan (Youtube)
 
 
 #### Flask

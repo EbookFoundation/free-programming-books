@@ -139,6 +139,7 @@
 
 ### Python
 
+* [Python ile Programlamaya Giriş](https://pitonca.com/haluktanrikulu/kitap/Python%20Programlama%20_%20Haluk%20Tanr%C4%B1kulu.pdf) - Haluk Tanrıkulu - Python 3 (PDF)
 * [Python Programlama Dili](https://python-istihza.yazbel.com) - YazBel Yazılım Belgelendirme Projesi - Python 3
 
 
@@ -147,6 +148,7 @@
 * [Django](https://web.archive.org/web/20210302105925/https://www.pythondersleri.com/p/django-egitim-serisi.html) - Python Dersleri *( :card_file_box: archived)*
 * [Django Egitimi](https://web.archive.org/web/20210802025720/https://gokmengorgen.net/django-notes/) *( :card_file_box: archived)*
 * [Django Girls Eğitimi](https://tutorial.djangogirls.org/tr) (1.11) (HTML) *( :construction: in process)*
+* [Django için Türkçe Kılavuz](https://www.djangoturkiye.com/static/django.pdf) - Muslu Yüksektepe (PDF)
 
 
 ### R

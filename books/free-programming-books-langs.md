@@ -76,7 +76,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Haxe](#haxe)
 * [HTML and CSS](#html-and-css)
     * [Bootstrap](#bootstrap)
-    * [Tailwindcss](https://tailwindcss.com/docs) - Adam Wathan
+    * [Tailwindcss](#tailwindcss)
 * [HTTP](#http)
 * [HTTPS](#https)
 * [Icon](#icon)
@@ -1730,8 +1730,10 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### OCaml
 
+* [Architecture of Advanced Numerical Analysis Systems: Designing a Scientific Computing System using OCaml](https://link.springer.com/content/pdf/10.1007/978-1-4842-8853-5.pdf) - Liang Wang, Jianxin Zhao (PDF)
 * [Developing Applications With Objective Caml](http://caml.inria.fr/pub/docs/oreilly-book/)
 * [Functional Programming in OCaml](https://www.cs.cornell.edu/courses/cs3110/2019sp/textbook/) - Michael R. Clarkson
+* [Learn Programming with OCaml: Algorithms and Data Structures](https://usr.lmf.cnrs.fr/lpo/lpo.pdf) - Sylvain Conchon, Jean-Christophe Filliâtre - trl.: Urmila Nair (PDF)
 * [OCaml From the Ground Up](https://ocamlbook.org) - Daniil Baturin (HTML) *( :construction: in process)*
 * [OCaml from the Very Beginning](https://johnwhitington.net/ocamlfromtheverybeginning/) - John Whitington
 * [OCaml Scientific Computing](https://ocaml.xyz/book/) - Liang Wang, Jianxin Zhao (HTML) *( :construction: in process)*
@@ -1965,8 +1967,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) - Jake VanderPlas
 * [An Introduction to Statistical Learning with Applications in Python](https://www.statlearning.com) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, Jonathan Taylor (PDF)
 * [Architecture Patterns with Python](https://www.cosmicpython.com/book/preface.html) - Harry J.W. Percival, Bob Gregory (HTML)
-* [Automate the Boring Stuff with Python, 2nd Edition: Practical Programming for Total Beginners](https://automatetheboringstuff.com/2e/chapter0/) - Al Sweigart (3.8)
-    * [Automate the Boring Stuff with Python: Practical Programming for Total Beginners](https://automatetheboringstuff.com/chapter0/) - Al Sweigart (3.4)
+* [Automate the Boring Stuff with Python, 3nd Edition: Practical Programming for Total Beginners](https://automatetheboringstuff.com/3e/) - Al Sweigart (HTML)
 * [Beej's Guide to Python Programming - For Beginners](http://beej.us/guide/bgpython/) - Brian "Beej Jorgensen" Hall (HTML,PDF)
 * [Beyond the Basic Stuff with Python](https://inventwithpython.com/beyond/) - Al Sweigart (3.x)
 * [Biopython Tutorial and Cookbook](https://biopython.org/DIST/docs/tutorial/Tutorial.pdf) (PDF)
@@ -2183,7 +2184,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Advanced R Programming](http://adv-r.had.co.nz) - Hadley Wickham
 * [An Introduction to ggplot2](https://bookdown.org/ozancanozdemir/introduction-to-ggplot2) - Ozancan Ozdemir
 * [An Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.html) - David M. Smith, William N. Venables
-* [An Introduction to Statistical Learning with Applications in R](https://hastie.su.domains/ISLR2/ISLRv2_corrected_June_2023.pdf.view-in-google.html) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani (PDF)
+* [An Introduction to Statistical Learning with Applications in R](https://www.stat.berkeley.edu/~rabbee/s154/ISLR_First_Printing.pdf) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani (PDF)
 * [Behavior Analysis with Machine Learning Using R](https://enriquegit.github.io/behavior-free/) - Enrique Garcia Ceja (HTML) (CC BY-NC-ND)
 * [Beyond Multiple Linear Regression](https://bookdown.org/roback/bookdown-BeyondMLR) - Paul Roback, Julie Legler
 * [blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/) - Yihui Xie, Amber Thomas, Alison Presmanes Hill

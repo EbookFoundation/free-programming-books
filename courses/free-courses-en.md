@@ -940,6 +940,7 @@
 ### IDE and editors
 
 * [Vim As Your Editor](https://www.youtube.com/playlist?list=PLm323Lc7iSW_wuxqmKx_xxNtJC_hJbQ7R) - ThePrimeagen
+* [VIM Essentials Course for Beginners](https://youtu.be/JYNA9j8SXs4?si=YQa1uNUfJ3dFHyQo) - FreeCodeCamp
 
 
 ### Java

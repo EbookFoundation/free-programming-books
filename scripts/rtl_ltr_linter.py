@@ -247,21 +247,16 @@ def lint_file(path, cfg):
         # Skip lines that start a code block (```)
         if CODE_FENCE_START.match(line): continue
 
-        # Check for block-level directionality changes (e.g., <div dir="rtl">)
-        m_div_open = HTML_DIR_ATTR_RE.search(line)
-        
-        # If an opening <div dir="..." markdown="1"> tag is found
-        if m_div_open and 'markdown="1"' in line:
-            new_div_ctx = m_div_open.group(2).lower()   # Extract the new directionality context from the opening div tag
-            block_context_stack.append(new_div_ctx)     # Push the new directionality context onto the stack
-            continue                                    # Continue to the next line of the file
-        
-        # If a closing </div> tag is found and we are inside a div context
-        # (i.e., the stack has more than just the base file_direction_ctx)
-        if '</div>' in line and len(block_context_stack) > 1:
-            block_context_stack.pop()   # Pop the last directionality context from the stack
-            continue                    # Continue to the next line of the file
-        
+        # Corrected logic to handle all div tags on a single line
+        div_tags = re.findall(r"(<div[^>]*dir=['\"](rtl|ltr)['\"][^>]*>|</div>)", line, re.IGNORECASE)
+        for tag_tuple in div_tags:
+            tag, direction = tag_tuple
+            if tag.startswith('<div') and 'markdown="1"' in tag:
+                new_div_ctx = direction.lower()
+                block_context_stack.append(new_div_ctx)
+            elif tag == '</div>' and len(block_context_stack) > 1:
+                block_context_stack.pop()
+
         # Check if the line is a Markdown list item
         list_item = LIST_ITEM_RE.match(line)
 
@@ -388,10 +383,16 @@ def lint_file(path, cfg):
                     issues.append(
                         f"::{sev['pure_ltr'].lower()} file={path},line={idx}::Pure LTR text '{s}' in {part} of RTL context may need trailing '&rlm;' marker."
                     )
+    
+    # Check for unclosed div tags at the end of the file
+    if len(block_context_stack) > 1:
+        issues.append(
+            f"::error file={path},line={len(lines)}::Found unclosed <div dir='...'> tag. "
+            f"The final block context is '{block_context_stack[-1]}', not the file's base '{file_direction_ctx}'."
+        )
 
     # Return the list of found issues
     return issues
-
 
 def get_changed_lines_for_file(filepath):
     """

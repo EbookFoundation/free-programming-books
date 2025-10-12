@@ -1,15 +1,29 @@
+# ==============================================================================
+# RTL (Right-to-Left) Configuration File
+# 
+# Purpose: Configure LTR (Left-to-Right) technical terms and symbols for proper
+#          display in RTL languages like Arabic, Hebrew, Urdu, Persian, etc.
+# 
+# This ensures programming terms maintain correct directionality in RTL content
+# ==============================================================================
+
 rtl_config:
-  # Common LTR keywords needing RLM in RTL context
+  # ==========================================================================
+  # COMMON LTR KEYWORDS NEEDING RLM IN RTL CONTEXT
+  # Programming languages, frameworks, tools, and technical terms that should
+  # always display left-to-right even in RTL text environments
+  # ==========================================================================
   ltr_keywords:
+    # 🌐 Programming Languages
     - HTML
     - HTML5
     - CSS
     - CSS3
-    - ES6
     - JavaScript
-    - PHP
+    - TypeScript
     - Python
     - Java
+    - PHP
     - Ruby
     - Perl
     - Swift
@@ -17,86 +31,209 @@ rtl_config:
     - Scala
     - Go
     - Rust
-    - SQL
-    - API
-    - SDK
-    - IDE
-    - JSON
-    - XML
-    - AJAX
-    - REST
-    - SOAP
-    - GraphQL
+    - C
+    - C#
+    - C++
+    - R
+    - Dart
+    - Lua
+    - Haskell
+    - Elixir
+    - Clojure
+    - F#
+    - Objective-C
+    - Assembly
+    - MATLAB
+    - Julia
+
+    # ⚡ Modern AI & ML Technologies
+    - ChatGPT
+    - OpenAI
+    - GPT-4
+    - GPT-3
+    - DALL-E
+    - Midjourney
+    - StableDiffusion
+    - TensorFlow
+    - PyTorch
+    - Keras
+    - Scikit-learn
+    - MachineLearning
+    - DeepLearning
+    - ArtificialIntelligence
+    - NeuralNetworks
+    - ComputerVision
+    - NLP
+    - DataScience
+    - BigData
+    - Analytics
+
+    # 🚀 Web Frameworks & Libraries
+    - React
+    - React.js
+    - Angular
+    - AngularJS
+    - Vue
+    - Vue.js
+    - jQuery
+    - Svelte
+    - Next.js
+    - Nuxt.js
+    - Express.js
+    - Django
+    - Flask
+    - FastAPI
+    - Laravel
+    - Symfony
+    - Spring
+    - ASP.NET
+    - Ruby on Rails
+    - Phoenix
+    - Gatsby
+
+    # ☁️ Cloud & DevOps
+    - AWS
+    - Amazon Web Services
+    - Azure
+    - Microsoft Azure
+    - GCP
+    - Google Cloud
     - Docker
     - Kubernetes
-    - AWS
-    - Azure
-    - GCP
+    - Kubernetes
+    - Terraform
+    - Ansible
+    - Jenkins
+    - GitLab
+    - GitHub
+    - DevOps
+    - CI/CD
+    - Microservices
+    - Serverless
+    - CloudComputing
+    - Infrastructure as Code
+
+    # 💾 Databases
+    - MySQL
+    - PostgreSQL
+    - MongoDB
+    - SQLite
+    - Redis
+    - Elasticsearch
+    - Cassandra
+    - Oracle
+    - SQL
+    - NoSQL
+    - GraphQL
+    - Firebase
+    - Supabase
+
+    # 🛠️ Tools & Platforms
     - Git
     - GitHub
+    - GitLab
+    - Bitbucket
+    - VS Code
+    - Visual Studio Code
+    - IntelliJ
+    - WebStorm
+    - PyCharm
+    - Android Studio
+    - Xcode
+    - Sublime Text
+    - Vim
+    - Neovim
+    - Emacs
     - Linux
     - Unix
     - macOS
     - Windows
     - Android
     - iOS
-    - React
-    - Angular
-    - Vue
-    - jQuery
-    - Svelte
-    - Bash
-    - Zsh
-    - Vim
-    - Bootstrap
-    - Sass
-    - LESS
-    - TypeScript
-    - CoffeeScript
-    - WordPress
-    - Drupal
-    - Joomla
-    - Django
-    - Flask
-    - Laravel
-    - Symfony
-    - Spring
-    - Gatsby
-    - OpenGL
-    - DirectX
-    - Unity
-    - Unreal Engine
-    - TensorFlow
-    - PyTorch
-    - Keras
+    - Arduino
+    - Raspberry Pi
+
+    # 📊 Data & Analytics
     - Pandas
     - NumPy
     - SciPy
     - Matplotlib
-    - Arduino
-    - Raspberry Pi
-    - Scratch
-    - PostgreSQL
-    - MySQL
-    - MongoDB
-    - SQLite
-    - Oracle
-    - DB
-    - DBMS
-    - OS
+    - Seaborn
+    - Plotly
+    - Tableau
+    - PowerBI
+    - Excel
+    - Jupyter
+    - Colab
+
+    # 🔗 Protocols & Formats
+    - JSON
+    - XML
+    - YAML
+    - CSV
+    - API
+    - REST
+    - SOAP
+    - GraphQL
+    - WebSocket
+    - HTTP
+    - HTTPS
+    - SSL
+    - TLS
+    - SSH
+    - FTP
+
+    # 🎮 Gaming & Graphics
+    - Unity
+    - Unreal Engine
+    - OpenGL
+    - DirectX
+    - Vulkan
+    - WebGL
+    - Blender
+    - Maya
+    - Photoshop
+    - Illustrator
+
+    # 🔐 Security
+    - OAuth
+    - JWT
+    - SSL
+    - TLS
+    - Cryptography
+    - Blockchain
+    - Web3
+    - NFT
+    - Cryptocurrency
+    - Bitcoin
+    - Ethereum
+    - Smart Contracts
+
+    # 📱 Mobile & Desktop
+    - React Native
+    - Flutter
+    - Ionic
+    - Electron
+    - Cordova
+    - Xamarin
+
+    # 🏗️ Architecture & Methods
     - MVC
+    - MVVM
     - OOP
-    - DevOps
+    - Functional Programming
     - Agile
     - Scrum
-    - Emacs
-    - IntelliJ
-    - PowerShell
-    - VS Code
-    - Sublime Text
-    - AngularJS
+    - Kanban
+    - Waterfall
+    - TDD
+    - BDD
+    - DDD
 
-  # LTR symbols/patterns needing LRM in RTL context.
+  # ==========================================================================
+  # LTR SYMBOLS/PATTERNS NEEDING LRM IN RTL CONTEXT
+  # Technical symbols and compound terms with special characters
+  # ==========================================================================
   ltr_symbols:
     - C#
     - C++
@@ -112,20 +249,50 @@ rtl_config:
     - Objective-C
     - CI/CD
 
-  # Regex pattern for identifying pure LTR text segments
+  # ==========================================================================
+  # REGEX PATTERNS FOR TEXT DIRECTION DETECTION
+  # ==========================================================================
+  
+  # Regex pattern for identifying pure LTR (Latin script) text segments
   pure_ltr_pattern: "^[\\u0000-\\u007F]+$"
 
   # Regex pattern for identifying RTL characters
+  # Includes Arabic, Hebrew, Syriac, Thaana, NKo, Samaritan, Mandaic scripts
   rtl_chars_pattern: "[\\u0590-\\u08FF]"
 
-  # HTML directional markers to be recognised
-  rlm_entities: ['&rlm;', '&#x200F;', '&#8207;']
-  lrm_entities: ['&lrm;', '&#x200E;', '&#8206;']
+  # ==========================================================================
+  # HTML DIRECTIONAL MARKERS AND ENTITIES
+  # Unicode directional formatting characters for HTML content
+  # ==========================================================================
+  
+  # Right-to-Left Mark (RLM) entities
+  rlm_entities: 
+    - '&rlm;'
+    - '&#x200F;'
+    - '&#8207;'
 
-  # Severity levels for different issue types
+  # Left-to-Right Mark (LRM) entities  
+  lrm_entities: 
+    - '&lrm;'
+    - '&#x200E;'
+    - '&#8206;'
+
+  # ==========================================================================
+  # SEVERITY LEVELS FOR DIFFERENT ISSUE TYPES
+  # Controls how strictly different RTL/LTR issues are reported
+  # ==========================================================================
   severity:
+    # Error: Critical directionality mismatches
     bidi_mismatch: error
+    
+    # Warning: LTR keywords in RTL context
     keyword: warning
+    
+    # Warning: LTR symbols in RTL context  
     symbol: warning
+    
+    # Notice: Pure LTR segments in RTL content
     pure_ltr: notice
+    
+    # Notice: Author metadata issues
     author_meta: notice

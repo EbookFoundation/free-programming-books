@@ -72,10 +72,10 @@
 
 * [Breve storia dell'informatica](http://apav.it/informatica_file1.pdf) - F. Eugeni (PDF)
 * [Corso di storia dell'informatica](http://nid.dimi.uniud.it/computing_history/computing_history.html) - C. Bonfanti, P. Giangrandi (PDF)
+* [Guida pratica all'uso delle Intelligenze Artificiali](https://github.com/matteobaccan/CorsoAIBook) - M. Baccan, D. Ferrero (MD, PDF)
 * [La storia dell'informatica in Mondo Digitale](http://www.aicanet.it/storia-informatica/storia-dell-informatica-in-mondo-digitale) (PDF)
 * [STI: il corso di storia dell'Informatica](https://www.progettohmr.it/Corso/) - G.A. Cignoni (PDF)
 * [Storia dell'informatica](http://www.dsi.unive.it/~pelillo/Didattica/Storia%20dell'informatica/) - M. Pelillo (PDF)
-* [Guida pratica all'uso delle Intelligenze Artificiali](https://github.com/matteobaccan/CorsoAIBook) - M. Baccan, D. Ferrero (MD, PDF)
 
 
 ### Android

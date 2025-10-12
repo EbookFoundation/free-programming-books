@@ -472,6 +472,7 @@
 * [Base R Cheatsheet](https://iqss.github.io/dss-workshops/R/Rintro/base-r-cheat-sheet.pdf) - Mhairi McNeill (PDF)
 * [Cheat Sheet for R and RStudio](https://www.ocf.berkeley.edu/~janastas/docs/RStudioCheatSheet.pdf) - L. Jason Anastasopoulos (PDF)
 * [Colors in R](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf) - Ying Wei  (PDF)
+* [Data transformation with dplyr - Cheat sheet](https://posit.co/wp-content/uploads/2022/10/data-transformation-1.pdf) - Posit (PDF)
 * [R color cheatsheet](https://www.nceas.ucsb.edu/sites/default/files/2020-04/colorPaletteCheatsheet.pdf) - Melanie Frazier (PDF)
 
 

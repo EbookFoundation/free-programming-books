@@ -405,7 +405,7 @@
 ### Powershell
 
 * [Powershell 7.0 - Quick References](https://practicalpowershell.com/wp-content/uploads/2020/04/PowerShellQuickReference-PowerShell7.0-v1.03.pdf) - PracticalPowershell (PDF)
-* [SANS Powershell Cheatsheet - SANS](https://wiki.sans.blue/Tools/pdfs/PowerShell.pdf) - SANS (PDF)
+* [SANS Powershell Cheatsheet](https://wiki.sans.blue/Tools/pdfs/PowerShell.pdf) - SANS (PDF)
 
 
 ### Python

@@ -68,6 +68,7 @@
 
 * [Εισαγωγή στην Επιχειρησιακή Έρευνα και στον Γραμμικό Προγραμματισμό](https://repository.kallipos.gr/handle/11419/5699) Κωνσταντίνος Κουνετάς, Νικόλαος Χατζησταμούλου (EPUB, PDF) (CC BY-NC-SA)
 * [Εισαγωγή στον προγραμματισμό και στη στατιστική ανάλυση με R](https://repository.kallipos.gr/handle/11419/2601) Ιωάννης Ντζούφρας, Δημήτριος Καρλής (EPUB, PDF) (CC BY-NC-SA)
+* [Προγραμματισμός σε R](https://repository.kallipos.gr/handle/11419/8588) Βασίλης Νικολαΐδης (PDF) (CC BY-NC-SA)
 
 
 ### Scala

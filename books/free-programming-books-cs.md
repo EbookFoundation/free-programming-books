@@ -31,6 +31,10 @@
 
 * [Bash očima Bohdana Milara](http://i.iinfo.cz/files/root/k/bash_ocima_bohdana_milara.pdf) (PDF)
 
+### C
+
+* [The C Programming Language](https://www.learn-c.org/) - Brian W. Kernighan, Dennis M. Ritchie (HTML) (CC BY)
+  
 
 ### <a id="csharp"></a>C\#
 

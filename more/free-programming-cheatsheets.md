@@ -165,6 +165,7 @@
 * [Docker Cheatsheet: Docker commands that developers should know](https://vishnuch.tech/docker-cheatsheet) - Vishnu Chilamakuru (HTML)
 * [Docker CLI \& Dockerfile Cheat Sheet](https://web.archive.org/web/20210909015922/https://design.jboss.org/redhatdeveloper/marketing/docker_cheatsheet/cheatsheet/images/docker_cheatsheet_r3v2.pdf) - Bachir Chihani, Rafael Benevides, Red Hat Developers (PDF) *( :card_file_box: archived)*
 * [Docker CLI cheatsheet](https://devhints.io/docker) - DevHints, Rico Santa Cruz (HTML)
+* [Docker Compose Cheatsheet](https://devhints.io/docker-compose) - DevHints (HTML)
 * [Docker Free Cheatsheet](https://cheatsheet.dennyzhang.com/cheatsheet-docker-a4) - Denny Zhang (HTML, PDF)
 * [Docker Security Best Practices & Cheat Sheet](https://blog.gitguardian.com/how-to-improve-your-docker-containers-security-cheat-sheet/) - Thomas Segura, GitGuardian (HTML, PDF)
 * [Docker Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html) - OWASP Cheat Sheet Series (HTML)

@@ -943,6 +943,7 @@
 * [Vim As Your Editor](https://www.youtube.com/playlist?list=PLm323Lc7iSW_wuxqmKx_xxNtJC_hJbQ7R) - ThePrimeagen
 * [VIM Essentials Course for Beginners](https://youtu.be/JYNA9j8SXs4?si=YQa1uNUfJ3dFHyQo) - FreeCodeCamp
 
+
 ### Java
 
 * [Advanced Software Construction in Java](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.2x+1T2017/about) - MIT Open Learning Library

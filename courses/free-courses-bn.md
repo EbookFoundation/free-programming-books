@@ -32,6 +32,7 @@
 * [Operating Systems](#operating-systems)
 * [PHP](#php)
     * [Laravel](#laravel)
+* [PostgreSQL](#postgresql)
 * [Programming paradigms](#programming-paradigms)
 * [Python](#python)
     * [Django](#django)
@@ -305,6 +306,11 @@
 
 * [laravel 10 bangla tutorial latest version \| laravel basic to advanced from official documentation](https://www.youtube.com/playlist?list=PLbC4KRSNcMnrY78JyoI8c0pk-reuSw8ff) - Learn Hunter
 * [Laravel Queue Tutorial \| Basic to Advanced ](https://www.youtube.com/playlist?list=PLVWmHBgSb-u8slYKd7B1dM4HpGwRX6B1X) - Programming with CodeSteps
+
+
+### PostgreSQL
+
+* [PostgreSQL Full Course In Bangla 2025](https://www.youtube.com/playlist?list=PLnAO8EqszeI_OihleIZQf_Nz2jx8J7fa5) - Nexist
 
 
 ### Programming paradigms

@@ -40,6 +40,7 @@
 * [Octave](#octave)
 * [Perl](#perl)
 * [PHP](#php)
+* [Powershell](#powershell)
 * [Python](#python)
     * [Django](#django)
     * [FastAPI](#fastapi)
@@ -399,6 +400,11 @@
 * [PHP Cheat Sheet](https://websitesetup.org/php-cheat-sheet/) - Nick Schäferhoff, WebsiteSetup (HTML, [PDF](https://websitesetup.org/wp-content/uploads/2020/09/PHP-Cheat-Sheet.pdf))
 * [PHP Cheat Sheet](https://overapi.com/php) - OverAPI
 * [PHP Cheat Sheet - 2021 Edition](https://www.quickstart.com/blog/php-cheat-sheet/) - Zsolt Nagy (HTML)
+
+
+### Powershell
+
+* [Powershell 7.0 - Quick References - PracticalPowershell](https://practicalpowershell.com/wp-content/uploads/2020/04/PowerShellQuickReference-PowerShell7.0-v1.03.pdf) - PracticalPowershell (PDF)
 
 
 ### Python

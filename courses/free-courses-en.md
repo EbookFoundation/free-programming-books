@@ -1623,6 +1623,7 @@
 * [Flask Fridays](https://www.youtube.com/playlist?list=PLCC34OHNcOtolz2Vd9ZSeSXWc8Bq23yEz) - Codemy.com
 * [Flask Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH) - Corey Schafer
 * [Flask Tutorials](https://www.youtube.com/playlist?list=PLzMcBGfZo4-n4vJJybUVV3Un_NFS5EOgX) - Tech with Tim
+* [Web Development with Python and Flask](https://jovian.com/learn/web-development-with-python-and-flask) - Jovian
 
 
 #### Jupyter
@@ -1854,6 +1855,7 @@
 * [Web Development Tutorials for Beginners](https://www.youtube.com/playlist?list=PLoYCgNOIyGAB_8_iq1cL8MVeun7cB6eNc) - LearnCode.academy
 * [Web Information Retrieval](https://www.youtube.com/playlist?list=PLAQopGWlIcya-9yzQ8c8UtPOuCv0mFZkr) - L. Becchetti, A. Vitaletti (University of Sapienza Rome)
 * [Web Programming](https://open.cs.uwaterloo.ca/web-programming/) - Centre for Education in Math and Computing (University of Waterloo)
+* [Web Development with Python and Flask](https://jovian.com/learn/web-development-with-python-and-flask) - Jovian
 
 
 ### Web3

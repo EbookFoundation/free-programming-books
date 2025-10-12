@@ -47,6 +47,7 @@
     * [Jupyter](#jupyter)
     * [Numpy Pandas](#numpy-pandas)
     * [PySpark](#pyspark)
+    * [PyTorch](#pytorch)
 * [R](#r)
 * [Raspberry Pi](#raspberry-pi)
 * [Ruby](#ruby)
@@ -386,13 +387,6 @@
 * [Perl Reference card](https://michaelgoerz.net/refcards/perl_refcard.pdf) (PDF)
 
 
-### PyTorch
-
-* [Deep Learning with PyTorch Cheat Sheet](https://www.datacamp.com/cheat-sheet/deep-learning-with-py-torch) - Richie Cotton (HTML)
-* [PyTorch Framework Cheat Sheet](https://www.simonwenkel.com/publications/cheatsheets/pdf/cheatsheet_pytorch.pdf) - Simon Wenkel (PDF)
-* [PyTorch Official Cheat Sheet](https://pytorch.org/tutorials/beginner/ptcheat.html) - PyTorch (HTML)
-
-
 ### PHP
 
 * [PHP Cheat Sheet](https://www.codewithharry.com/blogpost/php-cheatsheet/) - CodeWithHarry (HTML)
@@ -464,6 +458,13 @@
 
 * [PySpark Cheat Sheet](https://github.com/kevinschaich/pyspark-cheatsheet) - Kevin Schaich (HTML)
 * [PySpark Cheat Sheet: Spark in Python](https://www.datacamp.com/cheat-sheet/pyspark-cheat-sheet-spark-in-python) - DataCamp (HTML)
+
+
+### PyTorch
+
+* [Deep Learning with PyTorch Cheat Sheet](https://www.datacamp.com/cheat-sheet/deep-learning-with-py-torch) - Richie Cotton (HTML)
+* [PyTorch Framework Cheat Sheet](https://www.simonwenkel.com/publications/cheatsheets/pdf/cheatsheet_pytorch.pdf) - Simon Wenkel (PDF)
+* [PyTorch Official Cheat Sheet](https://pytorch.org/tutorials/beginner/ptcheat.html) - PyTorch (HTML)
 
 
 ### R

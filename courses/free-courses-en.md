@@ -940,8 +940,8 @@
 ### IDE and editors
 
 * [Getting Started with Visual Studio Code](https://www.youtube.com/playlist?list=PLj6YeMhvp2S5UgiQnBfvD7XgOMKs3O_G6) - Visual Studio Code
-* [VIM Essentials Course for Beginners](https://youtu.be/JYNA9j8SXs4?si=YQa1uNUfJ3dFHyQo) - FreeCodeCamp
 * [Vim As Your Editor](https://www.youtube.com/playlist?list=PLm323Lc7iSW_wuxqmKx_xxNtJC_hJbQ7R) - ThePrimeagen
+* [VIM Essentials Course for Beginners](https://youtu.be/JYNA9j8SXs4?si=YQa1uNUfJ3dFHyQo) - FreeCodeCamp
 
 ### Java
 

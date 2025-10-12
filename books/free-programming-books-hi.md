@@ -74,25 +74,20 @@
 * [Python Notes \| Hindi](https://ehindistudy.com/2022/10/12/python-pdf-notes-hindi/) - Yugal Joshi (HTML) *( :construction: in process)*
 * [Python Tutorial in Hindi (Full Python Course) \| Hindi](https://www.tutorialinhindi.com/wp-content/uploads/2022/01/Python-Tutorial-in-Hindi-Full-Python-Course-FREE-PDF.pdf) - TutorialInHindi.com (PDF)
 
-### Online Courses and Tutorials (Hindi)
+### Online Courses (Hindi)
 
-- [CodeWithHarry - Complete Programming Courses](https://www.codewithharry.com) - Python, Web Development, Java in Hindi
-- [FreeCodeCamp Hindi](https://www.freecodecamp.org/hindi/) - Complete web development curriculum in Hindi
-- [GeekyShows - Python Tutorials](https://www.geekyshows.com) - Python programming from basics to advanced in Hindi
-- [MySirG.com - C/C++/Java Courses](https://www.mysirg.com) - Programming fundamentals in Hindi
-- [Great Learning - Python in Hindi](https://www.mygreatlearning.com) - Free Python courses with certificates
-- [Coursera Hindi Courses](https://www.coursera.org) - Select Hindi subtitles available
+* [CodeWithHarry](https://www.codewithharry.com) - Programming courses in Hindi
+* [FreeCodeCamp Hindi](https://www.freecodecamp.org/hindi/) - Web development in Hindi
+* [GeekyShows](https://www.geekyshows.com) - Python tutorials in Hindi
 
-### YouTube Channels (Hindi Programming)
+### Practice Platforms
 
-- [CodeWithHarry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww) - Complete programming tutorials in Hindi
-- [Technical Suneja](https://www.youtube.com/c/TechnicalSuneja) - Web development and programming tutorials
-- [Geeky Shows](https://www.youtube.com/c/GeekyShows) - Python and Django tutorials in Hindi
-- [Thapa Technical](https://www.youtube.com/c/ThapaTechnical) - Web development in Hindi
-- [Harshit Vashisth](https://www.youtube.com/c/HarshitVashisth) - Python and Django tutorials
+* [CodeChef](https://www.codechef.com) - Competitive programming in Hindi
+* [HackerRank](https://www.hackerrank.com) - Coding practice with Hindi interface
+* [LeetCode](https://leetcode.com) - Algorithm practice problems
 
-### Practice Platforms (Hindi Support)
+### YouTube Channels
 
-- [HackerRank](https://www.hackerrank.com) - Coding practice with Hindi interface
-- [LeetCode](https://leetcode.com) - Algorithm practice problems
-- [CodeChef](https://www.codechef.com) - Competitive programming in Hindi
+* [CodeWithHarry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww) - Programming tutorials in Hindi
+* [Geeky Shows](https://www.youtube.com/c/GeekyShows) - Python tutorials in Hindi
+* [Technical Suneja](https://www.youtube.com/c/TechnicalSuneja) - Web development tutorials

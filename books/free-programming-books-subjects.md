@@ -30,6 +30,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Machine Learning](#machine-learning)
 * [Mathematics](#mathematics)
   * [Algebra](#algebra)
+  * [Calculus](#calculus)
   * [Mathematics For Computer Science](#mathematics-for-computer-science)
 * [Misc](#misc)
 * [Networking](#networking)
@@ -434,6 +435,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) - Christoph Molnar
 * [Introduction to CNTK Succinctly](https://www.syncfusion.com/ebooks/cntk_succinctly) - James McCaffrey
 * [Introduction to Machine Learning](https://arxiv.org/abs/0904.3664v1) - Amnon Shashua
+* [Introduction to Machine Learning Systems](https://www.mlsysbook.ai/assets/downloads/Machine-Learning-Systems.pdf) - Vijay Janapa Reddi (PDF)
 * [Keras Succinctly](https://www.syncfusion.com/ebooks/keras-succinctly) - James McCaffrey
 * [Learn Tensorflow](https://bitbucket.org/hrojas/learn-tensorflow) - Jupyter Notebooks
 * [Learning Deep Architectures for AI](https://mila.quebec/wp-content/uploads/2019/08/TR1312.pdf) - Yoshua Bengio (PDF)
@@ -449,6 +451,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Neural Network Design (2nd Edition)](https://hagan.okstate.edu/NNDesign.pdf) - Martin T. Hagan, Howard B. Demuth, Mark H. Beale, Orlando De Jesús (PDF)
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
 * [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) - Christopher M. Bishop (PDF)
+* [Patterns, Predictions, And Actions: A story about machine learning](https://mlstory.org/pdf/patterns.pdf) - Moritz Hardt,  Benjamin Recht (PDF)
 * [Practitioners guide to MLOps](https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf) - Khalid Samala, Jarek Kazmierczak, Donna Schut (PDF)
 * [Probabilistic Machine Learning - An Introduction](https://github.com/probml/pml-book/releases/latest/download/book1.pdf) - Kevin P. Murphy (PDF)
 * [Probabilistic Models in the Study of Language](https://idiom.ucsd.edu/~rlevy/pmsl_textbook/text.html) (Draft, with R code)
@@ -474,29 +477,16 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [A Friendly Introduction to Mathematical Logic](https://milneopentextbooks.org/a-friendly-introduction-to-mathematical-logic/) - Christopher C. Leary, Lars Kristiansen
 * [A Gentle Introduction to the Art of Mathematics](https://osj1961.github.io/giam/) - Joseph E. Fields
 * [A Programmer's Introduction to Mathematics](https://pimbook.org) - Jeremy Kun
-* [Active Calculus](https://scholarworks.gvsu.edu/books/20/) - Matt Boelkins
 * [An Infinite Descent into Pure Mathematics](https://infinitedescent.xyz/dl/infdesc.pdf) - Clive Newstead (PDF)
 * [An Introduction to the Theory of Numbers](http://www.trillia.com/moser-number.html) - Leo Moser (PDF)
 * [Analytic Geometry (1922)](http://djm.cc/library/Analytic_Geometry_Siceloff_Wentworth_Smith_edited.pdf) - Lewis Parker Siceloff, George Wentworth, David Eugene Smith (PDF)
-* [APEX Calculus](https://www.apexcalculus.com) - Gregory Hartman, Brian Heinold, Troy Siemers, and Dimplekumar Chalishajar
 * [Applied Combinatorics](https://rellek.net/book/app-comb.html) - Mitchel T. Keller, William T. Trotter
 * [Applied Discrete Structures](https://faculty.uml.edu/klevasseur/ads2/) - Alan Doerr, Kenneth Levasseur
 * [Basic Analysis: Introduction to Real Analysis](https://www.jirka.org/ra/) - Jiří Lebl
 * [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - Cameron Davidson-Pilon
 * [Book of Proof](https://www.people.vcu.edu/~rhammack/BookOfProof/) - Richard Hammack [(PDF)](https://www.people.vcu.edu/~rhammack/BookOfProof/Main.pdf)
-* [Calculus](https://ocw.mit.edu/courses/res-18-001-calculus-fall-2023/pages/textbook/) - Gilbert Strang (PDF)
-* [Calculus I](https://resolver.caltech.edu/CaltechBOOK:1985.001) - Jerrold E. Marsden, Alan Weinstein
-* [Calculus in Context](http://www.math.smith.edu/~callahan/intromine.html) - James Callahan
-* [Calculus Made Easy](https://www.gutenberg.org/ebooks/33283) - Silvanus P. Thompson (PDF)
-* [Calculus Volume 1](https://openstax.org/details/books/calculus-volume-1) - Edwin Herman, Gilbert Strang (PDF)
-* [Calculus Volume 2](https://openstax.org/details/books/calculus-volume-2) - Edwin Herman, Gilbert Strang (PDF)
-* [Calculus Volume 3](https://openstax.org/details/books/calculus-volume-3) - Edwin Herman, Gilbert Strang (PDF)
 * [Category Theory for the Sciences](https://math.mit.edu/~dspivak/CT4S.pdf) - David I. Spivak (PDF)
 * [CK-12 Probability and Statistics - Advanced](https://www.ck12.org/book/Probability-and-Statistics---Advanced-%2528Second-Edition%2529/)
-* [CLP-1 Differential Calculus](https://www.math.ubc.ca/~CLP/CLP1/) - Joel Feldman, Andrew Rechnitzer, Elyse Yeager
-* [CLP-2 Integral Calculus](https://www.math.ubc.ca/~CLP/CLP2/) - Joel Feldman, Andrew Rechnitzer, Elyse Yeager
-* [CLP-3 Multivariable Calculus](https://www.math.ubc.ca/~CLP/CLP3/) - Joel Feldman, Andrew Rechnitzer, Elyse Yeager
-* [CLP-4 Vector Calculus](https://www.math.ubc.ca/~CLP/CLP4/) - Joel Feldman, Andrew Rechnitzer, Elyse Yeager
 * [Collaborative Statistics](https://cnx.org/contents/5e0744f9-9e79-4348-9237-ed012213a2d6%4040.9)
 * [College Trigonometry](https://open.umn.edu/opentextbooks/textbooks/college-trigonometry) - Carl Stitz, Jeff Zeager (PDF)
 * [Combinatorics Through Guided Discovery](https://bogart.openmathbooks.org) - Kenneth Bogart
@@ -515,7 +505,6 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Elementary Differential Equations (with Boundary Value Problems)](https://digitalcommons.trinity.edu/mono/9/) - William F. Trench
 * [Elementary Number Theory: Primes, Congruences, and Secrets](https://wstein.org/ent/) - William Stein
 * [Elementary Real Analysis](https://www.classicalrealanalysis.info/com/Elementary-Real-Analysis.php) - Brian S. Thomson, Judith B. Bruckner, Andrew M. Bruckner
-* [Elements of Differential and Integral Calculus (1911)](http://djm.cc/library/Elements_Differential_Integral_Calculus_Granville_edited_2.pdf) - William Anthony Granville (PDF)
 * [Essentials of Metaheuristics](https://cs.gmu.edu/~sean/book/metaheuristics/) - Sean Luke
 * [Foundations of Combinatorics with Applications](https://www.math.ucsd.edu/~ebender/CombText/) - Edward A. Bender, S. Gill Williamson
 * [Foundations of Constructive Probability Theory](https://arxiv.org/pdf/1906.01803.pdf) - Yuen-Kwok Chan (PDF)
@@ -541,7 +530,6 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Mathematical Logic - an Introduction](https://www.ii.uib.no/~michal/und/i227/book/book.pdf) (PDF)
 * [Mathematical Reasoning: Writing and Proof](https://www.tedsundstrom.com/mathematical-reasoning-3) - Ted Sundstrom
 * [Mathematics, MTH101A](https://home.iitk.ac.in/~psraj/mth101/) - P. Shunmugaraj, IIT Kanpur
-* [Multivariable Calculus](https://people.math.gatech.edu/~cain/notes/calculus.html) - George Cain, James Herod
 * [Non-Uniform Random Variate Generation](http://luc.devroye.org/rnbookindex.html) - Luc Devroye (PDF)
 * [Notes on Diffy Qs](https://www.jirka.org/diffyqs/) - Jiří Lebl
 * [Number Theory](https://github.com/holdenlee/number-theory) - Holden Lee MIT
@@ -552,7 +540,6 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Ordinary Differential Equations](https://en.wikibooks.org/wiki/Ordinary_Differential_Equations) - Wikibooks
 * [Plane Geometry (1913)](http://djm.cc/library/Plane_Geometry_Wentworth_Smith_edited.pdf) - George Wentworth, David Eugene Smith (PDF)
 * [Planes and Spherical Trigonometry (1915)](http://djm.cc/library/Plane_Spherical_Trigonometry_Wentworth_Smith_edited_2.pdf) - George Wentworth, David Eugene Smith (PDF)
-* [Precalculus](https://stitz-zeager.com) - Carl Stitz, Jeff Zeager [(PDF)](https://stitz-zeager.com/szprecalculus07042013.pdf)
 * [Probability and Statistics Cookbook](http://statistics.zone)
 * [Probability and Statistics EBook](http://wiki.stat.ucla.edu/socr/index.php/Probability_and_statistics_EBook)
 * [Probability: Lectures and Labs](https://www.markhuberdatascience.org/probability-textbook) - Mark Huber
@@ -567,7 +554,6 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [The Open Logic Text](https://builds.openlogicproject.org/open-logic-complete.pdf) - Open Logic Project (PDF)
 * [Think Bayes: Bayesian Statistics Made Simple](https://www.greenteapress.com/thinkbayes/) - Allen B. Downey
 * [Think Stats: Probability and Statistics for Programmers](https://greenteapress.com/thinkstats/) - Allen B. Downey (using Python)
-* [Vector Calculus](https://www.mecmath.net) - Michael Corral
 * [Yet Another Introductory Number Theory Textbook](https://www.poritz.net/jonathan/share/yaintt.pdf) - Jonathan A. Poritz (PDF)
 
 
@@ -598,6 +584,29 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [ORCCA: Open Resources for Community College Algebra](https://spaces.pcc.edu/pages/viewpage.action?pageId=52729944) - Portland Community College
 * [Paul's Online Notes: Algebra, Calculus I-III and Differential Equations](https://tutorial.math.lamar.edu) - Paul Dawkins @ Lamar University
 * [Second Course in Algebra](http://djm.cc/library/Second_Algebra_Hawkes_Luby_Touton_edited.pdf) - Herbert E. Hawkes, William A. Luby, Frank C. Touton (PDF)
+
+
+#### Calculus
+
+* [Active Calculus](https://scholarworks.gvsu.edu/books/20/) - Matt Boelkins
+* [APEX Calculus](https://www.apexcalculus.com) - Gregory Hartman, Brian Heinold, Troy Siemers, and Dimplekumar Chalishajar
+* [Basics of Algebra, Topology, and Differential Calculus](https://www.cis.upenn.edu/~jean/math-basics.pdf) (PDF)
+* [Calculus](https://ocw.mit.edu/courses/res-18-001-calculus-fall-2023/pages/textbook/) - Gilbert Strang (PDF)
+* [Calculus I](https://resolver.caltech.edu/CaltechBOOK:1985.001) - Jerrold E. Marsden, Alan Weinstein
+* [Calculus in Context](http://www.math.smith.edu/~callahan/intromine.html) - James Callahan
+* [Calculus Made Easy](https://www.gutenberg.org/ebooks/33283) - Silvanus P. Thompson (PDF)
+* [Calculus Volume 1](https://openstax.org/details/books/calculus-volume-1) - Edwin Herman, Gilbert Strang (PDF)
+* [Calculus Volume 2](https://openstax.org/details/books/calculus-volume-2) - Edwin Herman, Gilbert Strang (PDF)
+* [Calculus Volume 3](https://openstax.org/details/books/calculus-volume-3) - Edwin Herman, Gilbert Strang (PDF)
+* [CLP-1 Differential Calculus](https://www.math.ubc.ca/~CLP/CLP1/) - Joel Feldman, Andrew Rechnitzer, Elyse Yeager
+* [CLP-2 Integral Calculus](https://www.math.ubc.ca/~CLP/CLP2/) - Joel Feldman, Andrew Rechnitzer, Elyse Yeager
+* [CLP-3 Multivariable Calculus](https://www.math.ubc.ca/~CLP/CLP3/) - Joel Feldman, Andrew Rechnitzer, Elyse Yeager
+* [CLP-4 Vector Calculus](https://www.math.ubc.ca/~CLP/CLP4/) - Joel Feldman, Andrew Rechnitzer, Elyse Yeager
+* [Elements of Differential and Integral Calculus (1911)](http://djm.cc/library/Elements_Differential_Integral_Calculus_Granville_edited_2.pdf) - William Anthony Granville (PDF)
+* [Multivariable Calculus](https://people.math.gatech.edu/~cain/notes/calculus.html) - George Cain, James Herod
+* [Paul's Online Notes: Algebra, Calculus I-III and Differential Equations](https://tutorial.math.lamar.edu) - Paul Dawkins @ Lamar University
+* [Precalculus](https://stitz-zeager.com) - Carl Stitz, Jeff Zeager [(PDF)](https://stitz-zeager.com/szprecalculus07042013.pdf)
+* [Vector Calculus](https://www.mecmath.net) - Michael Corral
 
 
 #### Mathematics For Computer Science
@@ -842,7 +851,7 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Prompt Engineering
 
 * [DALLE-E 2 prompt book](https://dallery.gallery/wp-content/uploads/2022/07/The-DALL%C2%B7E-2-prompt-book.pdf) - Dallery.Gallery, Guy Parson (PDF)
-* [Guide to Prompt Engineering](https://codeahoy.com/learn/promptengineering/toc) - CodeAhoy (HTML)
+* [Guide to Prompt Engineering](https://web.archive.org/web/20241107021929/https://codeahoy.com/learn/promptengineering/toc/) - CodeAhoy (HTML) *( :card_file_box: archived)*
 * [LLM Prompt Engineering Simplified Book](https://github.com/AkmmusAI/LLM-Prompt-Engineering-Simplified-Book) - Katikapalli Subramanyam Kalyan (GitHub)
 * [Prompt Engineering](https://www.innopreneur.io/wp-content/uploads/2025/04/22365_3_Prompt-Engineering_v7-1.pdf) - Lee Boonstra (PDF)
 * [Prompt Engineering Guide](https://learnprompting.org/docs/introduction) - LearnPrompting (HTML)

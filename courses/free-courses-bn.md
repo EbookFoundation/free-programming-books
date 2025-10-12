@@ -304,6 +304,7 @@
 #### Laravel
 
 * [laravel 10 bangla tutorial latest version \| laravel basic to advanced from official documentation](https://www.youtube.com/playlist?list=PLbC4KRSNcMnrY78JyoI8c0pk-reuSw8ff) - Learn Hunter
+* [Laravel Queue Tutorial \| Basic to Advanced ](https://www.youtube.com/playlist?list=PLVWmHBgSb-u8slYKd7B1dM4HpGwRX6B1X) - Programming with CodeSteps
 
 
 ### Programming paradigms

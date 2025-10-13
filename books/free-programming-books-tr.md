@@ -155,6 +155,7 @@
 #### Flask
 
 * [Temelden İleriye Türkçe Flask Dersleri](https://kerteriz.net/temelden-ileriye-turkce-flask-dersleri) - İsmet BALAT - Python3
+  
 
 ### R
 

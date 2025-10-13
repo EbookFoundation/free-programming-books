@@ -297,8 +297,8 @@
 
 ### Operating Systems
 
-* [Operating System (OS) Bangla Tutorial (কমপ্লিট কোর্স)](https://www.youtube.com/playlist?list=PLncy2sD7w4Yr3ZbiP_ipAjgjDRn86N_tT) - Lecturelia - CSE Bangla Tutorial
 * [Operating System](https://www.youtube.com/playlist?list=PLgrAmbRAezujiknEO3sqpyCC4K3IgS4KU) - Farhan Hossan
+* [Operating System (OS) Bangla Tutorial (কমপ্লিট কোর্স)](https://www.youtube.com/playlist?list=PLncy2sD7w4Yr3ZbiP_ipAjgjDRn86N_tT) - Lecturelia - CSE Bangla Tutorial
 
 
 ### PHP

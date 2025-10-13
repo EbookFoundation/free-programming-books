@@ -20,6 +20,7 @@
 * [.NET Framework](#net-framework)
 * [Python](#python)
     * [Django](#django)
+    * [Flask](#flask)
 * [R](#r)
 * [Ruby](#ruby)
 * [Rust](#rust)
@@ -150,6 +151,9 @@
 * [Django Girls Eğitimi](https://tutorial.djangogirls.org/tr) (1.11) (HTML) *( :construction: in process)*
 * [Django için Türkçe Kılavuz](https://www.djangoturkiye.com/static/django.pdf) - Muslu Yüksektepe (PDF)
 
+#### Flask
+
+* [Temelden İleriye Türkçe Flask Dersleri](https://kerteriz.net/temelden-ileriye-turkce-flask-dersleri) - İsmet BALAT - Python3
 
 ### R
 

@@ -25,15 +25,18 @@
 * [Flutter App Development Tutorial in Urdu / Hindi](https://www.youtube.com/playlist?list=PLFyjjoCMAPtxq8V9fuVmgsYKLNIKqSEV4) - The Tech Brothers&rlm;
 
 
-### <a id="c"></a>C
+### C
 
-* [C language tutorial for beginners Urdu/Hindi](https://www.youtube.com/playlist?list=PLtCBuHKmdxOfDo1cChVR3jYEzLtNpGjXa) - Fahad Hussain&rlm;
+* [C Language Tutorials (Urdu/Hindi)](https://www.youtube.com/playlist?list=PL0yiR-15Ytq8ro6SA-0JWkdyihxxVc_cB) - AssadUllahCh
+* [C language tutorial for beginners Urdu/Hindi](https://www.youtube.com/playlist?list=PLtCBuHKmdxOfDo1cChVR3jYEzLtNpGjXa) - Fahad Hussain
+* [C Programming for Beginners Urdu/Hindi](https://www.youtube.com/playlist?list=PLezGSay-CjmxobCUsJnIelVG5kM12qKY_) - Super Learning
 
 
 ### <a id="cplusplus"></a>C++
 
 * [C++ Course Series for Beginner in Urdu/Hindi](https://www.youtube.com/playlist?list=PLuuQCKO44unsLwJMkR8_koVG6vDPjMYmH) - Learning Point&rlm;
 * [C++ Free Course for Beginners in (Urdu /Hindi)](https://www.youtube.com/playlist?list=PLt4rWC_3rBbWnDrIv4IeC4Vm7PN1wvrNg) - CodeMite&rlm;
+* [Object Oriented Programming with C++ (Urdu)](https://www.youtube.com/playlist?list=PLnd7R4Mcw3rJicg4QtoI8gFkoefyCLvEq) - Recluze&rlm;
 * [Programming Fundamentals With C++ Complete Course In urdu \| Hindi](https://www.youtube.com/playlist?list=PL4QkPoTgwFULciDFVJEHEwOKMtf9Q_Aqh) - Kacs Learnings&rlm;
 
 

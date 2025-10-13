@@ -188,9 +188,12 @@
 ### Bash and Shell
 
 * [Bash Basic Commands](https://www.youtube.com/playlist?list=PLzOLSdbK1deOKmOiiv-o4wn7xUj6ZYzrM) - Noob Coders
+* [Bash Scripting | Complete Course In Hindi](https://www.youtube.com/playlist?list=PLDnEHblf8hExnR-Xpmrpu3GdeO_4YJ_tD) - ENCODERSPRO
 * [Bash Scripting tutorial](https://www.youtube.com/playlist?list=PLxLRoXCDIalcosmDOQizh31EIHEK1njfO) - Fortify Solutions
 * [Bash Shell Scripting (NOOB)](https://www.youtube.com/playlist?list=PLzOLSdbK1deNuVMOw0EkKGSsES-rPeONe) - Noob Coders
 * [shell scripting complete tutorial in hindi](https://www.youtube.com/playlist?list=PL9A0tISr5Ow5nZSY8-ICNAyXHJKesl_XL) - Cybersploit
+* [Shell Scripting Linux Beginners to Advanced in Hindi | Shell Scripting Tutorials for Beginner to Advanced in Hindi](https://www.youtube.com/playlist?list=PLrFWmDe-rblpqyEzyAW6TMJyut-pbQHlr) - Cloud Tech Burner
+* [SHELL SCRIPTING Tutorial For Beginners](https://www.youtube.com/playlist?list=PL0tP8lerTbX3MeIyMxGW2sLhWnPdn_xhd) - M Prashant
 
 
 ### Blockchain
@@ -228,6 +231,7 @@
 ### <a id="asp.net"></a>ASP.NET
 
 * [ASP .Net in Hindi](https://www.youtube.com/playlist?list=PLbsXhdgwIKL1g2vE86yGBK_RYuqt98yWL) - ComputerHindiNotes
+* [ASP.NET C# Web Form Tutorial In Hindi](https://www.youtube.com/playlist?list=PLx8RMTm-T9mq86-hvog8fHjJS1pBsPurS) - IT Tech Hindi Hub World
 * [ASP.NET Core Tutorials in Hindi](https://www.youtube.com/playlist?list=PL18HZjtdIA4Al-wYHC-i2TA-lgXLvHVmB) - Technology Keeda
 * [ASP.NET Course 2023](https://www.youtube.com/playlist?list=PLMoluEXvWXK6Q1h-5vVX4tzX7-O2FdgZA) - Coder Baba
 * [ASP.NET Web Forms Tutorial](https://www.youtube.com/playlist?list=PLp_RsiLZjwQS1FNXy0neuYgRGKNYPWpPk) - Programentor
@@ -299,9 +303,12 @@
 
 ### Computer Organization and Architecture
 
+* [Computer Organisation and Architecture \| Coa Complete Course in Hindi \| True Engineer](https://www.youtube.com/playlist?list=PLo4m8hx3sbb9SGSZy2Os7K4sAr53K9m-W) - True Engineer
 * [Computer Organization and Architecture](https://www.youtube.com/playlist?list=PLxCzCOWd7aiHMonh3G6QNKq53C6oNXGrX) - Gate Smashers
+* [Computer Organization and Architecture ( COA ) \| CS & IT \| GATE 2025 Crash Course](https://www.youtube.com/playlist?list=PL3eEXnCBViH8OS7fH0uQdre5YGCIOhCBH) - GATE Wallah - EE, EC, CS & IN
+* [Computer Organization and Architecture GATE (Hindi) \| Computer Organization GATE \| Computer Organization and Architecture Tutorials](https://www.youtube.com/playlist?list=PL9zFgBale5fsVaOVUqXA1cJ22ePKpDEim) - Well Academy
 * [Computer Organization and Architecture Lectures in Hindi](https://www.youtube.com/playlist?list=PLV8vIYTIdSnar4uzz-4TIlgyFJ2m18NE3) - Easy Engineering Classes
-* [Introduction to Computer Organization and Architecture](https://youtube.com/playlist?list=PLBlnK6fEyqRjC2nTHdeUtWFkoiPVespkc) - Neso Academy
+* [Introduction to Computer Organization and Architecture](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjC2nTHdeUtWFkoiPVespkc) - Neso Academy
 
 
 ### Data Science
@@ -477,6 +484,7 @@
 
 ### Spring Boot
 
+* [Spring Boot complete course in Hindi](https://www.youtube.com/playlist?list=PLX1XVaZeuvXfDHGqgYF6WBZsBjpA-hCCa) - Bits And Bytes
 * [Spring Boot In Hindi](https://www.youtube.com/playlist?list=PLJc-LD5TzDQToG2MOYDAuCl-JFZoMBxgC) - ekumeed help
 * [Spring Boot Tutorial (Full Course In Hindi)](https://www.youtube.com/playlist?list=PLnfapp4Woqprxl6N1r4Gkq87Lkn-IEZ0z) - AndroJava Tech4U
 * [Spring Boot Tutorial For Beginners (in Hindi)](https://www.youtube.com/playlist?list=PL5mjp3QjkuoLPS-L28yKCKyzCMX8WRVno) - ProgRank
@@ -558,13 +566,14 @@
 * [Chai aur react \| with projects](https://www.youtube.com/playlist?list=PLu71SKxNbfoDqgPchmvIsL4hTnJIrtige) - Chai aur Code
 * [React JS (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhignjLLXTJWkRJKN-SgAqClL) - Rajesh Kumar, Geeky Shows
 * [React JS Course 2023](https://www.youtube.com/playlist?list=PLt5mNkGuWcuWSUHxSzWP74IU9U4BTVLt0) - 6 Pack Programmer
+* [React JS Tutorial For Beginners in Hindi 2024 \| React JS Tutorial](https://www.youtube.com/playlist?list=PLrdDvCsCDu0Gdr-E7NlcFYaNPw29t7xmq) - CODE with Sufyan Shaikh
 * [React JS Tutorial in Hindi \| React JS for Beginner to Advanced \| Step by Step Video Tutorials](https://www.youtube.com/playlist?list=PLjVLYmrlmjGdnIQKgnTeR1T9-1ltJEaJh) - WsCubeTech
 * [React JS Tutorial in Hindi 2022](https://www.youtube.com/playlist?list=PLwGdqUZWnOp3aROg4wypcRhZqJG3ajZWJ) - Vinod Bahadur Thapa, Thapa Technical
 * [React Js Tutorials in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt) - Haris Ali Khan, CodeWithHarry
 * [React Tutorial for Beginners in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV47BCAjiCtuV_liN9IwAl8pM) - Code Step By Step
 * [React Tutorial in Hindi](https://www.youtube.com/watch?v=RGKi6LSPDLU) - CodeWithHarry
 * [React.js Full Course in Hindi \| Zero to Advanced in 28 Hours](https://www.youtube.com/playlist?list=PLfEr2kn3s-bqpPUbeTZP6iRXTxTLwNB7F) - Anurag Singh ProCodrr
-* [ReactJS Tutorial for Beginners to Advanced](https://youtube.com/playlist?list=PL_HlKez9XCSO1g7c61SyJZE4iehJDFg_w) - Technical Suneja 
+* [ReactJS Tutorial for Beginners to Advanced](https://www.youtube.com/playlist?list=PL_HlKez9XCSO1g7c61SyJZE4iehJDFg_w) - Technical Suneja
 * [ReactJS Tutorials for Beginners In Hindi](https://www.youtube.com/playlist?list=PLUVqY59GNZQNTlOnGne0G7DXnmi7CeOtc) - Pradeep Maurya
 
 
@@ -589,6 +598,7 @@
 
 * [Latest vue js 3 tutorial for beginners in hindi](https://www.youtube.com/playlist?list=PLfxALjnZodruGEvbM8zTdnPMrQ5wHMmw8) - Wap Institute
 * [Vue js tutorial in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV45qwTH-mdzllUuFRJO-euYn) - Code Step By Step
+* [Vue JS Tutorial in Hindi (Learning from documentation)](https://www.youtube.com/playlist?list=PLWxTHN2c_6cZpCJBULGoubyWsbfI0gDGW) - Touseef Jamal
 * [Vue JS Tutorials in Hindi](https://www.youtube.com/playlist?list=PLbGui_ZYuhih5ItBhn2cTncaS24_Kgeui) - Rajesh Kumar, Geeky Shows
 
 

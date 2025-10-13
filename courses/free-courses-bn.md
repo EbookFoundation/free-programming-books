@@ -5,6 +5,7 @@
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
+* [Cloud Computing](#cloud-computing)
 * [Competitive Programming](#competitive-programming)
 * [Dart](#dart)
 * [Docker](#docker)
@@ -32,6 +33,7 @@
 * [Operating Systems](#operating-systems)
 * [PHP](#php)
     * [Laravel](#laravel)
+* [PostgreSQL](#postgresql)
 * [Programming paradigms](#programming-paradigms)
 * [Python](#python)
     * [Django](#django)
@@ -83,6 +85,11 @@
 * [C++ STL (Bangla)](https://youtube.com/playlist?list=PLgLCjVh3O6Sgux985GYG22xkFt9z9Sq0_) - LoveExtendsCode
 * [Object Oriented C++ \| Bangla Tutorial](https://www.youtube.com/playlist?list=PLy7uM3PHzMF1hnqhFGE4_A8qTUfFmZ_3y) - Online School
 * [Standard Template Library of C++ (STL)](https://www.youtube.com/playlist?list=PLoa_roVVsxA0D1Kv_T7rbGHtSdYIUo4f5) - CPS Academy
+
+
+### Cloud Computing 
+
+* [(Bangla) Cloud computing tutorial series : Learn and enjoy AWS Azure and other cloud technologies like never before](https://www.youtube.com/playlist?list=PLEYpvDF6qy8YfccPez3rkafASd9PZV3te) - Foyzul Karim
 
 
 ### Competitive Programming
@@ -304,6 +311,12 @@
 #### Laravel
 
 * [laravel 10 bangla tutorial latest version \| laravel basic to advanced from official documentation](https://www.youtube.com/playlist?list=PLbC4KRSNcMnrY78JyoI8c0pk-reuSw8ff) - Learn Hunter
+* [Laravel Queue Tutorial \| Basic to Advanced ](https://www.youtube.com/playlist?list=PLVWmHBgSb-u8slYKd7B1dM4HpGwRX6B1X) - Programming with CodeSteps
+
+
+### PostgreSQL
+
+* [PostgreSQL Full Course In Bangla 2025](https://www.youtube.com/playlist?list=PLnAO8EqszeI_OihleIZQf_Nz2jx8J7fa5) - Nexist
 
 
 ### Programming paradigms

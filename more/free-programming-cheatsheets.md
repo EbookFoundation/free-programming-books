@@ -128,6 +128,7 @@
 ### Conda
 
 * [Conda (miniconda Cheatsheat)](https://docs.conda.io/projects/conda/en/stable/user-guide/cheatsheet.html) - Conda (HTML)
+* [Conda Cheatsheet](https://www.datacamp.com/cheat-sheet/conda-cheat-sheet) - DataCamp (HTML/PDF)
 
 
 ### Dart

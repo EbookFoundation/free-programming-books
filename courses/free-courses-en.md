@@ -269,7 +269,7 @@
 * [Deep Reinforcement Learning Course](https://huggingface.co/learn/deep-rl-course) - Hugging Face
 * [Diffusion Course](https://huggingface.co/learn/diffusion-course) - Hugging Face
 * [Elements of AI](https://www.elementsofai.com) - University of Helsinki, Reaktor
-* [Foundation Models & Generative AI](https://www.futureofai.mit.edu/) - Rickard Gabrielsson (MIT OpenCourseWare) — 6.S087 | January IAP 2024 | Undergraduate
+* [Foundation Models & Generative AI](https://www.futureofai.mit.edu) - Rickard Gabrielsson (MIT OpenCourseWare) — 6.S087 | January IAP 2024 | Undergraduate
 * [Have fun Staying Home And Learning AI - SHALA2020](https://shala2020.github.io) - IIT BOMBAY
 * [IBM AI Engineering Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer) - Romeo Kienzler, Saeed Aghabozorgi, Joseph Santarcangelo, Alex Aklson et al. (Coursera)
 * [Intro to Claude AI](https://v2.scrimba.com/claude-ai-c09gsmkso3) - Shant Dashjian (Scrimba)

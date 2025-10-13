@@ -516,6 +516,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 * [A Complete Guide to Standard C++ Algorithms](https://github.com/HappyCerberus/book-cpp-algorithms) - Šimon Tóth (PDF, LaTeX) (CC BY-NC-SA) *( :construction: in process)*
 * [An Introduction to the USA Computing Olympiad, C++ Edition](https://darrenyao.com/usacobook/cpp.pdf) - Darren Yao (PDF)
+* [A Modular Structured Approach using C++](https://open.umn.edu/opentextbooks/textbooks/144) - Kenneth Leroy Busbee (PDF) (CC BY)
 * [C++ Annotations](https://fbb-git.gitlab.io/cppannotations/) - Frank B. Brokken (HTML, PDF)
 * [C++ Coding Standard](https://possibility.com/Cpp/CppCodingStandard.html) - Todd Hoff (HTML, PDF)
 * [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) - `edt.:` Bjarne Stroustrup, Herb Sutter

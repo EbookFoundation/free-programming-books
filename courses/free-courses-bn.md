@@ -263,6 +263,7 @@
 
 * [Introduction to Vue.js in Bangla বাংলা  with a full Project - Vue Crash Course](https://www.youtube.com/watch?v=iIvN7upsLoA) - Learn with Sumit
 * [Vue JS 3 Bangla Tutorial](https://www.youtube.com/playlist?list=PLZ8kLhUbDAhADR0nUr2rwhOD0smxVZX-x) - Mamunur Rashid
+* [Vue js in Bangla. Latest Version with Projects  (বাংলায় Vue js শিখুন)](https://www.youtube.com/playlist?list=PL6f7IPPkpDKn0iI2Y5dnEgyrEqw2VvJ2P) - Rafee Amin
 
 
 ### Kotlin

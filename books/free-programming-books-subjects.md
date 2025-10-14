@@ -242,6 +242,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 ### Computer Science
 
 * [A Data-Centric Introduction to Computing](https://dcic-world.org) - Kathi Fisler, Shriram Krishnamurthi, Benjamin S. Lerner, Joe Gibbs Politz (HTML)
+* [But How Do It Know? The Basic Principles of Computers for Everyone](https://www.nipccd.nic.in/uploads/report/EBMIfKpdf-1bc3ceafe870f0bf95edccb7a38d63ee.pdf) - J. Clark Scott (PDF)
 * [Computational Thinking](https://www.cs.cmu.edu/~15110-s13/Wing06-ct.pdf) - Jeannette Wing, Carnegie-Mellon University (PDF)
 * [Computer Science Class XI](https://cbseacademic.nic.in/web_material/doc/cs/1_Computer-Science-Python-Book-Class-XI.pdf) - CBSE (PDF)
 * [Computer Science Class XII](https://cbseacademic.nic.in/web_material/doc/cs/2_Computer_Science_Python_ClassXII.pdf) - CBSE (PDF)

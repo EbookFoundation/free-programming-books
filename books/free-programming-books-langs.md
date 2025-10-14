@@ -2236,12 +2236,16 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Raku
 
+* [Getting started, Migration guides from other languages, & Tutorials](https://docs.raku.org/introduction) - Raku Documentation 
+* [Language References](https://docs.raku.org/reference) - Raku Documentation 
 * [Metagenomics](https://kyclark.gitbooks.io/metagenomics) - Ken Youens-Clark
 * [Perl 6 at a Glance](https://andrewshitov.com/wp-content/uploads/2020/01/Perl-6-at-a-Glance.pdf) - Andrew Shitov (PDF)
 * [Raku Guide](https://raku.guide) (HTML) [(PDF)](https://github.com/hankache/rakuguide) (CC BY-SA)
 * [Raku One-Liners](https://andrewshitov.com/wp-content/uploads/2020/01/Raku-One-Liners.pdf) - Andrew Shitov (PDF)
 * [Raku Programming](https://en.wikibooks.org/wiki/Raku_Programming) - Wikibooks (HTML)
+* [Routine Reference](https://docs.raku.org/routines) - Raku Documentation 
 * [Think Raku](https://github.com/LaurentRosenfeld/think_raku/raw/master/PDF/think_raku.pdf) - Laurent Rosenfeld, Allen B. Downey (PDF)
+* [Type Reference](https://docs.raku.org/types) - Raku Documentation 
 * [Using Perl 6](https://github.com/perl6/book/) *( :construction: project is dead)*
 * [X=Raku](https://learnxinyminutes.com/docs/raku/) - Learn X in Y minutes (HTML)
 
@@ -2725,4 +2729,6 @@ Books on general-purpose programming that don't focus on a specific language are
 ### Zig
 
 * [Introduction to Zig](https://pedropark99.github.io/zig-book) - Pedro Duarte Faria (HTML)
+* [Zig Guide](https://zig.guide) (HTML)
+* [Zig Language Reference](https://devdocs.io/zig) - DevDocs
 * [Zig Language Reference](https://ziglang.org/documentation/master) (HTML)

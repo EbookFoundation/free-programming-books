@@ -401,6 +401,7 @@
 
 * [Powershell 7.0 - Quick References](https://practicalpowershell.com/wp-content/uploads/2020/04/PowerShellQuickReference-PowerShell7.0-v1.03.pdf) - PracticalPowershell (PDF)
 * [SANS Powershell Cheatsheet](https://wiki.sans.blue/Tools/pdfs/PowerShell.pdf) - SANS (PDF)
+* [The Most Helpful PowerShell Cheat Sheet You’ll Ever Find](https://www.stationx.net/powershell-cheat-sheet/) - Cassandra Lee (HTML)
 
 
 ### Python

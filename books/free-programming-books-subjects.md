@@ -59,8 +59,8 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 
 ### 0 - Meta-Lists
 
-* [Awesome J2ME](https://github.com/hstsethi/awesome-j2me) - Harshit Sethi
 * [Atariarchives.org](https://www.atariarchives.org) - Atariarchives.org makes books, information, and software for Atari and other classic computers available on the Web.
+* [Awesome J2ME](https://github.com/hstsethi/awesome-j2me) - Harshit Sethi
 * [Bento](https://www.bento.io)
 * [Bitsavers.org](http://bitsavers.trailing-edge.com)
 * [Build your own X](https://github.com/codecrafters-io/build-your-own-x)

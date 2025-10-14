@@ -350,6 +350,7 @@
 ### LaTeX
 
 * [Latex Cheat Sheet](https://gist.github.com/LKS90/252ac41bd4a173be35b0) - Lukas Schneider
+* [Latex Cheatsheet](https://quickref.me/latex) - QuickRef.ME
 
 
 ### Machine Learning

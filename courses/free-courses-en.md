@@ -26,6 +26,7 @@
 * [Computer Science](#computer-science)
 * [Cryptography](#cryptography)
 * [CUDA](#cuda)
+* [Cypress](#cypress)
 * [Dart](#dart)
 * [Data Science](#data-science)
 * [Databases](#databases)
@@ -524,6 +525,13 @@
 * [CUDA Crash Course](https://www.youtube.com/playlist?list=PLxNPSjHT5qvtYRVdNN1yDcdSl39uHV_sU) - CoffeeBeforeArch
 * [CUDA Programming Course – High-Performance Computing with GPUs](https://www.youtube.com/watch?v=86FAWCzIe_4&t=2s) - Elliot Arledge (FreeCodeCamp)
 * [CUDA Tutorials](https://www.youtube.com/playlist?list=PLKK11Ligqititws0ZOoGk3SW-TZCar4dK) - Creel
+
+
+### Cypress
+
+* [Cypress Official Course - Best Documnetation](https://learn.cypress.io/) - Cypress.io
+* [Test Automation - Cypress Tutorial](https://testautomationu.applitools.com/cypress-tutorial/) - Elliot Arledge (FreeCodeCamp)
+* [Cypress Course Playlist](https://www.youtube.com/watch?v=OvCLwh5vN8g) - Testing Funda by Zeesham Asghar
 
 
 ### Dart

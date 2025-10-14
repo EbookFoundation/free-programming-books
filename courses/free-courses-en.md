@@ -274,6 +274,7 @@
 * [LLM Course](https://huggingface.co/learn/llm-course/chapter0/1) - Hugging Face
 * [MCP Course](https://huggingface.co/learn/mcp-course/unit0/introduction) - Hugging Face
 * [MIT Deep Learning and Artificial Intelligence Lectures](https://deeplearning.mit.edu) - Lex Fridman, et al.
+* [MIT FUTURE OF AI 6.S087: Foundation Models & Generative AI](https://www.futureofai.mit.edu) - Rickard Gabrielsson (MIT OpenCourseWare)
 * [MIT's Artificial Intelligence](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) - Patrick Henry Winston (MIT OpenCourseWare)
 * [NLP Course](https://huggingface.co/learn/nlp-course) - Hugging Face
 * [NYU Artificial Intelligence SP24](https://www.youtube.com/playlist?list=PLLHTzKZzVU9cH26X9VQ14lIA0aPwZiZTx) - Alfredo Canziani, Ernest Davis

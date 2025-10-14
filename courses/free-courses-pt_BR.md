@@ -323,7 +323,7 @@
 
 
 ### Lua
-
+* [Curso de Lua](https://www.youtube.com/playlist?list=PLx4x_zx8csUhdMczA1OSq9rM7N48L6OLU) - CFBCursos
 * [Curso de Programação Lua](https://youtube.com/playlist?list=PLa4jh645PxpfOYT5bNkim9yoevX8dCYpt) - Techiesse
 * [Introdução a Programação com Lua](https://www.youtube.com/playlist?list=PLqYboeh3Jru55Yq4J08zsBoOwwwjUtZNA) - Alfred R. Baudisch
 

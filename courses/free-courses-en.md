@@ -559,6 +559,7 @@
 * [Datavis 2020](https://www.youtube.com/playlist?list=PL9yYRbwpkykuK6LSMLH3bAaPpXaDUXcLV) - Curran Kelleher
 * [Hadoop Tutorial for Beginners](https://www.youtube.com/playlist?list=PLlgLmuG_KgbasW0lpInSAIxYd2vqAEPit) - Great Learning
 * [Hive Tutorial](https://www.youtube.com/watch?v=MLDcapDQba4) - Great Learning
+* [How to Build an AI: The Chronicles of Jobot](https://jovian.com/learn/how-to-build-an-ai) - Jovian
 * [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) (Coursera)
 * [Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170) - Udacity
 * [Introduction to Data Science](https://alison.com/course/introduction-to-data-science-revised) - Alison

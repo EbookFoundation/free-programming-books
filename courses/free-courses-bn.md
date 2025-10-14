@@ -263,6 +263,7 @@
 
 * [Introduction to Vue.js in Bangla বাংলা  with a full Project - Vue Crash Course](https://www.youtube.com/watch?v=iIvN7upsLoA) - Learn with Sumit
 * [Vue JS 3 Bangla Tutorial](https://www.youtube.com/playlist?list=PLZ8kLhUbDAhADR0nUr2rwhOD0smxVZX-x) - Mamunur Rashid
+* [Vue js in Bangla. Latest Version with Projects  (বাংলায় Vue js শিখুন)](https://www.youtube.com/playlist?list=PL6f7IPPkpDKn0iI2Y5dnEgyrEqw2VvJ2P) - Rafee Amin
 
 
 ### Kotlin
@@ -368,6 +369,7 @@
 
 ### Software Architecture
 
+* [বাংলায় মাইক্রোসার্ভিস \| Microservices in Bangla - What are the building blocks of a good Microservices System](https://www.youtube.com/playlist?list=PLEYpvDF6qy8YyX2dQX93C88mQ5alaWFXJ) - Foyzul Karim
 * [Career in Backend Workshop](https://www.youtube.com/playlist?list=PL_XxuZqN0xVB2m_jJ1QYOFD2D4JZuY6fO) - Stack Learner
 * [Practical Microservices Workshop](https://www.youtube.com/playlist?list=PL_XxuZqN0xVAO0uVm0ClJ3wsKHJw6G_TL) - Stack Learner
 * [Pro Postman Workshop](https://www.youtube.com/playlist?list=PL_XxuZqN0xVAw_wmOs1iVfdFGiAX-wGKF) - Stack Learner

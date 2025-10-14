@@ -109,7 +109,6 @@
 ### Delphi
 
 * [Aprenda Delphi e Lazarus do Zero - 100% Gratuito](https://www.udemy.com/aprenda-delphi-e-lazarus-do-zero/) - Marcos Fabricio Rosa (Udemy)
-* [Delphi - Sistema de vendas do zero ao multicamadas](https://www.youtube.com/playlist?list=PLLHSz4dOnnN3B4Bpizs8Z1REGTIUiMg8T) - Code4Delphi
 
 
 ### Docker
@@ -132,7 +131,6 @@
 
 * [Curso de Elixir Alquimia](https://www.youtube.com/playlist?list=PLv3nyCBtlWP8I9rknIrfcJWrO05yEzknD) - Alquimia Stone
 * [Elixir (Linguagem de Programação)](https://www.youtube.com/playlist?list=PLydk1OOOmzo-AtU2l102ooounamleyMB9) - Elly Academy
-* [Curso de Elixir](https://www.youtube.com/playlist?list=PLEdPHGYbHhldG4c-4DV-i3bCedeIJIkhL) - Danilo Aparecido
 
 
 ### Flutter
@@ -316,6 +314,7 @@
 
 
 ### Linux
+
 * [Curso de Linux](https://www.youtube.com/playlist?list=PLnDvRpP8BnezDTtL8lm6C-UOJZn-xzALH) - Matheus Battisti
 * [Curso de Linux - Primeiros Passos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV) - Gustavo Guanabara
 * [Introdução ao Sistema Operacional Linux](https://www.udemy.com/course/linux-ubuntu/) - Diego Mariano (Udemy)
@@ -323,7 +322,7 @@
 
 
 ### Lua
-* [Curso de Lua](https://www.youtube.com/playlist?list=PLx4x_zx8csUhdMczA1OSq9rM7N48L6OLU) - CFBCursos
+
 * [Curso de Programação Lua](https://youtube.com/playlist?list=PLa4jh645PxpfOYT5bNkim9yoevX8dCYpt) - Techiesse
 * [Introdução a Programação com Lua](https://www.youtube.com/playlist?list=PLqYboeh3Jru55Yq4J08zsBoOwwwjUtZNA) - Alfred R. Baudisch
 
@@ -492,7 +491,6 @@
 ### Sass
 
 * [Sass placeholders: o jeito certo](https://www.udemy.com/course/sass-placeholders-o-jeito-certo/) - Tárcio Zemel (Udemy)
-* [Curso de SASS desde CERO](https://www.youtube.com/playlist?list=PL7tUbHOY3O6hMEoLHclI0tt1IGY4voAvu) - SINERGIA 
 
 
 ### Shell
@@ -518,7 +516,6 @@
 
 * [Aprendendo Swift do Iniciante ao Avançado. (Mac e Windows)](https://www.udemy.com/aprendendoswift3/) - Lucas Alencar (Udemy)
 * [Curso de Swift - Programação](https://www.youtube.com/playlist?list=PLJ0AcghBBWShgIH122uw7H9T9-NIaFpP-) - Tiago Aguiar
-* [Curso grátis Swift e SwiftUI ](https://www.youtube.com/playlist?list=PLMdYygf53DP46rneFgJ7Ab6fJPcMvr8gC) - Filipe Deschamps
 
 
 ### TypeScript

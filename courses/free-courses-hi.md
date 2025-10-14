@@ -730,6 +730,7 @@
 * [Chai aur Python](https://www.youtube.com/playlist?list=PLu71SKxNbfoBsMugTFALhdLlZ5VOqCg2s) - Chai aur Code
 * [Class 12 Board \| Python \| Computer Science](https://www.youtube.com/playlist?list=PLKKfKV1b9e8oyESqu5mrGN-eDxHdNoi_j) - Apni Kaksha
 * [Complete Python tutorial in Hindi](https://www.youtube.com/playlist?list=PLmRclvVt5DtmcLF3ywxKg692lhfD6SUOr) - codeitup
+* [Complete Python Tutorial for Beginners to Advanced in Hindi](https://youtube.com/playlist?list=PLjVLYmrlmjGcQfNj_SLlLV4Ytf39f8BF7&si=8vrtvYbhLDiHjR7f) - WsCube Tech 
 * [Complete Python Tutorial in Hindi (2020)](https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j) - Harshit Vashisth
 * [Core Python (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhigZkqrHbI_ZkPBrIr5Rsd5L) - Rajesh Kumar, Geeky Shows
 * [Free Python Course For School Students (Grade7-10) Certified Course By Coding Blocks Junior](https://youtube.com/playlist?list=PLhLbJ9UoJCvumawW64knIBSJuHALx3zBE) - Coding Blocks Junior
@@ -737,7 +738,6 @@
 * [Intermediate/Advanced python Tutorials in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9aiJWQ7VhY712fuimEpQZYp4) - CodeWithHarry
 * [OpenCV Full Tutorial by WsCube Tech](https://www.youtube.com/playlist?list=PLjVLYmrlmjGelmHXLZ0ukHdb-jjvG6rRm) - WsCube Tech
 * [Python](https://www.youtube.com/playlist?list=PLHjOos34ty4GYwKO-CFTdJKfVNd50tajF) - Computer Gyan Guruji
-* [Python Crash Course for Beginners! In just 1 hour](https://www.youtube.com/watch?v=6R8knl-5r6M) - Ghosty
 * [Python For Beginners](https://youtube.com/playlist?list=PL-5gYa7CLd4iBdPHRaSEwbivCnUq1nxj9) - Technical Sagar
 * [Python for Data Science for Absolute Beginners (Full Course)](https://www.youtube.com/playlist?list=PL1gztxnUtwNfnR0jYniFM5E6HwcQMnFmx) - Data is Good
 * [Python Programming in Hindi](https://www.greatlearning.in/academy/learn-for-free/courses/python-programming-in-hindi) (Great Learning) *(account required)*
@@ -761,9 +761,9 @@
 
 #### Flask
 
-* [[Hindi] Flask Tutorial For Beginners 2020](https://www.youtube.com/playlist?list=PLkPmSWtWNIyQ-_mlHIQho9nCnxdbvnQIl) - Knowledge Shelf
 * [Flask (Python) In Hindi](https://www.youtube.com/playlist?list=PLy-CGmBdq2VGQGbhmSQEOD3Ty-Fp19pGC) - HindiSiksha
 * [Flask for Machine Learning](https://learnwith.campusx.in/courses/Flask-for-Machine-Learning-Introduction-to-Flask--Dynamic-URL-Redirection-URL-Building-Jinja-Templates-Forms--Input-Validation-Databases-Sessions-Cookies-Training--Deloyment-of-ML-Model-6658698ad54433398d1a487b) - Mohammed Misbahullah Sheriff (CampusX)
+* [Flask Tutorial In Hindi](https://youtube.com/playlist?list=PLQ623tNax05w6xydSxUSWpBuIUDe_SBNb&si=IVgsnH5vytfKFIFd) - Knowledge Gainer
 * [Web Development Using Flask and Python](https://www.youtube.com/playlist?list=PLu0W_9lII9agAiWp6Y41ueUKx1VcTRxmf) - CodeWithHarry
 
 

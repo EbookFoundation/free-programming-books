@@ -1106,6 +1106,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Codename One Developer Guide](https://www.codenameone.com/files/developer-guide.pdf) (PDF)
 * [Create an Uber Clone in 7 Days (first 2 chapters)](http://uber.cn1.co) - Shai Almog (PDF)
 
+
 #### Java ME
 
 * [Java ME 3.4 Developer's Guide for NetBeans on Windows](https://docs.oracle.com/javame/dev-tools/jme-sdk-3.4/nb/dev-guide-nb.pdf) - Oracle (PDF)

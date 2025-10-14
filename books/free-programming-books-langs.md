@@ -1582,6 +1582,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Make
 
+* [GNU Make Manual](https://www.gnu.org/software/make/manual) - GNU (PDF, HTML, Info, Tex)
 * [Makefile tutorial](https://makefiletutorial.com) - Chase Lambert
 * [Managing Projects with GNU Make](https://www.oreilly.com/openbook/make3/book/index.html) - Robert Mecklenburg
 

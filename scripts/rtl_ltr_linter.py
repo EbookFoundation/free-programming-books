@@ -247,16 +247,23 @@ def lint_file(path, cfg):
         # Skip lines that start a code block (```)
         if CODE_FENCE_START.match(line): continue
 
-        # Corrected logic to handle all div tags on a single line
+        # Find all opening and closing <div> tags on the line to handle cases
+        # where there can be multiple <div> opening and closing on the same line
         div_tags = re.findall(r"(<div[^>]*dir=['\"](rtl|ltr)['\"][^>]*>|</div>)", line, re.IGNORECASE)
+
+        # Process each found tag in order to correctly update the context stack
         for tag_tuple in div_tags:
+            # re.findall with multiple capture groups returns a list of tuples:
+            # tag: The full matched tag (e.g., '<div...>' or '</div>')
+            # direction: The captured direction ('rtl' or 'ltr'), or empty for a closing tag
             tag, direction = tag_tuple
+
+            # If it's an opening tag with 'markdown="1"', push the new context
             if tag.startswith('<div') and 'markdown="1"' in tag:
-                new_div_ctx = direction.lower()
-                block_context_stack.append(new_div_ctx)
+                block_context_stack.append(direction.lower())
+            # If it's a closing tag and we are inside a div, pop the context
             elif tag == '</div>' and len(block_context_stack) > 1:
                 block_context_stack.pop()
-
         # Check if the line is a Markdown list item
         list_item = LIST_ITEM_RE.match(line)
 

@@ -753,7 +753,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Firefox OS
 
-* [Quick Guide For Firefox OS App Development: Creating HTML5 based apps for Firefox OS](https://leanpub.com/quickguidefirefoxosdevelopment/read) - Andre Garzia
+* [Quick Guide For Firefox OS App Development: Creating HTML5 based apps for Firefox OS](https://leanpub.com/quickguidefirefoxosdevelopment/read) - Andre Garzia *(Leanpub account or valid email requested)*
 
 
 ### Flutter
@@ -971,7 +971,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [HTML5 For Web Designers](http://html5forwebdesigners.com) - Jeremy Keith
 * [HTML5 Notes for Professionals](https://goalkicker.com/HTML5Book/) - Compiled from StackOverflow documentation (PDF)
 * [HTML5 Quick Learning Guide](https://www.ossblog.org/wp-content/uploads/2017/06/html5-quick-learning-quide.pdf) - HTML5Templates (PDF)
-* [HTML5 Shoot 'em Up in an Afternoon](https://leanpub.com/html5shootemupinanafternoon/read) - Bryan Bibat (HTML)
+* [HTML5 Shoot 'em Up in an Afternoon](https://leanpub.com/html5shootemupinanafternoon/read) - Bryan Bibat (HTML) *(Leanpub account or valid email requested)*
 * [Interneting is Hard (But it Doesn't Have to Be)](https://www.internetingishard.com) - Oliver James
 * [Learn CSS Layout](http://learnlayout.com)
 * [Learn CSS Layout the pedantic way](http://book.mixu.net/css/)
@@ -993,7 +993,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Upgrade Your HTML](https://github.com/frontenddogma/upgrade-your-html) – Jens Oliver Meiert
 * [W3.CSS Succinctly](https://www.syncfusion.com/ebooks/w3_css_succinctly) - Joseph D. Booth
 * [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552) - Boris Smus
-* [Web Visual Effects with CSS3](https://leanpub.com/web-visual-effects-with-css3/read) - Thomas Mak
+* [Web Visual Effects with CSS3](https://leanpub.com/web-visual-effects-with-css3/read) - Thomas Mak *(Leanpub account or valid email requested)*
 
 
 #### Bootstrap

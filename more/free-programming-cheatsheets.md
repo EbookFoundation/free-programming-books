@@ -426,6 +426,7 @@
 * [Python Regex Cheatsheet](https://www.debuggex.com/cheatsheet/regex/python) - Debuggex (HTML)
 * [Python WorldWide Cheatsheet](https://cheatography.com/davechild/cheat-sheets/python/) - Cheatography (Python)
 * [Scapy Cheat Sheet](https://www.templateroller.com/template/160817/scapy-cheat-sheet-jeremy-stretch.html) - Jeremy Stretch (PDF)
+* [Shiny for Python Cheat Sheet](https://rstudio.github.io/cheatsheets/html/shiny-python.html) - Posit (HTML/PDF)
 
 
 #### Django

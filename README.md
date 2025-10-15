@@ -87,7 +87,7 @@ This project lists books and other resources grouped by genres:
 + [Burmese / မြန်မာဘာသာ](books/free-programming-books-my.md)
 + [Chinese / 中文](books/free-programming-books-zh.md)
 + [Czech / čeština / český jazyk](books/free-programming-books-cs.md)
-+ [Catalan / catalan/ català](books/free-programming-books-ca.md)
++ [Catalan / catalan / català](books/free-programming-books-ca.md)
 + [Danish / dansk](books/free-programming-books-da.md)
 + [Dutch / Nederlands](books/free-programming-books-nl.md)
 + [Estonian / eesti keel](books/free-programming-books-et.md)
@@ -120,6 +120,7 @@ This project lists books and other resources grouped by genres:
 + [Thai / ไทย](books/free-programming-books-th.md)
 + [Turkish / Türkçe](books/free-programming-books-tr.md)
 + [Ukrainian / Українська](books/free-programming-books-uk.md)
++ [Urdu / اردو](books/free-programming-books-ur.md)
 + [Vietnamese / Tiếng Việt](books/free-programming-books-vi.md)
 
 ### Cheat Sheets
@@ -143,7 +144,7 @@ This project lists books and other resources grouped by genres:
 + [Indonesian / Bahasa Indonesia](courses/free-courses-id.md)
 + [Italian / italiano](courses/free-courses-it.md)
 + [Japanese / 日本語](courses/free-courses-ja.md)
-+ [Kannada/ಕನ್ನಡ](courses/free-courses-kn.md)
++ [Kannada / ಕನ್ನಡ](courses/free-courses-kn.md)
 + [Kazakh / қазақша](courses/free-courses-kk.md)
 + [Khmer / ភាសាខ្មែរ](courses/free-courses-km.md)
 + [Korean / 한국어](courses/free-courses-ko.md)

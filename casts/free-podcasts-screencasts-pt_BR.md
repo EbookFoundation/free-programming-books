@@ -81,7 +81,10 @@
 
 * [Baltacast - Podcast do balta.io](https://www.youtube.com/playlist?list=PLHlHvK2lnJneed8g24W1e0Zz9q1uvD7wg) (podcast)
 * [Castálio Podcast](http://castalio.info) (podcast)
+* [Cultura DevOps](https://www.youtube.com/playlist?list=PLFaao6abyD0cQp47BzJSQmeTegM2NLl_i) - Objective (podcast)
 * [DevNaEstrada](http://devnaestrada.com.br) (podcast)
+* [Engineering Sessions S01](https://www.youtube.com/playlist?list=PLJ_lIzJ_Nd1TZ6i4HjMuBycyhwhUqlxtI) - Carlos Nogueira (DevOps) (podcast)
+* [Engineering Sessions S02](https://www.youtube.com/playlist?list=PLJ_lIzJ_Nd1RWTc9uSrl-5rprIQp6GIOZ) - Carlos Nogueira (DevOps) (podcast)
 * [Experience Podcast - Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dlAL49NfFvf7lUP2jrcMlYQ) (podcast)
 * [Grok Podcast](http://www.grokpodcast.com) (podcast)
 * [Hipsters Ponto Tech](http://hipsters.tech) (podcast)

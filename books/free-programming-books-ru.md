@@ -72,6 +72,7 @@
     * [FirebirdSQL](#firebirdsql)
     * [PostgreSQL](#postgresql)
 * [Swift](#swift)
+* [Symbian](#symbian)
 * [TypeScript](#typescript)
     * [Angular](#angular)
 * [Unix](#unix)
@@ -591,6 +592,11 @@
 
 * [Документация и туториалы](https://swiftbook.ru)
 * [Swift Tutorial](https://coderlessons.com/tutorials/kompiuternoe-programmirovanie/nauchites-programmirovaniiu-swift/swift-tutorial) - CoderLessons.com
+
+
+### Symbian
+
+* [Symbian C++](https://github.com/trufanov-nok/SymbianBook_ru) -  А. Н Труфанов
 
 
 ### TypeScript

@@ -5,6 +5,7 @@
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
+* [Cloud Computing](#cloud-computing)
 * [Competitive Programming](#competitive-programming)
 * [Dart](#dart)
 * [Docker](#docker)
@@ -32,6 +33,7 @@
 * [Operating Systems](#operating-systems)
 * [PHP](#php)
     * [Laravel](#laravel)
+* [PostgreSQL](#postgresql)
 * [Programming paradigms](#programming-paradigms)
 * [Python](#python)
     * [Django](#django)
@@ -83,6 +85,11 @@
 * [C++ STL (Bangla)](https://youtube.com/playlist?list=PLgLCjVh3O6Sgux985GYG22xkFt9z9Sq0_) - LoveExtendsCode
 * [Object Oriented C++ \| Bangla Tutorial](https://www.youtube.com/playlist?list=PLy7uM3PHzMF1hnqhFGE4_A8qTUfFmZ_3y) - Online School
 * [Standard Template Library of C++ (STL)](https://www.youtube.com/playlist?list=PLoa_roVVsxA0D1Kv_T7rbGHtSdYIUo4f5) - CPS Academy
+
+
+### Cloud Computing 
+
+* [(Bangla) Cloud computing tutorial series : Learn and enjoy AWS Azure and other cloud technologies like never before](https://www.youtube.com/playlist?list=PLEYpvDF6qy8YfccPez3rkafASd9PZV3te) - Foyzul Karim
 
 
 ### Competitive Programming
@@ -256,6 +263,7 @@
 
 * [Introduction to Vue.js in Bangla বাংলা  with a full Project - Vue Crash Course](https://www.youtube.com/watch?v=iIvN7upsLoA) - Learn with Sumit
 * [Vue JS 3 Bangla Tutorial](https://www.youtube.com/playlist?list=PLZ8kLhUbDAhADR0nUr2rwhOD0smxVZX-x) - Mamunur Rashid
+* [Vue js in Bangla. Latest Version with Projects  (বাংলায় Vue js শিখুন)](https://www.youtube.com/playlist?list=PL6f7IPPkpDKn0iI2Y5dnEgyrEqw2VvJ2P) - Rafee Amin
 
 
 ### Kotlin
@@ -290,6 +298,7 @@
 
 ### Operating Systems
 
+* [Operating System](https://www.youtube.com/playlist?list=PLgrAmbRAezujiknEO3sqpyCC4K3IgS4KU) - Farhan Hossan
 * [Operating System (OS) Bangla Tutorial (কমপ্লিট কোর্স)](https://www.youtube.com/playlist?list=PLncy2sD7w4Yr3ZbiP_ipAjgjDRn86N_tT) - Lecturelia - CSE Bangla Tutorial
 
 
@@ -304,6 +313,12 @@
 #### Laravel
 
 * [laravel 10 bangla tutorial latest version \| laravel basic to advanced from official documentation](https://www.youtube.com/playlist?list=PLbC4KRSNcMnrY78JyoI8c0pk-reuSw8ff) - Learn Hunter
+* [Laravel Queue Tutorial \| Basic to Advanced ](https://www.youtube.com/playlist?list=PLVWmHBgSb-u8slYKd7B1dM4HpGwRX6B1X) - Programming with CodeSteps
+
+
+### PostgreSQL
+
+* [PostgreSQL Full Course In Bangla 2025](https://www.youtube.com/playlist?list=PLnAO8EqszeI_OihleIZQf_Nz2jx8J7fa5) - Nexist
 
 
 ### Programming paradigms
@@ -355,6 +370,7 @@
 
 ### Software Architecture
 
+* [বাংলায় মাইক্রোসার্ভিস \| Microservices in Bangla - What are the building blocks of a good Microservices System](https://www.youtube.com/playlist?list=PLEYpvDF6qy8YyX2dQX93C88mQ5alaWFXJ) - Foyzul Karim
 * [Career in Backend Workshop](https://www.youtube.com/playlist?list=PL_XxuZqN0xVB2m_jJ1QYOFD2D4JZuY6fO) - Stack Learner
 * [Practical Microservices Workshop](https://www.youtube.com/playlist?list=PL_XxuZqN0xVAO0uVm0ClJ3wsKHJw6G_TL) - Stack Learner
 * [Pro Postman Workshop](https://www.youtube.com/playlist?list=PL_XxuZqN0xVAw_wmOs1iVfdFGiAX-wGKF) - Stack Learner

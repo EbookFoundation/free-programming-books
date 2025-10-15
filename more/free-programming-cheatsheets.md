@@ -69,6 +69,7 @@
 ### Angular
 
 * [Angular Cheat Sheet](https://angular.io/guide/cheatsheet)
+* [Angular Cheat Sheet](https://zerotomastery.io/cheatsheets/angular-cheat-sheet/) - ZeroToMastery.io (HTML)
 * [Angular Cheat Sheet – A Basic Guide to Angular](https://www.geeksforgeeks.org/angular-cheat-sheet-a-basic-guide-to-angular/) - GeeksforGeeks
 
 

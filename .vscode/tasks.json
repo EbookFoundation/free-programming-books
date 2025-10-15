@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run URL check (optional)",
+			"type": "shell",
+			"command": "echo \"No local tests configured; rely on repo CI\"",
+			"args": [],
+			"isBackground": false,
+			"group": "build"
+		}
+	]
+}

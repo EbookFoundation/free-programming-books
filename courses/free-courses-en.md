@@ -283,7 +283,7 @@
 
 #### Generative AI
 
-* [AI Agents for Beginners](https://youtube.com/playlist?list=PLlrxD0HtieHgKcRjd5-8DT9TbwdlDO-OC&si=wBqpzi0kLkeKVWP1) - Microsoft 
+* [AI Agents for Beginners](https://youtube.com/playlist?list=PLlrxD0HtieHgKcRjd5-8DT9TbwdlDO-OC&si=wBqpzi0kLkeKVWP1) - Microsoft (Youtube)
 * [CS236: Deep Generative Models](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8) - Stefano Ermon (Stanford Online)
 * [Deep Generative Models](https://www.youtube.com/playlist?list=PL2UML_KCiC0UPzjW9BjO-IW6dqliu9O4B) - Volodymyr Kuleshov
 * [Foundation Models and Generative AI](https://ocw.mit.edu/courses/6-s087-foundation-models-and-generative-ai-january-iap-2024) - Rickard Gabrielsson (MIT OpenCourseWare)
@@ -447,9 +447,9 @@
 #### AWS
 
 * [AWS Certified Cloud Practitioner Course (2020-2023)](https://www.youtube.com/playlist?list=PLt1SIbA8guuvfvUDVLpJepmbnYpOfYCIB) - Stephane Maarek
-* [AWS Certified Cloud Practitioner Course (CLF-C02)(2024)](https://www.youtube.com/watch?v=NhDYbskXRgc) - Andrew Brown (FreeCodeCamp)
-* [AWS Cloud Complete Bootcamp Course](https://www.youtube.com/watch?v=zA8guDqfv40) - Andrew Brown (FreeCodeCamp)
-* [AWS CloudOps Engineer Associate Certification Course](https://www.youtube.com/watch?v=5JTBS09e7ew) - Andrew Brown (FreeCodeCamp)
+* [AWS Certified Cloud Practitioner Course (CLF-C02)(2024)](https://www.youtube.com/watch?v=NhDYbskXRgc) - Andrew Brown (FreeCodeCamp, Youtube)
+* [AWS Cloud Complete Bootcamp Course](https://www.youtube.com/watch?v=zA8guDqfv40) - Andrew Brown (FreeCodeCamp, Youtube)
+* [AWS CloudOps Engineer Associate Certification Course](https://www.youtube.com/watch?v=5JTBS09e7ew) - Andrew Brown (FreeCodeCamp, Youtube)
 * [AWS Power Hour: Architecting](https://pages.awscloud.com/traincert-twitch-power-hour-architecting.html?saa=sec&sec=prep) - AWS
 * [AWS Tutorial For Beginners](https://www.youtube.com/playlist?list=PLEiEAq2VkUULlNtIFhEQHo8gacvme35rz) - Simplilearn
 * [AWS Zero to Hero](https://www.youtube.com/playlist?list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze) - Abhishek Veeramalla
@@ -666,9 +666,9 @@
 * [AWS DevOps Engineer Learning Plan](https://explore.skillbuilder.aws/learn/public/learning_plan/view/85/devops-engineering-learning-plan?la=sec&sec=lp) - AWS
 * [Complete DevOps Zero to Hero Course](https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa) - Abhishek Veeramalla
 * [DevOps Bootcamp](https://www.youtube.com/playlist?list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak) - Kunal Kushwaha
-* [DevOps Courses](https://youtube.com/playlist?list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs&si=b0Mi2J1Iz660hVnr) - FreeCodeCamp 
+* [DevOps Courses](https://youtube.com/playlist?list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs&si=b0Mi2J1Iz660hVnr) - FreeCodeCamp (Youtube)
 * [DevOps from Zero to Hero: Build and Deploy a Production API](https://www.youtube.com/watch?v=H5FAxTBuNM8) - Adrian Hajdin (JavaScript Mastery)
-* [DevOps Full Course ](https://www.youtube.com/watch?v=lpk7VpGqkKw) - Simplilearn
+* [DevOps Full Course ](https://www.youtube.com/watch?v=lpk7VpGqkKw) - Simplilearn (Youtube)
 * [DevOps Tutorial for Beginners](https://www.youtube.com/playlist?list=PLVHgQku8Z934suC9LSE6vaAKjOH_MfRbE) - Intellipaat
 * [DevOps Tutorial for Beginners \| Learn DevOps in 7 Hours - Full Course \| DevOps Training \| Edureka](https://www.youtube.com/watch?v=hQcFE0RD0cQ) - Edureka
 

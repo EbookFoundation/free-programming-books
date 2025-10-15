@@ -152,12 +152,11 @@
 * [Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) - Abdul Bari
 * [Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0) - Pasan Premaratne, Jay McGavren (freeCodeCamp)
 * [Analysis of Algorithms (CSE 373)](https://www3.cs.stonybrook.edu/~skiena/373/videos) - Steven Skiena
-* [Berkeley University CS 61B: Data Structures](http://datastructur.es/sp16/) - Berkeley University (Josh Hug)
-* [Berkeley's CS 61B: Data Structures](https://archive.org/details/ucberkeley_webcast_QMV45tHCYNI) - Berkeley University
+* [Berkeley University CS 61B: Data Structures](http://datastructur.es/sp16/)
 * [C Programming & Data Structures](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM) - Neso Academy
 * [Codechef Solutions](https://www.youtube.com/playlist?list=PLRKOqqzwh75huOam-77G1v9uHjO9WWBRX) - Endeavour Monk
 * [Computer Sc - Programming and Data Structure](https://www.youtube.com/playlist?list=PLD9781AC5EBC9FA16) - P.P. Chakraborty
-* [CS Tutorials](https://youtube.com/playlist?list=PL9xmBV_5YoZPKwb4XPB1sG7S6kNpN9JJo) - Michael Sambol
+* [CS Tutorials](https://www.youtube.com/playlist?list=PL9xmBV_5YoZPKwb4XPB1sG7S6kNpN9JJo) - Michael Sambol
 * [Data Structure and Algorithm](https://www.youtube.com/playlist?list=PLLvKknWU7N4y_eGpQdg1Y-hORO7cxtoLU) - Lalit Vashistha
 * [Data Structures](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) - mycodeschool
 * [Data Structures](https://stepik.org/course/579/syllabus) - Niema Moshiri, Liz Izhikevich (Stepik)
@@ -970,8 +969,7 @@
 * [Object Oriented Programming (OOP) In Java Course](https://www.youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk) - Kunal Kushwaha
 * [Object-Oriented programming with Java, part I](https://moocfi.github.io/courses/2013/programming-part-1/) - University of Helsinki
 * [Object-Oriented programming with Java, part II](https://moocfi.github.io/courses/2013/programming-part-2/) - University of Helsinki
-* [Princeton Algorithms, Part 1](https://www.coursera.org/course/algs4partI) - Coursera (Princeton University)
-* [RestFul Web Service in Java](https://youtube.com/playlist?list=PLsyeobzWxl7oz8yL16PqO1sy9sxdlTuI1) - Telusko (Majrul Ansari, Navin Reddy)
+* [RestFul Web Service in Java](https://www.youtube.com/playlist?list=PLsyeobzWxl7oz8yL16PqO1sy9sxdlTuI1) - Telusko (Majrul Ansari, Navin Reddy)
 * [Servlet & JSP Tutorial Full Course](https://www.youtube.com/watch?v=OuBUUkQfBYM) - Telusko (Navin Reddy)
 * [Software Construction in Java](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.1x+3T2016/about) - MIT Open Learning Library
 * [Spring 5 Core - An Ultimate Guide](https://www.udemy.com/learn-spring-5-core-from-scratch/) - Somnath Musib (Udemy)

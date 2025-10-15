@@ -69,6 +69,7 @@
 ### Angular
 
 * [Angular Cheat Sheet](https://angular.io/guide/cheatsheet)
+* [Angular Cheat Sheet](https://zerotomastery.io/cheatsheets/angular-cheat-sheet/) - ZeroToMastery.io (HTML)
 * [Angular Cheat Sheet – A Basic Guide to Angular](https://www.geeksforgeeks.org/angular-cheat-sheet-a-basic-guide-to-angular/) - GeeksforGeeks
 
 
@@ -107,6 +108,7 @@
 
 * [C# Cheat Sheet](https://simplecheatsheet.com/tag/c-cheat-sheet-1/) - Simple Cheat Sheet (HTML)
 * [C# Cheat Sheet](https://www.thecodingguys.net/resources/cs-cheat-sheet.pdf) - THECODINGGUYS (PDF)
+* [C# Cheat Sheet](https://zerotomastery.io/cheatsheets/csharp-cheat-sheet/) - ZeroToMaster.io (HTML/PDF)
 
 
 ### <a id="cpp"></a>C++
@@ -424,6 +426,7 @@
 * [Python Regex Cheatsheet](https://www.debuggex.com/cheatsheet/regex/python) - Debuggex (HTML)
 * [Python WorldWide Cheatsheet](https://cheatography.com/davechild/cheat-sheets/python/) - Cheatography (Python)
 * [Scapy Cheat Sheet](https://www.templateroller.com/template/160817/scapy-cheat-sheet-jeremy-stretch.html) - Jeremy Stretch (PDF)
+* [Shiny for Python Cheat Sheet](https://rstudio.github.io/cheatsheets/html/shiny-python.html) - Posit (HTML/PDF)
 
 
 #### Django

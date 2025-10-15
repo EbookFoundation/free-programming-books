@@ -476,6 +476,7 @@
 #### PyTorch
 
 * [Deep Learning with PyTorch Cheat Sheet](https://www.datacamp.com/cheat-sheet/deep-learning-with-py-torch) - Richie Cotton (HTML)
+* [PyTorch Cheat Sheet](https://zerotomastery.io/cheatsheets/pytorch-cheat-sheet/) - ZeroToMastery (HTML)
 * [PyTorch Framework Cheat Sheet](https://www.simonwenkel.com/publications/cheatsheets/pdf/cheatsheet_pytorch.pdf) - Simon Wenkel (PDF)
 * [PyTorch Official Cheat Sheet](https://pytorch.org/tutorials/beginner/ptcheat.html) - PyTorch (HTML)
 

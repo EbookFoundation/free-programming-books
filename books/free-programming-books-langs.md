@@ -1074,6 +1074,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Java Application Development on Linux (2005)](https://ptgmedia.pearsoncmg.com/images/013143697X/downloads/013143697X_book.pdf) - Carl Albing, Michael Schwarz (PDF)
 * [Java, Java, Java Object-Oriented Problem Solving](https://archive.org/details/JavaJavaJavaObject-orientedProblemSolving/page/n0) - R. Morelli, R.Walde
 * [Java Language and Virtual Machine Specifications](https://docs.oracle.com/javase/specs/) - James Gosling, et al.
+* [Java ME 3.4 Developer's Guide for NetBeans on Windows](https://docs.oracle.com/javame/dev-tools/jme-sdk-3.4/nb/dev-guide-nb.pdf) - Oracle (PDF)
 * [Java Notes for Professionals](http://goalkicker.com/JavaBook/) - Compiled from StackOverflow documentation (PDF)
 * [Java Programming](https://en.wikibooks.org/wiki/Java_Programming) - Wikibooks
 * [Java Programming for Kids](https://yfain.github.io/Java4Kids/) - Yakov Fain
@@ -1105,11 +1106,6 @@ Books on general-purpose programming that don't focus on a specific language are
 
 * [Codename One Developer Guide](https://www.codenameone.com/files/developer-guide.pdf) (PDF)
 * [Create an Uber Clone in 7 Days (first 2 chapters)](http://uber.cn1.co) - Shai Almog (PDF)
-
-
-#### Java ME
-
-* [Java ME 3.4 Developer's Guide for NetBeans on Windows](https://docs.oracle.com/javame/dev-tools/jme-sdk-3.4/nb/dev-guide-nb.pdf) - Oracle (PDF)
 
 
 #### Java Reporting

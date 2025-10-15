@@ -2659,6 +2659,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Verilog, Formal Verification and Verilator Beginner's Tutorial](https://zipcpu.com/tutorial/) - Daniel E. Gisselquist
 * [Verilog Quick Reference Guide - Sutherland HDL](http://sutherland-hdl.com/pdfs/verilog_2001_ref_guide.pdf) (PDF)
 * [Verilog Tutorial](http://www.asic-world.com/verilog/veritut.html)
+* [SystemVerilog](https://systemverilog.dev) - Keyi Zhang (HTML)
 
 
 ### VHDL

@@ -2,6 +2,7 @@
 
 * [Algorithms](#algorithms)
 * [Android](#android)
+* [Assembly](#assembly)
 * [C](#c)
 * [C++](#cplusplus)
 * [C#](#csharp)
@@ -25,15 +26,24 @@
 * [Flutter App Development Tutorial in Urdu / Hindi](https://www.youtube.com/playlist?list=PLFyjjoCMAPtxq8V9fuVmgsYKLNIKqSEV4) - The Tech Brothers&rlm;
 
 
-### <a id="c"></a>C
+### Assembly
 
-* [C language tutorial for beginners Urdu/Hindi](https://www.youtube.com/playlist?list=PLtCBuHKmdxOfDo1cChVR3jYEzLtNpGjXa) - Fahad Hussain&rlm;
+* [Assembly Language Programming Tutorials in Urdu / Hindi](https://www.youtube.com/playlist?list=PLR2FqYUVaFJpHPw1ExSVJZFNlXzJYGAT1) - Programology&rlm;
+
+
+### C
+
+* [C Language Tutorials (Urdu/Hindi)](https://www.youtube.com/playlist?list=PL0yiR-15Ytq8ro6SA-0JWkdyihxxVc_cB) - AssadUllahCh
+* [C language tutorial for beginners Urdu/Hindi](https://www.youtube.com/playlist?list=PLtCBuHKmdxOfDo1cChVR3jYEzLtNpGjXa) - Fahad Hussain
+* [C Programming for Beginners Urdu/Hindi](https://www.youtube.com/playlist?list=PLezGSay-CjmxobCUsJnIelVG5kM12qKY_) - Super Learning
 
 
 ### <a id="cplusplus"></a>C++
 
 * [C++ Course Series for Beginner in Urdu/Hindi](https://www.youtube.com/playlist?list=PLuuQCKO44unsLwJMkR8_koVG6vDPjMYmH) - Learning Point&rlm;
 * [C++ Free Course for Beginners in (Urdu /Hindi)](https://www.youtube.com/playlist?list=PLt4rWC_3rBbWnDrIv4IeC4Vm7PN1wvrNg) - CodeMite&rlm;
+* [Object Oriented Programming (OOP) Using C++ [Full Course]](https://www.youtube.com/playlist?list=PLduM7bkxBdOekXfkEqIBAivzG99V2LrAS) - Safdar Dogar&rlm;
+* [Object Oriented Programming with C++ (Urdu)](https://www.youtube.com/playlist?list=PLnd7R4Mcw3rJicg4QtoI8gFkoefyCLvEq) - Recluze&rlm;
 * [Programming Fundamentals With C++ Complete Course In urdu \| Hindi](https://www.youtube.com/playlist?list=PL4QkPoTgwFULciDFVJEHEwOKMtf9Q_Aqh) - Kacs Learnings&rlm;
 
 
@@ -68,3 +78,4 @@
 
 * [Python](https://www.youtube.com/playlist?list=PL-vQNozaqIxuPzFUVEIrYDvd6ieUshJTw) - Kawish - Urdu&rlm;
 * [Python_ka_chilla (python in 40 days in urdu/Hindi)](https://www.youtube.com/playlist?list=PL9XvIvvVL50HVsu-Ao8NBr0UJSO8O6lBI) - Codeanics&rlm;
+* [Python Tutorial For Beginners](https://www.youtube.com/playlist?list=PLejKBGxF74J7pEMNf4hAJkssDSef73H7c) - Cyber Warriors - Urdu&rlm;

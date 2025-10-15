@@ -2007,6 +2007,7 @@ Books on general-purpose programming that don't focus on a specific language are
     * [How to Think Like a Computer Scientist: Learning with Python 3 (RLE)](https://openbookproject.net/thinkcs/python/english3e/) - Peter Wentworth, Jeffrey Elkner, Allen B. Downey, Chris Meyers [(PDF)](https://www.ict.ru.ac.za/Resources/cspw/thinkcspy3/thinkcspy3.pdf)
 * [Inside The Python Virtual Machine](https://leanpub.com/insidethepythonvirtualmachine/read) - Obi Ike-Nwosu (HTML)
 * [Intermediate Python](https://book.pythontips.com/en/latest/) - Muhammad Yasoob Ullah Khalid (1st edition)
+* [Introduction to Programming in Python](https://introcs.cs.princeton.edu/python/home/) - Robert Sedgewick, Kevin Wayne (HTML)
 * [Introduction to Programming with Python](http://opentechschool.github.io/python-beginners/en/) (3.3)
     * [Introduction to Programming Using Python](http://python-ebook.blogspot.co.uk) - Cody Jackson (1st edition) (2.3)
 * [Introduction to Python](http://kracekumar.com/post/71171551647/introduction-to-python) - Kracekumar (2.7.3)

@@ -729,7 +729,7 @@
 * [Advance Python (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhijd1hUF2VWiKt8FHNBa7kGb) - Rajesh Kumar, Geeky Shows
 * [Chai aur Python](https://www.youtube.com/playlist?list=PLu71SKxNbfoBsMugTFALhdLlZ5VOqCg2s) - Chai aur Code
 * [Class 12 Board \| Python \| Computer Science](https://www.youtube.com/playlist?list=PLKKfKV1b9e8oyESqu5mrGN-eDxHdNoi_j) - Apni Kaksha
-* [Complete Python Tutorial for Beginners to Advanced in Hindi](https://youtube.com/playlist?list=PLjVLYmrlmjGcQfNj_SLlLV4Ytf39f8BF7&si=8vrtvYbhLDiHjR7f) - WsCube Tech 
+* [Complete Python Tutorial for Beginners to Advanced in Hindi](https://www.youtube.com/playlist?list=PLjVLYmrlmjGcQfNj_SLlLV4Ytf39f8BF7) - WsCube Tech  
 * [Complete Python tutorial in Hindi](https://www.youtube.com/playlist?list=PLmRclvVt5DtmcLF3ywxKg692lhfD6SUOr) - codeitup
 * [Complete Python Tutorial in Hindi (2020)](https://www.youtube.com/playlist?list=PLwgFb6VsUj_lQTpQKDtLXKXElQychT_2j) - Harshit Vashisth
 * [Core Python (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhigZkqrHbI_ZkPBrIr5Rsd5L) - Rajesh Kumar, Geeky Shows
@@ -763,7 +763,7 @@
 
 * [Flask (Python) In Hindi](https://www.youtube.com/playlist?list=PLy-CGmBdq2VGQGbhmSQEOD3Ty-Fp19pGC) - HindiSiksha
 * [Flask for Machine Learning](https://learnwith.campusx.in/courses/Flask-for-Machine-Learning-Introduction-to-Flask--Dynamic-URL-Redirection-URL-Building-Jinja-Templates-Forms--Input-Validation-Databases-Sessions-Cookies-Training--Deloyment-of-ML-Model-6658698ad54433398d1a487b) - Mohammed Misbahullah Sheriff (CampusX)
-* [Flask Tutorial In Hindi](https://youtube.com/playlist?list=PLQ623tNax05w6xydSxUSWpBuIUDe_SBNb&si=IVgsnH5vytfKFIFd) - Knowledge Gainer
+* [Flask Tutorial in Hindi](https://www.youtube.com/playlist?list=PLQ623tNax05w6xydSxUSWpBuIUDe_SBNb) - Knowledge Gainer
 * [Web Development Using Flask and Python](https://www.youtube.com/playlist?list=PLu0W_9lII9agAiWp6Y41ueUKx1VcTRxmf) - CodeWithHarry
 
 

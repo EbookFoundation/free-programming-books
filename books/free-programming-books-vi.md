@@ -14,6 +14,7 @@
 
 * [Đắm chìm vào Học sâu](https://d2l.aivivn.com) - `trl.:` Nhóm dịch thuật Đắm chìm vào Học sâu (HTML)
 
+
 ### <a id="python"></a>Python
 
 * [Tư duy Python: Cách tư duy như một Nhà khoa học máy tính](https://bitbucket.org/tanhuynhng/thinking-python/src/master/) - Allen B.Downey, Translation by: Tan H. Nguyen `trl.:` Tư duy Python: Cách tư duy như một Nhà khoa học máy tính (HTML)

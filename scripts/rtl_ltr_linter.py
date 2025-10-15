@@ -250,11 +250,6 @@ def lint_file(path, cfg):
         # Check for block-level directionality changes (e.g., <div dir="rtl">)
         m_div_open = HTML_DIR_ATTR_RE.search(line)
         
-        # If an opening <div dir="..." markdown="1"> tag is found
-        if m_div_open and 'markdown="1"' in line:
-            new_div_ctx = m_div_open.group(2).lower()   # Extract the new directionality context from the opening div tag
-            block_context_stack.append(new_div_ctx)     # Push the new directionality context onto the stack
-            continue                                    # Continue to the next line of the file
         
         # If a closing </div> tag is found and we are inside a div context
         # (i.e., the stack has more than just the base file_direction_ctx)

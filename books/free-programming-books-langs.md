@@ -1901,7 +1901,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [A Unix Person's Guide to PowerShell](https://leanpub.com/aunixpersonsguidetopowershell/read) - The DevOps Collective Inc. (HTML)
 * [Creating HTML Reports in PowerShell](https://leanpub.com/creatinghtmlreportsinwindowspowershell/read) - The DevOps Collective Inc. (HTML)
 * [DevOps: The Ops Perspective](https://leanpub.com/devopstheopsperspective/read) - The DevOps Collective Inc. (HTML)
-* [Ditch Excel: Making Historical & Trend Reports in PowerShell](https://leanpub.com/ditchexcelmakinghistoricalandtrendreportsinpowershell/read) - The DevOps Collective Inc. (HTML)
+* [Ditch Excel: Making Historical & Trend Reports in PowerShell](https://leanpub.com/ditchexcelmakinghistoricalandtrendreportsinpowershell/read) - The DevOps Collective Inc. (HTML) *(Leanpub account or valid email requested)*
 * [Essential PowerShell](https://www.programming-books.io/essential/powershell/) - Krzysztof Kowalczyk, StackOverflow Contributors
 * [Layman’s Guide to PowerShell 2.0 remoting](https://ravichaganti.com/ebooks/AlaymansguidetoPowerShell2remotingv2.pdf) (PDF)
 * [Learn PowerShell Core 6.0](https://www.packtpub.com/free-ebooks/learn-powershell-core-60) - David das Neves, Jan-Hendrik Peters (Packt account *required*)
@@ -1911,9 +1911,9 @@ Books on general-purpose programming that don't focus on a specific language are
 * [PowerShell 2.0 – One CMDLET At A Time](http://www.jonathanmedd.net/wp-content/uploads/2010/09/PowerShell_2_One_Cmdlet_at_a_Time.pdf) (PDF)
 * [PowerShell Notes for Professionals](http://goalkicker.com/PowerShellBook/) - Compiled from StackOverflow documentation (PDF)
 * [PowerShell Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/powershell) (PDF, Kindle) (email address *requested*, not required)
-* [Secrets of PowerShell Remoting](https://leanpub.com/secretsofpowershellremoting/read) - The DevOps Collective Inc. (HTML)
-* [The Big Book of PowerShell Error Handling](https://leanpub.com/thebigbookofpowershellerrorhandling/read) - The DevOps Collective Inc. (HTML)
-* [The Big Book of PowerShell Gotchas](https://leanpub.com/thebigbookofpowershellgotchas/read) - The DevOps Collective Inc. (HTML)
+* [Secrets of PowerShell Remoting](https://leanpub.com/secretsofpowershellremoting/read) - The DevOps Collective Inc. (HTML) *(Leanpub account or valid email requested)*
+* [The Big Book of PowerShell Error Handling](https://leanpub.com/thebigbookofpowershellerrorhandling/read) - The DevOps Collective Inc. (HTML) *(Leanpub account or valid email requested)*
+* [The Big Book of PowerShell Gotchas](https://leanpub.com/thebigbookofpowershellgotchas/read) - The DevOps Collective Inc. (HTML) *(Leanpub account or valid email requested)*
 * [The Monad Manifesto - Annotated](https://leanpub.com/themonadmanifestoannotated/read) - The DevOps Collective Inc. (HTML)
 * [The PowerShell + DevOps Global Summit Manual for Summiteers](https://leanpub.com/windowspowershellnetworkingguide/read) - The DevOps Collective Inc. (HTML)
 * [Why PowerShell?](https://leanpub.com/whypowershell/read) - The DevOps Collective Inc. (HTML)

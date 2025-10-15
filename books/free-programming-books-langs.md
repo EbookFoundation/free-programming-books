@@ -408,7 +408,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Linux Shell Scripting With Bash](https://archive.org/download/B-001-002-839/LinuxShellScriptingWithBash-Sams.pdf) - Ken O. Burtch (PDF)
 * [Slackbook (2005)](http://slackbook.org) - Alan Hicks, Chris Lumens, David Cantrell, Logan Johnson (HTML, DocBook, Postscript, PDF)
 * [The Bash Academy](http://guide.bash.academy) - Maarten Billemont (HTML)
-* [The Linux Command Line](http://linuxcommand.org/tlcl.php) - William E. Shotts Jr. (PDF)
+* [The Linux Command Line](http://linuxcommand.org/tlcl.php) - William E. Shotts Jr. (PDF) (CC BY-NC-ND)
 * [The Shell Scripting Tutorial](https://www.shellscript.sh) - Steve Parker (HTML)
 * [Writing Shell Scripts](http://linuxcommand.org/lc3_writing_shell_scripts.php) - William E. Shotts Jr. (HTML)
 
@@ -465,7 +465,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Learning GNU C](https://download-mirror.savannah.gnu.org/releases/c-prog-book/learning_gnu_c.pdf) - Ciaran O’Riordan (PDF)
 * [Let us C](https://books.google.co.in/books?id=Ce6gAAAACAAJ&printsec=frontcover#v=onepage&q&f=false) - Yashavant Kanetkar (PDF)
 * [Modeling with Data](https://ben.klemens.org/pdfs/gsl_stats.pdf) - Ben Klemens (PDF)
-* [Modern C](https://gustedt.gitlabpages.inria.fr/modern-c/) - Jens Gustedt (PDF)
+* [Modern C](https://gustedt.gitlabpages.inria.fr/modern-c/) - Jens Gustedt (PDF) (CC BY-NC-ND)
 * [Object-Oriented Programming With ANSI-C](https://www.cs.rit.edu/~ats/books/ooc.pdf) - Axel-Tobias Schreiner (PDF)
 * [Programming in C](http://ee.hawaii.edu/~tep/EE160/Book/PDF/) - Bharat Kinariwala & Tep Dobry
 * [Programming in C](https://www.freetechbooks.com/programming-in-c-t1337.html) - Kishori Mundargi

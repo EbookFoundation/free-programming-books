@@ -1968,7 +1968,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) - Jake VanderPlas
 * [An Introduction to Statistical Learning with Applications in Python](https://www.statlearning.com) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, Jonathan Taylor (PDF)
 * [Architecture Patterns with Python](https://www.cosmicpython.com/book/preface.html) - Harry J.W. Percival, Bob Gregory (HTML)
-* [Automate the Boring Stuff with Python, 3nd Edition: Practical Programming for Total Beginners](https://automatetheboringstuff.com/3e/) - Al Sweigart (HTML)
+* [Automate the Boring Stuff with Python, 3nd Edition: Practical Programming for Total Beginners](https://automatetheboringstuff.com/3e/) - Al Sweigart (HTML) (CC BY-NC-SA)
 * [Beej's Guide to Python Programming - For Beginners](http://beej.us/guide/bgpython/) - Brian "Beej Jorgensen" Hall (HTML,PDF)
 * [Beyond the Basic Stuff with Python](https://inventwithpython.com/beyond/) - Al Sweigart (3.x)
 * [Biopython Tutorial and Cookbook](https://biopython.org/DIST/docs/tutorial/Tutorial.pdf) (PDF)
@@ -2091,7 +2091,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [The Recursive Book of Recursion](https://inventwithpython.com/recursion/) - Al Sweigart (HTML) (3.x)
 * [The Standard Python Library](https://web.archive.org/web/20200626001242/http://effbot.org/librarybook/) - Fredrik Lundh *( :card_file_box: archived)*
 * [Think Complexity](https://greenteapress.com/wp/think-complexity-2e/) - Allen B. Downey (2nd Edition) (PDF, HTML)
-* [Think DSP - Digital Signal Processing in Python](https://greenteapress.com/wp/think-dsp/) - Allen B. Downey (PDF, HTML)
+* [Think DSP - Digital Signal Processing in Python](https://greenteapress.com/wp/think-dsp/) - Allen B. Downey (PDF, HTML) (CC BY-NC)
 * [Think Python 2nd Edition](https://greenteapress.com/wp/think-python-2e/) - Allen B. Downey (3.x) (HTML, PDF) (CC BY-NC)
     * [Think Python First Edition](https://greenteapress.com/wp/think-python/) - Allen B. Downey (2.x) (HTML, PDF) (CC BY-NC)
 * [Tiny Python 3.6 Notebook](https://github.com/mattharrison/Tiny-Python-3.6-Notebook) - Matt Harrison (3.6)

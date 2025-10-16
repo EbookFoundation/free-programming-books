@@ -552,8 +552,8 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [SticiGui](https://www.stat.berkeley.edu/~stark/SticiGui/) - Philip Stark
 * [Tea Time Numerical Analysis](https://lqbrin.github.io/tea-time-numerical/) - Leon Q. Brin
 * [The Open Logic Text](https://builds.openlogicproject.org/open-logic-complete.pdf) - Open Logic Project (PDF)
-* [Think Bayes: Bayesian Statistics Made Simple](https://www.greenteapress.com/thinkbayes/) - Allen B. Downey
-* [Think Stats: Probability and Statistics for Programmers](https://greenteapress.com/thinkstats/) - Allen B. Downey (using Python)
+* [Think Bayes: Bayesian Statistics Made Simple](https://www.greenteapress.com/thinkbayes/) - Allen B. Downey (CC BY-NC-SA)
+* [Think Stats: Probability and Statistics for Programmers](https://greenteapress.com/thinkstats/) - Allen B. Downey (using Python) (CC BY-NC-SA)
 * [Yet Another Introductory Number Theory Textbook](https://www.poritz.net/jonathan/share/yaintt.pdf) - Jonathan A. Poritz (PDF)
 
 

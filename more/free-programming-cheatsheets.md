@@ -126,7 +126,7 @@
 
 * [Chef Cheat Sheet](https://intellipaat.com/blog/tutorial/devops-tutorial/chef-cheat-sheet/) - Intellipaat (HTML)
 
- 
+
 ### Clojure
 
 * [Clojure](https://www.programming-idioms.org/cheatsheet/Clojure) - Programming-Idioms (HTML)

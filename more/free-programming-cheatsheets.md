@@ -63,6 +63,7 @@
 * [TypeScript](#typescript)
 * [UI/UX](#uiux)
 * [Unit testing](#unit-testing)
+* [VBA](#vba)
 * [Webpack](#webpack)
 
 
@@ -426,6 +427,7 @@
 * [Python Regex Cheatsheet](https://www.debuggex.com/cheatsheet/regex/python) - Debuggex (HTML)
 * [Python WorldWide Cheatsheet](https://cheatography.com/davechild/cheat-sheets/python/) - Cheatography (Python)
 * [Scapy Cheat Sheet](https://www.templateroller.com/template/160817/scapy-cheat-sheet-jeremy-stretch.html) - Jeremy Stretch (PDF)
+* [SciPy Cheat Sheet: Linear Algebra in Python](https://www.datacamp.com/cheat-sheet/scipy-cheat-sheet-linear-algebra-in-python) - Datacamp (HTML, PDF)
 * [Shiny for Python Cheat Sheet](https://rstudio.github.io/cheatsheets/html/shiny-python.html) - Posit (HTML/PDF)
 
 
@@ -476,6 +478,7 @@
 #### PyTorch
 
 * [Deep Learning with PyTorch Cheat Sheet](https://www.datacamp.com/cheat-sheet/deep-learning-with-py-torch) - Richie Cotton (HTML)
+* [PyTorch Cheat Sheet](https://zerotomastery.io/cheatsheets/pytorch-cheat-sheet/) - ZeroToMastery (HTML)
 * [PyTorch Framework Cheat Sheet](https://www.simonwenkel.com/publications/cheatsheets/pdf/cheatsheet_pytorch.pdf) - Simon Wenkel (PDF)
 * [PyTorch Official Cheat Sheet](https://pytorch.org/tutorials/beginner/ptcheat.html) - PyTorch (HTML)
 
@@ -578,6 +581,11 @@
 * [Jest CheatSheet](https://devhints.io/jest) - devhints, Rico Santa Cruz (HTML)
 * [React Testing Library CheatSheet](https://testing-library.com/docs/react-testing-library/cheatsheet/) - Kent C. Dodds, et al. (HTML)
 * [What is Unit testing](https://www.guru99.com/unit-testing-guide.html) - Thomas Hamilton (HTML)
+
+
+### VBA
+
+* [VBA Cheat Sheet](https://zerotomastery.io/cheatsheets/vba-cheat-sheet/) - ZeroToMastery (HTML)
 
 
 ### Webpack

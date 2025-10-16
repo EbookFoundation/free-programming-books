@@ -137,6 +137,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Maven](#maven)
 * [Mercury](#mercury)
 * [Modelica](#modelica)
+* [Mojo](#mojo)
 * [MongoDB](#mongodb)
 * [MySQL](#mysql)
 * [.NET Core / .NET](#net-core)
@@ -1640,6 +1641,11 @@ Books on general-purpose programming that don't focus on a specific language are
 
 * [Modelica by Example](http://book.xogeny.com)
 
+### Mojo
+
+* [Getting Started with Mojo](https://docs.modular.com/mojo/manual/get-started) - Modular Documentation (HTML)
+* [Mojo Programming Language Documentation](https://medium.com/@srivastavashivansh8922/mojo-programming-language-documentation-36d3b67963bb) -Shivansh Srivastava (HTML)
+* [Mojo Programming Language for AI Developers](https://www.geeksforgeeks.org/blogs/mojo-programming-language-for-ai-developers/) - GeeksforGeeks (HTML)
 
 ### MongoDB
 

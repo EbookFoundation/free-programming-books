@@ -122,6 +122,11 @@
 * [OpenMP 4.0 API C/C++ Syntax Quick Reference Card](https://www.openmp.org/wp-content/uploads/OpenMP-4.0-C.pdf) (PDF)
 
 
+### Chef
+
+* [Chef Cheat Sheet](https://intellipaat.com/blog/tutorial/devops-tutorial/chef-cheat-sheet/) - Intellipaat (HTML)
+
+ 
 ### Clojure
 
 * [Clojure](https://www.programming-idioms.org/cheatsheet/Clojure) - Programming-Idioms (HTML)
@@ -285,6 +290,11 @@
 * [Operator Lookup](https://www.joshwcomeau.com/operator-lookup/) - Josh W. Comeau (HTML)
 
 
+### Jenkins 
+
+* [Jenkins Cheat Sheet](https://intellipaat.com/blog/tutorial/devops-tutorial/jenkins-cheat-sheet/) - Intellipaat (HTML)
+
+
 #### jQuery
 
 * [Beginner's essential jQuery Cheat Sheet](https://websitesetup.org/wp-content/uploads/2017/01/wsu-jquery-cheat-sheet.pdf) (PDF)
@@ -343,6 +353,7 @@
 * [Handy Cheat Sheet for Kubernetes Beginners](https://kubernetes.io/docs/reference/kubectl/cheatsheet/) - Kubernetes Documentation: kubectl Cheat Sheet (HTML)
 * [Kubernetes Cheat Sheet](https://www.mirantis.com/blog/kubernetes-cheat-sheet/) - Nick Chase (HTML)
 * [Kubernetes Cheat Sheet – 15 Kubectl Commands & Objects](https://spacelift.io/blog/kubernetes-cheat-sheet) - Spacelift (HTML)
+* [Kubernetes Cheat Sheet with KubeCtl](https://intellipaat.com/blog/tutorial/devops-tutorial/kubernetes-cheat-sheet/) - Intellipath (HTML)
 
 
 ### Language Translations
@@ -405,6 +416,11 @@
 * [Powershell 7.0 - Quick References](https://practicalpowershell.com/wp-content/uploads/2020/04/PowerShellQuickReference-PowerShell7.0-v1.03.pdf) - PracticalPowershell (PDF)
 * [SANS Powershell Cheatsheet](https://wiki.sans.blue/Tools/pdfs/PowerShell.pdf) - SANS (PDF)
 * [The Most Helpful PowerShell Cheat Sheet You’ll Ever Find](https://www.stationx.net/powershell-cheat-sheet/) - Cassandra Lee (HTML)
+
+
+### Puppet
+
+* [Puppet Cheat Sheet](https://intellipaat.com/blog/tutorial/devops-tutorial/puppet-cheat-sheet/) - Intellipaat (HTML)
 
 
 ### Python

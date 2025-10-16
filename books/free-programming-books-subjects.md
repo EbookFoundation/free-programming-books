@@ -656,19 +656,6 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 - [Programming Fundamentals](https://press.rebus.community/programmingfundamentals/) - Kenneth Leroy Busbee, Dave Braunschweig
 - [Programming with Unicode](https://unicodebook.readthedocs.org)
 - [Real-World Maintainable Software](https://www.oreilly.com/ideas/real-world-maintainable-software) - Abraham Marin-Perez
-- [Record-Playback Test Automation: Sahi & Selenium IDE: Critical Evaluation of Record-Playback Automation Tools](https://leanpub.com/manualToAutomatedWithSeleniumIDEAndSahi) - Shashikant Jagtap _(Leanpub account or valid email requested)_
-- [Scientific Programming and Computer Architecture](https://divakarvi.github.io/bk-spca/spca.html) - Divakar Viswanath
-- [Signal Computing: Digital Signals in the Software Domain](http://faculty.washington.edu/stiber/pubs/Signal-Computing/Signal%20Computing.pdf) - Michael Stiber, Bilin Zhang Stiber, Eric C. Larson (PDF)
-- [Site Reliability Engineering - How Google run production systems](https://sre.google/sre-book/table-of-contents/) - Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Murphy (HTML)
-- [Small Memory Software](https://smallmemory.charlesweir.com/book.html) - Charles Weir, James Noble (HTML)
-- [Software-Defined Radio for Engineers](https://www.analog.com/media/en/training-seminars/design-handbooks/Software-Defined-Radio-for-Engineers-2018/SDR4Engineers.pdf) - Travis Collins, et al. (PDF)
-- [Software Technical Writing: A Guidebook](https://jamesg.blog/book.pdf) - James Gallagher (PDF)
-- [The Art of High Perfomance Computing - Volume 1: The Science of Computing](https://theartofhpc.com/istc/index.html) - Victor Eijkhout (HTML)
-- [The Art of High Perfomance Computing - Volume 2: Parallel Programming for Science Engineering](https://theartofhpc.com/pcse/index.html) - Victor Eijkhout (HTML)
-- [The Art of High Perfomance Computing - Volume 3: Introduction to Scientific Programming](https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol3/EijkhoutIntroSciProgramming-book.pdf) - Victor Eijkhout (PDF)
-- [The Art of High Perfomance Computing - Volume 4: HPC Carpentry](https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol4/EijkhoutHPCtutorials.pdf) - Victor Eijkhout (PDF)
-- [The Site Reliability Workbook - Practical Ways to Implement SRE](https://sre.google/workbook/table-of-contents/) - Betsy Beyer, Niall Richard Murphy, David K. Rensin, Kent Kawahara, Stephen Thorne (HTML)
-- [The Web Development Glossary](https://github.com/frontenddogma/web-development-glossary) – Jens Oliver Meiert
 - [Using Z Specification, Refinement, and Proof](http://www.usingz.com/usingz.pdf) - Jim Woodcock, Jim Davies (PDF)
 - [Web Almanac](https://almanac.httparchive.org/static/pdfs/web_almanac_2019_en.pdf) (PDF)
 - [Writing Native Mobile Apps in a Functional Language Succinctly](https://www.syncfusion.com/ebooks/writing_native_mobile_apps_in_a_functional_language_succinctly) - Vassili Kaplan
@@ -717,11 +704,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 - [Getting Started with InnerSource](https://www.oreilly.com/programming/free/getting-started-with-innersource.csp) (email address _requested_, not required)
 - [Getting started with Open source development](https://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_started_with_open_source_development_p2.pdf) (PDF)
 - [GitLab Handbook](https://about.gitlab.com/handbook/)
-- [How to get started with open source](https://opensource.com/resources/ebook/how-get-started-open-source) (ePub & ODT)
-- [Innovation Happens Elsewhere](https://dreamsongs.com/IHE/IHE.html) - Ron Goldman, Richard P. Gabriel
-- [Introduction to Networking](https://do1.dr-chuck.net/net-intro/EN_us/net-intro.pdf) - Charles Severance (PDF)
-- [Open Advice: FOSS: What We Wish We Had Known When We Started](http://open-advice.org)
-- [Open source in Brazil](https://www.oreilly.com/ideas/open-source-in-brazil) - Andy Oram
+- [How to get started with open source](https://opensource.com/resources/azil) - Andy Oram
 - [Producing Open Source Software](https://producingoss.com) - Karl Fogel
 - [Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure](https://www.fordfoundation.org/work/learning/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/) - Nadia Eghbal
 - [The Architecture of Open Source Applications: Vol. 1: Elegance, Evolution, and a Few Fearless Hacks; Vol. 2: Structure, Scale, and a Few More Fearless Hacks](https://www.aosabook.org/en/index.html)
@@ -759,9 +742,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 - [High Performance Computing Training](https://hpc.llnl.gov/documentation/tutorials) (LLNL materials)
 - [High-Performance Scientific Computing](https://andreask.cs.illinois.edu/Teaching/HPCFall2012) (class lectures and slides)
 - [Introduction to High-Performance Scientific Computing](http://pages.tacc.utexas.edu/~eijkhout/istc/istc.html) - Victor Eijkhout
-- [Introduction to Parallel Computing](https://hpc.llnl.gov/documentation/tutorials/introduction-parallel-computing-tutorial) - Blaise Barney
-- [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html) - Paul E. McKenney
-- [Programming on Parallel Machines; GPU, Multicore, Clusters and More](http://heather.cs.ucdavis.edu/parprocbook) - Norm Matloff
+- [Introduction to Parallel Computing](https://hpc.llnl.gov/documentation/tp://heather.cs.ucdavis.edu/parprocbook) - Norm Matloff
   Kerridge (PDF) (email address _requested_, not required)
 - [The OpenCL Programming Book](https://us.fixstars.com/products/opencl/book/OpenCLProgrammingBook/contents/)
 
@@ -840,10 +821,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 
 - [JavaScript RegExp](https://learnbyexample.github.io/learn_js_regexp/) - Sundeep Agarwal
 - [Python re(gex)?](https://learnbyexample.github.io/py_regular_expressions/) - Sundeep Agarwal
-- [Regular Expressions for Regular Folk](https://refrf.shreyasminocha.me) - Shreyas Minocha
-- [RexEgg](https://www.rexegg.com)
-- [Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp/) - Sundeep Agarwal
-- [The 30 Minute Regex Tutorial](https://www.codeproject.com/Articles/9099/The-Minute-Regex-Tutorial) - Jim Hollenhorst
+- [Regular Expressions for Regular Folk](https://refrf.shreyasminocha.me) - Shreyas Minochatorial) - Jim Hollenhorst
 
 ### Reverse Engineering
 
@@ -851,9 +829,8 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 - [Hacking the Xbox: An Introduction to Reverse Engineering](https://www.nostarch.com/xboxfree/) - Andrew "bunnie" Huang
 - [iOS App Reverse Engineering](https://github.com/iosre/iOSAppReverseEngineering) - Zishe Sha (PDF)
 
-### Search Engines
+/) - (HTML)
 
-- [Elasticsearch Certified Engineer notes](https://www.pistocop.dev/posts/es_engineer_exam_notes/) - (HTML)
 - [Elasticsearch: The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html) ([fork it on GH](https://github.com/elastic/elasticsearch-definitive-guide))
 - [Search Engines: Information Retrieval in Practice](https://ciir.cs.umass.edu/irbook) - W. Bruce Croft, Donald Metzler, Trevor Strohman (PDF)
 - [Solr for newbies workshop (2019)](https://github.com/hectorcorrea/solr-for-newbies) - Hector Correa ([PDF](https://github.com/hectorcorrea/solr-for-newbies/blob/master/tutorial.pdf))
@@ -923,7 +900,12 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 - [Shape Up - Stop Running in Circles and Ship Work that Matters](https://basecamp.com/shapeup) - Ryan Singer (PDF)
 - [Site Reliability Engineering](https://landing.google.com/sre/book/index.html)
 - [Software Architecture Patterns](https://www.oreilly.com/programming/free/software-architecture-patterns.csp) (email address _requested_, not required)
-- [Software Engineering for Internet Applications](https://philip.greenspun.com/seia/)
+- [Software Engineering for I
+
+### Search Enginesnternet Applicat
+
+- [Elasticsearch Certified Engineer notes ](<https://www.pistocop.dev/posts/es_engineer_exam_notes>
+- [RexEgg](https://www.rexegg.com)ions](<https://philip.greenspun.com/seia/>)
 - [Source Making Design Patterns and UML](https://sourcemaking.com/design_patterns)
 - [Test Driven Development, Extensive Tutorial](https://github.com/grzesiek-galezowski/tdd-ebook) - Grzegorz Gałęzowski
 - [The Accidental CTO: How I Scaled from Zero to a Million Stores on Dukaan, Without a CS Degree](https://github.com/subhashchy/The-Accidental-CTO) - Subhash Choudhary
@@ -975,7 +957,9 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 - [Git Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/git) - Ryan Hodson (PDF, Kindle) (email address _requested_, not required)
 - [Git Tutorial](https://www.tutorialspoint.com/git/) - Tutorials Point (HTML, PDF)
 - [Git-Tutorial For-Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) - HubSpot Product Team
-- [Git Workflows](https://web.archive.org/web/20210910133251/http://documentup.com/skwp/git-workflows-book) - Yan Pritzker _( :card_file_box: archived)_
+- [Git Workflows](https://web.archive.org/web/20210910133251/http://documentup.com/skwp/git-workflows-book) - Yan Pritzker \*( :card_file_box: a
+- [Ruby Regexp](https://learnbyexample.github.io/Ruby_Regexp/) - Sundeep Agarwal
+- [The 30 Minute Regex Tutorial](https://www.codeproject.com/Articles/9099/The-Minute-Regex-Tututorials/introduction-parallel-computing-tutoriarchived)\*
 - [Happy Git and GitHub for the useR](https://happygitwithr.com) - Jenny Bryan
 - [Hg Init: a Mercurial Tutorial](https://hginit.github.io) - Joel Spolsky
 - [How to Collaborate on GitHub: A mini book about collaborating on GitHub](https://github.com/eonist/How-to-collaborate-on-github) - André J
@@ -1006,4 +990,23 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 
 ### Workflow
 
-- [Declare Peace on Virtual Machines. A guide to simplifying vm-based development on a Mac](https://leanpub.com/declarepeaceonvms/read)
+- [Declare Peace on Virtual Machines. A guide to simplifying vm-based development on a Mac](https://leanpub.com/declarepeaceonvms/read)l) - Blaise Barney
+- [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html) - Paul E. McKenney
+- [Programming on Parallel Machines; GPU, Multicore, Clusters and More](htebook/how-get-started-open-source) (ePub & ODT)
+- [Innovation HappeNetworking](https://do1.dr-chuck.net/net-intro/EN_us/net-intro.pdf) - Charles Severance (PDF)
+- [Open Advice: FOSS: What We Wish We Had Known When We Started](http://open-advice.org)
+- [Open source in Brazil](<https://www.oreilly.com/ideas/open-source-in-brns> Elsewhere](<https://dreamsongs.com/IHE/IHE.html>) - Ron Goldman, Richard P. Gabriel
+- [Introduction to Record-Playback Test Automation: Sahi & Selenium IDE: Critical Evaluation of Record-Playback Automation Tools](https:://leanpub.com/manualToAutomatedWithSeleniumIDEAndSahi) - Shashikant Jagtap _(Leanpub account or valid email requested)_
+- [Scientific Programming and Computer Architecture](https://divakarvi.github.io/bk-spca/spca.html) - Divakar Viswanath
+- [Signal Computing:nt Glossary](https://github.com/frontenddogma/web-development-glossary) – Jens Oliver Meiert
+- [Digital Signals in the Software Domain](http://faculty.washington.edu/stiber/pubs/Signal-Computing/Signal%20Computing.pdf) - Michael Stiber, Bilin Zhang Stiber, Eric C. Larson (PDF)
+- [Site Reliability Engineering - How Google run production systems](https://sre.google/sre-book/table-of-contents/) - Betsy Beyer, Chris Jones, Jennifer Petoff, Niaensin, Kent Kawahara, Stephen Thorne (HTML)
+- [The Web Developmell Murphy (HTML)
+- [Small Memory Software](https://smallmemory.charlesweir.com/book.html) - Charles Weir, James Noble (HTML)
+- [Software-Defined Radio for Engineers](https://www.analog.com/media/en/training-seminars/design-handbooks/Software-Defined-Radio-for-Engineers-2018/SDR4Engineers.pdf) - Travis Collins, et al. (PDF)
+- [Software Technical Writing: A Guidebook](https://jamesg.blog/book.pdf) - James Gallagher (PDF)
+- [The Art of High Perfomance Computing - Volume 1: The Science of Computing](https://theartofhpc.com/istc/index.html) - Victor Eijkhout (HTML)
+- [The Art of High Perfomance Computing - Volume 2: Parallel Programming for Science Engineering](https://theartofhpc.com/pcse/index.html) - Victor Eijkhout (HTML)
+- [The Art of High Perfomance Computing - Volume 3: Introduction to Scientific Programming](https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol3/EijkhoutIntroSciProgramming-book.pdf) - Victor Eijkhout (PDF)
+- [The Art of High Perfomance Computing - Volume 4: HPC Carpentry](https://github.com/VictorEijkhout/TheArtofHPC_pdfs/blob/main/vol4/EijkhoutHPCtutorials.pdf) - Victor Eijkhout (PDF)
+- [The Site Reliability Workbook - Practical Ways to Implement SRE](https://sre.google/workbook/table-of-contents/) - Betsy Beyer, Niall Richard Murphy, David K. R

@@ -495,8 +495,6 @@
 * [Electron js Course in Hindi for beginner](https://www.youtube.com/playlist?list=PLCHw5ssvpa9sYFawfqZPeb70Le-3H9nTt) - satendrasingh programmer
 * [Electron js desktop app development tutorial](https://www.youtube.com/playlist?list=PLfxALjnZodrvtzXTg-ZFeRL7AIutdJBV4) - Wap Institute
 * [Electron js tutorial in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV46sT0RXw6PlMRVxJzEDUWuD) - Code Step By Step
-* [Electron js Tutorials](https://www.youtube.com/playlist?list=PLC3y8-rFHvwiCJD3WrAFUrIMkGVDE0uqW) - Codevolution
-
 
 #### GSAP
 
@@ -509,6 +507,7 @@
 
 * [jQuery Tutorial for beginners in Hindi 2020](https://youtube.com/playlist?list=PL-6FWL4WVVWXmWe_HnPG0rBQmmJfGsTKS) - CSEtutorials
 * [jQuery Tutorial in Hindi](https://youtube.com/playlist?list=PLvQjNLQMdagPRDnMQPMs5-vQL_IyAB0St) - Teaching Web
+* [jQuery Tutorials](https://www.youtube.com/playlist?list=PLp_RsiLZjwQQEtvmHTJRkK-lEuSn0kg7p) - Programentor
 * [jQuery Tutorials in Hindi / Urdu](https://www.youtube.com/playlist?list=PL0b6OzIxLPbzSyiC0PFaqeabe1aGhfrbW) - Yahoo Baba
 * [jQuery Tutorials in Hindi 2018](https://youtube.com/playlist?list=PLwGdqUZWnOp0X4dVwSsEd6dV49TLLCooI) - Vinod Bahadur Thapa (Thapa Technical)
 * [jQuery Video Course](https://www.youtube.com/playlist?list=PLPAcs2twrK5_FzWMttkbTuM0dB5A-ni-Q) - w3webschool.net

@@ -2606,15 +2606,15 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### TypeScript
 
-* [Essential TypeScript](https://www.programming-books.io/essential/typescript/) - Krzysztof Kowalczyk, StackOverflow Contributors
-* [Learn TypeScript in Y Minutes](https://learnxinyminutes.com/docs/typescript/)
-* [Tackling TypeScript: Upgrading from JavaScript](https://exploringjs.com/tackling-ts/toc.html) - Axel Rauschmayer
+* [Essential TypeScript](https://www.programming-books.io/essential/typescript/) - Krzysztof Kowalczyk, StackOverflow Contributors (HTML)
+* [Learn TypeScript in Y Minutes](https://learnxinyminutes.com/docs/typescript/) (HTML)
+* [Tackling TypeScript: Upgrading from JavaScript](https://exploringjs.com/tackling-ts/toc.html) - Axel Rauschmayer (HTML)
 * [Total TypeScript: Essentials](https://www.totaltypescript.com/books/total-typescript-essentials) (HTML)
-* [TypeScript Accelerated](https://accelerated.amimetic.co.uk) - James Porter
-* [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/)
-* [TypeScript for C# Programmers](http://www.infoq.com/minibooks/typescript-c-sharp-programmers)
-* [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html) - Microsoft
-* [TypeScript Handbook for React Developers](https://www.freecodecamp.org/news/typescript-tutorial-for-react-developers/) - Yazdun Fadali
+* [TypeScript Accelerated](https://accelerated.amimetic.co.uk) - James Porter (HTML)
+* [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/) (HTML)
+* [TypeScript for C# Programmers](http://www.infoq.com/minibooks/typescript-c-sharp-programmers) (HTML)
+* [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html) - Microsoft (HTML)
+* [TypeScript Handbook for React Developers](https://www.freecodecamp.org/news/typescript-tutorial-for-react-developers/) - Yazdun Fadali (HTML)
 * [TypeScript in 50 Lessons](https://www.smashingmagazine.com/provide/eBooks/typescript-in-50-lessons.pdf) - Stefan Baumgartner (PDF)
 * [TypeScript Notes for Professionals](https://goalkicker.com/TypeScriptBook2/) - Compiled from StackOverflow documentation ([PDF](https://goalkicker.com/TypeScriptBook2/TypeScriptNotesForProfessionals.pdf))
 * [TypeScript Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/typescript) (PDF, Kindle) (email address *requested*, not required)
@@ -2634,7 +2634,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 #### Deno
 
-* [Deno Manual](https://deno.land/manual)
+* [Deno Manual](https://deno.land/manual) (HTML)
 * [The Deno Handbook](https://flaviocopes.com/page/deno-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
 
 

@@ -1,4 +1,4 @@
-## BY PROGRAMMING LANGUAGE
+﻿## BY PROGRAMMING LANGUAGE
 
 Originally, this list included a section called "Language Agnostic" for books about programming subjects not restricted to a specific programming language.
 That section got so big, we decided to split it into its own file, the [BY SUBJECT file](free-programming-books-subjects.md).
@@ -2266,46 +2266,46 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Ruby
 
-* [A community-driven Ruby style guide](https://github.com/bbatsov/ruby-style-guide)
+* [A community-driven Ruby style guide](https://github.com/bbatsov/ruby-style-guide) (HTML)
 * [Core Ruby Tools](https://launchschool.com/books/core_ruby_tools) - Launch School (HTML)
-* [Developing Games With Ruby](https://leanpub.com/developing-games-with-ruby/read) - Tomas Varaneckas
-* [Essential Ruby](https://www.programming-books.io/essential/ruby/) - Krzysztof Kowalczyk, StackOverflow Contributors
-* [I Love Ruby](https://i-love-ruby.gitlab.io)
-* [Introduction to Programming with Ruby](https://launchschool.com/books/ruby) - Launch School
-* [Just Enough Ruby to Get By](http://jasonkim.ca/projects/just_enough_ruby_to_get_by/)
-* [Learn Ruby First](https://essenceofchaos.gitbooks.io/learn-ruby-first/content/) - Frederick John
-* [Learn Ruby in Y minutes](https://learnxinyminutes.com/docs/ruby/)
-* [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/) - Zed A. Shaw
-* [Learn to Program](http://pine.fm/LearnToProgram/) - Chris Pine
-* [Mastering Roda](https://fiachetti.gitlab.io/mastering-roda) - Federico Iachetti, Avdi Grimm, Jeremy Evans
-* [Mr. Neighborly's Humble Little Ruby Book](https://web.archive.org/web/20180321101922/http://www.humblelittlerubybook.com/book/html/index.html) *( :card_file_box: archived)*
-* [Object Oriented Programming with Ruby](https://launchschool.com/books/oo_ruby) - Launch School
-* [Practicing Ruby](https://github.com/elm-city-craftworks/practicing-ruby-manuscripts)
-* [Programming Ruby](http://ruby-doc.com/docs/ProgrammingRuby/)
+* [Developing Games With Ruby](https://leanpub.com/developing-games-with-ruby/read) - Tomas Varaneckas (HTML)
+* [Essential Ruby](https://www.programming-books.io/essential/ruby/) - Krzysztof Kowalczyk, StackOverflow Contributors (HTML)
+* [I Love Ruby](https://i-love-ruby.gitlab.io) (HTML)
+* [Introduction to Programming with Ruby](https://launchschool.com/books/ruby) - Launch School (HTML)
+* [Just Enough Ruby to Get By](http://jasonkim.ca/projects/just_enough_ruby_to_get_by/) (HTML)
+* [Learn Ruby First](https://essenceofchaos.gitbooks.io/learn-ruby-first/content/) - Frederick John (HTML)
+* [Learn Ruby in Y minutes](https://learnxinyminutes.com/docs/ruby/) (HTML)
+* [Learn Ruby the Hard Way](https://learnrubythehardway.org/book/) - Zed A. Shaw (HTML)
+* [Learn to Program](http://pine.fm/LearnToProgram/) - Chris Pine (HTML)
+* [Mastering Roda](https://fiachetti.gitlab.io/mastering-roda) - Federico Iachetti, Avdi Grimm, Jeremy Evans (HTML)
+* [Mr. Neighborly's Humble Little Ruby Book](https://web.archive.org/web/20180321101922/http://www.humblelittlerubybook.com/book/html/index.html) (HTML) *( :card_file_box: archived)*
+* [Object Oriented Programming with Ruby](https://launchschool.com/books/oo_ruby) - Launch School (HTML)
+* [Practicing Ruby](https://github.com/elm-city-craftworks/practicing-ruby-manuscripts) (HTML)
+* [Programming Ruby](http://ruby-doc.com/docs/ProgrammingRuby/) (HTML)
 * [Ruby Best Practices](https://github.com/practicingruby/rbp-book/tree/gh-pages/pdfs) - Gregory Brown (PDF)
-* [Ruby Hacking Guide](http://ruby-hacking-guide.github.io)
-* [Ruby in Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart/)
-* [Ruby Koans](http://www.rubykoans.com)
-* [Ruby Learning](http://rubylearning.github.io)
+* [Ruby Hacking Guide](http://ruby-hacking-guide.github.io) (HTML)
+* [Ruby in Twenty Minutes](https://www.ruby-lang.org/en/documentation/quickstart/) (HTML)
+* [Ruby Koans](http://www.rubykoans.com) (HTML)
+* [Ruby Learning](http://rubylearning.github.io) (HTML)
 * [Ruby Notes for Professionals](https://goalkicker.com/RubyBook/) - Compiled from StackOverflow Documentation (PDF)
-* [Ruby one-liners cookbook](https://learnbyexample.github.io/learn_ruby_oneliners/) - Sundeep Agarwal
-* [Ruby Style Guide](https://github.com/airbnb/ruby) - Airbnb
-* [Ruby User's Guide](https://ruby-doc.org/docs/ruby-doc-bundle/UsersGuide/rg/index.html)
-* [Ruby Web Dev: The Other Way](https://leanpub.com/rwdtow/read) - Yevhen Kuzminov
-* [Rubyfu](https://rubyfu.net)
-* [The Bastards Book of Ruby](http://ruby.bastardsbook.com)
-* [The Book Of Ruby](http://www.sapphiresteel.com/ruby-programming/The-Book-Of-Ruby.html) - Huw Collingbourne
-* [The Definitive Ruby Tutorial For Complete Beginners](https://www.rubyguides.com/ruby-tutorial/) - Jesus Castello
-* [The Little Book Of Ruby](http://www.sapphiresteel.com/ruby-programming/The-Little-Book-Of-Ruby.html) - Huw Collingbourne
-* [The Ruby Reference](https://rubyreferences.github.io/rubyref/) - Victor Shepelev
-* [The Unofficial Ruby Usage Guide (at Google)](http://www.caliban.org/ruby/rubyguide.shtml) - Ian Macdonald
+* [Ruby one-liners cookbook](https://learnbyexample.github.io/learn_ruby_oneliners/) - Sundeep Agarwal (HTML)
+* [Ruby Style Guide](https://github.com/airbnb/ruby) - Airbnb (HTML)
+* [Ruby User's Guide](https://ruby-doc.org/docs/ruby-doc-bundle/UsersGuide/rg/index.html) (HTML)
+* [Ruby Web Dev: The Other Way](https://leanpub.com/rwdtow/read) - Yevhen Kuzminov (HTML)
+* [Rubyfu](https://rubyfu.net) (HTML)
+* [The Bastards Book of Ruby](http://ruby.bastardsbook.com) (HTML)
+* [The Book Of Ruby](http://www.sapphiresteel.com/ruby-programming/The-Book-Of-Ruby.html) - Huw Collingbourne (HTML)
+* [The Definitive Ruby Tutorial For Complete Beginners](https://www.rubyguides.com/ruby-tutorial/) - Jesus Castello (HTML)
+* [The Little Book Of Ruby](http://www.sapphiresteel.com/ruby-programming/The-Little-Book-Of-Ruby.html) - Huw Collingbourne (HTML)
+* [The Ruby Reference](https://rubyreferences.github.io/rubyref/) - Victor Shepelev (HTML)
+* [The Unofficial Ruby Usage Guide (at Google)](http://www.caliban.org/ruby/rubyguide.shtml) - Ian Macdonald (HTML)
 * [Using Blocks in Ruby](https://web.archive.org/web/20201027171026/https://www.oreilly.com/programming/free/files/using-blocks-in-ruby.pdf) - Jay McGavren (PDF) *( :card_file_box: archived)*
-* [Why's (Poignant) Guide to Ruby](http://poignant.guide)
+* [Why's (Poignant) Guide to Ruby](http://poignant.guide) (HTML)
 
 
 #### RSpec
 
-* [Better Specs (RSpec Guidelines with Ruby)](http://betterspecs.org)
+* [Better Specs (RSpec Guidelines with Ruby)](http://betterspecs.org) (HTML)
 
 
 #### Ruby on Rails

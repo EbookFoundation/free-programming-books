@@ -278,15 +278,15 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Kubernetes for Full-Stack Developers](https://www.digitalocean.com/community/books/digitalocean-ebook-kubernetes-for-full-stack-developers) - Jamon Camisso, Hanif Jetha, Katherine Juell (PDF, EPUB)
 * [Uncomplicating Kubernetes](https://livro.descomplicandokubernetes.com.br/en/) - Jeferson Fernando
 
-
+  
 ### Data Science
 
 * [A Programmer's Guide to Data Mining](http://guidetodatamining.com) - Ron Zacharski (Draft)
 * [Data Jujitsu: The Art of Turning Data into Product](http://www.oreilly.com/data/free/data-jujitsu.csp) (email address *requested*, not required)
 * [Data Mining Algorithms In R](https://en.wikibooks.org/wiki/Data_Mining_Algorithms_In_R) - Wikibooks
-* [Data Science with Python](https://www.youtube.com/watch?v=LHBE6Q9XlzI) - freeCodeCamp (YouTube)
-* [Data Mining Concepts and Techniques](https://ia800702.us.archive.org/7/items/datamining_201811/DS-book%20u5.pdf) - Jiawei Han, Micheline Kamber, Jian Pei (PDF) ( :card_file_box: archived)
+* [Data Mining Concepts and Techniques](https://ia800702.us.archive.org/7/items/datamining_201811/DS-book%20u5.pdf) - Jiawei Han, Micheline Kamber, Jian Pei (PDF) *( :card_file_box: archived)*
 * [Data Science at the Command Line](https://datascienceatthecommandline.com/2e/) - Jeroen Janssens
+* [Data Science with Python](https://www.youtube.com/watch?v=LHBE6Q9XlzI) - freeCodeCamp (YouTube)
 * [Elements of Data Science](https://allendowney.github.io/ElementsOfDataScience/README.html) - Allen B. Downey
 * [Feature Engineering and Selection: A Practical Approach for Predictive Models](https://bookdown.org/max/FES/) - Max Kuhn, Kjell Johnson
 * [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf) - Avrim Blum, John Hopcroft, Ravindran Kannan (PDF)
@@ -294,17 +294,17 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Hands-On Data Visualization](https://handsondataviz.org) - Jack Dougherty, Ilya Ilyankou (HTML)
 * [High-Dimensional Data Analysis with Low-Dimensional Models: Principles, Computation, and Applications](https://book-wright-ma.github.io/Book-WM-20210422.pdf) - John Wright, Yi Ma (PDF)
 * [Internet Advertising: An Interplay among Advertisers, Online Publishers, Ad Exchanges and Web Users](https://arxiv.org/pdf/1206.1754v2.pdf) (PDF)
-* [Introduction to Cultural Analytics & Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) -  Melanie Walsh
+* [Introduction to Cultural Analytics & Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) - Melanie Walsh
 * [Introduction to Data Science](https://docs.google.com/file/d/0B6iefdnF22XQeVZDSkxjZ0Z5VUE/edit?pli=1) - Jeffrey Stanton
 * [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) - Christopher Brooks (University of Michigan) (Coursera)
 * [Julia Data Science](https://juliadatascience.io) - Jose Storopoli, Rik Huijzer, Lazaro Alonso (HTML) (CC BY-NC-SA 4.0)
 * [Mining of Massive Datasets](http://infolab.stanford.edu/~ullman/mmds/book.pdf) - Jure Leskovec, Anand Rajaraman, Jeffrey D. Ullman (PDF)
-* [Probability and Statistics with Examples using R](https://www.isibang.ac.in/~athreya/psweur/index.html#usage) - Siva Athreya, Deepayan Sarkar, Steve Tanner (HTML) ( :construction: *in process*)
+* [Probability and Statistics with Examples using R](https://www.isibang.ac.in/~athreya/psweur/index.html#usage) - Siva Athreya, Deepayan Sarkar, Steve Tanner (HTML) *( :construction: *in process*)*
 * [Python for Data Science – Hands-on Projects](https://www.youtube.com/watch?v=vaMMLLf0wLM) - LunarTech (freeCodeCamp) (YouTube)
 * [School of Data Handbook](https://schoolofdata.org/handbook/)
 * [Statistical inference for data science](https://leanpub.com/LittleInferenceBook/read) - Brian Caffo
-* [The Ultimate Guide to 12 Dimensionality Reduction Techniques (with Python codes)](https://www.analyticsvidhya.com/blog/2018/08/dimensionality-reduction-techniques-python/) - Pulkit Sharma
 * [Theory and Applications for Advanced Text Mining](https://www.intechopen.com/books/theory-and-applications-for-advanced-text-mining)
+* [The Ultimate Guide to 12 Dimensionality Reduction Techniques (with Python codes)](https://www.analyticsvidhya.com/blog/2018/08/dimensionality-reduction-techniques-python/) - Pulkit Sharma
 
 
 ### Database
@@ -444,18 +444,20 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) - Christoph Molnar
 * [Introduction to CNTK Succinctly](https://www.syncfusion.com/ebooks/cntk_succinctly) - James McCaffrey
 * [Introduction to Machine Learning](https://arxiv.org/abs/0904.3664v1) - Amnon Shashua
+* [Introduction to Machine Learning Systems](https://www.mlsysbook.ai/assets/downloads/Machine-Learning-Systems.pdf) - Vijay Janapa Reddi (PDF)
 * [Keras Succinctly](https://www.syncfusion.com/ebooks/keras-succinctly) - James McCaffrey
+* [Learn Tensorflow](https://bitbucket.org/hrojas/learn-tensorflow) - Jupyter Notebooks
 * [Introduction to Machine Learning Systems](https://www.mlsysbook.ai/assets/downloads/Machine-Learning-Systems.pdf) - Vijay Janapa Reddi (PDF)
 * [Learn Tensorflow](https://bitbucket.org/hrojas/learn-tensorflow) - Jupyter Notebooks
 * [Learning Deep Architectures for AI](https://mila.quebec/wp-content/uploads/2019/08/TR1312.pdf) - Yoshua Bengio (PDF)
 * [Machine Learning](https://www.intechopen.com/books/machine_learning)
+* [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) - Google (HTML)
 * [Machine Learning for Beginners](https://github.com/Microsoft/ML-For-Beginners) - Microsoft
 * [Machine Learning for Data Streams](https://moa.cms.waikato.ac.nz/book-html/) - Albert Bifet, Ricard Gavaldà, Geoff Holmes, Bernhard Pfahringer
 * [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/) - Danny Friedman (HTML, PDF, Jupyter Book)
-* [Machine Learning, Neural and Statistical Classification](https://www1.maths.leeds.ac.uk/~charles/statlog/) - D. Michie, D.J. Spiegelhalter, C.C. Taylor
 * [Machine Learning Simplified](https://themlsbook.com/read) - Andrew Wolf
+* [Machine Learning, Neural and Statistical Classification](https://www1.maths.leeds.ac.uk/~charles/statlog/) - D. Michie, D.J. Spiegelhalter, C.C. Taylor
 * [Machine Learning with Python](https://www.tutorialspoint.com/machine_learning_with_python/) - Tutorials Point (HTML, [PDF](https://www.tutorialspoint.com/machine_learning_with_python/machine_learning_with_python_tutorial.pdf))
-* [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) - Google (HTML)
 * [Mathematics for Machine Learning](https://gwthomas.github.io/docs/math4ml.pdf) - Garrett Thomas (PDF)
 * [Mathematics for Machine Learning](https://mml-book.github.io) - Marc Peter Deisenroth, A Aldo Faisal, Cheng Soon Ong
 * [Neural Network Design (2nd Edition)](https://hagan.okstate.edu/NNDesign.pdf) - Martin T. Hagan, Howard B. Demuth, Mark H. Beale, Orlando De Jesús (PDF)

@@ -833,7 +833,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [The Craft of Programming](https://kilthub.cmu.edu/articles/The_Craft_of_Programming/6610514) - John C. Reynolds
 * [The Nature of Code](https://natureofcode.com/book) - Daniel Shiffman (HTML)
 * [The Super Programmer](https://github.com/keyvank/tsp) - Keyvan Kambakhsh (PDF, HTML) *( :construction: in process)*
-* [Think Complexity](https://greenteapress.com/wp/think-complexity-2e/) - - Allen B. Downey (2nd Edition) (PDF, HTML)
+* [Think Complexity](https://greenteapress.com/wp/think-complexity-2e/) - Allen B. Downey (2nd Edition) (PDF, HTML) (CC BY-NC-SA)
 
 
 ### Programming Paradigms

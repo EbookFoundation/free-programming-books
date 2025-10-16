@@ -9,7 +9,7 @@
 * [Blazor](#blazor)
 * [Bootstrap](#bootstrap)
 * [C](#c)
-* [C#](#a-idcsharpac)
+* [C#](#csharp)
 * [C++](#cpp)
 * [Cấu trúc dữ liệu và Giải thuật](#cấu-trúc-dữ-liệu-và-giải-thuật)
 * [Dart](#dart)
@@ -476,7 +476,6 @@
 ### React
 
 * [Học lập trình React JS - Redux - NodeJS qua dự án thực tế](https://www.youtube.com/playlist?list=PLmbxe7ftoDqSNf5yGMhbDNjIZIM5mQ7Ow) - Thầy Nguyễn Đức Việt
-* [Học React Hooks cơ bản (2020)](https://www.youtube.com/playlist?list=PLeS7aZkL6GOsHNoyeEpeL8B1PnbKoQD9m) - Easy Frontend
 * [Học React Hooks cơ bản (2020)](https://www.youtube.com/playlist?list=PLeS7aZkL6GOsHNoyeEpeL8B1PnbKoQD9m) - Easy Frontend
 * [Học redux cơ bản 2020](https://www.youtube.com/playlist?list=PLeS7aZkL6GOvCz3GiOtvtDXChJRuebb7S) - Easy Frontend
 * [Khóa Học Fullstack SERN (SQL, Express.js, React.js, Node.js) Web Developer](https://youtube.com/playlist?list=PLncHg6Kn2JT6E38Z3kit9Hnif1xC_9VqI) - Hỏi Dân IT

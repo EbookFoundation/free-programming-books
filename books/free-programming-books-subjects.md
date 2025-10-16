@@ -688,6 +688,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Signal Computing: Digital Signals in the Software Domain](http://faculty.washington.edu/stiber/pubs/Signal-Computing/Signal%20Computing.pdf) - Michael Stiber, Bilin Zhang Stiber, Eric C. Larson (PDF)
 * [Site Reliability Engineering - How Google run production systems](https://sre.google/sre-book/table-of-contents/) - Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Murphy (HTML)
 * [Small Memory Software](https://smallmemory.charlesweir.com/book.html) - Charles Weir, James Noble (HTML)
+* [Software-Defined Radio for Engineers](https://www.analog.com/media/en/training-seminars/design-handbooks/Software-Defined-Radio-for-Engineers-2018/SDR4Engineers.pdf) - Travis Collins, et al. (PDF)
 * [Software Technical Writing: A Guidebook](https://jamesg.blog/book.pdf) - James Gallagher (PDF)
 * [The Art of High Perfomance Computing - Volume 1: The Science of Computing](https://theartofhpc.com/istc/index.html) - Victor Eijkhout (HTML)
 * [The Art of High Perfomance Computing - Volume 2: Parallel Programming for Science Engineering](https://theartofhpc.com/pcse/index.html) - Victor Eijkhout (HTML)

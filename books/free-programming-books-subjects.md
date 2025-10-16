@@ -861,9 +861,9 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Quantitative Analysis
 
-* [OpenIntro Statistics](https://www.openintro.org/book/os/) - by David M. Diez, Christopher D. Barr, and Mine Çetinkaya-Rundel (PDF) (CC BY)
-* [Fundamentals of Quantitative Analysis - GitHub Source](https://github.com/PsyTeachR/quant-fundamentals-v3) - Dr. Danielle Zhu (GitHub) (CC BY-SA)
 * [Applied Quantitative Finance: Theory and Computational Tools](https://freecomputerbooks.com/Applied-Quantitative-Finance.html) - Wolfgang K. Hardle, Nikolaus Hautsch, Ludger Overbeck (PDF)
+* [Fundamentals of Quantitative Analysis - GitHub Source](https://github.com/PsyTeachR/quant-fundamentals-v3) - Dr. Danielle Zhu (GitHub) (CC BY-SA)
+* [OpenIntro Statistics](https://www.openintro.org/book/os/) - by David M. Diez, Christopher D. Barr, and Mine Çetinkaya-Rundel (PDF) (CC BY)
 
 
 ### Quantum Computing

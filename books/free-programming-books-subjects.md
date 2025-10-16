@@ -103,6 +103,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Algorithms Course Materials](https://jeffe.cs.illinois.edu/teaching/algorithms/) - Jeff Erickson
 * [Algorithms Notes for Professionals](https://goalkicker.com/AlgorithmsBook) - Compiled from StackOverflow Documentation (PDF)
 * [Annotated Algorithms in Python: Applications in Physics, Biology, and Finance](https://github.com/mdipierro/nlib) - Massimo Di Pierro
+* [An Open Guide to Data Structures and Algorithms](https://pressbooks.palni.org/anopenguidetodatastructuresandalgorithms/) - Paul W. Bible & Lucas Moser
 * [Binary Trees](http://cslibrary.stanford.edu/110/BinaryTrees.pdf) - Nick Parlante (PDF)
 * [Data Structures](https://adityacse.weebly.com/uploads/2/4/0/7/24078687/data-structures.pdf) - Aditya CSE (PDF)
 * [Data Structures](https://en.wikibooks.org/wiki/Data_Structures) - Wikibooks
@@ -132,7 +133,6 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [The Great Tree List Recursion Problem](http://cslibrary.stanford.edu/109/TreeListRecursion.pdf) - Nick Parlante (PDF)
 * [The Kademlia Protocol Succinctly](https://www.syncfusion.com/ebooks/kademlia_protocol_succinctly) - Marc Clifton
 * [Think Complexity (2nd Edition)](https://greenteapress.com/wp/think-complexity-2e/) - Allen B. Downey
-* [An Open Guide to Data Structures and Algorithms](https://pressbooks.palni.org/anopenguidetodatastructuresandalgorithms/) - Paul W. Bible & Lucas Moser
 
 
 ### Artificial Intelligence

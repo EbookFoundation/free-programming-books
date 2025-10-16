@@ -21,7 +21,6 @@
 * [HTML and CSS](#html-and-css)
 * [IDE and editors](#ide-and-editors)
 * [Information Security](#info-sec)
-    * [nmap](#nmap)
 * [Java](#java)
 * [JavaScript](#javascript)
     * [jQuery](#jquery)
@@ -265,8 +264,6 @@
 
 
 ### <a id="info-sec"></a>Information Security
-
-#### nmap
 
 * [Nmap Cheat Sheet)](https://zerotomastery.io/cheatsheets/nmap-cheat-sheet/) - ZeroToMastery.io (HTML)
 

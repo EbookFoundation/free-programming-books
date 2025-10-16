@@ -283,8 +283,8 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 
 * [A Programmer's Guide to Data Mining](http://guidetodatamining.com) - Ron Zacharski (Draft)
 * [Data Jujitsu: The Art of Turning Data into Product](http://www.oreilly.com/data/free/data-jujitsu.csp) (email address *requested*, not required)
-* [Data Science with Python](https://www.youtube.com/watch?v=LHBE6Q9XlzI) - freeCodeCamp (YouTube)
 * [Data Mining Algorithms In R](https://en.wikibooks.org/wiki/Data_Mining_Algorithms_In_R) - Wikibooks
+* [Data Science with Python](https://www.youtube.com/watch?v=LHBE6Q9XlzI) - freeCodeCamp (YouTube)
 * [Data Mining Concepts and Techniques](https://ia800702.us.archive.org/7/items/datamining_201811/DS-book%20u5.pdf) - Jiawei Han, Micheline Kamber, Jian Pei (PDF) ( :card_file_box: archived)
 * [Data Science at the Command Line](https://datascienceatthecommandline.com/2e/) - Jeroen Janssens
 * [Elements of Data Science](https://allendowney.github.io/ElementsOfDataScience/README.html) - Allen B. Downey
@@ -444,8 +444,8 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) - Christoph Molnar
 * [Introduction to CNTK Succinctly](https://www.syncfusion.com/ebooks/cntk_succinctly) - James McCaffrey
 * [Introduction to Machine Learning](https://arxiv.org/abs/0904.3664v1) - Amnon Shashua
-* [Introduction to Machine Learning Systems](https://www.mlsysbook.ai/assets/downloads/Machine-Learning-Systems.pdf) - Vijay Janapa Reddi (PDF)
 * [Keras Succinctly](https://www.syncfusion.com/ebooks/keras-succinctly) - James McCaffrey
+* [Introduction to Machine Learning Systems](https://www.mlsysbook.ai/assets/downloads/Machine-Learning-Systems.pdf) - Vijay Janapa Reddi (PDF)
 * [Learn Tensorflow](https://bitbucket.org/hrojas/learn-tensorflow) - Jupyter Notebooks
 * [Learning Deep Architectures for AI](https://mila.quebec/wp-content/uploads/2019/08/TR1312.pdf) - Yoshua Bengio (PDF)
 * [Machine Learning](https://www.intechopen.com/books/machine_learning)

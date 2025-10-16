@@ -2238,6 +2238,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 * [Metagenomics](https://kyclark.gitbooks.io/metagenomics) - Ken Youens-Clark
 * [Perl 6 at a Glance](https://andrewshitov.com/wp-content/uploads/2020/01/Perl-6-at-a-Glance.pdf) - Andrew Shitov (PDF)
+* [Raku Documentation](https://docs.raku.org) - Raku Documentation (HTML)
 * [Raku Guide](https://raku.guide) (HTML) [(PDF)](https://github.com/hankache/rakuguide) (CC BY-SA)
 * [Raku One-Liners](https://andrewshitov.com/wp-content/uploads/2020/01/Raku-One-Liners.pdf) - Andrew Shitov (PDF)
 * [Raku Programming](https://en.wikibooks.org/wiki/Raku_Programming) - Wikibooks (HTML)
@@ -2725,4 +2726,6 @@ Books on general-purpose programming that don't focus on a specific language are
 ### Zig
 
 * [Introduction to Zig](https://pedropark99.github.io/zig-book) - Pedro Duarte Faria (HTML)
+* [Zig Guide](https://zig.guide) (HTML)
+* [Zig Language Reference](https://devdocs.io/zig) - DevDocs
 * [Zig Language Reference](https://ziglang.org/documentation/master) (HTML)

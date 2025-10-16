@@ -256,7 +256,6 @@
 * [Cloud Computing Tutorial](https://www.youtube.com/playlist?list=PL-JvKqQx2AtfQ8cGyKsFE7Tj2FyB1yCkd) - University Academy
  
 
-
 #### AWS
 
 * [AWS Tutorial for Beginners In Hindi](https://www.youtube.com/playlist?list=PLCFe3TcoBniI4iaavlfnR0UGQrtjgOMj9) - Together with Abhi
@@ -495,6 +494,7 @@
 * [Electron js Course in Hindi for beginner](https://www.youtube.com/playlist?list=PLCHw5ssvpa9sYFawfqZPeb70Le-3H9nTt) - satendrasingh programmer
 * [Electron js desktop app development tutorial](https://www.youtube.com/playlist?list=PLfxALjnZodrvtzXTg-ZFeRL7AIutdJBV4) - Wap Institute
 * [Electron js tutorial in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV46sT0RXw6PlMRVxJzEDUWuD) - Code Step By Step
+
 
 #### GSAP
 

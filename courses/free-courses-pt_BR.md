@@ -339,6 +339,7 @@
 ### Markdown
 
 * [Aprenda Markdown](https://www.udemy.com/aprenda-markdown/) - Roberto Achar (Udemy)
+* [Guia da Linguagem Markdown](https://www.youtube.com/watch?v=LntSB-gl-ZI) - Curso em Vídeo
 
 
 ### Networking
@@ -389,6 +390,7 @@
 * [Como Computadores Funcionam?](https://www.youtube.com/playlist?list=PLdsnXVqbHDUcQIuiH9b-i9A85H3A2ZW5W) - Fabio Akita
 * [Conceitos de Programação](https://www.youtube.com/playlist?list=PLdsnXVqbHDUcrE56CH8sXaPF3TTqoBP2z) - Fabio Akita
 * [Curso Lógica de Programação Completo 2023 [Iniciantes] + Desafios + Muita prática](https://www.youtube.com/watch?v=iF2MdbrTiBM) - Jonathan de Souza
+* [Curso Programação Web Completo](https://www.youtube.com/playlist?list=PL2Fdisxwzt_ebZYgPFL8KeWqBhkF1Q8oe) - Programação Web
 * [Frontend para Iniciantes](https://www.youtube.com/playlist?list=PLsGmTzb4NxK2sGY3KqKmg1UTxNTcPPK1Z) - LuizTools
 * [Inteligência Artificial](https://www.youtube.com/playlist?list=PLdsnXVqbHDUeowsAO0sChHDY4D65T5s1U) - Fabio Akita
 * [Programação para Iniciantes](https://www.youtube.com/playlist?list=PLdsnXVqbHDUc7htGFobbZoNen3r_wm3ki) - Fabio Akita
@@ -439,6 +441,7 @@
 
 #### Django
 
+* [Curso de Django 2](https://www.youtube.com/playlist?list=PLnDvRpP8BnewqnMzRnBT5LeTpld5bMvsj) - Matheus Battisti
 * [Curso de Django Aprenda a Desenvolver Aplicações Web Do Zero](https://www.youtube.com/playlist?list=PLLVddSbilcumgeyk0z6ko5U_FYPfbRO2C) - Jefferson Lobato
 * [Curso de Django To-Do-List](https://www.youtube.com/playlist?list=PLLVddSbilcunGg0IJ4zP05Z91yrEaIiQh) - Jefferson Lobato
 * [Django](https://www.youtube.com/playlist?list=PL3gEA6Xsr_el-1m_ew_kwPVGgDiG1nwY-) - Pythonando
@@ -454,6 +457,7 @@
 
 #### Flask
 
+* [Curso de Flask](https://www.youtube.com/playlist?list=PLWhiA_CuQkbBhvPojHOPY81BmDt2eSfgI) - Filipe Morelli Developer
 * [Flask](https://www.youtube.com/playlist?list=PLyOx5V4KUjDf3-flamHYkJ2ygYmdRDdE9) - Lan Code
 
 

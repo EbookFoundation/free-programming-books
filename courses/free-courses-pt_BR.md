@@ -41,7 +41,6 @@
     * [Flask](#flask)
 * [R](#r)
 * [Raspberry Pi](#raspberry-pi)
-* [React](#react)
 * [React Native](#react-native)
 * [Ruby](#ruby)
 * [Rust](#rust)

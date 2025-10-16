@@ -86,7 +86,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [J](#j)
 * [Java](#java)
     * [Codename One](#codename-one)
-    * [Java ME](#java-me)
     * [Java Reporting](#java-reporting)
     * [Spring](#spring)
     * [Spring Boot](#spring-boot)

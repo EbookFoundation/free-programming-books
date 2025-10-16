@@ -63,14 +63,12 @@
 * [TypeScript](#typescript)
 * [UI/UX](#uiux)
 * [Unit testing](#unit-testing)
-* [VBA](#vba)
 * [Webpack](#webpack)
 
 
 ### Angular
 
 * [Angular Cheat Sheet](https://angular.io/guide/cheatsheet)
-* [Angular Cheat Sheet](https://zerotomastery.io/cheatsheets/angular-cheat-sheet/) - ZeroToMastery.io (HTML)
 * [Angular Cheat Sheet – A Basic Guide to Angular](https://www.geeksforgeeks.org/angular-cheat-sheet-a-basic-guide-to-angular/) - GeeksforGeeks
 
 
@@ -109,7 +107,6 @@
 
 * [C# Cheat Sheet](https://simplecheatsheet.com/tag/c-cheat-sheet-1/) - Simple Cheat Sheet (HTML)
 * [C# Cheat Sheet](https://www.thecodingguys.net/resources/cs-cheat-sheet.pdf) - THECODINGGUYS (PDF)
-* [C# Cheat Sheet](https://zerotomastery.io/cheatsheets/csharp-cheat-sheet/) - ZeroToMaster.io (HTML/PDF)
 
 
 ### <a id="cpp"></a>C++
@@ -200,7 +197,9 @@
 ### Go
 
 * [cht.sh Go Cheatsheet](https://cht.sh/go/:learn) (HTML)
+* [Go cheatsheet](https://quickref.me/go) - QuickRef.ME (HTML)
 * [Go Cheatsheet](https://devhints.io/go) - devhints, Rico Santa Cruz (HTML)
+* [Golang Cheat Sheet](https://github.com/a8m/golang-cheat-sheet) - Ariel Mashraki (HTML)
 * [গো \| ডেভ সংকেত<](https://devsonket.com/go) - devsonket (HTML)
 
 
@@ -335,7 +334,10 @@
 
 ### Kotlin
 
+* [Kotlin Cheat Sheet](https://devhints.io/kotlin) - Devhints (HTML)
 * [Kotlin Cheatsheet and Quick Reference](https://koenig-media.raywenderlich.com/uploads/2019/11/RW-Kotlin-Cheatsheet-1.1.pdf) - Ray Wenderlich (PDF)
+* [Kotlin Quick Reference](https://kotlinlang.org/docs/kotlin-reference.pdf) - JetBrains (PDF)
+* [Kotlin Syntax Cheat Sheet](https://quickref.me/kotlin.html) - QuickRef.ME (HTML)
 
 
 ### Kubernetes
@@ -427,8 +429,6 @@
 * [Python Regex Cheatsheet](https://www.debuggex.com/cheatsheet/regex/python) - Debuggex (HTML)
 * [Python WorldWide Cheatsheet](https://cheatography.com/davechild/cheat-sheets/python/) - Cheatography (Python)
 * [Scapy Cheat Sheet](https://www.templateroller.com/template/160817/scapy-cheat-sheet-jeremy-stretch.html) - Jeremy Stretch (PDF)
-* [SciPy Cheat Sheet: Linear Algebra in Python](https://www.datacamp.com/cheat-sheet/scipy-cheat-sheet-linear-algebra-in-python) - Datacamp (HTML, PDF)
-* [Shiny for Python Cheat Sheet](https://rstudio.github.io/cheatsheets/html/shiny-python.html) - Posit (HTML/PDF)
 
 
 #### Django
@@ -478,7 +478,6 @@
 #### PyTorch
 
 * [Deep Learning with PyTorch Cheat Sheet](https://www.datacamp.com/cheat-sheet/deep-learning-with-py-torch) - Richie Cotton (HTML)
-* [PyTorch Cheat Sheet](https://zerotomastery.io/cheatsheets/pytorch-cheat-sheet/) - ZeroToMastery (HTML)
 * [PyTorch Framework Cheat Sheet](https://www.simonwenkel.com/publications/cheatsheets/pdf/cheatsheet_pytorch.pdf) - Simon Wenkel (PDF)
 * [PyTorch Official Cheat Sheet](https://pytorch.org/tutorials/beginner/ptcheat.html) - PyTorch (HTML)
 
@@ -581,11 +580,6 @@
 * [Jest CheatSheet](https://devhints.io/jest) - devhints, Rico Santa Cruz (HTML)
 * [React Testing Library CheatSheet](https://testing-library.com/docs/react-testing-library/cheatsheet/) - Kent C. Dodds, et al. (HTML)
 * [What is Unit testing](https://www.guru99.com/unit-testing-guide.html) - Thomas Hamilton (HTML)
-
-
-### VBA
-
-* [VBA Cheat Sheet](https://zerotomastery.io/cheatsheets/vba-cheat-sheet/) - ZeroToMastery (HTML)
 
 
 ### Webpack

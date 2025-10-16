@@ -1819,23 +1819,23 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### PHP
 
-* [Clean Code PHP](https://github.com/jupeter/clean-code-php)
-* [Essential PHP](https://www.programming-books.io/essential/php/) - Krzysztof Kowalczyk, StackOverflow Contributors
+* [Clean Code PHP](https://github.com/jupeter/clean-code-php) (HTML)
+* [Essential PHP](https://www.programming-books.io/essential/php/) - Krzysztof Kowalczyk, StackOverflow Contributors (HTML)
 * [PHP 5 Power Programming](http://www.informit.com/content/images/013147149X/downloads/013147149X_book.pdf) (PDF)
-* [PHP Apprentice](https://phpapprentice.com) - Andrew Davis *( :construction: in process)*
-* [PHP Best Practices](https://phpbestpractices.org)
-* [PHP Documentor - Documentation](https://docs.phpdoc.org) - phpdoc.org
+* [PHP Apprentice](https://phpapprentice.com) - Andrew Davis (HTML) *( :construction: in process)*
+* [PHP Best Practices](https://phpbestpractices.org) (HTML)
+* [PHP Documentor - Documentation](https://docs.phpdoc.org) - phpdoc.org (HTML)
 * [PHP Handbook](https://thevalleyofcode.com/php/) - Flavio Copes (HTML, PDF)
-* [PHP Internals Book](http://www.phpinternalsbook.com)
+* [PHP Internals Book](http://www.phpinternalsbook.com) (HTML)
 * [PHP Notes for Professionals](https://goalkicker.com/PHPBook/) - Compiled from StackOverflow Documentation (PDF)
-* [PHP Pandas](http://daylerees.com/php-pandas/) - Dayle Rees
-* [PHP Programming](https://en.wikibooks.org/wiki/PHP_Programming) - Wikibooks
+* [PHP Pandas](http://daylerees.com/php-pandas/) - Dayle Rees (HTML)
+* [PHP Programming](https://en.wikibooks.org/wiki/PHP_Programming) - Wikibooks (HTML)
 * [PHP Reference: Beginner to Intermediate PHP5](https://phpreferencebook.com/pdf/download/) - Mario Lurig (PDF)
-* [PHP: The Right Way](http://www.phptherightway.com)
-* [Practical PHP Programming](http://www.hackingwithphp.com)
-* [Practical PHP Testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
-* [Survive The Deep End: PHP Security](https://phpsecurity.readthedocs.org/en/latest/)
-* [Using Libsodium in PHP Projects](https://paragonie.com/book/pecl-libsodium)
+* [PHP: The Right Way](http://www.phptherightway.com) (HTML)
+* [Practical PHP Programming](http://www.hackingwithphp.com) (HTML)
+* [Practical PHP Testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html) (HTML)
+* [Survive The Deep End: PHP Security](https://phpsecurity.readthedocs.org/en/latest/) (HTML)
+* [Using Libsodium in PHP Projects](https://paragonie.com/book/pecl-libsodium) (HTML)
 
 
 #### CakePHP
@@ -1845,35 +1845,35 @@ Books on general-purpose programming that don't focus on a specific language are
 
 #### CodeIgniter
 
-* [CodeIgniter 3 User Guide](https://codeigniter.com/userguide3/index.html)
-* [CodeIgniter 4 User Guide](https://codeigniter.com/user_guide/index.html)
+* [CodeIgniter 3 User Guide](https://codeigniter.com/userguide3/index.html) (HTML)
+* [CodeIgniter 4 User Guide](https://codeigniter.com/user_guide/index.html) (HTML)
 
 
 #### Drupal
 
-* [Drupal at your Fingertips](https://selwynpolit.github.io/d9book/) - Selwyn Polit, Drupal Community Contributors
+* [Drupal at your Fingertips](https://selwynpolit.github.io/d9book/) - Selwyn Polit, Drupal Community Contributors (HTML)
 * [The Tiny Book of Rules](https://www.drupal.org/files/tiny-book-of-rules.pdf) (PDF)
 
 
 #### Laravel
 
 * [100 (and counting) Laravel Quick Tips](https://laraveldaily.com/wp-content/uploads/2020/04/laravel-tips-2020-04.pdf) - Povilas Korop / LaravelDaily Team (PDF)
-* [Laravel Best Practices](http://www.laravelbestpractices.com)
-* [Laravel: Code Bright](http://daylerees.com/codebright) - Dayle Rees
-* [Laravel: Code Happy](http://daylerees.com/codehappy) - Dayle Rees
-* [Laravel: Code Smart](https://daylerees.com/codesmart/) - Dayle Rees
+* [Laravel Best Practices](http://www.laravelbestpractices.com) (HTML)
+* [Laravel: Code Bright](http://daylerees.com/codebright) - Dayle Rees (HTML)
+* [Laravel: Code Happy](http://daylerees.com/codehappy) - Dayle Rees (HTML)
+* [Laravel: Code Smart](https://daylerees.com/codesmart/) - Dayle Rees (HTML)
 * [Laravel Tips and Tricks](https://github.com/bobbyiliev/laravel-tips-and-tricks-ebook) - Bobby Iliev (Markdown, PDF)
 * [Learning Laravel](https://riptutorial.com/Download/laravel.pdf) - Compiled from StackOverflow Documentation (PDF)
 
 
 #### Symfony
 
-* [Symfony 5.4: The Fast Track](https://symfony.com/doc/5.4/the-fast-track/en/index.html)
-* [Symfony 6.2: The Fast Track](https://symfony.com/doc/6.2/the-fast-track/en/index.html)
+* [Symfony 5.4: The Fast Track](https://symfony.com/doc/5.4/the-fast-track/en/index.html) (HTML)
+* [Symfony 6.2: The Fast Track](https://symfony.com/doc/6.2/the-fast-track/en/index.html) (HTML)
 * [The Symfony Best practices 4.1.x](https://web.archive.org/web/20181017123206/https://symfony.com/pdf/Symfony_best_practices_4.1.pdf) (PDF) *( :card_file_box: archived)*
-* [The Symfony Book 2.8.x](https://symfony.com/doc/2.8/index.html)
-* [The Symfony Book 3.4.x](https://symfony.com/doc/3.4/index.html)
-* [The Symfony Book 4.4.x](https://symfony.com/doc/4.4/index.html)
+* [The Symfony Book 2.8.x](https://symfony.com/doc/2.8/index.html) (HTML)
+* [The Symfony Book 3.4.x](https://symfony.com/doc/3.4/index.html) (HTML)
+* [The Symfony Book 4.4.x](https://symfony.com/doc/4.4/index.html) (HTML)
 
 
 #### Yii
@@ -1883,7 +1883,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 #### Zend
 
-* [Using Zend Framework 3](https://olegkrivtsov.github.io/using-zend-framework-3-book/html/)
+* [Using Zend Framework 3](https://olegkrivtsov.github.io/using-zend-framework-3-book/html/) (HTML)
 
 
 ### PostgreSQL

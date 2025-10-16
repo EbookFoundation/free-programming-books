@@ -26,6 +26,7 @@
 ### AI
 * [AI Tutorials in Tamil](https://www.youtube.com/playlist?list=PLLHRrAfRqTbPbodOKyV6QeEOMx8KaBiSm) - Endless Knowledge
 * [Artificial Intelligence Course for Beginners in Tamil](https://www.youtube.com/playlist?list=PLMn73l82HB5B9oMtKeAexWVdXLRL_BChV) - Hope Artificial Intelligence
+
 ### Android
 
 * [Android In Tamil 2019](https://youtube.com/playlist?list=PL4unWLKFsZfcGBja19mrwodNm6AyzZk2B) - Tutor Joe's Stanley

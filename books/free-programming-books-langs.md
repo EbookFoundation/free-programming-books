@@ -1101,7 +1101,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Writing Advanced Applications for the Java 2 Platform](http://www.pawlan.com/monica/books/AdvBk.pdf) - Calvin Austin, Monica Pawlan (PDF)
 
 
-
 #### Codename One
 
 * [Codename One Developer Guide](https://www.codenameone.com/files/developer-guide.pdf) (PDF)

@@ -580,6 +580,7 @@
 * [TypeScript Cheat Sheet](https://zerotomastery.io/cheatsheets/typescript-cheat-sheet/) - ZeroToMastery (HTML)
 * [TypeScript Cheatsheet](https://github.com/SAYOUNCDR/TS-CheatSheet) - Sayoun Parui (Markdown)
 
+
 ### UI/UX
 
 * [Form Design Crib Sheet](https://www.smashingmagazine.com/files/wallpapers/images/form-crib-sheet/full_preview.png) - Joe Leech

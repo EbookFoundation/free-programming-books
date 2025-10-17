@@ -892,6 +892,7 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Reverse Engineering
 
 * [BIOS Disassembly Ninjutsu Uncovered 1st Edition](https://bioshacking.blogspot.co.uk/2012/02/bios-disassembly-ninjutsu-uncovered-1st.html) - Darmawan Salihun (PDF)
+* [Debugging with GDB](https://sourceware.org/gdb/current/onlinedocs/gdb.html) - Free Software Foundation (HTML, PDF)
 * [Hacking the Xbox: An Introduction to Reverse Engineering](https://www.nostarch.com/xboxfree/) - Andrew "bunnie" Huang
 * [iOS App Reverse Engineering](https://github.com/iosre/iOSAppReverseEngineering) - Zishe Sha (PDF)
 

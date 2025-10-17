@@ -330,8 +330,8 @@
 #### React.js
 
 * [React Cheatsheet](https://www.codecademy.com/learn/react-101/modules/react-101-jsx-u/cheatsheet) - Codecademy (HTML)
-* [React-router Cheatsheet](https://devhints.io/react-router) - Devhints.io (HTML)
 * [React Native Cheat Sheet](https://zerotomastery.io/cheatsheets/react-native-cheat-sheet/) - ZeroToMastery (HTML)
+* [React-router Cheatsheet](https://devhints.io/react-router) - Devhints.io (HTML)
 * [React.js Cheatsheet](https://devhints.io/react) - Devhints.io (HTML)
 * [Ultimate React.js Cheat Sheet](https://upmostly.com/ultimate-reactjs-cheat-sheet) - Upmostly.com (HTML)
 

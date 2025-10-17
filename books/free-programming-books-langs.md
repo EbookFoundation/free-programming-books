@@ -614,7 +614,7 @@ Books on general-purpose programming that don't focus on a specific language are
 ### CoffeeScript
 
 * [CoffeeScript Cookbook](https://coffeescript-cookbook.github.io)
-* [CoffeeScript Ristretto](https://leanpub.com/coffeescript-ristretto/read) - Reginald Braithwaite
+* [CoffeeScript Ristretto](https://leanpub.com/coffeescript-ristretto/read) - Reginald Braithwaite (HTML)
 * [Hard Rock CoffeeScript](https://alchaplinsky.github.io/hard-rock-coffeescript/) - Alex Chaplinsky (gitbook)
 * [Smooth CoffeeScript](http://autotelicum.github.io/Smooth-CoffeeScript/SmoothCoffeeScript.html) (CC BY)
 * [The Little Book on CoffeeScript](http://arcturo.github.io/library/coffeescript/) - Alex MacCaw, David Griffiths, Satoshi Murakami, Jeremy Ashkenas
@@ -836,7 +836,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/) - Chris James
 * [Learning Go](https://miek.nl/go/) (CC BY-NC-SA)
 * [Let's learn Go!](http://go-book.readthedocs.io/en/latest/) (CC BY-NC-SA)
-* [Practical Cryptography With Go](https://leanpub.com/gocrypto/read) - Kyle Isom
+* [Practical Cryptography With Go](https://leanpub.com/gocrypto/read) - Kyle Isom (HTML)
 * [Practical Go Lessons](https://www.practical-go-lessons.com) - Maximilien Andile
 * [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html) - Dave Cheney (HTML)
 * [Production Go](https://leanpub.com/productiongo/read) - Herman Schaaf and Shawn Smith (HTML, EPUB, PDF) ( :construction: *in process*)

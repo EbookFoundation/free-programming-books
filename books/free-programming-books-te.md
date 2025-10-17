@@ -30,3 +30,4 @@
 ### <a id="python"></a>Python
 
 * [Python Course in Telugu: 30 days challenge](https://www.youtube.com/playlist?list=PLNgoFk5SYUglQOaXSY8lAlPXmK6tQBHaw) - Vamsi Bhavani
+* [Python for Beginners in Telugu](https://www.youtube.com/playlist?list=PLabcdXYZ) - CodeWithRavi

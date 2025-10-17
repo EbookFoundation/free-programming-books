@@ -541,6 +541,7 @@
 ### Solidity
 
 * [Solidity Cheat Sheet](https://intellipaat.com/mediaFiles/2019/03/Solidity-Cheat-Sheet.pdf) - IntelliPaat (PDF)
+* [Solidity Cheat Sheet](https://zerotomastery.io/cheatsheets/solidity-cheat-sheet/) - ZeroToMastery (HTML)
 * [Solidity Cheatsheet and Best practices](https://manojpramesh.github.io/solidity-cheatsheet/) - Manoj Ramesh (HTML)
 
 

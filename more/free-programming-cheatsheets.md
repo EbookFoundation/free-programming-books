@@ -558,6 +558,7 @@
 ### Terraform
 
 * [Terraform Cheat Sheet](https://www.techbeatly.com/terraform-cheat-sheet) - Gineesh Madapparambath (HTML)
+* [Terraform Cheat Sheet](https://zerotomastery.io/cheatsheets/terraform-cheat-sheet/) - ZeroToMastery (HTML)
 * [Terraform Cheatsheet](https://acloudguru.com/blog/engineering/the-ultimate-terraform-cheatsheet) - Eric Pulsifer (HTML)
 
 

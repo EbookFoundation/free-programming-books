@@ -2341,30 +2341,30 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Rust
 
-* [A Gentle Introduction To Rust](https://stevedonovan.github.io/rust-gentle-intro) - Steve J Donovan
-* [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book)
+* [A Gentle Introduction To Rust](https://stevedonovan.github.io/rust-gentle-intro) - Steve J Donovan (HTML)
+* [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book) (HTML)
 * [Easy Rust](https://dhghomon.github.io/easy_rust/) - David McLeod (HTML, PDF)
 * [Effective Rust](https://www.lurklurk.org/effective-rust) - David Drysdale (HTML, PDF)
 * [From JavaScript to Rust ebook](https://github.com/wasmflow/node-to-rust/raw/HEAD/from-javascript-to-rust.pdf) - Jarrod Overson (PDF)
-* [Guide to Rustc Development](https://rustc-dev-guide.rust-lang.org)
-* [Learn Rust in Y minutes](https://learnxinyminutes.com/docs/rust/)
-* [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists) - Alexis Beingessner
+* [Guide to Rustc Development](https://rustc-dev-guide.rust-lang.org) (HTML)
+* [Learn Rust in Y minutes](https://learnxinyminutes.com/docs/rust/) (HTML)
+* [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists) - Alexis Beingessner (HTML)
 * [Learning Rust Ebook](https://riptutorial.com/Download/rust.pdf) - StackOverflow Contributors (PDF)
 * [Rust Atomics and Locks](https://marabos.nl/atomics) - Mara Bos (HTML)
-* [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example)
-* [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook)
-* [Rust Design Patterns](https://rust-unofficial.github.io/patterns/)
-* [Rust for Rubyists](https://web.archive.org/web/20190520171322/http://www.rustforrubyists.com/book) - Steve Klabnik *( :card_file_box: archived)*
-* [Rust For Systems Programmers](https://github.com/nrc/r4cppp) - Nick Cameron
-* [The Embedded Rust Book](https://docs.rust-embedded.org/book/intro/index.html)
-* [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book)
-* [The Rust Language Reference](https://github.com/rust-lang/reference)
-* [The Rust Performance Book](https://nnethercote.github.io/perf-book)
+* [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example) (HTML)
+* [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook) (HTML)
+* [Rust Design Patterns](https://rust-unofficial.github.io/patterns/) (HTML)
+* [Rust for Rubyists](https://web.archive.org/web/20190520171322/http://www.rustforrubyists.com/book) - Steve Klabnik (HTML) *( :card_file_box: archived)*
+* [Rust For Systems Programmers](https://github.com/nrc/r4cppp) - Nick Cameron (HTML)
+* [The Embedded Rust Book](https://docs.rust-embedded.org/book/intro/index.html) (HTML)
+* [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book) (HTML)
+* [The Rust Language Reference](https://github.com/rust-lang/reference) (HTML)
+* [The Rust Performance Book](https://nnethercote.github.io/perf-book) (HTML)
 * [The Rust Programming Language](http://doc.rust-lang.org/book) - Steve Klabnik, Carol Nichols, et al. (HTML)
-* [The Rust RFC Book](https://rust-lang.github.io/rfcs)
-* [The Rustc Book](https://doc.rust-lang.org/rustc)
-* [The Rustonomicon](https://doc.rust-lang.org/nomicon)
-* [Why Rust?](https://www.oreilly.com/content/why-rust)
+* [The Rust RFC Book](https://rust-lang.github.io/rfcs) (HTML)
+* [The Rustc Book](https://doc.rust-lang.org/rustc) (HTML)
+* [The Rustonomicon](https://doc.rust-lang.org/nomicon) (HTML)
+* [Why Rust?](https://www.oreilly.com/content/why-rust) (HTML)
 
 
 ### Sage

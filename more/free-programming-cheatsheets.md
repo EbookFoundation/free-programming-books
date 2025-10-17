@@ -549,7 +549,6 @@
 ### SpringBoot
 
 * [Spring Boot Cheatsheet](https://www.jrebel.com/blog/spring-annotations-cheat-sheet) - JRebel
-* [Spring Boot Cheatsheet](https://github.com/RohanVishwakarma001/Spring-Boot-Complete-Cheat-sheet) - Rohan (Markdown)
 
 
 ### SQL

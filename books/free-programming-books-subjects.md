@@ -43,7 +43,6 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Programming](#programming)
 * [Programming Paradigms](#programming-paradigms)
 * [Prompt Engineering](#prompt-engineering)
-* [Quantitative Analysis](#quantitative-analysis)
 * [Quantum Computing](#quantum-computing)
 * [Regular Expressions](#regular-expressions)
 * [Reverse Engineering](#reverse-engineering)
@@ -482,6 +481,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Analytic Geometry (1922)](http://djm.cc/library/Analytic_Geometry_Siceloff_Wentworth_Smith_edited.pdf) - Lewis Parker Siceloff, George Wentworth, David Eugene Smith (PDF)
 * [Applied Combinatorics](https://rellek.net/book/app-comb.html) - Mitchel T. Keller, William T. Trotter
 * [Applied Discrete Structures](https://faculty.uml.edu/klevasseur/ads2/) - Alan Doerr, Kenneth Levasseur
+* [Applied Quantitative Finance: Theory and Computational Tools](http://inis.jinr.ru/sl/M_Mathematics/MV_Probability/MVspf_Stochastics%20in%20finance/Haerdle%20et%20al.%20Applied%20Quantitative%20Finance%20(Springer)(423s).pdf) - Wolfgang K. Hardle, Nikolaus Hautsch, Ludger Overbeck (PDF)
 * [Basic Analysis: Introduction to Real Analysis](https://www.jirka.org/ra/) - Jiří Lebl
 * [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - Cameron Davidson-Pilon
 * [Book of Proof](https://www.people.vcu.edu/~rhammack/BookOfProof/) - Richard Hammack [(PDF)](https://www.people.vcu.edu/~rhammack/BookOfProof/Main.pdf)
@@ -508,6 +508,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Essentials of Metaheuristics](https://cs.gmu.edu/~sean/book/metaheuristics/) - Sean Luke
 * [Foundations of Combinatorics with Applications](https://www.math.ucsd.edu/~ebender/CombText/) - Edward A. Bender, S. Gill Williamson
 * [Foundations of Constructive Probability Theory](https://arxiv.org/pdf/1906.01803.pdf) - Yuen-Kwok Chan (PDF)
+* [Fundamentals of Quantitative Analysis](https://psyteachr.github.io/quant-fun-v3/) - Danielle Zhu (GitHub) (CC BY-SA)
 * [Geometry with an Introduction to Cosmic Topology](https://mphitchman.com) - Michael P. Hitchman
 * [Graph Theory](http://compalg.inf.elte.hu/~tony/Oktatas/TDK/FINAL/)
 * [Guide to Discrete Mathematics](https://core.ac.uk/download/pdf/326762636.pdf) - David Gries, Fred B. Schneider (PDF)
@@ -857,13 +858,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Prompt Engineering](https://www.innopreneur.io/wp-content/uploads/2025/04/22365_3_Prompt-Engineering_v7-1.pdf) - Lee Boonstra (PDF)
 * [Prompt Engineering Guide](https://learnprompting.org/docs/introduction) - LearnPrompting (HTML)
 * [Prompt Engineering Guide](https://www.promptingguide.ai) - DAIR.AI (HTML)
-
-
-### Quantitative Analysis
-
-* [Applied Quantitative Finance: Theory and Computational Tools](https://freecomputerbooks.com/Applied-Quantitative-Finance.html) - Wolfgang K. Hardle, Nikolaus Hautsch, Ludger Overbeck (PDF)
-* [Fundamentals of Quantitative Analysis - GitHub Source](https://github.com/PsyTeachR/quant-fundamentals-v3) - Dr. Danielle Zhu (GitHub) (CC BY-SA)
-* [OpenIntro Statistics](https://www.openintro.org/book/os/) - by David M. Diez, Christopher D. Barr, and Mine Çetinkaya-Rundel (PDF) (CC BY)
 
 
 ### Quantum Computing

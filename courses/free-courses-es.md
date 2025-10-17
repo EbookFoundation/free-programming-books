@@ -126,6 +126,7 @@
 
 ### Markdown
 
+* [Curso de Markdown](https://www.youtube.com/playlist?list=PLM4HZoZrNapsQ_f6a9275n15riyr-2AnQ) - ProgramaTutos
 * [Tutorial de Markdown](https://www.markdowntutorial.com/es/)
 
 

@@ -20,6 +20,7 @@
     * [Gremlin](#gremlin)
 * [HTML and CSS](#html-and-css)
 * [IDE and editors](#ide-and-editors)
+* [Information Security](#info-sec)
 * [Java](#java)
 * [JavaScript](#javascript)
     * [jQuery](#jquery)
@@ -152,7 +153,9 @@
 * [Algorithms and Data Structures Cheatsheet](https://algs4.cs.princeton.edu/cheatsheet/)
 * [An Executable Data Structures Cheat Sheet for Interviews](https://algodaily.com/lessons/an-executable-data-structures-cheat-sheet)
 * [Big-O Cheat Sheet](http://bigocheatsheet.com)
+* [Big O Cheat Sheet](https://zerotomastery.io/cheatsheets/big-o-cheat-sheet/) - ZeroToMastery.io (HTML)
 * [Big O Notation Cheat Sheet](https://algodaily.com/lessons/big-o-notation-cheat-sheet)
+* [Data Structures and Algorithms Cheat Sheet](https://zerotomastery.io/cheatsheets/data-structures-and-algorithms-cheat-sheet/) - ZeroToMastery (HTML)
 * [Data Structures and Algorithms Cheat Sheet - Cheatography](https://cheatography.com/burcuco/cheat-sheets/data-structures-and-algorithms/)
 * [Data structures and algorithms study cheatsheets for coding interviews](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/)
 
@@ -202,6 +205,7 @@
 
 * [cht.sh Go Cheatsheet](https://cht.sh/go/:learn) (HTML)
 * [Go Cheatsheet](https://devhints.io/go) - devhints, Rico Santa Cruz (HTML)
+* [Go Programming (Golang) Cheat Sheet](https://zerotomastery.io/cheatsheets/golang-cheat-sheet/) - ZeroToMastery (HTML)
 * [গো \| ডেভ সংকেত<](https://devsonket.com/go) - devsonket (HTML)
 
 
@@ -261,6 +265,11 @@
 * [Visual Studio Code: Keyboard shortcuts for macOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf) - Visual Studio Code (PDF)
 * [Visual Studio Code: Keyboard shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf) - Visual Studio Code (PDF)
 * [VSCheatsheet](https://web.archive.org/web/20230816231124/https://www.vscheatsheet.com/) - Nicolas Constantinou (HTML) *( :card_file_box: archived)*
+
+
+### <a id="info-sec"></a>Information Security
+
+* [Nmap Cheat Sheet)](https://zerotomastery.io/cheatsheets/nmap-cheat-sheet/) - ZeroToMastery.io (HTML)
 
 
 ### Java
@@ -410,7 +419,7 @@
 
 ### Python
 
-* [Comprehensive Python Cheat Sheet for Beginners](https://medium.com/the-codehub/comprehensive-python-cheat-sheet-for-beginners-5d76bb038fa2) - Rishi Sidhu, Medium (HTML)
+* [Beginner's Python Cheat Sheet](https://ils.unc.edu/courses/2023_fall/inls560_003/assets/files/python_cheat_sheet-087b0138f25c3aac5bace1199f1c253d.pdf) - University of North Carolina (PDF)
 * [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet) - Jure Šorn (HTML)
 * [Numpy Pandas Cheat Sheet](https://www.kaggle.com/code/lavanyashukla01/pandas-numpy-python-cheatsheet) - Kaggle (HTML)
 * [Official Matplotlib cheat sheets](https://github.com/matplotlib/cheatsheets) - Matplotlib.org (LaTeX, PDF)
@@ -511,6 +520,7 @@
 
 ### Rust
 
+* [Rust Cheat Sheet](https://zerotomastery.io/cheatsheets/rust-cheat-sheet/) - ZeroToMastery (HTML)
 * [Rust cheatsheet](https://quickref.me/rust) - QuickRef.ME (HTML)
 * [Rust Language Cheat Sheet](https://cheats.rs) (HTML)
 
@@ -532,6 +542,7 @@
 ### Solidity
 
 * [Solidity Cheat Sheet](https://intellipaat.com/mediaFiles/2019/03/Solidity-Cheat-Sheet.pdf) - IntelliPaat (PDF)
+* [Solidity Cheat Sheet](https://zerotomastery.io/cheatsheets/solidity-cheat-sheet/) - ZeroToMastery (HTML)
 * [Solidity Cheatsheet and Best practices](https://manojpramesh.github.io/solidity-cheatsheet/) - Manoj Ramesh (HTML)
 
 
@@ -552,6 +563,7 @@
 ### TensorFlow
 
 * [DeepLearning- Keras & TF Cheat Sheet](https://cheatography.com/chesterhsieh/cheat-sheets/deeplearning-keras-and-tf/pdf/) - Chester Hsieh, Cheatography (PDF) *( :construction: in process)*
+* [TensorFlow Cheat Sheet](https://zerotomastery.io/cheatsheets/tensorflow-cheat-sheet/) - ZeroToMastery (HTML)
 * [TensorFlow Quick Reference Table](https://secretdatascientist.com/tensor-flow-cheat-sheet/) - Secret data scientist (HTML)
 * [TensorFlow v2.0 Cheat Sheet](https://web.archive.org/web/20200922212358/https://www.aicheatsheets.com/static/pdfs/tensorflow_v_2.0.pdf) - Altoros (PDF) *( :card_file_box: archived)*
 
@@ -559,6 +571,7 @@
 ### Terraform
 
 * [Terraform Cheat Sheet](https://www.techbeatly.com/terraform-cheat-sheet) - Gineesh Madapparambath (HTML)
+* [Terraform Cheat Sheet](https://zerotomastery.io/cheatsheets/terraform-cheat-sheet/) - ZeroToMastery (HTML)
 * [Terraform Cheatsheet](https://acloudguru.com/blog/engineering/the-ultimate-terraform-cheatsheet) - Eric Pulsifer (HTML)
 
 

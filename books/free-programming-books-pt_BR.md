@@ -417,6 +417,7 @@
 * [Aprenda computação com Python](https://aprendendo-computacao-com-python.readthedocs.org/en/latest/index.html)
 * [Curso de Python e Django](https://osantana.me/curso-de-python-e-django)
 * [Django 101 - Introdução ao Django](http://turing.com.br/material/acpython/mod3/django/index.html)
+* [Introdução ao Python](https://files.cercomp.ufg.br/weby/up/688/o/M2_IP_24-09-24.pdf) - Rafael Divino Ferreira Feitosa (PDF)
 * [Introdução a Visão Computacional com Python e OpenCV](http://professor.luzerna.ifc.edu.br/ricardo-antonello/wp-content/uploads/sites/8/2017/02/Livro-Introdu%C3%A7%C3%A3o-a-Vis%C3%A3o-Computacional-com-Python-e-OpenCV-3.pdf) (PDF)
 * [O Guia do Mochileiro para Python!](https://python-guide-pt-br.readthedocs.io/pt_BR/latest/)
 * [O tutorial de Python](http://turing.com.br/pydoc/2.7/tutorial/)
@@ -428,7 +429,6 @@
 * [Python para Desenvolvedores](https://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf) (PDF)
 * [Python para Matemáticos](https://sbm.org.br/wp-content/uploads/2023/09/Minicurso_Python_final2.pdf) - Andréa Lins, Lins Souza (PDF)
 * [Tutorial Django Girls](http://tutorial.djangogirls.org/pt/)
-* [Introdução ao Python](https://files.cercomp.ufg.br/weby/up/688/o/M2_IP_24-09-24.pdf) - Rafael Divino Ferreira Feitosa (PDF)
 
 
 #### Django

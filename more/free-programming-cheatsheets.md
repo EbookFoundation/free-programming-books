@@ -271,6 +271,7 @@
 * [Linux Commands Cheat Sheet)](https://zerotomastery.io/cheatsheets/linux-commands-cheat-sheet/) - ZeroToMastery (HTML)
 * [Nmap Cheat Sheet)](https://zerotomastery.io/cheatsheets/nmap-cheat-sheet/) - ZeroToMastery.io (HTML)
 
+
 ### Java
 
 * [Java](https://web.archive.org/web/20230816231124/https://programmingwithmosh.com/wp-content/uploads/2019/07/Java-Cheat-Sheet.pdf) - Moshfegh Hamedani (PDF) *( :card_file_box: archived)*

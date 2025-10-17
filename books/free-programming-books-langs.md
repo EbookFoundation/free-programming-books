@@ -1997,8 +1997,8 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Google's Python Class](https://developers.google.com/edu/python/) (2.4 - 2.x) (HTML)
 * [Google's Python Style Guide](https://google.github.io/styleguide/pyguide.html) (HTML)
 * [Hadoop with Python](https://www.oreilly.com/learning/hadoop-with-python) (HTML) - Zachary Radtka, Donald Miner
-* [Hands-On Natural Language Processing with Python](https://www.packtpub.com/free-ebook/hands-on-natural-language-processing-with-python/9781789139495) - Rajesh Arumugam, Rajalingappaa Shanmugamani (Packt account *required*)
-* [Hands-on Python 3 Tutorial](https://anh.cs.luc.edu/handsonPythonTutorial) - Andrew N. Harrington (HTML)
+* [Hands-On Natural Language Processing with Python](https://www.packtpub.com/free-ebook/hands-on-natural-language-processing-with-python/9781789139495) (Packt account *required*) - Rajesh Arumugam, Rajalingappaa Shanmugamani
+* [Hands-on Python 3 Tutorial](https://anh.cs.luc.edu/handsonPythonTutorial) (HTML) - Andrew N. Harrington
 * [Hitchhiker's Guide to Python!](http://docs.python-guide.org/en/latest/) (2.6)
 * [How to Code in Python 3](https://assets.digitalocean.com/books/python/how-to-code-in-python.pdf) - Lisa Tagliaferri (PDF)
 * [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](https://runestone.academy/runestone/books/published/thinkcspy/index.html) - Brad Miller, David Ranum, Jeffrey Elkner, Peter Wentworth, Allen B. Downey, Chris Meyers, Dario Mitchell (3.2)

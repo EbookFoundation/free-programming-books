@@ -2383,7 +2383,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [EAI Patterns with Actor Model](https://github.com/alexanderfefelov/eai-patterns-with-actor-model) - Vaughn Vernon
 * [Effective Scala](https://twitter.github.io/effectivescala/)
 * [Essential Scala](http://underscore.io/books/essential-scala/) - Noel Welsh, Dave Gurnell (PDF, HTML, EPUB) (email address *requested*, not required)
-* [Functional Programming for Mortals](https://leanpub.com/fpmortals/read) - Sam Halliday
+* [Functional Programming for Mortals](https://leanpub.com/fpmortals/read) - Sam Halliday (HTML)
 * [Functional Programming, Simplified (Scala edition)](https://alvinalexander.com/photos/functional-programming-simplied-free-pdf-preview) - Alvin Alexander (free preview (400 pages from 595), PDF)
 * [Hands-on Scala](https://github.com/handsonscala/handsonscala)
 * [Hello, Scala](https://alvinalexander.com/photos/hello-scala-free-pdf-preview) - Alvin Alexander (free preview (120 pages from 257), PDF)
@@ -2391,7 +2391,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Learning Scalaz](http://eed3si9n.com/learning-scalaz/)
 * [Pro Scala: Monadic Design Patterns for the Web](https://github.com/leithaus/XTrace/tree/monadic/src/main/book/content/)
 * [Programming in Scala, First Edition](http://www.artima.com/pins1ed/) - M. Odersky, L. Spoon, B. Venners
-* [Pure functional HTTP APIs in Scala](https://leanpub.com/pfhais/read) - Jens Grassel
+* [Pure functional HTTP APIs in Scala](https://leanpub.com/pfhais/read) - Jens Grassel (HTML)
 * [PythonToScala](https://wrobstory.gitbooks.io/python-to-scala/content/) - Rob Story
 * [S-99: Ninety-Nine Scala Problems](http://aperiodic.net/phil/scala/s-99/) - Phil! Gold
 * [Scala & Design Patterns: Exploring Language Expressivity](http://www.scala-lang.org/old/sites/default/files/FrederikThesis.pdf) - Fredrik Skeel Løkke (PDF)

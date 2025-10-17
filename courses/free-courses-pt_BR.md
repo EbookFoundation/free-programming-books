@@ -33,6 +33,7 @@
 * [Networking](#networking)
 * [Node.js](#nodejs)
 * [PHP](#php)
+* [Postgres](#postgres)
 * [Programação](#programação)
 * [Python](#python)
     * [Django](#django)
@@ -273,7 +274,9 @@
 * [Curso Intensivo de Next.js & React](https://www.cod3r.com.br/courses/curso-intensivo-next-react) - Leonardo Leitão (Cod3r)
 * [Next.js 13.4 Masterclass Prático c/ Stripe e Shadcn-ui](https://www.youtube.com/playlist?list=PLR8OzKI52ppWoTRvAmB_FQPPlHS0otV7V) - DeveloperDeck101
 * [React & Node.js](https://www.youtube.com/playlist?list=PLm-VCNNTu3LlQ3APFZeUn-9JztCM4_c28) - Felipe Rocha
+* [ReactJS - API GitHub](https://cursos.devsamurai.com.br/React%20-%20API%20Github.zip) - Dev Samurai
 * [ReactJS - Básico](https://www.youtube.com/playlist?list=PLWXw8Gu52TRK1W0emFvUl3ozgV2JW3_8p) - Ralf Lima
+* [ReactJS - Fundamentos](https://cursos.devsamurai.com.br/React%20-%20Fundamentos.zip) - Dev Samurai
 
 
 #### Vue.js
@@ -381,6 +384,11 @@
 * [PHP 7 do Básico ao Intermediário](https://www.udemy.com/php-do-basico-ao-intermediario/) - Gunnar Correa (Udemy)
 * [PHP para quem entende PHP](https://www.udemy.com/php-para-quem-entende-php/) - Alexandre Cardoso (Udemy)
 * [PHP PDO](https://www.youtube.com/playlist?list=PLYGFJHWj9BYqSXzSfHGd46yipCrkjC8AD) - Miriam (Miriam TechCod)
+
+
+### Postgres
+
+* [Dominando o Postgres](https://cursos.devsamurai.com.br/Backend%20-%20Dominando%20o%20Postgres.zip) - Dev Samurai
 
 
 ### Programação

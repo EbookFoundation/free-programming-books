@@ -33,6 +33,7 @@
 * [Networking](#networking)
 * [Node.js](#nodejs)
 * [PHP](#php)
+* [Postgres](#postgres)
 * [Programação](#programação)
 * [Python](#python)
     * [Django](#django)
@@ -273,7 +274,9 @@
 * [Curso Intensivo de Next.js & React](https://www.cod3r.com.br/courses/curso-intensivo-next-react) - Leonardo Leitão (Cod3r)
 * [Next.js 13.4 Masterclass Prático c/ Stripe e Shadcn-ui](https://www.youtube.com/playlist?list=PLR8OzKI52ppWoTRvAmB_FQPPlHS0otV7V) - DeveloperDeck101
 * [React & Node.js](https://www.youtube.com/playlist?list=PLm-VCNNTu3LlQ3APFZeUn-9JztCM4_c28) - Felipe Rocha
+* [ReactJS - API GitHub](https://cursos.devsamurai.com.br/React%20-%20API%20Github.zip) - Dev Samurai
 * [ReactJS - Básico](https://www.youtube.com/playlist?list=PLWXw8Gu52TRK1W0emFvUl3ozgV2JW3_8p) - Ralf Lima
+* [ReactJS - Fundamentos](https://cursos.devsamurai.com.br/React%20-%20Fundamentos.zip) - Dev Samurai
 
 
 #### Vue.js
@@ -315,6 +318,7 @@
 
 ### Linux
 
+* [Curso de Linux](https://www.youtube.com/playlist?list=PLnDvRpP8BnezDTtL8lm6C-UOJZn-xzALH) - Matheus Battisti
 * [Curso de Linux - Primeiros Passos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV) - Gustavo Guanabara
 * [Introdução ao Sistema Operacional Linux](https://www.udemy.com/course/linux-ubuntu/) - Diego Mariano (Udemy)
 * [Terminal Linux](https://www.udemy.com/course/terminal-de-comandos-linux/) - Diego Mariano (Udemy)
@@ -338,6 +342,7 @@
 ### Markdown
 
 * [Aprenda Markdown](https://www.udemy.com/aprenda-markdown/) - Roberto Achar (Udemy)
+* [Guia da Linguagem Markdown](https://www.youtube.com/watch?v=LntSB-gl-ZI) - Curso em Vídeo
 
 
 ### Networking
@@ -382,12 +387,18 @@
 * [PHP PDO](https://www.youtube.com/playlist?list=PLYGFJHWj9BYqSXzSfHGd46yipCrkjC8AD) - Miriam (Miriam TechCod)
 
 
+### Postgres
+
+* [Dominando o Postgres](https://cursos.devsamurai.com.br/Backend%20-%20Dominando%20o%20Postgres.zip) - Dev Samurai
+
+
 ### Programação
 
 * [Algoritmos de Ordenação](https://www.youtube.com/playlist?list=PLzZut2slkqywtFxqTY8AQwIG65h_2oMBL) - Bruno Ribas
 * [Como Computadores Funcionam?](https://www.youtube.com/playlist?list=PLdsnXVqbHDUcQIuiH9b-i9A85H3A2ZW5W) - Fabio Akita
 * [Conceitos de Programação](https://www.youtube.com/playlist?list=PLdsnXVqbHDUcrE56CH8sXaPF3TTqoBP2z) - Fabio Akita
 * [Curso Lógica de Programação Completo 2023 [Iniciantes] + Desafios + Muita prática](https://www.youtube.com/watch?v=iF2MdbrTiBM) - Jonathan de Souza
+* [Curso Programação Web Completo](https://www.youtube.com/playlist?list=PL2Fdisxwzt_ebZYgPFL8KeWqBhkF1Q8oe) - Programação Web
 * [Frontend para Iniciantes](https://www.youtube.com/playlist?list=PLsGmTzb4NxK2sGY3KqKmg1UTxNTcPPK1Z) - LuizTools
 * [Inteligência Artificial](https://www.youtube.com/playlist?list=PLdsnXVqbHDUeowsAO0sChHDY4D65T5s1U) - Fabio Akita
 * [Programação para Iniciantes](https://www.youtube.com/playlist?list=PLdsnXVqbHDUc7htGFobbZoNen3r_wm3ki) - Fabio Akita
@@ -438,6 +449,7 @@
 
 #### Django
 
+* [Curso de Django 2](https://www.youtube.com/playlist?list=PLnDvRpP8BnewqnMzRnBT5LeTpld5bMvsj) - Matheus Battisti
 * [Curso de Django Aprenda a Desenvolver Aplicações Web Do Zero](https://www.youtube.com/playlist?list=PLLVddSbilcumgeyk0z6ko5U_FYPfbRO2C) - Jefferson Lobato
 * [Curso de Django To-Do-List](https://www.youtube.com/playlist?list=PLLVddSbilcunGg0IJ4zP05Z91yrEaIiQh) - Jefferson Lobato
 * [Django](https://www.youtube.com/playlist?list=PL3gEA6Xsr_el-1m_ew_kwPVGgDiG1nwY-) - Pythonando
@@ -453,6 +465,7 @@
 
 #### Flask
 
+* [Curso de Flask](https://www.youtube.com/playlist?list=PLWhiA_CuQkbBhvPojHOPY81BmDt2eSfgI) - Filipe Morelli Developer
 * [Flask](https://www.youtube.com/playlist?list=PLyOx5V4KUjDf3-flamHYkJ2ygYmdRDdE9) - Lan Code
 
 
@@ -470,6 +483,7 @@
 ### React Native
 
 * [Aprenda React Native](https://www.youtube.com/playlist?list=PL8fIRnD1uUSnRqz3E2caAWDqbtIFXmNtW) - Canal Geek Dev
+* [Curso base de React Native 2025](https://www.youtube.com/playlist?list=PL29TaWXah3ibI0ewWkI7xMI952wHEaFTK) - Lucas Souza Dev
 * [Curso React Native (aprendiz)](https://www.youtube.com/playlist?list=PLdDT8if5attEd4sRnZBIkNihR-_tE612_) - One Bit Code
 
 
@@ -484,11 +498,13 @@
 
 ### Rust
 
+* [Aprenda Rust](https://www.youtube.com/playlist?list=PLjSf4DcGBdiGCNOrCoFgtj0KrUq1MRUME) - CodeShow
 * [Programando do 0 ao avançado na linguagem de programação Rust](https://www.youtube.com/playlist?list=PLWmXJQDlXOHX6UdAmXv6euoqDPUtMLpJf) - Lanby 0xff3 λ
 
 
 ### Sass
 
+* [Curso de Sass](https://www.youtube.com/playlist?list=PLMy95_4XE08OmaSd_GOLKNkqhoJFvg7w7) - Vida FullStack
 * [Sass placeholders: o jeito certo](https://www.udemy.com/course/sass-placeholders-o-jeito-certo/) - Tárcio Zemel (Udemy)
 
 
@@ -515,10 +531,12 @@
 
 * [Aprendendo Swift do Iniciante ao Avançado. (Mac e Windows)](https://www.udemy.com/aprendendoswift3/) - Lucas Alencar (Udemy)
 * [Curso de Swift - Programação](https://www.youtube.com/playlist?list=PLJ0AcghBBWShgIH122uw7H9T9-NIaFpP-) - Tiago Aguiar
+* [Curso grátis Swift e SwiftUI](https://www.youtube.com/playlist?list=PLMdYygf53DP46rneFgJ7Ab6fJPcMvr8gC) - Filipe Deschamps
 
 
 ### TypeScript
 
+* [Curso completo de Typescript](https://www.youtube.com/playlist?list=PL9tY_tDo_Q0DOAzTaPnWYsryfNLsz1K6U) - Rincko Dev
 * [Mini-curso de TypeScript](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_) - Willian Justen Curso
 * [TypeScript - Aprendendo Junto](https://www.youtube.com/playlist?list=PL62G310vn6nGg5OzjxE8FbYDzCs_UqrUs) - DevDojo
 * [Typescript - Zero to Hero](https://github.com/glaucia86/curso-typescript-zero-to-hero) - Glaucia Lemos
@@ -531,9 +549,10 @@
 * [Angular 17 - 2024](https://www.youtube.com/playlist?list=PLWXw8Gu52TRKj3tFWHlkheh8rLQRqQ1__) - Ralf Lima
 * [Aprenda Angular Do Zero - primeiro passos](https://www.youtube.com/live/OmkmeBOAg44) - Fernanda Kipper
 * [Começando com Angular](https://balta.io/cursos/comecando-com-angular) - Andre Baltieri (balta.io)
+* [Curso Angular 17](https://www.youtube.com/playlist?list=PLXEUJjGpEX7zwdFSAzIPiSf9p0tOeI1Yu) - Code Dimension
+* [Curso Angular 19 na prática](https://www.youtube.com/playlist?list=PLAHPGKIfQVuIff8XNEhEN9-EJbwiQykCC) - O Dev Lucas
 * [Curso Angular 9](https://www.youtube.com/playlist?list=PLdPPE0hUkt0rPyAkdhHIIquKbwrGUkvw3) - Cod3r
 * [Curso de Angular](https://loiane.training/curso/angular/) - Loiane Groner
-* [Curso de Angular 17](https://www.youtube.com/playlist?list=PLXEUJjGpEX7zwdFSAzIPiSf9p0tOeI1Yu) - Code Dimension
 * [Curso gratuito de Angular](https://www.youtube.com/playlist?list=PLhna1crYw0SOFqiss05ybqJCc6fvGn6BF) - Café com Bug
 
 
@@ -541,12 +560,14 @@
 
 * [Curso de Loja Virtual: WooCommerce + WordPress](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZNE5PAYc0h4iVkqBCgBZR) - Gustavo Guanabara (Curso em Vídeo)
 * [Curso de WordPress 2022 Grátis e Completo](https://www.youtube.com/playlist?list=PLltHgIJnfTsAnyA8KPXC6ohTYzGEreVEa) - CursoB Cursos Online
+* [Curso de WordPress 2025](https://www.youtube.com/playlist?list=PLa3bnULYnrpGrgUyQUXwrIUXk75_jO-n2) - Descomplicando Sites
 * [Curso de WordPress: Criando um site do zero](https://www.youtube.com/playlist?list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2) - Gustavo Guanabara (Curso em Vídeo)
 
 
 ### Segurança da Informação
 
 * [Boas Práticas de Segurança da Informação para Sua Empresa](https://www.udemy.com/course/empresa-mais-segura/) - Afonso da Silva E. (Udemy)
+* [Curso de Segurança com Prática](https://www.youtube.com/playlist?list=PLAp37wMSBouB70jGTeT0JjW_LNC_JBHCo) - Hardware Redes Brasil
 * [Curso de Segurança da Informação](https://www.youtube.com/playlist?list=PLHz_AreHm4dkYS6J9KeYgCCVpo5OXkvgE) - Gustavo Guanabara, (Curso em Video)
 * [Segurança da Informação: Por onde iniciar sua carreira](https://www.udemy.com/course/seguranca-da-informacao-por-onde-iniciar-sua-carreira/) - Alexandro Silva (Udemy)
 

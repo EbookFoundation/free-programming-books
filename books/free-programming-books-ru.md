@@ -111,9 +111,11 @@
 * [Практика функционального программирования](https://www.fprog.ru) - журнал
 * [Рефакторинг на максималках](https://github.com/bespoyasov/refactor-like-a-superhero-online-book/blob/main/manuscript-ru/README.md) - Александр Беспоясов
 
+
 #### Производительность
 
 * [Продуманная оптимизация](https://optimization.guide) - Карлос Буэно
+
 
 #### Работа с сетью
 

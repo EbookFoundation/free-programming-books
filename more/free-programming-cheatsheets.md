@@ -162,7 +162,7 @@
 
 ### Docker
 
-* [Docker Cheat Sheet](https://github.com/SAYOUNCDR/Docker-CheetSheet/blob/main/docker-cheatsheet.md) - SAYOUNCDR (Markdown)
+* [Docker Cheat Sheet](https://github.com/SAYOUNCDR/Docker-CheetSheet/blob/main/docker-cheatsheet.md) - Sayoun Parui (Markdown)
 * [Docker Cheat Sheet](https://low-orbit.net/docker-cheat-sheet) - Anthony Rioux, Low Orbit Flux (HTML, PDF)
 * [Docker Cheat Sheet](https://web.archive.org/web/20220925022529/https://www.docker.com/wp-content/uploads/2022/03/docker-cheat-sheet.pdf) - Docker Inc., Solomon Hykes (PDF) *( :card_file_box: archived)*
 * [Docker Cheat Sheet](https://intellipaat.com/blog/tutorial/devops-tutorial/docker-cheat-sheet/) - IntelliPaat (HTML, PDF)

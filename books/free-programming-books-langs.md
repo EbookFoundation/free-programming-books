@@ -1996,7 +1996,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Geographic Data Science with Python](https://geographicdata.science/book/intro.html) - Sergio Rey, Dani Arribas-Bel, Levi John Wolf (HTML)
 * [Google's Python Class](https://developers.google.com/edu/python/) (2.4 - 2.x) (HTML)
 * [Google's Python Style Guide](https://google.github.io/styleguide/pyguide.html) (HTML)
-* [Hadoop with Python](https://www.oreilly.com/learning/hadoop-with-python) - Zachary Radtka, Donald Miner (HTML)
+* [Hadoop with Python](https://www.oreilly.com/learning/hadoop-with-python) (HTML) - Zachary Radtka, Donald Miner
 * [Hands-On Natural Language Processing with Python](https://www.packtpub.com/free-ebook/hands-on-natural-language-processing-with-python/9781789139495) - Rajesh Arumugam, Rajalingappaa Shanmugamani (Packt account *required*)
 * [Hands-on Python 3 Tutorial](https://anh.cs.luc.edu/handsonPythonTutorial) - Andrew N. Harrington (HTML)
 * [Hitchhiker's Guide to Python!](http://docs.python-guide.org/en/latest/) (2.6)

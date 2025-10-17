@@ -839,7 +839,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Practical Cryptography With Go](https://leanpub.com/gocrypto/read) - Kyle Isom
 * [Practical Go Lessons](https://www.practical-go-lessons.com) - Maximilien Andile
 * [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html) - Dave Cheney (HTML)
-* [Production Go](https://leanpub.com/productiongo/read) - Herman Schaaf and Shawn Smith (EPUB, HTML, PDF) ( :construction: *in process*) *(Leanpub account or valid email requested for EPUB or PDF)*
+* [Production Go](https://leanpub.com/productiongo/read) - Herman Schaaf and Shawn Smith (HTML, EPUB, PDF) ( :construction: *in process*)
 * [Spaceship Go - A Journey to the Standard Library](https://blasrodri.github.io/spaceship-go-gh-pages/) - Blas Rodriguez Irizar
 * [The Go Tutorial](http://tour.golang.org)
 * [The Little Go Book](https://github.com/karlseguin/the-little-go-book) - Karl Seguin ([PDF](https://www.openmymind.net/assets/go/go.pdf), [ePUB](https://www.openmymind.net/assets/go/go.epub)) (CC BY-NC-SA)

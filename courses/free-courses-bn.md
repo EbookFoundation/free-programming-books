@@ -17,6 +17,7 @@
     * [Tailwind](#tailwind)
 * [IDE and editors](#ide-and-editors)
 * [Java](#java)
+    * [Spring Boot](#spring-boot)
 * [JavaScript](#javascript)
     * [Angular](#angular)
     * [Electron](#electron)
@@ -187,7 +188,13 @@
 * [Java Bangla Tutorials \| CORE Java \| Complete OOP](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa) - Anisul Islam
 * [Java Basic Syntax Bangla Tutorial](https://www.youtube.com/playlist?list=PLdl6zXgLsy3xCae1uL6rJ8Ay9sIiyBy5I) - Bangla Coding Tutor
 * [Java Course! Full Course Bangla](https://www.youtube.com/playlist?list=PLysy6TYSMvpJmMN0ElbC936RmmFustDiy) - Online Course
+* [Java For Beginners](https://www.youtube.com/playlist?list=PLvr0Ht-XkB_0KC2-N3hv0V3ib-Z6wKkAy) - Learn With Tawhid
 * [Java Swing Bangla Tutorials](https://www.youtube.com/playlist?list=PLgH5QX0i9K3rAHKr6IteF5kdgN6BorH9l) - Anisul Islam
+
+
+#### Spring Boot
+
+* [Spring Boot for Beginners](https://www.youtube.com/watch?v=ELL1Pwd3W28) - Yeamim Hossain Sajid
 
 
 ### JavaScript
@@ -298,6 +305,7 @@
 
 ### Operating Systems
 
+* [Operating System](https://www.youtube.com/playlist?list=PLgrAmbRAezujiknEO3sqpyCC4K3IgS4KU) - Farhan Hossan
 * [Operating System (OS) Bangla Tutorial (কমপ্লিট কোর্স)](https://www.youtube.com/playlist?list=PLncy2sD7w4Yr3ZbiP_ipAjgjDRn86N_tT) - Lecturelia - CSE Bangla Tutorial
 
 

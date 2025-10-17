@@ -1249,7 +1249,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 #### D3.js
 
-* [D3 Tips and Tricks](https://leanpub.com/D3-Tips-and-Tricks/read) - Malcolm Maclean
+* [D3 Tips and Tricks](https://leanpub.com/D3-Tips-and-Tricks/read) - Malcolm Maclean (HTML)
 * [Dashing D3.js Tutorial](https://www.dashingd3js.com/d3-tutorial)
 * [Interactive Data Visualization with D3](http://alignedleft.com/tutorials/d3)
 
@@ -1956,7 +1956,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### PureScript
 
-* [PureScript By Example](https://leanpub.com/purescript/read) - Phil Freeman
+* [PureScript By Example](https://leanpub.com/purescript/read) - Phil Freeman (HTML)
 
 
 ### Python

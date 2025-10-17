@@ -20,6 +20,7 @@
     * [Gremlin](#gremlin)
 * [HTML and CSS](#html-and-css)
 * [IDE and editors](#ide-and-editors)
+* [Information Security](#info-sec)
 * [Java](#java)
 * [JavaScript](#javascript)
     * [jQuery](#jquery)
@@ -260,6 +261,11 @@
 * [Visual Studio Code: Keyboard shortcuts for macOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf) - Visual Studio Code (PDF)
 * [Visual Studio Code: Keyboard shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf) - Visual Studio Code (PDF)
 * [VSCheatsheet](https://web.archive.org/web/20230816231124/https://www.vscheatsheet.com/) - Nicolas Constantinou (HTML) *( :card_file_box: archived)*
+
+
+### <a id="info-sec"></a>Information Security
+
+* [Nmap Cheat Sheet)](https://zerotomastery.io/cheatsheets/nmap-cheat-sheet/) - ZeroToMastery.io (HTML)
 
 
 ### Java

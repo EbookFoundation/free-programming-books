@@ -577,8 +577,8 @@
 ### TypeScript
 
 * [TypeScript Cheat Sheet](https://rmolinamir.github.io/typescript-cheatsheet/) - Robert Molina (HTML)
+* [TypeScript Cheat Sheet](https://zerotomastery.io/cheatsheets/typescript-cheat-sheet/) - ZeroToMastery (HTML)
 * [TypeScript Cheatsheet](https://github.com/SAYOUNCDR/TS-CheatSheet) - Sayoun Parui (Markdown)
-
 
 ### UI/UX
 

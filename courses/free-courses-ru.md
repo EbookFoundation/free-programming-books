@@ -186,7 +186,6 @@ ADV - Продвинутый. Тонкости.
 ### Ruby
 
 * [Бесплатный онлайн курс по основам Ruby](https://code-basics.com/ru/languages/ruby) - Code-basics (BEG)
-* [Введение в Ruby](https://ru.hexlet.io/courses/ruby) - Hexlet (BEG)
 * [Путь Rubyrush](https://rubyrush.ru/steps) (BEG)
 * [Ruby - первое знакомство](https://stepik.org/course/87996) - Stepik (BEG)
 

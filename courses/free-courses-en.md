@@ -1350,6 +1350,7 @@
 
 ### Lua
 
+* [Learn Lua](https://www.codecademy.com/learn/learn-lua) - CodeAcademy *(Need to create a CodeAcademy account to access)*
 * [Learn Lua in 15 Minutes](http://tylerneylon.com/a/learn-lua/) - Tyler Neylon (HTML)
 * [Learning Lua](https://youtube.com/playlist?list=PLxgtJR7f0RBKGid7F2dfv7qc-xWwSee2O) - Burtons Media Group
 * [Lua for Beginners](https://www.youtube.com/playlist?list=PL9URkxPt-PndpZlw8m_NHh0vUBU5J-BRF) - AlgoRythm

@@ -299,6 +299,7 @@
 ### Linux
 
 * [Belajar linux fundamentals](https://youtube.com/playlist?list=PLbLqbqNn7VYpnd7FggSeq18AgE4gdsy2F) - ID-Networkers
+* [Instalasi & Review Linux](https://www.youtube.com/playlist?list=PL2O3HdJI4voEclcVMPqHoS6GSgcVNGIjy) - Indonesia Belajar
 * [Linux Pemula](https://www.youtube.com/playlist?list=PLACzo3mGgHK_D2wkGu4AvUAQiqLC30PTz) - LINUXcare
 * [Tutorial Terminal Linux Bahasa Indonesia](https://www.youtube.com/playlist?list=PLy1BHEa_Wr-cpjWY5uOqsMxQwiQrRnC8B) - ArtAway
 
@@ -357,6 +358,7 @@
 #### Laravel
 
 * [Belajar CRUD Laravel 8 + Livewire](https://www.youtube.com/playlist?list=PLEgI20pG1DqzAa8npy9C_NDUvYwhslUb4) - Muhammad Amirul Ihsan (Kawan Koding)
+* [Belajar Laravel 5](https://www.youtube.com/playlist?list=PLCZlgfAG0GXDlNd0Flz20xksNtJQZWywz) - Sekolah Koding
 * [Belajar Laravel 7 Dari Awal](https://www.youtube.com/playlist?list=PLRKMmwY3-5MxfIKTn_wZ49XlplwHtz1AV) - Irsyad A. Panjaitan (Parsinta)
 * [Belajar Laravel 8](https://www.youtube.com/playlist?list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2) - Sandhika Galih, Web Programming UNPAS
 * [Belajar Laravel 8 Dari Awal](https://www.youtube.com/playlist?list=PLRKMmwY3-5MwADhthqRaewl-7e7AhjpP8) - Irsyad A. Panjaitan (Parsinta)

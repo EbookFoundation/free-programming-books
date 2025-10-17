@@ -110,7 +110,6 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Binary Trees](http://cslibrary.stanford.edu/110/BinaryTrees.pdf) - Nick Parlante (PDF)
 * [Data Structures](https://adityacse.weebly.com/uploads/2/4/0/7/24078687/data-structures.pdf) - Aditya CSE (PDF)
 * [Data Structures](https://en.wikibooks.org/wiki/Data_Structures) - Wikibooks
-* [Data Structures (Into Java)](https://inst.eecs.berkeley.edu/~cs61b/fa14/book2/data-structures.pdf) - Paul N. Hilfinger (PDF)
 * [Data Structures and Algorithm Analysis in C++](https://people.cs.vt.edu/~shaffer/Book/C++3elatest.pdf) - Clifford A. Shaffer (PDF)
 * [Data Structures and Algorithms: Annotated Reference with Examples](https://web.archive.org/web/20170715160229/http://dotnetslackers.com/Community/files/folders/data-structures-and-algorithms/entry30283.aspx) - G. Barnett, L. Del Tongo *( :card_file_box: archived)*
 * [Data Structures Succinctly Part 1, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart1) - Robert Horvick
@@ -552,8 +551,8 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [SticiGui](https://www.stat.berkeley.edu/~stark/SticiGui/) - Philip Stark
 * [Tea Time Numerical Analysis](https://lqbrin.github.io/tea-time-numerical/) - Leon Q. Brin
 * [The Open Logic Text](https://builds.openlogicproject.org/open-logic-complete.pdf) - Open Logic Project (PDF)
-* [Think Bayes: Bayesian Statistics Made Simple](https://www.greenteapress.com/thinkbayes/) - Allen B. Downey
-* [Think Stats: Probability and Statistics for Programmers](https://greenteapress.com/thinkstats/) - Allen B. Downey (using Python)
+* [Think Bayes: Bayesian Statistics Made Simple](https://www.greenteapress.com/thinkbayes/) - Allen B. Downey (CC BY-NC-SA)
+* [Think Stats: Probability and Statistics for Programmers](https://greenteapress.com/thinkstats/) - Allen B. Downey (using Python) (CC BY-NC-SA)
 * [Yet Another Introductory Number Theory Textbook](https://www.poritz.net/jonathan/share/yaintt.pdf) - Jonathan A. Poritz (PDF)
 
 
@@ -689,6 +688,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Signal Computing: Digital Signals in the Software Domain](http://faculty.washington.edu/stiber/pubs/Signal-Computing/Signal%20Computing.pdf) - Michael Stiber, Bilin Zhang Stiber, Eric C. Larson (PDF)
 * [Site Reliability Engineering - How Google run production systems](https://sre.google/sre-book/table-of-contents/) - Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Murphy (HTML)
 * [Small Memory Software](https://smallmemory.charlesweir.com/book.html) - Charles Weir, James Noble (HTML)
+* [Software-Defined Radio for Engineers](https://www.analog.com/media/en/training-seminars/design-handbooks/Software-Defined-Radio-for-Engineers-2018/SDR4Engineers.pdf) - Travis Collins, et al. (PDF)
 * [Software Technical Writing: A Guidebook](https://jamesg.blog/book.pdf) - James Gallagher (PDF)
 * [The Art of High Perfomance Computing - Volume 1: The Science of Computing](https://theartofhpc.com/istc/index.html) - Victor Eijkhout (HTML)
 * [The Art of High Perfomance Computing - Volume 2: Parallel Programming for Science Engineering](https://theartofhpc.com/pcse/index.html) - Victor Eijkhout (HTML)
@@ -834,7 +834,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [The Craft of Programming](https://kilthub.cmu.edu/articles/The_Craft_of_Programming/6610514) - John C. Reynolds
 * [The Nature of Code](https://natureofcode.com/book) - Daniel Shiffman (HTML)
 * [The Super Programmer](https://github.com/keyvank/tsp) - Keyvan Kambakhsh (PDF, HTML) *( :construction: in process)*
-* [Think Complexity](https://greenteapress.com/wp/think-complexity-2e/) - - Allen B. Downey (2nd Edition) (PDF, HTML)
+* [Think Complexity](https://greenteapress.com/wp/think-complexity-2e/) - Allen B. Downey (2nd Edition) (PDF, HTML) (CC BY-NC-SA)
 
 
 ### Programming Paradigms
@@ -882,6 +882,7 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Reverse Engineering
 
 * [BIOS Disassembly Ninjutsu Uncovered 1st Edition](https://bioshacking.blogspot.co.uk/2012/02/bios-disassembly-ninjutsu-uncovered-1st.html) - Darmawan Salihun (PDF)
+* [Debugging with GDB](https://sourceware.org/gdb/current/onlinedocs/gdb.html) - Free Software Foundation (HTML, PDF)
 * [Hacking the Xbox: An Introduction to Reverse Engineering](https://www.nostarch.com/xboxfree/) - Andrew "bunnie" Huang
 * [iOS App Reverse Engineering](https://github.com/iosre/iOSAppReverseEngineering) - Zishe Sha (PDF)
 

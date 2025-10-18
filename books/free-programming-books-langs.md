@@ -2696,6 +2696,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Web Services
 
+* [Pro Web 2.0 Mashups: Remixing Data and Web Services (2008)](https://mashupguide.net/1.0/html/) - Raymond Yee (HTML) (CC BY-NC-SA)
 * [RESTful Web Services](http://restfulwebapis.org/RESTful_Web_Services.pdf) (PDF)
 
 

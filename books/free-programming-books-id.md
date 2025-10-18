@@ -452,6 +452,7 @@
 * [Tutorial TypeScript Dasar](https://www.youtube.com/watch?v=C_C64faSO4c) - Eko Kurniawan Khannedy, Programmer Zaman Now
 * [TypeScript Dasar](https://www.youtube.com/playlist?list=PLnQvfeVegcJbjCnML6FdusK-rl-oDRMXJ) - Nusendra Hanggarawan
 
+
 ### Swift
 
 * [Pelajari Swift untuk Pemula](https://www.freecodecamp.org/news/the-swift-handbook/) - Flavio Copes

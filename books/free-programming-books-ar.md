@@ -8,7 +8,7 @@
 * [HTML and CSS](#html-and-css)
 * [Introduction to Programming in Arabic](#introduction-to-programming-in-arabic)
 * [JavaScript](#javascript)
-    * [Vue.js](#vuejs)
+* [Vue.js](#vuejs)
 * [Linux](#linux)
 * [Open Source Software](#open-source-software)
 * [Operating System](#operating-systems)
@@ -17,7 +17,7 @@
 * [Scratch](#scratch)
 * [Security](#security)
 * [SQL](#sql)
-    * [PostgreSQL](#postgresql)
+* [PostgreSQL](#postgresql)
 
 
 ### Arduino

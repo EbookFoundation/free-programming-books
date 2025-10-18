@@ -391,8 +391,8 @@
 
 ### Rust
 
-* [Codapi](https://codapi.org/rust/)
-* [Rust Explorer](https://www.rustexplorer.com/)
+* [Codapi](https://codapi.org/rust)
+* [Rust Explorer](https://www.rustexplorer.com)
 * [Rust Playground](https://play.rust-lang.org)
 * [Rustfinity](https://www.rustfinity.com/playground)
 

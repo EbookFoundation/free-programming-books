@@ -200,7 +200,6 @@
 ### Go
 
 * [cht.sh Go Cheatsheet](https://cht.sh/go/:learn) (HTML)
-* [Go cheatsheet](https://quickref.me/go) - QuickRef.ME (HTML)
 * [Go Cheatsheet](https://devhints.io/go) - devhints, Rico Santa Cruz (HTML)
 * [Golang Cheat Sheet](https://github.com/a8m/golang-cheat-sheet) - Ariel Mashraki (HTML)
 * [গো \| ডেভ সংকেত<](https://devsonket.com/go) - devsonket (HTML)
@@ -340,7 +339,6 @@
 * [Kotlin Cheat Sheet](https://devhints.io/kotlin) - Devhints (HTML)
 * [Kotlin Cheatsheet and Quick Reference](https://koenig-media.raywenderlich.com/uploads/2019/11/RW-Kotlin-Cheatsheet-1.1.pdf) - Ray Wenderlich (PDF)
 * [Kotlin Quick Reference](https://kotlinlang.org/docs/kotlin-reference.pdf) - JetBrains (PDF)
-* [Kotlin Syntax Cheat Sheet](https://quickref.me/kotlin.html) - QuickRef.ME (HTML)
 
 
 ### Kubernetes

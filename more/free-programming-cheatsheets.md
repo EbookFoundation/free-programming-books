@@ -631,3 +631,6 @@
 
 * [Webpack cheatsheet](https://devhints.io/webpack) - devhints, Rico Santa Cruz (HTML)
 
+
+### Aptitude
+* [Aptitude cheatsheet](https://www.geeksforgeeks.org/aptitude/aptitude-questions-and-answers)

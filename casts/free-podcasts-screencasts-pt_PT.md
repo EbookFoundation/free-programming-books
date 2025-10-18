@@ -14,7 +14,7 @@
 ### Laravel
 
 * [Laravel Portugal Live](https://laravelportugal.simplecast.fm) (screencast)
-* [O QUE TODO DESENVOLVEDOR DEVERIA SABER SOBRE O LARAVEL | PODCAST PAPO WEB #055](https://www.youtube.com/watch?v=F5nXYbqAOFQ) - Robson V. Leite
+* [O QUE TODO DESENVOLVEDOR DEVERIA SABER SOBRE O LARAVEL - PODCAST PAPO WEB #055](https://www.youtube.com/watch?v=F5nXYbqAOFQ) - Robson V. Leite
 
 
 ### Ubuntu

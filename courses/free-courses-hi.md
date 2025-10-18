@@ -264,7 +264,6 @@
 * [Cloud Computing Course Free](https://www.youtube.com/watch?v=lae0mfHBSjk) - Intellipaat
 * [Cloud Computing Tutorial](https://www.youtube.com/playlist?list=PL-JvKqQx2AtfQ8cGyKsFE7Tj2FyB1yCkd) - University Academy
 
-
 #### AWS
 
 * [AWS Tutorial for Beginners In Hindi](https://www.youtube.com/playlist?list=PLCFe3TcoBniI4iaavlfnR0UGQrtjgOMj9) - Together with Abhi

@@ -445,6 +445,7 @@
 ### Python
 
 * [Beginner's Python Cheat Sheet](https://ils.unc.edu/courses/2023_fall/inls560_003/assets/files/python_cheat_sheet-087b0138f25c3aac5bace1199f1c253d.pdf) - University of North Carolina (PDF)
+* [Business Analytics with Python Cheat Sheet](https://zerotomastery.io/cheatsheets/business-analytics-cheat-sheet/) - ZeroToMastery (HTML)
 * [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet) - Jure Šorn (HTML)
 * [Numpy Pandas Cheat Sheet](https://www.kaggle.com/code/lavanyashukla01/pandas-numpy-python-cheatsheet) - Kaggle (HTML)
 * [Official Matplotlib cheat sheets](https://github.com/matplotlib/cheatsheets) - Matplotlib.org (LaTeX, PDF)

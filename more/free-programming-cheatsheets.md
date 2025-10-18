@@ -453,6 +453,7 @@
 * [Python Cheat Sheet](https://websitesetup.org/python-cheat-sheet/) - WebsiteSetup (HTML, PDF, PNG)
 * [Python Cheat Sheet](https://www.pythoncheatsheet.org) - Wilfredinni (HTML)
 * [Python Cheat Sheet](https://overapi.com/python) - OverAPI
+* [Python Cheat Sheet](https://zerotomastery.io/cheatsheets/python-cheat-sheet/) - ZeroToMastery (HTML)
 * [Python Cheat sheet (2024)](https://www.geeksforgeeks.org/python-cheat-sheet) - GeeksforGeeks
 * [Python Crash Course Cheatsheet](https://ehmatthes.github.io/pcc/cheatsheets/README.html) - Eric Matthes (HTML)
 * [Python Crash Course Cheatsheet (2nd Edition)](https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/) - Eric Matthes (PDF)

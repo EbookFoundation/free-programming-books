@@ -46,6 +46,7 @@
 
 
 
+
 ### Android
 
 * [Belajar Android Studio](https://www.malasngoding.com/category/android-studio/) - Muzanni (Malas Ngoding)
@@ -438,6 +439,12 @@
 * [Tutorial Blockchain Bahasa Indonesia](https://www.youtube.com/playlist?list=PLH1gH0TmFBBhvZi4kEqU6kCjyv_y8qBae) - Ipung DEV Academy
 
 
+### Swift
+
+* [Pelajari Swift untuk Pemula](https://www.freecodecamp.org/news/the-swift-handbook/) - Flavio Copes
+* [Swift Bahasa Indonesia](https://www.youtube.com/playlist?list=PLH1gH0TmFBBhR8A_Xq7drrxC4OlUvNP7b) - Ipung DEV Academy
+  
+
 ### Terraform
 
 * [Belajar Terraform untuk Pemula](https://www.youtube.com/playlist?list=PL4SGTPmSY0qngs44Ssc0RHO9h4fmZ9JUb) - Giri Kuncoro
@@ -451,9 +458,3 @@
 * [OOP TypeScript](https://www.youtube.com/playlist?list=PLnQvfeVegcJZRieebeIp0xj1NeC5L633Y) - Nusendra Hanggarawan
 * [Tutorial TypeScript Dasar](https://www.youtube.com/watch?v=C_C64faSO4c) - Eko Kurniawan Khannedy, Programmer Zaman Now
 * [TypeScript Dasar](https://www.youtube.com/playlist?list=PLnQvfeVegcJbjCnML6FdusK-rl-oDRMXJ) - Nusendra Hanggarawan
-
-
-### Swift
-
-* [Pelajari Swift untuk Pemula](https://www.freecodecamp.org/news/the-swift-handbook/) - Flavio Copes
-* [Tutorial Swift Bahasa Indonesia](https://www.youtube.com/playlist?list=PLH1gH0TmFBBhR8A_Xq7drrxC4OlUvNP7b) - Ipung DEV Academy

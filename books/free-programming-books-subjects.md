@@ -110,7 +110,6 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Binary Trees](http://cslibrary.stanford.edu/110/BinaryTrees.pdf) - Nick Parlante (PDF)
 * [Data Structures](https://adityacse.weebly.com/uploads/2/4/0/7/24078687/data-structures.pdf) - Aditya CSE (PDF)
 * [Data Structures](https://en.wikibooks.org/wiki/Data_Structures) - Wikibooks
-* [Data Structures (Into Java)](https://inst.eecs.berkeley.edu/~cs61b/fa14/book2/data-structures.pdf) - Paul N. Hilfinger (PDF)
 * [Data Structures and Algorithm Analysis in C++](https://people.cs.vt.edu/~shaffer/Book/C++3elatest.pdf) - Clifford A. Shaffer (PDF)
 * [Data Structures and Algorithms: Annotated Reference with Examples](https://web.archive.org/web/20170715160229/http://dotnetslackers.com/Community/files/folders/data-structures-and-algorithms/entry30283.aspx) - G. Barnett, L. Del Tongo *( :card_file_box: archived)*
 * [Data Structures Succinctly Part 1, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart1) - Robert Horvick
@@ -150,12 +149,16 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Generative AI in Higher Education: The ChatGPT Effect](https://www.taylorfrancis.com/books/oa-mono/10.4324/9781003459026/generative-ai-higher-education-cecilia-ka-yuk-chan-tom-colloton) - Cecilia Ka Yuk Chan, Tom Colloton (PDF) (CC BY)
 * [Getting Started with Artificial Intelligence , 2nd Edition](https://www.ibm.com/downloads/cas/OJ6WX73V) - Tom Markiewicz, Josh Zheng (PDF)
 * [Graph Representational Learning Book](https://www.cs.mcgill.ca/~wlh/grl_book/) - William L. Hamilton
+* [How Transformer LLMs Work](https://www.deeplearning.ai/short-courses/how-transformer-llms-work/) - Jay Alammar, Maarten Grootendorst (DeepLearning.AI)
+* [Hugging Face LLM Course](https://huggingface.co/learn/llm-course/en/chapter1/1) (HTML)
 * [Introduction to Autonomous Robots](https://github.com/correll/Introduction-to-Autonomous-Robots/releases) - Nikolaus Correll (PDF) (CC BY-NC-ND)
+* [Large Language Models from Scratch](https://www.youtube.com/watch?v=lnA9DMvHtfI) - freeCodeCamp (YouTube)
 * [Machine Learning For Dummies®, IBM Limited Edition](https://www.ibm.com/downloads/cas/GB8ZMQZ3) - Daniel Kirsch, Judith Hurwitz (PDF)
 * [Mastering Generative AI and Prompt Engineering: A Practical Guide for Data Scientists](https://datasciencehorizons.com/pub/Mastering_Generative_AI_Prompt_Engineering_Data_Science_Horizons_v2.pdf) - Data Science Horizons (PDF)
 * [On the Path to AI: Law’s prophecies and the conceptual foundations of the machine learning age](https://link.springer.com/book/10.1007/978-3-030-43582-0) - Thomas D. Grant, Damon J. Wischik (PDF, EPUB)
 * [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp](https://github.com/norvig/paip-lisp) - Peter Norvig
 * [Probabilistic Programming & Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - Cam Davidson-Pilon (HTML, Jupyter Notebook)
+* [Stanford CS224N: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) - Christopher Manning (Stanford Online)
 * [The History of Artificial Intelligence](https://courses.cs.washington.edu/courses/csep590/06au/projects/history-ai.pdf) - Chris Smith, Brian McGuire, Ting Huang, Gary Yang (PDF)
 * [The Quest for Artificial Intelligence: A History of Ideas and Achievements](https://ai.stanford.edu/~nilsson/QAI/qai.pdf) - Nils J. Nilsson (PDF)
 
@@ -280,8 +283,9 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [A Programmer's Guide to Data Mining](http://guidetodatamining.com) - Ron Zacharski (Draft)
 * [Data Jujitsu: The Art of Turning Data into Product](http://www.oreilly.com/data/free/data-jujitsu.csp) (email address *requested*, not required)
 * [Data Mining Algorithms In R](https://en.wikibooks.org/wiki/Data_Mining_Algorithms_In_R) - Wikibooks
-* [Data Mining Concepts and Techniques](https://ia800702.us.archive.org/7/items/datamining_201811/DS-book%20u5.pdf) - Jiawei Han, Micheline Kamber, Jian Pei (PDF) ( :card_file_box: archived)
+* [Data Mining Concepts and Techniques](https://ia800702.us.archive.org/7/items/datamining_201811/DS-book%20u5.pdf) - Jiawei Han, Micheline Kamber, Jian Pei (PDF) *( :card_file_box: archived)*
 * [Data Science at the Command Line](https://datascienceatthecommandline.com/2e/) - Jeroen Janssens
+* [Data Science with Python](https://www.youtube.com/watch?v=LHBE6Q9XlzI) - freeCodeCamp
 * [Elements of Data Science](https://allendowney.github.io/ElementsOfDataScience/README.html) - Allen B. Downey
 * [Feature Engineering and Selection: A Practical Approach for Predictive Models](https://bookdown.org/max/FES/) - Max Kuhn, Kjell Johnson
 * [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf) - Avrim Blum, John Hopcroft, Ravindran Kannan (PDF)
@@ -289,11 +293,13 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Hands-On Data Visualization](https://handsondataviz.org) - Jack Dougherty, Ilya Ilyankou (HTML)
 * [High-Dimensional Data Analysis with Low-Dimensional Models: Principles, Computation, and Applications](https://book-wright-ma.github.io/Book-WM-20210422.pdf) - John Wright, Yi Ma (PDF)
 * [Internet Advertising: An Interplay among Advertisers, Online Publishers, Ad Exchanges and Web Users](https://arxiv.org/pdf/1206.1754v2.pdf) (PDF)
-* [Introduction to Cultural Analytics & Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) -  Melanie Walsh
+* [Introduction to Cultural Analytics & Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) - Melanie Walsh
 * [Introduction to Data Science](https://docs.google.com/file/d/0B6iefdnF22XQeVZDSkxjZ0Z5VUE/edit?pli=1) - Jeffrey Stanton
+* [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) - Christopher Brooks (University of Michigan) (Coursera)
 * [Julia Data Science](https://juliadatascience.io) - Jose Storopoli, Rik Huijzer, Lazaro Alonso (HTML) (CC BY-NC-SA 4.0)
 * [Mining of Massive Datasets](http://infolab.stanford.edu/~ullman/mmds/book.pdf) - Jure Leskovec, Anand Rajaraman, Jeffrey D. Ullman (PDF)
-* [Probability and Statistics with Examples using R](https://www.isibang.ac.in/~athreya/psweur/index.html#usage) - Siva Athreya, Deepayan Sarkar, Steve Tanner (HTML) ( :construction: *in process*)
+* [Probability and Statistics with Examples using R](https://www.isibang.ac.in/~athreya/psweur/index.html#usage) - Siva Athreya, Deepayan Sarkar, Steve Tanner (HTML) *( :construction: *in process*)*
+* [Python for Data Science – Hands-on Projects](https://www.youtube.com/watch?v=vaMMLLf0wLM) - LunarTech (freeCodeCamp) (YouTube)
 * [School of Data Handbook](https://schoolofdata.org/handbook/)
 * [Statistical inference for data science](https://leanpub.com/LittleInferenceBook/read) - Brian Caffo
 * [The Ultimate Guide to 12 Dimensionality Reduction Techniques (with Python codes)](https://www.analyticsvidhya.com/blog/2018/08/dimensionality-reduction-techniques-python/) - Pulkit Sharma
@@ -423,9 +429,11 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Approaching Almost Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost) - Abhishek Thakur (PDF)
 * [Automated Machine Learning - Methods, Systems, Challenges](https://link.springer.com/book/10.1007/978-3-030-05318-5) - Frank Hutter, Lars Kotthoff, Joaquin Vanschoren (PDF, EPUB)
 * [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
+* [CS50's Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/) - David Malan (Harvard)
 * [Deep Learning](https://www.deeplearningbook.org) - Ian Goodfellow, Yoshua Bengio, Aaron Courville
 * [Deep Learning for Coders with Fastai and PyTorch](https://github.com/fastai/fastbook) - Jeremy Howard, Sylvain Gugger (Jupyter Notebooks)
 * [Dive into Deep Learning](https://d2l.ai)
+* [Elements of AI](https://www.elementsofai.com) - MinnaLearn, University of Helsinki
 * [Explorations in Parallel Distributed Processing: A Handbook of Models, Programs, and Exercises](https://web.stanford.edu/group/pdplab/pdphandbook) - James L. McClelland
 * [Foundations of Machine Learning, Second Edition](https://mitpress.ublish.com/ebook/foundations-of-machine-learning--2-preview/7093/Cover) - Mehryar Mohri, Afshin Rostamizadeh, Ameet Talwalkar
 * [Free and Open Machine Learning](https://nocomplexity.com/documents/fossml/) - Maikel Mardjan (HTML)
@@ -440,6 +448,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Learn Tensorflow](https://bitbucket.org/hrojas/learn-tensorflow) - Jupyter Notebooks
 * [Learning Deep Architectures for AI](https://mila.quebec/wp-content/uploads/2019/08/TR1312.pdf) - Yoshua Bengio (PDF)
 * [Machine Learning](https://www.intechopen.com/books/machine_learning)
+* [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) - Google (HTML)
 * [Machine Learning for Beginners](https://github.com/Microsoft/ML-For-Beginners) - Microsoft
 * [Machine Learning for Data Streams](https://moa.cms.waikato.ac.nz/book-html/) - Albert Bifet, Ricard Gavaldà, Geoff Holmes, Bernhard Pfahringer
 * [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/) - Danny Friedman (HTML, PDF, Jupyter Book)
@@ -451,7 +460,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Neural Network Design (2nd Edition)](https://hagan.okstate.edu/NNDesign.pdf) - Martin T. Hagan, Howard B. Demuth, Mark H. Beale, Orlando De Jesús (PDF)
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com)
 * [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) - Christopher M. Bishop (PDF)
-* [Patterns, Predictions, And Actions: A story about machine learning](https://mlstory.org/pdf/patterns.pdf) - Moritz Hardt,  Benjamin Recht (PDF)
+* [Patterns, Predictions, And Actions: A story about machine learning](https://mlstory.org/pdf/patterns.pdf) - Moritz Hardt, Benjamin Recht (PDF)
 * [Practitioners guide to MLOps](https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf) - Khalid Samala, Jarek Kazmierczak, Donna Schut (PDF)
 * [Probabilistic Machine Learning - An Introduction](https://github.com/probml/pml-book/releases/latest/download/book1.pdf) - Kevin P. Murphy (PDF)
 * [Probabilistic Models in the Study of Language](https://idiom.ucsd.edu/~rlevy/pmsl_textbook/text.html) (Draft, with R code)
@@ -482,6 +491,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Analytic Geometry (1922)](http://djm.cc/library/Analytic_Geometry_Siceloff_Wentworth_Smith_edited.pdf) - Lewis Parker Siceloff, George Wentworth, David Eugene Smith (PDF)
 * [Applied Combinatorics](https://rellek.net/book/app-comb.html) - Mitchel T. Keller, William T. Trotter
 * [Applied Discrete Structures](https://faculty.uml.edu/klevasseur/ads2/) - Alan Doerr, Kenneth Levasseur
+* [Applied Quantitative Finance: Theory and Computational Tools](http://inis.jinr.ru/sl/M_Mathematics/MV_Probability/MVspf_Stochastics%20in%20finance/Haerdle%20et%20al.%20Applied%20Quantitative%20Finance%20(Springer)(423s).pdf) - Wolfgang K. Hardle, Nikolaus Hautsch, Ludger Overbeck (PDF)
 * [Basic Analysis: Introduction to Real Analysis](https://www.jirka.org/ra/) - Jiří Lebl
 * [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - Cameron Davidson-Pilon
 * [Book of Proof](https://www.people.vcu.edu/~rhammack/BookOfProof/) - Richard Hammack [(PDF)](https://www.people.vcu.edu/~rhammack/BookOfProof/Main.pdf)
@@ -508,6 +518,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Essentials of Metaheuristics](https://cs.gmu.edu/~sean/book/metaheuristics/) - Sean Luke
 * [Foundations of Combinatorics with Applications](https://www.math.ucsd.edu/~ebender/CombText/) - Edward A. Bender, S. Gill Williamson
 * [Foundations of Constructive Probability Theory](https://arxiv.org/pdf/1906.01803.pdf) - Yuen-Kwok Chan (PDF)
+* [Fundamentals of Quantitative Analysis](https://psyteachr.github.io/quant-fun-v3/) - Danielle Zhu (GitHub) (CC BY-SA)
 * [Geometry with an Introduction to Cosmic Topology](https://mphitchman.com) - Michael P. Hitchman
 * [Graph Theory](http://compalg.inf.elte.hu/~tony/Oktatas/TDK/FINAL/)
 * [Guide to Discrete Mathematics](https://core.ac.uk/download/pdf/326762636.pdf) - David Gries, Fred B. Schneider (PDF)
@@ -552,8 +563,8 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [SticiGui](https://www.stat.berkeley.edu/~stark/SticiGui/) - Philip Stark
 * [Tea Time Numerical Analysis](https://lqbrin.github.io/tea-time-numerical/) - Leon Q. Brin
 * [The Open Logic Text](https://builds.openlogicproject.org/open-logic-complete.pdf) - Open Logic Project (PDF)
-* [Think Bayes: Bayesian Statistics Made Simple](https://www.greenteapress.com/thinkbayes/) - Allen B. Downey
-* [Think Stats: Probability and Statistics for Programmers](https://greenteapress.com/thinkstats/) - Allen B. Downey (using Python)
+* [Think Bayes: Bayesian Statistics Made Simple](https://www.greenteapress.com/thinkbayes/) - Allen B. Downey (CC BY-NC-SA)
+* [Think Stats: Probability and Statistics for Programmers](https://greenteapress.com/thinkstats/) - Allen B. Downey (using Python) (CC BY-NC-SA)
 * [Yet Another Introductory Number Theory Textbook](https://www.poritz.net/jonathan/share/yaintt.pdf) - Jonathan A. Poritz (PDF)
 
 
@@ -689,6 +700,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Signal Computing: Digital Signals in the Software Domain](http://faculty.washington.edu/stiber/pubs/Signal-Computing/Signal%20Computing.pdf) - Michael Stiber, Bilin Zhang Stiber, Eric C. Larson (PDF)
 * [Site Reliability Engineering - How Google run production systems](https://sre.google/sre-book/table-of-contents/) - Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Murphy (HTML)
 * [Small Memory Software](https://smallmemory.charlesweir.com/book.html) - Charles Weir, James Noble (HTML)
+* [Software-Defined Radio for Engineers](https://www.analog.com/media/en/training-seminars/design-handbooks/Software-Defined-Radio-for-Engineers-2018/SDR4Engineers.pdf) - Travis Collins, et al. (PDF)
 * [Software Technical Writing: A Guidebook](https://jamesg.blog/book.pdf) - James Gallagher (PDF)
 * [The Art of High Perfomance Computing - Volume 1: The Science of Computing](https://theartofhpc.com/istc/index.html) - Victor Eijkhout (HTML)
 * [The Art of High Perfomance Computing - Volume 2: Parallel Programming for Science Engineering](https://theartofhpc.com/pcse/index.html) - Victor Eijkhout (HTML)
@@ -834,7 +846,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [The Craft of Programming](https://kilthub.cmu.edu/articles/The_Craft_of_Programming/6610514) - John C. Reynolds
 * [The Nature of Code](https://natureofcode.com/book) - Daniel Shiffman (HTML)
 * [The Super Programmer](https://github.com/keyvank/tsp) - Keyvan Kambakhsh (PDF, HTML) *( :construction: in process)*
-* [Think Complexity](https://greenteapress.com/wp/think-complexity-2e/) - - Allen B. Downey (2nd Edition) (PDF, HTML)
+* [Think Complexity](https://greenteapress.com/wp/think-complexity-2e/) - Allen B. Downey (2nd Edition) (PDF, HTML) (CC BY-NC-SA)
 
 
 ### Programming Paradigms
@@ -882,6 +894,7 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Reverse Engineering
 
 * [BIOS Disassembly Ninjutsu Uncovered 1st Edition](https://bioshacking.blogspot.co.uk/2012/02/bios-disassembly-ninjutsu-uncovered-1st.html) - Darmawan Salihun (PDF)
+* [Debugging with GDB](https://sourceware.org/gdb/current/onlinedocs/gdb.html) - Free Software Foundation (HTML, PDF)
 * [Hacking the Xbox: An Introduction to Reverse Engineering](https://www.nostarch.com/xboxfree/) - Andrew "bunnie" Huang
 * [iOS App Reverse Engineering](https://github.com/iosre/iOSAppReverseEngineering) - Zishe Sha (PDF)
 

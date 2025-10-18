@@ -154,10 +154,10 @@
 * [Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0) - Pasan Premaratne, Jay McGavren (freeCodeCamp)
 * [Analysis of Algorithms (CSE 373)](https://www3.cs.stonybrook.edu/~skiena/373/videos) - Steven Skiena
 * [Berkeley University CS 61B: Data Structures](http://datastructur.es/sp16/)
-* [Berkeley's CS 61B: Data Structures](https://archive.org/details/ucberkeley_webcast_QMV45tHCYNI)
 * [C Programming & Data Structures](https://www.youtube.com/playlist?list=PLBlnK6fEyqRhX6r2uhhlubuF5QextdCSM) - Neso Academy
 * [Codechef Solutions](https://www.youtube.com/playlist?list=PLRKOqqzwh75huOam-77G1v9uHjO9WWBRX) - Endeavour Monk
 * [Computer Sc - Programming and Data Structure](https://www.youtube.com/playlist?list=PLD9781AC5EBC9FA16) - P.P. Chakraborty
+* [CS Tutorials](https://www.youtube.com/playlist?list=PL9xmBV_5YoZPKwb4XPB1sG7S6kNpN9JJo) - Michael Sambol
 * [Data Structure and Algorithm](https://www.youtube.com/playlist?list=PLLvKknWU7N4y_eGpQdg1Y-hORO7cxtoLU) - Lalit Vashistha
 * [Data Structures](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P) - mycodeschool
 * [Data Structures](https://stepik.org/course/579/syllabus) - Niema Moshiri, Liz Izhikevich (Stepik)
@@ -187,7 +187,7 @@
 * [Learn DS and Algorithms](https://www.programiz.com/dsa) - Programiz
 * [MIT's Design and Analysis of Algorithms (Spring 2012)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2012) - Dana Moshkovitz, Bruce Tidor
 * [MIT's Design and Analysis of Algorithms (Spring 2015)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015) - Erik Demaine, Srini Devadas, Nancy Lynch
-* [MIT's Introduction to Algorithms (Fall 2011)](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)
+* [MIT's Introduction to Algorithms (Fall 2011)](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) - MIT
 * [MIT's Introduction to Algorithms (SMA 5503) (Fall 2005)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005) - Charles Leiserson, Erik Demaine
 * [MIT's Introduction to Algorithms (Spring 2020)](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) - Erik Demaine, Jason Ku, Justin Solomon
 * [Online Java + DSA + Interview preparation course](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ) - Kunal Kushwaha
@@ -274,6 +274,7 @@
 * [LLM Course](https://huggingface.co/learn/llm-course/chapter0/1) - Hugging Face
 * [MCP Course](https://huggingface.co/learn/mcp-course/unit0/introduction) - Hugging Face
 * [MIT Deep Learning and Artificial Intelligence Lectures](https://deeplearning.mit.edu) - Lex Fridman, et al.
+* [MIT FUTURE OF AI 6.S087: Foundation Models & Generative AI](https://www.futureofai.mit.edu) - Rickard Gabrielsson (MIT OpenCourseWare)
 * [MIT's Artificial Intelligence](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/) - Patrick Henry Winston (MIT OpenCourseWare)
 * [NLP Course](https://huggingface.co/learn/nlp-course) - Hugging Face
 * [NYU Artificial Intelligence SP24](https://www.youtube.com/playlist?list=PLLHTzKZzVU9cH26X9VQ14lIA0aPwZiZTx) - Alfredo Canziani, Ernest Davis
@@ -550,6 +551,7 @@
 * [Data Build Tool (dbt)](https://www.youtube.com/playlist?list=PLy4OcwImJzBLJzLYxpxaPUmCWp8j1esvT) - Kahan Data Solutions
 * [Data Cleaning](https://www.kaggle.com/learn/data-cleaning) - Rachael Tatman (Kaggle)
 * [Data Engineering](https://www.youtube.com/playlist?list=PLy4OcwImJzBKg3rmROyI_CBBAYlQISkOO) - Kahan Data Solutions
+* [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) - DataTalks.Club
 * [Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/dataminingwithweka/)
 * [Data science for beginners](https://microsoft.github.io/Data-Science-For-Beginners) - Microsoft
 * [Data Science Fundamentals](https://cognitiveclass.ai/learn/data-science) - CognitiveClass.ai
@@ -559,6 +561,7 @@
 * [Datavis 2020](https://www.youtube.com/playlist?list=PL9yYRbwpkykuK6LSMLH3bAaPpXaDUXcLV) - Curran Kelleher
 * [Hadoop Tutorial for Beginners](https://www.youtube.com/playlist?list=PLlgLmuG_KgbasW0lpInSAIxYd2vqAEPit) - Great Learning
 * [Hive Tutorial](https://www.youtube.com/watch?v=MLDcapDQba4) - Great Learning
+* [How to Build an AI: The Chronicles of Jobot](https://jovian.com/learn/how-to-build-an-ai) - Jovian
 * [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) (Coursera)
 * [Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170) - Udacity
 * [Introduction to Data Science](https://alison.com/course/introduction-to-data-science-revised) - Alison
@@ -982,9 +985,9 @@
 * [Learn Java Programming - Java for Testers and Developers](https://www.udemy.com/course/learn-java-programming-a/) - Pavan Kumar (Udemy)
 * [Most Asked Core Java Frequently Asked Questions](https://www.youtube.com/playlist?list=PLyHJZXNdCXscoyL5XEZoHHZ86_6h3GWE1) - Code Decode
 * [Object Oriented Programming (OOP) In Java Course](https://www.youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk) - Kunal Kushwaha
-* [Object-Oriented programming with Java, part I](https://moocfi.github.io/courses/2013/programming-part-1/)
-* [Object-Oriented programming with Java, part II](https://moocfi.github.io/courses/2013/programming-part-2/)
-* [Princeton Algorithms, Part 1](https://www.coursera.org/course/algs4partI)
+* [Object-Oriented programming with Java, part I](https://moocfi.github.io/courses/2013/programming-part-1/) - University of Helsinki
+* [Object-Oriented programming with Java, part II](https://moocfi.github.io/courses/2013/programming-part-2/) - University of Helsinki
+* [RestFul Web Service in Java](https://www.youtube.com/playlist?list=PLsyeobzWxl7oz8yL16PqO1sy9sxdlTuI1) - Telusko (Majrul Ansari, Navin Reddy)
 * [Servlet & JSP Tutorial Full Course](https://www.youtube.com/watch?v=OuBUUkQfBYM) - Telusko (Navin Reddy)
 * [Software Construction in Java](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.1x+3T2016/about) - MIT Open Learning Library
 * [Spring 5 Core - An Ultimate Guide](https://www.udemy.com/learn-spring-5-core-from-scratch/) - Somnath Musib (Udemy)
@@ -1606,9 +1609,10 @@
 * [Django Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) - Corey Schafer
 * [Django Tutorials for Beginners](https://www.youtube.com/playlist?list=PLK8cqdr55Tsv-D2HMdrnD32oOVBNvmxjr) - ProgrammingWithHarry
 * [Django Wednesdays](https://www.youtube.com/playlist?list=PLCC34OHNcOtqW9BJmgQPPzUpJ8hl49AGy) - Codemy.com
+* [Learn Django by Building an Online Marketplace - Python Tutorial for Beginners](https://www.youtube.com/watch?v=ZxMB6Njs3ck) - Stein Helset (freeCodeCamp)
 * [Python Django Tutorial 2018 for Beginners](https://www.youtube.com/playlist?list=PL-J2q3Ga50oOpni_xS2PPUe4mf9lM96dD) - Clever Programmer
 * [Python Django Tutorial 2021](https://www.youtube.com/playlist?list=PL-51WBLyFTg1pUMaTJ4WSgnyvWfLGmwDm) - Dennis Ivy
-* [Python Django Web Framework - Full Course for Beginners](https://www.youtube.com/playlist?list=PLBfoYdk-WAlyr3cpOiOI4UXBfVVuF05e6) - freeCodeCamp (Justin Mitchel)
+* [Python Django Web Framework - Full Course for Beginners](https://www.youtube.com/watch?v=F5mRW0jo-U4) - freeCodeCamp (Justin Mitchel)
 * [Try Django 3.2 - Python Web Development Tutorial Series](https://www.youtube.com/playlist?list=PLEsfXFp6DpzRMby_cSoWTFw8zaMdTEXgL) - Justin Mitchel, CodingEntrepreneurs
 
 
@@ -1727,6 +1731,7 @@
 * [Nightmare](https://guyinatuxedo.github.io/index.html) - guyinatuxedo
 * [Professor Messer’s SY0-601 CompTIA Security+ Course](https://www.professormesser.com/security-plus/sy0-601/sy0-601-video/sy0-601-comptia-security-plus-course/) - Professor Messer
 * [Reverse Engineering For Everyone!](https://0xinfection.github.io/reversing) - mytechnotalent
+* [Reverse Engineering Lessons](https://reverseengineering.vercel.app) - Reverse Engineering Academy
 * [Stanford Cryptography I](https://www.coursera.org/course/crypto) - Dan Boneh
 * [Start Ethical Hacking with Parrot Security OS (Alt. to Kali)](https://www.udemy.com/course/ethical-hacking-with-parrot-security-os) - Seyed Farshid Miri (Udemy)
 * [The Complete Cyber Security & Hacking Course](https://academy.ehacking.net/p/cyber-security-training-hacking-course) - INSEC-TECHS (EH Academy)

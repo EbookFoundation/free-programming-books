@@ -656,7 +656,7 @@
 * [Self-Paced Courses for Deep Learning](https://developer.nvidia.com/deep-learning-courses)
 * [Stanford CS 224N: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) (Stanford Online)
 * [Stanford CS230: Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb) (Stanford Online)
-* [Stanford CS234: Reinforcement Learning](https://web.stanford.edu/class/cs234/) - Emma Brunskill
+* [Stanford CS234: Reinforcement Learning](https://web.stanford.edu/class/cs234) - Emma Brunskill
 * [UC Berkeley CS 188: Introduction to Artificial Intelligence](http://ai.berkeley.edu) - Dan Klein
 * [Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/tutorial)
 

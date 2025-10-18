@@ -453,6 +453,8 @@
 * [TypeScript Dasar](https://www.youtube.com/playlist?list=PLnQvfeVegcJbjCnML6FdusK-rl-oDRMXJ) - Nusendra Hanggarawan
 
 ### Swift
-* [Tutorial Swift Bahasa Indonesia](https://www.youtube.com/playlist?list=PLH1gH0TmFBBhR8A_Xq7drrxC4OlUvNP7b) - Ipung DEV Academy
-* [Materi Belajar Swift (PDF)](https://id.scribd.com/document/883196479/F0-9F-A7-A0-Materi-Belajar-Swift-pdf-1) - muthia zs
+
 * [Pelajari Swift untuk Pemula](https://www.freecodecamp.org/news/the-swift-handbook/) - Flavio Copes
+* [The Swift Programming Language (Swift Book)](https://docs.swift.org/swift-book/) - Apple
+* [Tutorial Swift Bahasa Indonesia](https://www.youtube.com/playlist?list=PLH1gH0TmFBBhR8A_Xq7drrxC4OlUvNP7b) - Ipung DEV Academy
+

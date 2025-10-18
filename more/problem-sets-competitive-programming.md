@@ -103,7 +103,7 @@
 
 
 ### Problem Sets
-
+* [#Aptitude GFG for PLacements](https://www.geeksforgeeks.org/aptitude/aptitude-questions-and-answers/). 
 * [#C++](https://www.youtube.com/playlist?list=PLliXPok7ZonkJEe0cUbVZ3umyKbFA-Dd9) - Keerti Purswani
 * [100 Days CSS Challenge](https://100dayscss.com) - Matthias Martin *(Codepen account requested, not required)*
 * [500 Data structures and algorithms interview questions and their solutions in C++](https://www.quora.com/q/techiedelight/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions)

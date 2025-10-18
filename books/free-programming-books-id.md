@@ -456,4 +456,3 @@
 
 * [Pelajari Swift untuk Pemula](https://www.freecodecamp.org/news/the-swift-handbook/) - Flavio Copes
 * [Tutorial Swift Bahasa Indonesia](https://www.youtube.com/playlist?list=PLH1gH0TmFBBhR8A_Xq7drrxC4OlUvNP7b) - Ipung DEV Academy
-

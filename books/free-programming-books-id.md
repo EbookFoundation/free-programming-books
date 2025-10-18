@@ -1,34 +1,36 @@
 ### Index
 
-* [Android](#android)
-* [C](#c)
-* [C#](#csharp)
-* [C++](#cpp)
-* [Git](#git)
-* [Go](#go)
-* [HTML and CSS](#html-and-css)
-    * [Bootstrap](#bootstrap)
-* [IDE and editors](#ide-and-editors)
-* [Java](#java)
-* [JavaScript](#javascript)
-    * [Angular](#angular)
-    * [Deno](#deno)
-    * [Next.js](#nextjs)
-    * [React.js](#reactjs)
-    * [TypeScript](#typescript)
-    * [Vue.js](#vuejs)
-* [Node.js](#nodejs)
-* [NoSQL](#nosql)
-* [Pascal](#pascal)
-* [Pemrograman Fungsional](#pemrograman-fungsional)
-* [Pemrograman Kompetitif](#pemrograman-kompetitif)
-* [PHP](#php)
-    * [CodeIgniter](#codeigniter)
-    * [Laravel](#laravel)
-    * [Yii](#yii)
-* [Python](#python)
-* [Rust](#rust)
-* [Solidity](#solidity)
+- [Index](#index)
+- [Android](#android)
+- [C](#c)
+- [C#](#c-1)
+- [C++](#c-2)
+- [Git](#git)
+- [Go](#go)
+- [HTML and CSS](#html-and-css)
+  - [Bootstrap](#bootstrap)
+- [IDE and editors](#ide-and-editors)
+- [Java](#java)
+- [JavaScript](#javascript)
+  - [Angular](#angular)
+  - [Deno](#deno)
+  - [Next.js](#nextjs)
+  - [React.js](#reactjs)
+  - [TypeScript](#typescript)
+  - [Vue.js](#vuejs)
+- [MySQL](#mysql)
+- [Node.js](#nodejs)
+- [NoSQL](#nosql)
+- [Pascal](#pascal)
+- [Pemrograman Fungsional](#pemrograman-fungsional)
+- [Pemrograman Kompetitif](#pemrograman-kompetitif)
+- [PHP](#php)
+  - [CodeIgniter](#codeigniter)
+  - [Laravel](#laravel)
+  - [Yii](#yii)
+- [Python](#python)
+- [Rust](#rust)
+- [Solidity](#solidity)
 
 
 ### Android
@@ -42,6 +44,7 @@
 * [Belajar Pemrograman C untuk Pemula](https://www.petanikode.com/tutorial/c/) - Ahmad Muhardian *( :construction: in process)*
 * [Tutorial Belajar Bahasa Pemrograman C Untuk Pemula](https://www.duniailkom.com/tutorial-belajar-bahasa-pemrograman-c-bagi-pemula/) - Duniailkom
 
+* [C Programming: A Modern Approach (1st Edition)](https://archive.org/details/c-programming-modern-approach) - K. N. King
 
 ### <a id="csharp"></a>C\#
 
@@ -53,6 +56,7 @@
 * [Belajar C++ Dasar Bahasa Indonesia](https://github.com/kelasterbuka/CPP_dasar-dasar-programming) - Kelas Terbuka
 * [Buku Pintar C++ untuk Pemula](https://www.researchgate.net/publication/236687537_Buku_Pintar_C_untuk_Pemula) - Abdul Kadir
 
+* [C++ Language Tutorial](https://cplusplus.com/doc/tutorial/) - cplusplus.com
 
 ### Git
 
@@ -76,6 +80,7 @@
 * [Mahir Menguasai CSS - Tutorial & Praktek](https://gilacoding.com/upload/file/Mahir-menguasai-CSS-Part%202.pdf) - Rudy Devianto (PDF)
 * [Tutorial Dasar CSS untuk Pemula](https://www.petanikode.com/tutorial/css/) - Ahmad Muhardian (Petani Kode) *( :construction: dalam proses)*
 * [Tutorial HTML untuk Pemula](https://www.petanikode.com/tutorial/html/) - Ahmad Muhardian (Petani Kode)
+* [MDN Web Docs - HTML, CSS, and JavaScript Guides](https://developer.mozilla.org/en-US/docs/Learn)
 
 
 #### Bootstrap
@@ -232,6 +237,8 @@
 * [Tutorial Python](https://docs.python.org/id/3.8/tutorial/)
 * [Tutorial Python untuk Pemula](https://www.kevintekno.com/p/tutorial-python-untuk-pemula.html) - Kevin Tekno, Kevin Alfito
 * [Workshop Python 101](http://sakti.github.io/python101/)
+* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - Al Sweigart (Creative Commons License)
+* [Python for Everybody](https://www.py4e.com/) - Dr. Charles R. Severance (University of Michigan)
 
 
 ### Rust

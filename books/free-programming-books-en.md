@@ -11,4 +11,4 @@
 
 ### Python
 
-* [Dive Into Python 3](https://diveintopython3.net/) - Mark Pilgrim (HTML)
+* [Dive Into Python 3](https://diveintopython3.net) - Mark Pilgrim (HTML)

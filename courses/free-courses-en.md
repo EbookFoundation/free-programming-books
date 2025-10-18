@@ -1793,6 +1793,7 @@
 
 * [terraform + AWS](https://www.udemy.com/course/terraform-aws) - Rohit Abraham (Udemy)
 * [Terraform + GCP](https://www.udemy.com/course/terraform-gcp) - Rohit Abraham (Udemy)
+* [Complete Terraform Course - From BEGINNER to PRO! (Learn Infrastructure as Code)](https://www.youtube.com/watch?v=7xngnjfIlK4) - DevOps Directive
 * [Terraform 101](https://www.udemy.com/course/terraform-101) - Jacob Jones (Udemy)
 * [Terraform on Azure - Basic Tutorial](https://www.udemy.com/course/terraform-on-azure-basic-tutorial) - Rahul Sawant (Udemy)
 * [Terraform Tutorial for Beginners](https://www.youtube.com/watch?v=YcJ9IeukJL8) - KodeKloud

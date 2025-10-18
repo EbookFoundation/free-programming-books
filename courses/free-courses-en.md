@@ -331,7 +331,6 @@
 * [Bash Scripting Tutorial](https://ryanstutorials.net/bash-scripting-tutorial/) - Ryans Tutorial
 * [Bento Shell Track](https://bento.io/topic/shell) - Jon Chan (Bento)
 * [How to CMake Good](https://www.youtube.com/playlist?list=PLK6MXr8gasrGmIiSuVQXpfFuE1uPT615s) - vector-of-bool
-* [Shell Scripting Crash Course - Beginner Level](https://www.youtube.com/watch?v=v-F3YLd6oMw) - Traversy Media
 * [Shell Scripting Tutorial](https://www.youtube.com/playlist?list=PL7B7FA4E693D8E790) - The Bad Tutorials
 * [Shell Scripting Tutorial \| Shell Scripting Crash Course \| Linux Certification Training \| Edureka](https://www.youtube.com/watch?v=GtovwKDemnI) - edureka!
 * [Shell Scripting Tutorial for Beginners](https://www.youtube.com/playlist?list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_) -  ProgrammingKnowledge
@@ -446,6 +445,7 @@
 
 #### AWS
 
+* [AWS Certification Training Videos](https://youtube.com/playlist?list=PL9ooVrP1hQOFWxRJcGdCot7AgJu29SVV3&si=IGb9NsT45um7nIBN) - Edureka!
 * [AWS Certified Cloud Practitioner Course (2020-2023)](https://www.youtube.com/playlist?list=PLt1SIbA8guuvfvUDVLpJepmbnYpOfYCIB) - Stephane Maarek
 * [AWS Certified Cloud Practitioner Course (CLF-C02)(2024)](https://www.youtube.com/watch?v=NhDYbskXRgc) - Andrew Brown (FreeCodeCamp)
 * [AWS Cloud Complete Bootcamp Course](https://www.youtube.com/watch?v=zA8guDqfv40) - Andrew Brown (FreeCodeCamp)

@@ -4,6 +4,7 @@
 * [Ansible](#ansible)
 * [APL](#apl)
 * [Artificial Intelligence](#artificial-intelligence)
+* [Bench CLI](#bench)
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
@@ -94,6 +95,11 @@
 
 * [AI is confusing — here’s your cheat sheet](https://www.theverge.com/24201441/ai-terminology-explained-humans) Jay Peters (HTML)
 * [What is Artificial Intelligence?](https://intelligencereborn.com/ArtificialIntelligence.html) IntelligenceReborn (HTML)
+
+
+### Bench
+
+* [Bench CLI Cheatsheet](https://frappeframework.com/files/Bench%20Cheatsheet%20v1.1.pdf) (PDF)
 
 
 ### C

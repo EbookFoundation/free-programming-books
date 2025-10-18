@@ -34,4 +34,5 @@ Chiar dacă aveți deja experiență cu alte proiecte open-source, există unele
 După ce trimiteți PR-ul, ***GitHub Actions*** va rula un *linter*; acesta găsește de obicei probleme mici precum spațiere incorectă, link-uri nevalide, erori de sintaxă sau ordine alfabetică.  
 Dacă, la final, vedeți un semnal verde ✅, înseamnă că PR-ul este pregătit pentru revizuire. Dacă nu, dați clic pe linkul „Details” pentru a vedea exact ce a eșuat. Corectați problema și faceți un nou commit în aceeași ramură.
 
-În cele din urmă, dacă nu sunteți sigur(ă) dacă resursa pe care doriți să o adăugați este potrivită pentru `Free-Programming-Books`, citiți cu atenție ghidul [CONTRIBUTING](CONTRIBUTING-ro.md) (de asemenea [tradus în alte limbi](README.md#translations)).
+În cele din urmă, dacă nu sunteți sigur(ă) dacă resursa pe care doriți să o adăugați este potrivită pentru `Free-Programming-Books`, citiți cu atenție ghidul 
+[CONTRIBUTING](CONTRIBUTING-ro.md) (de asemenea [tradus în alte limbi](README.md#translations)).

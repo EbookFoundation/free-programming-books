@@ -222,6 +222,7 @@
 * [Java Compiler](https://www.codinguru.online/compiler/java)
 * [JDoodle - Online Java Compiler Advanced IDE](https://www.jdoodle.com/online-java-compiler-ide/)
 * [JDoodle - Online Java Compiler IDE](https://www.jdoodle.com/online-java-compiler/)
+* [OneCompiler](https://onecompiler.com/java)
 * [Online Java Playground](https://labex.io/tutorials/java-online-java-playground-372914)
 * [OnlineGDB](https://www.onlinegdb.com/online_java_compiler)
 * [Programiz - Online Java Compiler](https://www.programiz.com/java-programming/online-compiler/)
@@ -418,6 +419,11 @@
 ### SQL
 
 * [Extends Class](https://extendsclass.com/sqlite-browser.html)
+* [Online SQL Editor](https://www.programiz.com/sql/online-compiler) - Programiz
+* [Online SQL Editor](https://www.tutorialspoint.com/compilers/online-sql-editor.htm) - Tutorialspoint
+* [Oracle Live SQL](https://livesql.oracle.com)
+* [Practice SQL](https://www.sql-practice.com)
+* [SQL Server Online Editor & Compiler](https://onecompiler.com/sqlserver) - OneCompiler
 * [SQLFiddle](http://sqlfiddle.com)
 * [SQLite Online](https://sqliteonline.com)
 
@@ -458,5 +464,4 @@
 
 * [Vim Adventure](https://vim-adventures.com) - Doron Linder
 * [Vim Genius](http://vimgenius.com) - Vic Ramon, Rye Mason
-
 

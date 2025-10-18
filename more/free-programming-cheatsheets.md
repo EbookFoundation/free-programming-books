@@ -1,7 +1,6 @@
 ### Index
 
 * [Angular](#angular)
-* [Ansible](#ansible)
 * [APL](#apl)
 * [Artificial Intelligence](#artificial-intelligence)
 * [C](#c)
@@ -12,7 +11,13 @@
 * [Dart](#dart)
 * [Data Science](#data-science)
 * [Data Structures and Algorithms](#data-structures-and-algorithms)
-* [Docker](#docker)
+* [DevOps](#devops)
+    * [Ansible](#ansible)
+    * [Chef](#chef)
+    * [Docker](#docker)
+    * [Jenkins](#jenkins)
+    * [Kubernetes](#kubernetes)
+    * [Puppet](#puppet)
 * [Git](#git)
 * [Go](#go)
 * [Graphs](#graphs)
@@ -31,7 +36,6 @@
     * [React.js](#reactjs)
     * [Vue.js](#vuejs)
 * [Kotlin](#kotlin)
-* [Kubernetes](#kubernetes)
 * [Language Translations](#language-translations)
 * [Latex](#latex)
 * [Machine Learning](#machine-learning)
@@ -73,15 +77,6 @@
 * [Angular Cheat Sheet](https://angular.io/guide/cheatsheet)
 * [Angular Cheat Sheet](https://zerotomastery.io/cheatsheets/angular-cheat-sheet/) - ZeroToMastery.io (HTML)
 * [Angular Cheat Sheet – A Basic Guide to Angular](https://www.geeksforgeeks.org/angular-cheat-sheet-a-basic-guide-to-angular/) - GeeksforGeeks
-
-
-### Ansible
-
-* [Ansible Basic Cheat Sheet](https://intellipaat.com/blog/tutorial/devops-tutorial/ansible-basic-cheat-sheet) - Intellipaat (HTML)
-* [Ansible Cheat Sheet](https://sites.google.com/site/mrxpalmeiras/ansible/ansible-cheat-sheet) - Mrxpalmeiras (HTML)
-* [Ansible Cheat Sheet — A DevOps Quick Start Guide](https://medium.com/edureka/ansible-cheat-sheet-guide-5fe615ad65c0) - edureka (HTML, PDF)
-* [Automate your tasks with this Ansible cheat sheet](https://opensource.com/article/20/11/ansible-cheat-sheet) - Opensource (HTML)
-* [How to Use Ansible: A Reference Guide](https://www.digitalocean.com/community/cheatsheets/how-to-use-ansible-cheat-sheet-guide) - DigitalOcean (HTML)
 
 
 ### APL
@@ -160,6 +155,25 @@
 * [Data structures and algorithms study cheatsheets for coding interviews](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/)
 
 
+### Devops 
+
+* [Devops Cheat Sheet](https://cheatography.com/hapuchu/cheat-sheets/devops/) - hapachu (PDF)
+
+
+### Ansible
+
+* [Ansible Basic Cheat Sheet](https://intellipaat.com/blog/tutorial/devops-tutorial/ansible-basic-cheat-sheet) - Intellipaat (HTML)
+* [Ansible Cheat Sheet](https://sites.google.com/site/mrxpalmeiras/ansible/ansible-cheat-sheet) - Mrxpalmeiras (HTML)
+* [Ansible Cheat Sheet — A DevOps Quick Start Guide](https://medium.com/edureka/ansible-cheat-sheet-guide-5fe615ad65c0) - edureka (HTML, PDF)
+* [Automate your tasks with this Ansible cheat sheet](https://opensource.com/article/20/11/ansible-cheat-sheet) - Opensource (HTML)
+* [How to Use Ansible: A Reference Guide](https://www.digitalocean.com/community/cheatsheets/how-to-use-ansible-cheat-sheet-guide) - DigitalOcean (HTML)
+
+
+### Chef
+
+* [Chef Cheat Sheet](https://intellipaat.com/blog/tutorial/devops-tutorial/chef-cheat-sheet/) - Intellipaat (HTML)
+
+
 ### Docker
 
 * [Docker Cheat Sheet](https://github.com/SAYOUNCDR/Docker-CheetSheet/blob/main/docker-cheatsheet.md) - Sayoun Parui (Markdown)
@@ -183,6 +197,24 @@
 * [Dockerfiles y docker-compose.yml: buenas prácticas (:es:)](https://leanmind.es/docker-cheatsheet.pdf) - Yodra Lopez Herrera, LeanMind (PDF)
 * [The Definitive Docker Cheat Sheet](http://dockercheatsheet.painlessdocker.com) - Aymen EL Amri (HTML)
 * [The Ultimate Docker Cheat Sheet](https://dockerlabs.collabnix.com/docker/cheatsheet/) - Sangam Biradar, Collabnix DockerLabs (HTML)
+
+
+### Jenkins 
+
+* [Jenkins Cheat Sheet](https://intellipaat.com/blog/tutorial/devops-tutorial/jenkins-cheat-sheet/) - Intellipaat (HTML)
+
+
+### Kubernetes
+
+* [Handy Cheat Sheet for Kubernetes Beginners](https://kubernetes.io/docs/reference/kubectl/cheatsheet/) - Kubernetes Documentation: kubectl Cheat Sheet (HTML)
+* [Kubernetes Cheat Sheet](https://www.mirantis.com/blog/kubernetes-cheat-sheet/) - Nick Chase (HTML)
+* [Kubernetes Cheat Sheet – 15 Kubectl Commands & Objects](https://spacelift.io/blog/kubernetes-cheat-sheet) - Spacelift (HTML)
+* [Kubernetes Cheat Sheet with KubeCtl](https://intellipaat.com/blog/tutorial/devops-tutorial/kubernetes-cheat-sheet/) - Intellipath (HTML)
+
+
+### Puppet
+
+* [Puppet Cheat Sheet](https://intellipaat.com/blog/tutorial/devops-tutorial/puppet-cheat-sheet/) - Intellipaat (HTML)
 
 
 ### Git
@@ -346,13 +378,6 @@
 ### Kotlin
 
 * [Kotlin Cheatsheet and Quick Reference](https://koenig-media.raywenderlich.com/uploads/2019/11/RW-Kotlin-Cheatsheet-1.1.pdf) - Ray Wenderlich (PDF)
-
-
-### Kubernetes
-
-* [Handy Cheat Sheet for Kubernetes Beginners](https://kubernetes.io/docs/reference/kubectl/cheatsheet/) - Kubernetes Documentation: kubectl Cheat Sheet (HTML)
-* [Kubernetes Cheat Sheet](https://www.mirantis.com/blog/kubernetes-cheat-sheet/) - Nick Chase (HTML)
-* [Kubernetes Cheat Sheet – 15 Kubectl Commands & Objects](https://spacelift.io/blog/kubernetes-cheat-sheet) - Spacelift (HTML)
 
 
 ### Language Translations

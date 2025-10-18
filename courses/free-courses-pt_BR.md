@@ -477,6 +477,7 @@
 
 ### Raspberry Pi
 
+* [Curso de Raspberry Pi](https://www.youtube.com/playlist?list=PLx4x_zx8csUj1PvvXekoDwuUyL0pljiU1) - CFBCursos
 * [Curso de Raspberry Pi: primeiros passos](https://www.youtube.com/playlist?list=PLHz_AreHm4dnGZ_nudmN4rvyLk2fHFRzy) - Gustavo Guanabara
 
 
@@ -505,6 +506,8 @@
 ### Sass
 
 * [Curso de Sass](https://www.youtube.com/playlist?list=PLMy95_4XE08OmaSd_GOLKNkqhoJFvg7w7) - Vida FullStack
+* [Curso de SASS](https://www.youtube.com/playlist?list=PLEBYKM1xzmIPGBtBRU7aTqMZFbj2H3xqo) - BUSSOLA DEV
+* [Curso Sass](https://www.youtube.com/playlist?list=PL97KElaimHeGRtfkksKwxg6IGVZi_cR7J) - Amanda Vilela
 * [Sass placeholders: o jeito certo](https://www.udemy.com/course/sass-placeholders-o-jeito-certo/) - Tárcio Zemel (Udemy)
 
 
@@ -530,6 +533,7 @@
 ### Swift
 
 * [Aprendendo Swift do Iniciante ao Avançado. (Mac e Windows)](https://www.udemy.com/aprendendoswift3/) - Lucas Alencar (Udemy)
+* [Curso de introdução ao desenvolvimento iOS](https://www.youtube.com/playlist?list=PLprgbdnzrDkHjUr2mFq0ypg-v6RNChKA8) Attekita Dev
 * [Curso de Swift - Programação](https://www.youtube.com/playlist?list=PLJ0AcghBBWShgIH122uw7H9T9-NIaFpP-) - Tiago Aguiar
 * [Curso grátis Swift e SwiftUI](https://www.youtube.com/playlist?list=PLMdYygf53DP46rneFgJ7Ab6fJPcMvr8gC) - Filipe Deschamps
 
@@ -575,4 +579,5 @@
 ### SEO
 
 * [Curso de SEO - Mão na massa](https://www.youtube.com/playlist?list=PLVPIs-7SxXA_O-fUH5PbKhEHdTPnYKMiE) - Flavio Klens (Agência Klens)
+* [Curso de SEO (Iniciante)](https://www.youtube.com/playlist?list=PLqDfVio-YDgtfPuoYe1Ps_y9Ds1RU444_) - Caio Rodrigues
 * [Curso prático de SEO](https://www.youtube.com/playlist?list=PLHz_AreHm4dm4pBTRvBFMpSXvEoymoa90) - Gustavo Guanabara (Curso em Video)

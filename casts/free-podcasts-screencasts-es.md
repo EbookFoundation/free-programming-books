@@ -54,6 +54,7 @@
 * [Domain-Driven Design](https://www.youtube.com/playlist?list=PLZVwXPbHD1KMsiA7ahRSbIwS3QMsQ0SbL) - Codely.TV (screencast)
 * [La Buhardilla Geek](https://www.ivoox.com/podcast-buhardilla-geek_sq_f1465450_1.html) - Juan Ángel Romero, Luis Miguel López (podcast)
 * [Maestría JS](https://anchor.fm/maestriajs) - Carlos Rojas (podcast) *(Última Actualización: Mayo 2020)*
+* [Programador X](https://open.spotify.com/show/6iuwL4j3oyaMZyBThzv7Hq) - Xavier Reyes Ochoa (podcast)
 * [Programar es una Mierda](https://www.programaresunamierda.com) - Juan José Meroño Sanchez, Alexandre Ballesté Crevillén (podcast) *(Última Actualización: Junio 2020)*
 
 

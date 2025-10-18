@@ -10,7 +10,7 @@ Al contribuir, acepta la [LICENCIA][license] de este repositorio.
 <!----><a id="contributor-code-of-conduct"></a>
 ## Código de Conducta como Colaborador
 
-Al contribuir, acepta respetar el [Código de Conducta][coc] ([traducciones / otros idiomas][translations-list-link]) presente en el repositorio.
+Al contribuir, usted acepta cumplir con el [Código de Conducta][coc], disponible también en ([traducciones / otros idiomas][translations-list-link]).
 
 
 <!----><a id="in-a-nutshell"></a>
@@ -19,27 +19,27 @@ Al contribuir, acepta respetar el [Código de Conducta][coc] ([traducciones / ot
 1. "Un enlace para descargar fácilmente un libro" no siempre es un enlace a un libro *gratuito*. Por favor, contribuya solo con contenido gratuito. Asegúrese de que se ofrezca gratis. No se aceptan enlaces a páginas que *requieran* de direcciones de correo electrónico para la obtención de libros, pero sí damos la bienvenida a aquellos listados que así se soliciten.
 
 2. No es necesario conocer Git: si encontró algo de interés que *no esté ya en este repositorio*, tenga el gusto de abrir una [Issue][issues] con su propuesta de enlaces.
-    - Si ya maneja Git, haga un Fork del repositorio y envíe su contribución mediante Pull Request (PR).
+    - Si ya maneja Git, cree un Fork del repositorio y envíe su contribución mediante Pull Request (PR).
 
 3. Dispone de 6 categorías. Seleccione aquel listado que crea conveniente según:
 
     - *Libros* : PDF, HTML, ePub, un recurso alojado en gitbook.io, un repositorio Git, etc.
     - *Cursos* : Un curso es aquel material de aprendizaje que no es un libro. [Esto es un curso](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
     - *Tutoriales interactivos* : Un sitio web se considera interactivo si permite al usuario escribir código o comandos y evaluar su resultado ("evaluar" no significa "obtener una calificación"). Por ejemplo: [Pruebe Haskell](http://tryhaskell.org), [Pruebe GitHub](http://try.github.io).
-    - *Playgrounds* : se tratan de sitios en línea interactivos, juegos o software de escritorio cuyo fin es el de aprender programación. Permiten escribir, compiar (o ejecutar), y compartir partes de código fuente. A menudo, ofrecen la posibilidad de hacer bifurcaciones y ensuciarse las manos jugando con el código generado hasta dicho instante.
+    - *Playgrounds* : se tratan de sitios en línea interactivos, juegos o software de escritorio cuyo fin es el de aprender programación. Permiten escribir, compilar (o ejecutar), y compartir partes de código fuente. A menudo, ofrecen la posibilidad de hacer bifurcaciones y ensuciarse las manos jugando con el código generado hasta dicho instante.
     - *Podcasts y Screencasts* : Son aquellas retransmisiones grabadas ya sea en audio y/o en vídeo, respectivamente.
     - *Conjuntos de problemas & Programación competitiva* : Se trata de un sitio web o software que le permita evaluar sus habilidades de programación resolviendo problemas simples o complejos, con o sin revisión de código, con o sin comparar los resultados con otros usuarios.
 
-4. Asegúrese de seguir la [guía de pautas que mostramos a continuación][guidelines] así como de respetar el [formato Markdown][formatting] de los ficheros.
+4. Asegúrese de seguir la [guía de pautas que mostramos a continuación][guidelines] y de respetar el [formato Markdown][formatting] de los archivos.
 
-5. GitHub Actions ejecutará pruebas para asegurarse de que **las listas esten ordenadas alfabéticamente** y de que se **siga dicha normalización de formateo**. **Asegúrese** de verificar que sus cambios pasen todas estas comprobaciones de calidad.
+5. GitHub Actions ejecutará pruebas para asegurarse de que **las listas estén ordenadas alfabéticamente** y de que se **siga dicha normalización de formateo**. **Asegúrese** de verificar que sus cambios pasen todas estas comprobaciones de calidad.
 
 
 <!----><a id="guidelines"></a>
 ### Pautas
 
 - Revise si el libro es gratuito. Hágalo las veces que sean necesarias. Ayude a los administradores comentando en las PR por qué cree que el libro se ofrece gratis o es valioso.
-- No se aceptan ficheros alojados en Google Drive, Dropbox, Mega, Scribd, Issuu u otras plataformas de almacenamiento y/o descarga similares.
+- Evite enlaces que apunten a servicios de almacenamiento en la nube (Google Drive, Dropbox, Mega, Scribd, Issuu, etc.), ya que estos no garantizan la permanencia ni el acceso libre al recurso.
 - Inserte los enlaces ordenados alfabéticamente, tal y como se describe [más abajo](#alphabetical-order).
 - Use el enlace que apunte a la fuente más fidedigna. Esto es, el sitio web del autor es mejor que el del editor y éste a su vez mejor que uno de terceros.
     - No use servicios de almacenamiento en la nube. Esto incluye, aunque sin limitar, enlaces a Dropbox y Google Drive.
@@ -47,7 +47,7 @@ Al contribuir, acepta respetar el [Código de Conducta][coc] ([traducciones / ot
 - En los dominios raíz, elimine la barra inclinada del final: `http://example.com` en lugar de `http://example.com/`.
 - Utilice preferentemente la forma corta de los hipervínculos: `http://example.com/dir/` es mejor que `http://example.com/dir/index.html`.
     - No se admiten acortadores de enlaces URL.
-- Por lo general, se prefiere el enlace "actual" sobre el de "versión": `http://example.com/dir/book/current/` es más asequible que `http://example.com/dir/book/v1.0.0/index.html`.
+- En general, se prefiere enlazar la versión más reciente del recurso antes que versiones específicas o antiguas: `http://example.com/dir/book/current/` es más asequible que `http://example.com/dir/book/v1.0.0/index.html`.
 - Si en un enlace se encuentra con algún problema de certificados, ya sea caducado, autofirmado o de cualquier otro tipo:
     1. *Reemplácelo* con su análogo `http` si fuera posible (porque aceptar excepciones puede ser complicado en dispositivos móviles).
     2. *Manténgalo* si no existe versión `http` pero el enlace aún es accesible a través de `https` agregando una excepción al navegador o ignorando la advertencia.
@@ -294,6 +294,7 @@ Si es posible imprimirlo y conservar su esencia, no es un Tutorial Interactivo.
 - Si especifica más de un archivo, los resultados obtenidos se basan en el estado del último archivo verificado. Debe tenerlo en cuenta ya que, debido a esto, puede obtener falsos positivos al finalizar el proceso. Así que tras el envío de la Pull Request asegúrese de inspeccionar el registro de compilación haciendo clic en "Show all checks" -> "Details".
 
 
+> Traducción revisada por [Felipe Chicaiza](https://github.com/FelipeChicaiza)
 [license]: ../LICENSE
 [coc]: CODE_OF_CONDUCT-es.md
 [translations-list-link]: README.md#translations

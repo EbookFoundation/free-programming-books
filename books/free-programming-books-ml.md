@@ -14,7 +14,5 @@
 ### Machine Learning
 
 * [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/) - Harvard University (Free Course)
-* [Deep Learning](https://www.deeplearningbook.org/) - Ian Goodfellow, Yoshua Bengio, Aaron Courville (Book)
-* [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://github.com/ageron/handson-ml2) - Aurélien Géron (Book / GitHub)
-* [Python Machine Learning](https://sebastianraschka.com/books.html) - Sebastian Raschka (Book)
+
 

@@ -103,6 +103,7 @@
 
 ### <a id="csharp"></a>C\#
 
+* [C# ASP.NET Roadmap](https://roadmap.sh/aspnet-core) - Roadmap.sh (HTML)
 * [C# Cheat Sheet](https://simplecheatsheet.com/tag/c-cheat-sheet-1/) - Simple Cheat Sheet (HTML)
 * [C# Cheat Sheet](https://www.thecodingguys.net/resources/cs-cheat-sheet.pdf) - THECODINGGUYS (PDF)
 * [C# Cheat Sheet](https://zerotomastery.io/cheatsheets/csharp-cheat-sheet/) - ZeroToMaster.io (HTML/PDF)

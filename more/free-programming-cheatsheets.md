@@ -216,10 +216,10 @@
 
 ### Puppet
 
-* [Puppet Cheat Sheet](https://intellipaat.com/blog/tutorial/devops-tutorial/puppet-cheat-sheet/) - Intellipaat (HTML)
-* [Puppet Cheat Sheet For Beginners](http://www.datadisk.co.uk/html_docs/puppet/puppet_cheatsheet.html) - DataDisk (HTML)
-* [Puppet Cheat Sheet Hard Commands made Easy](https://cheatsheetshero.com/user/all/382-puppet-cheatsheet) - CSHero (HTML/PDF)
-* [Puppet Cheat Sheet Module Included](https://help.puppet.com/core/current/Content/PuppetCore/cheatsheet_module.htm) - Pahul (HTML)
+* [Puppet Cheatsheet](https://cheatsheetshero.com/user/all/382-puppet-cheatsheet) - CSHero (HTML/PDF)
+* [Puppet CheatSheet](http://www.datadisk.co.uk/html_docs/puppet/puppet_cheatsheet.html) - DataDisk (HTML)
+* [Puppet CheatSheet](https://intellipaat.com/blog/tutorial/devops-tutorial/puppet-cheat-sheet/) - Intellipaat (HTML)
+* [Puppet CheatSheet](https://help.puppet.com/core/current/Content/PuppetCore/cheatsheet_module.htm) - Pahul (HTML)
 
 
 ### Git

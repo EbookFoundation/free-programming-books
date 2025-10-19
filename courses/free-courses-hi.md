@@ -113,15 +113,15 @@
 * [Data Structure using Java](https://www.youtube.com/playlist?list=PLH9iLcrNpXtQYQiudzpZpGw0mptHc06Su) - ForMyScholars
 * [Data Structures by Nargish Gupta](https://www.youtube.com/playlist?list=PLPzfPcir5uPQ6LrB421cvMvcF3EcsGrr5) - NG Tutorials
 * [DSA-One Course- The Complete Data Structure and Algorithms Course](https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p) - Anuj Bhaiya
+* [Data Structures using C](https://youtube.com/playlist?list=PLf0LpPWikpPfA_vez2NndnYuQy6WkpTzc&si=571pFlctFvX0IVga) - DataFlair
 * [Functions and Arrays - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHOV7lm2uSw4ZiVsIRsGS6r) - Pepcoding
 * [Generic Trees - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiEmjuIVDrwR9h5i9TT2CEU_) - Pepcoding
 * [Graph Data Structure & Algorithms Full Course In Hindi](https://www.youtube.com/playlist?list=PLzjZaW71kMwSrxEtvK5uQnfNQ9UjGGzA-) - Hello World
 * [Graphs - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHfqDcLZMcO9SsUDY4S3a-v) - Pepcoding
 * [Graphs - Level 2](https://www.youtube.com/playlist?list=PL-Jc9J83PIiEuHrjpZ9m94Nag4fwAvtPQ) - Pepcoding
 * [Heap Playlist Interview Questions Coding Tutorials Data Structures](https://youtube.com/playlist?list=PL_z_8CaSLPWdtY9W22VjnPxG30CXNZpI9) - Aditya Verma 
-* [Java + Data Structures + Algorithms](https://www.youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s) - Apni Kaksha
 * [Java + DSA](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop) - Apna College
-* [Data Structures using C](https://youtube.com/playlist?list=PLf0LpPWikpPfA_vez2NndnYuQy6WkpTzc&si=571pFlctFvX0IVga) - DataFlair
+* [Java + Data Structures + Algorithms](https://www.youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s) - Apni Kaksha
 * [Linked List - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_) - Pepcoding
 * [Recursion & Backtracking - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFxaBahjslhBD1LiJAV7nKs) - Pepcoding
 * [Recursion & Backtracking - Level 2](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHO9SQ6lxGuDsZNt2mkHEn0) - Pepcoding
@@ -170,9 +170,10 @@
 
 
 ### Artificial Intelligence
-* [Complete Basics of AI in One Shot](https://youtu.be/D1eL1EnxXXQ?si=a1tfhoMeznMc54Dx) - Apna College
-* [Artificial Intelligence (Complete Playlist)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiHGhOHV-nwb0HR5US5GFKFI) - Gate Smashers
+
 * [Artificial Intelligence Lectures Hindi](https://www.youtube.com/playlist?list=PLV8vIYTIdSnYsdt0Dh9KkD9WFEi7nVgbe) - Easy Engineering Classes
+* [Artificial Intelligence (Complete Playlist)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiHGhOHV-nwb0HR5US5GFKFI) - Gate Smashers
+* [Complete Basics of AI in One Shot](https://youtu.be/D1eL1EnxXXQ?si=a1tfhoMeznMc54Dx) - Apna College
 * [Generative AI Series - Showcasing Generative AI By Building Projects](https://www.youtube.com/playlist?list=PLu0W_9lII9aiS4rUVp2jXwIvCruo27sG6) - CodeWithHarry
 * [LangChain](https://www.youtube.com/playlist?list=PLTDARY42LDV6flFgQLJCcVSXXa58mZ9Ty) - Krish Naik Hindi
 * [Playlist to Artificial Intelligence ](https://www.youtube.com/playlist?list=PLPIwNooIb9vgB1DQEftkKA3qOdeC4vonA) - Perfect Computer Engineer
@@ -239,9 +240,9 @@
 
 
 ### <a id="cpp"></a>C++
-* [C++ in One Shot](https://youtu.be/e7sAf4SbS_g?si=Bby8NjpZS0AszXCX) - College Wallah
-* [C++ and DSA Foundation Course](https://www.youtube.com/playlist?list=PLxgZQoSe9cg0df_GxVjz3DD_Gck5tMXAd) - College Wallah
+
 * [C++ Full Course \| C++ Tutorial \| Data Structures & Algorithms](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ) - Apna College
+* [C++ and DSA Foundation Course](https://www.youtube.com/playlist?list=PLxgZQoSe9cg0df_GxVjz3DD_Gck5tMXAd) - College Wallah
 * [C++ Full Course \|Complete C++ Placement DSA Course\| Data Structures & Algorithms](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA) - CodeHelp - by Babbar
 * [C++ Programming in Hindi](https://www.mygreatlearning.com/academy/learn-for-free/courses/c-programming-in-hindi1) - Bharani Akella (My Great Learning)
 * [C++ Programming in Hindi](https://www.youtube.com/playlist?list=PLDA2q3s0-n15yszaZ2yRKEoxY-WWkuAt4) - Sumit Bisht (Edutainment 1.0)

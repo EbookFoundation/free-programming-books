@@ -7,6 +7,7 @@
     * [React](#react)
 * [Language Agnostic](#language-agnostic)
 * [PHP](#php)
+    * [Symfony](#symfony)
 * [Python](#python)
     * [Django](#django)
 * [Ruby](#ruby)
@@ -44,6 +45,9 @@
 
 ### PHP
 
+#### Symfony
+
+* [Symfony 5. Швидкий старт](https://symfony.com/doc/5.4/the-fast-track/uk/index.html) - Fabien Potencier (HTML)
 * [Symfony: Швидкий старт](https://symfony.com.ua/doc/current/quick_tour/index.html) - Symfony SAS
 
 

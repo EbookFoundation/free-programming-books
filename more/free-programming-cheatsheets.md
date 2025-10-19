@@ -3,7 +3,7 @@
 * [Angular](#angular)
 * [APL](#apl)
 * [Artificial Intelligence](#artificial-intelligence)
-* [BlockChain](#blockchain)
+* [Blockchain](#blockchain)
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
@@ -95,9 +95,9 @@
 
 ### Blockchain
 
-* [Blockchain Cheat Sheet](https://intellipaat.com/blog/tutorial/blockchain-tutorial/blockchain-cheat-sheet/) Arpit (HTML)
-* [Blockchain For Beginners](https://pupuweb.com/blockchain-bitcoin-cheat-sheet/) Alex (HTML)
-* [Blockchain For Dummies Cheat Sheet](https://www.dummies.com/article/technology/information-technology/data-science/general-data-science/blockchain-dummies-cheat-sheet-237567/) Tiana (HTML)
+* [Blockchain Cheat Sheet](https://intellipaat.com/blog/tutorial/blockchain-tutorial/blockchain-cheat-sheet/) - Arpit (HTML)
+* [Blockchain For Beginners](https://pupuweb.com/blockchain-bitcoin-cheat-sheet/) - Alex (HTML)
+* [Blockchain For Dummies Cheat Sheet](https://www.dummies.com/article/technology/information-technology/data-science/general-data-science/blockchain-dummies-cheat-sheet-237567/) - Tiana (HTML)
 
 
 ### C

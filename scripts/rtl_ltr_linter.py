@@ -175,14 +175,13 @@ def split_by_span(text, base_ctx):
 
         # If so, push the new context onto the stack
         if m:
-            stack.append(m.group(1).lower()); #continue
-        
+            stack.append(m.group(1).lower()); 
         # If the token is a closing </span> tag
         if tok.lower() == '</span>':
 
             # Pop the last context from the stack
             if len(stack) > 1: stack.pop()
-            #continue
+            
 
         # Otherwise, if the token is not a span tag, it's a text segment.
         # So, we need to append the tuple (segment, current context) to segments[]

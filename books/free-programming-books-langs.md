@@ -1870,7 +1870,7 @@ Books on general-purpose programming that don't focus on a specific language are
 #### Symfony
 
 * [Symfony 5: The Fast Track](https://symfony.com/doc/5.4/the-fast-track/en/index.html) - Fabien Potencier (HTML)
-* [Symfony 6: The Fast Track](https://symfony.com/doc/6.2/the-fast-track/en/index.html) - Fabien Potencier (HTML)
+* [Symfony 6: The Fast Track](https://symfony.com/doc/6.4/the-fast-track/en/index.html) - Fabien Potencier (HTML)
 * [The Symfony Best practices 4.1.x](https://web.archive.org/web/20181017123206/https://symfony.com/pdf/Symfony_best_practices_4.1.pdf) (PDF) *( :card_file_box: archived)*
 * [The Symfony Book 2.8.x](https://symfony.com/doc/2.8/index.html)
 * [The Symfony Book 3.4.x](https://symfony.com/doc/3.4/index.html)

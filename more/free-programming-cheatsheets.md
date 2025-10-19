@@ -268,7 +268,7 @@
 
 ### <a id="info-sec"></a>Information Security
 
-* [Linux Commands Cheat Sheet)](https://zerotomastery.io/cheatsheets/linux-commands-cheat-sheet/) - ZeroToMastery (HTML)
+* [Linux Commands Cheat Sheet](https://zerotomastery.io/cheatsheets/linux-commands-cheat-sheet/) - ZeroToMastery (HTML)
 * [Nmap Cheat Sheet)](https://zerotomastery.io/cheatsheets/nmap-cheat-sheet/) - ZeroToMastery.io (HTML)
 
 

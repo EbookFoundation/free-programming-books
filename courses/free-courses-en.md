@@ -393,7 +393,7 @@
 * [Fundamentals of Programming: Understanding C#](https://www.udemy.com/course/understandingc/) - Jesse Dietrichson (Udemy)
 * [Learn C#](https://www.sololearn.com/learning/1080) - *registration required*
 * [Learn C#](https://www.codecademy.com/learn/learn-c-sharp) - Codecademy
-* [Learn Entity Framework Core](https://www.learnentityframeworkcore.com/) - LearnEntityFrameworkCore.com
+* [Learn Entity Framework Core](https://www.learnentityframeworkcore.com) - LearnEntityFrameworkCore.com
 
 
 ### <a id="cpp"></a>C++

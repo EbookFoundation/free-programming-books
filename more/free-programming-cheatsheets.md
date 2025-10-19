@@ -377,13 +377,12 @@
 
 ### Kotlin
 
+* [Kotlin Cheat sheet](https://alidehkhodaei.github.io/kotlin-cheat-sheet/) - Pahul (HTML)
 * [Kotlin Cheatsheet](https://cheatsheetshero.com/user/all/336-kotlin-cheatsheet.pdf) - CShero (PDF)
 * [Kotlin Cheatsheet](https://www.devsheets.io/sheets/kotlin) - DevSheets (HTML)
-* [Kotlin Cheat sheet](https://alidehkhodaei.github.io/kotlin-cheat-sheet/) - Pahul (HTML)
+* [Kotlin Cheatsheet](https://devhints.io/kotlin) - Nadiaa (HTML)
+* [Kotlin Cheatsheet](https://quickref.me/kotlin.html) - QuickRef (HTML)
 * [Kotlin Cheatsheet and quick reference](https://koenig-media.raywenderlich.com/uploads/2019/11/RW-Kotlin-Cheatsheet-1.1.pdf) - Ray Wenderlich (PDF)
-* [Kotlin cheatsheet](https://devhints.io/kotlin) - Nadiaa (HTML)
-* [Kotlin cheatsheet](https://quickref.me/kotlin.html) - QuickRef (HTML)
-
 
 ### Language Translations
 

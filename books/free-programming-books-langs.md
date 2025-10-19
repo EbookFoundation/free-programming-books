@@ -1880,6 +1880,7 @@ Books on general-purpose programming that don't focus on a specific language are
 #### Yii
 
 * [The Definitive Guide to Yii 2.0](https://www.yiiframework.com/doc/download/yii-guide-2.0-en.pdf) - Yii Software (PDF)
+* [The Yii Book](https://github.com/LarryUllman/yiibook2/blob/main/e-books/yiibook2.pdf) - Larry Ullman (PDF)
 
 
 #### Zend

@@ -419,6 +419,7 @@
 * [Django 101 - Introdução ao Django](http://turing.com.br/material/acpython/mod3/django/index.html)
 * [Introdução a Visão Computacional com Python e OpenCV](http://professor.luzerna.ifc.edu.br/ricardo-antonello/wp-content/uploads/sites/8/2017/02/Livro-Introdu%C3%A7%C3%A3o-a-Vis%C3%A3o-Computacional-com-Python-e-OpenCV-3.pdf) (PDF)
 * [Introdução ao Python](https://files.cercomp.ufg.br/weby/up/688/o/M2_IP_24-09-24.pdf) - Rafael Divino Ferreira Feitosa (PDF)
+* [INTRODUÇÃO A PYTHON - COM APLICAÇÕES DE SISTEMAS OPERACIONAIS](https://memoria.ifrn.edu.br/bitstream/handle/1044/2090/EBOOK%20-%20INTRODU%c3%87%c3%83O%20A%20PYTHON%20%28EDITORA%20IFRN%29.pdf?sequence=1&isAllowed=y) - Fábio Procópio, João Maria, Rodrigo Siqueira e Givanaldo (PDF)
 * [O Guia do Mochileiro para Python!](https://python-guide-pt-br.readthedocs.io/pt_BR/latest/)
 * [O tutorial de Python](http://turing.com.br/pydoc/2.7/tutorial/)
 * [Pensando Tkinter](https://www.dcc.ufrj.br/~fabiom/mab225/PensandoTkinter.pdf) - Steven Ferg (PDF)
@@ -429,8 +430,6 @@
 * [Python para Desenvolvedores](https://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf) (PDF)
 * [Python para Matemáticos](https://sbm.org.br/wp-content/uploads/2023/09/Minicurso_Python_final2.pdf) - Andréa Lins, Lins Souza (PDF)
 * [Tutorial Django Girls](http://tutorial.djangogirls.org/pt/)
-* [INTRODUÇÃO A PYTHON - COM APLICAÇÕES DE SISTEMAS OPERACIONAIS](https://memoria.ifrn.edu.br/bitstream/handle/1044/2090/EBOOK%20-%20INTRODU%c3%87%c3%83O%20A%20PYTHON%20%28EDITORA%20IFRN%29.pdf?sequence=1&isAllowed=y) - Fábio Procópio, João Maria, Rodrigo Siqueira e Givanaldo (PDF)
-
 
 #### Django
 

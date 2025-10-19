@@ -318,7 +318,7 @@
 
 * [Symfony 1.4, la guía definitiva](http://librosweb.es/libro/symfony_1_4) - Fabien Potencier, François Zaninotto, `trl.:` Javier Eguíluz Pérez (HTML) [(PDF)](https://openlibra.com/es/book/download/symfony-la-guia-definitiva)
 * [Symfony 2.4, el libro oficial](http://librosweb.es/libro/symfony_2_4/) - Fabien Potencier, Ryan Weaver, `trl.:` Javier Eguíluz Pérez (HTML) [(PDF)](https://openlibra.com/es/book/download/manual-de-symfony2-ver-2-0-12)
-* [Symfony 5: La Vía Rápida](https://web.archive.org/web/20210712175052/https://symfony.com/doc/5.0/the-fast-track/es/index.html) - Fabien Potencier (HTML)
+* [Symfony 5: La Vía Rápida](https://web.archive.org/web/20210712175052/https://symfony.com/doc/5.0/the-fast-track/es/index.html) - Fabien Potencier (HTML) *( :card_file_box: archived)*
 
 
 #### Yii

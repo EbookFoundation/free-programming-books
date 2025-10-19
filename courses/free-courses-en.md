@@ -476,6 +476,7 @@
 
 * [Getting started with IBM Cloud](https://cognitiveclass.ai/courses/ibm-cloud-essentials) - Horea Porutiu, Steve Martinelli
 * [IBM Cloud Essentials V3](https://cognitiveclass.ai/courses/ibm-cloud-essentials) - CognitiveClass.ai
+* [IBM Cloud Training Catalog](https://www.ibm.com/training/cloud) - Free Cloud and AI Learning Paths
 
 
 ### Compilers

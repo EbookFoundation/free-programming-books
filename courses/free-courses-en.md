@@ -529,7 +529,7 @@
 
 ### Cypress
 
-* [Cypress Course Playlist](https://www.youtube.com/watch?v=OvCLwh5vN8g) - Testing Funda by Zeesham Asghar
+* [Cypress Course Playlist](https://www.youtube.com/playlist?list=PLYDwWPRvXB8-8LG2hZv25HO6C3w_vezZb) - JoanMedia
 * [Cypress Official Course - Best Documnetation](https://learn.cypress.io) - Cypress.io
 * [Test Automation - Cypress Tutorial](https://testautomationu.applitools.com/cypress-tutorial/) - Elliot Arledge (FreeCodeCamp)
 

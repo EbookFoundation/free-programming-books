@@ -17,6 +17,7 @@
 * [MySQL](#mysql)
 * [Perl](#perl)
 * [PHP](#php)
+    * [Symfony](#symfony)
     * [Yii](#yii)
 * [Prolog](#prolog)
 * [Python](#python)
@@ -148,6 +149,11 @@
 * [Kurs PHP](http://phpkurs.pl) - Leszek Krupiński
 * [PHP](https://pl.wikibooks.org/wiki/PHP) - Wikibooks
 * [PHP: The Right Way](http://pl.phptherightway.com) - Josh Lockhart
+
+
+#### Symfony
+
+* [Symfony 5. Szybki start](https://symfony.com/doc/5.4/the-fast-track/pl/index.html) - Fabien Potencier (HTML)
 
 
 #### Yii

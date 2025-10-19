@@ -72,7 +72,7 @@
 
 #### Symfony
 
-* [Symfony 5: شروع سریع](https://web.archive.org/web/20210122133755/https://symfony.com/doc/current/the-fast-track/fa/index.html) - Fabien Potencier (HTML) *( :card_file_box: archived)*
+* [Symfony 5: شروع سریع](https://web.archive.org/web/20200930102029/https://symfony.com/doc/5.0/the-fast-track/fa/index.html) - Fabien Potencier (HTML) *( :card_file_box: archived)*
 
 
 ### Python

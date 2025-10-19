@@ -1714,7 +1714,7 @@
 
 * [@TJ_Null’s OSCP Prep](https://youtube.com/playlist?list=PLidcsTyj9JXK-fnabFLVEvHinQ14Jy5tf) - IppSec
 * [Computer Systems Security](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014) - Nickolai Zeldovich (MIT OpenCourseWare)
-* [CS50's Introduction to Cybersecurity](https://cs50.harvard.edu/cybersecurity/) - David J. Malan (Harvard University) 
+* [CS50's Introduction to Cybersecurity](https://cs50.harvard.edu/cybersecurity/) - David J. Malan (OpenCourseWare) 
 * [Ethical Hacking](https://www.hacker101.com/videos) - Hacker101
 * [Ethical Hacking - Basics (Kali 2021)](https://www.udemy.com/course/ethical-hacking-basics-kali-20211) - Arthur Salmon (Udemy)
 * [Ethical Hacking for beginners: Beginner to Advance](https://www.udemy.com/course/ethical-hacking-for-beginners-beginner-to-advance) - PaceIT Academy (Udemy)

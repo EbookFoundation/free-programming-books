@@ -1,7 +1,6 @@
 ### Index
 
 * [Angular](#angular)
-* [Ansible](#ansible)
 * [APL](#apl)
 * [Artificial Intelligence](#artificial-intelligence)
 * [C](#c)
@@ -12,7 +11,13 @@
 * [Dart](#dart)
 * [Data Science](#data-science)
 * [Data Structures and Algorithms](#data-structures-and-algorithms)
-* [Docker](#docker)
+* [DevOps](#devops)
+    * [Ansible](#ansible)
+    * [Chef](#chef)
+    * [Docker](#docker)
+    * [Jenkins](#jenkins)
+    * [Kubernetes](#kubernetes)
+    * [Puppet](#puppet)
 * [Git](#git)
 * [Go](#go)
 * [Graphs](#graphs)
@@ -20,6 +25,7 @@
     * [Gremlin](#gremlin)
 * [HTML and CSS](#html-and-css)
 * [IDE and editors](#ide-and-editors)
+* [Information Security](#info-sec)
 * [Java](#java)
 * [JavaScript](#javascript)
     * [jQuery](#jquery)
@@ -30,7 +36,6 @@
     * [React.js](#reactjs)
     * [Vue.js](#vuejs)
 * [Kotlin](#kotlin)
-* [Kubernetes](#kubernetes)
 * [Language Translations](#language-translations)
 * [Latex](#latex)
 * [Machine Learning](#machine-learning)
@@ -74,15 +79,6 @@
 * [Angular Cheat Sheet – A Basic Guide to Angular](https://www.geeksforgeeks.org/angular-cheat-sheet-a-basic-guide-to-angular/) - GeeksforGeeks
 
 
-### Ansible
-
-* [Ansible Basic Cheat Sheet](https://intellipaat.com/blog/tutorial/devops-tutorial/ansible-basic-cheat-sheet) - Intellipaat (HTML)
-* [Ansible Cheat Sheet](https://sites.google.com/site/mrxpalmeiras/ansible/ansible-cheat-sheet) - Mrxpalmeiras (HTML)
-* [Ansible Cheat Sheet — A DevOps Quick Start Guide](https://medium.com/edureka/ansible-cheat-sheet-guide-5fe615ad65c0) - edureka (HTML, PDF)
-* [Automate your tasks with this Ansible cheat sheet](https://opensource.com/article/20/11/ansible-cheat-sheet) - Opensource (HTML)
-* [How to Use Ansible: A Reference Guide](https://www.digitalocean.com/community/cheatsheets/how-to-use-ansible-cheat-sheet-guide) - DigitalOcean (HTML)
-
-
 ### APL
 
 * [A reference card for GNU APL](https://github.com/jpellegrini/gnu-apl-refcard/blob/master/aplcard.pdf) - jpellegrini (PDF)
@@ -107,6 +103,7 @@
 
 ### <a id="csharp"></a>C\#
 
+* [C# ASP.NET Roadmap](https://roadmap.sh/aspnet-core) - Roadmap.sh (HTML)
 * [C# Cheat Sheet](https://simplecheatsheet.com/tag/c-cheat-sheet-1/) - Simple Cheat Sheet (HTML)
 * [C# Cheat Sheet](https://www.thecodingguys.net/resources/cs-cheat-sheet.pdf) - THECODINGGUYS (PDF)
 * [C# Cheat Sheet](https://zerotomastery.io/cheatsheets/csharp-cheat-sheet/) - ZeroToMaster.io (HTML/PDF)
@@ -152,13 +149,35 @@
 * [Algorithms and Data Structures Cheatsheet](https://algs4.cs.princeton.edu/cheatsheet/)
 * [An Executable Data Structures Cheat Sheet for Interviews](https://algodaily.com/lessons/an-executable-data-structures-cheat-sheet)
 * [Big-O Cheat Sheet](http://bigocheatsheet.com)
+* [Big O Cheat Sheet](https://zerotomastery.io/cheatsheets/big-o-cheat-sheet/) - ZeroToMastery.io (HTML)
 * [Big O Notation Cheat Sheet](https://algodaily.com/lessons/big-o-notation-cheat-sheet)
+* [Data Structures and Algorithms Cheat Sheet](https://zerotomastery.io/cheatsheets/data-structures-and-algorithms-cheat-sheet/) - ZeroToMastery (HTML)
 * [Data Structures and Algorithms Cheat Sheet - Cheatography](https://cheatography.com/burcuco/cheat-sheets/data-structures-and-algorithms/)
 * [Data structures and algorithms study cheatsheets for coding interviews](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/)
 
 
+### Devops 
+
+* [Devops Cheat Sheet](https://cheatography.com/hapuchu/cheat-sheets/devops/) - hapachu (PDF)
+
+
+### Ansible
+
+* [Ansible Basic Cheat Sheet](https://intellipaat.com/blog/tutorial/devops-tutorial/ansible-basic-cheat-sheet) - Intellipaat (HTML)
+* [Ansible Cheat Sheet](https://sites.google.com/site/mrxpalmeiras/ansible/ansible-cheat-sheet) - Mrxpalmeiras (HTML)
+* [Ansible Cheat Sheet — A DevOps Quick Start Guide](https://medium.com/edureka/ansible-cheat-sheet-guide-5fe615ad65c0) - edureka (HTML, PDF)
+* [Automate your tasks with this Ansible cheat sheet](https://opensource.com/article/20/11/ansible-cheat-sheet) - Opensource (HTML)
+* [How to Use Ansible: A Reference Guide](https://www.digitalocean.com/community/cheatsheets/how-to-use-ansible-cheat-sheet-guide) - DigitalOcean (HTML)
+
+
+### Chef
+
+* [Chef Cheat Sheet](https://intellipaat.com/blog/tutorial/devops-tutorial/chef-cheat-sheet/) - Intellipaat (HTML)
+
+
 ### Docker
 
+* [Docker Cheat Sheet](https://github.com/SAYOUNCDR/Docker-CheetSheet/blob/main/docker-cheatsheet.md) - Sayoun Parui (Markdown)
 * [Docker Cheat Sheet](https://low-orbit.net/docker-cheat-sheet) - Anthony Rioux, Low Orbit Flux (HTML, PDF)
 * [Docker Cheat Sheet](https://web.archive.org/web/20220925022529/https://www.docker.com/wp-content/uploads/2022/03/docker-cheat-sheet.pdf) - Docker Inc., Solomon Hykes (PDF) *( :card_file_box: archived)*
 * [Docker Cheat Sheet](https://intellipaat.com/blog/tutorial/devops-tutorial/docker-cheat-sheet/) - IntelliPaat (HTML, PDF)
@@ -181,6 +200,24 @@
 * [The Ultimate Docker Cheat Sheet](https://dockerlabs.collabnix.com/docker/cheatsheet/) - Sangam Biradar, Collabnix DockerLabs (HTML)
 
 
+### Jenkins 
+
+* [Jenkins Cheat Sheet](https://intellipaat.com/blog/tutorial/devops-tutorial/jenkins-cheat-sheet/) - Intellipaat (HTML)
+
+
+### Kubernetes
+
+* [Handy Cheat Sheet for Kubernetes Beginners](https://kubernetes.io/docs/reference/kubectl/cheatsheet/) - Kubernetes Documentation: kubectl Cheat Sheet (HTML)
+* [Kubernetes Cheat Sheet](https://www.mirantis.com/blog/kubernetes-cheat-sheet/) - Nick Chase (HTML)
+* [Kubernetes Cheat Sheet – 15 Kubectl Commands & Objects](https://spacelift.io/blog/kubernetes-cheat-sheet) - Spacelift (HTML)
+* [Kubernetes Cheat Sheet with KubeCtl](https://intellipaat.com/blog/tutorial/devops-tutorial/kubernetes-cheat-sheet/) - Intellipath (HTML)
+
+
+### Puppet
+
+* [Puppet Cheat Sheet](https://intellipaat.com/blog/tutorial/devops-tutorial/puppet-cheat-sheet/) - Intellipaat (HTML)
+
+
 ### Git
 
 * [8 Easy Steps to Set Up Multiple GitHub Accounts \[cheat sheet included\]](https://blog.gitguardian.com/8-easy-steps-to-set-up-multiple-git-accounts/) - Thomas Segura, GitGuardian (HTML, PDF)
@@ -201,6 +238,7 @@
 
 * [cht.sh Go Cheatsheet](https://cht.sh/go/:learn) (HTML)
 * [Go Cheatsheet](https://devhints.io/go) - devhints, Rico Santa Cruz (HTML)
+* [Go Programming (Golang) Cheat Sheet](https://zerotomastery.io/cheatsheets/golang-cheat-sheet/) - ZeroToMastery (HTML)
 * [গো \| ডেভ সংকেত<](https://devsonket.com/go) - devsonket (HTML)
 
 
@@ -262,6 +300,11 @@
 * [VSCheatsheet](https://web.archive.org/web/20230816231124/https://www.vscheatsheet.com/) - Nicolas Constantinou (HTML) *( :card_file_box: archived)*
 
 
+### <a id="info-sec"></a>Information Security
+
+* [Nmap Cheat Sheet)](https://zerotomastery.io/cheatsheets/nmap-cheat-sheet/) - ZeroToMastery.io (HTML)
+
+
 ### Java
 
 * [Java](https://web.archive.org/web/20230816231124/https://programmingwithmosh.com/wp-content/uploads/2019/07/Java-Cheat-Sheet.pdf) - Moshfegh Hamedani (PDF) *( :card_file_box: archived)*
@@ -321,6 +364,7 @@
 #### React.js
 
 * [React Cheatsheet](https://www.codecademy.com/learn/react-101/modules/react-101-jsx-u/cheatsheet) - Codecademy (HTML)
+* [React Native Cheat Sheet](https://zerotomastery.io/cheatsheets/react-native-cheat-sheet/) - ZeroToMastery (HTML)
 * [React-router Cheatsheet](https://devhints.io/react-router) - Devhints.io (HTML)
 * [React.js Cheatsheet](https://devhints.io/react) - Devhints.io (HTML)
 * [Ultimate React.js Cheat Sheet](https://upmostly.com/ultimate-reactjs-cheat-sheet) - Upmostly.com (HTML)
@@ -336,13 +380,6 @@
 ### Kotlin
 
 * [Kotlin Cheatsheet and Quick Reference](https://koenig-media.raywenderlich.com/uploads/2019/11/RW-Kotlin-Cheatsheet-1.1.pdf) - Ray Wenderlich (PDF)
-
-
-### Kubernetes
-
-* [Handy Cheat Sheet for Kubernetes Beginners](https://kubernetes.io/docs/reference/kubectl/cheatsheet/) - Kubernetes Documentation: kubectl Cheat Sheet (HTML)
-* [Kubernetes Cheat Sheet](https://www.mirantis.com/blog/kubernetes-cheat-sheet/) - Nick Chase (HTML)
-* [Kubernetes Cheat Sheet – 15 Kubectl Commands & Objects](https://spacelift.io/blog/kubernetes-cheat-sheet) - Spacelift (HTML)
 
 
 ### Language Translations
@@ -419,6 +456,7 @@
 * [Python Cheat Sheet](https://websitesetup.org/python-cheat-sheet/) - WebsiteSetup (HTML, PDF, PNG)
 * [Python Cheat Sheet](https://www.pythoncheatsheet.org) - Wilfredinni (HTML)
 * [Python Cheat Sheet](https://overapi.com/python) - OverAPI
+* [Python Cheat Sheet](https://zerotomastery.io/cheatsheets/python-cheat-sheet/) - ZeroToMastery (HTML)
 * [Python Cheat sheet (2024)](https://www.geeksforgeeks.org/python-cheat-sheet) - GeeksforGeeks
 * [Python Crash Course Cheatsheet](https://ehmatthes.github.io/pcc/cheatsheets/README.html) - Eric Matthes (HTML)
 * [Python Crash Course Cheatsheet (2nd Edition)](https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/) - Eric Matthes (PDF)
@@ -511,6 +549,7 @@
 
 ### Rust
 
+* [Rust Cheat Sheet](https://zerotomastery.io/cheatsheets/rust-cheat-sheet/) - ZeroToMastery (HTML)
 * [Rust cheatsheet](https://quickref.me/rust) - QuickRef.ME (HTML)
 * [Rust Language Cheat Sheet](https://cheats.rs) (HTML)
 
@@ -532,12 +571,14 @@
 ### Solidity
 
 * [Solidity Cheat Sheet](https://intellipaat.com/mediaFiles/2019/03/Solidity-Cheat-Sheet.pdf) - IntelliPaat (PDF)
+* [Solidity Cheat Sheet](https://zerotomastery.io/cheatsheets/solidity-cheat-sheet/) - ZeroToMastery (HTML)
 * [Solidity Cheatsheet and Best practices](https://manojpramesh.github.io/solidity-cheatsheet/) - Manoj Ramesh (HTML)
 
 
 ### SpringBoot
 
-* [Spring Boot Cheatsheet](https://www.jrebel.com/blog/spring-annotations-cheat-sheet) - JRebel
+* [Spring Annotations Cheat Sheet](https://www.jrebel.com/blog/spring-annotations-cheat-sheet) - JRebel
+* [Spring Boot Complete Cheat Sheet](https://github.com/RohanVishwakarma001/Spring-Boot-Complete-Cheat-sheet) - Rohan Vishwakarma (Markdown)
 
 
 ### SQL
@@ -552,6 +593,7 @@
 ### TensorFlow
 
 * [DeepLearning- Keras & TF Cheat Sheet](https://cheatography.com/chesterhsieh/cheat-sheets/deeplearning-keras-and-tf/pdf/) - Chester Hsieh, Cheatography (PDF) *( :construction: in process)*
+* [TensorFlow Cheat Sheet](https://zerotomastery.io/cheatsheets/tensorflow-cheat-sheet/) - ZeroToMastery (HTML)
 * [TensorFlow Quick Reference Table](https://secretdatascientist.com/tensor-flow-cheat-sheet/) - Secret data scientist (HTML)
 * [TensorFlow v2.0 Cheat Sheet](https://web.archive.org/web/20200922212358/https://www.aicheatsheets.com/static/pdfs/tensorflow_v_2.0.pdf) - Altoros (PDF) *( :card_file_box: archived)*
 
@@ -559,12 +601,14 @@
 ### Terraform
 
 * [Terraform Cheat Sheet](https://www.techbeatly.com/terraform-cheat-sheet) - Gineesh Madapparambath (HTML)
+* [Terraform Cheat Sheet](https://zerotomastery.io/cheatsheets/terraform-cheat-sheet/) - ZeroToMastery (HTML)
 * [Terraform Cheatsheet](https://acloudguru.com/blog/engineering/the-ultimate-terraform-cheatsheet) - Eric Pulsifer (HTML)
 
 
 ### TypeScript
 
 * [TypeScript Cheat Sheet](https://rmolinamir.github.io/typescript-cheatsheet/) - Robert Molina (HTML)
+* [TypeScript Cheat Sheet](https://zerotomastery.io/cheatsheets/typescript-cheat-sheet/) - ZeroToMastery (HTML)
 * [TypeScript Cheatsheet](https://github.com/SAYOUNCDR/TS-CheatSheet) - Sayoun Parui (Markdown)
 
 

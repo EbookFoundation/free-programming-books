@@ -391,9 +391,9 @@
 * [C# Tutorial For Beginners - Learn C# Basics in 1 Hour](https://www.youtube.com/watch?v=gfkTfcpWqAY) - Moshfegh Hamedani (Programming with Mosh)
 * [Domain-Driven Refactoring - Jimmy Bogard - NDC London 2022](https://www.youtube.com/watch?v=f64tZ90Dntg) - Jimmy Bogard
 * [Fundamentals of Programming: Understanding C#](https://www.udemy.com/course/understandingc/) - Jesse Dietrichson (Udemy)
-* [Learn Entity Framework Core](https://www.learnentityframeworkcore.com/) - LearnEntityFrameworkCore.com
 * [Learn C#](https://www.sololearn.com/learning/1080) - *registration required*
 * [Learn C#](https://www.codecademy.com/learn/learn-c-sharp) - Codecademy
+* [Learn Entity Framework Core](https://www.learnentityframeworkcore.com/) - LearnEntityFrameworkCore.com
 
 
 ### <a id="cpp"></a>C++

@@ -545,6 +545,7 @@
 #### Symfony
 
 * [Symfony 5・高速コース](https://symfony.com/doc/5.4/the-fast-track/ja/index.html) - Fabien Potencier (HTML)
+* [Symfony 6・高速コース](https://symfony.com/doc/6.4/the-fast-track/ja/index.html) - Fabien Potencier (HTML)
 
 
 #### Yii

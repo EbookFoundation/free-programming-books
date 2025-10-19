@@ -37,7 +37,7 @@
 
 #### Symfony
 
-* [Symfony 5: Snel van start](https://symfony.com/doc/current/the-fast-track/nl/index.html) - Fabien Potencier
+* [Symfony 5: Snel van start](https://symfony.com/doc/current/the-fast-track/nl/index.html) - Fabien Potencier (HTML)
 
 
 ### Python

@@ -637,7 +637,7 @@
 #### Symfony
 
 * [Symfony 2 实例教程](https://wusuopu.gitbooks.io/symfony2_tutorial/content)
-* [Symfony 5 快速开发](https://web.archive.org/web/20210812222957/symfony.com/doc/current/the-fast-track/zh_CN/index.html) *( :card_file_box: archived)*
+* [Symfony 5 快速开发](https://web.archive.org/web/20210812222957/symfony.com/doc/current/the-fast-track/zh_CN/index.html) (HTML) *( :card_file_box: archived)*
 
 
 #### Yii

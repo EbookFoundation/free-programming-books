@@ -638,6 +638,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [2016 European Software Development Salary Survey](https://www.oreilly.com/radar/2016-european-software-development-salary-survey/) - Andy Oram, John King (HTML)
 * [2016 Software Development Salary Survey](https://www.oreilly.com/radar/2016-software-development-salary-survey-report/) - John King, Roger Magoulas (HTML)
 * [A MACHINE MADE THIS BOOK ten sketches of computer science](https://ocaml-book.com/s/popbook.pdf) - JOHN WHITINGTON (PDF)
+* [A QA GUIDE TO SAP FUNCTIONAL TEST AUTOMATION]([https://ocaml-book.com/s/popbook.pdf](https://uploads-ssl.webflow.com/60799032d5e3528b47cd726d/6481b6bab10ef0c780f16c35_EBOOK%20SAP%20-%20EN.pdf?utm_medium=email&_hsenc=p2ANqtz-9hBDsmIPF02WbXKWczg7No2LQJk-aI7DJgoOM1KnjGXpZCs71vvRtpvaTZLX_Pa1OdshfLzyqVyvdkmXJKqbQRL5RSBA&_hsmi=261584595&utm_content=261584595&utm_source=hs_automation)) - Agilitest (PDF)
 * [Ansible Up & Running (first three chapters)](https://www.ansible.com/ebooks) *(account required)*
 * [Asterisk™: The Definitive Guide](https://solmu.org/pub/help/Asterisk/3nd_Edition_for_Asterisk_1.8) - Leif Madsen, Jim Van Meggelen, Russell Bryant (HTML)
 * [Atomic Design](https://atomicdesign.bradfrost.com) - Brad Frost
@@ -696,6 +697,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Programming with Unicode](https://unicodebook.readthedocs.org)
 * [Real-World Maintainable Software](https://www.oreilly.com/ideas/real-world-maintainable-software) - Abraham Marin-Perez
 * [Record-Playback Test Automation: Sahi & Selenium IDE: Critical Evaluation of Record-Playback Automation Tools](https://leanpub.com/manualToAutomatedWithSeleniumIDEAndSahi) - Shashikant Jagtap *(Leanpub account or valid email requested)*
+* [SCALING FUNCTIONAL TEST AUTOMATION FOR HAPPY TEAMS](https://email.agilitest.com/e3t/Ctc/I4+113/cxwyf04/MV-XW1tYDmNW21YSM05wxTzFW178YCN5DRRfJN1HNyZj5kvg8W5BWr2F6lZ3kFMSg_NbWpy_YW7BsS0j5HD_0XW44r4xf43_35FW6PShqB9cSMQVW6LZTwH3ZP1Z-W3qwl4t8Zh8fZN4sfR986QM93W4QJVp82clyf1W77T-ZX6SyjJnW3Gw-BR7TVRj-N1Z-VyhdPKczW5Z_cbJ5N-YRCN8pPBqk19LYCW6SQP6r9fGF29W52wGR-8RCRrMW4W4fkv7yyW13MDNDMBPQqhrW4fYgLV4jpShcW5RQ6nT1CrqRtW79Vvzz3pXP9qW5RqdLz7rDK2JW6KQ6sX4xfrqlW3dGVnM30JXr8W1H_R6r6K6zfcW3H61Td7QzZRWW3hV6CF1Hl7vsW8mf2Q65cjFkfW8TH3zx1w19FfVL1WvC5hJF7FW98xs5X2LFrqgW25GSJB4gdDh8W8Sh9c1571r5_W2qRJdZ8CYz7TW4RkZth8mf5k0f2HGwyg04) - Agilitest (PDF)
 * [Scientific Programming and Computer Architecture](https://divakarvi.github.io/bk-spca/spca.html) - Divakar Viswanath
 * [Signal Computing: Digital Signals in the Software Domain](http://faculty.washington.edu/stiber/pubs/Signal-Computing/Signal%20Computing.pdf) - Michael Stiber, Bilin Zhang Stiber, Eric C. Larson (PDF)
 * [Site Reliability Engineering - How Google run production systems](https://sre.google/sre-book/table-of-contents/) - Betsy Beyer, Chris Jones, Jennifer Petoff, Niall Murphy (HTML)

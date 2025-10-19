@@ -666,6 +666,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Dart
 
+* [Dart for Absolute Beginners](https://github.com/ValiantCat/VCFlutter/blob/master/Dart%20for%20Absolute%20Beginners(Apress%2C2014).pdf) - David Kopec (PDF)
 * [Essential Dart](https://www.programming-books.io/essential/dart/) - Krzysztof Kowalczyk, StackOverflow Contributors
 * [Learning Dart](https://riptutorial.com/Download/dart.pdf) - Compiled from StackOverflow documentation (PDF)
 

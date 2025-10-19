@@ -201,7 +201,7 @@
 
 #### Symfony
 
-* [Symfony: Auf der Überholspur](https://symfony.com/doc/current/the-fast-track/de/index.html) (Online)
+* [Symfony 5: Auf der Überholspur](https://symfony.com/doc/current/the-fast-track/de/index.html) (Online)
 
 
 ### Python

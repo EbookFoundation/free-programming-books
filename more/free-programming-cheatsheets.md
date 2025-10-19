@@ -97,6 +97,12 @@
 
 * [Bench CLI Cheatsheet](https://frappeframework.com/files/Bench%20Cheatsheet%20v1.1.pdf) - Frappe (PDF)
 
+* [Bench Commands](https://docs.frappe.io/framework/v14/user/en/bench/bench-commands) - Frappe (HTML)
+
+* [Frappe Bench Commands](https://docs.frappe.io/framework/v14/user/en/bench/frappe-commands) - Frappe (HTML)
+
+* [Bench Reference](https://docs.frappe.io/framework/v14/user/en/bench/reference) - Frappe (HTML)
+
 
 ### C
 

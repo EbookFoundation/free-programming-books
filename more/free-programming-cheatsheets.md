@@ -201,9 +201,9 @@
 
 ### Jenkins 
 
-* [Jenkins Cheat Sheet a](https://intellipaat.com/blog/tutorial/devops-tutorial/jenkins-cheat-sheet/) - Intellipaat (HTML)
-* [Jenkins Cheat Sheet b](https://www.testautomationstudio.com/cheat-sheet/jenkins/jenkins-cheat-sheet/) - TAS (HTML)
-* [Jenkins Cheat Sheet c](https://www.edureka.co/blog/cheatsheets/jenkins-cheat-sheet/) - Miss zulekha (HTML)
+* [Jenkins Cheat Sheet](https://intellipaat.com/blog/tutorial/devops-tutorial/jenkins-cheat-sheet/) - Intellipaat (HTML)
+* [Jenkins Cheat Sheet For Begninners](https://www.testautomationstudio.com/cheat-sheet/jenkins/jenkins-cheat-sheet/) - TAS (HTML)
+* [Jenkins Cheat Sheet Guide to Jenkins](https://www.edureka.co/blog/cheatsheets/jenkins-cheat-sheet/) - Miss zulekha (HTML)
 
 
 ### Kubernetes
@@ -216,9 +216,9 @@
 
 ### Puppet
 
-* [Puppet Cheat Sheet a](https://intellipaat.com/blog/tutorial/devops-tutorial/puppet-cheat-sheet/) - Intellipaat (HTML)
-* [Puppet Cheat Sheet b](http://www.datadisk.co.uk/html_docs/puppet/puppet_cheatsheet.html) - DataDisk (HTML)
-* [Puppet Cheat Sheet c](https://cheatsheetshero.com/user/all/382-puppet-cheatsheet) - CSHero (HTML/PDF)
+* [Puppet Cheat Sheet](https://intellipaat.com/blog/tutorial/devops-tutorial/puppet-cheat-sheet/) - Intellipaat (HTML)
+* [Puppet Cheat Sheet For Beginners](http://www.datadisk.co.uk/html_docs/puppet/puppet_cheatsheet.html) - DataDisk (HTML)
+* [Puppet Cheat Sheet Hard Commands made Easy](https://cheatsheetshero.com/user/all/382-puppet-cheatsheet) - CSHero (HTML/PDF)
 * [Puppet Cheat Sheet Module Included](https://help.puppet.com/core/current/Content/PuppetCore/cheatsheet_module.htm) - Pahul (HTML)
 
 

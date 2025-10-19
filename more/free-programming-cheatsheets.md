@@ -99,9 +99,9 @@
 
 * [Bench Commands](https://docs.frappe.io/framework/v14/user/en/bench/bench-commands) - Frappe (HTML)
 
-* [Frappe Bench Commands](https://docs.frappe.io/framework/v14/user/en/bench/frappe-commands) - Frappe (HTML)
-
 * [Bench Reference](https://docs.frappe.io/framework/v14/user/en/bench/reference) - Frappe (HTML)
+
+* [Frappe Bench Commands](https://docs.frappe.io/framework/v14/user/en/bench/frappe-commands) - Frappe (HTML)
 
 
 ### C

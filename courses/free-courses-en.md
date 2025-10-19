@@ -1795,6 +1795,7 @@
 
 ### Terraform
 
+* [Complete Terraform Course - From BEGINNER to PRO! (Learn Infrastructure as Code)](https://www.youtube.com/watch?v=7xngnjfIlK4) - DevOps Directive
 * [terraform + AWS](https://www.udemy.com/course/terraform-aws) - Rohit Abraham (Udemy)
 * [Terraform + GCP](https://www.udemy.com/course/terraform-gcp) - Rohit Abraham (Udemy)
 * [Terraform 101](https://www.udemy.com/course/terraform-101) - Jacob Jones (Udemy)

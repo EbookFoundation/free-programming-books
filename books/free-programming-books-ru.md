@@ -456,8 +456,8 @@
 #### Symfony
 
 * [Учебник по Symfony](https://coderlessons.com/tutorials/veb-razrabotka/uchit-symfony/uchebnik-po-symfony)
-* [Symfony 5. Быстрый старт](https://symfony.com/doc/5.4/the-fast-track/ru/index.html)
-* [Symfony 6. Быстрый старт](https://symfony.com/doc/6.2/the-fast-track/ru/index.html)
+* [Symfony 5. Быстрый старт](https://symfony.com/doc/5.4/the-fast-track/ru/index.html) - Fabien Potencier
+* [Symfony 6. Быстрый старт](https://symfony.com/doc/6.2/the-fast-track/ru/index.html) - Fabien Potencier
 
 
 #### Yii

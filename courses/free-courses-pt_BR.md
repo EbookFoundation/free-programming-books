@@ -172,6 +172,7 @@
 * [Golang do Zero](https://www.youtube.com/playlist?list=PL5aY_NrL1rjucQqO21QH8KclsLDYu1BIg) - Full Cycle
 * [Golang do Zero](https://www.youtube.com/playlist?list=PLIIX-IKjIiwOpAr_kyvpxTVyvUoxXqGEQ) - Stephanie Cardoso
 * [Meu Primeiro CRUD em GoLang](https://www.youtube.com/playlist?list=PLm-xZWCprwYQ3gyCxJ8TR1L2ZnUOPvOpr) - HunCoding
+* [Criando Rest API em Golang (clean arch + padrões de projeto)](https://www.youtube.com/watch?v=EXwqzrcVXKg) - Léo Miranda Dev
 
 
 ### Gulp

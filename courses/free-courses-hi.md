@@ -121,6 +121,8 @@
 * [Heap Playlist Interview Questions Coding Tutorials Data Structures](https://youtube.com/playlist?list=PL_z_8CaSLPWdtY9W22VjnPxG30CXNZpI9) - Aditya Verma 
 * [Java + Data Structures + Algorithms](https://www.youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s) - Apni Kaksha
 * [Java + DSA](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop) - Apna College
+* [Data Structures using C](https://youtube.com/playlist?list=PLf0LpPWikpPfA_vez2NndnYuQy6WkpTzc&si=571pFlctFvX0IVga) - DataFlair
+* [Data Structures using C++](https://youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt&si=kEkocgAO-X6UL3FM) - Apna College
 * [Linked List - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_) - Pepcoding
 * [Recursion & Backtracking - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFxaBahjslhBD1LiJAV7nKs) - Pepcoding
 * [Recursion & Backtracking - Level 2](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHO9SQ6lxGuDsZNt2mkHEn0) - Pepcoding
@@ -169,7 +171,7 @@
 
 
 ### Artificial Intelligence
-
+* [Complete Basics of AI in One Shot](https://youtu.be/D1eL1EnxXXQ?si=a1tfhoMeznMc54Dx) - Apna College
 * [Artificial Intelligence (Complete Playlist)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiHGhOHV-nwb0HR5US5GFKFI) - Gate Smashers
 * [Artificial Intelligence Lectures Hindi](https://www.youtube.com/playlist?list=PLV8vIYTIdSnYsdt0Dh9KkD9WFEi7nVgbe) - Easy Engineering Classes
 * [Generative AI Series - Showcasing Generative AI By Building Projects](https://www.youtube.com/playlist?list=PLu0W_9lII9aiS4rUVp2jXwIvCruo27sG6) - CodeWithHarry
@@ -238,7 +240,7 @@
 
 
 ### <a id="cpp"></a>C++
-
+* [C++ in One Shot](https://youtu.be/e7sAf4SbS_g?si=Bby8NjpZS0AszXCX) - College Wallah
 * [C++ and DSA Foundation Course](https://www.youtube.com/playlist?list=PLxgZQoSe9cg0df_GxVjz3DD_Gck5tMXAd) - College Wallah
 * [C++ Full Course \| C++ Tutorial \| Data Structures & Algorithms](https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ) - Apna College
 * [C++ Full Course \|Complete C++ Placement DSA Course\| Data Structures & Algorithms](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA) - CodeHelp - by Babbar

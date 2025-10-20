@@ -53,9 +53,11 @@
 * [জাভাস্ক্রিপ্ট ল্যাঙ্গুয়েজের এর ব্যাসিক, অ্যাডভান্স](https://js.howtocode.dev) - Nuhil Mehdi (howtocode.dev)
 * [হাতেকলমে জাভাস্ক্রিপ্ট: সম্পূর্ণ বাংলায় হাতেকলমে জাভাস্ক্রিপ্ট শিখুন](https://with.zonayed.me/js-basic/) - Zonayed Ahmed (HTML)
 
+
 ### Web Development
 
 * [এইচটিএমএল ও সিএসএস ইন বাংলায় (HTML & CSS in Bangla)](https://github.com/CodeJogot/html-css-course-in-bangla) - Farmer Abdul Alim (GitHub, HTML)
+
 
 ### Machine Learning
 

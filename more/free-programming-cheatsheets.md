@@ -3,7 +3,6 @@
 * [Angular](#angular)
 * [APL](#apl)
 * [Artificial Intelligence](#artificial-intelligence)
-* [Bench CLI](#bench)
 * [Blockchain](#blockchain)
 * [C](#c)
 * [C#](#csharp)
@@ -15,6 +14,7 @@
 * [Data Structures and Algorithms](#data-structures-and-algorithms)
 * [DevOps](#devops)
     * [Ansible](#ansible)
+    * [Bench CLI](#bench)
     * [Chef](#chef)
     * [Docker](#docker)
     * [Jenkins](#jenkins)
@@ -92,14 +92,6 @@
 
 * [AI is confusing — here’s your cheat sheet](https://www.theverge.com/24201441/ai-terminology-explained-humans) Jay Peters (HTML)
 * [What is Artificial Intelligence?](https://intelligencereborn.com/ArtificialIntelligence.html) IntelligenceReborn (HTML)
-
-
-### Bench
-
-* [Bench CLI Cheatsheet](https://frappeframework.com/files/Bench%20Cheatsheet%20v1.1.pdf) - Frappe (PDF)
-* [Bench Commands](https://docs.frappe.io/framework/v14/user/en/bench/bench-commands) - Frappe (HTML)
-* [Bench Reference](https://docs.frappe.io/framework/v14/user/en/bench/reference) - Frappe (HTML)
-* [Frappe Bench Commands](https://docs.frappe.io/framework/v14/user/en/bench/frappe-commands) - Frappe (HTML)
 
 
 ### Blockchain
@@ -185,6 +177,14 @@
 * [Ansible Cheat Sheet — A DevOps Quick Start Guide](https://medium.com/edureka/ansible-cheat-sheet-guide-5fe615ad65c0) - edureka (HTML, PDF)
 * [Automate your tasks with this Ansible cheat sheet](https://opensource.com/article/20/11/ansible-cheat-sheet) - Opensource (HTML)
 * [How to Use Ansible: A Reference Guide](https://www.digitalocean.com/community/cheatsheets/how-to-use-ansible-cheat-sheet-guide) - DigitalOcean (HTML)
+
+
+### Bench
+
+* [Bench CLI Cheatsheet](https://frappeframework.com/files/Bench%20Cheatsheet%20v1.1.pdf) - Frappe (PDF)
+* [Bench Commands](https://docs.frappe.io/framework/v14/user/en/bench/bench-commands) - Frappe (HTML)
+* [Bench Reference](https://docs.frappe.io/framework/v14/user/en/bench/reference) - Frappe (HTML)
+* [Frappe Bench Commands](https://docs.frappe.io/framework/v14/user/en/bench/frappe-commands) - Frappe (HTML)
 
 
 ### Chef

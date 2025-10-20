@@ -309,7 +309,9 @@
 ### AutoIt
 
 * [AutoIt Scripting Tutorial](https://www.youtube.com/playlist?list=PL4Jcq5zn02jKpjX0nqI1_fS7mEEb5tw6z) - TutsTeach
+* [AutoIt Tutorial](https://www.youtube.com/playlist?list=PL2EKpjm0bX4K_ztKMhWW7JPmk-uv15aYR) - Cool IT Help
 * [AutoIt Tutorials](https://www.youtube.com/playlist?list=PL1DCD109B801D0DE6) - 403forbidden403
+* [Autoit tutorials for beginners](https://www.youtube.com/playlist?list=PLe_F6wC3Fvdr1KpkS4oa7k47j-0z_8v9S) - Amarindaz
 * [The Basics AutoIt Tutorial](https://www.youtube.com/playlist?list=PLmB-aWjqd3PrkiIK-kiD_T08_g48n1Jdn) - MrAutoIt
 
 

@@ -8,11 +8,11 @@
 * [Go](#go)
 * [Java](#java)
 * [JavaScript](#javascript)
-* [Web Development](#web-development)
 * [Machine Learning](#machine-learning)
 * [Misc](#misc)
 * [Python](#python)
 * [Sql](#sql)
+* [Web Development](#web-development)
 
 
 ### Algorithms
@@ -54,11 +54,6 @@
 * [হাতেকলমে জাভাস্ক্রিপ্ট: সম্পূর্ণ বাংলায় হাতেকলমে জাভাস্ক্রিপ্ট শিখুন](https://with.zonayed.me/js-basic/) - Zonayed Ahmed (HTML)
 
 
-### Web Development
-
-* [এইচটিএমএল ও সিএসএস ইন বাংলায় (HTML & CSS in Bangla)](https://github.com/CodeJogot/html-css-course-in-bangla) - Farmer Abdul Alim (GitHub, HTML)
-
-
 ### Machine Learning
 
 * [বাংলায় মেশিন লার্নিং](https://ml.howtocode.dev) - Manos Kumar Mondol (howtocode.dev)
@@ -91,6 +86,11 @@
 
 * [এসকিউএল পরিচিতি(SQL Introduction in Bangla)](https://www.sattacademy.org/sql/index.php) - Satt Academy
 * [বাংলায় SQL টিউটোরিয়াল](https://sql.howtocode.dev) - Saiful, et al.
+
+
+### Web Development
+
+* [এইচটিএমএল ও সিএসএস ইন বাংলায় (HTML & CSS in Bangla)](https://github.com/CodeJogot/html-css-course-in-bangla) - Farmer Abdul Alim (GitHub, HTML)
 
 
 ### Git and Github

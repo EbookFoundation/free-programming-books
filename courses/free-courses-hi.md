@@ -112,7 +112,7 @@
 * [Data Structure Programs \| Hindi](https://www.youtube.com/playlist?list=PLsFNQxKNzefJU-Sj__mljvrmJHZVKWbEm) - Saurabh Shukla
 * [Data Structure using Java](https://www.youtube.com/playlist?list=PLH9iLcrNpXtQYQiudzpZpGw0mptHc06Su) - ForMyScholars
 * [Data Structures by Nargish Gupta](https://www.youtube.com/playlist?list=PLPzfPcir5uPQ6LrB421cvMvcF3EcsGrr5) - NG Tutorials
-* [Data Structures using C](https://youtube.com/playlist?list=PLf0LpPWikpPfA_vez2NndnYuQy6WkpTzc&si=571pFlctFvX0IVga) - DataFlair
+* [Data Structures using C](https://www.youtube.com/playlist?list=PLf0LpPWikpPfA_vez2NndnYuQy6WkpTzc&si=571pFlctFvX0IVga) - DataFlair
 * [DSA-One Course- The Complete Data Structure and Algorithms Course](https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p) - Anuj Bhaiya
 * [Functions and Arrays - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHOV7lm2uSw4ZiVsIRsGS6r) - Pepcoding
 * [Generic Trees - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiEmjuIVDrwR9h5i9TT2CEU_) - Pepcoding

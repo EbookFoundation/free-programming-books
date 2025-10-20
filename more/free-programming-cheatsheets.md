@@ -323,6 +323,7 @@
 
 ### JavaScript
 
+* [Advanced JavaScript Cheat Sheet](https://zerotomastery.io/cheatsheets/javascript-cheatsheet-the-advanced-concepts/) - ZeroToMastery (HTML)
 * [JavaScript Cheat Sheet – A Basic Guide to JavaScript](https://www.geeksforgeeks.org/javascript-cheat-sheet-a-basic-guide-to-javascript) - GeeksforGeeks (HTML)
 * [JavaScript CheatSheet](https://github.com/wilfredinni/javascript-cheatsheet) - Wilfredinni (HTML)
 * [JavaScript Cheatsheet](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet) - Codecademy (HTML)

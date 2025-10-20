@@ -74,4 +74,9 @@
 * [Python Notes \| Hindi](https://ehindistudy.com/2022/10/12/python-pdf-notes-hindi/) - Yugal Joshi (HTML) *( :construction: in process)*
 * [Python Tutorial in Hindi (Full Python Course) \| Hindi](https://www.tutorialinhindi.com/wp-content/uploads/2022/01/Python-Tutorial-in-Hindi-Full-Python-Course-FREE-PDF.pdf) - TutorialInHindi.com (PDF)
 
+### SQL / Database
+
+* [SQL in Hindi | TutorialsPoint Hindi](https://www.tutorialspoint.com/sql_in_hindi) - TutorialsPoint Hindi (HTML) – Basics of queries, joins, and database management
+* [Database Management Notes in Hindi | BCC Falna](https://www.bccfalna.com/IOC-AllEBooks/DBMSinHindi.pdf) - BCC Falna (PDF) – Covers DBMS concepts
+
 

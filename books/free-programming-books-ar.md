@@ -95,7 +95,7 @@
 ### Security
 
 * [تأمين الشبكات اللاسلكية للمستخدم المنزلي](https://mohamedation.com/securing-wifi/ar/) - Mohamed Adel&rlm; (HTML)
-* [دليل الأمان الرقمي](https://academy.hsoub.com/files/20-%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%A3%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A/)
+* [دليل الأمان الرقمي](https://academy.hsoub.com/files/20-%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%A3%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D8%B1%D9%82%D9%85%D9%8A/) - محمد هاني صباغ&rlm; (PDF)
 
 
 ### SQL

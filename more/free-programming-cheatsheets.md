@@ -253,8 +253,8 @@
 * [Go Cheatsheet](https://devhints.io/go) - devhints, Rico Santa Cruz (HTML)
 * [Go Programming (Golang) Cheat Sheet](https://zerotomastery.io/cheatsheets/golang-cheat-sheet/) - ZeroToMastery (HTML)
 * [Golang Cheat Sheet](https://github.com/a8m/golang-cheat-sheet) - Ariel Mashraki (HTML)
-* [গো \| ডেভ সংকেত<](https://devsonket.com/go) - devsonket (HTML)
 * [Go Backend Complete Cheat Sheet](https://github.com/SAYOUNCDR/Bha---Go-/blob/main/Readme.md) - Sayoun Parui (Markdown)
+* [গো \| ডেভ সংকেত<](https://devsonket.com/go) - devsonket (HTML)
 
 
 ### Graphs

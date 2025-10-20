@@ -1264,7 +1264,7 @@
 * [Full Stack Vue.js, Express & MongoDB](https://www.youtube.com/playlist?list=PLillGF-RfqbYSx-Ab1xWVanGKtowTsnNm) - Traversy Media
 * [Get Started with Nuxt](https://explorers.netlify.com/learn/get-started-with-nuxt) - Debbie O'Brien (Netlify)
 * [Internationalization with vue-i18n](https://vueschool.io/courses/internationalization-with-vue-i18n)
-* [Intro to Vue 2](https://www.vuemastery.coRm/courses/intro-to-vue-js/vue-instance)
+* [Intro to Vue 2](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance)
 * [Intro to Vue 3](https://www.vuemastery.com/courses/intro-to-vue-3/intro-to-vue3)
 * [JavaScript Testing Fundamentals](https://vueschool.io/courses/javascript-testing-fundamentals)
 * [Learn Vue 3 step by step](https://laracasts.com/series/learn-vue-3-step-by-step) - Jeffrey Way

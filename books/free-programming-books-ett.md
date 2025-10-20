@@ -13,14 +13,14 @@
 
 ## Android
 
-- [Android Programming for Beginners](https://archive.org/details/android-programming-for-beginners-2nd-edition) - Complete guide to Android development using Java/Kotlin.
 - [Android Developer Fundamentals](https://developer.android.com/courses/fundamentals-training/toc-v2) - Official Google training material.
+- [Android Programming for Beginners](https://archive.org/details/android-programming-for-beginners-2nd-edition) - Complete guide to Android development using Java/Kotlin.
 - [Head First Android Development](https://archive.org/details/head-first-android-development) - Visual approach to Android programming.
 
 ## C
 
 - [C Programming Language (2nd Edition)](https://archive.org/details/TheCProgrammingLanguageSecondEdition) - By Kernighan and Ritchie.
-- [Learn C the Hard Way](https://learncodethehardway.org/c/) - Hands-on approach with exercises.
+- [Learn C the Hard Way](https://learncodethehardway.org/c) - Hands-on approach with exercises.
 
 ## <a id="cpp"></a>C++
 
@@ -29,16 +29,16 @@
 
 ## Java
 
-- [Think Java](https://greenteapress.com/wp/think-java/) - Beginner-friendly Java introduction.
 - [Effective Java](https://archive.org/details/effective-java-2nd-edition) - Best practices for writing robust Java code.
+- [Think Java](https://greenteapress.com/wp/think-java) - Beginner-friendly Java introduction.
 
 ## Python
 
-- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - Learn Python through practical automation.
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com) - Learn Python through practical automation.
 - [Think Python](https://greenteapress.com/wp/think-python-2e) - Beginner-friendly Python book.
 
 ## Web Development
 
+- [Eloquent JavaScript](https://eloquentjavascript.net) - Modern introduction to JavaScript.
 - [HTML & CSS: Design and Build Websites](https://archive.org/details/html-css-design-and-build-websites) - By Jon Duckett.
-- [Eloquent JavaScript](https://eloquentjavascript.net/) - Modern introduction to JavaScript.
 - [You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS) - Deep dive into JavaScript concepts.

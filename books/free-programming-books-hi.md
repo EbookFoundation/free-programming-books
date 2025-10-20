@@ -74,4 +74,10 @@
 * [Python Notes \| Hindi](https://ehindistudy.com/2022/10/12/python-pdf-notes-hindi/) - Yugal Joshi (HTML) *( :construction: in process)*
 * [Python Tutorial in Hindi (Full Python Course) \| Hindi](https://www.tutorialinhindi.com/wp-content/uploads/2022/01/Python-Tutorial-in-Hindi-Full-Python-Course-FREE-PDF.pdf) - TutorialInHindi.com (PDF)
 
+### R Programming / Data Science
+
+* [R Programming in Hindi | TutorialsPoint](https://www.tutorialspoint.com/r_programming_in_hindi) - TutorialsPoint (HTML) – Basics of R, data manipulation, and visualization
+* [R Programming Hindi PDFs | Educational Sites](https://www.google.com/search?q=R+programming+in+Hindi+PDF) - Various Sources (PDF) – Free Hindi PDFs on R programming and data science concepts
+
+
 

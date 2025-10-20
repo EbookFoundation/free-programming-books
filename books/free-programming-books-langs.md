@@ -252,24 +252,24 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Agda
 
-* [Agda Tutorial](http://people.inf.elte.hu/divip/AgdaTutorial/Index.html)
+* [Agda Tutorial](https://people.inf.elte.hu/divip/AgdaTutorial/Index.html)
 * [Programming Language Foundations in Agda](https://plfa.github.io) - Philip Wadler, Wen Kokke
 
 
 ### Alef
 
-* [Alef Language Reference Manual](http://doc.cat-v.org/plan_9/2nd_edition/papers/alef/ref)
+* [Alef Language Reference Manual](https://doc.cat-v.org/plan_9/2nd_edition/papers/alef/ref)
 
 
 ### Android
 
 * [Android Notes for Professionals](https://goalkicker.com/AndroidBook) - Compiled from StackOverflow Documentation (PDF)
 * [Android Programming Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/android) ([PDF](https://www.syncfusion.com/Account/Logon?ReturnUrl=%2fresources%2ftechportal%2febooks%2fandroid), [Kindle](https://www.syncfusion.com/Account/Logon?ReturnUrl=%2fresources%2ftechportal%2febooks%2fandroid)) (email address *requested*, not required)
-* [Android Tutorial](http://www.tutorialspoint.com/android/) - Tutorials Point (HTML, PDF)
+* [Android Tutorial](https://www.tutorialspoint.com/android/) - Tutorials Point (HTML, PDF)
 * [Codelabs for Advanced Android Development](https://developer.android.com/courses/advanced-training/toc)
 * [CodePath Android Cliffnotes](https://github.com/codepath/android_guides/wiki)
 * [Essential Android](https://www.programming-books.io/essential/android/) - Krzysztof Kowalczyk, StackOverflow Contributors
-* [Expert Android and Eclipse development knowledge](http://www.vogella.com/tutorials/android.html)
+* [Expert Android and Eclipse development knowledge](https://www.vogella.com/tutorials/android.html)
 * [Google Android Developer Training](https://developer.android.com/guide)
 * [Styling Android](https://blog.stylingandroid.com)
 * [The Busy Coder's Guide to Android Development](https://commonsware.com/Android/4-2-free) (PDF - older versions)
@@ -278,9 +278,9 @@ Books on general-purpose programming that don't focus on a specific language are
 ### APL
 
 * [APL2 at a glance](https://ia801009.us.archive.org/28/items/apl-2-at-a-glance-brown-pakin-polivka/APL2_at_a_Glance_-_Brown_Pakin_Polivka.pdf) - James A. Brown, Sandra Pakin, Raymond P. Polivka - 1988 (PDF)
-* [Introduction to College Mathematics with A Programming Language (1978)](http://www.softwarepreservation.org/projects/apl/Books/CollegeMathematicswithAPL) - E. J. LeCuyer (PDF)
+* [Introduction to College Mathematics with A Programming Language (1978)](https://www.softwarepreservation.org/projects/apl/Books/CollegeMathematicswithAPL) - E. J. LeCuyer (PDF)
 * [Learning APL](https://xpqz.github.io/learnapl) - Stefan Kruger (HTML,PDF,IPYNB)
-* [Mastering Dyalog APL](http://www.dyalog.com/mastering-dyalog-apl.htm) (PDF, HTML, IPYNB) *( :construction: in process)*
+* [Mastering Dyalog APL](https://www.dyalog.com/mastering-dyalog-apl.htm) (PDF, HTML, IPYNB) *( :construction: in process)*
 * [Reinforcement Learning From The Ground Up](https://romilly.github.io/o-x-o) - Romilly Cocking (PDF, HTML, IPYNB) *( :construction: in process)*
 
 
@@ -299,7 +299,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Getting started with Arduino – A Beginner’s Guide](http://manuals.makeuseof.com.s3.amazonaws.com/for-mobile/Arduino_-_MakeUseOf.com.pdf) - Brad Kendall (PDF)
 * [Getting Started with Arduino products](https://www.arduino.cc/en/Guide) - Official Arduino Documentation *( :construction: in process)*
 * [Introduction to Arduino](http://playground.arduino.cc/Main/ManualsAndCurriculum)
-* [Introduction to Arduino : A piece of cake!](http://www.introtoarduino.com) - Alan G. Smith
+* [Introduction to Arduino : A piece of cake!](https://www.introtoarduino.com) - Alan G. Smith
 * [Learn Arduino](https://riptutorial.com/Download/arduino.pdf) - Compiled from StackOverflow documentation (PDF) (CC BY-SA)
 * [Open softwear - Fashionable prototyping and wearable computing using the Arduino](https://softwear.cc/book/files/Open_Softwear-beta090712.pdf) - Tony Olsson, David Gaetano, Jonas Odhner, Samson Wiklund (PDF) (CC BY-NC-ND)
 * [Science, Programming, Art and Radioelectronics Club (SPARC)](https://github.com/artyom-poptsov/SPARC) - Artyom V. Poptsov (PDF) (CC BY-SA)
@@ -334,12 +334,12 @@ Books on general-purpose programming that don't focus on a specific language are
 
 * [A fundamental introduction to x86 assembly programming](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming) - Project Nayuki (HTML)
 * [ARM Assembly Language Programming](http://www.rigwit.co.uk/ARMBook/ARMBook.pdf) - Peter Knaggs (PDF) *( :construction: in process)*
-* [Assemblers And Loaders (1993)](http://www.davidsalomon.name/assem.advertis/asl.pdf) - David Salomon (PDF)
+* [Assemblers And Loaders (1993)](https://www.davidsalomon.name/assem.advertis/asl.pdf) - David Salomon (PDF)
 * [Assembly Language Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/assemblylanguage) - Christopher Rose, Syncfusion Inc. (HTML, PDF, EPUB, Kindle)
-* [PC Assembly Language](http://pacman128.github.io/pcasm/) - P. A. Carter (CC BY-NC-SA)
+* [PC Assembly Language](https://pacman128.github.io/pcasm/) - P. A. Carter (CC BY-NC-SA)
 * [Programming from the Ground Up](https://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf) - Jonathan Bartlett (PDF) (GFDL)
-* [Ralf Brown's Interrupt List](http://www.ctyme.com/rbrown.htm)
-* [Software optimization resources](http://www.agner.org/optimize/) - A. Fog
+* [Ralf Brown's Interrupt List](https://www.ctyme.com/rbrown.htm)
+* [Software optimization resources](https://www.agner.org/optimize/) - A. Fog
 * [The Art of Assembly Language (2003)](https://web.archive.org/web/20120525102637/http://maven.smith.edu/~thiebaut/ArtOfAssembly/artofasm.html) - Randall Hyde (PDF) *( :card_file_box: archived)*
 * [The Grain Docs](https://grain-lang.org/docs/)
 * [WebAssembly friendly programming with C/C++](https://github.com/3dgen/cppwasm-book/tree/master/en) - Ending, Chai Shushan, Yushih (HTML, [:package: examples](https://github.com/3dgen/cppwasm-book/tree/master/examples))
@@ -352,16 +352,16 @@ Books on general-purpose programming that don't focus on a specific language are
 #### Non-X86
 
 * [Beginners Introduction to the Assembly Language of ATMEL-AVR-Microprocessors](https://kitsandparts.com/tutorials/assemblers/BeginnersAVRasm.pdf) - Gerhard Schmidt (PDF)
-* [Easy 6502](http://skilldrick.github.io/easy6502/) - Nick Morgan
+* [Easy 6502](https://skilldrick.github.io/easy6502/) - Nick Morgan
 * [Machine Language for Beginners](https://archive.org/details/ataribooks-machine-language-for-beginners) - Richard Mansfield
 * [MIPS Assembly Language Programming Using QtSpim](http://www.egr.unlv.edu/~ed/MIPStextSMv11.pdf) - Ed Jorgensen (PDF)
-* [Programmed Introduction to MIPS Assembly Language](http://chortle.ccsu.edu/AssemblyTutorial/index.html) (CC BY-NC)
-* [The Second Book of Machine Language](http://www.atariarchives.org/2bml/)
+* [Programmed Introduction to MIPS Assembly Language](https://chortle.ccsu.edu/AssemblyTutorial/index.html) (CC BY-NC)
+* [The Second Book of Machine Language](https://www.atariarchives.org/2bml/)
 
 
 ### AutoHotkey
 
-* [AHKbook - the book for AutoHotkey](http://ahkscript.github.io/ahkbook/index.html)
+* [AHKbook - the book for AutoHotkey](https://ahkscript.github.io/ahkbook/index.html)
 * [AutoHotkey Official Documentation](https://autohotkey.com/docs/AutoHotkey.htm) ([CHM](https://autohotkey.com/download/1.1/AutoHotkeyHelp.zip))
 
 
@@ -373,7 +373,7 @@ Books on general-purpose programming that don't focus on a specific language are
 ### Autotools
 
 * [Autotools Mythbuster](https://autotools.io/index.html)
-* [GNU Autoconf, Automake and Libtool](http://sourceware.org/autobook/)
+* [GNU Autoconf, Automake and Libtool](https://sourceware.org/autobook/)
 
 
 ### Awk
@@ -386,19 +386,19 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Bash
 
-* [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) - M. Cooper (HTML)
-* [Bash Guide for Beginners (2008)](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/) - M. Garrels (HTML)
-* [Bash Notes for Professionals](http://goalkicker.com/BashBook/) - Compiled from StackOverflow documentation (PDF)
-* [BASH Programming (2000)](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html) - Mike G. (HTML)
+* [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/) - M. Cooper (HTML)
+* [Bash Guide for Beginners (2008)](https://www.tldp.org/LDP/Bash-Beginners-Guide/html/) - M. Garrels (HTML)
+* [Bash Notes for Professionals](https://goalkicker.com/BashBook/) - Compiled from StackOverflow documentation (PDF)
+* [BASH Programming (2000)](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html) - Mike G. (HTML)
 * [Bash Reference Manual](http://www.gnu.org/software/bash/manual/bashref.html) (HTML)
 * [Bash tutorial](https://web.archive.org/web/20180328183806/http://gdrcorelec.ups-tlse.fr/files/bash.pdf) - Anthony Scemama (PDF) *( :card_file_box: archived)*
-* [BashGuide](http://mywiki.wooledge.org/BashGuide) - Maarten Billemont (HTML) [(PDF)](http://s.ntnu.no/bashguide.pdf)
+* [BashGuide](https://mywiki.wooledge.org/BashGuide) - Maarten Billemont (HTML) [(PDF)](http://s.ntnu.no/bashguide.pdf)
 * [Command line text processing with GNU Coreutils](https://learnbyexample.github.io/cli_text_processing_coreutils/) - Sundeep Agarwal
 * [Computing from the Command Line](https://learnbyexample.github.io/cli-computing/) - Sundeep Agarwal
 * [Conquer the Command Line](https://www.mclibre.org/descargar/docs/revistas/magpi-books/the-magpi-essentials-bash-02-en-201902.pdf) - Richard Smedley (PDF)
 * [Conquering the Command Line](https://www.softcover.io/read/fc6c09de/unix_commands) - Mark Bates (HTML)
 * [Essential Bash](https://www.programming-books.io/essential/bash/) - Krzysztof Kowalczyk, StackOverflow Contributors
-* [Getting Started with BASH](http://www.hypexr.org/bash_tutorial.php) (HTML)
+* [Getting Started with BASH](https://www.hypexr.org/bash_tutorial.php) (HTML)
 * [GNU Bash manual](https://www.gnu.org/software/bash/manual/bash.pdf) (PDF)
 * [Google Shell Style Guide](https://google.github.io/styleguide/shell.xml) - Paul Armstrong (HTML)
 * [Introduction to Bash Scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Bobby Iliev (Markdown, PDF)
@@ -406,24 +406,24 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Linux Shell Scripting Tutorial - A Beginner's Handbook (2002)](http://www.freeos.com/guides/lsst/) - Vivek G. Gite (HTML)
 * [Linux Shell Scripting Tutorial (LSST) v2.0](https://bash.cyberciti.biz/guide/Main_Page) - Vivek Gite (HTML)
 * [Linux Shell Scripting With Bash](https://archive.org/download/B-001-002-839/LinuxShellScriptingWithBash-Sams.pdf) - Ken O. Burtch (PDF)
-* [Slackbook (2005)](http://slackbook.org) - Alan Hicks, Chris Lumens, David Cantrell, Logan Johnson (HTML, DocBook, Postscript, PDF)
-* [The Bash Academy](http://guide.bash.academy) - Maarten Billemont (HTML)
-* [The Linux Command Line](http://linuxcommand.org/tlcl.php) - William E. Shotts Jr. (PDF) (CC BY-NC-ND)
+* [Slackbook (2005)](https://slackbook.org) - Alan Hicks, Chris Lumens, David Cantrell, Logan Johnson (HTML, DocBook, Postscript, PDF)
+* [The Bash Academy](https://guide.bash.academy) - Maarten Billemont (HTML)
+* [The Linux Command Line](https://linuxcommand.org/tlcl.php) - William E. Shotts Jr. (PDF) (CC BY-NC-ND)
 * [The Shell Scripting Tutorial](https://www.shellscript.sh) - Steve Parker (HTML)
-* [Writing Shell Scripts](http://linuxcommand.org/lc3_writing_shell_scripts.php) - William E. Shotts Jr. (HTML)
+* [Writing Shell Scripts](https://linuxcommand.org/lc3_writing_shell_scripts.php) - William E. Shotts Jr. (HTML)
 
 
 ### Basic
 
-* [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](http://10print.org) - Nick Montfort, Patsy Baudoin, John Bell, Ian Bogost, Jeremy Douglass, Mark C. Marino, Michael Mateas, Casey Reas, Mark Sample, Noah Vawter
-* [A beginner's guide to Gambas](http://distro.ibiblio.org/vectorlinux/Uelsk8s/GAMBAS/gambas-beginner-guide.pdf) - John W. Rittinghouse (PDF)
+* [10 PRINT CHR$(205.5+RND(1)); : GOTO 10](https://10print.org) - Nick Montfort, Patsy Baudoin, John Bell, Ian Bogost, Jeremy Douglass, Mark C. Marino, Michael Mateas, Casey Reas, Mark Sample, Noah Vawter
+* [A beginner's guide to Gambas](https://distro.ibiblio.org/vectorlinux/Uelsk8s/GAMBAS/gambas-beginner-guide.pdf) - John W. Rittinghouse (PDF)
 * [Pick/Basic: A Programmer's Guide](https://web.archive.org/web/20240302002321/http://www.jes.com/) - Jonathan E. Sisk *( :card_file_box: archived)*
 
 
 ### BeanShell
 
-* [Beanshell Simple Java Scripting Manual](http://www.beanshell.org/manual/bshmanual.pdf) - beanshell.org (PDF)
-* [BeanShell User's Manual](http://www.beanshell.org/manual/bshmanual.html) - beanshell.org (HTML)
+* [Beanshell Simple Java Scripting Manual](https://www.beanshell.org/manual/bshmanual.pdf) - beanshell.org (PDF)
+* [BeanShell User's Manual](https://www.beanshell.org/manual/bshmanual.html) - beanshell.org (HTML)
 
 
 ### BETA
@@ -440,13 +440,13 @@ Books on general-purpose programming that don't focus on a specific language are
 * [256-Color VGA Programming in C](http://www.brackeen.com/vga/) - David Brackeen
 * [A Tutorial on Pointers and Arrays in C](https://web.archive.org/web/20180827131006/http://home.earthlink.net/~momotuk/pointers.pdf) - Ted Jensen (PDF) *( :card_file_box: archived)*
 * [Algorithms Design (in C)](https://www.ime.usp.br/~pf/algorithms/) - Paulo Feofiloff (HTML)
-* [Bare-metal programming for ARM](https://github.com/umanovskis/baremetal-arm) - Daniels Umanovskis [(PDF)](http://umanovskis.se/files/arm-baremetal-ebook.pdf)
-* [Beej's Guide to C Programming](http://beej.us/guide/bgc/) - Brian "Beej Jorgensen" Hall (HTML, PDF) (CC BY-NC-ND)
-* [Beej's Guide to the GNU Debugger (GDB)](http://beej.us/guide/bggdb/) - Brian "Beej Jorgensen" Hall (HTML) (CC BY-NC-ND)
+* [Bare-metal programming for ARM](https://github.com/umanovskis/baremetal-arm) - Daniels Umanovskis [(PDF)](https://umanovskis.se/files/arm-baremetal-ebook.pdf)
+* [Beej's Guide to C Programming](https://beej.us/guide/bgc/) - Brian "Beej Jorgensen" Hall (HTML, PDF) (CC BY-NC-ND)
+* [Beej's Guide to the GNU Debugger (GDB)](https://beej.us/guide/bggdb/) - Brian "Beej Jorgensen" Hall (HTML) (CC BY-NC-ND)
 * [Build Your Own Lisp](http://www.buildyourownlisp.com) - Daniel Holden
 * [Build Your Own Redis with C/C++](https://build-your-own.org) - build-your-own.org (HTML) ( :construction: *in process*)
 * [C Elements of Style](http://www.oualline.com/books.free/style/) - Steve Oualline
-* [C for Python Programmers](http://www.cburch.com/books/cpy/) - Carl Burch
+* [C for Python Programmers](https://www.cburch.com/books/cpy/) - Carl Burch
 * [C Handbook](https://thevalleyofcode.com/c/) - Flavio Copes (HTML, PDF)
 * [C Internals](https://www.avabodh.com/cin/cin.html) - Rajeev Kumar (HTML)
 * [C Notes for Professionals](https://goalkicker.com/CBook) - Compiled from StackOverflow Documentation (PDF)
@@ -454,10 +454,10 @@ Books on general-purpose programming that don't focus on a specific language are
 * [C Programming Boot Camp - Paul Gribble](https://gribblelab.org/teaching/CBootCamp/)
 * [C Programming Tutorial](https://www.tutorialspoint.com/cprogramming/) - Tutorials Point (HTML, PDF)
 * [Coursebook](https://github.com/illinois-cs241/coursebook) - B. Venkatesh, L. Angrave, et al.
-* [Deep C](http://www.slideshare.net/olvemaudal/deep-c)
+* [Deep C](https://www.slideshare.net/olvemaudal/deep-c)
 * [Essential C](http://cslibrary.stanford.edu/101/EssentialC.pdf) - Nick Parlante (PDF)
 * [Essential C](https://www.programming-books.io/essential/c/) - Krzysztof Kowalczyk, StackOverflow Contributors
-* [Everything you need to know about pointers in C - Peter Hosey](http://boredzo.org/pointers/)
+* [Everything you need to know about pointers in C ](https://boredzo.org/pointers/) - Peter Hosey (HTML)
 * [Functional C (1997)](https://research.utwente.nl/files/5128727/book.pdf) - Pieter H. Hartel, Henk Muller (PDF)
 * [Hashing](https://www.smashwords.com/books/view/737188) - Prakash Hegade
 * [Introduction to Programming and Data Structures in C](https://codeahoy.com/learn/cprogramming/toc/) - CodeAhoy (HTML)
@@ -471,14 +471,14 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Programming in C](https://www.freetechbooks.com/programming-in-c-t1337.html) - Kishori Mundargi
 * [Structures and C](https://www.smashwords.com/books/view/644937) - Prakash Hegade
 * [The Basics of C Programming](https://www.phys.uconn.edu/~rozman/Courses/P2200_13F/downloads/TheBasicsofCProgramming-draft-20131030.pdf) - Marshall Brain (PDF)
-* [The C book](http://publications.gbdirect.co.uk/c_book/) - Mike Banahan, Declan Brady, Mark Doran (PDF, HTML)
+* [The C book](https://publications.gbdirect.co.uk/c_book/) - Mike Banahan, Declan Brady, Mark Doran (PDF, HTML)
 * [The C Programming Language Handbook](https://flaviocopes.com/page/c-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
 * [The Current C Programming Language Standard – ISO/IEC 9899:2018 (C17/C18), Draft](https://web.archive.org/web/20181230041359/http://www.open-std.org/jtc1/sc22/wg14/www/abq/c17_updated_proposed_fdis.pdf) - Open Standards Org - www.open-std.org (PDF) *( :card_file_box: archived)*
 * [The GNU C Programming Tutorial](http://www.crasseux.com/books/ctut.pdf) - Mark Burgess, Ron Hale-Evans (PDF)
 * [The GNU C Reference Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html) - Trevis Rothwell, James Youngman (HTML) [(PDF)](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.pdf)
-* [The little book about OS development](http://littleosbook.github.io) - Erik Helin, Adam Renberg
+* [The little book about OS development](https://littleosbook.github.io) - Erik Helin, Adam Renberg
 * [The New C Standard - An Economic and Cultural commentary (2009)](http://www.knosof.co.uk/cbook/cbook.html) - Derek M. Jones (PDF)
-* [TONC GBA Programming - Game Boy Advance Development](http://www.coranac.com/tonc/text/toc.htm)
+* [TONC GBA Programming - Game Boy Advance Development](https://www.coranac.com/tonc/text/toc.htm)
 
 
 ### <a id="csharp"></a>C\#

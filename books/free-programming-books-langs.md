@@ -1,4 +1,4 @@
-﻿## BY PROGRAMMING LANGUAGE
+## BY PROGRAMMING LANGUAGE
 
 Originally, this list included a section called "Language Agnostic" for books about programming subjects not restricted to a specific programming language.
 That section got so big, we decided to split it into its own file, the [BY SUBJECT file](free-programming-books-subjects.md).
@@ -240,14 +240,14 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Ada
 
-* [A Guide to Ada for C and C++ Programmers](http://www.cs.uni.edu/~mccormic/4740/guide-c2ada.pdf) (PDF)
-* [Ada Distilled](http://www.adapower.com/pdfs/AdaDistilled07-27-2003.pdf) (PDF)
+* [A Guide to Ada for C and C++ Programmers](https://www.cs.uni.edu/~mccormic/4740/guide-c2ada.pdf) - Simon Johnston (PDF)
+* [Ada Distilled](http://www.adapower.com/pdfs/AdaDistilled07-27-2003.pdf) - Richard Riehle (PDF)
 * [Ada for the C++ or Java Developer](https://www.adacore.com/uploads/books/pdf/Ada_for_the_C_or_Java_Developer-cc.pdf) - Quentin Ochem (PDF) (CC BY-NC-SA)
 * [Ada Programming](https://en.wikibooks.org/wiki/Ada_Programming) - Wikibooks
 * [Ada Reference Manual - ISO/IEC 8652:2012(E) Language and Standard Libraries](http://www.ada-auth.org/standards/12rm/RM-Final.pdf) (PDF)
-* [Introduction To Ada](https://learn.adacore.com/courses/intro-to-ada/index.html)
-* [Introduction To SPARK](https://learn.adacore.com/courses/SPARK_for_the_MISRA_C_Developer/index.html)
-* [The Big Online Book of Linux Ada Programming](http://www.pegasoft.ca/resources/boblap/book.html)
+* [Introduction To Ada](https://learn.adacore.com/courses/intro-to-ada/index.html) - Raphaël Amiard, Gustavo A. Hoffmann (HTML, PDF, EPUB)
+* [Introduction To SPARK](https://learn.adacore.com/courses/SPARK_for_the_MISRA_C_Developer/index.html) - Yannick Moy, Ben Brosgol (HTML, PDF, EPUB)
+* [The Big Online Book of Linux Ada Programming](https://www.pegasoft.ca/resources/boblap/book.html) - Ken O. Burtch (HTML)
 
 
 ### Agda
@@ -293,14 +293,14 @@ Books on general-purpose programming that don't focus on a specific language are
 ### Arduino
 
 * [Arduino-docs : A beginner's guide](https://arduino-doc.readthedocs.io/en/latest/) - Paramesh Chandra (HTML)
-* [Arduino Programming Notebook](https://unglue.it/work/152452) - Brian Evans (PDF) ( :card_file_box: *archived at unglue.it*)
+* [Arduino Programming Notebook](https://unglue.it/work/152452) - Brian Evans (PDF) ( :card_file_box: *archived at unglue.it*) (CC BY-NC-SA)
 * [Arduino Projects Book](https://www.eitkw.com/wp-content/uploads/2020/03/Arduino_Projects_Book.pdf) - Scott Fitzgerald and Michael Shiloh (PDF)
 * [Arduino Tips, Tricks, and Techniques](https://cdn-learn.adafruit.com/downloads/pdf/arduino-tips-tricks-and-techniques.pdf) - lady ada (PDF)
 * [Getting started with Arduino – A Beginner’s Guide](http://manuals.makeuseof.com.s3.amazonaws.com/for-mobile/Arduino_-_MakeUseOf.com.pdf) - Brad Kendall (PDF)
 * [Getting Started with Arduino products](https://www.arduino.cc/en/Guide) - Official Arduino Documentation *( :construction: in process)*
 * [Introduction to Arduino](http://playground.arduino.cc/Main/ManualsAndCurriculum)
 * [Introduction to Arduino : A piece of cake!](http://www.introtoarduino.com) - Alan G. Smith
-* [Learn Arduino](https://riptutorial.com/Download/arduino.pdf) - Compiled from StackOverflow documentation (PDF)
+* [Learn Arduino](https://riptutorial.com/Download/arduino.pdf) - Compiled from StackOverflow documentation (PDF) (CC BY-SA)
 * [Open softwear - Fashionable prototyping and wearable computing using the Arduino](https://softwear.cc/book/files/Open_Softwear-beta090712.pdf) - Tony Olsson, David Gaetano, Jonas Odhner, Samson Wiklund (PDF) (CC BY-NC-ND)
 * [Science, Programming, Art and Radioelectronics Club (SPARC)](https://github.com/artyom-poptsov/SPARC) - Artyom V. Poptsov (PDF) (CC BY-SA)
 
@@ -623,6 +623,7 @@ Books on general-purpose programming that don't focus on a specific language are
 ### ColdFusion
 
 * [CFML In 100 Minutes](https://github.com/mhenke/CFML-in-100-minutes/blob/master/cfml100mins.markdown) - J. Casimir
+* [ColdFusion Programming](https://en.wikibooks.org/wiki/ColdFusion_Programming) - Wikibooks *( :construction: in process)*
 * [Learn CF in a Week](http://learncfinaweek.com)
 * [Learn Modern ColdFusion \<CFML\> in 100+ Minutes](https://modern-cfml.ortusbooks.com) - Luis Majano (HTML)
 * [Learning coldfusion](https://riptutorial.com/Download/coldfusion.pdf) - Compiled from StackOverflow documentation (PDF)
@@ -1081,7 +1082,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Learn Java for FTC](https://github.com/alan412/LearnJavaForFTC) - Alan Smith (PDF)
 * [Learning Java Language](https://riptutorial.com/Download/java-language.pdf) - Compiled from StackOverflow Documentation (PDF)
 * [Microservices Best Practices for Java](https://www.redbooks.ibm.com/redbooks/pdfs/sg248357.pdf) (PDF)
-* [Object-Oriented Programming in JavaTM Textbook](http://computing.southern.edu/halterman/OOPJ/) - Rick Halterman (PDF per Chapter)
 * [OOP - Learn Object Oriented Thinking & Programming](http://pub.bruckner.cz/titles/oop) - Rudolf Pecinovsky (PDF)
 * [Open Data Structures (in Java)](http://opendatastructures.org/ods-java.pdf) - Pat Morin (PDF) (CC BY)
 * [Playing with Java Microservices on Kubernetes and OpenShift](https://leanpub.com/playing-with-java-microservices-on-k8s-and-ocp) - Nebrass Lamouchi
@@ -1880,6 +1880,7 @@ Books on general-purpose programming that don't focus on a specific language are
 #### Yii
 
 * [The Definitive Guide to Yii 2.0](https://www.yiiframework.com/doc/download/yii-guide-2.0-en.pdf) - Yii Software (PDF)
+* [The Yii Book](https://github.com/LarryUllman/yiibook2/blob/main/e-books/yiibook2.pdf) - Larry Ullman (PDF)
 
 
 #### Zend
@@ -2370,6 +2371,8 @@ Books on general-purpose programming that don't focus on a specific language are
 
 
 ### Sage
+
+* [Sage](https://en.wikibooks.org/wiki/Sage) - Wikibooks *( :construction: in process)*
 
 * [Sage for Power Users](http://wstein.org/books/sagebook/sagebook.pdf) - William Stein (PDF)
 * [The Sage Manuals](http://www.sagemath.org/doc/)

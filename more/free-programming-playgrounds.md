@@ -121,7 +121,6 @@
 
 ### ClojureScript
 
-* [Replumb REPL](https://clojurescript.io)
 * [Web REPL](http://clojurescript.net)
 
 
@@ -218,10 +217,12 @@
 
 ### Java
 
+* [Ada Face](https://www.adaface.com/online-compiler/online-java-compiler)
 * [InterviewBit - Online Java Compiler IDE](https://www.interviewbit.com/online-java-compiler/)
 * [Java Compiler](https://www.codinguru.online/compiler/java)
 * [JDoodle - Online Java Compiler Advanced IDE](https://www.jdoodle.com/online-java-compiler-ide/)
 * [JDoodle - Online Java Compiler IDE](https://www.jdoodle.com/online-java-compiler/)
+* [NextLeap](https://nextleap.app/online-compiler/java-programming)
 * [OneCompiler](https://onecompiler.com/java)
 * [Online Java Playground](https://labex.io/tutorials/java-online-java-playground-372914)
 * [OnlineGDB](https://www.onlinegdb.com/online_java_compiler)
@@ -391,7 +392,10 @@
 
 ### Rust
 
+* [Codapi](https://codapi.org/rust)
+* [Rust Explorer](https://www.rustexplorer.com)
 * [Rust Playground](https://play.rust-lang.org)
+* [Rustfinity](https://www.rustfinity.com/playground)
 
 
 ### RxJS

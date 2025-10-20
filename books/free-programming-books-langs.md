@@ -697,6 +697,7 @@ Books on general-purpose programming that don't focus on a specific language are
 ### DTrace
 
 * [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html)
+* [Solaris Dynamic Tracing Guide](https://docs.oracle.com/cd/E18752_01/pdf/817-6223.pdf) - Oracle (PDF)
 
 
 ### Eiffel

@@ -1,6 +1,4 @@
-
 # Free Programming Books (PDF, English)
-
 
 ## Index
 

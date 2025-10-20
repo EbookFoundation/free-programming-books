@@ -74,4 +74,10 @@
 * [Python Notes \| Hindi](https://ehindistudy.com/2022/10/12/python-pdf-notes-hindi/) - Yugal Joshi (HTML) *( :construction: in process)*
 * [Python Tutorial in Hindi (Full Python Course) \| Hindi](https://www.tutorialinhindi.com/wp-content/uploads/2022/01/Python-Tutorial-in-Hindi-Full-Python-Course-FREE-PDF.pdf) - TutorialInHindi.com (PDF)
 
+### Machine Learning
+
+* [Machine Learning in Hindi | TutorialsPoint](https://www.tutorialspoint.com/machine_learning_in_hindi) - TutorialsPoint (HTML) – Covers basics of ML, algorithms, and data modeling
+* [Machine Learning Hindi PDFs | Educational Sites](https://www.google.com/search?q=machine+learning+in+hindi+PDF) - Various Sources (PDF) – Free Hindi PDFs on machine learning concepts
+* [Machine Learning Full Course in Hindi | YouTube](https://www.youtube.com/results?search_query=machine+learning+in+hindi) - YouTube (Video) – Free full machine learning courses in Hindi
+
 

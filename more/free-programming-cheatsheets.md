@@ -202,7 +202,9 @@
 
 ### Jenkins 
 
-* [Jenkins Cheat Sheet](https://intellipaat.com/blog/tutorial/devops-tutorial/jenkins-cheat-sheet/) - Intellipaat (HTML)
+* [Jenkins CheatSheet](https://intellipaat.com/blog/tutorial/devops-tutorial/jenkins-cheat-sheet/) - Intellipaat (HTML)
+* [Jenkins CheatSheet](https://www.testautomationstudio.com/cheat-sheet/jenkins/jenkins-cheat-sheet/) - Test A (HTML)
+* [Jenkins CheatSheet – A Beginner’s Guide to Jenkins](https://www.edureka.co/blog/cheatsheets/jenkins-cheat-sheet/) - Miss zulekha (HTML)
 
 
 ### Kubernetes
@@ -215,7 +217,10 @@
 
 ### Puppet
 
-* [Puppet Cheat Sheet](https://intellipaat.com/blog/tutorial/devops-tutorial/puppet-cheat-sheet/) - Intellipaat (HTML)
+* [Puppet CheatSheet](https://cheatsheetshero.com/user/all/382-puppet-cheatsheet) - CSHero (HTML/PDF)
+* [Puppet CheatSheet](http://www.datadisk.co.uk/html_docs/puppet/puppet_cheatsheet.html) - DataDisk (HTML)
+* [Puppet CheatSheet](https://intellipaat.com/blog/tutorial/devops-tutorial/puppet-cheat-sheet/) - Intellipaat (HTML)
+* [Puppet CheatSheet](https://help.puppet.com/core/current/Content/PuppetCore/cheatsheet_module.htm) - Pahul (HTML)
 
 
 ### Git

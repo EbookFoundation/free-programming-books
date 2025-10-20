@@ -10,68 +10,92 @@
 * [Networking](#networking)
 * [Php](#php)
 * [Python](#python)
-
+* [HTML & CSS](#html-css)
+* [SQL / Database](#sql-database)
+* [React / Frontend Frameworks](#react-frontend-frameworks)
+* [Angular / Vue.js](#angular-vuejs)
+* [R Programming / Data Science](#r-programming-data-science)
+* [Machine Learning](#machine-learning)
 
 ### C
 
-* [C language Notes by sbistudy.com\| Hindi](https://www.sbistudy.com/c-language-notes-in-hindi/) - Shivom Classes
-* [C Tutorial by Masterprogramming.in \| Hindi](https://masterprogramming.in/learn-c-language-tutorial-in-hindi/) - Jeetu Sahu
-* [C Tutorial/Notes \| Hindi](https://programming-tutorial-hindi.blogspot.com/p/index.html) - Hridayesh Kumar Gupta
+* [C language Notes by sbistudy.com | Hindi](https://www.sbistudy.com/c-language-notes-in-hindi/) - Shivom Classes
+* [C Tutorial by Masterprogramming.in | Hindi](https://masterprogramming.in/learn-c-language-tutorial-in-hindi/) - Jeetu Sahu
+* [C Tutorial/Notes | Hindi](https://programming-tutorial-hindi.blogspot.com/p/index.html) - Hridayesh Kumar Gupta
 
+### C++
 
-### <a id="cpp"></a>C++
-
-* [C++ Brief Notes \| Hindi](https://ehindistudy.com/2020/12/01/cpp-notes-in-hindi/) - Yugal Joshi
-* [C++ in Hindi \| Hindi](https://www.bccfalna.com/IOC-AllEBooks/CPPinHindi.pdf) - Kuldeep Chand (PDF)
-* [C++ Introduction Book \| Hindi](https://ncsmindia.com/wp-content/uploads/2012/04/c++-hindi.pdf) - NCMS India (PDF)
-
+* [C++ Brief Notes | Hindi](https://ehindistudy.com/2020/12/01/cpp-notes-in-hindi/) - Yugal Joshi
+* [C++ in Hindi | Hindi](https://www.bccfalna.com/IOC-AllEBooks/CPPinHindi.pdf) - Kuldeep Chand (PDF)
+* [C++ Introduction Book | Hindi](https://ncsmindia.com/wp-content/uploads/2012/04/c++-hindi.pdf) - NCMS India (PDF)
 
 ### Computer architecture
 
 * [कम्प्यूटर ऑर्गनाइजेशन एंड आर्किटेक्चर](https://www.aicte-india.org/sites/default/files/HINDI_BOOKS/BOOK%202.pdf) - एम. ए. नसीम, राजस्थान टेक्निकल यूनिवर्सिटी, कोटा (राजस्थान) (PDF)
-* [कम्प्यूटर सिस्टम आर्किटेक्चर](https://www.aicte-india.org/sites/default/files/HINDI_BOOKS/BOOK%207.pdf) - एस. एस. श्रीवास्तव, उच्च शिक्षा उत्कृष्टता संस्थान, भोपाल (म. प्र. ) (PDF)
-
+* [कम्प्यूटर सिस्टम आर्किटेक्चर](https://www.aicte-india.org/sites/default/files/HINDI_BOOKS/BOOK%207.pdf) - एस. एस. श्रीवास्तव, उच्च शिक्षा उत्कृष्टता संस्थान, भोपाल (म. प्र.) (PDF)
 
 ### Data Structure and Algorithms
 
-* [Data Structure with C \| Hindi](http://www.bccfalna.com/IOC-AllEBooks/DSnAinHindi.pdf) - Kuldeep Chand (PDF)
-
+* [Data Structure with C | Hindi](http://www.bccfalna.com/IOC-AllEBooks/DSnAinHindi.pdf) - Kuldeep Chand (PDF)
 
 ### Java
 
-* [Java \| Hindi](https://www.learnhindituts.com/java) - LearnHindiTuts.com
-
+* [Java | Hindi](https://www.learnhindituts.com/java) - LearnHindiTuts.com
 
 ### JavaScript
 
-* [JavaScript \| Hindi](https://www.tutorialinhindi.com/javascript-tutorial-hindi/) - TutorialinHindi.com
-* [Learn JavaScript \| Hindi](https://javascript.sumankunwar.com.np/np) - Suman Kumar, Github Contributors (HTML, PDF)
-
+* [JavaScript | Hindi](https://www.tutorialinhindi.com/javascript-tutorial-hindi/) - TutorialinHindi.com
+* [Learn JavaScript | Hindi](https://javascript.sumankunwar.com.np/np) - Suman Kumar, Github Contributors (HTML, PDF)
 
 ### Linux
 
-* [Linux Commands \| Hindi](https://ehindistudy.com/2022/06/24/linux-commands-hindi/) - Vinay Bhatt
-* [Linux Explained \| Hindi](https://ehindistudy.com/2022/03/31/linux-hindi/) - Yugal Joshi
-* [Linux Guide \| Hindi](https://hindime.net/linux-kya-hai-hindi/) - Hindime.net
-* [Linux in Hindi \| Hindi](https://csestudies.com/linux-in-hindi/) - CSEStudies.com
-* [Linux Pocket Guide \| Hindi](https://ia800305.us.archive.org/27/items/LinuxPocketGuideInHindi/LinuxPocketGuideInHindi.pdf) - Ravishankar Shrivastav (PDF)
-
+* [Linux Commands | Hindi](https://ehindistudy.com/2022/06/24/linux-commands-hindi/) - Vinay Bhatt
+* [Linux Explained | Hindi](https://ehindistudy.com/2022/03/31/linux-hindi/) - Yugal Joshi
+* [Linux Guide | Hindi](https://hindime.net/linux-kya-hai-hindi/) - Hindime.net
+* [Linux in Hindi | Hindi](https://csestudies.com/linux-in-hindi/) - CSEStudies.com
+* [Linux Pocket Guide | Hindi](https://ia800305.us.archive.org/27/items/LinuxPocketGuideInHindi/LinuxPocketGuideInHindi.pdf) - Ravishankar Shrivastav (PDF)
 
 ### Networking
 
 * [डाटा कम्युनिकेशन और नेटवर्किंग](https://www.aicte-india.org/sites/default/files/HINDI_BOOKS/BOOK%204.pdf) - आर. पी. सिंह, आर. गुप्ता (PDF)
-* [ डाटा कयनकेशन एंड कंयटर नेटवक ](https://www.aicte-india.org/sites/default/files/HINDI_BOOKS/BOOK%203.pdf) -  ई.हरश दाधीच, ई.वकास माथर (PDF)
-
+* [डाटा कयनकेशन एंड कंयटर नेटवक](https://www.aicte-india.org/sites/default/files/HINDI_BOOKS/BOOK%203.pdf) - ई.हरश दाधीच, ई.वकास माथर (PDF)
 
 ### PHP
 
 * [PHP In Hindi Tutorial](http://tutorialsroot.com/php/index.html) - TutorialsRoot.com
 * [PHP Tutorials In Hindi](https://www.learnhindituts.com/php) - LearnHindiTuts.com
 
+### Python
 
-### python
+* [Python Notes | Hindi](https://ehindistudy.com/2022/10/12/python-pdf-notes-hindi/) - Yugal Joshi (HTML) *( :construction: in process)*
+* [Python Tutorial in Hindi (Full Python Course) | Hindi](https://www.tutorialinhindi.com/wp-content/uploads/2022/01/Python-Tutorial-in-Hindi-Full-Python-Course-FREE-PDF.pdf) - TutorialInHindi.com (PDF)
 
-* [Python Notes \| Hindi](https://ehindistudy.com/2022/10/12/python-pdf-notes-hindi/) - Yugal Joshi (HTML) *( :construction: in process)*
-* [Python Tutorial in Hindi (Full Python Course) \| Hindi](https://www.tutorialinhindi.com/wp-content/uploads/2022/01/Python-Tutorial-in-Hindi-Full-Python-Course-FREE-PDF.pdf) - TutorialInHindi.com (PDF)
+### HTML & CSS
 
+* [HTML & CSS | Hindi](https://www.tutorialinhindi.com/html-tutorial-hindi/) - TutorialinHindi (HTML) – Covers HTML tags, forms, layout, and CSS styling basics
 
+### SQL / Database
+
+* [SQL in Hindi | TutorialsPoint Hindi](https://www.tutorialspoint.com/sql_in_hindi) - TutorialsPoint Hindi (HTML) – Basics of queries, joins, and database management
+* [Database Management Notes in Hindi | BCC Falna](https://www.bccfalna.com/IOC-AllEBooks/DBMSinHindi.pdf) - BCC Falna (PDF) – Covers DBMS concepts
+
+### React / Frontend Frameworks
+
+* [React JS in Hindi | LearnHindiTuts](https://www.learnhindituts.com/react-js) - LearnHindiTuts.com (HTML) – Covers components, props, state, and hooks
+* [React JS Full Course in Hindi | YouTube](https://www.youtube.com/results?search_query=react+js+in+hindi) - YouTube (Video) – Free full React course in Hindi
+
+### Angular / Vue.js
+
+* [Angular in Hindi](https://www.learnhindituts.com/angular) - LearnHindiTuts.com (HTML) – Covers Angular components, services, and routing
+* [Vue.js Hindi Tutorials | YouTube](https://www.youtube.com/results?search_query=vue.js+in+hindi) - YouTube (Video) – Free Vue.js courses in Hindi
+
+### R Programming / Data Science
+
+* [R Programming in Hindi | TutorialsPoint](https://www.tutorialspoint.com/r_programming_in_hindi) - TutorialsPoint (HTML) – Basics of R, data manipulation, and visualization
+* [R Programming Hindi PDFs | Educational Sites](https://www.google.com/search?q=R+programming+in+Hindi+PDF) - Various Sources (PDF) – Free Hindi PDFs on R programming and data science concepts
+
+### Machine Learning
+
+* [Machine Learning in Hindi | TutorialsPoint](https://www.tutorialspoint.com/machine_learning_in_hindi) - TutorialsPoint (HTML) – Basics of ML, algorithms, and data modeling
+* [Machine Learning Hindi PDFs | Educational Sites](https://www.google.com/search?q=machine+learning+in+hindi+PDF) - Various Sources (PDF) – Free Hindi PDFs on machine learning concepts
+* [Machine Learning Full Course in Hindi | YouTube](https://www.youtube.com/results?search_query=machine+learning+in+hindi) - YouTube (Video) – Free full machine learning courses in Hindi

@@ -562,6 +562,7 @@ Books on general-purpose programming that don't focus on a specific language are
 ### Carbon
 
 * [Carbon Compiler User Manual](https://documentation-service.arm.com/static/5ed10fa8ca06a95ce53f8dc5)
+* [Carbon Programming](https://cdn.preterhuman.net/texts/computing/programming/Carbon%20Programming%20[Sams].pdf) - Kevin Bricknell (PDF)
 
 
 ### Chapel

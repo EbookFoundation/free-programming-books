@@ -73,5 +73,10 @@
 
 * [Python Notes \| Hindi](https://ehindistudy.com/2022/10/12/python-pdf-notes-hindi/) - Yugal Joshi (HTML) *( :construction: in process)*
 * [Python Tutorial in Hindi (Full Python Course) \| Hindi](https://www.tutorialinhindi.com/wp-content/uploads/2022/01/Python-Tutorial-in-Hindi-Full-Python-Course-FREE-PDF.pdf) - TutorialInHindi.com (PDF)
+* 
+### React / Frontend Frameworks
+
+* [React JS in Hindi | LearnHindiTuts](https://www.learnhindituts.com/react-js) - LearnHindiTuts.com (HTML) – Covers components, props, state, and hooks
+* [React JS Full Course in Hindi | YouTube](https://www.youtube.com/results?search_query=react+js+in+hindi) - YouTube (Video) – Free full React course in Hindi
 
 

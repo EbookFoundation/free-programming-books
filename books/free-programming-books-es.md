@@ -102,6 +102,7 @@
 
 * [Deep Learning](http://www.uhu.es/publicaciones/?q=libros&code=1252) - Isaac Pérez Borrero, Manuel E. Gegúndez Arias (PDF)
 * [Libro online de IAAR](https://iaarbook.github.io) - Raúl E. López Briega, IAAR (HTML)
+* [Inteligencia Artificial (Un Enfoque Moderno)](https://luismejias21.wordpress.com/wp-content/uploads/2017/09/inteligencia-artificial-un-enfoque-moderno-stuart-j-russell.pdf) - Stuart Rusell, Peter Norvig (PDF)
 
 
 #### Metodologías de desarrollo de software

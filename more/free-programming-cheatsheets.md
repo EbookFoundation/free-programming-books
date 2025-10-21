@@ -14,6 +14,7 @@
 * [Data Structures and Algorithms](#data-structures-and-algorithms)
 * [DevOps](#devops)
     * [Ansible](#ansible)
+    * [Bench CLI](#bench)
     * [Chef](#chef)
     * [Docker](#docker)
     * [Jenkins](#jenkins)
@@ -178,6 +179,14 @@
 * [How to Use Ansible: A Reference Guide](https://www.digitalocean.com/community/cheatsheets/how-to-use-ansible-cheat-sheet-guide) - DigitalOcean (HTML)
 
 
+### Bench
+
+* [Bench CLI Cheatsheet](https://frappeframework.com/files/Bench%20Cheatsheet%20v1.1.pdf) - Frappe (PDF)
+* [Bench Commands](https://docs.frappe.io/framework/v14/user/en/bench/bench-commands) - Frappe (HTML)
+* [Bench Reference](https://docs.frappe.io/framework/v14/user/en/bench/reference) - Frappe (HTML)
+* [Frappe Bench Commands](https://docs.frappe.io/framework/v14/user/en/bench/frappe-commands) - Frappe (HTML)
+
+
 ### Chef
 
 * [Chef Cheat Sheet](https://intellipaat.com/blog/tutorial/devops-tutorial/chef-cheat-sheet/) - Intellipaat (HTML)
@@ -250,6 +259,7 @@
 ### Go
 
 * [cht.sh Go Cheatsheet](https://cht.sh/go/:learn) (HTML)
+* [Go Backend Complete Cheat Sheet](https://github.com/SAYOUNCDR/Bha---Go-/blob/main/Readme.md) - Sayoun Parui (Markdown)
 * [Go Cheatsheet](https://devhints.io/go) - devhints, Rico Santa Cruz (HTML)
 * [Go Programming (Golang) Cheat Sheet](https://zerotomastery.io/cheatsheets/golang-cheat-sheet/) - ZeroToMastery (HTML)
 * [Golang Cheat Sheet](https://github.com/a8m/golang-cheat-sheet) - Ariel Mashraki (HTML)

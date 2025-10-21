@@ -290,3 +290,22 @@
 ### Windows
 
 * [뇌를 자극하는 윈도우즈 시스템 프로그래밍](https://www.youtube.com/playlist?list=PLVsNizTWUw7E2KrfnsyEjTqo-6uKiQoxc)
+
+
+---
+
+### AI & Translating Resources (Free PDFs & Online)
+
+* [Deep Learning Book (PDF)](http://www.deeplearningbook.org/) - Ian Goodfellow, Yoshua Bengio, Aaron Courville
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) - Free online book
+* [Fast.ai Practical Deep Learning](https://course.fast.ai/) - Free course + notebooks
+* [Google Translate API Guide](https://cloud.google.com/translate/docs) - Docs + tutorials
+* [Machine Translation Basics (PDF)](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/mt-tutorial.pdf) - Microsoft Research
+* [A Guide to Deep Learning for Natural Language Processing](https://www.cs.toronto.edu/~vmnih/docs/dl-nlp-tutorial.pdf) - Free PDF tutorial
+* [OpenNMT: Neural Machine Translation](https://opennmt.net/) - Open source framework + tutorials
+* [Hugging Face Transformers](https://huggingface.co/docs/transformers/index) - Free NLP models + docs
+* [Stanford CS224N: NLP with Deep Learning](http://web.stanford.edu/class/cs224n/) - Lecture slides & PDFs
+
+---
+
+

@@ -523,7 +523,6 @@
 
 ### Cuda
 
-* [CUDA Crash Course](https://www.youtube.com/playlist?list=PLxNPSjHT5qvtYRVdNN1yDcdSl39uHV_sU) - CoffeeBeforeArch
 * [CUDA Crash Course](https://www.youtube.com/playlist?list=PLxNPSjHT5qvtYRVdNN1yDcdSl39uHV_sU) - Nick
 * [CUDA Programming Course -- Parallel Computing using Nvidia GPUs](https://www.youtube.com/playlist?list=PL1ysOEBe5977vlocXuRt6KBCYu_sdu1Ru) - Learn Computer Science
 * [CUDA Programming Course – High-Performance Computing with GPUs](https://www.youtube.com/watch?v=86FAWCzIe_4&t=2s) - Elliot Arledge (FreeCodeCamp)

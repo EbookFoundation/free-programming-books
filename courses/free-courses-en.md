@@ -393,7 +393,6 @@
 * [Domain-Driven Refactoring - Jimmy Bogard - NDC London 2022](https://www.youtube.com/watch?v=f64tZ90Dntg) - Jimmy Bogard
 * [Foundational C# with Microsoft Certification](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft) - freeCodeCamp, Microsoft (HTML)
 * [Fundamentals of Programming: Understanding C#](https://www.udemy.com/course/understandingc/) - Jesse Dietrichson (Udemy)
-* [Learn C#](https://www.sololearn.com/learning/1080) - *registration required*
 * [Learn C#](https://www.codecademy.com/learn/learn-c-sharp) - Codecademy
 
 
@@ -423,7 +422,6 @@
 * [Introduction to C++](https://www.edx.org/course/introduction-to-c-3) - Microsoft (edX) ( :card_file_box: *archived*)
 * [Introduction to Programming through C++](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2qzihjdDEseWrrY1DyxH9P) - NPTEL
 * [Learn C++ With Me](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lmGC8VW0iu6qfMHjy7gLQ3) - Tech With Tim
-* [Sololearn C++](https://www.sololearn.com/learning/1051) - *registration required*
 
 
 ### Clojure
@@ -577,7 +575,6 @@
 * [Introduction to Data Science](https://www.simplilearn.com/data-science-free-course-for-beginners-skillup) - SkillUp by Simplilearn
 * [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) - Christopher Brooks (Coursera)
 * [Introduction to Data Science with python](https://www.edx.org/learn/data-science/harvard-university-introduction-to-data-science-with-python) - Pavlos Protopapas (edX HarvardX)
-* [Learn Data Science](https://www.sololearn.com/learning/1093) - *registration required*
 * [Learn Data Science Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=ua-CiDNNj30) - Barton Poulson (FreeCodeCamp.org)
 * [MIT's Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) - Eric Grimson, John Guttag, Ana Bell (MIT OpenCourseWare)
 * [More Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/moredataminingwithweka/)
@@ -623,7 +620,6 @@
 * [Introduction to Databases and SQL Querying](https://www.udemy.com/course/introduction-to-databases-and-sql-querying/) - Rakesh Gopalakrishnan (Udemy)
 * [Introduction to Distributed SQL and CockroachDB](https://university.cockroachlabs.com/courses/course-v1:crl+intro-to-distributed-sql-and-cockroachdb+self-paced/about) - Lauren Hirata Singh and Will Cross (Cockroach Labs Inc.) *(email address required)*
 * [Learn SQL](https://popsql.com/learn-sql) - PopSQL
-* [Learn SQL](https://www.sololearn.com/learning/1060) - *registration required*
 * [Learn SQL: SQL Tutorial for Beginners](https://www.programiz.com/sql) - Programiz
 * [MySQL for Developers](https://planetscale.com/learn/courses/mysql-for-developers/introduction/course-introduction) - Aaron Francis (PlanetScale)
 * [MySQL Playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVNMRWlVf0bDDSxNEn38u9Cl) - Krish Naik
@@ -991,7 +987,6 @@
 * [Java Tutorial for Complete Beginners](https://www.udemy.com/course/java-tutorial/) - John Purcell (Udemy)
 * [JSP (Java server pages) and servlet basics](https://www.udemy.com/course/jsp-servlet-free/) - StudyEasy Organisation, Chaand Sheikh (Udemy)
 * [Learn how to program: Java](https://www.learnhowtoprogram.com/java-june-2017) - Epicodus Inc.
-* [Learn Java](https://www.sololearn.com/learning/1068) - Sololearn *(email address required)*
 * [Learn Java Programming](https://www.programiz.com/java-programming) - Programiz
 * [Learn Java Programming - Java for Testers and Developers](https://www.udemy.com/course/learn-java-programming-a/) - Pavan Kumar (Udemy)
 * [Most Asked Core Java Frequently Asked Questions](https://www.youtube.com/playlist?list=PLyHJZXNdCXscoyL5XEZoHHZ86_6h3GWE1) - Code Decode
@@ -1179,7 +1174,6 @@
 * [Full Stack with React and Appwrite](https://egghead.io/playlists/full-stack-with-react-and-appwrite-e1e46f61) - Colby Fayock (Egghead.io)
 * [Introduction to React](https://fullstackopen.com/en/part1/introduction_to_react) - Full Stack open
 * [Learn Class Components in React](https://v2.scrimba.com/learn-class-components-in-react-c0h) - Bob Ziroll (Scrimba)
-* [Learn React + Redux](https://www.sololearn.com/learning/1097) - *registration required*
 * [Learn React for Free](https://scrimba.com/learn/learnreact) - Bob Ziroll (Scrimba)
 * [Learn React Router 6](https://scrimba.com/learn/reactrouter6) - Bob Ziroll (Scrimba)
 * [Learn ReactJS](https://www.codecademy.com/learn/react-101) - Codecademy
@@ -1382,7 +1376,6 @@
 * [Intro to Self-Driving Cars Nanodegree](https://www.udacity.com/course/intro-to-self-driving-cars--nd113) - Cezanne Camacho, Andrew Paster, Anthony Navarro, Tarin Ziyaee, et al. (Udacity)
 * [Introduction to Machine Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about) - MIT Open Learning Library
 * [Linear Algebra for Machine Learning](https://www.youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a) - Jon Krohn
-* [Machine Learning](https://www.sololearn.com/Course/machine-learning) (SoloLearn) *(account required)*
 * [Machine Learning](https://www.youtube.com/playlist?list=PL7T06JEc5PF5Vuz1U7lEEaFPOExDbKVEh) - Nerd's Lesson
 * [Machine Learning](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF) - StatQuest with Josh Starmer
 * [Machine Learning Course for Beginners](https://www.youtube.com/watch?v=NWONeJKn6kc) - freeCodeCamp.org
@@ -1504,7 +1497,6 @@
 * [Laravel 9 Tutorial](https://www.youtube.com/playlist?list=PL8p2I9GklV47Jszga434vZxOmY74Q1N_K) - Anil Sidhu (Code Step By Step)
 * [Laravel From Scratch 2022 \| 4+ Hour Course](https://www.youtube.com/watch?v=MYyJ4PuL4pY) - Traversy Media
 * [Learn how to program: PHP](https://www.learnhowtoprogram.com/php) - Epicodus Inc.
-* [Learn PHP](https://www.sololearn.com/learning/1059) - *registration required*
 * [Learn PHP The Right Way - Full PHP Tutorial for Beginners & Advanced](https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-) - Program With Gio
 * [Learn Top Ten Frameworks In PHP By Building Projects](https://www.eduonix.com/courses/Web-Development/learn-top-ten-frameworks-in-php-by-building-projects) - Eduonix Learning Solutions *(account or email address required)*
 * [Object-Oriented PHP For Beginners](https://www.youtube.com/playlist?list=PLFHz2csJcgk-7hgKrjUa_IP5YCLE4vJhV) - Dary Nazar (Code with Dary)
@@ -1604,7 +1596,6 @@
 * [Python Tutorials](https://www.youtube.com/playlist?list=PLTjRvDozrdlxj5wgH4qkvwSOdHLOCx10f) - Programming with Mosh
 * [Python Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) - Corey Schafer
 * [Python Tutorials](https://www.youtube.com/playlist?list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB) - freeCodeCamp.org
-* [Python Tutorials](https://www.sololearn.com/en/learn/courses/python-developer) - SoloLearn *(registration required)*
 * [The Python Tutorial](https://docs.python.org/3/tutorial/)
 * [Using Python for Research](https://www.edx.org/course/using-python-for-research) (edX Harvard)
 
@@ -1780,7 +1771,6 @@
 * [iOS Development Course - Use Swift 5 and UIKit to Build a Netflix Clone](https://www.youtube.com/watch?v=KCgYDCKqato) - freeCodeCamp.org
 * [Learn Intermediate Swift](https://www.codecademy.com/learn/learn-intermediate-swift) - Codecademy *(registration required)*
 * [Learn Swift](https://www.youtube.com/playlist?list=PLMRqhzcHGw1ZqzYnpIuQAn2rcjhOtbqGX) - CodeWithChris
-* [Learn Swift 4](https://www.sololearn.com/learning/1075) - *Registration required*
 * [Server-Side Swift](https://www.udacity.com/course/server-side-swift--ud1031) - Jarrod Parkes, Nic Jackson (Udacity)
 * [Swift 5 for Beginners](https://www.youtube.com/playlist?list=PL5PR3UyfTWvfacnfUsvNcxIiKIgidNRoW) - iOS Academy
 * [Swiftris - Build an iOS Tetris app from scratch](https://www.bloc.io/swiftris-build-your-first-ios-game-with-swift)

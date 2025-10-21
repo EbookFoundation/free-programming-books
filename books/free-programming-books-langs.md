@@ -2207,6 +2207,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Forecasting: Principles and Practice](https://otexts.com/fpp3/) - Rob J Hyndman, George Athanasopoulos
 * [Functional Programming](https://dcl-prog.stanford.edu) - Sara Altman, Bill Behrman, Hadley Wickham
 * [Geocomputation with R](https://r.geocompx.org) - Robin Lovelace, Jakub Nowosad, Jannes Muenchow
+* [Hands-On Programming with R](https://rstudio-education.github.io/hopr/) - Garrett Grolemund
 * [Introduction to Probability and Statistics Using R](https://github.com/gjkerns/IPSUR) - G. Jay Kerns (PDF)
 * [Learning Statistics with R](https://learningstatisticswithr.com/book/) - Danielle Navarro
 * [Mastering Software Development in R](https://bookdown.org/rdpeng/RProgDA/) - Roger D. Peng, Sean Kross, and Brooke Anderson

@@ -249,6 +249,7 @@
 
 * [APL Course](https://course.dyalog.com) - Dyalog *( :construction: in process)*
 * [APL Cultivation](https://aplwiki.com/wiki/APL_Cultivation) - Adám Brudzewsky
+* [APL tutorials](https://www.youtube.com/playlist?list=PL1955671BD6E21548) - Jimin Park
 * [Dyalog APL Tutor](https://tutorial.dyalog.com) - Dyalog
 * [Learn APL with Neural Networks](https://www.youtube.com/playlist?list=PLgTqamKi1MS3p-O0QAgjv5vt4NY5OgpiM) - Rodrigo Girão Serrão
 

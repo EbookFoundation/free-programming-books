@@ -108,9 +108,7 @@
 
 ### Go
 
-* [Complete Golang Programming Tutorial Series in മലയാളം for Beginners.](https://www.youtube.com/playlist?list=PL1pQFrHyimJQu8svbooHn5DMW4ntrbUPu) - Build From Zero
 * [Golang: Complete Tutorial in മലയാളം for Beginners](https://www.youtube.com/watch?v=S7Dfsky1bZ4) - CodeEase with Anu
-* [Go Tutorial - Malayalam](https://www.youtube.com/playlist?list=PLbn-9j68Y5NWV-mrEjX4z0JDvlr4dGC1h) - Mr.Mallu Programmer
 
 
 ### HTML and CSS

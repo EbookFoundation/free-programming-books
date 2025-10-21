@@ -1750,7 +1750,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Octave
 
-* [Introduction to GNU Octave](https://www.wcc.vccs.edu/sites/default/files/Introduction-to-GNU-Octave.pdf) - Lachniet, Jason (PDF)
+* [Introduction to GNU Octave](https://www.wcc.vccs.edu/sites/default/files/Introduction-to-GNU-Octave.pdf) - jason Lachniet (PDF)
 * [Octave Programming](https://en.wikibooks.org/wiki/Octave_Programming_Tutorial) - Wikibooks
 
 

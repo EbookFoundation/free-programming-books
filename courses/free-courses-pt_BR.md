@@ -535,7 +535,7 @@
 ### Swift
 
 * [Aprendendo Swift do Iniciante ao Avançado. (Mac e Windows)](https://www.udemy.com/aprendendoswift3/) - Lucas Alencar (Udemy)
-* [Curso de introdução ao desenvolvimento iOS](https://www.youtube.com/playlist?list=PLprgbdnzrDkHjUr2mFq0ypg-v6RNChKA8) - Attekita Dev
+* [Curso de introdução ao desenvolvimento iOS](https://www.youtube.com/playlist?list=PLprgbdnzrDkHjUr2mFq0ypg-v6RNChKA8) Attekita Dev
 * [Curso de Swift - Programação](https://www.youtube.com/playlist?list=PLJ0AcghBBWShgIH122uw7H9T9-NIaFpP-) - Tiago Aguiar
 * [Curso de Swift Básico](https://www.youtube.com/playlist?list=PLTl7hsEfhCWVx6os_oOHpJF_YrJmRnIQk) - Novos Negócios em TIC
 * [Curso grátis Swift e SwiftUI](https://www.youtube.com/playlist?list=PLMdYygf53DP46rneFgJ7Ab6fJPcMvr8gC) - Filipe Deschamps

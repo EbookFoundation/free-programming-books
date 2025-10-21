@@ -12,6 +12,7 @@
 * [Misc](#misc)
 * [Python](#python)
 * [Sql](#sql)
+* [Web Development](#web-development)
 
 
 ### Algorithms
@@ -85,6 +86,11 @@
 
 * [এসকিউএল পরিচিতি(SQL Introduction in Bangla)](https://www.sattacademy.org/sql/index.php) - Satt Academy
 * [বাংলায় SQL টিউটোরিয়াল](https://sql.howtocode.dev) - Saiful, et al.
+
+
+### Web Development
+
+* [এইচটিএমএল ও সিএসএস ইন বাংলায় (HTML & CSS in Bangla)](https://github.com/CodeJogot/html-css-course-in-bangla) - Farmer Abdul Alim (GitHub, HTML)
 
 
 ### Git and Github

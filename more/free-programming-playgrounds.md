@@ -202,9 +202,9 @@
 * [Flexbox Froggy](https://flexboxfroggy.com) - Codepip
 * [Flexy Boxes](https://the-echoplex.net/flexyboxes/)
 * [Grid Garden](https://cssgridgarden.com) - Codepip
-* [Grid Generator](https://grid.layoutit.com) - Layoutit
-* [HTML, CSS, JavaScript](https://www.codinguru.online/compiler/html)
+* [Grid Generator](https://grid.layoutit.com) - 
 * [Html-Css-Js](https://html-css-js.com)
+* [HTML, CSS, JavaScript](https://www.codinguru.online/compiler/html)
 * [Learn advanced html and css](https://www.theodinproject.com/paths/full-stack-javascript/courses/advanced-html-and-css) - The Odin Project
 * [Learn Intermediate html and css](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css) - The Odin Project
 * [LiveCode](https://livecodes.io) - LiveCode

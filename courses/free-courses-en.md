@@ -288,8 +288,8 @@
 * [CS236: Deep Generative Models](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8) - Stefano Ermon (Stanford Online)
 * [Deep Generative Models](https://www.youtube.com/playlist?list=PL2UML_KCiC0UPzjW9BjO-IW6dqliu9O4B) - Volodymyr Kuleshov
 * [Foundation Models and Generative AI](https://ocw.mit.edu/courses/6-s087-foundation-models-and-generative-ai-january-iap-2024) - Rickard Gabrielsson (MIT OpenCourseWare)
-* [Generative AI for Beginners (.NET Edition)](https://github.com/microsoft/Generative-AI-for-beginners-dotnet) - Microsoft (GitHub)
 * [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/) - Microsoft
+* [Generative AI for Beginners (.NET Edition)](https://github.com/microsoft/Generative-AI-for-beginners-dotnet) - Microsoft (GitHub)
 * [Generative AI for beginners with JavaScript](https://github.com/microsoft/generative-ai-with-javascript) - Microsoft (Github)
 * [LangChain & Vector Databases in Production](https://learn.activeloop.ai/courses/langchain) - Activeloop *(account required)*
 * [LangChain for LLM Application Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development) - Harrison Chase, Andrew Ng (DeepLearning.AI)

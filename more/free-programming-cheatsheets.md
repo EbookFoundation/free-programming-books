@@ -3,6 +3,7 @@
 * [Angular](#angular)
 * [APL](#apl)
 * [Artificial Intelligence](#artificial-intelligence)
+* [Blockchain](#blockchain)
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
@@ -13,6 +14,7 @@
 * [Data Structures and Algorithms](#data-structures-and-algorithms)
 * [DevOps](#devops)
     * [Ansible](#ansible)
+    * [Bench CLI](#bench)
     * [Chef](#chef)
     * [Docker](#docker)
     * [Jenkins](#jenkins)
@@ -90,6 +92,13 @@
 
 * [AI is confusing — here’s your cheat sheet](https://www.theverge.com/24201441/ai-terminology-explained-humans) Jay Peters (HTML)
 * [What is Artificial Intelligence?](https://intelligencereborn.com/ArtificialIntelligence.html) IntelligenceReborn (HTML)
+
+
+### Blockchain
+
+* [101 Blockchain Cheat Sheet, Jargon, Glossary and Terminology](https://pupuweb.com/blockchain-bitcoin-cheat-sheet/) - Alex Lim (HTML)
+* [Blockchain Cheat Sheet](https://intellipaat.com/blog/tutorial/blockchain-tutorial/blockchain-cheat-sheet/) - Arpit (HTML)
+* [Blockchain For Dummies Cheat Sheet](https://www.dummies.com/article/technology/information-technology/data-science/general-data-science/blockchain-dummies-cheat-sheet-237567/) - Tiana Laurence (HTML)
 
 
 ### C
@@ -170,6 +179,14 @@
 * [How to Use Ansible: A Reference Guide](https://www.digitalocean.com/community/cheatsheets/how-to-use-ansible-cheat-sheet-guide) - DigitalOcean (HTML)
 
 
+### Bench
+
+* [Bench CLI Cheatsheet](https://frappeframework.com/files/Bench%20Cheatsheet%20v1.1.pdf) - Frappe (PDF)
+* [Bench Commands](https://docs.frappe.io/framework/v14/user/en/bench/bench-commands) - Frappe (HTML)
+* [Bench Reference](https://docs.frappe.io/framework/v14/user/en/bench/reference) - Frappe (HTML)
+* [Frappe Bench Commands](https://docs.frappe.io/framework/v14/user/en/bench/frappe-commands) - Frappe (HTML)
+
+
 ### Chef
 
 * [Chef Cheat Sheet](https://intellipaat.com/blog/tutorial/devops-tutorial/chef-cheat-sheet/) - Intellipaat (HTML)
@@ -202,7 +219,9 @@
 
 ### Jenkins 
 
-* [Jenkins Cheat Sheet](https://intellipaat.com/blog/tutorial/devops-tutorial/jenkins-cheat-sheet/) - Intellipaat (HTML)
+* [Jenkins CheatSheet](https://intellipaat.com/blog/tutorial/devops-tutorial/jenkins-cheat-sheet/) - Intellipaat (HTML)
+* [Jenkins CheatSheet](https://www.testautomationstudio.com/cheat-sheet/jenkins/jenkins-cheat-sheet/) - Test A (HTML)
+* [Jenkins CheatSheet – A Beginner’s Guide to Jenkins](https://www.edureka.co/blog/cheatsheets/jenkins-cheat-sheet/) - Miss zulekha (HTML)
 
 
 ### Kubernetes
@@ -215,7 +234,10 @@
 
 ### Puppet
 
-* [Puppet Cheat Sheet](https://intellipaat.com/blog/tutorial/devops-tutorial/puppet-cheat-sheet/) - Intellipaat (HTML)
+* [Puppet CheatSheet](https://cheatsheetshero.com/user/all/382-puppet-cheatsheet) - CSHero (HTML/PDF)
+* [Puppet CheatSheet](http://www.datadisk.co.uk/html_docs/puppet/puppet_cheatsheet.html) - DataDisk (HTML)
+* [Puppet CheatSheet](https://intellipaat.com/blog/tutorial/devops-tutorial/puppet-cheat-sheet/) - Intellipaat (HTML)
+* [Puppet CheatSheet](https://help.puppet.com/core/current/Content/PuppetCore/cheatsheet_module.htm) - Pahul (HTML)
 
 
 ### Git
@@ -237,8 +259,10 @@
 ### Go
 
 * [cht.sh Go Cheatsheet](https://cht.sh/go/:learn) (HTML)
+* [Go Backend Complete Cheat Sheet](https://github.com/SAYOUNCDR/Bha---Go-/blob/main/Readme.md) - Sayoun Parui (Markdown)
 * [Go Cheatsheet](https://devhints.io/go) - devhints, Rico Santa Cruz (HTML)
 * [Go Programming (Golang) Cheat Sheet](https://zerotomastery.io/cheatsheets/golang-cheat-sheet/) - ZeroToMastery (HTML)
+* [Golang Cheat Sheet](https://github.com/a8m/golang-cheat-sheet) - Ariel Mashraki (HTML)
 * [গো \| ডেভ সংকেত<](https://devsonket.com/go) - devsonket (HTML)
 
 
@@ -302,6 +326,7 @@
 
 ### <a id="info-sec"></a>Information Security
 
+* [Linux Commands Cheat Sheet](https://zerotomastery.io/cheatsheets/linux-commands-cheat-sheet/) - ZeroToMastery (HTML)
 * [Nmap Cheat Sheet)](https://zerotomastery.io/cheatsheets/nmap-cheat-sheet/) - ZeroToMastery.io (HTML)
 
 
@@ -316,6 +341,7 @@
 
 ### JavaScript
 
+* [Advanced JavaScript Cheat Sheet](https://zerotomastery.io/cheatsheets/javascript-cheatsheet-the-advanced-concepts/) - ZeroToMastery (HTML)
 * [JavaScript Cheat Sheet – A Basic Guide to JavaScript](https://www.geeksforgeeks.org/javascript-cheat-sheet-a-basic-guide-to-javascript) - GeeksforGeeks (HTML)
 * [JavaScript CheatSheet](https://github.com/wilfredinni/javascript-cheatsheet) - Wilfredinni (HTML)
 * [JavaScript Cheatsheet](https://www.codecademy.com/learn/introduction-to-javascript/modules/learn-javascript-introduction/cheatsheet) - Codecademy (HTML)
@@ -379,7 +405,9 @@
 
 ### Kotlin
 
+* [Kotlin Cheat Sheet](https://devhints.io/kotlin) - Devhints (HTML)
 * [Kotlin Cheatsheet and Quick Reference](https://koenig-media.raywenderlich.com/uploads/2019/11/RW-Kotlin-Cheatsheet-1.1.pdf) - Ray Wenderlich (PDF)
+* [Kotlin Quick Reference](https://kotlinlang.org/docs/kotlin-reference.pdf) - JetBrains (PDF)
 
 
 ### Language Translations
@@ -447,6 +475,8 @@
 ### Python
 
 * [Beginner's Python Cheat Sheet](https://ils.unc.edu/courses/2023_fall/inls560_003/assets/files/python_cheat_sheet-087b0138f25c3aac5bace1199f1c253d.pdf) - University of North Carolina (PDF)
+* [Business Analytics with Python Cheat Sheet](https://zerotomastery.io/cheatsheets/business-analytics-cheat-sheet/) - ZeroToMastery (HTML)
+* [Comprehensive Python Cheat Sheet for Beginners](https://medium.com/the-codehub/comprehensive-python-cheat-sheet-for-beginners-5d76bb038fa2) - Rishi Sidhu, Medium (HTML)
 * [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet) - Jure Šorn (HTML)
 * [Numpy Pandas Cheat Sheet](https://www.kaggle.com/code/lavanyashukla01/pandas-numpy-python-cheatsheet) - Kaggle (HTML)
 * [Official Matplotlib cheat sheets](https://github.com/matplotlib/cheatsheets) - Matplotlib.org (LaTeX, PDF)
@@ -586,6 +616,7 @@
 * [MySQL Cheatsheet](https://s3-us-west-2.amazonaws.com/dbshostedfiles/dbs/sql_cheat_sheet_mysql.pdf) - Database Star (PDF)
 * [PostgreSQL Cheatsheet](https://s3-us-west-2.amazonaws.com/dbshostedfiles/dbs/sql_cheat_sheet_pgsql.pdf) - Database Star (PDF)
 * [SQL Cheat Sheet](https://www.dataquest.io/wp-content/uploads/2021/01/dataquest-sql-cheat-sheet.pdf) - Dataquest.io (PDF)
+* [SQL Cheat Sheet](https://zerotomastery.io/cheatsheets/sql-cheat-sheet/) - ZeroToMastery (HTML)
 * [SQL Cheat Sheet by Tomi Mester](https://data36.com/wp-content/uploads/2018/12/sql-cheat-sheet-for-data-scientists-by-tomi-mester.pdf) - Tomi Mester (PDF)
 
 

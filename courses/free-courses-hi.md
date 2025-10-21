@@ -85,6 +85,7 @@
 * [Data Structures and Algorithms in Python](https://www.youtube.com/playlist?list=PLyMom0n-MBrpakdIZvnhd6PFUCKNAyKo1) - Jovian
 * [DS & Algorithms Course Using Javascript](https://www.youtube.com/playlist?list=PL_HlKez9XCSOi5thYDzipbJ2pEdzop7vx) - Technical Suneja
 * [Hindi Data Structures And Algorithms Tutorial Python](https://www.youtube.com/playlist?list=PLPbgcxheSpE3NlJ30EDpxNYU6P2Jylns8) - codebasics Hindi
+* [Complete DSA Course in Hindi | Free DSA Course Launch](https://www.youtube.com/playlist?list=PL0zysOflRCel693wumX2pbb-Zvi-5Ctea) - Learn Code With Durgesh
 
 
 #### Algorithms

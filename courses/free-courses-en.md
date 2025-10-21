@@ -398,6 +398,7 @@
 * [Foundational C# with Microsoft Certification](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft) - freeCodeCamp, Microsoft (HTML)
 * [Fundamentals of Programming: Understanding C#](https://www.udemy.com/course/understandingc/) - Jesse Dietrichson (Udemy)
 * [Learn C#](https://www.codecademy.com/learn/learn-c-sharp) - Codecademy
+* [Programming Basics with C#](https://csharp-book.softuni.org) - Svetlin Nakov, Team
 
 
 ### <a id="cpp"></a>C++

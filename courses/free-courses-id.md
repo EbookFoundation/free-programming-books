@@ -402,6 +402,7 @@
 
 ### Flask
 
+* [Belajar Membuat Website Dengan Flask Python](https://www.youtube.com/playlist?list=PL8q4s70ndvwfD1Nbrl5iYsgSWVStCXo5h) - Riffa Media
 * [Membuat website dengan Flask](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCZwaY3F4bHikozOBzrFD_R) - Sekolah Koding
 * [Tutorial web dengan flask sampai mahir](https://www.youtube.com/playlist?list=PL5vG7_Y90KtxXH4YhDcb5m4n82ShAPnPc) - Toufan RA
 

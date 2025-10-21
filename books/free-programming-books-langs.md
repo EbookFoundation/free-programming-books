@@ -1459,7 +1459,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Begin Latex in minutes](https://github.com/VoLuong/Begin-Latex-in-minutes)
 * [LaTeX](https://en.wikibooks.org/wiki/LaTeX) - Wikibooks (CC BY-SA)
 * [LaTex Notes for Professionals](https://goalkicker.com/LaTeXBook/) - Compiled from StackOverflow documentation (PDF) (CC BY-SA)
-* [LaTex Primer (LaTeX for Beginners)](https://www.colorado.edu/aps/sites/default/files/attached-files/latex_primer.pdf) (PDF)
+* [LaTeX Primer (LaTeX for Beginners)](https://www.colorado.edu/aps/sites/default/files/attached-files/latex_primer.pdf) (PDF)
 * [The Not So Short Introduction to LaTeX](https://tobi.oetiker.ch/lshort/lshort.pdf) (PDF)
 
 

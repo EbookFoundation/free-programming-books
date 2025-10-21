@@ -474,6 +474,7 @@
 
 #### IBM
 
+* [An Introduction to IBM Cloud Satellite](https://cognitiveclass.ai/courses/cloud-satellite) - IBM
 * [Getting started with IBM Cloud](https://cognitiveclass.ai/courses/ibm-cloud-essentials) - Horea Porutiu, Steve Martinelli
 * [IBM Cloud Essentials V3](https://cognitiveclass.ai/courses/ibm-cloud-essentials) - CognitiveClass.ai
 

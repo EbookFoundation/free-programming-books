@@ -26,6 +26,7 @@
 * [Computer Science](#computer-science)
 * [Cryptography](#cryptography)
 * [CUDA](#cuda)
+* [Cypress](#cypress)
 * [Dart](#dart)
 * [Data Science](#data-science)
 * [Databases](#databases)
@@ -390,8 +391,8 @@
 * [C# Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=GhQdlIFylQ8) - Mike Dane (freeCodeCamp)
 * [C# Tutorial For Beginners - Learn C# Basics in 1 Hour](https://www.youtube.com/watch?v=gfkTfcpWqAY) - Moshfegh Hamedani (Programming with Mosh)
 * [Domain-Driven Refactoring - Jimmy Bogard - NDC London 2022](https://www.youtube.com/watch?v=f64tZ90Dntg) - Jimmy Bogard
+* [Foundational C# with Microsoft Certification](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft) - freeCodeCamp, Microsoft (HTML)
 * [Fundamentals of Programming: Understanding C#](https://www.udemy.com/course/understandingc/) - Jesse Dietrichson (Udemy)
-* [Learn C#](https://www.sololearn.com/learning/1080) - *registration required*
 * [Learn C#](https://www.codecademy.com/learn/learn-c-sharp) - Codecademy
 
 
@@ -421,7 +422,6 @@
 * [Introduction to C++](https://www.edx.org/course/introduction-to-c-3) - Microsoft (edX) ( :card_file_box: *archived*)
 * [Introduction to Programming through C++](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2qzihjdDEseWrrY1DyxH9P) - NPTEL
 * [Learn C++ With Me](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lmGC8VW0iu6qfMHjy7gLQ3) - Tech With Tim
-* [Sololearn C++](https://www.sololearn.com/learning/1051) - *registration required*
 
 
 ### Clojure
@@ -445,6 +445,7 @@
 
 #### AWS
 
+* [AWS Certification Training Videos](https://www.youtube.com/playlist?list=PL9ooVrP1hQOFWxRJcGdCot7AgJu29SVV3) - Edureka!
 * [AWS Certified Cloud Practitioner Course (2020-2023)](https://www.youtube.com/playlist?list=PLt1SIbA8guuvfvUDVLpJepmbnYpOfYCIB) - Stephane Maarek
 * [AWS Certified Cloud Practitioner Course (CLF-C02)(2024)](https://www.youtube.com/watch?v=NhDYbskXRgc) - Andrew Brown (FreeCodeCamp)
 * [AWS Cloud Complete Bootcamp Course](https://www.youtube.com/watch?v=zA8guDqfv40) - Andrew Brown (FreeCodeCamp)
@@ -474,6 +475,7 @@
 
 #### IBM
 
+* [An Introduction to IBM Cloud Satellite](https://cognitiveclass.ai/courses/cloud-satellite) - IBM
 * [Getting started with IBM Cloud](https://cognitiveclass.ai/courses/ibm-cloud-essentials) - Horea Porutiu, Steve Martinelli
 * [IBM Cloud Essentials V3](https://cognitiveclass.ai/courses/ibm-cloud-essentials) - CognitiveClass.ai
 
@@ -526,6 +528,13 @@
 * [CUDA Tutorials](https://www.youtube.com/playlist?list=PLKK11Ligqititws0ZOoGk3SW-TZCar4dK) - Creel
 
 
+### Cypress
+
+* [Cypress Course Playlist](https://www.youtube.com/playlist?list=PLYDwWPRvXB8-8LG2hZv25HO6C3w_vezZb) - JoanMedia
+* [Cypress Official Course - Best Documnetation](https://learn.cypress.io) - Cypress.io
+* [Test Automation - Cypress Tutorial](https://testautomationu.applitools.com/cypress-tutorial/) - Elliot Arledge (FreeCodeCamp)
+
+
 ### Dart
 
 * [Dart Course for Beginners](https://www.udemy.com/course/dartlang) (Udemy)
@@ -568,7 +577,6 @@
 * [Introduction to Data Science](https://www.simplilearn.com/data-science-free-course-for-beginners-skillup) - SkillUp by Simplilearn
 * [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) - Christopher Brooks (Coursera)
 * [Introduction to Data Science with python](https://www.edx.org/learn/data-science/harvard-university-introduction-to-data-science-with-python) - Pavlos Protopapas (edX HarvardX)
-* [Learn Data Science](https://www.sololearn.com/learning/1093) - *registration required*
 * [Learn Data Science Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=ua-CiDNNj30) - Barton Poulson (FreeCodeCamp.org)
 * [MIT's Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) - Eric Grimson, John Guttag, Ana Bell (MIT OpenCourseWare)
 * [More Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/moredataminingwithweka/)
@@ -602,6 +610,7 @@
 * [MongoDB University](https://university.mongodb.com) - MongoDB, Inc. (email address *required*)
 * [Neo4j (Graph Database) Crash Course](https://www.youtube.com/watch?v=8jNPelugC2s) - Laith Academy
 * [Neo4j Graph Database Tutorial](https://www.youtube.com/playlist?list=PLqfPEK2RTgChcOZ6qHgSfwiBPCz2Bzdjh) - Satish C J
+* [NoSQL Tutorial for Beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7r0bn6dzVA8bQNxcx7DRl5F) - by Telusko
 * [Redis University](https://university.redis.com) - Redis Inc. *(email address required)*
 
 
@@ -613,7 +622,6 @@
 * [Introduction to Databases and SQL Querying](https://www.udemy.com/course/introduction-to-databases-and-sql-querying/) - Rakesh Gopalakrishnan (Udemy)
 * [Introduction to Distributed SQL and CockroachDB](https://university.cockroachlabs.com/courses/course-v1:crl+intro-to-distributed-sql-and-cockroachdb+self-paced/about) - Lauren Hirata Singh and Will Cross (Cockroach Labs Inc.) *(email address required)*
 * [Learn SQL](https://popsql.com/learn-sql) - PopSQL
-* [Learn SQL](https://www.sololearn.com/learning/1060) - *registration required*
 * [Learn SQL: SQL Tutorial for Beginners](https://www.programiz.com/sql) - Programiz
 * [MySQL for Developers](https://planetscale.com/learn/courses/mysql-for-developers/introduction/course-introduction) - Aaron Francis (PlanetScale)
 * [MySQL Playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVNMRWlVf0bDDSxNEn38u9Cl) - Krish Naik
@@ -630,9 +638,9 @@
 * [Complete Deep Learning](https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi) - Krish Naik
 * [Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io)
 * [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu)
-* [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) (coursera)
+* [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) (Coursera)
 * [Deep Learning with PyTorch](https://www.youtube.com/playlist?list=PLWKjhJtqVAbm3T2Eq1_KgloC7ogdXxdRa) - Aakash N. S., freeCodeCamp.org
-* [Deep Learning with Pytorch: Zero tp GANs](https://jovian.ai/learn/deep-learning-with-pytorch-zero-to-gans) (Jovian)
+* [Deep Learning with PyTorch: Zero to GANs](https://jovian.ai/learn/deep-learning-with-pytorch-zero-to-gans) (Jovian)
 * [Deep Learning With Tensorflow 2.0 and Keras](https://youtube.com/playlist?list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO) - codebasics
 * [Deep Multi-Task and Meta Learning](https://cs330.stanford.edu) - Chelsea Finn (Stanford University)
 * [Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/) - Sergey Levine
@@ -646,7 +654,7 @@
 * [MIT 6.S191: Introduction to Deep Learning](http://introtodeeplearning.com) - Alexander Amini, Ava Soleimany
 * [Neural Networks / Deep Learning](https://www.youtube.com/playlist?list=PLblh5JKOoLUIxGDQs4LFFD--41Vzf-ME1) - StatQuest by Josh Starmer
 * [Neuromatch Academy: Deep Learning](https://deeplearning.neuromatch.io/tutorials/intro.html) - Neuromatch Academy
-* [NYU Deep Learning SP21](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI) Alfredo Canziani
+* [NYU Deep Learning SP21](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI) - Alfredo Canziani
 * [NYU Deep Learning SP22](https://www.youtube.com/playlist?list=PLLHTzKZzVU9f3kmEta5dlkMXgtD1LxHzT) - Alfredo Canziani
 * [OpenCV Bootcamp](https://opencv.org/university/free-opencv-course/) - OpenCV University
 * [Practical Deep Learning For Coders taught](http://www.fast.ai) - Jeremy Howard
@@ -656,7 +664,8 @@
 * [Self-Paced Courses for Deep Learning](https://developer.nvidia.com/deep-learning-courses)
 * [Stanford CS 224N: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) (Stanford Online)
 * [Stanford CS230: Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb) (Stanford Online)
-* [TensorFlow Bootcamp](https://opencv.org/university/free-tensorflow-keras-course/) - OpenCV University
+* [Stanford CS234: Reinforcement Learning](https://web.stanford.edu/class/cs234) - Emma Brunskill
+* [UC Berkeley CS 188: Introduction to Artificial Intelligence](http://ai.berkeley.edu) - Dan Klein
 * [Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/tutorial)
 
 
@@ -1171,7 +1180,6 @@
 * [Full Stack with React and Appwrite](https://egghead.io/playlists/full-stack-with-react-and-appwrite-e1e46f61) - Colby Fayock (Egghead.io)
 * [Introduction to React](https://fullstackopen.com/en/part1/introduction_to_react) - Full Stack open
 * [Learn Class Components in React](https://v2.scrimba.com/learn-class-components-in-react-c0h) - Bob Ziroll (Scrimba)
-* [Learn React + Redux](https://www.sololearn.com/learning/1097) - *registration required*
 * [Learn React for Free](https://scrimba.com/learn/learnreact) - Bob Ziroll (Scrimba)
 * [Learn React Router 6](https://scrimba.com/learn/reactrouter6) - Bob Ziroll (Scrimba)
 * [Learn ReactJS](https://www.codecademy.com/learn/react-101) - Codecademy
@@ -1375,7 +1383,6 @@
 * [Intro to Self-Driving Cars Nanodegree](https://www.udacity.com/course/intro-to-self-driving-cars--nd113) - Cezanne Camacho, Andrew Paster, Anthony Navarro, Tarin Ziyaee, et al. (Udacity)
 * [Introduction to Machine Learning](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/about) - MIT Open Learning Library
 * [Linear Algebra for Machine Learning](https://www.youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a) - Jon Krohn
-* [Machine Learning](https://www.sololearn.com/Course/machine-learning) (SoloLearn) *(account required)*
 * [Machine Learning](https://www.youtube.com/playlist?list=PL7T06JEc5PF5Vuz1U7lEEaFPOExDbKVEh) - Nerd's Lesson
 * [Machine Learning](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF) - StatQuest with Josh Starmer
 * [Machine Learning Course for Beginners](https://www.youtube.com/watch?v=NWONeJKn6kc) - freeCodeCamp.org
@@ -1497,7 +1504,6 @@
 * [Laravel 9 Tutorial](https://www.youtube.com/playlist?list=PL8p2I9GklV47Jszga434vZxOmY74Q1N_K) - Anil Sidhu (Code Step By Step)
 * [Laravel From Scratch 2022 \| 4+ Hour Course](https://www.youtube.com/watch?v=MYyJ4PuL4pY) - Traversy Media
 * [Learn how to program: PHP](https://www.learnhowtoprogram.com/php) - Epicodus Inc.
-* [Learn PHP](https://www.sololearn.com/learning/1059) - *registration required*
 * [Learn PHP The Right Way - Full PHP Tutorial for Beginners & Advanced](https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe-) - Program With Gio
 * [Learn Top Ten Frameworks In PHP By Building Projects](https://www.eduonix.com/courses/Web-Development/learn-top-ten-frameworks-in-php-by-building-projects) - Eduonix Learning Solutions *(account or email address required)*
 * [Object-Oriented PHP For Beginners](https://www.youtube.com/playlist?list=PLFHz2csJcgk-7hgKrjUa_IP5YCLE4vJhV) - Dary Nazar (Code with Dary)
@@ -1562,7 +1568,6 @@
 * [Practical Python Programming](https://dabeaz-course.github.io/practical-python/) - David Beazley
 * [Problem Solving, Python Programming, and Video Games](https://www.coursera.org/learn/problem-solving-programming-video-games) - Duane Szafron, Paul Lu (Coursera)
 * [Python 101 – Introduction to Programming](https://www.tutorialspoint.com/python_101_andndash_introduction_to_programming/index.asp) - Zenva (Tutorials Point)
-* [Python 3](https://www.sololearn.com/Course/Python/) (SoloLearn)
 * [Python 3 Programming Tutorials for Beginners](https://www.youtube.com/playlist?list=PLeo1K3hjS3uv5U-Lmlnucd7gqF-3ehIh0) - Codebasics
 * [Python And Cryptocurrency: Build 5 Real World Applications](https://www.udemy.com/course/coinmarketcap/) Ian Annase (Udemy)
 * [Python Built in Functions A to Z Tutorial and Examples](https://www.youtube.com/playlist?list=PLrJGwAG1U62RW_hGGnk7xXG0LciHkT54X) - Brainy Things
@@ -1598,7 +1603,6 @@
 * [Python Tutorials](https://www.youtube.com/playlist?list=PLTjRvDozrdlxj5wgH4qkvwSOdHLOCx10f) - Programming with Mosh
 * [Python Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) - Corey Schafer
 * [Python Tutorials](https://www.youtube.com/playlist?list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB) - freeCodeCamp.org
-* [SoloLearn](https://www.sololearn.com/Course/Python/)
 * [The Python Tutorial](https://docs.python.org/3/tutorial/)
 * [Using Python for Research](https://www.edx.org/course/using-python-for-research) (edX Harvard)
 
@@ -1689,11 +1693,14 @@
 * [Complete Rust Marathon](https://www.youtube.com/watch?v=joCFbTJt0o0&t=20s) - Harkirat Singh
 * [Comprehensive Rust](https://google.github.io/comprehensive-rust/index.html) - Google
 * [Intro to Rust](https://www.youtube.com/playlist?list=PLJbE2Yu2zumDF6BX6_RdPisRVHgzV02NW) - Tensor Programming
+* [Learn Rust](https://www.youtube.com/playlist?list=PLO5VPQH6OWdXR8NlZt0jRbC39W_IyzS-v) - Smart Contract Programmer
 * [Learn Rust from scratch](https://www.educative.io/courses/learn-rust-from-scratch) - Educative.io
 * [Memory Management](https://www.youtube.com/playlist?list=PLai5B987bZ9BnS7dBlTF9HRop55vYUL7r) - Let's Get Rusty
 * [Rust Basics](https://www.youtube.com/playlist?list=PLlcnQQJK8SUjApd95LIcd3K9XXmE-IeCS) - Engineer Man
 * [Rust Crash Course](https://www.youtube.com/watch?v=zF34dRivLOw) - Traversy Media
+* [Rust Crash Course Tutorial for Beginners](https://www.youtube.com/playlist?list=PLPoSdR46FgI412aItyJhj2bF66cudB6Qs) - Francesco Ciulla
 * [Rust for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x) - Microsoft Developer
+* [Rust Programming Tutorial](https://www.youtube.com/playlist?list=PLDbRgZ0OOEpUkWDGqp91ODn0dk7LPBAUL) - Trevor Sullivan
 * [Rust Programming Tutorial](https://www.youtube.com/playlist?list=PLzMcBGfZo4-nyLTlSRBvo0zjSnCnqjHYQ) - Tech With Tim
 * [Rust Projects](https://www.youtube.com/playlist?list=PLJbE2Yu2zumDD5vy2BuSHvFZU0a6RDmgb) - Tensor Programming
 * [Rust Tutorial](https://www.youtube.com/playlist?list=PLLqEtX6ql2EyPAZ1M2_C0GgVd4A-_L4_5) - Doug Milford
@@ -1718,6 +1725,7 @@
 
 * [@TJ_Null’s OSCP Prep](https://youtube.com/playlist?list=PLidcsTyj9JXK-fnabFLVEvHinQ14Jy5tf) - IppSec
 * [Computer Systems Security](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014) - Nickolai Zeldovich (MIT OpenCourseWare)
+* [CS50's Introduction to Cybersecurity](https://cs50.harvard.edu/cybersecurity/) - David J. Malan (OpenCourseWare) 
 * [Ethical Hacking](https://www.hacker101.com/videos) - Hacker101
 * [Ethical Hacking - Basics (Kali 2021)](https://www.udemy.com/course/ethical-hacking-basics-kali-20211) - Arthur Salmon (Udemy)
 * [Ethical Hacking for beginners: Beginner to Advance](https://www.udemy.com/course/ethical-hacking-for-beginners-beginner-to-advance) - PaceIT Academy (Udemy)
@@ -1770,7 +1778,6 @@
 * [iOS Development Course - Use Swift 5 and UIKit to Build a Netflix Clone](https://www.youtube.com/watch?v=KCgYDCKqato) - freeCodeCamp.org
 * [Learn Intermediate Swift](https://www.codecademy.com/learn/learn-intermediate-swift) - Codecademy *(registration required)*
 * [Learn Swift](https://www.youtube.com/playlist?list=PLMRqhzcHGw1ZqzYnpIuQAn2rcjhOtbqGX) - CodeWithChris
-* [Learn Swift 4](https://www.sololearn.com/learning/1075) - *Registration required*
 * [Server-Side Swift](https://www.udacity.com/course/server-side-swift--ud1031) - Jarrod Parkes, Nic Jackson (Udacity)
 * [Swift 5 for Beginners](https://www.youtube.com/playlist?list=PL5PR3UyfTWvfacnfUsvNcxIiKIgidNRoW) - iOS Academy
 * [Swiftris - Build an iOS Tetris app from scratch](https://www.bloc.io/swiftris-build-your-first-ios-game-with-swift)
@@ -1795,6 +1802,7 @@
 
 ### Terraform
 
+* [Complete Terraform Course - From BEGINNER to PRO! (Learn Infrastructure as Code)](https://www.youtube.com/watch?v=7xngnjfIlK4) - DevOps Directive
 * [terraform + AWS](https://www.udemy.com/course/terraform-aws) - Rohit Abraham (Udemy)
 * [Terraform + GCP](https://www.udemy.com/course/terraform-gcp) - Rohit Abraham (Udemy)
 * [Terraform 101](https://www.udemy.com/course/terraform-101) - Jacob Jones (Udemy)

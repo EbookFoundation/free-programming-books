@@ -432,6 +432,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [CS50's Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/) - David Malan (Harvard)
 * [Deep Learning](https://www.deeplearningbook.org) - Ian Goodfellow, Yoshua Bengio, Aaron Courville
 * [Deep Learning for Coders with Fastai and PyTorch](https://github.com/fastai/fastbook) - Jeremy Howard, Sylvain Gugger (Jupyter Notebooks)
+* [Deep Learning Specialization Course and Labs](https://github.com/karkir0003/Deep-Learning-Specialization-Coursera) - Andrew Ng
 * [Dive into Deep Learning](https://d2l.ai)
 * [Elements of AI](https://www.elementsofai.com) - MinnaLearn, University of Helsinki
 * [Explorations in Parallel Distributed Processing: A Handbook of Models, Programs, and Exercises](https://web.stanford.edu/group/pdplab/pdphandbook) - James L. McClelland

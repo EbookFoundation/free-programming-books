@@ -28,6 +28,7 @@
 * [PHP](#php)
   * [Laravel](#laravel)
 * [Python](#python)
+* * [Python]((https://www.guvi.in/courses/malayalam/programming/python/))
     * [Django](#django)
     * [Flask](#flask)
 * [Security](#security)

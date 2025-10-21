@@ -29,6 +29,11 @@
 * [Python](#python)
 * [Rust](#rust)
 * [Solidity](#solidity)
+* [Dart](#dart)
+* [Kotlin](#kotlin)
+* [Swift](#swift)
+* [Machine Learning](#machine-learning)
+* [Data Science](#data-science)
 
 
 ### Android
@@ -244,3 +249,35 @@
 ### Solidity
 
 * [Smart Contract Blockchain pada E-Voting](https://www.researchgate.net/publication/337961765_Smart_Contract_Blockchain_pada_E-Voting) - Ajib Susanto (HTML, PDF)
+
+
+### <a id="dart"></a>Dart
+
+* [Belajar Flutter untuk Pemula](https://www.petanikode.com/tutorial/flutter/) - Ahmad Muhardian (Petani Kode) *( :construction: dalam proses)*
+* [Dokumentasi Flutter Bahasa Indonesia](https://flutter.id) - Flutter Indonesia Community
+* [Tutorial Flutter Lengkap](https://www.duniailkom.com/tutorial-belajar-framework-flutter/) - Duniailkom
+
+
+### <a id="kotlin"></a>Kotlin
+
+* [Belajar Kotlin untuk Pemula](https://www.petanikode.com/tutorial/kotlin/) - Ahmad Muhardian (Petani Kode) *( :construction: dalam proses)*
+* [Tutorial Kotlin Android](https://www.duniailkom.com/tutorial-belajar-bahasa-pemrograman-kotlin/) - Duniailkom
+
+
+### <a id="swift"></a>Swift
+
+* [Belajar Swift untuk Pemula](https://www.petanikode.com/tutorial/swift/) - Ahmad Muhardian (Petani Kode) *( :construction: dalam proses)*
+* [Tutorial Swift iOS](https://www.duniailkom.com/tutorial-belajar-bahasa-pemrograman-swift/) - Duniailkom
+
+
+### <a id="machine-learning"></a>Machine Learning
+
+* [Belajar Machine Learning untuk Pemula](https://www.petanikode.com/tutorial/machine-learning/) - Ahmad Muhardian (Petani Kode) *( :construction: dalam proses)*
+* [Deep Learning Indonesia](https://github.com/ardacraft/deep-learning-indonesia) - Arda Craft
+* [Tutorial TensorFlow Bahasa Indonesia](https://www.duniailkom.com/tutorial-belajar-tensorflow/) - Duniailkom
+
+
+### <a id="data-science"></a>Data Science
+
+* [Belajar Data Science dengan Python](https://www.petanikode.com/tutorial/data-science/) - Ahmad Muhardian (Petani Kode) *( :construction: dalam proses)*
+* [Panduan Data Science untuk Pemula](https://www.duniailkom.com/tutorial-belajar-data-science/) - Duniailkom

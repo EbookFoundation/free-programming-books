@@ -425,7 +425,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [A Selective Overview of Deep Learning](https://arxiv.org/abs/1904.05526) - Fan, Ma, Zhong (PDF)
 * [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf) - Csaba Szepesvári (PDF)
 * [An Introduction to Statistical Learning](https://www.statlearning.com) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani
-* [Applied Machine Learning for Tabular Data](https://aml4td.org) - Max Kuhn, Kjell Johnson
+* [Applied Machine Learning for Tabular Data](https://aml4td.org) - Max Kuhn, Kjell Johnson (HTML) *( :construction: in process)*
 * [Approaching Almost Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost) - Abhishek Thakur (PDF)
 * [Automated Machine Learning - Methods, Systems, Challenges](https://link.springer.com/book/10.1007/978-3-030-05318-5) - Frank Hutter, Lars Kotthoff, Joaquin Vanschoren (PDF, EPUB)
 * [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage)
@@ -463,7 +463,6 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Patterns, Predictions, And Actions: A story about machine learning](https://mlstory.org/pdf/patterns.pdf) - Moritz Hardt, Benjamin Recht (PDF)
 * [Practitioners guide to MLOps](https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf) - Khalid Samala, Jarek Kazmierczak, Donna Schut (PDF)
 * [Probabilistic Machine Learning - An Introduction](https://github.com/probml/pml-book/releases/latest/download/book1.pdf) - Kevin P. Murphy (PDF)
-* [Probabilistic Models in the Study of Language](https://idiom.ucsd.edu/~rlevy/pmsl_textbook/text.html) (Draft, with R code)
 * [Python Machine Learning Projects](https://www.digitalocean.com/community/books/python-machine-learning-projects-a-digitalocean-ebook) - Lisa Tagliaferri, Brian Boucheron, Michelle Morales, Ellie Birkbeck, Alvin Wan (PDF, EPUB, Kindle)
 * [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/RLbook2020.pdf) - Richard S. Sutton, Andrew G. Barto (PDF) (CC BY-NC-ND)
 * [Speech and Language Processing (3rd Edition Draft)](https://web.stanford.edu/~jurafsky/slp3/ed3book.pdf) - Daniel Jurafsky, James H. Martin (PDF)

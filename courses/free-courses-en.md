@@ -249,6 +249,7 @@
 
 * [APL Course](https://course.dyalog.com) - Dyalog *( :construction: in process)*
 * [APL Cultivation](https://aplwiki.com/wiki/APL_Cultivation) - Adám Brudzewsky
+* [APL tutorials](https://www.youtube.com/playlist?list=PL1955671BD6E21548) - Jimin Park
 * [Dyalog APL Tutor](https://tutorial.dyalog.com) - Dyalog
 * [Learn APL with Neural Networks](https://www.youtube.com/playlist?list=PLgTqamKi1MS3p-O0QAgjv5vt4NY5OgpiM) - Rodrigo Girão Serrão
 
@@ -288,6 +289,7 @@
 * [Deep Generative Models](https://www.youtube.com/playlist?list=PL2UML_KCiC0UPzjW9BjO-IW6dqliu9O4B) - Volodymyr Kuleshov
 * [Foundation Models and Generative AI](https://ocw.mit.edu/courses/6-s087-foundation-models-and-generative-ai-january-iap-2024) - Rickard Gabrielsson (MIT OpenCourseWare)
 * [Generative AI for Beginners (.NET Edition)](https://github.com/microsoft/Generative-AI-for-beginners-dotnet) - Microsoft (GitHub)
+* [Generative AI for beginners with JavaScript](https://github.com/microsoft/generative-ai-with-javascript) - Microsoft (Github)
 * [LangChain & Vector Databases in Production](https://learn.activeloop.ai/courses/langchain) - Activeloop *(account required)*
 * [LangChain for LLM Application Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development) - Harrison Chase, Andrew Ng (DeepLearning.AI)
 * [Retrieval Augmented Generation for Production with LangChain & LlamaIndex](https://learn.activeloop.ai/courses/rag) - Activeloop *(account required)*
@@ -309,7 +311,9 @@
 ### AutoIt
 
 * [AutoIt Scripting Tutorial](https://www.youtube.com/playlist?list=PL4Jcq5zn02jKpjX0nqI1_fS7mEEb5tw6z) - TutsTeach
+* [AutoIt Tutorial](https://www.youtube.com/playlist?list=PL2EKpjm0bX4K_ztKMhWW7JPmk-uv15aYR) - Cool IT Help
 * [AutoIt Tutorials](https://www.youtube.com/playlist?list=PL1DCD109B801D0DE6) - 403forbidden403
+* [Autoit tutorials for beginners](https://www.youtube.com/playlist?list=PLe_F6wC3Fvdr1KpkS4oa7k47j-0z_8v9S) - Amarindaz
 * [The Basics AutoIt Tutorial](https://www.youtube.com/playlist?list=PLmB-aWjqd3PrkiIK-kiD_T08_g48n1Jdn) - MrAutoIt
 
 
@@ -394,6 +398,7 @@
 * [Foundational C# with Microsoft Certification](https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft) - freeCodeCamp, Microsoft (HTML)
 * [Fundamentals of Programming: Understanding C#](https://www.udemy.com/course/understandingc/) - Jesse Dietrichson (Udemy)
 * [Learn C#](https://www.codecademy.com/learn/learn-c-sharp) - Codecademy
+* [Programming Basics with C#](https://csharp-book.softuni.org) - Svetlin Nakov, Team
 
 
 ### <a id="cpp"></a>C++
@@ -445,6 +450,7 @@
 
 #### AWS
 
+* [AWS Certification Training Videos](https://www.youtube.com/playlist?list=PL9ooVrP1hQOFWxRJcGdCot7AgJu29SVV3) - Edureka!
 * [AWS Certified Cloud Practitioner Course (2020-2023)](https://www.youtube.com/playlist?list=PLt1SIbA8guuvfvUDVLpJepmbnYpOfYCIB) - Stephane Maarek
 * [AWS Certified Cloud Practitioner Course (CLF-C02)(2024)](https://www.youtube.com/watch?v=NhDYbskXRgc) - Andrew Brown (FreeCodeCamp)
 * [AWS Cloud Complete Bootcamp Course](https://www.youtube.com/watch?v=zA8guDqfv40) - Andrew Brown (FreeCodeCamp)
@@ -474,12 +480,14 @@
 
 #### IBM
 
+* [An Introduction to IBM Cloud Satellite](https://cognitiveclass.ai/courses/cloud-satellite) - IBM
 * [Getting started with IBM Cloud](https://cognitiveclass.ai/courses/ibm-cloud-essentials) - Horea Porutiu, Steve Martinelli
 * [IBM Cloud Essentials V3](https://cognitiveclass.ai/courses/ibm-cloud-essentials) - CognitiveClass.ai
 
 
 ### Compilers
 
+* [Compiler Design](https://www.youtube.com/playlist?list=PLWPirh4EWFpGa0qAEcNGJo2HSRC5_KMT6) - Arnab Chakraborty (TutorialsPoint)
 * [Compiler Design](https://www.youtube.com/playlist?list=PLLvKknWU7N4zpJWLqk7DXK26JwTB-gFmZ) - Lalit Vashistha
 * [Compiler Design](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjT3oJxFXRgjPNzeS-LFY-q) - Neso Academy
 * [Compiler Design](https://www.youtube.com/playlist?list=PLXj4XH7LcRfC9pGMWuM6UWE3V4YZ9TZzM) - Sudhakar Atchala
@@ -1028,6 +1036,7 @@
 * [JavaScript Leetcode](https://www.youtube.com/playlist?list=PLRKOqqzwh75hcG_D4xjUgbg_BAF3MLtoh) - Endeavour Monk
 * [JavaScript Mini Course 2020](https://www.udemy.com/course/javascript-essentials-mini-course/) - Kalob Taulien (Udemy)
 * [JavaScript Projects For Beginners \| Easy To Advance](https://youtube.com/playlist?list=PL9bD98LkBR7P16BndaNtP4x6Wf5Ib85Hm) - Tech2 etc
+* [JavaScript Tutorial](https://www.javascripttutorial.net) - Anthony Pham (javascripttutorial.net)
 * [JavaScript Tutorial for Beginners](https://www.youtube.com/playlist?list=PLK8cqdr55Tsva3vMrKZ9u2eAuGo0wIJ46) - ProgrammingWithHarry
 * [JavaScript Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET) - The Net Ninja
 * [JavaScript Tutorial for beginners](https://www.youtube.com/watch?v=W6NZfCO5SIk) - Moshfegh Hamedani (Programming with Mosh)
@@ -1038,6 +1047,7 @@
 * [Learn how to program: JavaScript](https://www.learnhowtoprogram.com/javascript) - Epicodus Inc.
 * [Learn JavaScript](https://www.youtube.com/playlist?list=PLgBH1CvjOA636I8hnHSyuOnX341XQrBth) -  Florin Pop
 * [Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg) -  Beau Carnes, freeCodeCamp.org
+* [Learn JavaScript - Programiz](https://www.programiz.com/javascript) - Programiz
 * [Learn JavaScript for free](https://scrimba.com/learn/learnjavascript) - Per Harald Borgen (Scrimba)
 * [Learn modern JavaScript](https://scrimba.com/learn/es6) - Beau Carnes (Scrimba) (Scrimba account *required*)
 * [Learn to Program in Javascript: Beginner to Pro](https://www.udemy.com/course/programming-in-javascript) - Raghavendra Dixit (Udemy)
@@ -1619,8 +1629,10 @@
 
 #### FastAPI
 
-* [FastAPI - A Python Framework | Full Course](https://www.youtube.com/watch?v=7t2alSnE2-I) - Bitfumes (YouTube)
+* [FastAPI - A Python Framework \| Full Course](https://www.youtube.com/watch?v=7t2alSnE2-I) - Bitfumes (YouTube)
+* [FastAPI - Complete Course for Python API Development](https://www.youtube.com/playlist?list=PL-2EBeDYMIbQghmnb865lpdmYyWU3I5F1) - BugBytes
 * [FastAPI Beyond CRUD FastAPI Course](https://www.youtube.com/playlist?list=PLEt8Tae2spYnHy378vMlPH--87cfeh33P) - Ssali Jonathan (Youtube)
+* [FastAPI Tutorial \| Python Web Framework](https://www.youtube.com/playlist?list=PLsyeobzWxl7qF4ASwCZZDXor_Y0YJ3Qfc) - Telusko
 
 
 #### Flask

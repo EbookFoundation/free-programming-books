@@ -831,6 +831,7 @@
 * [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) - Google (Coursera)
 * [Introduction to version control with Git](https://learn.microsoft.com/en-us/training/paths/intro-to-vc-git/) - Microsoft Learn
 * [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud) - Atlassian
+* [Git and GitHub for Beginners](https://www.freecodecamp.org/news/git-and-github-for-beginners/) - freeCodeCamp
 
 
 ### Go

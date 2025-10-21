@@ -2142,6 +2142,14 @@ Books on general-purpose programming that don't focus on a specific language are
 * [The Flask Mega-Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) - Miguel Grinberg (0.9)
 
 
+#### FastAPI
+
+* [FastAPI Documentation](https://fastapi.tiangolo.com/) - Sebastián Ramírez (HTML)
+* [Full Stack FastAPI and PostgreSQL](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Example project using FastAPI, PostgreSQL, and Docker
+* [TestDriven.io FastAPI Tutorials](https://testdriven.io/blog/topics/fastapi/) - Practical tutorials and articles for building APIs with FastAPI
+* [FastAPI — The Blue Book](https://lyz-code.github.io/blue-book/fastapi/) - Luis López (HTML)
+
+
 #### Kivy
 
 * [Kivy Programming Guide](https://kivy.org/docs/guide-index.html)

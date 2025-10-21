@@ -395,7 +395,7 @@
 * [Fundamentals of Programming: Understanding C#](https://www.udemy.com/course/understandingc/) - Jesse Dietrichson (Udemy)
 * [Learn C#](https://www.sololearn.com/learning/1080) - *registration required*
 * [Learn C#](https://www.codecademy.com/learn/learn-c-sharp) - Codecademy
-* [Programming Basics with C#](https://csharp-book.softuni.org) - SoftUniGlobal
+* [Programming Basics with C#](https://csharp-book.softuni.org) - Svetlin Nakov, Team
 
 
 ### <a id="cpp"></a>C++

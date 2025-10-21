@@ -238,3 +238,6 @@
 * [Cyber Security Tutorial Malayalam \| Ethical Hacking Courses for IT Career](https://www.youtube.com/playlist?list=PLR2UNjW_Pkm8LUpryeuiLMpEf4KgCDeBu) - RootSaid - Robotics, Technology & Cyber Security
 * [Ethical Hacking](https://www.youtube.com/playlist?list=PLLPuX9XQz1lU_ZNcTWcMn9CZOhgT6yjyZ) - Scratch Media
 
+### Selenium
+
+*[Complete Software Testing Malayalam Tutorial](https://youtu.be/M5O3awu0Fzk?si=bBzMKKMTIRPioM4Z)

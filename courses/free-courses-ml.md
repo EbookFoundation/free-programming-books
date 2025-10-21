@@ -133,6 +133,7 @@
 * [JavaScript Malayalam Tutorial](https://www.youtube.com/watch?v=3mjwtu4_0uk) - Yes Tech Media
 * [JavaScript Malayalam Tutorials For Beginners](https://www.youtube.com/playlist?list=PLQzHWfiB9fWdQ6qcl5Vo4JPOA3kxpCJ3A) - Learn Programming In Malayalam
 * [javascript tutorial in malayalam](https://youtube.com/playlist?list=PLBKJGko2JEdF4irCbI5BdHIEfxEdfMNqA) - Tintu Vlogger
+* [javaScript tutorial for beginners malayalam](https://www.youtube.com/playlist?list=PLPvjxHx5Kob2xn4eANiHRPSJmfqj3DMeo) - Wezlon
 
 
 #### Angular
@@ -216,6 +217,7 @@
 * [Python Programming Malayalam Tutorial](https://www.youtube.com/watch?v=ihnWXGPxNEk) - Yes Tech Media
 * [Python Tutorial Malayalam \| Best Malayalam Python Programming Tutorial](https://youtube.com/playlist?list=PLY-ecO2csVHfbpOmWamlb8Mujjdnl1jks) - Brototype Malayalam
 * [Python Tutorial Malayalam \| Full videos Playlist](https://youtube.com/playlist?list=PLd_rdeTABMgQgZj2g9IyWqA2bnkHDUyof&feature=shared) - Safeonnet
+* [Python FastAPI Tutorial Malayalam](https://youtube.com/playlist?list=PL1pQFrHyimJTUk2w27AU1n3jzxJjycZFc&si=64k_-OQrN000-_I9) - by Build From Zero
 
 
 #### Django
@@ -234,5 +236,5 @@
 ### Security
 
 * [Cyber Security Tutorial Malayalam \| Ethical Hacking Courses for IT Career](https://www.youtube.com/playlist?list=PLR2UNjW_Pkm8LUpryeuiLMpEf4KgCDeBu) - RootSaid - Robotics, Technology & Cyber Security
-* [Security Fundamentals](https://www.youtube.com/playlist?list=PLEhpnavDYfVhGnYA4l8btphQG8i2zO4cI) - Cyber Security Malayalam
+* [Ethical Hacking](https://www.youtube.com/playlist?list=PLLPuX9XQz1lU_ZNcTWcMn9CZOhgT6yjyZ) - Scratch Media
 

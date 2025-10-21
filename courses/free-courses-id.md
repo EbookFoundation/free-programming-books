@@ -117,6 +117,7 @@
 * [Belajar Docker untuk Pemula](https://www.youtube.com/playlist?list=PL4SGTPmSY0qkxCTe3Gd0wA-bQZChXhsNI) - Giri Kuncoro
 * [Mengenal Container dan Docker Sampai Jago Dalam 2 Jam](https://www.youtube.com/watch?v=26O6Ke03j3Y) - Imre Nagi
 * [Pengembangan Microservice Dengan Docker Compose](https://www.youtube.com/watch?v=ALGVV5cGUtc) - Imre Nagi
+* [Tutorial Docker](https://www.youtube.com/playlist?list=PLZS-MHyEIRo6A7ODX8EWghd0r4HgKjJvy) - Kelas Terbuka
 * [Tutorial Docker untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH-A7jBmdertzbeACuQWvQao) - Eko Kurniawan Khannedy, Programmer Zaman Now
 
 
@@ -175,6 +176,7 @@
 ### HTML and CSS
 
 * [Belajar CSS](https://alwaysngoding.com/belajar-css/teori) - Muhammad Saleh Solahudin, Always Ngoding (account *required*)
+* [Belajar CSS Layout](https://www.youtube.com/playlist?list=PLZS-MHyEIRo5iBPtg3ovrj25C1Wsu4O3I) - Kelas Terbuka
 * [Belajar FLEXBOX](https://www.youtube.com/playlist?list=PLFIM0718LjIU1lWlM34j6E9fMlrrSGZ1k) - Web Programming UNPAS
 * [Belajar HTML](https://alwaysngoding.com/belajar-html/teori) -  Muhammad Saleh Solahudin, Always Ngoding (account *required*)
 * [Belajar HTML 5](https://www.youtube.com/playlist?list=PLFIM0718LjIX-K5eeHRImnZhPUMhsw9A7) - Sandhika Galih, Web Programming UNPAS
@@ -186,6 +188,7 @@
 * [CSS Website Design](https://www.buildwithangga.com/kelas/css-website-design) - BuildWithAngga
 * [CSS3](https://www.youtube.com/playlist?list=PLFIM0718LjIVCmrSWbZPKCccCkfFw-Naa) - Web Programming UNPAS
 * [HTML Dasar](https://www.youtube.com/playlist?list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F) - Web Programming UNPAS
+* [HTML Dasar](https://www.youtube.com/playlist?list=PLZS-MHyEIRo7FTCFuVfsbpllsoAs53xDn) - Kelas Terbuka
 * [HTML5 Canvas](https://www.youtube.com/playlist?list=PL0-7Xi0GB3teW5TsBQmD2MzLU5ryjXkVE) - Idr Corner
 * [HTML5 Dasar](https://www.buildwithangga.com/kelas/html5-dasar) - BuildWithAngga
 * [HTML5 Pemula Dasar](https://www.petanikode.com/html-dasar/) - petanikode
@@ -217,8 +220,10 @@
 
 * [Belajar es6 - javacsript gaya baru](https://www.youtube.com/playlist?list=PLCZlgfAG0GXBWhs2AwMdPyKtMG2cF4YSR) - Sekolah Koding
 * [Belajar Full-stack JavaScript Dengan Next.js Dalam 6 Jam](https://www.youtube.com/watch?v=kproo1ezjH0&t=2s) - Nauval, Array Id
+* [Belajar Java Bahasa Indonesia (Dasar)](https://www.youtube.com/playlist?list=PLZS-MHyEIRo51w0Hmqi0C8h2KWNzDfo6F) - Kelas Terbuka
 * [Belajar JavaScript](https://alwaysngoding.com/belajar-javascript/teori) - Muhammad Saleh Solahudin, Always Ngoding (account *required*)
 * [Belajar JavaScript Async](https://www.youtube.com/playlist?list=PL-CtdCApEFH-I4CD6km3BcXqrhWAkY4et) - Eko Kurniawan Khannedy, Programmer Zaman Now
+* [Belajar JavaScript Dasar](https://www.youtube.com/playlist?list=PLZS-MHyEIRo6rAu3mYVNs2_y-fbJaOH5R) - Kelas Terbuka
 * [Belajar JavaScript Untuk Website](https://app.sko.dev/kelas/belajar-javascript-untuk-website) - sko.dev
 * [Dasar Pemrograman dengan JavaScriipt](https://www.youtube.com/playlist?list=PLFIM0718LjIWXagluzROrA-iBY9eeUt4w) - Web Programming UNPAS
 * [ExpressJS Tutorial Indonesia](https://www.youtube.com/playlist?list=PL9At9z2rvOC-sgzJx7rM_wMDONnEM4E0A) - Ekky Ridyanto (Balademy)
@@ -294,6 +299,7 @@
 ### Linux
 
 * [Belajar linux fundamentals](https://youtube.com/playlist?list=PLbLqbqNn7VYpnd7FggSeq18AgE4gdsy2F) - ID-Networkers
+* [Instalasi & Review Linux](https://www.youtube.com/playlist?list=PL2O3HdJI4voEclcVMPqHoS6GSgcVNGIjy) - Indonesia Belajar
 * [Linux Pemula](https://www.youtube.com/playlist?list=PLACzo3mGgHK_D2wkGu4AvUAQiqLC30PTz) - LINUXcare
 * [Tutorial Terminal Linux Bahasa Indonesia](https://www.youtube.com/playlist?list=PLy1BHEa_Wr-cpjWY5uOqsMxQwiQrRnC8B) - ArtAway
 
@@ -352,6 +358,7 @@
 #### Laravel
 
 * [Belajar CRUD Laravel 8 + Livewire](https://www.youtube.com/playlist?list=PLEgI20pG1DqzAa8npy9C_NDUvYwhslUb4) - Muhammad Amirul Ihsan (Kawan Koding)
+* [Belajar Laravel 5](https://www.youtube.com/playlist?list=PLCZlgfAG0GXDlNd0Flz20xksNtJQZWywz) - Sekolah Koding
 * [Belajar Laravel 7 Dari Awal](https://www.youtube.com/playlist?list=PLRKMmwY3-5MxfIKTn_wZ49XlplwHtz1AV) - Irsyad A. Panjaitan (Parsinta)
 * [Belajar Laravel 8](https://www.youtube.com/playlist?list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2) - Sandhika Galih, Web Programming UNPAS
 * [Belajar Laravel 8 Dari Awal](https://www.youtube.com/playlist?list=PLRKMmwY3-5MwADhthqRaewl-7e7AhjpP8) - Irsyad A. Panjaitan (Parsinta)
@@ -378,6 +385,7 @@
 * [OpenCV untuk Pemula](https://www.youtube.com/playlist?list=PLl-Zj2iuqlwt4cBsBy_Ej7gNlXdQ7blCB) - NgodingPython
 * [Python](https://codesaya.com/python/) - CodeSaya
 * [Python (dasar)](https://www.youtube.com/playlist?list=PLT2AwM1dOOUe27iCPe68Z0qwwDeNyJawN) - beecoder id *(Dalam Proses)*
+* [Tutorial Belajar Machine Learning Dasar | Python Scikit-Learn](https://www.youtube.com/playlist?list=PL2O3HdJI4voHNEv59SdXKRQVRZAFmwN9E) - Indonesia Belajar
 * [Tutorial Belajar Python Pandas](https://www.youtube.com/playlist?list=PL2O3HdJI4voGdD_9xhVCTBoDTDNHpajm5) - Indonesia Belajar
 * [Tutorial Python Beginner Bahasa Indonesia](https://www.youtube.com/watch?v=rWC2iFlN3TM) - Agung Setiawan
 * [Tutorial Python GUI dengan TKinter](https://www.youtube.com/playlist?list=PL2O3HdJI4voHjX09IpdsiSBNnLRaR-CbJ) - Indonesia Belajar

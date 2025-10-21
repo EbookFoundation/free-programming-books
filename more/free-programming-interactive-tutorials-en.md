@@ -131,6 +131,7 @@
 * [Data Science Tutorial for Beginners - Video Course](https://www.scaler.com/topics/course/python-for-data-science/) - course by Yash Sinha Scaler Topics
 * [Essential Linear Algebra for Data Science and Machine Learning](https://www.kdnuggets.com/2021/05/essential-linear-algebra-data-science-machine-learning.html) - KDnuggets
 * [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/) - Dan Margalit, Joseph Rabinoff (HTML, PDF)
+* [LLM Transformer Model Visually Explained](https://poloclub.github.io/transformer-explainer/) - Georgia Tech (HTML)
 * [Top 10 Data Science Projects for Beginners - KDnuggets](https://www.kdnuggets.com/2021/06/top-10-data-science-projects-beginners.html)
 
 
@@ -276,6 +277,7 @@
 #### Redux
 
 * [Front End Development Libraries: Redux](https://www.freecodecamp.org/learn/front-end-development-libraries/redux) - freeCodeCamp
+* [Redux Official Documentation](https://redux.js.org/introduction/getting-started)
 
 
 #### Svelte
@@ -370,6 +372,7 @@
 ### PostgreSQL
 
 * [PostgreSQL Tutorial](https://www.postgresqltutorial.com)
+* [PostgreSQL Tutorial](https://www.w3schools.com/postgresql/) - W3Schools
 
 
 ### Python
@@ -451,6 +454,7 @@
 
 * [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql) - Khan Academy
 * [MySQL Tutorial](https://www.w3schools.com/MySQL/) - W3Schools
+* [Select Star SQL](https://selectstarsql.com) - Zi Chong Kao (CC BY-SA)
 * [SQL at Codecademy](https://www.codecademy.com/courses/learn-sql)
 * [SQL Server Tutorial](https://www.tutlane.com/tutorial/sql-server) - tutlane
 * [SQL Teaching](https://www.sqlteaching.com)

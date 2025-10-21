@@ -1593,6 +1593,8 @@
 * [Python OOP : Object Oriented Programming in Python](https://www.udemy.com/course/object-oriented-python-programming/) - Deepali Srivastava (Udemy)
 * [Python OOP Tutorials - Working with Classes](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc) - Corey Schafer
 * [Python Pandas For Your Grandpa](https://www.gormanalysis.com/blog/python-pandas-for-your-grandpa/) - Ben Gorman
+* [Python: Visually Explained](https://youtube.com/playlist?list=PL8HmoRTjTSlHFhqRC_2iavGUOVnUdfAyl)
+* [Python Essentials](https://edube.org/study/pe1)
 * [Python Programming Essentials](https://www.coursera.org/learn/python-programming) - Scott Rixner, Joe Warren (Coursera)
 * [Python Programming From Scratch With Practicals](https://www.tutorialspoint.com/python_programming_from_scratch_with_practicals/index.asp) - Sundeep Saradhi Kanthety (Tutorials Point)
 * [Python Programming Language](https://www.geeksforgeeks.org/python-programming-language/) (Geeks for Geeks)

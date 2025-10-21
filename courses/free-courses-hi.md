@@ -187,13 +187,14 @@
 
 ### Bash and Shell
 
-* [Bash Basic Commands](https://www.youtube.com/playlist?list=PLzOLSdbK1deOKmOiiv-o4wn7xUj6ZYzrM) - Noob Coders
 * [Bash Scripting | Complete Course In Hindi](https://www.youtube.com/playlist?list=PLDnEHblf8hExnR-Xpmrpu3GdeO_4YJ_tD) - ENCODERSPRO
 * [Bash Scripting tutorial](https://www.youtube.com/playlist?list=PLxLRoXCDIalcosmDOQizh31EIHEK1njfO) - Fortify Solutions
-* [Bash Shell Scripting (NOOB)](https://www.youtube.com/playlist?list=PLzOLSdbK1deNuVMOw0EkKGSsES-rPeONe) - Noob Coders
+* [Shell Scripting and Bash Programming for Beginners In Hindi](https://www.youtube.com/playlist?list=PLZqV_M3p_p10yhNExLIKj497ZkdUz1KuB) - LogicOps Lab - Hindi
 * [shell scripting complete tutorial in hindi](https://www.youtube.com/playlist?list=PL9A0tISr5Ow5nZSY8-ICNAyXHJKesl_XL) - Cybersploit
+* [Shell Scripting For DevOps 2024 (Hindi)](https://www.youtube.com/playlist?list=PLlfy9GnSVerQu-uL0AdI3O5VzUmIv5pPf) - TrainWithShubham
 * [Shell Scripting Linux Beginners to Advanced in Hindi | Shell Scripting Tutorials for Beginner to Advanced in Hindi](https://www.youtube.com/playlist?list=PLrFWmDe-rblpqyEzyAW6TMJyut-pbQHlr) - Cloud Tech Burner
 * [SHELL SCRIPTING Tutorial For Beginners](https://www.youtube.com/playlist?list=PL0tP8lerTbX3MeIyMxGW2sLhWnPdn_xhd) - M Prashant
+* [Unix Shell Scripting Full Course](https://www.youtube.com/playlist?list=PL6UwySlcwEYIZGsbXnUxsojD0yeUA67lb) - AmpCode
 
 
 ### Blockchain

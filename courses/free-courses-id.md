@@ -87,6 +87,7 @@
 
 * [Belajar Pemrograman C#](https://www.youtube.com/playlist?list=PLuGFxya63u253zhOzhxanaSBNJ_UiIhUb) - Galih Pratama
 * [Tutorial Lengkap - Belajar Coding C# Programming untuk Pemula](https://www.youtube.com/playlist?list=PLa6D44cKrtoN9guvynhwiCIdUJ0CJkAMB) - Bimbingan Belajar Coding  
+* [Belajar C# C-Sharp Lengkap](https://www.youtube.com/playlist?list=PLYMJJHENUMwwiL91VnHhqV_Zy1LANgNVc) - Tech Tawar
 
 
 ### Construct

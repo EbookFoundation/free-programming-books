@@ -106,7 +106,7 @@
 * [Git Tutorial - Malayalam](https://www.youtube.com/playlist?list=PLQzJEzrRmXOW7pKbwpicijzUdxZmDgqNL) - Code Malayalam
 
 
-### GO or Golang
+### Go
 
 * [Complete Golang Programming Tutorial Series in മലയാളം for Beginners.](https://www.youtube.com/playlist?list=PL1pQFrHyimJQu8svbooHn5DMW4ntrbUPu) - Build From Zero
 * [Golang: Complete Tutorial in മലയാളം for Beginners](https://www.youtube.com/watch?v=S7Dfsky1bZ4) - CodeEase with Anu

@@ -81,6 +81,7 @@
 * [AIcrowd](https://www.aicrowd.com)
 * [CodaLab](https://codalab.lisn.upsaclay.fr)
 * [CrowdANALYTIX](https://www.crowdanalytix.com/community)
+* [Deep-ML](https://www.deep-ml.com/problems)
 * [DrivenData](https://www.drivendata.org)
 * [Kaggle](https://www.kaggle.com)
 * [Zindi](https://zindi.africa)

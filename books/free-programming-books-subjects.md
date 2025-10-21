@@ -920,8 +920,8 @@ Kerridge (PDF) (email address *requested*, not required)
 * [How to deal with Passwords](https://github.com/MHM5000/pass)
 * [Information Security Management](https://www.infosecuritybook.com) - Marcos Sêmola (PDF)
 * [Intrusion Detection Systems with Snort](https://ptgmedia.pearsoncmg.com/images/0131407333/downloads/0131407333.pdf) (PDF)
-* [Modern Cryptography Volume 1: A Classical Introduction](https://link.springer.com/book/10.1007/978-981-19-0920-7) - Zhiyong Zheng,Kun Tian,Fengxia Liu
-* [Modern Cryptography Volume 2: A Classical Introduction](https://link.springer.com/book/10.1007/978-981-19-7644-5) - Zhiyon Zheng,Kun Tian,Fengxia Liu
+* [Modern Cryptography Volume 1: A Classical Introduction](https://link.springer.com/book/10.1007/978-981-19-0920-7) - Zhiyong Zheng, Kun Tian, Fengxia Liu
+* [Modern Cryptography Volume 2: A Classical Introduction](https://link.springer.com/book/10.1007/978-981-19-7644-5) - Zhiyong Zheng, Kun Tian, Fengxia Liu
 * [Network Security](https://www.open.edu/openlearn/digital-computing/network-security/altformat-printable) - OpenLearn (PDF)
 * [OpenSSL Cookbook](https://www.feistyduck.com/library/openssl-cookbook/)
 * [OWASP Mobile Security Testing Guide](https://mobile-security.gitbook.io/mobile-security-testing-guide/) - Bernhard Mueller et al.

@@ -240,14 +240,14 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Ada
 
-* [A Guide to Ada for C and C++ Programmers](http://www.cs.uni.edu/~mccormic/4740/guide-c2ada.pdf) (PDF)
-* [Ada Distilled](http://www.adapower.com/pdfs/AdaDistilled07-27-2003.pdf) (PDF)
+* [A Guide to Ada for C and C++ Programmers](https://www.cs.uni.edu/~mccormic/4740/guide-c2ada.pdf) - Simon Johnston (PDF)
+* [Ada Distilled](http://www.adapower.com/pdfs/AdaDistilled07-27-2003.pdf) - Richard Riehle (PDF)
 * [Ada for the C++ or Java Developer](https://www.adacore.com/uploads/books/pdf/Ada_for_the_C_or_Java_Developer-cc.pdf) - Quentin Ochem (PDF) (CC BY-NC-SA)
 * [Ada Programming](https://en.wikibooks.org/wiki/Ada_Programming) - Wikibooks
 * [Ada Reference Manual - ISO/IEC 8652:2012(E) Language and Standard Libraries](http://www.ada-auth.org/standards/12rm/RM-Final.pdf) (PDF)
-* [Introduction To Ada](https://learn.adacore.com/courses/intro-to-ada/index.html)
-* [Introduction To SPARK](https://learn.adacore.com/courses/SPARK_for_the_MISRA_C_Developer/index.html)
-* [The Big Online Book of Linux Ada Programming](http://www.pegasoft.ca/resources/boblap/book.html)
+* [Introduction To Ada](https://learn.adacore.com/courses/intro-to-ada/index.html) - Raphaël Amiard, Gustavo A. Hoffmann (HTML, PDF, EPUB)
+* [Introduction To SPARK](https://learn.adacore.com/courses/SPARK_for_the_MISRA_C_Developer/index.html) - Yannick Moy, Ben Brosgol (HTML, PDF, EPUB)
+* [The Big Online Book of Linux Ada Programming](https://www.pegasoft.ca/resources/boblap/book.html) - Ken O. Burtch (HTML)
 
 
 ### Agda
@@ -623,6 +623,7 @@ Books on general-purpose programming that don't focus on a specific language are
 ### ColdFusion
 
 * [CFML In 100 Minutes](https://github.com/mhenke/CFML-in-100-minutes/blob/master/cfml100mins.markdown) - J. Casimir
+* [ColdFusion Programming](https://en.wikibooks.org/wiki/ColdFusion_Programming) - Wikibooks *( :construction: in process)*
 * [Learn CF in a Week](http://learncfinaweek.com)
 * [Learn Modern ColdFusion \<CFML\> in 100+ Minutes](https://modern-cfml.ortusbooks.com) - Luis Majano (HTML)
 * [Learning coldfusion](https://riptutorial.com/Download/coldfusion.pdf) - Compiled from StackOverflow documentation (PDF)
@@ -696,6 +697,7 @@ Books on general-purpose programming that don't focus on a specific language are
 ### DTrace
 
 * [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html)
+* [Solaris Dynamic Tracing Guide](https://docs.oracle.com/cd/E18752_01/pdf/817-6223.pdf) - Oracle (PDF)
 
 
 ### Eiffel
@@ -851,6 +853,7 @@ Books on general-purpose programming that don't focus on a specific language are
 #### GraphQL
 
 * [Fullstack GraphQL](https://github.com/GraphQLCollege/fullstack-graphql) (CC BY-NC-SA)
+* [GraphQL and Android](https://commonsware.com/GraphQL/GraphQL-0.1-CC.pdf) - Mack L. Murphy (PDF)
 * [GraphQL or Bust](https://nordicapis.com/wp-content/uploads/GraphQL-or-Bust-v2.2.pdf) - Nordic APIs (PDF)
 * [Learning graphqL](https://riptutorial.com/Download/graphql.pdf) - Compiled from StackOverflow Documentation (PDF)  (CC BY-SA)
 
@@ -1747,6 +1750,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Octave
 
+* [Introduction to GNU Octave](https://www.wcc.vccs.edu/sites/default/files/Introduction-to-GNU-Octave.pdf) - jason Lachniet (PDF)
 * [Octave Programming](https://en.wikibooks.org/wiki/Octave_Programming_Tutorial) - Wikibooks
 
 
@@ -2203,6 +2207,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Forecasting: Principles and Practice](https://otexts.com/fpp3/) - Rob J Hyndman, George Athanasopoulos
 * [Functional Programming](https://dcl-prog.stanford.edu) - Sara Altman, Bill Behrman, Hadley Wickham
 * [Geocomputation with R](https://r.geocompx.org) - Robin Lovelace, Jakub Nowosad, Jannes Muenchow
+* [Hands-On Programming with R](https://rstudio-education.github.io/hopr/) - Garrett Grolemund
 * [Introduction to Probability and Statistics Using R](https://github.com/gjkerns/IPSUR) - G. Jay Kerns (PDF)
 * [Learning Statistics with R](https://learningstatisticswithr.com/book/) - Danielle Navarro
 * [Mastering Software Development in R](https://bookdown.org/rdpeng/RProgDA/) - Roger D. Peng, Sean Kross, and Brooke Anderson
@@ -2370,6 +2375,8 @@ Books on general-purpose programming that don't focus on a specific language are
 
 
 ### Sage
+
+* [Sage](https://en.wikibooks.org/wiki/Sage) - Wikibooks *( :construction: in process)*
 
 * [Sage for Power Users](http://wstein.org/books/sagebook/sagebook.pdf) - William Stein (PDF)
 * [The Sage Manuals](http://www.sagemath.org/doc/)

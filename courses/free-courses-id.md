@@ -47,6 +47,7 @@
 ### Android
 
 * [Belajar Android Studio](https://www.malasngoding.com/category/android-studio/) - Muzanni (Malas Ngoding)
+* [Belajar Android Untuk Pemula](https://www.youtube.com/playlist?list=PLCZlgfAG0GXDOP6M6q981yyEG0PDcVyGq) - Sekolah Koding
 * [Belajar Fundamental Aplikasi Android](https://www.dicoding.com/academies/14) - Dicoding, membutuhkan registrasi
 * [Belajar Membuat Aplikasi Android untuk Pemula](https://www.dicoding.com/academies/51) - Dicoding, membutuhkan registrasi
 * [Menjadi Android Developer Expert](https://www.dicoding.com/academies/165) - Dicoding, membutuhkan registrasi
@@ -69,6 +70,7 @@
 ### Bootstrap
 
 * [Belajar Framework Bootstrap 5](https://www.youtube.com/playlist?list=PL53uJBBtLf5ChsCZp26yEcDQu5ujfhsM8) - Ngoding Pintar
+* [Belajar menggunakan bootstrap](https://www.youtube.com/playlist?list=PLCZlgfAG0GXC5wPjJGj1LvFaVK2cbN2GQ) - Sekolah Koding
 * [Tutorial Bootstrap 4 Lengkap dalam Bahasa Indonesia](https://www.youtube.com/playlist?list=PLce3Eyp7oY9-o3JavSawkXcazJSYx7KAf) - Framework Indonesia
 * [Tutorial Bootstrap 5 untuk Pemula Bahasa Indonesia](https://www.youtube.com/playlist?list=PLnrs9DcLyeJTxqZ4lWgVHXBwFgZEkwp9r) - Cara Fajar
 
@@ -218,6 +220,7 @@
 
 ### JavaScript
 
+* [Belajar Angular JS](https://www.youtube.com/playlist?list=PLCZlgfAG0GXBD2nko3bXRs-JSDNA8tNvq) - Sekolah Koding
 * [Belajar es6 - javacsript gaya baru](https://www.youtube.com/playlist?list=PLCZlgfAG0GXBWhs2AwMdPyKtMG2cF4YSR) - Sekolah Koding
 * [Belajar Full-stack JavaScript Dengan Next.js Dalam 6 Jam](https://www.youtube.com/watch?v=kproo1ezjH0&t=2s) - Nauval, Array Id
 * [Belajar Java Bahasa Indonesia (Dasar)](https://www.youtube.com/playlist?list=PLZS-MHyEIRo51w0Hmqi0C8h2KWNzDfo6F) - Kelas Terbuka
@@ -402,6 +405,7 @@
 
 ### Flask
 
+* [Belajar Membuat Website Dengan Flask Python](https://www.youtube.com/playlist?list=PL8q4s70ndvwfD1Nbrl5iYsgSWVStCXo5h) - Riffa Media
 * [Membuat website dengan Flask](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCZwaY3F4bHikozOBzrFD_R) - Sekolah Koding
 * [Tutorial web dengan flask sampai mahir](https://www.youtube.com/playlist?list=PL5vG7_Y90KtxXH4YhDcb5m4n82ShAPnPc) - Toufan RA
 

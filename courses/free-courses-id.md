@@ -218,6 +218,7 @@
 
 ### JavaScript
 
+* [Belajar Angular JS](https://www.youtube.com/playlist?list=PLCZlgfAG0GXBD2nko3bXRs-JSDNA8tNvq) - Sekolah Koding
 * [Belajar es6 - javacsript gaya baru](https://www.youtube.com/playlist?list=PLCZlgfAG0GXBWhs2AwMdPyKtMG2cF4YSR) - Sekolah Koding
 * [Belajar Full-stack JavaScript Dengan Next.js Dalam 6 Jam](https://www.youtube.com/watch?v=kproo1ezjH0&t=2s) - Nauval, Array Id
 * [Belajar Java Bahasa Indonesia (Dasar)](https://www.youtube.com/playlist?list=PLZS-MHyEIRo51w0Hmqi0C8h2KWNzDfo6F) - Kelas Terbuka

@@ -1832,6 +1832,7 @@
 
 * [Design 101 Crash Course: Learn UX/UI Design, Figma](https://www.youtube.com/watch?v=cKZEgtQUxlU&list=PL2HX_yT71umB_oqitnmDgYSKltddPfZ-k) - Zero To Mastery
 * [Figma 101 Crash Course: The Beginners Guide](https://www.youtube.com/watch?v=4HSK6-TFUzQ&list=PL2HX_yT71umB_oqitnmDgYSKltddPfZ-k) - Zero To Mastery
+* [Product Design Course](https://www.udacity.com/course/product-design--ud509) - Udacity
 * [UI/UX Design Tutorial - Wireframe, Mockup & Design in Figma](https://www.youtube.com/watch?v=c9Wg6Cb_YlU) - freeCodeCamp
 
 

@@ -283,7 +283,7 @@
 
 #### Generative AI
 
-* [AI Agents for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHgKcRjd5-8DT9TbwdlDO-OC&si=wBqpzi0kLkeKVWP1) - Microsoft
+* [AI Agents for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHgKcRjd5-8DT9TbwdlDO-OC) - Microsoft
 * [CS236: Deep Generative Models](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8) - Stefano Ermon (Stanford Online)
 * [Deep Generative Models](https://www.youtube.com/playlist?list=PL2UML_KCiC0UPzjW9BjO-IW6dqliu9O4B) - Volodymyr Kuleshov
 * [Foundation Models and Generative AI](https://ocw.mit.edu/courses/6-s087-foundation-models-and-generative-ai-january-iap-2024) - Rickard Gabrielsson (MIT OpenCourseWare)

@@ -12,6 +12,6 @@
 
 ### Misc
 
-* [NVIDIA RTX Blackwell GPU Architecture - PDF](
+* [NVIDIA RTX Blackwell GPU Architecture](
   https://images.nvidia.com/aem-dam/Solutions/geforce/blackwell/nvidia-rtx-blackwell-gpu-architecture.pdf
-) — NVIDIA
+) — NVIDIA (PDF)

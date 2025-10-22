@@ -339,7 +339,6 @@
 * [Python Playground](https://programiz.pro/ide/python) - Programiz PRO
 * [Python Trinket](https://trinket.io/python)
 * [Python Tutor](https://pythontutor.com)
-* [Python Tutorial](https://www.pythontutorial.net) - Anthony Pham (pythontutorial.net)
 * [Python.org Shell](https://www.python.org/shell)
 * [Repl.it - NiceDualPoint](https://repl.it/repls/NiceDualPoint#main.py)
 * [SoloLearn](https://code.sololearn.com/python)
@@ -424,7 +423,6 @@
 ### SQL
 
 * [Extends Class](https://extendsclass.com/sqlite-browser.html)
-* [MySQL Tutorial](https://www.mysqltutorial.org) - Anthony Pham (mysqltutorial.org)
 * [Online SQL Editor](https://www.programiz.com/sql/online-compiler) - Programiz
 * [Online SQL Editor](https://www.tutorialspoint.com/compilers/online-sql-editor.htm) - Tutorialspoint
 * [Oracle Live SQL](https://livesql.oracle.com)

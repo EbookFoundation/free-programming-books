@@ -1502,6 +1502,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Linux Appliance Design: A Hands-On Guide to Building Linux Appliances](http://librta.org/book.html) - Bob Smith, John Hardin, Graham Phillips, Bill Pierce (PDF, EPUB, MOBI)
 * [Linux commands Notes for Professionals](https://goalkicker.com/LinuxBook/) - Compiled from StackOverflow documentation (PDF)
 * [Linux Device Drivers, Third Edition](http://lwn.net/Kernel/LDD3/) - Jonathan Corbet, Alessandro Rubini, Greg Kroah-Hartman
+* [Linux Essentials - Version: 1.6](https://learning.lpi.org/en/learning-materials/010-160/) - Linux Professional Institute (PDF)
 * [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/stable/) - Gerard Beekmans, Bruce Dubbs, Ken Moffat, Pierre Labastie, et al.
 * [Linux Fundamentals](http://linux-training.be/linuxfun.pdf) - Paul Cobbaut (PDF)
 * [Linux Inside](https://0xax.gitbooks.io/linux-insides/content/index.html)

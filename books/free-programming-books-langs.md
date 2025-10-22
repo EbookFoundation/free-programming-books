@@ -2058,6 +2058,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook) - Jake VanderPlas (HTML, Jupyter Notebooks)
 * [Python for Astronomers](https://prappleizer.github.io/textbook.pdf) - Imad Pasha, Christopher Agostino (PDF)
 * [Python for Data Analysis](https://wesmckinney.com/book/) - Wes McKinney
+* [Python for Education](https://archive.org/details/Ajith_Kumar_B.P.___Python_for_Education/mode/2up) - Ajith Kumar B.P. (PDF & EPUB)
 * [Python for Everybody](http://py4e.com/book) - Charles Russell Severance (PDF, EPUB, HTML) (3.x)
 * [Python for Informatics: Exploring Information](http://www.pythonlearn.com/book.php) - Charles Russell Severance (2.7.5)
 * [Python for network engineers](https://pyneng.readthedocs.io/en/latest/) - Natasha Samoylenko

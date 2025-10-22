@@ -13,7 +13,7 @@
 
 ### Git
 
-* [Pro Git](https://git-scm.com/book/az/v2) (HTML, PDF, EPUB)
+* [Pro Git](https://git-scm.com/book/az/v2) - Scott Chacon, Ben Straub (HTML, PDF, EPUB)
 
 
 ### HTML

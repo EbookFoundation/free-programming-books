@@ -31,7 +31,7 @@
 
 ### Git
 
-* [Pro Git](https://git-scm.com/book/bg/v2) (HTML, PDF, EPUB)
+* [Pro Git](https://git-scm.com/book/bg/v2) - Scott Chacon, Ben Straub (HTML, PDF, EPUB)
 
 
 ### Java

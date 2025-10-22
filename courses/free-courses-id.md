@@ -100,6 +100,7 @@
 * [Dart Indonesia](https://www.youtube.com/playlist?list=PLoNv-2zK-dzEbZSFeGgSnpdp5i_Lwto-8) - CodeWithIhwan
 * [Dart Programming Untuk Persiapan Belajar Flutter](https://buildwithangga.com/kelas/dart-programming-untuk-persiapan-belajar-flutter) - Rifqi Eka (BuildWithAngga) *(phone number and email address required)*
 * [Pemrograman Berorientasi Objek - Dart](https://www.youtube.com/playlist?list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1) - Erico Darmawan Handoyo
+* [Pemrograman Dart Dasar](https://www.youtube.com/playlist?list=PLbLqbqNn7VYpWt6pC0C1fVNVSYrlJiX9p) - ID Networkers
 * [Tutorial Dart](https://www.kevintekno.com/p/tutorial-dart.html) - Kevin Tekno
 * [TUTORIAL DART DASAR (BAHASA INDONESIA)](https://www.youtube.com/watch?v=-mzXdI27tyk) - Eko Kurniawan Khannedy, Programmer Zaman Now
 * [Tutorial Dart OOP - Bahasa Indonesia](https://www.youtube.com/watch?v=k0ycD2aqPzU) - Eko Kurniawan Khannedy, Programmer Zaman Now

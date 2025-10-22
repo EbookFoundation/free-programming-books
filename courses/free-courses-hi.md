@@ -80,7 +80,7 @@
 
 * [Complete C++ DSA Course \| Data Structures & Algorithms Playlist](https://www.youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt) - Apna College
 * [Complete C++ Placement DSA Course](https://www.youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA) - CodeHelp by Babbar
-* [Complete DSA Course in Hindi | Free DSA Course Launch](https://www.youtube.com/playlist?list=PL0zysOflRCel693wumX2pbb-Zvi-5Ctea) - LearnCodeWithDurgesh
+* [Complete DSA Course in Hindi | Free DSA Course Launch](https://www.youtube.com/playlist?list=PL0zysOflRCel693wumX2pbb-Zvi-5Ctea) - Learn Code With Durgesh
 * [Data Structures and Algorithms Course in Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ahIappRPN0MCAgtOu3lQjQi) - CodeWithHarry
 * [Data Structures and Algorithms for GATE — Complete Playlist](https://www.youtube.com/playlist?list=PLC36xJgs4dxFCQVvjMrrjcY3XrcMm2GHy) - Gate CSE lectures by Amit Khurana
 * [Data Structures and Algorithms in Python](https://www.youtube.com/playlist?list=PLyMom0n-MBrpakdIZvnhd6PFUCKNAyKo1) - Jovian

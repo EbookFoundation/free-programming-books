@@ -1,6 +1,7 @@
 ### Index
 
 * [C](#c)
+* [Git](#git)
 * [HTML](#html)
 * [Linux](#linux)
   
@@ -9,6 +10,10 @@
 ### C
 
 * [C Proqramlaşdırma Dili](https://web.archive.org/web/20241214000729/https://ilkaddimlar.com/ders/c-proqramlasdirma-dili) ( :card_file_box: archived)
+
+### Git
+
+* [Pro Git](https://git-scm.com/book/az/v2) (HTML, PDF, EPUB)
 
 
 ### HTML

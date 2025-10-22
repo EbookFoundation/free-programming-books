@@ -465,7 +465,6 @@
 ### Java
 
 * [Complete Java Programming Course 2025](https://www.youtube.com/playlist?list=PLA3GkZPtsafY62QhQ030p85HAer0pFDdr) - Engineering Digest
-* [Master Java FAST: Ultimate One-Video Java Crash Course for 2025!](https://youtu.be/7-lK9EpBS_Y?si=1d0HTvaKwxydXAOk) - Engineering Digest
 * [Complete Java Programming in Hindi](https://www.youtube.com/playlist?list=PLmRclvVt5DtnqhXTJwd-oqVRwO3bLZCGV) - Anand Kumar, CodeitUp
 * [Core Java in Hindi](https://www.youtube.com/playlist?list=PLVlQHNRLflP8kPvCvEM7ZopbRB93joJXy) - Naresh i Technologies
 * [Core Java Programming (Hindi)](https://www.youtube.com/playlist?list=PLbGui_ZYuhij8Oplrvjt_RlDliZQgdxoV) - Rajesh Kumar, Geeky Shows
@@ -479,6 +478,7 @@
 * [Java tutorial in Hindi for beginners](https://www.youtube.com/playlist?list=PL8p2I9GklV466xs0qGUvLGAXy6xLyEcQy) - Code Step By Step
 * [Java Tutorials for Beginners](https://www.youtube.com/playlist?list=PLlhM4lkb2sEhfuXL-2BDrJ67WkUdQ2v9b) - Deepak Panwar, Smart Programming
 * [Java Tutorials For Beginners In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9agS67Uits0UnJyrYiXhDS6q) - CodeWithHarry
+* [Master Java FAST: Ultimate One-Video Java Crash Course for 2025!](https://youtu.be/7-lK9EpBS_Y?si=1d0HTvaKwxydXAOk) - Engineering Digest
 * [Microservice Tutorial in Hindi 2023](https://www.youtube.com/playlist?list=PL0zysOflRCelb2Y4WOVckFC6B050BzV0D) - Learn Code With Durgesh
 * [Object Oriented Programming with Java](https://www.youtube.com/playlist?list=PL9gnSGHSqcno1G3XjUbwzXHL8_EttOuKk) - Kunal Kushwaha
 * [Spring Framework Tutorial with SpringBoot  in Hindi Complete Course](https://www.youtube.com/playlist?list=PLiOIhBfKi8AIYNWEjYy1zZFe1N8GvPRHR) - CoderX Ankit

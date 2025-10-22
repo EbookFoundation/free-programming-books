@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "lint": "^0.8.19"
+  }
+}

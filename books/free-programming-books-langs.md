@@ -1703,7 +1703,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Nim Basics](https://narimiran.github.io/nim-basics) - narimiran
 * [Nim by Example](https://nim-by-example.github.io) - Flaviu Tamas
 * [Nim Days](https://xmonader.github.io/nimdays) - Ahmed Thabet
-
+* [ Mastering Nim] (https://www.yumpu.com/en/document/read/67766060/pdf-mastering-nim-a-complete-guide-to-the-programming-language-full#google_vignette) - Andreas Rumpf
 
 ### NoSQL
 

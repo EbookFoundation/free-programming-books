@@ -119,7 +119,7 @@
 * [Graph Data Structure & Algorithms Full Course In Hindi](https://www.youtube.com/playlist?list=PLzjZaW71kMwSrxEtvK5uQnfNQ9UjGGzA-) - Hello World
 * [Graphs - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHfqDcLZMcO9SsUDY4S3a-v) - Pepcoding
 * [Graphs - Level 2](https://www.youtube.com/playlist?list=PL-Jc9J83PIiEuHrjpZ9m94Nag4fwAvtPQ) - Pepcoding
-* [Heap Playlist Interview Questions Coding Tutorials Data Structures](https://youtube.com/playlist?list=PL_z_8CaSLPWdtY9W22VjnPxG30CXNZpI9) - Aditya Verma 
+* [Heap Playlist Interview Questions Coding Tutorials Data Structures](https://www.youtube.com/playlist?list=PL_z_8CaSLPWdtY9W22VjnPxG30CXNZpI9) - Aditya Verma 
 * [Java + Data Structures + Algorithms](https://www.youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s) - Apni Kaksha
 * [Java + DSA](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3LtFWcvwpqTkUSlB32kJop) - Apna College
 * [Linked List - Level 1](https://www.youtube.com/playlist?list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_) - Pepcoding
@@ -157,7 +157,7 @@
 * [Angular 12 - 13 tutorial in Hindi](https://www.youtube.com/playlist?list=PL8p2I9GklV45--5t7_N4lveUI6Y31vQ6C) - Code Step By Step
 * [Angular 13 Tutorial in Hindi](https://www.youtube.com/playlist?list=PL_qizAfcpJ-N2mRgfQxnDgsv20daqwlfN) - Sahosoft Solutions
 * [Angular 6/7/8 Series (In Hindi)](https://www.youtube.com/playlist?list=PLLhsXdvz0qjL1HVD2jAtlvoDmS5qj0OvA) - UX Trendz
-* [Angular In Depth](https://youtube.com/playlist?list=PLqLR2H326bY4GoOaaxVYwdbNl9dvyWKvU) - Computer Baba
+* [Angular In Depth](https://www.youtube.com/playlist?list=PLqLR2H326bY4GoOaaxVYwdbNl9dvyWKvU) - Computer Baba
 * [Learn Angular in one video (Hindi)](https://www.youtube.com/watch?v=0LhBvp8qpro&list=PLu0W_9lII9ahKZ42vg2w9ERPmShYbYAB7&index=21) - Code With Harry 
 
 
@@ -174,7 +174,7 @@
 
 * [Artificial Intelligence (Complete Playlist)](https://www.youtube.com/playlist?list=PLxCzCOWd7aiHGhOHV-nwb0HR5US5GFKFI) - Gate Smashers
 * [Artificial Intelligence Lectures Hindi](https://www.youtube.com/playlist?list=PLV8vIYTIdSnYsdt0Dh9KkD9WFEi7nVgbe) - Easy Engineering Classes
-* [Complete Basics of AI in One Shot](https://youtu.be/D1eL1EnxXXQ?si=a1tfhoMeznMc54Dx) - Apna College
+* [Complete Basics of AI in One Shot](https://www.youtube.com/D1eL1EnxXXQ?si=a1tfhoMeznMc54Dx) - Apna College
 * [Generative AI Series - Showcasing Generative AI By Building Projects](https://www.youtube.com/playlist?list=PLu0W_9lII9aiS4rUVp2jXwIvCruo27sG6) - CodeWithHarry
 * [LangChain](https://www.youtube.com/playlist?list=PLTDARY42LDV6flFgQLJCcVSXXa58mZ9Ty) - Krish Naik Hindi
 * [Playlist to Artificial Intelligence ](https://www.youtube.com/playlist?list=PLPIwNooIb9vgB1DQEftkKA3qOdeC4vonA) - Perfect Computer Engineer
@@ -867,4 +867,3 @@
 * [Wordpress Tutorial for Beginners \| Wordpress Tutorials in Hindi - The Complete Guide For Beginners](https://www.youtube.com/playlist?list=PLjVLYmrlmjGfC44WZSTvlsZFzxnQsysJb) - WsCube Tech
 * [Wordpress tutorials in hindi](https://www.youtube.com/playlist?list=PLlUrVpujUh3_PnBb1B-YOSP_oUqBL4gsh) - hindidevtuts
 * [WordPress Tutorials in Hindi](https://www.youtube.com/playlist?list=PLjpp5kBQLNTTEggPfaWMAL_yv7FYiBClc) - Tech Gun
- 

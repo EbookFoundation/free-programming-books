@@ -1,10 +1,10 @@
 ### Index
 
-* [All](#all)
+* [All Resources](#all resources)
 
 
-### All
+### All Resources
 
 * [English, By Programming Language](free-programming-books-langs.md)
 * [English, By Subject](free-programming-books-subjects.md)
-  (The list of books in English is here for historical reasons.)
+*  <sub> Note: This list is preserved for historical reference.</sub>

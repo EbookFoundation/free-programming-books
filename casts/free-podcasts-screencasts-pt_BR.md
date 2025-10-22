@@ -1,19 +1,21 @@
 ### Index
 
-* [Algoritmos](#algoritmos)
-* [Databases](#databases)
-* [DataScience](#datascience)
-* [Game development](#game-development)
-* [Haskell](#haskell)
-* [HTML and CSS](#html-and-css)
-* [iOS](#ios)
-* [Java](#java)
-* [Language Agnostic](#language-agnostic)
-* [PHP](#php)
-* [Python](#python)
-* [TypeScript](#typescript)
-    * [Angular](#angular)
-* [Vue.js](#vuejs)
+- [Index](#index)
+- [Algoritmos](#algoritmos)
+- [Databases](#databases)
+- [DataScience](#datascience)
+- [Game development](#game-development)
+- [Go](#go)
+- [Haskell](#haskell)
+- [HTML and CSS](#html-and-css)
+- [iOS](#ios)
+- [Java](#java)
+- [Language Agnostic](#language-agnostic)
+- [PHP](#php)
+- [Python](#python)
+- [TypeScript](#typescript)
+  - [Angular](#angular)
+- [Vue.js](#vuejs)
 
 
 ### Algoritmos
@@ -80,6 +82,7 @@
 ### Language Agnostic
 
 * [Baltacast - Podcast do balta.io](https://www.youtube.com/playlist?list=PLHlHvK2lnJneed8g24W1e0Zz9q1uvD7wg) (podcast)
+* [Cafezinho](https://www.youtube.com/playlist?list=PLnenY3wke2pd3GxmRwVfqDX6Nsn5-NneK) - Computação Crítica por Victor Osório (podcast)
 * [Castálio Podcast](http://castalio.info) (podcast)
 * [Cultura DevOps](https://www.youtube.com/playlist?list=PLFaao6abyD0cQp47BzJSQmeTegM2NLl_i) - Objective (podcast)
 * [DevNaEstrada](http://devnaestrada.com.br) (podcast)

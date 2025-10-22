@@ -283,6 +283,7 @@
 
 * [Aplicação Desktop com JavaScript, Electron JS e Vue JS](https://www.udemy.com/course/aplicacao-desktop-com-javascript-electron-js-e-vue-js/) - Leonardo Moura Leitao, Cod3r (Udemy)
 * [Curso completo e gratuito de Vue.js 3 do iniciante ao avançado](https://igorhalfeld.teachable.com/p/treinamento-completo-e-gratuito-de-vue-js-3-do-iniciante-ao-avancado) - Igor Halfeld, Vue.js Brasil (Teachable)
+* [Curso de Vue 3](https://www.youtube.com/playlist?list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL) - Matheus Battisti - Hora de Codar
 * [Introdução ao Vue JS](https://www.udemy.com/course/introducao-ao-vue-js/) - Rafael Rend (Udemy)
 * [Minicurso: Vue.js - O basicão](https://evolutio.io/curso/minicurso_vuejs) - Tony Lâmpada (Evolutio)
 
@@ -500,6 +501,7 @@
 ### Rust
 
 * [Aprenda Rust](https://www.youtube.com/playlist?list=PLjSf4DcGBdiGCNOrCoFgtj0KrUq1MRUME) - CodeShow
+* [Curso Rust Básico](https://www.youtube.com/playlist?list=PLGtFJAmtESz-V5p-svTX34bGQvNuXEpHE) - Linguagem Rust
 * [Programando do 0 ao avançado na linguagem de programação Rust](https://www.youtube.com/playlist?list=PLWmXJQDlXOHX6UdAmXv6euoqDPUtMLpJf) - Lanby 0xff3 λ
 
 
@@ -535,12 +537,15 @@
 * [Aprendendo Swift do Iniciante ao Avançado. (Mac e Windows)](https://www.udemy.com/aprendendoswift3/) - Lucas Alencar (Udemy)
 * [Curso de introdução ao desenvolvimento iOS](https://www.youtube.com/playlist?list=PLprgbdnzrDkHjUr2mFq0ypg-v6RNChKA8) Attekita Dev
 * [Curso de Swift - Programação](https://www.youtube.com/playlist?list=PLJ0AcghBBWShgIH122uw7H9T9-NIaFpP-) - Tiago Aguiar
+* [Curso de Swift Básico](https://www.youtube.com/playlist?list=PLTl7hsEfhCWVx6os_oOHpJF_YrJmRnIQk) - Novos Negócios em TIC
 * [Curso grátis Swift e SwiftUI](https://www.youtube.com/playlist?list=PLMdYygf53DP46rneFgJ7Ab6fJPcMvr8gC) - Filipe Deschamps
 
 
 ### TypeScript
 
 * [Curso completo de Typescript](https://www.youtube.com/playlist?list=PL9tY_tDo_Q0DOAzTaPnWYsryfNLsz1K6U) - Rincko Dev
+* [Curso de React com Typescript](https://www.youtube.com/playlist?list=PL29TaWXah3iZktD5o1IHbc7JDqG_80iOm) - Lucas Souza Dev
+* [Curso de Typescript](https://www.youtube.com/playlist?list=PLx4x_zx8csUhtPMrkiGvFJVE5LX8Qat5s) - CFBCursos
 * [Mini-curso de TypeScript](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_) - Willian Justen Curso
 * [TypeScript - Aprendendo Junto](https://www.youtube.com/playlist?list=PL62G310vn6nGg5OzjxE8FbYDzCs_UqrUs) - DevDojo
 * [Typescript - Zero to Hero](https://github.com/glaucia86/curso-typescript-zero-to-hero) - Glaucia Lemos
@@ -565,7 +570,9 @@
 * [Curso de Loja Virtual: WooCommerce + WordPress](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZNE5PAYc0h4iVkqBCgBZR) - Gustavo Guanabara (Curso em Vídeo)
 * [Curso de WordPress 2022 Grátis e Completo](https://www.youtube.com/playlist?list=PLltHgIJnfTsAnyA8KPXC6ohTYzGEreVEa) - CursoB Cursos Online
 * [Curso de WordPress 2025](https://www.youtube.com/playlist?list=PLa3bnULYnrpGrgUyQUXwrIUXk75_jO-n2) - Descomplicando Sites
+* [Curso de WordPress 2025: Como Criar um do zero](https://www.youtube.com/playlist?list=PLR9X8pL__UdiA1wMB02jndrD1d2kffu1o) - Curso WordPress Definitivo
 * [Curso de WordPress: Criando um site do zero](https://www.youtube.com/playlist?list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2) - Gustavo Guanabara (Curso em Vídeo)
+* [Curso WordPress na prática](https://www.youtube.com/playlist?list=PLSAqMrdVsnTabS-6FQPcr3LcF-UzEA7Co) - HostGator Brasil
 
 
 ### Segurança da Informação

@@ -288,6 +288,7 @@
 * [CS236: Deep Generative Models](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8) - Stefano Ermon (Stanford Online)
 * [Deep Generative Models](https://www.youtube.com/playlist?list=PL2UML_KCiC0UPzjW9BjO-IW6dqliu9O4B) - Volodymyr Kuleshov
 * [Foundation Models and Generative AI](https://ocw.mit.edu/courses/6-s087-foundation-models-and-generative-ai-january-iap-2024) - Rickard Gabrielsson (MIT OpenCourseWare)
+* [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/) - Microsoft
 * [Generative AI for Beginners (.NET Edition)](https://github.com/microsoft/Generative-AI-for-beginners-dotnet) - Microsoft (GitHub)
 * [Generative AI for beginners with JavaScript](https://github.com/microsoft/generative-ai-with-javascript) - Microsoft (Github)
 * [LangChain & Vector Databases in Production](https://learn.activeloop.ai/courses/langchain) - Activeloop *(account required)*
@@ -529,7 +530,8 @@
 
 ### Cuda
 
-* [CUDA Crash Course](https://www.youtube.com/playlist?list=PLxNPSjHT5qvtYRVdNN1yDcdSl39uHV_sU) - CoffeeBeforeArch
+* [CUDA Crash Course](https://www.youtube.com/playlist?list=PLxNPSjHT5qvtYRVdNN1yDcdSl39uHV_sU) - Nick
+* [CUDA Programming Course -- Parallel Computing using Nvidia GPUs](https://www.youtube.com/playlist?list=PL1ysOEBe5977vlocXuRt6KBCYu_sdu1Ru) - Learn Computer Science
 * [CUDA Programming Course – High-Performance Computing with GPUs](https://www.youtube.com/watch?v=86FAWCzIe_4&t=2s) - Elliot Arledge (FreeCodeCamp)
 * [CUDA Tutorials](https://www.youtube.com/playlist?list=PLKK11Ligqititws0ZOoGk3SW-TZCar4dK) - Creel
 
@@ -1492,7 +1494,7 @@
 ### Perl
 
 * [Perl Programming Course for Beginners](https://www.youtube.com/watch?v=_DFa26ep-h4) - freeCodeCamp
-* [Perl Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWpqRBcStwV0NwMA3nXMh5GC)
+* [Perl Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWpqRBcStwV0NwMA3nXMh5GC) - The Bad Tutorials
 * [Perl Tutorial: Basics to Advanced](https://www.youtube.com/playlist?list=PL1h5a0eaDD3rTG1U7w9wmff6ZAKDN3b16) - VLSI Academy
 
 

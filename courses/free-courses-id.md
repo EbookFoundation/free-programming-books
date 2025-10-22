@@ -337,6 +337,7 @@
 ### PHP
 
 * [Belajar PHP](https://alwaysngoding.com/belajar-php/teori) - Muhammad Saleh Solahudin, Always Ngoding (account *required*)
+* [Belajar PHP Dasar](https://www.youtube.com/playlist?list=PL53uJBBtLf5AiyMU-LMqIx7uz3-ozRTlb) - Ngoding Pintar
 * [Belajar PHP untuk PEMULA](https://www.youtube.com/playlist?list=PLFIM0718LjIUqXfmEIBE3-uzERZPh3vp6) - Web Programming UNPAS
 * [Membuat Aplikasi MVC dengan PHP](https://www.youtube.com/playlist?list=PLFIM0718LjIVEh_d-h5wAjsdv2W4SAtkx) - Web Programming UNPAS
 * [OOP Dasar pada PHP](https://www.youtube.com/playlist?list=PLFIM0718LjIWvxxll-6wLXrC_16h_Bl_p) - Web Programming UNPAS

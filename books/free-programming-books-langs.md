@@ -722,6 +722,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 * [Ecto Getting Started Guide](https://hexdocs.pm/ecto/getting-started.html#content) (HTML)
 * [The Little Ecto Cookbook](https://dashbit.co/ebooks/the-little-ecto-cookbook) - José Valim, Dashbit (PDF) (email address *required*)
+* [Design For Ecto](https://github.com/user-attachments/files/23045814/ecto-promo.pdf) - Bruce A. Tate
 
 
 #### Phoenix

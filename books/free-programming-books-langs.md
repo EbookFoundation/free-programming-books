@@ -284,7 +284,7 @@ Books on general-purpose programming that don't focus on a specific language are
 ### Arduino
 
 -   [Arduino-docs : A beginner's guide](https://arduino-doc.readthedocs.io/en/latest/) - Paramesh Chandra (HTML)
--   [Arduino Programming Notebook](https://unglue.it/work/152452) - Brian Evans (PDF) ( :card_file_box: _archived at unglue.it_) (CC BY-NC-SA)
+-   [Arduino Programming Notebook](https://unglue.it/work/152452) - Brian Evans (PDF) ( :card*file_box: \_archived at unglue.it*) (CC BY-NC-SA)
 -   [Arduino Projects Book](https://www.eitkw.com/wp-content/uploads/2020/03/Arduino_Projects_Book.pdf) - Scott Fitzgerald and Michael Shiloh (PDF)
 -   [Arduino Tips, Tricks, and Techniques](https://cdn-learn.adafruit.com/downloads/pdf/arduino-tips-tricks-and-techniques.pdf) - lady ada (PDF)
 -   [Getting started with Arduino – A Beginner’s Guide](http://manuals.makeuseof.com.s3.amazonaws.com/for-mobile/Arduino_-_MakeUseOf.com.pdf) - Brad Kendall (PDF)
@@ -552,7 +552,7 @@ Books on general-purpose programming that don't focus on a specific language are
 -   [Clojure Cookbook](https://github.com/clojure-cookbook/clojure-cookbook) (CC BY-NC-ND)
 -   [Clojure Distilled Beginner Guide](http://yogthos.github.io/ClojureDistilled.html)
 -   [Clojure for the Brave and True](http://www.braveclojure.com)
--   [Clojure in Small Pieces](https://web.archive.org/web/20201013022918/http://daly.axiom-developer.org/clojure.pdf) - Rich Hickey, Timothy Daly (PDF) _( :card_file_box: archived)_ [( :card_file_box: _unglued_)](https://unglue.it/work/489419/)
+-   [Clojure in Small Pieces](https://web.archive.org/web/20201013022918/http://daly.axiom-developer.org/clojure.pdf) - Rich Hickey, Timothy Daly (PDF) _( :card_file_box: archived)_ [( :card*file_box: \_unglued*)](https://unglue.it/work/489419/)
 -   [Clojure Koans](http://clojurekoans.com)
 -   [Clojure Programming](https://en.wikibooks.org/wiki/Clojure_Programming) - Wikibooks
 -   [ClojureScript Koans](http://clojurescriptkoans.com)
@@ -1280,10 +1280,12 @@ Books on general-purpose programming that don't focus on a specific language are
 -   [React JS Notes for Professionals](https://goalkicker.com/ReactJSBook/) - Compiled from StackOverflow Documentation (PDF)
 -   [React Primer Draft](https://github.com/mikechau/react-primer-draft)
 -   [React Succinctly](https://www.syncfusion.com/ebooks/react-succinctly) - Samer Buna
--   React Tutorial by Josh Finnie
+
+*   React Tutorial by Josh Finnie
     -   [React Tutorial - Part 1](http://www.joshfinnie.com/blog/reactjs-tutorial-part-1/) - Josh Finnie
     -   [React Tutorial - Part 2](http://www.joshfinnie.com/blog/reactjs-tutorial-part-2/) - Josh Finnie
     -   [React Tutorial - Part 3](http://www.joshfinnie.com/blog/reactjs-tutorial-part-3/) - Josh Finnie
+
 -   [React with ASP.NET Core Tutorial](https://reactjs.net/getting-started/aspnetcore.html)
 -   [React.js Tutorial: Now is Your Time to Try It, Right in Your Browser](https://codegeekz.com/react-js-tutorial/)
 -   [Redux Tutorial](https://www.tutorialspoint.com/redux/) - Tutorial Point (HTML, PDF)
@@ -2505,7 +2507,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Windows Phone
 
--   [Developing An Advanced Windows Phone 7.5 App That Connects To The Cloud](https://web.archive.org/web/20150709045622/http://download.microsoft.com/download/C/4/6/C4635738-5E06-4DF7-904E-BDC22AED2E58/Developing%20an%20Advanced%20Windows%20Phone%207.5%20App%20that%20Connects%20to%20the%20Cloud.pdf) - MSDN Library, David Britch, Francis Cheung, Adam Kinney, Rohit Sharma (PDF) ( :card_file_box: _archived_)
+-   [Developing An Advanced Windows Phone 7.5 App That Connects To The Cloud](https://web.archive.org/web/20150709045622/http://download.microsoft.com/download/C/4/6/C4635738-5E06-4DF7-904E-BDC22AED2E58/Developing%20an%20Advanced%20Windows%20Phone%207.5%20App%20that%20Connects%20to%20the%20Cloud.pdf) - MSDN Library, David Britch, Francis Cheung, Adam Kinney, Rohit Sharma (PDF) ( :card*file_box: \_archived*)
 -   [Windows Phone 8 Development Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/windowsphone8) - Matteo Pagani (PDF)
 -   [Windows Phone Programming Blue Book](http://www.robmiles.com/c-yellow-book/)
 

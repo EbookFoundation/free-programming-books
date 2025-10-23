@@ -29,8 +29,8 @@
 * [Python](#python)
 * [Rust](#rust)
 * [Solidity](#solidity)
-* [Data Science](#data-science)
 * [Dart](#dart)
+* [Data Science](#data-science)
 * [Kotlin](#kotlin)
 * [Machine Learning](#machine-learning)
 * [Swift](#swift)
@@ -251,17 +251,17 @@
 * [Smart Contract Blockchain pada E-Voting](https://www.researchgate.net/publication/337961765_Smart_Contract_Blockchain_pada_E-Voting) - Ajib Susanto (HTML, PDF)
 
 
-### <a id="data-science"></a>Data Science
-
-* [Belajar Data Science dengan Python](https://www.petanikode.com/tutorial/data-science/) - Ahmad Muhardian (Petani Kode) *( :construction: dalam proses)*
-* [Panduan Data Science untuk Pemula](https://www.duniailkom.com/tutorial-belajar-data-science/) - Duniailkom
-
-
 ### <a id="dart"></a>Dart
 
 * [Belajar Flutter untuk Pemula](https://www.petanikode.com/tutorial/flutter/) - Ahmad Muhardian (Petani Kode) *( :construction: dalam proses)*
 * [Dokumentasi Flutter Bahasa Indonesia](https://flutter.id) - Flutter Indonesia Community
 * [Tutorial Flutter Lengkap](https://www.duniailkom.com/tutorial-belajar-framework-flutter/) - Duniailkom
+
+
+### <a id="data-science"></a>Data Science
+
+* [Belajar Data Science dengan Python](https://www.petanikode.com/tutorial/data-science/) - Ahmad Muhardian (Petani Kode) *( :construction: dalam proses)*
+* [Panduan Data Science untuk Pemula](https://www.duniailkom.com/tutorial-belajar-data-science/) - Duniailkom
 
 
 ### <a id="kotlin"></a>Kotlin

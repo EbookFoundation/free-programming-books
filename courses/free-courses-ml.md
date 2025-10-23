@@ -12,6 +12,7 @@
 * [Flutter](#flutter)
 * [Game Development](#game-development)
 * [Git](#git)
+* [Go](#go)
 * [HTML and CSS](#html-and-css)
     * [Bootstrap](#bootstrap)
 * [Java](#java)
@@ -103,6 +104,11 @@
 * [Git malayalam tutorial github](https://youtube.com/playlist?list=PL4KwFGqvN4nsAlTIl6FcEubM2CtHW7zTC) - Debug Media
 * [Git Tutorial Malayalam \| Best Malayalam Git Tutorial \| Date With Git](https://youtube.com/playlist?list=PLY-ecO2csVHdLhAO6TERaMJXP8aqyWVt-) - Brototype Malayalam
 * [Git Tutorial - Malayalam](https://www.youtube.com/playlist?list=PLQzJEzrRmXOW7pKbwpicijzUdxZmDgqNL) - Code Malayalam
+
+
+### Go
+
+* [Golang: Complete Tutorial in മലയാളം for Beginners](https://www.youtube.com/watch?v=S7Dfsky1bZ4) - CodeEase with Anu
 
 
 ### HTML and CSS

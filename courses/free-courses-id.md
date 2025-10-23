@@ -47,6 +47,7 @@
 ### Android
 
 * [Belajar Android Studio](https://www.malasngoding.com/category/android-studio/) - Muzanni (Malas Ngoding)
+* [Belajar Android Untuk Pemula](https://www.youtube.com/playlist?list=PLCZlgfAG0GXDOP6M6q981yyEG0PDcVyGq) - Sekolah Koding
 * [Belajar Fundamental Aplikasi Android](https://www.dicoding.com/academies/14) - Dicoding, membutuhkan registrasi
 * [Belajar Membuat Aplikasi Android untuk Pemula](https://www.dicoding.com/academies/51) - Dicoding, membutuhkan registrasi
 * [Menjadi Android Developer Expert](https://www.dicoding.com/academies/165) - Dicoding, membutuhkan registrasi
@@ -69,6 +70,7 @@
 ### Bootstrap
 
 * [Belajar Framework Bootstrap 5](https://www.youtube.com/playlist?list=PL53uJBBtLf5ChsCZp26yEcDQu5ujfhsM8) - Ngoding Pintar
+* [Belajar menggunakan bootstrap](https://www.youtube.com/playlist?list=PLCZlgfAG0GXC5wPjJGj1LvFaVK2cbN2GQ) - Sekolah Koding
 * [Tutorial Bootstrap 4 Lengkap dalam Bahasa Indonesia](https://www.youtube.com/playlist?list=PLce3Eyp7oY9-o3JavSawkXcazJSYx7KAf) - Framework Indonesia
 * [Tutorial Bootstrap 5 untuk Pemula Bahasa Indonesia](https://www.youtube.com/playlist?list=PLnrs9DcLyeJTxqZ4lWgVHXBwFgZEkwp9r) - Cara Fajar
 
@@ -100,6 +102,7 @@
 * [Dart Indonesia](https://www.youtube.com/playlist?list=PLoNv-2zK-dzEbZSFeGgSnpdp5i_Lwto-8) - CodeWithIhwan
 * [Dart Programming Untuk Persiapan Belajar Flutter](https://buildwithangga.com/kelas/dart-programming-untuk-persiapan-belajar-flutter) - Rifqi Eka (BuildWithAngga) *(phone number and email address required)*
 * [Pemrograman Berorientasi Objek - Dart](https://www.youtube.com/playlist?list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1) - Erico Darmawan Handoyo
+* [Pemrograman Dart Dasar](https://www.youtube.com/playlist?list=PLbLqbqNn7VYpWt6pC0C1fVNVSYrlJiX9p) - ID Networkers
 * [Tutorial Dart](https://www.kevintekno.com/p/tutorial-dart.html) - Kevin Tekno
 * [TUTORIAL DART DASAR (BAHASA INDONESIA)](https://www.youtube.com/watch?v=-mzXdI27tyk) - Eko Kurniawan Khannedy, Programmer Zaman Now
 * [Tutorial Dart OOP - Bahasa Indonesia](https://www.youtube.com/watch?v=k0ycD2aqPzU) - Eko Kurniawan Khannedy, Programmer Zaman Now
@@ -203,6 +206,7 @@
 * [Belajar Java Bahasa Indonesia (Dasar)](https://www.youtube.com/playlist?list=PLZS-MHyEIRo51w0Hmqi0C8h2KWNzDfo6F) - Kelas Terbuka
 * [Belajar Java OOP Bahasa Indonesia](https://www.youtube.com/playlist?list=PLiuHSY2x882bBLmmli1ly06MWZY-EOqX8) - Imam Farisi
 * [Belajar Java Untuk Pemula](https://www.youtube.com/playlist?list=PLCZlgfAG0GXDUvrO3Bc_VUvIjWKnYIRJ1) - Hilman Ramadhan, Sekolah Koding
+* [Belajar Pemrograman Java dengan VSCode](https://www.youtube.com/playlist?list=PL53uJBBtLf5CsXG4Sx77dNMsrTser-ppH) - Ngoding Pintar
 * [Java Dasar](https://www.malasngoding.com/category/java/) - Muzanni (Malas Ngoding)
 * [JAVA TUTORIAL - BAHASA INDONESIA](https://www.youtube.com/playlist?list=PL-CtdCApEFH-p_Q2GyK4K3ORoAT0Yt7CX) - Eko Kurniawan Khannedy, Programmer Zaman Now
 * [Memulai Pemrograman dengan Java](https://www.dicoding.com/academies/60) - Dicoding, membutuhkan registrasi
@@ -218,6 +222,7 @@
 
 ### JavaScript
 
+* [Belajar Angular JS](https://www.youtube.com/playlist?list=PLCZlgfAG0GXBD2nko3bXRs-JSDNA8tNvq) - Sekolah Koding
 * [Belajar es6 - javacsript gaya baru](https://www.youtube.com/playlist?list=PLCZlgfAG0GXBWhs2AwMdPyKtMG2cF4YSR) - Sekolah Koding
 * [Belajar Full-stack JavaScript Dengan Next.js Dalam 6 Jam](https://www.youtube.com/watch?v=kproo1ezjH0&t=2s) - Nauval, Array Id
 * [Belajar Java Bahasa Indonesia (Dasar)](https://www.youtube.com/playlist?list=PLZS-MHyEIRo51w0Hmqi0C8h2KWNzDfo6F) - Kelas Terbuka
@@ -337,6 +342,7 @@
 ### PHP
 
 * [Belajar PHP](https://alwaysngoding.com/belajar-php/teori) - Muhammad Saleh Solahudin, Always Ngoding (account *required*)
+* [Belajar PHP Dasar](https://www.youtube.com/playlist?list=PL53uJBBtLf5AiyMU-LMqIx7uz3-ozRTlb) - Ngoding Pintar
 * [Belajar PHP untuk PEMULA](https://www.youtube.com/playlist?list=PLFIM0718LjIUqXfmEIBE3-uzERZPh3vp6) - Web Programming UNPAS
 * [Membuat Aplikasi MVC dengan PHP](https://www.youtube.com/playlist?list=PLFIM0718LjIVEh_d-h5wAjsdv2W4SAtkx) - Web Programming UNPAS
 * [OOP Dasar pada PHP](https://www.youtube.com/playlist?list=PLFIM0718LjIWvxxll-6wLXrC_16h_Bl_p) - Web Programming UNPAS
@@ -402,6 +408,7 @@
 
 ### Flask
 
+* [Belajar Membuat Website Dengan Flask Python](https://www.youtube.com/playlist?list=PL8q4s70ndvwfD1Nbrl5iYsgSWVStCXo5h) - Riffa Media
 * [Membuat website dengan Flask](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCZwaY3F4bHikozOBzrFD_R) - Sekolah Koding
 * [Tutorial web dengan flask sampai mahir](https://www.youtube.com/playlist?list=PL5vG7_Y90KtxXH4YhDcb5m4n82ShAPnPc) - Toufan RA
 

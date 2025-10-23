@@ -1583,7 +1583,7 @@
 * [Python Course](https://www.python-course.eu)
 * [Python Course from scratch](https://scrimba.com/playlist/pNpZMAB) - Olaf Paulson (scrimba)
 * [Python Data Analysis](https://www.coursera.org/learn/python-analysis) - Scott Rixner, Joe Warren (Coursera)
-* [Python Essentials](https://edube.org/study/pe1) (Edube)
+* [Python Essentials 1](https://edube.org/study/pe1) (Edube Interactive)
 * [Python for Beginners](https://alison.com/course/python-for-beginners) - Merul Dhiman (Alison)
 * [Python for Beginners](https://opencv.org/university/python-for-beginners/) - OpenCV University
 * [Python for Beginners](https://www.youtube.com/playlist?list=PLUaB-1hjhk8GHKfndKjyDMHPg_HlQ4vpK) - Alex The Analyst
@@ -1613,7 +1613,7 @@
 * [Python Tutorials](https://www.youtube.com/playlist?list=PLTjRvDozrdlxj5wgH4qkvwSOdHLOCx10f) - Programming with Mosh
 * [Python Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) - Corey Schafer
 * [Python Tutorials](https://www.youtube.com/playlist?list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB) - freeCodeCamp.org
-* [Python: Visually Explained](https://youtube.com/playlist?list=PL8HmoRTjTSlHFhqRC_2iavGUOVnUdfAyl) - Visually Explained (youtube)
+* [Python: Visually Explained](https://www.youtube.com/playlist?list=PL8HmoRTjTSlHFhqRC_2iavGUOVnUdfAyl) - Visually Explained
 * [The Python Tutorial](https://docs.python.org/3/tutorial/)
 * [Using Python for Research](https://www.edx.org/course/using-python-for-research) (edX Harvard)
 

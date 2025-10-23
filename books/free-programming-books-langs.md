@@ -697,6 +697,7 @@ Books on general-purpose programming that don't focus on a specific language are
 ### DTrace
 
 * [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html)
+* [Solaris Dynamic Tracing Guide](https://docs.oracle.com/cd/E18752_01/pdf/817-6223.pdf) - Oracle (PDF)
 
 
 ### Eiffel
@@ -852,6 +853,7 @@ Books on general-purpose programming that don't focus on a specific language are
 #### GraphQL
 
 * [Fullstack GraphQL](https://github.com/GraphQLCollege/fullstack-graphql) (CC BY-NC-SA)
+* [GraphQL and Android](https://commonsware.com/GraphQL/GraphQL-0.1-CC.pdf) - Mack L. Murphy (PDF)
 * [GraphQL or Bust](https://nordicapis.com/wp-content/uploads/GraphQL-or-Bust-v2.2.pdf) - Nordic APIs (PDF)
 * [Learning graphqL](https://riptutorial.com/Download/graphql.pdf) - Compiled from StackOverflow Documentation (PDF)  (CC BY-SA)
 
@@ -1082,6 +1084,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Learn Java for FTC](https://github.com/alan412/LearnJavaForFTC) - Alan Smith (PDF)
 * [Learning Java Language](https://riptutorial.com/Download/java-language.pdf) - Compiled from StackOverflow Documentation (PDF)
 * [Microservices Best Practices for Java](https://www.redbooks.ibm.com/redbooks/pdfs/sg248357.pdf) (PDF)
+* [Object-Oriented Programming in JavaTM Textbook](https://www.cs.southern.edu/halterman/oopj.pdf) - Richard L. Halterman (draft) (PDF) (CC)
 * [OOP - Learn Object Oriented Thinking & Programming](http://pub.bruckner.cz/titles/oop) - Rudolf Pecinovsky (PDF)
 * [Open Data Structures (in Java)](http://opendatastructures.org/ods-java.pdf) - Pat Morin (PDF) (CC BY)
 * [Playing with Java Microservices on Kubernetes and OpenShift](https://leanpub.com/playing-with-java-microservices-on-k8s-and-ocp) - Nebrass Lamouchi
@@ -1748,6 +1751,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Octave
 
+* [Introduction to GNU Octave](https://www.wcc.vccs.edu/sites/default/files/Introduction-to-GNU-Octave.pdf) - jason Lachniet (PDF)
 * [Octave Programming](https://en.wikibooks.org/wiki/Octave_Programming_Tutorial) - Wikibooks
 
 
@@ -2204,6 +2208,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Forecasting: Principles and Practice](https://otexts.com/fpp3/) - Rob J Hyndman, George Athanasopoulos
 * [Functional Programming](https://dcl-prog.stanford.edu) - Sara Altman, Bill Behrman, Hadley Wickham
 * [Geocomputation with R](https://r.geocompx.org) - Robin Lovelace, Jakub Nowosad, Jannes Muenchow
+* [Hands-On Programming with R](https://rstudio-education.github.io/hopr/) - Garrett Grolemund
 * [Introduction to Probability and Statistics Using R](https://github.com/gjkerns/IPSUR) - G. Jay Kerns (PDF)
 * [Learning Statistics with R](https://learningstatisticswithr.com/book/) - Danielle Navarro
 * [Mastering Software Development in R](https://bookdown.org/rdpeng/RProgDA/) - Roger D. Peng, Sean Kross, and Brooke Anderson

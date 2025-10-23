@@ -281,9 +281,5 @@
 ### <a id="swift"></a>Swift
 
 * [Belajar Swift untuk Pemula](https://www.petanikode.com/tutorial/swift/) - Ahmad Muhardian (Petani Kode) *( :construction: dalam proses)*
-* [Tutorial Swift iOS](https://www.duniailkom.com/tutorial-belajar-bahasa-pemrograman-swift/) - Duniailkom
-=======
-### Swift
-
 * [Swift Bahasa Indonesia](https://www.youtube.com/playlist?list=PLH1gH0TmFBBhR8A_Xq7drrxC4OlUvNP7b) - Ipung DEV Academy
->>>>>>> upstream/main
+* [Tutorial Swift iOS](https://www.duniailkom.com/tutorial-belajar-bahasa-pemrograman-swift/) - Duniailkom

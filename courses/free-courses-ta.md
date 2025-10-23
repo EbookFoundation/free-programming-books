@@ -69,16 +69,16 @@
 * [C# Playlist](https://www.youtube.com/playlist?list=PLiHeZHTmVuddLE9IW6vqUqwr12U1WzK3g) - Kaalaratham Tamil Tholaikaatchi
 * [C# Playlist](https://www.youtube.com/playlist?list=PLjuPgqaza-gpvva4T9FxIxO7Iyqk4sKTU) - Learn Technology in Tamil
 * [C# Playlist](https://www.youtube.com/playlist?list=PLN00Qh4gtjNv_MSn3_Nl6GqGYxyd_LIQM) - Programming Line
-* [C# Video](https://www.youtube.com/watch?v=wEv8QiCyeSE) - Anto sujesh
-* [C# Video](https://www.youtube.com/watch?v=74b1tdaf5MM&t=16s) - BTree Systems
-* [C# Video](https://www.youtube.com/watch?v=ciFCKxjuirM) - CodeWithKarthik
+* [C# Video-1](https://www.youtube.com/watch?v=wEv8QiCyeSE) - Anto sujesh
+* [C# Video-2](https://www.youtube.com/watch?v=74b1tdaf5MM&t=16s) - BTree Systems
+* [C# Video-3](https://www.youtube.com/watch?v=ciFCKxjuirM) - CodeWithKarthik
 
 
 ### <a id="dsa"></a>Data Structures and Algorithms
 
 * [Data Structures & Algorithms Python](https://www.youtube.com/playlist?list=PLVkDztYhxUGH9AubH9hLy_JYam8EZ9VKs) - Code Meal
-* [Data Structures and Algorithms in Java](https://www.youtube.com/playlist?list=PLYM2_EX_xVvX7_AmNY-Deacp3rT3MIXnE) - Logic First Tamil
 * [தமிழில் Data Structures and Algorithms](https://youtube.com/playlist?list=PL_UqaR55i1797oG0BL0wtxdPpa_NYNFLz) - CSE Tamila by Eezytutorials
+* [Data Structures and Algorithms in Java](https://www.youtube.com/playlist?list=PLYM2_EX_xVvX7_AmNY-Deacp3rT3MIXnE) - Logic First Tamil
 
 
 ### Express JS

@@ -2142,7 +2142,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [TestDriven.io FastAPI Tutorials](https://testdriven.io/blog/topics/fastapi) - Michael Herman et al.
 
 
-
 #### Flask
 
 * [Explore Flask](https://explore-flask.readthedocs.io) - Robert Picard

@@ -71,6 +71,11 @@
 * [Belajar Framework Bootstrap 5](https://www.youtube.com/playlist?list=PL53uJBBtLf5ChsCZp26yEcDQu5ujfhsM8) - Ngoding Pintar
 * [Tutorial Bootstrap 4 Lengkap dalam Bahasa Indonesia](https://www.youtube.com/playlist?list=PLce3Eyp7oY9-o3JavSawkXcazJSYx7KAf) - Framework Indonesia
 * [Tutorial Bootstrap 5 untuk Pemula Bahasa Indonesia](https://www.youtube.com/playlist?list=PLnrs9DcLyeJTxqZ4lWgVHXBwFgZEkwp9r) - Cara Fajar
+* [Bootstrap 5 Crash Course 2023](https://www.youtube.com/watch?v=4sosXZsdy-s) - Traversy Media
+* [Build Responsive Websites with Bootstrap 5](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ) - FreeCodeCamp (Covers grids, forms, buttons, and responsive design)
+* [Official Bootstrap Documentation](https://getbootstrap.com/docs/5.3/getting-started/introduction/) - Bootstrap
+* [Bootstrap 5 Tutorial for Beginners](https://www.youtube.com/watch?v=Jyvffr3aCp0) - The Net Ninja
+* [Bootstrap Made Easy](https://www.youtube.com/playlist?list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1) - Programming with Mosh
 
 
 ### C / C++

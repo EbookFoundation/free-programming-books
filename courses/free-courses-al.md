@@ -278,6 +278,7 @@
 * [React Hooks Tutorial](https://www.youtube.com/watch?v=f687hBjwFcM) - Codevolution
 * [Build a React App from Scratch](https://www.youtube.com/watch?v=4UZrsTqkcW4) - Clever Programmer
 
+
 #### Vue.js
 
 * [Tutorial Vue JS Bahasa Indonesia](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCFeOD_wBc9GrYF9pA8loLQ) - Sekolah Koding
@@ -310,7 +311,6 @@
 * [Kubernetes Hands-on Tutorial](https://www.youtube.com/playlist?list=PLy7NrYWoggjziYQIDorlXjTvvwweTYoNC) - TechWorld with Nana
 * [Learn Kubernetes – Beginner to Advanced](https://www.udemy.com/course/learn-kubernetes/) - Udemy (free preview available)
 * [Kubernetes in Action (Video Tutorials)](https://www.youtube.com/watch?v=PH-2FfFD2PU) - Manning Publications
-
 
 
 ### Linux

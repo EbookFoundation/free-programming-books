@@ -171,6 +171,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Python](#python)
     * [Django](#django)
     * [Flask](#flask)
+    * [FastAPI](#fastapi)
     * [Kivy](#kivy)
     * [Numpy](#numpy)
     * [Pandas](#pandas)

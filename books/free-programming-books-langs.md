@@ -170,8 +170,8 @@ Books on general-purpose programming that don't focus on a specific language are
 * [PureScript](#purescript)
 * [Python](#python)
     * [Django](#django)
-    * [Flask](#flask)
     * [FastAPI](#fastapi)
+    * [Flask](#flask)
     * [Kivy](#kivy)
     * [Numpy](#numpy)
     * [Pandas](#pandas)
@@ -2135,20 +2135,20 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Test-Driven Development With Python And Django](http://www.obeythetestinggoat.com/pages/book.html) (1.11)
 
 
-#### Flask
-
-* [Explore Flask](https://explore-flask.readthedocs.io) - Robert Picard
-* [Flask Documentation](https://flask.palletsprojects.com) - Pallets
-* [Python Flask Tutorial](https://www.tutorialspoint.com/flask/) - Tutorials Point (HTML, PDF)
-* [The Flask Mega-Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) - Miguel Grinberg (0.9)
-
-
 #### FastAPI
 
 * [FastAPI Documentation](https://fastapi.tiangolo.com) - Sebastián Ramírez (HTML)
 * [FastAPI — The Blue Book](https://lyz-code.github.io/blue-book/fastapi/) - Luis López (HTML)
 * [Full Stack FastAPI and PostgreSQL](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Sebastián Ramírez
 * [TestDriven.io FastAPI Tutorials](https://testdriven.io/blog/topics/fastapi) - Michael Herman
+
+
+#### Flask
+
+* [Explore Flask](https://explore-flask.readthedocs.io) - Robert Picard
+* [Flask Documentation](https://flask.palletsprojects.com) - Pallets
+* [Python Flask Tutorial](https://www.tutorialspoint.com/flask/) - Tutorials Point (HTML, PDF)
+* [The Flask Mega-Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) - Miguel Grinberg (0.9)
 
 
 #### Kivy

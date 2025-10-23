@@ -1979,9 +1979,9 @@ Books on general-purpose programming that don't focus on a specific language are
 
 #### FastAPI
 
--   [FastAPI — The Blue Book](https://lyz-code.github.io/blue-book/fastapi/) - Luis López (HTML)
 -   [FastAPI documentation](https://fastapi.tiangolo.com) - Sebastián Ramírez (HTML)
 -   [FastAPI Tutorial – Python Web APIs](https://realpython.com/fastapi-python-web-apis/) - Real Python (HTML)
+-   [FastAPI — The Blue Book](https://lyz-code.github.io/blue-book/fastapi/) - Luis López (HTML)
 
 #### Flask
 

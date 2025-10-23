@@ -253,7 +253,7 @@
 * [Node.js Dasar](https://buildwithangga.com/kelas/node-javascript-dasar?thumbnail=nk4neM2UyG.36&main_leads=browse) - BuildWithAngga
 * [Pelajaran Node.js Sederhana](https://easy-to-learn5.teachable.com/p/nodejs) - Easy To Learn 5
 * [RESTFul API dengan Express.js dan MongoDB](https://www.youtube.com/watch?v=4X0MFuE8ebs) - IDStack
-* [Tutorial NodeJS Dasar - Bahasa Indonesia](https://www.youtube.com/watch?v=b39Xqf5iyjo) - Eko Kurniawan Khannedy, Programmer Zaman Now
+* [Tutorial NodeJS Dasar - Bahasa Indonesia](https://www.youtube.com/watch?v=b39Xqf5iyjo) - Eko Kurniawan Khannedy, zProgrammer Zaman Now
 
 
 #### React
@@ -277,6 +277,7 @@
 * [Modern React with Redux](https://www.udemy.com/course/react-redux/) - Udemy (free preview available)
 * [React Hooks Tutorial](https://www.youtube.com/watch?v=f687hBjwFcM) - Codevolution
 * [Build a React App from Scratch](https://www.youtube.com/watch?v=4UZrsTqkcW4) - Clever Programmer
+
 
 #### Vue.js
 

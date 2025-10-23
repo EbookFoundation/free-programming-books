@@ -2134,6 +2134,12 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Social Auth App](https://python-social-auth.readthedocs.io/en/latest/) (HTML)
 * [Test-Driven Development With Python And Django](http://www.obeythetestinggoat.com/pages/book.html) (1.11)
 
+#### FastAPI 
+
+* [FastAPI documentation](https://fastapi.tiangolo.com/) - Sebastián Ramírez (HTML)
+* [FastAPI Tutorial – Python Web APIs](https://realpython.com/fastapi-python-web-apis/) - Real Python (HTML)
+* [FastAPI — The Blue Book](https://lyz-code.github.io/blue-book/fastapi/) - Luis López (HTML)
+
 
 #### Flask
 

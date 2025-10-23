@@ -1981,7 +1981,6 @@ Books on general-purpose programming that don't focus on a specific language are
 -   [FastAPI documentation](https://fastapi.tiangolo.com) - Sebastián Ramírez (HTML)
 -   [FastAPI Tutorial – Python Web APIs](https://realpython.com/fastapi-python-web-apis/) - Real Python (HTML)
 
-
 #### Flask
 
 -   [Explore Flask](https://explore-flask.readthedocs.io) - Robert Picard

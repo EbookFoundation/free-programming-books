@@ -251,6 +251,7 @@
 * [Smart Contract Blockchain pada E-Voting](https://www.researchgate.net/publication/337961765_Smart_Contract_Blockchain_pada_E-Voting) - Ajib Susanto (HTML, PDF)
 
 
+<<<<<<< HEAD
 ### <a id="data-science"></a>Data Science
 
 * [Belajar Data Science dengan Python](https://www.petanikode.com/tutorial/data-science/) - Ahmad Muhardian (Petani Kode) *( :construction: dalam proses)*
@@ -281,3 +282,8 @@
 
 * [Belajar Swift untuk Pemula](https://www.petanikode.com/tutorial/swift/) - Ahmad Muhardian (Petani Kode) *( :construction: dalam proses)*
 * [Tutorial Swift iOS](https://www.duniailkom.com/tutorial-belajar-bahasa-pemrograman-swift/) - Duniailkom
+=======
+### Swift
+
+* [Swift Bahasa Indonesia](https://www.youtube.com/playlist?list=PLH1gH0TmFBBhR8A_Xq7drrxC4OlUvNP7b) - Ipung DEV Academy
+>>>>>>> upstream/main

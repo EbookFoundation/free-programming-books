@@ -887,6 +887,7 @@
 * [Code Your First Game: Arcade Classic in JavaScript on Canvas](https://www.udemy.com/code-your-first-game/) - Chris DeLeon (Udemy)
 * [Complete HTML/CSS BootCamp](https://frontendmasters.com/bootcamp/) - FrontEnd Masters
 * [Conquering freeCodeCamp's Curriculum](https://www.youtube.com/playlist?list=PLgBH1CvjOA62oNEVgz-dECiCZCE_Q3ZFH) - Florin Pop
+* [Create Your First Local HTML/CSS Project](https://www.codecademy.com/article/f1-u2-create-first-prj) - CodeAcademy
 * [CSS Flexbox - Mastering the Basics](https://www.udemy.com/css-flexbox-mastering-the-basics/) - Vishwas Gopinath (Udemy)
 * [CSS Grid](https://cssgrid.io) - Wesbos
 * [CSS Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWqMH9a9DY8LFKrJ5NJCFHHe) - The Bad Tutorials
@@ -970,6 +971,7 @@
 * [CS106A - Programming Methodology](https://see.stanford.edu/Course/CS106A) (Stanford)
 * [Fundamentals of Java EE Development](https://www.edx.org/course/fundamentals-of-java-ee-development) -  Will Dinyes (edX)
 * [Hibernate Tutorial for Beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7qBZtsEvp_n2A7sJs2MpF3r) - Telusko (Navin Reddy)
+* [Intro To Java](https://www.codecademy.com/learn/java-introduction) - CodeAcademy *(Need to create a CodeAcademy account to access)*
 * [Introduction to Java](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/)
 * [Introduction to Java + DSA](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ) - Kunal Kushwaha
 * [Java + DSA + Interview Preparation Course](https://www.youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ) - Kunal Kushwaha
@@ -997,6 +999,7 @@
 * [Java Tutorial for Complete Beginners](https://www.udemy.com/course/java-tutorial/) - John Purcell (Udemy)
 * [JSP (Java server pages) and servlet basics](https://www.udemy.com/course/jsp-servlet-free/) - StudyEasy Organisation, Chaand Sheikh (Udemy)
 * [Learn how to program: Java](https://www.learnhowtoprogram.com/java-june-2017) - Epicodus Inc.
+* [Learn Java](https://www.codecademy.com/learn/learn-java) - CodeAcademy *(Need to create a CodeAcademy account to access)*
 * [Learn Java Programming](https://www.programiz.com/java-programming) - Programiz
 * [Learn Java Programming - Java for Testers and Developers](https://www.udemy.com/course/learn-java-programming-a/) - Pavan Kumar (Udemy)
 * [Most Asked Core Java Frequently Asked Questions](https://www.youtube.com/playlist?list=PLyHJZXNdCXscoyL5XEZoHHZ86_6h3GWE1) - Code Decode
@@ -1364,6 +1367,7 @@
 
 ### Lua
 
+* [Learn Lua](https://www.codecademy.com/learn/learn-lua) - CodeAcademy *(Need to create a CodeAcademy account to access)*
 * [Learn Lua in 15 Minutes](http://tylerneylon.com/a/learn-lua/) - Tyler Neylon (HTML)
 * [Learning Lua](https://youtube.com/playlist?list=PLxgtJR7f0RBKGid7F2dfv7qc-xWwSee2O) - Burtons Media Group
 * [Lua for Beginners](https://www.youtube.com/playlist?list=PL9URkxPt-PndpZlw8m_NHh0vUBU5J-BRF) - AlgoRythm

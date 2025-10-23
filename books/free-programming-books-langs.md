@@ -1574,6 +1574,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Lua
 
+* [A Guide to Lua](https://opensource.com/downloads/learn-lua) - Opensource.com (PDF, EPUB)
 * [Learning Lua ebook](https://riptutorial.com/Download/lua.pdf) - Compiled from StackOverflow Documentation (PDF)
 * [Lua 5.3 Reference Manual](http://www.lua.org/manual/5.3/)
 * [Lua Programming](https://en.wikibooks.org/wiki/Lua_Programming) - Wikibooks

@@ -2138,9 +2138,9 @@ Books on general-purpose programming that don't focus on a specific language are
 #### FastAPI
 
 * [FastAPI Documentation](https://fastapi.tiangolo.com) - Sebastián Ramírez (HTML)
-* [FastAPI — The Blue Book](https://lyz-code.github.io/blue-book/fastapi/) - Luis López (HTML)
 * [Full Stack FastAPI and PostgreSQL](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Sebastián Ramírez
-* [TestDriven.io FastAPI Tutorials](https://testdriven.io/blog/topics/fastapi) - Michael Herman
+* [TestDriven.io FastAPI Tutorials](https://testdriven.io/blog/topics/fastapi) - Michael Herman et al.
+
 
 
 #### Flask

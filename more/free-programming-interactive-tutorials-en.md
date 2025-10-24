@@ -393,6 +393,7 @@
 * [Python Tutorial](https://www.tutlane.com/tutorial/python) - tutlane
 * [Python Tutorial](https://www.w3schools.com/python) - W3Schools
 * [Python Tutorial](https://www.scaler.com/topics/python/) - Scaler Topics
+* [Python Tutorial](https://www.pythontutorial.net) - Anthony Pham (pythontutorial.net)
 * [Scientific Computing with Python Certification](https://www.freecodecamp.org/learn/scientific-computing-with-python/) - freeCodeCamp
 
 
@@ -454,6 +455,7 @@
 
 * [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql) - Khan Academy
 * [MySQL Tutorial](https://www.w3schools.com/MySQL/) - W3Schools
+* [MySQL Tutorial](https://www.mysqltutorial.org) - Anthony Pham (mysqltutorial.org)
 * [Select Star SQL](https://selectstarsql.com) - Zi Chong Kao (CC BY-SA)
 * [SQL at Codecademy](https://www.codecademy.com/courses/learn-sql)
 * [SQL Server Tutorial](https://www.tutlane.com/tutorial/sql-server) - tutlane

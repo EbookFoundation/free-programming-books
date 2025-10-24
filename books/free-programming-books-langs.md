@@ -328,6 +328,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 * [Blazor: A Beginner's Guide](https://www.telerik.com/campaigns/blazor/wp-beginners-guide-ebook) - Ed Charbeneau (PDF) (email address *requested*, not required)
 * [Blazor for ASP.NET Web Forms Developers](https://dotnet.microsoft.com/download/e-book/blazor-for-web-forms-devs/pdf) - Daniel Roth, Jeff Fritz, Taylor Southwick (PDF)
+* [Web Development With Blazor](https://dl.ebooksworld.ir/books/Web.Development.with.Blazor.Jimmy.Engstrom.Packt.9781800208728.EBooksWorld.ir.pdf)) - Jimmy Engstorm (PDF)
 
 
 ### Assembly Language

@@ -42,7 +42,8 @@
     * [Laravel](#laravel)
 * [PostgreSQL](#postgresql)
 * [Python](#python)
-    * [Jupyter](#jupyter)
+    * [FastAPI](#fastapi)
+    * [Jupyter](#jupyter)   
 * [R](#r)
 * [Regular Expressions](#regular-expressions)
 * [Ruby](#ruby)
@@ -395,6 +396,10 @@
 * [Python Tutorial](https://www.scaler.com/topics/python/) - Scaler Topics
 * [Python Tutorial](https://www.pythontutorial.net) - Anthony Pham (pythontutorial.net)
 * [Scientific Computing with Python Certification](https://www.freecodecamp.org/learn/scientific-computing-with-python/) - freeCodeCamp
+
+
+### FastAPI 
+* [FastAPI Cheat Sheet (PDF)](https://cheatsheetshero.com/user/all/391-fastapi-cheat-sheet.pdf) - cheatsheetshero
 
 
 ### Jupyter

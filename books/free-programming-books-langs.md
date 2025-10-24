@@ -44,6 +44,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [CUDA](#cuda)
 * [D](#d)
 * [Dart](#dart)
+* [Data Structures and Algorithms](#data-structures-and-algorithms)
 * [DB2](#db2)
 * [DBMS](#dbms)
 * [Delphi / Pascal](#delphi--pascal)
@@ -670,6 +671,13 @@ Books on general-purpose programming that don't focus on a specific language are
 
 * [Essential Dart](https://www.programming-books.io/essential/dart/) - Krzysztof Kowalczyk, StackOverflow Contributors
 * [Learning Dart](https://riptutorial.com/Download/dart.pdf) - Compiled from StackOverflow documentation (PDF)
+
+
+### Data Structures and Algorithms
+
+* [A Common-Sense Guide to Data Structures & Algorithms](https://github.com/GauravWalia19/Free-Algorithms-Books/blob/main/Library/src/JAVASCRIPT/A-Common-Sense-Guide-to-Data-Structures-and-Algorithms-Level-Up-Your-Core-Programming-Skills.pdf) - Jay Wengrow (PDF)
+* [Algorithms and Data Structures](https://textbookequity.org/Textbooks/Nievergelt_Algorithms%20and%20Data%20Structures08.pdf) - Jürg Nievergelt, Klaus Hinrichs (PDF)
+* [An Open Guide to Data Structures and Algorithms](https://open.umn.edu/opentextbooks/textbooks/an-open-guide-to-data-structures-and-algorithms) - Paul W. Bible, Lucas Moser (PDF)
 
 
 ### DB2
@@ -1995,7 +2003,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Dive into Python 3](https://diveintopython3.problemsolving.io) - Mark Pilgrim (3.0) (CC BY-SA)
     * [Dive into Python](https://linux.die.net/diveintopython/html/toc/index.html) - Mark Pilgrim (2.3)
 * [Essential Python](https://www.programming-books.io/essential/python/) - Krzysztof Kowalczyk, StackOverflow Contributors
-* [FastAPI — The Blue Book](https://lyz-code.github.io/blue-book/fastapi/) - Luis López (HTML)
 * [Full Stack Python](https://www.fullstackpython.com) - Matt Makai
 * [Functional Programming in Python](https://www.oreilly.com/ideas/functional-programming-in-python) - David Mertz  
 * [Fundamentals of  Python Programming](https://web.archive.org/web/20191005170430/http://python.cs.southern.edu/pythonbook/pythonbook.pdf) - Richard L. Halterman (PDF) *( :construction: in process)*
@@ -2137,6 +2144,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 #### FastAPI
 
+* [FastAPI — The Blue Book](https://lyz-code.github.io/blue-book/fastapi/) - Luis López (HTML)
 * [FastAPI Documentation](https://fastapi.tiangolo.com) - Sebastián Ramírez (HTML)
 * [Full Stack FastAPI and PostgreSQL](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Sebastián Ramírez
 * [TestDriven.io FastAPI Tutorials](https://testdriven.io/blog/topics/fastapi) - Michael Herman et al.

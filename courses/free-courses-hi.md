@@ -27,6 +27,7 @@
 * [Figma](#figma)
 * [Flutter](#flutter)
 * [Game Development](#game-development)
+* [Generative AI](#generative-ai)
 * [Git and GitHub](#git-and-github)
 * [Golang](#golang)
 * [HTML and CSS](#html-and-css)
@@ -374,6 +375,11 @@
 * [Python Game Development Using Pygame In Hindi](https://www.youtube.com/playlist?list=PLu0W_9lII9ailUQcxEPZrWgDoL36BtPYb) - CodeWithHarry
 * [Unity Game Development Tutorials in Hindi](https://www.youtube.com/playlist?list=PLCqWuVe6WFLJW4urlRk1501OkAGVQtX8q) - Sunny Games & Technology
 * [Unity Tutorial For Beginners In Hindi](https://www.youtube.com/playlist?list=PLSYBX91r-B-QoFxBATZJyle3aXvPtCmLe) - Nikhil Malankar
+
+
+### Generative AI
+
+* [Generative AI using LangChain](https://www.youtube.com/playlist?list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0) - CampusX
 
 
 ### Git and GitHub

@@ -521,6 +521,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [C++ Coding Standard](https://possibility.com/Cpp/CppCodingStandard.html) - Todd Hoff (HTML, PDF)
 * [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md) - `edt.:` Bjarne Stroustrup, Herb Sutter
 * [C++ For Programmers](https://tfetimes.com/wp-content/uploads/2015/04/c-for-c-programmers.pdf) - JT Kalnay (PDF)
+* [C++ Fundamentals for Robotics](https://automaticaddison.com/cpp-fundamentals-for-robotics) - Automatic Addison (HTML)
 * [C++ GUI Programming With Qt 3](https://ptgmedia.pearsoncmg.com/images/0131240722/downloads/blanchette_book.pdf) - Jasmin Blanchette, Mark Summerfield (PDF)
 * [C++ Language](http://www.cplusplus.com/doc/tutorial/) (HTML)
 * [C++ Notes for Professionals](https://goalkicker.com/CPlusPlusBook) - Compiled from StackOverflow Documentation (PDF) (CC BY-SA)
@@ -1084,6 +1085,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Learn Java for FTC](https://github.com/alan412/LearnJavaForFTC) - Alan Smith (PDF)
 * [Learning Java Language](https://riptutorial.com/Download/java-language.pdf) - Compiled from StackOverflow Documentation (PDF)
 * [Microservices Best Practices for Java](https://www.redbooks.ibm.com/redbooks/pdfs/sg248357.pdf) (PDF)
+* [Object-Oriented Programming in JavaTM Textbook](https://www.cs.southern.edu/halterman/oopj.pdf) - Richard L. Halterman (draft) (PDF) (CC)
 * [OOP - Learn Object Oriented Thinking & Programming](http://pub.bruckner.cz/titles/oop) - Rudolf Pecinovsky (PDF)
 * [Open Data Structures (in Java)](http://opendatastructures.org/ods-java.pdf) - Pat Morin (PDF) (CC BY)
 * [Playing with Java Microservices on Kubernetes and OpenShift](https://leanpub.com/playing-with-java-microservices-on-k8s-and-ocp) - Nebrass Lamouchi
@@ -1202,6 +1204,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Robust Client-Side JavaScript](https://molily.de/robust-javascript/) - Matthias Schäfer (HTML, EPUB)
 * [Single page apps in depth](http://singlepageappbook.com) - Mixu (HTML)
 * [Software Design by Example: A Tool-Based Introduction with JavaScript](https://third-bit.com/sdxjs/) - Greg Wilson (HTML)
+* [Some drops of JavaScript](https://drops-of-javascript.hi-folks.dev) - Roberto Butti (HTML) (CC BY-NC-SA) *( :construction: in process)*
 * [Speaking JavaScript](https://exploringjs.com/es5/) - Axel Rauschmayer (HTML)
 * [Standard ECMA-262 ECMAScript 2016 Language Specification](https://www.ecma-international.org/publications/standards/Ecma-262.htm) - Ecma International (HTML, PDF)
 * [The Code Challenge Book](https://s3.amazonaws.com/coderbytestaticimages/CoderbyteEbook.pdf) - Daniel Borowski (PDF)
@@ -1326,6 +1329,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Learn Next.js](https://nextjs.org/learn) - Vercel Inc.
 * [Mastering Next.js](https://masteringnextjs.com)
 * [Next.js 13 Crash Course 2023: Learn App Directory, React Server Components & More](https://www.youtube.com/watch?v=Y6KDk5iyrYE) - Brad Traversy (Traversy Media)
+* [Next.js for Beginners - Full Course](https://www.youtube.com/watch?v=1WmNXEVia8I) - freeCodeCamp.org
 * [The Next.js Handbook](https://flaviocopes.com/page/nextjs-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
 
 
@@ -1502,6 +1506,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Linux Appliance Design: A Hands-On Guide to Building Linux Appliances](http://librta.org/book.html) - Bob Smith, John Hardin, Graham Phillips, Bill Pierce (PDF, EPUB, MOBI)
 * [Linux commands Notes for Professionals](https://goalkicker.com/LinuxBook/) - Compiled from StackOverflow documentation (PDF)
 * [Linux Device Drivers, Third Edition](http://lwn.net/Kernel/LDD3/) - Jonathan Corbet, Alessandro Rubini, Greg Kroah-Hartman
+* [Linux Essentials - Version: 1.6](https://learning.lpi.org/en/learning-materials/010-160/) - Linux Professional Institute (PDF)
 * [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/stable/) - Gerard Beekmans, Bruce Dubbs, Ken Moffat, Pierre Labastie, et al.
 * [Linux Fundamentals](http://linux-training.be/linuxfun.pdf) - Paul Cobbaut (PDF)
 * [Linux Inside](https://0xax.gitbooks.io/linux-insides/content/index.html)
@@ -2377,8 +2382,8 @@ Books on general-purpose programming that don't focus on a specific language are
 ### Sage
 
 * [Sage](https://en.wikibooks.org/wiki/Sage) - Wikibooks *( :construction: in process)*
-
 * [Sage for Power Users](http://wstein.org/books/sagebook/sagebook.pdf) - William Stein (PDF)
+* [Sage Tutorial](https://doc.sagemath.org/html/en/tutorial/) - William Stein (HTML)
 * [The Sage Manuals](http://www.sagemath.org/doc/)
 
 

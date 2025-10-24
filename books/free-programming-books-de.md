@@ -205,6 +205,7 @@
 
 
 ### Python
+
 * [A Byte of Python - Einführung in Python](https://sourceforge.net/projects/abop-german.berlios/files) - Swaroop C H, Bernd Hengelein, Lutz Horn, Bernhard Krieger, Christoph Zwerschke (PDF)
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com) - Al Sweigart
 * [Programmiereinführung mit Python](http://opentechschool.github.io/python-beginners/de) (Online)

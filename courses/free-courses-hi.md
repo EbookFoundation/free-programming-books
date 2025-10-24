@@ -377,11 +377,6 @@
 * [Unity Tutorial For Beginners In Hindi](https://www.youtube.com/playlist?list=PLSYBX91r-B-QoFxBATZJyle3aXvPtCmLe) - Nikhil Malankar
 
 
-### Generative AI
-
-* [Generative AI using LangChain](https://www.youtube.com/playlist?list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0) - CampusX
-
-
 ### Git and GitHub
 
 * [Complete git and Github course in Hindi](https://www.youtube.com/watch?v=q8EevlEpQ2A) - Chai aur Code

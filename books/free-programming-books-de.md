@@ -206,8 +206,6 @@
 
 ### Python
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - Al Sweigart
-
-
 * [A Byte of Python - Einführung in Python](https://sourceforge.net/projects/abop-german.berlios/files) - Swaroop C H, Bernd Hengelein, Lutz Horn, Bernhard Krieger, Christoph Zwerschke (PDF)
 * [Programmiereinführung mit Python](http://opentechschool.github.io/python-beginners/de) (Online)
 * [PyQt und PySide: GUI und Anwendungsentwicklung mit Python und Qt](https://github.com/pbouda/pyqt-und-pyside-buch) - Peter Bouda, Michael Palmer, Dr. Markus Wirz (TeX, [PDF](https://github.com/pbouda/pyqt-und-pyside-buch/releases/latest)) *( :construction: in Bearbeitung)*

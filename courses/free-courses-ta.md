@@ -78,9 +78,9 @@
 * [CRYPTOGRAPHY & NETWORK SECURITY](https://www.youtube.com/playlist?list=PLmAmHQ-_5ySx_dXmOwSuGGGyE8XsbYT0n) - Trouble- Free
 * [Cryptography & Network security](https://www.youtube.com/playlist?list=PL1eBtGPYeYXXVme45jaTpG3RiRYyPbGoT) - Won the ARREARS
 * [Cryptography and Cyber Security CB3491](https://www.youtube.com/playlist?list=PLfNKAsmI385JgHfEw32fM9-4qT3fYiTFu) - PK Educational Institute
-* [Cryptography and Network Security](https://www.youtube.com/playlist?list=PLBMNl-szJPPePpMWV3GNIgI3rvSwo3Yav) - Terrace Out
 * [Cryptography and Cyber Security in Tamil](https://www.youtube.com/playlist?list=PLOmHrZkA584-moxtJEbgIgswpjSB6jkgl) - 4G Silver Academy தமிழ்
 * [Cryptography and Cyber security CB3491](https://www.youtube.com/playlist?list=PLwheXbz_XBtlAu-T0wq489qojaVqwxnlv) - Murugan Tech World
+* [Cryptography and Network Security](https://www.youtube.com/playlist?list=PLBMNl-szJPPePpMWV3GNIgI3rvSwo3Yav) - Terrace Out
 * [Cryptography and Network Security(CB3491)](https://www.youtube.com/playlist?list=PLR4Rlu17MDY5PP5MO6y3AehtPIBmN6ajX) - BECAUSE
 
 

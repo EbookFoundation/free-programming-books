@@ -1379,6 +1379,7 @@
 ### Machine Learning
 
 * [AWS Machine Learning Foundations Course](https://www.udacity.com/course/aws-machine-learning-foundations--ud065) - AWS (Udacity)
+* [Build a Machine Learning Pipeline](https://www.codecademy.com/learn/build-ml-pipelines-course) - Codecademy
 * [Caltech's Learning From data](https://work.caltech.edu/telecourse.html)
 * [Complete Machine Learning Bootcamp](https://www.youtube.com/playlist?list=PLyzHIYrZBplo3K0dNUqppd2ynnoZPD6N1) - Code for Cause
 * [Complete Machine Learning in Python playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe) - Krish Naik

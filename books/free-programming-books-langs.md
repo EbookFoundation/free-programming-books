@@ -1294,6 +1294,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 * [Express.js Guide](https://web.archive.org/web/20140621124403/https://leanpub.com/express/read) - Azat Mardanov *( :card_file_box: archived)*
 * [The Express.js Handbook](https://flaviocopes.com/page/express-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
+* [Express.js Guide: The Comprehensive Book on Express.js](https://freecomputerbooks.com/Express.js-Guide.html) - Azat Mardanov
 
 
 #### Fastify

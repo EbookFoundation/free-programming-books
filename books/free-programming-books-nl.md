@@ -3,6 +3,7 @@
 * [C](#c)
 * [C#](#csharp)
 * [COBOL](#cobol)
+* [Git](#git)
 * [Java](#java)
 * [PHP](#php)
     * [Symfony](#symfony)
@@ -23,6 +24,11 @@
 ### COBOL
 
 * [Programmeren in COBOL](https://nl.wikibooks.org/wiki/Programmeren_in_COBOL) - Wikibooks
+
+
+### Git
+
+* [Pro Git](https://git-scm.com/book/nl/v2) - Scott Chacon, Ben Straub (HTML, PDF, EPUB)
 
 
 ### Java

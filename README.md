@@ -113,6 +113,7 @@ This project lists books and other resources grouped by genres:
 + [Russian / Русский язык](books/free-programming-books-ru.md)
 + [Serbian / српски језик / srpski jezik](books/free-programming-books-sr.md)
 + [Slovak / slovenčina](books/free-programming-books-sk.md)
++ [Slovenian / Slovenščina](books/free-programming-books-sl.md)
 + [Spanish / español / castellano](books/free-programming-books-es.md)
 + [Swedish / Svenska](books/free-programming-books-sv.md)
 + [Tamil / தமிழ்](books/free-programming-books-ta.md)

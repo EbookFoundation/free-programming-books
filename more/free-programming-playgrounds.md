@@ -246,7 +246,7 @@
 * [Hello Website - (Glitch)](https://glitch.new/website) *(Account requested, not required)*
 * [InterviewBit - Online JavaScript Compiler IDE](https://www.interviewbit.com/online-javascript-compiler/)
 * [JavaScript Compiler](https://www.codinguru.online/compiler/javascript)
-* [JavaScript Online Compiler](https://www.programiz.com/javascript/online-compiler) -Programiz
+* [JavaScript Online Compiler](https://www.programiz.com/javascript/online-compiler) - Programiz
 * [JSBin](https://jsbin.com)
 * [JSFiddle](https://jsfiddle.net)
 * [Liveweave](https://liveweave.com) - Amit Sen

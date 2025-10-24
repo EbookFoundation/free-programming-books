@@ -3,6 +3,7 @@
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
+* [Git](#git)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
@@ -28,6 +29,11 @@
 * [Основи на програмирането със C++](https://cpp-book.softuni.bg) - Светлин Наков и колектив
 
 
+### Git
+
+* [Pro Git](https://git-scm.com/book/bg/v2) - Scott Chacon, Ben Straub (HTML, PDF, EPUB)
+
+
 ### Java
 
 * [Въведение в програмирането с Java](https://introprogramming.info/intro-java-book) - Светлин Наков и колектив
@@ -50,3 +56,4 @@
 ### Python
 
 * [Основи на програмирането с Python](https://python-book.softuni.bg) - Светлин Наков и колектив
+

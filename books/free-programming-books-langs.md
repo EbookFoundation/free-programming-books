@@ -130,6 +130,7 @@ Books on general-purpose programming that don't focus on a specific language are
     * [PicoLisp](#picolisp)
 * [Livecode](#livecode)
 * [Lua](#lua)
+* [Luganda (lg)](free-programming-books-lg.md)
 * [Make](#make)
 * [Markdown](#markdown)
 * [Mathematica](#mathematica)

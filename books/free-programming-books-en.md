@@ -10,8 +10,4 @@
   The list of books in English is here for historical reasons.
 
 
-### Misc
 
-* [NVIDIA RTX Blackwell GPU Architecture](
-  https://images.nvidia.com/aem-dam/Solutions/geforce/blackwell/nvidia-rtx-blackwell-gpu-architecture.pdf
-) — NVIDIA (PDF)

@@ -399,6 +399,7 @@
 
 
 ### FastAPI 
+
 * [FastAPI Cheat Sheet (PDF)](https://cheatsheetshero.com/user/all/391-fastapi-cheat-sheet.pdf) - cheatsheetshero
 
 

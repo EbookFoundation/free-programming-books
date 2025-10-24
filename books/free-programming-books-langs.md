@@ -2379,8 +2379,8 @@ Books on general-purpose programming that don't focus on a specific language are
 ### Sage
 
 * [Sage](https://en.wikibooks.org/wiki/Sage) - Wikibooks *( :construction: in process)*
-
 * [Sage for Power Users](http://wstein.org/books/sagebook/sagebook.pdf) - William Stein (PDF)
+* [Sage Tutorial](https://doc.sagemath.org/html/en/tutorial/) - William Stein (HTML)
 * [The Sage Manuals](http://www.sagemath.org/doc/)
 
 

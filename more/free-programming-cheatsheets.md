@@ -90,9 +90,9 @@
 
 ### Artificial Intelligence
 
+* [101 Gen-AI Cheat Sheets](https://medium.com/@anushka.datascoop/101-gen-ai-cheat-sheets-831e17f1e6a7) - Anushka (Medium)
 * [AI is confusing — here’s your cheat sheet](https://www.theverge.com/24201441/ai-terminology-explained-humans) Jay Peters (HTML)
 * [What is Artificial Intelligence?](https://intelligencereborn.com/ArtificialIntelligence.html) IntelligenceReborn (HTML)
-* [101 Gen-AI Cheat Sheets](https://medium.com/@anushka.datascoop/101-gen-ai-cheat-sheets-831e17f1e6a7) - Anushka (Medium)
 
 
 ### Blockchain

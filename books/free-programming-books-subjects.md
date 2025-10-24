@@ -34,7 +34,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
   * [Mathematics For Computer Science](#mathematics-for-computer-science)
 * [Misc](#misc)
 * [Networking](#networking)
-* [Object Oriented Programming](#object-oriented-programming)
+* [Object-Oriented Programming](#object-oriented-programming)
 * [Open Source Ecosystem](#open-source-ecosystem)
 * [Operating Systems](#operating-systems)
 * [Parallel Programming](#parallel-programming)

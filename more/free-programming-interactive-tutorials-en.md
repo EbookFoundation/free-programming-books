@@ -398,9 +398,9 @@
 * [Scientific Computing with Python Certification](https://www.freecodecamp.org/learn/scientific-computing-with-python/) - freeCodeCamp
 
 
-### FastAPI 
+### FastAPI
 
-* [FastAPI Cheat Sheet (PDF)](https://cheatsheetshero.com/user/all/391-fastapi-cheat-sheet.pdf) - cheatsheetshero
+* [FastAPI Cheat Sheet](https://cheatsheetshero.com/user/all/391-fastapi-cheat-sheet.pdf) - cheatsheetshero (PDF)
 
 
 ### Jupyter

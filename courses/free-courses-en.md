@@ -1573,6 +1573,7 @@
 * [Learn Python Programming](https://www.programiz.com/python-programming) - Programiz
 * [Learn Python Programming - Python Course](https://www.youtube.com/watch?v=f79MRyMsjrQ) - Programming With Mosh
 * [Learn Python Tutorial](https://www.kaggle.com/learn/python) (Kaggle)
+* [Learn To Code: Python for Absolute Beginners](https://www.educative.io/courses/learn-to-code-python-for-absolute-beginners) (Educative io)
 * [Learn to program in Python](https://www.codecademy.com/learn/python) - Codecademy
 * [Learn to Program: The Fundamentals](https://www.coursera.org/learn/learn-to-program) (Coursera)
 * [Practical Python: An Immersive Python Course](https://practical.learnpython.dev) - Nina Zakharenko

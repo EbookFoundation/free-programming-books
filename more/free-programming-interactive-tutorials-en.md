@@ -66,6 +66,7 @@
 
 ### Bash
 
+* [Bash Tutorial](https://www.w3schools.com/bash/) - W3Schools
 * [Help messages will explain everything](https://explainshell.com) - explainshell
 * [Learn Shell Programming](http://www.learnshell.org) - learnshell
 

@@ -298,6 +298,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) - Christopher Brooks (University of Michigan) (Coursera)
 * [Julia Data Science](https://juliadatascience.io) - Jose Storopoli, Rik Huijzer, Lazaro Alonso (HTML) (CC BY-NC-SA 4.0)
 * [Mining of Massive Datasets](http://infolab.stanford.edu/~ullman/mmds/book.pdf) - Jure Leskovec, Anand Rajaraman, Jeffrey D. Ullman (PDF)
+* [Practical Data Science with Jupyter](https://www.oreilly.com/library/view/practical-data-science/9781491959712/)- Nick Rashad, et al. (O'Reilly, free to read online)
 * [Probability and Statistics with Examples using R](https://www.isibang.ac.in/~athreya/psweur/index.html#usage) - Siva Athreya, Deepayan Sarkar, Steve Tanner (HTML) *( :construction: *in process*)*
 * [Python for Data Science – Hands-on Projects](https://www.youtube.com/watch?v=vaMMLLf0wLM) - LunarTech (freeCodeCamp) (YouTube)
 * [School of Data Handbook](https://schoolofdata.org/handbook/)
@@ -1006,6 +1007,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Programming Languages: Application and Interpretation (2nd Edition)](https://cs.brown.edu/~sk/Publications/Books/ProgLangs/) - Shriram Krishnamurthi
 * [Programming Languages: Theory and Practice](http://people.cs.uchicago.edu/~blume/classes/aut2008/proglang/text/offline.pdf) - Robert Harper (PDF)
 * [Semantics with Applications: A Formal Introduction](https://www.cs.ru.nl/~herman/onderwijs/semantics2019/wiley.pdf) - Hanne Riis Nielson, Flemming Nielson (PDF)
+
 
 
 ### <a id="version-control-systems"></a><a id="git"></a><a id="svn"></a><a id="subversion"></a><a id="mercurial"></a>Version Control Systems

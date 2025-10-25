@@ -123,6 +123,7 @@
 ### ClojureScript
 
 * [Web REPL](http://clojurescript.net)
+* [Online Clojure IDE](https://www.jdoodle.com/execute-clojure-online)
 
 
 ### ColdFusion

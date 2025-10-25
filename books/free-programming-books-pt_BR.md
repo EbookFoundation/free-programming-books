@@ -183,6 +183,7 @@
 * [Melhores Práticas de Arquitetura de Software na era da Nuvem](https://leanpub.com/manual-arquitetura-software) (Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo nos formatos PDF, EPUB, MOBI ou pelo próprio site)
 * [Microservices architecture](https://docs.microsoft.com/pt-br/dotnet/architecture/microservices/) (PDF)
 * [Modernizing existing .NET apps](https://docs.microsoft.com/pt-br/dotnet/architecture/modernize-with-azure-containers/) (PDF)
+* [Apostila de arquitetura de Software](https://www.inf.ufpr.br/andrey/ci163/IntroduzArquiteturaAl.pdf) (PDF)
 
 
 #### Outros

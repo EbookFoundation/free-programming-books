@@ -94,7 +94,7 @@ jobs:
     # Only if the linter step was executed (success or failure)
     - name: Upload linter output artifact
       if: steps.run_linter.conclusion == 'success' || steps.run_linter.conclusion == 'failure'
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v5
       with:
         name: rtl-linter-output # Name of the artifact
         path: rtl-linter-output.log # Path to the output file

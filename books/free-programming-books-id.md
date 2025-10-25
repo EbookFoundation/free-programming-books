@@ -244,6 +244,7 @@
 
 ### Solidity
 
+* [Mastering Solidity](https://skydope.gumroad.com/l/mastering-solidity-ebook-ID) - Skydope (PDF)
 * [Smart Contract Blockchain pada E-Voting](https://www.researchgate.net/publication/337961765_Smart_Contract_Blockchain_pada_E-Voting) - Ajib Susanto (HTML, PDF)
 
 

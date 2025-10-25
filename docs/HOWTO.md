@@ -31,4 +31,9 @@ Don't hesitate to ask questions; every contributor started with a first PR. So..
 
 Even if you're an experienced open source contributor, there are things that might trip you up. Once you've submitted your PR, ***GitHub Actions* will run a *linter*, often finding little issues with spacing or alphabetization**. If you get a green button, everything is ready for review; but if not, click "Details" under the check that failed to find out what the linter didn't like, and fix the problem adding a new commit to the branch from which your PR was opened.
 
-Finally, if you're not sure that the resource you want to add is appropriate for `Free-Programming-Books`, read through the guidelines in [CONTRIBUTING](CONTRIBUTING.md) *([translations](README.md#translations) also available)*.
+Finally, if you're not sure that the resource you want to add is appropriate for `Free-Programming-Books`, read through the guidelines in [./CONTRIBUTING](CONTRIBUTING.md) *([translations](README.md#translations) also available)*.
+
+---
+
+💡 **Tip for first-time contributors:**  
+Before submitting your Pull Request, preview your Markdown locally (for example, using VS Code’s Markdown Preview) to make sure all links, formatting, and images display correctly.

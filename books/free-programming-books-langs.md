@@ -997,6 +997,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Upgrade Your HTML](https://github.com/frontenddogma/upgrade-your-html) – Jens Oliver Meiert
 * [W3.CSS Succinctly](https://www.syncfusion.com/ebooks/w3_css_succinctly) - Joseph D. Booth
 * [Web Audio API](http://chimera.labs.oreilly.com/books/1234000001552) - Boris Smus
+* [Web Development Essentials - Version: 1.0](https://learning.lpi.org/en/learning-materials/030-100/) - by Linux Professional Institute (PDF)
 * [Web Visual Effects with CSS3](https://leanpub.com/web-visual-effects-with-css3/read) - Thomas Mak
 
 

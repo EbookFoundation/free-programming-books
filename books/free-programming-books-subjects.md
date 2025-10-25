@@ -761,6 +761,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Innovation Happens Elsewhere](https://dreamsongs.com/IHE/IHE.html) - Ron Goldman, Richard P. Gabriel
 * [Introduction to Networking](https://do1.dr-chuck.net/net-intro/EN_us/net-intro.pdf) - Charles Severance (PDF)
 * [Open Advice: FOSS: What We Wish We Had Known When We Started](http://open-advice.org)
+* [Open Source Essentials - Version: 1.0](https://learning.lpi.org/en/learning-materials/050-100/) - by Linux Professional Institute (PDF)
 * [Open source in Brazil](https://www.oreilly.com/ideas/open-source-in-brazil) - Andy Oram
 * [Producing Open Source Software](https://producingoss.com) - Karl Fogel
 * [Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure](https://www.fordfoundation.org/work/learning/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/) - Nadia Eghbal
@@ -928,6 +929,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Practical Cryptography for Developer](https://cryptobook.nakov.com) - Svetlin Nakov (GitBook) ( :construction: *in process*)
 * [Programming Differential Privacy](https://programming-dp.com) - Joseph Near, Chiké Abuah (HTML, PDF)
 * [Security Engineering](https://www.cl.cam.ac.uk/~rja14/book.html)
+* [Security Essentials - Version: 1.0](https://learning.lpi.org/en/learning-materials/020-100/) -  by Linux Professional Institute (PDF)
 * [The Joy of Cryptography (2021)](https://joyofcryptography.com/pdf/book.pdf) - Mike Rosulek (PDF)
 * [The MoonMath Manual to zk-SNARKs](https://leastauthority.com/community-matters/moonmath-manual/) - Least Authority
 * [The SELINUX Coloring Book](https://github.com/mairin/selinux-coloring-book) -  Daniel J Walsh, Máirín Duffy (PDF) (CC BY-SA)

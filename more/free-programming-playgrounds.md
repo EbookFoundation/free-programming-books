@@ -60,6 +60,7 @@
 
 * [Data Structures Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - David Galles
 * [The Algorithm Visualizer](https://algorithm-visualizer.org)
+* [visualising data structures and algorithms through animation](https://visualgo.net/en)
 
 
 ### APL
@@ -195,16 +196,21 @@
 
 ### HTML and CSS
 
+* [Bootstrap Builder](https://build.layoutit.com) - Layoutit
 * [CodePen](https://codepen.io)
 * [CSSdeck](https://cssdeck.com)
 * [Dabblet](https://dabblet.com)
 * [Flexbox Froggy](https://flexboxfroggy.com) - Codepip
 * [Flexy Boxes](https://the-echoplex.net/flexyboxes/)
 * [Grid Garden](https://cssgridgarden.com) - Codepip
+* [Grid Generator](https://grid.layoutit.com) - LayoutIt
+* [HTML-CSS-JS](https://html-css-js.com)
 * [HTML, CSS, JavaScript](https://www.codinguru.online/compiler/html)
 * [Learn advanced html and css](https://www.theodinproject.com/paths/full-stack-javascript/courses/advanced-html-and-css) - The Odin Project
 * [Learn Intermediate html and css](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css) - The Odin Project
 * [LiveCode](https://livecodes.io) - LiveCode
+* [Online HTML / CSS Editor](https://www.codechef.com/html-online-compiler) - CodeChef
+* [Online HTML Editor](https://www.programiz.com/html/online-compiler) - Programiz
 * [Play Code](https://playcode.io)
 * [SoloLearn](https://code.sololearn.com/web#css)
 * [Tailwind Play](https://play.tailwindcss.com)
@@ -241,6 +247,7 @@
 * [Hello Website - (Glitch)](https://glitch.new/website) *(Account requested, not required)*
 * [InterviewBit - Online JavaScript Compiler IDE](https://www.interviewbit.com/online-javascript-compiler/)
 * [JavaScript Compiler](https://www.codinguru.online/compiler/javascript)
+* [JavaScript Online Compiler](https://www.programiz.com/javascript/online-compiler) - Programiz
 * [JSBin](https://jsbin.com)
 * [JSFiddle](https://jsfiddle.net)
 * [Liveweave](https://liveweave.com) - Amit Sen

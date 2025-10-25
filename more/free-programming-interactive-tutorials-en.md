@@ -468,5 +468,6 @@
 
 ### XML
 
+* [XML Tutorial](https://www.tutorialspoint.com/xml/index.htm) - TutorialsPoint
 * [XML Tutorial](https://www.w3schools.com/xml) - W3Schools
 

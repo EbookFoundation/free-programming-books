@@ -59,6 +59,7 @@
 ### Android
 
 * [Desenvolvedor Android Iniciante](https://www.udemy.com/desenvolvedor-android-iniciante/) - Gabriel Ferrari, Adriano Sacardo (Udemy)
+* [Desenvolvimento de apps Android](https://www.youtube.com/playlist?list=PL50rZONmv8ZRsWj0L3rvSicPSEJl6sQ40) - Bruno Santos
 * [Introdução ao Desenvolvimento de Aplicativos Android](https://pt.coursera.org/learn/introducao-aplicativos-android) - Unicamp (Coursera)
 
 
@@ -66,6 +67,7 @@
 
 * [Aprenda C e C++ - Fundamentos Para Lógica de Programação](https://www.udemy.com/c-e-c-fundamentos-para-logica-de-programacao/) - One Day Code (Udemy)
 * [Curso de C](https://www.youtube.com/playlist?list=PLesCEcYj003SwVdufCQM5FIbrOd0GG1M4) - Cláudio Rogério Carvalho Filho (eXcript)
+* [Curso de Linguagem C](https://www.youtube.com/playlist?list=PLpaKFn4Q4GMOBAeqC1S5_Fna_Y5XaOQS2) - Pietro Martins De Oliveira 
 * [Curso de Programação C Completo](https://www.youtube.com/playlist?list=PLqJK4Oyr5WSjjEQCKkX6oXFORZX7ro3DA) - Programe seu futuro
 * [Programação Moderna em C](https://www.youtube.com/playlist?list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE) - Papo Binário
 

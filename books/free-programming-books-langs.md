@@ -862,6 +862,7 @@ Books on general-purpose programming that don't focus on a specific language are
 #### Gremlin
 
 * [Practical Gremlin - An Apache TinkerPop Tutorial](https://www.kelvinlawrence.net/book/PracticalGremlin.html) - Kelvin R. Lawrence
+* [Gremlin Graph Traversal Language](https://www3.nd.edu/~kogge/courses/cse60742-Fall2018/Public/StudentWork/ParadigmPaperv1/gremlin-nkh.pdf) - Nathaniel Kremer-Herman
 
 
 #### Neo4J

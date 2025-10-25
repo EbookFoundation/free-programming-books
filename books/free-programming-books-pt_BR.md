@@ -51,6 +51,7 @@
 * [Lua](#lua)
 * [Pascal](#pascal)
 * [PHP](#php)
+    * [Symfony](#symfony)
     * [Yii](#yii)
 * [Python](#python)
     * [Django](#django)
@@ -404,6 +405,11 @@
 * [Curso Linguagem PHP 2000](http://www.etelg.com.br/paginaete/downloads/informatica/php.pdf) Maurício Vivas de Souza Barreto (PDF)
 * [PHP Do jeito certo](http://br.phptherightway.com)
 * [PHPUnit](https://phpunit.de/manual/current/pt_br/index.html) (PDF, EPUB, MOBI)
+
+
+#### Symfony
+
+* [Symfony 5: A Trilha Rápida](https://web.archive.org/web/20200930102226/https://symfony.com/doc/5.0/the-fast-track/pt_BR/index.html) - Fabien Potencier (HTML) *( :card_file_box: archived)*
 
 
 #### Yii

@@ -12,6 +12,8 @@
 * [Linux](#linux)
 * [Open Source Software](#open-source-software)
 * [Operating System](#operating-systems)
+* [PHP](#php)
+    * [Symfony](#symfony)
 * [Python](#python)
 * [Raspberry Pi](#raspberry-pi)
 * [Scratch](#scratch)
@@ -75,6 +77,13 @@
 ### Operating Systems
 
 * [أنظمة التشغيل للمبرمجين](https://academy.hsoub.com/files/24-أنظمة-التشغيل-للمبرمجين/) - Allen B. Downey,&rlm; ترجمة علا عباس&rlm; (PDF)
+
+
+### PHP
+
+#### Symfony
+
+* [Symfony 5: بداية سريعة](https://web.archive.org/web/20200925101710/https://symfony.com/doc/5.0/the-fast-track/ar/index.html) - Fabien Potencier (HTML) *( :card_file_box: archived)*
 
 
 ### Python

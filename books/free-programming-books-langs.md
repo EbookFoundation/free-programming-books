@@ -1998,7 +1998,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Data Structures and Information Retrieval in Python](https://greenteapress.com/wp/data-structures-and-information-retrieval-in-python/) - Allen B. Downey
 * [Dive into Python 3](https://diveintopython3.problemsolving.io) - Mark Pilgrim (3.0) (CC BY-SA)
     * [Dive into Python](https://linux.die.net/diveintopython/html/toc/index.html) - Mark Pilgrim (2.3)
-* [Deep Learning with Python (2nd Edition)](https://livebook.manning.com/book/deep-learning-with-python-second-edition/) - François Chollet (HTML)
+* [Deep Learning with Python (2nd Edition)](https://livebook.manning.com/book/deep-learning-with-python-second-edition/) - François Chollet (HTML,free online)
 
 
 * [Essential Python](https://www.programming-books.io/essential/python/) - Krzysztof Kowalczyk, StackOverflow Contributors

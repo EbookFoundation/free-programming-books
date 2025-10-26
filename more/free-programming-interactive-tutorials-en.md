@@ -229,7 +229,6 @@
 ### JavaScript
 
 * [ABC of JavaScript : An Interactive JavaScript Tutorial](http://www.openjs.com/tutorials/basic_tutorial/)
-* [Learn JavaScript: Online Course for Free](https://code-basics.com/languages/javascript) - Code Basics
 * [Codecademy jquery track](https://www.codecademy.com/learn/jquery)
 * [Functional Programming in Javascript](https://github.com/ReactiveX/learnrx)
 * [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) - freeCodeCamp
@@ -243,6 +242,7 @@
 * [JSchallenger](https://www.jschallenger.com)
 * [Learn JavaScript](http://www.learn-js.org)
 * [Learn JavaScript](https://learnjavascript.online)
+* [Learn JavaScript: Online Course for Free](https://code-basics.com/languages/javascript) - Code Basics
 * [Learn knockout.js](http://learn.knockoutjs.com)
 * [Learn to Code for Free – Grasshopper](https://grasshopper.app)
 * [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)

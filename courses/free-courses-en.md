@@ -1714,6 +1714,7 @@
 
 * [Complete Rust Marathon](https://www.youtube.com/watch?v=joCFbTJt0o0&t=20s) - Harkirat Singh
 * [Comprehensive Rust](https://google.github.io/comprehensive-rust/index.html) - Google
+* [Getting Started with Rust (LFEL1002)](https://training.linuxfoundation.org/express-learning/getting-started-with-rust-lfel1002/) - The Linux Foundation
 * [Intro to Rust](https://www.youtube.com/playlist?list=PLJbE2Yu2zumDF6BX6_RdPisRVHgzV02NW) - Tensor Programming
 * [Learn Rust](https://www.youtube.com/playlist?list=PLO5VPQH6OWdXR8NlZt0jRbC39W_IyzS-v) - Smart Contract Programmer
 * [Learn Rust from scratch](https://www.educative.io/courses/learn-rust-from-scratch) - Educative.io

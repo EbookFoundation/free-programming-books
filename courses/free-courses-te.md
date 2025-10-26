@@ -159,7 +159,7 @@
 * [JavaScript Complete Tutorials In Telugu by Kotha Abhishek](https://www.youtube.com/watch?v=GuahuUTSUKI) - Chintu Tutorials
 * [JAVA SCRIPT FOR BEGINNERS IN 7 HOURS \|\| LEARN JAVA SCRIPT IN 7 HOURS \|\| JAVA SCRIPT](https://www.youtube.com/watch?v=BTuCzffKh8E) - Sundeep Saradhi Kanthety
 * [JavaScript in Telugu \|\| JavaScript in Telugu by Kotha Abhishek](https://www.youtube.com/playlist?list=PLv_sM9ZH4RUW_Pgz-6B0Q-YTfWvC7RVFN) - Chintu Tutorials
-* [Javascript Full Course In Telugu For Beginners To Pro](https://youtube.com/playlist?list=PLpp0qTynBRqlfMUd_-A65HQ8gAZ-evWLR&si=wYCoK8WC_E9B5Q-s) - Deekshitha Tech Talks
+* [Javascript Full Course In Telugu For Beginners To Pro](https://youtube.com/playlist?list=PLpp0qTynBRqlfMUd_-A65HQ8gAZ-evWLR) - Deekshitha Tech Talks
 
 
 #### ExpressJS
@@ -221,7 +221,7 @@
 * [Python in Telugu For Beginners - Complete Tutorial in 10 Hours](https://www.youtube.com/watch?v=fP9IvI4qu80) - Telugu Computer World
 * [Python in Telugu - Step by Step Tutorials](https://www.youtube.com/playlist?list=PLC2mgeYbYNm-3aTUq98pbmrA3P1_m-aJR) - Telugu Computer World
 * [Python Course in Telugu: 30 days challenge](https://www.youtube.com/playlist?list=PLNgoFk5SYUglQOaXSY8lAlPXmK6tQBHaw) - Vamsi Bhavani
-* [Python Full Course in Telugu with Notes](https://youtube.com/playlist?list=PL2Kd-KQLppEF2rENam5gUQnslbfpRyLxR&si=ycHJnxZJWsX8E36t) - Dodagatta Nihar
+* [Python Full Course in Telugu with Notes](https://youtube.com/playlist?list=PL2Kd-KQLppEF2rENam5gUQnslbfpRyLxR) - Dodagatta Nihar
 
 
 ### R
@@ -235,4 +235,4 @@
 * [SQL commands and PL/SQL programs complete in telugu - Oracle SQL-PL/SQL in telugu](https://www.youtube.com/watch?v=2XB5CddzEaM) - Edusoft Learning Systems - Learning Simplified
 * [SQL Tutorial for beginners in Telugu](https://www.youtube.com/playlist?list=PLANRDZaL1nlsfBLayvMb_y9k__o_8kt24) - Telugu Programmer
 * [Sql tutorials in telugu - sql video tutorials - sql tutorials for beginners telugu](https://www.youtube.com/playlist?list=PLXx2-0oYp1LPUXvjjriVMaMWALucsitR1) - VLR Training
-* [SQL Full Course in Telugu](https://youtube.com/playlist?list=PLpp0qTynBRqljESSL111GPBRK-_xXLuYL&si=lutItaOsJvn8nWvE) - Deekshitha Tech Talks
+* [SQL Full Course in Telugu](https://youtube.com/playlist?list=PLpp0qTynBRqljESSL111GPBRK-_xXLuYL) - Deekshitha Tech Talks

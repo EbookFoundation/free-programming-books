@@ -1998,6 +1998,9 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Data Structures and Information Retrieval in Python](https://greenteapress.com/wp/data-structures-and-information-retrieval-in-python/) - Allen B. Downey
 * [Dive into Python 3](https://diveintopython3.problemsolving.io) - Mark Pilgrim (3.0) (CC BY-SA)
     * [Dive into Python](https://linux.die.net/diveintopython/html/toc/index.html) - Mark Pilgrim (2.3)
+* [Deep Learning with Python (2nd Edition)](https://livebook.manning.com/book/deep-learning-with-python-second-edition/) - François Chollet (HTML)
+
+
 * [Essential Python](https://www.programming-books.io/essential/python/) - Krzysztof Kowalczyk, StackOverflow Contributors
 * [FastAPI — The Blue Book](https://lyz-code.github.io/blue-book/fastapi/) - Luis López (HTML)
 * [Full Stack Python](https://www.fullstackpython.com) - Matt Makai
@@ -2033,7 +2036,8 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Learn Python Visually](https://archive.org/details/learn-python-visually_compress/mode/2up) - Ivelin Demirov *( :card_file_box: archived)*
 * [Learn Python With Jupyter](https://www.learnpythonwithjupyter.com/assets/book/learn_python_with_jupyter.pdf) - Serena Bonaretti (PDF)
 * [Learn to Program Using Python](https://web.archive.org/web/20201224032210/https://www.ida.liu.se/~732A47/literature/PythonBook.pdf) - Cody Jackson (PDF) *( :card_file_box: archived)*
-* [Learning to Program](http://www.alan-g.me.uk)
+* [Learning to Program](http://www.alan-g.me.uk* [Deep Learning with Python (2nd Edition)](https://livebook.manning.com/book/deep-learning-with-python-second-edition/) - François Chollet (HTML)
+)
 * [Lectures on scientific computing with python](https://github.com/jrjohansson/scientific-python-lectures) - J.R. Johansson (2.7)
 * [Making Games with Python & Pygame](https://inventwithpython.com/pygame/chapters/) - Al Sweigart (3.2) (CC BY-NC-SA)
 * [Math for programmers (using python)](https://akuli.github.io/math-tutorial/)

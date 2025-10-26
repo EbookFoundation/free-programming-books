@@ -359,6 +359,7 @@
 
 ### PHP
 
+* [CodeBasics PHP](https://code-basics.com/languages/php)
 * [CodeCademy PHP](https://www.codecademy.com/learn/php)
 * [Learn PHP](http://www.learn-php.org)
 * [PHP tutorial](https://www.w3schools.com/php) - W3Schools
@@ -468,5 +469,6 @@
 
 ### XML
 
+* [XML Tutorial](https://www.tutorialspoint.com/xml/index.htm) - TutorialsPoint
 * [XML Tutorial](https://www.w3schools.com/xml) - W3Schools
 

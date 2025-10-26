@@ -4,6 +4,7 @@
     * [Архитектура приложений](#архитектура-приложений)
     * [Облачные Вычисления](#облачные-вычисления)
     * [Парадигмы Программирования](#парадигмы-программирования)
+    * [Производительность](#производительность)
     * [Работа c cетью](#работа-с-сетью)
     * [Управление конфигурациями](#управление-конфигурациями)
     * [Экосистема открытого исходного кода](#экосистема-открытого-исходного-кода)
@@ -72,6 +73,7 @@
     * [FirebirdSQL](#firebirdsql)
     * [PostgreSQL](#postgresql)
 * [Swift](#swift)
+* [Symbian](#symbian)
 * [TypeScript](#typescript)
     * [Angular](#angular)
 * [Unix](#unix)
@@ -108,6 +110,11 @@
 * [Введение в функциональное программирование](http://funprog-ru.github.io) - John Harrison
 * [Практика функционального программирования](https://www.fprog.ru) - журнал
 * [Рефакторинг на максималках](https://github.com/bespoyasov/refactor-like-a-superhero-online-book/blob/main/manuscript-ru/README.md) - Александр Беспоясов
+
+
+#### Производительность
+
+* [Продуманная оптимизация](https://optimization.guide) - Карлос Буэно
 
 
 #### Работа с сетью
@@ -591,6 +598,11 @@
 
 * [Документация и туториалы](https://swiftbook.ru)
 * [Swift Tutorial](https://coderlessons.com/tutorials/kompiuternoe-programmirovanie/nauchites-programmirovaniiu-swift/swift-tutorial) - CoderLessons.com
+
+
+### Symbian
+
+* [Symbian C++](https://github.com/trufanov-nok/SymbianBook_ru) -  А. Н Труфанов
 
 
 ### TypeScript

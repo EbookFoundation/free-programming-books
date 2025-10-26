@@ -18,11 +18,13 @@
 * [Java](#java)
 * [JavaScript](#javascript)
     * [Vue.js](#vuejs)
+* [Julia](#julia)
 * [Machine Learning](#machine-learning)
 * [Misto](#misto)
 * [Mobile](#mobile)
 * [Networking](#networking)
 * [Pascal](#pascal)
+* [Php](#php)
 * [Programmazione](#programmazione)
 * [Python](#python)
 * [Ruby](#ruby)
@@ -70,6 +72,7 @@
 
 * [Corso C Italiano](https://www.youtube.com/playlist?list=PLP5MAKLy8lP9J2blw2HWEDnaNjmvUW-QG) - Edoardo Midali
 * [Corso di programmazione in C](https://www.youtube.com/playlist?list=PLO4y9a8lTpK2ugwPRLN_1oOrlzX9Zc9It) - R. Rizzi, Università di Verona
+* [Corso di programmazione in C](https://www.youtube.com/playlist?list=PLrEMgOSrS_3cFJpM2gdw8EGFyRBZOyAKY) - Salvatore Sanfilippo
 * [Linguaggio C - Corso completo](https://www.youtube.com/playlist?list=PL83Ordjpzm5oUl7tFEjc4iirkPBiv7FxR) - Programmazione Time
 
 
@@ -105,6 +108,7 @@
 ### DevOps
 
 * [Corso DevOps](https://www.youtube.com/playlist?list=PLU2FPKLp7ojKcxrKXr1cFmXH81tMK4P3E) - Michele Ferracin
+* [DevOps con GitHub Actions](https://www.youtube.com/playlist?list=PLoZNHBEyxFQHOR8EiAD_tQnRAP49_Ev24) - Giovanni Pace
 * [Docker - EmmeCiLab](https://www.youtube.com/playlist?list=PLCbSCJEIR6CpDJw4MawjHlgbsP3IG376e) - Mauro Cicolella
 
 
@@ -132,6 +136,7 @@
 
 ### Java
 
+* [Corso Base Spring Boot](https://www.youtube.com/playlist?list=PLoZNHBEyxFQHFkgxYwri50YEmbiRADl-O) - Giovanni Pace
 * [Corso di Java Spring Framework](https://www.youtube.com/playlist?list=PLCbSCJEIR6CqgCLyVzqp49xOm8A5YDTKA) - Mauro Cicolella
 * [Corso di JPA Java Persistence API](https://www.youtube.com/playlist?list=PLCbSCJEIR6Co1aPvFfPuIsRGouF9D0Jk3) - Mauro Cicolella
 * [Corso Java in Italiano COMPLETO 2023/2024](https://www.youtube.com/playlist?list=PLUnSLr48xh3CAuL_Q0VAjthv0WbPuQQRR) - Code Brothers
@@ -139,7 +144,8 @@
 * [Esercitazioni di Spring Boot](https://www.youtube.com/playlist?list=PLCbSCJEIR6CpGchit9OCI6fX_qVYs78d_) - Mauro Cicolella
 * [Java EE](https://www.youtube.com/playlist?list=PLjGYWJ4Dcy-erfReHXB9Ush0cREGSmyIe) - Sonia Zorba
 * [Programmazione a Oggetti (Java)](https://www.youtube.com/playlist?list=PLUFFnpJdi99kewGZIHpCDgarZER_-J1am) - M. Torchiano, Politecnico di Torino
-* [Programmazione ad Oggetti - Java](https://www.youtube.com/playlist?list=PLhlcRDRHVUzTruZmXalUSJAK26pouP8ST) - Nicola Bicocchi 
+* [Programmazione ad Oggetti - Java](https://www.youtube.com/playlist?list=PLhlcRDRHVUzTruZmXalUSJAK26pouP8ST) - Nicola Bicocchi
+* [Spring Boot su Docker](https://www.youtube.com/playlist?list=PLoZNHBEyxFQGdNvr_5mMikHxuv2YHPjDz) - Giovanni Pace
 
 
 ### JavaScript
@@ -153,6 +159,11 @@
 #### Vue.js
 
 * [Vue 2.x (corso base)](https://www.youtube.com/playlist?list=PL0qAPtx8YtJdUH44fvkzVxy9waP23I_bE) - Fabrizio Camuso
+
+
+### Julia
+
+* [Corso di linguaggio Julia](https://www.youtube.com/playlist?list=PL4GzWsD6ECaWvDCPuPB9OxdIye8IZXCuE) - Leonardo Boselli
 
 
 ### Machine Learning
@@ -183,6 +194,11 @@
 
 * [Corso di programmazione in Pascal](https://www.youtube.com/playlist?list=PLO4y9a8lTpK1DS45Wljy0l5rMtVNIesRJ) - R. Rizzi, Università di Verona
 * [Videocorso Pascal (Turbo e FPC)](https://www.youtube.com/playlist?list=PLC98ABC853EAEFD7F) - Fabrizio Camuso
+
+
+### Php
+
+* [Corso PHP Completo 2023](https://www.youtube.com/playlist?list=PLP5MAKLy8lP_zqdyjNaPjh95NG40Op8he) - Edoardo Midali 
 
 
 ### Python
@@ -227,6 +243,7 @@
 #### Git
 
 * [Corso Git 2017](https://www.youtube.com/playlist?list=PLA27EZBY5veN02RzEr6Ecm7KcjWadthBh) - POuL Politecnico di Milano
+* [Dominare GIT - La Guida Completa per Principianti e Professionisti](https://www.youtube.com/playlist?list=PLoZNHBEyxFQFc2fn3raEjovUK_BLWS0kO) - Giovanni Pace
 
 
 #### Maven

@@ -39,6 +39,7 @@
 * [R](#r)
 * [React](#react)
 * [Redis](#redis)
+* [Rego](#rego)
 * [Regular Expressions](#regular-expressions)
 * [Ruby](#ruby)
 * [Rust](#rust)
@@ -59,6 +60,7 @@
 
 * [Data Structures Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - David Galles
 * [The Algorithm Visualizer](https://algorithm-visualizer.org)
+* [visualising data structures and algorithms through animation](https://visualgo.net/en)
 
 
 ### APL
@@ -120,7 +122,7 @@
 
 ### ClojureScript
 
-* [Replumb REPL](https://clojurescript.io)
+* [Online Clojure IDE](https://www.jdoodle.com/execute-clojure-online)
 * [Web REPL](http://clojurescript.net)
 
 
@@ -195,16 +197,21 @@
 
 ### HTML and CSS
 
+* [Bootstrap Builder](https://build.layoutit.com) - Layoutit
 * [CodePen](https://codepen.io)
 * [CSSdeck](https://cssdeck.com)
 * [Dabblet](https://dabblet.com)
 * [Flexbox Froggy](https://flexboxfroggy.com) - Codepip
 * [Flexy Boxes](https://the-echoplex.net/flexyboxes/)
 * [Grid Garden](https://cssgridgarden.com) - Codepip
+* [Grid Generator](https://grid.layoutit.com) - LayoutIt
+* [HTML-CSS-JS](https://html-css-js.com)
 * [HTML, CSS, JavaScript](https://www.codinguru.online/compiler/html)
 * [Learn advanced html and css](https://www.theodinproject.com/paths/full-stack-javascript/courses/advanced-html-and-css) - The Odin Project
 * [Learn Intermediate html and css](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css) - The Odin Project
 * [LiveCode](https://livecodes.io) - LiveCode
+* [Online HTML / CSS Editor](https://www.codechef.com/html-online-compiler) - CodeChef
+* [Online HTML Editor](https://www.programiz.com/html/online-compiler) - Programiz
 * [Play Code](https://playcode.io)
 * [SoloLearn](https://code.sololearn.com/web#css)
 * [Tailwind Play](https://play.tailwindcss.com)
@@ -217,10 +224,13 @@
 
 ### Java
 
+* [Ada Face](https://www.adaface.com/online-compiler/online-java-compiler)
 * [InterviewBit - Online Java Compiler IDE](https://www.interviewbit.com/online-java-compiler/)
 * [Java Compiler](https://www.codinguru.online/compiler/java)
 * [JDoodle - Online Java Compiler Advanced IDE](https://www.jdoodle.com/online-java-compiler-ide/)
 * [JDoodle - Online Java Compiler IDE](https://www.jdoodle.com/online-java-compiler/)
+* [NextLeap](https://nextleap.app/online-compiler/java-programming)
+* [OneCompiler](https://onecompiler.com/java)
 * [Online Java Playground](https://labex.io/tutorials/java-online-java-playground-372914)
 * [OnlineGDB](https://www.onlinegdb.com/online_java_compiler)
 * [Programiz - Online Java Compiler](https://www.programiz.com/java-programming/online-compiler/)
@@ -238,6 +248,7 @@
 * [Hello Website - (Glitch)](https://glitch.new/website) *(Account requested, not required)*
 * [InterviewBit - Online JavaScript Compiler IDE](https://www.interviewbit.com/online-javascript-compiler/)
 * [JavaScript Compiler](https://www.codinguru.online/compiler/javascript)
+* [JavaScript Online Compiler](https://www.programiz.com/javascript/online-compiler) - Programiz
 * [JSBin](https://jsbin.com)
 * [JSFiddle](https://jsfiddle.net)
 * [Liveweave](https://liveweave.com) - Amit Sen
@@ -365,6 +376,11 @@
 * [Try Redis](https://try.redis.io)
 
 
+### Rego
+
+* [Rego Playground](https://play.openpolicyagent.org) - Open Policy Agent
+
+
 ### Regular Expressions
 
 * [iHateRegex: regex for playground](https://ihateregex.io/playground) - Geon George
@@ -384,7 +400,10 @@
 
 ### Rust
 
+* [Codapi](https://codapi.org/rust)
+* [Rust Explorer](https://www.rustexplorer.com)
 * [Rust Playground](https://play.rust-lang.org)
+* [Rustfinity](https://www.rustfinity.com/playground)
 
 
 ### RxJS
@@ -412,6 +431,11 @@
 ### SQL
 
 * [Extends Class](https://extendsclass.com/sqlite-browser.html)
+* [Online SQL Editor](https://www.programiz.com/sql/online-compiler) - Programiz
+* [Online SQL Editor](https://www.tutorialspoint.com/compilers/online-sql-editor.htm) - Tutorialspoint
+* [Oracle Live SQL](https://livesql.oracle.com)
+* [Practice SQL](https://www.sql-practice.com)
+* [SQL Server Online Editor & Compiler](https://onecompiler.com/sqlserver) - OneCompiler
 * [SQLFiddle](http://sqlfiddle.com)
 * [SQLite Online](https://sqliteonline.com)
 
@@ -452,5 +476,4 @@
 
 * [Vim Adventure](https://vim-adventures.com) - Doron Linder
 * [Vim Genius](http://vimgenius.com) - Vic Ramon, Rye Mason
-
 

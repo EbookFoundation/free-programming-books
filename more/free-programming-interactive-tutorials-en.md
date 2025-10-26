@@ -378,6 +378,7 @@
 
 ### Python
 
+* [CodeBasics Python](https://code-basics.com/languages/python) - CodeBasics
 * [Codecademy Python course](https://www.codecademy.com/learn/python)
 * [Computer Science Circles](https://cscircles.cemc.uwaterloo.ca) - Centre for Education in Mathematics and Computing (University of Waterloo)
 * [Data Analysis with Python Certification](https://www.freecodecamp.org/learn/data-analysis-with-python/) - freeCodeCamp

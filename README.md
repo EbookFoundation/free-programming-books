@@ -78,8 +78,7 @@ This project lists books and other resources grouped by genres:
 [English, By Subject](books/free-programming-books-subjects.md)
 
 <details>
-<summary>
-#### Other Languages (tap to expand) </summary>
+<summary><Strong>Other Languages (tap to expand)</Strong> </summary>
 
 + [Arabic / al arabiya / العربية](books/free-programming-books-ar.md)
 + [Armenian / Հայերեն](books/free-programming-books-hy.md)

@@ -1,4 +1,4 @@
-### Index
+﻿### Index
 
 * [Ada](#ada)
 * [Android](#android)
@@ -82,7 +82,7 @@
 
 ### Artificial Intelligence
 
-* [Generative AI tutorial](https://www.geeksforgeeks.org/python/fastapi-tutorial/) - GeeksforGeeks
+* [Generative AI tutorial](https://www.geeksforgeeks.org/artificial-intelligence/generative-ai-tutorial/) - GeeksforGeeks
 
 
 ### <a id="csharp"></a>C#

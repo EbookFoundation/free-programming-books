@@ -78,7 +78,7 @@ This project lists books and other resources grouped by genres:
 [English, By Subject](books/free-programming-books-subjects.md)
 
 <details>
-<summary><Strong>Other Languages (tap to expand)</Strong> </summary>
+<summary><Strong>Other Languages (tap to expand/collapse)</Strong> </summary>
 
 + [Arabic / al arabiya / العربية](books/free-programming-books-ar.md)
 + [Armenian / Հայերեն](books/free-programming-books-hy.md)
@@ -132,7 +132,7 @@ This project lists books and other resources grouped by genres:
 + [All Languages](more/free-programming-cheatsheets.md)
 
 <details>
-  <summary><h3 style="display:inline;">Free Online Courses</h3></summary>
+  <summary><h3 style="display:inline;">Free Online Courses (Tap to expand/collapse)</h3></summary>
 
 + [Arabic / al arabiya / العربية](courses/free-courses-ar.md)
 + [Bengali / বাংলা](courses/free-courses-bn.md)

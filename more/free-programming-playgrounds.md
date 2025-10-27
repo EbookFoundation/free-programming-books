@@ -115,7 +115,6 @@
 * [Compiler Explorer](https://godbolt.org)
 * [InterviewBit](https://www.interviewbit.com/online-cpp-compiler/)
 * [LabStack](https://code.labstack.com/cpp)
-* [Online C++ Compiler](https://www.codinguru.online/compiler/cpp)
 * [OnlineGDB](https://www.onlinegdb.com/online_c++_compiler)
 * [SoloLearn](https://code.sololearn.com/cpp)
 
@@ -179,7 +178,6 @@
 
 ### Go
 
-* [GO Lang Compiler](https://www.codinguru.online/compiler/go)
 * [Go Playground](https://play.golang.org)
 * [Go-Vim](https://go-vim.appspot.com)
 * [SoloLearn](https://code.sololearn.com/go)
@@ -206,7 +204,6 @@
 * [Grid Garden](https://cssgridgarden.com) - Codepip
 * [Grid Generator](https://grid.layoutit.com) - LayoutIt
 * [HTML-CSS-JS](https://html-css-js.com)
-* [HTML, CSS, JavaScript](https://www.codinguru.online/compiler/html)
 * [Learn advanced html and css](https://www.theodinproject.com/paths/full-stack-javascript/courses/advanced-html-and-css) - The Odin Project
 * [Learn Intermediate html and css](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css) - The Odin Project
 * [LiveCode](https://livecodes.io) - LiveCode
@@ -226,7 +223,6 @@
 
 * [Ada Face](https://www.adaface.com/online-compiler/online-java-compiler)
 * [InterviewBit - Online Java Compiler IDE](https://www.interviewbit.com/online-java-compiler/)
-* [Java Compiler](https://www.codinguru.online/compiler/java)
 * [JDoodle - Online Java Compiler Advanced IDE](https://www.jdoodle.com/online-java-compiler-ide/)
 * [JDoodle - Online Java Compiler IDE](https://www.jdoodle.com/online-java-compiler/)
 * [NextLeap](https://nextleap.app/online-compiler/java-programming)
@@ -247,7 +243,6 @@
 * [Grasshopper](https://grasshopper.app) *(Google account required)*
 * [Hello Website - (Glitch)](https://glitch.new/website) *(Account requested, not required)*
 * [InterviewBit - Online JavaScript Compiler IDE](https://www.interviewbit.com/online-javascript-compiler/)
-* [JavaScript Compiler](https://www.codinguru.online/compiler/javascript)
 * [JavaScript Online Compiler](https://www.programiz.com/javascript/online-compiler) - Programiz
 * [JSBin](https://jsbin.com)
 * [JSFiddle](https://jsfiddle.net)
@@ -280,11 +275,6 @@
 ### Linux
 
 * [Online Linux Terminal and Playground](https://labex.io/tutorials/linux-online-linux-playground-372915)
-
-
-### Markdown
-
-* [Markdown Editor](https://www.codinguru.online/compiler/markdown)
 
 
 ### Multiple Languages
@@ -329,7 +319,6 @@
 * [Codepad](http://codepad.org/?lang=PHP)
 * [ExtendsClass](https://extendsclass.com/php.html)
 * [Online PHP shell](https://3v4l.org) - 3v4l
-* [PHP Online Compiler](https://www.codinguru.online/compiler/php)
 * [PHPHub](https://phphub.net/sandbox/)
 * [PHPTester](http://phptester.net)
 * [SoloLearn](https://code.sololearn.com/php)
@@ -344,7 +333,6 @@
 * [Online Python Compiler](https://www.tutorialspoint.com/online_python_compiler.php) - Tutorialspoint
 * [OnlineGDB](https://www.onlinegdb.com/online_python_compiler)
 * [Pynative.com](https://pynative.com/online-python-code-editor-to-execute-python-code/)
-* [Python Online Compilers](https://www.codinguru.online/compiler/python)
 * [Python Playground](https://programiz.pro/ide/python) - Programiz PRO
 * [Python Trinket](https://trinket.io/python)
 * [Python Tutor](https://pythontutor.com)
@@ -358,7 +346,6 @@
 
 * [myCompiler](https://www.mycompiler.io/online-r-compiler)
 * [R-Fiddle](http://www.r-fiddle.org)
-* [R Online Editors](https://www.codinguru.online/compiler/R)
 * [Rextester](https://rextester.com/l/r_online_compiler)
 * [SoloLearn](https://code.sololearn.com/r)
 

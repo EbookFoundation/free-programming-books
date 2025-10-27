@@ -243,7 +243,7 @@
 * [Learn JavaScript](http://www.learn-js.org)
 * [Learn JavaScript](https://learnjavascript.online)
 * [Learn knockout.js](http://learn.knockoutjs.com)
-* [Learn to Code for Free â€“ Grasshopper](https://grasshopper.app)
+* [Learn to Code for Free – Grasshopper](https://grasshopper.app)
 * [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
 * [Try jQuery](http://try.jquery.com)
 
@@ -470,6 +470,4 @@
 ### XML
 
 * [XML Tutorial](https://www.w3schools.com/xml) - W3Schools
-
-
 

@@ -378,11 +378,11 @@
 
 ### Python
 
-* [CodeBasics Python](https://code-basics.com/languages/python) - CodeBasics
 * [Codecademy Python course](https://www.codecademy.com/learn/python)
 * [Computer Science Circles](https://cscircles.cemc.uwaterloo.ca) - Centre for Education in Mathematics and Computing (University of Waterloo)
 * [Data Analysis with Python Certification](https://www.freecodecamp.org/learn/data-analysis-with-python/) - freeCodeCamp
 * [Foundations of Python Programming](https://runestone.academy/ns/books/published/fopp/index.html) - Runestone Interactive
+* [Free Online Python Course for Beginners](https://code-basics.com/languages/python) - CodeBasics
 * [futurecoder](https://futurecoder.io) - Alex Hall
 * [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html)
 * [Learn Python](http://www.learnpython.org)

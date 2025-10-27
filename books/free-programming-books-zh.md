@@ -129,7 +129,7 @@
 * [Docker — 从入门到实践](https://github.com/yeasy/docker_practice)
 * [Docker 入门实战](http://yuedu.baidu.com/ebook/d817967416fc700abb68fca1)
 * [Docker 中文指南](https://github.com/widuu/chinese_docker)
-* [FreeBSD 从入门到跑路](https://book.bsdcn.org) - FreeBSD 中文社区（CFC）(HTML) [VitePress 镜像](https://docs.bsdcn.org) (HTML) [PDF](https://docs.bsdcn.org/bsdbook.pdf) [EPUB](https://docs.bsdcn.org/bsdbook.epub)
+* [FreeBSD 从入门到跑路](https://book.bsdcn.org)
 * [FreeBSD 使用手册](http://www.freebsd.org/doc/zh_CN.UTF-8/books/handbook/)
 * [Linux 构建指南](http://works.jinbuguo.com/lfs/lfs62/index.html)
 * [Linux 系统高级编程](http://sourceforge.net/projects/elpi/)

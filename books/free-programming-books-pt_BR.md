@@ -138,6 +138,7 @@
 
 * [C# e Orientação a Objetos](https://www.caelum.com.br/apostila-csharp-orientacao-objetos/) - Caelum
 * [C# para Iniciantes](https://livrocsharp.com.br/wp-content/uploads/dae-uploads/CSharpIniciantes.pdf) - André Carlucci, Carlos dos Santos, Claudenir Andrade, Rafael Almeida, Ray Carneiro, Renato Haddad (PDF)
+* [Produtividade Em CSharp - Obtenha Mais Resultado Com Menos Esforço](https://www.kufunda.net/publicdocs/Produtividade%20Em%20CSharp%20-%20Obtenha%20Mais%20Resultado%20Com%20Menos%20Esforco%20(Cláudio%20Ralha).pdf) - Cláudio Ralha (PDF)
 
 
 ### <a id="cpp"></a>C++

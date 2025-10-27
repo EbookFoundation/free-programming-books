@@ -487,7 +487,10 @@ Books on general-purpose programming that don't focus on a specific language are
 * [C# Features Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/c-sharp-features-succinctly) - Dirk Strauss (HTML)
 * [C# Notes for Professionals](http://goalkicker.com/CSharpBook/) - Compiled from StackOverflow documentation (PDF)
 * [C# Programming](https://en.wikibooks.org/wiki/C_Sharp_Programming) - Wikibooks
-* [C# Programming Yellow Book](https://www.robmiles.com/s/CSharp-Book-2019-Refresh.pdf) - Rob Miles (PDF) (2019)
+* [Programming Basics with C#](https://github.com/SoftUni/Programming-Basics-Book-CSharp-EN) - Svetlin Nakov et al.
+* [C# Programming Yellow Book](https://www.robmiles.com/s/CSha
+rp-Book-2019-Refresh.pdf) - Rob Miles (PDF) (2019)
+
 * [C# Smorgasbord](https://www.filipekberg.se) - Filip Ekberg (HTML) [(PDF, EPUB, MOBI)](https://www.filipekberg.se/2018/04/02/csharp-smorgasbord-free/) (2018)
 * [Creating Mobile Apps with Xamarin.Forms C#](https://developer.xamarin.com/guides/xamarin-forms/creating-mobile-apps-xamarin-forms/) - Charles Petzold
 * [Daily Design Patterns](https://web.archive.org/web/20170930132000/https://www.exceptionnotfound.net/downloads/dailydesignpattern.pdf) - Matthew P Jones (PDF) *( :card_file_box: archived)*

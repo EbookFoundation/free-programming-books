@@ -66,6 +66,7 @@
 
 ### Bash
 
+* [Bash Tutorial](https://www.w3schools.com/bash/) - W3Schools
 * [Help messages will explain everything](https://explainshell.com) - explainshell
 * [Learn Shell Programming](http://www.learnshell.org) - learnshell
 
@@ -242,6 +243,7 @@
 * [JSchallenger](https://www.jschallenger.com)
 * [Learn JavaScript](http://www.learn-js.org)
 * [Learn JavaScript](https://learnjavascript.online)
+* [Learn JavaScript: Online Course for Free](https://code-basics.com/languages/javascript) - Code Basics
 * [Learn knockout.js](http://learn.knockoutjs.com)
 * [Learn to Code for Free – Grasshopper](https://grasshopper.app)
 * [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)

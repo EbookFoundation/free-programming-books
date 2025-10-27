@@ -285,6 +285,7 @@
 
 #### Generative AI
 
+* [AI Agents for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHgKcRjd5-8DT9TbwdlDO-OC) - Microsoft Developer
 * [CS236: Deep Generative Models](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8) - Stefano Ermon (Stanford Online)
 * [Deep Generative Models](https://www.youtube.com/playlist?list=PL2UML_KCiC0UPzjW9BjO-IW6dqliu9O4B) - Volodymyr Kuleshov
 * [Foundation Models and Generative AI](https://ocw.mit.edu/courses/6-s087-foundation-models-and-generative-ai-january-iap-2024) - Rickard Gabrielsson (MIT OpenCourseWare)
@@ -457,6 +458,7 @@
 * [AWS Certified Cloud Practitioner Course (2020-2023)](https://www.youtube.com/playlist?list=PLt1SIbA8guuvfvUDVLpJepmbnYpOfYCIB) - Stephane Maarek
 * [AWS Certified Cloud Practitioner Course (CLF-C02)(2024)](https://www.youtube.com/watch?v=NhDYbskXRgc) - Andrew Brown (FreeCodeCamp)
 * [AWS Cloud Complete Bootcamp Course](https://www.youtube.com/watch?v=zA8guDqfv40) - Andrew Brown (FreeCodeCamp)
+* [AWS CloudOps Engineer Associate Certification Course](https://www.youtube.com/watch?v=5JTBS09e7ew) - Andrew Brown (FreeCodeCamp)
 * [AWS Power Hour: Architecting](https://pages.awscloud.com/traincert-twitch-power-hour-architecting.html?saa=sec&sec=prep) - AWS
 * [AWS Tutorial For Beginners](https://www.youtube.com/playlist?list=PLEiEAq2VkUULlNtIFhEQHo8gacvme35rz) - Simplilearn
 * [AWS Zero to Hero](https://www.youtube.com/playlist?list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze) - Abhishek Veeramalla
@@ -532,7 +534,7 @@
 
 ### Cuda
 
-* [CUDA Crash Course](https://www.youtube.com/playlist?list=PLxNPSjHT5qvtYRVdNN1yDcdSl39uHV_sU) - Nick
+* [CUDA Crash Course](https://www.youtube.com/playlist?list=PLxNPSjHT5qvtYRVdNN1yDcdSl39uHV_sU) - CoffeeBeforeArch
 * [CUDA Programming Course -- Parallel Computing using Nvidia GPUs](https://www.youtube.com/playlist?list=PL1ysOEBe5977vlocXuRt6KBCYu_sdu1Ru) - Learn Computer Science
 * [CUDA Programming Course – High-Performance Computing with GPUs](https://www.youtube.com/watch?v=86FAWCzIe_4&t=2s) - Elliot Arledge (FreeCodeCamp)
 * [CUDA Tutorials](https://www.youtube.com/playlist?list=PLKK11Ligqititws0ZOoGk3SW-TZCar4dK) - Creel
@@ -684,6 +686,7 @@
 * [AWS DevOps Engineer Learning Plan](https://explore.skillbuilder.aws/learn/public/learning_plan/view/85/devops-engineering-learning-plan?la=sec&sec=lp) - AWS
 * [Complete DevOps Zero to Hero Course](https://www.youtube.com/playlist?list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa) - Abhishek Veeramalla
 * [DevOps Bootcamp](https://www.youtube.com/playlist?list=PL9gnSGHSqcnoqBXdMwUTRod4Gi3eac2Ak) - Kunal Kushwaha
+* [DevOps Courses](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs) - FreeCodeCamp
 * [DevOps from Zero to Hero: Build and Deploy a Production API](https://www.youtube.com/watch?v=H5FAxTBuNM8) - Adrian Hajdin (JavaScript Mastery)
 * [DevOps Full Course](https://www.youtube.com/watch?v=lpk7VpGqkKw) - Simplilearn
 * [DevOps Tutorial for Beginners](https://www.youtube.com/playlist?list=PLVHgQku8Z934suC9LSE6vaAKjOH_MfRbE) - Intellipaat
@@ -1712,9 +1715,11 @@
 
 * [Complete Rust Marathon](https://www.youtube.com/watch?v=joCFbTJt0o0&t=20s) - Harkirat Singh
 * [Comprehensive Rust](https://google.github.io/comprehensive-rust/index.html) - Google
+* [Getting Started with Rust (LFEL1002)](https://training.linuxfoundation.org/express-learning/getting-started-with-rust-lfel1002/) - The Linux Foundation
 * [Intro to Rust](https://www.youtube.com/playlist?list=PLJbE2Yu2zumDF6BX6_RdPisRVHgzV02NW) - Tensor Programming
 * [Learn Rust](https://www.youtube.com/playlist?list=PLO5VPQH6OWdXR8NlZt0jRbC39W_IyzS-v) - Smart Contract Programmer
 * [Learn Rust from scratch](https://www.educative.io/courses/learn-rust-from-scratch) - Educative.io
+* [Learn Rust Programming](https://academy.jetbrains.com/course/16631-learn-rust) - Jetbrains Academy
 * [Memory Management](https://www.youtube.com/playlist?list=PLai5B987bZ9BnS7dBlTF9HRop55vYUL7r) - Let's Get Rusty
 * [Rust Basics](https://www.youtube.com/playlist?list=PLlcnQQJK8SUjApd95LIcd3K9XXmE-IeCS) - Engineer Man
 * [Rust Crash Course](https://www.youtube.com/watch?v=zF34dRivLOw) - Traversy Media

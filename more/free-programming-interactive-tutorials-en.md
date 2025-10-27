@@ -16,7 +16,8 @@
 * [Git](#git)
 * [GLSL](#glsl)
 * [Go](#go)
- 
+* [GraphQL](#graphql)
+* [Haskell](#haskell)
 * [HTML and CSS](#html-and-css)
     * [Bootstrap](#bootstrap)
 * [IDE and editors](#ide-and-editors)
@@ -362,6 +363,15 @@
 * [Learn PHP](http://www.learn-php.org)
 * [PHP tutorial](https://www.w3schools.com/php) - W3Schools
 
+#### Laravel
+
+* [Learn the PHP Framework for Web Artisans](http://bootcamp.laravel.com) - Laravel Team
+
+
+### PostgreSQL
+
+* [PostgreSQL Tutorial](https://www.postgresqltutorial.com)
+* [PostgreSQL Tutorial](https://www.w3schools.com/postgresql/) - W3Schools
 
 ### Python
 

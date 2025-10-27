@@ -35,6 +35,7 @@
 * [Scratch](#scratch)
 * [Sed](#sed)
 * [Software Engineering](#software-engineering)
+* [Sql](#sql)
 * [Springboot](#springboot)
 * [TypeScript](#typescript)
 * [Unicode](#unicode)
@@ -255,6 +256,11 @@
 
 * [점프 투 스프링부트](https://wikidocs.net/book/7601) - 박응용
 * [Springboot 2.X 정리](https://djunnni.gitbook.io/springboot) - 이동준
+
+
+### Sql
+
+* [처음 시작하는 MySQL — 입문자를 위한 데이터베이스 기초](https://wikidocs.net/book/18461) - Dinner Coffee (WikiDocs)
 
 
 ### TypeScript

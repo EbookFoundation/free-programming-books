@@ -131,7 +131,8 @@ This project lists books and other resources grouped by genres:
 
 + [All Languages](more/free-programming-cheatsheets.md)
 
-### Free Online Courses
+<details>
+  <summary><h3 style="display:inline;">Free Online Courses</h3></summary>
 
 + [Arabic / al arabiya / العربية](courses/free-courses-ar.md)
 + [Bengali / বাংলা](courses/free-courses-bn.md)
@@ -174,6 +175,7 @@ This project lists books and other resources grouped by genres:
 + [Urdu / اردو](courses/free-courses-ur.md)
 + [Vietnamese / Tiếng Việt](courses/free-courses-vi.md)
 
+</details>
 
 ### Interactive Programming Resources
 

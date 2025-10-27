@@ -487,7 +487,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [C# Features Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/c-sharp-features-succinctly) - Dirk Strauss (HTML)
 * [C# Notes for Professionals](http://goalkicker.com/CSharpBook/) - Compiled from StackOverflow documentation (PDF)
 * [C# Programming](https://en.wikibooks.org/wiki/C_Sharp_Programming) - Wikibooks
-* [Programming Basics with C#](https://github.com/SoftUni/Programming-Basics-Book-CSharp-EN) - Svetlin Nakov et al.
 * [C# Programming Yellow Book](https://www.robmiles.com/s/CSha
 rp-Book-2019-Refresh.pdf) - Rob Miles (PDF) (2019)
 
@@ -508,6 +507,7 @@ rp-Book-2019-Refresh.pdf) - Rob Miles (PDF) (2019)
 * [.NET Book Zero](http://www.charlespetzold.com/dotnet) - Charles Petzold (PDF, XPS)
 * [.NET Microservices: Architecture for Containerized .NET Applications](https://dotnet.microsoft.com/download/e-book/microservices-architecture/pdf) - Cesar de la Torre, Bill Wagner, Mike Rousos (PDF)
 * [Porting Existing ASP.NET Apps to .NET 6](https://docs.microsoft.com/en-us/dotnet/architecture/porting-existing-aspnet-apps/) - Steve "ardalis" Smith
+* [Programming Basics with C#](https://github.com/SoftUni/Programming-Basics-Book-CSharp-EN) - Svetlin Nakov et al.
 * [Threading in C#](http://www.albahari.com/threading/)
 * [Xamarin Community Toolkit Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/xamarin-community-toolkit-succinctly) - Alessandro Del Sole
 * [Xamarin.Forms for macOS Succinctly](https://www.syncfusion.com/ebooks/xamarin_forms_for_mac_os_succinctly) - Alessandro Del Sole

@@ -193,7 +193,8 @@ This project lists books and other resources grouped by genres:
 
 ### Podcast - Screencast
 
-Free Podcasts and Screencasts:
+<details>
+  <summary><h3 style="display:inline;">Free Podcasts and Screencasts: (Tap to expand/collapse)</h3></summary>
 
 + [Arabic / al Arabiya / العربية](casts/free-podcasts-screencasts-ar.md)
 + [Burmese / မြန်မာဘာသာ](casts/free-podcasts-screencasts-my.md)
@@ -217,6 +218,7 @@ Free Podcasts and Screencasts:
 + [Turkish / Türkçe](casts/free-podcasts-screencasts-tr.md)
 + [Ukrainian / Українська](casts/free-podcasts-screencasts-uk.md)
 
+</details>
 
 ### Programming Playgrounds
 

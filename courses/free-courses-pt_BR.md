@@ -33,8 +33,12 @@
 * [Networking](#networking)
 * [Node.js](#nodejs)
 * [PHP](#php)
+* [Postgres](#postgres)
 * [Programação](#programação)
 * [Python](#python)
+    * [Django](#django)
+    * [FastAPI](#fastapi)
+    * [Flask](#flask)
 * [R](#r)
 * [Raspberry Pi](#raspberry-pi)
 * [React Native](#react-native)
@@ -202,6 +206,7 @@
 ### Inteligência Artificial
 
 * [Curso Grátis de Inteligência Artificial](https://www.youtube.com/playlist?list=PLHz_AreHm4dm24MhlWJYiR_Rm7TFtvs6S) - Gustavo Guanabara (Curso em Vídeo)
+* [IA Generativa para Iniciantes .NET - Um Curso](https://github.com/microsoft/Generative-AI-for-beginners-dotnet/tree/main/translations/pt) - Microsoft (GitHub)
 
 
 ### Ionic
@@ -269,13 +274,16 @@
 * [Curso Intensivo de Next.js & React](https://www.cod3r.com.br/courses/curso-intensivo-next-react) - Leonardo Leitão (Cod3r)
 * [Next.js 13.4 Masterclass Prático c/ Stripe e Shadcn-ui](https://www.youtube.com/playlist?list=PLR8OzKI52ppWoTRvAmB_FQPPlHS0otV7V) - DeveloperDeck101
 * [React & Node.js](https://www.youtube.com/playlist?list=PLm-VCNNTu3LlQ3APFZeUn-9JztCM4_c28) - Felipe Rocha
+* [ReactJS - API GitHub](https://cursos.devsamurai.com.br/React%20-%20API%20Github.zip) - Dev Samurai
 * [ReactJS - Básico](https://www.youtube.com/playlist?list=PLWXw8Gu52TRK1W0emFvUl3ozgV2JW3_8p) - Ralf Lima
+* [ReactJS - Fundamentos](https://cursos.devsamurai.com.br/React%20-%20Fundamentos.zip) - Dev Samurai
 
 
 #### Vue.js
 
 * [Aplicação Desktop com JavaScript, Electron JS e Vue JS](https://www.udemy.com/course/aplicacao-desktop-com-javascript-electron-js-e-vue-js/) - Leonardo Moura Leitao, Cod3r (Udemy)
 * [Curso completo e gratuito de Vue.js 3 do iniciante ao avançado](https://igorhalfeld.teachable.com/p/treinamento-completo-e-gratuito-de-vue-js-3-do-iniciante-ao-avancado) - Igor Halfeld, Vue.js Brasil (Teachable)
+* [Curso de Vue 3](https://www.youtube.com/playlist?list=PLnDvRpP8BnezDglaAvtWgQXzsOmXUuRHL) - Matheus Battisti - Hora de Codar
 * [Introdução ao Vue JS](https://www.udemy.com/course/introducao-ao-vue-js/) - Rafael Rend (Udemy)
 * [Minicurso: Vue.js - O basicão](https://evolutio.io/curso/minicurso_vuejs) - Tony Lâmpada (Evolutio)
 
@@ -296,11 +304,22 @@
 
 ### Kubernetes
 
+* [Curso Completo de Kubernetes](https://www.youtube.com/playlist?list=PL9wKVHxY5DoNy-D4errvry9sVktl9YNcA) - Marcones Nunes
+* [Curso Completo de Kubernetes Para Devs](https://www.youtube.com/playlist?list=PLnOICPAPShyTwuLit7vP6In9kETQ0BSnQ) - Lucas Santos
+* [Curso De Introdução ao Kubernetes](https://www.youtube.com/playlist?list=PLXzx948cNtr8XI5JBemHT9OWuYSPNUtXs) - Insight Lab
+* [Descomplicando o Kubernetes](https://www.youtube.com/playlist?list=PLf-O3X2-mxDmXQU-mJVgeaSL7Rtejvv0S) - LinuxTips
+* [Kubernetes](https://www.youtube.com/playlist?list=PL9wKVHxY5DoN9MfK7_iJcLDI75POJoRUL) - Marcones Nunes
+* [Kubernetes (K8s): Minicurso Gratuito](https://www.youtube.com/playlist?list=PL18bbNo7xuh8pIU-odMSjd_r8TyD7_jb7) - Erudito
+* [Kubernetes Dicas e Truques Para O Dia A Dia](https://www.youtube.com/playlist?list=PLAbYWcQD84aPfGZNaf8Pa35eGy_ywcR7V) - Canal dotNet
+* [Kubernetes Em Drops](https://www.youtube.com/playlist?list=PLZfrXScDmaiPF9EH1Uyh8kZdZ612h5eSz) - Fabricio Veronez
+* [Kubernetes Geral](https://www.youtube.com/playlist?list=PLf-O3X2-mxDm9d-RJSpjut6qDuGqRMsY2) - LinuxTips
 * [Maratona Kubernetes](https://www.youtube.com/playlist?list=PLB1hpnUGshULerdlzMknMLrHI810xIBJv&origin=CursosErickWendel) - Microsoft Brasil
+* [Mutirão Kubernetes](https://www.youtube.com/playlist?list=PLf-O3X2-mxDli3suNEnRquFyKYdrFLm3t) - LinuxTips
 
 
 ### Linux
 
+* [Curso de Linux](https://www.youtube.com/playlist?list=PLnDvRpP8BnezDTtL8lm6C-UOJZn-xzALH) - Matheus Battisti
 * [Curso de Linux - Primeiros Passos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlIXleu20uwPWFOSswqLYbV) - Gustavo Guanabara
 * [Introdução ao Sistema Operacional Linux](https://www.udemy.com/course/linux-ubuntu/) - Diego Mariano (Udemy)
 * [Terminal Linux](https://www.udemy.com/course/terminal-de-comandos-linux/) - Diego Mariano (Udemy)
@@ -315,6 +334,7 @@
 ### Machine Learning
 
 * [Curso Data Science e Machine Learning](https://youtube.com/playlist?list=PLFE-LjWAAP9R4G0WOXWuha4P5cCvw7hGB) - Data ICMC
+* [Curso de Machine Learning](https://www.youtube.com/playlist?list=PLFE-LjWAAP9QEC8KhIBWxM_tquU8UmuYW) - Data ICMC
 * [Curso Deep Learning](https://www.youtube.com/playlist?list=PLSZEVLiOtIgF19_cPrvhJC2bWn-dUh1zB) - Deep Learning Brasil
 * [Machine Learning e Data Science: O Guia para Iniciantes](https://www.udemy.com/course/guia-iniciantes-machine-learning-data-science/) - Jones Granatyr (Udemy)
 * [Neural Networks e Deep Learning para Leigos: Sem Mistérios!](https://www.udemy.com/course/neural-networks-e-deep-learnig-para-leigos/) - Fernando Amaral (Udemy)
@@ -323,6 +343,7 @@
 ### Markdown
 
 * [Aprenda Markdown](https://www.udemy.com/aprenda-markdown/) - Roberto Achar (Udemy)
+* [Guia da Linguagem Markdown](https://www.youtube.com/watch?v=LntSB-gl-ZI) - Curso em Vídeo
 
 
 ### Networking
@@ -336,8 +357,13 @@
 * [Criando APIs com NodeJs](https://www.youtube.com/playlist?list=PLHlHvK2lnJndvvycjBqQAbgEDqXxKLoqn) - Balta.io
 * [Curso de Node](https://www.youtube.com/watch?v=XN705pQeoyU&list=PLx4x_zx8csUjFC41ev2qX5dnr-0ThpoXE) - Bruno CFBCursos
 * [Curso de Node.js](https://www.youtube.com/playlist?list=PLJ_KhUnlXUPtbtLwaxxUxHqvcNQndmI4B) - Victor Lima Guia do Programador
+* [Curso de Node.js](https://www.youtube.com/playlist?list=PLmY5AEiqDWwAY8AyeNy1zv-n4LEdGz1iE) - Celke
 * [Do Zero A Produção: Aprenda A Construir Uma API Node.Js Com Typescript](https://www.youtube.com/playlist?list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh) - Waldemar Neto Dev Lab
 * [Imersão em desenvolvimento de APIs com Node.js](https://erickwendel.teachable.com/p/node-js-para-iniciantes-nodebr) - Erick Wendel (Teachable)
+* [Minicurso de NodeJS](https://www.youtube.com/playlist?list=PLpdAy0tYrnKxtfd_aI9ZGmnHfZHveudsh) - Hashtag Programação
+* [Node](https://www.youtube.com/playlist?list=PLsFVybaG4mOARbjw1gfUKiYMYh3PsxDFp) - DevClub Programação
+* [NodeJS](https://www.youtube.com/playlist?list=PLbIBj8vQhvm39CsidhA5SJBBu7-hPbuwy) - Otávio Miranda
+* [NodeJS/Express](https://www.youtube.com/playlist?list=PLDqnSpzNKDvkgJdaBT14ll07yXCbuMucM) - Angelo Luz
 * [RESTful com Node.js e Restify](https://www.youtube.com/playlist?list=PLy5T05I_eQYO5Y3S3kVqBxQzkUNllPazF) - Codecasts
 * [Serie API NodeJS](https://www.youtube.com/playlist?list=PL85ITvJ7FLoiXVwHXeOsOuVppGbBzo2dp) - Diego Fernandes (Rocketseat)
 * [Testes no NodeJS aplicando TDD com Jest](https://www.youtube.com/watch?v=2G_mWfG0DZE&list=PL85ITvJ7FLoh7QBmTVzuNYvZaYPYwDmei) - Diego Fernandes (Rocketseat)
@@ -362,10 +388,24 @@
 * [PHP PDO](https://www.youtube.com/playlist?list=PLYGFJHWj9BYqSXzSfHGd46yipCrkjC8AD) - Miriam (Miriam TechCod)
 
 
+### Postgres
+
+* [Dominando o Postgres](https://cursos.devsamurai.com.br/Backend%20-%20Dominando%20o%20Postgres.zip) - Dev Samurai
+
+
 ### Programação
 
 * [Algoritmos de Ordenação](https://www.youtube.com/playlist?list=PLzZut2slkqywtFxqTY8AQwIG65h_2oMBL) - Bruno Ribas
+* [Como Computadores Funcionam?](https://www.youtube.com/playlist?list=PLdsnXVqbHDUcQIuiH9b-i9A85H3A2ZW5W) - Fabio Akita
+* [Conceitos de Programação](https://www.youtube.com/playlist?list=PLdsnXVqbHDUcrE56CH8sXaPF3TTqoBP2z) - Fabio Akita
 * [Curso Lógica de Programação Completo 2023 [Iniciantes] + Desafios + Muita prática](https://www.youtube.com/watch?v=iF2MdbrTiBM) - Jonathan de Souza
+* [Curso Programação Web Completo](https://www.youtube.com/playlist?list=PL2Fdisxwzt_ebZYgPFL8KeWqBhkF1Q8oe) - Programação Web
+* [Frontend para Iniciantes](https://www.youtube.com/playlist?list=PLsGmTzb4NxK2sGY3KqKmg1UTxNTcPPK1Z) - LuizTools
+* [Inteligência Artificial](https://www.youtube.com/playlist?list=PLdsnXVqbHDUeowsAO0sChHDY4D65T5s1U) - Fabio Akita
+* [Programação para Iniciantes](https://www.youtube.com/playlist?list=PLdsnXVqbHDUc7htGFobbZoNen3r_wm3ki) - Fabio Akita
+* [Programação para Iniciantes](https://www.youtube.com/playlist?list=PLsGmTzb4NxK3r0_sMLyHKaYX97tPN2QPm) - LuizTools
+* [Scrum para Iniciantes](https://www.youtube.com/playlist?list=PLsGmTzb4NxK0DmRwEO4IBRjuCRyRZ8FnQ) - LuizTools
+* [Sistemas Operacionais](https://www.youtube.com/playlist?list=PLdsnXVqbHDUd17xLINVEXhJ32RxbzCEWV) - Fabio Akita
 
 
 ### Python
@@ -376,9 +416,11 @@
 * [Construindo API's robustas utilizando Python](https://github.com/luizalabs/tutorial-python-brasil) - Cássio Botaro, et al.
 * [Curso de Programação em Python](https://www.youtube.com/playlist?list=PLFKhhNd35zq_INvuX9YzXIbtpo_LGDzYK) - Prime Cursos do Brasil
 * [Curso de Python](https://www.youtube.com/playlist?list=PLesCEcYj003QxPQ4vTXkt22-E11aQvoVj) - Cláudio Rogério Carvalho Filho (eXcript)
+* [Curso de Python](https://www.youtube.com/playlist?list=PLbIBj8vQhvm0ayQsrhEf-7-8JAj-MwmPr) - Otávio Miranda
 * [Curso de Python 3 - Mundo 1: Fundamentos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6) - Gustavo Guanabara (Curso em Vídeo)
 * [Curso de Python 3 - Mundo 2: Estruturas de Controle](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye) - Gustavo Guanabara (Curso em Vídeo)
 * [Curso de Python 3 - Mundo 3: Estruturas Compostas](https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH) - Gustavo Guanabara (Curso em Vídeo)
+* [Curso de Type Hints no Python do Básico](https://www.youtube.com/playlist?list=PLbIBj8vQhvm04EuddtleOAoEmfU9vwQlN) - Otávio Miranda
 * [Curso em vídeo - Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0) - Gustavo Guanabara, Joao Pedro Araujo (Curso em Vídeo)
 * [Data Science: Visualização de Dados com Python](https://www.udemy.com/visualizacao-de-dados-com-python/) - Diego Mariano (Udemy)
 * [Django 2.0 - Aprendendo os conceitos fundamentais](https://www.udemy.com/django-20-aprendendo-os-conceitos-fundamentais/) - Gregory Pacheco (Udemy)
@@ -390,15 +432,42 @@
 * [Introdução à Ciência da Computação com Python - Parte 2](https://pt.coursera.org/learn/ciencia-computacao-python-conceitos-2) - USP (Coursera)
 * [Introdução a linguagem de programação python](https://www.udemy.com/introducao-programacaopython/) - Abraão Passos de Oliveira (Udemy)
 * [Introdução à linguagem Python](https://www.udemy.com/intro_python/) - Diego Mariano (Udemy)
+* [Logging no Python](https://www.youtube.com/playlist?list=PLbIBj8vQhvm28qR-yvWP3JELGelWxsxaI) - Otávio Miranda
+* [Matemática com Python](https://www.youtube.com/playlist?list=PLucm8g_ezqNrCFUZ3vPIKs41hveecygsm) -  Otávio Miranda
+* [Orientação a Objetos](https://www.youtube.com/playlist?list=PLucm8g_ezqNqj--UUSn16yfDp3xcZi40t) - Otávio Miranda
 * [Programação em Python](https://www.youtube.com/playlist?list=PLucm8g_ezqNrrtduPx7s4BM8phepMn9I2) - Bóson Treinamentos
 * [Programação em Python: O Guia para Iniciantes](https://www.udemy.com/course/programacao-python-guia-para-iniciantes/) - Jones Granatyr (Udemy)
 * [Python 3 na Prática](https://www.udemy.com/python-3-na-pratica/) - João Batista (Udemy)
 * [Python 3 na Web com Django (Básico e Intermediário)](https://www.udemy.com/python-3-na-web-com-django-basico-intermediario/) - Gileno Alves Santa Cruz Filho (Udemy)
 * [Python Básico](https://solyd.com.br/treinamentos/python-basico) - Guilherme Junqueira (Solyd Offensive Security)
+* [Python Com Bancos de Dados](https://www.youtube.com/playlist?list=PLucm8g_ezqNp7ECP-fidzdgeVDufBTYDV) - Bóson Treinamentos
 * [Python Fundamentos para Análise de Dados](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) - Data Science Academy
+* [Python Orientado a Objetos Python POO](https://www.youtube.com/playlist?list=PLbIBj8vQhvm34qAAEEH_PdL2tMG9rz-P7) - Otávio Miranda
 * [Python para Competições de Programação](https://www.youtube.com/playlist?list=PLMxflQ9_eOd9CY6Id5gfs3Edqt8vLC47p) - Adorilson
 * [Python para Iniciantes](https://www.udemy.com/python-para-iniciantes/) - Tiago Miguel (Udemy)
 * [Selenium com Python](https://www.youtube.com/playlist?list=PLOQgLBuj2-3LqnMYKZZgzeC7CKCPF375B) - Eduardo Mendes
+
+
+#### Django
+
+* [Curso de Django 2](https://www.youtube.com/playlist?list=PLnDvRpP8BnewqnMzRnBT5LeTpld5bMvsj) - Matheus Battisti
+* [Curso de Django Aprenda a Desenvolver Aplicações Web Do Zero](https://www.youtube.com/playlist?list=PLLVddSbilcumgeyk0z6ko5U_FYPfbRO2C) - Jefferson Lobato
+* [Curso de Django To-Do-List](https://www.youtube.com/playlist?list=PLLVddSbilcunGg0IJ4zP05Z91yrEaIiQh) - Jefferson Lobato
+* [Django](https://www.youtube.com/playlist?list=PL3gEA6Xsr_el-1m_ew_kwPVGgDiG1nwY-) - Pythonando
+
+
+#### FastAPI
+
+* [Criando uma API com FastAPI](https://www.youtube.com/playlist?list=PLJHVw_wMqnI-eX95g9U_W941l_yWsIDIL) - Anderson Rocha
+* [Curso de FastAPI 2025](https://www.youtube.com/playlist?list=PLOQgLBuj2-3KT9ZWvPmaGFQ0KjIez0403) - Eduardo Mendes
+* [Curso de FastAPI Rest API com Python ](https://www.youtube.com/playlist?list=PLpdAy0tYrnKy3TvpCT-x7kGqMQ5grk1Xq) - HashTag Programação
+* [Curso de FastAPI Sincrono](https://www.youtube.com/playlist?list=PLOQgLBuj2-3IuFbt-wJw2p2NiV9WTRzIP) - Eduardo Mendes
+
+
+#### Flask
+
+* [Curso de Flask](https://www.youtube.com/playlist?list=PLWhiA_CuQkbBhvPojHOPY81BmDt2eSfgI) - Filipe Morelli Developer
+* [Flask](https://www.youtube.com/playlist?list=PLyOx5V4KUjDf3-flamHYkJ2ygYmdRDdE9) - Lan Code
 
 
 ### R
@@ -409,12 +478,14 @@
 
 ### Raspberry Pi
 
+* [Curso de Raspberry Pi](https://www.youtube.com/playlist?list=PLx4x_zx8csUj1PvvXekoDwuUyL0pljiU1) - CFBCursos
 * [Curso de Raspberry Pi: primeiros passos](https://www.youtube.com/playlist?list=PLHz_AreHm4dnGZ_nudmN4rvyLk2fHFRzy) - Gustavo Guanabara
 
 
 ### React Native
 
 * [Aprenda React Native](https://www.youtube.com/playlist?list=PL8fIRnD1uUSnRqz3E2caAWDqbtIFXmNtW) - Canal Geek Dev
+* [Curso base de React Native 2025](https://www.youtube.com/playlist?list=PL29TaWXah3ibI0ewWkI7xMI952wHEaFTK) - Lucas Souza Dev
 * [Curso React Native (aprendiz)](https://www.youtube.com/playlist?list=PLdDT8if5attEd4sRnZBIkNihR-_tE612_) - One Bit Code
 
 
@@ -429,11 +500,16 @@
 
 ### Rust
 
+* [Aprenda Rust](https://www.youtube.com/playlist?list=PLjSf4DcGBdiGCNOrCoFgtj0KrUq1MRUME) - CodeShow
+* [Curso Rust Básico](https://www.youtube.com/playlist?list=PLGtFJAmtESz-V5p-svTX34bGQvNuXEpHE) - Linguagem Rust
 * [Programando do 0 ao avançado na linguagem de programação Rust](https://www.youtube.com/playlist?list=PLWmXJQDlXOHX6UdAmXv6euoqDPUtMLpJf) - Lanby 0xff3 λ
 
 
 ### Sass
 
+* [Curso de Sass](https://www.youtube.com/playlist?list=PLMy95_4XE08OmaSd_GOLKNkqhoJFvg7w7) - Vida FullStack
+* [Curso de SASS](https://www.youtube.com/playlist?list=PLEBYKM1xzmIPGBtBRU7aTqMZFbj2H3xqo) - BUSSOLA DEV
+* [Curso Sass](https://www.youtube.com/playlist?list=PL97KElaimHeGRtfkksKwxg6IGVZi_cR7J) - Amanda Vilela
 * [Sass placeholders: o jeito certo](https://www.udemy.com/course/sass-placeholders-o-jeito-certo/) - Tárcio Zemel (Udemy)
 
 
@@ -459,11 +535,17 @@
 ### Swift
 
 * [Aprendendo Swift do Iniciante ao Avançado. (Mac e Windows)](https://www.udemy.com/aprendendoswift3/) - Lucas Alencar (Udemy)
+* [Curso de introdução ao desenvolvimento iOS](https://www.youtube.com/playlist?list=PLprgbdnzrDkHjUr2mFq0ypg-v6RNChKA8) Attekita Dev
 * [Curso de Swift - Programação](https://www.youtube.com/playlist?list=PLJ0AcghBBWShgIH122uw7H9T9-NIaFpP-) - Tiago Aguiar
+* [Curso de Swift Básico](https://www.youtube.com/playlist?list=PLTl7hsEfhCWVx6os_oOHpJF_YrJmRnIQk) - Novos Negócios em TIC
+* [Curso grátis Swift e SwiftUI](https://www.youtube.com/playlist?list=PLMdYygf53DP46rneFgJ7Ab6fJPcMvr8gC) - Filipe Deschamps
 
 
 ### TypeScript
 
+* [Curso completo de Typescript](https://www.youtube.com/playlist?list=PL9tY_tDo_Q0DOAzTaPnWYsryfNLsz1K6U) - Rincko Dev
+* [Curso de React com Typescript](https://www.youtube.com/playlist?list=PL29TaWXah3iZktD5o1IHbc7JDqG_80iOm) - Lucas Souza Dev
+* [Curso de Typescript](https://www.youtube.com/playlist?list=PLx4x_zx8csUhtPMrkiGvFJVE5LX8Qat5s) - CFBCursos
 * [Mini-curso de TypeScript](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPanrzauGa7vMuve7_vnXG_) - Willian Justen Curso
 * [TypeScript - Aprendendo Junto](https://www.youtube.com/playlist?list=PL62G310vn6nGg5OzjxE8FbYDzCs_UqrUs) - DevDojo
 * [Typescript - Zero to Hero](https://github.com/glaucia86/curso-typescript-zero-to-hero) - Glaucia Lemos
@@ -476,9 +558,10 @@
 * [Angular 17 - 2024](https://www.youtube.com/playlist?list=PLWXw8Gu52TRKj3tFWHlkheh8rLQRqQ1__) - Ralf Lima
 * [Aprenda Angular Do Zero - primeiro passos](https://www.youtube.com/live/OmkmeBOAg44) - Fernanda Kipper
 * [Começando com Angular](https://balta.io/cursos/comecando-com-angular) - Andre Baltieri (balta.io)
+* [Curso Angular 17](https://www.youtube.com/playlist?list=PLXEUJjGpEX7zwdFSAzIPiSf9p0tOeI1Yu) - Code Dimension
+* [Curso Angular 19 na prática](https://www.youtube.com/playlist?list=PLAHPGKIfQVuIff8XNEhEN9-EJbwiQykCC) - O Dev Lucas
 * [Curso Angular 9](https://www.youtube.com/playlist?list=PLdPPE0hUkt0rPyAkdhHIIquKbwrGUkvw3) - Cod3r
 * [Curso de Angular](https://loiane.training/curso/angular/) - Loiane Groner
-* [Curso de Angular 17](https://www.youtube.com/playlist?list=PLXEUJjGpEX7zwdFSAzIPiSf9p0tOeI1Yu) - Code Dimension
 * [Curso gratuito de Angular](https://www.youtube.com/playlist?list=PLhna1crYw0SOFqiss05ybqJCc6fvGn6BF) - Café com Bug
 
 
@@ -486,12 +569,16 @@
 
 * [Curso de Loja Virtual: WooCommerce + WordPress](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZNE5PAYc0h4iVkqBCgBZR) - Gustavo Guanabara (Curso em Vídeo)
 * [Curso de WordPress 2022 Grátis e Completo](https://www.youtube.com/playlist?list=PLltHgIJnfTsAnyA8KPXC6ohTYzGEreVEa) - CursoB Cursos Online
+* [Curso de WordPress 2025](https://www.youtube.com/playlist?list=PLa3bnULYnrpGrgUyQUXwrIUXk75_jO-n2) - Descomplicando Sites
+* [Curso de WordPress 2025: Como Criar um do zero](https://www.youtube.com/playlist?list=PLR9X8pL__UdiA1wMB02jndrD1d2kffu1o) - Curso WordPress Definitivo
 * [Curso de WordPress: Criando um site do zero](https://www.youtube.com/playlist?list=PLHz_AreHm4dmDP_RWdiKekjTEmCuq_MW2) - Gustavo Guanabara (Curso em Vídeo)
+* [Curso WordPress na prática](https://www.youtube.com/playlist?list=PLSAqMrdVsnTabS-6FQPcr3LcF-UzEA7Co) - HostGator Brasil
 
 
 ### Segurança da Informação
 
 * [Boas Práticas de Segurança da Informação para Sua Empresa](https://www.udemy.com/course/empresa-mais-segura/) - Afonso da Silva E. (Udemy)
+* [Curso de Segurança com Prática](https://www.youtube.com/playlist?list=PLAp37wMSBouB70jGTeT0JjW_LNC_JBHCo) - Hardware Redes Brasil
 * [Curso de Segurança da Informação](https://www.youtube.com/playlist?list=PLHz_AreHm4dkYS6J9KeYgCCVpo5OXkvgE) - Gustavo Guanabara, (Curso em Video)
 * [Segurança da Informação: Por onde iniciar sua carreira](https://www.udemy.com/course/seguranca-da-informacao-por-onde-iniciar-sua-carreira/) - Alexandro Silva (Udemy)
 
@@ -499,4 +586,5 @@
 ### SEO
 
 * [Curso de SEO - Mão na massa](https://www.youtube.com/playlist?list=PLVPIs-7SxXA_O-fUH5PbKhEHdTPnYKMiE) - Flavio Klens (Agência Klens)
+* [Curso de SEO (Iniciante)](https://www.youtube.com/playlist?list=PLqDfVio-YDgtfPuoYe1Ps_y9Ds1RU444_) - Caio Rodrigues
 * [Curso prático de SEO](https://www.youtube.com/playlist?list=PLHz_AreHm4dm4pBTRvBFMpSXvEoymoa90) - Gustavo Guanabara (Curso em Video)

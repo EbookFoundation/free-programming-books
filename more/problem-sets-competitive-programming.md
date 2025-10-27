@@ -15,7 +15,9 @@
 * [Algorithms for Competitive Programming](https://cp-algorithms.com)
 * [APL Problem Solving Competition](https://contest.dyalog.com)
 * [AtCoder](https://atcoder.jp)
+* [Atcoder DP Contest](https://atcoder.jp/contests/dp) - Atcoder
 * [beecrowd](https://www.beecrowd.com.br)
+* [BigFrontEnd.dev](https://bigfrontend.dev)
 * [COCI](https://hsin.hr/coci/)
 * [Codeabbey](http://www.codeabbey.com)
 * [Codechef](https://www.codechef.com/contests)
@@ -36,6 +38,7 @@
 * [HackerEarth](https://www.hackerearth.com)
 * [Hackerrank](https://www.hackerrank.com)
 * [Internet Problem Solving Contest](http://ipsc.ksp.sk)
+* [JSCodebox](https://jscodebox.com)
 * [Just another Golf Coding](http://jagc.org)
 * [Kattis](https://open.kattis.com)
 * [Last Moment DSA Sheet(79) – Ace Interviews](https://takeuforward.org/interview-sheets/strivers-79-last-moment-dsa-sheet-ace-interviews) - Striver
@@ -80,6 +83,7 @@
 * [AIcrowd](https://www.aicrowd.com)
 * [CodaLab](https://codalab.lisn.upsaclay.fr)
 * [CrowdANALYTIX](https://www.crowdanalytix.com/community)
+* [Deep-ML](https://www.deep-ml.com/problems)
 * [DrivenData](https://www.drivendata.org)
 * [Kaggle](https://www.kaggle.com)
 * [Zindi](https://zindi.africa)
@@ -155,4 +159,3 @@
 * [UVa Online Judge](https://uva.onlinejudge.org/index.php?Itemid=8&option=com_onlinejudge)
 * [Vulnhub.com](https://www.vulnhub.com)
 * [Школа программиста](https://acmp.ru)
-

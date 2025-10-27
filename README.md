@@ -67,6 +67,9 @@ Click on these badges to see how you might be able to help:
 <a href="https://twitter.com/intent/tweet?text=https://github.com/EbookFoundation/free-programming-books%0AFree%20Programming%20Books">Share on 𝕏 (Twitter)</a><br>
 </div>
 
+## 🧭 Learning Roadmaps
+Explore curated paths by language → [View Roadmaps](docs/roadmaps.md)
+
 ## Resources
 
 This project lists books and other resources grouped by genres:

@@ -290,3 +290,9 @@ dist
 # #########################################################
 # User Custom
 # ########
+# built site
+_site 
+
+# Gemfile builtd content
+Gemfile
+Gemfile.lock

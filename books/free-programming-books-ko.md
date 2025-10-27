@@ -153,6 +153,11 @@
 * [기초정수론: 계산과 법연산, 그리고 비밀통신을 강조한](https://wstein.org/ent/ent_ko.pdf) - William Stein (PDF)
 
 
+### MySQL
+
+* [처음 시작하는 MySQL — 입문자를 위한 데이터베이스 기초](https://wikidocs.net/book/18461) - 최종명
+
+
 ### Operation System
 
 * [운영체제: 아주 쉬운 세 가지 이야기](https://github.com/remzi-arpacidusseau/ostep-translations/tree/master/korean) - Remzi Arpacidusseau (PDF)

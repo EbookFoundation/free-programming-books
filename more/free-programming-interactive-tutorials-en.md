@@ -16,8 +16,7 @@
 * [Git](#git)
 * [GLSL](#glsl)
 * [Go](#go)
-* [GraphQL](#graphql)
-* [Haskell](#haskell)
+ 
 * [HTML and CSS](#html-and-css)
     * [Bootstrap](#bootstrap)
 * [IDE and editors](#ide-and-editors)
@@ -364,22 +363,12 @@
 * [PHP tutorial](https://www.w3schools.com/php) - W3Schools
 
 
-#### Laravel
-
-* [Learn the PHP Framework for Web Artisans](http://bootcamp.laravel.com) - Laravel Team
-
-
-### PostgreSQL
-
-* [PostgreSQL Tutorial](https://www.postgresqltutorial.com)
-* [PostgreSQL Tutorial](https://www.w3schools.com/postgresql/) - W3Schools
-
-
 ### Python
 
 * [Codecademy Python course](https://www.codecademy.com/learn/python)
 * [Computer Science Circles](https://cscircles.cemc.uwaterloo.ca) - Centre for Education in Mathematics and Computing (University of Waterloo)
 * [Data Analysis with Python Certification](https://www.freecodecamp.org/learn/data-analysis-with-python/) - freeCodeCamp
+* [FastAPI Tutorial](https://www.geeksforgeeks.org/python/fastapi-tutorial/) - GeeksforGeeks
 * [Foundations of Python Programming](https://runestone.academy/ns/books/published/fopp/index.html) - Runestone Interactive
 * [futurecoder](https://futurecoder.io) - Alex Hall
 * [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html)
@@ -395,7 +384,6 @@
 * [Python Tutorial](https://www.scaler.com/topics/python/) - Scaler Topics
 * [Python Tutorial](https://www.pythontutorial.net) - Anthony Pham (pythontutorial.net)
 * [Scientific Computing with Python Certification](https://www.freecodecamp.org/learn/scientific-computing-with-python/) - freeCodeCamp
-* [FastAPI Tutorial](https://www.geeksforgeeks.org/python/fastapi-tutorial/) - GeeksforGeeks
 
 
 ### Jupyter

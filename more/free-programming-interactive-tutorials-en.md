@@ -340,6 +340,7 @@
 ### MATLAB
 
 * [Interactive Tutorials for MATLAB, Simulink, Signal Processing, Controls, and Computational Mathematics](http://www.mathworks.com/tutorials)
+* [MATLAB Tutorial](https://www.tutorialspoint.com/matlab/index.htm) - TutorialsPoint
 
 
 ### Node

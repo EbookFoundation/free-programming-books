@@ -694,12 +694,12 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Modern Object Pascal Introduction for Programmers](https://github.com/michaliskambi/modern-pascal-introduction) - Michalis Kamburelis ([AsciiDoc](https://github.com/michaliskambi/modern-pascal-introduction/blob/master/modern_pascal_introduction.adoc#logical-relational-and-bit-wise-operators), [HTML](https://castle-engine.io/modern_pascal_introduction.html), [PDF](https://castle-engine.io/modern_pascal_introduction.pdf))
 * [Start Programming using Object Pascal](https://code.sd/startprog/StartProgUsingPascal.pdf) - Motaz Abdel Azeem (PDF)
 
+### Deno
 
-### DTrace
-
-* [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html)
-* [Solaris Dynamic Tracing Guide](https://docs.oracle.com/cd/E18752_01/pdf/817-6223.pdf) - Oracle (PDF)
-
+* [Deno Manual](https://docs.deno.com/runtime/manual) - The Deno Authors (HTML)
+* [Learn Deno: A Comprehensive Introduction](https://deno.land/manual@v1.35.1/introduction) - Deno Docs (HTML)
+* [The Deno Handbook](https://flaviocopes.com/deno/) - Flavio Copes (HTML)
+ 
 ### Django
 
 * [Django Official Documentation](https://docs.djangoproject.com/en/stable/) - Django Software Foundation (HTML)
@@ -707,20 +707,19 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Full Stack Python: Django](https://www.fullstackpython.com/django.html) - Matt Makai (HTML)
 * [MDN Web Docs: Django Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django) - Mozilla Developer Network (HTML)
 
-
-### Deno
-
-* [Deno Manual](https://docs.deno.com/runtime/manual) - The Deno Authors (HTML)
-* [Learn Deno: A Comprehensive Introduction](https://deno.land/manual@v1.35.1/introduction) - Deno Docs (HTML)
-* [The Deno Handbook](https://flaviocopes.com/deno/) - Flavio Copes (HTML)
-
-
+ 
 ### Docker
 
 * [Docker Official Documentation](https://docs.docker.com/) - Docker Inc. (HTML)
 * [Docker Curriculum](https://docker-curriculum.com/) - Prakhar Srivastav (HTML)
 * [Play with Docker Classroom](https://training.play-with-docker.com/) - Docker Inc. (Interactive)
 * [Learn Docker by Building a Node.js App](https://www.freecodecamp.org/news/learn-docker-by-building-a-node-js-app/) - FreeCodeCamp (HTML)
+
+
+### DTrace
+
+* [IllumOS Dynamic Tracing Guide](http://dtrace.org/guide/preface.html)
+* [Solaris Dynamic Tracing Guide](https://docs.oracle.com/cd/E18752_01/pdf/817-6223.pdf) - Oracle (PDF)
 
 
 ### Eiffel

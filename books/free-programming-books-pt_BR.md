@@ -83,9 +83,10 @@
 * [Algoritmos e Estruturas de Dados 1](https://www.inf.ufpr.br/marcos/livro_alg1/livro_alg1.pdf) - Marcos Castilho, Fabiano Silva, Daniel Weingaertner (PDF) (CC BY-NC-ND)
 * [Algoritmos e Programação](https://www.ifmg.edu.br/ceadop3/apostilas/algoritmos-e-programacao) - Adolfo José G. S. Baudson, Francisco César R. de Araújo (PDF)
 * [Introdução a Algoritmos e Programação](http://www.ferrari.pro.br/home/documents/FFerrari-CCechinel-Introducao-a-algoritmos.pdf) - Fabricio Ferrari, Cristian Cechinel (PDF)
+* [Introdução à programação em Julia (2020)](https://juliaintro.github.io/JuliaIntroBR.jl/index.html) - Abel Soares Siqueira, Gustavo Sarturi, João Okimoto & Kally Chung (HTML) (CC BY-NC 3.0)
 * [Lógica de Programação para iniciantes](https://dicasdeprogramacao.com.br/download/ebook-logica-de-programacao-para-iniciantes.pdf) - Gustavo Furtado de Oliveira Alves (PDF)
 * [Paradigmas de programação](https://github.com/edsomjr/Paradigmas) - Edson Alves (HTML)
-* [Introdução à programação em Julia (2020)](https://juliaintro.github.io/JuliaIntroBR.jl/index.html) - Abel Soares Siqueira, Gustavo Sarturi, João Okimoto & Kally Chung (HTML) (CC BY-NC 3.0)
+
 
 
 #### Sistemas Operacionais

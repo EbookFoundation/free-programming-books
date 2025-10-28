@@ -1067,3 +1067,10 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Workflow
 
 * [Declare Peace on Virtual Machines. A guide to simplifying vm-based development on a Mac](https://leanpub.com/declarepeaceonvms/read)
+
+### Python
+
+* [A Byte of Python](https://python.swaroopch.com/) - Swaroop C H (HTML, PDF)
+* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - Al Sweigart (HTML, Creative Commons)
+* [Introduction to Python Programming](https://assets.openstax.org/oscms-prodcms/media/documents/Introduction_to_Python_Programming_-_WEB.pdf) - Udayan Das et al. (PDF)
+* [Think Python: How to Think Like a Computer Scientist](https://greenteapress.com/wp/thinkpython2/) - Allen B. Downey (HTML, PDF)

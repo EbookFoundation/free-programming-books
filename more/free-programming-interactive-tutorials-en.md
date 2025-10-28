@@ -1,7 +1,8 @@
-### Index
+﻿### Index
 
 * [Ada](#ada)
 * [Android](#android)
+* [Artificial Intelligence](#artificial-intelligence)
 * [Bash](#bash)
 * [C](#c)
 * [C#](#csharp)
@@ -74,11 +75,18 @@
 ### C
 
 * [C Tutorial](https://www.w3schools.com/c/) - W3Schools
-* [C Tutorial](https://www.scaler.com/topics/c/) - Scaler Topics
-* [Learn C](http://www.learn-c.org) - Learn-C
 
 
-### <a id="csharp"></a>C\#
+* [C# Tutorial](https://www.tutlane.com/tutorial/csharp) - tutlane
+* [C# Tutorial](https://www.w3schools.com/cs) - W3Schools
+
+
+### Artificial Intelligence
+
+* [Generative AI tutorial](https://www.geeksforgeeks.org/artificial-intelligence/generative-ai-tutorial/) - GeeksforGeeks
+
+
+### <a id="csharp"></a>C#
 
 * [C# Tutorial](https://www.tutlane.com/tutorial/csharp) - tutlane
 * [C# Tutorial](https://www.w3schools.com/cs) - W3Schools
@@ -315,12 +323,14 @@
 
 ### LaTeX
 
+* [LaTeX Tutorial](https://www.tutorialspoint.com/latex/index.htm) - TutorialsPoint
 * [Learn LaTeX in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 
 
 ### Lisp
 
 * [Lisp Koans](https://github.com/google/lisp-koans)
+* [Lisp Tutorial](https://www.tutorialspoint.com/lisp/index.htm) - TutorialsPoint
 
 
 ### Markdown
@@ -332,6 +342,7 @@
 ### MATLAB
 
 * [Interactive Tutorials for MATLAB, Simulink, Signal Processing, Controls, and Computational Mathematics](http://www.mathworks.com/tutorials)
+* [MATLAB Tutorial](https://www.tutorialspoint.com/matlab/index.htm) - TutorialsPoint
 
 
 ### Node
@@ -384,6 +395,7 @@
 * [Computer Science Circles](https://cscircles.cemc.uwaterloo.ca) - Centre for Education in Mathematics and Computing (University of Waterloo)
 * [Data Analysis with Python Certification](https://www.freecodecamp.org/learn/data-analysis-with-python/) - freeCodeCamp
 * [Foundations of Python Programming](https://runestone.academy/ns/books/published/fopp/index.html) - Runestone Interactive
+* [Free Online Python Course for Beginners](https://code-basics.com/languages/python) - CodeBasics
 * [futurecoder](https://futurecoder.io) - Alex Hall
 * [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html)
 * [Learn Python](http://www.learnpython.org)

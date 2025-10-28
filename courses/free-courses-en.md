@@ -1626,6 +1626,7 @@
 * [Python: Visually Explained](https://www.youtube.com/playlist?list=PL8HmoRTjTSlHFhqRC_2iavGUOVnUdfAyl) - Visually Explained
 * [The Python Tutorial](https://docs.python.org/3/tutorial/)
 * [Using Python for Research](https://www.edx.org/course/using-python-for-research) (edX Harvard)
+* [Python Full Course for Beginners to Advanced | 12 Hours Complete Tutorial](https://www.youtube.com/watch?v=_aWbUudZ5Yo) - Sheryians AI School (YouTube)
 
 
 #### Django

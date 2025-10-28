@@ -642,6 +642,41 @@
 * [SQL Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWr_6xTfF2FrIw-NAOo3iWMy)
 * [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY) - Mike Dane (freeCodeCamp)
 
+#### Ansible
+
+* [Ansible + GCP](https://www.udemy.com/course/ansible-gcp) - Rohit Abraham (Udemy)
+* [Ansible Basics: An Automation Technical Overview](https://www.udemy.com/course/ansible-basics-an-automation-technical-overview) - Red Hat, Inc. (Udemy)
+* [Ansible for the Absolute Beginner - DevOps](https://www.udemy.com/course/ansible-for-the-absolute-beginner-devops) -  Vijay Patel (Udemy)
+* [AWS Provisioning using Ansible with real-time examples](https://www.udemy.com/course/aws-provisioning-using-ansible-with-real-time-examples) - Narendra P (Udemy)
+* [DevOps: Beginner's Guide To Automation With Ansible](https://www.udemy.com/course/devops-beginners-guide-to-automation-with-ansible) - TetraNoodle Team, Manuj Aggarwal (Udemy)
+* [Getting Started with Ansible](https://www.youtube.com/playlist?list=PLT98CRl2KxKEUHie1m24-wkyHpEsa4Y70) - Learn Linux TV
+* [Red Hat Ansible Automation for SAP (RH045)](https://www.udemy.com/course/red-hat-ansible-automation-for-sap) - Red Hat, Inc. (Udemy)
+* [Use Ansible with Amazon Web Services](https://www.udemy.com/course/ansible-aws) - Rohit Abraham (Udemy)
+
+
+#### Chef
+
+* [CHEF Tutorial](https://www.youtube.com/playlist?list=PLsgnv1SN76ILtD3TnVtXpX1hmwjyY9OuT) - Online Tutorials
+* [Learning Chef](https://www.youtube.com/playlist?list=PLKK5zTDXqzFM53J6-rikDrqbbY0Pu-9SP) - Nathen Harvey
+
+
+#### Jenkins
+
+* [FREE Advanced Jenkins in K8s (Docker in Docker)](https://www.udemy.com/course/free-advanced-jenkins-in-k8s-docker-in-docker) -  CS Career Kaizen (Udemy)
+* [Jenkins](https://www.youtube.com/playlist?list=PLhW3qG5bs-L_ZCOA4zNPSoGbnVQ-rp_dG) - Automation Step by Step
+* [Jenkins \| Step-by-Step for Complete Beginners](https://www.udemy.com/course/jenkins-step-by-step-for-complete-beginners/) - Raghav Pal (Udemy)
+* [Jenkins Tutorial](https://www.mygreatlearning.com/academy/learn-for-free/courses/jenkins-tutorial) (Great Learning)
+* [Jenkins Tutorial Step by Step](https://www.youtube.com/playlist?list=PL8VbCbavWfeGt_Hyq0h9Pymi9DTGowd5X) - The Testing Academy
+* [Jenkins Tutorial Video [2022 updated]](https://www.youtube.com/playlist?list=PLEiEAq2VkUUKGrfcoNYRgqam5YBERN8xa) - Simplilearn
+* [Jenkins Zero to Hero](https://www.youtube.com/playlist?list=PLdpzxOOAlwvJDIAQZtMjUUbiVUDfGaCIX) - Abhishek Veeramalla
+
+### Database Management Systems (DBMS)
+
+* [DBMS (Database Management System) Complete Playlist](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2U) - Gate Smashers
+* [DBMS Full Course for Beginners | Learn Database Management System from Scratch](https://www.youtube.com/watch?v=1jU6gRBQUas) - Code with Scaler
+* [Introduction to Databases](https://www.coursera.org/learn/introduction-to-databases) - Meta (Coursera)
+* [Database Management Essentials](https://www.coursera.org/learn/database-management) - University of Colorado System (Coursera)
+* [Database Structures and Management with MySQL](https://www.coursera.org/learn/database-structures-and-management-with-mysql) - Meta (Coursera)
 
 ### Deep Learning
 
@@ -679,7 +714,6 @@
 * [UC Berkeley CS 188: Introduction to Artificial Intelligence](http://ai.berkeley.edu) - Dan Klein
 * [Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/tutorial)
 
-
 ### DevOps
 
 * [AWS DevOps Engineer Learning Plan](https://explore.skillbuilder.aws/learn/public/learning_plan/view/85/devops-engineering-learning-plan?la=sec&sec=lp) - AWS
@@ -690,35 +724,6 @@
 * [DevOps Full Course](https://www.youtube.com/watch?v=lpk7VpGqkKw) - Simplilearn
 * [DevOps Tutorial for Beginners](https://www.youtube.com/playlist?list=PLVHgQku8Z934suC9LSE6vaAKjOH_MfRbE) - Intellipaat
 * [DevOps Tutorial for Beginners \| Learn DevOps in 7 Hours - Full Course \| DevOps Training \| Edureka](https://www.youtube.com/watch?v=hQcFE0RD0cQ) - Edureka
-
-
-#### Ansible
-
-* [Ansible + GCP](https://www.udemy.com/course/ansible-gcp) - Rohit Abraham (Udemy)
-* [Ansible Basics: An Automation Technical Overview](https://www.udemy.com/course/ansible-basics-an-automation-technical-overview) - Red Hat, Inc. (Udemy)
-* [Ansible for the Absolute Beginner - DevOps](https://www.udemy.com/course/ansible-for-the-absolute-beginner-devops) -  Vijay Patel (Udemy)
-* [AWS Provisioning using Ansible with real-time examples](https://www.udemy.com/course/aws-provisioning-using-ansible-with-real-time-examples) - Narendra P (Udemy)
-* [DevOps: Beginner's Guide To Automation With Ansible](https://www.udemy.com/course/devops-beginners-guide-to-automation-with-ansible) - TetraNoodle Team, Manuj Aggarwal (Udemy)
-* [Getting Started with Ansible](https://www.youtube.com/playlist?list=PLT98CRl2KxKEUHie1m24-wkyHpEsa4Y70) - Learn Linux TV
-* [Red Hat Ansible Automation for SAP (RH045)](https://www.udemy.com/course/red-hat-ansible-automation-for-sap) - Red Hat, Inc. (Udemy)
-* [Use Ansible with Amazon Web Services](https://www.udemy.com/course/ansible-aws) - Rohit Abraham (Udemy)
-
-
-#### Chef
-
-* [CHEF Tutorial](https://www.youtube.com/playlist?list=PLsgnv1SN76ILtD3TnVtXpX1hmwjyY9OuT) - Online Tutorials
-* [Learning Chef](https://www.youtube.com/playlist?list=PLKK5zTDXqzFM53J6-rikDrqbbY0Pu-9SP) - Nathen Harvey
-
-
-#### Jenkins
-
-* [FREE Advanced Jenkins in K8s (Docker in Docker)](https://www.udemy.com/course/free-advanced-jenkins-in-k8s-docker-in-docker) -  CS Career Kaizen (Udemy)
-* [Jenkins](https://www.youtube.com/playlist?list=PLhW3qG5bs-L_ZCOA4zNPSoGbnVQ-rp_dG) - Automation Step by Step
-* [Jenkins \| Step-by-Step for Complete Beginners](https://www.udemy.com/course/jenkins-step-by-step-for-complete-beginners/) - Raghav Pal (Udemy)
-* [Jenkins Tutorial](https://www.mygreatlearning.com/academy/learn-for-free/courses/jenkins-tutorial) (Great Learning)
-* [Jenkins Tutorial Step by Step](https://www.youtube.com/playlist?list=PL8VbCbavWfeGt_Hyq0h9Pymi9DTGowd5X) - The Testing Academy
-* [Jenkins Tutorial Video [2022 updated]](https://www.youtube.com/playlist?list=PLEiEAq2VkUUKGrfcoNYRgqam5YBERN8xa) - Simplilearn
-* [Jenkins Zero to Hero](https://www.youtube.com/playlist?list=PLdpzxOOAlwvJDIAQZtMjUUbiVUDfGaCIX) - Abhishek Veeramalla
 
 
 ### Digital Electronics

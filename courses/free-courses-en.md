@@ -567,8 +567,8 @@
 
 ### Data Science
 
-* [Advanced Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/advanceddataminingwithweka/)
 * [Accelerate Data Science Workflows with Zero Code Changes](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+T-DS-03+V1) - NVIDIA Deep Learning Institute
+* [Advanced Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/advanceddataminingwithweka/)
 * [An Introduction to Data Science](https://www.udemy.com/course/an-introduction-to-data-science/)
 * [Apache Airflow Tutorials](https://www.youtube.com/playlist?list=PLYizQ5FvN6pvIOcOd6dFZu3lQqc6zBGp2) - Tuan Vu
 * [Applied Data Science with Python](https://cognitiveclass.ai/learn/data-science-with-python) - CognitiveClass.ai

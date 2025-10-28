@@ -25,7 +25,7 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
   - [How-to](HOWTO-zh_TW.md)
 - Czech / čeština / český jazyk
 - Danish / dansk
-- Dutch / Nederlands
+- Dutch / Nederlands 
   - [How-to](HOWTO-nl.md)
 - English
   - [Code of Conduct](CODE_OF_CONDUCT.md)

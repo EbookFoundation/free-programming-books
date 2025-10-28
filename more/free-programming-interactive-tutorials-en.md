@@ -1,7 +1,8 @@
-### Index
+﻿### Index
 
 * [Ada](#ada)
 * [Android](#android)
+* [Artificial Intelligence](#artificial-intelligence)
 * [Bash](#bash)
 * [C](#c)
 * [C#](#csharp)
@@ -74,11 +75,18 @@
 ### C
 
 * [C Tutorial](https://www.w3schools.com/c/) - W3Schools
-* [C Tutorial](https://www.scaler.com/topics/c/) - Scaler Topics
-* [Learn C](http://www.learn-c.org) - Learn-C
 
 
-### <a id="csharp"></a>C\#
+* [C# Tutorial](https://www.tutlane.com/tutorial/csharp) - tutlane
+* [C# Tutorial](https://www.w3schools.com/cs) - W3Schools
+
+
+### Artificial Intelligence
+
+* [Generative AI tutorial](https://www.geeksforgeeks.org/artificial-intelligence/generative-ai-tutorial/) - GeeksforGeeks
+
+
+### <a id="csharp"></a>C#
 
 * [C# Tutorial](https://www.tutlane.com/tutorial/csharp) - tutlane
 * [C# Tutorial](https://www.w3schools.com/cs) - W3Schools

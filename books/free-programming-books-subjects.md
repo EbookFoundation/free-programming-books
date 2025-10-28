@@ -376,13 +376,13 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 
 > :information_source: See also &#8230; [Emacs Lisp](free-programming-books-langs.md#emacs-lisp), [Regular Expressions](#regular-expressions)
 
-* [Learn Neovim](https://ofirgall.github.io/learn-nvim/chapters/00-why-should-i-learn.html) - Ofir Gal (online, PDF)
-* [Learn Vim For the Last Time](https://danielmiessler.com/study/vim/) - Daniel Miessler
-* [Learn Vim Progressively](https://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/) - Yann Esposito
-* [Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com) - Steve Losh
 * [A Byte of Vim](https://vim.swaroopch.com) - Swaroop Chitlur, Nofrak, Fuzzymonk, Karmadude, Yesyo, Hbvit7, Leochingkwake (PDF) (CC BY-SA)
 * [GNU Emacs Manual](https://www.gnu.org/software/emacs/manual/emacs.html) - Free Software Foundation Inc. (HTML, PDF) (GFDL)
+* [Learn Neovim](https://ofirgall.github.io/learn-nvim/chapters/00-why-should-i-learn.html) - Ofir Gal (HTML, PDF)
 * [Learn Vim (the Smart Way)](https://github.com/iggredible/Learn-Vim) - Igor Irianto (HTML) (CC BY-NC-SA)
+* [Learn Vim For the Last Time](https://danielmiessler.com/study/vim/) - Daniel Miessler (HTML)
+* [Learn Vim Progressively](https://yannesposito.com/Scratch/en/blog/Learn-Vim-Progressively/) - Yann Esposito (HTML)
+* [Learn Vimscript the Hard Way](https://learnvimscriptthehardway.stevelosh.com) - Steve Losh (HTML)
 * [The Craft of Text Editing or A Cookbook for an Emacs](https://www.finseth.com/craft/) - Craig A. Finseth (HTML, PDF, ePUB, Kindle, PostScript, LaTeX)
 * [Vi Improved -- Vim](https://www.truth.sk/vim/vimbook-OPL.pdf) - Steve Oualline (PDF)
 * [VIM-GALORE - All things Vim!](https://github.com/mhinz/vim-galore#readme) - Marco Hinz (HTML)

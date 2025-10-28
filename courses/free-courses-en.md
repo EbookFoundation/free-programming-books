@@ -265,7 +265,7 @@
 * [Artificial Intelligence Search Methods For Problem Solving](https://www.youtube.com/playlist?list=PLbMVogVj5nJSFZoiF6RDqyz_m6Srjx_MY) - nptelhrd
 * [Augment your LLM Using Retrieval Augmented Generation](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-16+V1) - NVIDIA Deep Learning Institute
 * [AWS Certified AI Practitioner (AIF-C01)](https://www.youtube.com/watch?v=WZeZZ8_W-M4) - Andrew Brown (FreeCodeCamp)
-* [Building RAG Agents with LLMs] - NVIDIA Deep Learning Institute **FREE FOR A LIMITED TIME**
+* [Building RAG Agents with LLMs](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-15+V1) - NVIDIA Deep Learning Institute **FREE FOR A LIMITED TIME**
 * [Community Computer Vision Course](https://huggingface.co/learn/computer-vision-course) - Hugging Face
 * [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/) - Brian Yu, David J. Malan (Harvard OpenCourseWare and edX)
 * [Deep Reinforcement Learning Course](https://huggingface.co/learn/deep-rl-course) - Hugging Face

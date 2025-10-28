@@ -633,6 +633,12 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Learn Modern ColdFusion \<CFML\> in 100+ Minutes](https://modern-cfml.ortusbooks.com) - Luis Majano (HTML)
 * [Learning coldfusion](https://riptutorial.com/Download/coldfusion.pdf) - Compiled from StackOverflow documentation (PDF)
 
+### Common Lisp
+
+* [Common Lisp HyperSpec](http://www.lispworks.com/documentation/HyperSpec/Front/index.htm) - Kent Pitman (HTML)
+* [Practical Common Lisp](http://www.gigamonkeys.com/book/) - Peter Seibel (HTML, PDF)
+* [Common Lisp the Language, 2nd Edition](https://www.cs.cmu.edu/Groups/AI/html/cltl/clm/clm.html) - Guy L. Steele Jr. (HTML)
+
 
 ### Component Pascal
 
@@ -672,12 +678,6 @@ Books on general-purpose programming that don't focus on a specific language are
 
 * [Cython: C-Extensions for Python](https://cython.readthedocs.io/en/latest/) - Official Documentation (HTML)
 * [Cython Tutorial](https://docs.python.org/3/tutorial/modules.html#modules) - Python.org (HTML)
-
-### Common Lisp
-
-* [Common Lisp HyperSpec](http://www.lispworks.com/documentation/HyperSpec/Front/index.htm) - Kent Pitman (HTML)
-* [Practical Common Lisp](http://www.gigamonkeys.com/book/) - Peter Seibel (HTML, PDF)
-* [Common Lisp the Language, 2nd Edition](https://www.cs.cmu.edu/Groups/AI/html/cltl/clm/clm.html) - Guy L. Steele Jr. (HTML)
 
 
 ### D

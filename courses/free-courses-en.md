@@ -556,6 +556,14 @@
 * [Free Dart Course](https://www.youtube.com/playlist?list=PL6yRaaP0WPkVR2FiAS7TTCT_n2mDhwISE) - Vandad Nahavandipoor
 * [Learning Dart](https://riptutorial.com/Download/dart.pdf) - Compiled from StackOverflow Documentation (PDF)
 
+### Database Management Systems (DBMS)
+
+* [DBMS (Database Management System) Complete Playlist](https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2U) - Gate Smashers
+* [DBMS Full Course for Beginners | Learn Database Management System from Scratch](https://www.youtube.com/watch?v=1jU6gRBQUas) - Code with Scaler
+* [Introduction to Databases](https://www.coursera.org/learn/introduction-to-databases) - Meta (Coursera)
+* [Database Management Essentials](https://www.coursera.org/learn/database-management) - University of Colorado System (Coursera)
+* [Database Structures and Management with MySQL](https://www.coursera.org/learn/database-structures-and-management-with-mysql) - Meta (Coursera)
+
 
 ### Data Science
 

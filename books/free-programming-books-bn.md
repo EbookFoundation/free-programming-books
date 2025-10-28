@@ -22,9 +22,9 @@
 
 ### C
 
-* [বাংলায় C প্রোগ্রামিং ল্যাঙ্গুয়েজ শেখার কোর্স](https://c.howtocode.dev) - Jakir Hossain, et al.
-* [Computer Programming «কম্পিউটার প্রোগ্রামিং ১ম খণ্ড»](http://cpbook.subeen.com) - Tamim Shahriar Subeen (HTML)
 * [Computer Programming Part 3](https://archive.org/details/computer-programming-part-3-tamim-shaharier-subin) - Tamim Shahriar Subeen (PDF)
+* [Computer Programming «কম্পিউটার প্রোগ্রামিং ১ম খণ্ড»](http://cpbook.subeen.com) - Tamim Shahriar Subeen (HTML)
+* [বাংলায় C প্রোগ্রামিং ল্যাঙ্গুয়েজ শেখার কোর্স](https://c.howtocode.dev) - Jakir Hossain, et al.
 * [সি প্রোগ্রামিং](https://www.ebookbou.edu.bd/Books/Text/OS/HSC/hsc_1853/Unit-09.pdf) - Bangladesh Open University (PDF)
 
 

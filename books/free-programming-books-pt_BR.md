@@ -18,8 +18,8 @@
 * [Elixir](#elixir)
 * [Engenharia de software](#engenharia-de-software)
     * [Arquitetura de Software](#arquitetura-de-software)
-    * [Outros](#outros)
     * [Metodologias de Desenvolvimento de Software](#metodologias-de-desenvolvimento-de-software)
+    * [Outros](#outros)
 * [Fortran](#fortran)
 * [Fundamentos Matemáticos Computacionais](#fundamentos-matemáticos-computacionais)
 * [Git](#git)
@@ -73,8 +73,8 @@
 #### IDE and editors
 
 * [O Editor de Texto Vim](https://code.google.com/p/vimbook) - Sérgio Luiz Araújo Silva, et al.
-* [Vimbook](https://cassiobotaro.dev/vimbook/) - Cássio Botaro (HTML)
 * [Vim para Noobs](https://woliveiras.com.br/vimparanoobs/) - William Oliveira Souza (HTML, PDF, EPUB) (*Necessário criar uma conta (gratuita) no Leanpub para baixar o livro completo*)
+* [Vimbook](https://cassiobotaro.dev/vimbook/) - Cássio Botaro (HTML)
 * [Visual Studio Code: Produtividade infinita](https://github.com/bylearn/VS-Code-Produtividade-Infinita) - Felipe Cabrera Ribeiro dos Santos
 
 
@@ -361,6 +361,7 @@
 
 * [Introdução à programação em Julia (2020)](https://juliaintro.github.io/JuliaIntroBR.jl/index.html) - Abel Soares Siqueira, Gustavo Sarturi, João Okimoto & Kally Chung (HTML) (CC BY-NC 3.0)
 * [Programação de Computadores com Linguagem Julia](https://github.com/J-AugustoManzano/LivroLinJulia) - José Augusto N. G. Manzano (PDF)
+
 
 ### Kubernetes
 

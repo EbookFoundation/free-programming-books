@@ -12,6 +12,7 @@ Search the list at [https://ebookfoundation.github.io/free-programming-books-sea
 
 This page is available as an easy-to-read website. Access it by clicking on [![https://ebookfoundation.github.io/free-programming-books/](https://img.shields.io/website?style=flat&logo=www&logoColor=whitesmoke&label=Static%20site&down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Febookfoundation.github.io%2Ffree-programming-books%2F)](https://ebookfoundation.github.io/free-programming-books/).
 
+{% if page.url == "/" or page.path == "README.md" %}
 <div align="center">
   <form action="https://ebookfoundation.github.io/free-programming-books-search">
     <input type="text" id="fpbSearch" name="search" required placeholder="Search Book or Author"/>
@@ -19,6 +20,7 @@ This page is available as an easy-to-read website. Access it by clicking on [![h
     <input type="submit" id="submit" name="submit" value="Search" />
   </form>
 </div>
+{% endif %}
 
 ## Intro
 

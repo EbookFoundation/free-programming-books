@@ -433,10 +433,10 @@
 * [Rust-101](https://www.ralfj.de/projects/rust-101/main.html) - ralfj.de
 * [Rust Primer](https://app.codecrafters.io/collections/rust-primer) - CodeCrafters
 * [Rust Quiz](https://dtolnay.github.io/rust-quiz)
-* [W3Schools Rust Tutorial](https://www.w3schools.com/rust) - W3Schools
 * [Rustlings](https://github.com/rust-lang/rustlings)
 * [TCP Servers in Rust](https://app.codecrafters.io/concepts/rust-tcp-server) - CodeCrafters
 * [Tour of Rust](https://tourofrust.com)
+* [W3Schools Rust Tutorial](https://www.w3schools.com/rust) - W3Schools
 
 
 ### Scala

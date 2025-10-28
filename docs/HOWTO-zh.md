@@ -1,4 +1,4 @@
-# How-To at a glance (操作指南)
+# How-To at a glance (使用说明)
 
 <div align="right" markdown="1">
 

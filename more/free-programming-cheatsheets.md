@@ -483,25 +483,26 @@
 * [Business Analytics with Python Cheat Sheet](https://zerotomastery.io/cheatsheets/business-analytics-cheat-sheet/) - ZeroToMastery (HTML)
 * [Comprehensive Python Cheat Sheet for Beginners](https://medium.com/the-codehub/comprehensive-python-cheat-sheet-for-beginners-5d76bb038fa2) - Rishi Sidhu, Medium (HTML)
 * [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet) - Jure Šorn (HTML)
-* [Numpy Pandas Cheat Sheet](https://www.kaggle.com/code/lavanyashukla01/pandas-numpy-python-cheatsheet) - Kaggle (HTML)
+* [Numpy Pandas Cheat Sheet](https://www.kaggle.com/code/lavanyashukla01/pandas-numpy-python-cheatsheet) - Lavanya Shukl (HTML)
 * [Official Matplotlib cheat sheets](https://github.com/matplotlib/cheatsheets) - Matplotlib.org (LaTeX, PDF)
-* [Python 3 Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf) - Laurent Pointal (PDF)
-* [Python Cheat Sheet](https://www.codewithharry.com/blogpost/python-cheatsheet) - Code With Harry
-* [Python Cheat Sheet](https://websitesetup.org/python-cheat-sheet/) - WebsiteSetup (HTML, PDF, PNG)
+* [Python 3 Cheat Sheet](https://scouv.lisn.upsaclay.fr/python-memento/memento-python3-en-latest.pdf) - Laurent Pointal (PDF)
+* [Python Cheat Sheet](https://www.codewithharry.com/blogpost/python-cheatsheet) - Code With Harry (HTML)
+* [Python Cheat Sheet](https://websitesetup.org/python-cheat-sheet/) - WebsiteSetup (PDF)
 * [Python Cheat Sheet](https://www.pythoncheatsheet.org) - Wilfredinni (HTML)
-* [Python Cheat Sheet](https://overapi.com/python) - OverAPI
-* [Python Cheat Sheet](https://zerotomastery.io/cheatsheets/python-cheat-sheet/) - ZeroToMastery (HTML)
-* [Python Cheat sheet (2024)](https://www.geeksforgeeks.org/python-cheat-sheet) - GeeksforGeeks
-* [Python Crash Course Cheatsheet](https://ehmatthes.github.io/pcc/cheatsheets/README.html) - Eric Matthes (HTML)
+* [Python Cheat Sheet](https://overapi.com/python) - OverAPI (HTML)
+* [Python Cheat Sheet](https://zerotomastery.io/cheatsheets/python-cheat-sheet/) - ZeroToMastery (HTML, PDF)
+* [Python Cheat sheet (2025)](https://www.geeksforgeeks.org/python-cheat-sheet) - GeeksforGeeks (HTML)
+* [Python Crash Course Cheatsheet](https://github.com/ehmatthes/pcc/blob/master/cheat_sheets/README.md) - Eric Matthes (HTML)
 * [Python Crash Course Cheatsheet (2nd Edition)](https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/) - Eric Matthes (PDF)
+* [Python Crash Course Cheatsheet (3rd Edition)](https://ehmatthes.github.io/pcc_3e/cheat_sheets/) - Eric Matthes (PDF)
 * [Python Data Wrangling with pandas](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf) - Pandas (PDF)
-* [Python for Data Science - A Cheat Sheet for Beginners](https://www.datacamp.com/cheat-sheet/python-for-data-science-a-cheat-sheet-for-beginners) - DataCamp (PDF)
+* [Python for Data Science - A Cheat Sheet for Beginners](https://www.datacamp.com/cheat-sheet/python-for-data-science-a-cheat-sheet-for-beginners) - DataCamp (PDF, HTML)
 * [Python for Data Science - Matplotlib Cheat Sheet](https://media.datacamp.com/legacy/image/upload/v1676360378/Marketing/Blog/Matplotlib_Cheat_Sheet.pdf) - DataCamp (PDF)
 * [Python Regex Cheatsheet](https://www.debuggex.com/cheatsheet/regex/python) - Debuggex (HTML)
-* [Python WorldWide Cheatsheet](https://cheatography.com/davechild/cheat-sheets/python/) - Cheatography (Python)
+* [Python WorldWide Cheatsheet](https://cheatography.com/davechild/cheat-sheets/python/) - Dave Child (PDF, HTML, LaTex)
 * [Scapy Cheat Sheet](https://www.templateroller.com/template/160817/scapy-cheat-sheet-jeremy-stretch.html) - Jeremy Stretch (PDF)
 * [SciPy Cheat Sheet: Linear Algebra in Python](https://www.datacamp.com/cheat-sheet/scipy-cheat-sheet-linear-algebra-in-python) - Datacamp (HTML, PDF)
-* [Shiny for Python Cheat Sheet](https://rstudio.github.io/cheatsheets/html/shiny-python.html) - Posit (HTML/PDF)
+* [Shiny for Python Cheat Sheet](https://rstudio.github.io/cheatsheets/html/shiny-python.html) - Posit (HTML, PDF)
 
 
 #### Django

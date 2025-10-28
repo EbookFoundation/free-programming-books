@@ -323,6 +323,7 @@
 
 ### LaTeX
 
+* [LaTeX Tutorial](https://www.tutorialspoint.com/latex/index.htm) - TutorialsPoint
 * [Learn LaTeX in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 
 

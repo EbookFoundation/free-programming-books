@@ -10,13 +10,14 @@
 
 ### C
 
-* [Beej's Guide til Netvarksprogrammierung](https://web.archive.org/web/20190701062226/http://artcreationforever.com/bgnet.html) - Brian "Beej Jorgensen" Hall, Art of Science (HTML) *(:card_file_box: archived)*
+* [Beej's Guide til Netvarksprogrammierung](https://web.archive.org/web/20190701062226/http://artcreationforever.com/bgnet.html) - Brian "Beej Jorgensen" Hall, Art of Science (HTML) *( :card_file_box: archived)*
 * [Programmering i C](http://people.cs.aau.dk/~normark/c-prog-06/pdf/all.pdf) - Kurt Nørmark (PDF)
 
 
 ### <a id="csharp"></a>C\#
 
 * [Object-oriented Programming in C#](http://people.cs.aau.dk/~normark/oop-csharp/pdf/all.pdf) - Kurt Nørmark (PDF)
+* [Bogen om C#](https://mcronberg.github.io/bogenomcsharp/) - Michell Cronberg (HTML)
 
 
 ### <a id="cpp"></a>C++

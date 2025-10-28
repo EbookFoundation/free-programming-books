@@ -8,6 +8,7 @@
 * [Control de Versiones](#control-de-versiones)
 * [Flujos de trabajo](#flujos-de-trabajo)
 * [Frameworks](#frameworks)
+* [Inteligencia Artificial](#inteligencia-artificial)
 * [LaTeX](#latex)
 * [Markdown](#markdown)
 * [Ofimática](#ofim&#x00E1;tica)
@@ -38,8 +39,8 @@
 * [Android Módulo 2](https://www.pildorasinformaticas.es/course/android-modulo-2) - Juan Díaz (Píldoras Informáticas)
 * [Android Módulo 3](https://www.pildorasinformaticas.es/course/android-modulo-3) - Juan Díaz (Píldoras Informáticas)
 * [Aprende a programar tu primera app](https://www.edx.org/es/course/jugando-con-android-aprende-programar-tu-uamx-android301x-4)
-* [Introducción a la programación Android](https://www.edx.org/es/course/android-introduccion-la-programacion-upvalenciax-aip201x-1)
-* [Introducción a la programación Android](https://campusvirtual.ull.es/ocw/course/view.php?id=130)
+* [Introducción a la programación Android](https://www.edx.org/es/course/android-introduccion-la-programacion-upvalenciax-aip201x-1) - Jesús Tomás Gironés
+* [Introducción a la programación Android](https://campusvirtual.ull.es/ocw/course/view.php?id=130) - Cándido Caballero Gil, Jezabel Molina Gil
 * [Material Design con Android Studio](https://www.youtube.com/playlist?list=PLEtcGQaT56ch37mnavd8p5cbnkDvXLGsX) - Jesús Conde
 
 
@@ -113,6 +114,11 @@
 * [Probar Django \| Crear una Aplicación Web](https://www.udemy.com/course/probar-django-construir-una-aplicacion-web-en-python) - Justin Mitchel, Karlita K (Udemy)
 
 
+### Inteligencia Artificial
+
+* [Generative AI para Principiantes .NET - Un Curso](https://github.com/microsoft/Generative-AI-for-beginners-dotnet/tree/main/translations/es) - Microsoft (GitHub)
+
+
 ### LaTeX
 
 * [Curso no convencional de LaTeX](https://ondiz.github.io/cursoLatex/)
@@ -120,6 +126,7 @@
 
 ### Markdown
 
+* [Curso de Markdown](https://www.youtube.com/playlist?list=PLM4HZoZrNapsQ_f6a9275n15riyr-2AnQ) - ProgramaTutos
 * [Tutorial de Markdown](https://www.markdowntutorial.com/es/)
 
 
@@ -149,9 +156,9 @@
 
 ### Procesadores de lenguaje
 
-* [Compiladores e Intérpretes (2012)](http://ocw.uji.es/curso/4949)
+* [Compiladores e Intérpretes (2012)](https://web.archive.org/web/20130613211947/http://ocw.uji.es/curso/4949) *( :card_file_box: archived)*
 * [Procesadores de lenguaje (2006)](https://ocw.ua.es/es/ingenieria-y-arquitectura/procesadores-de-lenguaje-2006.html)
-* [Procesadores de Lenguaje (2012)](http://ocw.uji.es/curso/5180)
+* [Procesadores de Lenguaje (2012)](https://web.archive.org/web/20130524191858/http://ocw.uji.es/curso/5180) *( :card_file_box: archived)*
 * [Procesadores de lenguajes -enfocado en Perl-](https://campusvirtual.ull.es/ocw/course/view.php?id=45)
 * [Procesadores de lenguajes II](https://ocw.uca.es/course/view.php?id=56)
 
@@ -163,8 +170,10 @@
 * [Aprendemos JavaScript](https://www.freecodecamp.org/espanol/news/aprende-javascript-curso-completo-desde-cero/) - Estefania Cassingena Navone
 * [Clojure](https://programadorwebvalencia.com/cursos/clojure/introducci%C3%B3n/) - Andros Fenollosa (Programador Web Valencia)
 * [Curso C#](https://www.pildorasinformaticas.es/course/curso-c) - Juan Díaz (Píldoras Informáticas)
+* [Curso de Javascript](https://edutin.com/curso-de-javascript-4284) - (Edutin Academy)
 * [Curso de JavaScript Gratis](https://codigofacilito.com/cursos/javascript) - Código Facilito
-* [Curso de PHP/MySQL](https://www.youtube.com/playlist?list=PLU8oAlHdN5BkinrODGXToK9oPAlnJxmW_) - Juan Díaz (Píldoras informáticas) 
+* [Curso de PHP/MySQL](https://www.youtube.com/playlist?list=PLU8oAlHdN5BkinrODGXToK9oPAlnJxmW_) - Juan Díaz (Píldoras informáticas)
+* [Curso de Python](https://www.youtube.com/playlist?list=PLNdFk2_brsRcrVO-C915sjog0WclPgxHb) - Brias Moure "MoureDev"
 * [Curso de Python gratis y con certificación](https://edutin.com/curso-de-python-4276) - Edutin
 * [Curso Gratis de Programación Básica](https://platzi.com/clases/programacion-basica/) - Platzi
 * [Curso Gratis de Ruby](https://codigofacilito.com/cursos/ruby-2) - Código Facilito
@@ -184,6 +193,7 @@
 * [Linux y Bash](https://aprendeaprogramar.com/course/view.php?id=10) - Javier Hernandez (Aprendeaprogramar.com)
 * [Lógica de programación](https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=7929) - Carlos Slim Foundation (cuenta requerida)
 * [Patrones de diseño](https://refactoring.guru/es/design-patterns) - Alexander Shvets (Refactoring.Guru)
+* [Primeros Pasos con Rust](https://learn.microsoft.com/es-es/training/paths/rust-first-steps) - Microsoft Learn
 * [Principios de PHP](https://programadorwebvalencia.com/cursos/php/base/) - Andros Fenollosa (Programador Web Valencia)
 * [Programación de computadoras](https://es.khanacademy.org/computing/computer-programming#programming) - Khan Academy
 * [Programación en entornos interactivos 'Qt - gtk' (2010)](https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-en-entornos-interactivos-2010.html)
@@ -192,7 +202,6 @@
 * [Programación en lenguaje Java (2009)](https://ocw.unican.es/course/view.php?id=217)
 * [Programación en lenguaje Java (2015)](https://ocw.unican.es/course/view.php?id=240)
 * [Programación en paralelo -Perl- (2012)](https://campusvirtual.ull.es/ocw/course/view.php?id=44)
-* [Programación para principiantes - primeros pasos](https://www.udemy.com/course/programacion-para-principiantes) - Fernando Herrera (Udemy)
 * [Programación POO (2011)](https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-3-2011.html)
 * [Programador en C#](https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=12989) - Carlos Slim Foundation (cuenta requerida)
 * [Programador orientado a objetos](https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=4244) - Carlos Slim Foundation (cuenta requerida)
@@ -294,6 +303,7 @@
 
 ### VS Code
 
+* [Aprende VS Code ahora! \| curso completo de VSCode desde CERO](https://www.youtube.com/watch?v=Ei1y51K8jQk) - HolaMundo
 * [Visual Studio Code: Mejora tu velocidad para codificar](https://www.udemy.com/course/vscode-mejora-tu-velocidad-para-codificar/) - Fernando Herrera
 
 

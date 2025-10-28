@@ -12,6 +12,7 @@
 * [Flutter](#flutter)
 * [Game Development](#game-development)
 * [Git](#git)
+* [Go](#go)
 * [HTML and CSS](#html-and-css)
     * [Bootstrap](#bootstrap)
 * [Java](#java)
@@ -95,7 +96,7 @@
 ### Game Development
 
 * [Game development challenge tutorial series](https://www.youtube.com/playlist?list=PLY-ecO2csVHegnXkm4aLAZTRF_3nTMJMW) - Brototype Malayalam
-* [Game Development Tutorial Malayalam | Godot](https://www.youtube.com/playlist?list=PLcP4K64TKma33Vz9AhPvJpVJuO5jRbcyw) - Spotix
+* [Game Development Tutorial Malayalam \| Godot](https://www.youtube.com/playlist?list=PLcP4K64TKma33Vz9AhPvJpVJuO5jRbcyw) - Spotix
 
 
 ### Git
@@ -103,6 +104,11 @@
 * [Git malayalam tutorial github](https://youtube.com/playlist?list=PL4KwFGqvN4nsAlTIl6FcEubM2CtHW7zTC) - Debug Media
 * [Git Tutorial Malayalam \| Best Malayalam Git Tutorial \| Date With Git](https://youtube.com/playlist?list=PLY-ecO2csVHdLhAO6TERaMJXP8aqyWVt-) - Brototype Malayalam
 * [Git Tutorial - Malayalam](https://www.youtube.com/playlist?list=PLQzJEzrRmXOW7pKbwpicijzUdxZmDgqNL) - Code Malayalam
+
+
+### Go
+
+* [Golang: Complete Tutorial in മലയാളം for Beginners](https://www.youtube.com/watch?v=S7Dfsky1bZ4) - CodeEase with Anu
 
 
 ### HTML and CSS
@@ -133,6 +139,7 @@
 * [JavaScript Malayalam Tutorial](https://www.youtube.com/watch?v=3mjwtu4_0uk) - Yes Tech Media
 * [JavaScript Malayalam Tutorials For Beginners](https://www.youtube.com/playlist?list=PLQzHWfiB9fWdQ6qcl5Vo4JPOA3kxpCJ3A) - Learn Programming In Malayalam
 * [javascript tutorial in malayalam](https://youtube.com/playlist?list=PLBKJGko2JEdF4irCbI5BdHIEfxEdfMNqA) - Tintu Vlogger
+* [javaScript tutorial for beginners malayalam](https://www.youtube.com/playlist?list=PLPvjxHx5Kob2xn4eANiHRPSJmfqj3DMeo) - Wezlon
 
 
 #### Angular
@@ -149,6 +156,7 @@
 
 #### Next.JS
 
+* [Next JS For Beginners](https://www.youtube.com/playlist?list=PLCOzHVsG8mkoY7JQC44AkhsIQnN_f_-aS) -  Web diary
 * [Next.js Material UI Malayalam Tutorial](https://www.youtube.com/playlist?list=PL5Y_OOpi0rh0VAfV9Lz7gTdxhPTkmNxeC) -  Tutorial Hut
 
 
@@ -170,7 +178,7 @@
 ### Kotlin
 
 * [Kotlin / Android App Development](https://www.youtube.com/playlist?list=PLefF9wgiOa4WFRP4IvRCZre7xLjRkJdlQ) - Nikin Sk
-* [Kotlin Malayalam | Kotlin programming Tutorials for android malayalam](https://www.youtube.com/playlist?list=PLaP7lUdqAGYPpEutAk6o1jKC08Rc5xMXs) - CODEAVIAL
+* [Kotlin Malayalam \| Kotlin programming Tutorials for android malayalam](https://www.youtube.com/playlist?list=PLaP7lUdqAGYPpEutAk6o1jKC08Rc5xMXs) - CODEAVIAL
 
 
 ### Linux
@@ -194,9 +202,10 @@
 
 ### PHP
 
+* [Learn PHP programming in malayalam](https://www.youtube.com/playlist?list=PL-Z1WBeTYPOoO9mJxVveZ1VgZPVXmyhFL) - Aks Programming
+* [PHP Programming Course Malayalam](https://www.youtube.com/playlist?list=PLefF9wgiOa4WeDSpmKb6gRS-UJKn2FRnN) - Nikin Sk
 * [PHP Programming Malayalam Tutorial for Beginners](https://www.youtube.com/watch?v=nFYWCouZ1UA) - Yes Tech Media
 * [php tutorial in malayalam](https://youtube.com/playlist?list=PLBKJGko2JEdH_T2ki6ty4xGV19qB7Hpmm) - Tintu Vlogger
-* [Learn PHP programming in malayalam](https://www.youtube.com/playlist?list=PL-Z1WBeTYPOoO9mJxVveZ1VgZPVXmyhFL) - Aks Programming
 
 
 #### Laravel
@@ -208,9 +217,13 @@
 
 ### Python
 
+* [OpenCV-Python Computer Vision](https://www.youtube.com/playlist?list=PL1JrLEBAapUWeV2O_wVIrX4BdWvJpepz7) - Yes Tech Media
 * [Python](https://www.youtube.com/playlist?list=PLwe8bwPXjlLveEHvTbKMXJOPkFdXnu4xi) - Learn CSE Malayalam
+* [Python Numpy Malayalam Tutorial](https://www.youtube.com/playlist?list=PL1JrLEBAapUVkjt4Q1R_ZFFRT_80WBCyx) - Yes Tech Media
 * [Python Programming Malayalam Tutorial](https://www.youtube.com/watch?v=ihnWXGPxNEk) - Yes Tech Media
-* [Python Tutorial Malayalam \| Best Malayalam Python Programming Tutorial](https://youtube.com/playlist?list=PLY-ecO2csVHfbpOmWamlb8Mujjdnl1jks) - Brototype Malayalam 
+* [Python Tutorial Malayalam \| Best Malayalam Python Programming Tutorial](https://youtube.com/playlist?list=PLY-ecO2csVHfbpOmWamlb8Mujjdnl1jks) - Brototype Malayalam
+* [Python Tutorial Malayalam \| Full videos Playlist](https://youtube.com/playlist?list=PLd_rdeTABMgQgZj2g9IyWqA2bnkHDUyof&feature=shared) - Safeonnet
+* [Python FastAPI Tutorial Malayalam](https://youtube.com/playlist?list=PL1pQFrHyimJTUk2w27AU1n3jzxJjycZFc&si=64k_-OQrN000-_I9) - by Build From Zero
 
 
 #### Django
@@ -229,4 +242,5 @@
 ### Security
 
 * [Cyber Security Tutorial Malayalam \| Ethical Hacking Courses for IT Career](https://www.youtube.com/playlist?list=PLR2UNjW_Pkm8LUpryeuiLMpEf4KgCDeBu) - RootSaid - Robotics, Technology & Cyber Security
-* [Security Fundamentals](https://www.youtube.com/playlist?list=PLEhpnavDYfVhGnYA4l8btphQG8i2zO4cI) - Cyber Security Malayalam
+* [Ethical Hacking](https://www.youtube.com/playlist?list=PLLPuX9XQz1lU_ZNcTWcMn9CZOhgT6yjyZ) - Scratch Media
+

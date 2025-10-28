@@ -1,22 +1,39 @@
 ### Περιεχόμενα
 
 * [C](#c)
+* [C#](#csharp)
 * [C++](#cpp)
+* [Git](#git)
 * [Java](#java)
 * [JavaScript](#javascript)
+* [Matlab](#matlab)
+* [Prolog](#prolog)
 * [Python](#python)
+* [R](#r)
 * [Scala](#scala)
 * [SQL](#sql)
 
 
 ### C
 
-* [Διαδικαστικός προγραμματισμός](https://repository.kallipos.gr/bitstream/11419/1346/1/00_master%20document_KOY.pdf) - Μαστοροκώστας Πάρις (PDF)
+* [Διαδικαστικός προγραμματισμός](https://repository.kallipos.gr/bitstream/11419/1346/3/00_master%20document_KOY.pdf) - Μαστοροκώστας Πάρις (PDF)
+* [Μια σύγχρονη προσέγγιση στη γλώσσα C](https://repository.kallipos.gr/handle/11419/11683) - Αλέξανδρος Τζάλλας, Χρήστος Γκόγκος, Ιωάννης Τσούλος (PDF) (CC BY-NC-SA)
+
+
+### <a id="csharp"></a>C\#
+
+* [Επίλυση προβλημάτων με τη γλώσσα C#](https://repository.kallipos.gr/handle/11419/9349) - Νικόλαος Ζάχαρης (PDF) (CC BY-NC-SA)
 
 
 ### <a id="cpp"></a>C++
 
 * [Εισαγωγή στη C++](http://www.ebooks4greeks.gr/2011.Download_free-ebooks/Pliroforikis/glossa_programmatismoy_C++__eBooks4Greeks.gr.pdf) (PDF)
+* [Προγραμματισμός με τη γλώσσα C++](https://repository.kallipos.gr/bitstream/11419/6443/3/00_master_document-KOY.pdf) - Θεόδωρος Αλεβίζος (PDF) (CC BY-NC-SA)
+
+
+### Git
+
+* [Pro Git](https://git-scm.com/book/gr/v2) - Scott Chacon, Ben Straub (HTML, PDF, EPUB, MOBI)
 
 
 ### Java
@@ -36,11 +53,28 @@
 * [HTML5-JavaScript (Δημιουργώντας παιχνίδια – Ο εύκολος τρόπος)](https://www.ebooks4greeks.gr/html5-javascript)
 
 
+### Matlab
+
+* [Εισαγωγή στον προγραμματισμό](https://repository.kallipos.gr/handle/11419/8671) Πολυχρόνης Οικονόμου, Πολύκαρπος Παπαδόπουλος (PDF) (CC BY-NC-SA)
+
+
+### Prolog
+
+* [Τεχνικές Λογικού Προγραμματισμού](https://repository.kallipos.gr/handle/11419/777) Ηλίας Σακελλαρίου, Νικόλαος Βασιλειάδης, Πέτρος Κεφαλάς, Δημοσθένης Σταμάτης (EPUB, PDF) (CC BY-NC-SA)
+
+
 ### Python
 
 * [Εισαγωγή στον Προγραμματισμό με Αρωγό τη Γλώσσα Python](https://www.ebooks4greeks.gr/eisagwgh-ston-programmatismo-me-arwgo-th-glwssa-python)
 * [Ένα byte της Python](https://archive.org/details/AByteOfPythonEl)
 * [Εισαγωγή στον αντικειμενοστραφή προγραμματισμό με Python](https://repository.kallipos.gr/bitstream/11419/1708/3/85_Magoutis.pdf) (PDF)
+
+
+### R
+
+* [Εισαγωγή στην Επιχειρησιακή Έρευνα και στον Γραμμικό Προγραμματισμό](https://repository.kallipos.gr/handle/11419/5699) Κωνσταντίνος Κουνετάς, Νικόλαος Χατζησταμούλου (EPUB, PDF) (CC BY-NC-SA)
+* [Εισαγωγή στον προγραμματισμό και στη στατιστική ανάλυση με R](https://repository.kallipos.gr/handle/11419/2601) Ιωάννης Ντζούφρας, Δημήτριος Καρλής (EPUB, PDF) (CC BY-NC-SA)
+* [Προγραμματισμός σε R](https://repository.kallipos.gr/handle/11419/8588) Βασίλης Νικολαΐδης (PDF) (CC BY-NC-SA)
 
 
 ### Scala

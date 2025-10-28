@@ -17,6 +17,7 @@
 * [MySQL](#mysql)
 * [Perl](#perl)
 * [PHP](#php)
+    * [Yii](#yii)
 * [Prolog](#prolog)
 * [Python](#python)
     * [Django](#django)
@@ -31,7 +32,7 @@
 * [Pisanie OS](https://pl.wikibooks.org/wiki/Pisanie_OS) - Wikibooks
 * [Poradnik początkującego programisty](http://www.eioba.pl/a/2eu1/poradnik-poczatkujacego-programisty) - Mariusz Żurawek
 * [Programowanie webowe E14](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxOp0wtNk9Sle5WUsBZc6kq)
-* [Struktury danych i ich zastosowania](https://web.archive.org/web/20190126061036/http://informatykaplus.edu.pl/upload/list/czytelnia/Struktury_danych_i_ich_zastosowania.pdf) - Informatyka+ (PDF) *(:card_file_box: archived)*
+* [Struktury danych i ich zastosowania](https://web.archive.org/web/20190126061036/http://informatykaplus.edu.pl/upload/list/czytelnia/Struktury_danych_i_ich_zastosowania.pdf) - Informatyka+ (PDF) *( :card_file_box: archived)*
 * [W poszukiwaniu wyzwań 2](https://www.mimuw.edu.pl/~idziaszek/algonotes/looking-for-a-challenge-2-pl.pdf) - Zadania z AMPPZ 2011–2014 (PDF)
 
 
@@ -55,14 +56,14 @@
 
 ### Bash
 
-* [Kurs Bash'a](http://web.archive.org/web/20180129013729/http://dief.republika.pl/kursbasha.tar.gz) (tar.gz) *(:card_file_box: archived)*
+* [Kurs Bash'a](http://web.archive.org/web/20180129013729/http://dief.republika.pl/kursbasha.tar.gz) (tar.gz) *( :card_file_box: archived)*
 * [Programowanie w Bashu czyli jak pisać skrypty w Linuksie](https://www.arturpyszczuk.pl/files/bash/bash.pdf) - Artur Pyszczuk (PDF)
 
 
 ### C
 
 * [Beej's Guide to Network Programming - Używanie gniazd internetowych](http://www.asawicki.info/Mirror/Beej_s%20Guide%20to%20Network%20Programming%20PL/bgnet.pdf) - Brian "Beej Jorgensen" Hall, Przełożył Bartosz Zapałowski (PDF)
-* [Kurs języka C](https://web.archive.org/web/20220910113443/https://kurs-c.manifo.com/konfiguracja-srodowiska-298-547) - Mateusz Piaszczak *(:card_file_box: archived)*
+* [Kurs języka C](https://web.archive.org/web/20220910113443/https://kurs-c.manifo.com/konfiguracja-srodowiska-298-547) - Mateusz Piaszczak *( :card_file_box: archived)*
 * [Programowanie w C](https://upload.wikimedia.org/wikibooks/pl/6/6a/C.pdf) - Wikibooks (PDF)
 * [Programowanie w języku C](http://www.arturpyszczuk.pl/files/c/pwc.pdf) (PDF)
 * [Wgłąb języka C](http://helion.pl/online/wglab/wglab.zip) (ZIP)
@@ -83,7 +84,7 @@
 * [Język C++ – podstawy programowania](http://www.dz5.pl/ti/cpp/zz_dodatki/kurs_cpp_szczegolowy2.pdf) - Paweł Mikołajczak (PDF)
 * [Kurs C++](http://cpp0x.pl/kursy/Kurs-C++/1) - Piotr Szawdyński
 * [Kurs podstaw Arduino](https://forbot.pl/blog/kurs-arduino-podstawy-programowania-spis-tresci-kursu-id5290) - forbot.pl
-* [Megatutorial "Od zera do gier kodera"](https://web.archive.org/web/20230504051926/http://xion.org.pl/productions/texts/coding/megatutorial) - Karol Kuczmarski *(:card_file_box: archived)*
+* [Megatutorial "Od zera do gier kodera"](https://web.archive.org/web/20230504051926/http://xion.org.pl/productions/texts/coding/megatutorial) - Karol Kuczmarski *( :card_file_box: archived)*
 * [Programowanie obiektowe i C++](https://mst.mimuw.edu.pl/wyklady/poc/wyklad.pdf) - Janusz Jabłonowski (PDF)
 
 
@@ -113,7 +114,7 @@
 ### JavaScript
 
 * [JavaScript](https://pl.wikibooks.org/wiki/JavaScript) - Wikibooks
-* [JavaScript Garden](https://web.archive.org/web/20220910115336/https://bonsaiden.github.io/JavaScript-Garden/pl) *(:card_file_box: archived)*
+* [JavaScript Garden](https://web.archive.org/web/20220910115336/https://bonsaiden.github.io/JavaScript-Garden/pl) *( :card_file_box: archived)*
 * [JavaScript. I wszystko jasne](http://shebang.pl/kursy/wszystko-jasne/) - Marijn Haverbeke, Łukasz Piwko
 * [Wstęp - JavaScript](http://www.kurshtml.edu.pl/js/index.html) - Sławomir Kokłowski
 
@@ -149,9 +150,14 @@
 * [PHP: The Right Way](http://pl.phptherightway.com) - Josh Lockhart
 
 
+#### Yii
+
+* [Przewodnik po Yii 2.0](https://www.yiiframework.com/doc/download/yii-guide-2.0-pl.pdf) - Yii Software (PDF)
+
+
 ### Prolog
 
-* [Programowanie w logice z ograniczeniami: Łagodne wprowadzenie dla platformy ECLiPSe](https://web.archive.org/web/20230329101049/http://pwlzo.pl/) - Antoni Niederliński *(:card_file_box: archived)*
+* [Programowanie w logice z ograniczeniami: Łagodne wprowadzenie dla platformy ECLiPSe](https://web.archive.org/web/20230329101049/http://pwlzo.pl/) - Antoni Niederliński *( :card_file_box: archived)*
 
 
 ### Python
@@ -182,6 +188,7 @@
 ### SQL
 
 * [Bazy danych](https://mst.mimuw.edu.pl/wyklady/bad/wyklad.pdf) - Zbigniew Jurkiewicz (PDF)
+* [Kurs SQL](https://dbadmin.net.pl/category/sql/) - Łukasz Bartnicki (HTML) *( :construction: in process)*
 * [Kurs SQL](https://www.sqlpedia.pl/kurs-sql) - Jakub Kasprzak
 * [PL/SQL - podstawy (na stronie)](http://andrzejklusiewicz.blogspot.com/2010/11/kurs-oracle-plsql.html)
 * [SQL - podstawy (na stronie)](http://andrzejklusiewicz.blogspot.com/2010/11/kurs-oracle-sql.html)

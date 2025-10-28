@@ -25,6 +25,7 @@
 
 ### Artificial Intelligence
 
+* [Natural Language Processing 2023](https://www.youtube.com/playlist?list=PLyyEwPZh6aHpCAaG6dot5xXrlEK73oF4J) - อรรถพล ธำรงรัตนฤทธิ์
 * [NLP 2021](https://youtube.com/playlist?list=PLcBOyD1N1T-PIYnPZ9_iHtug9e-BcHIob) - EkapolC
 * [Pattern 2022](https://youtube.com/playlist?list=PLcBOyD1N1T-MnWcKQZqE8FXrgoiiVdXvI) - EkapolC
 

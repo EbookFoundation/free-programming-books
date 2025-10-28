@@ -27,6 +27,7 @@
 
 ### Arduino
 
+* [Arduino Advanced मराठीमध्ये](https://www.youtube.com/playlist?list=PLYearvGpQL11nJ0duF_ZTE6Ks4-ML6WBS) - Marathi Computer
 * [Arduino Programming in Marathi](https://youtube.com/playlist?list=PL8yOrZ6_TOt5Y-ZG34wLePPZsDaZpatqD) - Asawari Shiposkar
 
 
@@ -62,7 +63,6 @@
 
 * [CSS Tutorial In Marathi](https://youtube.com/playlist?list=PLWkJQ8CSXYd4wee103RY961OdWXwnHsBo) - SA Infolines
 * [HTML \| HTML For Beginners \| Krushna Pise \| Marathi Programmer](https://youtube.com/playlist?list=PLWSZr_wlNWaw8_iFhKvrPKp1Uh2S1dXHk) - MaRaTHi ProGrammer
-* [HTML & CSS In Marathi Tutorials](https://youtube.com/playlist?list=PLU1bHMETQ0vzRyMVH2Wp6sA8bMUuVl5S2) - Programming By Yogesh
 
 
 ### Java

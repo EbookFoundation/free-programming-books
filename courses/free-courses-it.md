@@ -18,11 +18,13 @@
 * [Java](#java)
 * [JavaScript](#javascript)
     * [Vue.js](#vuejs)
+* [Julia](#julia)
 * [Machine Learning](#machine-learning)
 * [Misto](#misto)
 * [Mobile](#mobile)
 * [Networking](#networking)
 * [Pascal](#pascal)
+* [Php](#php)
 * [Programmazione](#programmazione)
 * [Python](#python)
 * [Ruby](#ruby)
@@ -58,6 +60,7 @@
 ### Assembly
 
 * [Assembler x86](https://www.youtube.com/playlist?list=PLUJjY3hQLJ3NHQ9315KVvgiZ3v2FLtcbs)
+* [Assembly x86](https://www.youtube.com/playlist?list=PL4GzWsD6ECaXVzneIlSV62plQPdWXIZ_h) - Leonardo Boselli
 
 
 ### Bash / Shell
@@ -67,7 +70,9 @@
 
 ### C
 
+* [Corso C Italiano](https://www.youtube.com/playlist?list=PLP5MAKLy8lP9J2blw2HWEDnaNjmvUW-QG) - Edoardo Midali
 * [Corso di programmazione in C](https://www.youtube.com/playlist?list=PLO4y9a8lTpK2ugwPRLN_1oOrlzX9Zc9It) - R. Rizzi, Università di Verona
+* [Corso di programmazione in C](https://www.youtube.com/playlist?list=PLrEMgOSrS_3cFJpM2gdw8EGFyRBZOyAKY) - Salvatore Sanfilippo
 * [Linguaggio C - Corso completo](https://www.youtube.com/playlist?list=PL83Ordjpzm5oUl7tFEjc4iirkPBiv7FxR) - Programmazione Time
 
 
@@ -103,6 +108,7 @@
 ### DevOps
 
 * [Corso DevOps](https://www.youtube.com/playlist?list=PLU2FPKLp7ojKcxrKXr1cFmXH81tMK4P3E) - Michele Ferracin
+* [DevOps con GitHub Actions](https://www.youtube.com/playlist?list=PLoZNHBEyxFQHOR8EiAD_tQnRAP49_Ev24) - Giovanni Pace
 * [Docker - EmmeCiLab](https://www.youtube.com/playlist?list=PLCbSCJEIR6CpDJw4MawjHlgbsP3IG376e) - Mauro Cicolella
 
 
@@ -118,6 +124,7 @@
 
 * [Automi e Linguaggi Formali](https://www.youtube.com/playlist?list=PLhEwqlL10MqNz1pA7R5jnB_gsMIhDOe5X) - Davide Bresolin, Gilberto Filè, Università di Padova
 * [Concetti di Informatica](https://www.youtube.com/playlist?list=PLCbSCJEIR6CpTx_nIWA3N3TEdyoRBzWCt) - Mauro Cicolella
+* [Crittografia 2023](https://www.youtube.com/playlist?list=PLQBZ1Z0ZLjQBesf3ZPxEL-qqhFHrcNgCb) - Alessandro Zaccagnini
 * [Espressioni regolari - RegEx](https://www.youtube.com/playlist?list=PLCbSCJEIR6Co72vs-7KRCiCgaC3ht-HYM) - Mauro Cicolella
 * [Fondamenti di Informatica](https://www.youtube.com/playlist?list=PLUL1bzfXcbX3g2cIcTFdmvj5yawQtUOxJ) - C. De Stefano, Università di Cassino e del Lazio Meridionale
 * [Informatica](https://didattica.polito.it/pls/portal30/sviluppo.videolezioni.vis?cor=232) - Marco Mezzalama, Politecnico di Torino
@@ -129,6 +136,7 @@
 
 ### Java
 
+* [Corso Base Spring Boot](https://www.youtube.com/playlist?list=PLoZNHBEyxFQHFkgxYwri50YEmbiRADl-O) - Giovanni Pace
 * [Corso di Java Spring Framework](https://www.youtube.com/playlist?list=PLCbSCJEIR6CqgCLyVzqp49xOm8A5YDTKA) - Mauro Cicolella
 * [Corso di JPA Java Persistence API](https://www.youtube.com/playlist?list=PLCbSCJEIR6Co1aPvFfPuIsRGouF9D0Jk3) - Mauro Cicolella
 * [Corso Java in Italiano COMPLETO 2023/2024](https://www.youtube.com/playlist?list=PLUnSLr48xh3CAuL_Q0VAjthv0WbPuQQRR) - Code Brothers
@@ -136,7 +144,8 @@
 * [Esercitazioni di Spring Boot](https://www.youtube.com/playlist?list=PLCbSCJEIR6CpGchit9OCI6fX_qVYs78d_) - Mauro Cicolella
 * [Java EE](https://www.youtube.com/playlist?list=PLjGYWJ4Dcy-erfReHXB9Ush0cREGSmyIe) - Sonia Zorba
 * [Programmazione a Oggetti (Java)](https://www.youtube.com/playlist?list=PLUFFnpJdi99kewGZIHpCDgarZER_-J1am) - M. Torchiano, Politecnico di Torino
-* [Programmazione ad Oggetti - Java](https://www.youtube.com/playlist?list=PLhlcRDRHVUzTruZmXalUSJAK26pouP8ST) - Nicola Bicocchi 
+* [Programmazione ad Oggetti - Java](https://www.youtube.com/playlist?list=PLhlcRDRHVUzTruZmXalUSJAK26pouP8ST) - Nicola Bicocchi
+* [Spring Boot su Docker](https://www.youtube.com/playlist?list=PLoZNHBEyxFQGdNvr_5mMikHxuv2YHPjDz) - Giovanni Pace
 
 
 ### JavaScript
@@ -152,9 +161,15 @@
 * [Vue 2.x (corso base)](https://www.youtube.com/playlist?list=PL0qAPtx8YtJdUH44fvkzVxy9waP23I_bE) - Fabrizio Camuso
 
 
+### Julia
+
+* [Corso di linguaggio Julia](https://www.youtube.com/playlist?list=PL4GzWsD6ECaWvDCPuPB9OxdIye8IZXCuE) - Leonardo Boselli
+
+
 ### Machine Learning
 
 * [Machine Learning in italiano col Pollo Watzlawick](https://www.youtube.com/playlist?list=PLa-sizbCyh93c0nSPAb8k5ZZeOq4SBIl9) - Piero Savastano
+* [Machine Learning Reti Neurali](https://www.youtube.com/playlist?list=PL-tCoHPn6YlbCQHeyRxc_CQ0f1VZsUD6D) - Davide Manzoni (Brainlink)
 
 
 ### Misto
@@ -179,6 +194,11 @@
 
 * [Corso di programmazione in Pascal](https://www.youtube.com/playlist?list=PLO4y9a8lTpK1DS45Wljy0l5rMtVNIesRJ) - R. Rizzi, Università di Verona
 * [Videocorso Pascal (Turbo e FPC)](https://www.youtube.com/playlist?list=PLC98ABC853EAEFD7F) - Fabrizio Camuso
+
+
+### Php
+
+* [Corso PHP Completo 2023](https://www.youtube.com/playlist?list=PLP5MAKLy8lP_zqdyjNaPjh95NG40Op8he) - Edoardo Midali 
 
 
 ### Python
@@ -223,6 +243,7 @@
 #### Git
 
 * [Corso Git 2017](https://www.youtube.com/playlist?list=PLA27EZBY5veN02RzEr6Ecm7KcjWadthBh) - POuL Politecnico di Milano
+* [Dominare GIT - La Guida Completa per Principianti e Professionisti](https://www.youtube.com/playlist?list=PLoZNHBEyxFQFc2fn3raEjovUK_BLWS0kO) - Giovanni Pace
 
 
 #### Maven
@@ -233,11 +254,13 @@
 ### Web
 
 * [Computer grafica 2017/2018](https://www.youtube.com/playlist?list=PLUFFnpJdi99kXjntQ0LNPnLbRLjKzmQaC) - A. Bottino, Politecnico di Torino
+* [Corso Bootstrap Italiano](https://www.youtube.com/playlist?list=PLP5MAKLy8lP_boQ2FBTSvA1fU73x2BiEv) - Edoardo Midali
 * [Corso CSS 3 Completo 2023](https://www.youtube.com/playlist?list=PLP5MAKLy8lP-a0MG-MFHKCISmj2Wg4vT6) - Edoardo Midali
 * [Corso Flutter 2020](https://www.youtube.com/playlist?list=PLFD-5ZFcEgYX5q5pobSkQGfC6rMYy_puq) - Angelo Cassano
 * [Corso HTML 5 Completo 2023](https://www.youtube.com/playlist?list=PLP5MAKLy8lP8U-yYn6J4hGfcee4Tirieg) - Edoardo Midali
 * [Corso HTML 5 Italiano 2023](https://www.youtube.com/playlist?list=PL6PilnEO6HWbTXL8nLSkp-875H-x-vhEo) - Manuel Ricci
 * [Corso SEO Italiano 2023](https://www.youtube.com/playlist?list=PLP5MAKLy8lP9OpFQyF2LnTWgtcoDLgYm7) - Edoardo Midali
+* [Corso Typescript 2023](https://www.youtube.com/playlist?list=PLP5MAKLy8lP--n8iUsDsFMuTiKW5ooZE6) - Edoardo Midali
 * [Mini Corso React / TypeScript / TSX 2023](https://www.youtube.com/playlist?list=PLUioGv_6G9YJw8uZb040obhcCi8tQX9IQ) - Fabio Biondi
 * [Progettazione di applicazioni Web](https://www.youtube.com/playlist?list=PLE0AA1735F10543A6) - Fulvio Corno, S. Di Carlo, Politecnico di Torino
 

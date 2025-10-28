@@ -7,6 +7,7 @@
 
 * [Agilpodden](https://www.agilpodden.se) - Dick Lyhammar, Erik Hultgren (podcast)
 * [AI-Podden](https://ai-podden.se) - Ather Gattami, Bitynamics, Cloudberry (podcast)
+* [Asdf](https://asdf.pizza) - Therése Komstadius, Anton Gunnarsson (podcast)
 * [Developers – mer än bara kod](https://www.developerspodcast.com) - Madeleine Schönemann, Sofia Larsson, Gustav Hallberg (podcast)
 * [IT-säkerhetspodden](https://www.itsakerhetspodden.se) - Mattias Jadesköld, Erik Zalitis (podcast)
 * [Kodsnack](http://kodsnack.se) (podcast)

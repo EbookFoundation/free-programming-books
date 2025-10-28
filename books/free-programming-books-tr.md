@@ -20,9 +20,11 @@
 * [.NET Framework](#net-framework)
 * [Python](#python)
     * [Django](#django)
+    * [Flask](#flask)
 * [R](#r)
 * [Ruby](#ruby)
 * [Rust](#rust)
+* [Yapay Zeka](#yapay-zeka)
 
 
 ### Algoritma ve Veri Yapıları
@@ -31,6 +33,7 @@
 * [Algoritma ve Programlamaya Giriş Ders Notları](https://ia601404.us.archive.org/12/items/algoritma-ve-programlamaya-giris-ders-notlari/Algoritma%20ve%20Programlamaya%20Giri%C5%9F%20Ders%20Notlar%C4%B1.pdf) - [İbrahim Küçükkoç](http://ikucukkoc.baun.edu.tr) (PDF)
 * [Algoritmalar ve Programlama](https://ia601408.us.archive.org/31/items/algoritmalar-ve-programlama/Algoritmalar%20ve%20Programlama.pdf) (PDF)
 * [Bilgisayar Teriminde Algoritma](https://ia601504.us.archive.org/20/items/bilgisayar-teriminde-algoritma/Bilgisayar%20Teriminde%20Algoritma.pdf) - Agah Emir (PDF)
+* [Veri Yapıları Ders Notları](https://avesis.kayseri.edu.tr/resume/lessonmaterieldownload/kayaalti?key=a9b67077-3132-489c-a460-53cb34d3afc3) - Aybars UGUR (PDF)
 
 
 ### Android
@@ -71,6 +74,7 @@
 * [git - basit rehber](https://rogerdudler.github.io/git-guide/index.tr.html) - Roger Dudler (HTML)
 * [Git 101](https://aliozgur.gitbooks.io/git101/) - Ali Özgür (GitBook)
 * [Git ve Github Rehberi](https://github.com/mkdemir/Git_ve_Github_Rehberi) - Mustafa Kaan Demir
+* [Pro Git](https://git-scm.com/book/tr/v2) - Scott Chacon, Ben Straub (Çeviri: Murat Yaşar)
 
 
 ### Go
@@ -112,7 +116,7 @@
 
 ### JavaScript
 
-* [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/tr)
+* [Learn JavaScript](https://javascript.sumankunwar.com.np/tr) - Suman Kumar, Github Contributors (HTML, PDF)
 
 
 ### LaTeX
@@ -126,6 +130,7 @@
 * [GNU Linux Komutlari](https://www.fullportal.org/GNULINUX/Komutlar/GNULINUXKOMUTLAR.pdf) (PDF)
 * [Linux Belgeleri](http://www.belgeler.org/howto/howtos.html)
 * [Linux Sistem Yöneticisinin Kılavuzu](http://www.belgeler.org/sag/sag.html)
+* [Linux Sistem Yönetimi](https://web.deu.edu.tr/doc/misc/Linux_Sistem_Yonetimi.pdf) - Linux Kullanıcıları Derneği, Burak DAYIOĞLU, Berk DEMİR (PDF)
 
 
 ### .NET Framework
@@ -135,14 +140,21 @@
 
 ### Python
 
+* [Python ile Programlamaya Giriş](https://pitonca.com/haluktanrikulu/kitap/Python%20Programlama%20_%20Haluk%20Tanr%C4%B1kulu.pdf) - Haluk Tanrıkulu - Python 3 (PDF)
 * [Python Programlama Dili](https://python-istihza.yazbel.com) - YazBel Yazılım Belgelendirme Projesi - Python 3
 
 
 #### Django
 
-* [Django](https://web.archive.org/web/20210302105925/https://www.pythondersleri.com/p/django-egitim-serisi.html) - Python Dersleri *(:card_file_box: archived)*
-* [Django Egitimi](https://web.archive.org/web/20210802025720/https://gokmengorgen.net/django-notes/) *(:card_file_box: archived)*
-* [Django Girls Eğitimi](https://tutorial.djangogirls.org/tr) (1.11) (HTML) (:construction: *in process*)
+* [Django](https://web.archive.org/web/20210302105925/https://www.pythondersleri.com/p/django-egitim-serisi.html) - Python Dersleri *( :card_file_box: archived)*
+* [Django Egitimi](https://web.archive.org/web/20210802025720/https://gokmengorgen.net/django-notes/) *( :card_file_box: archived)*
+* [Django Girls Eğitimi](https://tutorial.djangogirls.org/tr) (1.11) (HTML) *( :construction: in process)*
+* [Django için Türkçe Kılavuz](https://www.djangoturkiye.com/static/django.pdf) - Muslu Yüksektepe (PDF)
+
+
+#### Flask
+
+* [Temelden İleriye Türkçe Flask Dersleri](https://kerteriz.net/temelden-ileriye-turkce-flask-dersleri) - İsmet BALAT
 
 
 ### R
@@ -165,3 +177,8 @@
 
 * [Rust ile CHIP-8 Emülatörü Geliştirme](https://onur.github.io/chip8) - Onur Aslan
 * [Rust'a Giriş](https://github.s3.amazonaws.com/downloads/vertexclique/vertexclique.github.io/Rusta-Giris-v1.pdf) - Mahmut Bulut (PDF)
+
+
+### <a id="yapay-zeka"></a>Yapay Zeka
+
+* [Derin Öğrenmeye Dalış](https://tr.d2l.ai/d2l-tr-pytorch.pdf) - Aston Zhang, Zachary C. Lipton, Mu Li, Alexander J. Smola (PDF)

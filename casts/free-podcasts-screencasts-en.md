@@ -58,7 +58,7 @@
 * [C++ Programming Video Lectures](https://www.youtube.com/playlist?list=PLTZbNwgO5ebo64D1k0DJQGX30X6iSTmRr) - Saurabh School of Computing (screencast)
 * [C++ Standard Library](https://www.youtube.com/playlist?list=PL5jc9xFGsL8G3y3ywuFSvOuNm3GjBwdkb) - Bo Qian (screencast)
 * [C++ STL by example](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp5oH3mrr4IlFBn03rjS-gN1) - Douglas Schmidt (screencast)
-* [C++ STL: The ONLY Video You Need | Compulsory for DSA/CP](https://www.youtube.com/watch?v=PZogbfU4X5E) - Utkarsh Gupta (screencast)
+* [C++ STL: The ONLY Video You Need \| Compulsory for DSA/CP](https://www.youtube.com/watch?v=PZogbfU4X5E) - Utkarsh Gupta (screencast)
 * [cpp.chat](https://cpp.chat) - Jon Kalb, Phil Nash (podcast)
 * [CppCast](http://cppcast.com) - Conor Hoekstra, Jason Turner, JeanHeyd Meneide, Matt Godbolt, Rob Irving (podcast)
 * [No Diagnostic Required](https://nodiagnosticrequired.tv) - Anastasia Kazakova, Phil Nash (podcast)
@@ -187,6 +187,7 @@
 
 ### JavaScript
 
+* [20 Min JS](https://20minjs.com) - Agustinus Theodorus, Chris Bongers, Mark Volkmann, et al. (podcast)
 * [devMode.fm](https://devmode.fm) - Andrew Welch, Ryan Ire­lan, Patrick Harrington, Jonathan Melville, Michael Rog, Earl John­ston, Mar­i­on Newlevant, Lau­ren Dorman, Matt Stein, Jen­nifer Blumberg (podcast)
 * [FiveJS](https://fivejs.codeschool.com) - CodeSchool (podcast)
 * [Front End Happy Hour](https://frontendhappyhour.com) - Ryan Burgess, Jem Young, Stacy London, Augustus Yuan, Mars Jullian, Shirley Wu (podcast)
@@ -206,7 +207,9 @@
 * [ShopTalk](https://shoptalkshow.com) - Dave Rupert, Chris Coyier. (podcast)
 * [Syntax](https://syntax.fm) - Wes Bos, Scott Tolinski (podcast)
 * [The JavaScript Show](http://javascriptshow.com) - Peter Cooper, Jason Seifer (podcast)
+* [The Junior Jobs Podcast](https://podcasters.spotify.com/pod/show/junior-jobs/episodes/59--The-Problem-With-Changing-Careers-and-How-To-Overcome-It--Junior-Jobs-e2lnm9f) - Erik Andersen (podcast)
 * [The Vanilla JS Podcast](http://javascriptshow.com) - Chris Ferdinandi. (podcast)
+* [Virtual Coffee](https://virtualcoffee.io/podcast) - Bekah Hawrot Weigel, Dan Ott, Meghan Gutshall, Kirk Shillingford (podcast)
 * [Web Rush](https://webrush.simplecast.com) - John Papa, Ward Bell, Craig Shoemaker, Dan Wahlin (podcast)
 
 
@@ -288,6 +291,7 @@
 * [Domain Driven Design Europe](https://dddeurope.com/videos/) (screencast)
     * [Domain Driven Design Europe - 2017](https://2017.dddeurope.com/#videos) (screencast)
 * [FLOSS WEEKLY](https://twit.tv/shows/floss-weekly) - Doc Searls, Aaron Newcomb, Dan Lynch, Simon Phipps, Jonathan Bennett, Shawn Powers, Katherine Druckman (podcast)
+* [Frontend Masters](https://www.youtube.com/playlist?list=PLum3CyP95edxwLIHenKw0nMHlfvr76ZSU) - Marc Grabanski, Frontend Masters team (screencast)
 * [Frontside the Podcast](https://frontside.io/podcast/) - Charles Lowell, Taras Mankovski (podcast)
 * [Full Stack Radio](https://www.fullstackradio.com) - Adam Wathan (podcast)
 * [Functional Geekery](https://www.functionalgeekery.com) - Steven Proctor (podcast)

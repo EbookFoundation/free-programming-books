@@ -7,6 +7,7 @@
 * [JavaScript](#javascript)
     * [AngularJS](#angularjs)
     * [Vue.js](#vuejs)
+* [LaTeX](#latex)
 * [PHP](#php)
 * [Python](#python)
 * [R](#r)
@@ -37,7 +38,7 @@
 
 ### JavaScript
 
-* [JavaScript](https://web.archive.org/web/20200922201525/http://puhang.tpt.edu.ee/raamatud/JavaScript_konspekt.pdf) - Jüri Puhang (PDF) *(:card_file_box: archived)*
+* [JavaScript](https://web.archive.org/web/20200922201525/http://puhang.tpt.edu.ee/raamatud/JavaScript_konspekt.pdf) - Jüri Puhang (PDF) *( :card_file_box: archived)*
 
 
 #### AngularJS
@@ -48,6 +49,11 @@
 #### Vue.js
 
 * [Vue.js raamistiku õppematerjal](https://www.cs.tlu.ee/teemaderegister/get_file.php?id=715) - Fred Korts (PDF)
+
+
+### LaTex
+
+* [Mitte väga lühike LATEX 2ε sissejuhatus](https://ctan.org/tex-archive/info/lshort/estonian) - Tobias Oetiker, Hubert Partl, Irene Hyna, Elisabeth Schlegl, `trl.:` Tõlkinud Reimo Palm (PDF)
 
 
 ### PHP

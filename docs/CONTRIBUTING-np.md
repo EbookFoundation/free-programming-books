@@ -138,7 +138,7 @@
 - <a id="archived"></a>संग्रहित लिङ्क:
 
 ```text
-    राम्रो: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - जोन डो (HTML) *(:card_file_box: archived)*
+    राम्रो: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - जोन डो (HTML) *( :card_file_box: archived)*
 ```
 
 ### वर्णमाला क्रममा

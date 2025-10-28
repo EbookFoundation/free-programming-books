@@ -79,13 +79,20 @@
 
 ### Language Agnostic
 
+* [Baltacast - Podcast do balta.io](https://www.youtube.com/playlist?list=PLHlHvK2lnJneed8g24W1e0Zz9q1uvD7wg) (podcast)
 * [Castálio Podcast](http://castalio.info) (podcast)
+* [Cultura DevOps](https://www.youtube.com/playlist?list=PLFaao6abyD0cQp47BzJSQmeTegM2NLl_i) - Objective (podcast)
 * [DevNaEstrada](http://devnaestrada.com.br) (podcast)
+* [Engineering Sessions S01](https://www.youtube.com/playlist?list=PLJ_lIzJ_Nd1TZ6i4HjMuBycyhwhUqlxtI) - Carlos Nogueira (DevOps) (podcast)
+* [Engineering Sessions S02](https://www.youtube.com/playlist?list=PLJ_lIzJ_Nd1RWTc9uSrl-5rprIQp6GIOZ) - Carlos Nogueira (DevOps) (podcast)
+* [Experience Podcast - Curso em Vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dlAL49NfFvf7lUP2jrcMlYQ) (podcast)
 * [Grok Podcast](http://www.grokpodcast.com) (podcast)
 * [Hipsters Ponto Tech](http://hipsters.tech) (podcast)
 * [Lambda3](https://blog.lambda3.com.br/category/podcast) (podcast)
+* [M1 Podcast](https://www.youtube.com/playlist?list=PLHA9dlpmDGwJJO2Q6eR60R7tjMidaEFY5) - Startup Life (podcast)
 * [NerdTech (Jovem Nerd)](https://jovemnerd.com.br/playlist/nerdtech) (podcast)
 * [OsProgramadores](https://anchor.fm/osprogramadores) (podcast)
+* [Papinho Tech [Episódios Completos]](https://www.youtube.com/playlist?list=PLylCwvNCtoanRxj-mOOyC9PnD5Yb2P1-j) (podcast)
 * [PODebug](http://www.podebug.com) (podcast)
 * [PodProgramar](https://mundopodcast.com.br/podprogramar) (podcast)
 * [podTag](https://podtag.com.br) (podcast)

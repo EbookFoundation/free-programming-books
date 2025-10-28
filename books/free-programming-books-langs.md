@@ -592,6 +592,10 @@ Books on general-purpose programming that don't focus on a specific language are
 * [SICP Distilled - An idiosyncratic tour of SICP in Clojure](http://www.sicpdistilled.com) - Tom Hall (HTML) (CC BY-SA)
 * [The Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide)
 
+### ClojureScript
+
+* [ClojureScript Unraveled](https://funcool.github.io/clojurescript-unraveled/) - Francisco Serrano, J. Pablo Fernández (HTML)
+
 
 ### CMake
 
@@ -658,6 +662,22 @@ Books on general-purpose programming that don't focus on a specific language are
 * [CUDA C++ Best Practices Guide](https://docs.nvidia.com/cuda/pdf/CUDA_C_Best_Practices_Guide.pdf) - Nvidia (PDF)
 * [CUDA C++ Programming guide](https://docs.nvidia.com/cuda/pdf/CUDA_C_Programming_Guide.pdf) - Nvidia (PDF)
 * [OpenCL Programming Guide for CUDA Architecture](http://www.nvidia.com/content/cudazone/download/OpenCL/NVIDIA_OpenCL_ProgrammingGuide.pdf) - Nvidia (PDF)
+
+### Cypher (Neo4j Query Language)
+
+* [Cypher Query Language Documentation](https://neo4j.com/docs/cypher-manual/current/) - Neo4j (HTML)
+* [Getting Started with Cypher](https://graphacademy.neo4j.com/courses/cypher-fundamentals/) - Neo4j GraphAcademy (Online Course)
+
+### Cython
+
+* [Cython: C-Extensions for Python](https://cython.readthedocs.io/en/latest/) - Official Documentation (HTML)
+* [Cython Tutorial](https://docs.python.org/3/tutorial/modules.html#modules) - Python.org (HTML)
+
+### Common Lisp
+
+* [Common Lisp HyperSpec](http://www.lispworks.com/documentation/HyperSpec/Front/index.htm) - Kent Pitman (HTML)
+* [Practical Common Lisp](http://www.gigamonkeys.com/book/) - Peter Seibel (HTML, PDF)
+* [Common Lisp the Language, 2nd Edition](https://www.cs.cmu.edu/Groups/AI/html/cltl/clm/clm.html) - Guy L. Steele Jr. (HTML)
 
 
 ### D

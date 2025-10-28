@@ -261,9 +261,9 @@
 * [AI Fundamentals](https://www.udacity.com/course/ai-fundamentals--ud099) - Microsoft Azure (Udacity)
 * [AI Python for Beginners](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/) - Andrew Ng (DeepLearning.ai)
 * [Aml-2018 Ambient Intelligence](https://www.youtube.com/playlist?list=PLqRTLlwsxDL8fUcY2Y54sITILyJcTySpC) - Fulvio Corno, Luigi De Russis, Alberto Monge Roffarello @ Politecnico di Torino
-* [Augment your LLM Using Retrieval Augmented Generation](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-16+V1) - NVIDIA Deep Learning Institute
 * [Artificial Intelligence on Google Cloud Platform](https://www.youtube.com/playlist?list=PL3N9eeOlCrP6Nhv4UFp67IsQ_TVDpXqXK) - Srivatsan Srinivasan @ AIEngineering
 * [Artificial Intelligence Search Methods For Problem Solving](https://www.youtube.com/playlist?list=PLbMVogVj5nJSFZoiF6RDqyz_m6Srjx_MY) - nptelhrd
+* [Augment your LLM Using Retrieval Augmented Generation](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-16+V1) - NVIDIA Deep Learning Institute
 * [AWS Certified AI Practitioner (AIF-C01)](https://www.youtube.com/watch?v=WZeZZ8_W-M4) - Andrew Brown (FreeCodeCamp)
 * [Building RAG Agents with LLMs] - NVIDIA Deep Learning Institute **FREE FOR A LIMITED TIME**
 * [Community Computer Vision Course](https://huggingface.co/learn/computer-vision-course) - Hugging Face
@@ -651,6 +651,7 @@
 * [SQL NPTEL](https://www.youtube.com/playlist?list=PLLQPIumE5cE-gzU5hChH1V3H93x4UOlHR)
 * [SQL Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWr_6xTfF2FrIw-NAOo3iWMy)
 * [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY) - Mike Dane (freeCodeCamp)
+
 
 ### Deep Learning
 
@@ -1472,8 +1473,8 @@
 * [An Introduction to Developing With NVIDIA Omniverse](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-11+V1) - NVIDIA Deep Learning Institute
 * [Assembling Your First Digital Twin With Omniverse and OpenUSD](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-49+V1) - NVIDIA Deep Learning Institute
 * [Creating an Omniverse Extension With Python](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-16+V1) - NVIDIA Deep Learning Institute
-* [Develop, Customize, and Publish in Omniverse With Extensions](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-02+V1) - NVIDIA Deep Learning Institute
 * [Computer Graphics](http://nptel.ac.in/courses/106106090/) 
+* [Develop, Customize, and Publish in Omniverse With Extensions](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-02+V1) - NVIDIA Deep Learning Institute
 * [Extend Omniverse Kit Applications for Building Digital Twins](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-13+V1) - NVIDIA Deep Learning Institute
 * [FindLectures.com](https://web.archive.org/web/20161219180842/https://www.findlectures.com/?class1=Technology) - Index of conference talks by language / topic ( :card_file_box: *archived*)
 * [Fundamentals of Working With OpenUSD](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-15+V1) - NVIDIA Deep Learning Institute
@@ -1484,6 +1485,7 @@
 * [MIT Numerical Methods (2014)](http://www.iitg.ernet.in/kartha/CE601-14/CourseSchedule.htm)
 * [Streamlining Drug Discovery with NVIDIA BioNeMo NIM Microservices and Blueprints](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-HX-04+V1) - NVIDIA Deep Learning Institute
 * [The Art of Code - Dylan Beattie](https://www.youtube.com/watch?v=6avJHaC3C2U) - Dylan Beattie
+
 
 ### .NET
 
@@ -1534,6 +1536,7 @@
 
 * [The Pharo MOOC](https://mooc.pharo.org) - Damien Cassou, Stéphane Ducasse, Luc Fabresse
 
+
 ### PHP
 
 * [Laravel 5.8 Tutorial From Scratch](https://www.youtube.com/playlist?list=PLpzy7FIRqpGD0kxI48v8QEVVZd744Phi4) - Coder's Tape (2019)
@@ -1569,6 +1572,7 @@
 
 * [Disaster Risk Monitoring Using Satellite Imagery](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-ES-01+V1) - NVIDIA Deep Learning Institute
 * [Learning Processing: A Beginner's Guide to Programming Images, Animation, and Interaction](https://thecodingtrain.com/tracks/learning-processing) - The Coding Train
+
 
 ### Python
 
@@ -1729,6 +1733,7 @@
 * [Train Your Second Robot in Isaac Lab](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-47+V1) - NVIDIA Deep Learning Institute
 * [Training Healthcare Robotics From Scratch Using Isaac for Healthcare](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-52+V1) - NVIDIA Deep Learning Institute
 * [Transferring Robot Learning Policies From Simulation to Reality](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-28+V1) - NVIDIA Deep Learning Institute
+
 
 ### Ruby
 

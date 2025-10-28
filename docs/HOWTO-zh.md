@@ -8,7 +8,7 @@
 
 **欢迎使用 `Free-Programming-Books`（*免费编程书籍*）！**
 
-我们欢迎新的贡献者；即使是在 GitHub 上首次提出 Pull Request (PR) 的人。如果您是其中之一，那么以下资源可能会有所帮助：
+我们欢迎新的贡献者；即使是在 GitHub 上首次提出 Pull Request(PR)(拉取请求) 的人。如果您是其中之一，那么以下资源可能会有所帮助：
 
 * [关于PR(拉取请求)](https://docs.github.com/cn/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
 * [创建PR(拉取请求)](https://docs.github.com/cn/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)

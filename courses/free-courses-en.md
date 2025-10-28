@@ -1571,6 +1571,7 @@
 * [Introduction to Computer Science and Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) (MIT's opencourseware)
 * [Introduction to Python](https://docs.microsoft.com/en-us/learn/modules/intro-to-python) (Microsoft Docs)
 * [Introduction to Python Basics for Data Science](https://dphi.tech/learn/introduction-to-python-basics-for-data-science) (DPhi)
+* [Introduction to Python Fundamentals (Microsoft DEV274x)](https://learning.edx.org/course/course-v1:Microsoft+DEV274x+3T2018/home) - Microsoft (edX)
 * [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110) (Udacity)
 * [Introduction To Python Programming](https://www.udemy.com/course/pythonforbeginnersintro/) - Avinash Jain, The Codex (Udemy)
 * [Introduction to Scripting in Python Specialization](https://www.coursera.org/specializations/introduction-scripting-in-python) (Coursera)

@@ -25,11 +25,12 @@
 * [বাংলায় C প্রোগ্রামিং ল্যাঙ্গুয়েজ শেখার কোর্স](https://c.howtocode.dev) - Jakir Hossain, et al.
 * [Computer Programming «কম্পিউটার প্রোগ্রামিং ১ম খণ্ড»](http://cpbook.subeen.com) - Tamim Shahriar Subeen (HTML)
 * [Computer Programming Part 3](https://archive.org/details/computer-programming-part-3-tamim-shaharier-subin) - Tamim Shahriar Subeen (PDF)
+* [সি প্রোগ্রামিং](https://www.ebookbou.edu.bd/Books/Text/OS/HSC/hsc_1853/Unit-09.pdf) - Bangladesh Open University (PDF)
 
 
 ### <a id="cpp"></a>C++
 
-* [সিপিপি পরিগণনা Computer Programming](https://www.academia.edu/16658418/c_programming_bangla_book) - Mahmudul Hasan (PDF, HTML)
+* [বাংলায় সিপিপি প্রোগ্রামিং](http://shikkhok.com/download/12349/) - Shikkhok.com (PDF)
 
 
 ### Data Science

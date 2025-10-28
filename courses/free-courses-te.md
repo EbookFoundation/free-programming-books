@@ -75,6 +75,7 @@
 * [C Language Tutorial](https://www.youtube.com/playlist?list=PL3KKfF5A0sSKZutcrUiTCQDX0hn7Tw61E) - Telugu Scit Tutorials
 * [C Language Tutorials](https://www.youtube.com/playlist?list=PLC2mgeYbYNm-n8Iz-_3MuNsJFzr0UlGUu) - Telugu Computer World
 * [C Language Full Course in Telugu](https://www.youtube.com/playlist?list=PLD7HLs2NCdoUiJir3Kqdqs6OX07oFdcgT) - College Coders
+* [C Programming](https://www.youtube.com/playlist?list=PLS8lzSv6JRJ0naiWKSsE15A2sPNufLat1) - Swaroop Talks
 
 
 ### <a id="cpp"></a>C++
@@ -82,7 +83,6 @@
 * [C++ Complete Tutorial](https://www.youtube.com/watch?v=uZBXKmQH5u8) - Telugu Computer World
 * [C++ Language Tutorials](https://www.youtube.com/playlist?list=PLC2mgeYbYNm9keJjsA95jKa4EUVLd7mQP) - Telugu Computer World
 * [C++ Programming in Telugu - Complete Tutorial in 14 Hours](https://www.youtube.com/playlist?list=PLC2mgeYbYNm9keJjsA95jKa4EUVLd7mQP) - Telugu Computer World
-* [C Programming](https://www.youtube.com/playlist?list=PLS8lzSv6JRJ0naiWKSsE15A2sPNufLat1) - Swaroop Talks
 
 
 ### Cloud Computing

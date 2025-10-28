@@ -426,10 +426,10 @@
 * [Pense em Python](https://penseallen.github.io/PensePython2e)
 * [Python e Orientação a Objetos](https://www.caelum.com.br/apostila-python-orientacao-a-objetos/)
 * [Python Fluente, Segunda Edição (2023)](https://pythonfluente.com) - Luciano Ramalho (HTML)
-* [Python Fluente, Segunda Edição (2023)](https://github.com/pythonfluente/pythonfluente2e?tab=readme-ov-file) - Luciano Ramalho (GitHub)
+* [Python Fluente, Segunda Edição (2023)](https://github.com/pythonfluente/pythonfluente2e?tab=readme-ov-file) - Luciano Ramalho (HTML)
 * [Python Funcional](https://dunossauro.github.io/python-funcional/) - Eduardo Mendes
 * [Python para Desenvolvedores](https://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf) (PDF)
-* [Python para Desenvolvedores](https://github.com/ricardoduarte/python-para-desenvolvedores) (GitHub)
+* [Python para Desenvolvedores](https://github.com/ricardoduarte/python-para-desenvolvedores) - Luiz Eduardo Borges (HTML)
 * [Python para Matemáticos](https://sbm.org.br/wp-content/uploads/2023/09/Minicurso_Python_final2.pdf) - Andréa Lins, Lins Souza (PDF)
 * [Tutorial Django Girls](http://tutorial.djangogirls.org/pt/)
 

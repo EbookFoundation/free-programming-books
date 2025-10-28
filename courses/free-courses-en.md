@@ -294,6 +294,7 @@
 * [Generative AI for beginners with JavaScript](https://github.com/microsoft/generative-ai-with-javascript) - Microsoft (Github)
 * [Intro to Generative AI](https://www.codecademy.com/learn/intro-to-generative-ai) - Codecademy
 * [LangChain & Vector Databases in Production](https://learn.activeloop.ai/courses/langchain) - Activeloop *(account required)*
+* [LangChain AI Handbook](https://www.pinecone.io/learn/series/langchain/) - James Briggs (HTML)
 * [LangChain for LLM Application Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development) - Harrison Chase, Andrew Ng (DeepLearning.AI)
 * [Retrieval Augmented Generation for Production with LangChain & LlamaIndex](https://learn.activeloop.ai/courses/rag) - Activeloop *(account required)*
 * [Training & Fine-Tuning LLMs for Production](https://learn.activeloop.ai/courses/llms) - Activeloop *(account required)*
@@ -563,6 +564,7 @@
 * [An Introduction to Data Science](https://www.udemy.com/course/an-introduction-to-data-science/)
 * [Apache Airflow Tutorials](https://www.youtube.com/playlist?list=PLYizQ5FvN6pvIOcOd6dFZu3lQqc6zBGp2) - Tuan Vu
 * [Applied Data Science with Python](https://cognitiveclass.ai/learn/data-science-with-python) - CognitiveClass.ai
+* [Data Pipelines with Apache Airflow](https://www.astronomer.io/ebooks/data-pipelines-with-apache-airflow.pdf) - Astronomer (PDF)
 * [Big Data Engineering Course](https://www.youtube.com/playlist?list=PLLa_h7BriLH2UYJIO9oDoP3W-b6gQeA12) - Data Engineering
 * [CS250: Python for Data Science](https://learn.saylor.org/course/view.php?id=504) - Saylor Academy
 * [Data Analysis and Visualization](https://www.udacity.com/course/data-analysis-and-visualization--ud404) - Georgia Tech (Udacity)
@@ -700,6 +702,7 @@
 * [AWS Provisioning using Ansible with real-time examples](https://www.udemy.com/course/aws-provisioning-using-ansible-with-real-time-examples) - Narendra P (Udemy)
 * [DevOps: Beginner's Guide To Automation With Ansible](https://www.udemy.com/course/devops-beginners-guide-to-automation-with-ansible) - TetraNoodle Team, Manuj Aggarwal (Udemy)
 * [Getting Started with Ansible](https://www.youtube.com/playlist?list=PLT98CRl2KxKEUHie1m24-wkyHpEsa4Y70) - Learn Linux TV
+* [Introduction to Ansible](https://devops-daily.com/guides/introduction-to-ansible/04-working-with-inventory) - DevOps Daily
 * [Red Hat Ansible Automation for SAP (RH045)](https://www.udemy.com/course/red-hat-ansible-automation-for-sap) - Red Hat, Inc. (Udemy)
 * [Use Ansible with Amazon Web Services](https://www.udemy.com/course/ansible-aws) - Rohit Abraham (Udemy)
 

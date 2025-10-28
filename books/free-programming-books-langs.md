@@ -1331,6 +1331,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Mastering Next.js](https://masteringnextjs.com)
 * [Next.js 13 Crash Course 2023: Learn App Directory, React Server Components & More](https://www.youtube.com/watch?v=Y6KDk5iyrYE) - Brad Traversy (Traversy Media)
 * [Next.js for Beginners - Full Course](https://www.youtube.com/watch?v=1WmNXEVia8I) - freeCodeCamp.org
+* [The Next.js Handbook](https://dtc-wsuv.org/dmyers19/dtc477-%20Advanced%20Multimedia%20Authoring/FlavioCopes-Handbooks/The%20Next%20Handbook/book.pdf) - Flavio Copes (PDF)
 * [The Next.js Handbook](https://flaviocopes.com/page/nextjs-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
 
 
@@ -1419,6 +1420,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Getting started with Svelte](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started) - MDN Web Docs (CC BY-SA)
 * [Svelte Tutorial](https://svelte.dev/tutorial/basics) - Svelte.dev
 * [The Svelte Handbook](https://flaviocopes.com/page/svelte-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
+* [The Svelte Handbook](https://www.freecodecamp.org/news/the-svelte-handbook/) - Flavio Copes (HTML)
 
 
 #### Vue.js

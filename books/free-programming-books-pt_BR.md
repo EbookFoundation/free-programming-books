@@ -78,6 +78,7 @@
 * [Visual Studio Code: Produtividade infinita](https://github.com/bylearn/VS-Code-Produtividade-Infinita) - Felipe Cabrera Ribeiro dos Santos
 
 
+
 #### Programação
 
 * [Algoritmos e Estruturas de Dados 1](https://www.inf.ufpr.br/marcos/livro_alg1/livro_alg1.pdf) - Marcos Castilho, Fabiano Silva, Daniel Weingaertner (PDF) (CC BY-NC-ND)
@@ -86,7 +87,6 @@
 * [Introdução à programação em Julia (2020)](https://juliaintro.github.io/JuliaIntroBR.jl/index.html) - Abel Soares Siqueira, Gustavo Sarturi, João Okimoto & Kally Chung (HTML) (CC BY-NC 3.0)
 * [Lógica de Programação para iniciantes](https://dicasdeprogramacao.com.br/download/ebook-logica-de-programacao-para-iniciantes.pdf) - Gustavo Furtado de Oliveira Alves (PDF)
 * [Paradigmas de programação](https://github.com/edsomjr/Paradigmas) - Edson Alves (HTML)
-
 
 
 #### Sistemas Operacionais

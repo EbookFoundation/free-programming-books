@@ -387,7 +387,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Vi Improved -- Vim](https://www.truth.sk/vim/vimbook-OPL.pdf) - Steve Oualline (PDF)
 * [VIM-GALORE - All things Vim!](https://github.com/mhinz/vim-galore#readme) - Marco Hinz (HTML) (CC BY-SA)
 * [Vim Recipes](https://web.archive.org/web/20130302172911/http://vim.runpaint.org/vim-recipes.pdf) - Run Paint Run Run, Run Paint Press (PDF) *( :card_file_box: archived)*
-* [Vim Reference Guide](https://learnbyexample.github.io/vim_reference/) - Sundeep Agarwal
+* [Vim Reference Guide](https://learnbyexample.github.io/vim_reference/) - Sundeep Agarwal (HTML) (CC BY-NC-SA)
 * [Vim Regular Expressions 101](https://vimregex.com) - Oleg Raisky
 * [Visual Studio .NET Tips and Tricks](https://www.infoq.com/minibooks/vsnettt) - Minh T. Nguyen (PDF)
 * [Visual Studio 2019 Succinctly](https://www.syncfusion.com/ebooks/visual-studio-2019-succinctly) - Alessandro Del Sole (HTML, PDF)

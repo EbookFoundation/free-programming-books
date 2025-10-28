@@ -1892,11 +1892,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [The Yii Book](https://github.com/LarryUllman/yiibook2/blob/main/e-books/yiibook2.pdf) - Larry Ullman (PDF)
 
 
-#### Zend
-
-* [Using Zend Framework 3](https://olegkrivtsov.github.io/using-zend-framework-3-book/html/)
-
-
 ### PostgreSQL
 
 * [Essential PostgreSQL](https://www.programming-books.io/essential/postgresql/) - Krzysztof Kowalczyk, StackOverflow Contributors
@@ -2741,6 +2736,10 @@ Books on general-purpose programming that don't focus on a specific language are
 
 * [YAML Tutorial](https://www.tutorialspoint.com/yaml/yaml_tutorial.pdf) - TutorialsPoint (PDF)
 
+#### Zend
+
+* [Using Zend Framework 3](https://olegkrivtsov.github.io/using-zend-framework-3-book/html/)
+
 
 ### Zig
 
@@ -2748,3 +2747,5 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Zig Guide](https://zig.guide) (HTML)
 * [Zig Language Reference](https://devdocs.io/zig) - DevDocs
 * [Zig Language Reference](https://ziglang.org/documentation/master) (HTML)
+
+

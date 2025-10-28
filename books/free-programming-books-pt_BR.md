@@ -362,7 +362,6 @@
 * [Introdução à programação em Julia (2020)](https://juliaintro.github.io/JuliaIntroBR.jl/index.html) - Abel Soares Siqueira, Gustavo Sarturi, João Okimoto & Kally Chung (HTML) (CC BY-NC 3.0)
 * [Programação de Computadores com Linguagem Julia](https://github.com/J-AugustoManzano/LivroLinJulia) - José Augusto N. G. Manzano (PDF)
 
-
 ### Kubernetes
 
 * [Descomplicando Kubernetes](https://livro.descomplicandokubernetes.com.br) - Jeferson Fernando

@@ -7,3 +7,11 @@
 <link rel="shortcut icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}">
 
 <!-- end custom head snippets -->
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  if (document.title.includes("Contributor License Agreement")) {
+    const searchForm = document.querySelector('form[action*="free-programming-books-search"]');
+    if (searchForm) searchForm.style.display = "none";
+  }
+});
+</script>

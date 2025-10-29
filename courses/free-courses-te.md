@@ -114,7 +114,7 @@
 * [Data Structures in Telugu in 7hrs \| Full Course \| Learn Data Structures](https://www.youtube.com/watch?v=pm_ugbO2FlY) - Believer 01
 * [Data Structures](https://www.youtube.com/playlist?list=PLJSrGkRNEDAgmq4kKkPuh8aFJs-zxVbWK) - Lab Mug
 * [Java + DSA Course From scratch in Telugu](https://www.youtube.com/playlist?list=PLjzLBp9HHZWhVXBSPS1VqxXXDoVk07gd9) - engineering animuthyam
-* [PYTHON + DSA in Telugu For Free ](https://www.youtube.com/playlist?list=PLjzLBp9HHZWiJrhfJzTAEbwdpQIfUXtwP) - engineering animuthyam
+* [PYTHON + DSA in Telugu For Free](https://www.youtube.com/playlist?list=PLjzLBp9HHZWiJrhfJzTAEbwdpQIfUXtwP) - engineering animuthyam
 
 
 ### Docker
@@ -165,7 +165,7 @@
 * [JAVA SCRIPT FOR BEGINNERS IN 7 HOURS \|\| LEARN JAVA SCRIPT IN 7 HOURS \|\| JAVA SCRIPT](https://www.youtube.com/watch?v=BTuCzffKh8E) - Sundeep Saradhi Kanthety
 * [JavaScript in Telugu \|\| JavaScript in Telugu by Kotha Abhishek](https://www.youtube.com/playlist?list=PLv_sM9ZH4RUW_Pgz-6B0Q-YTfWvC7RVFN) - Chintu Tutorials
 * [Javascript Full Course In Telugu For Beginners To Pro](https://www.youtube.com/playlist?list=PLpp0qTynBRqlfMUd_-A65HQ8gAZ-evWLR) - Deekshitha Tech Talks
-* [JAVASCRIPT FULL COURSE IN TELUGu](https://www.youtube.com/playlist?list=PLD7HLs2NCdoU7aqlOpVrkBOU8EEzkMEnE) - College Coders
+* [JAVASCRIPT FULL COURSE IN TELUGU](https://www.youtube.com/playlist?list=PLD7HLs2NCdoU7aqlOpVrkBOU8EEzkMEnE) - College Coders
 
 
 #### ExpressJS

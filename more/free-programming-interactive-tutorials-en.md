@@ -448,6 +448,7 @@
 * [Rustlings](https://github.com/rust-lang/rustlings)
 * [TCP Servers in Rust](https://app.codecrafters.io/concepts/rust-tcp-server) - CodeCrafters
 * [Tour of Rust](https://tourofrust.com)
+* [W3Schools Rust Tutorial](https://www.w3schools.com/rust) - W3Schools
 
 
 ### Scala

@@ -1569,6 +1569,11 @@ Books on general-purpose programming that don't focus on a specific language are
 * [GNU Emacs Lisp Reference Manual](http://www.gnu.org/software/emacs/manual/elisp.html)
 
 
+#### newLISP
+
+* [Introduction to newLISP](http://www.newlisp.org/downloads/newLISP-10.7.5-Release.html) - Lutz Mueller (PDF)
+
+
 #### PicoLisp
 
 * [PicoLisp by Example](https://github.com/tj64/picolisp-by-example)

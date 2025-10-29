@@ -290,6 +290,7 @@
 * [Deep Generative Models](https://www.youtube.com/playlist?list=PL2UML_KCiC0UPzjW9BjO-IW6dqliu9O4B) - Volodymyr Kuleshov
 * [Foundation Models and Generative AI](https://ocw.mit.edu/courses/6-s087-foundation-models-and-generative-ai-january-iap-2024) - Rickard Gabrielsson (MIT OpenCourseWare)
 * [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/) - Microsoft
+* [Generative AI for Beginners - Java Edition](https://github.com/microsoft/Generative-AI-for-beginners-java) - Microsoft
 * [Generative AI for Beginners (.NET Edition)](https://github.com/microsoft/Generative-AI-for-beginners-dotnet) - Microsoft (GitHub)
 * [Generative AI for beginners with JavaScript](https://github.com/microsoft/generative-ai-with-javascript) - Microsoft (Github)
 * [Intro to Generative AI](https://www.codecademy.com/learn/intro-to-generative-ai) - Codecademy
@@ -836,6 +837,7 @@
 * [Git How To](https://githowto.com) - Alexander Shvets
 * [Git Tutorial - Learn Command-line Git & GitHub](https://www.youtube.com/playlist?list=PLpcSpRrAaOarEpNz71TSfNVd0eQmsZSgN) - LearnWebCode
 * [Git Tutorial for Beginners: Learn Git in 1 Hour](https://www.youtube.com/watch?v=8JJ101D3knE) - Moshfegh Hamedani (Programming with Mosh)
+* [GitHub Skills](https://skills.github.com) - GitHub
 * [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) - Google (Coursera)
 * [Introduction to version control with Git](https://learn.microsoft.com/en-us/training/paths/intro-to-vc-git/) - Microsoft Learn
 * [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud) - Atlassian

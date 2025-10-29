@@ -27,11 +27,6 @@
 * [Computer Programming Part 3](https://archive.org/details/computer-programming-part-3-tamim-shaharier-subin) - Tamim Shahriar Subeen (PDF)
 
 
-### <a id="cpp"></a>C++
-
-* [সিপিপি পরিগণনা Computer Programming](https://www.academia.edu/16658418/c_programming_bangla_book) - Mahmudul Hasan (PDF, HTML)
-
-
 ### Data Science
 
 * [ডাটা সাইন্সের হাতেখড়ি](https://datasinsightsbd.gitbook.io) - Fazle Rabbi Khan (gitbook)

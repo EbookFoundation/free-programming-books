@@ -7,6 +7,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 ### Index
 
 * [0 - Meta-Lists](#0---meta-lists)
+* [Academic Courses](#Academic-Courses)
 * [Algorithms & Data Structures](#algorithms--data-structures)
 * [Artificial Intelligence](#artificial-intelligence)
 * [Blockchain](#blockchain)
@@ -90,6 +91,12 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Theassayer.org](http://theassayer.org)
 * [Tutorials Point](https://www.tutorialspoint.com)
 * [Visualgo: Algorithm and Data Structure Visualization](https://visualgo.net) - Visualise data structures and algorithms through animation
+
+
+### Academic Courses
+
+* [Master of Computer Application (MCA)](https://baou.edu.in/courses/mca) - Dr. Babasaheb Ambedkar Open University (HTML, PDF)
+* [Master of Science - Information Technology (MSCIT)](https://baou.edu.in/courses/mscit) - Dr. Babasaheb Ambedkar Open University (HTML, PDF)
 
 
 ### Algorithms & Data Structures
@@ -1067,3 +1074,4 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Workflow
 
 * [Declare Peace on Virtual Machines. A guide to simplifying vm-based development on a Mac](https://leanpub.com/declarepeaceonvms/read)
+

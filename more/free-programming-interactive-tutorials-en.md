@@ -454,6 +454,7 @@
 ### Scala
 
 * [A Tour of Scala - an interactive scala tutorial](https://scalatutorials.com/tour/)
+* [LearnScala.org](https://www.learnscala.org) - Interactive Scala Tutorial
 * [Scala Exercises](https://www.scala-exercises.org)
 
 

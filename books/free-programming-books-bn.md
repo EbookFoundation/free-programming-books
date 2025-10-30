@@ -27,9 +27,7 @@
 * [Computer Programming Part 3](https://archive.org/details/computer-programming-part-3-tamim-shaharier-subin) - Tamim Shahriar Subeen (PDF)
 
 
-### <a id="cpp"></a>C++
 
-* [c++ সিপিপি বই সংস্করণ ৩](http://shikkhok.com/2015/11/banglacpp2/) - (PDF)
 
 
 ### Data Science

@@ -170,6 +170,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [PureScript](#purescript)
 * [Python](#python)
     * [Django](#django)
+    * [FastAPI](#fastapi)
     * [Flask](#flask)
     * [Kivy](#kivy)
     * [Numpy](#numpy)
@@ -278,7 +279,7 @@ Books on general-purpose programming that don't focus on a specific language are
 ### APL
 
 * [APL2 at a glance](https://ia801009.us.archive.org/28/items/apl-2-at-a-glance-brown-pakin-polivka/APL2_at_a_Glance_-_Brown_Pakin_Polivka.pdf) - James A. Brown, Sandra Pakin, Raymond P. Polivka - 1988 (PDF)
-* [Introduction to College Mathematics with A Programming Language (1978)](https://www.softwarepreservation.org/projects/apl/Books/CollegeMathematicswithAPL) - E. J. LeCuyer (PDF)
+* [Introduction to College Mathematics with A Programming Language (1978)](https://softwarepreservation.computerhistory.org/apl/book/CollegeMathematicswithAPL.pdf) - E. J. LeCuyer (PDF)
 * [Learning APL](https://xpqz.github.io/learnapl) - Stefan Kruger (HTML,PDF,IPYNB)
 * [Mastering Dyalog APL](https://www.dyalog.com/mastering-dyalog-apl.htm) (PDF, HTML, IPYNB) *( :construction: in process)*
 * [Reinforcement Learning From The Ground Up](https://romilly.github.io/o-x-o) - Romilly Cocking (PDF, HTML, IPYNB) *( :construction: in process)*
@@ -505,6 +506,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [.NET Book Zero](http://www.charlespetzold.com/dotnet) - Charles Petzold (PDF, XPS)
 * [.NET Microservices: Architecture for Containerized .NET Applications](https://dotnet.microsoft.com/download/e-book/microservices-architecture/pdf) - Cesar de la Torre, Bill Wagner, Mike Rousos (PDF)
 * [Porting Existing ASP.NET Apps to .NET 6](https://docs.microsoft.com/en-us/dotnet/architecture/porting-existing-aspnet-apps/) - Steve "ardalis" Smith
+* [Programming Basics with C#](https://csharp-book.softuni.org) - Svetlin Nakov et al. (HTML, PDF, EPUB)
 * [Threading in C#](http://www.albahari.com/threading/)
 * [Xamarin Community Toolkit Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/xamarin-community-toolkit-succinctly) - Alessandro Del Sole
 * [Xamarin.Forms for macOS Succinctly](https://www.syncfusion.com/ebooks/xamarin_forms_for_mac_os_succinctly) - Alessandro Del Sole
@@ -856,7 +858,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Fullstack GraphQL](https://github.com/GraphQLCollege/fullstack-graphql) (CC BY-NC-SA)
 * [GraphQL and Android](https://commonsware.com/GraphQL/GraphQL-0.1-CC.pdf) - Mack L. Murphy (PDF)
 * [GraphQL or Bust](https://nordicapis.com/wp-content/uploads/GraphQL-or-Bust-v2.2.pdf) - Nordic APIs (PDF)
-* [Learning graphqL](https://riptutorial.com/Download/graphql.pdf) - Compiled from StackOverflow Documentation (PDF)  (CC BY-SA)
+* [Learning graphqL](https://riptutorial.com/Download/graphql.pdf) - Compiled from StackOverflow Documentation (PDF) (CC BY-SA)
 
 
 #### Gremlin
@@ -1391,7 +1393,7 @@ Books on general-purpose programming that don't focus on a specific language are
     * [React Tutorial - Part 3](http://www.joshfinnie.com/blog/reactjs-tutorial-part-3/) - Josh Finnie
 * [React with ASP.NET Core Tutorial](https://reactjs.net/getting-started/aspnetcore.html)
 * [React.js Tutorial: Now is Your Time to Try It, Right in Your Browser](https://codegeekz.com/react-js-tutorial/)
-* [Redux Tutorial](https://www.tutorialspoint.com/redux/) - Tutorial Point (HTML, PDF)
+* [Redux Tutorial](https://www.tutorialspoint.com/redux/) - Tutorials Point (HTML, PDF)
 * [SurviveJS - Webpack and React](http://survivejs.com)
 * [The React Beginner's Handbook](https://flaviocopes.com/page/react-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
 
@@ -1502,7 +1504,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Kali Linux: Professional Penetration-Testing Distribution](http://docs.kali.org)
 * [Learning Debian GNU/Linux](http://www.oreilly.com/openbook/debian/book/index.html)
 * [Linux 101 Hacks](http://thegeekstuff.s3.amazonaws.com/files/linux-101-hacks.zip) - Ramesh Natarajan (PDF)
-* [Linux Administration II : Linux as a Network Client](https://www.tuxcademy.org/download/en/adm2/adm2-en-manual.pdf) - Anselm Lingnau,Tobias Elsner (PDF)  (CC BY-SA)
+* [Linux Administration II : Linux as a Network Client](https://www.tuxcademy.org/download/en/adm2/adm2-en-manual.pdf) - Anselm Lingnau,Tobias Elsner (PDF) (CC BY-SA)
 * [Linux Advanced Routing & Traffic Control HOWTO](http://lartc.org)
 * [Linux Appliance Design: A Hands-On Guide to Building Linux Appliances](http://librta.org/book.html) - Bob Smith, John Hardin, Graham Phillips, Bill Pierce (PDF, EPUB, MOBI)
 * [Linux commands Notes for Professionals](https://goalkicker.com/LinuxBook/) - Compiled from StackOverflow documentation (PDF)
@@ -1842,6 +1844,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [PHP Programming](https://en.wikibooks.org/wiki/PHP_Programming) - Wikibooks
 * [PHP Reference: Beginner to Intermediate PHP5](https://phpreferencebook.com/pdf/download/) - Mario Lurig (PDF)
 * [PHP: The Right Way](http://www.phptherightway.com)
+* [PHP Tutorial](https://www.tutorialspoint.com/php/) - Tutorials Point (HTML, PDF)
 * [Practical PHP Programming](http://www.hackingwithphp.com)
 * [Practical PHP Testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
 * [Survive The Deep End: PHP Security](https://phpsecurity.readthedocs.org/en/latest/)
@@ -2000,7 +2003,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Dive into Python 3](https://diveintopython3.problemsolving.io) - Mark Pilgrim (3.0) (CC BY-SA)
     * [Dive into Python](https://linux.die.net/diveintopython/html/toc/index.html) - Mark Pilgrim (2.3)
 * [Essential Python](https://www.programming-books.io/essential/python/) - Krzysztof Kowalczyk, StackOverflow Contributors
-* [FastAPI — The Blue Book](https://lyz-code.github.io/blue-book/fastapi/) - Luis López (HTML)
 * [Full Stack Python](https://www.fullstackpython.com) - Matt Makai
 * [Functional Programming in Python](https://www.oreilly.com/ideas/functional-programming-in-python) - David Mertz  
 * [Fundamentals of  Python Programming](https://web.archive.org/web/20191005170430/http://python.cs.southern.edu/pythonbook/pythonbook.pdf) - Richard L. Halterman (PDF) *( :construction: in process)*
@@ -2138,6 +2140,14 @@ Books on general-purpose programming that don't focus on a specific language are
 * [How to Tango With Django](http://www.tangowithdjango.com/book17/) (1.7)
 * [Social Auth App](https://python-social-auth.readthedocs.io/en/latest/) (HTML)
 * [Test-Driven Development With Python And Django](http://www.obeythetestinggoat.com/pages/book.html) (1.11)
+
+
+#### FastAPI
+
+* [FastAPI — The Blue Book](https://lyz-code.github.io/blue-book/fastapi/) - Luis López (HTML)
+* [FastAPI Documentation](https://fastapi.tiangolo.com) - Sebastián Ramírez (HTML)
+* [Full Stack FastAPI and PostgreSQL](https://github.com/tiangolo/full-stack-fastapi-postgresql) - Sebastián Ramírez
+* [TestDriven.io FastAPI Tutorials](https://testdriven.io/blog/topics/fastapi) - Michael Herman et al.
 
 
 #### Flask
@@ -2337,7 +2347,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Ruby on Rails 4.0 Guide](http://www.xyzpub.com/en/ruby-on-rails/4.0/)
 * [Ruby on Rails Guides](http://guides.rubyonrails.org)
 * [Ruby on Rails Notes for Professionals](https://goalkicker.com/RubyOnRailsBook/) - Compiled from StackOverflow Documentation (PDF)
-* [Ruby on Rails Tutorial (Rails 5): Learn Web Development with Rails](https://www.railstutorial.org/book) - [Michael Hartl](http://www.michaelhartl.com)
+* [Ruby on Rails Tutorial (Rails 5): Learn Web Development with Rails](https://www.railstutorial.org/book) - Michael Hartl
 * [Upgrading to Rails 4](https://github.com/alindeman/upgradingtorails4)
 
 
@@ -2444,14 +2454,14 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Scheme Tutorial](http://www.cs.hut.fi/Studies/T-93.210/schemetutorial/)
 * [Simply Scheme: Introducing Computer Science](http://www.cs.berkeley.edu/~bh/ss-toc2.html) - B. Harvey, M. Wright
 * [Teach Yourself Scheme in Fixnum Days](https://ds26gte.github.io/tyscheme/index-Z-H-1.html)
-* [The Scheme Programming Language: Edition 3](http://www.scheme.com/tspl3/) - [The Scheme Programming Language: Edition 4](http://www.scheme.com/tspl4/)
+* [The Scheme Programming Language: Edition 3](http://www.scheme.com/tspl3/)
+* [The Scheme Programming Language: Edition 4](http://www.scheme.com/tspl4/)
 * [Write Yourself a Scheme in 48 Hours](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours) - Wikibooks
 
 
 ### Scilab
 
 * [Introduction to Scilab](http://forge.scilab.org/index.php/p/docintrotoscilab/downloads/)
-* [PHP tutorial](https://www.tutorialspoint.com/php/) - Tutorialspoint
 * [Programming in Scilab](http://forge.scilab.org/index.php/p/docprogscilab/downloads/)
 * [Writing Scilab Extensions](http://forge.scilab.org/index.php/p/docsciextensions/downloads/)
 

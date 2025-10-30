@@ -271,6 +271,7 @@
 
 #### AWS
 
+* [AWS For Beginners Playlist [HINDI]](https://www.youtube.com/playlist?list=PL0tP8lerTbX3mKdZYfJwXcKf6SOfmQcgl) - M Prashant
 * [AWS Tutorial for Beginners In Hindi](https://www.youtube.com/playlist?list=PLCFe3TcoBniI4iaavlfnR0UGQrtjgOMj9) - Together with Abhi
 * [AWS Tutorial in Hindi](https://www.youtube.com/playlist?list=PL_OdF9Z6GmVZCwyfd8n6_50jcE_Xlz1je) - S3CloudHub
 * [AWS Tutorial in Hindi \| Edureka](https://www.youtube.com/playlist?list=PLQbQOmlGYH3uoa_mYHDJkl958B_dBiaqW) - edureka! Hindi

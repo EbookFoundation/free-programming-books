@@ -29,7 +29,7 @@
 
 ### <a id="cpp"></a>C++
 
-* [সিপিপি পরিগণনা Computer Programming](https://www.academia.edu/16658418/c_programming_bangla_book) - Mahmudul Hasan (PDF, HTML)
+* [c++ সিপিপি বই সংস্করণ ৩](http://shikkhok.com/2015/11/banglacpp2/) - (PDF)
 
 
 ### Data Science

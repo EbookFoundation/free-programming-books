@@ -3,6 +3,7 @@
 * [Angular](#angular)
 * [APL](#apl)
 * [Artificial Intelligence](#artificial-intelligence)
+* [AWS](#aws)
 * [Blockchain](#blockchain)
 * [C](#c)
 * [C#](#csharp)
@@ -36,14 +37,17 @@
     * [Node.js](#nodejs)
     * [Nuxt.js](#nuxtjs)
     * [React.js](#reactjs)
+    * [Svelte](#svelte)
     * [Vue.js](#vuejs)
 * [Kotlin](#kotlin)
 * [Language Translations](#language-translations)
 * [Latex](#latex)
+* [Linux](#linux)
 * [Machine Learning](#machine-learning)
 * [Markdown](#markdown)
 * [MATLAB](#matlab)
 * [MongoDB](#mongodb)
+* [Redis](#redis)
 * [Octave](#octave)
 * [Perl](#perl)
 * [PHP](#php)
@@ -100,6 +104,13 @@
 * [101 Blockchain Cheat Sheet, Jargon, Glossary and Terminology](https://pupuweb.com/blockchain-bitcoin-cheat-sheet/) - Alex Lim (HTML)
 * [Blockchain Cheat Sheet](https://intellipaat.com/blog/tutorial/blockchain-tutorial/blockchain-cheat-sheet/) - Arpit (HTML)
 * [Blockchain For Dummies Cheat Sheet](https://www.dummies.com/article/technology/information-technology/data-science/general-data-science/blockchain-dummies-cheat-sheet-237567/) - Tiana Laurence (HTML)
+
+
+### AWS
+
+* [AWS CLI Cheatsheet](https://devhints.io/awscli) - devhints, Rico Santa Cruz (HTML)
+* [AWS Services Cheat Sheet](https://digitalcloud.training/aws-cheat-sheets/) - Digital Cloud Training (HTML)
+* [AWS Solutions Architect Cheat Sheet](https://tutorialsdojo.com/aws-cheat-sheets/) - Tutorials Dojo (HTML)
 
 
 ### C
@@ -380,6 +391,7 @@
 
 #### Node.js
 
+* [Express.js Cheat Sheet](https://quickref.me/express) - QuickRef.ME (HTML)
 * [Introduction to Node.js](https://www.codecademy.com/learn/learn-node-js/modules/intro-to-node-js/cheatsheet) - Codecademy
 * [Node.js Cheatsheet ZTM](https://zerotomastery.io/cheatsheets/node-js-cheat-sheet) - Zero To Mastery
 * [Node.js/Express Cheatsheet](https://courses.cs.washington.edu/courses/cse154/19su/resources/assets/cheatsheets/node-cheatsheet.pdf) - Melissa Hovik (PDF)
@@ -399,6 +411,12 @@
 * [React TypeScript Cheat Sheet](https://react-typescript-cheatsheet.netlify.app/docs/basic/setup) - TypeScript Cheatsheets (HTML)
 * [React.js Cheatsheet](https://devhints.io/react) - Devhints.io (HTML)
 * [Ultimate React.js Cheat Sheet](https://upmostly.com/ultimate-reactjs-cheat-sheet) - Upmostly.com (HTML)
+
+
+#### Svelte
+
+* [Svelte Cheatsheet](https://devhints.io/svelte) - devhints, Rico Santa Cruz (HTML)
+* [Svelte Quick Reference](https://svelte.dev/docs/svelte/overview) - Svelte (HTML)
 
 
 #### Vue.js
@@ -425,6 +443,13 @@
 * [Latex Cheat Sheet](https://gist.github.com/LKS90/252ac41bd4a173be35b0) - Lukas Schneider
 
 
+### Linux
+
+* [Bash Scripting Cheat Sheet](https://devhints.io/bash) - Devhints, Rico Santa Cruz (HTML)
+* [Linux Command Line Cheat Sheet](https://cheatography.com/davechild/cheat-sheets/linux-command-line/) - Dave Child (HTML)
+* [Linux Commands Cheat Sheet](https://www.geeksforgeeks.org/linux-commands-cheat-sheet/) - GeeksforGeeks (HTML)
+
+
 ### Machine Learning
 
 * [Machine Learning Cheat Sheet](https://www.datacamp.com/cheat-sheet/machine-learning-cheat-sheet) - DataCamp Team (HTML)
@@ -449,6 +474,11 @@
 * [All MongoDb commands you will ever need (MongoDb Cheatsheet)](https://www.codewithharry.com/blogpost/mongodb-cheatsheet/) - CodeWithHarry (HTML)
 * [MongoDB Cheat Sheet](https://www.mongodb.com/developer/quickstart/cheat-sheet) - MongoDB (HTML)
 * [Quick Cheat Sheet for Mongo DB Shell commands](https://gist.github.com/michaeltreat/d3bdc989b54cff969df86484e091fd0c) - Michael Treat's Quick Cheat Sheet (GitHub Gist)
+
+
+### Redis
+
+* [Redis Quick Reference](https://lzone.de/cheat-sheet/Redis) - Jens Erat (HTML)
 
 
 ### Octave
@@ -620,7 +650,9 @@
 
 * [MySQL Cheatsheet](https://www.codewithharry.com/blogpost/mysql-cheatsheet) - Code With Harry
 * [MySQL Cheatsheet](https://s3-us-west-2.amazonaws.com/dbshostedfiles/dbs/sql_cheat_sheet_mysql.pdf) - Database Star (PDF)
+* [PostgreSQL Cheat Sheet](https://quickref.me/postgres) - QuickRef.ME (HTML)
 * [PostgreSQL Cheatsheet](https://s3-us-west-2.amazonaws.com/dbshostedfiles/dbs/sql_cheat_sheet_pgsql.pdf) - Database Star (PDF)
+* [PostgreSQL Quick Reference](https://www.postgresqltutorial.com/postgresql-cheat-sheet/) - PostgreSQL Tutorial (HTML)
 * [SQL Cheat Sheet](https://www.dataquest.io/wp-content/uploads/2021/01/dataquest-sql-cheat-sheet.pdf) - Dataquest.io (PDF)
 * [SQL Cheat Sheet](https://zerotomastery.io/cheatsheets/sql-cheat-sheet/) - ZeroToMastery (HTML)
 * [SQL Cheat Sheet by Tomi Mester](https://data36.com/wp-content/uploads/2018/12/sql-cheat-sheet-for-data-scientists-by-tomi-mester.pdf) - Tomi Mester (PDF)

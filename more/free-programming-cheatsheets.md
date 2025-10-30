@@ -47,9 +47,9 @@
 * [Markdown](#markdown)
 * [MATLAB](#matlab)
 * [MongoDB](#mongodb)
-* [Redis](#redis)
 * [Octave](#octave)
 * [Perl](#perl)
+* [Redis](#redis)
 * [PHP](#php)
 * [Powershell](#powershell)
 * [Python](#python)
@@ -88,7 +88,6 @@
 ### APL
 
 * [A reference card for GNU APL](https://github.com/jpellegrini/gnu-apl-refcard/blob/master/aplcard.pdf) - jpellegrini (PDF)
-* [Cheat Sheets](https://docs.dyalog.com/#CHEAT) - Dyalog (PDF)
 * [ReferenceCard](https://docs.dyalog.com/latest/ReferenceCard.pdf) - Dyalog (PDF)
 
 
@@ -125,7 +124,6 @@
 ### <a id="csharp"></a>C\#
 
 * [C# ASP.NET Roadmap](https://roadmap.sh/aspnet-core) - Roadmap.sh (HTML)
-* [C# Cheat Sheet](https://simplecheatsheet.com/tag/c-cheat-sheet-1/) - Simple Cheat Sheet (HTML)
 * [C# Cheat Sheet](https://www.thecodingguys.net/resources/cs-cheat-sheet.pdf) - THECODINGGUYS (PDF)
 * [C# Cheat Sheet](https://zerotomastery.io/cheatsheets/csharp-cheat-sheet/) - ZeroToMaster.io (HTML/PDF)
 
@@ -156,7 +154,6 @@
 
 * [Dart Cheatsheet](https://quickref.me/dart) - Quickref.me (HTML)
 * [Dart Cheatsheet](https://dart.dev/codelabs/dart-cheatsheet) - Codelabs (HTML)
-* [Dart Cheatsheet](https://simplecheatsheet.com/tag/dart-cheat-sheet/#site-header) - Simplecheatsheet.com (HTML)
 * [Dart Quick Reference](https://koenig-media.raywenderlich.com/uploads/2019/08/RW-Dart-Cheatsheet-1.0.2.pdf) - Koenig-media.raywenderlich.com (PDF)
 
 
@@ -220,11 +217,9 @@
 * [Docker CLI \& Dockerfile Cheat Sheet](https://web.archive.org/web/20210909015922/https://design.jboss.org/redhatdeveloper/marketing/docker_cheatsheet/cheatsheet/images/docker_cheatsheet_r3v2.pdf) - Bachir Chihani, Rafael Benevides, Red Hat Developers (PDF) *( :card_file_box: archived)*
 * [Docker CLI cheatsheet](https://devhints.io/docker) - DevHints, Rico Santa Cruz (HTML)
 * [Docker Compose Cheatsheet](https://devhints.io/docker-compose) - DevHints (HTML)
-* [Docker Free Cheatsheet](https://cheatsheet.dennyzhang.com/cheatsheet-docker-a4) - Denny Zhang (HTML, PDF)
 * [Docker Security Best Practices & Cheat Sheet](https://blog.gitguardian.com/how-to-improve-your-docker-containers-security-cheat-sheet/) - Thomas Segura, GitGuardian (HTML, PDF)
 * [Docker Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html) - OWASP Cheat Sheet Series (HTML)
 * [Dockerfile Cheat Sheet - Kapeli](https://kapeli.com/cheat_sheets/Dockerfile.docset/Contents/Resources/Documents/index) - Bogdan Popescu, Halprin (HTML)
-* [Dockerfiles y docker-compose.yml: buenas prácticas (:es:)](https://leanmind.es/docker-cheatsheet.pdf) - Yodra Lopez Herrera, LeanMind (PDF)
 * [The Definitive Docker Cheat Sheet](http://dockercheatsheet.painlessdocker.com) - Aymen EL Amri (HTML)
 * [The Ultimate Docker Cheat Sheet](https://dockerlabs.collabnix.com/docker/cheatsheet/) - Sangam Biradar, Collabnix DockerLabs (HTML)
 
@@ -286,7 +281,6 @@
 
 * [GraphQL Cheat Sheet](https://licor.me/post/graphql) - Chuanrong Li (HTML)
 * [GraphQL Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/GraphQL_Cheat_Sheet.html) - Jim Manico, Jakub Maćkowski (HTML)
-* [GraphQL Cheat Sheet](https://simplecheatsheet.com/tag/graphql-cheat-sheet) - Simple Cheat Sheet (HTML)
 * [GraphQL Cheatsheet](https://devhints.io/graphql) - devhints, Rico Santa Cruz (HTML)
 
 
@@ -415,7 +409,6 @@
 
 #### Svelte
 
-* [Svelte Cheatsheet](https://devhints.io/svelte) - devhints, Rico Santa Cruz (HTML)
 * [Svelte Quick Reference](https://svelte.dev/docs/svelte/overview) - Svelte (HTML)
 
 
@@ -464,7 +457,6 @@
 
 ### MATLAB
 
-* [MATLAB Basic Functions Reference Sheet](https://www.mathworks.com/content/dam/mathworks/fact-sheet/matlab-basic-functions-reference.pdf) - MathWorks (PDF)
 * [Matlab Cheat Sheet](https://sites.nd.edu/gfu/files/2019/07/cheatsheet.pdf) - Thor Nielsen (PDF)
 * [Matlab Cheat Sheet](https://www.egr.msu.edu/aesc210/systems/MatlabCheatSheet.pdf) (PDF)
 
@@ -476,11 +468,6 @@
 * [Quick Cheat Sheet for Mongo DB Shell commands](https://gist.github.com/michaeltreat/d3bdc989b54cff969df86484e091fd0c) - Michael Treat's Quick Cheat Sheet (GitHub Gist)
 
 
-### Redis
-
-* [Redis Quick Reference](https://lzone.de/cheat-sheet/Redis) - Jens Erat (HTML)
-
-
 ### Octave
 
 * [Octave Cheat Sheet](https://www.lehman.edu/academics/cmacs/documents/refcard-a4.pdf) - John W. Eaton (PDF)
@@ -490,6 +477,11 @@
 
 * [Perl Cheat Sheet](https://www.pcwdld.com/perl-cheat-sheet) - Hitesh J (HTML)
 * [Perl Reference card](https://michaelgoerz.net/refcards/perl_refcard.pdf) (PDF)
+
+
+### Redis
+
+* [Redis Cheat Sheet](https://redis.io/docs/latest/develop/connect/clients/cheat-sheets/) - Redis (HTML)
 
 
 ### PHP
@@ -583,7 +575,6 @@
 
 * [Deep Learning with PyTorch Cheat Sheet](https://www.datacamp.com/cheat-sheet/deep-learning-with-py-torch) - Richie Cotton (HTML)
 * [PyTorch Cheat Sheet](https://zerotomastery.io/cheatsheets/pytorch-cheat-sheet/) - ZeroToMastery (HTML)
-* [PyTorch Framework Cheat Sheet](https://www.simonwenkel.com/publications/cheatsheets/pdf/cheatsheet_pytorch.pdf) - Simon Wenkel (PDF)
 * [PyTorch Official Cheat Sheet](https://pytorch.org/tutorials/beginner/ptcheat.html) - PyTorch (HTML)
 
 
@@ -600,7 +591,6 @@
 ### Raspberry Pi
 
 * [Basic GPIO layout configuration cheatsheet](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/robot/cheat_sheet/) - University of Cambridge Computer Laboratory Raspberry Pi Projects Cheatsheet (PDF)
-* [Other Raspberry Pi Commands cheatsheet](https://www.raspberrypistarterkits.com/wp-content/uploads/2018/01/raspberry-pi-commands-cheat-sheet.pdf) - RPi starter Kit (PDF)
 * [Raspberry Pi Different GPIO Configuration Combinations cheatsheet](https://static.raspberrypi.org/files/education/posters/GPIO_Zero_Cheatsheet.pdf) - GPIO Zero Cheatsheet (PDF)
 * [Top 50 General Commands for Raspberry Pi cheatsheet](https://projects-raspberry.com/wp-content/uploads/2018/05/Top-50-Raspberry-pi-commands-List-cheat-sheet.pdf) - Projects Raspberry (PDF)
 
@@ -627,7 +617,6 @@
 
 ### Shell Scripting
 
-* [Bash Cheatsheet - CheatSheet.Wtf](https://www.cheatsheet.wtf/bash) - smokingcuke (HTML)
 * [Bash Scripting cheatsheet](https://devhints.io/bash) Devhints (HTML)
 * [Cron Cheatsheet](https://devhints.io/cron) - DevHints, Rico Santa Cruz (HTML)
 * [Fish Shell cheatsheet](https://devhints.io/fish-shell) - DevHints, Rico Santa Cruz (HTML)

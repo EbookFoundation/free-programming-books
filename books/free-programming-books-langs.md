@@ -857,7 +857,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Fullstack GraphQL](https://github.com/GraphQLCollege/fullstack-graphql) (CC BY-NC-SA)
 * [GraphQL and Android](https://commonsware.com/GraphQL/GraphQL-0.1-CC.pdf) - Mack L. Murphy (PDF)
 * [GraphQL or Bust](https://nordicapis.com/wp-content/uploads/GraphQL-or-Bust-v2.2.pdf) - Nordic APIs (PDF)
-* [Learning graphqL](https://riptutorial.com/Download/graphql.pdf) - Compiled from StackOverflow Documentation (PDF)  (CC BY-SA)
+* [Learning graphqL](https://riptutorial.com/Download/graphql.pdf) - Compiled from StackOverflow Documentation (PDF) (CC BY-SA)
 
 
 #### Gremlin

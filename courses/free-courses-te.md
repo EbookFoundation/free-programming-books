@@ -165,7 +165,7 @@
 * [JAVA SCRIPT FOR BEGINNERS IN 7 HOURS \|\| LEARN JAVA SCRIPT IN 7 HOURS \|\| JAVA SCRIPT](https://www.youtube.com/watch?v=BTuCzffKh8E) - Sundeep Saradhi Kanthety
 * [JavaScript in Telugu \|\| JavaScript in Telugu by Kotha Abhishek](https://www.youtube.com/playlist?list=PLv_sM9ZH4RUW_Pgz-6B0Q-YTfWvC7RVFN) - Chintu Tutorials
 * [Javascript Full Course In Telugu For Beginners To Pro](https://www.youtube.com/playlist?list=PLpp0qTynBRqlfMUd_-A65HQ8gAZ-evWLR) - Deekshitha Tech Talks
-* [JAVASCRIPT FULL COURSE IN TELUGU](https://www.youtube.com/playlist?list=PLD7HLs2NCdoU7aqlOpVrkBOU8EEzkMEnE) - College Coders
+* [JavaScript Full Course In Telugu](https://www.youtube.com/playlist?list=PLD7HLs2NCdoU7aqlOpVrkBOU8EEzkMEnE) - College Coders
 
 
 #### ExpressJS

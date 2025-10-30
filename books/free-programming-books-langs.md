@@ -1392,7 +1392,7 @@ Books on general-purpose programming that don't focus on a specific language are
     * [React Tutorial - Part 3](http://www.joshfinnie.com/blog/reactjs-tutorial-part-3/) - Josh Finnie
 * [React with ASP.NET Core Tutorial](https://reactjs.net/getting-started/aspnetcore.html)
 * [React.js Tutorial: Now is Your Time to Try It, Right in Your Browser](https://codegeekz.com/react-js-tutorial/)
-* [Redux Tutorial](https://www.tutorialspoint.com/redux/) - Tutorial Point (HTML, PDF)
+* [Redux Tutorial](https://www.tutorialspoint.com/redux/) - Tutorials Point (HTML, PDF)
 * [SurviveJS - Webpack and React](http://survivejs.com)
 * [The React Beginner's Handbook](https://flaviocopes.com/page/react-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
 
@@ -1843,6 +1843,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [PHP Programming](https://en.wikibooks.org/wiki/PHP_Programming) - Wikibooks
 * [PHP Reference: Beginner to Intermediate PHP5](https://phpreferencebook.com/pdf/download/) - Mario Lurig (PDF)
 * [PHP: The Right Way](http://www.phptherightway.com)
+* [PHP Tutorial](https://www.tutorialspoint.com/php/) - Tutorials Point (HTML, PDF)
 * [Practical PHP Programming](http://www.hackingwithphp.com)
 * [Practical PHP Testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
 * [Survive The Deep End: PHP Security](https://phpsecurity.readthedocs.org/en/latest/)
@@ -2452,7 +2453,6 @@ Books on general-purpose programming that don't focus on a specific language are
 ### Scilab
 
 * [Introduction to Scilab](http://forge.scilab.org/index.php/p/docintrotoscilab/downloads/)
-* [PHP tutorial](https://www.tutorialspoint.com/php/) - Tutorialspoint
 * [Programming in Scilab](http://forge.scilab.org/index.php/p/docprogscilab/downloads/)
 * [Writing Scilab Extensions](http://forge.scilab.org/index.php/p/docsciextensions/downloads/)
 

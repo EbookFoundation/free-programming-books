@@ -263,7 +263,9 @@
 * [Aml-2018 Ambient Intelligence](https://www.youtube.com/playlist?list=PLqRTLlwsxDL8fUcY2Y54sITILyJcTySpC) - Fulvio Corno, Luigi De Russis, Alberto Monge Roffarello @ Politecnico di Torino
 * [Artificial Intelligence on Google Cloud Platform](https://www.youtube.com/playlist?list=PL3N9eeOlCrP6Nhv4UFp67IsQ_TVDpXqXK) - Srivatsan Srinivasan @ AIEngineering
 * [Artificial Intelligence Search Methods For Problem Solving](https://www.youtube.com/playlist?list=PLbMVogVj5nJSFZoiF6RDqyz_m6Srjx_MY) - nptelhrd
+* [Augment your LLM Using Retrieval Augmented Generation](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-16+V1) - NVIDIA Deep Learning Institute
 * [AWS Certified AI Practitioner (AIF-C01)](https://www.youtube.com/watch?v=WZeZZ8_W-M4) - Andrew Brown (FreeCodeCamp)
+* [Building RAG Agents with LLMs](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-15+V1) - NVIDIA Deep Learning Institute **FREE FOR A LIMITED TIME**
 * [Community Computer Vision Course](https://huggingface.co/learn/computer-vision-course) - Hugging Face
 * [CS50’s Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/) - Brian Yu, David J. Malan (Harvard OpenCourseWare and edX)
 * [Deep Reinforcement Learning Course](https://huggingface.co/learn/deep-rl-course) - Hugging Face
@@ -289,10 +291,12 @@
 * [CS236: Deep Generative Models](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8) - Stefano Ermon (Stanford Online)
 * [Deep Generative Models](https://www.youtube.com/playlist?list=PL2UML_KCiC0UPzjW9BjO-IW6dqliu9O4B) - Volodymyr Kuleshov
 * [Foundation Models and Generative AI](https://ocw.mit.edu/courses/6-s087-foundation-models-and-generative-ai-january-iap-2024) - Rickard Gabrielsson (MIT OpenCourseWare)
+* [Generative AI Explained](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-07+V1) - NVIDIA Deep Learning Institute
 * [Generative AI for Beginners](https://microsoft.github.io/generative-ai-for-beginners/) - Microsoft
 * [Generative AI for Beginners - Java Edition](https://github.com/microsoft/Generative-AI-for-beginners-java) - Microsoft
 * [Generative AI for Beginners (.NET Edition)](https://github.com/microsoft/Generative-AI-for-beginners-dotnet) - Microsoft (GitHub)
-* [Generative AI for beginners with JavaScript](https://github.com/microsoft/generative-ai-with-javascript) - Microsoft (Github)
+* [Generative AI for beginners with JavaScript](https://github.com/microsoft/generative-ai-with-javascript) - Microsoft (GitHub)
+* [Getting Started with NVIDIA Tools for Generative AI in Digital Health](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-HX-03+V1) - NVIDIA Deep Learning Institute
 * [Intro to Generative AI](https://www.codecademy.com/learn/intro-to-generative-ai) - Codecademy
 * [LangChain & Vector Databases in Production](https://learn.activeloop.ai/courses/langchain) - Activeloop *(account required)*
 * [LangChain for LLM Application Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development) - Harrison Chase, Andrew Ng (DeepLearning.AI)
@@ -358,6 +362,7 @@
 * [Build an IoT Blockchain Network for a Supply Chain](https://cognitiveclass.ai/courses/blockchain-iot-node-red-food-network) - CognitiveClass.ai
 * [Build and Deploy Your First Decentralized App with Etherem](https://www.udemy.com/course/your-first-decentralized-app/) - Gary Simon (Udemy)
 * [CryptoZombies.io](https://cryptozombies.io) - CleverFlare, Loom Network
+* [Decentralized AI at Scale with NVIDIA Flare](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-29+V1) - NVIDIA Deep Learning Institute
 * [Ethereum Developer Bootcamp](https://www.alchemy.com/university/courses/ethereum) - Alchemy University
 * [Flow Course](https://learnweb3.io/courses/flow-course) - LearnWeb3
 * [Free Blockchain Development Courses](https://www.youtube.com/playlist?list=PLS5SEs8ZftgUNcUVXtn2KXiE1Ui9B5UrY) - Dapp University
@@ -444,6 +449,7 @@
 ### Cloud Computing
 
 * [A Practical Introduction to Cloud Computing](https://www.udemy.com/course/introduction-cloud-computing/) - Neil Anderson
+* [Building AI-Powered Material Generation for Omniverse With DGX Cloud](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-53+V1) - NVIDIA Deep Learning Institute
 * [Cloud Computing (CC)](https://www.youtube.com/playlist?list=PLROvODCYkEM8xUk8R2T79KbZ7YfCXMbZS) - OU Education
 * [Cloud Computing and Development](https://uaceit.com/courses/cloud-computing-and-development) - Ashwin Kumar Ramaswamy (UAceIt) (email address *required*)
 * [Cloud Computing Full Course In 11 Hours \| Cloud Computing Tutorial For Beginners](https://www.youtube.com/watch?v=2LaAJq1lB1Q) - Edureka!
@@ -514,6 +520,7 @@
 * [CS50's Introduction to Computer Science](https://cs50.harvard.edu/x/) - David J. Malan (Harvard OpenCourseWare and edX)
 * [Design of Computer Programs](https://www.udacity.com/course/design-of-computer-programs--cs212) - Peter Norvig (Udacity)
 * [Discrete Mathematics for Computer Science Specialization](https://www.youtube.com/playlist?list=PLtS8Ubq2bIlXO4qEM5BOsBy6xWQNVFu8l) - My Lesson
+* [How to Build a Native OpenUSD XR Application](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-12+V1) - NVIDIA Deep Learning Institute
 * [Introduction to Augmented Reality and ARCore](https://www.coursera.org/learn/ar) - Daydream
 * [LouvainX Paradigms of Computer Programming – Abstraction and Concurrency](https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-2x-1#!)
 * [LouvainX Paradigms of Computer Programming – Fundamentals](https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-1x-1)
@@ -534,6 +541,7 @@
 
 ### Cuda
 
+* [An Even Easier Introduction to CUDA](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+T-AC-01+V1) - NVIDIA Deep Learning Institute
 * [CUDA Crash Course](https://www.youtube.com/playlist?list=PLxNPSjHT5qvtYRVdNN1yDcdSl39uHV_sU) - CoffeeBeforeArch
 * [CUDA Programming Course -- Parallel Computing using Nvidia GPUs](https://www.youtube.com/playlist?list=PL1ysOEBe5977vlocXuRt6KBCYu_sdu1Ru) - Learn Computer Science
 * [CUDA Programming Course – High-Performance Computing with GPUs](https://www.youtube.com/watch?v=86FAWCzIe_4&t=2s) - Elliot Arledge (FreeCodeCamp)
@@ -561,6 +569,7 @@
 
 ### Data Science
 
+* [Accelerate Data Science Workflows with Zero Code Changes](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+T-DS-03+V1) - NVIDIA Deep Learning Institute
 * [Advanced Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/advanceddataminingwithweka/)
 * [An Introduction to Data Science](https://www.udemy.com/course/an-introduction-to-data-science/)
 * [Apache Airflow Tutorials](https://www.youtube.com/playlist?list=PLYizQ5FvN6pvIOcOd6dFZu3lQqc6zBGp2) - Tuan Vu
@@ -590,6 +599,7 @@
 * [Introduction to Data Science](https://www.simplilearn.com/data-science-free-course-for-beginners-skillup) - SkillUp by Simplilearn
 * [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) - Christopher Brooks (Coursera)
 * [Introduction to Data Science with python](https://www.edx.org/learn/data-science/harvard-university-introduction-to-data-science-with-python) - Pavlos Protopapas (edX HarvardX)
+* [Introduction to Federated Learning with NVIDIA FLARE](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-28+V1) - NVIDIA Deep Learning Institute
 * [Learn Data Science Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=ua-CiDNNj30) - Barton Poulson (FreeCodeCamp.org)
 * [MIT's Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/) - Eric Grimson, John Guttag, Ana Bell (MIT OpenCourseWare)
 * [More Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/moredataminingwithweka/)
@@ -649,6 +659,8 @@
 ### Deep Learning
 
 * [Advanced NLP using spaCy](https://course.spacy.io) - Ines Montani
+* [Build a Deep Research Agent](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-40+V1) - NVIDIA Deep Learning Institute
+* [Building A Brain in 10 Minutes](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+T-FX-01+V1) - NVIDIA Deep Learning Institute
 * [Complete Deep Learning](https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi) - Krish Naik
 * [Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io)
 * [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu)
@@ -1460,11 +1472,20 @@
 ### Misc
 
 * [Advanced Adobe XD (Web Design)](https://webdesign.tutsplus.com/courses/advanced-adobe-xd-for-everyone) - Adi Purdila
-* [Computer Graphics](http://nptel.ac.in/courses/106106090/)
+* [An Introduction to Developing With NVIDIA Omniverse](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-11+V1) - NVIDIA Deep Learning Institute
+* [Assembling Your First Digital Twin With Omniverse and OpenUSD](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-49+V1) - NVIDIA Deep Learning Institute
+* [Computer Graphics](http://nptel.ac.in/courses/106106090/) 
+* [Creating an Omniverse Extension With Python](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-16+V1) - NVIDIA Deep Learning Institute
+* [Develop, Customize, and Publish in Omniverse With Extensions](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-02+V1) - NVIDIA Deep Learning Institute
+* [Extend Omniverse Kit Applications for Building Digital Twins](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-13+V1) - NVIDIA Deep Learning Institute
 * [FindLectures.com](https://web.archive.org/web/20161219180842/https://www.findlectures.com/?class1=Technology) - Index of conference talks by language / topic ( :card_file_box: *archived*)
+* [Fundamentals of Working With OpenUSD](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-15+V1) - NVIDIA Deep Learning Institute
+* [Getting Started with AI on Jetson Nano](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-RX-02+V2) - NVIDIA Deep Learning Institute
+* [Introduction to NVIDIA NIM™ Microservices](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-23+V1) - NVIDIA Deep Learning Institute
 * [Introduction to Quantum Computing and Quantum Hardware](https://qiskit.org/learn/intro-qc-qh) - Qiskit
 * [Introduction to Reinforcement Learning with David Silver](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver) - David Silver
 * [MIT Numerical Methods (2014)](http://www.iitg.ernet.in/kartha/CE601-14/CourseSchedule.htm)
+* [Streamlining Drug Discovery with NVIDIA BioNeMo NIM Microservices and Blueprints](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-HX-04+V1) - NVIDIA Deep Learning Institute
 * [The Art of Code - Dylan Beattie](https://www.youtube.com/watch?v=6avJHaC3C2U) - Dylan Beattie
 
 
@@ -1544,13 +1565,14 @@
 
 ### PLC - Programmable logic controllers
 
-* [Learning motion control and IO with Beckhoff TwinCAT PLCs](https://www.youtube.com/playlist?list=PLE1CU6EebvTD29gsHo1djsKU7J5Dtp0Bn) - Evan Jensen
+* [Learning motion control and IO with Beckhoff TwinCdAT PLCs](https://www.youtube.com/playlist?list=PLE1CU6EebvTD29gsHo1djsKU7J5Dtp0Bn) - Evan Jensen
 * [Learning PLCs with Structured Text](https://www.youtube.com/playlist?list=PLE1CU6EebvTCJCMIUOSWgMseMaW-2k5zH) - Evan Jensen
 * [PLC programming using TwinCAT 3](https://www.youtube.com/playlist?list=PLimaF0nZKYHz3I3kFP4myaAYjmYk1SowO) - Jakob Sagatowski
 
 
 ### Processing
 
+* [Disaster Risk Monitoring Using Satellite Imagery](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-ES-01+V1) - NVIDIA Deep Learning Institute
 * [Learning Processing: A Beginner's Guide to Programming Images, Animation, and Interaction](https://thecodingtrain.com/tracks/learning-processing) - The Coding Train
 
 
@@ -1571,6 +1593,7 @@
 * [Getting Started with Python for Data Science](https://www.codecademy.com/learn/getting-started-with-python-for-data-science) - Codecademy
 * [Google's Python Course](https://developers.google.com/edu/python/)
 * [Introduction to Computer Science and Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/) (MIT's opencourseware)
+* [Introduction to Multi-Modal Data Curation](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-FX-27+V1) - NVIDIA Deep Learning Institute
 * [Introduction to Python](https://docs.microsoft.com/en-us/learn/modules/intro-to-python) (Microsoft Docs)
 * [Introduction to Python Basics for Data Science](https://dphi.tech/learn/introduction-to-python-basics-for-data-science) (DPhi)
 * [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110) (Udacity)
@@ -1694,9 +1717,23 @@
 
 ### Robotics
 
+* [A Beginner's Guide to Autonomous Robots](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-35+V1) - NVIDIA Deep Learning Institute
+* [An Introduction to AI-Based Robot Development With Isaac ROS](http://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-34+V1) - NVIDIA Deep Learning Institute
+* [An Introduction to Robot Learning and Isaac Lab](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-36+V1) - NVIDIA Deep Learning Institute
+* [Develop, Simulate, and Deploy Robot Intelligence With Scaled Foundations](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-38+V1) - NVIDIA Deep Learning Institute
+* [Developing Robots With Software-in-the-Loop (SIL) In Isaac Sim](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-31+V1) - NVIDIA Deep Learning Institute
 * [Free Robotics Course For School Students Certified Course By Coding Blocks Junior](https://youtube.com/playlist?list=PLhLbJ9UoJCvtlCNamtuDay41AG0JhQBKU) - CodingBlocks Junior
+* [Generating High-Quality Motion Data for Robotics With MobilityGen](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-37+V1) - NVIDIA Deep Learning Institute
+* [Getting Started: Simulating Your First Robot in Isaac Sim](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-27+V1) - NVIDIA Deep Learning Institute
 * [Introduction to RTOS](https://www.youtube.com/playlist?list=PLEBQazB0HUyQ4hAPU1cJED6t3DU0h34bz) - Shawn Hymel, Digi-Key
+* [Leveraging ROS 2 and Hardware-in-the-Loop (HIL) in Isaac Sim](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-32+V1) - NVIDIA Deep Learning Institute
 * [Robotics 1](https://www.youtube.com/playlist?list=PLAQopGWlIcyaqDBW1zSKx7lHfVcOmWSWt) - A. De Luca
+* [Software-in-the-Loop Testing for Robots With OpenUSD, Isaac Sim, and ROS](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-39+V1) - NVIDIA Deep Learning Institute
+* [Synthetic Data Generation for Perception Model Training in Isaac Sim](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-30+V1) - NVIDIA Deep Learning Institute
+* [Train Your First Robot in Isaac Lab](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-46+V1) - NVIDIA Deep Learning Institute
+* [Train Your Second Robot in Isaac Lab](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-47+V1) - NVIDIA Deep Learning Institute
+* [Training Healthcare Robotics From Scratch Using Isaac for Healthcare](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-52+V1) - NVIDIA Deep Learning Institute
+* [Transferring Robot Learning Policies From Simulation to Reality](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-28+V1) - NVIDIA Deep Learning Institute
 
 
 ### Ruby

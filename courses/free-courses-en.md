@@ -863,7 +863,7 @@
 
 ### Graph Theory
 
-* [An Introduction to Graph Theory](https://www.youtube.com/playlist?list=PLGxuz-nmYlQOiIOriTXMEoGoybUC3Jmrn) - Dr. Sarada Herke (YouTube)
+* [Graph Theory part-1](https://www.youtube.com/playlist?list=PLGxuz-nmYlQOiIOriTXMEoGoybUC3Jmrn) - Sarada Herke
 * [Graph Theory](https://www.youtube.com/playlist?list=PLZ6w_oR8t_Pw4P3t5be9WMhj1ISH7yFWI) - Soumen Maity (Graph Theory)
 * [Graph Theory](https://www.youtube.com/playlist?list=PLztBpqftvzxXBhbYxoaZJmnZF6AUQr1mH) - Wrath of Math
 * [Graph Theory](https://nptel.ac.in/courses/111106102) - Prof. Soumen Maity (NPTEL)

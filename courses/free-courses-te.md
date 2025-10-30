@@ -74,6 +74,8 @@
 * [C Language in Telugu - Complete Tutorial in 12 Hours](https://www.youtube.com/watch?v=HdvRHC5TiwE) - Telugu Computer World
 * [C Language Tutorial](https://www.youtube.com/playlist?list=PL3KKfF5A0sSKZutcrUiTCQDX0hn7Tw61E) - Telugu Scit Tutorials
 * [C Language Tutorials](https://www.youtube.com/playlist?list=PLC2mgeYbYNm-n8Iz-_3MuNsJFzr0UlGUu) - Telugu Computer World
+* [C Language Full Course in Telugu](https://www.youtube.com/playlist?list=PLD7HLs2NCdoUiJir3Kqdqs6OX07oFdcgT) - College Coders
+* [C Programming](https://www.youtube.com/playlist?list=PLS8lzSv6JRJ0naiWKSsE15A2sPNufLat1) - Swaroop Talks
 
 
 ### <a id="cpp"></a>C++
@@ -112,6 +114,7 @@
 * [Data Structures in Telugu in 7hrs \| Full Course \| Learn Data Structures](https://www.youtube.com/watch?v=pm_ugbO2FlY) - Believer 01
 * [Data Structures](https://www.youtube.com/playlist?list=PLJSrGkRNEDAgmq4kKkPuh8aFJs-zxVbWK) - Lab Mug
 * [Java + DSA Course From scratch in Telugu](https://www.youtube.com/playlist?list=PLjzLBp9HHZWhVXBSPS1VqxXXDoVk07gd9) - engineering animuthyam
+* [PYTHON + DSA in Telugu For Free](https://www.youtube.com/playlist?list=PLjzLBp9HHZWiJrhfJzTAEbwdpQIfUXtwP) - engineering animuthyam
 
 
 ### Docker
@@ -123,6 +126,7 @@
 
 * [Complete Ethical Hacking Course in Telugu \|\| Tech Cookie](https://www.youtube.com/watch?v=96_znX8_4Mg) - Tech Cookie
 * [Ethical Hacking Tutorial in Telugu \| Ethical Hacking Course \| Edureka Telugu](https://www.youtube.com/watch?v=C5ig8YxRHUM) - edureka! Telugu
+* [Ethical Hacking and Cybersecurity](https://www.youtube.com/playlist?list=PLEeX7rNQmSN1SVzjuNcMWYLmKidFfqC0r) - ACEP Tech in Telugu
 
 
 ### HTML and CSS
@@ -131,6 +135,7 @@
 * [HTML in Telugu \|\| HTML in Telugu by Kotha Abhishek](https://www.youtube.com/playlist?list=PLv_sM9ZH4RUWkdiiILVHnNZUsOr2DBS7S) - Chintu Tutorials
 * [CSS Tutorial for Beginners in Telugu \| Best CSS tutorial for beginners \| CSS3 Tutorial \| TechEnlgiht](https://www.youtube.com/watch?v=z7_gt7x6XAM) - TECH ENLIGHT
 * [CSS Tutorials in telugu \|\| CSS in Telugu by Kotha Abhishek](https://www.youtube.com/playlist?list=PLv_sM9ZH4RUVjmxTl5PysFSxJ6VQbdnRc) - Chintu Tutorials
+* [CSS Course](https://www.youtube.com/playlist?list=PLMVcNCMUfcCHbRJwgH4VdEIAosKVLxJ1p) - PurnaChandra Bandaru
 
 
 ### <a id="ds"></a>Data Structures
@@ -160,6 +165,7 @@
 * [JAVA SCRIPT FOR BEGINNERS IN 7 HOURS \|\| LEARN JAVA SCRIPT IN 7 HOURS \|\| JAVA SCRIPT](https://www.youtube.com/watch?v=BTuCzffKh8E) - Sundeep Saradhi Kanthety
 * [JavaScript in Telugu \|\| JavaScript in Telugu by Kotha Abhishek](https://www.youtube.com/playlist?list=PLv_sM9ZH4RUW_Pgz-6B0Q-YTfWvC7RVFN) - Chintu Tutorials
 * [Javascript Full Course In Telugu For Beginners To Pro](https://www.youtube.com/playlist?list=PLpp0qTynBRqlfMUd_-A65HQ8gAZ-evWLR) - Deekshitha Tech Talks
+* [JavaScript Full Course In Telugu](https://www.youtube.com/playlist?list=PLD7HLs2NCdoU7aqlOpVrkBOU8EEzkMEnE) - College Coders
 
 
 #### ExpressJS
@@ -185,6 +191,7 @@
 * [React JS In Telugu](https://www.youtube.com/watch?v=1r79Eqw6tfg) - Telugu Skillhub
 * [React JS In Telugu (Playlist)](https://www.youtube.com/playlist?list=PLWnZ0qt0PImVaDkDbF96dnRGO0_lXVLKf) - Telugu Skillhub
 * [React Js Tutorials in Telugu](https://www.youtube.com/playlist?list=PLzdWZT-ZJD0-806wl_diOtzcMS8SYTzq3) - CS World Telugu
+* [React - Full Course Telugu](https://www.youtube.com/playlist?list=PLW_lUetpZclcrR9JGkAJ3hjhix0UoLFz7) - TechZoom Media
 
 
 #### VueJS

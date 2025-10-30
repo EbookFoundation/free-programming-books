@@ -797,6 +797,7 @@
 * [Fortran Programming Tutorials (Revised)](https://youtube.com/playlist?list=PLNmACol6lYY5_S8I4K29V2oI95nOCzQU8) - Fluidic Colours
 * [Fortran Tutorial](https://www.youtube.com/watch?v=__2UgFNYgf8) - Derek Banas
 * [Fortran Tutorial](https://www.youtube.com/playlist?list=PLlN_VAm6znTLUlWobSsMPjgiIgcPnVkQp) - Any Learn Nepal
+* [FORTRAN Tutorials Series for Beginners](https://www.youtube.com/playlist?list=PLEUWOGLuqAyW03voorKM06F2_QF8TlcNu) - Rameshwar Ingalkar
 * [Fortran Video Tutorials](https://www.youtube.com/playlist?list=PLvkU6i2iQ2fprrVmmkNP_V36mh0BMnS5L) - Cyprien Rusu
 
 
@@ -880,6 +881,7 @@
 * [Graph Theory](https://www.youtube.com/playlist?list=PLztBpqftvzxXBhbYxoaZJmnZF6AUQr1mH) - Wrath of Math
 * [Graph Theory](https://nptel.ac.in/courses/111106102) - Prof. Soumen Maity (NPTEL)
 * [Graph Theory - DM](https://www.youtube.com/playlist?list=PLYrahs7hsYIQiSNxTfZndQz7jWPXsA1ur) - SCCI Labs IIT Ropar
+* [Graph Theory part-1](https://www.youtube.com/playlist?list=PLGxuz-nmYlQOiIOriTXMEoGoybUC3Jmrn) - Sarada Herke
 * [Graph Theory Playlist](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P) - WilliamFiset
 
 
@@ -1776,6 +1778,7 @@
 
 * [Learn Spark](https://www.udacity.com/course/learn-spark-at-udacity--ud2002) - David Drummond, Judit Lantos (Udacity)
 * [PySpark - Zero to Hero \| PySpark Tutorial 2025 \| Spark Tutorial 2025 \| Learn from Basics to Advanced Performance Optimization](https://www.youtube.com/playlist?list=PL2IsFZBGM_IHCl9zhRVC1EXTomkEp_1zm) - Ease With Data
+* [PySpark Tutorial - Full Course](https://www.youtube.com/watch?v=_C8kWso4ne4) - freeCodeCamp.org
 * [Spark Tutorial \| Spark Tutorial for Beginners \| Apache Spark Full Course - Learn Apache Spark 2020](https://www.youtube.com/watch?v=zC9cnh8rJd0) - Great Learning
 
 

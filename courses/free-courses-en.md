@@ -1619,8 +1619,8 @@
 * [Python Built in Functions A to Z Tutorial and Examples](https://www.youtube.com/playlist?list=PLrJGwAG1U62RW_hGGnk7xXG0LciHkT54X) - Brainy Things
 * [Python Course](https://www.python-course.eu)
 * [Python Course from scratch](https://scrimba.com/playlist/pNpZMAB) - Olaf Paulson (scrimba)
-* [Python Data Analysis](https://www.coursera.org/learn/python-analysis) - Scott Rixner, Joe Warren (Coursera)
 * [Pyhton Essentials 1](https://www.netacad.com/courses/python-essentials-1?courseLang=en-US) - Cisco Networking Acadamy
+* [Python Data Analysis](https://www.coursera.org/learn/python-analysis) - Scott Rixner, Joe Warren (Coursera)
 * [Python Essentials 1](https://edube.org/study/pe1) (Edube Interactive)
 * [Python for Beginners](https://alison.com/course/python-for-beginners) - Merul Dhiman (Alison)
 * [Python for Beginners](https://opencv.org/university/python-for-beginners/) - OpenCV University

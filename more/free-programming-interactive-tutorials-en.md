@@ -177,6 +177,7 @@
 * [Go Koans](https://github.com/cdarwin/go-koans)
 * [Go Tutorial](https://www.w3schools.com/go/) - W3Schools
 * [Learn Go](https://www.codecademy.com/learn/learn-go) - Google, Robert Griesemer, Rob Pike, and Ken Thompson (Codecademy) *(account required)*
+* [Learn Go Full Course](https://www.boot.dev/courses/learn-golang) - Boot.dev
 * [Start using Go](https://docs.microsoft.com/en-us/learn/paths/go-first-steps/) - Microsoft
 * [TCP Servers in Go](https://app.codecrafters.io/concepts/go-tcp-server) - CodeCrafters
 * [The Go Tutorial](http://tour.golang.org)

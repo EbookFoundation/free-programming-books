@@ -1580,7 +1580,6 @@
 
 ### Python
 
-
 * [An Introduction to Interactive Programming in Python (Part 1)](https://www.coursera.org/learn/interactive-python-1) (Coursera)
 * [An Introduction to Interactive Programming in Python (Part 2)](https://www.coursera.org/learn/interactive-python-2) (Coursera)
 * [Pyhton Essentials 1](https://www.netacad.com/courses/python-essentials-1?courseLang=en-US) - Cisco Networking Acadamy

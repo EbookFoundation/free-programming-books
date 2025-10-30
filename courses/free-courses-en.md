@@ -1738,7 +1738,7 @@
 
 * [Learn Spark](https://www.udacity.com/course/learn-spark-at-udacity--ud2002) - David Drummond, Judit Lantos (Udacity)
 * [PySpark - Zero to Hero \| PySpark Tutorial 2025 \| Spark Tutorial 2025 \| Learn from Basics to Advanced Performance Optimization](https://www.youtube.com/playlist?list=PL2IsFZBGM_IHCl9zhRVC1EXTomkEp_1zm) - Ease With Data
-* [PySpark Tutorial - Full Course](https://www.youtube.com/watch?v=_C8kWso4ne4) - freeCodeCamp.org (YouTube)
+* [PySpark Tutorial - Full Course](https://www.youtube.com/watch?v=_C8kWso4ne4) - freeCodeCamp.org
 * [Spark Tutorial \| Spark Tutorial for Beginners \| Apache Spark Full Course - Learn Apache Spark 2020](https://www.youtube.com/watch?v=zC9cnh8rJd0) - Great Learning
 
 

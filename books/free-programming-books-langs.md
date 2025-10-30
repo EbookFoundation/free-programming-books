@@ -2141,8 +2141,8 @@ Books on general-purpose programming that don't focus on a specific language are
 
 #### FastAPI
 
-* [FastAPI — tiangolo (official docs)](https://fastapi.tiangolo.com/) — Official documentation and tutorial (free).
-* [FastAPI – Python Web Framework (Tutorialspoint)](https://tutorialspoint.com/fastapi/fastapi_tutorial.pdf) — Free PDF tutorial covering FastAPI basics and deployment.
+* [FastAPI – Python Web Framework (Tutorialspoint)](https://tutorialspoint.com/fastapi/fastapi_tutorial.pdf) — Free PDF tutorial covering FastAPI basics and deployment. (PDF)
+* [FastAPI — tiangolo (official docs)](https://fastapi.tiangolo.com) — Official documentation and tutorial (free).
 
 
 #### Flask

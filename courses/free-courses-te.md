@@ -76,11 +76,13 @@
 * [C Language Tutorials](https://www.youtube.com/playlist?list=PLC2mgeYbYNm-n8Iz-_3MuNsJFzr0UlGUu) - Telugu Computer World
 * [C Language Full Course in Telugu](https://www.youtube.com/playlist?list=PLD7HLs2NCdoUiJir3Kqdqs6OX07oFdcgT) - College Coders
 * [C Programming](https://www.youtube.com/playlist?list=PLS8lzSv6JRJ0naiWKSsE15A2sPNufLat1) - Swaroop Talks
+* [C language in Telugu](https://www.youtube.com/playlist?list=PLNgoFk5SYUgn5L4ocsA6FTvqKLSzp_8wF) - Vamsi Bhavani
 
 
 ### <a id="cpp"></a>C++
 
 * [C++ Complete Tutorial](https://www.youtube.com/watch?v=uZBXKmQH5u8) - Telugu Computer World
+* [C++ Course in Telugu : 25 Days Challenge](https://www.youtube.com/playlist?list=PLNgoFk5SYUglsFq6H2WkQODuzsQyyRrPl) - Vamsi Bhavani
 * [C++ Language Tutorials](https://www.youtube.com/playlist?list=PLC2mgeYbYNm9keJjsA95jKa4EUVLd7mQP) - Telugu Computer World
 * [C++ Programming in Telugu - Complete Tutorial in 14 Hours](https://www.youtube.com/playlist?list=PLC2mgeYbYNm9keJjsA95jKa4EUVLd7mQP) - Telugu Computer World
 

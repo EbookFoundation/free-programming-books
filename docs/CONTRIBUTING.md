@@ -1,37 +1,59 @@
-*[Read this in other languages](README.md#translations)*
+# How to contribute to Free Programming Books
 
-## Contributor License Agreement
+First off, thank you for considering contributing to Free Programming Books. It's people like you that make Free Programming Books such a great resource.
 
-By contributing, you agree to the [LICENSE](../LICENSE) of this repository.
+Following these guidelines helps to communicate that you respect the developers' time managing and developing this open source project. In return, they should reciprocate that respect in addressing your issue, assessing changes, and helping you finalize your pull requests.
 
-## Contributor Code of Conduct
+## Code of Conduct
 
-By contributing, you agree to respect the [Code of Conduct](CODE_OF_CONDUCT.md) of this repository. ([translations](README.md#translations))
+This project and everyone participating in it is governed by our [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [admin@ebookfoundation.org](mailto:admin@ebookfoundation.org).
 
-## In a nutshell
+## What should I know before I get started?
 
-1. "A link to easily download a book" is not always a link to a *free* book. Please only contribute free content. Make sure it's free. We do not accept links to pages that *require* working email addresses to obtain books, but we welcome listings that request them.
+Free Programming Books is an open source project – it's not a website or a web application. It's a collection of resources including documents, ebooks, and other learning materials compiled and organized in repositories.
 
-2. You don't have to know Git: if you found something of interest which is *not already in this repo*, please open an [Issue](https://github.com/EbookFoundation/free-programming-books/issues) with your links propositions.
-   - If you know Git, please Fork the repo and send Pull Requests (PR).
+### This community is built on these core principles:
 
-3. We have 6 kinds of lists. Choose the right one:
-   - *Books* : PDF, HTML, ePub, a gitbook.io based site, a Git repo, etc.
-   - *Courses* : A course is a learning material which is not a book. [This is a course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/).
-   - *Interactive Tutorials* : An interactive website which lets the user type code or commands and evaluates the result (by "evaluate" we don't mean "grade"). e.g.: [Try Haskell](http://tryhaskell.org), [Try Git](https://learngitbranching.js.org).
-   - *Playgrounds* : are online and interactive websites, games or desktop software for learning programming. Write, compile (or run), and share code snippets. Playgrounds often allow you to fork and get your hands dirty by playing with code.
-   - *Podcasts and Screencasts* : Podcasts and screencasts.
-   - *Problem Sets & Competitive Programming* : A website or software which lets you assess your programming skills by solving simple or complex problems, with or without code review, with or without comparing the results with other users.
+- **Open and collaborative**: We respect all contributions from the community
+- **No gatekeeping**: We try to keep the barrier to entry as low as possible
+- **Non-commercial**: Free Programming Books does not exist to make money
+- **Inclusive**: We do not discriminate based on experience, background, or identity
 
-4. Make sure to follow the [guidelines below](#guidelines) and respect the [Markdown formatting](#formatting) of the files.
+## How can I contribute?
 
-## Guidelines
+You can contribute by:
 
-- Make sure your are not duplicating content
-- HTTP links should be HTTPS when possible
-- Secure (`https`) URLs are always preferred over non-secure (`http`) URLs where HTTPS has been implemented.
-- in case of doubt, HTTPS links: <https://www.eff.org/https-everywhere> is a reliable ressource
-- We only accept CC licensed books; make sure that it is CC licensed if you add a book.
+- **Adding a book**: If you know of a free programming book, course, interactive tutorial, or other resource that is missing from our lists, please contribute it.
+- **Improving documentation**: If you see errors in the documentation, unclear explanations, or missing information, please fix it.
+- **Organizing and categorizing**: If you see that books aren't properly organized or categorized, please improve the organization.
+- **Translating**: If you speak another language, you can help translate the documentation and lists into that language.
+- **Reporting issues**: If you notice something wrong or think of a way to improve the project, please open an issue.
+
+### Guidelines
+
+1. Each list should be in a README file named after the category (e.g. `free-programming-books.md`).
+2. Files should be organized into appropriate directories. Generally, a good set of directories is:
+   - `books/` - for books
+   - `courses/` - for courses
+   - `interactive-tutorials/` - for interactive tutorials
+   - `podcasts/` - for podcasts
+   - `problem-sets-competitive-programming/` - for competitive programming resources
+   - `programming-playgrounds/` - for programming playgrounds
+3. Each entry must have:
+   - A clear title
+   - A link to the resource
+   - The author name (if applicable)
+   - The license type
+4. Entries must be in alphabetical order by title (case insensitive)
+5. Each entry must follow this format:
+
+```
+* [Book Title](http://example.com) - Author Name, Author Name - (CC License)
+```
+
+## What we're looking for
+
+- We only accept **CC licensed** books; make sure that it is CC licensed if you add a book.
   - Creative Commons licenses are not all the same, please be careful. We prefer licenses that grant permission for commercial use.
   - We also accept Public Domain licenses
   - **And what about other licenses?** See below:
@@ -59,9 +81,11 @@ The books list specifies a license via a license specifier.
 - Alphabetical order – check the A-Z
 - Format each entry like this:
 
-        * [Book Name](book_url) - Author Name, ..., Author Name - (CC) License
+```
+* [Book Name](book_url) - Author Name, ..., Author Name - (CC) License
+```
 
-_Please note that we've made significant efforts to notice entries that are not properly formated are not added. If your PR gets rejected, it might be a matter of formatting._
+_Please note that we've made significant efforts to notice entries that are not properly formatted are not added. If your PR gets rejected, it might be a matter of formatting._
 
 ### FORMATTING
 
@@ -91,47 +115,60 @@ If you run the RTL/LTR Markdown Linter (on `*-ar.md`, `*-he.md`, `*-fa_IR.md`, `
 #### Examples
 
 **BAD**
+
 ```html
-<div dir="rtl" markdown="1">
-* [كتاب الأمثلة في R](URL) - John Doe (PDF)
-</div>
+
 ```
 
 **GOOD**
+
 ```html
-<div dir="rtl" markdown="1">
-* [كتاب الأمثلة في R‏](URL) - John Doe‏ (PDF)
-</div>
+
 ```
 
 ---
 
 **BAD**
+
 ```html
-<div dir="rtl" markdown="1">
-* [Tech Podcast - بودكاست المثال](URL) – Ahmad Hasan, محمد علي
-</div>
+
 ```
 
 **GOOD**
+
 ```html
-<div dir="rtl" markdown="1">
-* [Tech Podcast - بودكاست المثال](URL) – Ahmad Hasan,‏ محمد علي
-</div>
+
 ```
 
 ---
 
 **BAD**
+
 ```html
-<div dir="rtl" markdown="1">
-* [أساسيات C#](URL)
-</div>
+
 ```
 
 **GOOD**
+
 ```html
-<div dir="rtl" markdown="1">
-* [أساسيات C#‎](URL)
-</div>
+
 ```
+
+## Pull Request Process
+
+1. Fork the repository.
+2. Create your feature branch (`git checkout -b my-new-feature`).
+3. Make your changes.
+4. Commit your changes (`git commit -am 'Add some feature'`).
+5. Push to the branch (`git push origin my-new-feature`).
+6. Create a new Pull Request.
+7. Before you submit your PR, make sure your changes follow the project's style guidelines, especially where formatting and code style are concerned.
+8. All pull requests must be signed off. The contributor must agree to the [Contributor License Agreement](../LICENSE) and [Code of Conduct](CODE_OF_CONDUCT.md).
+
+## Resources
+
+- [GitHub Help - Fork a Repository](https://help.github.com/articles/fork-a-repository/)
+- [GitHub Help - Using Pull Requests](https://help.github.com/articles/about-pull-requests/)
+- [GitHub Help - Merging a Pull Request](https://help.github.com/articles/merging-a-pull-request/)
+
+Thanks for helping us improve!

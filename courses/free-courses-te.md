@@ -155,7 +155,7 @@
 * [Core Java in Telugu Language](https://www.youtube.com/playlist?list=PLacgMXFs7kl8wrP2mPyJgsWVk-FP31qq1) - H Y R Tutorials
 * [Full Java Tutorials in Telugu - Telugu Web Guru](https://www.youtube.com/playlist?list=PLh6Yk2rpZu2Lyt9-2hhRj37otchec1OJL) - telugu web guru
 * [JAVA Programming](https://www.youtube.com/playlist?list=PLKZ1dSitnT22IpIQJ2kgfyLeQJ7ySPBol) - Trending Technology
-* [Java Course in Telugu](https://www.youtube.com/playlist?list=PLNgoFk5SYUgmv-wv3aOupxr82c53KJDOB) - Vamsi Bhavani
+* [Java Course in Telugu : 30 Days Challenge](https://www.youtube.com/playlist?list=PLNgoFk5SYUgmv-wv3aOupxr82c53KJDOB) - Vamsi Bhavani
 * [Java 8 Hours Course in Telugu](https://www.youtube.com/watch?v=AzJEnN2pK_I) - Python Life
 * [Java in Telugu - Complete Tutorial in 13 Hours](https://www.youtube.com/watch?v=wXfmWSGE2ok) - Telugu Computer World
 

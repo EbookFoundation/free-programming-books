@@ -335,6 +335,8 @@
 ### Kotlin
 
 * [Kotlin Cheatsheet and Quick Reference](https://koenig-media.raywenderlich.com/uploads/2019/11/RW-Kotlin-Cheatsheet-1.1.pdf) - Ray Wenderlich (PDF)
+* [Kotlin cheatsheet](https://devhints.io/kotlin) - Devhints.io (HTML)
+* [Ultimate Kotlin Cheatsheet] - Dev.to (HTML)
 
 
 ### Kubernetes
@@ -352,6 +354,7 @@
 ### LaTeX
 
 * [Latex Cheat Sheet](https://gist.github.com/LKS90/252ac41bd4a173be35b0) - Lukas Schneider
+* [LaTeX cheatsheet](https://quickref.me/latex.html) - QuickRef.ME (HTML)
 
 
 ### Machine Learning

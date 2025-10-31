@@ -3,6 +3,7 @@
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
+* [Git](#git)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [LaTeX](#latex)
@@ -26,6 +27,11 @@
 ### <a id="cpp"></a>C++
 
 * [Основи на програмирането със C++](https://cpp-book.softuni.bg) - Светлин Наков и колектив
+
+
+### Git
+
+* [Pro Git](https://git-scm.com/book/bg/v2) - Scott Chacon, Ben Straub (HTML, PDF, EPUB)
 
 
 ### Java

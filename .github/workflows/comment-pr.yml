@@ -45,11 +45,11 @@ jobs:
         run: |
           if [ -s error.log ]
           then
-            gh pr comment $(<PRurl) -b "Linter failed, fix the error(s):
-            \`\`\`
+            gh pr comment $(cat pr) --body "❌ Linting failed
+          \`\`\`
             $(cat error.log)
             \`\`\`"
-            gh pr edit $(<PRurl) --add-label "linter error"
+            gh pr edit $(cat pr) --remove-label "passed"
           else
-            gh pr edit $(<PRurl) --remove-label "linter error"
+            gh pr edit $(cat pr) --add-label "passed"
           fi

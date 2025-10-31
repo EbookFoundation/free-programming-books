@@ -13,7 +13,7 @@
 * [Kodsnack](https://kodsnack.se) (podcast)
 * [Kompilator](https://kompilator.se) (podcast)
 * [Let's tech-podden](https://letstech.libsyn.com) - Henrik Enström (podcast)
-* [Modermodemet](https://modermodemet.se/) (podcast)
+* [Modermodemet](https://modermodemet.se) (podcast)
 * [Spelskaparna](https://spelskaparna.com) - Olle Landin (podcast)
 * [Still in beta](http://stillinbeta.se) (podcast)
 * [Under utveckling](https://underutveckling.libsyn.com) (podcast)

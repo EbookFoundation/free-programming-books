@@ -410,8 +410,8 @@
 ### Kotlin
 
 * [Kotlin Cheat Sheet](https://devhints.io/kotlin) - Devhints (HTML)
-* [Kotlin Cheatsheet and Quick Reference](https://koenig-media.raywenderlich.com/uploads/2019/11/RW-Kotlin-Cheatsheet-1.1.pdf) - Ray Wenderlich (PDF)
 * [Ultimate Kotlin Cheatsheet] - Dev.to (HTML)
+* [Kotlin Cheatsheet and Quick Reference](https://koenig-media.raywenderlich.com/uploads/2019/11/RW-Kotlin-Cheatsheet-1.1.pdf) - Ray Wenderlich (PDF)
 * [Kotlin Quick Reference](https://kotlinlang.org/docs/kotlin-reference.pdf) - JetBrains (PDF)
 
 

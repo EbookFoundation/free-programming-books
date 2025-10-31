@@ -359,6 +359,7 @@
 
 ### Julia
 
+* [Introdução à programação em Julia](https://juliaintro.github.io/JuliaIntroBR.jl/index.html) - Ben Lauwens, Allen Downey, `trl.:` Abel Soares Siqueira, Gustavo Sarturi, João Okimoto, Kally Chung (HTML) (CC BY-NC 3.0)
 * [Programação de Computadores com Linguagem Julia](https://github.com/J-AugustoManzano/LivroLinJulia) - José Augusto N. G. Manzano (PDF)
 
 

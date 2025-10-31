@@ -12,11 +12,12 @@
 * [Misc](#misc)
 * [Python](#python)
 * [Sql](#sql)
+* [Web Development](#web-development)
 
 
 ### Algorithms
 
-* [Dynamic Programming Book «ডাইনামিক প্রোগ্রামিং বই»](https://dp-bn.github.io) - Tasmeem Reza, Mamnoon Siam (PDF, [LaTeX](https://github.com/Bruteforceman/dynamic-progamming-book))
+* [Dynamic Programming Book «ডাইনামিক প্রোগ্রামিং বই»](https://dp-bn.github.io) - Tasmeem Reza, Mamnoon Siam (PDF, [LaTeX](https://github.com/Bruteforceman/dynamic-programming-book))
 
 
 ### C
@@ -85,6 +86,11 @@
 
 * [এসকিউএল পরিচিতি(SQL Introduction in Bangla)](https://www.sattacademy.org/sql/index.php) - Satt Academy
 * [বাংলায় SQL টিউটোরিয়াল](https://sql.howtocode.dev) - Saiful, et al.
+
+
+### Web Development
+
+* [এইচটিএমএল ও সিএসএস ইন বাংলায় (HTML & CSS in Bangla)](https://github.com/CodeJogot/html-css-course-in-bangla) - Farmer Abdul Alim (GitHub, HTML)
 
 
 ### Git and Github

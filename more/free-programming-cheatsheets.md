@@ -412,6 +412,7 @@
 * [Kotlin Cheat Sheet](https://devhints.io/kotlin) - Devhints (HTML)
 * [Kotlin Cheatsheet and Quick Reference](https://koenig-media.raywenderlich.com/uploads/2019/11/RW-Kotlin-Cheatsheet-1.1.pdf) - Ray Wenderlich (PDF)
 * [Kotlin Quick Reference](https://kotlinlang.org/docs/kotlin-reference.pdf) - JetBrains (PDF)
+* [Ultimate Kotlin Cheatsheet] - Dev.to (HTML)
 
 
 ### Language Translations
@@ -422,6 +423,7 @@
 ### LaTeX
 
 * [Latex Cheat Sheet](https://gist.github.com/LKS90/252ac41bd4a173be35b0) - Lukas Schneider
+* [LaTeX cheatsheet](https://quickref.me/latex.html) - QuickRef.ME (HTML)
 
 
 ### Machine Learning

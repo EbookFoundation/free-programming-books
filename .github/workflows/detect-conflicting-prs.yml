@@ -1,5 +1,4 @@
 name: "Detect conflicting PRs"
-
 on:
   workflow_dispatch:              # manually
   # So that PRs touching the same files as the push are updated
@@ -8,7 +7,6 @@ on:
   pull_request_target:            # - A pull request (even with conflicts)
     types:
       - synchronize               #   pushing more commits
-
 permissions:
   # no checkouts/branching needed
   contents: none
@@ -23,23 +21,20 @@ concurrency:
 jobs:
   detect-prs:
     name: Detect
-    if: ${{ github.actor != 'dependabot[bot]' }} # avoid dependabot PRs
+    if: ${{ github.actor != 'dependabot[bot]' }}  # avoid dependabot PRs
     runs-on: ubuntu-latest
     steps:
-
       - name: Label conflicting PRs that are open
         id: pr-labeler
         uses: eps1lon/actions-label-merge-conflict@v3.0.3
         with:
-          repoToken:  ${{ secrets.GITHUB_TOKEN }}
-          retryAfter: 30 # seconds
-          retryMax:   5  # atemps
+          repoToken: ${{ secrets.GITHUB_TOKEN }}
+          retryAfter: 30  # seconds
+          retryMax: 5  # attempts
           dirtyLabel: conflicts
           commentOnDirty: |
             Oh no 😟! Conflicts have been found.
-
             Please 🙏, take a moment and [address the merge conflicts](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts) of your pull request before we can evaluate it again.
-
             Thanks in advance for your effort and patience ❤️!
           continueOnMissingPermissions: true
 
@@ -69,5 +64,5 @@ jobs:
             | jq --raw-output 'map("| [#\(.number)](\(env.GITHUB_PUBLIC_URL)/\(.number)) | \(if (.dirty) then "❌" else "✔️" end) |") | join("\n") | if (. == "") then "\nNo records.\n" else "\n| PR | Mergeable? |\n|---:|:----------:|\n\(.)\n" end'  \
             >> $GITHUB_STEP_SUMMARY
         env:
-          GITHUB_PUBLIC_URL:   ${{ format('{0}/{1}/pull', github.server_url, github.repository) }}
+          GITHUB_PUBLIC_URL: ${{ format('{0}/{1}/pull', github.server_url, github.repository) }}
           INPUT_PRS: ${{ steps.set-prs.outputs.prs }}

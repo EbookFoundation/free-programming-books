@@ -759,6 +759,7 @@
 * [Docker Tutorial for Beginners \| Full Course \[2021\]](https://www.youtube.com/watch?v=p28piYY_wv8) - Amigoscode
 * [Docker Tutorial Videos \| DevOps Tool](https://www.youtube.com/playlist?list=PL9ooVrP1hQOHUKuqGuiWLQoJ-LD25KxI5) - edureka!
 * [IIEC RISE 1.0 Docker](https://www.youtube.com/playlist?list=PLAi9X1uG6jZ30QGz7FZ55A27jPeY8EwkE)
+* [Learn Docker [Full Course]](https://www.boot.dev/courses/learn-docker) - Lane Wagner
 
 
 ### Elastic
@@ -1040,6 +1041,7 @@
 ### JavaScript
 
 * [30 Days, 30 JavaScript Projects For Beginners to Practice](https://youtube.com/playlist?list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9&si=fofo8k2c5sjQPOKq) - GreatStack
+* [30 Days of JavaScript](https://leetcode.com/studyplan/30-days-of-javascript/) - LeetCode
 * [Asynchronous Programming: The End of The Loop](https://egghead.io/courses/asynchronous-programming-the-end-of-the-loop) - Jafar Husain
 * [Beginner's Series to: JavaScript](https://www.youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2) - Microsoft Developer
 * [Bento JavaScript Learning Track](https://bento.io/topic/javascript) (Bento)
@@ -1532,6 +1534,7 @@
 ### Perl
 
 * [Perl Programming Course for Beginners](https://www.youtube.com/watch?v=_DFa26ep-h4) - freeCodeCamp
+* [Perl Scripting Tutorial Videos](https://www.youtube.com/playlist?list=PL9ooVrP1hQOH9R0GR6yFteE4XWbsYNLga) - Edureka!
 * [Perl Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWpqRBcStwV0NwMA3nXMh5GC) - The Bad Tutorials
 * [Perl Tutorial: Basics to Advanced](https://www.youtube.com/playlist?list=PL1h5a0eaDD3rTG1U7w9wmff6ZAKDN3b16) - VLSI Academy
 
@@ -1620,6 +1623,7 @@
 * [Python Course](https://www.python-course.eu)
 * [Python Course from scratch](https://scrimba.com/playlist/pNpZMAB) - Olaf Paulson (scrimba)
 * [Python Data Analysis](https://www.coursera.org/learn/python-analysis) - Scott Rixner, Joe Warren (Coursera)
+* [Python Essentials 1](https://www.netacad.com/courses/python-essentials-1?courseLang=en-US) - Cisco Networking Acadamy
 * [Python Essentials 1](https://edube.org/study/pe1) (Edube Interactive)
 * [Python for Beginners](https://alison.com/course/python-for-beginners) - Merul Dhiman (Alison)
 * [Python for Beginners](https://opencv.org/university/python-for-beginners/) - OpenCV University

@@ -1,7 +1,8 @@
-### Index
+﻿### Index
 
 * [Ada](#ada)
 * [Android](#android)
+* [Artificial Intelligence](#artificial-intelligence)
 * [Bash](#bash)
 * [C](#c)
 * [C#](#csharp)
@@ -66,6 +67,7 @@
 
 ### Bash
 
+* [Bash Tutorial](https://www.w3schools.com/bash/) - W3Schools
 * [Help messages will explain everything](https://explainshell.com) - explainshell
 * [Learn Shell Programming](http://www.learnshell.org) - learnshell
 
@@ -73,11 +75,18 @@
 ### C
 
 * [C Tutorial](https://www.w3schools.com/c/) - W3Schools
-* [C Tutorial](https://www.scaler.com/topics/c/) - Scaler Topics
-* [Learn C](http://www.learn-c.org) - Learn-C
 
 
-### <a id="csharp"></a>C\#
+* [C# Tutorial](https://www.tutlane.com/tutorial/csharp) - tutlane
+* [C# Tutorial](https://www.w3schools.com/cs) - W3Schools
+
+
+### Artificial Intelligence
+
+* [Generative AI tutorial](https://www.geeksforgeeks.org/artificial-intelligence/generative-ai-tutorial/) - GeeksforGeeks
+
+
+### <a id="csharp"></a>C#
 
 * [C# Tutorial](https://www.tutlane.com/tutorial/csharp) - tutlane
 * [C# Tutorial](https://www.w3schools.com/cs) - W3Schools
@@ -168,6 +177,7 @@
 * [Go Koans](https://github.com/cdarwin/go-koans)
 * [Go Tutorial](https://www.w3schools.com/go/) - W3Schools
 * [Learn Go](https://www.codecademy.com/learn/learn-go) - Google, Robert Griesemer, Rob Pike, and Ken Thompson (Codecademy) *(account required)*
+* [Learn Go Full Course](https://www.boot.dev/courses/learn-golang) - Boot.dev
 * [Start using Go](https://docs.microsoft.com/en-us/learn/paths/go-first-steps/) - Microsoft
 * [TCP Servers in Go](https://app.codecrafters.io/concepts/go-tcp-server) - CodeCrafters
 * [The Go Tutorial](http://tour.golang.org)
@@ -242,6 +252,7 @@
 * [JSchallenger](https://www.jschallenger.com)
 * [Learn JavaScript](http://www.learn-js.org)
 * [Learn JavaScript](https://learnjavascript.online)
+* [Learn JavaScript: Online Course for Free](https://code-basics.com/languages/javascript) - Code Basics
 * [Learn knockout.js](http://learn.knockoutjs.com)
 * [Learn to Code for Free – Grasshopper](https://grasshopper.app)
 * [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
@@ -313,12 +324,14 @@
 
 ### LaTeX
 
+* [LaTeX Tutorial](https://www.tutorialspoint.com/latex/index.htm) - TutorialsPoint
 * [Learn LaTeX in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 
 
 ### Lisp
 
 * [Lisp Koans](https://github.com/google/lisp-koans)
+* [Lisp Tutorial](https://www.tutorialspoint.com/lisp/index.htm) - TutorialsPoint
 
 
 ### Markdown
@@ -330,6 +343,7 @@
 ### MATLAB
 
 * [Interactive Tutorials for MATLAB, Simulink, Signal Processing, Controls, and Computational Mathematics](http://www.mathworks.com/tutorials)
+* [MATLAB Tutorial](https://www.tutorialspoint.com/matlab/index.htm) - TutorialsPoint
 
 
 ### Node
@@ -359,6 +373,7 @@
 
 ### PHP
 
+* [CodeBasics PHP](https://code-basics.com/languages/php)
 * [CodeCademy PHP](https://www.codecademy.com/learn/php)
 * [Learn PHP](http://www.learn-php.org)
 * [PHP tutorial](https://www.w3schools.com/php) - W3Schools
@@ -381,6 +396,7 @@
 * [Computer Science Circles](https://cscircles.cemc.uwaterloo.ca) - Centre for Education in Mathematics and Computing (University of Waterloo)
 * [Data Analysis with Python Certification](https://www.freecodecamp.org/learn/data-analysis-with-python/) - freeCodeCamp
 * [Foundations of Python Programming](https://runestone.academy/ns/books/published/fopp/index.html) - Runestone Interactive
+* [Free Online Python Course for Beginners](https://code-basics.com/languages/python) - CodeBasics
 * [futurecoder](https://futurecoder.io) - Alex Hall
 * [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html)
 * [Learn Python](http://www.learnpython.org)
@@ -393,6 +409,7 @@
 * [Python Tutorial](https://www.tutlane.com/tutorial/python) - tutlane
 * [Python Tutorial](https://www.w3schools.com/python) - W3Schools
 * [Python Tutorial](https://www.scaler.com/topics/python/) - Scaler Topics
+* [Python Tutorial](https://www.pythontutorial.net) - Anthony Pham (pythontutorial.net)
 * [Scientific Computing with Python Certification](https://www.freecodecamp.org/learn/scientific-computing-with-python/) - freeCodeCamp
 
 
@@ -432,11 +449,13 @@
 * [Rustlings](https://github.com/rust-lang/rustlings)
 * [TCP Servers in Rust](https://app.codecrafters.io/concepts/rust-tcp-server) - CodeCrafters
 * [Tour of Rust](https://tourofrust.com)
+* [W3Schools Rust Tutorial](https://www.w3schools.com/rust) - W3Schools
 
 
 ### Scala
 
 * [A Tour of Scala - an interactive scala tutorial](https://scalatutorials.com/tour/)
+* [LearnScala.org](https://www.learnscala.org) - Interactive Scala Tutorial
 * [Scala Exercises](https://www.scala-exercises.org)
 
 
@@ -454,6 +473,7 @@
 
 * [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql) - Khan Academy
 * [MySQL Tutorial](https://www.w3schools.com/MySQL/) - W3Schools
+* [MySQL Tutorial](https://www.mysqltutorial.org) - Anthony Pham (mysqltutorial.org)
 * [Select Star SQL](https://selectstarsql.com) - Zi Chong Kao (CC BY-SA)
 * [SQL at Codecademy](https://www.codecademy.com/courses/learn-sql)
 * [SQL Server Tutorial](https://www.tutlane.com/tutorial/sql-server) - tutlane
@@ -466,5 +486,6 @@
 
 ### XML
 
+* [XML Tutorial](https://www.tutorialspoint.com/xml/index.htm) - TutorialsPoint
 * [XML Tutorial](https://www.w3schools.com/xml) - W3Schools
 

@@ -19,6 +19,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Computer Vision](#computer-vision)
 * [Containers](#containers)
 * [Data Science](#data-science)
+* [Data Structures and Algorithms](#data-structures-and-algorithms)
 * [Database](#database)
 * [Embedded Systems](#embedded-systems)
 * [Game Development](#game-development)
@@ -305,6 +306,13 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Statistical inference for data science](https://leanpub.com/LittleInferenceBook/read) - Brian Caffo
 * [The Ultimate Guide to 12 Dimensionality Reduction Techniques (with Python codes)](https://www.analyticsvidhya.com/blog/2018/08/dimensionality-reduction-techniques-python/) - Pulkit Sharma
 * [Theory and Applications for Advanced Text Mining](https://www.intechopen.com/books/theory-and-applications-for-advanced-text-mining)
+
+
+### Data Structures and Algorithms
+
+* [A Common-Sense Guide to Data Structures & Algorithms](https://github.com/GauravWalia19/Free-Algorithms-Books/blob/main/Library/src/JAVASCRIPT/A-Common-Sense-Guide-to-Data-Structures-and-Algorithms-Level-Up-Your-Core-Programming-Skills.pdf) - Jay Wengrow (PDF)
+* [Algorithms and Data Structures](https://textbookequity.org/Textbooks/Nievergelt_Algorithms%20and%20Data%20Structures08.pdf) - Jürg Nievergelt, Klaus Hinrichs (PDF)
+* [An Open Guide to Data Structures and Algorithms](https://open.umn.edu/opentextbooks/textbooks/an-open-guide-to-data-structures-and-algorithms) - Paul W. Bible, Lucas Moser (PDF)
 
 
 ### Database

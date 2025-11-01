@@ -94,8 +94,8 @@ LIST_ITEM_RE = re.compile(r'^\s*[\*\-\+]\s+(.*)')
 # Example: Book Title - Author (Metadata)
 BOOK_ITEM_RE = re.compile(
     r"^\s*\[(?P<title>.+?)\]\((?P<url>.+?)\)"   # Title and URL (required)
-    r"(?:\s*[-–—]\s*(?P<author>[^\(\n\[]+?))?"  # Author (optional), separated by -, –, —
-    r"(?:\s*[\(\[](?P<meta>.*?)[\)\]])?\s*$"    # Metadata (optional), enclosed in parentheses () or []
+    r"(?:\s*[-–—]\s*(?P<author>.*?))?"         # Author (optional), separated by -, –, —
+    r"(?:\s*[\(\[](?P<meta>[^\]\)]*)[\)\]])?\s*$"  # Metadata (optional), enclosed in parentheses () or []
 )
 
 # Regex to find the dir="rtl" or dir="ltr" attribute in an HTML tag

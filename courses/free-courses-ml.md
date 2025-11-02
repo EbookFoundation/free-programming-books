@@ -109,7 +109,7 @@
 
 * [CSS Malayalam Tutorial Full Course](https://youtube.com/playlist?list=PL1JrLEBAapUVvE-oCkKD5QhGG8nb0hhZk) - Yes Tech Media
 * [CSS malayalam tutorial](https://youtube.com/playlist?list=PL4KwFGqvN4ntbMZdiSS0nFXo49KZCCcdw) - Debug Media
-* [html and css malayalam tutorial](https://www.youtube.com/watch?v=vvw5ExR5c2o&list=PLPvjxHx5Kob1pE-M4p2x82xclElJFLFIC) - Wezlon
+* [HTML and CSS Malayalam Tutorial](https://www.youtube.com/playlist?list=PLPvjxHx5Kob1pE-M4p2x82xclElJFLFIC) - Wezlon
 * [html malayalam tutorial](https://youtube.com/playlist?list=PL4KwFGqvN4nupwUNXQs2Dn0za5a8ijVPH) - Debug Media
 * [HTML Tutorial Malayalam Full](https://youtube.com/playlist?list=PL1JrLEBAapUVyMVQp6SmpytH1HPeCiNPH) - Yes Tech Media
 * [Learn CSS by doing the projects](https://www.youtube.com/playlist?list=PLCOzHVsG8mkp3ZrXMzgLusYQpCdMbpLcj) - Web Diary

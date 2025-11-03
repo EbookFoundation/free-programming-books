@@ -254,6 +254,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Computer Science I](https://cse.unl.edu/~cbourke/ComputerScienceOne.pdf) - Chris Bourke (PDF) (CC BY-SA)
 * [Computer Science II](https://cse.unl.edu/~cbourke/ComputerScienceTwo.pdf) - Chris Bourke (PDF) (CC BY-SA)
 * [CS Principles: Big Ideas in Programming](https://www.openbookproject.net/books/StudentCSP/) - Mark Guzdial, Barbara Ericson (HTML)
+* [Foundations of Computer Science](http://i.stanford.edu/~ullman/focs.html) - Alfred V. Aho, Jeffrey D. Ullman (PDF)
 * [Introduction to Computer Science](https://openstax.org/details/books/introduction-computer-science) - Jean Claude Franchitti et al. (PDF, HTML) (CC BY)
 * [Pull Requests and Code Review](https://scs.tl/book-pr) – Sebastien Castiel
 * [What to Look for in a Code Review](https://leanpub.com/whattolookforinacodereview) - Trisha Gee (HTML, PDF, EPUB, Kindle) *(Leanpub account or valid email requested)*
@@ -786,6 +787,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [How to write a simple operating system in assembly language](https://mikeos.sourceforge.net/write-your-own-os.html) - Mike Saunders (HTML)
 * [Linux Kernel in a Nutshell](http://www.linuxtopia.org/online_books/linux_kernel/kernel_configuration) - Greg Kroah-Hartman (HTML)
 * [Making Servers Work: A Practical Guide to Linux System Administration](https://www.digitalocean.com/community/books/sysadmin-ebook-making-servers-work) - Jamon Camisso (PDF, EPUB)
+* [Operating System Concepts (10th Edition)](https://lib.zu.edu.pk/ebookdata/Engineering/Cyber%20Security/Operating%20System%20Concepts-Wiley%20Global%20Education%20(2018)%20BY%20Abraham%20Silberschatz_%20Greg%20Gagne_%20Peter%20B.%20Galvin%20-.pdf) - Avi Silberschatz, Peter Baer Galvin and Greg Gagne (PDF)
 * [Operating Systems and Middleware](https://gustavus.edu/mcs/max/os-book/) - Max Hailperin (PDF, LaTeX)
 * [Operating Systems: From 0 to 1](https://github.com/tuhdo/os01/releases/tag/0.0.1) - Tu, Ho Doang (PDF) ( :construction: *in process*)
 * [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/) - Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau (PDF)

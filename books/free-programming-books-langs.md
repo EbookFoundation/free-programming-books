@@ -242,6 +242,7 @@ Books on general-purpose programming that don't focus on a specific language are
 ### Ada
 
 * [A Guide to Ada for C and C++ Programmers](https://www.cs.uni.edu/~mccormic/4740/guide-c2ada.pdf) - Simon Johnston (PDF)
+* [Ada 95: The Craft of Object-Oriented Programming](https://www.adaic.org/resources/add_content/docs/craft/html/contents.htm) - John English (HTML)
 * [Ada Distilled](http://www.adapower.com/pdfs/AdaDistilled07-27-2003.pdf) - Richard Riehle (PDF)
 * [Ada for the C++ or Java Developer](https://www.adacore.com/uploads/books/pdf/Ada_for_the_C_or_Java_Developer-cc.pdf) - Quentin Ochem (PDF) (CC BY-NC-SA)
 * [Ada Programming](https://en.wikibooks.org/wiki/Ada_Programming) - Wikibooks
@@ -790,9 +791,10 @@ Books on general-purpose programming that don't focus on a specific language are
 * [A Beginner's Guide to Forth](https://web.archive.org/web/20180919061255/http://galileo.phys.virginia.edu/classes/551.jvn.fall01/primer.htm) - J.V. Noble *( :card_file_box: archived)*
 * [And so Forth...](http://ficl.sourceforge.net/pdf/Forth_Primer.pdf) (PDF)
 * [Easy Forth](https://skilldrick.github.io/easyforth/) - Nick Morgan (HTML)
-* [Starting Forth](http://home.iae.nl/users/mhx/sf.html)
-* [Thinking Forth](http://thinking-forth.sourceforge.net)
-* [Thoughtful Programming and Forth](http://www.ultratechnology.com/forth.htm)
+* [Forth Guide](https://web.archive.org/web/20110412231747/http://theforthsource.com/guide.html) - Glen B. Haydon (HTML) *( :card_file_box: archived)*
+* [Starting Forth](https://www.forth.com/starting-forth/) - Leo Brodie (HTML)
+* [Thinking Forth](http://thinking-forth.sourceforge.net) - Leo Brodie (HTML) (CC BY-NC-SA)
+* [Thoughtful Programming and Forth](http://www.ultratechnology.com/forth.htm) - Jeff Fox (HTML)
 
 
 ### Fortran

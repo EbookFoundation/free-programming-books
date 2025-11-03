@@ -791,8 +791,8 @@ Books on general-purpose programming that don't focus on a specific language are
 * [And so Forth...](http://ficl.sourceforge.net/pdf/Forth_Primer.pdf) (PDF)
 * [Easy Forth](https://skilldrick.github.io/easyforth/) - Nick Morgan (HTML)
 * [Starting Forth](http://home.iae.nl/users/mhx/sf.html)
-* [Thinking Forth](http://thinking-forth.sourceforge.net)
-* [Thoughtful Programming and Forth](http://www.ultratechnology.com/forth.htm)
+* [Thinking Forth](http://thinking-forth.sourceforge.net) - Leo Brodie (HTML) (CC BY-NC-SA)
+* [Thoughtful Programming and Forth](http://www.ultratechnology.com/forth.htm) - Jeff Fox (HTML)
 
 
 ### Fortran

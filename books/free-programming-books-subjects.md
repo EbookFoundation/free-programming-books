@@ -261,7 +261,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 
 ### Computer Vision
 
-* [Computer Vision](https://homepages.inf.ed.ac.uk/rbf/BOOKS/BANDB/bandb.htm) - Dana Ballard, Chris Brown
+* [Computer Vision](https://homepages.inf.ed.ac.uk/rbf/BOOKS/BANDB/bandb.htm) - Dana Ballard, Chris Brown (PDF)
 * [Computer Vision: Algorithms and Applications](https://szeliski.org/Book/) - Richard Szeliski
 * [Computer Vision: Foundations and Applications](http://vision.stanford.edu/teaching/cs131_fall1718/files/cs131-class-notes.pdf) - Ranjay Krishna (PDF)
 * [Computer Vision: Models, Learning, and Inference](http://www.computervisionmodels.com) - Simon J.D. Prince

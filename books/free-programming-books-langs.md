@@ -242,6 +242,7 @@ Books on general-purpose programming that don't focus on a specific language are
 ### Ada
 
 * [A Guide to Ada for C and C++ Programmers](https://www.cs.uni.edu/~mccormic/4740/guide-c2ada.pdf) - Simon Johnston (PDF)
+* [Ada 95: The Craft of Object-Oriented Programming](https://www.adaic.org/resources/add_content/docs/craft/html/contents.htm) - John English (HTML)
 * [Ada Distilled](http://www.adapower.com/pdfs/AdaDistilled07-27-2003.pdf) - Richard Riehle (PDF)
 * [Ada for the C++ or Java Developer](https://www.adacore.com/uploads/books/pdf/Ada_for_the_C_or_Java_Developer-cc.pdf) - Quentin Ochem (PDF) (CC BY-NC-SA)
 * [Ada Programming](https://en.wikibooks.org/wiki/Ada_Programming) - Wikibooks

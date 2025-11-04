@@ -31,6 +31,7 @@
 * [Python](#python)
     * [Django](#django)
     * [Flask](#flask)
+    * [FastAPI](#fastapi)
 * [Security](#security)
 
 
@@ -238,6 +239,12 @@
 
 * [Python Flask Malayalam Tutorial](https://youtube.com/playlist?list=PL1JrLEBAapUU-HCC1f5x8YiGEMoZdGl0e) - Yes Tech Media
 * [Web Development with Python Flask](https://www.youtube.com/playlist?list=PLQzHWfiB9fWccYbgcomf5bWTGV7DPqTtB) - Learn Programming In Malayalam
+
+
+#### FastAPI
+
+* [Python FastAPI Tutorial](https://www.youtube.com/playlist?list=PL1pQFrHyimJTUk2w27AU1n3jzxJjycZFc) - Build From Zero
+* [API Development in Python using FastAPI](https://www.youtube.com/watch?v=ft8Xfe7xXIM) - CyberMalayali
 
 
 ### Security

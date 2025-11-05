@@ -109,7 +109,8 @@
 ### Go
 
 * [Golang: Complete Tutorial in മലയാളം for Beginners](https://www.youtube.com/watch?v=S7Dfsky1bZ4) - CodeEase with Anu
-
+* [Go Tutorial - Malayalam](https://www.youtube.com/playlist?list=PLbn-9j68Y5NWV-mrEjX4z0JDvlr4dGC1h) - Mr.MalluProgrammer
+* [Go Programming Malayalam Tutorial](https://www.youtube.com/playlist?list=PLQzHWfiB9fWeIcn30TNgA1Lrr6gyNutGv) - Learn With CODiiN
 
 ### HTML and CSS
 

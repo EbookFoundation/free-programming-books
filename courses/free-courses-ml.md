@@ -12,6 +12,7 @@
 * [Flutter](#flutter)
 * [Game Development](#game-development)
 * [Git](#git)
+* [Go](#go)
 * [HTML and CSS](#html-and-css)
     * [Bootstrap](#bootstrap)
 * [Java](#java)
@@ -105,10 +106,16 @@
 * [Git Tutorial - Malayalam](https://www.youtube.com/playlist?list=PLQzJEzrRmXOW7pKbwpicijzUdxZmDgqNL) - Code Malayalam
 
 
+### Go
+
+* [Golang: Complete Tutorial in മലയാളം for Beginners](https://www.youtube.com/watch?v=S7Dfsky1bZ4) - CodeEase with Anu
+
+
 ### HTML and CSS
 
 * [CSS Malayalam Tutorial Full Course](https://youtube.com/playlist?list=PL1JrLEBAapUVvE-oCkKD5QhGG8nb0hhZk) - Yes Tech Media
 * [CSS malayalam tutorial](https://youtube.com/playlist?list=PL4KwFGqvN4ntbMZdiSS0nFXo49KZCCcdw) - Debug Media
+* [HTML and CSS Malayalam Tutorial](https://www.youtube.com/playlist?list=PLPvjxHx5Kob1pE-M4p2x82xclElJFLFIC) - Wezlon
 * [html malayalam tutorial](https://youtube.com/playlist?list=PL4KwFGqvN4nupwUNXQs2Dn0za5a8ijVPH) - Debug Media
 * [HTML Tutorial Malayalam Full](https://youtube.com/playlist?list=PL1JrLEBAapUVyMVQp6SmpytH1HPeCiNPH) - Yes Tech Media
 * [Learn CSS by doing the projects](https://www.youtube.com/playlist?list=PLCOzHVsG8mkp3ZrXMzgLusYQpCdMbpLcj) - Web Diary

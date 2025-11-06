@@ -60,8 +60,8 @@
 
 ### Cloud Computing
 
-* [AWS Cloud Computing For Beginners Tamil](https://www.youtube.com/watch?v=DaSt-5tTmG4) - BTree Systems
-* [AWS Full Course](https://www.youtube.com/watch?v=eZeNIakuqbc) - The Madras Programmer
+* [AWS Full Course for beginners in Tamil | Free Crash Course | Ultimate AWS Tutorial in Tamil](https://www.youtube.com/watch?v=eZeNIakuqbc) - The Madras Programmer
+* [AWS Tutorial In Tamil | AWS Cloud Computing For Beginners Tamil | AWS Tamil Cloud](https://www.youtube.com/watch?v=DaSt-5tTmG4) - BTree Systems
 * [Cloud Computing In Tamil](https://www.youtube.com/playlist?list=PL3WUjOOQCEw08GWGuKvuZdrb7Bfkn3oxh) - Ganapathy Tech Tips
 * [Data Engineering](https://www.youtube.com/playlist?list=PLLa_h7BriLH3gVIwDBamEFCbqPW8SqAqU) - Google Cloud Tamil
 
@@ -69,25 +69,25 @@
 ### Computer Organisation & Architecture
 
 * [COMPUTER ARCHITECTURE](https://www.youtube.com/playlist?list=PLs5kvWTDBVQx4Wy1Si8N5Kv2XOViASmPd) - TAMIL KANINI
-* [Computer Architecture in Tamil](https://www.youtube.com/playlist?list=PLBMNl-szJPPc2ZAJeA1Va1qGDL8F7l9Dq) - Terrace Out
-* [Digital Principles and Computer Organization in Tamil](https://www.youtube.com/playlist?list=PLOmHrZkA584-oWxuXJGv1y9C9knOEW_ti) - 4G Silver Academy தமிழ்
+* [Computer Architecture in Tamil | TRB | Engineering](https://www.youtube.com/playlist?list=PLBMNl-szJPPc2ZAJeA1Va1qGDL8F7l9Dq) - Terrace Out
+* [Digital Principles and Computer Organization in Tamil CS3351 Anna University Syllabus](https://www.youtube.com/playlist?list=PLOmHrZkA584-oWxuXJGv1y9C9knOEW_ti) - 4G Silver Academy தமிழ்
 
 
 ### Cryptography & Network Security
 
-* [CRYPTOGRAPHY & NETWORK SECURITY](https://www.youtube.com/playlist?list=PLmAmHQ-_5ySx_dXmOwSuGGGyE8XsbYT0n) - Trouble- Free
-* [Cryptography & Network Security](https://www.youtube.com/playlist?list=PL1eBtGPYeYXXVme45jaTpG3RiRYyPbGoT) - Won the ARREARS
-* [Cryptography and Cyber Security CB3491](https://www.youtube.com/playlist?list=PLfNKAsmI385JgHfEw32fM9-4qT3fYiTFu) - PK Educational Institute
-* [Cryptography and Cyber Security CB3491](https://www.youtube.com/playlist?list=PLwheXbz_XBtlAu-T0wq489qojaVqwxnlv) - Murugan Tech World
-* [Cryptography and Cyber Security in Tamil](https://www.youtube.com/playlist?list=PLOmHrZkA584-moxtJEbgIgswpjSB6jkgl) - 4G Silver Academy தமிழ்
-* [Cryptography and Network Security](https://www.youtube.com/playlist?list=PLBMNl-szJPPePpMWV3GNIgI3rvSwo3Yav) - Terrace Out
-* [Cryptography and Network Security(CB3491)](https://www.youtube.com/playlist?list=PLR4Rlu17MDY5PP5MO6y3AehtPIBmN6ajX) - BECAUSE
+* ["CB3491 - Cryptography and Cyber Security | Anna University Regulation 2021 in Tamil"](https://www.youtube.com/playlist?list=PLfNKAsmI385JgHfEw32fM9-4qT3fYiTFu) - PK Educational Institute
+* ["CB3491-Cryptography and cyber security"](https://www.youtube.com/playlist?list=PLwheXbz_XBtlAu-T0wq489qojaVqwxnlv) - Murugan Tech World
+* ["CRYPTOGRAPHY & NETWORK SECURITY"](https://www.youtube.com/playlist?list=PLmAmHQ-_5ySx_dXmOwSuGGGyE8XsbYT0n) - Trouble- Free
+* ["Cryptography & Network security"](https://www.youtube.com/playlist?list=PL1eBtGPYeYXXVme45jaTpG3RiRYyPbGoT) - Won the ARREARS
+* ["Cryptography And Network Security | Tamil"](https://www.youtube.com/playlist?list=PLBMNl-szJPPePpMWV3GNIgI3rvSwo3Yav) - Terrace Out
+* ["Cryptography and Cyber Security in Tamil | CB3491 Lectures in Tamil | Anna University Syllabus"](https://www.youtube.com/playlist?list=PLOmHrZkA584-moxtJEbgIgswpjSB6jkgl) - 4G Silver Academy தமிழ்
+* ["Cryptography and Network Security(CB3491)"](https://www.youtube.com/playlist?list=PLR4Rlu17MDY5PP5MO6y3AehtPIBmN6ajX) - BECAUSE
 
 
 ### Data Science
 
-* [Data Science Full Course in Tamil](https://www.youtube.com/watch?v=hNCd_BM4T3M) - BTree Systems
 * [Data Science Full Course in Tamil](https://www.youtube.com/playlist?list=PL-M5l4dLK9TVOoqZXW6cSYKcSjKzuLbOl) - KaaShiv InfoTech
+* [Data Science Full Course in Tamil 2024 | Data Science Tutorial for Beginners in Tamil](https://www.youtube.com/watch?v=hNCd_BM4T3M) - BTree Systems
 
 
 ### <a id="dsa"></a>Data Structures and Algorithms

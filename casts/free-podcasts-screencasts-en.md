@@ -46,7 +46,7 @@
 
 ### <a id="csharp"></a>C\#
 
-* [\.NET Rocks!](https://dotnetrocks.com) - Carl Franklin, Richard Campbell (podcast)
+* \[.NET Rocks!](https://dotnetrocks.com) - Carl Franklin, Richard Campbell (podcast)
 * [Beginning C# with Unity](https://www.youtube.com/playlist?list=PLFgjYYTq6xyhtVK6VzLiFe3pmBu-XSNlX) - Brian Douglas Moakley, VegetarianZombie (screencast)
 * [Coding After Work](https://poddtoppen.se/podcast/1076724955/coding-after-work-podcast) - Jessica Engström, Jimmy Engström (podcast)
 * [General .NET videos](https://www.youtube.com/playlist?list=PLUOequmGnXxPjam--7GAls6Tb1fSmL9mL) - Nick Chapsas (screencast)

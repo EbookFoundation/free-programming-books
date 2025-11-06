@@ -75,13 +75,13 @@
 
 ### Cryptography & Network Security
 
-* ["CB3491 - Cryptography and Cyber Security | Anna University Regulation 2021 in Tamil"](https://www.youtube.com/playlist?list=PLfNKAsmI385JgHfEw32fM9-4qT3fYiTFu) - PK Educational Institute
-* ["CB3491-Cryptography and cyber security"](https://www.youtube.com/playlist?list=PLwheXbz_XBtlAu-T0wq489qojaVqwxnlv) - Murugan Tech World
-* ["CRYPTOGRAPHY & NETWORK SECURITY"](https://www.youtube.com/playlist?list=PLmAmHQ-_5ySx_dXmOwSuGGGyE8XsbYT0n) - Trouble- Free
-* ["Cryptography & Network security"](https://www.youtube.com/playlist?list=PL1eBtGPYeYXXVme45jaTpG3RiRYyPbGoT) - Won the ARREARS
-* ["Cryptography And Network Security | Tamil"](https://www.youtube.com/playlist?list=PLBMNl-szJPPePpMWV3GNIgI3rvSwo3Yav) - Terrace Out
-* ["Cryptography and Cyber Security in Tamil | CB3491 Lectures in Tamil | Anna University Syllabus"](https://www.youtube.com/playlist?list=PLOmHrZkA584-moxtJEbgIgswpjSB6jkgl) - 4G Silver Academy தமிழ்
-* ["Cryptography and Network Security(CB3491)"](https://www.youtube.com/playlist?list=PLR4Rlu17MDY5PP5MO6y3AehtPIBmN6ajX) - BECAUSE
+* [CB3491 - Cryptography and Cyber Security | Anna University Regulation 2021 in Tamil](https://www.youtube.com/playlist?list=PLfNKAsmI385JgHfEw32fM9-4qT3fYiTFu) - PK Educational Institute
+* [CB3491-Cryptography and cyber security](https://www.youtube.com/playlist?list=PLwheXbz_XBtlAu-T0wq489qojaVqwxnlv) - Murugan Tech World
+* [CRYPTOGRAPHY & NETWORK SECURITY](https://www.youtube.com/playlist?list=PLmAmHQ-_5ySx_dXmOwSuGGGyE8XsbYT0n) - Trouble- Free
+* [Cryptography & Network security](https://www.youtube.com/playlist?list=PL1eBtGPYeYXXVme45jaTpG3RiRYyPbGoT) - Won the ARREARS
+* [Cryptography and Cyber Security in Tamil | CB3491 Lectures in Tamil | Anna University Syllabus](https://www.youtube.com/playlist?list=PLOmHrZkA584-moxtJEbgIgswpjSB6jkgl) - 4G Silver Academy தமிழ்
+* [Cryptography and Network Security | Tamil](https://www.youtube.com/playlist?list=PLBMNl-szJPPePpMWV3GNIgI3rvSwo3Yav) - Terrace Out
+* [Cryptography and Network Security(CB3491)](https://www.youtube.com/playlist?list=PLR4Rlu17MDY5PP5MO6y3AehtPIBmN6ajX) - BECAUSE
 
 
 ### Data Science

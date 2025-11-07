@@ -98,15 +98,17 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [A Field Guide To Genetic Programming](https://web.archive.org/web/20191020195105/http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/poli08_fieldguide.pdf) - Riccardo Poli, William B. Langdon, Nicholas F. McPhee (PDF) *( :card_file_box: archived)* (CC BY-NC-ND)
 * [Algorithm Design](https://archive.org/details/AlgorithmDesign1stEditionByJonKleinbergAndEvaTardos2005PDF) - Jon Kleinberg, Éva Tardos
 * [Algorithmic Graph Theory](https://code.google.com/p/graphbook/) - David Joyner, Minh Van Nguyen, David Phillips (PDF) (GFDL)
+* [Algorithmic Problem Solving](https://people.cs.ksu.edu/~ashleyam/book/APS.pdf) - Roland Backhouse (PDF)
 * [Algorithmic Thinking](https://labuladong.gitbook.io/algo-en) - Donglai Fu
 * [Algorithms](https://en.wikibooks.org/wiki/Algorithms) - Wikibooks
 * [Algorithms](https://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf) - Jeff Erickson (PDF)
-* [Algorithms, 4th Edition](https://algs4.cs.princeton.edu/home/) - Robert Sedgewick, Kevin Wayne
 * [Algorithms and Automatic Computing Machines (1963)](https://archive.org/details/Algorithms_And_Automatic_Computing_Machines) - B. A. Trakhtenbrot
 * [Algorithms and Complexity](https://www.math.upenn.edu/~wilf/AlgoComp.pdf) - Herbert S. Wilf (PDF)
 * [Algorithms and Data Structures](https://textbookequity.org/Textbooks/Nievergelt_Algorithms%20and%20Data%20Structures08.pdf) - Jürg Nievergelt, Klaus Hinrichs (PDF)
 * [Algorithms Course Materials](https://jeffe.cs.illinois.edu/teaching/algorithms/) - Jeff Erickson
+* [Algorithms for Decision Making](https://algorithmsbook.com) - Mykel J. Kochenderfer, Tim A. Wheeler, Kyle H. Wray (HTML, PDF) (CC BY-NC-ND)
 * [Algorithms Notes for Professionals](https://goalkicker.com/AlgorithmsBook) - Compiled from StackOverflow Documentation (PDF)
+* [Algorithms, 4th Edition](https://algs4.cs.princeton.edu/home/) - Robert Sedgewick, Kevin Wayne
 * [An Open Guide to Data Structures and Algorithms](https://open.umn.edu/opentextbooks/textbooks/an-open-guide-to-data-structures-and-algorithms) - Paul W. Bible, Lucas Moser (PDF)
 * [Annotated Algorithms in Python: Applications in Physics, Biology, and Finance](https://github.com/mdipierro/nlib) - Massimo Di Pierro
 * [Binary Trees](http://cslibrary.stanford.edu/110/BinaryTrees.pdf) - Nick Parlante (PDF)
@@ -114,11 +116,13 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Data Structures](https://en.wikibooks.org/wiki/Data_Structures) - Wikibooks
 * [Data Structures and Algorithm Analysis in C++](https://people.cs.vt.edu/~shaffer/Book/C++3elatest.pdf) - Clifford A. Shaffer (PDF)
 * [Data Structures and Algorithms: Annotated Reference with Examples](https://web.archive.org/web/20170715160229/http://dotnetslackers.com/Community/files/folders/data-structures-and-algorithms/entry30283.aspx) - G. Barnett, L. Del Tongo *( :card_file_box: archived)*
+* [Data Structures and Functional Programming](https://www.cs.cmu.edu/~rwh/theses/okasaki.pdf) - Chris Okasaki (PDF)
 * [Data Structures Succinctly Part 1, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart1) - Robert Horvick
 * [Data Structures Succinctly Part 2, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart2) - Robert Horvick
 * [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY) - Larry Liu Xinyu (PDF)
 * [Essential Algorithms](https://www.programming-books.io/essential/algorithms/) - Krzysztof Kowalczyk and Stack Overflow Documentation project (HTML)
 * [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html) - Al Aho, Jeff Ullman
+* [Introduction to Algorithms and Data Structures](https://people.cs.vt.edu/shaffer/Book/JAVA3elatest.pdf) - Clifford A. Shaffer (PDF)
 * [Learning Algorithm](https://riptutorial.com/Download/algorithm.pdf) - Compiled from StackOverflow documentation (PDF) (CC BY-SA)
 * [Lectures Notes on Algorithm Analysis and Computational Complexity (Fourth Edition)](https://ianparberry.com/books/free/license.html) - Ian Parberry (use form at bottom of license)
 * [LEDA: A Platform for Combinatorial and Geometric Computing](https://people.mpi-inf.mpg.de/~mehlhorn/LEDAbook.html) - K. Mehlhorn, St. Näher

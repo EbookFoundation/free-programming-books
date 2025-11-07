@@ -1,4 +1,3 @@
-# List of Free Learning Resources In Many Languages
 
 <div align="center" markdown="1">
 
@@ -97,4 +96,3 @@ This project lists books and other resources grouped by genres:
 
 - [English, By Programming Language](books/free-programming-books-langs.md)
 - [English, By Subject](books/free-programming-books-subjects.md)
-

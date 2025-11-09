@@ -6,10 +6,6 @@
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
-* [Cloud Computing](#cloud-computing)
-* [Computer Organisation & Architecture](#computer-organisation--architecture)
-* [Cryptography & Network Security](#cryptography--network-security)
-* [Data Science](#data-science)
 * [Data Structures and Algorithms](#dsa)
 * [Express JS](#express-js)
 * [Flutter](#flutter)
@@ -78,43 +74,11 @@
 * [C++ Programming in Tamil](https://www.youtube.com/playlist?list=PLYM2_EX_xVvUppW1kS91ZNEI20k1V1liI) - Logic First Tamil
 
 
-### Cloud Computing
-
-* [AWS Cloud Computing For Beginners Tamil](https://www.youtube.com/watch?v=DaSt-5tTmG4) - BTree Systems
-* [AWS Full Course](https://www.youtube.com/watch?v=eZeNIakuqbc) - The Madras Programmer
-* [Cloud Computing In Tamil](https://www.youtube.com/playlist?list=PL3WUjOOQCEw08GWGuKvuZdrb7Bfkn3oxh) - Ganapathy Tech Tips
-* [Data Engineering](https://www.youtube.com/playlist?list=PLLa_h7BriLH3gVIwDBamEFCbqPW8SqAqU) - Google Cloud Tamil
-
-
-### Computer Organisation & Architecture
-
-* [COMPUTER ARCHITECTURE](https://www.youtube.com/playlist?list=PLs5kvWTDBVQx4Wy1Si8N5Kv2XOViASmPd) - TAMIL KANINI
-* [Computer Architecture in Tamil](https://www.youtube.com/playlist?list=PLBMNl-szJPPc2ZAJeA1Va1qGDL8F7l9Dq) - Terrace Out
-* [Digital Principles and Computer Organization in Tamil](https://www.youtube.com/playlist?list=PLOmHrZkA584-oWxuXJGv1y9C9knOEW_ti) - 4G Silver Academy தமிழ்
-
-
-### Cryptography & Network Security
-
-* [CRYPTOGRAPHY & NETWORK SECURITY](https://www.youtube.com/playlist?list=PLmAmHQ-_5ySx_dXmOwSuGGGyE8XsbYT0n) - Trouble- Free
-* [Cryptography And Network Security](https://www.youtube.com/playlist?list=PLBMNl-szJPPePpMWV3GNIgI3rvSwo3Yav) - Terrace Out
-* [Cryptography & Network security](https://www.youtube.com/playlist?list=PL1eBtGPYeYXXVme45jaTpG3RiRYyPbGoT) - Won the ARREARS
-* [Cryptography and Cyber Security CB3491](https://www.youtube.com/playlist?list=PLfNKAsmI385JgHfEw32fM9-4qT3fYiTFu) - PK Educational Institute
-* [Cryptography and Cyber Security in Tamil](https://www.youtube.com/playlist?list=PLOmHrZkA584-moxtJEbgIgswpjSB6jkgl) - 4G Silver Academy தமிழ்
-* [Cryptography and cyber security CB3491](https://www.youtube.com/playlist?list=PLwheXbz_XBtlAu-T0wq489qojaVqwxnlv) - Murugan Tech World
-* [Cryptography and Network Security(CB3491)](https://www.youtube.com/playlist?list=PLR4Rlu17MDY5PP5MO6y3AehtPIBmN6ajX) - BECAUSE
-
-
-### Data Science
-
-* [Data Science Full Course in Tamil](https://www.youtube.com/watch?v=hNCd_BM4T3M) - BTree Systems
-* [Data Science Full Course in Tamil](https://www.youtube.com/playlist?list=PL-M5l4dLK9TVOoqZXW6cSYKcSjKzuLbOl) - KaaShiv InfoTech
-
-
 ### <a id="dsa"></a>Data Structures and Algorithms
 
-* [Data Structures and Algorithms](https://youtube.com/playlist?list=PL_UqaR55i1797oG0BL0wtxdPpa_NYNFLz) - CSE Tamila by Eezytutorials
-* [Data Structures and Algorithms-Java](https://www.youtube.com/playlist?list=PLYM2_EX_xVvX7_AmNY-Deacp3rT3MIXnE) - Logic First Tamil
-* [Data Structures and Algorithms-Python](https://www.youtube.com/playlist?list=PLVkDztYhxUGH9AubH9hLy_JYam8EZ9VKs) - Code Meal
+* [தமிழில் Data Structures and Algorithms](https://youtube.com/playlist?list=PL_UqaR55i1797oG0BL0wtxdPpa_NYNFLz) - CSE Tamila by Eezytutorials
+* [Data Structures & Algorithms Python](https://www.youtube.com/playlist?list=PLVkDztYhxUGH9AubH9hLy_JYam8EZ9VKs) - Code Meal
+* [Data Structures and Algorithms in Java](https://www.youtube.com/playlist?list=PLYM2_EX_xVvX7_AmNY-Deacp3rT3MIXnE) - Logic First Tamil
 
 
 ### Express JS
@@ -250,4 +214,3 @@
 ### Swift
 
 * [Introduction to Swift Programming language in Tamil](https://www.youtube.com/playlist?list=PLSCKJRsangaXy00U-TpGC-1f83nS5B66O) - Alice Academy
-

@@ -4,8 +4,8 @@
 * [Android](#android)
 * [Bash and Shell](#bash-and-shell)
 * [C](#c)
-* [C++](#cpp)
 * [C#](#csharp)
+* [C++](#cpp)
 * [Cloud Computing](#cloud-computing)
 * [Computer Organisation & Architecture](#computer-organisation--architecture)
 * [Cryptography & Network Security](#cryptography--network-security)
@@ -61,12 +61,6 @@
 * [Types Of Pointers IN C Programming Tutorial For Beginners In TAMIL](https://www.youtube.com/playlist?list=PL1BEqtXLfK1o2xyxLO95R6Fo9PV7mGoXf) - Programming Tutor Tamil
 
 
-### <a id="cpp"></a>C++
-
-* [C++ Programming in Tamil](https://youtube.com/playlist?list=PLWbtDrDnmTHBPD-Dt5BJi7iP11x6UvgU0) - CS in Tamil
-* [C++ Programming in Tamil](https://www.youtube.com/playlist?list=PLYM2_EX_xVvUppW1kS91ZNEI20k1V1liI) - Logic First Tamil
-
-
 ### <a id="csharp"></a>C#
 
 * [C# Course in Tamil](https://www.youtube.com/playlist?list=PLN00Qh4gtjNv_MSn3_Nl6GqGYxyd_LIQM) - Programming Line
@@ -77,6 +71,11 @@
 * [Tamil - C# / .Net Basics For Beginner to Expert](https://www.youtube.com/watch?v=ciFCKxjuirM) - CodeWithKarthik
 * [Unity C# Scripting Basics in Tamil](https://www.youtube.com/playlist?list=PLvRASKtKbYeRV8GGS-Xxu0hQJOW4Yxviq) - AJAY AJ - GAME DEV
 
+
+### <a id="cpp"></a>C++
+
+* [C++ Programming in Tamil](https://youtube.com/playlist?list=PLWbtDrDnmTHBPD-Dt5BJi7iP11x6UvgU0) - CS in Tamil
+* [C++ Programming in Tamil](https://www.youtube.com/playlist?list=PLYM2_EX_xVvUppW1kS91ZNEI20k1V1liI) - Logic First Tamil
 
 ### Cloud Computing
 
@@ -98,8 +97,8 @@
 * [CRYPTOGRAPHY & NETWORK SECURITY](https://www.youtube.com/playlist?list=PLmAmHQ-_5ySx_dXmOwSuGGGyE8XsbYT0n) - Trouble- Free
 * [Cryptography & Network security](https://www.youtube.com/playlist?list=PL1eBtGPYeYXXVme45jaTpG3RiRYyPbGoT) - Won the ARREARS
 * [Cryptography And Network Security](https://www.youtube.com/playlist?list=PLBMNl-szJPPePpMWV3GNIgI3rvSwo3Yav) - Terrace Out
-* [Cryptography and Cyber Security CB3491](https://www.youtube.com/playlist?list=PLfNKAsmI385JgHfEw32fM9-4qT3fYiTFu) - PK Educational Institute
 * [Cryptography and Cyber Security in Tamil](https://www.youtube.com/playlist?list=PLOmHrZkA584-moxtJEbgIgswpjSB6jkgl) - 4G Silver Academy தமிழ்
+* [Cryptography and Cyber Security CB3491](https://www.youtube.com/playlist?list=PLfNKAsmI385JgHfEw32fM9-4qT3fYiTFu) - PK Educational Institute
 * [Cryptography and Network Security(CB3491)](https://www.youtube.com/playlist?list=PLR4Rlu17MDY5PP5MO6y3AehtPIBmN6ajX) - BECAUSE
 * [Cryptography and cyber security CB3491](https://www.youtube.com/playlist?list=PLwheXbz_XBtlAu-T0wq489qojaVqwxnlv) - Murugan Tech World
 
@@ -163,8 +162,8 @@
 * [Machine Learning In Tamil](https://www.youtube.com/playlist?list=PLorkqpg7qgkw8xqc-RmuCgfCWRWCRnN-u) - Chill and Grow
 * [Machine Learning In Tamil](https://www.youtube.com/playlist?list=PL3uLubnzL2TnWzEtapD1w5ypl8tMR9N08) - Shriram Vasudevan
 * [Machine Learning Tamil Lecture Series Part #1 Data Preprocessing](https://www.youtube.com/playlist?list=PL18h92UN0f0bm1Aw9_Tgk1Nrp9rOzV63N) - LWM - தமிழ்
-* [Machine Learning in Tamil](https://www.youtube.com/playlist?list=PLOmHrZkA584-YEDX_2CMGnY2Xvj6B4Lf-) - 4G Silver Academy தமிழ்
 * [Machine Learning in Tamil](https://www.youtube.com/playlist?list=PLJtSFa-YIedYu2QfQaHJJBLT096RxtMHD) - Majaa Matrix
+* [Machine Learning in Tamil](https://www.youtube.com/playlist?list=PLOmHrZkA584-YEDX_2CMGnY2Xvj6B4Lf-) - 4G Silver Academy தமிழ்
 * [Machine Learning in Tamil](https://youtube.com/playlist?list=PL5itdT07Pm8wxRaPWljPntnBmnOs4ExDM) - Nithya Duraisamy
 * [Machine Learning with Python and R](https://www.youtube.com/playlist?list=PL-1QQC56x1gEgj8C4L2hw5orryqgdnuoP) - Data Science Alive
 

@@ -4,6 +4,7 @@
 * [Android](#android)
 * [Bash and Shell](#bash-and-shell)
 * [C](#c)
+* [C#](#csharp)
 * [C++](#cpp)
 * [Cloud Computing](#cloud-computing)
 * [Computer Organisation & Architecture](#computer-organisation--architecture)
@@ -44,12 +45,31 @@
 ### Bash and Shell
 
 * [Bash scripting in Tamil](https://youtube.com/playlist?list=PLgWpUXNR_WCeWiXmsYf5HUe7E4I29zTJr) - Payilagam
+* [Complete Bash Shell Scripting for beginners in Tamil \| Linux \| Redhat \| Bash \| Shell Scripting Tamil](https://www.youtube.com/watch?v=7vvigzYvapA) - Tamil Tut Era
+* [Linux Shell Scripting - Tamil](https://www.youtube.com/playlist?list=PLe61-EtQTlGsMT6fLm0ONaAycUuNK1TeF) - Skill Up With Stan
 
 
 ### C
 
+* [C Programming for Beginners in Tamil \| Complete Course \| code io - Tamil](https://www.youtube.com/watch?v=fmSnLiAv-zc) - code io - Tamil
+* [C Programming in Tamil](https://www.youtube.com/playlist?list=PLAJng2Pkr-8wB0CcJ73mrCrE96FrB_XHO) - Kai Naatu
+* [C Programming in Tamil \| Complete C Programming course (2023) \| C tutorial - தமிழ்](https://www.youtube.com/watch?v=JAy56OH58Y4) - Logic First Tamil
+* [C Programming Tutorial - Tamil](https://www.youtube.com/playlist?list=PL2j991kByVOVKWsOxB-CQV-nISLn9ZcvV) - CONQUER VICTORY
 * [C Tutorial in Tamil](https://youtube.com/playlist?list=PLBQXOA5OR76rq-sU8mNsUmj2Z9kQXz7oD) - Tamil Pro Techniques
+* [CS25C01- Computer Programming C in Tamil -Anna university regulation-2025](https://www.youtube.com/playlist?list=PLwheXbz_XBtlRkGvQVJ34RkDl5mg1ndND) - Murugan Tech World
 * [Fundamentals of C programming in Tamil](https://youtube.com/playlist?list=PLmjuBlzAWCzxTdRxTtMSj1NFe_GvFlvFw) - Collectiva Knowledge Academy
+* [Types Of Pointers IN C Programming Tutorial For Beginners In TAMIL](https://www.youtube.com/playlist?list=PL1BEqtXLfK1o2xyxLO95R6Fo9PV7mGoXf) - Programming Tutor Tamil
+
+
+### <a id="csharp"></a>C#
+
+* [C# Course in Tamil](https://www.youtube.com/playlist?list=PLN00Qh4gtjNv_MSn3_Nl6GqGYxyd_LIQM) - Programming Line
+* [C# tutorial in Tamil - Full Course for Beginners \| தமிழ்](https://www.youtube.com/watch?v=wEv8QiCyeSE) - Anto sujesh
+* [Learn C# in 8 Hours - Full Course \| C# Tutorial for beginners in Tamil](https://www.youtube.com/watch?v=74b1tdaf5MM&t=16s) - BTree Systems
+* [Learn C# in Tamil](https://www.youtube.com/playlist?list=PLiHeZHTmVuddLE9IW6vqUqwr12U1WzK3g) - Kaalaratham Tamil Tholaikaatchi
+* [Selenium Automation Testing (C# cucumber BDD) \| specflow BDD courset](https://www.youtube.com/playlist?list=PLjuPgqaza-gpvva4T9FxIxO7Iyqk4sKTU) - Learn Technology in Tamil
+* [Tamil - C# / .Net Basics For Beginner to Expert](https://www.youtube.com/watch?v=ciFCKxjuirM) - CodeWithKarthik
+* [Unity C# Scripting Basics in Tamil](https://www.youtube.com/playlist?list=PLvRASKtKbYeRV8GGS-Xxu0hQJOW4Yxviq) - AJAY AJ - GAME DEV
 
 
 ### <a id="cpp"></a>C++
@@ -138,16 +158,26 @@
 
 ### Machine Learning
 
+* [Artificial Intelligence and Machine Learning (CS3491)](https://www.youtube.com/playlist?list=PLR4Rlu17MDY5jGC5tO_6kJsSDELOzmveh) - BECAUSE
 * [Introduction to Machine Learning(Tamil)](https://www.youtube.com/playlist?list=PLyqSpQzTE6M-9thAeyB2mRFYvvW8AWxXX) - IIT Madras NPTEL
+* [Machine Learning In Tamil](https://www.youtube.com/playlist?list=PLorkqpg7qgkw8xqc-RmuCgfCWRWCRnN-u) - Chill and Grow
+* [Machine Learning In Tamil](https://www.youtube.com/playlist?list=PL3uLubnzL2TnWzEtapD1w5ypl8tMR9N08) - Shriram Vasudevan
 * [Machine Learning in Tamil](https://www.youtube.com/playlist?list=PLJtSFa-YIedYu2QfQaHJJBLT096RxtMHD) - Majaa Matrix
+* [Machine Learning in Tamil](https://www.youtube.com/playlist?list=PLOmHrZkA584-YEDX_2CMGnY2Xvj6B4Lf-) - 4G Silver Academy தமிழ்
 * [Machine Learning in Tamil](https://youtube.com/playlist?list=PL5itdT07Pm8wxRaPWljPntnBmnOs4ExDM) - Nithya Duraisamy
+* [Machine Learning Tamil Lecture Series Part #1 Data Preprocessing](https://www.youtube.com/playlist?list=PL18h92UN0f0bm1Aw9_Tgk1Nrp9rOzV63N) - LWM - தமிழ்
 * [Machine Learning with Python and R](https://www.youtube.com/playlist?list=PL-1QQC56x1gEgj8C4L2hw5orryqgdnuoP) - Data Science Alive
 
 
 ### MongoDB
 
+* [Mongo DB](https://www.youtube.com/playlist?list=PLhP5RsB7fhE3Tprm1_WyiToWM80SXw-UN) - code io - Tamil
+* [Mongo DB Tutorial In Tamil](https://www.youtube.com/playlist?list=PLoM4uAkd4g69r07VTpVNIZ7wmC_Lkqd0H) - BTree Systems
+* [MongoDB Complete Course in Tamil \| 3 Hours](https://www.youtube.com/watch?v=0zwYbudzaJc) - CodeWithKarthik
+* [MongoDB Complete Tutorial \| MongoDB in Tamil \| Tutor Joe's](https://www.youtube.com/watch?v=KD-2vh9v1co) - Tutor Joe's Stanley
 * [MongoDB Course in Tamil](https://www.youtube.com/playlist?list=PL7BQ4lqtgECRiWoThupyKXRQoDuEV2zy5) - JVL Code
 * [MongoDB Tamil Tutorial for Beginners](https://www.youtube.com/playlist?list=PLfD4W8QfMd5DhXKriTHyHjNzNSe_1I7g1) - MaanavaN Learn Code
+* [MongoDB Tutorial for beginners in Tamil 2025 \| Full Course for Beginners](https://www.youtube.com/watch?v=CKaywM2qXpo) - Balachandra
 
 
 ### Next JS

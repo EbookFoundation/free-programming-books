@@ -657,7 +657,6 @@
 
 ### Python
 
-* [菜鸟教程 · Python3 教程](https://www.runoob.com/python3/python3-tutorial.html) - 中文 Python3 入门教程，内容清晰、示例丰富，适合初学者。
 * [简明 Python 教程](https://web.archive.org/web/20200822010330/https://bop.mol.uno/) - Swaroop C H、沈洁元(翻译)、漠伦(翻译) *( :card_file_box: archived)*
 * [人生苦短，我用python](https://www.cnblogs.com/derek1184405959/p/8579428.html) - zhang_derek *(内含丰富的笔记以及各类教程)*
 * [深入 Python 3](https://github.com/jiechic/diveintopython3)

@@ -657,6 +657,7 @@
 
 ### Python
 
+* [菜鸟教程 · Python3 教程](https://www.runoob.com/python3/python3-tutorial.html) - 中文 Python3 入门教程，内容清晰、示例丰富，适合初学者。
 * [简明 Python 教程](https://web.archive.org/web/20200822010330/https://bop.mol.uno/) - Swaroop C H、沈洁元(翻译)、漠伦(翻译) *( :card_file_box: archived)*
 * [人生苦短，我用python](https://www.cnblogs.com/derek1184405959/p/8579428.html) - zhang_derek *(内含丰富的笔记以及各类教程)*
 * [深入 Python 3](https://github.com/jiechic/diveintopython3)
@@ -664,7 +665,6 @@
 * [Numpy 1.16 中文文档](http://www.osgeo.cn/numpy/) (Online)
 * [Python 3 文档(简体中文) 3.2.2 documentation](http://docspy3zh.readthedocs.org/en/latest/)
 * [Python 3.8.0a3中文文档](http://www.osgeo.cn/cpython/) (Online) *(目前在线最全的中文文档了)*
-* [Python 中文学习大本营](http://www.pythondoc.com)
 * [Python 最佳实践指南](https://pythonguidecn.readthedocs.io/zh/latest/)
 * [Python Cookbook第三版](http://python3-cookbook.readthedocs.io/zh_CN/latest/) - David Beazley、Brian K.Jones、熊能(翻译)
 * [Python教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1016959663602400)

@@ -142,7 +142,6 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Think Complexity (2nd Edition)](https://greenteapress.com/wp/think-complexity-2e/) - Allen B. Downey
 
 
-
 ### Artificial Intelligence
 
 * [AI Safety for Fleshy Humans](https://aisafety.dance) - Nicky Case and Hack Club *( :construction: in process)* (CC BY-NC)

@@ -429,6 +429,7 @@
 * [Python Funcional](https://dunossauro.github.io/python-funcional/) - Eduardo Mendes
 * [Python para Desenvolvedores](https://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf) (PDF)
 * [Python para Matemáticos](https://sbm.org.br/wp-content/uploads/2023/09/Minicurso_Python_final2.pdf) - Andréa Lins, Lins Souza (PDF)
+* [Python para Zumbis](https://pyzumbis.github.io) - Fernando Masanori
 * [Tutorial Django Girls](http://tutorial.djangogirls.org/pt/)
 
 

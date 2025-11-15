@@ -2,7 +2,7 @@
 
 Als die Mitwirkenden und die Verantwortlichen dieses Projekts,
 und in dem Willen, eine offene und einladende Gemeinschaft zu fördern,
-verpflichen wir uns dazu, alle Personen zu respektieren, die zum Projekt beitragen, 
+verpflichten wir uns dazu, alle Personen zu respektieren, die zum Projekt beitragen, 
 sei es durch das Anlegen von Support-Tickets, dem Veröffentlichen von Feature Requests, 
 dem Überarbeiten von Dokumentation, dem Vorschlagen von Pull Requests oder Patches oder durch andere Aktivitäten.
 

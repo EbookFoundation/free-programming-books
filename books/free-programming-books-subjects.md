@@ -163,7 +163,8 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Stanford CS224N: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) - Christopher Manning (Stanford Online)
 * [The History of Artificial Intelligence](https://courses.cs.washington.edu/courses/csep590/06au/projects/history-ai.pdf) - Chris Smith, Brian McGuire, Ting Huang, Gary Yang (PDF)
 * [The Quest for Artificial Intelligence: A History of Ideas and Achievements](https://ai.stanford.edu/~nilsson/QAI/qai.pdf) - Nils J. Nilsson (PDF)
-
+* [The Big Book of Generative AI (Databricks) — free PDF / guidebook](https://www.hkdca.com/wp-content/uploads/2024/08/big-book-generative-ai-databricks.pdf) — broad free reference covering generative models, tools, and practical examples.
+* [Generative AI in Higher Education: The ChatGPT Effect (open access)](https://archive.org/details/oapen-20.500.12657-88443) — open-access book examining generative AI applications, pedagogy, and responsible use.
 
 ### Blockchain
 

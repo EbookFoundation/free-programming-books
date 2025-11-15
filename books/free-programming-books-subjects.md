@@ -106,6 +106,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Algorithms and Complexity](https://www.math.upenn.edu/~wilf/AlgoComp.pdf) - Herbert S. Wilf (PDF)
 * [Algorithms and Data Structures](https://textbookequity.org/Textbooks/Nievergelt_Algorithms%20and%20Data%20Structures08.pdf) - Jürg Nievergelt, Klaus Hinrichs (PDF)
 * [Algorithms Course Materials](https://jeffe.cs.illinois.edu/teaching/algorithms/) - Jeff Erickson
+* [Algorithms for Decision Making](https://algorithmsbook.com/decisionmaking/) - Mykel J. Kochenderfer, Tim A. Wheeler, Kyle H. Wray (HTML, PDF) (CC BY-NC-ND)
 * [Algorithms Notes for Professionals](https://goalkicker.com/AlgorithmsBook) - Compiled from StackOverflow Documentation (PDF)
 * [An Open Guide to Data Structures and Algorithms](https://open.umn.edu/opentextbooks/textbooks/an-open-guide-to-data-structures-and-algorithms) - Paul W. Bible, Lucas Moser (PDF)
 * [Annotated Algorithms in Python: Applications in Physics, Biology, and Finance](https://github.com/mdipierro/nlib) - Massimo Di Pierro
@@ -113,6 +114,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Data Structures](https://adityacse.weebly.com/uploads/2/4/0/7/24078687/data-structures.pdf) - Aditya CSE (PDF)
 * [Data Structures](https://en.wikibooks.org/wiki/Data_Structures) - Wikibooks
 * [Data Structures and Algorithm Analysis in C++](https://people.cs.vt.edu/~shaffer/Book/C++3elatest.pdf) - Clifford A. Shaffer (PDF)
+* [Data Structures and Algorithm Analysis in Java](https://people.cs.vt.edu/~shaffer/Book/JAVA3elatest.pdf) - Clifford A. Shaffer (PDF)
 * [Data Structures and Algorithms: Annotated Reference with Examples](https://web.archive.org/web/20170715160229/http://dotnetslackers.com/Community/files/folders/data-structures-and-algorithms/entry30283.aspx) - G. Barnett, L. Del Tongo *( :card_file_box: archived)*
 * [Data Structures Succinctly Part 1, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart1) - Robert Horvick
 * [Data Structures Succinctly Part 2, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/datastructurespart2) - Robert Horvick
@@ -128,9 +130,9 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Open Data Structures: An Introduction](https://opendatastructures.org) - Pat Morin
 * [Planning Algorithms](http://lavalle.pl/planning/) - Steven M. LaValle
 * [Problems on Algorithms (Second Edition)](https://ianparberry.com/books/free/license.html) - Ian Parberry (use form at bottom of license)
-* [Purely Functional Data Structures (1996)](https://web.archive.org/web/20210917054102/http://www.cs.cmu.edu/~rwh/theses/okasaki.pdf) - Chris Okasaki (PDF) *( :card_file_box: archived)*
+* [Purely Functional Data Structures](https://www.cs.cmu.edu/~rwh/students/okasaki.pdf) - Chris Okasaki (PDF)
 * [Sequential and parallel sorting algorithms](https://www.inf.hs-flensburg.de/lang/algorithmen/sortieren/algoen.htm) - Hans Werner Lang (HTML)
-* [Text Algorithms](https://igm.univ-mlv.fr/~mac/REC/text-algorithms.pdf) - Maxime Crochemore, Wojciech Rytter (PDF)
+* [Text Algorithms](http://igm.univ-mlv.fr/~mac/REC/text-algorithms.pdf) - Maxime Crochemore, Wojciech Rytter (PDF)
 * [The Algorithm Design Manual](https://www8.cs.umu.se/kurser/TDBAfl/VT06/algorithms/BOOK/BOOK/BOOK.HTM) - Steven S. Skiena (HTML)
 * [The Algorithms](https://the-algorithms.com)
 * [The Design of Approximation Algorithms](https://www.designofapproxalgs.com/book.pdf) - David P. Williamson, David B. Shmoys (PDF)

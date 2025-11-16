@@ -233,7 +233,7 @@
 * [Python in Telugu - Step by Step Tutorials](https://www.youtube.com/playlist?list=PLC2mgeYbYNm-3aTUq98pbmrA3P1_m-aJR) - Telugu Computer World
 * [Python Course in Telugu: 30 days challenge](https://www.youtube.com/playlist?list=PLNgoFk5SYUglQOaXSY8lAlPXmK6tQBHaw) - Vamsi Bhavani
 * [Python Full Course in Telugu with Notes](https://www.youtube.com/playlist?list=PL2Kd-KQLppEF2rENam5gUQnslbfpRyLxR) - Dodagatta Nihar
-* [Python Full Course in Telugu – Great Learning](https://www.youtube.com/watch?v=W_sA2YxJdxs) - Great Learning
+* [Python Full Course in Telugu – Great Learning](https://youtu.be/fHKPQEVCX-s?si=JR-pBYk6agetsvbM) - Great Learning
 
 
 ### R

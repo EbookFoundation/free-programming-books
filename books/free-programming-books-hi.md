@@ -35,6 +35,8 @@
 ### Data Structure and Algorithms
 
 * [Data Structure with C \| Hindi](http://www.bccfalna.com/IOC-AllEBooks/DSnAinHindi.pdf) - Kuldeep Chand (PDF)
+* [Algorithms - Abdul Bari (YouTube)](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) -    एल्गोरिदम पर विस्तृत वीडियो लेक्चर्स (अंग्रेजी में).
+
 
 
 ### Java

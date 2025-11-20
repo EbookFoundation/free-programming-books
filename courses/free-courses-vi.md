@@ -248,8 +248,8 @@
 * [Go Language Advanced Programming](https://github.com/zalopay-oss/go-advanced) - Zalopay
 * [Golang cơ bản - Playlist](https://www.youtube.com/playlist?list=PLw-L1SGSvTEco7QvKTEd39wrMoTCPNUuN) - Yuh lập trình viên
 * [Golang thực chiến cho người mới](https://www.youtube.com/playlist?list=PLVDJsRQrTUz4bQDHCElBG2AsJzCwonqKs) - Code4Func
-* [KHÓA HỌC GOLANG Zero to Hero: Học Lập Trình Go Từ Cơ Bản Đến Nâng Cao!](https://www.youtube.com/playlist?list=PLTasIXUHepx0tYvXfFsbEl69VbMCZDH1i) - Code With Tuan
 * [KHÓA HỌC API THỰC CHIẾN Làm Chủ RESTful API với Golang (Go) & Gin Framework - Từ Zero Đến Sẵn Sàng Đi Làm!](https://www.youtube.com/playlist?list=PLTasIXUHepx1hPkFeN9OXa2bcuILAqiJM) - Code With Tuan
+* [KHÓA HỌC GOLANG Zero to Hero: Học Lập Trình Go Từ Cơ Bản Đến Nâng Cao!](https://www.youtube.com/playlist?list=PLTasIXUHepx0tYvXfFsbEl69VbMCZDH1i) - Code With Tuan
 * [Lập trình Go cơ bản](https://www.youtube.com/playlist?list=PLOsM_3jFFQRnzp7jWU3WLmQ1sF4IX45zr) - Việt Trần
 * [Lập trình Golang](https://www.youtube.com/playlist?list=PLVDJsRQrTUz5icsxSfKdymhghOtLNFn-k) - Code4Func
 * [Lập Trình REST API cơ bản với Golang](https://www.youtube.com/playlist?list=PLOsM_3jFFQRl3tAqDVU-nPJOHBfXJVnaM) - Việt Trần

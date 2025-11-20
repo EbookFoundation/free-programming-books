@@ -235,6 +235,7 @@
 * [Python Full Course in Telugu with Notes](https://www.youtube.com/playlist?list=PL2Kd-KQLppEF2rENam5gUQnslbfpRyLxR) - Dodagatta Nihar
 * [Python Full Course in Telugu – Great Learning](https://www.youtube.com/playlist?list=PLbMVPNscUopRsjl_O6jce4apc1BoRYAYp) - Great Learning
 
+
 ### R
 
 * [R Programming Language Training Videos In telugu - R ట్రైనింగ్ వీడియోస్ ఇన్ తెలుగు R programming ట్రైనింగ్ వీడియోస్ ఇన్ తెలుగు](https://www.youtube.com/playlist?list=PLXx2-0oYp1LO9H8ciGQaTr6SN80dteTlc) - VLR Training

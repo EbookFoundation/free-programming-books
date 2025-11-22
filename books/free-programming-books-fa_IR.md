@@ -79,6 +79,7 @@
 
 * [پایتون به پارسی](https://python.coderz.ir) - سعید درویش&rlm; (HTML)
 * [ترجمه آزاد کتاب Asyncio in Python&rlm;](https://github.com/ftg-iran/aip-persian)
+* [ترجمه آزاد کتاب ThinkPython](https://github.com/ThinkPythonPersian/thinkbook)
 
 
 #### Django

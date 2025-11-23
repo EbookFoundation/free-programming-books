@@ -10,6 +10,7 @@
 * [Chwila Dla Admina](https://www.youtube.com/playlist?list=PLdHokABybL4nu6h5C3ig4XSG2Ni6XeED0) - Artur Molendowski (podcast)
 * [Dev Env](https://devenv.pl/podcast/) - Adrian Piętka, Bartłomiej Michalski, Mateusz Konieczny (podcast)
 * [DevTalk](https://devstyle.pl/category/podcast) - Maciej Aniserowicz (podcast)
+* [Patoarchitekci](https://patoarchitekci.io) - Łukasz Kałużny, Szymon Warda (podcast)
 * [Piątki po deployu](https://www.youtube.com/playlist?list=PLLewE5KdsaqWFXAcVN1F4MUCuJxyt5I5E) - Mateusz Anioła, Miłosz Kusiciel (podcast)
 * [Porozmawiajmy o IT](https://porozmawiajmyoit.pl) - Krzysztof Kempiński (podcast)
 * [Przeprogramowani](https://przeprogramowani.pl/podcast) - Przemek Smyrdek, Marcin Czarkowski (podcast)

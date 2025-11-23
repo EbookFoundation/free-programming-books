@@ -409,9 +409,11 @@
 
 ### Kotlin
 
-* [Kotlin Cheat Sheet](https://devhints.io/kotlin) - Devhints (HTML)
-* [Kotlin Cheatsheet and Quick Reference](https://koenig-media.raywenderlich.com/uploads/2019/11/RW-Kotlin-Cheatsheet-1.1.pdf) - Ray Wenderlich (PDF)
-* [Kotlin Quick Reference](https://kotlinlang.org/docs/kotlin-reference.pdf) - JetBrains (PDF)
+* [Kotlin Cheat sheet](https://alidehkhodaei.github.io/kotlin-cheat-sheet/) - Pahul (HTML)
+* [Kotlin Cheatsheet](https://cheatsheetshero.com/user/all/336-kotlin-cheatsheet.pdf) - CShero (PDF)
+* [Kotlin Cheatsheet](https://www.devsheets.io/sheets/kotlin) - DevSheets (HTML)
+* [Kotlin Cheatsheet](https://devhints.io/kotlin) - Nadiaa (HTML)
+* [Kotlin Cheatsheet and quick reference](https://koenig-media.raywenderlich.com/uploads/2019/11/RW-Kotlin-Cheatsheet-1.1.pdf) - Ray Wenderlich (PDF)
 
 
 ### Language Translations

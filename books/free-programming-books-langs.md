@@ -1551,6 +1551,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Common Lisp Quick Reference](http://clqr.boundp.org)
 * [Common Lisp the Language, 2nd Edition](http://www.cs.cmu.edu/Groups/AI/html/cltl/mirrors.html)
 * [Google's Common Lisp Style Guide](https://google.github.io/styleguide/lispguide.xml)
+* [Introduction to newLISP](https://en.wikibooks.org/wiki/Introduction_to_newLISP) - Lutz Mueller (HTML)
 * [Interpreting LISP](http://www.civilized.com/files/lispbook.pdf) - Gary D. Knott (PDF)
 * [Learn Lisp The Hard Way](https://github.com/LispTO/llthw) - Colin J.E. Lupton
 * [Let Over Lambda - 50 Years of Lisp](http://letoverlambda.com/index.cl/) - D. Hoyte

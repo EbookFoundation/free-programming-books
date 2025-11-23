@@ -1543,16 +1543,23 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Lisp
 
-* [Google's Common Lisp Style Guide](...)
+* [ANSI Common Lisp Standard (draft version 15.17R, X3J13/94-101R)](https://franz.com/support/documentation/cl-ansi-standard-draft-w-sidebar.pdf) (PDF)
+* [Basic Lisp Techniques](http://franz.com/resources/educational_resources/cooper.book.pdf) - David J. Cooper Jr. (PDF)
+* [Casting Spels in Lisp](http://www.lisperati.com/casting.html)
+* [Common Lisp: A Gentle Introduction to Symbolic Computation](http://www.cs.cmu.edu/~dst/LispBook/) - David S. Touretzky (PDF, PS)
+* [Common Lisp: An Interactive Approach](http://www.cse.buffalo.edu/~shapiro/Commonlisp/) - Stuart C. Shapiro
+* [Common Lisp Quick Reference](http://clqr.boundp.org)
+* [Common Lisp the Language, 2nd Edition](http://www.cs.cmu.edu/Groups/AI/html/cltl/mirrors.html)
+* [Google's Common Lisp Style Guide](https://google.github.io/styleguide/lispguide.xml)
 * [Introduction to newLISP](https://en.wikibooks.org/wiki/Introduction_to_newLISP) - Lutz Mueller (HTML)
 * [Interpreting LISP](http://www.civilized.com/files/lispbook.pdf) - Gary D. Knott (PDF)
 * [Learn Lisp The Hard Way](https://github.com/LispTO/llthw) - Colin J.E. Lupton
-* [Let Over Lambda - 50 Years of Lisp](...)
-* [Lisp Hackers: Interviews with 100x More Productive Programmers](...)
-* [Lisp Koans](...)
-* [Lisp Web Tales](...)
-* [Loving Common Lisp, or the Savvy Programmer's Secret Weapon](...)
-* [On Lisp](...)
+* [Let Over Lambda - 50 Years of Lisp](http://letoverlambda.com/index.cl/) - D. Hoyte
+* [Lisp Hackers: Interviews with 100x More Productive Programmers](https://leanpub.com/lisphackers/read) - Vsevolod Dyomkin (HTML)
+* [Lisp Koans](https://github.com/google/lisp-koans)
+* [Lisp Web Tales](https://leanpub.com/lispwebtales) - Pavel Penev
+* [Loving Common Lisp, or the Savvy Programmer's Secret Weapon](https://leanpub.com/lovinglisp/read) - Mark Watson (HTML)
+* [On Lisp](http://www.paulgraham.com/onlisp.html) - P. Graham
 
 
 #### Emacs Lisp

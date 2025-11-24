@@ -176,9 +176,7 @@
 ### Rust
 
 * [Rust ile CHIP-8 Emülatörü Geliştirme](https://onur.github.io/chip8) - Onur Aslan
-* [Rust'a Giriş](https://github.s3.amazonaws.com/downloads/vertexclique/vertexclique.github.io/Rusta-Giris-v1.pdf) - Mahmut Bulut (PDF)
-
-
+[](url)
 ### <a id="yapay-zeka"></a>Yapay Zeka
 
 * [Derin Öğrenmeye Dalış](https://tr.d2l.ai/d2l-tr-pytorch.pdf) - Aston Zhang, Zachary C. Lipton, Mu Li, Alexander J. Smola (PDF)

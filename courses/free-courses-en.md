@@ -1657,9 +1657,6 @@
 * [Python Data Science Handbook (full content)](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [The Python Tutorial](https://docs.python.org/3/tutorial/)
 * [Using Python for Research](https://www.edx.org/course/using-python-for-research) (edX Harvard)
-
-
-
 #### Django
 
 * [Complete Django Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iqfAag3a_BKEX1N43uJutw) - Net Ninja

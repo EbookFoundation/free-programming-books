@@ -24,8 +24,11 @@
 * [R](#r)
 * [Ruby](#ruby)
 * [Rust](#rust)
-* [Yapay Zeka](#yapay-zeka)
+### Rust
 
+<!-- Note: 'Rust'a Giriş - Mahmut Bulut (PDF)' is no longer available. -->
+
+* [Yapay Zeka](#yapay-zeka)
 
 ### Algoritma ve Veri Yapıları
 

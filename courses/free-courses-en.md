@@ -1623,6 +1623,7 @@
 * [Python Course](https://www.python-course.eu)
 * [Python Course from scratch](https://scrimba.com/playlist/pNpZMAB) - Olaf Paulson (scrimba)
 * [Python Data Analysis](https://www.coursera.org/learn/python-analysis) - Scott Rixner, Joe Warren (Coursera)
+* [Python Data Science Handbook (full content)](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [Python Essentials 1](https://www.netacad.com/courses/python-essentials-1?courseLang=en-US) - Cisco Networking Acadamy
 * [Python Essentials 1](https://edube.org/study/pe1) (Edube Interactive)
 * [Python for Beginners](https://alison.com/course/python-for-beginners) - Merul Dhiman (Alison)
@@ -1654,9 +1655,9 @@
 * [Python Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU) - Corey Schafer
 * [Python Tutorials](https://www.youtube.com/playlist?list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB) - freeCodeCamp.org
 * [Python: Visually Explained](https://www.youtube.com/playlist?list=PL8HmoRTjTSlHFhqRC_2iavGUOVnUdfAyl) - Visually Explained
-* [Python Data Science Handbook (full content)](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [The Python Tutorial](https://docs.python.org/3/tutorial/)
 * [Using Python for Research](https://www.edx.org/course/using-python-for-research) (edX Harvard)
+  
 #### Django
 
 * [Complete Django Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iqfAag3a_BKEX1N43uJutw) - Net Ninja

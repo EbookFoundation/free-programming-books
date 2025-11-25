@@ -24,13 +24,16 @@
 * [R](#r)
 * [Ruby](#ruby)
 * [Rust](#rust)
+* [Yapay Zeka](#yapay-zeka)
 
+### Rust
 
 <!-- Note: 'Rust'a Giriş - Mahmut Bulut (PDF)' is no longer available. -->
 
 * [Yapay Zeka](#yapay-zeka)
 
 ### Algoritma ve Veri Yapıları
+
 
 * [Algoritma ve Programlama Soru Bankası](https://ia601404.us.archive.org/34/items/algoritma-ve-programlama-soru-bankasi/algoritma-ve-programlama-soru-bankas%C4%B1.pdf) (PDF)
 * [Algoritma ve Programlamaya Giriş Ders Notları](https://ia601404.us.archive.org/12/items/algoritma-ve-programlamaya-giris-ders-notlari/Algoritma%20ve%20Programlamaya%20Giri%C5%9F%20Ders%20Notlar%C4%B1.pdf) - [İbrahim Küçükkoç](http://ikucukkoc.baun.edu.tr) (PDF)

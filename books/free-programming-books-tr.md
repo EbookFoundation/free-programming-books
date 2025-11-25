@@ -26,6 +26,10 @@
 * [Rust](#rust)
 * [Yapay Zeka](#yapay-zeka)
 
+### Rust
+
+<!-- Note: 'Rust'a Giriş - Mahmut Bulut (PDF)' is no longer available. -->
+
 
 ### Algoritma ve Veri Yapıları
 
@@ -38,7 +42,7 @@
 
 ### Android
 
-* [Android Dersleri](https://umiitkose.com/android) - Ümit Köse
+ * [Android Dersleri](https://umiitkose.com/android) - Ümit Köse
 * [Android Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/android)
 * [Android Türkçe PDF](http://umiitkose.com/wp-content/uploads/2015/08/AndroidStudio.pdf) - Ümit Köse (PDF)
 
@@ -171,12 +175,6 @@
 * [Ruby 101](https://www.gitbook.com/book/vigo/ruby-101/details)
 * [Ruby Kullanıcı Kılavuzu](http://www.belgeler.org/uygulamalar/ruby/ruby-ug.html) - Mark Slagell
 * [Yirmi Dakikada Ruby](https://www.ruby-lang.org/tr/documentation/quickstart)
-
-
-### Rust
-
-* [Rust ile CHIP-8 Emülatörü Geliştirme](https://onur.github.io/chip8) - Onur Aslan
-* [Rust'a Giriş](https://github.s3.amazonaws.com/downloads/vertexclique/vertexclique.github.io/Rusta-Giris-v1.pdf) - Mahmut Bulut (PDF)
 
 
 ### <a id="yapay-zeka"></a>Yapay Zeka

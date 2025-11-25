@@ -24,7 +24,7 @@
 * [R](#r)
 * [Ruby](#ruby)
 * [Rust](#rust)
-### Rust
+
 
 <!-- Note: 'Rust'a Giriş - Mahmut Bulut (PDF)' is no longer available. -->
 

@@ -27,11 +27,9 @@
 
 ### PLC
 
-
-* [PLC tutorial for beginners](https://youtube.com/playlist?list=PLM-fDuwhsV0nAyn-B06TTbDW78HL3pNiw) - DevelUp Technical
-
+* [PLC tutorial for beginners](...) - DevelUp Technical
 
 ### Python
 
-* [Learn Python in Kannada](https://youtube.com/playlist?list=PLlGueSbLhZoD_mUatMaJsVukJ2Re3JAUj) - Engineering in Kannada
-* [python complete course in Kannada](https://youtube.com/playlist?list=PLUZkVL-W-8GKpo--HuELu27Lkc308fNXe) - script kiddie
+* [Learn Python in Kannada](...)
+* [python complete course in Kannada](...) - script kiddie

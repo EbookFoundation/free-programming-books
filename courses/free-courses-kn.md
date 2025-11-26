@@ -21,13 +21,15 @@
 
 ### JavaScript
 
-* [JavaScript course in Kannada](...)
-* [JavaScript for Beginners in Kannada (Full Course)](...) - MicroDegree ಕನ್ನಡ
-* [React JS Tutorial Series (Kannada)](...) - Script Kiddie
+* [JavaScript course in Kannada](https://youtube.com/playlist?list=PLUZkVL-W-8GJVkP8AZ0SAWqmDPv5bzTn9) - script kiddie
+* [JavaScript for Beginners in Kannada (Full Course)](https://www.youtube.com/playlist?list=PLQZtdyH5OY4BvjvmU0PV8nTevqXjYCYEE) - MicroDegree ಕನ್ನಡ
+* [React JS Tutorial Series (Kannada)](https://youtu.be/vYXY0_Vdkos?si=ZW5IHFuvJzE-eblc) - Script Kiddie
+
 
 ### PLC
 
-* [PLC tutorial for beginners](...) - DevelUp Technical
+* [PLC tutorial for beginners](https://youtube.com/playlist?list=PLM-fDuwhsV0nAyn-B06TTbDW78HL3pNiw) - DevelUp Technicals
+
 
 ### Python
 

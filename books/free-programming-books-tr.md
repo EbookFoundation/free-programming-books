@@ -177,6 +177,7 @@
 
 * [Rust ile CHIP-8 Emülatörü Geliştirme](https://onur.github.io/chip8) - Onur Aslan
 
+
 ### <a id="yapay-zeka"></a>Yapay Zeka
 
 * [Derin Öğrenmeye Dalış](https://tr.d2l.ai/d2l-tr-pytorch.pdf) - Aston Zhang, Zachary C. Lipton, Mu Li, Alexander J. Smola (PDF)

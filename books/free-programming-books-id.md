@@ -4,6 +4,8 @@
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
+* [DevOps](#devops)
+    * [Kubernetes](#kubernetes)
 * [Git](#git)
 * [Go](#go)
 * [HTML and CSS](#html-and-css)
@@ -17,6 +19,7 @@
     * [React.js](#reactjs)
     * [TypeScript](#typescript)
     * [Vue.js](#vuejs)
+* [MySQL](#mysql)
 * [Node.js](#nodejs)
 * [NoSQL](#nosql)
 * [Pascal](#pascal)
@@ -53,6 +56,13 @@
 
 * [Belajar C++ Dasar Bahasa Indonesia](https://github.com/kelasterbuka/CPP_dasar-dasar-programming) - Kelas Terbuka
 * [Buku Pintar C++ untuk Pemula](https://www.researchgate.net/publication/236687537_Buku_Pintar_C_untuk_Pemula) - Abdul Kadir
+
+
+### DevOps
+
+#### Kubernetes
+
+* [Kubernetes Pemula](https://github.com/jutionck/kubernetes-fundamental) - Jution Candra Kirana
 
 
 ### Git

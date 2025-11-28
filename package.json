@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "remark-lint": "^10.0.1"
+  }
+}

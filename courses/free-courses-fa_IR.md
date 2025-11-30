@@ -40,13 +40,13 @@
 
 ### C
 
-* [آموزش زبان C](https://toplearn.com/courses/3255/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%B2%D8%A8%D8%A7%D9%86-c) - Mohammad Moein Bagh Sheikhi  
-* [برنامه نویسی پیشرفته](https://maktabkhooneh.org/course/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-mk187) - Ramtin Khosravi  
+* [آموزش زبان C](https://toplearn.com/courses/3255/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D8%B2%D8%A8%D8%A7%D9%86-c) - Mohammad Moein Bagh Sheikhi
+* [برنامه نویسی پیشرفته](https://maktabkhooneh.org/course/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-mk187) - Ramtin Khosravi
 * [درس اصول برنامه‌نویسی C و C++ (دانشگاه صنعتی اصفهان)](https://maktabkhooneh.org/course/%D8%A7%D8%B5%D9%88%D9%84-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-C-%D9%88-C-mk68) - Kiarash Bazargan
 
 ### C# {#csharp}
 
-* [آموزش Asp.Net MVC به همراه پروژه عملی](https://toplearn.com/courses/web/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-AspNet-MVC-%D8%A8%D9%87-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D8%B9%D9%85%D9%84%DB%8C) - Iman Madaeny *(نیاز به ثبت نام دارد)*  
+* [آموزش Asp.Net MVC به همراه پروژه عملی](https://toplearn.com/courses/web/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-AspNet-MVC-%D8%A8%D9%87-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D8%B9%D9%85%D9%84%DB%8C) - Iman Madaeny *(نیاز به ثبت نام دارد)*
 * [دوره مقدماتی دات نت 5 تحت وب](https://bugeto.net/courses/free-introductory-asp-dot-net-core-training-course) - Ehsan Babaei *(نیاز به ثبت نام دارد)*
 
 ### Git
@@ -55,19 +55,19 @@
 
 ### HTML and CSS
 
-* [آموزش CSS](https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-css-mk1265) - Mohammad Hossein SeyedAghaie  
+* [آموزش CSS](https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-css-mk1265) - Mohammad Hossein SeyedAghaie
 * [آموزش HTML](https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-html-mk1263) - Mohammad Hossein SeyedAghaie
 
 ### Java
 
-* [آموزش برنامه‌نویسی جاوا](https://javacup.ir/javacup-training-videos) - Java Cup  
-* [آموزش دیتابیس در جاوا](https://b2n.ir/j02632)  
-* [برنامه نویسی پیشرفته (جاوا)](https://maktabkhooneh.org/course/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-%D8%AC%D8%A7%D9%88%D8%A7-mk242) - Gholamali Nejad Hajali Irani  
+* [آموزش برنامه‌نویسی جاوا](https://javacup.ir/javacup-training-videos) - Java Cup
+* [آموزش دیتابیس در جاوا](https://b2n.ir/j02632)
+* [برنامه نویسی پیشرفته (جاوا)](https://maktabkhooneh.org/course/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87-%D8%AC%D8%A7%D9%88%D8%A7-mk242) - Gholamali Nejad Hajali Irani
 * [برنامه‌نویسی حرفه‌ای تحت وب در جاوا](https://maktabkhooneh.org/course/%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D8%AD%D8%B1%D9%81%D9%87-%D8%A7%DB%8C-%D8%AA%D8%AD%D8%AA-%D9%88%D8%A8-%D8%AF%D8%B1-%D8%AC%D8%A7%D9%88%D8%A7-mk282) - Gholamali Nejad Hajali Irani
 
 ### JavaScript
 
-* [آموزش فارسی جاوااسکریپت مقدماتی تا پیشرفته](https://youtube.com/playlist?list=PLfbD3-Ao6cPpt5Y3Nkue_W-DrmdOLOaTH) - Mansour Kalagar  
+* [آموزش فارسی جاوااسکریپت مقدماتی تا پیشرفته](https://youtube.com/playlist?list=PLfbD3-Ao6cPpt5Y3Nkue_W-DrmdOLOaTH) - Mansour Kalagar
 * [دوره آموزشی جاوااسکریپت از صفر](https://www.youtube.com/playlist?list=PLAt10Vana3Yctuu576LSxK6AiskBiWgOF) - Mehran Tarif (Silicium)
 
 #### React {#react}
@@ -80,20 +80,20 @@
 
 ### Kotlin
 
-* [آموزش کامل برنامه نویسی با کاتلین](https://www.youtube.com/watch?v=SwhXvaXx078) - Amirahmad Adibi  
-* [دوره آموزشی کاتلین](https://mskm.ir/category/programming/kotlin/) - Mehrdad Dolatkhah  
+* [آموزش کامل برنامه نویسی با کاتلین](https://www.youtube.com/watch?v=SwhXvaXx078) - Amirahmad Adibi
+* [دوره آموزشی کاتلین](https://mskm.ir/category/programming/kotlin/) - Mehrdad Dolatkhah
 * [دوره رایگان برنامه نویسی اندروید](https://www.youtube.com/playlist?list=PLoBWKLYZlNi7lecoeYXHC868ZH_AE1uXg) - Omid Sharifmehr
 
 ### Linux
 
-* [آموزش رایگان لینوکس](https://www.youtube.com/playlist?list=PLRMCwJJwWR1A3_ECuOqdIaR-XLnr6bDj_) - Morteza Bashsiz  
-* [آموزش لینوکس برای آدم های شاد](https://www.youtube.com/playlist?list=PL-tKrPVkKKE2AniHDmp6zK9KGD1sjf0bd) - Jadi Mirmirani  
-* [آموزش لینوکس مقدماتی](https://www.youtube.com/watch?v=ZwaBNkQKrts&list=PLPj7mSUQL4v_oVLO-2Q1QQ9fAH45u8z4A) - Hamid Emamian  
+* [آموزش رایگان لینوکس](https://www.youtube.com/playlist?list=PLRMCwJJwWR1A3_ECuOqdIaR-XLnr6bDj_) - Morteza Bashsiz
+* [آموزش لینوکس برای آدم های شاد](https://www.youtube.com/playlist?list=PL-tKrPVkKKE2AniHDmp6zK9KGD1sjf0bd) - Jadi Mirmirani
+* [آموزش لینوکس مقدماتی](https://www.youtube.com/watch?v=ZwaBNkQKrts&list=PLPj7mSUQL4v_oVLO-2Q1QQ9fAH45u8z4A) - Hamid Emamian
 * [دوره LPIC-1 (با جادی)](https://www.youtube.com/playlist?list=PL7ePwBdxM4nswZ62DvL58yJZ9W4-hOLLB) - Jadi Mirmirani
 
 ### Machine Learning
 
-* [درس یادگیری ماشین (دانشگاه استنفورد)](https://maktabkhooneh.org/course/35-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-mk35) - Andrew Ng  
+* [درس یادگیری ماشین (دانشگاه استنفورد)](https://maktabkhooneh.org/course/35-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-mk35) - Andrew Ng
 * [درس یادگیری ماشین (دانشگاه صنعتی شریف)](https://maktabkhooneh.org/course/273-%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-mk273) - Mahdiyeh Soleymani
 
 ### Network
@@ -102,7 +102,7 @@
 
 ### PHP
 
-* [آموزش PHP (سبز دانش)](https://sabzdanesh.com/php-tutorial/) - Omid Rajaei  
+* [آموزش PHP (سبز دانش)](https://sabzdanesh.com/php-tutorial/) - Omid Rajaei
 * [آموزش PHP (سکان آکادمی)](https://sokanacademy.com/courses/php/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-PHP) - Behzad Moradi
 
 #### Codeigniter {#codeigniter}
@@ -111,7 +111,7 @@
 
 #### Laravel {#laravel}
 
-* [آموزش لاراول](https://roocket.ir/series/learn-laravel) - Hesam Mousavi  
+* [آموزش لاراول](https://roocket.ir/series/learn-laravel) - Hesam Mousavi
 * [آموزش لاراول](http://www.alefyar.com/laravel-tutorial) - Abolfazl Talebi
 
 #### Yii {#yii}
@@ -120,16 +120,16 @@
 
 ### Python
 
-* [آموزش پایتون از صفر](https://sabzdanesh.com/python-tutorial/) - Omid Rajaei *(به‌همراه کوئیز و تمرین بیشتر با ثبت‌نام رایگان)*  
-* [پایتون مقدماتی تا پیشرفته - کدتراپی](https://www.youtube.com/playlist?list=PLSMC8KtOWURqgm0c6iVXrGzK4ymzJUnfj) - CodeTherapy  
-* [دوره پایتون مقدماتی تا پیشرفته](https://toplearn.com/courses/2150/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-(-python-)) - Mohammad Ordokhani (TopLearn) *(نیاز به ثبت نام دارد)*  
+* [آموزش پایتون از صفر](https://sabzdanesh.com/python-tutorial/) - Omid Rajaei *(به‌همراه کوئیز و تمرین بیشتر با ثبت‌نام رایگان)*
+* [پایتون مقدماتی تا پیشرفته - کدتراپی](https://www.youtube.com/playlist?list=PLSMC8KtOWURqgm0c6iVXrGzK4ymzJUnfj) - CodeTherapy
+* [دوره پایتون مقدماتی تا پیشرفته](https://toplearn.com/courses/2150/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-(-python-)) - Mohammad Ordokhani (TopLearn) *(نیاز به ثبت نام دارد)*
 * [متخصص پایتون](https://sabzlearn.ir/course/python/) - Reza Davalit
 
 #### Django {#django}
 
-* [آموزش مقدماتی Django Rest Framework](https://www.youtube.com/playlist?list=PL7MXODW7Gj1eGnm4dXnydgqSDb3pLpg9v) - TorhamDev (Tech With Tori)  
-* [دوره جنگو مقدماتی تا پیشرفته](https://www.youtube.com/playlist?list=PLAt10Vana3YeAwS_LyLCeu7chml8eP8bh) - Mehran Tarif (Silicium)  
-* [سوکت نویسی با Django Channels](https://www.youtube.com/playlist?list=PLRU2zoAmuzJ2GD68st5SinXXv_Gv1lWRm) - Shahriar Shariati  
+* [آموزش مقدماتی Django Rest Framework](https://www.youtube.com/playlist?list=PL7MXODW7Gj1eGnm4dXnydgqSDb3pLpg9v) - TorhamDev (Tech With Tori)
+* [دوره جنگو مقدماتی تا پیشرفته](https://www.youtube.com/playlist?list=PLAt10Vana3YeAwS_LyLCeu7chml8eP8bh) - Mehran Tarif (Silicium)
+* [سوکت نویسی با Django Channels](https://www.youtube.com/playlist?list=PLRU2zoAmuzJ2GD68st5SinXXv_Gv1lWRm) - Shahriar Shariati
 * [Django2 All In One (دوره کامل مهندسی بک‌اند)](https://www.youtube.com/playlist?list=PLGlWjLcdLyGyqEqh9rBQ-9toPsFeHWrMr) - Boby Cloud
 
 #### FastAPI {#fastapi}

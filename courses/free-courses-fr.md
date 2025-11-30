@@ -8,7 +8,7 @@
 * [C++](#cpp)
 * [Delphi](#delphi)
 * [Git](#git)
-* [HTML and CSS](#html-and-css)
+* [HTML / CSS](#html--css)
 * [Java](#java)
 * [JavaScript](#javascript)
     * [jQuery](#jquery)
@@ -24,7 +24,7 @@
 
 ### Algorithmes
 
-* [Algorithmie - Cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfE0AkOm795c2qpLQJNiEBbZ) - Formation Video
+* [Algorithmie - Cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfE0AkOm795c2qpLQJNiEBbZ) - EvoluNoob
 
 
 ### APL
@@ -41,8 +41,8 @@
 
 ### C
 
-* [Apprendre le langage C](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEh6PCE39HERGgbbaIHhy4j) - Formation Video
-* [Apprendre le langage C - Exercices](https://www.youtube.com/playlist?list=PLrSOXFDHBtfF6lXQpJ4hBha76DsQufiEQ) - Formation Video
+* [Apprendre le langage C](https://www.youtube.com/playlist?list=PLrSOXFDHBtfEh6PCE39HERGgbbaIHhy4j) - EvoluNoob
+* [Apprendre le langage C - Exercices](https://www.youtube.com/playlist?list=PLrSOXFDHBtfF6lXQpJ4hBha76DsQufiEQ) - EvoluNoob
 * [Le Langage C](https://zestedesavoir.com/tutoriels/755/le-langage-c-1/) - sur Zeste de Savoir, Informaticienzero, Taure, Paraze, Lucas-84
 * [TUTOS C](https://www.youtube.com/playlist?list=PLEagTQfI6nPOWS4JPnxW5pRVgeyLuS5oC) - PrimFX
 
@@ -50,7 +50,7 @@
 ### <a id="csharp"></a>C\#
 
 * [Apprendre le C#](https://www.youtube.com/playlist?list=PLkHw7J3J2iapWFUnQmVzsRCU5YxaAWHSY) - Pentiminax
-* [C# - Cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGBHAMEg9Om9nF_7R7h5mO7) - Formation Video
+* [C# - Cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGBHAMEg9Om9nF_7R7h5mO7) - EvoluNoob
 
 
 ### <a id="cpp"></a>C++
@@ -69,32 +69,37 @@
 * [Formation Git en vidéo, Cours Complet](https://www.youtube.com/playlist?list=PLjwdMgw5TTLXuY5i7RW0QqGdW0NZntqiP) - Grafikart
 
 
-### HTML and CSS
+### Intelligence Artificielle
 
-* [Apprendre à coder en HTML et CSS \| Cours complet (2020)](https://www.pierre-giraud.com/html-css-apprendre-coder-cours/) - Pierre Giraud
-* [Apprendre à utiliser le framework Bootstrap \| Cours complet (2020)](https://www.pierre-giraud.com/bootstrap-apprendre-cours/) - Pierre Giraud
-* [Apprendre à utiliser Sass \| Cours Complet (2020)](https://www.pierre-giraud.com/sass-apprendre-cours-complet/) - Pierre Giraud
+* [Générative AI pour Débutants .NET - Un Cours](https://github.com/microsoft/Generative-AI-for-beginners-dotnet/tree/main/translations/fr) - Microsoft (GitHub)
+
+
+### HTML / CSS
+
+* [Apprendre à coder en HTML et CSS \| Cours complet (2020)](https://www.pierre-giraud.com/html-css-apprendre-coder-cours/) - Pierre Giraud (HTML)
+* [Apprendre à utiliser le framework Bootstrap \| Cours complet (2020)](https://www.pierre-giraud.com/bootstrap-apprendre-cours/) - Pierre Giraud (HTML)
+* [Apprendre à utiliser Sass \| Cours Complet (2020)](https://www.pierre-giraud.com/sass-apprendre-cours-complet/) - Pierre Giraud (HTML)
 * [Apprendre l'HTML](https://www.youtube.com/playlist?list=PLjwdMgw5TTLUeixVGPNl1uZNeJy4UY6qX) - Grafikart
 * [Découvrir CSS](https://www.youtube.com/playlist?list=PLjwdMgw5TTLVjTZQocrMwKicV5wsZlRpj) - Grafikart
-* [Documentation du MDN](https://developer.mozilla.org/fr/) (MDN Mozilla)
-* [HTML/CSS - Exercices](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHEFVqv0pjGkPHv6PhWZQBb) - Formation Video
-* [HTML/CSS - Tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfG1_4HrfPttdwF8aLpgdsRL) - Formation Video
+* [HTML/CSS - Exercices](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHEFVqv0pjGkPHv6PhWZQBb) - EvoluNoob
+* [HTML/CSS - Tutoriels](https://www.youtube.com/playlist?list=PLrSOXFDHBtfG1_4HrfPttdwF8aLpgdsRL) - EvoluNoob
 * [Le préprocesseur SASS](https://www.youtube.com/playlist?list=PLjwdMgw5TTLWVp8WUGheSrGnmEWIMk9H6) - Grafikart
-* [Tutoriel CSS](http://fr.html.net/tutorials/css/) - `trl.:` Jean Jacques Solari
-* [Tutoriel HTML](http://fr.html.net/tutorials/html/) - `trl.:` Jean Jacques Solari
-* [TUTOS HTML et CSS](https://www.youtube.com/playlist?list=PLEagTQfI6nPObScwsDmTCbLuZXRYfiUM-) - PrimFX
+* [MDN Web Docs](https://developer.mozilla.org/fr/docs/Web) - Mozilla (HTML) (CC-BY-SA)
+* [Tutoriel CSS](https://web.archive.org/web/20240807215319/http://fr.html.net/tutorials/css/) - `trl.:` Jean Jacques Solari (HTML) *( :card_file_box: archived)*
+* [Tutoriel HTML](https://web.archive.org/web/20240910145639/http://fr.html.net/tutorials/html/) - `trl.:` Jean Jacques Solari (HTML) *( :card_file_box: archived)*
+* [TUTOS HTML et CSS](https://www.youtube.com/playlist?list=PLEagTQfI6nPObScwsDmTCbLuZXRYfiUM-) - Boris 'PrimFX'
 
 
 ### Java
 
-* [Cours Java](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHkq8dd3BbSaopVgRSYtgPv) - Formation Video
+* [Cours Java](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHkq8dd3BbSaopVgRSYtgPv) - EvoluNoob
 
 
 ### JavaScript
 
 * [Apprendre à coder en JavaScript \| Cours complet (2020)](https://www.pierre-giraud.com/javascript-apprendre-coder-cours/) - Pierre Giraud
 * [Apprendre le JavaScript](https://www.youtube.com/playlist?list=PLjwdMgw5TTLVzD9Jq_WBd1crqDwXRn4cw) - Grafikart
-* [Cours JavaScript](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGxf_PtXLu_OrjFKt4_dqB_) - Formation Video
+* [Cours JavaScript](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGxf_PtXLu_OrjFKt4_dqB_) - EvoluNoob
 * [Déboguer son code JavaScript](https://www.youtube.com/playlist?list=PLjwdMgw5TTLWWXgsHpfCLHJ1Oq4YnE08e) - Grafikart
 * [Le Tutoriel JavaScript Moderne](https://fr.javascript.info) - javascript.info
 * [TUTOS JS](https://www.youtube.com/playlist?list=PLEagTQfI6nPPVSKoYo2p8Cf8eijcyz5t9) - PrimFX
@@ -123,13 +128,15 @@
 ### Python
 
 * [Apprendre à programmer en Python \| Cours complet (2019)](https://www.pierre-giraud.com/python-apprendre-programmer-cours/) - Pierre Giraud
-* [Apprendre Python](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC) - Formation Video
+* [Apprendre Python](https://www.youtube.com/playlist?list=PLrSOXFDHBtfHg8fWBd7sKPxEmahwyVBkC) - EvoluNoob
+* [Introduction à la programmation](https://self-learning.info.ucl.ac.be/index/info1-exercises) - Tanguy De Bels, Kim Mens, Siegfried Nijssen, Charles Pecheur (HTML) (CC BY-SA)
+* [Python Programming in French](https://www.youtube.com/playlist?list=PL0mGkrTWmp4ugGM9fiZjEuzMFeKD6Rh5G) - Data Science Nigeria
 
 
 ### PHP
 
 * [Apprendre Laravel 5.0.X](https://www.youtube.com/playlist?list=PLjwdMgw5TTLUCpXVEehCHs99N7IWByS3i) - Grafikart
-* [Apprendre PHP](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFuZttC17M-jNpKnzUL5Adc) - Formation Video
+* [Apprendre PHP](https://www.youtube.com/playlist?list=PLrSOXFDHBtfFuZttC17M-jNpKnzUL5Adc) - EvoluNoob
 * [Apprendre PHP - Cours Complet + POO](https://www.youtube.com/playlist?list=PLjwdMgw5TTLVDv-ceONHM_C19dPW1MAMD) - Grafikart
 * [Apprendre Symfony 4 par l'exemple](https://www.youtube.com/playlist?list=PLjwdMgw5TTLX7wmorGgfrqI9TcA8nMb29) - Grafikart
 * [Cours complet de Pierre Giraud sur le développement PHP avec MySQL](https://www.pierre-giraud.com/php-mysql-apprendre-coder-cours/) - Pierre Giraud
@@ -147,7 +154,7 @@
 ### SQL
 
 * [Apprendre MySQL - Ancien Cours](https://www.youtube.com/playlist?list=PLjwdMgw5TTLUJLpzUYGBK7K5-hPgZA7zo) - Grafikart
-* [SQL - Cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGl66sXijiN8SU9YJaM_EQg) - Formation Video
+* [SQL - Cours](https://www.youtube.com/playlist?list=PLrSOXFDHBtfGl66sXijiN8SU9YJaM_EQg) - EvoluNoob
 
 
 ### SysAdmin

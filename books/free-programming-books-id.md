@@ -29,6 +29,7 @@
 * [Python](#python)
 * [Rust](#rust)
 * [Solidity](#solidity)
+* [Swift](#swift)
 
 
 ### Android
@@ -70,8 +71,10 @@
 
 ### HTML and CSS
 
+* [Cara Cepat dan Mudah Menguasai CSS Rule](https://gilacoding.com/upload/file/Mahir-menguasai-CSS-Part%201.pdf) - Rudy Devianto (PDF)
 * [Ebook Belajar HTML Dan CSS Dasar](https://www.malasngoding.com/download-ebook-belajar-html-dan-css-dasar-gratis/)
 * [Ebook HTML CSS Manual Dasar](https://github.com/LIGMATV/LIGMATV/wiki/Ebook-HTML-CSS-Manual-Dasar) - Muhammad Danish Naufal (PDF, DOCX)
+* [Mahir Menguasai CSS - Tutorial & Praktek](https://gilacoding.com/upload/file/Mahir-menguasai-CSS-Part%202.pdf) - Rudy Devianto (PDF)
 * [Tutorial Dasar CSS untuk Pemula](https://www.petanikode.com/tutorial/css/) - Ahmad Muhardian (Petani Kode) *( :construction: dalam proses)*
 * [Tutorial HTML untuk Pemula](https://www.petanikode.com/tutorial/html/) - Ahmad Muhardian (Petani Kode)
 
@@ -242,3 +245,8 @@
 ### Solidity
 
 * [Smart Contract Blockchain pada E-Voting](https://www.researchgate.net/publication/337961765_Smart_Contract_Blockchain_pada_E-Voting) - Ajib Susanto (HTML, PDF)
+
+
+### Swift
+
+* [Swift Bahasa Indonesia](https://www.youtube.com/playlist?list=PLH1gH0TmFBBhR8A_Xq7drrxC4OlUvNP7b) - Ipung DEV Academy

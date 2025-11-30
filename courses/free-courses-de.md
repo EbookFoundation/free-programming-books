@@ -76,6 +76,7 @@
 ### Künstliche Intelligenz
 
 * [Elements of AI](https://www.elementsofai.de)
+* [Generative AI für Anfänger .NET - Ein Kurs](https://github.com/microsoft/Generative-AI-for-beginners-dotnet/tree/main/translations/de) - Microsoft (GitHub)
 
 
 ### Python

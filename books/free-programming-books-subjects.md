@@ -418,7 +418,6 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 
 ### Licensing
 
-
 * [Creative Commons: a user guide](https://archive.org/download/CreativeCommonsUserGuide/CreativeCommonsUserGuide.pdf) - Simone Aliprandi (PDF)
 * [The Public Domain: Enclosing the Commons of the Mind](https://www.thepublicdomain.org/download/) - James Boyle
 

@@ -18,3 +18,4 @@
 ### 人工知能
 
 * [初心者向け 生成 AI .NET コース](https://github.com/microsoft/Generative-AI-for-beginners-dotnet/tree/main/translations/ja) - Microsoft (GitHub)
+* [実践的な人工知能入門ガイド](https://github.com/matteobaccan/CorsoAIBook) - M. Baccan, D. Ferrero (PDF, 無料)

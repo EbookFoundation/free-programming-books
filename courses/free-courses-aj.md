@@ -1,3 +1,4 @@
+
 ### Index
 
 * [Android](#android)
@@ -73,11 +74,6 @@
 * [Belajar menggunakan bootstrap](https://www.youtube.com/playlist?list=PLCZlgfAG0GXC5wPjJGj1LvFaVK2cbN2GQ) - Sekolah Koding
 * [Tutorial Bootstrap 4 Lengkap dalam Bahasa Indonesia](https://www.youtube.com/playlist?list=PLce3Eyp7oY9-o3JavSawkXcazJSYx7KAf) - Framework Indonesia
 * [Tutorial Bootstrap 5 untuk Pemula Bahasa Indonesia](https://www.youtube.com/playlist?list=PLnrs9DcLyeJTxqZ4lWgVHXBwFgZEkwp9r) - Cara Fajar
-* [Bootstrap 5 Crash Course 2023](https://www.youtube.com/watch?v=4sosXZsdy-s) - Traversy Media
-* [Build Responsive Websites with Bootstrap 5](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ) - FreeCodeCamp (Covers grids, forms, buttons, and responsive design)
-* [Official Bootstrap Documentation](https://getbootstrap.com/docs/5.3/getting-started/introduction/) - Bootstrap
-* [Bootstrap 5 Tutorial for Beginners](https://www.youtube.com/watch?v=Jyvffr3aCp0) - The Net Ninja
-* [Bootstrap Made Easy](https://www.youtube.com/playlist?list=PLZPZq0r_RZOMhCAyywfnYLlrjiVOkdAI1) - Programming with Mosh
 
 
 ### C / C++
@@ -92,7 +88,6 @@
 
 ### <a id="csharp"></a>C\#
 
-* [Belajar C# C-Sharp Lengkap](https://www.youtube.com/playlist?list=PLYMJJHENUMwwiL91VnHhqV_Zy1LANgNVc) - Tech Tawar
 * [Belajar Pemrograman C#](https://www.youtube.com/playlist?list=PLuGFxya63u253zhOzhxanaSBNJ_UiIhUb) - Galih Pratama
 * [Tutorial Lengkap - Belajar Coding C# Programming untuk Pemula](https://www.youtube.com/playlist?list=PLa6D44cKrtoN9guvynhwiCIdUJ0CJkAMB) - Bimbingan Belajar Coding  
 
@@ -276,7 +271,12 @@
 * [Tutorial React JS Bahasa Indonesia](https://www.youtube.com/playlist?list=PLp6BJq2fT_g91yCNCWi_bIe-ng7S7rt6V) - Lampung JS
 * [Tutorial React Native Bahasa Indonesia (Futsal App)](https://www.youtube.com/playlist?list=PLIan8aHxsPj2NeWJew3o86bSptVPXOppa) - Wahidev Academy
 * [Tutorial React Native Indonesia](https://youtube.com/playlist?list=PLU4DS8KR-LJ3SP3PpRb870UoT_0_rjLpV) - Prawito Hudoro
-
+* [React JS Crash Course 2023](https://www.youtube.com/watch?v=w7ejDZ8SWv8) - Traversy Media
+* [React Tutorial for Beginners](https://www.youtube.com/watch?v=Ke90Tje7VS0) - Programming with Mosh
+* [React JS Full Course – Learn React in 8 Hours](https://www.youtube.com/watch?v=DLX62G4lc44) - FreeCodeCamp.org
+* [Modern React with Redux](https://www.udemy.com/course/react-redux/) - Udemy (free preview available)
+* [React Hooks Tutorial](https://www.youtube.com/watch?v=f687hBjwFcM) - Codevolution
+* [Build a React App from Scratch](https://www.youtube.com/watch?v=4UZrsTqkcW4) - Clever Programmer
 
 #### Vue.js
 

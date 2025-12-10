@@ -55,6 +55,7 @@
 
 ### Figma
 
+* [Figma Complete Course in Urdu/Hindi](https://youtube.com/playlist?list=PLXXTAymDYZq3NQdYsC9Qb5xb4_Hj4lEfB&si=cnKxrEksnvJKxmYL) - Mubashir Hussain&rlm;
 * [Figma Design Complete Course in Urdu | Hindi](https://youtube.com/playlist?list=PLspW40rZgNekDbMeeuV8VLt3JoCMg8pQt&si=_J8tYEL3W0YFiHNh) - Tutorials Town&rlm;
 
 

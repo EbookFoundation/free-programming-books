@@ -107,7 +107,7 @@ jobs:
         if: ${{ endsWith(matrix.file, '.yml') || endsWith(matrix.file, '.md') }}
         run: |
           awesome_bot "${{ matrix.file }}" --allow-redirect --allow-dupe --allow-ssl || true;
-      - uses: actions/upload-artifact@v5
+      - uses: actions/upload-artifact@v6
         with:
           name: ${{ steps.set-output.outputs.FILEPATH }}
           path: ${{ github.workspace }}/ab-results-*.json

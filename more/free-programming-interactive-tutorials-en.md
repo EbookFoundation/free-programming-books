@@ -76,11 +76,6 @@
 
 * [C Tutorial](https://www.w3schools.com/c/) - W3Schools
 
-
-* [C# Tutorial](https://www.tutlane.com/tutorial/csharp) - tutlane
-* [C# Tutorial](https://www.w3schools.com/cs) - W3Schools
-
-
 ### Artificial Intelligence
 
 * [Generative AI tutorial](https://www.geeksforgeeks.org/artificial-intelligence/generative-ai-tutorial/) - GeeksforGeeks

@@ -49,6 +49,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Search Engines](#search-engines)
 * [Security & Privacy](#security--privacy)
 * [Software Architecture](#software-architecture)
+* [Software Engineering](#software-engineering) 
 * [Standards](#standards)
 * [Theoretical Computer Science](#theoretical-computer-science)
 * [Version Control Systems](#version-control-systems)
@@ -993,6 +994,16 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Web Browser Engineering](https://browser.engineering/index.html) - Pavel Panchekha, Chris Harrelson
 * [Working with Web APIs](https://launchschool.com/books/working_with_apis) - Launch School
 * [Your API Is Bad](https://leanpub.com/yourapiisbad/read) - Paddy Foran
+
+
+### Software Engineering
+
+* [Lecture Notes on Software Engineering (BCS-306)](https://www.vssut.ac.in/lecture_notes/lecture1428551142.pdf) - Dr. H.S. Behera, Asst. Prof K.K. Sahu, Asst. Prof Gargi Bhattacharjee (PDF)
+* [Software Quality Assurance (DCAP503)](https://ebooks.lpude.in/computer_application/mca/term_3/DCAP503_SOFTWARE_TESTING_AND_QUALITY_ASSURANCE.pdf) - Editor: Manpreet Kaur (PDF)
+* [Software Quality Assurance: From Theory to Implementation](https://www.cit.ctu.edu.vn/~tcde/KTPM/SQA_Galin.pdf) - Daniel Galin (PDF)
+* [Software Quality Engineering](https://pg.its.edu.in/sites/default/files/KCA035-Software%20Qulaity%20Engineering-Jeff%20Tian.pdf) - Jeff Tian (PDF)
+* [Software Testing and Analysis: Process, Principles, and Techniques](https://ix.cs.uoregon.edu/~michal/book/Samples/book.pdf) - Mauro Pezzè, Michal Young (PDF)
+* [Software Testing and Quality Assurance](https://www.softwaretestinggenius.com/download/staqtpsn.pdf) - Kshirasagar Naik, Priyadarshi Tripathy (PDF)
 
 
 ### Standards

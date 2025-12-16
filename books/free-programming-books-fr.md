@@ -257,8 +257,8 @@
 
 #### Symfony
 
-* [En route pour Symfony 5.4](https://symfony.com/doc/5.4/the-fast-track/fr/index.html) - Fabien Potencier
-* [En route pour Symfony 6.2](https://symfony.com/doc/current/the-fast-track/fr/index.html) - Fabien Potencier
+* [Symfony 5: la voie rapide](https://symfony.com/doc/5.4/the-fast-track/fr/index.html) - Fabien Potencier (HTML)
+* [Symfony 6: la voie rapide](https://symfony.com/doc/6.4/the-fast-track/fr/index.html) - Fabien Potencier (HTML)
 
 
 #### Yii

@@ -1702,6 +1702,7 @@
 
 ### R
 
+* [IBM: R Programming Basics for Data Science](https://www.edx.org/learn/r-programming/ibm-r-programming-basics-for-data-science) IBM (edX)
 * [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r) - DataCamp
 * [R Basics - R Programming Language Introduction](https://www.udemy.com/course/r-basics/) - R-Tutorials Training (Udemy)
 * [R Programming](https://www.coursera.org/course/rprog)

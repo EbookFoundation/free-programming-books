@@ -29,6 +29,7 @@
 * [Python](#python)
 * [Rust](#rust)
 * [Solidity](#solidity)
+* [Swift](#swift)
 
 
 ### Android
@@ -244,3 +245,8 @@
 ### Solidity
 
 * [Smart Contract Blockchain pada E-Voting](https://www.researchgate.net/publication/337961765_Smart_Contract_Blockchain_pada_E-Voting) - Ajib Susanto (HTML, PDF)
+
+
+### Swift
+
+* [Swift Bahasa Indonesia](https://www.youtube.com/playlist?list=PLH1gH0TmFBBhR8A_Xq7drrxC4OlUvNP7b) - Ipung DEV Academy

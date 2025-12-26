@@ -89,6 +89,7 @@
 * [Grok Podcast](http://www.grokpodcast.com) (podcast)
 * [Hipsters Ponto Tech](http://hipsters.tech) (podcast)
 * [Lambda3](https://blog.lambda3.com.br/category/podcast) (podcast)
+* [M1 Podcast](https://www.youtube.com/playlist?list=PLHA9dlpmDGwJJO2Q6eR60R7tjMidaEFY5) - Startup Life (podcast)
 * [NerdTech (Jovem Nerd)](https://jovemnerd.com.br/playlist/nerdtech) (podcast)
 * [OsProgramadores](https://anchor.fm/osprogramadores) (podcast)
 * [Papinho Tech [Episódios Completos]](https://www.youtube.com/playlist?list=PLylCwvNCtoanRxj-mOOyC9PnD5Yb2P1-j) (podcast)

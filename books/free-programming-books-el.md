@@ -3,6 +3,7 @@
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
+* [Git](#git)
 * [Java](#java)
 * [JavaScript](#javascript)
 * [Matlab](#matlab)
@@ -28,6 +29,11 @@
 
 * [Εισαγωγή στη C++](http://www.ebooks4greeks.gr/2011.Download_free-ebooks/Pliroforikis/glossa_programmatismoy_C++__eBooks4Greeks.gr.pdf) (PDF)
 * [Προγραμματισμός με τη γλώσσα C++](https://repository.kallipos.gr/bitstream/11419/6443/3/00_master_document-KOY.pdf) - Θεόδωρος Αλεβίζος (PDF) (CC BY-NC-SA)
+
+
+### Git
+
+* [Pro Git](https://git-scm.com/book/gr/v2) - Scott Chacon, Ben Straub (HTML, PDF, EPUB, MOBI)
 
 
 ### Java

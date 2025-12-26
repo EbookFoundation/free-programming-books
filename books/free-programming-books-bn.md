@@ -17,7 +17,7 @@
 
 ### Algorithms
 
-* [Dynamic Programming Book «ডাইনামিক প্রোগ্রামিং বই»](https://dp-bn.github.io) - Tasmeem Reza, Mamnoon Siam (PDF, [LaTeX](https://github.com/Bruteforceman/dynamic-progamming-book))
+* [Dynamic Programming Book «ডাইনামিক প্রোগ্রামিং বই»](https://dp-bn.github.io) - Tasmeem Reza, Mamnoon Siam (PDF, [LaTeX](https://github.com/Bruteforceman/dynamic-programming-book))
 
 
 ### C
@@ -25,11 +25,6 @@
 * [বাংলায় C প্রোগ্রামিং ল্যাঙ্গুয়েজ শেখার কোর্স](https://c.howtocode.dev) - Jakir Hossain, et al.
 * [Computer Programming «কম্পিউটার প্রোগ্রামিং ১ম খণ্ড»](http://cpbook.subeen.com) - Tamim Shahriar Subeen (HTML)
 * [Computer Programming Part 3](https://archive.org/details/computer-programming-part-3-tamim-shaharier-subin) - Tamim Shahriar Subeen (PDF)
-
-
-### <a id="cpp"></a>C++
-
-* [সিপিপি পরিগণনা Computer Programming](https://www.academia.edu/16658418/c_programming_bangla_book) - Mahmudul Hasan (PDF, HTML)
 
 
 ### Data Science
@@ -96,4 +91,3 @@
 ### Git and Github
 
 * [এক পলকে গিট ও গিটহাব](https://with.zonayed.me/book/git-n-github-at-glance/) - Zonayed
-

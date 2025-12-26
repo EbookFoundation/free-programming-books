@@ -1552,6 +1552,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Common Lisp the Language, 2nd Edition](http://www.cs.cmu.edu/Groups/AI/html/cltl/mirrors.html)
 * [Google's Common Lisp Style Guide](https://google.github.io/styleguide/lispguide.xml)
 * [Interpreting LISP](http://www.civilized.com/files/lispbook.pdf) - Gary D. Knott (PDF)
+* [Introduction to newLISP](https://en.wikibooks.org/wiki/Introduction_to_newLISP) - Wikibooks (HTML & PDF)
 * [Learn Lisp The Hard Way](https://github.com/LispTO/llthw) - Colin J.E. Lupton
 * [Let Over Lambda - 50 Years of Lisp](http://letoverlambda.com/index.cl/) - D. Hoyte
 * [Lisp Hackers: Interviews with 100x More Productive Programmers](https://leanpub.com/lisphackers/read) - Vsevolod Dyomkin (HTML)
@@ -1563,7 +1564,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Practical Common Lisp](http://www.gigamonkeys.com/book/) - P. Seibel
 * [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
 * [The Evolution of Lisp](http://www.dreamsongs.com/Files/HOPL2-Uncut.pdf) - Guy L. Steele Jr., Richard P. Gabriel (PDF)
-* [Introduction to newLISP](https://en.wikibooks.org/wiki/Introduction_to_newLISP) - en.wikibooks.org (HTML & PDF)
 
 
 #### Emacs Lisp

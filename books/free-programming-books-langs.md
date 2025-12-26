@@ -127,7 +127,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Linux](#linux)
 * [Lisp](#lisp)
     * [Emacs Lisp](#emacs-lisp)
-    * [newLISP](#newlisp)
     * [PicoLisp](#picolisp)
 * [Livecode](#livecode)
 * [Lua](#lua)
@@ -1564,6 +1563,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Practical Common Lisp](http://www.gigamonkeys.com/book/) - P. Seibel
 * [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
 * [The Evolution of Lisp](http://www.dreamsongs.com/Files/HOPL2-Uncut.pdf) - Guy L. Steele Jr., Richard P. Gabriel (PDF)
+* [Introduction to newLISP](https://en.wikibooks.org/wiki/Introduction_to_newLISP) - en.wikibooks.org (HTML & PDF)
 
 
 #### Emacs Lisp
@@ -1575,10 +1575,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Emacs Lisp Elements](https://protesilaos.com/emacs/emacs-lisp-elements) - Protesilaos Stavrou (HTML)
 * [GNU Emacs Lisp Reference Manual](http://www.gnu.org/software/emacs/manual/elisp.html)
 
-
-#### newLISP
-
-* [Introduction to newLISP](https://en.wikibooks.org/wiki/Introduction_to_newLISP) - en.wikibooks.org (HTML & PDF)
 
 
 #### PicoLisp

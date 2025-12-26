@@ -1565,7 +1565,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
 * [The Evolution of Lisp](http://www.dreamsongs.com/Files/HOPL2-Uncut.pdf) - Guy L. Steele Jr., Richard P. Gabriel (PDF)
 
-
 #### Emacs Lisp
 
 > :information_source: See also &#8230; [IDE and editors](free-programming-books-subjects.md#ide-and-editors)

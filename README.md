@@ -238,3 +238,4 @@ You might notice that there are [some missing translations here](docs/README.md#
 
 Each file included in this repository is licensed under the [CC BY License](LICENSE).
 Learning Git with DevOps roadmap 💪
+> Note: Selman is practicing Git workflow for DevOps learning 🚀

@@ -127,7 +127,7 @@
 
 ### ColdFusion
 
-* [ColdFusion Fiddle](https://cffiddle.org/)
+* [ColdFusion Fiddle](https://cffiddle.org)
 * [TryCF](https://trycf.com)
 
 

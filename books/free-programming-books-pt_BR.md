@@ -442,7 +442,7 @@
 ### R
 
 * [Análise Exploratória de Dados usando o R](http://www.uesc.br/editora/livrosdigitais2/analiseexploratoria_r.pdf) - Enio Jelihovschi (PDF)
-* [Fundamentos Estatísticos de Ciência dos Dados](https://homepages.dcc.ufmg.br/~assuncao/EstatCC/FECD.pdf) - Renato Assunção (PDF)
+* [Fundamentos Estatísticos de Ciência dos Dados](https://biblioteca.unisced.edu.mz/pdfjs/web/viewer.html?file=https://biblioteca.unisced.edu.mz/bitstream/123456789/2209/1/Fundamentos%20Estat%c3%adsticos%20de%20Ci%c3%aancia%20dos%20Dados.pdf) - Renato Assunção (PDF)
 * [Introdução à Linguagem R: seus fundamentos e sua prática](https://pedropark99.github.io/Introducao_R/) - Pedro Duarte Faria
 * [R para cientistas sociais](http://www.uesc.br/editora/livrosdigitais_20140513/r_cientistas.pdf) - Jakson Alves de Aquino (PDF)
 

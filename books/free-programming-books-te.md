@@ -8,8 +8,8 @@
 
 
 ### 0 - Meta-Lists
+<!-- Removed broken link: https://sites.google.com/nptel.iitm.ac.in/translated-ebook/telugu -->
 
-* [Books - Telugu](https://sites.google.com/nptel.iitm.ac.in/translated-ebook/telugu)
 
 
 ### <a id="c"></a>C

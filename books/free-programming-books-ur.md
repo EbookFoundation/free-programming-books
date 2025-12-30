@@ -2,6 +2,7 @@
 
 * [C++](#cplusplus)
 * [HTML](#html)
+* [Python](#python)
 
 
 ### <a id="cplusplus"></a>C++
@@ -12,3 +13,8 @@
 ### HTML
 
 * [HTML In Urdu Complete Tutorial Learning Book](https://www.eislamicbook.com/html-in-urdu-complete-tutorial-learning-book/) - Abid Bashir (Translated)&rlm;
+
+
+### Python
+
+* [Python Prgramming (Urdu)](https://www.scribd.com/document/833440751/Python-Programming-by-Sanna-Rasheed-PDF-Converter-by-Abdul-Basit-Hassani-Naqshbandi-1) - Sanna Rasheed

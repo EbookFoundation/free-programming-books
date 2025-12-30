@@ -17,4 +17,4 @@
 
 ### Python
 
-* [Python Prgramming (Urdu)](https://www.scribd.com/document/833440751/Python-Programming-by-Sanna-Rasheed-PDF-Converter-by-Abdul-Basit-Hassani-Naqshbandi-1) - Sanna Rasheed
+* [Python Programming (Urdu)](https://www.scribd.com/document/833440751/Python-Programming-by-Sanna-Rasheed-PDF-Converter-by-Abdul-Basit-Hassani-Naqshbandi-1) - Sanna Rasheed (PDF)&rlm;

@@ -71,7 +71,7 @@ Click on these badges to see how you might be able to help:
 
 This project lists books and other resources grouped by genres:
 
-#### Books
+## Books
 
 + [English, By Programming Language](books/free-programming-books-langs.md)
 

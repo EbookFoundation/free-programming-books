@@ -53,7 +53,6 @@
 * [Linux Commands \| Hindi](https://ehindistudy.com/2022/06/24/linux-commands-hindi/) - Vinay Bhatt
 * [Linux Explained \| Hindi](https://ehindistudy.com/2022/03/31/linux-hindi/) - Yugal Joshi
 * [Linux Guide \| Hindi](https://hindime.net/linux-kya-hai-hindi/) - Hindime.net
-* [Linux in Hindi \| Hindi](https://csestudies.com/linux-in-hindi/) - CSEStudies.com
 * [Linux Pocket Guide \| Hindi](https://ia800305.us.archive.org/27/items/LinuxPocketGuideInHindi/LinuxPocketGuideInHindi.pdf) - Ravishankar Shrivastav (PDF)
 
 

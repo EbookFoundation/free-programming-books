@@ -1,14 +1,11 @@
 ### Index
 
-* [0 - Meta-Lists](#0---meta-lists)
 * [C](#c)
 * [Python](#python)
 * [Java](#java)
 * [MERN](#mern)
 
 
-### 0 - Meta-Lists
-<!-- Removed broken link: https://sites.google.com/nptel.iitm.ac.in/translated-ebook/telugu -->
 
 
 

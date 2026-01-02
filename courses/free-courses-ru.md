@@ -21,6 +21,7 @@
 * [Python](#python)
 * [R](#r)
 * [Ruby](#ruby)
+* [Rust](#rust)
 
 
 ### Уровни
@@ -185,7 +186,11 @@ ADV - Продвинутый. Тонкости.
 ### Ruby
 
 * [Бесплатный онлайн курс по основам Ruby](https://code-basics.com/ru/languages/ruby) - Code-basics (BEG)
-* [Введение в Ruby](https://ru.hexlet.io/courses/ruby) - Hexlet (BEG)
 * [Путь Rubyrush](https://rubyrush.ru/steps) (BEG)
 * [Ruby - первое знакомство](https://stepik.org/course/87996) - Stepik (BEG)
 
+
+### Rust
+
+* [Введение в Rust](https://stepik.org/course/228001) - Stepik (BEG)
+* [Rust: Начальный уровень](https://stepik.org/course/195449) - Stepik (BEG)

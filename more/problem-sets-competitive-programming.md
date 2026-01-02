@@ -17,6 +17,7 @@
 * [AtCoder](https://atcoder.jp)
 * [Atcoder DP Contest](https://atcoder.jp/contests/dp) - Atcoder
 * [beecrowd](https://www.beecrowd.com.br)
+* [BigFrontEnd.dev](https://bigfrontend.dev)
 * [COCI](https://hsin.hr/coci/)
 * [Codeabbey](http://www.codeabbey.com)
 * [Codechef](https://www.codechef.com/contests)
@@ -37,6 +38,7 @@
 * [HackerEarth](https://www.hackerearth.com)
 * [Hackerrank](https://www.hackerrank.com)
 * [Internet Problem Solving Contest](http://ipsc.ksp.sk)
+* [JSCodebox](https://jscodebox.com)
 * [Just another Golf Coding](http://jagc.org)
 * [Kattis](https://open.kattis.com)
 * [Last Moment DSA Sheet(79) – Ace Interviews](https://takeuforward.org/interview-sheets/strivers-79-last-moment-dsa-sheet-ace-interviews) - Striver

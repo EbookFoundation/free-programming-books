@@ -20,6 +20,7 @@
 * [.NET Framework](#net-framework)
 * [Python](#python)
     * [Django](#django)
+    * [Flask](#flask)
 * [R](#r)
 * [Ruby](#ruby)
 * [Rust](#rust)
@@ -151,6 +152,11 @@
 * [Django için Türkçe Kılavuz](https://www.djangoturkiye.com/static/django.pdf) - Muslu Yüksektepe (PDF)
 
 
+#### Flask
+
+* [Temelden İleriye Türkçe Flask Dersleri](https://kerteriz.net/temelden-ileriye-turkce-flask-dersleri) - İsmet BALAT
+
+
 ### R
 
 * [Ekonometriye Yeni Başlayanlar için Kısa bir R Kılavuzu](https://www.github.com/emraher/eybkbrk) - Emrah Er
@@ -170,7 +176,6 @@
 ### Rust
 
 * [Rust ile CHIP-8 Emülatörü Geliştirme](https://onur.github.io/chip8) - Onur Aslan
-* [Rust'a Giriş](https://github.s3.amazonaws.com/downloads/vertexclique/vertexclique.github.io/Rusta-Giris-v1.pdf) - Mahmut Bulut (PDF)
 
 
 ### <a id="yapay-zeka"></a>Yapay Zeka

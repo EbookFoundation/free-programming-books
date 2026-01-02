@@ -247,21 +247,23 @@ def lint_file(path, cfg):
         # Skip lines that start a code block (```)
         if CODE_FENCE_START.match(line): continue
 
-        # Check for block-level directionality changes (e.g., <div dir="rtl">)
-        m_div_open = HTML_DIR_ATTR_RE.search(line)
-        
-        # If an opening <div dir="..." markdown="1"> tag is found
-        if m_div_open and 'markdown="1"' in line:
-            new_div_ctx = m_div_open.group(2).lower()   # Extract the new directionality context from the opening div tag
-            block_context_stack.append(new_div_ctx)     # Push the new directionality context onto the stack
-            continue                                    # Continue to the next line of the file
-        
-        # If a closing </div> tag is found and we are inside a div context
-        # (i.e., the stack has more than just the base file_direction_ctx)
-        if '</div>' in line and len(block_context_stack) > 1:
-            block_context_stack.pop()   # Pop the last directionality context from the stack
-            continue                    # Continue to the next line of the file
-        
+        # Find all opening and closing <div> tags on the line to handle cases
+        # where there can be multiple <div> opening and closing on the same line
+        div_tags = re.findall(r"(<div[^>]*dir=['\"](rtl|ltr)['\"][^>]*>|</div>)", line, re.IGNORECASE)
+
+        # Process each found tag in order to correctly update the context stack
+        for tag_tuple in div_tags:
+            # re.findall with multiple capture groups returns a list of tuples:
+            # tag: The full matched tag (e.g., '<div...>' or '</div>')
+            # direction: The captured direction ('rtl' or 'ltr'), or empty for a closing tag
+            tag, direction = tag_tuple
+
+            # If it's an opening tag with 'markdown="1"', push the new context
+            if tag.startswith('<div') and 'markdown="1"' in tag:
+                block_context_stack.append(direction.lower())
+            # If it's a closing tag and we are inside a div, pop the context
+            elif tag == '</div>' and len(block_context_stack) > 1:
+                block_context_stack.pop()
         # Check if the line is a Markdown list item
         list_item = LIST_ITEM_RE.match(line)
 
@@ -388,10 +390,16 @@ def lint_file(path, cfg):
                     issues.append(
                         f"::{sev['pure_ltr'].lower()} file={path},line={idx}::Pure LTR text '{s}' in {part} of RTL context may need trailing '&rlm;' marker."
                     )
+    
+    # Check for unclosed div tags at the end of the file
+    if len(block_context_stack) > 1:
+        issues.append(
+            f"::error file={path},line={len(lines)}::Found unclosed <div dir='...'> tag. "
+            f"The final block context is '{block_context_stack[-1]}', not the file's base '{file_direction_ctx}'."
+        )
 
     # Return the list of found issues
     return issues
-
 
 def get_changed_lines_for_file(filepath):
     """

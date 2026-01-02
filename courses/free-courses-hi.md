@@ -624,8 +624,11 @@
 
 * [100 Days Of Deep Learning](https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn) - CampusX
 * [100 Days Of Machine Learning](https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH) - CampusX
+* [Complete Machine Learning Course with Projects | Learn ML Step-by-Step](https://www.youtube.com/playlist?list=PLaldQ9PzZd9qT0KsKJ7yCq70iFFP3MFJ5) - by sheryians AI School
+* [Machine Learning Playlist](https://www.youtube.com/playlist?list=PLTDARY42LDV7WGmlzZtY-w9pemyPrKNUZ) - by Krish Naik
 * [Intro to Machine Learning](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHioMKxmCxzpXdNfLE4TVjD) - Pepcoding
 * [Machine Learning](https://www.youtube.com/playlist?list=PLYwpaL_SFmcBhOEPwf5cFwqo5B-cP9G4P) - 5 Minutes Engineering
+* [Machine Learning for Data Science in Hindi](https://www.youtube.com/playlist?list=PLxzTa0VPR9rzus4Egb-aOmCWier5XiOba) - The iScale 
 * [Machine Learning Full Course](https://www.youtube.com/watch?v=IoZGSQ07e8g) - Bharani Akella, Great Learning
 * [Machine Learning in Hindi](https://www.youtube.com/playlist?list=PLPbgcxheSpE0aBsefANDYe2X_-tyJbBMr) - Codebasics Hindi
 * [Machine Learning Tutorial using Python in Hindi 2022](https://www.youtube.com/playlist?list=PLfP3JxW-T70Hh7j17_NLzjZ8CejSPx40V) - Indian AI Production 

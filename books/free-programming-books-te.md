@@ -1,4 +1,4 @@
-### Index
+## Index
 
 * [C](#c)
 * [Python](#python)

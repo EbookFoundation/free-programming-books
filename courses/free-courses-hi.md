@@ -633,7 +633,7 @@
 
 * [100 Days Of Deep Learning](https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn) - CampusX
 * [100 Days Of Machine Learning](https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH) - CampusX
-* [Complete Machine Learning Course with Projects | Learn ML Step-by-Step](https://www.youtube.com/playlist?list=PLaldQ9PzZd9qT0KsKJ7yCq70iFFP3MFJ5) - by sheryians AI School
+* [Complete Machine Learning Course with Projects \| Learn ML Step-by-Step](https://www.youtube.com/playlist?list=PLaldQ9PzZd9qT0KsKJ7yCq70iFFP3MFJ5) - sheryians AI School
 * [Intro to Machine Learning](https://www.youtube.com/playlist?list=PL-Jc9J83PIiHioMKxmCxzpXdNfLE4TVjD) - Pepcoding
 * [Machine Learning](https://www.youtube.com/playlist?list=PLYwpaL_SFmcBhOEPwf5cFwqo5B-cP9G4P) - 5 Minutes Engineering
 * [Machine Learning for Data Science in Hindi](https://www.youtube.com/playlist?list=PLxzTa0VPR9rzus4Egb-aOmCWier5XiOba) - The iScale 

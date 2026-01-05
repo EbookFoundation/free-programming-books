@@ -181,7 +181,7 @@
 * [Learn Go Full Course](https://www.boot.dev/courses/learn-golang) - Boot.dev
 * [Start using Go](https://docs.microsoft.com/en-us/learn/paths/go-first-steps/) - Microsoft
 * [TCP Servers in Go](https://app.codecrafters.io/concepts/go-tcp-server) - CodeCrafters
-* [The Go Tutorial](http://tour.golang.org)
+* [The Go Tutorial](https://tour.golang.org)
 
 
 ### GraphQL
@@ -229,11 +229,11 @@
 
 ### Java
 
-* [CodingBat code practice](http://codingbat.com/java)
+* [CodingBat code practice](https://codingbat.com/java)
 * [Java at Codecademy](https://www.codecademy.com/courses/learn-java)
 * [Java Tutorial](https://www.w3schools.com/java) - W3Schools
 * [Java Tutorial](https://www.scaler.com/topics/java/) - Scaler Topics
-* [Learn Java](http://www.learnjavaonline.org)
+* [Learn Java](https://www.learnjavaonline.org)
 * [Learneroo Java tutorial](https://www.learneroo.com/modules/11)
 
 
@@ -241,6 +241,7 @@
 
 * [ABC of JavaScript : An Interactive JavaScript Tutorial](http://www.openjs.com/tutorials/basic_tutorial/)
 * [Codecademy jquery track](https://www.codecademy.com/learn/jquery)
+* [Exercism](https://exercism.org/tracks/javascript) - Exercism
 * [Functional Programming in Javascript](https://github.com/ReactiveX/learnrx)
 * [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) - freeCodeCamp
 * [JavaScript in 14 minutes](https://jgthms.com/javascript-in-14-minutes/) - Jeremy Thomas
@@ -251,13 +252,13 @@
 * [JavaScript Tutorial and Overview](https://www.afterhoursprogramming.com/tutorial/javascript/) - After Hours Programming
 * [Javascripting](https://github.com/sethvincent/javascripting)
 * [JSchallenger](https://www.jschallenger.com)
-* [Learn JavaScript](http://www.learn-js.org)
+* [Learn JavaScript](https://www.learn-js.org)
 * [Learn JavaScript](https://learnjavascript.online)
 * [Learn JavaScript: Online Course for Free](https://code-basics.com/languages/javascript) - Code Basics
 * [Learn knockout.js](http://learn.knockoutjs.com)
 * [Learn to Code for Free – Grasshopper](https://grasshopper.app)
 * [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
-* [Try jQuery](http://try.jquery.com)
+* [Try jQuery](https://try.jquery.com)
 
 
 #### AngularJS
@@ -310,6 +311,7 @@
 * [CodeCombat](http://codecombat.com) - Python, JavaScript, CoffeeScript, Clojure, Lua, Io
 * [Codility](https://codility.com/programmers/)
 * [Introduction to the Coding Interview Prep Algorithms](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms) (freeCodeCamp)
+* [LeetCode](https://leetcode.com) - LeetCode
 * [Python Tutor](http://pythontutor.com) - Python, Java, JavaScript, TypeScript, Ruby, C, C++
 * [The Fullstack Tutorial for GraphQL](https://www.howtographql.com)
 
@@ -394,8 +396,10 @@
 ### Python
 
 * [Codecademy Python course](https://www.codecademy.com/learn/python)
+* [Codewars](https://www.codewars.com/?language=python) - Codewars
 * [Computer Science Circles](https://cscircles.cemc.uwaterloo.ca) - Centre for Education in Mathematics and Computing (University of Waterloo)
 * [Data Analysis with Python Certification](https://www.freecodecamp.org/learn/data-analysis-with-python/) - freeCodeCamp
+* [Exercism](https://exercism.org/tracks/python) - Exercism
 * [Foundations of Python Programming](https://runestone.academy/ns/books/published/fopp/index.html) - Runestone Interactive
 * [Free Online Python Course for Beginners](https://code-basics.com/languages/python) - CodeBasics
 * [futurecoder](https://futurecoder.io) - Alex Hall

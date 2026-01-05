@@ -12,7 +12,7 @@ jobs:
     steps:
     # Checkout the repository code
     - name: Checkout code
-      uses: actions/checkout@v5
+      uses: actions/checkout@v6
 
     # Fetch the full history of 'main' for accurate git diff in PRs
     - name: Fetch all history for main

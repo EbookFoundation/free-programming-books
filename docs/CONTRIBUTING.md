@@ -183,6 +183,14 @@ When a resource is distributed under a free/open license, add a short license no
 5. If you are unsure, add a comment in your PR explaining why you believe the resource is under a free license and where you found the information.
 
 
+### Quality Check
+
+Before submitting a new resource, please perform these three quick checks:
+1. **Link Health**: Click the link to ensure it doesn't lead to a 404 error or a "Domain for Sale" page.
+2. **Readability**: Ensure the content is easily readable on the web without excessive pop-ups or intrusive ads.
+3. **Completeness**: If it's a book, ensure it's a complete work or clearly marked as "in process." We prefer full resources over short introductory articles.
+
+
 ### Alphabetical order
 
 - When there are multiple titles beginning with the same letter order them by the second, and so on. For example: `aa` comes before `ab`.

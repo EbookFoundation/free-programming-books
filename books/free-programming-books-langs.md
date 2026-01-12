@@ -276,7 +276,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Styling Android](https://blog.stylingandroid.com)
 * [The Busy Coder's Guide to Android Development](https://commonsware.com/Android/4-2-free) (PDF - older versions)
 
-
 ### APL
 
 * [A Programming Language](https://softwarepreservation.computerhistory.org/apl/book/APROGRAMMINGLANGUAGE.pdf) - Kenneth E. Iverson (PDF)
@@ -285,9 +284,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Learning APL](https://xpqz.github.io/learnapl) - Stefan Kruger (HTML, PDF, IPYNB)
 * [Mastering Dyalog APL](https://www.dyalog.com/mastering-dyalog-apl.htm) (PDF, HTML, IPYNB) *(construction: in process)*
 * [Reinforcement Learning from the Ground Up](https://romilly.github.io/o-x-o) - Romilly Cocking (PDF, HTML, IPYNB) *(construction: in process)*
-
-
-
 
 ### App Inventor
 

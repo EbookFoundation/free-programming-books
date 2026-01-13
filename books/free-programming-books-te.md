@@ -1,32 +1,21 @@
 ### Index
 
-* [0 - Meta-Lists](#0---meta-lists)
 * [C](#c)
-* [Python](#python)
-* [Java](#java)
 * [MERN](#mern)
+* [Python](#python)
 
 
-### 0 - Meta-Lists
+### C
 
-* [Books - Telugu](https://sites.google.com/nptel.iitm.ac.in/translated-ebook/telugu)
-
-
-### <a id="c"></a>C
-
-* [Introduction to C \| Telugu](https://www.computerintelugu.com/2012/11/cmenu.html) - Sivanaadh Baazi Karampudi
+* [Introduction to C \| Telugu](https://www.youtube.com/playlist?list=PLVlQHNRLflP_OxF1QJoGBwH49DmDcYXFH) - Sundeep Saradhi Kanthety
 
 
-### <a id="java"></a>Java
+### MERN
 
-* [Core Java in Telugu \| Java Programming](https://www.youtube.com/playlist?list=PLz8gl4BEGkEGYXNZrIRHJUSoxS_FPBrDy) - H Y R Tutorials
-
-
-### <a id="mern"></a>MERN Web development
-
-* [Web Development Full Course in Telugu (MERN)](https://www.youtube.com/playlist?list=PL2Kd-KQLppEFbfdJHywOu6b_GAjn3LxE1) - Dodagatta Nihar
+* [Complete MERN Stack Series in Telugu \| Learn MongoDB, Express JS, React JS & Node JS](https://youtube.com/playlist?list=PLn0X92a5D1TF_Vk8g-KgS_sEsjRmhS2nI) - Telugu Web Guru
 
 
-### <a id="python"></a>Python
+### Python
 
-* [Python Course in Telugu: 30 days challenge](https://www.youtube.com/playlist?list=PLNgoFk5SYUglQOaXSY8lAlPXmK6tQBHaw) - Vamsi Bhavani
+* [Python in Telugu](https://www.youtube.com/playlist?list=PLVlQHNRLflP8RyLE8vWfm2wb7O5whuJjd) - Sundeep Saradhi Kanthety
+

@@ -983,7 +983,9 @@
 
 ### IDE and editors
 
+* [Getting Started with Visual Studio Code](https://www.youtube.com/playlist?list=PLj6YeMhvp2S5UgiQnBfvD7XgOMKs3O_G6) - Visual Studio Code
 * [Vim As Your Editor](https://www.youtube.com/playlist?list=PLm323Lc7iSW_wuxqmKx_xxNtJC_hJbQ7R) - ThePrimeagen
+* [Vim Beginners Guide](https://www.youtube.com/playlist?list=PLT98CRl2KxKHy4A5N70jMRYAROzzC2a6x) - Learn Linux TV
 
 
 ### Java

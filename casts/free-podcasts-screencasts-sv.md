@@ -15,7 +15,5 @@
 * [Let's tech-podden](https://letstech.libsyn.com) - Henrik Enström (podcast)
 * [Modermodemet](https://modermodemet.se) (podcast)
 * [Spelskaparna](https://spelskaparna.com) - Olle Landin (podcast)
-* [Still in beta](http://stillinbeta.se) (podcast)
 * [Under utveckling](https://underutveckling.libsyn.com) (podcast)
-* [Utveckla](https://consid.se/podd/utveckla) - Simon Zachrisson, Tobias Dahlgren (podcast)
 * [Väg 74](https://www.agical.se/pod) (podcast)

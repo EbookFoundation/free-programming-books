@@ -106,7 +106,7 @@ Books on general-purpose programming that don't focus on a specific language are
     * [Hydrogen](#hydrogen)
     * [Ionic](#ionic)
     * [jQuery](#jquery)
-    * [meteor](#meteor)
+    * [Meteor](#meteor)
     * [Next.js](#nextjs)
     * [Node.js](#nodejs)
     * [Nuxt.js](#nuxtjs)

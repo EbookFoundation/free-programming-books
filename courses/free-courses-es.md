@@ -3,6 +3,7 @@
 * [ABAP](#abap)
 * [Android](#android)
 * [Arduino](#arduino)
+* [Automatizacion de Procesos](#automatizaci&#x00F3;n-de-procesos)
 * [Bases de Datos](#bases-de-datos)
 * [Ciencias de la Computación](#ciencias-de-la-computaci&#x00F3;n)
 * [Control de Versiones](#control-de-versiones)
@@ -48,6 +49,11 @@
 
 * [Arduino, creando aplicaciones](https://www.coursera.org/learn/arduino-aplicaciones)
 * [Curso Arduino desde cero en Español fácil y didáctico](https://www.youtube.com/playlist?list=PLkjnQ3NFTPnY1eNyLDGi547gkVui1vyn2) - Bitwise Ar
+
+
+### Automatización de Procesos
+
+* [Introducción a n8n](https://www.youtube.com/watch?v=yP0PM-fpnXo) - Miguel Ángel Durán "midudev"
 
 
 ### Bases de Datos

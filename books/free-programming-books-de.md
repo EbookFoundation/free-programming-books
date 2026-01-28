@@ -210,6 +210,7 @@
 * [Programmiereinführung mit Python](http://opentechschool.github.io/python-beginners/de) (Online)
 * [PyQt und PySide: GUI und Anwendungsentwicklung mit Python und Qt](https://github.com/pbouda/pyqt-und-pyside-buch) - Peter Bouda, Michael Palmer, Dr. Markus Wirz (TeX, [PDF](https://github.com/pbouda/pyqt-und-pyside-buch/releases/latest)) *( :construction: in Bearbeitung)*
 * [Python 3 - Das umfassende Handbuch](http://openbook.rheinwerk-verlag.de/python) - Johannes Ernesti, Peter Kaiser (Online)
+* [Python Notes for Professionals] (https://books.goalkicker.com/PythonBook/) - Comprehensive free Python reference book
 
 
 #### Django

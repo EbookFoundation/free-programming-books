@@ -233,6 +233,7 @@
 * [Tutorial Python](https://docs.python.org/id/3.8/tutorial/)
 * [Tutorial Python untuk Pemula](https://www.kevintekno.com/p/tutorial-python-untuk-pemula.html) - Kevin Tekno, Kevin Alfito
 * [Workshop Python 101](http://sakti.github.io/python101/)
+* [Automate the Boring stuff with Python] (https.//automatetheboringstuff.com/)-Al Sweigart 
 
 
 ### Rust

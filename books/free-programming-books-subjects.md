@@ -164,7 +164,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Probabilistic Programming & Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - Cam Davidson-Pilon (HTML, Jupyter Notebook)
 * [Stanford CS224N: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) - Christopher Manning (Stanford Online)
 * [The History of Artificial Intelligence](https://courses.cs.washington.edu/courses/csep590/06au/projects/history-ai.pdf) - Chris Smith, Brian McGuire, Ting Huang, Gary Yang (PDF)
-* [The Math Behind Artificial Intelligence](https://www.freecodecamp.org/news/the-math-behind-artificial-intelligence-book) - Tiago Monteiro (HTML)
+* [The Math Behind Artificial Intelligence: A Guide to AI Foundations](https://www.freecodecamp.org/news/the-math-behind-artificial-intelligence-book) - Tiago Monteiro (HTML)
 * [The Quest for Artificial Intelligence: A History of Ideas and Achievements](https://ai.stanford.edu/~nilsson/QAI/qai.pdf) - Nils J. Nilsson (PDF)
 
 

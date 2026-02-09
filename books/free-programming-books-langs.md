@@ -106,7 +106,7 @@ Books on general-purpose programming that don't focus on a specific language are
     * [Hydrogen](#hydrogen)
     * [Ionic](#ionic)
     * [jQuery](#jquery)
-    * [meteor](#meteor)
+    * [Meteor](#meteor)
     * [Next.js](#nextjs)
     * [Node.js](#nodejs)
     * [Nuxt.js](#nuxtjs)
@@ -820,7 +820,6 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Go
 
-* [An Introduction to Programming in Go](https://www.golang-book.com/books/intro) - Caleb Doxsey
 * [Build Web Application with Golang](https://astaxie.gitbooks.io/build-web-application-with-golang/content/en/) - astaxie (CC BY-SA)
 * [Building Web Apps with Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
 * [Darker Corners of Go](https://rytisbiel.com/2021/03/06/darker-corners-of-go/) - Rytis Bieliunas
@@ -2528,7 +2527,7 @@ Books on general-purpose programming that don't focus on a specific language are
 ### SQL (implementation agnostic)
 
 * [Developing Time-Oriented Database Applications in SQL](https://www2.cs.arizona.edu/~rts/tdbbook.pdf) - Richard T. Snodgrass (PDF)
-* [Essential SQL](https://www.programming-books.io/essential/sql) - Krzysztof Kowalczyk and  Stack Overflow Documentation project (HTML)
+* [Essential SQL](https://www.programming-books.io/essential/sql/index.html) - Krzysztof Kowalczyk, Stack Overflow Documentation project (HTML) (CC BY-SA)
 * [How to Design Structured Database Systems Using SQL](https://www.freecodecamp.org/news/how-to-design-structured-database-systems-using-sql-full-book/) -  Daniel García Solla, freeCodeCamp (HTML)
 * [Introduction to SQL](https://github.com/bobbyiliev/introduction-to-sql) - Bobby Iliev (Markdown, PDF)
 * [Learning SQL](https://riptutorial.com/Download/sql.pdf) - Compiled from StackOverflow Documentation (PDF)

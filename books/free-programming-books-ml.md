@@ -10,5 +10,6 @@
 * [XII_Computer_Science_Part_I](https://samagra.kite.kerala.gov.in/files/samagra-resource/uploads/tbookscmq/Class_XII/MAL_MED/Computer%20Science%20Part%201%20.pdf) - SCERT (PDF)
 * [XII_Computer_Science_Part_II](https://samagra.kite.kerala.gov.in/files/samagra-resource/uploads/tbookscmq/Class_XII/MAL_MED/Computer%20Science%20Part%202.pdf) - SCERT (PDF)
 
+- [Machine Learning for Absolute Beginners](https://www.kdnuggets.com/2017/08/machine-learning-absolute-beginners.html) – Introductory article explaining basic ML concepts.
 
 

@@ -69,6 +69,8 @@ Click on these badges to see how you might be able to help:
 
 ## Resources
 
+##*[javascript for Beginners](http://www.example.com)
+
 This project lists books and other resources grouped by genres:
 
 ### Books

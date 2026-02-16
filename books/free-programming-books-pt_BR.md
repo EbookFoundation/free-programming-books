@@ -138,6 +138,7 @@
 
 * [C# e Orientação a Objetos](https://www.caelum.com.br/apostila-csharp-orientacao-objetos/) - Caelum
 * [C# para Iniciantes](https://livrocsharp.com.br/wp-content/uploads/dae-uploads/CSharpIniciantes.pdf) - André Carlucci, Carlos dos Santos, Claudenir Andrade, Rafael Almeida, Ray Carneiro, Renato Haddad (PDF)
+* [Linguagem de Programação C# Avançado](https://lms.ev.org.br/mpls/Custom/Cds/COURSES/3164-Adapt/curso/pdfs/ebook-completo.pdf) - Fundação Bradesco (PDF)
 
 
 ### <a id="cpp"></a>C++

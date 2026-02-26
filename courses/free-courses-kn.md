@@ -21,16 +21,17 @@
 
 ### JavaScript
 
-* [JavaScript course in Kannada](https://youtube.com/playlist?list=PLUZkVL-W-8GJVkp8Az0SAWqmDPv5b2Tn9) - script kiddie
-* [JavaScript for Beginners in Kannada(Full Course)](https://www.youtube.com/playlist?list=PLQztdyH5OY4BvjvmU0PV8nTevqXjYcYEE) - MicroDegree ಕನ್ನಡ
+* [JavaScript course in Kannada](https://youtube.com/playlist?list=PLUZkVL-W-8GJVkP8AZ0SAWqmDPv5bzTn9) - script kiddie
+* [JavaScript for Beginners in Kannada (Full Course)](https://www.youtube.com/playlist?list=PLQZtdyH5OY4BvjvmU0PV8nTevqXjYCYEE) - MicroDegree ಕನ್ನಡ
+* [React JS Tutorial Series (Kannada)](https://youtu.be/vYXY0_Vdkos?si=ZW5IHFuvJzE-eblc) - Script Kiddie
 
 
 ### PLC
 
-* [PLC tutorial for beginners](https://youtube.com/playlist?list=PLM-fDuwhsV0nAyn-B06TTbDW78HL3pNiw) - DevelUp Technical
+* [PLC tutorial for beginners](https://youtube.com/playlist?list=PLM-fDuwhsV0nAyn-B06TTbDW78HL3pNiw) - DevelUp Technicals
 
 
 ### Python
 
-* [Learn Python in Kannada](https://youtube.com/playlist?list=PLlGueSbLhZoD_mUatMaJsVukJ2Re3JAUj) - Engineering in Kannada
-* [python complete course in Kannada](https://youtube.com/playlist?list=PLUZkVL-W-8GKpo--HuELu27Lkc308fNXe) - script kiddie
+* [Learn Python in Kannada](...)
+* [python complete course in Kannada](...) - script kiddie

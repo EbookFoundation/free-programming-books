@@ -131,7 +131,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Livecode](#livecode)
 * [Lua](#lua)
 * [Make](#make)
-* [Markdown](#markdown)
+* [Markdown](#markdown-1)
 * [Mathematica](#mathematica)
 * [MATLAB](#matlab)
 * [Maven](#maven)

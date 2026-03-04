@@ -78,7 +78,7 @@
 * [Linux](#linux)
 * [Lua](#lua)
 * [Machine Learning](#machine-learning)
-* [Markdown](#markdown)
+* [Markdown](#markdown-1)
 * [Matlab](#matlab)
     * [Simulink](#simulink)
 * [Misc](#misc)

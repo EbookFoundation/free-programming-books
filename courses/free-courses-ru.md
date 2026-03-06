@@ -74,7 +74,6 @@ ADV - Продвинутый. Тонкости.
 * [Основы Go](https://ru.hexlet.io/courses/go-basics) - Hexlet (BEG)
 * [Программирование на Golang](https://stepik.org/course/54403) - Stepik (BEG)
 * [Go (Golang) - первое знакомство](https://stepik.org/course/100208) - Stepik (BEG)
-* [PRO Go. Основы программирования](https://stepik.org/course/158385) - Stepik (BEG)
 
 
 ### Haskell

@@ -5,6 +5,7 @@
 * [JavaScript](#javascript)
 * [PLC](#plc)
 * [Python](#python)
+* [React](#react)
 
 
 ### C
@@ -34,3 +35,8 @@
 
 * [Learn Python in Kannada](https://youtube.com/playlist?list=PLlGueSbLhZoD_mUatMaJsVukJ2Re3JAUj) - Engineering in Kannada
 * [python complete course in Kannada](https://youtube.com/playlist?list=PLUZkVL-W-8GKpo--HuELu27Lkc308fNXe) - script kiddie
+
+
+### React
+
+* [React JS Tutorial Series (Kannada)](https://youtu.be/vYXY0_Vdkos?si=ZW5IHFuvJzE-eblc) - script kiddie

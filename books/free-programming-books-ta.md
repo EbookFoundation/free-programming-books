@@ -46,7 +46,7 @@
 
 ### Ezhil
 
-* [Write Code in Tamil-Ezhil Programming Language](https://ezhillang.wordpress.com/wp-content/uploads/2022/01/book-write-code-in-tamil-2015.pdf) - மதைதயா அணணாமைல,என. ொசாககன (PDF)
+* [Write Code in Tamil-Ezhil Programming Language](https://ezhillang.wordpress.com/wp-content/uploads/2022/01/book-write-code-in-tamil-2015.pdf) - முத்தையா அண்ணாமலைை, என்.சொக்கன் (PDF)
 
 
 ### Git Github
@@ -78,7 +78,7 @@
 ### JavaScript
 
 * [எளிய தமிழில் JavaScript](https://freetamilebooks.com/ebooks/learn-javascript-in-tamil/) - து.நித்யா (PDF)
-* [துவக்க நிலையாளர்களுக்கான JavaScript உரைநிரல்](https://freetamilebooks.com/ebooks/javascript_for_beginner/) - ச. குப்பன் (PDF)
+* [துவக்க நிலையாளர்களுக்கான JavaScript உரைநிரல்](https://freetamilebooks.com/ebooks/javascript_for_beginner/) - ச.குப்பன் (PDF)
 
 
 ### Linux

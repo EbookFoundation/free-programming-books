@@ -1,7 +1,7 @@
 ## Index
 
 * [AR/VR/MR](#ar-vr-mr)
-* [C Programming Language](#c-programming-language)
+* [C++](#C++)
 * [Computer Vision](#computer-vision)
 * [DevOps](#devops)
 * [Ezhil](#ezhil)
@@ -9,6 +9,7 @@
 * [Hadoop](#hadoop)
 * [HTML and CSS](#html-and-css)
 * [IOT](#iot)
+* [Java](#java)
 * [JavaScript](#javascript)
 * [Linux](#linux)
 * [Machine Learning](#machine-learning)
@@ -27,9 +28,10 @@
 * [எளிய தமிழில் VR/AR/MR](https://freetamilebooks.com/ebooks/vr_ar_mr/) - இரா.அசோகன் (PDF)
 
 
-### C Programming Language
+### C++
 
-* [C Programming Language Tamil](https://www.tamilpdfbooks.com/download.php?id=19978#pdf) - Sivalingam M (PDF)
+* [சி++](https://www.nselva.com/book/C-plus-plus-book.pdf) - ந.செல்வகுமார் (PDF)
+* [சி++](https://programmingexercises.blogspot.com/2013/07/download-c-books-in-hindi-gujarati-and.html) - மு.சிவலிங்கம் (PDF)
 
 
 ### Computer Vision
@@ -44,7 +46,7 @@
 
 ### Ezhil
 
-* [Write Code in Tamil-Ezhil Programming Language](https://ezhillang.wordpress.com/wp-content/uploads/2022/01/book-write-code-in-tamil-2015.pdf) - மதைதயா அணணாமைல,என. ொசாககன (PDF)
+* [Write Code in Tamil-Ezhil Programming Language](https://ezhillang.wordpress.com/wp-content/uploads/2022/01/book-write-code-in-tamil-2015.pdf) - முத்தையா அண்ணாமலைை, என்.சொக்கன் (PDF)
 
 
 ### Git Github
@@ -60,7 +62,6 @@
 ### HTML and CSS
 
 * [எளிய தமிழில் CSS](https://freetamilebooks.com/ebooks/learn-css-in-tamil/) - து.நித்யா (PDF)
-* [எளிய தமிழில் HTML](https://freetamilebooks.com/htmlbooks/html-book/Learn-HTML-in-Tamil.html) - த.சீனிவாசன் (PDF)
 * [எளிய தமிழில் HTML](https://noolaham.net/project/51/5090/5090.pdf) - வே.நவமோகன் (PDF)
 
 
@@ -69,10 +70,15 @@
 * [எளிய தமிழில் IOT](https://freetamilebooks.com/ebooks/iot/) - இரா.அசோகன் (PDF)
 
 
+### Java
+
+* [எளிய தமிழில் JAVA](https://www.tamildigit.com/p/java-language.html) - பாக்கியநாதன் (PDF)
+
+
 ### JavaScript
 
 * [எளிய தமிழில் JavaScript](https://freetamilebooks.com/ebooks/learn-javascript-in-tamil/) - து.நித்யா (PDF)
-* [துவக்க நிலையாளர்களுக்கான JavaScript உரைநிரல்](https://freetamilebooks.com/ebooks/javascript_for_beginner/) - ச. குப்பன் (PDF)
+* [துவக்க நிலையாளர்களுக்கான JavaScript உரைநிரல்](https://freetamilebooks.com/ebooks/javascript_for_beginner/) - ச.குப்பன் (PDF)
 
 
 ### Linux
@@ -106,6 +112,7 @@
 ### Ruby
 
 * [எளிய இனிய கணினி மொழி Ruby](https://freetamilebooks.com/ebooks/learn-ruby-in-tamil/) - பிரியா சுந்தரமூர்த்தி (PDF)
+* [ரூபி நண்பன்](https://freetamilebooks.com/ebooks/ruby_nanban/) - டக் ரைட், ஆடம் ஸ்டார் (PDF)
 
 
 ### Selenium

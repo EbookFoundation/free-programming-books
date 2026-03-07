@@ -2116,7 +2116,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Tiny Python 3.6 Notebook](https://github.com/mattharrison/Tiny-Python-3.6-Notebook) - Matt Harrison (3.6)
 * [Tiny Python Projects](http://tinypythonprojects.com/Tiny_Python_Projects.pdf) - Ken Youens-Clark(PDF)
 * [Web2py: Complete Reference Manual, 6th Edition (pre-release)](http://web2py.com/book) (2.5 - 2.x)
-
+* [[Python Crash Course](https://ehmatthes.github.io/pcc/)]
 
 #### Django
 

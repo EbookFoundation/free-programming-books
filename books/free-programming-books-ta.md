@@ -9,6 +9,7 @@
 * [Hadoop](#hadoop)
 * [HTML and CSS](#html-and-css)
 * [IOT](#iot)
+* [Java](#java)
 * [JavaScript](#javascript)
 * [Linux](#linux)
 * [Machine Learning](#machine-learning)
@@ -66,6 +67,11 @@
 ### IOT
 
 * [எளிய தமிழில் IOT](https://freetamilebooks.com/ebooks/iot/) - இரா.அசோகன் (PDF)
+
+
+### Java
+
+* [எளிய தமிழில் JAVA](https://www.tamildigit.com/p/java-language.html) - பாக்கியநாதன் (PDF)
 
 
 ### JavaScript

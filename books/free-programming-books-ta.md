@@ -111,6 +111,7 @@
 ### Ruby
 
 * [எளிய இனிய கணினி மொழி Ruby](https://freetamilebooks.com/ebooks/learn-ruby-in-tamil/) - பிரியா சுந்தரமூர்த்தி (PDF)
+* [ரூபி நண்பன்](https://freetamilebooks.com/ebooks/ruby_nanban/) - டக் ரைட், ஆடம் ஸ்டார் (PDF)
 
 
 ### Selenium

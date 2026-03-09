@@ -191,7 +191,13 @@
 
 ### 人工智能
 
+* [大规模语言模型：从理论到实践](https://llmbook-zh.github.io) - 张奇、桂韬、郑锐、黄沛 等
 * [动手实战人工智能](https://aibydoing.com) - huhuhang
+* [动手学强化学习](https://hrl.boyuai.com) - 张伟楠、沈键、俞勇
+* [动手学深度学习](https://zh.d2l.ai) - 阿斯顿·张、李沐、扎卡里·C·立顿、亚历山大·J·斯莫拉
+* [南瓜书PumpkinBook](https://datawhalechina.github.io/pumpkin-book) - Datawhale
+* [深度学习500问](https://github.com/scutan90/DeepLearning-500-questions) - scutan90
+* [神经网络与深度学习](https://nndl.github.io) - 邱锡鹏
 
 
 ### 软件开发方法

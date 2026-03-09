@@ -30,7 +30,7 @@
 
 ### C++
 
-* [சி++](https://www.nselva.com/book/C-plus-plus-book.pdf) - ந.செல்வகுமார் (PDF)
+* [சி++ மொழி](https://www.nselva.com/book/C-plus-plus-book.pdf) - ந.செல்வகுமார் (PDF)
 * [சி++](https://programmingexercises.blogspot.com/2013/07/download-c-books-in-hindi-gujarati-and.html) - மு.சிவலிங்கம் (PDF)
 
 

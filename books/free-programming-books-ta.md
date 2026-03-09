@@ -1,7 +1,7 @@
 ## Index
 
 * [AR/VR/MR](#ar-vr-mr)
-* [C++](#C++)
+* [C++](#c)
 * [Computer Vision](#computer-vision)
 * [DevOps](#devops)
 * [Ezhil](#ezhil)

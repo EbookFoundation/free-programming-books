@@ -2760,3 +2760,11 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Zig Guide](https://zig.guide) (HTML)
 * [Zig Language Reference](https://devdocs.io/zig) - DevDocs
 * [Zig Language Reference](https://ziglang.org/documentation/master) (HTML)
+
+
+### GIT Section
+* [Pro Git](https://git-scm.com/book/en/v2) - Scott Chacon, Ben Straub (HTML, PDF)
+
+
+
+

@@ -1,7 +1,6 @@
 ## Index
 
 * [AR/VR/MR](#ar-vr-mr)
-* [C Programming Language](#c-programming-language)
 * [Computer Vision](#computer-vision)
 * [DevOps](#devops)
 * [Ezhil](#ezhil)

@@ -2763,6 +2763,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 
 ### GIT Section
+
 * [Pro Git](https://git-scm.com/book/en/v2) - Scott Chacon, Ben Straub (HTML, PDF)
 
 

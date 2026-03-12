@@ -674,6 +674,7 @@
 * [Python Cookbook第三版](http://python3-cookbook.readthedocs.io/zh_CN/latest/) - David Beazley、Brian K.Jones、熊能(翻译)
 * [Python教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1016959663602400)
 * [Python进阶](https://interpy.eastlakeside.com) - eastlakeside
+* [Python AI 编程入门](https://github.com/evanliubook/aigithub) - Python AI 编程相关的开源项目汇总
 * [Python之旅](https://web.archive.org/web/20191217091745/http://funhacks.net/explore-python/) - Ethan *( :card_file_box: archived)*
 * [Tornado 6.1 中文文档](http://www.osgeo.cn/tornado/) (Online) *(网络上其他的都是较旧版本的)*
 

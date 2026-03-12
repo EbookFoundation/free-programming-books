@@ -1,7 +1,6 @@
 ## Index
 
 * [AR/VR/MR](#ar-vr-mr)
-* [C Programming Language](#c-programming-language)
 * [Computer Vision](#computer-vision)
 * [DevOps](#devops)
 * [Ezhil](#ezhil)
@@ -25,11 +24,6 @@
 ### AR VR MR
 
 * [எளிய தமிழில் VR/AR/MR](https://freetamilebooks.com/ebooks/vr_ar_mr/) - இரா.அசோகன் (PDF)
-
-
-### C Programming Language
-
-* [C Programming Language Tamil](https://www.tamilpdfbooks.com/download.php?id=19978#pdf) - Sivalingam M (PDF)
 
 
 ### Computer Vision
@@ -60,7 +54,6 @@
 ### HTML and CSS
 
 * [எளிய தமிழில் CSS](https://freetamilebooks.com/ebooks/learn-css-in-tamil/) - து.நித்யா (PDF)
-* [எளிய தமிழில் HTML](https://freetamilebooks.com/htmlbooks/html-book/Learn-HTML-in-Tamil.html) - த.சீனிவாசன் (PDF)
 * [எளிய தமிழில் HTML](https://noolaham.net/project/51/5090/5090.pdf) - வே.நவமோகன் (PDF)
 
 

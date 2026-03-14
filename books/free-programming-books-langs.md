@@ -2061,11 +2061,13 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Programming for Non-Programmers, Release 2.6.2](https://web.archive.org/web/20180921063136/http://buildingskills.itmaybeahack.com/book/programming-2.6/latex/ProgrammingforNon-Programmers.pdf) - Steven F. Lott (PDF) (2.6) *( :card_file_box: archived)*
 * [PySDR: A Guide to SDR and DSP using Python](https://pysdr.org) - Marc Lichtman (3.x)
 * [Python 101](https://python101.pythonlibrary.org) - Michael Driscoll (HTML, TEXT)
+* [Python Crash Course (2nd Edition Sample)](https://ehmatthes.github.io/pcc/) - Eric Matthes (HTML)
 * [Python 2 Official Documentation](https://docs.python.org/2/download.html) (PDF, HTML, TEXT) (2.x)
 * [Python 2.7 quick reference](https://web.archive.org/web/20171013204449/http://infohost.nmt.edu/tcc/help/pubs/python27/python27.pdf) - John W. Shipman (PDF) (2.7) *( :card_file_box: archived)*
 * [Python 3 Official Documentation](https://docs.python.org/3/download.html) (PDF, EPUB, HTML, TEXT) (3.x)
 * [Python 3 Patterns, Recipes, and Idioms](https://python-3-patterns-idioms-test.readthedocs.io/en/latest/) - Bruce Eckel & Friends
 * [Python 3 Tutorial](https://github.com/Akuli/python-tutorial)
+* [Python Design Patterns](https://python-patterns.guide/) - Brandon Rhodes (HTML)
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook) - Jake VanderPlas (HTML, Jupyter Notebooks)
 * [Python for Astronomers](https://prappleizer.github.io/textbook.pdf) - Imad Pasha, Christopher Agostino (PDF)
 * [Python for Data Analysis](https://wesmckinney.com/book/) - Wes McKinney
@@ -2089,6 +2091,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Python Programming Exercises, Gently Explained](https://inventwithpython.com/PythonProgrammingExercisesGentlyExplained.pdf) - Al Sweigart (PDF)
 * [Python Tutorial](https://www.tutorialspoint.com/python/) - Tutorials Point (HTML, PDF)
 * [Research Software Engineering with Python](https://merely-useful.tech/py-rse/) - Damien Irving, Kate Hertweck, Luke Johnston, Joel Ostblom, Charlotte Wickham, Greg Wilson (HTML)
+* [Real Python Tutorials](https://realpython.com/tutorials/python/) - Real Python Team (HTML)
 * [Scientific Visualization: Python + Matplotlib](https://github.com/rougier/scientific-visualization-book) - Nicolas P. Rougier (PDF)
 * [Scipy Lecture Notes](http://scipy-lectures.github.io)
 * [SICP in Python](http://www-inst.eecs.berkeley.edu/~cs61a/sp12/book/) (3.2)

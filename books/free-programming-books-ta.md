@@ -71,7 +71,7 @@
 
 ### Java
 
-* [எளிய தமிழில் JAVA](https://www.tamildigit.com/p/java-language.html) - பாக்கியநாதன் (PDF)
+* [எளிய தமிழில் JAVA]([https://www.tamildigit.com/p/java-language.html](https://nilanilal.blogspot.com/2011/12/pdf-java.html)) - பாக்கியநாதன் (PDF)
 
 
 ### JavaScript

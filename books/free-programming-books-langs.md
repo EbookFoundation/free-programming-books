@@ -310,7 +310,7 @@ Books on general-purpose programming that don't focus on a specific language are
 ### ASP.NET
 
 * [Architecting Modern Web Applications with ASP.NET Core and Microsoft Azure (2020)](https://aka.ms/webappebook) - Steve "ardalis" Smith (PDF) *( :construction: in process)*
-* [ASP.NET MVC Music Store](http://mvcmusicstore.codeplex.com)
+* [ASP.NET MVC Music Store](https://learn.microsoft.com/en-us/aspnet/mvc/overview/older-versions/mvc-music-store/mvc-music-store-part-1)
 * [ASP.NET WebHooks Succinctly](https://www.syncfusion.com/ebooks/aspnet_webhooks_succinctly) - Gaurav Arora
 * [ASP.NET with C# (2008)](http://www.vijaymukhi.com/documents/books/vsnet/content.htm) - Vijay Mukhi, Sonal Mukhi, Neha Kotecha
 * [Diving into ASP.NET WebAPI (2016)](https://github.com/akhilmittal/FreeBooks/) - Akhil Mittal (PDF)

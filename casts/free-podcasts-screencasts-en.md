@@ -86,7 +86,7 @@
 * [Data Engineering Podcast](https://www.dataengineeringpodcast.com) - Tobias Macey (podcast)
 * [Data Futurology - Leadership And Strategy in Artificial Intelligence, Machine Learning, Data Science](https://www.datafuturology.com/podcasts) - Felipe Flores (podcast)
 * [Data Skeptic](https://dataskeptic.com/episodes) - Kyle Polich (podcast)
-* [Data Stories - a podcast on data\+visualization](http://datastori.es) - Enrico Bertini, Moritz Stefaner, Sandra Rendgen, Florian Wöhrl, Destry Sibley (podcast)
+* [Data Stories - a podcast on data\+visualization](http://datastori.es) - Enrico Bertini, Moritz Stefaner, Sandra Rendgen, Florian Wöhrl, Destroy Sibley (podcast)
 * [DataFramed](https://www.datacamp.com/community/podcast) - Martijn Theuwissen, et al. Datacamp team (podcast)
 * [Learning Machines 101](https://www.learningmachines101.com) - Richard M. Golden (podcast)
 * [Linear Digressions](https://www.lineardigressions.com) - Katie, Ben (podcast)

@@ -1906,6 +1906,7 @@ Books on general-purpose programming that don't focus on a specific language are
 ### PostgreSQL
 
 * [Essential PostgreSQL](https://www.programming-books.io/essential/postgresql/) - Krzysztof Kowalczyk, StackOverflow Contributors
+* [Lift the Elephant: Scaling PostgreSQL Beyond Query Optimization](https://leanpub.com/lift-the-elephant) - Alex Yarotsky (PDF) *(Leanpub account or valid email requested)*
 * [Postgres Official Documentation](http://www.postgresql.org/docs/)
 * [Postgres Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/postgres) (PDF, Kindle) (email address *requested*, not required)
 * [PostgreSQL Notes for Professionals](https://goalkicker.com/PostgreSQLBook/) - Compiled from StackOverflow documentation (PDF)

@@ -289,7 +289,7 @@
 
 * [Accessibility CheatSheet](https://learn-the-web.algonquindesign.ca/topics/accessibility-cheat-sheet/) - Algonquin Design (HTML)
 * [Beginner's CheatSheet](https://websitesetup.org/html5-cheat-sheet/) - WebsiteSetup (HTML)
-* [Bootstrap 5 CSS Cheat Sheet](https://bootstrap-cheatsheet.themeselection.com/) - Theme Selection (HTML)
+* [Bootstrap 5 CSS Cheat Sheet](https://bootstrap-cheatsheet.themeselection.com) - Theme Selection (HTML)
 * [CSS Cheat Sheet – A Basic Guide to CSS](https://www.geeksforgeeks.org/css-cheat-sheet-a-basic-guide-to-css) - GeeksforGeeks (HTML)
 * [CSS CheatSheet](https://htmlcheatsheet.com/css/) (HTML)
 * [CSS Cheatsheet](https://www.codewithharry.com/blogpost/css-cheatsheet/) - CodeWithHarry (HTML)

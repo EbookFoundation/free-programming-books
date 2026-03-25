@@ -289,6 +289,7 @@
 
 * [Accessibility CheatSheet](https://learn-the-web.algonquindesign.ca/topics/accessibility-cheat-sheet/) - Algonquin Design (HTML)
 * [Beginner's CheatSheet](https://websitesetup.org/html5-cheat-sheet/) - WebsiteSetup (HTML)
+* [Bootstrap 5 CSS Cheat Sheet](https://bootstrap-cheatsheet.themeselection.com/) - Theme Selection (HTML)
 * [CSS Cheat Sheet – A Basic Guide to CSS](https://www.geeksforgeeks.org/css-cheat-sheet-a-basic-guide-to-css) - GeeksforGeeks (HTML)
 * [CSS CheatSheet](https://htmlcheatsheet.com/css/) (HTML)
 * [CSS Cheatsheet](https://www.codewithharry.com/blogpost/css-cheatsheet/) - CodeWithHarry (HTML)
@@ -493,6 +494,7 @@
 * [Python Cheat Sheet](https://overapi.com/python) - OverAPI (HTML)
 * [Python Cheat Sheet](https://zerotomastery.io/cheatsheets/python-cheat-sheet/) - ZeroToMastery (HTML, PDF)
 * [Python Cheat sheet (2025)](https://www.geeksforgeeks.org/python-cheat-sheet) - GeeksforGeeks (HTML)
+* [Python Cheat Sheet for Quick Reference](https://docs.google.com/document/u/1/d/e/2PACX-1vTkdWzlMnt4qnZBelQGfd1K9RGGotM9bHabcqnoOq_VXWVlzhKSekh3Uu6SZIATPtJ-yr9qleASYhHO/pub) - IIT Madras (HTML)
 * [Python Crash Course Cheatsheet](https://github.com/ehmatthes/pcc/blob/master/cheat_sheets/README.md) - Eric Matthes (HTML)
 * [Python Crash Course Cheatsheet (2nd Edition)](https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/) - Eric Matthes (PDF)
 * [Python Crash Course Cheatsheet (3rd Edition)](https://ehmatthes.github.io/pcc_3e/cheat_sheets/) - Eric Matthes (PDF)

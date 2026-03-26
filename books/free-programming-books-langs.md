@@ -1,3 +1,5 @@
+<img width="1365" height="729" alt="image" src="https://github.com/user-attachments/assets/31762fe7-7317-4ce5-8426-df0c425366a2" />
+<img width="1365" height="729" alt="image" src="https://github.com/user-attachments/assets/81cc34a5-ea42-4cf4-8f37-e1da10ce00d2" />
 ## BY PROGRAMMING LANGUAGE
 
 Originally, this list included a section called "Language Agnostic" for books about programming subjects not restricted to a specific programming language.
@@ -2070,7 +2072,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook) - Jake VanderPlas (HTML, Jupyter Notebooks)
 * [Python for Astronomers](https://prappleizer.github.io/textbook.pdf) - Imad Pasha, Christopher Agostino (PDF)
 * [Python for Data Analysis](https://wesmckinney.com/book/) - Wes McKinney
-* [Python for Everybody](http://py4e.com/book) - Charles Russell Severance (PDF, EPUB, HTML) (3.x)
+* [Python for Everybody](https://www.py4e.com/book) - Charles Russell Severance (PDF, EPUB, HTML) (3.x)
 * [Python for Informatics: Exploring Information](http://www.pythonlearn.com/book.php) - Charles Russell Severance (2.7.5)
 * [Python for network engineers](https://pyneng.readthedocs.io/en/latest/) - Natasha Samoylenko
 * [Python for you and me](http://pymbook.readthedocs.org/en/latest/) (2.7.3)

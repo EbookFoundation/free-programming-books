@@ -233,7 +233,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [xBase (dBase / Clipper / Harbour)](#xbase-dbase--clipper--harbour)
 * [Zig](#zig)
 
-nandhini
 ### ABAP
 
 * [SAP AWS Technical Documentation](https://aws.amazon.com/sap/docs/)

@@ -425,7 +425,7 @@ def get_changed_lines_for_file(filepath):
         # Get the diff for the file (unified=0 for no context lines)
         diff = subprocess.check_output(
             ['git', 'diff', '--unified=0', 'origin/main...', '--', filepath],
-            encoding='utf-8', errors='ignore'
+            encoding='utf-8', errors='ignore', shell=False, timeout=30
         )
         for line in diff.splitlines():
             if line.startswith('@@'):

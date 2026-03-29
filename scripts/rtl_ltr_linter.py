@@ -421,11 +421,17 @@ def get_changed_lines_for_file(filepath):
     """
     import subprocess
     changed_lines = set()
+    # Validate filepath to prevent command injection via malicious input
+    if not filepath or not isinstance(filepath, str):
+        return changed_lines
     try:
         # Get the diff for the file (unified=0 for no context lines)
+        # The list form (not shell=True) and '--' separator prevent shell injection.
+        # stderr=subprocess.DEVNULL suppresses error output to avoid information leakage.
         diff = subprocess.check_output(
             ['git', 'diff', '--unified=0', 'origin/main...', '--', filepath],
-            encoding='utf-8', errors='ignore'
+            encoding='utf-8', errors='ignore',
+            stderr=subprocess.DEVNULL
         )
         for line in diff.splitlines():
             if line.startswith('@@'):

@@ -211,6 +211,7 @@ Free Podcasts and Screencasts:
 + [Swedish / Svenska](casts/free-podcasts-screencasts-sv.md)
 + [Turkish / Türkçe](casts/free-podcasts-screencasts-tr.md)
 + [Ukrainian / Українська](casts/free-podcasts-screencasts-uk.md)
++ - [Java Notes for Beginners](https://example.com)
 
 
 ### Programming Playgrounds

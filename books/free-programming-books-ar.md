@@ -40,7 +40,7 @@
 
 ### Git
 
-* [Pro Git](https://git-scm.com/book/ar/v2) - Scott Chacon, Ben Straub&rlm; (HTML)
+* [Pro Git](https://github.com/progit2-ar/progit2) - Scott Chacon, Ben Straub&rlm; (HTML)
 
 
 ### HTML and CSS

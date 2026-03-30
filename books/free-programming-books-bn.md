@@ -30,6 +30,7 @@
 ### Data Science
 
 * [ডাটা সাইন্সের হাতেখড়ি](https://datasinsightsbd.gitbook.io) - Fazle Rabbi Khan (gitbook)
+* [The Data Science Handbook](https://github.com/kailas93/Data-Science-Handbook) - Carl Shan, Henry Wang, William Chen, Max Song
 
 
 ### Go

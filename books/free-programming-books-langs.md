@@ -2373,6 +2373,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Effective Rust](https://www.lurklurk.org/effective-rust) - David Drysdale (HTML, PDF)
 * [From JavaScript to Rust ebook](https://github.com/wasmflow/node-to-rust/raw/HEAD/from-javascript-to-rust.pdf) - Jarrod Overson (PDF)
 * [Guide to Rustc Development](https://rustc-dev-guide.rust-lang.org) (HTML)
+* [High Assurance Rust](https://highassurance.rs) - Tiemoko Ballo (HTML) (CC BY-NC-ND)
 * [Learn Rust in Y minutes](https://learnxinyminutes.com/docs/rust/) (HTML)
 * [Learn Rust With Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists) - Alexis Beingessner (HTML)
 * [Learning Rust Ebook](https://riptutorial.com/Download/rust.pdf) - StackOverflow Contributors (PDF)

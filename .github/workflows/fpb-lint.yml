@@ -14,11 +14,9 @@ jobs:
     - uses: actions/checkout@v5
     - name: Use Node.js
       uses: actions/setup-node@v6
-      with:
-        node-version: '16.x'
     - run: npm install -g free-programming-books-lint
 
-    - name: Pull Request
+    - name: Run linter
       run: |
         fpb-lint books casts courses more &> output.log
 
@@ -29,7 +27,8 @@ jobs:
           echo ${{ github.event.pull_request.html_url }} > ./pr/PRurl
           cat output.log | sed -E 's:/home/runner/work/free-programming-books/|⚠.+::' | uniq > ./pr/error.log
 
-    - uses: actions/upload-artifact@v7
+    - name: Upload artifact
+      uses: actions/upload-artifact@v7
       if: always()
       with:
         name: pr

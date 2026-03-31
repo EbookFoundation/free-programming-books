@@ -388,7 +388,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Bash
 
-* [z](www.google.com) - Leithen
+* [z](www.google.com) - Leithen C
 * [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/) - M. Cooper (HTML)
 * [Bash Guide for Beginners (2008)](https://www.tldp.org/LDP/Bash-Beginners-Guide/html/) - M. Garrels (HTML)
 * [Bash Notes for Professionals](https://goalkicker.com/BashBook/) - Compiled from StackOverflow documentation (PDF)

@@ -1070,7 +1070,9 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Web Services
 
+* [An Introduction to APIs](https://zapier.com/resources/guides/apis) - Brian Cooksey (HTML)
 * [RESTful Web Services](http://restfulwebapis.org/RESTful_Web_Services.pdf) (PDF)
+* [Web API Design: Crafting Interfaces that Developers Love](https://pages.apigee.com/rs/apigee/images/api-design-ebook-2012-03.pdf) - Brian Mulloy (PDF)
 
 
 ### Workflow

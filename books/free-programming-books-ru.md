@@ -486,6 +486,7 @@
 * [Python. Уроки](https://devpractice.ru/book-python-lessons) - Абдрахманов М.И.
 * [Python. unittest](https://devpractice.ru/book-python-unittest) - Абдрахманов М.И
 * [Tkinter. Программирование графического интерфейса](https://younglinux.info/tkinter.php) - C. Шапошникова
+* [Изучаем Пайтон. Python Crash Course 2nd Edition](https://l-p.ua/wp-content/uploads/2021/10/metiz.-izuchaem-python.pdf) - Эрик Мэтиз (PDF)
 
 
 #### Django

@@ -474,6 +474,7 @@
 ### Python
 
 * [Вглубь языка Python](https://web.archive.org/web/20170630204729/ru.diveintopython.net/toc.html) *( :card_file_box: archived)*
+* [Изучаем Пайтон. Python Crash Course 2nd Edition](https://l-p.ua/wp-content/uploads/2021/10/metiz.-izuchaem-python.pdf) - Эрик Мэтиз (PDF)
 * [Основы программирования на Python](http://dfedorov.spb.ru/python3) - Дмитрий Фёдоров (PDF)
 * [Пишем Telegram-ботов на Python (v2)](https://mastergroosha.github.io/telegram-tutorial-2/) - MasterGroosha
 * [Руководство по языку программирования Python](https://metanit.com/python/tutorial) - Евгений Попов
@@ -486,7 +487,7 @@
 * [Python. Уроки](https://devpractice.ru/book-python-lessons) - Абдрахманов М.И.
 * [Python. unittest](https://devpractice.ru/book-python-unittest) - Абдрахманов М.И
 * [Tkinter. Программирование графического интерфейса](https://younglinux.info/tkinter.php) - C. Шапошникова
-* [Изучаем Пайтон. Python Crash Course 2nd Edition](https://l-p.ua/wp-content/uploads/2021/10/metiz.-izuchaem-python.pdf) - Эрик Мэтиз (PDF)
+
 
 
 #### Django

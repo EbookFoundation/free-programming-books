@@ -237,3 +237,38 @@ You might notice that there are [some missing translations here](docs/README.md#
 
 Each file included in this repository is licensed under the [CC BY License](LICENSE).
 
+
+---
+
+## 🚀 Project Overview
+Enhanced README documentation for clarity, badges, and contribution guidance.
+
+## ✨ Features
+- Improved documentation structure
+- Repository metadata and badges
+- Automated activity insights
+- Contribution guidance
+
+## 🤝 Contributing
+Contributions are welcome.  
+Feel free to open issues or submit pull requests.
+
+## 📊 Repository Statistics
+![Stars](https://img.shields.io/github/stars/EbookFoundation/free-programming-books)
+![Forks](https://img.shields.io/github/forks/EbookFoundation/free-programming-books)
+![Issues](https://img.shields.io/github/issues/EbookFoundation/free-programming-books)
+![License](https://img.shields.io/github/license/EbookFoundation/free-programming-books)
+
+## 📜 Recent Repository Activity
+- 0750da43 Improve README formatting (Dippp10, 2026-04-07)
+- 4d0e7055 Add free programming resources in Luganda (Dippp10, 2025-10-24)
+- 5476b7e9 add dart course (#12763) (Tubagus Maulana Aghni, 2025-10-23)
+- 97eb8815 add java course (#12762) (Tubagus Maulana Aghni, 2025-10-23)
+- d63d94d5 add php course (#12761) (Tubagus Maulana Aghni, 2025-10-23)
+
+## 🕒 Last Updated
+Wed Apr  8 02:44:49 +04 2026
+
+---
+
+### 🤖 Automated Documentation Update

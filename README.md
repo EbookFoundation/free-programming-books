@@ -237,3 +237,34 @@ You might notice that there are [some missing translations here](docs/README.md#
 
 Each file included in this repository is licensed under the [CC BY License](LICENSE).
 
+
+---
+
+## 🚀 Project Overview
+Enhanced README documentation for clarity, badges, and contribution guidance.
+
+## ✨ Features
+- Improved documentation structure
+- Repository metadata and badges
+- Automated activity insights
+- Contribution guidance
+
+## 🤝 Contributing
+Contributions are welcome.  
+Feel free to open issues or submit pull requests.
+
+## 📊 Repository Statistics
+![Stars](https://shields.io)
+![Forks](https://shields.io)
+![Issues](https://shields.io)
+![License](https://shields.io)
+
+## 📜 Recent Repository Activity
+- 0750da43 Improve README formatting (Dippp10, 2026-04-07)
+
+## 🕒 Last Updated
+Wed Apr  8 17:49:19 +04 2026
+
+---
+
+### 🤖 Automated Documentation Update

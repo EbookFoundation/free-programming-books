@@ -481,6 +481,7 @@
 * [Укус Питона](http://wombat.org.ua/AByteOfPython) - Swaroop C H
 * [Учебник Python 2.6](https://ru.wikibooks.org/wiki/Учебник_Python_2.6) - Викиучебник
 * [Problem Solving with Algorithms and Data Structures](https://aliev.github.io/runestone)
+* [Python Crash Course 2nd Edition](https://dokumen.pub/python-3nbsped-978-5-4461-1528-0.html) - Эрик Мэтиз (HTML, PDF)
 * [Python. Введение в объектно-ориентированное программирование](https://younglinux.info/oopython.php) - C. Шапошникова
 * [Python. Введение в программирование](https://younglinux.info/python.php) - C. Шапошникова
 * [Python. Уроки](https://devpractice.ru/book-python-lessons) - Абдрахманов М.И.

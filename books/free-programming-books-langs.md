@@ -178,6 +178,7 @@ Books on general-purpose programming that don't focus on a specific language are
     * [PyOpenCl](#pyopencl)
     * [Pyramid](#pyramid)
     * [Tornado](#tornado)
+    * [Artificial Intelligence](#artificial_intelligence)
 * [Q#](#q-sharp)
 * [QML](#qml)
 * [R](#r)
@@ -2196,6 +2197,9 @@ Books on general-purpose programming that don't focus on a specific language are
 #### Tornado
 
 * [Learn Web Programming](https://bitbucket.org/hrojas/learn-web-programming)
+
+### Artificial Intelligence
+* [AIPython: Python Code for understanding AI](https://artint.info/AIPython/aipython/aipython.pdf)
 
 
 ### <a id="q-sharp"></a>Q\#

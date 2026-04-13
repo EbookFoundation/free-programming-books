@@ -2198,7 +2198,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 * [Learn Web Programming](https://bitbucket.org/hrojas/learn-web-programming)
 
-### Artificial Intelligence
+### <a id="ai"></a>Artificial Intelligence\#
 * [AIPython: Python Code for understanding AI](https://artint.info/AIPython/aipython/aipython.pdf)
 
 

@@ -169,6 +169,7 @@ Books on general-purpose programming that don't focus on a specific language are
     * [Constraint Logic Programming](#constraint-logic-programming-extended-prolog)
 * [PureScript](#purescript)
 * [Python](#python)
+    * [AI](#ai)
     * [Django](#django)
     * [FastAPI](#fastapi)
     * [Flask](#flask)
@@ -178,7 +179,6 @@ Books on general-purpose programming that don't focus on a specific language are
     * [PyOpenCl](#pyopencl)
     * [Pyramid](#pyramid)
     * [Tornado](#tornado)
-    * [AI](#ai)
 * [Q#](#q-sharp)
 * [QML](#qml)
 * [R](#r)
@@ -2120,7 +2120,10 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Tiny Python Projects](http://tinypythonprojects.com/Tiny_Python_Projects.pdf) - Ken Youens-Clark(PDF)
 * [Web2py: Complete Reference Manual, 6th Edition (pre-release)](http://web2py.com/book) (2.5 - 2.x)
 
+#### AI
 
+* [AIPython: Python Code for understanding AI](https://artint.info/AIPython/aipython/aipython.pdf)(PDF)
+  
 #### Django
 
 * [All-Auth](https://django-allauth.readthedocs.io/en/latest/overview.html) (HTML)
@@ -2197,10 +2200,6 @@ Books on general-purpose programming that don't focus on a specific language are
 #### Tornado
 
 * [Learn Web Programming](https://bitbucket.org/hrojas/learn-web-programming)
-
-#### AI
-* [AIPython: Python Code for understanding AI](https://artint.info/AIPython/aipython/aipython.pdf)
-
 
 ### <a id="q-sharp"></a>Q\#
 

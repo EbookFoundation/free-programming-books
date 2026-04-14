@@ -17,7 +17,6 @@ relative_links:
 
 include:
   - CONTRIBUTING.md
-  - CONTRIBUTOR_LICENSE_AGREEMENT.md
   - LICENSE.md
   - CODE_OF_CONDUCT.md
 

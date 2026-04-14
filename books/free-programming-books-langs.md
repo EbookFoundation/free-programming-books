@@ -2123,7 +2123,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 #### AI
 
-* [AIPython: Python Code for understanding AI](https://artint.info/AIPython/aipython/aipython.pdf)(PDF)
+* [AIPython: Python Code for understanding AI](https://artint.info/AIPython/aipython/aipython.pdf) (PDF)
 
 
 #### Django

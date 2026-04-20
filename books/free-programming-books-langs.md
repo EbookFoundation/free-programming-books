@@ -2080,6 +2080,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Python in Education](https://www.oreilly.com/ideas/python-in-education) - Nicholas Tollervey
 * [Python in Hydrology](http://www.greenteapress.com/pythonhydro/pythonhydro.html) - Sat Kumar Tomer
 * [Python Koans](https://github.com/gregmalcolm/python_koans) (2.7 or 3.x)
+* [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book) - Sebastian Raschka
 * [Python Machine Learning By Example](https://www.packtpub.com/free-ebooks/python-machine-learning-example) - Yuxi (Hayden) Liu (Packt account *required*)
 * [Python Module of the Week](https://pymotw.com/3/) (3.x)
     * [Python Module of the Week](https://pymotw.com/2/) (2.x)

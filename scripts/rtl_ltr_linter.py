@@ -67,7 +67,7 @@ def load_config(path):
                 data = yaml.safe_load(f) or {}
                 conf = data.get('rtl_config', {})
                 default.update(conf)
-        except Exception as e:
+        except (yaml.YAMLError, OSError, IOError) as e:
             print(f"::warning file={path}::Could not load config: {e}. Using defaults.") # Output to stdout for GitHub Actions
 
     # Return the configuration (updated defaults or just defaults)
@@ -211,7 +211,7 @@ def lint_file(path, cfg):
     # Try to read the file content and handle potential errors
     try:
         lines = open(path, encoding='utf-8').read().splitlines()
-    except Exception as e:
+    except (OSError, UnicodeDecodeError) as e:
         return [f"::error file={path},line=1::Cannot read file: {e}"] # Return as a list of issues
 
     # Extract configuration parameters for easier access and readability
@@ -436,7 +436,7 @@ def get_changed_lines_for_file(filepath):
                     count = int(m.group(2) or '1')
                     for i in range(start, start + count):
                         changed_lines.add(i)
-    except Exception:
+    except (subprocess.CalledProcessError, OSError):
         # Silently ignore errors (e.g., unable to find merge base)
         pass
     return changed_lines
@@ -592,7 +592,7 @@ def main():
     if not any_issues:
         try:
             os.remove(args.log_file)
-        except Exception:
+        except OSError:
             pass
 
     # Print a debug message to stderr summarizing the linting process

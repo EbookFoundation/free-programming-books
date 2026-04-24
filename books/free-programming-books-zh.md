@@ -676,6 +676,7 @@
 * [Python进阶](https://interpy.eastlakeside.com) - eastlakeside
 * [Python之旅](https://web.archive.org/web/20191217091745/http://funhacks.net/explore-python/) - Ethan *( :card_file_box: archived)*
 * [Tornado 6.1 中文文档](http://www.osgeo.cn/tornado/) (Online) *(网络上其他的都是较旧版本的)*
+ * [Python 3.12 官方教程](https://docs.python.org/zh-cn/3.12/tutorial/) - Python 软件基金会 (HTML)
 
 
 #### Django

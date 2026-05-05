@@ -693,6 +693,7 @@
 * [Stanford CS234: Reinforcement Learning](https://web.stanford.edu/class/cs234) - Emma Brunskill
 * [UC Berkeley CS 188: Introduction to Artificial Intelligence](http://ai.berkeley.edu) - Dan Klein
 * [Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/tutorial)
+* https://www.deeplearningbook.org/ - Free online version of the classic Deep Learning book covering theoretical and practical foundations of modern deep learning 
 
 
 ### DevOps

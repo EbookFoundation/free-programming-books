@@ -1,4 +1,4 @@
-*[閱讀其他語言版本的文件](README.md#nslations)*
+*[閱讀其他語言版本的文件](README.md#translations)*
 
 
 ## 貢獻者許可協議
@@ -8,7 +8,7 @@
 
 ## 貢獻者行為準則
 
-請同意並遵循此 [行為準則](CODE_OF_CONDUCT.md) 參與貢獻。([translations](README.md#nslations))
+請同意並遵循此 [行為準則](CODE_OF_CONDUCT.md) 參與貢獻。([翻譯](README.md#translations))
 
 
 ## 概要
@@ -22,7 +22,7 @@
 
     * *Books* ：PDF、HTML、ePub、基於 gitbook.io 的網站、Git 的 repo 等。
     * *Courses* ：課程是一種學習素材，而不是一本書 [This is a course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)。
-    * *Interactive Tutorials* ：一個互動式網站，允許用戶輸入程式碼或指令並執行結果。例如：[Try Haskell](http://tryhaskell.org)，[Try GitHub](http://try.github.io)。
+    * *Interactive Tutorials* ：一個互動式網站，允許使用者輸入程式碼或指令並執行結果。例如：[Try Haskell](http://tryhaskell.org)，[Try Git](https://learngitbranching.js.org)。
     * *Playgrounds* : Playgrounds 是學習程式設計的線上互動式網站、遊戲或桌面軟體。你可以在上面編寫、編譯、運行或分享程式碼片段。 Playgrounds 通常允許你 fork 程式碼然後在其中盡情的編寫程式碼。
     * *Podcasts and Screencasts* ：Podcast 和影音。
     * *Problem Sets & Competitive Programming* ：一個網站或軟體，讓你透過解決簡單或複雜的問題來評估你的程式技能，可能有程式碼檢查，或與其他用戶比對结果。
@@ -36,7 +36,7 @@
 
 * 確保你提交的每一本書都是免費的。如有需要請 Double-check。如果你在 PR 中註明為什麼你認為這本書是免費的，這對管理員是很有幫助的。
 * 我們不接受儲存在 Google Drive、Dropbox、Mega、Scribd、Issuu 和其他類似文件上傳平台上的文件。
-* 請按照字母順序插入連結, 如 [下方敘述](#alphabetical-order).
+* 請按照[下方敘述](#依照字母排序)的字母順序插入連結。
 * 使用最權威來源的連結(意思是原作者的網站比編輯的網站好，比第三方網站好)。
     * 沒有文件託管服務(包括(但不限於) Dropbox 和 Google Drive 連結)。
 * 優先選擇使用 `https` 連結，而不是 `http` 連結 -- 只要它們位於相同的網域並提供相同的内容。
@@ -56,7 +56,7 @@
 * 如果一本書比較舊，請在書名中註明出版日期。
 * 包含作者的名字或適當的名字。中文版本可以用 “`等`” (“`et al.`”) 縮短作者列表。
 * 如果一本書還没有完成，並且仍在編寫中，則需添加 “`in process`” 符號，參考 [下文](#in_process) 所述。
-- if a resource is restored using the [*Internet Archive's Wayback Machine*](https://web.archive.org) (or similar), add the "`archived`" notation, as described [below](#archived). The best versions to use are recent and complete.
+* 如果資源是透過 [*Internet Archive 的 Wayback Machine*](https://web.archive.org)（或類似服務）還原的，請依照[下文](#archived)所述新增 “`archived`” 標記。最好使用較新且完整的封存版本。
 * 如果在開始下載之前需要電子郵件地址或帳户設置，請在括號中添加合適的語言描述，例如：`(*需要* 電子郵件，但不是必需的)`。
 
 
@@ -151,11 +151,52 @@
     正確：* [即將出版的一本書](http://example.com/book2.html) - 張顯宗 (HTML) *( :construction: 翻譯中)*
     ```
 
-- <a id="archived"></a>Archived link:
+- <a id="archived"></a>封存連結：
 
     ```text
-    正確: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *( :card_file_box: archived)*
+    正確：* [一本透過 Wayback Machine 保存的有趣書籍](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *( :card_file_box: archived)*
     ```
+
+- <a id="license"></a>免費授權條款（雖然我們會收錄「保留所有權利」但可免費閱讀的資源，但我們鼓勵使用自由授權條款，例如 Creative Commons）：
+
+    ```text
+    正確：* [一本很有用的書](https://example.org/book.pdf) - Jane Roe (PDF) (CC BY-SA)
+    ```
+
+    支援的授權條款（不寫版本號）：
+
+    - `CC BY` “Creative Commons attribution”
+    - `CC BY-NC` “Creative Commons non-commercial”
+    - `CC BY-SA` “Creative Commons share-alike”
+    - `CC BY-NC-SA` “Creative Commons non-commercial, share-alike”
+    - `CC BY-ND` “Creative Commons no-derivatives”
+    - `CC BY-NC-ND` “Creative Commons non-commercial, no-derivatives”
+    - `GFDL` “Gnu Free Documentation License”
+
+#### 新增授權說明（分步）
+
+當資源以自由/開放授權條款發布時，請在格式說明之後用括號新增簡短的授權說明。請按以下步驟操作：
+
+1. 在資源頁面確認授權條款。
+   - 查看網站頁尾、“About” 頁面或 LICENSE/Legal 區段。
+   - 只為自由/開放內容授權新增授權說明（見上方支援列表）。不要新增 “All Rights Reserved” 之類的說明。
+2. 將授權名稱規範化為不含版本號的受支援短代碼。
+   - 範例：“Creative Commons Attribution 4.0” → `CC BY`；“CC BY-SA 3.0” → `CC BY-SA`；“GNU Free Documentation License” → `GFDL`。
+3. 將授權放在格式說明之後、其他備註之前。
+   - 單一格式：
+     ```markdown
+     * [一本很有用的書](https://example.org/book.pdf) - Jane Roe (PDF) (CC BY-SA)
+     ```
+   - 多種格式：
+     ```markdown
+     * [很有用的指南](https://example.org/) - Jane Roe (HTML, PDF) (CC BY)
+     ```
+   - 帶有其他備註（例如 archived 或 in process）：
+     ```markdown
+     * [老但經典的書](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) (CC BY) *( :card_file_box: archived)*
+     ```
+4. 如果不同版本/格式使用不同授權，請將它們列為單獨條目，並分別註明正確授權。
+5. 如果不確定，請在 PR 中留言說明您為什麼認為該資源使用自由授權，以及您在哪裡找到了授權資訊。
 
 <!----><a id="alphabetical-order"></a>
 ### 依照字母排序
@@ -166,103 +207,112 @@
 如果你看到錯誤的連結，請檢查 linter 的錯誤訊息來找到哪一行順序需要交換
 
 
-### Notes
+### 注意事項
 
-While the basics are relatively simple, there is a great diversity in the resources we list. Here are some notes on how we deal with this diversity.
-
-
-#### Metadata
-
-Our lists provide a minimal set of metadata: titles, URLs, creators, platforms, and access notes.
+雖然基本規則相對簡單，但我們列出的資源非常多樣。以下說明我們如何處理這些差異。
 
 
-##### Titles
+#### 中繼資料
 
-- No invented titles. We try to take titles from the resources themselves; contributors are admonished not to invent titles or use them editorially if this can be avoided. An exception is for older works; if they are primarily of historical interest, a year in parentheses appended to the title helps users know if they are of interest.
-- No ALLCAPS titles. Usually title case is appropriate, but when doubt use the capitalization from the source
-- No emojis.
+我們的清單提供一組最少必要的中繼資料：標題、URL、創作者、平台和存取註記。
 
 
-##### URLs
+##### 標題
 
-- We don't permit shortened URLs.
-- Tracking codes must be removed from the URL.
-- International URLs should be escaped. Browser bars typically render these to Unicode, but use copy and paste, please.
-- Secure (`https`) URLs are always preferred over non-secure (`http`) urls where HTTPS has been implemented.
-- We don't like URLs that point to webpages that don't host the listed resource, but instead point elsewhere.
+- 不要自創標題。我們會盡量使用資源本身的標題；如果可以避免，強烈建議貢獻者不要自創標題，也不要用編輯性的方式改寫標題。較舊的作品是例外；如果它們主要具有歷史價值，在標題後以括號附上年份，可以幫助使用者判斷是否感興趣。
+- 不要使用全大寫標題。通常使用標題式大小寫是合適的；如有疑問，請使用來源本身的大小寫格式。
+- 不要使用表情符號。
 
 
-##### Creators
+##### URL
 
-- We want to credit the creators of free resources where appropriate, including translators!
-- For translated works the original author should be credited. We recommend using [MARC relators](https://loc.gov/marc/relators/relaterm.html) to credit creators other than authors, as in this example:
+- 我們不允許使用短網址。
+- 必須移除 URL 中的追蹤碼。
+- 國際化 URL 應該被轉義。瀏覽器網址列通常會將其渲染成 Unicode，但請使用複製貼上。
+- 在支援 HTTPS 的網站上，安全的 (`https`) URL 永遠優先於不安全的 (`http`) URL。
+- 我們不喜歡 URL 指向未直接託管所列資源、而只是再導向其他地方的網頁。
+
+
+##### 創作者
+
+- 我們希望在適當情況下標註免費資源的創作者，包括譯者！
+- 對於翻譯作品，應標註原作者。我們建議使用 [MARC relators](https://loc.gov/marc/relators/relaterm.html) 來標註作者以外的創作者，如下例所示：
 
     ```markdown
-    * [A Translated Book](http://example.com/book-zh.html) - John Doe, `trl.:` Mike The Translator
+    * [一本譯作](http://example.com/book-zh.html) - John Doe, `trl.:` Mike The Translator
     ```
 
-    here, the annotation `trl.:` uses the MARC relator code for "translator".
-- Use a comma `,` to delimit each item in the author list.
-- You can shorten author lists with "`et al.`".
-- We do not permit links for Creators.
-- For compilation or remixed works, the "creator" may need a description. For example, "GoalKicker" or "RIP Tutorial" books are credited as "`Compiled from StackOverflow documentation`".
+    這裡的 `trl.:` 註記使用的是 MARC 中表示「譯者」的關係代碼。
+- 使用逗號 `,` 分隔作者列表中的每個項目。
+- 您可以使用「`et al.`」縮短作者列表。
+- 我們不允許為創作者提供連結。
+- 對於彙編或混合作品，「創作者」可能需要描述。例如，GoalKicker 或 RIP Tutorial 書籍會標註為「`Compiled from StackOverflow documentation`」。
+- 我們不會在創作者姓名中包含 “Prof.” 或 “Dr.” 等敬稱。
 
 
-##### Platforms and Access Notes
+##### 有時限的課程和試用
 
-- Courses. Especially for our course lists, the platform is an important part of the resource description. This is because course platforms have different affordances and access models. While we usually won't list a book that requires a registration, many course platforms have affordances that don't work without some sort of account. Example course platforms include Coursera, EdX, Udacity, and Udemy. When a course depends on a platform, the platform name should be listed in parentheses.
-- YouTube. We have many courses which consist of YouTube playlists. We do not list YouTube as a platform, we try to list the YouTube creator, which is often a sub-platform.
-- YouTube videos. We usually don't link to individual YouTube videos unless they are more than an hour long and are structured like a course or a tutorial.
-- Leanpub. Leanpub hosts books with a variety of access models. Sometimes a book can be read without registration; sometimes a book requires a Leanpub account for free access. Given quality of the books and the mixture and fluidity of Leanpub access models, we permit listing of the latter with the access note `*(Leanpub account or valid email requested)*`.
-
-
-#### Genres
-
-The first rule in deciding which list a resource belongs in is to see how the resource describes itself. If it calls itself a book, then maybe it's a book.
+- 我們不會列出需要在六個月後移除的內容。
+- 如果課程有有限的報名期限或持續時間，我們不會列出它。
+- 我們不能列出只在有限時間內免費的資源。
 
 
-##### Genres we don't list
+##### 平台與存取註記
 
-Because the Internet is vast, we don't include in our lists:
-
-- blogs
-- blog posts
-- articles
-- websites (except for those that host LOTS of items that we list).
-- videos that aren't courses or screencasts.
-- book chapters
-- teaser samples from books
-- IRC or Telegram channels
-- Slacks or mailing lists
-
-Our competitive programming lists are not as strict about these exclusions. The scope of the repo is determined by the community; if you want to suggest a change or addition to the scope, please use an issue to make the suggestion.
+- 課程。尤其是對於課程列表，平台是資源描述的重要部分。這是因為不同課程平台有不同功能和存取模式。雖然我們通常不會列出需要註冊的書籍，但許多課程平台若沒有某種帳戶就無法使用部分功能。課程平台的例子包括 Coursera、EdX、Udacity 和 Udemy。當課程依賴某個平台時，應在括號中列出平台名稱。
+- YouTube。我們有許多由 YouTube 播放清單組成的課程。我們不會將 YouTube 列為平台，而是嘗試列出 YouTube 創作者，這通常是子平台。
+- YouTube 影片。除非單一 YouTube 影片超過一小時，且結構類似課程或教學，否則我們通常不會連結到單一 YouTube 影片。如果是這種情況，請務必在 PR 描述中說明。
+- 不要使用縮短連結（例如 youtu.be/xxxx）！
+- Leanpub。Leanpub 託管的書籍有多種存取模式。有時一本書無需註冊即可閱讀；有時則需要 Leanpub 帳戶才能免費存取。考量書籍品質，以及 Leanpub 存取模式的混合性和流動性，我們允許用存取註記 `*(Leanpub account or valid email requested)*` 列出後者。
 
 
-##### Books vs. Other Stuff
+#### 類型
 
-We're not that fussy about book-ness. Here are some attributes that signify that a resource is a book:
-
-- it has an ISBN (International Standard Book Number)
-- it has a Table of Contents
-- a downloadable version is offered, especially ePub files.
-- it has editions
-- it doesn't depend on interactive content or videos
-- it tries to comprehensively cover a topic
-- it's self-contained
-
-There are lots of books that we list that don't have these attributes; it can depend on context.
+決定資源屬於哪個清單的第一條規則，是查看資源如何描述自己。如果它稱自己為一本書，那麼也許它就是一本書。
 
 
-##### Books vs. Courses
+##### 我們未列出的類型
 
-Sometimes these can be hard to distinguish!
+由於網際網路非常龐大，因此我們不在列表中包含：
 
-Courses often have associated textbooks, which we would list in our books lists. Courses have lectures, exercises, tests, notes or other didactic aids. A single lecture or video by itself is not a course. A powerpoint is not a course.
+- 部落格
+- 部落格文章
+- 文章
+- 網站（託管大量我們會列出項目的網站除外）。
+- 不屬於課程或螢幕錄影的影片。
+- 書籍章節
+- 書籍的預覽樣章
+- IRC 或 Telegram 頻道
+- Slack 或郵件列表
+
+我們的競賽程式設計列表對這些排除項沒有那麼嚴格。倉庫的範圍由社群決定；如果您想建議更改或新增範圍，請使用 issue 提出建議。
 
 
-##### Interactive Tutorials vs. Other stuff
+##### 書籍與其他內容
 
-If you can print it out and retain its essence, it's not an Interactive Tutorial.
+我們對「是否像書」並不那麼挑剔。以下是一些表示資源是一本書的屬性：
+
+- 它有 ISBN（國際標準書號）
+- 它有目錄
+- 提供可下載版本，尤其是 ePub 檔案。
+- 它有版本
+- 它不依賴互動內容或影片
+- 它試圖全面涵蓋某個主題
+- 它是獨立完整的
+
+我們列出的許多書籍不具備這些屬性；這可能取決於上下文。
+
+
+##### 書籍與課程
+
+有時兩者可能很難區分！
+
+課程通常有相關教科書，我們會將其列在書籍列表中。課程包含講座、練習、測驗、筆記或其他教學輔助資料。單一講座或影片本身不是一門課程。PowerPoint 也不是課程。
+
+
+##### 互動式教學與其他內容
+
+如果您可以將其列印出來並保留其精髓，那它就不是互動式教學。
 
 
 ### Automation
@@ -277,3 +327,52 @@ If you can print it out and retain its essence, it's not an Interactive Tutorial
 
 - 您可以以一個空白區隔出想要進行驗證的檔案名稱來一次驗證多個檔案。
 - 如果您一次驗證多個檔案，自動化測試的結果會是基於最後一個驗證的檔案。您的測試可能會因此通過，因此請詳加確認測試日誌。可以在 Pull Request 結果中點選"Show all checks" -> "Details" 來查看。
+
+
+### 修正 RTL/LTR linter 錯誤
+
+如果您執行 RTL/LTR Markdown Linter（用於 `*-ar.md`、`*-he.md`、`*-fa.md`、`*-ur.md` 檔案）並看到錯誤或警告：
+
+- RTL 文字中的 **LTR 單字**（例如 “HTML”、“JavaScript”）：在每個 LTR 片段後立即新增 `&rlm;`；
+- **LTR 符號**（例如 “C#”、“C++”）：在每個 LTR 符號後立即新增 `&lrm;`；
+
+#### 範例
+
+**錯誤**
+```html
+<div dir="rtl" markdown="1">
+* [كتاب الأمثلة في R](URL) - John Doe (PDF)
+</div>
+```
+**正確**
+```html
+<div dir="rtl" markdown="1">
+* [كتاب الأمثلة في R&rlm;](URL) - John Doe&rlm; (PDF)
+</div>
+```
+---
+**錯誤**
+```html
+<div dir="rtl" markdown="1">
+* [Tech Podcast - بودكاست المثال](URL) – Ahmad Hasan, محمد علي
+</div>
+```
+**正確**
+```html
+<div dir="rtl" markdown="1">
+* [Tech Podcast - بودكاست المثال](URL) – Ahmad Hasan,&rlm; محمد علي
+</div>
+```
+---
+**錯誤**
+```html
+<div dir="rtl" markdown="1">
+* [أساسيات C#](URL)
+</div>
+```
+**正確**
+```html
+<div dir="rtl" markdown="1">
+* [أساسيات C#&lrm;](URL)
+</div>
+```

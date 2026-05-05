@@ -1,4 +1,4 @@
-*[阅读本文的其他语言版本](README.md#nslations)*
+*[阅读本文的其他语言版本](README.md#translations)*
 
 
 ## 贡献者许可协议
@@ -8,7 +8,7 @@
 
 ## 贡献者行为准则
 
-请同意并遵循此[行为准则](CODE_OF_CONDUCT.md)参与贡献。([translations](README.md#nslations))
+请同意并遵循此[行为准则](CODE_OF_CONDUCT.md)参与贡献。([translations](README.md#translations))
 
 
 ## 概要
@@ -52,7 +52,7 @@
 
 * 请确保您提交的每本书确实是免费的。 如果需要，请仔细检查其状态。 如果您可以在 PR 中解释为什么您认为这本书是免费的，这对管理员会有帮助。
 * 我们不接受存储在Google Drive、Dropbox、Mega、Scribd、Issuu和其他类似文件上传平台上的文件。
-* 请按照字母顺序插入链接, as described [below](#alphabetical-order).
+* 请按照[下文](#按字母顺序)说明的字母顺序插入链接.
 * 使用最权威来源的链接(意思是原作者的网站比编辑的网站好，比第三方网站好)。
     * 没有文件托管服务(包括(但不限于)Dropbox和谷歌驱动器链接)。
 * 优先选择使用 `https` 链接，而不是 `http` 链接 -- 只要它们位于相同的域并提供相同的内容。
@@ -167,10 +167,10 @@
     正确：* [马上出版的一本书](http://example.com/book2.html) - 张显宗 (HTML) *( :construction: 翻译中)*
     ```
 
-- <a id="archived"></a>Archived link:
+<a id="存档链接"></a>存档链接：
 
     ```text
-    正确: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *( :card_file_box: archived)*
+    正确: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *( :card_file_box: 已存档)*
     ```
 
 ### 按字母顺序

@@ -42,7 +42,7 @@ jobs:
           fetch-depth: ${{ steps.set-params.outputs.fetch-depth }}
       - name: Get changed files
         id: changed-files
-        uses: tj-actions/changed-files@v46
+        uses: tj-actions/changed-files@ed68ef82c095e0d48ec87eccea555d944a631a4c # v46
         with:
           separator: " "
           json: true
@@ -80,7 +80,7 @@ jobs:
           fetch-depth: ${{ needs.get-changed-files.outputs.fetch-depth }}
       - name: Setup Ruby v2.6
         if: ${{ endsWith(matrix.file, '.yml') || endsWith(matrix.file, '.md') }}
-        uses: ruby/setup-ruby@v1
+        uses: ruby/setup-ruby@eab2afb99481ca09a4e91171a8e0aee0e89bfedd # v1
         with:
           ruby-version: 2.6
       - name: Install awesome_bot

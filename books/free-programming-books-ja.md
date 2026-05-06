@@ -48,6 +48,7 @@
     * [Node.js](#nodejs)
     * [React](#react)
     * [Svelte](#svelte)
+    * [Vue.js](#vuejs)
 * [Julia](#julia)
 * [LaTeX](#latex)
 * [Linux](#linux)
@@ -443,6 +444,11 @@
 
 * [Svelte Tutorial](https://svelte.jp/tutorial/basics) - Svelte.dev
 * [Svelte をはじめる](https://developer.mozilla.org/ja/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started) - MDN
+
+
+#### Vue.js
+
+* [chibivue](https://book.chibivue.land/ja) - ubugeeei
 
 
 ### Julia

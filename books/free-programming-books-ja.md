@@ -448,7 +448,7 @@
 
 #### Vue.js
 
-* [[The chibivue Book](https://book.chibivue.land/ja.html)](https://book.chibivue.land/ja) - ubugeeei
+* [The chibivue Book](https://book.chibivue.land/ja.html) - ubugeeei
 
 
 ### Julia

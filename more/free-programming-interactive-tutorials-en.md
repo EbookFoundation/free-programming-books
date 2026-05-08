@@ -142,6 +142,7 @@
 * [Essential Linear Algebra for Data Science and Machine Learning](https://www.kdnuggets.com/2021/05/essential-linear-algebra-data-science-machine-learning.html) - KDnuggets
 * [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/) - Dan Margalit, Joseph Rabinoff (HTML, PDF)
 * [LLM Transformer Model Visually Explained](https://poloclub.github.io/transformer-explainer/) - Georgia Tech (HTML)
+* [Step-by-Step Machine Learning Algorithm Solvers](https://www.stepbystepml.com) - Riyan Jamil
 * [Top 10 Data Science Projects for Beginners - KDnuggets](https://www.kdnuggets.com/2021/06/top-10-data-science-projects-beginners.html)
 
 

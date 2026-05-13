@@ -861,6 +861,8 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Programming Paradigms
 
+* [An Introduction to Programming, using ECS & EBP in Python](https://root-11.github.io/intro-book-python) - Bjorn Madsen (HTML) (CC BY)
+* [An Introduction to Programming, using ECS & EBP in Rust](https://root-11.github.io/intro-book) - Bjorn Madsen (HTML) (CC BY)
 * [Flow based Programming](https://jpaulmorrison.com/fbp/) - J Paul Morrison
 * [Introduction to Functional Programming](https://www.cl.cam.ac.uk/teaching/Lectures/funprog-jrh-1996/) - J. Harrison
 * [Learn Functional Programming](https://learn-functional-programming.com) - G. Jovic (HTML)

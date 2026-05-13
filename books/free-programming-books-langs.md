@@ -2374,6 +2374,7 @@ Books on general-purpose programming that don't focus on a specific language are
 ### Rust
 
 * [A Gentle Introduction To Rust](https://stevedonovan.github.io/rust-gentle-intro) - Steve J Donovan (HTML)
+* [An Introduction to Programming, using ECS & EBP in Rust](https://root-11.github.io/intro-book) - Bjorn Madsen (HTML) (CC BY)
 * [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book) (HTML)
 * [Easy Rust](https://dhghomon.github.io/easy_rust/) - David McLeod (HTML, PDF)
 * [Effective Rust](https://www.lurklurk.org/effective-rust) - David Drysdale (HTML, PDF)

@@ -57,6 +57,7 @@ By contributing, you agree to respect the [Code of Conduct](CODE_OF_CONDUCT.md) 
 - include the author name or names where appropriate. You can shorten author lists with "`et al.`".
 - if the book is not finished, and is still being worked on, add the "`in process`" notation, as described [below](#in_process).
 - if a resource is restored using the [*Internet Archive's Wayback Machine*](https://web.archive.org) (or similar), add the "`archived`" notation, as described [below](#archived). The best versions to use are recent and complete.
+- if a podcast or screencast has not published a new episode in 2 or more years, add the "`last updated`" notation with the most recent publication month and year, as described [below](#last_updated).
 - if an email address or account setup is requested before download is enabled, add language-appropriate notes in parentheses, e.g.: `(email address *requested*, not required)`.
 
 
@@ -139,6 +140,12 @@ Example:
 
     ```text
     GOOD: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *( :card_file_box: archived)*
+    ```
+
+- <a id="last_updated"></a>Last updated podcast or screencast (use when the show has not published a new episode in 2 or more years; record the most recent publication month and year):
+
+    ```text
+    GOOD: * [An Awesome Podcast](https://example.com/podcast) - Jane Roe *( :calendar: last updated: June 2022)*
     ```
     
 - <a id="license"></a>Free Licenses (While we include resources that are "All Rights Reserved" but free to read, we encourage the use of free licenses, such as Creative Commons):

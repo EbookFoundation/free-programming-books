@@ -925,6 +925,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [CryptoParty Handbook](https://unglue.it/work/141611/)
 * [Fuzzing Book](https://www.fuzzingbook.org) - Andreas Zeller, Rahul Gopinath, Marcel Böhme, Gordon Fraser, Christian Holler (HTML)
 * [Gray Hat Hacking: The Ethical Hacker's Handbook](https://pages.cs.wisc.edu/~ace/media/gray-hat-hacking.pdf) - Allen Harper, Jonathan Ness, Chris Eagle, Shon Harris, Gideon Lenkey, Terron Williams (PDF)
+* [Hacker101](https://www.hacker101.com) - HackerOne
 * [Handbook of Applied Cryptography](https://cacr.uwaterloo.ca/hac/index.html)
 * [How HTTPS works](https://howhttps.works) - dnsimple
 * [How to deal with Passwords](https://github.com/MHM5000/pass)

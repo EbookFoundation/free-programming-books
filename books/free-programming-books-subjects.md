@@ -1072,6 +1072,7 @@ Kerridge (PDF) (email address *requested*, not required)
 
 * [RESTful Web Services](http://restfulwebapis.org/RESTful_Web_Services.pdf) (PDF)
 
+* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) - Jake VanderPlas
 
 ### Workflow
 

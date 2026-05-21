@@ -1,0 +1,9 @@
+# Python dependencies for free-programming-books linters and scripts
+
+# Required for RTL/LTR Markdown Linter (scripts/rtl_ltr_linter.py)
+PyYAML>=6.0
+python-bidi>=0.4.2
+
+# Optional: For link checking (if implemented)
+# requests>=2.31.0
+# beautifulsoup4>=4.12.0

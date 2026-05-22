@@ -163,7 +163,6 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp](https://github.com/norvig/paip-lisp) - Peter Norvig (Git repo)
 * [Probabilistic Programming & Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - Cam Davidson-Pilon (HTML, Jupyter Notebook)
 * [Stanford CS224N: Natural Language Processing with Deep Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ) - Christopher Manning (Stanford Online)
-* [Stanford CS231n: Deep Learning for Computer Vision](https://cs231n.github.io/) - Stanford University
 * [The History of Artificial Intelligence](https://courses.cs.washington.edu/courses/csep590/06au/projects/history-ai.pdf) - Chris Smith, Brian McGuire, Ting Huang, Gary Yang (PDF)
 * [The Math Behind Artificial Intelligence: A Guide to AI Foundations](https://www.freecodecamp.org/news/the-math-behind-artificial-intelligence-book) - Tiago Monteiro (HTML)
 * [The Quest for Artificial Intelligence: A History of Ideas and Achievements](https://ai.stanford.edu/~nilsson/QAI/qai.pdf) - Nils J. Nilsson (PDF)
@@ -260,6 +259,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [CS Principles: Big Ideas in Programming](https://www.openbookproject.net/books/StudentCSP/) - Mark Guzdial, Barbara Ericson (HTML)
 * [Introduction to Computer Science](https://openstax.org/details/books/introduction-computer-science) - Jean Claude Franchitti et al. (PDF, HTML) (CC BY)
 * [Pull Requests and Code Review](https://scs.tl/book-pr) – Sebastien Castiel
+* [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) - Anish Athalye, Jon Gjengset, Jose Javier Gonzalez Ortiz
 * [What to Look for in a Code Review](https://leanpub.com/whattolookforinacodereview) - Trisha Gee (HTML, PDF, EPUB, Kindle) *(Leanpub account or valid email requested)*
 
 
@@ -926,7 +926,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [CryptoParty Handbook](https://unglue.it/work/141611/)
 * [Fuzzing Book](https://www.fuzzingbook.org) - Andreas Zeller, Rahul Gopinath, Marcel Böhme, Gordon Fraser, Christian Holler (HTML)
 * [Gray Hat Hacking: The Ethical Hacker's Handbook](https://pages.cs.wisc.edu/~ace/media/gray-hat-hacking.pdf) - Allen Harper, Jonathan Ness, Chris Eagle, Shon Harris, Gideon Lenkey, Terron Williams (PDF)
-* [Hacker101](https://www.hacker101.com) - HackerOne
 * [Handbook of Applied Cryptography](https://cacr.uwaterloo.ca/hac/index.html)
 * [How HTTPS works](https://howhttps.works) - dnsimple
 * [How to deal with Passwords](https://github.com/MHM5000/pass)

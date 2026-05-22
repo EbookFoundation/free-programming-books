@@ -167,6 +167,7 @@ This project lists books and other resources grouped by genres:
 + [Telugu / తెలుగు](courses/free-courses-te.md)
 + [Thai / ภาษาไทย](courses/free-courses-th.md)
 + [Turkish / Türkçe](courses/free-courses-tr.md)
++ [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 + [Ukrainian / Українська](courses/free-courses-uk.md)
 + [Urdu / اردو](courses/free-courses-ur.md)
 + [Vietnamese / Tiếng Việt](courses/free-courses-vi.md)

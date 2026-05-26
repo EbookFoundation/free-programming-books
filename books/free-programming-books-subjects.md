@@ -735,7 +735,6 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [How HTTPS Works](https://howhttps.works) - DNSimple
 * [HTTP Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/http) (PDF, Kindle) (email address *requested*, not required)
 * [HTTP2 Explained](https://daniel.haxx.se/http2/) - Daniel Stenberg
-* [Introduction to HTTP](https://launchschool.com/books/http) - Launch School
 * [IPv6 for IPv4 Experts](https://sites.google.com/site/yartikhiy/home/ipv6book) - Yar Tikhiy (PDF)
 * [Kafka gentle introduction](https://www.gentlydownthe.stream) - Mitch Seymour
 * [Kafka, The definitive Guide](https://assets.confluent.io/m/1b509accf21490f0/original/20170707-EB-Confluent_Kafka_Definitive-Guide_Complete.pdf) - Neha Narkhede (PDF)
@@ -780,7 +779,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [The Art of Community](https://artofcommunityonline.org/Art_of_Community_Second_Edition.pdf) - Jono Bacon (PDF)
 * [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/) - Eric S. Raymond
 * [The Future of the Internet](https://futureoftheinternet.org) - Jonathan Zittrain
-* [The Open Source Way](https://www.theopensourceway.org/book/)
+* [The Open Source Way](https://guidebook.theopensourceway.org/)
 * [The Wealth of Networks: How Social Production Transforms Markets and Freedom](https://cyber.law.harvard.edu/wealth_of_networks/Main_Page) - Yochai Benkler
 
 
@@ -934,7 +933,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Modern Cryptography Volume 2: A Classical Introduction](https://link.springer.com/book/10.1007/978-981-19-7644-5) - Zhiyong Zheng, Kun Tian, Fengxia Liu
 * [Network Security](https://www.open.edu/openlearn/digital-computing/network-security/altformat-printable) - OpenLearn (PDF)
 * [OpenSSL Cookbook](https://www.feistyduck.com/library/openssl-cookbook/)
-* [OWASP Mobile Security Testing Guide](https://mobile-security.gitbook.io/mobile-security-testing-guide/) - Bernhard Mueller et al.
+* [OWASP Mobile Application Security](https://owasp.org/www-project-mobile-security-testing-guide/) - Bernhard Mueller et al.
 * [OWASP Testing Guide 4.2](https://owasp.org/www-project-web-security-testing-guide/v42/) - The OWASP® Foundation (HTML, [PDF](https://github.com/OWASP/wstg/releases/download/v4.2/wstg-v4.2.pdf))
 * [OWASP Top 10 for .NET Developers](https://www.troyhunt.com/2011/12/free-ebook-owasp-top-10-for-net.html)
 * [Practical Cryptography for Developer](https://cryptobook.nakov.com) - Svetlin Nakov (GitBook) ( :construction: *in process*)
@@ -950,11 +949,10 @@ Kerridge (PDF) (email address *requested*, not required)
 
 ### Software Architecture
 
-* [Agile Planning: From Ideas to Story Cards](https://launchschool.com/books/agile_planning) - Launch School
 * [Architectural Metapatterns: The Pattern Language of Software Architecture](https://github.com/denyspoltorak/publications/tree/main/ArchitecturalMetapatterns) - Denys Poltorak, `edt.:` Lars Noodén (PDF, EPUB, ODT) (CC BY)
 * [Architectural Styles and the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) - Roy Thomas Fielding
 * [Best Kept Secrets of Peer Code Review](https://smartbear.com/lp/ebook/collaborator/secrets-of-peer-code-review/)
-* [Building Secure & Reliable Systems](https://static.googleusercontent.com/media/landing.google.com/en//sre/static/pdf/Building_Secure_and_Reliable_Systems.pdf) - Heather Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana Oprea, Adam Stubblefield (PDF)
+* [Building Secure & Reliable Systems](https://sre.google/books/building-secure-reliable-systems/) - Heather Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana Oprea, Adam Stubblefield
 * [Code Simplicity: The Fundamentals of Software](https://www.codesimplicity.com/book.pdf) - Max Kanat-Alexander (PDF)
 * [Data-Oriented Design](https://www.dataorienteddesign.com/dodmain/dodmain.html)
 * [Designing Event-Driven Systems. Concepts and Patterns for Streaming Services with Apache Kafka](https://assets.confluent.io/m/7a91acf41502a75e/original/20180328-EB-Confluent_Designing_Event_Driven_Systems.pdf) - Ben Stopford (PDF)
@@ -992,9 +990,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [The Accidental CTO: How I Scaled from Zero to a Million Stores on Dukaan, Without a CS Degree](https://github.com/subhashchy/The-Accidental-CTO) - Subhash Choudhary
 * [The Catalog of Design Patterns](https://refactoring.guru/design-patterns/catalog)
 * [The Site Reliability Workbook](https://landing.google.com/sre/workbook/toc/) - Betsy Beyer, Niall Richard Murphy, David K. Rensin, Kent Kawahara, Stephen Thorne
-* [Web API Design](https://pages.apigee.com/rs/apigee/images/api-design-ebook-2012-03.pdf) - Brian Mulloy (PDF)
 * [Web Browser Engineering](https://browser.engineering/index.html) - Pavel Panchekha, Chris Harrelson
-* [Working with Web APIs](https://launchschool.com/books/working_with_apis) - Launch School
 * [Your API Is Bad](https://leanpub.com/yourapiisbad/read) - Paddy Foran
 
 
@@ -1045,7 +1041,6 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Happy Git and GitHub for the useR](https://happygitwithr.com) - Jenny Bryan
 * [Hg Init: a Mercurial Tutorial](https://hginit.github.io) - Joel Spolsky
 * [How to Collaborate on GitHub: A mini book about collaborating on GitHub](https://github.com/eonist/How-to-collaborate-on-github) - André J
-* [Introduction to Git and Github](https://launchschool.com/books/git) - Launch School
 * [Introduction to Git and Github - Tutorial](https://cse.unl.edu/~cbourke/gitTutorial.pdf) - Chris Bourke (PDF)
 * [Introduction to Git and GitHub eBook](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook) - Bobby Iliev (Markdown, PDF)
 * [Learn Git - Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook/command-line/introduction) - Tobias Günther

@@ -156,7 +156,7 @@
 
 ### Operation System
 
-* [운영체제: 아주 쉬운 세 가지 이야기](https://github.com/remzi-arpacidusseau/ostep-translations/tree/master/korean) - Remzi Arpacidusseau (PDF)
+* [운영체제: 아주 쉬운 세 가지 이야기](https://github.com/remzi-arpacidusseau/ostep-translations/tree/master/korean) - Remzi H. Arpaci-Dusseau, Andrea C. Arpaci-Dusseau, `trl.:` Youjip Won, `trl.:` Minkyu Park, `trl.:` Sungjin Lee (PDF)
 
 
 ### Perl

@@ -153,6 +153,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Generative AI in Higher Education: The ChatGPT Effect](https://www.taylorfrancis.com/books/oa-mono/10.4324/9781003459026/generative-ai-higher-education-cecilia-ka-yuk-chan-tom-colloton) - Cecilia Ka Yuk Chan, Tom Colloton (PDF) (CC BY)
 * [Getting Started with Artificial Intelligence , 2nd Edition](https://www.ibm.com/downloads/cas/OJ6WX73V) - Tom Markiewicz, Josh Zheng (PDF)
 * [Graph Representational Learning Book](https://www.cs.mcgill.ca/~wlh/grl_book/) - William L. Hamilton (PDF)
+* [How to Build Optimal AI Agents That Actually Work](https://www.freecodecamp.org/news/how-to-build-optimal-ai-agents-that-actually-work-a-handbook-for-devs/) - Tiago Monteiro (HTML)
 * [How Transformer LLMs Work](https://www.deeplearning.ai/short-courses/how-transformer-llms-work/) - Jay Alammar, Maarten Grootendorst (DeepLearning.AI)
 * [Hugging Face LLM Course](https://huggingface.co/learn/llm-course/en/chapter1/1) (HTML)
 * [Introduction to Autonomous Robots](https://github.com/correll/Introduction-to-Autonomous-Robots/releases) - Nikolaus Correll (PDF) (CC BY-NC-ND)

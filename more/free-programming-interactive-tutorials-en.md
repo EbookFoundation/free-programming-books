@@ -182,7 +182,7 @@
 * [Learn Go Full Course](https://www.boot.dev/courses/learn-golang) - Boot.dev
 * [Start using Go](https://docs.microsoft.com/en-us/learn/paths/go-first-steps/) - Microsoft
 * [TCP Servers in Go](https://app.codecrafters.io/concepts/go-tcp-server) - CodeCrafters
-* [The Go Tutorial](http://tour.golang.org)
+* [The Go Tutorial](https://go.dev/tour/)
 
 
 ### GraphQL
@@ -250,7 +250,7 @@
 * [JavaScript Tutorial](https://www.w3schools.com/js) - W3Schools
 * [JavaScript Tutorial](https://www.scaler.com/topics/javascript/) - Scaler Topics
 * [JavaScript Tutorial and Overview](https://www.afterhoursprogramming.com/tutorial/javascript/) - After Hours Programming
-* [Javascripting](https://github.com/sethvincent/javascripting)
+* [Javascripting](https://github.com/workshopper/javascripting)
 * [JSchallenger](https://www.jschallenger.com)
 * [Learn JavaScript](http://www.learn-js.org)
 * [Learn JavaScript](https://learnjavascript.online)
@@ -295,7 +295,7 @@
 
 #### Svelte
 
-* [Interactive Svelte Tutorial](https://learn.svelte.dev/tutorial/welcome-to-svelte) - svelte.dev
+* [Interactive Svelte Tutorial](https://svelte.dev/tutorial/svelte/welcome-to-svelte) - svelte.dev
 
 
 ### Kotlin

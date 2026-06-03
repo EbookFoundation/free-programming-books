@@ -35,7 +35,7 @@ jobs:
       - name: Add pushpin label on pinning an issue
         id: if-pinned
         if: github.event.action == 'pinned'
-        uses: actions-ecosystem/action-add-labels@v1
+        uses: actions-ecosystem/action-add-labels@18f1af5e3544586314bbe15c0273249c770b2daf # v1
         with:
           repo:   ${{ github.repository }}
           number: ${{ github.event.issue.number }}
@@ -45,7 +45,7 @@ jobs:
       - name: Remove pushpin label on unpinning an issue
         id: if-unpinned
         if: github.event.action == 'unpinned'
-        uses: actions-ecosystem/action-remove-labels@v1
+        uses: actions-ecosystem/action-remove-labels@2ce5d41b4b6aa8503e285553f75ed56e0a40bae0 # v1
         with:
           repo:   ${{ github.repository }}
           number: ${{ github.event.issue.number }}

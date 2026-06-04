@@ -27,4 +27,4 @@
 
 [homepage]: https://contributor-covenant.org
 
-[Translations](README.md#translations)
+[翻译](README.md#translations)

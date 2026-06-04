@@ -1,4 +1,4 @@
-*[阅读本文的其他语言版本](README.md#nslations)*
+*[阅读本文的其他语言版本](README.md#translations)*
 
 
 ## 贡献者许可协议
@@ -8,21 +8,21 @@
 
 ## 贡献者行为准则
 
-请同意并遵循此[行为准则](CODE_OF_CONDUCT.md)参与贡献。([translations](README.md#nslations))
+请同意并遵循此[行为准则](CODE_OF_CONDUCT.md)参与贡献。([翻译](README.md#translations))
 
 
 ## 概要
 
 1. 仅仅因为链接“促进下载书籍”并不意味着它指向“免费”书籍。 请仅提供免费内容的链接。 确保您分享的书籍是免费的。 我们不接受“需要”有效电子邮件地址才能访问书籍的链接，但我们欢迎列出这些资源。
 
-2. 您不需要熟悉 Git：如果您发现一些有趣的东西*尚未包含在此存储库中*，请打开一个[问题](https://github.com/EbookFoundation/free-programming-books/issues）开始讨论相关主题。
+2. 您不需要熟悉 Git：如果您发现一些有趣的东西*尚未包含在此存储库中*，请打开一个[问题](https://github.com/EbookFoundation/free-programming-books/issues)开始讨论相关主题。
     * 如果你已经知晓Git，请Fork本仓库并提交Pull Request (PR)。
 
 3. 这里有6种列表，请选择正确的一个：
 
     * *Books* ：PDF、HTML、ePub、基于一个 gitbook.io的站点、一个Git仓库等等。
     * *Courses* ：课程是一种学习材料，而不是一本书 [This is a course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)。
-    * *Interactive Tutorials* ：一个交互式网站，它允许用户输入代码或命令并对结果进行评估。例如：[Try Haskell](http://tryhaskell.org)，[Try GitHub](http://try.github.io)。
+    * *Interactive Tutorials* ：一个交互式网站，它允许用户输入代码或命令并对结果进行评估。例如：[Try Haskell](http://tryhaskell.org)，[Try Git](https://learngitbranching.js.org)。
     * *Playgrounds* : Playgrounds 可能是学习编程的在线交互式网站、游戏或桌面软件。你可以在上面编写、编译、运行或分享代码片段。Playgrounds 通常允许你 fork 代码然后在其中尽情的编写代码。
     * *Podcasts and Screencasts* ：播客和视频。
     * *Problem Sets & Competitive Programming* ：一个网站或软件，让你通过解决简单或复杂的问题来评估你的编程技能，有或没有代码审查，有或没有与其他用户对比结果。
@@ -31,28 +31,11 @@
 
 5. GitHub Actions 将运行测试，以确保你的列表是 **按字母顺序排列** 的，并 **遵循格式化规则**。请 **确保** 你的更改通过了该测试。
 
-### 审查和适应过程
-
-为了确保一致性和准确性，我们在将内容从英语版本翻译成其他语言时遵循审查和调整流程。 它的工作原理如下：
-
-1. **参考英文文件**：我们始终参考该文件的英文版本作为信息和指南的主要来源。
-
-2. **翻译和本地化**：译员仔细地将内容翻译成目标语言，同时牢记语言和文化的细微差别。
-
-3. **审阅**：翻译后，文件会经过母语人士的审阅过程，以确保翻译的准确性。
-
-4. **改编**：在某些情况下，特定术语、短语或参考文献可能需要改编以更好地适应目标受众。 译者可以灵活地进行这些调整，同时保留核心信息。
-
-5. **质量保证**：进行最终的质量保证检查，以验证翻译的文档是否连贯、准确且适合文化。
-
-6. **持续改进**：我们鼓励贡献者和读者提供反馈和建议，以不断改进翻译内容。
-
-通过遵循这一流程，我们的目标是提供既忠实于原始内容又与目标受众相关的高质量翻译。
 ### 基本准则
 
 * 请确保您提交的每本书确实是免费的。 如果需要，请仔细检查其状态。 如果您可以在 PR 中解释为什么您认为这本书是免费的，这对管理员会有帮助。
 * 我们不接受存储在Google Drive、Dropbox、Mega、Scribd、Issuu和其他类似文件上传平台上的文件。
-* 请按照字母顺序插入链接, as described [below](#alphabetical-order).
+* 请按照[下文](#按字母顺序)所述的字母顺序插入链接。
 * 使用最权威来源的链接(意思是原作者的网站比编辑的网站好，比第三方网站好)。
     * 没有文件托管服务(包括(但不限于)Dropbox和谷歌驱动器链接)。
 * 优先选择使用 `https` 链接，而不是 `http` 链接 -- 只要它们位于相同的域并提供相同的内容。
@@ -72,7 +55,7 @@
 * 如果一本书比较旧，请在书名中注明出版日期。
 * 包含作者的名字或适当的名字。中文版本可以用 “`等`” (“`et al.`”) 缩短作者列表。
 * 如果一本书还没有完成，并且仍在编写中，则需添加 “`in process`” 符号，参见[下文](#in_process)所述。
-- if a resource is restored using the [*Internet Archive's Wayback Machine*](https://web.archive.org) (or similar), add the "`archived`" notation, as described [below](#archived). The best versions to use are recent and complete.
+* 如果资源是通过 [*Internet Archive 的 Wayback Machine*](https://web.archive.org)（或类似服务）恢复的，请按照[下文](#archived)所述添加 “`archived`” 标记。最好使用较新且完整的存档版本。
 * 如果在开始下载之前需要电子邮件地址或帐户设置，请在括号中添加合适的语言描述，例如：`(*需要*电子邮件，但不是必须的)`。
 
 
@@ -167,16 +150,58 @@
     正确：* [马上出版的一本书](http://example.com/book2.html) - 张显宗 (HTML) *( :construction: 翻译中)*
     ```
 
-- <a id="archived"></a>Archived link:
+- <a id="archived"></a>存档链接：
 
     ```text
-    正确: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *( :card_file_box: archived)*
+    正确：* [一本通过 Wayback Machine 保存的有趣书籍](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *( :card_file_box: archived)*
     ```
+
+- <a id="license"></a>免费许可证（虽然我们会收录“保留所有权利”但可免费阅读的资源，但我们鼓励使用自由许可证，例如 Creative Commons）：
+
+    ```text
+    正确：* [一本很有用的书](https://example.org/book.pdf) - Jane Roe (PDF) (CC BY-SA)
+    ```
+
+    支持的许可证（不写版本号）：
+
+    - `CC BY` “Creative Commons attribution”
+    - `CC BY-NC` “Creative Commons non-commercial”
+    - `CC BY-SA` “Creative Commons share-alike”
+    - `CC BY-NC-SA` “Creative Commons non-commercial, share-alike”
+    - `CC BY-ND` “Creative Commons no-derivatives”
+    - `CC BY-NC-ND` “Creative Commons non-commercial, no-derivatives”
+    - `GFDL` “Gnu Free Documentation License”
+
+#### 添加许可证说明（分步）
+
+当资源以自由/开放许可证发布时，请在格式说明之后用括号添加简短的许可证说明。请按以下步骤操作：
+
+1. 在资源页面确认许可证。
+   - 查看网站页脚、“About” 页面或 LICENSE/Legal 部分。
+   - 只为自由/开放内容许可证添加许可证说明（见上方支持列表）。不要添加 “All Rights Reserved” 之类的说明。
+2. 将许可证名称规范化为不含版本号的受支持短代码。
+   - 示例：“Creative Commons Attribution 4.0” → `CC BY`；“CC BY-SA 3.0” → `CC BY-SA`；“GNU Free Documentation License” → `GFDL`。
+3. 将许可证放在格式说明之后、其他备注之前。
+   - 单一格式：
+     ```markdown
+     * [一本很有用的书](https://example.org/book.pdf) - Jane Roe (PDF) (CC BY-SA)
+     ```
+   - 多种格式：
+     ```markdown
+     * [很有用的指南](https://example.org/) - Jane Roe (HTML, PDF) (CC BY)
+     ```
+   - 带有其他备注（例如 archived 或 in process）：
+     ```markdown
+     * [老但经典的书](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) (CC BY) *( :card_file_box: archived)*
+     ```
+4. 如果不同版本/格式使用不同许可证，请将它们列为单独条目，并分别注明正确许可证。
+5. 如果不确定，请在 PR 中留言说明您为什么认为该资源使用自由许可证，以及您在哪里找到了许可证信息。
+
 
 ### 按字母顺序
 
 - 当有多个以相同字母开头的标题时，按第二个排序，依此类推。例如：“aa”位于 “ab” 之前
-- “onetwo” 位于 “onetwo”之前
+- “one two” 位于 “onetwo”之前
 
 如果您看到错误的链接，请检查 linter 错误讯息以了解应该交换哪些行。
 
@@ -220,13 +245,22 @@
 - 您可以使用「`et al.`」来缩短作者清单。
 - 我们不允许为创作者提供链接。
 - 对于编译或混音作品，「创作者」可能需要描述。例如，「Go​​alKicker」或「RIP Tutorial」书籍被标记为「`Compiled from StackOverflow Documentation`」。
+- 我们不会在创作者姓名中包含 “Prof.” 或 “Dr.” 等敬称。
+
+
+##### 有时限的课程和试用
+
+- 我们不会列出需要在六个月后移除的内容。
+- 如果课程有有限的报名期限或持续时间，我们不会列出它。
+- 我们不能列出只在有限时间内免费的资源。
 
 
 ##### 平台及接入注意事项
 
 - 课程。尤其是对于我们的课程列表，平台是资源描述的重要部分。这是因为不同的课程平台有不同的功能和访问模型。尽管我们通常不会列出需要注册的书籍，但许多课程平台的功能在没有某种帐户的情况下无法工作。课程平台的例子包括 Coursera、EdX、Udacity 和 Udemy。当一个课程依赖于一个平台时，应在括号中列出平台名称。
 - Youtube。我们有许多包含 YouTube 播放清单的课程。我们不会将 YouTube 列为平台，而是尝试列出 YouTube 创作者，这通常是一个子平台。
-- YouTube 影片。我们通常不会链接到单一 YouTube 视频，除非它们的长度超过一个小时并且结构类似于课程或教程。
+- YouTube 影片。我们通常不会链接到单一 YouTube 视频，除非它们的长度超过一个小时并且结构类似于课程或教程。如果是这种情况，请务必在 PR 描述中说明。
+- 不要使用缩短链接（例如 youtu.be/xxxx）！
 - Leanpub。Leanpub 托管具有多种存取模式的书籍。有时一本书无需注册即可阅读；有时一本书需要 Leanpub 帐户才能免费存取。考虑到书籍的品质以及 Leanpub 存取模型的混合性和流动性，我们允许使用存取注释「*（Leanpub 帐户或请求的有效电子邮件）*」列出后者。
 
 
@@ -241,6 +275,7 @@
 
 - 博客（博客网站）
 - 博客文章
+- 文章
 - 网站（那些托管我们列出的大量项目的网站除外）。
 - 不属于课程或录屏的视频。
 - 书籍章节
@@ -248,7 +283,7 @@
 - IRC 或 Telegram 频道
 - Slack 或邮件列表
 
-我们的竞争性节目清单对这些例外情况没有那么严格。 仓库的范围由社区决定；如果您想建议更改或新增范围，请使用 issue 提出建议
+我们的竞赛编程列表对这些排除项没有那么严格。仓库的范围由社区决定；如果您想建议更改或新增范围，请使用 issue 提出建议。
 
 
 ##### 书籍与其他东西
@@ -284,10 +319,59 @@
 - URL 验证使用 [awesome_bot](https://github.com/dkhamsing/awesome_bot)
 - 要触发 URL 验证，请推送包含以下内容的 commit message 的提交 `check_urls=file_to_check`:
 
-    ```特性
+    ```properties
     check_urls=free-programming-books.md free-programming-books-zh.md
     ```
     
 - 您可以指定多个要检查的文件，使用单个空格分隔每个条目。
 - 如果您指定了多个文件，构建的结果将基于最后一个检查的文件的结果。您应该注意，由于这个原因，您可能会得到通过的绿色构建，所以请确保在拉取请求结束时检查构建日志，点击 “Show all checks”->“Details”。
+
+
+### 修复 RTL/LTR linter 错误
+
+如果您运行 RTL/LTR Markdown Linter（用于 `*-ar.md`、`*-he.md`、`*-fa.md`、`*-ur.md` 文件）并看到错误或警告：
+
+- RTL 文本中的 **LTR 单词**（例如 “HTML”、“JavaScript”）：在每个 LTR 片段后立即添加 `&rlm;`；
+- **LTR 符号**（例如 “C#”、“C++”）：在每个 LTR 符号后立即添加 `&lrm;`；
+
+#### 示例
+
+**错误**
+```html
+<div dir="rtl" markdown="1">
+* [كتاب الأمثلة في R](URL) - John Doe (PDF)
+</div>
+```
+**正确**
+```html
+<div dir="rtl" markdown="1">
+* [كتاب الأمثلة في R&rlm;](URL) - John Doe&rlm; (PDF)
+</div>
+```
+---
+**错误**
+```html
+<div dir="rtl" markdown="1">
+* [Tech Podcast - بودكاست المثال](URL) – Ahmad Hasan, محمد علي
+</div>
+```
+**正确**
+```html
+<div dir="rtl" markdown="1">
+* [Tech Podcast - بودكاست المثال](URL) – Ahmad Hasan,&rlm; محمد علي
+</div>
+```
+---
+**错误**
+```html
+<div dir="rtl" markdown="1">
+* [أساسيات C#](URL)
+</div>
+```
+**正确**
+```html
+<div dir="rtl" markdown="1">
+* [أساسيات C#&lrm;](URL)
+</div>
+```
 

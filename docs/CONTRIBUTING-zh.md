@@ -1,14 +1,14 @@
-*[阅读本文的其他语言版本](README.md#nslations)*
+*[阅读本文的其他语言版本](README.md#translations)*
 
 
 ## 贡献者许可协议
 
-请遵循此[许可协议](../LICENSE)参与贡献。
+参与贡献即表示您同意本仓库的[许可协议](../LICENSE)。
 
 
 ## 贡献者行为准则
 
-请同意并遵循此[行为准则](CODE_OF_CONDUCT.md)参与贡献。([translations](README.md#nslations))
+参与贡献即表示您同意遵守本仓库的[行为准则](CODE_OF_CONDUCT.md)。([translations](README.md#translations))
 
 
 ## 概要
@@ -20,39 +20,22 @@
 
 3. 这里有6种列表，请选择正确的一个：
 
-    * *Books* ：PDF、HTML、ePub、基于一个 gitbook.io的站点、一个Git仓库等等。
-    * *Courses* ：课程是一种学习材料，而不是一本书 [This is a course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)。
-    * *Interactive Tutorials* ：一个交互式网站，它允许用户输入代码或命令并对结果进行评估。例如：[Try Haskell](http://tryhaskell.org)，[Try GitHub](http://try.github.io)。
-    * *Playgrounds* : Playgrounds 可能是学习编程的在线交互式网站、游戏或桌面软件。你可以在上面编写、编译、运行或分享代码片段。Playgrounds 通常允许你 fork 代码然后在其中尽情的编写代码。
-    * *Podcasts and Screencasts* ：播客和视频。
-    * *Problem Sets & Competitive Programming* ：一个网站或软件，让你通过解决简单或复杂的问题来评估你的编程技能，有或没有代码审查，有或没有与其他用户对比结果。
+    * *Books* ：PDF、HTML、ePub、基于 gitbook.io 的站点、Git 仓库等。
+    * *Courses* ：课程是一种不是书籍的学习材料。[这是一个课程示例](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)。
+    * *Interactive Tutorials* ：交互式网站，允许用户输入代码或命令并对结果进行评估。这里的“评估”并不等同于“评分”。例如：[Try Haskell](http://tryhaskell.org)、[Try Git](https://learngitbranching.js.org)。
+    * *Playgrounds* ：用于学习编程的在线交互式网站、游戏或桌面软件。你可以在上面编写、编译（或运行）并分享代码片段。Playgrounds 通常允许你 fork 并通过修改代码进行实践。
+    * *Podcasts and Screencasts* ：播客和录屏。
+    * *Problem Sets & Competitive Programming* ：用于通过解决简单或复杂问题来评估编程能力的网站或软件，可以有或没有代码审查，也可以有或没有与其他用户的结果比较。
 
 4. 确保遵循下面的[基本准则](#基本准则)，并遵循本仓库文件的[Markdown规定格式](#规定格式)。
 
 5. GitHub Actions 将运行测试，以确保你的列表是 **按字母顺序排列** 的，并 **遵循格式化规则**。请 **确保** 你的更改通过了该测试。
 
-### 审查和适应过程
-
-为了确保一致性和准确性，我们在将内容从英语版本翻译成其他语言时遵循审查和调整流程。 它的工作原理如下：
-
-1. **参考英文文件**：我们始终参考该文件的英文版本作为信息和指南的主要来源。
-
-2. **翻译和本地化**：译员仔细地将内容翻译成目标语言，同时牢记语言和文化的细微差别。
-
-3. **审阅**：翻译后，文件会经过母语人士的审阅过程，以确保翻译的准确性。
-
-4. **改编**：在某些情况下，特定术语、短语或参考文献可能需要改编以更好地适应目标受众。 译者可以灵活地进行这些调整，同时保留核心信息。
-
-5. **质量保证**：进行最终的质量保证检查，以验证翻译的文档是否连贯、准确且适合文化。
-
-6. **持续改进**：我们鼓励贡献者和读者提供反馈和建议，以不断改进翻译内容。
-
-通过遵循这一流程，我们的目标是提供既忠实于原始内容又与目标受众相关的高质量翻译。
 ### 基本准则
 
 * 请确保您提交的每本书确实是免费的。 如果需要，请仔细检查其状态。 如果您可以在 PR 中解释为什么您认为这本书是免费的，这对管理员会有帮助。
-* 我们不接受存储在Google Drive、Dropbox、Mega、Scribd、Issuu和其他类似文件上传平台上的文件。
-* 请按照字母顺序插入链接, as described [below](#alphabetical-order).
+* 我们不接受存储在 Google Drive、Dropbox、Mega、Scribd、Issuu 和其他类似文件上传平台上的文件。
+* 请按照[下文](#按字母顺序)说明的字母顺序插入链接。
 * 使用最权威来源的链接(意思是原作者的网站比编辑的网站好，比第三方网站好)。
     * 没有文件托管服务(包括(但不限于)Dropbox和谷歌驱动器链接)。
 * 优先选择使用 `https` 链接，而不是 `http` 链接 -- 只要它们位于相同的域并提供相同的内容。
@@ -60,10 +43,10 @@
 * 总是选择最短的链接：使用 `http://example.com/dir/` 比使用 `http://example.com/dir/index.html` 更好。
     * 不要提供短链接
 * 优先选择使用 "current" 链接代替有 "version" 链接：使用 `http://example.com/dir/book/current/` 比使用 `http://example.com/dir/book/v1.0.0/index.html` 更好。
-* 如果一个链接存在过期的证书/自签名证书/SSL问题的任何其他类型：
-    1. *replace it* ：如果可能的话，将其 *替换* 为对应的`http`(因为在移动设备上接受异常可能比较复杂)。
-    2. *leave it* ：如果没有`http`版本，但仍然可以通过`https`访问链接，则在浏览器中添加异常或忽略警告。
-    3. *remove it* ：上述以外删除掉它。
+* 如果一个链接存在过期证书、自签名证书或其他 SSL 问题：
+    1. 如果可能，将其 *替换* 为对应的 `http` 链接（因为在移动设备上接受异常可能比较复杂）。
+    2. 如果没有 `http` 版本，但仍可通过在浏览器中添加异常或忽略警告来访问 `https` 链接，则 *保留* 它。
+    3. 其他情况请 *删除* 它。
 * 如果一个链接以多种格式存在，请添加一个单独的链接，并注明每种格式。
 * 如果一个资源存在于Internet上的不同位置
     * 使用最权威来源的链接(意思是原始作者的网站比编辑的网站好，比第三方网站好)。
@@ -72,7 +55,7 @@
 * 如果一本书比较旧，请在书名中注明出版日期。
 * 包含作者的名字或适当的名字。中文版本可以用 “`等`” (“`et al.`”) 缩短作者列表。
 * 如果一本书还没有完成，并且仍在编写中，则需添加 “`in process`” 符号，参见[下文](#in_process)所述。
-- if a resource is restored using the [*Internet Archive's Wayback Machine*](https://web.archive.org) (or similar), add the "`archived`" notation, as described [below](#archived). The best versions to use are recent and complete.
+* 如果资源通过 [*Internet Archive's Wayback Machine*](https://web.archive.org)（或类似服务）恢复，请按[下文](#archived)说明添加 “`archived`” 标记。最好使用较新且完整的存档版本。
 * 如果在开始下载之前需要电子邮件地址或帐户设置，请在括号中添加合适的语言描述，例如：`(*需要*电子邮件，但不是必须的)`。
 
 
@@ -167,16 +150,57 @@
     正确：* [马上出版的一本书](http://example.com/book2.html) - 张显宗 (HTML) *( :construction: 翻译中)*
     ```
 
-- <a id="archived"></a>Archived link:
+- <a id="archived"></a>归档链接：
 
     ```text
-    正确: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *( :card_file_box: archived)*
+    正确：* [一本有趣的归档书籍](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *( :card_file_box: archived)*
     ```
+
+- <a id="license"></a>自由许可证（虽然我们也收录“保留所有权利但免费阅读”的资源，但我们鼓励使用自由许可证，例如 Creative Commons）：
+
+    ```text
+    正确：* [一本很有用的书](https://example.org/book.pdf) - Jane Roe (PDF) (CC BY-SA)
+    ```
+
+    支持的许可证（不标注版本号）：
+
+    - `CC BY`：Creative Commons attribution
+    - `CC BY-NC`：Creative Commons non-commercial
+    - `CC BY-SA`：Creative Commons share-alike
+    - `CC BY-NC-SA`：Creative Commons non-commercial, share-alike
+    - `CC BY-ND`：Creative Commons no-derivatives
+    - `CC BY-NC-ND`：Creative Commons non-commercial, no-derivatives
+    - `GFDL`：GNU Free Documentation License
+
+#### 添加许可证说明（分步说明）
+
+当资源使用自由/开放许可证发布时，请在格式说明之后用括号添加简短的许可证说明。请按以下步骤操作：
+
+1. 在资源页面确认许可证。
+   - 查看网站页脚、“About” 页面或 LICENSE/Legal 部分。
+   - 只为自由/开放内容许可证添加说明（见上方支持列表）。不要添加 “All Rights Reserved” 这类说明。
+2. 将许可证名称规范化为上方支持的短代码，不带版本号。
+   - 示例：“Creative Commons Attribution 4.0” → `CC BY`；“CC BY-SA 3.0” → `CC BY-SA`；“GNU Free Documentation License” → `GFDL`。
+3. 将许可证放在格式说明之后、其他备注之前。
+   - 单一格式：
+     ```markdown
+     * [一本很有用的书](https://example.org/book.pdf) - Jane Roe (PDF) (CC BY-SA)
+     ```
+   - 多种格式：
+     ```markdown
+     * [很棒的指南](https://example.org/) - Jane Roe (HTML, PDF) (CC BY)
+     ```
+   - 带额外备注（例如 archived 或 in process）：
+     ```markdown
+     * [旧而珍贵的书](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) (CC BY) *( :card_file_box: archived)*
+     ```
+4. 如果不同版本或格式使用不同许可证，请分开列出，并为每一项标注正确许可证。
+5. 如果不确定，请在 PR 中说明您为什么认为该资源使用自由许可证，以及您从哪里看到相关信息。
 
 ### 按字母顺序
 
-- 当有多个以相同字母开头的标题时，按第二个排序，依此类推。例如：“aa”位于 “ab” 之前
-- “onetwo” 位于 “onetwo”之前
+- 当有多个以相同字母开头的标题时，按第二个字母排序，依此类推。例如：“aa” 位于 “ab” 之前。
+- “one two” 位于 “onetwo” 之前。
 
 如果您看到错误的链接，请检查 linter 错误讯息以了解应该交换哪些行。
 
@@ -220,13 +244,22 @@
 - 您可以使用「`et al.`」来缩短作者清单。
 - 我们不允许为创作者提供链接。
 - 对于编译或混音作品，「创作者」可能需要描述。例如，「Go​​alKicker」或「RIP Tutorial」书籍被标记为「`Compiled from StackOverflow Documentation`」。
+- 我们不在创作者姓名中包含 “Prof.” 或 “Dr.” 等敬称。
+
+
+##### 限时课程与试用
+
+- 我们不会列出六个月后就需要删除的内容。
+- 如果课程有有限的报名时间或持续时间，我们不会列出它。
+- 我们不能列出仅在有限时间内免费的资源。
 
 
 ##### 平台及接入注意事项
 
 - 课程。尤其是对于我们的课程列表，平台是资源描述的重要部分。这是因为不同的课程平台有不同的功能和访问模型。尽管我们通常不会列出需要注册的书籍，但许多课程平台的功能在没有某种帐户的情况下无法工作。课程平台的例子包括 Coursera、EdX、Udacity 和 Udemy。当一个课程依赖于一个平台时，应在括号中列出平台名称。
-- Youtube。我们有许多包含 YouTube 播放清单的课程。我们不会将 YouTube 列为平台，而是尝试列出 YouTube 创作者，这通常是一个子平台。
-- YouTube 影片。我们通常不会链接到单一 YouTube 视频，除非它们的长度超过一个小时并且结构类似于课程或教程。
+- YouTube。我们有许多包含 YouTube 播放清单的课程。我们不会将 YouTube 列为平台，而是尝试列出 YouTube 创作者，这通常是一个子平台。
+- YouTube 影片。我们通常不会链接到单个 YouTube 视频，除非它超过一个小时并且结构类似于课程或教程。如果属于这种情况，请务必在 PR 描述中说明。
+- 不要使用缩短后的链接（例如 youtu.be/xxxx）。
 - Leanpub。Leanpub 托管具有多种存取模式的书籍。有时一本书无需注册即可阅读；有时一本书需要 Leanpub 帐户才能免费存取。考虑到书籍的品质以及 Leanpub 存取模型的混合性和流动性，我们允许使用存取注释「*（Leanpub 帐户或请求的有效电子邮件）*」列出后者。
 
 
@@ -290,4 +323,3 @@
     
 - 您可以指定多个要检查的文件，使用单个空格分隔每个条目。
 - 如果您指定了多个文件，构建的结果将基于最后一个检查的文件的结果。您应该注意，由于这个原因，您可能会得到通过的绿色构建，所以请确保在拉取请求结束时检查构建日志，点击 “Show all checks”->“Details”。
-

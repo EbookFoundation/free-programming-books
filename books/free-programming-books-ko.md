@@ -43,12 +43,12 @@
 
 ### Amazon Web Service
 
-* [아마존 웹 서비스를 다루는 기술](http://www.pyrasis.com/private/2014/09/30/publish-the-art-of-amazon-web-services-book)
+* [아마존 웹 서비스를 다루는 기술](https://www.pyrasis.com/private/2014/09/30/publish-the-art-of-amazon-web-services-book)
 
 
 ### Assembly Language
 
-* [PC Assembly Language](http://pacman128.github.io/static/pcasm-book-korean.pdf) - Paul A. Carter, `trl.:` 이재범 (PDF)
+* [PC Assembly Language](https://pacman128.github.io/static/pcasm-book-korean.pdf) - Paul A. Carter, `trl.:` 이재범 (PDF)
 
 
 ### AWK
@@ -76,7 +76,7 @@
 
 ### Docker
 
-* [이재홍의 언제나 최신 Docker](http://www.pyrasis.com/jHLsAlwaysUpToDateDocker)
+* [이재홍의 언제나 최신 Docker](https://www.pyrasis.com/jHLsAlwaysUpToDateDocker)
 
 
 ### Elastic
@@ -93,7 +93,7 @@
 
 ### Go
 
-* [가장 빨리 만나는 Go 언어](http://www.pyrasis.com/private/2015/06/01/publish-go-for-the-really-impatient-book)
+* [가장 빨리 만나는 Go 언어](https://www.pyrasis.com/private/2015/06/01/publish-go-for-the-really-impatient-book)
 * [효과적인 Go 프로그래밍](https://gosudaweb.gitbooks.io/effective-go-in-korean/content/)
 * [Go 문서 한글 번역](https://github.com/golang-kr/golang-doc/wiki)
 * [The Little Go Book. 리틀 고 책입니다](https://github.com/byounghoonkim/the-little-go-book/) - Karl Seguin, `trl.:` Byounghoon Kim ([HTML](https://github.com/byounghoonkim/the-little-go-book/blob/master/ko/go.md))
@@ -102,7 +102,7 @@
 
 ### HTML and CSS
 
-* [HTML5, CSS and JavaScript](http://fromyou.tistory.com/581)
+* [HTML5, CSS and JavaScript](https://fromyou.tistory.com/581)
 
 
 ### Java
@@ -118,7 +118,7 @@
 
 #### Node.js
 
-* [Node.js API 한글 번역](http://nodejs.sideeffect.kr/docs/) - outsideris
+* [Node.js API 한글 번역](https://nodejs.sideeffect.kr/docs/) - outsideris
 
 
 #### React
@@ -161,7 +161,7 @@
 
 ### Perl
 
-* [2시간 반만에 펄 익히기](http://qntm.org/files/perl/perl_kr.html)
+* [2시간 반만에 펄 익히기](https://qntm.org/files/perl/perl_kr.html)
 * [Perl 객체지향프로그래밍(OOP)](https://github.com/aero/perl_docs/blob/master/hatena_perl_oop.md) : Hatena-TextBook의 oop-for-perl 문서 한역 by aero
 
 
@@ -190,7 +190,7 @@
 * [파이썬 헤엄치기](https://wikidocs.net/book/5148) - 해달 프로그래밍
 * [파이썬을 여행하는 히치하이커를 위한 안내서!](https://python-guide-kr.readthedocs.io/ko/latest/)
 * [파이썬을 이용한 비트코인 자동매매](https://wikidocs.net/book/1665) - 조대표
-* [A Byte of Python 한글 번역](http://byteofpython-korean.sourceforge.net/byte_of_python.pdf) - Jeongbin Park (PDF)
+* [A Byte of Python 한글 번역](https://byteofpython-korean.sourceforge.net/byte_of_python.pdf) - Jeongbin Park (PDF)
 * [Let's Get IT 파이썬 프로그래밍](https://thebook.io/080251) - 안지혜
 * [PyQt5 Tutorial - 파이썬으로 만드는 나만의 GUI 프로그램](https://wikidocs.net/book/2165) - Dardao (HTML)
 
@@ -273,4 +273,4 @@
 
 ### Unicode
 
-* [번역 Unicode 이모티콘에 얽힌 이것저것 (이모티콘 표준과 프로그래밍 핸들링)](http://pluu.github.io/blog/android/2020/01/11/unicode-emoji/)
+* [번역 Unicode 이모티콘에 얽힌 이것저것 (이모티콘 표준과 프로그래밍 핸들링)](https://pluu.github.io/blog/android/2020/01/11/unicode-emoji/)

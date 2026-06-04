@@ -84,6 +84,7 @@
 ### <a id="cpp"></a>C++
 
 * [C++ 11](https://www.youtube.com/playlist?list=PL0qAPtx8YtJfZpJD7uFxAXglkiHSEhktG) - Fabrizio Camuso
+* [C++ 23/26 - Modern First](https://www.youtube.com/playlist?list=PLd6QTB-nRibM85WylqKvcmdMMxdOLnwiP) - Fabrizio Camuso
 * [C++ libreria QT - playlist 1](https://www.youtube.com/playlist?list=PL0qAPtx8YtJdH4GVwL_3QeJjPcz3DHE2t) - Fabrizio Camuso
 * [Corso C++ 2023](https://www.youtube.com/playlist?list=PLP5MAKLy8lP85m_fZy3TkWqB_8Zt5Q5aK) - Edoardo Midali
 

@@ -138,6 +138,7 @@
 
 ### Linux
 
+* [리눅스 커맨드라인 (제5판 인터넷 에디션)](https://wikidocs.net/book/11259) - William Shotts, `trl.:` 브리티쉬 (HTML) (CC BY-NC-ND)
 * [리눅스 서버를 다루는 기술](https://web.archive.org/web/20220107111504/https://thebook.io/006718/) *( :card_file_box: archived)*
 * [GNOME 배우기](https://sites.google.com/site/gnomekr/home/learning_gnome)
 

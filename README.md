@@ -20,6 +20,24 @@ This page is available as an easy-to-read website. Access it by clicking on [![h
   </form>
 </div>
 
+
+## Table of Contents
+
+- [Intro](#intro)
+- [How To Contribute](#how-to-contribute)
+- [How To Share](#how-to-share)
+- [Resources](#resources)
+  - [Books](#books)
+    - [Other Languages](#other-languages)
+  - [Cheat Sheets](#cheat-sheets)
+  - [Free Online Courses](#free-online-courses)
+  - [Interactive Programming Resources](#interactive-programming-resources)
+  - [Problem Sets and Competitive Programming](#problem-sets-and-competitive-programming)
+  - [Podcast - Screencast](#podcast---screencast)
+  - [Programming Playgrounds](#programming-playgrounds)
+- [Translations](#translations)
+- [License](#license)
+
 ## Intro
 
 This list was originally a clone of [StackOverflow - List of Freely Available Programming Books](https://web.archive.org/web/20140606191453/http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books/392926) with contributions from Karan Bhangui and George Stocker.

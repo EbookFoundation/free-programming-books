@@ -5,6 +5,7 @@
 * [JavaScript](#javascript)
 * [PLC](#plc)
 * [Python](#python)
+* [React](#react)
 
 
 ### C
@@ -25,6 +26,11 @@
 * [JavaScript for Beginners in Kannada(Full Course)](https://www.youtube.com/playlist?list=PLQztdyH5OY4BvjvmU0PV8nTevqXjYcYEE) - MicroDegree ಕನ್ನಡ
 
 
+### React
+
+* [React JS Tutorial Series in Kannada](https://youtu.be/vYXY0_Vdkos?si=ZW5IHFuvJzE-eblc) - Script kiddie  
+
+
 ### PLC
 
 * [PLC tutorial for beginners](https://youtube.com/playlist?list=PLM-fDuwhsV0nAyn-B06TTbDW78HL3pNiw) - DevelUp Technical
@@ -36,6 +42,3 @@
 * [python complete course in Kannada](https://youtube.com/playlist?list=PLUZkVL-W-8GKpo--HuELu27Lkc308fNXe) - script kiddie
 
 
-### React-js 
-
-* [React JS Tutorial Series (Kannada)](https://youtu.be/vYXY0_Vdkos?si=ZW5IHFuvJzE-eblc) - Script kiddie

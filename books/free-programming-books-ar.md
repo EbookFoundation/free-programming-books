@@ -35,7 +35,7 @@
 
 ### DB & DBMS
 
-* [تصميم قواعد البيانات](https://academy.hsoub.com/files/26-تصميم-قواعد-البيانات/) - Adrienne Watt, Nelson Eng&rlm;، ترجمة أيمن طارق وعلا عباس&rlm; (PDF)
+* [تصميم قواعد البيانات](https://opentextbc.ca/dbdesign01/-تصميم-قواعد-البيانات/) - Adrienne Watt, Nelson Eng&rlm;، ترجمة أيمن طارق وعلا عباس&rlm; (PDF)
 
 
 ### Git

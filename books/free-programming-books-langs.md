@@ -232,7 +232,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [xBase (dBase / Clipper / Harbour)](#xbase-dbase--clipper--harbour)
 * [Zig](#zig)
 
-
 ### ABAP
 
 * [SAP AWS Technical Documentation](https://aws.amazon.com/sap/docs/)
@@ -243,7 +242,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 * [A Guide to Ada for C and C++ Programmers](https://www.cs.uni.edu/~mccormic/4740/guide-c2ada.pdf) - Simon Johnston (PDF)
 * [Ada 95: The Craft of Object-Oriented Programming](https://www.adaic.org/resources/add_content/docs/craft/html/contents.htm) - John English (HTML)
-* [Ada Distilled](http://www.adapower.com/pdfs/AdaDistilled07-27-2003.pdf) - Richard Riehle (PDF)
+* [Ada Distilled](https://www.adapower.com/pdfs/AdaDistilled07-27-2003.pdf) - Richard Riehle (PDF)
 * [Ada for the C++ or Java Developer](https://www.adacore.com/uploads/books/pdf/Ada_for_the_C_or_Java_Developer-cc.pdf) - Quentin Ochem (PDF) (CC BY-NC-SA)
 * [Ada Programming](https://en.wikibooks.org/wiki/Ada_Programming) - Wikibooks
 * [Ada Reference Manual - ISO/IEC 8652:2012(E) Language and Standard Libraries](http://www.ada-auth.org/standards/12rm/RM-Final.pdf) (PDF)
@@ -290,7 +289,7 @@ Books on general-purpose programming that don't focus on a specific language are
 ### App Inventor
 
 * [Absolute App Inventor 2](https://amerkashi.wordpress.com/2015/02/16/absolute-app-inventor-2-book/) - Hossein Amerkashi
-* [App Inventor 2](http://www.appinventor.org/book2) - David Wolber, Hal Abelson, Ellen Spertus, Liz Looney
+* [App Inventor 2](https://www.appinventor.org/book2) - David Wolber, Hal Abelson, Ellen Spertus, Liz Looney
 
 
 ### Arduino

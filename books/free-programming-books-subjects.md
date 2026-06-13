@@ -260,6 +260,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [CS Principles: Big Ideas in Programming](https://www.openbookproject.net/books/StudentCSP/) - Mark Guzdial, Barbara Ericson (HTML)
 * [Introduction to Computer Science](https://openstax.org/details/books/introduction-computer-science) - Jean Claude Franchitti et al. (PDF, HTML) (CC BY)
 * [Pull Requests and Code Review](https://scs.tl/book-pr) – Sebastien Castiel
+* [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) - Anish Athalye, Jon Gjengset, Jose Javier Gonzalez Ortiz
 * [What to Look for in a Code Review](https://leanpub.com/whattolookforinacodereview) - Trisha Gee (HTML, PDF, EPUB, Kindle) *(Leanpub account or valid email requested)*
 
 

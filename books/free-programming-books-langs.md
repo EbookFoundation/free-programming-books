@@ -1988,6 +1988,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [A Practical Introduction to Python Programming](https://www.brianheinold.net/python/) - Brian Heinold (HTML, PDF, Exercises sources)
 * [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/) - Jake VanderPlas
 * [AIPython: Python Code for understanding AI](https://artint.info/AIPython/aipython/aipython.pdf) (PDF)
+* [An Introduction to Programming, using ECS & EBP in Python](https://root-11.github.io/intro-book-python) - Bjorn Madsen (HTML) (CC BY)
 * [An Introduction to Statistical Learning with Applications in Python](https://www.statlearning.com) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, Jonathan Taylor (PDF)
 * [Architecture Patterns with Python](https://www.cosmicpython.com/book/preface.html) - Harry J.W. Percival, Bob Gregory (HTML)
 * [Automate the Boring Stuff with Python, 3rd Edition: Practical Programming for Total Beginners](https://automatetheboringstuff.com/3e/) - Al Sweigart (HTML) (CC BY-NC-SA)
@@ -2373,6 +2374,7 @@ Books on general-purpose programming that don't focus on a specific language are
 ### Rust
 
 * [A Gentle Introduction To Rust](https://stevedonovan.github.io/rust-gentle-intro) - Steve J Donovan (HTML)
+* [An Introduction to Programming, using ECS & EBP in Rust](https://root-11.github.io/intro-book) - Bjorn Madsen (HTML) (CC BY)
 * [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book) (HTML)
 * [Easy Rust](https://dhghomon.github.io/easy_rust/) - David McLeod (HTML, PDF)
 * [Effective Rust](https://www.lurklurk.org/effective-rust) - David Drysdale (HTML, PDF)

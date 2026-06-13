@@ -124,6 +124,7 @@
 
 ### 0 - MOOC
 
+* [AI School](https://lillytechsystems.com/ai-school/)
 * [class central](https://www.classcentral.com)
 * [Codecademy](https://www.codecademy.com)
 * [Coursera](https://www.coursera.org)

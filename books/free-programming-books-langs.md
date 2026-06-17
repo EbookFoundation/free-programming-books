@@ -11,8 +11,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Ada](#ada)
 * [Agda](#agda)
 * [Alef](#alef)
-* [Android](#android)
-* [APL](#apl)
+* [Android](#android) [APL](#apl)
 * [App Inventor](#app-inventor)
 * [Arduino](#arduino)
 * [ASP.NET](#aspnet)
@@ -836,7 +835,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Go Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/go-succinctly) - Mark Lewin (PDF, EPUB, Kindle)
 * [Go Tutorial](http://www.tutorialspoint.com/go/) - Tutorials Point (HTML, PDF)
 * [Go Web Development Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/go-web-development) - Mark Lewin (PDF, EPUB, Kindle)
-* [Golang by Example](https://golangbyexample.com)
 * [Golang tutorial series](https://golangbot.com/learn-golang-series/) - Naveen Ramanathan
 * [How To Code in Go](https://www.digitalocean.com/community/books/how-to-code-in-go-ebook) - Mark Bates, Cory Lanou, Timothy J. Raymond (PDF, EPUB)
 * [Learn Go in Y minutes](https://learnxinyminutes.com/docs/go/)

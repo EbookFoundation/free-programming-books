@@ -191,7 +191,13 @@
 
 ### 人工智能
 
+* [大规模语言模型：从理论到实践](https://llmbook-zh.github.io) - 张奇、桂韬、郑锐、黄沛 等
 * [动手实战人工智能](https://aibydoing.com) - huhuhang
+* [动手学强化学习](https://hrl.boyuai.com) - 张伟楠、沈键、俞勇
+* [动手学深度学习](https://zh.d2l.ai) - 阿斯顿·张、李沐、扎卡里·C·立顿、亚历山大·J·斯莫拉
+* [南瓜书PumpkinBook](https://datawhalechina.github.io/pumpkin-book) - Datawhale
+* [深度学习500问](https://github.com/scutan90/DeepLearning-500-questions) - scutan90
+* [神经网络与深度学习](https://nndl.github.io) - 邱锡鹏
 
 
 ### 软件开发方法
@@ -482,7 +488,6 @@
 * [Airbnb JavaScript 规范](https://github.com/adamlu/javascript-style-guide)
 * [ECMAScript 6 入门](http://es6.ruanyifeng.com) - 阮一峰
 * [Google JavaScript 代码风格指南](https://web.archive.org/web/20200415002735/bq69.com/blog/articles/script/868/google-javascript-style-guide.html) *( :card_file_box: archived)*
-* [JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com)
 * [javascript 的 12 个怪癖](https://github.com/justjavac/12-javascript-quirks)
 * [JavaScript 教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1022910821149312)
 * [《JavaScript 模式》](https://github.com/jayli/javascript-patterns) (《JavaScript patterns》译本)
@@ -660,16 +665,16 @@
 * [简明 Python 教程](https://web.archive.org/web/20200822010330/https://bop.mol.uno/) - Swaroop C H、沈洁元(翻译)、漠伦(翻译) *( :card_file_box: archived)*
 * [人生苦短，我用python](https://www.cnblogs.com/derek1184405959/p/8579428.html) - zhang_derek *(内含丰富的笔记以及各类教程)*
 * [深入 Python 3](https://github.com/jiechic/diveintopython3)
-* [Matplotlib 3.0.3 中文文档](http://www.osgeo.cn/matplotlib/) (Online)
-* [Numpy 1.16 中文文档](http://www.osgeo.cn/numpy/) (Online)
-* [Python 3 文档(简体中文) 3.2.2 documentation](http://docspy3zh.readthedocs.org/en/latest/)
-* [Python 3.8.0a3中文文档](http://www.osgeo.cn/cpython/) (Online) *(目前在线最全的中文文档了)*
+* [Matplotlib 3.0.3 中文文档](https://www.osgeo.cn/matplotlib/) (Online)
+* [Numpy 1.16 中文文档](https://www.osgeo.cn/numpy/) (Online)
+* [Python 3 文档(简体中文) 3.2.2 documentation](https://docspy3zh.readthedocs.org/en/latest/)
+* [Python 3.8.0a3中文文档](https://www.osgeo.cn/cpython/) (Online) *(目前在线最全的中文文档了)*
 * [Python 最佳实践指南](https://pythonguidecn.readthedocs.io/zh/latest/)
-* [Python Cookbook第三版](http://python3-cookbook.readthedocs.io/zh_CN/latest/) - David Beazley、Brian K.Jones、熊能(翻译)
+* [Python Cookbook第三版](https://python3-cookbook.readthedocs.io/zh_CN/latest/) - David Beazley、Brian K.Jones、熊能(翻译)
 * [Python教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1016959663602400)
 * [Python进阶](https://interpy.eastlakeside.com) - eastlakeside
 * [Python之旅](https://web.archive.org/web/20191217091745/http://funhacks.net/explore-python/) - Ethan *( :card_file_box: archived)*
-* [Tornado 6.1 中文文档](http://www.osgeo.cn/tornado/) (Online) *(网络上其他的都是较旧版本的)*
+* [Tornado 6.1 中文文档](https://www.osgeo.cn/tornado/) (Online) *(网络上其他的都是较旧版本的)*
 
 
 #### Django

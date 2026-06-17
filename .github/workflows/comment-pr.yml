@@ -12,11 +12,10 @@ jobs:
       pull-requests: write
     runs-on: ubuntu-latest
     if: >
-      ${{ github.event.workflow_run.event == 'pull_request' &&
-      github.event.workflow_run.conclusion == 'success' }}
+      ${{ github.event.workflow_run.event == 'pull_request' }}
     steps:
       - name: 'Download artifact'
-        uses: actions/github-script@v8
+        uses: actions/github-script@v9
         with:
           script: |
             let allArtifacts = await github.rest.actions.listWorkflowRunArtifacts({

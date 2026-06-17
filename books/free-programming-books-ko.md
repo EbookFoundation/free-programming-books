@@ -20,7 +20,7 @@
 * [Linux](#linux)
 * [Machine Learning](#machine-learning)
 * [Mathematics](#mathematics)
-* [Operation System](#operation-system)
+* [Operating System](#operating-system)
 * [Perl](#perl)
 * [PHP](#php)
     * [Laravel](#laravel)
@@ -139,6 +139,7 @@
 ### Linux
 
 * [리눅스 서버를 다루는 기술](https://web.archive.org/web/20220107111504/https://thebook.io/006718/) *( :card_file_box: archived)*
+* [리눅스 커맨드라인 (제5판 인터넷 에디션)](https://wikidocs.net/book/11259) - William Shotts, `trl.:` 브리티쉬 (HTML) (CC BY-NC-ND)
 * [GNOME 배우기](https://sites.google.com/site/gnomekr/home/learning_gnome)
 
 
@@ -154,9 +155,9 @@
 * [기초정수론: 계산과 법연산, 그리고 비밀통신을 강조한](https://wstein.org/ent/ent_ko.pdf) - William Stein (PDF)
 
 
-### Operation System
+### Operating System
 
-* [운영체제: 아주 쉬운 세 가지 이야기](https://github.com/remzi-arpacidusseau/ostep-translations/tree/master/korean) - Remzi Arpacidusseau (PDF)
+* [운영체제: 아주 쉬운 세 가지 이야기](https://github.com/remzi-arpacidusseau/ostep-translations/tree/master/korean) - Remzi H. Arpaci-Dusseau, Andrea C. Arpaci-Dusseau, `trl.:` Youjip Won, `trl.:` Minkyu Park, `trl.:` Sungjin Lee (PDF)
 
 
 ### Perl

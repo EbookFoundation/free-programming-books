@@ -5,6 +5,7 @@
 * [Arduino](#arduino)
 * [Artificial Intelligence](#artificial-intelligence)
 * [DB & DBMS](#db--dbms)
+* [Git](#git)
 * [HTML and CSS](#html-and-css)
 * [Introduction to Programming in Arabic](#introduction-to-programming-in-arabic)
 * [JavaScript](#javascript)
@@ -35,6 +36,11 @@
 ### DB & DBMS
 
 * [تصميم قواعد البيانات](https://academy.hsoub.com/files/26-تصميم-قواعد-البيانات/) - Adrienne Watt, Nelson Eng&rlm;، ترجمة أيمن طارق وعلا عباس&rlm; (PDF)
+
+
+### Git
+
+* [Pro Git](https://github.com/progit2-ar/progit2) - Scott Chacon, Ben Straub&rlm; (HTML)
 
 
 ### HTML and CSS
@@ -106,7 +112,7 @@
 #### PostgreSQL
 
 * [الدليل العملي إلى قواعد بيانات PostgreSQL&rlm;](https://academy.hsoub.com/files/18-%D8%A7%D9%84%D8%AF%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D9%8A-%D8%A5%D9%84%D9%89-%D9%82%D9%88%D8%A7%D8%B9%D8%AF-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-postgresql/) - Craig Kerstiens،&rlm; مصطفى عطا العايش&rlm; (PDF)
-* [بوستجريسكل كتاب الوصفات](https://itwadi.com/PostgreSQL_Cookbook) - Chitij Chauhan&rlm; (PDF)
+* [بوستجريسكل كتاب الوصفات](https://itwadi.com/PostgreSQL_Cookbook) - Chitij Chaumann&rlm; (PDF)
 
 
 </div>

@@ -45,4 +45,4 @@ versi 1.3.0, avaible at https://contributor-covenant.org/version/1/3/0/
 
 [homepage]: https://contributor-covenant.org
 
-[Terjemahan](README.md#nslations)
+[Terjemahan](README.md#translations)

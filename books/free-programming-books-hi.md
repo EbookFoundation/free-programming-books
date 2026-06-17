@@ -68,7 +68,7 @@
 * [PHP Tutorials In Hindi](https://www.learnhindituts.com/php) - LearnHindiTuts.com
 
 
-### python
+### Python
 
 * [Python Notes \| Hindi](https://ehindistudy.com/2022/10/12/python-pdf-notes-hindi/) - Yugal Joshi (HTML) *( :construction: in process)*
 * [Python Tutorial in Hindi (Full Python Course) \| Hindi](https://www.tutorialinhindi.com/wp-content/uploads/2022/01/Python-Tutorial-in-Hindi-Full-Python-Course-FREE-PDF.pdf) - TutorialInHindi.com (PDF)

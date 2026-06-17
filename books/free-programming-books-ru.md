@@ -225,9 +225,9 @@
 
 * [Введение в программирование на Go](http://golang-book.ru) - Калеб Докси
 * [Руководство по языку Go](https://metanit.com/go/tutorial) - Евгений Попов
-* [Эффективный Go](https://github.com/Konstantin8105/Effective_Go_RU)
+* [Эффективный Go](https://github.com/0x0FACED/effective-go-ru)
 * [Go в примерах](https://web.archive.org/web/20210727024101/https://gobyexample.ru) *( :card_file_box: archived)*
-* [Go для PHP-разработчиков](https://pahanini.gitbooks.io/golang-for-php-developers/content/) - Pavel Tetyaev (gitbook)
+* [Go для PHP-разработчиков](https://github.com/pahanini/go-for-php-developers-book/blob/master/SUMMARY.md) - Pavel Tetyaev
 * [The Little Go Book (перевод)](https://sefus.ru/little-go-book) - Karl Seguin, `trl.:` Roman Dolgolopov, Evgeny Popov, Alexander Dunin ([HTML](https://github.com/sefus/the-little-go-book/blob/master/ru/go.md), [EPUB](https://sefus.ru/dl/go.epub))
 
 

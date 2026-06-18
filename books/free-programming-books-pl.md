@@ -29,10 +29,13 @@
 ### 0 - Niezależne od języka programowania
 
 * [Git](https://pl.wikibooks.org/wiki/Git) - Wikibooks
+* [Internet, Domeny i DNS – Podręcznik edukacyjny od podstaw](https://mzdrowy.github.io/books/Internet,%20Domeny%20i%20DNS%20%E2%80%93%20Podr%C4%99cznik%20edukacyjny%20od%20podstaw.pdf) - mzdrowy (PDF)
 * [Pisanie OS](https://pl.wikibooks.org/wiki/Pisanie_OS) - Wikibooks
+* [Pod skórą systemu](https://mzdrowy.github.io/books/Pod%20sk%C3%B3r%C4%85%20systemu.pdf) - mzdrowy (PDF)
 * [Poradnik początkującego programisty](http://www.eioba.pl/a/2eu1/poradnik-poczatkujacego-programisty) - Mariusz Żurawek
 * [Programowanie webowe E14](https://www.youtube.com/playlist?list=PLOYHgt8dIdoxOp0wtNk9Sle5WUsBZc6kq)
 * [Struktury danych i ich zastosowania](https://web.archive.org/web/20190126061036/http://informatykaplus.edu.pl/upload/list/czytelnia/Struktury_danych_i_ich_zastosowania.pdf) - Informatyka+ (PDF) *( :card_file_box: archived)*
+* [Sztuczna inteligencja bez tajemnic](https://mzdrowy.github.io/books/Sztuczna%20inteligencja%20bez%20tajemnic.pdf) - mzdrowy (PDF)
 * [W poszukiwaniu wyzwań 2](https://www.mimuw.edu.pl/~idziaszek/algonotes/looking-for-a-challenge-2-pl.pdf) - Zadania z AMPPZ 2011–2014 (PDF)
 
 
@@ -99,6 +102,7 @@
 * [Kaskadowe Arkusze Stylów](http://www.kurshtml.edu.pl/css/index.html) - Sławomir Kokłowski
 * [Kurs CSS](https://webref.pl/arena/css/css_index.html) - Arkadiusz Michalski
 * [KURS HTML](http://www.kurshtml.edu.pl) - Sławomir Kokłowski
+* [Mam stronę i co dalej](https://mzdrowy.github.io/books/Mam%20stron%C4%99%20i%20co%20dalej.pdf) - mzdrowy (PDF)
 * [Moja pierwsza strona internetowa w HTML5 i CSS3](https://ferrante.pl/books/html/) - Damian Wielgosik
 
 

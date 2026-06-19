@@ -1381,7 +1381,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [How To Code in React.js](https://www.digitalocean.com/community/books/how-to-code-in-react-js-ebook) - Joe Morgan
 * [Intro to the React Framework](http://code.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660)
 * [Learning React.js: Getting Started and Concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
-* [Patterns.dev](https://www.patterns.dev/) - Lydia Hallie, Addy Osmani (HTML)
+* [Patterns.dev](https://www.patterns.dev) - Lydia Hallie, Addy Osmani (HTML)
 * [Quick Start](https://react.dev/learn)
 * [React-Bits](https://github.com/vasanthk/react-bits)
 * [React Book, your beginner guide to React](https://github.com/softchris/react-book/) - Chris Noring

@@ -33,5 +33,5 @@ updates:
     # Add the arrays of assignees and reviewers
     assignees:
       - "EbookFoundation/maintainers"
-    reviewers:
       - "EbookFoundation/reviewers"
+      - "@Thenlie"

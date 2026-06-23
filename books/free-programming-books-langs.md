@@ -833,6 +833,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Go for Javascript Developers](https://github.com/bulim/go-for-javascript-developers)
 * [Go for Python Programmers](https://golang-for-python-programmers.readthedocs.io/en/latest) - Jason McVetta (HTML, PDF, EPUB)
 * [Go Handbook](https://thevalleyofcode.com/go/) - Flavio Copes (HTML, PDF)
+* [Go in Action](https://tools.yiteai.com/en/books/go) - YiteAI
 * [Go Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/go-succinctly) - Mark Lewin (PDF, EPUB, Kindle)
 * [Go Tutorial](http://www.tutorialspoint.com/go/) - Tutorials Point (HTML, PDF)
 * [Go Web Development Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/go-web-development) - Mark Lewin (PDF, EPUB, Kindle)
@@ -1386,6 +1387,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [React Book, your beginner guide to React](https://github.com/softchris/react-book/) - Chris Noring
 * [React Enlightenment](https://www.reactenlightenment.com) - Cody Lindley (HTML)
 * [React In-depth: An exploration of UI development](https://developmentarc.gitbooks.io/react-indepth/content/)
+* [React in Depth: From Hooks to Source Code](https://tools.yiteai.com/en/books/react) - YiteAI
 * [React in patterns](https://krasimir.gitbooks.io/react-in-patterns/content) - Krasimir Tsonev
 * [React JS Notes for Professionals](https://goalkicker.com/ReactJSBook/) - Compiled from StackOverflow Documentation (PDF)
 * [React Primer Draft](https://github.com/mikechau/react-primer-draft)
@@ -1430,6 +1432,7 @@ Books on general-purpose programming that don't focus on a specific language are
 #### Vue.js
 
 * [30 Days Of Vue](https://www.newline.co/30-days-of-vue) - Hassan Djirdeh (HTML; *email required for PDF*)
+* [Deep Vue 3: From History to Engine Internals](https://tools.yiteai.com/en/books/vue3) - YiteAI
 * [Learning Vue.js](https://riptutorial.com/Download/vue-js.pdf) - Compiled from StackOverflow Documentation (PDF) (CC BY-SA)
 * [The Vue.js Handbook](https://flaviocopes.com/page/vue-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
 

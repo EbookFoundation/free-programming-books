@@ -75,12 +75,13 @@
 ### Java
 
 * [Darmowe kursy z Javy dla początkujących](https://web.archive.org/web/20220326010054/http://programowaniejava.pl/edukacja/darmowe-szkolenia.html) *( :card_file_box: archived)*
+* [Kurs Java od podstaw (2024)](https://www.youtube.com/playlist?list=PLp9WLfHXxbccTjbdEqf79zE5eJ9n6aaPW)
+* [Kurs Java od podstaw (2023)](https://www.youtube.com/playlist?list=PLj-pbEqbjo6A7edIf1EWfhZ4prfYPJpTq)
 * [JAVA FX-wprowadzenie](https://www.youtube.com/playlist?list=PL-ikpm9wGd1HkA9PvGTYWZHtO-Xq_i_Mw)
-* [Java GUI: programowanie Graficznego Interfejsu Użytkownika](https://www.youtube.com/playlist?list=PL3298E3EB8CFDE9BA)
 * [Kurs JavaFX od podstaw](https://www.youtube.com/playlist?list=PLpzwMkmxJDUwQuQR7Rezut5UE_8UGDxkU)
+* [Java GUI: programowanie Graficznego Interfejsu Użytkownika](https://www.youtube.com/playlist?list=PL3298E3EB8CFDE9BA)
 * [Kurs programowania Java](https://www.youtube.com/playlist?list=PLED70A92187B1406A)
 * [Kurs programowania w Javie od podstaw](https://programovanie.pl) - Michał Łoza (email address *requested*, not required)
-* [Kurs programowania w języku Java (od podstaw!)](https://www.youtube.com/playlist?list=PLTs20Q-BTEMMJHb4GWFT34PAWxYyzndIY)
 
 
 ### JavaScript

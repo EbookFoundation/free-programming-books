@@ -198,6 +198,9 @@
 * [南瓜书PumpkinBook](https://datawhalechina.github.io/pumpkin-book) - Datawhale
 * [深度学习500问](https://github.com/scutan90/DeepLearning-500-questions) - scutan90
 * [神经网络与深度学习](https://nndl.github.io) - 邱锡鹏
+* [LangChain 中文入门教程](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide) - liaokongVFX
+* [LLM 部署开发手册](https://github.com/bytedance/llm-deployment-cookbook) - 字节跳动技术团队
+* [面向开发者的大模型手册](https://github.com/ricklamers/llm-developer-handbook-zh) - ricklamers, 中文社区翻译
 
 
 ### 软件开发方法

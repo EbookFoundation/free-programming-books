@@ -313,6 +313,7 @@
 * [Introduction to the Coding Interview Prep Algorithms](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms) (freeCodeCamp)
 * [Python Tutor](http://pythontutor.com) - Python, Java, JavaScript, TypeScript, Ruby, C, C++
 * [The Fullstack Tutorial for GraphQL](https://www.howtographql.com)
+* [DevRoadmaps](https://rudra496.github.io/devroadmaps) - Rudra Sarker (HTML, PWA)
 
 
 #### Operating systems

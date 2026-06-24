@@ -1203,6 +1203,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [MythBusters JS](https://mythbusters.js.org) - Kiko Beats (HTML)
 * [Neural Networks with JavaScript Succinctly](https://www.syncfusion.com/ebooks/neural-networks-with-javascript-succinctly) - James McCaffrey (PDF, EPUB, MOBI)
 * [Oh My JS](https://web.archive.org/web/20150317231950/https://leanpub.com/ohmyjs/read) - Azat Mardanov (HTML) *( :card_file_box: archived)*
+* [Patterns.dev](https://www.patterns.dev) - Lydia Hallie, Addy Osmani (HTML)
 * [Patterns For Large-Scale JavaScript Application Architecture](http://addyosmani.com/largescalejavascript/) - Addy Osmani (HTML)
 * [Practical Modern JavaScript](https://github.com/mjavascript/practical-modern-javascript) - Nicolas Bevacqua (HTML)
 * [Professor Frisby’s Mostly Adequate Guide to Functional Programming](https://mostly-adequate.gitbooks.io/mostly-adequate-guide/content/) - Brian Lonsdorf (HTML)
@@ -1381,7 +1382,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [How To Code in React.js](https://www.digitalocean.com/community/books/how-to-code-in-react-js-ebook) - Joe Morgan
 * [Intro to the React Framework](http://code.tutsplus.com/tutorials/intro-to-the-react-framework--net-35660)
 * [Learning React.js: Getting Started and Concepts](https://scotch.io/tutorials/learning-react-getting-started-and-concepts)
-* [Patterns.dev](https://www.patterns.dev) - Lydia Hallie, Addy Osmani (HTML)
 * [Quick Start](https://react.dev/learn)
 * [React-Bits](https://github.com/vasanthk/react-bits)
 * [React Book, your beginner guide to React](https://github.com/softchris/react-book/) - Chris Noring

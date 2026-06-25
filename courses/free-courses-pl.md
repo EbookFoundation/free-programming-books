@@ -80,6 +80,7 @@
 * [Kurs Java od podstaw (2023)](https://www.youtube.com/playlist?list=PLj-pbEqbjo6A7edIf1EWfhZ4prfYPJpTq) - Zaprogramuj Życie
 * [Kurs Java od podstaw (2024)](https://www.youtube.com/playlist?list=PLp9WLfHXxbccTjbdEqf79zE5eJ9n6aaPW) - Jak nauczyć się programowania
 * [Kurs JavaFX od podstaw](https://www.youtube.com/playlist?list=PLpzwMkmxJDUwQuQR7Rezut5UE_8UGDxkU)
+* [Kurs Java](https://kursjava.com) - Przemysław Kruglej (2019-2023)
 * [Kurs programowania Java](https://www.youtube.com/playlist?list=PLED70A92187B1406A)
 * [Kurs programowania w Javie od podstaw](https://programovanie.pl) - Michał Łoza (email address *requested*, not required)
 

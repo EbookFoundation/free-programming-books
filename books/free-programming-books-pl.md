@@ -109,7 +109,7 @@
 ### Java
 
 * [Darmowy kurs Java](https://javastart.pl/baza-wiedzy/darmowy-kurs-java) - Sławek Ludwiczak
-* [Kurs Java](https://kursjava.com) - Przemysław Kruglej(2019-2023)
+* [Język Java](http://www.dz5.pl/ti/java/java_skladnia.pdf) - Jacek Rumiński (PDF)
 * [Kurs Java](https://stormit.pl/kurs-java/) - Tomasz Woliński
 * [Kurs programowania Java](http://www.samouczekprogramisty.pl/kurs-programowania-java/) - Marcin Pietraszek
 * [Praktyczny kurs Javy](https://kobietydokodu.pl/kurs-javy/) - Jakub Derda

@@ -84,6 +84,7 @@
 * [Kurs programowania Java](https://www.youtube.com/playlist?list=PLED70A92187B1406A)
 * [Kurs programowania w Javie od podstaw](https://programovanie.pl) - Michał Łoza (email address *requested*, not required)
 
+
 ### JavaScript
 
 * [Kurs Javascript: Moduł 1: Poczatkujacy](https://youtube.com/playlist?list=PLaRAejmsc8gGAs-Ml8aa4eLCkm6ESvdnN) - Kacper Szarkiewicz

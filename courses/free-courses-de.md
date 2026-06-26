@@ -2,8 +2,8 @@
 
 * [Ansible](#ansible)
 * [Bash](#bash)
-* [C](#c)
 * [C++](#cpp)
+* [C](#c)
 * [Haskell](#haskell)
 * [HTML and CSS](#html-and-css)
     * [Bootstrap](#bootstrap)

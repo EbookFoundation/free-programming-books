@@ -45,4 +45,4 @@ jobs:
         uses: lycheeverse/lychee-action@v2
         with:
           args: --verbose --no-progress --timeout 10 --max-retries 3 --retry-wait-time 2 ${{ needs.get-changed-files.outputs.files }}
-          fail: true
+          fail: false

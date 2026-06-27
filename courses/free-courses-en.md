@@ -1227,7 +1227,6 @@
 * [React Crash Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4) - freecodecamp
 * [React Hooks](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h) - WebDevSimplified
 * [React JS Tutorial - Basic to Advance (2023)](https://www.youtube.com/watch?v=cd3P3yXyx30) - Nerd's lesson
-* [React Patterns for web apps](https://www.patterns.dev/book/) - Lydia Hallie, Addy Osmani
 * [React Router 6 – Tutorial for Beginners](https://www.youtube.com/watch?v=59IXY5IDrBA) - John Smilga (freeCodeCamp)
 * [React State Management Intermediate JavaScript Course](https://www.youtube.com/watch?v=-bEzt5ISACA) - Jack Herrington (freeCodeCamp)
 * [React State Management using Context API (useContext + useReducer Hooks = Magic)](https://www.youtube.com/watch?v=zxP4oGejqpU) - The Full Stack Junkie

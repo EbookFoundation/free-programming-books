@@ -1,4 +1,4 @@
-﻿## 目录
+## 目录
 
 * [语言无关](#语言无关)
     * [版本控制](#版本控制)
@@ -125,7 +125,7 @@
 * [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
 * [鸟哥的 Linux 私房菜 服务器架设篇](http://cn.linux.vbird.org/linux_server/)
 * [鸟哥的 Linux 私房菜 基础学习篇](http://cn.linux.vbird.org/linux_basic/linux_basic.php)
-* [嵌入式 Linux 知识库 (eLinux.org 中文版)](https://tinylab.gitbooks.io/elinux/content/zh/)
+* [嵌入式 Linux 知识库 (eLinux.org 中文版)](https://tinylab.org/elinux/)
 * [Docker — 从入门到实践](https://github.com/yeasy/docker_practice)
 * [Docker 入门实战](http://yuedu.baidu.com/ebook/d817967416fc700abb68fca1)
 * [Docker 中文指南](https://github.com/widuu/chinese_docker)
@@ -146,7 +146,7 @@
 
 ### 程序员杂谈
 
-* [程序员的自我修养](http://www.kancloud.cn/kancloud/a-programmer-prepares)
+* [程序员的自我修养](https://github.com/leohxj/a-programmer-prepares)
 
 
 ### 大数据
@@ -320,7 +320,7 @@
 ### AWK
 
 * [awk程序设计语言](https://github.com/wuzhouhui/awk)
-* [awk中文指南](http://awk.readthedocs.org/en/latest/index.html)
+* [awk中文指南](https://awk.readthedocs.io/en/latest/index.html)
 
 
 ### C
@@ -354,7 +354,7 @@
 * [CGDB中文手册](https://github.com/leeyiw/cgdb-manual-in-chinese)
 * [Cmake 实践](https://web.archive.org/web/20170615174144/http://sewm.pku.edu.cn/src/paradise/reference/CMake%20Practice.pdf) (PDF)
 * [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
-* [Google C++ 风格指南](http://zh-google-styleguide.readthedocs.org/en/latest/google-cpp-styleguide/contents/)
+* [Google C++ 风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/index.html)
 * [ZMQ 指南](https://github.com/anjuke/zguide-cn)
 
 
@@ -447,15 +447,14 @@
 ### iOS
 
 * [网易斯坦福大学公开课：iOS 7应用开发字幕文件](https://github.com/jkyin/Subtitle)
-* [Apple Watch开发初探](http://nilsun.github.io/apple-watch/)
-* [Google Objective-C Style Guide 中文版](http://zh-google-styleguide.readthedocs.org/en/latest/google-objc-styleguide/)
+* [Google Objective-C Style Guide 中文版](https://zh-google-styleguide.readthedocs.io/en/latest/google-objc-styleguide/)
 * [iOS开发60分钟入门](https://github.com/qinjx/30min_guides/blob/master/ios.md)
 * [iPhone 6 屏幕揭秘](http://wileam.com/iphone-6-screen-cn/)
 
 
 ### Java
 
-* [阿里巴巴 Java 开发手册](https://raw.githubusercontent.com/alibaba/p3c/HEAD/Java%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C(%E9%BB%84%E5%B1%B1%E7%89%88).pdf) (PDF)
+* [阿里巴巴 Java 开发手册](https://raw.githubusercontent.com/alibaba/p3c/HEAD/Java%E5%BC%80%E5%8F%91%E6%89%8B%E5%86%8C%28%E9%BB%84%E5%B1%B1%E7%89%88%29.pdf) (PDF)
 * [用jersey构建REST服务](https://github.com/waylau/RestDemo)
 * [Activiti 5.x 用户指南](https://github.com/waylau/activiti-5.x-user-guide)
 * [Apache MINA 2 用户指南](https://github.com/waylau/apache-mina-2.x-user-guide)
@@ -468,7 +467,7 @@
 * [Java Servlet 3.1 规范](https://github.com/waylau/servlet-3.1-specification)
 * [Jersey 2.x 用户指南](https://github.com/waylau/Jersey-2.x-User-Guide)
 * [JSSE 参考指南](https://github.com/waylau/jsse-reference-guide)
-* [MyBatis中文文档](http://mybatis.github.io/mybatis-3/zh/index.html)
+* [MyBatis中文文档](https://mybatis.org/mybatis-3/zh_CN/index.html)
 * [Netty 4.x 用户指南](https://github.com/waylau/netty-4-user-guide)
 * [Netty 实战(精髓)](https://github.com/waylau/essential-netty-in-action)
 * [Nutz-book Nutz烹调向导](http://nutzbook.wendal.net)
@@ -558,7 +557,7 @@
 * [Learn React & Webpack by building the Hacker News front page](https://github.com/theJian/build-a-hn-front-page)
 * [React-Bits 中文文档](https://github.com/hateonion/react-bits-CN)
 * [React webpack-cookbook](https://github.com/fakefish/react-webpack-cookbook)
-* [React.js 入门教程](http://fraserxu.me/intro-to-react/)
+* [React.js 入门教程](https://github.com/fraserxu/intro-to-react)
 * [React.js 中文文档](https://discountry.github.io/react/)
 
 
@@ -580,7 +579,7 @@
 
 ### Lisp
 
-* [ANSI Common Lisp 中文翻译版](http://acl.readthedocs.org/en/latest/)
+* [ANSI Common Lisp 中文翻译版](https://acl.readthedocs.io/en/latest/)
 * [Common Lisp 高级编程技术](http://www.ituring.com.cn/minibook/862) (《On Lisp》中文版)
 
 
@@ -667,7 +666,7 @@
 * [深入 Python 3](https://github.com/jiechic/diveintopython3)
 * [Matplotlib 3.0.3 中文文档](https://www.osgeo.cn/matplotlib/) (Online)
 * [Numpy 1.16 中文文档](https://www.osgeo.cn/numpy/) (Online)
-* [Python 3 文档(简体中文) 3.2.2 documentation](https://docspy3zh.readthedocs.org/en/latest/)
+* [Python 3 文档(简体中文) 3.2.2 documentation](https://docspy3zh.readthedocs.io/en/latest/)
 * [Python 3.8.0a3中文文档](https://www.osgeo.cn/cpython/) (Online) *(目前在线最全的中文文档了)*
 * [Python 最佳实践指南](https://pythonguidecn.readthedocs.io/zh/latest/)
 * [Python Cookbook第三版](https://python3-cookbook.readthedocs.io/zh_CN/latest/) - David Beazley、Brian K.Jones、熊能(翻译)
@@ -706,7 +705,7 @@
 * [Ruby 风格指南](https://github.com/JuanitoFatas/ruby-style-guide/blob/master/README-zhCN.md)
 * [Ruby on Rails 实战圣经](https://ihower.tw/rails4/)
 * [Ruby on Rails 指南](https://ruby-china.github.io/rails-guides/)
-* [Sinatra](http://www.sinatrarb.com/intro-zh.html)
+* [Sinatra](https://web.archive.org/web/20210224095759/http://www.sinatrarb.com/intro-zh.html) *( :card_file_box: archived)*
 
 
 ### Rust
@@ -714,7 +713,7 @@
 * [通过例子学习 Rust](https://github.com/rustcc/rust-by-example/)
 * [Rust 官方教程](https://github.com/KaiserY/rust-book-chinese)
 * [Rust 宏小册](https://zjp-cn.github.io/tlborm/)
-* [Rust 语言圣经](https://course.rs)
+* [Rust 语言圣经](https://github.com/sunface/rust-course)
 * [Rust 语言学习笔记](https://github.com/photino/rust-notes)
 * [RustPrimer](https://github.com/rustcc/RustPrimer)
 * [Tour of Rust](https://tourofrust.com/00_zh-cn.html)
@@ -771,7 +770,7 @@
 #### Deno
 
 * [Deno 钻研之术](https://deno-tutorial.js.org)
-* [Deno进阶开发笔记](https://chenshenhai.com/deno_note) - 大深海
+* [Deno进阶开发笔记](https://github.com/chenshenhai/deno_note) - 大深海
 
 
 ### VBA (Microsoft Visual Basic Applications)

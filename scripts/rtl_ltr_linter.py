@@ -65,7 +65,7 @@ def load_config(path):
         try:
             with open(path, encoding='utf-8') as f:
                 data = yaml.safe_load(f) or {}
-                conf = data.get('rtl_config', {})
+                conf = {k: v for k, v in (data.get('rtl_config', {}) or {}).items() if k in default}
                 default.update(conf)
         except Exception as e:
             print(f"::warning file={path}::Could not load config: {e}. Using defaults.") # Output to stdout for GitHub Actions
@@ -419,7 +419,7 @@ def get_changed_lines_for_file(filepath):
         - Requires that the script is run inside a Git repository.
         - If the merge base cannot be found, returns an empty set and does not print errors.
     """
-    import subprocess
+    import subprocess  # nosec
     changed_lines = set()
     try:
         # Get the diff for the file (unified=0 for no context lines)

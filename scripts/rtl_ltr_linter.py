@@ -420,13 +420,33 @@ def get_changed_lines_for_file(filepath):
         - If the merge base cannot be found, returns an empty set and does not print errors.
     """
     import subprocess
+    import os
     changed_lines = set()
+    # Validate and sanitize filepath to prevent command injection.
+    # Reject non-strings, empty values, null bytes, and shell metacharacters.
+    if not isinstance(filepath, str) or not filepath:
+        return changed_lines
+    # Reject any characters that could be misused in shell or path contexts.
+    _SHELL_UNSAFE = set(';&|`$<>\\\'"\x00\n\r\t')
+    if any(ch in _SHELL_UNSAFE for ch in filepath):
+        return changed_lines
+    # Normalise the path and anchor it to the current working directory to
+    # prevent directory-traversal attacks.
+    safe_filepath = os.path.normpath(filepath)
+    cwd = os.getcwd()
+    abs_filepath = os.path.realpath(os.path.join(cwd, safe_filepath))
+    if not abs_filepath.startswith(cwd + os.sep) and abs_filepath != cwd:
+        return changed_lines
     try:
-        # Get the diff for the file (unified=0 for no context lines)
-        diff = subprocess.check_output(
-            ['git', 'diff', '--unified=0', 'origin/main...', '--', filepath],
-            encoding='utf-8', errors='ignore'
+        # Get the diff for the file (unified=0 for no context lines).
+        # subprocess.run with shell=False and a list avoids shell injection.
+        # stdout/stderr are captured explicitly; a timeout guards against hangs.
+        proc = subprocess.run(
+            ['git', 'diff', '--unified=0', 'origin/main...', '--', safe_filepath],
+            stdout=subprocess.PIPE, stderr=subprocess.DEVNULL,
+            encoding='utf-8', errors='ignore', shell=False, timeout=30
         )
+        diff = proc.stdout
         for line in diff.splitlines():
             if line.startswith('@@'):
                 # Example: @@ -10,0 +11,3 @@

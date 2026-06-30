@@ -4,6 +4,8 @@
 ## Contributor License Agreement
 
 By contributing, you agree to the [LICENSE](../LICENSE) of this repository.
+See the full [Contributor License Agreement](CONTRIBUTOR_LICENSE_AGREEMENT.md)
+for details.
 
 
 ## Contributor Code of Conduct

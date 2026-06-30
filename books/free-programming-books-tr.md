@@ -181,3 +181,4 @@
 ### <a id="yapay-zeka"></a>Yapay Zeka
 
 * [Derin Öğrenmeye Dalış](https://tr.d2l.ai/d2l-tr-pytorch.pdf) - Aston Zhang, Zachary C. Lipton, Mu Li, Alexander J. Smola (PDF)
+* [Yeni Başlayanlar İçin Üretken Yapay Zeka](https://github.com/microsoft/generative-ai-for-beginners/blob/main/translations/tr/README.md) - Microsoft (HTML)

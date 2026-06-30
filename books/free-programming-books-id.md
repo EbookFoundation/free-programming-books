@@ -4,6 +4,7 @@
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
+* [DevOps](#devops)
 * [Git](#git)
 * [Go](#go)
 * [HTML and CSS](#html-and-css)
@@ -246,6 +247,12 @@
 ### Solidity
 
 * [Smart Contract Blockchain pada E-Voting](https://www.researchgate.net/publication/337961765_Smart_Contract_Blockchain_pada_E-Voting) - Ajib Susanto (HTML, PDF)
+
+
+### DevOps
+
+* [Belajar Docker untuk Pemula](https://github.com/kelasterbuka/docker_dasar-dasar-programming) - Kelas Terbuka (HTML)
+* [Tutorial DevOps Bahasa Indonesia](https://github.com/devopscorner/devopscorner.id) - DevOps Corner Indonesia (HTML)
 
 
 ### Swift

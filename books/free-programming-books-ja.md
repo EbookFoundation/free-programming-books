@@ -32,6 +32,7 @@
 * [D](#d)
 * [Elixir](#elixir)
 * [Erlang](#erlang)
+* [Game Development](#game-development)
 * [Git](#git)
 * [Go](#go)
 * [Groovy](#groovy)
@@ -319,6 +320,11 @@
 
 * [Learn you some Erlang for great good!](https://www.ymotongpoo.com/works/lyse-ja/) - Fred Hebert, Yoshifumi Yamaguchi (HTML)
 * [お気楽 Erlang プログラミング入門](http://www.nct9.ne.jp/m_hiroi/func/erlang.html) - 広井誠
+
+
+### Game Development
+
+* [ゲームプランナーのための AI 実務ワークフロー](https://github.com/eremes81/game-design-ai-practice-ja) - Minsoo Lee (イ・ミンス)
 
 
 ### Git

@@ -4,6 +4,7 @@
 * [C](#c)
 * [C#](#csharp)
 * [C++](#cpp)
+* [Game Development](#game-development)
 * [Git](#git)
 * [Go](#go)
 * [HTML and CSS](#html-and-css)
@@ -53,6 +54,11 @@
 
 * [Belajar C++ Dasar Bahasa Indonesia](https://github.com/kelasterbuka/CPP_dasar-dasar-programming) - Kelas Terbuka
 * [Buku Pintar C++ untuk Pemula](https://www.researchgate.net/publication/236687537_Buku_Pintar_C_untuk_Pemula) - Abdul Kadir
+
+
+### Game Development
+
+* [AI dan Claude Code untuk Praktik Game Design](https://github.com/eremes81/game-design-ai-practice-id) - Minsoo Lee
 
 
 ### Git

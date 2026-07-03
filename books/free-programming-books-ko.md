@@ -8,6 +8,7 @@
 * [C++](#cpp)
 * [Docker](#docker)
 * [Elastic](#elastic)
+* [Game Development](#game-development)
 * [Git](#git)
 * [Go](#go)
 * [HTML and CSS](#html-and-css)
@@ -82,6 +83,11 @@
 ### Elastic
 
 * [Elastic 가이드북](https://esbook.kimjmin.net) - 김종민
+
+
+### Game Development
+
+* [게임 기획 실무에서 바로 쓰는 AI·클로드 코드 활용법](https://github.com/eremes81/game-design-ai-practice) - 이민수
 
 
 ### Git

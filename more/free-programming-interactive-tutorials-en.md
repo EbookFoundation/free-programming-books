@@ -310,6 +310,7 @@
 
 * [CodeCombat](http://codecombat.com) - Python, JavaScript, CoffeeScript, Clojure, Lua, Io
 * [Codility](https://codility.com/programmers/)
+* [DevRoadmaps](https://rudra496.github.io/devroadmaps) - Rudra Sarker (HTML, PWA)
 * [Introduction to the Coding Interview Prep Algorithms](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms) (freeCodeCamp)
 * [Libre Academy](https://libre.academy) - Rust, Python, JavaScript, TypeScript, Go, Zig, and 20+ more
 * [Python Tutor](http://pythontutor.com) - Python, Java, JavaScript, TypeScript, Ruby, C, C++

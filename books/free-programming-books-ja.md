@@ -32,7 +32,6 @@
 * [D](#d)
 * [Elixir](#elixir)
 * [Erlang](#erlang)
-* [ゲーム開発](#%e3%82%b2%e3%83%bc%e3%83%a0%e9%96%8b%e7%99%ba)
 * [Git](#git)
 * [Go](#go)
 * [Groovy](#groovy)
@@ -134,6 +133,7 @@
 
 * [C# スタイルガイドを作成する：拡張性のある、よりクリーンなコードを書く](https://unity3d.jp/game/game-ebooks/create-code-c-sharp-style-guide-e-book/) - Unity Technologies (HTML & PDF)
 * [C# スタイルガイドを使用して、クリーンでスケーラブルなゲームコードを書く - Unity 6版](https://unity3d.jp/game/create-code-c-sharp-style-guide-e-book-unity-6/) - Unity Technologies (HTML & PDF)
+* [ゲームプランナーのための AI 実務ワークフロー](https://github.com/eremes81/game-design-ai-practice-ja) - Minsoo Lee (イ・ミンス)
 * [ゲームプログラミングのパターンを活用してコードをレベルアップ](https://unity3d.jp/game/game-ebooks/level-up-your-code-with-game-programming-patterns/) - Unity Technologies (HTML & PDF)
 * [ゲームレベルデザイン入門](https://unity3d.jp/game/game-ebooks/game-level-design/) - Unity Technologies (HTML & PDF)
 * [デザインパターンとSOLIDでコードをレベルアップ](https://unity3d.jp/game/design-patterns-solid-ebook/) - Unity Technologies (HTML & PDF)
@@ -320,11 +320,6 @@
 
 * [Learn you some Erlang for great good!](https://www.ymotongpoo.com/works/lyse-ja/) - Fred Hebert, Yoshifumi Yamaguchi (HTML)
 * [お気楽 Erlang プログラミング入門](http://www.nct9.ne.jp/m_hiroi/func/erlang.html) - 広井誠
-
-
-### ゲーム開発
-
-* [ゲームプランナーのための AI 実務ワークフロー](https://github.com/eremes81/game-design-ai-practice-ja) - Minsoo Lee (イ・ミンス)
 
 
 ### Git

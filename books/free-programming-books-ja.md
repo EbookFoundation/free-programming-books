@@ -32,7 +32,7 @@
 * [D](#d)
 * [Elixir](#elixir)
 * [Erlang](#erlang)
-* [Game Development](#game-development)
+* [ゲーム開発](#%e3%82%b2%e3%83%bc%e3%83%a0%e9%96%8b%e7%99%ba)
 * [Git](#git)
 * [Go](#go)
 * [Groovy](#groovy)
@@ -322,7 +322,7 @@
 * [お気楽 Erlang プログラミング入門](http://www.nct9.ne.jp/m_hiroi/func/erlang.html) - 広井誠
 
 
-### Game Development
+### ゲーム開発
 
 * [ゲームプランナーのための AI 実務ワークフロー](https://github.com/eremes81/game-design-ai-practice-ja) - Minsoo Lee (イ・ミンス)
 

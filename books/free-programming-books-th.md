@@ -2,6 +2,7 @@
 
 * [Apache Spark](#apache-spark)
 * [C#](#csharp)
+* [Game Development](#game-development)
 * [Go](#go)
 * [IoT (internet of things)](#iot-internet-of-things)
 * [Java](#java)
@@ -17,6 +18,11 @@
 ### <a id="csharp"></a>C\#
 
 * [บทเรียนภาษา C#](http://marcuscode.com/lang/csharp) - MarcusCode
+
+
+### Game Development
+
+* [AI และ Claude Code สำหรับงานออกแบบเกมในทางปฏิบัติ](https://github.com/eremes81/game-design-ai-practice-th) - Minsoo Lee
 
 
 ### Go

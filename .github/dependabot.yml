@@ -35,3 +35,6 @@ updates:
       - "EbookFoundation/maintainers"
       - "EbookFoundation/reviewers"
       - "@Thenlie"
+    # Wait 7 days before proposing updates to newly published package versions
+    cooldown:
+      default-days: 7

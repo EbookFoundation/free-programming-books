@@ -15,7 +15,7 @@ By contributing, you agree to respect the [Code of Conduct](CODE_OF_CONDUCT.md) 
 
 1. "A link to easily download a book" is not always a link to a *free* book. Please only contribute free content. Make sure it's free. We do not accept links to pages that *require* working email addresses to obtain books, but we welcome listings that request them.
 
-2. You don't have to know Git: if you found something of interest which is *not already in this repo*, please open an [Issue](https://github.com/EbookFoundation/free-programming-books/issues) with your links propositions.
+2. You don't have to know Git: if you found something of interest which is *not already in this repo*, please open an [Issue](https://github.com/EbookFoundation/free-programming-books/issues) with your link suggestions.
     - If you know Git, please Fork the repo and send Pull Requests (PR).
 
 3. We have 6 kinds of lists. Choose the right one:

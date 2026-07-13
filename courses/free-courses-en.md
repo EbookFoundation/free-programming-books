@@ -706,7 +706,7 @@
 * [DevOps Full Course](https://www.youtube.com/watch?v=lpk7VpGqkKw) - Simplilearn
 * [DevOps Tutorial for Beginners](https://www.youtube.com/playlist?list=PLVHgQku8Z934suC9LSE6vaAKjOH_MfRbE) - Intellipaat
 * [DevOps Tutorial for Beginners \| Learn DevOps in 7 Hours - Full Course \| DevOps Training \| Edureka](https://www.youtube.com/watch?v=hQcFE0RD0cQ) - Edureka
-* [TheCodeForge DevOps Tutorials](https://thecodeforge.io/category/devops/) - 300+ free production-grade DevOps tutorials covering Docker, Kubernetes, CI/CD, Jenkins, Terraform, Ansible, and more with real incident stories.
+* [TheCodeForge DevOps Tutorials](https://thecodeforge.io/devops/) - 300+ free production-grade DevOps tutorials covering Docker, Kubernetes, CI/CD, Jenkins, Terraform, Ansible, and more with real incident stories.
 
 
 #### Ansible

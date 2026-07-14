@@ -198,6 +198,8 @@
 * [南瓜书PumpkinBook](https://datawhalechina.github.io/pumpkin-book) - Datawhale
 * [深度学习500问](https://github.com/scutan90/DeepLearning-500-questions) - scutan90
 * [神经网络与深度学习](https://nndl.github.io) - 邱锡鹏
+* [游戏策划实务即用的 AI · Claude Code 活用法](https://github.com/eremes81/game-design-ai-practice-zh-hans) - 李旼洙
+* [遊戲策劃實務即用的 AI · Claude Code 活用法](https://github.com/eremes81/game-design-ai-practice-zh-hant) - 李旼洙
 
 
 ### 软件开发方法

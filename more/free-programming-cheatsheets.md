@@ -215,7 +215,7 @@
 * [Docker Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html) - OWASP Cheat Sheet Series (HTML)
 * [Dockerfile Cheat Sheet - Kapeli](https://kapeli.com/cheat_sheets/Dockerfile.docset/Contents/Resources/Documents/index) - Bogdan Popescu, Halprin (HTML)
 * [Dockerfiles y docker-compose.yml: buenas prácticas (:es:)](https://leanmind.es/docker-cheatsheet.pdf) - Yodra Lopez Herrera, LeanMind (PDF)
-* [The Definitive Docker Cheat Sheet](http://dockercheatsheet.painlessdocker.com) - Aymen EL Amri (HTML)
+* [The Definitive Docker Cheat Sheet](https://web.archive.org/web/20190205113917/https://dockercheatsheet.painlessdocker.com/) - Aymen EL Amri (HTML) *( :card_file_box: archived)*
 * [The Ultimate Docker Cheat Sheet](https://dockerlabs.collabnix.com/docker/cheatsheet/) - Sangam Biradar, Collabnix DockerLabs (HTML)
 
 
@@ -247,7 +247,7 @@
 
 * [8 Easy Steps to Set Up Multiple GitHub Accounts \[cheat sheet included\]](https://blog.gitguardian.com/8-easy-steps-to-set-up-multiple-git-accounts/) - Thomas Segura, GitGuardian (HTML, PDF)
 * [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) - GitHub (PDF)
-* [Git Cheat Sheet](https://about.gitlab.com/images/press/git-cheat-sheet.pdf) - GitLab (PDF)
+* [Git Cheat Sheet](https://web.archive.org/web/20260629021617/https://about.gitlab.com/images/press/git-cheat-sheet.pdf) - GitLab (PDF) *( :card_file_box: archived)*
 * [Git Cheat Sheet](http://git.jk.gs) - Jan Krüger (PDF, SVG)
     * [Git Cheat Sheet](https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet.pdf) (PDF)
     * [Git Cheat Sheet - extended](https://jan-krueger.net/wordpress/wp-content/uploads/2007/09/git-cheat-sheet-v2.zip) (PDF)
@@ -568,7 +568,7 @@
 * [All RStudio cheatsheets resources](https://www.rstudio.com/resources/cheatsheets) - RStudio.com (HTML site with PDF links)
 * [Base R Cheatsheet](https://iqss.github.io/dss-workshops/R/Rintro/base-r-cheat-sheet.pdf) - Mhairi McNeill (PDF)
 * [Cheat Sheet for R and RStudio](https://www.ocf.berkeley.edu/~janastas/docs/RStudioCheatSheet.pdf) - L. Jason Anastasopoulos (PDF)
-* [Colors in R](http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf) - Ying Wei  (PDF)
+* [Colors in R](https://web.archive.org/web/20250122193407/http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf) - Ying Wei  (PDF) *( :card_file_box: archived)*
 * [Data transformation with dplyr - Cheat sheet](https://posit.co/wp-content/uploads/2022/10/data-transformation-1.pdf) - Posit (PDF)
 * [R color cheatsheet](https://www.nceas.ucsb.edu/sites/default/files/2020-04/colorPaletteCheatsheet.pdf) - Melanie Frazier (PDF)
 

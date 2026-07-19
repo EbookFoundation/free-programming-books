@@ -1831,6 +1831,7 @@
 * [Selenium Full Course- Learn Selenium in 12 Hours](https://www.youtube.com/watch?v=FRn5J31eAMw) - Edureka
 * [Selenium WebDriver Tutorial](https://www.youtube.com/playlist?list=PLL34mf651faPB-LyEP0-a7Avp_RHO0Lsm) - Software Testing Mentor
 * [Software Engineering](https://www.youtube.com/playlist?list=PLWPirh4EWFpG2b1L3CL-OAPYcM25jLjXH) - Tutorialspoint
+* [Software Engineering — The Easy Way](https://thetpmguy.github.io/software-engineering-the-easy-way/) - thetpmguy
 
 
 ### Solidity

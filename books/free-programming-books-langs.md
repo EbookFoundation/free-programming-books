@@ -222,6 +222,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [V](#v)
 * [Verilog](#verilog)
 * [VHDL](#vhdl)
+* [Vim](#vim)
 * [Visual Basic](#visual-basic)
 * [Visual Prolog](#visual-prolog)
 * [Vulkan](#vulkan)
@@ -2692,6 +2693,11 @@ Books on general-purpose programming that don't focus on a specific language are
 ### V
 
 * [V Documentation](https://github.com/vlang/v/blob/HEAD/doc/docs.md) - vlang.io (Markdown)
+
+
+# Vim
+
+* [Vim Book](https://github.com/dariubs/vim-book) - Dariush Abbasi (Markdown)
 
 
 ### Verilog

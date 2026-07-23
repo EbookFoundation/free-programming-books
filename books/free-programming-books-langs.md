@@ -1608,7 +1608,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Markdown
 
-* [bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org) - Yihui Xie (HTML) [(PDF, EPUB, MOBI)] (https://bookdown.org/yihui/bookdown/)
+* [bookdown: Authoring Books and Technical Documents with R Markdown](https://bookdown.org) - Yihui Xie (HTML) [(PDF, EPUB, MOBI)](https://bookdown.org/yihui/bookdown/)
 * [Learn Markdown](https://www.gitbook.com/book/gitbookio/markdown/details) - Sammy P., Aaron O. (PDF) (EPUB) (MOBI)
 
 

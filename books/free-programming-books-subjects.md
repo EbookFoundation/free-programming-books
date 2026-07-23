@@ -411,6 +411,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Visual Studio .NET Tips and Tricks](https://www.infoq.com/minibooks/vsnettt) - Minh T. Nguyen (PDF)
 * [Visual Studio 2019 Succinctly](https://www.syncfusion.com/ebooks/visual-studio-2019-succinctly) - Alessandro Del Sole (HTML, PDF)
 * [Visual Studio Code - The Essentials](https://microsoft.github.io/vscode-essentials/en/) - Yohan Lasorsa, Christopher Maneu (HTML) (CC BY-SA) *( :construction: in process)*
+* [Vim Book](https://github.com/dariubs/vim-book) - Dariush Abbasi (Markdown, HTML) (CC BY 4.0)
 
 
 ### Information Retrieval

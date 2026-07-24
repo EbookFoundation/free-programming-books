@@ -87,9 +87,9 @@
 ### Control de Versiones
 
 * [Curso de Git y Github desde cero para principiantes](https://www.youtube.com/watch?v=3GymExBkKjE) - Brias Moure "MoureDev"
-* [Git y Control de Versiones](https://certmundo.com/es-mx/curso/git-y-control-de-versiones) - Certmundo
 * [Git & GitHub](https://www.pildorasinformaticas.es/course/curso-de-git-github) - Juan Díaz (Píldoras Informáticas)
 * [Git & GitHub](https://www.youtube.com/playlist?list=PLPl81lqbj-4I8i-x2b5_MG58tZfgKmJls) - Ignacio Gutiérrez, BlueWeb
+* [Git y Control de Versiones](https://certmundo.com/es-mx/curso/git-y-control-de-versiones) - Certmundo
 
 
 ### Flujos de Trabajo

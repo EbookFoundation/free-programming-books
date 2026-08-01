@@ -26,7 +26,7 @@ jobs:
     outputs:
       fetch-depth: ${{ steps.set-params.outputs.fetch-depth }}
       files:       ${{ steps.set-files.outputs.files }}
-      files-len:   ${{ steps.set-files.outputs.files-len }}
+      files-len:   ${{ steps.set-files-len.outputs.files-len }}
       matrix:      ${{ steps.set-matrix.outputs.matrix }}
     steps:
       - name: Determine workflow params
@@ -46,17 +46,22 @@ jobs:
         with:
           separator: " "
           json: true
-      - id: set-files
+      - name: Join changed files for output
+        id: set-files
         run: |
           echo "${{ steps.changed-files.outputs.all_changed_files }}"  \
             | jq --raw-output '. | join(" ")'  \
             | sed -e 's/^/files=/'  \
             >> $GITHUB_OUTPUT
+      - name: Count changed files
+        id: set-files-len
+        run: |
           echo "${{ steps.changed-files.outputs.all_changed_files }}"  \
             | jq --raw-output '. | length'  \
             | sed -e 's/^/files-len=/'  \
             >> $GITHUB_OUTPUT
-      - id: set-matrix
+      - name: Build check-urls matrix
+        id: set-matrix
         run: |
           echo "{\"file\":${{ steps.changed-files.outputs.all_changed_files }}}"  \
             | sed -e 's/^/matrix=/'  \

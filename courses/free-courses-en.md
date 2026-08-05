@@ -125,7 +125,7 @@
 ### 0 - MOOC
 
 * [AI School](https://lillytechsystems.com/ai-school/)
-* [CheatGrid Roadmaps](https://www.cheatgrid.com/roadmaps)
+* [CheatGrid](https://www.cheatgrid.com/roadmaps)
 * [class central](https://www.classcentral.com)
 * [Codecademy](https://www.codecademy.com)
 * [Coursera](https://www.coursera.org)

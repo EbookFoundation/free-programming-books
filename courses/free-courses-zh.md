@@ -39,6 +39,6 @@
 
 ### Python
 
-* [Build Your Own Physics](https://github.com/Zensoro/build-your-own-physics) - 从零重建物理：12 个 Python 模拟项目，双语（中文/English）
-
 * [最新Python编程教程19天从入门到精通](https://www.youtube.com/playlist?list=PLVyDH2ns1F75k1hvD2apA0DwI3XMiSDqp) - 知知识改变命运
+
+* [Build Your Own Physics](https://github.com/Zensoro/build-your-own-physics) - 从零重建物理：12 个 Python 模拟项目，双语（中文/English）

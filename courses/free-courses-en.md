@@ -1593,6 +1593,7 @@
 * [Automate with Python - Full course for Beginners](https://www.youtube.com/watch?v=PXMJ6FS7llk) - FreeCodeCamp
 * [Bento Python Learning Track](https://bento.io/topic/python) (Bento)
 * [Berkeley's Structure and Interpretation of Computer Programs](https://cs61a.org)
+* [Build Your Own Physics](https://github.com/Zensoro/build-your-own-physics) - Learn physics by recreating 12 simulations from scratch (projectile motion to a solar system), bilingual
 * [Codesdope](https://www.codesdope.com/python-introduction)
 * [Complete Python Playlist](https://www.youtube.com/playlist?list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB) - Krish Naik
 * [CS50's Introduction to Programming Using Python](https://cs50.harvard.edu/python/) - David J. Malan (Harvard OpenCourseWare and edX)

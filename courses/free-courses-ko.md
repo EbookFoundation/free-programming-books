@@ -104,6 +104,8 @@
 
 ### Generative AI
 
+* [AI 에이전트 만들기 (전체 40강)](https://aiolaola.com/ko/course/agents) - aiOlaOla
+* [AI 코딩 배우기 (전체 180강)](https://aiolaola.com/ko/course) - aiOlaOla
 * [초보자를 위한 Generative AI .NET - 강좌](https://github.com/microsoft/Generative-AI-for-beginners-dotnet/tree/main/translations/ko) - Microsoft (GitHub)
 
 

@@ -289,5 +289,54 @@
     ```
     
 - 您可以指定多个要检查的文件，使用单个空格分隔每个条目。
-- 如果您指定了多个文件，构建的结果将基于最后一个检查的文件的结果。您应该注意，由于这个原因，您可能会得到通过的绿色构建，所以请确保在拉取请求结束时检查构建日志，点击 “Show all checks”->“Details”。
+- 如果您指定了多个文件，构建的结果将基于最后一个检查的文件的结果。您应该注意，由于这个原因，您可能会得到通过的绿色构建，所以请确保在拉取请求结束时检查构建日志，点击 “Show all checks”->”Details”。
+
+
+### 修复 RTL/LTR linter 错误
+
+如果您运行 RTL/LTR Markdown Linter（对 `*-ar.md`、`*-he.md`、`*-fa.md`、`*-ur.md` 文件）并看到错误或警告：
+
+- **LTR 单词**（例如 “HTML”、”JavaScript”）在 RTL 文本中：在每个 LTR 片段后紧跟 `&rlm;`；
+- **LTR 符号**（例如 “C#”、”C++”）：在每个 LTR 符号后紧跟 `&lrm;`；
+
+#### 示例
+
+**错误示范**
+```html
+<div dir=”rtl” markdown=”1”>
+* [كتاب الأمثلة في R](URL) - John Doe (PDF)
+</div>
+```
+**正确示范**
+```html
+<div dir=”rtl” markdown=”1”>
+* [كتاب الأمثلة في R&rlm;](URL) - John Doe&rlm; (PDF)
+</div>
+```
+---
+**错误示范**
+```html
+<div dir=”rtl” markdown=”1”>
+* [Tech Podcast - بودكاست المثال](URL) – Ahmad Hasan, محمد علي
+</div>
+```
+**正确示范**
+```html
+<div dir=”rtl” markdown=”1”>
+* [Tech Podcast - بودكاست المثال](URL) – Ahmad Hasan,&rlm; محمد علي
+</div>
+```
+---
+**错误示范**
+```html
+<div dir=”rtl” markdown=”1”>
+* [أساسيات C#](URL)
+</div>
+```
+**正确示范**
+```html
+<div dir=”rtl” markdown=”1”>
+* [أساسيات C#&lrm;](URL)
+</div>
+```
 

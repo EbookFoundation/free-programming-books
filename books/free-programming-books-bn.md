@@ -2,6 +2,7 @@
 
 * [Algorithms](#algorithms)
 * [C](#c)
+* [Computer Science](#computer-science)
 * [C++](#cpp)
 * [Data Science](#data-science)
 * [Git and Github](#git-and-github)
@@ -25,6 +26,11 @@
 * [বাংলায় C প্রোগ্রামিং ল্যাঙ্গুয়েজ শেখার কোর্স](https://c.howtocode.dev) - Jakir Hossain, et al.
 * [Computer Programming «কম্পিউটার প্রোগ্রামিং ১ম খণ্ড»](http://cpbook.subeen.com) - Tamim Shahriar Subeen (HTML)
 * [Computer Programming Part 3](https://archive.org/details/computer-programming-part-3-tamim-shaharier-subin) - Tamim Shahriar Subeen (PDF)
+
+
+### Computer Science
+
+* [Learn Computer Academy Docs](https://docs.learncomputer.in/bn) - Learn Computer Academy (docs.learncomputer.in)
 
 
 ### Data Science

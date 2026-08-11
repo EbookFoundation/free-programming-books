@@ -43,4 +43,5 @@
 
 ### SQL
 
+* [Тренажёр SQL](https://koddo.ru/trainers/sql) - Koddo (19 задач с автопроверкой в браузере, без регистрации)
 * [SQL упражнения](https://www.sql-ex.ru/?Lang=0)

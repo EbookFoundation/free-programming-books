@@ -30,7 +30,7 @@
 
 ### Computer Science
 
-* [Learn Computer Academy Docs](https://docs.learncomputer.in/bn) - Learn Computer Academy (docs.learncomputer.in)
+* [Learn Computer Academy Docs](https://docs.learncomputer.in/bn) - Learn Computer Academy
 
 
 ### Data Science

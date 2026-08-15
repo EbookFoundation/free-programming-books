@@ -255,6 +255,7 @@
 * [Git Cheat Sheet](https://web.archive.org/web/20230816231123/https://programmingwithmosh.com/wp-content/uploads/2020/09/Git-Cheat-Sheet.pdf) - Moshfegh Hamedani (PDF) *( :card_file_box: archived)*
 * [Git Cheat Sheet](https://www.geeksforgeeks.org/git/git-cheat-sheet) - Geeksforgeeks
 * [Git Cheat Sheet (id)](https://reyhanhamidi.medium.com/buku-saku-git-cheatsheet-git-bahasa-indonesia-3af42e42156e) - Reyhan Alhafizal (HTML)
+* [Git Cheatsheet](https://github.com/mixseomin/dev-cheatsheets/blob/main/01-git.md) - mixseomin (Markdown)
 * [Git ściąga (pl)](https://training.github.com/downloads/pl/github-git-cheat-sheet/) - GitHub (HTML)
 * [GitHub Actions Security Best Practices \[cheat sheet included\]](https://blog.gitguardian.com/github-actions-security-cheat-sheet/) - Thomas Segura, GitGuardian, C.J. May (HTML, PDF)
 * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Tim Green (Markdown)

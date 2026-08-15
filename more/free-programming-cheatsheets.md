@@ -632,6 +632,7 @@
 * [SQL Cheat Sheet](https://zerotomastery.io/cheatsheets/sql-cheat-sheet/) - ZeroToMastery (HTML)
 * [SQL Cheat Sheet](https://www.cheatgrid.com/databases/0293-sql-cheat-sheet) - CheatGrid (HTML)
 * [SQL Cheat Sheet by Tomi Mester](https://data36.com/wp-content/uploads/2018/12/sql-cheat-sheet-for-data-scientists-by-tomi-mester.pdf) - Tomi Mester (PDF)
+* [SQL Cheatsheet](https://github.com/mixseomin/dev-cheatsheets/blob/main/04-sql.md) - mixseomin (Markdown)
 
 
 ### TensorFlow

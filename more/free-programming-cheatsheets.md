@@ -206,6 +206,7 @@
 * [Docker Cheat Sheet : Complete Guide (2024)](https://www.geeksforgeeks.org/docker-cheat-sheet) - Geeksforgeeks (HTML)
 * [Docker Cheat Sheet (v1)](https://dockerlux.github.io/pdf/cheat-sheet.pdf) - Gildas Cuisinier, Docker Meetup Luxembourg (PDF)
 * [Docker Cheat Sheet (v2)](https://dockerlux.github.io/pdf/cheat-sheet-v2.pdf) - Gildas Cuisinier, Docker Meetup Luxembourg (PDF)
+* [Docker Cheatsheet](https://github.com/mixseomin/dev-cheatsheets/blob/main/02-docker.md) - mixseomin (Markdown)
 * [Docker Cheatsheet: Docker commands that developers should know](https://vishnuch.tech/docker-cheatsheet) - Vishnu Chilamakuru (HTML)
 * [Docker CLI \& Dockerfile Cheat Sheet](https://web.archive.org/web/20210909015922/https://design.jboss.org/redhatdeveloper/marketing/docker_cheatsheet/cheatsheet/images/docker_cheatsheet_r3v2.pdf) - Bachir Chihani, Rafael Benevides, Red Hat Developers (PDF) *( :card_file_box: archived)*
 * [Docker CLI cheatsheet](https://devhints.io/docker) - DevHints, Rico Santa Cruz (HTML)
@@ -255,6 +256,7 @@
 * [Git Cheat Sheet](https://web.archive.org/web/20230816231123/https://programmingwithmosh.com/wp-content/uploads/2020/09/Git-Cheat-Sheet.pdf) - Moshfegh Hamedani (PDF) *( :card_file_box: archived)*
 * [Git Cheat Sheet](https://www.geeksforgeeks.org/git/git-cheat-sheet) - Geeksforgeeks
 * [Git Cheat Sheet (id)](https://reyhanhamidi.medium.com/buku-saku-git-cheatsheet-git-bahasa-indonesia-3af42e42156e) - Reyhan Alhafizal (HTML)
+* [Git Cheatsheet](https://github.com/mixseomin/dev-cheatsheets/blob/main/01-git.md) - mixseomin (Markdown)
 * [Git ściąga (pl)](https://training.github.com/downloads/pl/github-git-cheat-sheet/) - GitHub (HTML)
 * [GitHub Actions Security Best Practices \[cheat sheet included\]](https://blog.gitguardian.com/github-actions-security-cheat-sheet/) - Thomas Segura, GitGuardian, C.J. May (HTML, PDF)
 * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Tim Green (Markdown)
@@ -604,6 +606,7 @@
 
 * [Bash Cheatsheet - CheatSheet.Wtf](https://www.cheatsheet.wtf/bash) - smokingcuke (HTML)
 * [Bash Scripting cheatsheet](https://devhints.io/bash) Devhints (HTML)
+* [Bash Scripting Cheatsheet](https://github.com/mixseomin/dev-cheatsheets/blob/main/13-bash.md) - mixseomin (Markdown)
 * [Cron Cheatsheet](https://devhints.io/cron) - DevHints, Rico Santa Cruz (HTML)
 * [Fish Shell cheatsheet](https://devhints.io/fish-shell) - DevHints, Rico Santa Cruz (HTML)
 
@@ -630,6 +633,7 @@
 * [SQL Cheat Sheet](https://zerotomastery.io/cheatsheets/sql-cheat-sheet/) - ZeroToMastery (HTML)
 * [SQL Cheat Sheet](https://www.cheatgrid.com/databases/0293-sql-cheat-sheet) - CheatGrid (HTML)
 * [SQL Cheat Sheet by Tomi Mester](https://data36.com/wp-content/uploads/2018/12/sql-cheat-sheet-for-data-scientists-by-tomi-mester.pdf) - Tomi Mester (PDF)
+* [SQL Cheatsheet](https://github.com/mixseomin/dev-cheatsheets/blob/main/04-sql.md) - mixseomin (Markdown)
 
 
 ### TensorFlow

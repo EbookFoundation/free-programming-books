@@ -7,6 +7,7 @@
 * [IDE and editors](#ide-and-editors)
 * [Java](#java)
 * [JavaScript](#javascript)
+* [Makine Öğrenmesi](#makine-ogrenmesi)
 * [Python](#python)
 * [React](#react)
 * [SQL](#sql)
@@ -66,6 +67,11 @@
 * [Java Dersleri ve Nesne Yönelimli Programlama](https://www.youtube.com/playlist?list=PLEcJSEQK_cD5KHgg9sXumeg659hAr2j4W) - Kodlama Vakti
 * [Java Programlama](https://www.youtube.com/playlist?list=PLIHume2cwmHctrHFHADb0slNyn95x2M4I) - Mustafa Murat Coşkun
 * [Yazılım Geliştirici Yetiştirme Kampı](https://www.youtube.com/playlist?list=PLqG356ExoxZUuVYKLuiQLnref7Y4ims87) - Engin Demiroğ
+
+
+### <a id='makine-ogrenmesi'></a>Makine Öğrenmesi
+
+* [ML Academy](https://mltraining.org/?lang=tr) - Cagri Temel
 
 
 ### Python

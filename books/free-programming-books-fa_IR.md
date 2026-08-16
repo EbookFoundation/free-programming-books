@@ -92,8 +92,8 @@
 ### R
 
 * [تحلیل شبکه‌های اجتماعی در R&rlm;](http://cran.r-project.org/doc/contrib/Raeesi-SNA_in_R_in_Farsi.pdf) (PDF)
-* [راهنمای زبان R&rlm;](http://cran.r-project.org/doc/contrib/Mousavi-R-lang_in_Farsi.pdf) (PDF)
-* [مباحث ویژه در R&rlm;](http://cran.r-project.org/doc/contrib/Mousavi-R_topics_in_Farsi.pdf) (PDF)
+* [راهنمای زبان R&rlm;](https://cran.r-project.org/doc/contrib/Mousavi-R-lang_in_Farsi.pdf) (PDF)
+* [مباحث ویژه در R&rlm;](https://cran.r-project.org/doc/contrib/Mousavi-R_topics_in_Farsi.pdf) (PDF)
 
 
 </div>

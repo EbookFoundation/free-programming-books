@@ -159,7 +159,7 @@
 * [Git Immersión en Español](https://esparta.github.io/gitimmersion-spanish) - Jim Weirich, `trl.:` Espartaco Palma
 * [Git. La guía simple](https://rogerdudler.github.io/git-guide/index.es.html) - Roger Dudler, `trl.:` Luis Barragan, `trl.:` Adrian Matellanes (HTML)
 * [Gitmagic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/es) - Ben Lynn, `trl.:` Rodrigo Toledo, `trl.:` Ariset Llerena Tapia (HTML, PDF)
-* [Pro Git](http://git-scm.com/book/es/) - Scott Chacon, Ben Straub, `trl.:` Andres Mancera, `trl.:` Antonino Ingargiola, et al. (HTML, PDF, EPUB)
+* [Pro Git](https://git-scm.com/book/es/) - Scott Chacon, Ben Straub, `trl.:` Andres Mancera, `trl.:` Antonino Ingargiola, et al. (HTML, PDF, EPUB)
 
 
 ### Go
@@ -388,10 +388,10 @@
 * [Cartas sobre Estadística de la Revista Argentina de Bioingeniería](http://cran.r-project.org/doc/contrib/Risk-Cartas-sobre-Estadistica.pdf) - Marcelo R. Risk (PDF)
 * [Generación automática de reportes con R y LaTeX](http://cran.r-project.org/doc/contrib/Rivera-Tutorial_Sweave.pdf) - Mario Alfonso Morales Rivera (PDF)
 * [Gráficos Estadísticos con R](http://cran.r-project.org/doc/contrib/grafi3.pdf) - Juan Carlos Correa, Nelfi González (PDF)
-* [Introducción a R](http://cran.r-project.org/doc/contrib/R-intro-1.1.0-espanol.1.pdf) - R Development Core Team, `trl.:` Andrés González, `trl.:` Silvia González (PDF)
+* [Introducción a R](https://cran.r-project.org/doc/contrib/R-intro-1.1.0-espanol.1.pdf) - R Development Core Team, `trl.:` Andrés González, `trl.:` Silvia González (PDF)
 * [Introducción al uso y programación del sistema estadístico R](http://cran.r-project.org/doc/contrib/curso-R.Diaz-Uriarte.pdf) - Ramón Díaz-Uriarte (PDF)
 * [Métodos Estadísticos con R y R Commander](http://cran.r-project.org/doc/contrib/Saez-Castillo-RRCmdrv21.pdf) - Antonio José Sáez Castillo (PDF)
-* [Optimización Matemática con R: Volúmen I](http://cran.r-project.org/doc/contrib/Optimizacion_Matematica_con_R_Volumen_I.pdf) - Enrique Gabriel Baquela, Andrés Redchuk (PDF)
+* [Optimización Matemática con R: Volúmen I](https://cran.r-project.org/doc/contrib/Optimizacion_Matematica_con_R_Volumen_I.pdf) - Enrique Gabriel Baquela, Andrés Redchuk (PDF)
 * [R para Principiantes](http://cran.r-project.org/doc/contrib/rdebuts_es.pdf) - Michel Schinz, Philipp Haller, `trl.:` Juanjo Bazán (PDF)
 
 

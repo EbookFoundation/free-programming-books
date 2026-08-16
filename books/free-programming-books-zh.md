@@ -137,7 +137,7 @@
 * [Linux Guide for Complete Beginners](http://happypeter.github.io/LGCB/book/)
 * [Linux工具快速教程](https://github.com/me115/linuxtools_rst)
 * [Mac 开发配置手册](https://aaaaaashu.gitbooks.io/mac-dev-setup/content/)
-* [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
+* [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 * [The Linux Command Line](http://billie66.github.io/TLCL/index.html)
 * [Ubuntu 参考手册](http://wiki.ubuntu.org.cn/UbuntuManual)
 * [uCore Lab: Operating System Course in Tsinghua University](https://www.gitbook.com/book/objectkuan/ucore-docs/details)

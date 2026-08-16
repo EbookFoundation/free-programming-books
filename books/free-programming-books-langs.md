@@ -1994,7 +1994,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [An Introduction to Statistical Learning with Applications in Python](https://www.statlearning.com) - Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, Jonathan Taylor (PDF)
 * [Architecture Patterns with Python](https://www.cosmicpython.com/book/preface.html) - Harry J.W. Percival, Bob Gregory (HTML)
 * [Automate the Boring Stuff with Python, 3rd Edition: Practical Programming for Total Beginners](https://automatetheboringstuff.com/3e/) - Al Sweigart (HTML) (CC BY-NC-SA)
-* [Beej's Guide to Python Programming - For Beginners](http://beej.us/guide/bgpython/) - Brian "Beej Jorgensen" Hall (HTML, PDF)
+* [Beej's Guide to Python Programming - For Beginners](https://beej.us/guide/bgpython/) - Brian "Beej Jorgensen" Hall (HTML, PDF)
 * [Beyond the Basic Stuff with Python](https://inventwithpython.com/beyond/) - Al Sweigart (3.x)
 * [Biopython Tutorial and Cookbook](https://biopython.org/wiki/Documentation) (HTML, PDF) 
 * [Build applications in Python the antitextbook](http://github.com/thewhitetulip/build-app-with-python-antitextbook) (3.x) (HTML, PDF, EPUB, Mobi)
@@ -2243,7 +2243,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Modern R with the tidyverse](https://b-rodrigues.github.io/modern_R) - Bruno Rodrigues
 * [Modern Statistics with R](https://www.modernstatisticswithr.com) - Måns Thulin
 * [ModernDive](https://ismayc.github.io/moderndiver-book/) - Chester Ismay, Albert Y. Kim
-* [Practical Regression and Anova using R](http://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) - Julian J. Faraway (PDF)
+* [Practical Regression and Anova using R](https://cran.r-project.org/doc/contrib/Faraway-PRA.pdf) - Julian J. Faraway (PDF)
 * [R for Data Science](https://r4ds.hadley.nz) - Hadley Wickham, Mine Çetinkaya-Rundel, Garrett Grolemund
 * [R for Spatial Analysis](http://www.columbia.edu/~cjd11/charles_dimaggio/DIRE/resources/spatialEpiBook.pdf) (PDF)
 * [R Language for Programmers](http://www.johndcook.com/blog/r_language_for_programmers) - John D. Cook
@@ -2500,11 +2500,11 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Smalltalk
 
-* [Deep into Pharo](http://books.pharo.org/deep-into-pharo/) - Alexandre Bergel, Damien Cassou, Stéphane Ducasse, Jannik Laval
+* [Deep into Pharo](https://books.pharo.org/deep-into-pharo/) - Alexandre Bergel, Damien Cassou, Stéphane Ducasse, Jannik Laval
 * [Dynamic Web Development with Seaside](http://book.seaside.st/book/table-of-contents) - S. Ducasse, L. Renggli, C. D. Shaffer, R. Zaccone
-* [Enterprise Pharo: a Web Perspective](http://books.pharo.org/enterprise-pharo/)
-* [Numerical Methods with Pharo](http://books.pharo.org/numerical-methods/) - Didier Besset, Stéphane Ducasse, Serge Stinckwich
-* [Pharo by Example](http://books.pharo.org/pharo-by-example/) - Andrew P. Black, et al. (Smalltalk Implementation and IDE)
+* [Enterprise Pharo: a Web Perspective](https://books.pharo.org/enterprise-pharo/)
+* [Numerical Methods with Pharo](https://books.pharo.org/numerical-methods/) - Didier Besset, Stéphane Ducasse, Serge Stinckwich
+* [Pharo by Example](https://books.pharo.org/pharo-by-example/) - Andrew P. Black, et al. (Smalltalk Implementation and IDE)
 * [Squeak by Example](https://github.com/hpi-swa-lab/SqueakByExample-english)
 * [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks.html) (meta-list)
 
@@ -2678,7 +2678,7 @@ Books on general-purpose programming that don't focus on a specific language are
 ### Unix
 
 * [An Introduction to Unix](http://www.oliverelliott.org/article/computing/tut_unix/)
-* [Beej's Guide to Unix Interprocess Communication](http://beej.us/guide/bgipc/) - Brian "Beej Jorgensen" Hall (HTML, PDF)
+* [Beej's Guide to Unix Interprocess Communication](https://beej.us/guide/bgipc/) - Brian "Beej Jorgensen" Hall (HTML, PDF)
 * [Commentary on the Sixth Edition UNIX Operating System](http://www.lemis.com/grog/Documentation/Lions/) - J. Lions
 * [INTRODUCTION TO UNIX](https://homepages.uc.edu/~thomam/Intro_Unix_Text/TOC.html) - Mark A. Thomas
 * [Unix as IDE](https://github.com/mrzool/unix-as-ide) - Tom Ryder (epub, mobi)

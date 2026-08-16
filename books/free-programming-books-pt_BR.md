@@ -127,7 +127,7 @@
 * [Algoritmos para Grafos (via Sedgewick)](https://www.ime.usp.br/~pf/algoritmos_para_grafos/) - Paulo Feofiloff (HTML)
 * [Apostila Linguagem C](http://www.ime.usp.br/~slago/slago-C.pdf) - Silvio Lago (PDF)
 * [C Completo e Total - Terceira Edição (1996)](https://www.inf.ufpr.br/lesoliveira/download/c-completo-total.pdf) - Herbert Schildt (PDF)
-* [Guia Beej's Para Programação em Rede - Usando Internet Sockets](http://beej.us/guide/bgnet/translations/bgnet_ptbr.html) - Brian "Beej Jorgensen" Hall, `trl.:` cv8minix3 (HTML)
+* [Guia Beej's Para Programação em Rede - Usando Internet Sockets](https://beej.us/guide/bgnet/translations/bgnet_ptbr.html) - Brian "Beej Jorgensen" Hall, `trl.:` cv8minix3 (HTML)
 * [Introdução a Programação](https://github.com/ufpb-computacao/introducao-a-programacao-livro/releases) - livro adotado na UFPB.
 * [Linguagem C - Notas de Aula](https://www.inf.ufpr.br/cursos/ci067/Docs/NotasAula/) - Carmem Hara, Wagner Zola (HTML, [PDF](https://www.inf.ufpr.br/cursos/ci067/Docs/NotasAula.pdf))
 * [O Fantástico Mundo da Linguagem C](https://fiorix.files.wordpress.com/2014/04/o-fantc3a1stico-mundo-da-linguagem-c.pdf) (PDF)
@@ -215,7 +215,7 @@
 * [Git - guia prático](https://rogerdudler.github.io/git-guide/index.pt_BR.html) - Roger Dudler (HTML)
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/pt_br/) - Ben Lynn, `trl.:` Leonardo Siqueira Rodrigues (HTML, PDF)
 * [Minicurso - Controle de Versão usando o Git](https://github.com/ltiaunesp/Git-Minicurso) - LTIA UNESP, Marcelo Augusto Cordeiro
-* [Pro Git](http://git-scm.com/book/pt-br/) - Scott Chacon, Ben Straub, et al. (HTML, PDF, EPUB)
+* [Pro Git](https://git-scm.com/book/pt-br/) - Scott Chacon, Ben Straub, et al. (HTML, PDF, EPUB)
 
 
 ### GO

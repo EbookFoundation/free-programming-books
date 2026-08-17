@@ -412,6 +412,7 @@
 * [Python Tutorial](https://www.w3schools.com/python) - W3Schools
 * [Python Tutorial](https://www.scaler.com/topics/python/) - Scaler Topics
 * [Python Tutorial](https://www.pythontutorial.net) - Anthony Pham (pythontutorial.net)
+* [Pythonlings](https://github.com/abhiksark/pythonlings)
 * [Scientific Computing with Python Certification](https://www.freecodecamp.org/learn/scientific-computing-with-python/) - freeCodeCamp
 
 

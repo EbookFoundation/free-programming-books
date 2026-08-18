@@ -35,6 +35,7 @@
 * [DMOJ](https://dmoj.ca)
 * [E-olymp](https://www.e-olymp.com/en/)
 * [Exercism](https://exercism.org)
+* [Frontend Coding Challenges](https://frontendatlas.com/coding) - FrontendAtlas
 * [HackerEarth](https://www.hackerearth.com)
 * [Hackerrank](https://www.hackerrank.com)
 * [Internet Problem Solving Contest](http://ipsc.ksp.sk)

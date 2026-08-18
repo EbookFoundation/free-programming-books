@@ -11,9 +11,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v7
+    - uses: actions/checkout@v4
     - name: Use Node.js
-      uses: actions/setup-node@v6
+      uses: actions/setup-node@v4
     - run: npm install -g free-programming-books-lint
 
     - name: Run linter
@@ -28,7 +28,7 @@ jobs:
           cat output.log | sed -E 's:/home/runner/work/free-programming-books/|⚠.+::' | uniq > ./pr/error.log
 
     - name: Upload artifact
-      uses: actions/upload-artifact@v7
+      uses: actions/upload-artifact@v4
       if: always()
       with:
         name: pr

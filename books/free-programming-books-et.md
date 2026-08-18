@@ -17,8 +17,6 @@
 
 ### Algoritmid ja andmestruktuurid
 
-* [Algoritmid ja andmestruktuurid (2003, Kolmas, parandatud ja täiendatud trükk)](https://dspace.ut.ee/bitstream/handle/10062/16872/9985567676.pdf) - Jüri Kiho (PDF)
-
 
 ### C
 
@@ -26,8 +24,6 @@
 
 
 ### <a id="csharp"></a>C\#
-
-* [Microsoft Visual Studio Code ja C#](https://digiarhiiv.ut.ee/Ained/Doc/VFailid/CSharp_ja_VS.pdf) - Kalle Remm (PDF)
 
 
 ### Java
@@ -76,7 +72,6 @@
 
 ### SQL
 
-* [Andmebaaside alused](https://enos.itcollege.ee/~priit/1.%20Andmebaasid/1.%20Loengumaterjalid) - Priit Raspel (HTML)
 * [SQL päringute koostamine, analüüsimine  ja optimeerimine](https://comserv.cs.ut.ee/home/files/Ivanova_Informaatika_2017.pdf?study=ATILoputoo&reference=C408CC06DE4620A985CDF60C2678C97AE45017AB) - Anastassia Ivanova (PDF)
 
 

@@ -12,6 +12,7 @@
     * [函数式概念](#函数式概念)
     * [计算机图形学](#计算机图形学)
     * [其它](#其它)
+    * [汽车电子](#汽车电子)
     * [人工智能](#人工智能)
     * [软件开发方法](#软件开发方法)
     * [设计模式](#设计模式)
@@ -187,6 +188,17 @@
 * [深入理解并行编程](http://ifeve.com/perfbook/)
 * [SAN 管理入门系列](https://community.emc.com/docs/DOC-16067)
 * [Sketch 中文手册](http://sketchcn.com/sketch-chinese-user-manual.html#introduce)
+
+
+### 汽车电子
+
+* [从沙子到车辙——一个工程师的理解](https://github.com/Lularible/from-sand-to-ruts) - Lularible
+* [存储技术书——在不可靠的硬件上构建可靠的数据家园](https://github.com/Lularible/storage-book) - Lularible
+* [功能安全——ISO 26262分析与代码实现](https://github.com/Lularible/safety-book-iso26262) - Lularible
+* [汽车嵌入式软件工程——用建筑学隐喻讲工程化](https://github.com/Lularible/swe-book) - Lularible
+* [HSM技术书——从思想实验到安全基石](https://github.com/Lularible/hsm-book) - Lularible
+* [PTP技术书——从思想实验到协议实现](https://github.com/Lularible/ptp-book) - Lularible
+* [UDS技术书——从望闻问切到UDS协议实现](https://github.com/Lularible/uds-book) - Lularible
 
 
 ### 人工智能

@@ -1,8 +1,6 @@
 ### Index
 
-* [Algoritmid ja andmestruktuurid](#algoritmid-ja-andmestruktuurid)
 * [C](#c)
-* [C#](#csharp)
 * [Java](#java)
 * [JavaScript](#javascript)
     * [AngularJS](#angularjs)
@@ -15,15 +13,9 @@
 * [WebGL](#webgl)
 
 
-### Algoritmid ja andmestruktuurid
-
-
 ### C
 
 * [Programmeerimiskeel C](https://et.wikibooks.org/wiki/Programmeerimiskeel_C) - Wikiõpikud
-
-
-### <a id="csharp"></a>C\#
 
 
 ### Java

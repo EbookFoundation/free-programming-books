@@ -128,7 +128,7 @@
 * [Coding Ninjas Guided Paths](https://www.codingninjas.com/codestudio/guided-paths/data-structures-algorithms)
 * [CSES Problem Set](https://cses.fi/problemset/)
 * [DSA Learning Series](https://www.codechef.com/LEARNDSA)
-* [Dynamic A2OJ Ladder](https://a2oj.herokuapp.com)
+* [Dynamic A2OJ Ladder](https://web.archive.org/web/20240112084915/https://a2oj.herokuapp.com/) *( :card_file_box: archived)*
 * [Edabit](https://edabit.com)
 * [Exercism](http://exercism.io)
 * [Geeks For Geeks](https://practice.geeksforgeeks.org)
@@ -143,7 +143,7 @@
 * [Mathproblem of the Month - Bilkent University](http://www.fen.bilkent.edu.tr/~cvmath/prob-month.html)
 * [NeetCode 150](https://neetcode.io/practice)
 * [PEG Judge](http://wcipeg.com)
-* [Pep Coding](https://www.pepcoding.com/resources)
+* [Pep Coding](https://www.pepcoding.com/#/resources)
 * [PKU Online Judge](http://poj.org)
 * [Ponder This!](https://www.research.ibm.com/haifa/ponderthis/index.shtml)
 * [Practice Python](https://www.practicepython.org)
@@ -153,7 +153,7 @@
 * [Rosalind](http://rosalind.info/problems/locations/)
 * [Sphere Online Judge](http://www.spoj.com/problems/classical)
 * [TalentBuddy](http://www.talentbuddy.co/blog/)
-* [The Ultimate Topic List(with Tutorials, Problems, and Templates)](https://blog.shahjalalshohag.com/topic-list/) - Shahjalal Shohag
+* [The Ultimate Topic List(with Tutorials, Problems, and Templates)](https://web.archive.org/web/20250907130641/https://blog.shahjalalshohag.com/topic-list/) - Shahjalal Shohag *( :card_file_box: archived)*
 * [Timus Online Judge](http://acm.timus.ru)
 * [Top Interview 150](https://leetcode.com/studyplan/top-interview-150/) - LeetCode
 * [Topic wise multiple choice questions in computer science](https://www.geeksforgeeks.org/quiz-corner-gq/#C%20Programming%20Mock%20Tests) - Geeks For Geeks

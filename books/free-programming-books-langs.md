@@ -1984,6 +1984,7 @@ Books on general-purpose programming that don't focus on a specific language are
 ### Python
 
 * [100 Page Python Intro](https://learnbyexample.github.io/100_page_python_intro/) - Sundeep Agarwal
+* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com) - Al Sweigart (HTML)
 * [20 Python Libraries You Aren't Using (But Should)](https://www.oreilly.com/learning/20-python-libraries-you-arent-using-but-should) - Caleb Hattingh
 * [A Beginner's Python Tutorial](https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial) - Wikibooks
 * [A Byte of Python](https://python.swaroopch.com) (3.x) (HTML, PDF, EPUB, Mobi) (CC BY-SA)

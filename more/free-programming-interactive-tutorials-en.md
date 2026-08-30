@@ -318,6 +318,7 @@
 
 #### Operating systems
 
+* [Learn Linux - Interactive Tutorial](https://devops-daily.com/games/linux-terminal) - DevOps Daily
 * [Learning operating system development using Linux kernel and Raspberry Pi](https://github.com/s-matyukevich/raspberry-pi-os) - Sergey Matyukevich *( :construction: in process)*
 * [Linux Journey - Fun and Easy](https://linuxjourney.com) - Cindy Quach
 * [Operating System Tutorial](https://www.scaler.com/topics/operating-system/) - Scaler Topics
@@ -481,6 +482,7 @@
 * [SQL at Codecademy](https://www.codecademy.com/courses/learn-sql)
 * [SQL Server Tutorial](https://www.tutlane.com/tutorial/sql-server) - tutlane
 * [SQL Teaching](https://www.sqlteaching.com)
+* [SQL Terminal Simulator](https://devops-daily.com/games/sql-terminal-simulator) - DevOps Daily
 * [SQL Tutorial](https://www.w3schools.com/sql) - W3Schools
 * [SQL Tutorial](https://www.scaler.com/topics/sql/) - Scaler Topics
 * [SQLBolt](http://sqlbolt.com)

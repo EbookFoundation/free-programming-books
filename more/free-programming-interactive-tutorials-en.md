@@ -219,6 +219,7 @@
 ### IDE and editors
 
 * [Interactive Vim Tutorial](http://www.openvim.com/tutorial.html) - Henrik Huttunen
+* [WebTerm Learn: Vim Introduction](https://learn.webterm.app/en/courses/vim-introduction) - WebTerm *(account required after the first lesson)*
 
 
 #### Bootstrap

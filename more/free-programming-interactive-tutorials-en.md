@@ -167,6 +167,7 @@
 * [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
 * [Try Git](http://try.github.io)
 * [Visualizing Git Concepts with D3](http://onlywei.github.io/explain-git-with-d3) - Wei Wang
+* [WebTerm Learn: Git Introduction](https://learn.webterm.app/en/courses/git-introduction) - WebTerm *(account required after the first lesson)*
 
 
 ### GLSL

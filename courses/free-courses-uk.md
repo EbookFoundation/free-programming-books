@@ -5,6 +5,7 @@
 * [Java](#java)
 * [PHP](#php)
 * [Python](#python)
+* [Кібербезпека](#security)
 
 
 ### Рівні
@@ -41,3 +42,8 @@ ADV - Просунутий. Тонкощі.
 * [Основи програмування на Python](https://courses.prometheus.org.ua/courses/KPI/Programming101/2015_T1/about) - Нікіта Павлюченко (email address *required*, phone number *required*)
 * [Програмування на мові Python (3.x). Початковий курс](http://web.archive.org/web/20201026152235/https://sites.google.com/site/pythonukr/vstup) *( :card_file_box: archived)*
 * [Основи програмування. Python. Частина 1 - КПІ](https://ela.kpi.ua/handle/123456789/25111) - А.В. Яковенко
+
+
+### <a id="security"></a>Кібербезпека
+
+* [Безкоштовні вправи з кібербезпеки](https://ransomleak.com/uk/learning/) - RansomLeak (BEG)

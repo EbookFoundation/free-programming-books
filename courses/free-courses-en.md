@@ -1822,6 +1822,7 @@
 * [Professor Messer’s SY0-601 CompTIA Security+ Course](https://www.professormesser.com/security-plus/sy0-601/sy0-601-video/sy0-601-comptia-security-plus-course/) - Professor Messer
 * [Reverse Engineering For Everyone!](https://0xinfection.github.io/reversing) - mytechnotalent
 * [Reverse Engineering Lessons](https://reverseengineering.vercel.app) - Reverse Engineering Academy
+* [Security Awareness and Secure Coding Labs](https://ransomleak.com/learning/) - RansomLeak
 * [Stanford Cryptography I](https://www.coursera.org/course/crypto) - Dan Boneh
 * [Start Ethical Hacking with Parrot Security OS (Alt. to Kali)](https://www.udemy.com/course/ethical-hacking-with-parrot-security-os) - Seyed Farshid Miri (Udemy)
 * [The Complete Cyber Security & Hacking Course](https://academy.ehacking.net/p/cyber-security-training-hacking-course) - INSEC-TECHS (EH Academy)

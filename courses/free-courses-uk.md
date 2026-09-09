@@ -46,4 +46,4 @@ ADV - Просунутий. Тонкощі.
 
 ### <a id="security"></a>Кібербезпека
 
-* [Безкоштовні вправи з кібербезпеки](https://ransomleak.com/uk/learning/) - RansomLeak (BEG)
+* [Безкоштовне навчання з кібербезпеки Для кожного](https://ransomleak.com/uk/learning/) - RansomLeak (BEG)

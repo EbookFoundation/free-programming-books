@@ -1809,6 +1809,7 @@
 * [Ethical Hacking for beginners: Beginner to Advance](https://www.udemy.com/course/ethical-hacking-for-beginners-beginner-to-advance) - PaceIT Academy (Udemy)
 * [Ethical hacking with Hak5 devices](https://www.udemy.com/course/ethical-hacking-with-hak5-devices) - David Bombal (Udemy)
 * [Foundations of Hacking and Pentesting Android Apps](https://www.udemy.com/course/foundations-of-hacking-and-pentesting-android-apps) - Scott Cosentino (Udemy)
+* [Free Security Awareness Training For Everyone](https://ransomleak.com/learning/) - RansomLeak
 * [Full Length Hacking Courses](https://youtube.com/playlist?list=PLLKT__MCUeixqHJ1TRqrHsEd6_EdEvo47) - The Cyber Mentor
 * [Hacker Skills // OSINT (Information Gathering)](https://www.youtube.com/playlist?list=PLIhvC56v63IJ9SYBtdDsNnORfTNFCXR8_) - NetworkChuck
 * [Introduction to Dark Web, Anonymity and Cryptocurrency](https://www.udemy.com/course/introduction-to-dark-web-anonymity-and-cryptocurrency) - Rajneesh Gupta (Udemy)
@@ -1822,7 +1823,6 @@
 * [Professor Messer’s SY0-601 CompTIA Security+ Course](https://www.professormesser.com/security-plus/sy0-601/sy0-601-video/sy0-601-comptia-security-plus-course/) - Professor Messer
 * [Reverse Engineering For Everyone!](https://0xinfection.github.io/reversing) - mytechnotalent
 * [Reverse Engineering Lessons](https://reverseengineering.vercel.app) - Reverse Engineering Academy
-* [Security Awareness and Secure Coding Labs](https://ransomleak.com/learning/) - RansomLeak
 * [Stanford Cryptography I](https://www.coursera.org/course/crypto) - Dan Boneh
 * [Start Ethical Hacking with Parrot Security OS (Alt. to Kali)](https://www.udemy.com/course/ethical-hacking-with-parrot-security-os) - Seyed Farshid Miri (Udemy)
 * [The Complete Cyber Security & Hacking Course](https://academy.ehacking.net/p/cyber-security-training-hacking-course) - INSEC-TECHS (EH Academy)

@@ -1,4 +1,4 @@
-﻿### Index
+### Index
 
 * [Ada](#ada)
 * [Android](#android)
@@ -311,6 +311,7 @@
 * [CodeCombat](http://codecombat.com) - Python, JavaScript, CoffeeScript, Clojure, Lua, Io
 * [Codility](https://codility.com/programmers/)
 * [Introduction to the Coding Interview Prep Algorithms](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms) (freeCodeCamp)
+* [Learn Blazingly Fast](https://learnblazinglyfast.tech/) - Interactive CS, Algorithm & Machine Learning Visualizations
 * [Libre Academy](https://libre.academy) - Rust, Python, JavaScript, TypeScript, Go, Zig, and 20+ more
 * [Python Tutor](http://pythontutor.com) - Python, Java, JavaScript, TypeScript, Ruby, C, C++
 * [The Fullstack Tutorial for GraphQL](https://www.howtographql.com)

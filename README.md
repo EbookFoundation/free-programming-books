@@ -232,6 +232,7 @@ Volunteers have translated many of our Contributing, How-to, and Code of Conduct
 
 You might notice that there are [some missing translations here](docs/README.md#translations) - perhaps you would like to help out by [contributing a translation](docs/CONTRIBUTING.md#help-out-by-contributing-a-translation)?
 
+[Salik Hussain](https://github.com/salikhussain71-code) - Pakistan
 
 ## License
 

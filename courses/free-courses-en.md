@@ -375,6 +375,7 @@
 
 
 ### C
+
 * [A1Lab C Tutorial](https://a1lab.tech/c/introduction) - Muhammad Ahmad
 * [C Language Tutorial for Beginners (With Notes)](https://www.youtube.com/watch?v=_MF8L7ZxwRE) - ProgrammingWithHarry
 * [C Language Tutorial Videos](https://www.youtube.com/playlist?list=PLVlQHNRLflP8IGz6OXwlV_lgHgc72aXlh) - Naresh i Technologies
@@ -644,6 +645,7 @@
 
 
 #### SQL
+
 * [A1Lab SQL Tutorial](https://a1lab.tech/sql/introduction) - Muhammad Ahmad
 * [CS50’s Introduction to Databases with SQL](https://cs50.harvard.edu/sql/2023/) - Carter Zenke, David J. Malan (Harvard OpenCourseWare and edX)
 * [Getting Started with SQL for Application Developers](https://university.cockroachlabs.com/courses/course-v1:crl+getting-started-with-sql-for-app-devs+self-paced/about) - Wade Waldron (Cockroach Labs Inc.) *(email address required)*
@@ -1592,6 +1594,7 @@
 
 
 ### Python
+
 * [An Introduction to Interactive Programming in Python (Part 1)](https://www.coursera.org/learn/interactive-python-1) (Coursera)
 * [An Introduction to Interactive Programming in Python (Part 2)](https://www.coursera.org/learn/interactive-python-2) (Coursera)
 * [Automate with Python - Full course for Beginners](https://www.youtube.com/watch?v=PXMJ6FS7llk) - FreeCodeCamp

@@ -418,8 +418,8 @@
 ### <a id="cpp"></a>C++
 
 * [Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) - Abdul Bari
-* [An Introduction to C++ Programming](https://www.udemy.com/course/an-introduction-to-cpp-programming/) - (Udemy)
 * [A1Lab C++ Tutorial](https://a1lab.tech/cpp/introduction) - Muhammad Ahmad
+* [An Introduction to C++ Programming](https://www.udemy.com/course/an-introduction-to-cpp-programming/) - (Udemy)
 * [C++](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) - The Cherno
 * [C++ Compilation, Linking, and Makefiles](https://www.youtube.com/playlist?list=PLNUvpxaaFJ_i6BYqbxTVeK5AOcFzQbboQ) - Amy Larson
 * [C++ For Programmers](https://www.udacity.com/course/c-for-programmers--ud210) - Catherine Gamboa (Udacity)
@@ -1053,8 +1053,8 @@
 
 * [30 Days, 30 JavaScript Projects For Beginners to Practice](https://youtube.com/playlist?list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9&si=fofo8k2c5sjQPOKq) - GreatStack
 * [30 Days of JavaScript](https://leetcode.com/studyplan/30-days-of-javascript/) - LeetCode
-* [Asynchronous Programming: The End of The Loop](https://egghead.io/courses/asynchronous-programming-the-end-of-the-loop) - Jafar Husain
 * [A1Lab JavaScript Tutorial](https://a1lab.tech/javascript/introduction) - Muhammad Ahmad
+* [Asynchronous Programming: The End of The Loop](https://egghead.io/courses/asynchronous-programming-the-end-of-the-loop) - Jafar Husain
 * [Beginner's Series to: JavaScript](https://www.youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2) - Microsoft Developer
 * [Bento JavaScript Learning Track](https://bento.io/topic/javascript) (Bento)
 * [Bun JS Tutorials for Beginners](https://www.youtube.com/playlist?list=PLT8tjCYKynKsXBrCf7KiQ6Y-6U304DjXT) - TechWebDocs
@@ -1595,10 +1595,10 @@
 
 ### Python
 
+* [A1Lab Python Tutorial](https://a1lab.tech/python/introduction) - Muhammad Ahmad
 * [An Introduction to Interactive Programming in Python (Part 1)](https://www.coursera.org/learn/interactive-python-1) (Coursera)
 * [An Introduction to Interactive Programming in Python (Part 2)](https://www.coursera.org/learn/interactive-python-2) (Coursera)
 * [Automate with Python - Full course for Beginners](https://www.youtube.com/watch?v=PXMJ6FS7llk) - FreeCodeCamp
-* [A1Lab Python Tutorial](https://a1lab.tech/python/introduction) - Muhammad Ahmad
 * [Bento Python Learning Track](https://bento.io/topic/python) (Bento)
 * [Berkeley's Structure and Interpretation of Computer Programs](https://cs61a.org)
 * [Codesdope](https://www.codesdope.com/python-introduction)

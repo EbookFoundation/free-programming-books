@@ -46,7 +46,9 @@ jobs:
         with:
           separator: " "
           json: true
-      - id: set-files
+      # Keep a single step id so job outputs (files / files-len) stay unchanged.
+      - name: Set changed-files outputs
+        id: set-files
         run: |
           echo "${{ steps.changed-files.outputs.all_changed_files }}"  \
             | jq --raw-output '. | join(" ")'  \
@@ -56,7 +58,8 @@ jobs:
             | jq --raw-output '. | length'  \
             | sed -e 's/^/files-len=/'  \
             >> $GITHUB_OUTPUT
-      - id: set-matrix
+      - name: Build check-urls matrix
+        id: set-matrix
         run: |
           echo "{\"file\":${{ steps.changed-files.outputs.all_changed_files }}}"  \
             | sed -e 's/^/matrix=/'  \

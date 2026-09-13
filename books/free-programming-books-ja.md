@@ -622,7 +622,7 @@
 
 * [Ruby on Rails ガイド](https://railsguides.jp) - Rails community, `trl:` 八田 昌三, `trl:` 安川 要平
 * [Ruby on Rails チュートリアル](https://railstutorial.jp) - Michael Hartl, `trl:` 八田 昌三, `trl:` 安川 要平
-* [Ruby ソースコード完全解説](https://i.loveruby.net/ja/rhg/book) - 青木峰郎
+* [Ruby ソースコード完全解説](https://i.loveruby.net/ja/rhg/book/) - 青木峰郎
 * [Ruby リファレンスマニュアル](https://www.ruby-lang.org/ja/documentation) - まつもとゆきひろ
 * [Ruby 基礎文法最速マスター](https://route477.net/d/?date=20100125) - yhara
 * [TremaでOpenFlowプログラミング](https://yasuhito.github.io/trema-book) - 高宮安仁, 鈴木一哉, 松井暢之, 村木暢哉, 山崎泰宏

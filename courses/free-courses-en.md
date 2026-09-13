@@ -375,7 +375,7 @@
 
 
 ### C
-
+* [A1Lab C Tutorial](https://a1lab.tech/c/introduction) - Muhammad Ahmad
 * [C Language Tutorial for Beginners (With Notes)](https://www.youtube.com/watch?v=_MF8L7ZxwRE) - ProgrammingWithHarry
 * [C Language Tutorial Videos](https://www.youtube.com/playlist?list=PLVlQHNRLflP8IGz6OXwlV_lgHgc72aXlh) - Naresh i Technologies
 * [C Programming](https://www.youtube.com/playlist?list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR) - Jaspreet Singh (Neso Academy)
@@ -391,6 +391,7 @@
 * [Learn C Programming](https://www.programiz.com/c-programming) - Programiz (HTML)
 * [Programming in C](https://www.youtube.com/playlist?list=PLdo5W4Nhv31a8UcMN9-35ghv8qyFWD9_S) - Jenny's lectures CS/IT NET&JRF
 * [The Arduino Platform and C Programming](https://www.coursera.org/learn/arduino-platform) - Ian Harris (Coursera)
+  
 
 
 ### <a id="csharp"></a>C\#
@@ -416,6 +417,7 @@
 ### <a id="cpp"></a>C++
 
 * [Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O) - Abdul Bari
+* [A1Lab C++ Tutorial](https://a1lab.tech/cpp/introduction) - Muhammad Ahmad
 * [An Introduction to C++ Programming](https://www.udemy.com/course/an-introduction-to-cpp-programming/) - (Udemy)
 * [C++](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) - The Cherno
 * [C++ Compilation, Linking, and Makefiles](https://www.youtube.com/playlist?list=PLNUvpxaaFJ_i6BYqbxTVeK5AOcFzQbboQ) - Amy Larson
@@ -642,7 +644,7 @@
 
 
 #### SQL
-
+* [A1Lab SQL Tutorial](https://a1lab.tech/sql/introduction) - Muhammad Ahmad
 * [CS50’s Introduction to Databases with SQL](https://cs50.harvard.edu/sql/2023/) - Carter Zenke, David J. Malan (Harvard OpenCourseWare and edX)
 * [Getting Started with SQL for Application Developers](https://university.cockroachlabs.com/courses/course-v1:crl+getting-started-with-sql-for-app-devs+self-paced/about) - Wade Waldron (Cockroach Labs Inc.) *(email address required)*
 * [Introduction to Database Queries](https://www.edx.org/course/introduction-to-database-queries) - Aspen Olmsted (edX New York University)
@@ -1049,6 +1051,7 @@
 
 * [30 Days, 30 JavaScript Projects For Beginners to Practice](https://youtube.com/playlist?list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9&si=fofo8k2c5sjQPOKq) - GreatStack
 * [30 Days of JavaScript](https://leetcode.com/studyplan/30-days-of-javascript/) - LeetCode
+* [A1Lab JavaScript Tutorial](https://a1lab.tech/javascript/introduction) - Muhammad Ahmad
 * [Asynchronous Programming: The End of The Loop](https://egghead.io/courses/asynchronous-programming-the-end-of-the-loop) - Jafar Husain
 * [Beginner's Series to: JavaScript](https://www.youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2) - Microsoft Developer
 * [Bento JavaScript Learning Track](https://bento.io/topic/javascript) (Bento)
@@ -1589,7 +1592,7 @@
 
 
 ### Python
-
+* [A1Lab Python Tutorial](https://a1lab.tech/python/introduction) - Muhammad Ahmad
 * [An Introduction to Interactive Programming in Python (Part 1)](https://www.coursera.org/learn/interactive-python-1) (Coursera)
 * [An Introduction to Interactive Programming in Python (Part 2)](https://www.coursera.org/learn/interactive-python-2) (Coursera)
 * [Automate with Python - Full course for Beginners](https://www.youtube.com/watch?v=PXMJ6FS7llk) - FreeCodeCamp

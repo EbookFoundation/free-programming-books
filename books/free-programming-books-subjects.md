@@ -571,7 +571,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Plane Geometry (1913)](http://djm.cc/library/Plane_Geometry_Wentworth_Smith_edited.pdf) - George Wentworth, David Eugene Smith (PDF)
 * [Planes and Spherical Trigonometry (1915)](http://djm.cc/library/Plane_Spherical_Trigonometry_Wentworth_Smith_edited_2.pdf) - George Wentworth, David Eugene Smith (PDF)
 * [Probability and Statistics Cookbook](http://statistics.zone)
-* [Probability and Statistics EBook](http://wiki.stat.ucla.edu/socr/index.php/Probability_and_statistics_EBook)
+* [Probability and Statistics EBook](https://wiki.socr.umich.edu/index.php/Probability_and_statistics_EBook)
 * [Probability: Lectures and Labs](https://www.markhuberdatascience.org/probability-textbook) - Mark Huber
 * [Proofs and Types](https://www.paultaylor.eu/stable/Proofs+Types) - Jean-Yves Girard, Yves Lafont, Paul Taylor
 * [Recreations in Math](http://djm.cc/library/Recreations_in_Mathematics_Licks_edited.pdf) - H. E. Licks (PDF)

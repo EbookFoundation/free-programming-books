@@ -23,9 +23,12 @@
 ### HTML and CSS
 
 * [HTML](http://tutorialehtml.com/ro/introducere-in-html/)
+  
 
 ### LINUX
+
 * [Utilizarea Sistemelor de Operare - USO](https://github.com/systems-cs-pub-ro/carte-uso/releases/tag/uso-ed1-2021)
+  
 
 ### MySQL
 

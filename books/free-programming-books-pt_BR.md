@@ -432,7 +432,7 @@
 * [Python para Desenvolvedores](https://ark4n.files.wordpress.com/2010/01/python_para_desenvolvedores_2ed.pdf) (PDF)
 * [Python para Matemáticos](https://sbm.org.br/wp-content/uploads/2023/09/Minicurso_Python_final2.pdf) - Andréa Lins, Lins Souza (PDF)
 * [Tutorial Django Girls](http://tutorial.djangogirls.org/pt/)
-
+* [Introdução a Python - Edit. IFNR](https://memoria.ifrn.edu.br/bitstream/handle/1044/2090/EBOOK%20-%20INTRODU%C3%87%C3%83O%20A%20PYTHON%20(EDITORA%20IFRN).pdf) - Fábio Augusto, João Maria, Rodrigo Siqueira, Givanaldo Rocha (PDF)
 
 #### Django
 

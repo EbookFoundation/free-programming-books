@@ -15,13 +15,13 @@
 
 1. 仅仅因为链接“促进下载书籍”并不意味着它指向“免费”书籍。 请仅提供免费内容的链接。 确保您分享的书籍是免费的。 我们不接受“需要”有效电子邮件地址才能访问书籍的链接，但我们欢迎列出这些资源。
 
-2. 您不需要熟悉 Git：如果您发现一些有趣的东西*尚未包含在此存储库中*，请打开一个[问题](https://github.com/EbookFoundation/free-programming-books/issues）开始讨论相关主题。
+2. 您不需要熟悉 Git：如果您发现一些有趣的东西*尚未包含在此存储库中*，请打开一个[问题](https://github.com/EbookFoundation/free-programming-books/issues)开始讨论相关主题。
     * 如果你已经知晓Git，请Fork本仓库并提交Pull Request (PR)。
 
 3. 这里有6种列表，请选择正确的一个：
 
     * *Books* ：PDF、HTML、ePub、基于一个 gitbook.io的站点、一个Git仓库等等。
-    * *Courses* ：课程是一种学习材料，而不是一本书 [This is a course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)。
+    * *Courses* ：课程是一种学习材料，而不是一本书。[这是一个课程](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/)。
     * *Interactive Tutorials* ：一个交互式网站，它允许用户输入代码或命令并对结果进行评估。例如：[Try Haskell](http://tryhaskell.org)，[Try GitHub](http://try.github.io)。
     * *Playgrounds* : Playgrounds 可能是学习编程的在线交互式网站、游戏或桌面软件。你可以在上面编写、编译、运行或分享代码片段。Playgrounds 通常允许你 fork 代码然后在其中尽情的编写代码。
     * *Podcasts and Screencasts* ：播客和视频。
@@ -52,7 +52,7 @@
 
 * 请确保您提交的每本书确实是免费的。 如果需要，请仔细检查其状态。 如果您可以在 PR 中解释为什么您认为这本书是免费的，这对管理员会有帮助。
 * 我们不接受存储在Google Drive、Dropbox、Mega、Scribd、Issuu和其他类似文件上传平台上的文件。
-* 请按照字母顺序插入链接, as described [below](#alphabetical-order).
+* 请按照下文 [按字母顺序](#alphabetical-order) 的说明按字母顺序插入链接。
 * 使用最权威来源的链接(意思是原作者的网站比编辑的网站好，比第三方网站好)。
     * 没有文件托管服务(包括(但不限于)Dropbox和谷歌驱动器链接)。
 * 优先选择使用 `https` 链接，而不是 `http` 链接 -- 只要它们位于相同的域并提供相同的内容。
@@ -72,7 +72,7 @@
 * 如果一本书比较旧，请在书名中注明出版日期。
 * 包含作者的名字或适当的名字。中文版本可以用 “`等`” (“`et al.`”) 缩短作者列表。
 * 如果一本书还没有完成，并且仍在编写中，则需添加 “`in process`” 符号，参见[下文](#in_process)所述。
-- if a resource is restored using the [*Internet Archive's Wayback Machine*](https://web.archive.org) (or similar), add the "`archived`" notation, as described [below](#archived). The best versions to use are recent and complete.
+* 如果某个资源是通过 [*Internet Archive 的 Wayback Machine*](https://web.archive.org)（或类似服务）恢复的，请按下文 [Archived link](#archived) 的说明添加 "`archived`" 标记；优先使用较新且完整的版本。
 * 如果在开始下载之前需要电子邮件地址或帐户设置，请在括号中添加合适的语言描述，例如：`(*需要*电子邮件，但不是必须的)`。
 
 
@@ -172,6 +172,54 @@
     ```text
     正确: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *( :card_file_box: archived)*
     ```
+
+<a id="license"></a>
+
+### 免费许可证
+
+（虽然我们会收录那些“保留所有权利”但可免费阅读的资源，但我们鼓励使用自由许可证，例如 Creative Commons。）
+
+```text
+正确：* [一本很棒的书](https://example.org/book.pdf) - Jane Roe (PDF) (CC BY-SA)
+```
+
+支持的许可证（不区分版本）：
+
+- `CC BY`：Creative Commons 署名
+- `CC BY-NC`：Creative Commons 署名-非商业性使用
+- `CC BY-SA`：Creative Commons 署名-相同方式共享
+- `CC BY-NC-SA`：Creative Commons 署名-非商业性使用-相同方式共享
+- `CC BY-ND`：Creative Commons 署名-禁止演绎
+- `CC BY-NC-ND`：Creative Commons 署名-非商业性使用-禁止演绎
+- `GFDL`：GNU 自由文档许可证
+
+#### 添加许可证说明（逐步）
+
+当资源使用自由/开放许可证发布时，请在格式说明之后用括号添加简短的许可证说明。步骤如下：
+
+1. 在资源页面确认许可证。
+   - 查看网站页脚、“关于”页面，或 LICENSE/Legal 部分。
+   - 只为自由/开放内容许可证添加说明（见上方支持列表）。不要添加类似“保留所有权利”的说明。
+2. 将许可证字符串规范化为支持的短代码，且不带版本号。
+   - 例如：“Creative Commons Attribution 4.0” -> `CC BY`；“CC BY-SA 3.0” -> `CC BY-SA`；“GNU Free Documentation License” -> `GFDL`。
+3. 将许可证放在格式说明之后、其他任何备注之前。
+   - 单一格式：
+
+     ```markdown
+     * [一本很棒的书](https://example.org/book.pdf) - Jane Roe (PDF) (CC BY-SA)
+     ```
+   - 多种格式：
+
+     ```markdown
+     * [一本很棒的指南](https://example.org/) - Jane Roe (HTML, PDF) (CC BY)
+     ```
+   - 带附加备注（例如 archived 或 in process）：
+
+     ```markdown
+     * [老而经典](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) (CC BY) *( :card_file_box: archived)*
+     ```
+4. 如果不同版本或格式的许可证不同，请将它们列为单独条目，并为每个条目标注正确的许可证。
+5. 如果你不确定，请在 PR 中说明你为何认为该资源使用自由许可证，以及你是在哪里找到该信息的。
 
 ### 按字母顺序
 
@@ -280,11 +328,11 @@
 
 ### 自动化
 
-- 格式化规则的执行是通过以下方式自动执行的 [GitHub Actions](https://github.com/features/actions) 用 [fpb-lint](https://github.com/vhf/free-programming-books-lint) (参见 [`.github/workflows/fpb-lint.yml`](../.github/workflows/fpb-lint.yml))
+- 格式化规则检查通过 [GitHub Actions](https://github.com/features/actions) 使用 [fpb-lint](https://github.com/vhf/free-programming-books-lint) 自动执行（参见 [`.github/workflows/fpb-lint.yml`](../.github/workflows/fpb-lint.yml)）。
 - URL 验证使用 [awesome_bot](https://github.com/dkhamsing/awesome_bot)
 - 要触发 URL 验证，请推送包含以下内容的 commit message 的提交 `check_urls=file_to_check`:
 
-    ```特性
+    ```properties
     check_urls=free-programming-books.md free-programming-books-zh.md
     ```
     

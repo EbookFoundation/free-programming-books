@@ -267,7 +267,6 @@
 * [Spring Boot, Hibernate, REST, Ionic, JWT, S3, MySQL, MongoDB e mais](https://www.youtube.com/playlist?list=PLNuUvBZGBA8mcAIqhCCnTkDQbFITKZU-k) - Nélio Alves (YouTube playlist)
 
 
-
 ### JavaScript
 
 * [Eloquente JavaScript](https://github.com/braziljs/eloquente-javascript)

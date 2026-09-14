@@ -264,6 +264,8 @@
 * [Programação em JAVA](https://www.faeterj-rio.edu.br/downloads/bbv/0031.pdf) - Daniela Barreiro Claro, João Bosco Mangueira Sobral (PDF)
 * [Programação Orientada a Objetos: Uma Abordagem com Java](https://www.dca.fee.unicamp.br/cursos/PooJava/Aulas/poojava.pdf) - Ivan Luiz Marques Ricarte (PDF)
 * [Programação para iniciantes](https://s3.amazonaws.com/algaworks-assets/ebooks/algaworks-livro-programacao-para-iniciantes-v1.1.pdf) Alexandre Afonso (PDF)
+* [Spring Boot, Hibernate, REST, Ionic, JWT, S3, MySQL, MongoDB e mais](https://www.youtube.com/playlist?list=PLNuUvBZGBA8mcAIqhCCnTkDQbFITKZU-k) - Nélio Alves (YouTube playlist)
+
 
 
 ### JavaScript

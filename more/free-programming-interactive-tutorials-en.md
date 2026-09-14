@@ -243,8 +243,8 @@
 ### JavaScript
 
 * [ABC of JavaScript : An Interactive JavaScript Tutorial](http://www.openjs.com/tutorials/basic_tutorial/)
-* [Codecademy jquery track](https://www.codecademy.com/learn/jquery)
 * [JavaScript Introduction](https://a1lab.tech/javascript/introduction) - A1Lab
+* [Codecademy jquery track](https://www.codecademy.com/learn/jquery)
 * [Functional Programming in Javascript](https://github.com/ReactiveX/learnrx)
 * [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) - freeCodeCamp
 * [JavaScript in 14 minutes](https://jgthms.com/javascript-in-14-minutes/) - Jeremy Thomas
@@ -481,9 +481,9 @@
 ### SQL
 
 * [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql) - Khan Academy
+* [SQL Introduction](https://a1lab.tech/sql/introduction) - A1Lab
 * [MySQL Tutorial](https://www.w3schools.com/MySQL/) - W3Schools
 * [MySQL Tutorial](https://www.mysqltutorial.org) - Anthony Pham (mysqltutorial.org)
-* [SQL Introduction](https://a1lab.tech/sql/introduction) - A1Lab
 * [Select Star SQL](https://selectstarsql.com) - Zi Chong Kao (CC BY-SA)
 * [SQL at Codecademy](https://www.codecademy.com/courses/learn-sql)
 * [SQL Server Tutorial](https://www.tutlane.com/tutorial/sql-server) - tutlane

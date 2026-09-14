@@ -248,9 +248,9 @@
 * [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) - freeCodeCamp
 * [JavaScript in 14 minutes](https://jgthms.com/javascript-in-14-minutes/) - Jeremy Thomas
 * [JavaScript interactive tutorial on CodeCademy](https://www.codecademy.com/learn/javascript)
-* [JavaScript Introduction](https://a1lab.tech/javascript/introduction) - A1Lab
 * [JavaScript interactive tutorial on CoderMania](http://www.codermania.com/javascript/lesson/1a/hello-world)
 * [JavaScript Tutorial](https://www.w3schools.com/js) - W3Schools
+* [JavaScript Introduction](https://a1lab.tech/javascript/introduction) - A1Lab
 * [JavaScript Tutorial](https://www.scaler.com/topics/javascript/) - Scaler Topics
 * [JavaScript Tutorial and Overview](https://www.afterhoursprogramming.com/tutorial/javascript/) - After Hours Programming
 * [Javascripting](https://github.com/workshopper/javascripting)

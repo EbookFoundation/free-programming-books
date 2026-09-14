@@ -74,6 +74,7 @@
 
 ### C
 
+* [C Introduction](https://a1lab.tech/c/introduction) - A1Lab
 * [C Tutorial](https://www.w3schools.com/c/) - W3Schools
 
 
@@ -97,6 +98,7 @@
 
 ### <a id="cpp"></a>C++
 
+* [C++ Introduction](https://a1lab.tech/cpp/introduction) - A1Lab
 * [C++ Programming Language](https://www.geeksforgeeks.org/c-plus-plus/) - GeeksforGeeks
 * [C++ Tutorial](https://www.w3schools.com/cpp) - W3Schools
 * [C++ Tutorial](https://www.scaler.com/topics/cpp/) - Scaler Topics
@@ -244,6 +246,7 @@
 * [Codecademy jquery track](https://www.codecademy.com/learn/jquery)
 * [Functional Programming in Javascript](https://github.com/ReactiveX/learnrx)
 * [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) - freeCodeCamp
+* [JavaScript Introduction](https://a1lab.tech/javascript/introduction) - A1Lab
 * [JavaScript in 14 minutes](https://jgthms.com/javascript-in-14-minutes/) - Jeremy Thomas
 * [JavaScript interactive tutorial on CodeCademy](https://www.codecademy.com/learn/javascript)
 * [JavaScript interactive tutorial on CoderMania](http://www.codermania.com/javascript/lesson/1a/hello-world)
@@ -406,6 +409,7 @@
 * [Learn Python](http://www.learnpython.org)
 * [Learn Python Step by Step](http://www.techbeamers.com/python-tutorial-step-by-step)
 * [Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python) - FreeCodeCamp
+* [Python Introduction](https://a1lab.tech/python/introduction) - A1Lab
 * [Python for Everybody - Interactive](https://runestone.academy/runestone/books/published/py4e-int/index.html) - Barbara Ericson
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
 * [Python Pandas Tutorial: A Complete Introduction for Beginners](https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/) - George McIntire, Brendan Martin, Lauren Washington
@@ -477,6 +481,7 @@
 ### SQL
 
 * [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql) - Khan Academy
+* [SQL Introduction](https://a1lab.tech/sql/introduction) - A1Lab
 * [MySQL Tutorial](https://www.w3schools.com/MySQL/) - W3Schools
 * [MySQL Tutorial](https://www.mysqltutorial.org) - Anthony Pham (mysqltutorial.org)
 * [Select Star SQL](https://selectstarsql.com) - Zi Chong Kao (CC BY-SA)

@@ -1298,6 +1298,7 @@
 ### TypeScript
 
 * [Beginner's Typescript](https://www.totaltypescript.com/tutorials/beginners-typescript) - Matt Pocock
+* [Build a REST API with Express and TypeScript](https://freecodingcourses.com/tutorials/build-rest-api-express-typescript) - (FreeCodingCourses.com)
 * [ES6 and Typescript Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV) - Codevolution, Vishwas Gopinath
 * [Introduction to TypeScript](https://www.udemy.com/typescript/) - Daniel Stern (Udemy)
 * [Learn TypeScript](https://www.codecademy.com/learn/learn-typescript) - (CodeAcademy)

@@ -175,6 +175,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [The Last Mile](https://hallieren.github.io/the-last-mile/) - Hallie Ren (HTML, EPUB) (CC BY-NC-SA)
 * [The Math Behind Artificial Intelligence: A Guide to AI Foundations](https://www.freecodecamp.org/news/the-math-behind-artificial-intelligence-book) - Tiago Monteiro (HTML)
 * [The Quest for Artificial Intelligence: A History of Ideas and Achievements](https://ai.stanford.edu/~nilsson/QAI/qai.pdf) - Nils J. Nilsson (PDF)
+* [Understanding Modern LLM Systems: A Field Guide to RAG, Agents, and Beyond](https://llmknowledge.pages.dev) - koe (HTML)
 
 
 ### Blockchain

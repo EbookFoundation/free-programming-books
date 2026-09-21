@@ -195,6 +195,7 @@
 * [动手实战人工智能](https://aibydoing.com) - huhuhang
 * [动手学强化学习](https://hrl.boyuai.com) - 张伟楠、沈键、俞勇
 * [动手学深度学习](https://zh.d2l.ai) - 阿斯顿·张、李沐、扎卡里·C·立顿、亚历山大·J·斯莫拉
+* [理解现代大语言模型系统-从RAG到全景](https://llmknowledge.pages.dev/zh/) - koe
 * [南瓜书PumpkinBook](https://datawhalechina.github.io/pumpkin-book) - Datawhale
 * [深度学习500问](https://github.com/scutan90/DeepLearning-500-questions) - scutan90
 * [神经网络与深度学习](https://nndl.github.io) - 邱锡鹏

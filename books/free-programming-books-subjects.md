@@ -382,6 +382,8 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Ray Tracing Gems](https://www.realtimerendering.com/raytracinggems/rtg/index.html) - Eric Haines, Tomas Akenine-Möller
 * [Ray Tracing Gems II](https://www.realtimerendering.com/raytracinggems/rtg2/index.html) - Adam Marrs, Peter Shirley, Ingo Wald
 * [Ray Tracing in One Weekend](https://raytracing.github.io) - Peter Shirley (HTML)
+* [Ray Tracing: The Next Week](https://raytracing.github.io/books/RayTracingTheNextWeek.html) - Peter Shirley, Trevor David Black, Steve Hollasch (HTML)
+* [Ray Tracing: The Rest of Your Life](https://raytracing.github.io/books/RayTracingTheRestOfYourLife.html) - Peter Shirley, Trevor David Black, Steve Hollasch (HTML)
 * [ShaderX series](https://www.realtimerendering.com/resources/shaderx/) - Wolfgang Engel
 * [Tutorials for modern OpenGL](https://www.opengl-tutorial.org)
 * [Virtual Reality](http://lavalle.pl/vr/) - Steven M. LaValle

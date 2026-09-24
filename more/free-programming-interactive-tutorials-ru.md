@@ -45,3 +45,4 @@
 
 * [Тренажёр SQL](https://koddo.ru/trainers/sql) - Koddo (19 задач с автопроверкой в браузере, без регистрации)
 * [SQL упражнения](https://www.sql-ex.ru/?Lang=0)
+* [SQL-детектив](https://koddo.ru/games/sql-detective) - Koddo (браузерная игра-расследование: 7 запросов к 8 таблицам PostgreSQL, без регистрации)

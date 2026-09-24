@@ -82,7 +82,6 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [O'Reilly's Open Books Project](https://www.oreilly.com/openbook/)
 * [Papers we love](https://github.com/papers-we-love/papers-we-love)
 * [Red Gate Books](https://www.red-gate.com/hub/books/)
-* [Rip Tutorials](https://riptutorial.com/ebook)
 * [Stef's Free Online Smalltalk Books](http://stephane.ducasse.free.fr/FreeBooks/)
 * [TechBeamers.com](https://www.techbeamers.com)
 * [TechBooksForFree.com](https://www.techbooksforfree.com)

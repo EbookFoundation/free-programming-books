@@ -1440,6 +1440,7 @@
 * [Made with ML](https://madewithml.com) - Goku Mohandas (Applied ML · MLOps · Production)
 * [Mathematics for Machine Learning - Linear Algebra](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3) - Imperial College London, Dr David Dye, Dr Sam Cooper
 * [Mathematics for Machine Learning - Multivariate Calclus](https://www.youtube.com/playlist?list=PLiiljHvN6z193BBzS0Ln8NnqQmzimTW23) - Imperial College London, Dr David Dye, Dr Sam Cooper
+* [ML Academy](https://mltraining.org) - Cagri Temel
 * [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book)
 * [Python Machine Learning and AI Mega Course - Learn 4 Different Areas of ML & AI](https://www.youtube.com/watch?v=WFr2WgN9_xE) - Tech With Tim (Tim Ruscica)
 * [Python Machine Learning Tutorials](https://www.youtube.com/playlist?list=PLzMcBGfZo4-mP7qA9cagf68V06sko5otr) - Tech With Tim (Tim Ruscica)

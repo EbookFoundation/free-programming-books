@@ -38,7 +38,6 @@
 
 ### Android
 
-* [Android Dersleri](https://web.archive.org/web/20200116064249/http://umiitkose.com/android/) - Ümit Köse *( :card_file_box: archived)*
 * [Android Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/android)
 * [Android Türkçe PDF](https://web.archive.org/web/20191101104413/http://umiitkose.com/wp-content/uploads/2015/08/AndroidStudio.pdf) - Ümit Köse (PDF) *( :card_file_box: archived)*
 

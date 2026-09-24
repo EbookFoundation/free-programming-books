@@ -1742,6 +1742,7 @@
 * [Introduction to RTOS](https://www.youtube.com/playlist?list=PLEBQazB0HUyQ4hAPU1cJED6t3DU0h34bz) - Shawn Hymel, Digi-Key
 * [Leveraging ROS 2 and Hardware-in-the-Loop (HIL) in Isaac Sim](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-32+V1) - NVIDIA Deep Learning Institute
 * [Robotics 1](https://www.youtube.com/playlist?list=PLAQopGWlIcyaqDBW1zSKx7lHfVcOmWSWt) - A. De Luca
+* [Robotics, from scratch](https://robotics.biblio.guru) - Kiran Pachhai
 * [Software-in-the-Loop Testing for Robots With OpenUSD, Isaac Sim, and ROS](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-39+V1) - NVIDIA Deep Learning Institute
 * [Synthetic Data Generation for Perception Model Training in Isaac Sim](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-30+V1) - NVIDIA Deep Learning Institute
 * [Train Your First Robot in Isaac Lab](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-46+V1) - NVIDIA Deep Learning Institute

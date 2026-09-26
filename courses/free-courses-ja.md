@@ -17,4 +17,6 @@
 
 ### 人工知能
 
+* [AIエージェントをゼロから作る](https://aiolaola.com/ja/course/agents) - aiOlaOla (アカウントが*必要*)
+* [AIプログラミングを、ゼロから](https://aiolaola.com/ja/course) - aiOlaOla (アカウントが*必要*)
 * [初心者向け 生成 AI .NET コース](https://github.com/microsoft/Generative-AI-for-beginners-dotnet/tree/main/translations/ja) - Microsoft (GitHub)

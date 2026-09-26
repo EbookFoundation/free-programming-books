@@ -85,6 +85,7 @@
 ### Artificial Intelligence
 
 * [Generative AI tutorial](https://www.geeksforgeeks.org/artificial-intelligence/generative-ai-tutorial/) - GeeksforGeeks
+* [ML Academy](https://mltraining.org) - Cagri Temel
 
 
 ### <a id="csharp"></a>C#

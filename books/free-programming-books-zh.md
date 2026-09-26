@@ -201,6 +201,7 @@
 * [神经网络与深度学习](https://nndl.github.io) - 邱锡鹏
 * [游戏策划实务即用的 AI · Claude Code 活用法](https://github.com/eremes81/game-design-ai-practice-zh-hans) - 李旼洙
 * [遊戲策劃實務即用的 AI · Claude Code 活用法](https://github.com/eremes81/game-design-ai-practice-zh-hant) - 李旼洙
+* [LangChain 中文入门教程](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide) - liaokongVFX
 
 
 ### 软件开发方法

@@ -105,6 +105,8 @@
 ### Generative AI
 
 * [초보자를 위한 Generative AI .NET - 강좌](https://github.com/microsoft/Generative-AI-for-beginners-dotnet/tree/main/translations/ko) - Microsoft (GitHub)
+* [AI 에이전트 만들기](https://aiolaola.com/ko/course/agents) - aiOlaOla *(계정 필요)*
+* [AI 코딩을 0부터](https://aiolaola.com/ko/course) - aiOlaOla *(계정 필요)*
 
 
 ### Git

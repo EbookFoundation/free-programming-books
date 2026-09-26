@@ -118,6 +118,8 @@
 
 ### Inteligencia Artificial
 
+* [Aprende a programar con IA, desde cero](https://aiolaola.com/es/course) - aiOlaOla *(se requiere una cuenta)*
+* [Construye agentes de IA, desde cero](https://aiolaola.com/es/course/agents) - aiOlaOla *(se requiere una cuenta)*
 * [Generative AI para Principiantes .NET - Un Curso](https://github.com/microsoft/Generative-AI-for-beginners-dotnet/tree/main/translations/es) - Microsoft (GitHub)
 
 

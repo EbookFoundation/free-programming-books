@@ -291,6 +291,7 @@
 #### Generative AI
 
 * [AI Agents for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHgKcRjd5-8DT9TbwdlDO-OC) - Microsoft Developer
+* [Build AI Agents, from zero](https://aiolaola.com/en/course/agents) - aiOlaOla *(account required)*
 * [CS236: Deep Generative Models](https://www.youtube.com/playlist?list=PLoROMvodv4rPOWA-omMM6STXaWW4FvJT8) - Stefano Ermon (Stanford Online)
 * [Deep Generative Models](https://www.youtube.com/playlist?list=PL2UML_KCiC0UPzjW9BjO-IW6dqliu9O4B) - Volodymyr Kuleshov
 * [Foundation Models and Generative AI](https://ocw.mit.edu/courses/6-s087-foundation-models-and-generative-ai-january-iap-2024) - Rickard Gabrielsson (MIT OpenCourseWare)
@@ -303,6 +304,7 @@
 * [Intro to Generative AI](https://www.codecademy.com/learn/intro-to-generative-ai) - Codecademy
 * [LangChain & Vector Databases in Production](https://learn.activeloop.ai/courses/langchain) - Activeloop *(account required)*
 * [LangChain for LLM Application Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development) - Harrison Chase, Andrew Ng (DeepLearning.AI)
+* [Learn AI Coding, from zero](https://aiolaola.com/en/course) - aiOlaOla *(account required)*
 * [Retrieval Augmented Generation for Production with LangChain & LlamaIndex](https://learn.activeloop.ai/courses/rag) - Activeloop *(account required)*
 * [Training & Fine-Tuning LLMs for Production](https://learn.activeloop.ai/courses/llms) - Activeloop *(account required)*
 * [Understanding Large Language Models — Foundations and Safety (CS 194/294-267)](https://www.youtube.com/playlist?list=PLJ66BAXN6D8H_gRQJGjmbnS5qCWoxJNfe) - Responsible Decentralized Intelligence (UC Berkeley EECS)

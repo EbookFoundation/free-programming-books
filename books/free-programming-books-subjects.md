@@ -46,6 +46,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Quantum Computing](#quantum-computing)
 * [Regular Expressions](#regular-expressions)
 * [Reverse Engineering](#reverse-engineering)
+* [Robotics](#robotics)
 * [Search Engines](#search-engines)
 * [Security & Privacy](#security--privacy)
 * [Software Architecture](#software-architecture)
@@ -894,6 +895,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Prompt Engineering](https://www.innopreneur.io/wp-content/uploads/2025/04/22365_3_Prompt-Engineering_v7-1.pdf) - Lee Boonstra (PDF)
 * [Prompt Engineering Guide](https://learnprompting.org/docs/introduction) - LearnPrompting (HTML)
 * [Prompt Engineering Guide](https://www.promptingguide.ai) - DAIR.AI (HTML)
+* [Prompt engineering overview](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview) - Anthropic (HTML)
 
 
 ### Quantum Computing
@@ -923,6 +925,11 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Debugging with GDB](https://sourceware.org/gdb/current/onlinedocs/gdb.html) - Free Software Foundation (HTML, PDF)
 * [Hacking the Xbox: An Introduction to Reverse Engineering](https://www.nostarch.com/xboxfree/) - Andrew "bunnie" Huang
 * [iOS App Reverse Engineering](https://github.com/iosre/iOSAppReverseEngineering) - Zishe Sha (PDF)
+
+
+### Robotics
+
+* [Robotics, from scratch](https://robotics.biblio.guru) - Kiran Pachhai (HTML)
 
 
 ### Search Engines

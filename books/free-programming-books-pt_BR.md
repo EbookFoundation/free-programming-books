@@ -420,6 +420,7 @@
 * [Curso de Python e Django](https://osantana.me/curso-de-python-e-django)
 * [Django 101 - Introdução ao Django](https://web.archive.org/web/20240412184408/http://turing.com.br/material/acpython/mod3/django/index.html) *( :card_file_box: archived)*
 * [FastAPI do Zero](https://fastapidozero.dunossauro.com) - Eduardo Mendes (HTML) (CC BY-NC-SA)
+* [Introdução a Python com Aplicações de Sistemas Operacionais](https://memoria.ifrn.edu.br/bitstream/handle/1044/2090/EBOOK%20-%20INTRODU%C3%87%C3%83O%20A%20PYTHON%20%28EDITORA%20IFRN%29.pdf) - Fábio Augusto Procópio de Paiva, João Maria Araújo do Nascimento, Rodrigo Siqueira Martins, Givanaldo Rocha de Souza (PDF)
 * [Introdução a Visão Computacional com Python e OpenCV](http://professor.luzerna.ifc.edu.br/ricardo-antonello/wp-content/uploads/sites/8/2017/02/Livro-Introdu%C3%A7%C3%A3o-a-Vis%C3%A3o-Computacional-com-Python-e-OpenCV-3.pdf) (PDF)
 * [Introdução ao Python](https://files.cercomp.ufg.br/weby/up/688/o/M2_IP_24-09-24.pdf) - Rafael Divino Ferreira Feitosa (PDF)
 * [O Guia do Mochileiro para Python!](https://python-guide-pt-br.readthedocs.io/pt_BR/latest/)

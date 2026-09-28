@@ -339,6 +339,7 @@
 * [Python Trinket](https://trinket.io/python)
 * [Python Tutor](https://pythontutor.com)
 * [Python.org Shell](https://www.python.org/shell)
+* [Pyxel Code Maker](https://kitao.github.io/pyxel/web/code-maker/) - Takashi Kitao
 * [Repl.it - NiceDualPoint](https://repl.it/repls/NiceDualPoint#main.py)
 * [SoloLearn](https://code.sololearn.com/python)
 * [Try Python](https://trypython.jcubic.pl) - Jakub T. Jankiewicz

@@ -1728,7 +1728,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Graph Databases](http://graphdatabases.com)
 * [How To Manage a Redis Database](https://www.digitalocean.com/community/books/how-to-manage-a-redis-database-ebook) - Mark Drake (PDF, EPUB)
 * [NoSQL Databases](http://www.christof-strauch.de/nosqldbs.pdf) - Christof Strauch (PDF)
-* [Redis in Action](https://redis.com/ebook/redis-in-action/) - Josiah L. Carlson
+* [Redis in Action](https://web.archive.org/web/20231219080823/https://redis.com/ebook/redis-in-action/) - Josiah L. Carlson *( :card_file_box: archived)*
 * [The Little Redis Book](http://openmymind.net/2012/1/23/The-Little-Redis-Book/) - Karl Seguin (PDF, Epub)
 
 

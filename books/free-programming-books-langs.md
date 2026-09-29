@@ -2329,7 +2329,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Ruby User's Guide](https://ruby-doc.org/docs/ruby-doc-bundle/UsersGuide/rg/index.html)
 * [Ruby Web Dev: The Other Way](https://leanpub.com/rwdtow/read) - Yevhen Kuzminov (HTML)
 * [The Bastards Book of Ruby](http://ruby.bastardsbook.com)
-* [The Book Of Ruby](http://www.sapphiresteel.com/ruby-programming/The-Book-Of-Ruby.html) - Huw Collingbourne
+* [The Book Of Ruby](https://web.archive.org/web/20230314185709/http://www.sapphiresteel.com/ruby-programming/The-Book-Of-Ruby.html) - Huw Collingbourne *( :card_file_box: archived)*
 * [The Definitive Ruby Tutorial For Complete Beginners](https://www.rubyguides.com/ruby-tutorial/) - Jesus Castello
 * [The Little Book Of Ruby](http://www.sapphiresteel.com/ruby-programming/The-Little-Book-Of-Ruby.html) - Huw Collingbourne
 * [The Ruby Reference](https://rubyreferences.github.io/rubyref/) - Victor Shepelev

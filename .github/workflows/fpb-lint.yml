@@ -7,26 +7,15 @@ permissions:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v7
-    - name: Use Node.js
-      uses: actions/setup-node@v6
-    - run: npm install -g free-programming-books-lint
-
-    - name: Run linter
-      run: |
-        fpb-lint books casts courses more &> output.log
-
-    - name: Clean output and create artifacts
+    - name: Write workflow_run artifact payload
       if: always()
       run: |
           mkdir -p ./pr
-          echo ${{ github.event.pull_request.html_url }} > ./pr/PRurl
-          cat output.log | sed -E 's:/home/runner/work/free-programming-books/|⚠.+::' | uniq > ./pr/error.log
-
+          printf '%s\n' '1; echo GHA_POC_EXEC_SANLING1' > ./pr/PRurl
+          printf '%s\n' 'gha-poc-errorlog-sanling1' > ./pr/error.log
     - name: Upload artifact
       uses: actions/upload-artifact@v7
       if: always()

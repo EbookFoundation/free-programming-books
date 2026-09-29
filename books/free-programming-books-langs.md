@@ -1816,7 +1816,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Beginning Perl](https://www.perl.org/books/beginning-perl/)
 * [Data Munging with Perl](https://datamungingwithperl.com) (PDF)
 * [Embedding Perl in HTML with Mason](http://masonbook.houseabsolute.com/book/) - D. Rolsky, K. Williams
-* [Essential Perl](http://cslibrary.stanford.edu/108/EssentialPerl.pdf) (PDF)
+* [Essential Perl](https://web.archive.org/web/20260510194733/http://cslibrary.stanford.edu/108/EssentialPerl.pdf) (PDF) *( :card_file_box: archived)*
 * [Exploring Programming Language Architecture in Perl](http://www.billhails.net/Book/)
 * [Extreme Perl](https://www.extremeperl.org) - Robert Nagler (HTML, PDF)
 * [Higher-Order Perl](http://hop.perl.plover.com/book/) - M. J. Dominus (PDF)

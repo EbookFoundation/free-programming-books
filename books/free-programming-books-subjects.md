@@ -125,7 +125,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Learning Algorithm](https://riptutorial.com/Download/algorithm.pdf) - Compiled from StackOverflow documentation (PDF) (CC BY-SA)
 * [Lectures Notes on Algorithm Analysis and Computational Complexity (Fourth Edition)](https://ianparberry.com/books/free/license.html) - Ian Parberry (use form at bottom of license)
 * [LEDA: A Platform for Combinatorial and Geometric Computing](https://people.mpi-inf.mpg.de/~mehlhorn/LEDAbook.html) - K. Mehlhorn, St. Näher
-* [Linked List Basics](http://cslibrary.stanford.edu/103/LinkedListBasics.pdf) - Nick Parlante (PDF)
+* [Linked List Basics](https://web.archive.org/web/20260602012858/http://cslibrary.stanford.edu/103/LinkedListBasics.pdf) - Nick Parlante (PDF) (s) => '*( :card_file_box: archived)*'
 * [Linked List Problems](http://cslibrary.stanford.edu/105/LinkedListProblems.pdf) - Nick Parlante (PDF)
 * [Matters Computational: Ideas, Algorithms, Source Code](https://www.jjj.de/fxt/fxtbook.pdf) - Jörg Arndt (PDF)
 * [Open Data Structures: An Introduction](https://opendatastructures.org) - Pat Morin

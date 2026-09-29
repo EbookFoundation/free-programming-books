@@ -217,7 +217,7 @@
 * [Dockerfile Cheat Sheet - Kapeli](https://kapeli.com/cheat_sheets/Dockerfile.docset/Contents/Resources/Documents/index) - Bogdan Popescu, Halprin (HTML)
 * [Dockerfiles y docker-compose.yml: buenas prácticas (:es:)](https://leanmind.es/docker-cheatsheet.pdf) - Yodra Lopez Herrera, LeanMind (PDF)
 * [The Definitive Docker Cheat Sheet](https://web.archive.org/web/20190205113917/https://dockercheatsheet.painlessdocker.com/) - Aymen EL Amri (HTML) *( :card_file_box: archived)*
-* [The Ultimate Docker Cheat Sheet](https://dockerlabs.collabnix.com/docker/cheatsheet/) - Sangam Biradar, Collabnix DockerLabs (HTML)
+* [The Ultimate Docker Cheat Sheet](https://web.archive.org/web/20260329024341/https://dockerlabs.collabnix.com/docker/cheatsheet/) - Sangam Biradar, Collabnix DockerLabs (HTML) *( :card_file_box: archived)*
 
 
 ### Jenkins 

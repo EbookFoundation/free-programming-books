@@ -110,7 +110,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Algorithms Notes for Professionals](https://goalkicker.com/AlgorithmsBook) - Compiled from StackOverflow Documentation (PDF)
 * [An Open Guide to Data Structures and Algorithms](https://open.umn.edu/opentextbooks/textbooks/an-open-guide-to-data-structures-and-algorithms) - Paul W. Bible, Lucas Moser (PDF)
 * [Annotated Algorithms in Python: Applications in Physics, Biology, and Finance](https://github.com/mdipierro/nlib) - Massimo Di Pierro
-* [Binary Trees](http://cslibrary.stanford.edu/110/BinaryTrees.pdf) - Nick Parlante (PDF)
+* [Binary Trees](https://web.archive.org/web/20260429190107/http://cslibrary.stanford.edu/110/BinaryTrees.pdf) - Nick Parlante (PDF) (s) => '*( :card_file_box: archived)*'
 * [Data Structures](https://adityacse.weebly.com/uploads/2/4/0/7/24078687/data-structures.pdf) - Aditya CSE (PDF)
 * [Data Structures](https://en.wikibooks.org/wiki/Data_Structures) - Wikibooks
 * [Data Structures and Algorithm Analysis in C++](https://people.cs.vt.edu/~shaffer/Book/C++3elatest.pdf) - Clifford A. Shaffer (PDF)

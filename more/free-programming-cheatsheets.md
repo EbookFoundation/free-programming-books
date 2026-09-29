@@ -568,7 +568,7 @@
 ### R
 
 * [All RStudio cheatsheets resources](https://www.rstudio.com/resources/cheatsheets) - RStudio.com (HTML site with PDF links)
-* [Base R Cheatsheet](https://iqss.github.io/dss-workshops/R/Rintro/base-r-cheat-sheet.pdf) - Mhairi McNeill (PDF)
+* [Base R Cheatsheet](https://web.archive.org/web/20260206102941/https://iqss.github.io/dss-workshops/R/Rintro/base-r-cheat-sheet.pdf) - Mhairi McNeill (PDF) *( :card_file_box: archived)*
 * [Cheat Sheet for R and RStudio](https://www.ocf.berkeley.edu/~janastas/docs/RStudioCheatSheet.pdf) - L. Jason Anastasopoulos (PDF)
 * [Colors in R](https://web.archive.org/web/20250122193407/http://www.stat.columbia.edu/~tzheng/files/Rcolor.pdf) - Ying Wei  (PDF) *( :card_file_box: archived)*
 * [Data transformation with dplyr - Cheat sheet](https://posit.co/wp-content/uploads/2022/10/data-transformation-1.pdf) - Posit (PDF)

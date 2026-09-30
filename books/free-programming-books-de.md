@@ -185,7 +185,7 @@
 
 ### Neo4j
 
-* [Neo4j 2.0 – Eine Graphdatenbank für alle](https://neo4j.com/neo4j-graphdatenbank-book) - Michael Hunger (PDF) *(email requested)*
+* [Neo4j 2.0 – Eine Graphdatenbank für alle](https://web.archive.org/web/20230225180741/https://neo4j.com/neo4j-graphdatenbank-book/) - Michael Hunger (PDF) *(email requested)* *( :card_file_box: archived)*
 
 
 ### PHP

@@ -406,7 +406,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Google Shell Style Guide](https://google.github.io/styleguide/shell.xml) - Paul Armstrong (HTML)
 * [Introduction to Bash Scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Bobby Iliev (Markdown, PDF)
 * [Introduction to the Command Line](https://launchschool.com/books/command_line) - Launch School (HTML)
-* [Linux Shell Scripting Tutorial - A Beginner's Handbook (2002)](http://www.freeos.com/guides/lsst/) - Vivek G. Gite (HTML)
+* [Linux Shell Scripting Tutorial - A Beginner's Handbook (2002)](https://web.archive.org/web/20260617144214/http://www.freeos.com/guides/lsst/) - Vivek G. Gite (HTML) *( :card_file_box: archived)*
 * [Linux Shell Scripting Tutorial (LSST) v2.0](https://bash.cyberciti.biz/guide/Main_Page) - Vivek Gite (HTML)
 * [Linux Shell Scripting With Bash](https://archive.org/download/B-001-002-839/LinuxShellScriptingWithBash-Sams.pdf) - Ken O. Burtch (PDF)
 * [Slackbook (2005)](https://slackbook.org) - Alan Hicks, Chris Lumens, David Cantrell, Logan Johnson (HTML, DocBook, Postscript, PDF)

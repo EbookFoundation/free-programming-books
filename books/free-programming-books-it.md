@@ -189,7 +189,7 @@
 
 ### Kotlin
 
-* [Kotlin](http://www.vittal.it/wp-content/uploads/2019/07/kotlin.pdf) - V. Albertoni (PDF)
+* [Kotlin](https://web.archive.org/web/20260420223922/http://www.vittal.it/wp-content/uploads/2019/07/kotlin.pdf) - V. Albertoni (PDF) *( :card_file_box: archived)*
 
 
 ### LaTeX

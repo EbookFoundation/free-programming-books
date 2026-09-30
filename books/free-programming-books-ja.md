@@ -626,7 +626,7 @@
 * [Ruby リファレンスマニュアル](https://www.ruby-lang.org/ja/documentation) - まつもとゆきひろ
 * [Ruby 基礎文法最速マスター](https://route477.net/d/?date=20100125) - yhara
 * [TremaでOpenFlowプログラミング](https://yasuhito.github.io/trema-book) - 高宮安仁, 鈴木一哉, 松井暢之, 村木暢哉, 山崎泰宏
-* [お気楽 Ruby プログラミング入門](http://www.nct9.ne.jp/m_hiroi/light/ruby.html) - 広井誠
+* [お気楽 Ruby プログラミング入門](https://web.archive.org/web/20260207120226/https://www.nct9.ne.jp/m_hiroi/light/ruby.html) - 広井誠 *( :card_file_box: archived)*
 * [つくって学ぶプログラミング言語 RubyによるScheme処理系の実装](https://tatsu-zine.com/books/scheme-in-ruby) - 渡辺昌寛
 * [ホワイの(感動的)Rubyガイド](http://www.aoky.net/articles/why_poignant_guide_to_ruby) - why the lucky stiff, `trl:` 青木靖
 * [実用的Rubyスクリプティング](https://www.gentei.org/~yuuji/support/sr/scrp-2020-05.pdf) - 広瀬雄二 (PDF)

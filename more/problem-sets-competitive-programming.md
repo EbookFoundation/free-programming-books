@@ -87,6 +87,7 @@
 * [Deep-ML](https://www.deep-ml.com/problems)
 * [DrivenData](https://www.drivendata.org)
 * [Kaggle](https://www.kaggle.com)
+* [PixelBank](https://pixelbank.dev/problems) *(account required, some problems paid)*
 * [Zindi](https://zindi.africa)
 
 

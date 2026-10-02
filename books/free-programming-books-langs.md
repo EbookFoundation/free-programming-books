@@ -403,7 +403,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Essential Bash](https://www.programming-books.io/essential/bash/) - Krzysztof Kowalczyk, StackOverflow Contributors
 * [Getting Started with BASH](https://www.hypexr.org/bash_tutorial.php) (HTML)
 * [GNU Bash manual](https://www.gnu.org/software/bash/manual/bash.pdf) (PDF)
-* [Google Shell Style Guide](https://google.github.io/styleguide/shell.xml) - Paul Armstrong (HTML)
+* [Google Shell Style Guide](https://web.archive.org/web/20260103083336/https://google.github.io/styleguide/shell.xml) - Paul Armstrong (HTML) *( :card_file_box: archived)*
 * [Introduction to Bash Scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) - Bobby Iliev (Markdown, PDF)
 * [Introduction to the Command Line](https://launchschool.com/books/command_line) - Launch School (HTML)
 * [Linux Shell Scripting Tutorial - A Beginner's Handbook (2002)](https://web.archive.org/web/20260617144214/http://www.freeos.com/guides/lsst/) - Vivek G. Gite (HTML) *( :card_file_box: archived)*
@@ -611,7 +611,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Enterprise COBOL for z/OS documentation library](http://www-01.ibm.com/support/docview.wss?uid=swg27036733)
 * [GNU COBOL Programmers Guide](https://edoras.sdsu.edu/doc/GNU_Cobol_Programmers_Guide_2.1.pdf) - Gary L. Cutler (PDF)
 * [ILE COBOL Programmer's Guide](https://www.ibm.com/docs/de/ssw_ibm_i_74/pdf/sc092539.pdf) (PDF)
-* [Micro Focus: OO Programming with Object COBOL for UNIX (1999)](https://www.microfocus.com/documentation/object-cobol/oc41books/oppubb.htm) - MERANT International Ltd. (HTML)
+* [Micro Focus: OO Programming with Object COBOL for UNIX (1999)](https://web.archive.org/web/20251124052050/https://www.microfocus.com/documentation/object-cobol/oc41books/oppubb.htm) - MERANT International Ltd. (HTML) *( :card_file_box: archived)*
 * [OpenCOBOL 1.1 - Programmer's Guide](http://open-cobol.sourceforge.net/guides/OpenCOBOL%20Programmers%20Guide.pdf) (PDF)
 * [Visual COBOL: A Developer's Guide to Modern COBOL](https://www.microfocus.com/media/ebook/visual_cobol_ebook.pdf) - Paul Kelly (PDF)
 

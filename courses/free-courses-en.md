@@ -937,7 +937,7 @@
 * [Learn CSS](https://www.codecademy.com/learn/learn-css) - Codecademy
 * [Learn CSS Grid](https://scrimba.com/learn/cssgrid) - Per Harald Borgen (Scrimba)
 * [Learn Flexbox](https://scrimba.com/learn/flexbox) - Per Harald Borgen (Scrimba)
-* [Learn how to program: CSS](https://www.learnhowtoprogram.com/css) - Epicodus Inc.
+* [Learn how to program: CSS](https://web.archive.org/web/20191209165033/https://www.learnhowtoprogram.com/css) - Epicodus Inc. *( :card_file_box: archived)*
 * [Learn HTML](https://www.codecademy.com/learn/learn-html) - Codecademy
 * [Learn HTML and CSS](https://www.bitdegree.org/courses/coding-for-beginners-space-doggos) (BitDegree)
 * [Learn HTML and CSS with 5 projects](https://scrimba.com/learn/htmlandcss) - Per Harald Borgen (Scrimba)

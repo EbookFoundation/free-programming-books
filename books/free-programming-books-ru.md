@@ -485,7 +485,7 @@
 * [Python. Введение в программирование](https://younglinux.info/python.php) - C. Шапошникова
 * [Python. Уроки](https://devpractice.ru/book-python-lessons) - Абдрахманов М.И.
 * [Python. unittest](https://devpractice.ru/book-python-unittest) - Абдрахманов М.И
-* [Tkinter. Программирование графического интерфейса](https://younglinux.info/tkinter.php) - C. Шапошникова
+* [Tkinter. Программирование графического интерфейса](https://younglinux.info/tkinter/) - C. Шапошникова
 
 
 #### Django

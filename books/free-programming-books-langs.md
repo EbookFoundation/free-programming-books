@@ -883,7 +883,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 * [Building Java Projects with Gradle](http://spring.io/guides/gs/gradle/)
 * [Gradle Succinctly](https://www.syncfusion.com/ebooks/gradle_succinctly) - José Roberto Olivas Mendoza
-* [Gradle User Guide](https://docs.gradle.org/current/userguide/userguide.html) - Hans Dockter, Adam Murdoch ([PDF](https://docs.gradle.org/current/userguide/userguide.pdf)) (CC BY-NC-SA)
+* [Gradle User Guide](https://docs.gradle.org/current/userguide/userguide.html) - Hans Dockter, Adam Murdoch (CC BY-NC-SA)
 
 
 #### Grails

@@ -1867,7 +1867,7 @@
 
 #### Vapor
 
-* [Vapor University](https://vapor.university)
+* [Vapor University](https://web.archive.org/web/20231102091423/http://vapor.university/) *( :card_file_box: archived)*
 
 
 ### System Design

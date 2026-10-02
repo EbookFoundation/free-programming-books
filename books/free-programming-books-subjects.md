@@ -312,7 +312,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Introduction to Cultural Analytics & Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html) - Melanie Walsh
 * [Introduction to Data Science](https://docs.google.com/file/d/0B6iefdnF22XQeVZDSkxjZ0Z5VUE/edit?pli=1) - Jeffrey Stanton
 * [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis) - Christopher Brooks (University of Michigan) (Coursera)
-* [Julia Data Science](https://juliadatascience.io) - Jose Storopoli, Rik Huijzer, Lazaro Alonso (HTML) (CC BY-NC-SA 4.0)
+* [Julia Data Science](https://web.archive.org/web/20251215191015/https://juliadatascience.io/) - Jose Storopoli, Rik Huijzer, Lazaro Alonso (HTML) (CC BY-NC-SA 4.0) *( :card_file_box: archived)*
 * [Mining of Massive Datasets](http://infolab.stanford.edu/~ullman/mmds/book.pdf) - Jure Leskovec, Anand Rajaraman, Jeffrey D. Ullman (PDF)
 * [Principles of Data Science](https://openstax.org/details/books/principles-data-science) - OpenStax (HTML, PDF) Shaun V. Ault (CC BY-NC-SA 4.0)
 * [Probability and Statistics with Examples using R](https://www.isibang.ac.in/~athreya/psweur/index.html#usage) - Siva Athreya, Deepayan Sarkar, Steve Tanner (HTML) *( :construction: *in process*)*

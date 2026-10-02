@@ -108,7 +108,7 @@
 
 ### Clojure
 
-* [4Clojure - Koans](http://www.4clojure.com)
+* [4Clojure - Koans](https://4clojure.oxal.org)
 * [Clojure Koans](http://clojurekoans.com) - Clojure Koans
 * [ClojureScript Koans](http://clojurescriptkoans.com)
 * [Try Clojure](http://www.tryclj.com)
@@ -219,14 +219,14 @@
 
 ### IDE and editors
 
-* [Interactive Vim Tutorial](http://www.openvim.com/tutorial.html) - Henrik Huttunen
+* [Interactive Vim Tutorial](https://openvim.com) - Henrik Huttunen
 
 
 #### Bootstrap
 
 * [Bootstrap 5 Tutorial](https://www.w3schools.com/bootstrap5/) - W3Schools
 * [Bootstrap Tutorial](https://www.tutlane.com/tutorial/bootstrap) - tutlane
-* [Front End Development Libraries Certification: Bootstrap](https://www.freecodecamp.org/learn/front-end-libraries/bootstrap) - freeCodeCamp
+* [Front End Development Libraries: Bootstrap](https://www.freecodecamp.org/learn/front-end-development-libraries/#bootstrap) - freeCodeCamp
 * [Get started with Bootstrap](https://getbootstrap.com/docs) - Bootstrap
 
 
@@ -248,7 +248,7 @@
 * [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) - freeCodeCamp
 * [JavaScript in 14 minutes](https://jgthms.com/javascript-in-14-minutes/) - Jeremy Thomas
 * [JavaScript interactive tutorial on CodeCademy](https://www.codecademy.com/learn/javascript)
-* [JavaScript interactive tutorial on CoderMania](http://www.codermania.com/javascript/lesson/1a/hello-world)
+* [JavaScript interactive tutorial on CoderMania](https://web.archive.org/web/20201127000000/http://www.codermania.com/javascript/lesson/1a/hello-world) *( :card_file_box: archived)*
 * [JavaScript Introduction](https://a1lab.tech/javascript/introduction) - A1Lab
 * [JavaScript Tutorial](https://www.w3schools.com/js) - W3Schools
 * [JavaScript Tutorial](https://www.scaler.com/topics/javascript/) - Scaler Topics
@@ -259,14 +259,13 @@
 * [Learn JavaScript](https://learnjavascript.online)
 * [Learn JavaScript: Online Course for Free](https://code-basics.com/languages/javascript) - Code Basics
 * [Learn knockout.js](http://learn.knockoutjs.com)
-* [Learn to Code for Free – Grasshopper](https://grasshopper.app)
 * [Learning Advanced JavaScript](http://ejohn.org/apps/learn/)
 * [Try jQuery](http://try.jquery.com)
 
 
 #### AngularJS
 
-* [AngularJS Basics](http://www.angularjsbook.com) - Chris Smith
+* [AngularJS Basics](https://web.archive.org/web/20210516084920/http://www.angularjsbook.com/) - Chris Smith *( :card_file_box: archived)*
 * [AngularJS Tutorial](https://www.tutlane.com/tutorial/angularjs) - tutlane
 * [AngularJS Tutorial](https://www.w3schools.com/angular/) - W3Schools
 * [AngularJS Tutorial](https://www.scaler.com/topics/angular/) - Scaler Topics
@@ -276,14 +275,14 @@
 
 #### jQuery
 
-* [Front End Development Libraries Certification: jQuery](https://www.freecodecamp.org/learn/front-end-libraries/jquery) - freeCodeCamp
+* [Front End Development Libraries: jQuery](https://www.freecodecamp.org/learn/front-end-development-libraries/#jquery) - freeCodeCamp
 * [jQuery Tutorial](https://www.w3schools.com/jquery/) - W3Schools
 * [jQuery Tutorial](https://www.scaler.com/topics/jquery/) - Scaler Topics
 
 
 #### React
 
-* [Front End Development Libraries Certification: React](https://www.freecodecamp.org/learn/front-end-libraries/react) - freeCodeCamp
+* [Front End Development Libraries: React](https://www.freecodecamp.org/learn/front-end-development-libraries/#react) - freeCodeCamp
 * [React Tutorial](https://react-tutorial.app)
 * [React Tutorial](https://www.w3schools.com/react/) - W3Schools
 * [React Tutorial](https://www.scaler.com/topics/react/) - Scaler Topics
@@ -292,7 +291,7 @@
 
 #### Redux
 
-* [Front End Development Libraries: Redux](https://www.freecodecamp.org/learn/front-end-development-libraries/redux) - freeCodeCamp
+* [Front End Development Libraries: Redux](https://www.freecodecamp.org/learn/front-end-development-libraries/#redux) - freeCodeCamp
 * [Redux Official Documentation](https://redux.js.org/introduction/getting-started)
 
 
@@ -313,10 +312,10 @@
 
 * [CodeCombat](http://codecombat.com) - Python, JavaScript, CoffeeScript, Clojure, Lua, Io
 * [Codility](https://codility.com/programmers/)
-* [Introduction to the Coding Interview Prep Algorithms](https://www.freecodecamp.org/learn/coding-interview-prep/algorithms) (freeCodeCamp)
+* [Introduction to the Coding Interview Prep Algorithms](https://www.freecodecamp.org/learn/coding-interview-prep/#algorithms) - freeCodeCamp
 * [Learn Blazingly Fast](https://learnblazinglyfast.tech) - Interactive CS, Algorithm & Machine Learning Visualizations
 * [Libre Academy](https://libre.academy) - Rust, Python, JavaScript, TypeScript, Go, Zig, and 20+ more
-* [Python Tutor](http://pythontutor.com) - Python, Java, JavaScript, TypeScript, Ruby, C, C++
+* [Python Tutor](https://pythontutor.com) - Python, Java, JavaScript, TypeScript, Ruby, C, C++
 * [The Fullstack Tutorial for GraphQL](https://www.howtographql.com)
 
 
@@ -365,7 +364,7 @@
 
 * [MongoDB Koans](https://github.com/chicagoruby/MongoDB_Koans)
 * [MongoDB Tutorial](https://www.w3schools.com/mongodb) - W3Schools
-* [Try Redis](http://try.redis.io)
+* [Try Redis](https://web.archive.org/web/20220601000000/http://try.redis.io/) *( :card_file_box: archived)*
 
 
 ### Objective-C
@@ -405,9 +404,9 @@
 * [Foundations of Python Programming](https://runestone.academy/ns/books/published/fopp/index.html) - Runestone Interactive
 * [Free Online Python Course for Beginners](https://code-basics.com/languages/python) - CodeBasics
 * [futurecoder](https://futurecoder.io) - Alex Hall
-* [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html)
+* [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](https://runestone.academy/ns/books/published/thinkcspy/index.html) - Brad Miller, David Ranum
 * [Learn Python](http://www.learnpython.org)
-* [Learn Python Step by Step](http://www.techbeamers.com/python-tutorial-step-by-step)
+* [Learn Python Step by Step](https://techbeamers.com/python-tutorial-step-by-step/)
 * [Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python) - FreeCodeCamp
 * [Python for Everybody - Interactive](https://runestone.academy/runestone/books/published/py4e-int/index.html) - Barbara Ericson
 * [Python Introduction](https://a1lab.tech/python/introduction) - A1Lab
@@ -447,7 +446,7 @@
 * [CodeCademy Ruby](https://www.codecademy.com/learn/ruby)
 * [Ruby Koans](http://www.rubykoans.com)
 * [The Odin Project](http://www.theodinproject.com)
-* [Try Ruby](http://tryruby.org)
+* [Try Ruby](https://ruby.github.io/TryRuby/)
 
 
 ### Rust
@@ -470,7 +469,7 @@
 
 ### Selenium
 
-* [Selenium Tutorial - Web Automation](http://www.techbeamers.com/selenium-webdriver-tutorial)
+* [Selenium Tutorial - Web Automation](https://web.archive.org/web/20230331000000/http://www.techbeamers.com/selenium-webdriver-tutorial/) *( :card_file_box: archived)*
 
 
 ### Solidity

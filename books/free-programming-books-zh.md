@@ -411,7 +411,7 @@
 * [Go 语言高级编程（Advanced Go Programming）](https://github.com/chai2010/advanced-go-programming-book)
 * [Go 语言设计与实现](https://draveness.me/golang) - draveness
 * [Go 语言实战笔记](https://github.com/rujews/go-in-action-notes)
-* [Go 指南](https://tour.go-zh.org/list) (《A Tour of Go》中文版)
+* [Go 指南](https://web.archive.org/web/20251210000637/https://tour.go-zh.org/list) (《A Tour of Go》中文版) *( :card_file_box: archived)*
 * [Go Web 编程](https://astaxie.gitbooks.io/build-web-application-with-golang/content/zh/) - astaxie
 * [Go实战开发](https://github.com/astaxie/go-best-practice)
 * [Go语言博客实践](https://github.com/achun/Go-Blog-In-Action)

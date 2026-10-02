@@ -82,6 +82,7 @@
 ### 0 - Language Agnostic
 
 * [Введение в методы машинной обработки данных](https://mkurnosov.net/docs/dsa-book-2020.pdf) - Курносов М.Г. (PDF)
+* [Документация по языку текстовой разметки — Markdown](https://github.com/Cultus-Tenebrae/Markdown-documentation/releases/latest/download/Markdown-documentation.pdf) - Изергиль Ван Дер Вельде (PDF) (MIT)
 * [Операционные системы](https://vseloved.github.io/pdf/os-ru.pdf) - Всеволод Дёмкин (PDF)
 * [Параллельные технологии](http://www.inp.nsk.su/~baldin/Parallel/index.html)
 * [Программирование: введение в профессию](http://stolyarov.info/books/programming_intro) - Столяров Андрей Викторович (PDF)

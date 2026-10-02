@@ -1293,7 +1293,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [AngularJs vs EmberJs](https://angularjs-emberjs-compare.bguiz.com) - Brendan Graetz (HTML)
 * [Ember App with RailsApi](https://dockyard.com/blog/ember/2013/01/07/building-an-ember-app-with-rails-api-part-1)
 * [Ember.js - Getting started](https://guides.emberjs.com/release/)
-* [Vic Ramon's Ember Tutorial](http://ember.vicramon.com)
+* [Vic Ramon's Ember Tutorial](https://web.archive.org/web/20211024052718/http://ember.vicramon.com/) *( :card_file_box: archived)*
 * [yoember.com](https://yoember.com)
 
 
@@ -1407,7 +1407,7 @@ Books on general-purpose programming that don't focus on a specific language are
 #### React Native
 
 * [Essential React Native](https://www.programming-books.io/essential/reactnative/) - Krzysztof Kowalczyk, StackOverflow Contributors (CC BY-SA)
-* [React Native Animation Book](http://browniefed.com/react-native-animation-book/)
+* [React Native Animation Book](https://web.archive.org/web/20180303022501/http://browniefed.com/react-native-animation-book/) *( :card_file_box: archived)*
 * [React Native Express](http://www.reactnativeexpress.com)
 * [React Native Notes for Professionals](https://goalkicker.com/ReactNativeBook) - Compiled from StackOverflow documentation (PDF) (CC BY-SA)
 * [React Native Training](https://www.gitbook.com/book/unbug/react-native-training/details)

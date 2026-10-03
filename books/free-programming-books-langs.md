@@ -290,7 +290,7 @@ Books on general-purpose programming that don't focus on a specific language are
 ### App Inventor
 
 * [Absolute App Inventor 2](https://amerkashi.wordpress.com/2015/02/16/absolute-app-inventor-2-book/) - Hossein Amerkashi
-* [App Inventor 2](http://www.appinventor.org/book2) - David Wolber, Hal Abelson, Ellen Spertus, Liz Looney
+* [App Inventor 2](https://web.archive.org/web/20260402204812/http://www.appinventor.org/book2) - David Wolber, Hal Abelson, Ellen Spertus, Liz Looney *( :card_file_box: archived)*
 
 
 ### Arduino
@@ -1186,7 +1186,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [JavaScript Handbook](https://thevalleyofcode.com/js/) - Flavio Copes (HTML, PDF)
 * [JavaScript Interview #35](https://gumroad.com/l/javascript-interview-35) - Coderslang Master (PDF, email address *requested*, not required)
 * [JavaScript Notes for Professionals](https://goalkicker.com/JavaScriptBook/) - Compiled from StackOverflow documentation (PDF)
-* [JavaScript Patterns Collection](http://shichuan.github.io/javascript-patterns/) - Shi Chuan (HTML)
+* [JavaScript Patterns Collection](https://web.archive.org/web/20230521000355/http://shichuan.github.io/javascript-patterns/) - Shi Chuan (HTML) *( :card_file_box: archived)*
 * [JavaScript Spessore](https://web.archive.org/web/20160325064800/https://leanpub.com/javascript-spessore/read) - Reginald Braithwaite (HTML) *( :card_file_box: archived)*
 * [JavaScript Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/javascript) - Cody Lindley (PDF, Kindle; email address *requested*, not required)
 * [JavaScript the Right Way](https://github.com/braziljs/js-the-right-way) - William Oliveira, Allan Esquina (HTML)
@@ -1808,7 +1808,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Turbo Pascal Reference Guide (1989)](http://bitsavers.org/pdf/borland/turbo_pascal/Turbo_Pascal_Version_5.0_Reference_Guide_1989.pdf) - Borland International (PDF)
 * [Vector Pascal, an Array Language](http://www.dcs.gla.ac.uk/~wpc/reports/compilers/compilerindex/vp-ver2.html) - Paul Cockshott, Greg Michaelson
 * [Vector Pascal Reference Manual](https://www.researchgate.net/publication/220177664_Vector_Pascal_reference_manual) (PDF)
-* [VSI Pascal for OpenVMS Reference Manual](https://vmssoftware.com/docs/VSI_PASCAL_REF.pdf) - VMS Software (PDF)
+* [VSI Pascal for OpenVMS Reference Manual](https://web.archive.org/web/20230207090951/https://vmssoftware.com/docs/VSI_PASCAL_REF.pdf) - VMS Software (PDF) *( :card_file_box: archived)*
 
 
 ### Perl

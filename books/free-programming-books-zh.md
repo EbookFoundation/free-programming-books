@@ -357,7 +357,7 @@
 * [CGDB中文手册](https://github.com/leeyiw/cgdb-manual-in-chinese)
 * [Cmake 实践](https://web.archive.org/web/20170615174144/http://sewm.pku.edu.cn/src/paradise/reference/CMake%20Practice.pdf) (PDF)
 * [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
-* [Google C++ 风格指南](http://zh-google-styleguide.readthedocs.org/en/latest/google-cpp-styleguide/contents/)
+* [Google C++ 风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/)
 * [ZMQ 指南](https://github.com/anjuke/zguide-cn)
 
 

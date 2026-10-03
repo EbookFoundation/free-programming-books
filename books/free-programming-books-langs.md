@@ -974,7 +974,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [How to Code in HTML5 and CSS3](https://web.archive.org/web/20180816174417/http://howtocodeinhtml.com/HowToCodeInHTML5AndCSS3.pdf) - Damian Wielgosik (PDF) *( :card_file_box: archived)*
 * [HTML Canvas Deep Dive](http://joshondesign.com/p/books/canvasdeepdive/toc.html) - Josh Marinacci
 * [HTML Dog Tutorials](http://www.htmldog.com)
-* [HTML Tutorial](https://html5andcss3.org/html-tutorial-pdf/) - Swapnil Raja (PDF)
+* [HTML Tutorial; The Complete Practical Guide](https://html5andcss3.org/html-tutorial-pdf/) - Swapnil Raja (PDF)
 * [HTML5 Canvas](https://www.oreilly.com/library/view/html5-canvas/9781449308032/ch01.html) - Steve Fulton, Jeff Fulton
 * [HTML5 Canvas Notes for Professionals](https://goalkicker.com/HTML5CanvasBook/) - Compiled from StackOverflow documentation (PDF)
 * [HTML5 for Publishers](https://www.oreilly.com/library/view/html5-for-publishers/9781449320065/pr02.html) - Sanders Kleinfeld

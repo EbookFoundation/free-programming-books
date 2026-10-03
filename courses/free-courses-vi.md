@@ -142,13 +142,13 @@
 * [Học lập trình C cơ bản](https://www.youtube.com/playlist?list=PLZEIt444jqpAEl0D3W17WDS3ZtGbHIxF3) - Son Nguyen
 * [Học lập trình C++ cho người mới bắt đầu](https://www.youtube.com/playlist?list=PLh91SaQgRYnp-NC3WnFDMWQV40a6m61Hr) - Lập Trình Không Khó
 * [Lập trình C](https://www.youtube.com/playlist?list=PLyxSzL3F7487Nh-ib25lcLEzhL5mgZkFJ) - TITV
-* [Lập Trình C | Xâu Ký Tự | Chuỗi](https://www.youtube.com/playlist?list=PLux-_phi0Rz3XyMk0JHqeN2DM69XDAyyo) - 28tech
+* [Lập Trình C \| Xâu Ký Tự \| Chuỗi](https://www.youtube.com/playlist?list=PLux-_phi0Rz3XyMk0JHqeN2DM69XDAyyo) - 28tech
 * [Lập trình C cho người mới bắt đầu học lập trình](https://www.youtube.com/playlist?list=PLzQuu4-Qxlh7lfDpA2lhuBHMNMskLE2QZ) - Học Công Nghệ
 * [Lập Trình C Từ Cơ Bản Đến Nâng Cao](https://www.youtube.com/playlist?list=PL6h8VcmH2PuJzGN8UFhMAoAsPcHg2uepd) - Full House
 * [Lập trình C++ cơ bản - HowKteam](https://www.youtube.com/playlist?list=PL33lvabfss1xagFyyQPRcppjFKMQ7lvJM) - K team
 * [Ngôn Ngữ Lập Trình C](https://www.youtube.com/playlist?list=PLyiioioEJSxHr5X8RNY3QXUGcjzeZeI7l) - Dạy Nhau Học
 * [Ngôn Ngữ Lập Trình C](https://www.youtube.com/playlist?list=PLux-_phi0Rz2TB5D16sJzy3MgOht3IlND) - 28tech
-* [Ngôn Ngữ Lập Trình C |IUH](https://www.youtube.com/playlist?list=PLOWHQCkFdTueoPoil-FTma3-q-_uxsvhR) - Jerry Thắng
+* [Ngôn Ngữ Lập Trình C \|IUH](https://www.youtube.com/playlist?list=PLOWHQCkFdTueoPoil-FTma3-q-_uxsvhR) - Jerry Thắng
 * [Ngôn ngữ lập trình C-GV. Nguyễn Văn Phúc](https://www.youtube.com/playlist?list=PLdgLBTCcFWkfWhf3qSPX-pNGyLOj8IA3w) - CCE- eLEARN
 * [Nhập môn lập trình C cơ bản](https://www.youtube.com/playlist?list=PLQj93CJe0N72nRYDYEdVpV3ZzGHMJvgqt) - Đỗ Phúc Hảo
 * [Nhập môn LẬP TRÌNH CĂN BẢN với C](https://www.youtube.com/playlist?list=PLayYhLZuuO9t9F8tIKR5RE7HQbDwNtnSV) - giáo.làng
@@ -178,13 +178,13 @@
 
 ### <a id="cpp"></a>C++
 
-* [Học C++ cơ bản | Học lập trình C++ cơ bản](https://www.youtube.com/playlist?list=PLZEIt444jqpD6NUtMg5X6Y3T4lYqcudO9) - Son Nguyen
+* [Học C++ cơ bản \| Học lập trình C++ cơ bản](https://www.youtube.com/playlist?list=PLZEIt444jqpD6NUtMg5X6Y3T4lYqcudO9) - Son Nguyen
 * [Học lập trình C++ (CŨ Cmnr)](https://www.youtube.com/playlist?list=PLE1qPKuGSJaB3x2P8vAob9V1BIEp9VYwp) - thân triệu
 * [Học lập trình C++ cho người mới bắt đầu](https://www.youtube.com/playlist?list=PLh91SaQgRYnp-NC3WnFDMWQV40a6m61Hr) - Lập Trình Không Khó
 * [Khoá học lập trình C++ từ cơ bản đến nâng cao](https://www.youtube.com/playlist?list=PLE1qPKuGSJaD7sejCSC8ivSueeesNFyov) - thân triệu
 * [Khóa học Lập trình C++ từ cơ bản đến nâng cao](https://www.youtube.com/playlist?list=PLzQuu4-Qxlh6xm5_uswCkfkudKs00dsNK) - Học Công Nghệ
 * [Lập trình C++ cơ bản - HowKteam](https://www.youtube.com/playlist?list=PL33lvabfss1xagFyyQPRcppjFKMQ7lvJM) - K team
-* [Lập trình C++ cơ bản 2023 | Tự học lập trình C++ siêu dễ hiểu cho người mới](https://www.youtube.com/playlist?list=PLPt6-BtUI22rZ-lB276VBY85mUNeIFJf5) - Gà Lại Lập Trình
+* [Lập trình C++ cơ bản 2023 \| Tự học lập trình C++ siêu dễ hiểu cho người mới](https://www.youtube.com/playlist?list=PLPt6-BtUI22rZ-lB276VBY85mUNeIFJf5) - Gà Lại Lập Trình
 * [LẬP TRÌNH C++ TỪ CƠ BẢN ĐẾN NÂNG CAO](https://www.youtube.com/playlist?list=PLqfkD788zZGCmOyQaymJv4G-au94QqBLj) - Tờ Mờ Sáng học Lập trình
 * [Lập trình C++ từ cơ bản tới nâng cao](https://www.youtube.com/playlist?list=PL_-VfJajZj0Uo72G_6tSY4NRLpmffeXSA) - F8 Official
 * [Lập trình C++ từ cơ bản tới nâng cao](https://www.youtube.com/playlist?list=PLjnaYcKy3HzOq4SkNVvXQ1FaXk9QlEkaq) - Minh Quang
@@ -203,12 +203,12 @@
 
 * [Lập trình Dart](https://www.youtube.com/playlist?list=PLRoAKls-7kksChE3OhiE2iAeCa7h1kk5k) - Migolab
 * [Lập trình Dart](https://www.youtube.com/playlist?list=PLanHRxSQZoQEs0ApO55id4KGyXUjPReQA) - Coder Studio
-* [Lập trình ngôn ngữ Dart | Flutter cơ bản](https://www.youtube.com/playlist?list=PLRnNjVSYDePhLyD_bKgQnEGyL6R2-fKU1) - Tùng Sugar
+* [Lập trình ngôn ngữ Dart \| Flutter cơ bản](https://www.youtube.com/playlist?list=PLRnNjVSYDePhLyD_bKgQnEGyL6R2-fKU1) - Tùng Sugar
 
 
 ### ExpressJS
 
-* [[FULL STACK] MERN PRO • Học lập trình Front-end + Back-end | Làm dự án thực tế Trello kéo thả](https://www.youtube.com/playlist?list=PLP6tw4Zpj-RJP2-YrhtkWqObMQ-AA4TDy) - TrungQuanDev
+* [[FULL STACK] MERN PRO • Học lập trình Front-end + Back-end \| Làm dự án thực tế Trello kéo thả](https://www.youtube.com/playlist?list=PLP6tw4Zpj-RJP2-YrhtkWqObMQ-AA4TDy) - TrungQuanDev
 * [ExpressJS & NodeJS - Xây dựng hệ thống server chuẩn RESTFUL, xác thực phân quyền làm blog cá nhân](https://www.youtube.com/playlist?list=PLodO7Gi1F7R1GMefX_44suLAaXnaNYMyC) - Nodemy
 * [Học Nodejs cùng F8](https://www.youtube.com/playlist?list=PLwJIrGynFq9BZto5VvKw7OEDNxN6plq_3) - Tech Mely
 * [Khóa học Fullstack SERN (SQL, Express.js, React.js, Node.js)](https://www.youtube.com/playlist?list=PLncHg6Kn2JT6E38Z3kit9Hnif1xC_9VqI) - Hỏi Dân IT
@@ -222,7 +222,7 @@
 ### Flutter
 
 * [Flutter căn bản](https://tedu.com.vn/khoa-hoc/xay-dung-ung-dung-mobile-voi-flutter-can-ban-31.html) - TEDU
-* [Flutter Tutorial 2021 for Beginners: English App | Flutter Lab](https://www.youtube.com/playlist?list=PLFcgubjtcw5U-Y6z1gpR02ebF-jyLoyga) - 200Lab
+* [Flutter Tutorial 2021 for Beginners: English App \| Flutter Lab](https://www.youtube.com/playlist?list=PLFcgubjtcw5U-Y6z1gpR02ebF-jyLoyga) - 200Lab
 * [Flutter Từ Cơ Bản Đến Nâng Cao 2024 - 2025](https://www.youtube.com/playlist?list=PLE1qPKuGSJaAmSo-tC02ugcyttOcsK7C9) - thân triệu
 * [Lập trình di động Flutter (Mobile Development Flutter)](https://www.youtube.com/playlist?list=PLZqHbMxF8mzbcMAjOtClkRcEIkhvV3ZtL) - Dummy Fresher
 * [Lập trình di động với Flutter](https://www.youtube.com/playlist?list=PLv6GftO355AsxyLjGVkpOmN8DUbcPdIBv) - ZendVN - Học Lập Trình Online
@@ -284,7 +284,7 @@
 * [Khóa học lập trình Java Spring boot 3 miễn phí cho người mới (2024)](https://www.youtube.com/playlist?list=PL2xsxmVse9IaxzE8Mght4CFltGOqcG6FC) - Devteria
 * [Khóa học lập trình JavaFX](https://www.youtube.com/playlist?list=PL33lvabfss1yRgFCgFXjtYaGAuDJjjH-j) - Kteam
 * [Lập trình Java](https://www.youtube.com/playlist?list=PLyxSzL3F748401hWFgJ8gKMnN6MM8QQ7F) - TITV
-* [Lập trình java | Tự học java siêu tốc](https://www.youtube.com/playlist?list=PLPt6-BtUI22rxpe6PZc5H6XAgPusA6fDQ) - Gà Lại Lập Trình
+* [Lập trình java \| Tự học java siêu tốc](https://www.youtube.com/playlist?list=PLPt6-BtUI22rxpe6PZc5H6XAgPusA6fDQ) - Gà Lại Lập Trình
 * [Lập trình Java căn bản](https://tedu.com.vn/video/bai-1-gioi-thieu-tong-quan-ve-java-520.html) - TEDU
 * [Tự học Java cho người mới bắt đầu 2025](https://www.youtube.com/playlist?list=PLAv1wIkQKlEt3RIZuS50MKOZwxLrSyR-c) - Tập Làm Mentor
 * [Tự Học Java Core Từ A tới Z Dành cho Beginners](https://www.youtube.com/playlist?list=PLncHg6Kn2JT5EVkhKoJmzOytHY39Mrf_o) - Hỏi Dân IT
@@ -391,10 +391,10 @@
 
 ### Next.js
 
-* [[2024] Học Next.js 14 miễn phí | Khóa học NextJs TypeScript siêu chi tiết | Được Dev](https://www.youtube.com/playlist?list=PLFfVmM19UNqn1ZIWvxn1artfz-C6dgAFb) - Được Dev
+* [[2024] Học Next.js 14 miễn phí \| Khóa học NextJs TypeScript siêu chi tiết \| Được Dev](https://www.youtube.com/playlist?list=PLFfVmM19UNqn1ZIWvxn1artfz-C6dgAFb) - Được Dev
 * [Lập trình NextJS](https://www.youtube.com/playlist?list=PLv6GftO355AvWAQv4or-RE2RAFFXaI3Jz) - ZendVN - Học Lập Trình Online
 * [NextJS cơ bản 🎉](https://www.youtube.com/playlist?list=PLeS7aZkL6GOuMvDYcyW9VVLCvKnNhm4It) - Easy Frontend
-* [Tự Học Next.JS Cơ Bản (với React và TypeScript) | Hỏi Dân IT](https://www.youtube.com/playlist?list=PLncHg6Kn2JT6zw4JiFOE1z90ghnyrFl5B) - Hỏi Dân IT
+* [Tự Học Next.JS Cơ Bản (với React và TypeScript) \| Hỏi Dân IT](https://www.youtube.com/playlist?list=PLncHg6Kn2JT6zw4JiFOE1z90ghnyrFl5B) - Hỏi Dân IT
 
 
 ### NodeJS
@@ -442,7 +442,7 @@
 ### PostgreSQL
 
 * [Hiểu toàn bộ PostgreSQL trong 1h30p - 2023](https://www.youtube.com/watch?v=OUlLQK_gN8k) - Trần Quốc Huy
-* [Học PostgreSQL qua ví dụ || PostgreSQL Tutorial](https://www.youtube.com/playlist?list=PLMbuMydSxMKxfg0OeJJoNsdRTnTIEcqmg) - Lập Trình B2A
+* [Học PostgreSQL qua ví dụ \|\| PostgreSQL Tutorial](https://www.youtube.com/playlist?list=PLMbuMydSxMKxfg0OeJJoNsdRTnTIEcqmg) - Lập Trình B2A
 * [Postgresql cơ bản](https://www.youtube.com/playlist?list=PLRoAKls-7kksI-BbBn_ihFB9sRjSrDrs4) - Migolab
 
 
@@ -467,7 +467,7 @@
 ### R
 
 * [Bài giảng về ngôn ngữ R](https://www.youtube.com/playlist?list=PLbRKZL7ww3qj1f1FjDE7Wl6tkZebPPrf2) - Nguyễn Văn Tuấn
-* [HỌC R SIÊU NHANH QUA CASE STUDY | R CRASH COURSE](https://www.youtube.com/playlist?list=PLCKFKYBfLgPV07MhYMoOMlazOSS7KwKuA) - DUC NGUYEN
+* [HỌC R SIÊU NHANH QUA CASE STUDY \| R CRASH COURSE](https://www.youtube.com/playlist?list=PLCKFKYBfLgPV07MhYMoOMlazOSS7KwKuA) - DUC NGUYEN
 * [Hướng dẫn học R](https://www.youtube.com/playlist?list=PLMIaO-u3S5-jO2rMt8r8HD5ifiZv_Sd9O) - SciEco
 * [Hướng dẫn phần mềm thống kê R và R-studio](https://www.youtube.com/playlist?list=PLpDNYPX7w1RYuBxWT0blVTrmxyb9KfJMg) - Bài Học 10 Phút
 * [HƯỚNG DẪN SỬ DỤNG R ĐỂ XỬ LÝ DỮ LIỆU](https://www.youtube.com/playlist?list=PLCKFKYBfLgPU4mSgJ-5MhGDcki2UTBr2H) - DUC NGUYEN
@@ -501,7 +501,7 @@
 * [Lập trình cơ bản Rust](https://www.youtube.com/playlist?list=PLOB8_oGJl40SPgVOMJ6ivoEgmSvTiSdNQ) - Nguyen Tuan Dung
 * [LẬP TRÌNH RUST](https://www.youtube.com/playlist?list=PLFnEYduGTiXE2ejxmzTIraP2feI-pmeuw) - Jayden Dang
 * [Rust](https://www.youtube.com/playlist?list=PLbVzvoeVj6gTQvZq46tqqvDQ8d5WZbBPT) - Nỡm
-* [Rust Back-End - Microservices | Server High Performance](https://www.youtube.com/playlist?list=PLFnEYduGTiXEPQ1pVCcg5zxgBS4RwM6wd) - Jayden Dang
+* [Rust Back-End - Microservices \| Server High Performance](https://www.youtube.com/playlist?list=PLFnEYduGTiXEPQ1pVCcg5zxgBS4RwM6wd) - Jayden Dang
 
 
 ### Sass
@@ -630,7 +630,7 @@
 * [Đồ án Web môi giới](https://www.youtube.com/playlist?list=PLiyVagO7GfBE1j4vjp-QLc1KHR1LPIl3G) - J2Team
 * [Lập Trình Web Chuyên Sâu](https://www.youtube.com/playlist?list=PLiyVagO7GfBE1l9XIGemSpy8bnm7QDmsY) - J2Team
 * [Lập Trình Web Cơ Bản](https://www.youtube.com/playlist?list=PLiyVagO7GfBE3_b-4lJEVk7iq1pHQ-xcM) - J2Team
-* [MERN PRO • Học lập trình Front-end + Back-end | Làm dự án thực tế Trello kéo thả](https://www.youtube.com/playlist?list=PLP6tw4Zpj-RJP2-YrhtkWqObMQ-AA4TDy) - TrungQuanDev - Một Lập Trình Viên
+* [MERN PRO • Học lập trình Front-end + Back-end \| Làm dự án thực tế Trello kéo thả](https://www.youtube.com/playlist?list=PLP6tw4Zpj-RJP2-YrhtkWqObMQ-AA4TDy) - TrungQuanDev - Một Lập Trình Viên
 
 
 ### Wordpress

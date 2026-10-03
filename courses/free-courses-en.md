@@ -1933,7 +1933,7 @@
 * [Flask(A Python Microframework) Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 * [Foundations of Front End Web Development](https://www.udemy.com/course/foundations-of-front-end-development/) - Davide Molin (Udemy)
 * [Frontend UI Development with React](https://www.youtube.com/playlist?list=PL0vfts4VzfNgUUEtEjxDVfh4iocVR3qIb) - Jeff Delaney, Fireship.io
-* [Full Course Web Development 22 Hours | Learn Full Stack Web Development From Scratch](https://www.youtube.com/watch?v=ZxKM3DCV2kE) - Mehul Mohan (codedamn)
+* [Full Course Web Development 22 Hours \| Learn Full Stack Web Development From Scratch](https://www.youtube.com/watch?v=ZxKM3DCV2kE) - Mehul Mohan (codedamn)
 * [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088) - by AWS on Udacity
 * [Full stack open](https://fullstackopen.com/en/) - University of Helsinki, Houston Inc., Terveystalo, Elisa, K-ryhmä, Unity Technologies, Konecranes
 * [Full Stack Web Development Tutorial Course](https://www.youtube.com/playlist?list=PLwoh6bBAszPrES-EOajos_E9gvRbL27wz) - WB Web Development Solutions

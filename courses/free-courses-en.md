@@ -1028,7 +1028,7 @@
 * [Java Tutorial For Beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK) - Telusko
 * [Java Tutorial for Complete Beginners](https://www.udemy.com/course/java-tutorial/) - John Purcell (Udemy)
 * [JSP (Java server pages) and servlet basics](https://www.udemy.com/course/jsp-servlet-free/) - StudyEasy Organisation, Chaand Sheikh (Udemy)
-* [Learn how to program: Java](https://www.learnhowtoprogram.com/java) - Epicodus Inc.
+* [Learn how to program: Java](https://web.archive.org/web/20191209171755/http://www.learnhowtoprogram.com/java) - Epicodus Inc. *( :card_file_box: archived)*
 * [Learn Java](https://www.codecademy.com/learn/learn-java) - CodeAcademy *(Need to create a CodeAcademy account to access)*
 * [Learn Java Programming](https://www.programiz.com/java-programming) - Programiz
 * [Learn Java Programming - Java for Testers and Developers](https://www.udemy.com/course/learn-java-programming-a/) - Pavan Kumar (Udemy)

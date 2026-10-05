@@ -513,7 +513,7 @@
 
 * [Анализ данных с R](http://www.inp.nsk.su/~baldin/DataAnalysis/index.html)
 * [Наглядная статистика. Используем R!](https://cran.r-project.org/doc/contrib/Shipunov-rbook.pdf) (PDF)
-* [Рандомизация и бутстреп: статистический анализ в биологии и экологии с использованием R.](http://www.ievbras.ru/ecostat/Kiril/Article/A32/Starb.pdf) (PDF)
+* [Рандомизация и бутстреп: статистический анализ в биологии и экологии с использованием R.](https://web.archive.org/web/20240714101645/http://www.ievbras.ru/ecostat/Kiril/Article/A32/Starb.pdf) (PDF) *( :card_file_box: archived)*
 
 
 ### Ruby

@@ -961,7 +961,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [CSS Notes for Professionals](http://goalkicker.com/CSSBook) - Compiled from StackOverflow Documentation (PDF) (CC BY-SA)
 * [CSS Optimization Basics](https://github.com/frontenddogma/css-optimization-basics) – Jens Oliver Meiert
 * [CSS Transition vs CSS animation](https://www.freecodecamp.org/news/css-transition-vs-css-animation-handbook/) - Oluwatobi Sofela
-* [CSS Tutorial](https://html5andcss3.org/css-tutorial-pdf/) - Swapnil Raja (PDF)
+* [CSS Tutorial; The Complete Modern Guide](https://html5andcss3.org/css-tutorial-pdf/) - Swapnil Raja (PDF)
 * [Dive Into HTML5](http://diveinto.html5doctor.com) - Mark Pilgrim ([PDF](http://mislav.net/2011/10/dive-into-html5/))
 * [DOM Enlightenment](http://domenlightenment.com) - Cody Lindley (HTML)
 * [Enduring CSS](https://ecss.benfrain.com/preface.html) - Ben Frain (HTML)

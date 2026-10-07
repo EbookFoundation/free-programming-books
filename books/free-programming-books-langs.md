@@ -737,7 +737,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Erlang
 
-* [BEAM Wisdoms](http://beam-wisdoms.clau.se/en/latest/) (HTML)
+* [BEAM Wisdoms](https://web.archive.org/web/20230613211430/http://beam-wisdoms.clau.se/en/latest/) (HTML) *( :card_file_box: archived)*
 * [Concurrent Programming in ERLANG](http://www.erlang.org/download/erlang-book-part1.pdf) (PDF)
 * [Erlang Handbook](https://github.com/esl/erlang-handbook/raw/master/output/ErlangHandbook.pdf) (PDF)
 * [Erlang Programming](https://en.wikibooks.org/wiki/Erlang_Programming) - Wikibooks (HTML)

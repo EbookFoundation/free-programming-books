@@ -69,4 +69,4 @@
 
 ### WebGL
 
-* [WebGL'i kasutamine interaktiivsete graafikarakenduste loomiseks veebilehitsejas](http://www.cs.tlu.ee/teemaderegister/get_file.php?id=351) - Raner Piibur (PDF)
+* [WebGL'i kasutamine interaktiivsete graafikarakenduste loomiseks veebilehitsejas](https://web.archive.org/web/20260807161735/http://www.cs.tlu.ee/teemaderegister/get_file.php?id=351) - Raner Piibur (PDF) *( :card_file_box: archived)*

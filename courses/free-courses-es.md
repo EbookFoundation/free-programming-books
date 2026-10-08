@@ -217,6 +217,7 @@
 * [Python](https://andros.dev/cursos/ab396439/python/1/puesta-a-punto-del-entorno/) - Andros Fenollosa
 * [Python Módulo 1](https://www.pildorasinformaticas.es/course/curso-python) - Juan Díaz (Píldoras Informáticas)
 * [Python Módulo 2](https://www.pildorasinformaticas.es/course/curso-python/curso-python-modulo-2) - Juan Díaz (Píldoras Informáticas)
+* [Testing](https://andros.dev/cursos/749264a4/testing/1/introduccion/) - Andros Fenollosa
 
 
 ### Programación Web & Móvil

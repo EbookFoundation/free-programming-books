@@ -271,7 +271,7 @@
 
 ### Lisp
 
-* [Don Clojure de la Mancha](https://andros.dev/book/don-clojure-de-la-mancha/1/prologo/) - Andros Fenollosa (HTML)
+* [Don Clojure de la Mancha](https://don-clojure-de-la-mancha.andros.dev) - Andros Fenollosa (HTML)
 * [Una Introducción a Emacs Lisp en Español](http://savannah.nongnu.org/git/?group=elisp-es) (HTML)
 
 

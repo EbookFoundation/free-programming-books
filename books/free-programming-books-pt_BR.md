@@ -176,6 +176,7 @@
 * [Kanban e Scrum - obtendo o melhor de ambos](http://www.infoq.com/br/minibooks/kanban-scrum-minibook) *(account required)*
 * [Kanban em 10 Passos](http://www.infoq.com/br/minibooks/priming-kanban-jesper-boeg) *(account required)*
 * [Scrum e XP direto das Trincheiras](http://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches) *(account required)*
+* [Spec-Driven Development: O Guia Definitivo para Construir Software com Agentes de IA](https://github.com/felipefontoura/spec-driven-development-book/blob/main/BOOK.pt-BR.md) - Felipe Fontoura (Markdown) (CC BY-NC-SA)
 
 
 #### Arquitetura de Software

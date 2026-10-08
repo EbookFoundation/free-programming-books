@@ -240,6 +240,7 @@
 * [Introducción a HTML & CSS](https://www.aulaclic.es/html/index.htm) (HTML)
 * [JavaScript](https://andros.dev/cursos/477384d5/javascript/1/introduccion/) - Andros Fenollosa
 * [JavaScript para Principiantes](https://certmundo.com/es-mx/curso/javascript-para-principiantes) - Certmundo
+* [Maquetación Web](https://andros.dev/cursos/91a6eb81/maquetacion-web/1/introduccion/) - Andros Fenollosa
 * [PHP MySql Módulo 1](https://www.pildorasinformaticas.es/course/php-mysql) - Juan Díaz (Píldoras Informáticas)
 * [PHP MySql Módulo 2](https://www.pildorasinformaticas.es/course/php-mysql/php-mysql-modulo-2) - Juan Díaz (Píldoras Informáticas)
 * [Tecnologías Web (2010)](https://ocw.ua.es/es/ingenieria-y-arquitectura/tecnologias-web-2010.html)

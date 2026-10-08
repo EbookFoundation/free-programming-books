@@ -113,6 +113,7 @@
 
 * [Curso Django](https://www.pildorasinformaticas.es/course/django) - Juan Díaz (Píldoras Informáticas)
 * [Curso Spring](https://www.pildorasinformaticas.es/course/curso-spring) - Juan Díaz (Píldoras Informáticas)
+* [Django](https://andros.dev/cursos/b74c1a3c/django/1/introduccion/) - Andros Fenollosa
 * [Django REST Framework](https://andros.dev/cursos/34b809b2/django-rest-framework/1/introduccion/) - Andros Fenollosa
 * [Laravel](https://www.pildorasinformaticas.es/course/laravel) - Juan Díaz (Píldoras Informáticas)
 * [NextJs 13: desde 0 Con de Tuti](https://www.youtube.com/playlist?list=PL42UNLc8e48RPqUVsZzedg5bCYfKg4xee) - Gentleman Programming

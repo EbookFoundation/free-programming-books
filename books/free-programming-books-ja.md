@@ -449,7 +449,7 @@
 
 #### Vue.js
 
-* [The chibivue Book](https://book.chibivue.land/ja.html) - ubugeeei
+* [The chibivue Book](https://book.chibivue.land/ja/) - ubugeeei
 
 
 ### Julia

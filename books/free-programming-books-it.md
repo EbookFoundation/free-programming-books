@@ -194,7 +194,7 @@
 
 ### LaTeX
 
-* [Appunti di programmazione in LaTeX e TeX](http://profs.sci.univr.it/~gregorio/introtex.pdf) - Enrico Gregorio (PDF)
+* [Appunti di programmazione in LaTeX e TeX](https://web.archive.org/web/20210820033738/http://profs.sci.univr.it/~gregorio/introtex.pdf) - Enrico Gregorio (PDF) *( :card_file_box: archived)*
 * [Il LaTex mediante esempi](http://www.discretephysics.org/MANUALI/Latex.pdf) - E. Tonti (PDF)
 * [Impara LaTeX! (... e mettilo da parte)](https://users.dimi.uniud.it/~gianluca.gorni/TeX/itTeXdoc/impara_latex.pdf) - Marc Baudoin (PDF)
 * [Introduzione all'arte della composizione tipografica con LaTeX](http://www.guitex.org/home/images/doc/guidaguit-b5.pdf) - GuIT (PDF)

@@ -890,7 +890,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 * [Getting Started with Grails](http://www.infoq.com/minibooks/grails-getting-started)
 * [Grails Tutorial for Beginners](https://web.archive.org/web/20210519053040/http://grails.asia/grails-tutorial-for-beginners/) - grails.asia *( :card_file_box: archived)*
-* [The Grails Framework - Reference Documentation](https://grails.apache.org/docs/latest/) - Graeme Rocher, Peter Ledbrook, Marc Palmer, Jeff Brown, Luke Daley, Burt Beckwith, Lari Hotari ([PDF](https://web.archive.org/web/20250108110338/http://grails.github.io/grails-doc/latest/guide/single.pdf))
+* [The Grails Framework - Reference Documentation](https://grails.apache.org/docs/latest/) - Graeme Rocher, Peter Ledbrook, Marc Palmer, Jeff Brown, Luke Daley, Burt Beckwith, Lari Hotari
 
 
 #### Spock Framework

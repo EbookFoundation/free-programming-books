@@ -15,6 +15,8 @@
 
 ### AI
 
+* [从零学会 AI 编程](https://aiolaola.com/course) - aiOlaOla
+* [从零构建 AI 智能体](https://aiolaola.com/course/ai-agent) - aiOlaOla
 * [初学者的生成式 AI .NET - 一门课程](https://github.com/microsoft/Generative-AI-for-beginners-dotnet/tree/main/translations/zh) - Microsoft (GitHub)
 * [动手学深度学习](https://zh.d2l.ai/index.html) - d2lzh
 * [机器学习速成课程](https://developers.google.com/machine-learning/crash-course/prereqs-and-prework?hl=zh-cn) - 谷歌出品

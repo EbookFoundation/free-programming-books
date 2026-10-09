@@ -58,7 +58,8 @@
 * [Curso SQL](https://www.pildorasinformaticas.es/course/curso-sql) - Juan Díaz (Píldoras Informáticas)
 * [Fundamentos de las bases de datos (2011)](https://ocw.ua.es/es/ingenieria-y-arquitectura/fundamentos-de-las-bases-de-datos-2011.html)
 * [Manual práctico de SQL](https://www.lawebdelprogramador.com/cursos/archivos/ManualPracticoSQL.pdf) - Álvaro E. García (PDF)
-* [Principios de SQL](https://programadorwebvalencia.com/cursos/sql/introducci%C3%B3n/) - Andros Fenollosa (Programador Web Valencia)
+* [MongoDB](https://andros.dev/cursos/5b810d7d/mongodb/1/introduccion/) - Andros Fenollosa
+* [Principios de SQL](https://andros.dev/cursos/5b40d342/sql/1/introduccion/) - Andros Fenollosa
 * [SQL y Bases de Datos: Curso Gratis desde Cero](https://certmundo.com/es-mx/curso/sql-y-bases-de-datos) - Certmundo
 
 
@@ -86,6 +87,7 @@
 
 ### Control de Versiones
 
+* [Contribuciones con Git](https://andros.dev/cursos/c6c1bd8a/contribuciones-con-git/1/introduccion/) - Andros Fenollosa
 * [Curso de Git y Github desde cero para principiantes](https://www.youtube.com/watch?v=3GymExBkKjE) - Brias Moure "MoureDev"
 * [Git & GitHub](https://www.pildorasinformaticas.es/course/curso-de-git-github) - Juan Díaz (Píldoras Informáticas)
 * [Git & GitHub](https://www.youtube.com/playlist?list=PLPl81lqbj-4I8i-x2b5_MG58tZfgKmJls) - Ignacio Gutiérrez, BlueWeb
@@ -103,6 +105,7 @@
 * [Introducción a la Gestión de Proyectos](https://www.edx.org/course/introduccion-la-gestion-de-proyectos-upvalenciax-igp101-x)
 * [Organización y gestión del proyecto (2009)](https://ocw.unican.es/course/view.php?id=207)
 * [Procesadores de Lenguaje (2012)](https://ocw.unican.es/course/view.php?id=238)
+* [Scrum](https://andros.dev/cursos/bfd7ca6b/scrum/1/introduccion/) - Andros Fenollosa
 * [Sistemas operativos avanzados - 'scrum - bsd- Qt' (2015)](https://campusvirtual.ull.es/ocw/course/view.php?id=119)
 
 
@@ -110,7 +113,8 @@
 
 * [Curso Django](https://www.pildorasinformaticas.es/course/django) - Juan Díaz (Píldoras Informáticas)
 * [Curso Spring](https://www.pildorasinformaticas.es/course/curso-spring) - Juan Díaz (Píldoras Informáticas)
-* [Django REST Framework](https://programadorwebvalencia.com/cursos/django-rest-framework/introducci%C3%B3n/) - Andros Fenollosa (Programador Web Valencia)
+* [Django](https://andros.dev/cursos/b74c1a3c/django/1/introduccion/) - Andros Fenollosa
+* [Django REST Framework](https://andros.dev/cursos/34b809b2/django-rest-framework/1/introduccion/) - Andros Fenollosa
 * [Laravel](https://www.pildorasinformaticas.es/course/laravel) - Juan Díaz (Píldoras Informáticas)
 * [NextJs 13: desde 0 Con de Tuti](https://www.youtube.com/playlist?list=PL42UNLc8e48RPqUVsZzedg5bCYfKg4xee) - Gentleman Programming
 * [Probar Django \| Crear una Aplicación Web](https://www.udemy.com/course/probar-django-construir-una-aplicacion-web-en-python) - Justin Mitchel, Karlita K (Udemy)
@@ -119,6 +123,7 @@
 ### Inteligencia Artificial
 
 * [Generative AI para Principiantes .NET - Un Curso](https://github.com/microsoft/Generative-AI-for-beginners-dotnet/tree/main/translations/es) - Microsoft (GitHub)
+* [Prompt Engineering](https://andros.dev/cursos/0b34f378/prompt-engineering/1/introduccion/) - Andros Fenollosa
 
 
 ### LaTeX
@@ -170,7 +175,7 @@
 * [Aprende JavaScript](https://aprendejavascript.org) - Jonathan MirCha
 * [Aprende javascript](https://www.aprendejavascript.dev) - Miguel Ángel Durán "midudev"
 * [Aprendemos JavaScript](https://www.freecodecamp.org/espanol/news/aprende-javascript-curso-completo-desde-cero/) - Estefania Cassingena Navone
-* [Clojure](https://programadorwebvalencia.com/cursos/clojure/introducci%C3%B3n/) - Andros Fenollosa (Programador Web Valencia)
+* [Common Lisp](https://andros.dev/cursos/873ef6dd/common-lisp/1/prologo/) - Andros Fenollosa
 * [Curso C#](https://www.pildorasinformaticas.es/course/curso-c) - Juan Díaz (Píldoras Informáticas)
 * [Curso de Javascript](https://edutin.com/curso-de-javascript-4284) - (Edutin Academy)
 * [Curso de JavaScript Gratis](https://codigofacilito.com/cursos/javascript) - Código Facilito
@@ -180,6 +185,7 @@
 * [Curso de Python gratis y con certificación](https://edutin.com/curso-de-python-4276) - Edutin
 * [Curso Gratis de Programación Básica](https://platzi.com/clases/programacion-basica/) - Platzi
 * [Curso Gratis de Ruby](https://codigofacilito.com/cursos/ruby-2) - Código Facilito
+* [Emacs Lisp UI](https://andros.dev/cursos/5495168e/emacs-lisp-ui/1/introduccion/) - Andros Fenollosa
 * [Fundamentos de informática en lenguaje C - I](https://ocw.uca.es/course/view.php?id=31)
 * [Fundamentos de informática en lenguaje C y Arduino - II](https://ocw.uca.es/course/view.php?id=74)
 * [Introducción a la programación](https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=11663) - Carlos Slim Foundation (cuenta requerida)
@@ -197,7 +203,7 @@
 * [Lógica de programación](https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=7929) - Carlos Slim Foundation (cuenta requerida)
 * [Patrones de diseño](https://refactoring.guru/es/design-patterns) - Alexander Shvets (Refactoring.Guru)
 * [Primeros Pasos con Rust](https://learn.microsoft.com/es-es/training/paths/rust-first-steps) - Microsoft Learn
-* [Principios de PHP](https://programadorwebvalencia.com/cursos/php/base/) - Andros Fenollosa (Programador Web Valencia)
+* [Principios de PHP](https://andros.dev/cursos/daf42619/php/1/base/) - Andros Fenollosa
 * [Programación de computadoras](https://es.khanacademy.org/computing/computer-programming#programming) - Khan Academy
 * [Programación en entornos interactivos 'Qt - gtk' (2010)](https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-en-entornos-interactivos-2010.html)
 * [Programación en lenguaje ADA (2010)](https://ocw.unican.es/course/view.php?id=185)
@@ -208,8 +214,10 @@
 * [Programación POO (2011)](https://ocw.ua.es/es/ingenieria-y-arquitectura/programacion-3-2011.html)
 * [Programador en C#](https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=12989) - Carlos Slim Foundation (cuenta requerida)
 * [Programador orientado a objetos](https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=4244) - Carlos Slim Foundation (cuenta requerida)
+* [Python](https://andros.dev/cursos/ab396439/python/1/puesta-a-punto-del-entorno/) - Andros Fenollosa
 * [Python Módulo 1](https://www.pildorasinformaticas.es/course/curso-python) - Juan Díaz (Píldoras Informáticas)
 * [Python Módulo 2](https://www.pildorasinformaticas.es/course/curso-python/curso-python-modulo-2) - Juan Díaz (Píldoras Informáticas)
+* [Testing](https://andros.dev/cursos/749264a4/testing/1/introduccion/) - Andros Fenollosa
 
 
 ### Programación Web & Móvil
@@ -224,13 +232,15 @@
 * [Curso React Native desde cero](https://www.youtube.com/watch?v=qi87b6VcIHY&t=1004s) - Miguel Ángel Durán "midudev"
 * [Curso React.js desde cero - Crea una aplicación paso a paso](https://www.youtube.com/playlist?list=PLV8x_i1fqBw0B008sQn79YxCjkHJU84pC) - Miguel Ángel Durán «midudev»
 * [Detección de objetos](https://www.coursera.org/learn/deteccion-objetos)
-* [Diseño Web - Principios de CSS](https://programadorwebvalencia.com/cursos/css/introducci%C3%B3n/) - Andros Fenollosa (Programador Web Valencia)
-* [Diseño Web - Principios de HTML](https://programadorwebvalencia.com/cursos/html/introducci%C3%B3n/) - Andros Fenollosa (Programador Web Valencia)
+* [Diseño Web - Principios de CSS](https://andros.dev/cursos/766a97bf/css/1/introduccion/) - Andros Fenollosa
+* [Diseño Web - Principios de HTML](https://andros.dev/cursos/bd45ce00/html/1/introduccion/) - Andros Fenollosa
 * [Full Stack open: profundización en el desarrollo web moderno](https://fullstackopen.com/es/) - Universidad de Helsinki, Houston Inc., Terveystalo, Elisa, K-ryhmä, Unity Technologies, Konecranes
 * [FullStack JavaScript Bootcamp \| JavaScript, React.js, GraphQL, Node.js, TypeScript y +](https://www.youtube.com/playlist?list=PLV8x_i1fqBw0Kn_fBIZTa3wS_VZAqddX7) - Miguel Ángel Durán «midudev»
 * [HTML 5](https://www.pildorasinformaticas.es/course/html-5) - Juan Díaz (Píldoras Informáticas)
 * [Introducción a HTML & CSS](https://www.aulaclic.es/html/index.htm) (HTML)
+* [JavaScript](https://andros.dev/cursos/477384d5/javascript/1/introduccion/) - Andros Fenollosa
 * [JavaScript para Principiantes](https://certmundo.com/es-mx/curso/javascript-para-principiantes) - Certmundo
+* [Maquetación Web](https://andros.dev/cursos/91a6eb81/maquetacion-web/1/introduccion/) - Andros Fenollosa
 * [PHP MySql Módulo 1](https://www.pildorasinformaticas.es/course/php-mysql) - Juan Díaz (Píldoras Informáticas)
 * [PHP MySql Módulo 2](https://www.pildorasinformaticas.es/course/php-mysql/php-mysql-modulo-2) - Juan Díaz (Píldoras Informáticas)
 * [Tecnologías Web (2010)](https://ocw.ua.es/es/ingenieria-y-arquitectura/tecnologias-web-2010.html)

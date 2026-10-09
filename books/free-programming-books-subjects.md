@@ -547,7 +547,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [How We Got from There to Here: A Story of Real Analysis](https://milneopentextbooks.org/how-we-got-from-there-to-here-a-story-of-real-analysis/) - Robert Rogers, Eugene Boman
 * [Introduction to Modern Statistics](https://openintro-ims.netlify.app) - Mine Çetinkaya-Rundel, Johanna Hardin (HTML, PDF) (email address required for PDF)
 * [Introduction to Probability](https://math.dartmouth.edu/~prob/prob/prob.pdf) - Charles M. Grinstead, J. Laurie Snell (PDF)
-* [Introduction to Probability and Statistics Spring 2014](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/)
+* [Introduction to Probability and Statistics Spring 2022](https://ocw.mit.edu/courses/18-05-introduction-to-probability-and-statistics-spring-2022/)
 * [Introduction to Proofs](http://joshua.smcvt.edu/proofs/) - Jim Hefferon
 * [Introduction to Real Analysis](https://digitalcommons.trinity.edu/mono/7/) - William F. Trench
 * [Introduction to Statistical Thought](https://people.math.umass.edu/~lavine/Book/book.html) - Michael Lavine

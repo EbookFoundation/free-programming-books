@@ -191,6 +191,7 @@
 
 ### PHP
 
+* [Buku Saku Belajar Laravel](https://belajarlaravel.my.id) - Kawan Koding
 * [Belajar PHP Dasar](https://www.malasngoding.com/belajar-php-dasar-pengenalan-dan-kegunaan-php/) - Malasngoding
 * [Membuat Bot Telegram dengan PHP](https://www.slideshare.net/HasanudinHS/ebook-i-membuat-bot-telegram-dengan-php) - Hasanudin H Syafaat (PDF)
 * [Panduan Lengkap PHP AJAX jQuery](https://gilacoding.com/upload/file/Panduan%20Lengkap%20PHP%20Ajax%20jQuery.pdf) - Desrizal (PDF)

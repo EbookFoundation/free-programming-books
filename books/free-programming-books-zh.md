@@ -709,7 +709,7 @@
 * [Ruby 风格指南](https://github.com/JuanitoFatas/ruby-style-guide/blob/master/README-zhCN.md)
 * [Ruby on Rails 实战圣经](https://ihower.tw/rails4/)
 * [Ruby on Rails 指南](https://ruby-china.github.io/rails-guides/)
-* [Sinatra](http://www.sinatrarb.com/intro-zh.html)
+* [Sinatra](https://web.archive.org/web/20220118142227/http://sinatrarb.com/intro-zh.html) *( :card_file_box: archived)*
 
 
 ### Rust

@@ -398,6 +398,7 @@
 
 ### Python
 
+* [BugBot Lessons](https://www.bugbotlab.com/lessons/) - BugBotLab
 * [Codecademy Python course](https://www.codecademy.com/learn/python)
 * [Computer Science Circles](https://cscircles.cemc.uwaterloo.ca) - Centre for Education in Mathematics and Computing (University of Waterloo)
 * [Data Analysis with Python Certification](https://www.freecodecamp.org/learn/data-analysis-with-python/) - freeCodeCamp

@@ -220,6 +220,7 @@
 ### IDE and editors
 
 * [Interactive Vim Tutorial](https://openvim.com) - Henrik Huttunen
+* [nvim-edu](https://s3onghyun.github.io/nvim-edu/) - s3onghyun
 
 
 #### Bootstrap

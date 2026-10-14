@@ -2577,7 +2577,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [SQL Server Execution Plans, Third Edition](https://assets.red-gate.com/community/books/sql-server-execution-plans-3rd-edition.pdf) - Grant Fritchey (PDF)
 * [SQL Server for C# Developers Succinctly](https://www.syncfusion.com/ebooks/sql_server_for_c_sharp_developers_succinctly) - Sander Rossel
 * [SQL Server Hardware](http://www.red-gate.com/community/books/sql-server-hardware) - Glenn Berry (PDF)
-* [SQL Server Internals: In-Memory OLTP](https://web.archive.org/web/20260111030723/http://www.red-gate.com/library/sql-server-internals-in-memory-oltp) - Kalen Delaney (PDF) *( :card_file_box: archived)*
+* [SQL Server Internals: In-Memory OLTP](https://www.red-gate.com/simple-talk/resources/books/simple-talk-published-books/sql-server-internals-in-memory-oltp/) - Kalen Delaney (PDF)
 * [SQL Server Metadata Succinctly](https://www.syncfusion.com/ebooks/sql-server-metadata-succinctly) - Joseph D. Booth
 * [SQL Server Source Control Basics](https://www.red-gate.com/products/sql-development/sql-source-control/entrypage/sql-server-source-control-basics) - Rob Sheldon, Rob Richardson, Tony Davis (PDF)
 * [SQL Server Statistics](http://www.red-gate.com/community/books/sql-server-statistics) - Holger Schmeling (PDF)

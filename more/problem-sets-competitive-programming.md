@@ -160,4 +160,5 @@
 * [Topic wise multiple choice questions in computer science](https://www.geeksforgeeks.org/quiz-corner-gq/#C%20Programming%20Mock%20Tests) - Geeks For Geeks
 * [UVa Online Judge](https://uva.onlinejudge.org/index.php?Itemid=8&option=com_onlinejudge)
 * [Vulnhub.com](https://www.vulnhub.com)
+* [Кодолимп](https://codolymp.ru/catalog) (Russian, Python)
 * [Школа программиста](https://acmp.ru)

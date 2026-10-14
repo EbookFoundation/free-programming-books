@@ -2587,7 +2587,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [The Art of SQL Server FILESTREAM](http://www.red-gate.com/community/books/art-of-filestream) - Jacob Sebastian, Sven Aelterman (PDF)
 * [The Art of XSD](https://www.red-gate.com/library/the-art-of-xsd) - Jacob Sebastian (PDF)
 * [The Best of SQLServerCentral.com Vol 7](https://www.red-gate.com/library/the-best-of-sqlservercentral-com-vol-7) (PDF)
-* [The Redgate Guide to SQL Server Team-based Development](https://web.archive.org/web/20250125053908/https://www.red-gate.com/library/the-redgate-guide-to-sql-server-team-based-development) - Phil Factor, Grant Fritchey, Alex Kuznetsov, Mladen Prajdić (PDF) *( :card_file_box: archived)*
+* [The Redgate Guide to SQL Server Team-based Development](https://www.red-gate.com/simple-talk/free-stuff/the-red-gate-guide-to-sql-server-team-based-development/) - Phil Factor, Grant Fritchey, Alex Kuznetsov, Mladen Prajdić (PDF)
 * [Troubleshooting SQL Server: A Guide for the Accidental DBA](http://www.red-gate.com/community/books/accidental-dba) - Jonathan Kehayias, Ted Krueger (PDF)
 
 

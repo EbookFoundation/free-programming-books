@@ -900,7 +900,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Hack
 
-* [Hack Documentation](https://docs.hhvm.com/hack/)
+* [Hack Documentation](https://docs.hhvm.com/hack-overview/)
 
 
 ### Hadoop
@@ -2570,7 +2570,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Mastering SQL Server Profiler](http://www.red-gate.com/community/books/mastering-sql-server-profiler) - Brad McGehee (PDF)
 * [Microsoft SQL Server Notes for Professionals](http://goalkicker.com/MicrosoftSQLServerBook/) - Compiled from StackOverflow Documentation (PDF)
 * [Performance Tuning with SQL Server Dynamic Management Views](http://www.red-gate.com/community/books/dynamic-management-views) - Tim Ford, Louis Davidson (PDF)
-* [Protecting SQL Server Data](http://www.red-gate.com/community/books/protecting-data) - John Magnabosco (PDF)
+* [Protecting SQL Server Data](https://www.red-gate.com/simple-talk/resources/books/simple-talk-published-books/protecting-data/) - John Magnabosco (PDF)
 * [SQL Server 2012 Tutorials: Reporting Services](http://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies-en.aspx#SQLServer2012Tutorials%3AReportingServices)
 * [SQL Server 2017 Administrator's Guide](https://www.packtpub.com/free-ebooks/sql-server-2017-administrators-guide) - Marek Chmel, Vladimír Mužný (Packt account *required*)
 * [SQL Server Backup and Restore](http://www.red-gate.com/community/books/sql-server-backup-and-restore) - Shawn McGehee (PDF) (email address *requested*)
@@ -2582,7 +2582,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [SQL Server Source Control Basics](https://www.red-gate.com/products/sql-development/sql-source-control/entrypage/sql-server-source-control-basics) - Rob Sheldon, Rob Richardson, Tony Davis (PDF)
 * [SQL Server Statistics](http://www.red-gate.com/community/books/sql-server-statistics) - Holger Schmeling (PDF)
 * [SQL Server Stumpers Vol.5](http://www.red-gate.com/community/books/sql-server-stumpers-v5) (PDF)
-* [SQL Server Tacklebox](http://www.red-gate.com/community/books/sql-server-tacklebox) - Rodney Landrum (PDF)
+* [SQL Server Tacklebox](https://www.red-gate.com/simple-talk/resources/books/simple-talk-published-books/sql-server-tacklebox/) - Rodney Landrum (PDF)
 * [SQL Server Transaction Log Management](https://web.archive.org/web/20200429204030/https://www.red-gate.com/library/sql-server-transaction-log-management) - Tony Davis, Gail Shaw (PDF) *( :card_file_box: archived)*
 * [The Art of SQL Server FILESTREAM](http://www.red-gate.com/community/books/art-of-filestream) - Jacob Sebastian, Sven Aelterman (PDF)
 * [The Art of XSD](https://www.red-gate.com/library/the-art-of-xsd) - Jacob Sebastian (PDF)

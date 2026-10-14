@@ -189,7 +189,7 @@
 * [CSS Grid](https://www.youtube.com/playlist?list=PLFIM0718LjIXmbwX0dEsoRVX-PC16vmuw) - Web Programming UNPAS
 * [CSS Layouting](https://www.youtube.com/playlist?list=PLFIM0718LjIVCmrSWbZPKCccCkfFw-Naa) - Web Programming UNPAS
 * [CSS Tailwind](https://buildwithangga.com/kelas/css-tailwind-web-design?thumbnail=nk4neM2UyG.46&main_leads=browse) - BuildWithAngga
-* [CSS Website Design](https://www.buildwithangga.com/kelas/css-website-design) - BuildWithAngga
+* [CSS Website Design](https://web.archive.org/web/20250520171825/https://www.buildwithangga.com/kelas/css-website-design) - BuildWithAngga *( :card_file_box: archived)*
 * [CSS3](https://www.youtube.com/playlist?list=PLFIM0718LjIVCmrSWbZPKCccCkfFw-Naa) - Web Programming UNPAS
 * [HTML Dasar](https://www.youtube.com/playlist?list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F) - Web Programming UNPAS
 * [HTML Dasar](https://www.youtube.com/playlist?list=PLZS-MHyEIRo7FTCFuVfsbpllsoAs53xDn) - Kelas Terbuka

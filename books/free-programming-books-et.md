@@ -31,7 +31,7 @@
 
 #### AngularJS
 
-* [AngularJS raamistiku õppematerjal](https://www.cs.tlu.ee/teemad/get_file.php?id=400) - Sander Leetus (PDF)
+* [AngularJS raamistiku õppematerjal](https://web.archive.org/web/20240217030757/http://www.cs.tlu.ee/teemad/get_file.php?id=400) - Sander Leetus (PDF) *( :card_file_box: archived)*
 
 
 #### Vue.js

@@ -1,6 +1,7 @@
 ### Cодержание
 
 * [Дизайн и Aрхитектура](#design-architecture)
+* [Информационная безопасность](#security)
 * [C#](#csharp)
 * [C++](#cpp)
 * [Clojure](#clojure)
@@ -34,6 +35,11 @@ ADV - Продвинутый. Тонкости.
 ### <a id="design-architecture"></a>Дизайн и Aрхитектура
 
 * [Туториал по SOLID](https://ota-solid.now.sh) - Саша Беспоясов и Артём Самофалов (INT)
+
+
+### <a id="security"></a>Информационная безопасность
+
+* [CyberSec Course — 270 дней с нуля до Junior](https://aminyx.github.io/Cybersec/) - Aminyx (BEG/INT)
 
 
 ### <a id="csharp"></a>C#

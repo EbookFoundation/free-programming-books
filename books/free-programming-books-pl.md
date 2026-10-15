@@ -169,7 +169,7 @@
 * [Programowanie z Pythonem](https://brain.fuw.edu.pl/edu/index.php/%22Programowanie_z_Pythonem%22) - Jarosław Żygierewicz, Maciej Kamiński, Zbyszek J-Szmeka
 * [Programowanie z Pythonem 3](https://brain.fuw.edu.pl/edu/index.php/%22Programowanie_z_Pythonem3%22) - Robert J Budzyński
 * [Python dla wszystkich: Odkrywanie danych z Python 3](https://py4e.pl/book) - Charles Russell Severance (PDF, HTML, EPUB, MOBI)
-* [Python na luzie](https://jsystems.pl/static/andrzejklusiewicz/PNL.pdf) - Andrzej Klusiewicz (PDF)
+* [Python na luzie](https://web.archive.org/web/20260228141228/https://jsystems.pl/static/andrzejklusiewicz/PNL.pdf) - Andrzej Klusiewicz (PDF) *( :card_file_box: archived)*
 * [Zanurkuj w Pythonie](https://pl.wikibooks.org/wiki/Zanurkuj_w_Pythonie)
 
 

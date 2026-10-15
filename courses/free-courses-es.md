@@ -122,6 +122,8 @@
 
 ### Inteligencia Artificial
 
+* [Aprende a programar con IA, desde cero (180 lecciones)](https://aiolaola.com/es/course) - aiOlaOla
+* [Construye agentes de IA, desde cero (40 lecciones)](https://aiolaola.com/es/course/agents) - aiOlaOla
 * [Generative AI para Principiantes .NET - Un Curso](https://github.com/microsoft/Generative-AI-for-beginners-dotnet/tree/main/translations/es) - Microsoft (GitHub)
 * [Prompt Engineering](https://andros.dev/cursos/0b34f378/prompt-engineering/1/introduccion/) - Andros Fenollosa
 

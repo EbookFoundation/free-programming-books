@@ -4,6 +4,7 @@
 * [C](#c)
 * [HTML and CSS](#html-and-css)
 * [Javascript](#javascript)
+* [LINUX](#linux)
 * [MySQL](#mysql)
 * [PHP](#php)
 * [Scratch](#scratch)
@@ -24,6 +25,16 @@
 * [HTML](http://tutorialehtml.com/ro/introducere-in-html/)
 
 
+### Javascript
+
+* [Curs si Tutoriale JavaScript](https://marplo.net/javascript)
+
+
+### LINUX
+
+* [Utilizarea Sistemelor de Operare - USO](https://github.com/systems-cs-pub-ro/carte-uso/releases/tag/uso-ed1-2021) - Răzvan Deaconescu, Răzvan Rughiniș, Mihai Carabaș, Alexandru Radovici
+
+
 ### MySQL
 
 * [MySQL](http://profs.info.uaic.ro/~busaco/teach/courses/net/docs/mysql-ro.pdf) (PDF)
@@ -37,8 +48,3 @@
 ### Scratch
 
 * [Informatica Creativa](http://scratched.gse.harvard.edu/resources/informatica-creativa-0)
-
-
-### Javascript
-
-* [Curs si Tutoriale JavaScript](https://marplo.net/javascript)

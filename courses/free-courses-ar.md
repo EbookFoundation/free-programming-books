@@ -175,6 +175,7 @@
 ### Dart
 
 * [Dart &rlm;بالعربى](https://www.youtube.com/playlist?list=PLMDrOnfT8EAj6Yjdki9OCLSwqdBs4xhQz) - Asem Saafan&rlm;
+* [Object Oriented Programming - OOP Using Dart \|&rlm; بالعربي](https://www.youtube.com/playlist?list=PLV1fXIAyjeuZjLghr9X4NcpnOvhAmtTZq) - Usama Elgendy&rlm;
 
 
 ### Databases
@@ -242,6 +243,7 @@
 * [Flutter &rlm;بالعربى](https://www.youtube.com/playlist?list=PLMDrOnfT8EAhsiJwkzspHp_Ob6oRCHxv0) - Asem Saafan&rlm;
 * [Flutter Advanced Complete Course - &rlm;بالعربي](https://www.youtube.com/playlist?list=PLwWuxCLlF_ucnfkI-_yNRCOTI-yJa5N-a) - Omar Ahmed&rlm;
 * [Flutter BLoC - &rlm;بالعربي](https://www.youtube.com/playlist?list=PLwWuxCLlF_ufA0GYYjlx_R4smekKH_AuB) - Omar Ahmed&rlm;
+* [Flutter Bloc & Cubit State management \| Zero to Hero Course \|&rlm; بالعربي](https://www.youtube.com/playlist?list=PLV1fXIAyjeuZIxYTPiS90_SNGRLbzPtr0) - Usama Elgendy&rlm;
 * [Mastering Firebase And Flutter version 2 (2021) - Course - project &rlm;-فلاتر- مشروع - دورة - فايربيز - شرح - احتراف - كورس](https://www.youtube.com/playlist?list=PL93xoMrxRJIve-GSKU61X6okh5pncG0sH) - Wael Abu hamza&rlm;
 * [State Management in Flutter&rlm;](https://www.youtube.com/playlist?list=PL0vtyWBHY2NUxuaEebvtZ6GNGScR9J2QI) - Tarek Alabd&rlm;
 

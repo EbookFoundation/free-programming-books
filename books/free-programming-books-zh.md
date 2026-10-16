@@ -195,6 +195,7 @@
 * [动手实战人工智能](https://aibydoing.com) - huhuhang
 * [动手学强化学习](https://hrl.boyuai.com) - 张伟楠、沈键、俞勇
 * [动手学深度学习](https://zh.d2l.ai) - 阿斯顿·张、李沐、扎卡里·C·立顿、亚历山大·J·斯莫拉
+* [理解现代大语言模型系统-从RAG到全景](https://llmknowledge.pages.dev/zh/) - koe
 * [南瓜书PumpkinBook](https://datawhalechina.github.io/pumpkin-book) - Datawhale
 * [深度学习500问](https://github.com/scutan90/DeepLearning-500-questions) - scutan90
 * [神经网络与深度学习](https://nndl.github.io) - 邱锡鹏
@@ -356,7 +357,7 @@
 * [CGDB中文手册](https://github.com/leeyiw/cgdb-manual-in-chinese)
 * [Cmake 实践](https://web.archive.org/web/20170615174144/http://sewm.pku.edu.cn/src/paradise/reference/CMake%20Practice.pdf) (PDF)
 * [GNU make 指南](http://docs.huihoo.com/gnu/linux/gmake.html)
-* [Google C++ 风格指南](http://zh-google-styleguide.readthedocs.org/en/latest/google-cpp-styleguide/contents/)
+* [Google C++ 风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/)
 * [ZMQ 指南](https://github.com/anjuke/zguide-cn)
 
 
@@ -410,7 +411,7 @@
 * [Go 语言高级编程（Advanced Go Programming）](https://github.com/chai2010/advanced-go-programming-book)
 * [Go 语言设计与实现](https://draveness.me/golang) - draveness
 * [Go 语言实战笔记](https://github.com/rujews/go-in-action-notes)
-* [Go 指南](https://tour.go-zh.org/list) (《A Tour of Go》中文版)
+* [Go 指南](https://web.archive.org/web/20251210000637/https://tour.go-zh.org/list) (《A Tour of Go》中文版) *( :card_file_box: archived)*
 * [Go Web 编程](https://astaxie.gitbooks.io/build-web-application-with-golang/content/zh/) - astaxie
 * [Go实战开发](https://github.com/astaxie/go-best-practice)
 * [Go语言博客实践](https://github.com/achun/Go-Blog-In-Action)
@@ -470,7 +471,7 @@
 * [Java Servlet 3.1 规范](https://github.com/waylau/servlet-3.1-specification)
 * [Jersey 2.x 用户指南](https://github.com/waylau/Jersey-2.x-User-Guide)
 * [JSSE 参考指南](https://github.com/waylau/jsse-reference-guide)
-* [MyBatis中文文档](http://mybatis.github.io/mybatis-3/zh/index.html)
+* [MyBatis中文文档](https://mybatis.org/mybatis-3/zh_CN/)
 * [Netty 4.x 用户指南](https://github.com/waylau/netty-4-user-guide)
 * [Netty 实战(精髓)](https://github.com/waylau/essential-netty-in-action)
 * [Nutz-book Nutz烹调向导](http://nutzbook.wendal.net)
@@ -708,7 +709,7 @@
 * [Ruby 风格指南](https://github.com/JuanitoFatas/ruby-style-guide/blob/master/README-zhCN.md)
 * [Ruby on Rails 实战圣经](https://ihower.tw/rails4/)
 * [Ruby on Rails 指南](https://ruby-china.github.io/rails-guides/)
-* [Sinatra](http://www.sinatrarb.com/intro-zh.html)
+* [Sinatra](https://web.archive.org/web/20220118142227/http://sinatrarb.com/intro-zh.html) *( :card_file_box: archived)*
 
 
 ### Rust

@@ -48,7 +48,7 @@
 ### Android
 
 * [O Androidzie ludzkim głosem](https://andrzejklusiewicz-android.blogspot.com/p/bezpatny-kurs-programowania-android-java.html) - Andrzej Klusiewicz
-* [O Androidzie ludzkim głosem](http://jsystems.pl/storage/kurs_android/ebook/ebook-android.pdf) (PDF)
+* [O Androidzie ludzkim głosem](https://web.archive.org/web/20251212194832/https://jsystems.pl/storage/kurs_android/ebook/ebook-android.pdf) (PDF) *( :card_file_box: archived)*
 * [Przybornik pragmatycznego programisty Android](http://soldiersofmobile.com/przybornik/przybornik_8_02.pdf) (PDF)
 
 

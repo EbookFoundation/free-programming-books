@@ -38,15 +38,14 @@
 
 ### Android
 
-* [Android Dersleri](https://umiitkose.com/android) - Ümit Köse
 * [Android Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/konu/android)
-* [Android Türkçe PDF](http://umiitkose.com/wp-content/uploads/2015/08/AndroidStudio.pdf) - Ümit Köse (PDF)
+* [Android Türkçe PDF](https://web.archive.org/web/20191101104413/http://umiitkose.com/wp-content/uploads/2015/08/AndroidStudio.pdf) - Ümit Köse (PDF) *( :card_file_box: archived)*
 
 
 ### C
 
-* [Beej'in Ağ Programlama Kılavuzu - Internet Soketlerini Kullanarak](http://www.belgeler.org/bgnet/bgnet.html) - Brian "Beej Jorgensen" Hall, Çeviren Emre "FZ" Sevinç (HTML)
-* [GNU C Kütüphanesi Basvuru Klavuzu](http://www.belgeler.org/glibc/glibc.html)
+* [Beej'in Ağ Programlama Kılavuzu - Internet Soketlerini Kullanarak](https://web.archive.org/web/20230505175314/http://www.belgeler.org/bgnet/bgnet.html) - Brian "Beej Jorgensen" Hall, Çeviren Emre "FZ" Sevinç (HTML) *( :card_file_box: archived)*
+* [GNU C Kütüphanesi Basvuru Klavuzu](https://web.archive.org/web/20210122114428/http://belgeler.org/glibc/glibc.html) *( :card_file_box: archived)*
 
 
 ### <a id="cpp"></a>C++
@@ -61,7 +60,7 @@
 
 ### Dart
 
-* [Dart - Merhaba Dünya](https://www.dartogreniyorum.blogspot.com.tr/2013/03/yeniden-dart.html?view=sidebar)
+* [Dart - Merhaba Dünya](https://dartogreniyorum.blogspot.com/2013/03/yeniden-dart.html)
 
 
 ### Fortran
@@ -108,7 +107,7 @@
 ### Java
 
 * [24 Saatte Java](https://ia601505.us.archive.org/23/items/24-saatte-java/24-saatte-java-turkce.pdf) (PDF)
-* [Başkent Üniversitesi Java Dersleri](http://www.baskent.edu.tr/~tkaracay/etudio/ders/prg/java/java_ndx.html) - ttm (Technology Promotion Center)
+* [Başkent Üniversitesi Java Dersleri](https://web.archive.org/web/20240524094637/http://www.baskent.edu.tr/~tkaracay/etudio/ders/prg/java/java_ndx.html) - ttm (Technology Promotion Center) *( :card_file_box: archived)*
 * [Java Bilgisayar Diliyle Programlama](http://www.turhancoban.com/kitap/JAVA%20B%C4%B0LG%C4%B0SAYAR%20D%C4%B0L%C4%B0YLE%20PROGRAMLAMA.pdf) - Turhan Coban (PDF)
 * [Java ile Nesneye Yönelik Programlama](https://ia801507.us.archive.org/12/items/java-ile-nesneye-yonelik-programlama/Java%20ile%20Nesneye%20Y%C3%B6nelik%20Programlama.pdf) - Oğuz Aslantürk (PDF)
 * [Java Kitabı](https://ia601503.us.archive.org/27/items/java-kitabi/java-kitabi.pdf) (PDF)
@@ -126,10 +125,10 @@
 
 ### Linux
 
-* [GNU Bash Başvuru Kılavuzu](http://www.belgeler.org/bashref/bashref.html)
+* [GNU Bash Başvuru Kılavuzu](https://web.archive.org/web/20230404020935/http://www.belgeler.org/bashref/bashref.html) *( :card_file_box: archived)*
 * [GNU Linux Komutlari](https://www.fullportal.org/GNULINUX/Komutlar/GNULINUXKOMUTLAR.pdf) (PDF)
-* [Linux Belgeleri](http://www.belgeler.org/howto/howtos.html)
-* [Linux Sistem Yöneticisinin Kılavuzu](http://www.belgeler.org/sag/sag.html)
+* [Linux Belgeleri](https://web.archive.org/web/20200307055729/http://www.belgeler.org/howto/howtos.html) *( :card_file_box: archived)*
+* [Linux Sistem Yöneticisinin Kılavuzu](https://web.archive.org/web/20230404020935/http://www.belgeler.org/sag/sag.html) *( :card_file_box: archived)*
 * [Linux Sistem Yönetimi](https://web.deu.edu.tr/doc/misc/Linux_Sistem_Yonetimi.pdf) - Linux Kullanıcıları Derneği, Burak DAYIOĞLU, Berk DEMİR (PDF)
 
 
@@ -141,7 +140,7 @@
 ### Python
 
 * [Python ile Programlamaya Giriş](https://pitonca.com/haluktanrikulu/kitap/Python%20Programlama%20_%20Haluk%20Tanr%C4%B1kulu.pdf) - Haluk Tanrıkulu - Python 3 (PDF)
-* [Python Programlama Dili](https://python-istihza.yazbel.com) - YazBel Yazılım Belgelendirme Projesi - Python 3
+* [Python Programlama Dili](https://web.archive.org/web/20191220075828/https://python-istihza.yazbel.com/) - YazBel Yazılım Belgelendirme Projesi - Python 3 *( :card_file_box: archived)*
 
 
 #### Django
@@ -169,7 +168,7 @@
 * [AB2014 Ruby Programlama Dili](https://github.com/leylaKapi/AB2014-Ruby-Programlama-Dili/blob/master/Ruby_AB2014.md) - Leyla Kapı
 * [Ruby](https://www.ruby-lang.org/tr)
 * [Ruby 101](https://www.gitbook.com/book/vigo/ruby-101/details)
-* [Ruby Kullanıcı Kılavuzu](http://www.belgeler.org/uygulamalar/ruby/ruby-ug.html) - Mark Slagell
+* [Ruby Kullanıcı Kılavuzu](https://web.archive.org/web/20230306002434/http://www.belgeler.org/uygulamalar/ruby/ruby-ug.html) - Mark Slagell *( :card_file_box: archived)*
 * [Yirmi Dakikada Ruby](https://www.ruby-lang.org/tr/documentation/quickstart)
 
 

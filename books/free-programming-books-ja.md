@@ -378,7 +378,7 @@
 ### iOS
 
 * [Cocoa Programming Tips 1001](https://web.archive.org/web/20170507034234/http://hmdt.jp/tips/cocoa/index.html) - 木下誠
-* [iOSアプリケーション プログラミングガイド](https://developer.apple.com/jp/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html) - Apple Developer (PDF)
+* [iOSアプリケーション プログラミングガイド](https://web.archive.org/web/20170616051042/https://developer.apple.com/jp/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html) - Apple Developer (PDF) *( :card_file_box: archived)*
 * [RubyMotion Tutorial: Ruby で iOS アプリを作ろう](http://tutorial.rubymotion.jp) - Clay Allsopp, `trl:` RubyMotion JP
 
 
@@ -449,7 +449,7 @@
 
 #### Vue.js
 
-* [The chibivue Book](https://book.chibivue.land/ja.html) - ubugeeei
+* [The chibivue Book](https://book.chibivue.land/ja/) - ubugeeei
 
 
 ### Julia
@@ -519,7 +519,7 @@
 
 * [Google Objective-C スタイルガイド 日本語訳](http://www.textdrop.net/google-styleguide-ja/objcguide.xml) - Mike Pinkerton, Greg Miller, Dave MacLachlan, `trl:` Takashi Sasai
 * [Objective-C 2.0 基礎文法最速マスター](https://marycore.jp/prog/objective-c/basic-syntax) - @_marycore
-* [Objective-C プログラミング言語](https://developer.apple.com/jp/documentation/ProgrammingWithObjectiveC.pdf) - Apple Developer (PDF)
+* [Objective-C プログラミング言語](https://web.archive.org/web/20150918225253/https://developer.apple.com/jp/documentation/ProgrammingWithObjectiveC.pdf) - Apple Developer (PDF) *( :card_file_box: archived)*
 * [Objective-C 最速基礎文法マスター](https://fn7.hatenadiary.org/entry/20100203/1265207098) - @fn7
 
 
@@ -622,11 +622,11 @@
 
 * [Ruby on Rails ガイド](https://railsguides.jp) - Rails community, `trl:` 八田 昌三, `trl:` 安川 要平
 * [Ruby on Rails チュートリアル](https://railstutorial.jp) - Michael Hartl, `trl:` 八田 昌三, `trl:` 安川 要平
-* [Ruby ソースコード完全解説](https://i.loveruby.net/ja/rhg/book) - 青木峰郎
+* [Ruby ソースコード完全解説](https://i.loveruby.net/ja/rhg/book/) - 青木峰郎
 * [Ruby リファレンスマニュアル](https://www.ruby-lang.org/ja/documentation) - まつもとゆきひろ
 * [Ruby 基礎文法最速マスター](https://route477.net/d/?date=20100125) - yhara
 * [TremaでOpenFlowプログラミング](https://yasuhito.github.io/trema-book) - 高宮安仁, 鈴木一哉, 松井暢之, 村木暢哉, 山崎泰宏
-* [お気楽 Ruby プログラミング入門](http://www.nct9.ne.jp/m_hiroi/light/ruby.html) - 広井誠
+* [お気楽 Ruby プログラミング入門](https://web.archive.org/web/20260207120226/https://www.nct9.ne.jp/m_hiroi/light/ruby.html) - 広井誠 *( :card_file_box: archived)*
 * [つくって学ぶプログラミング言語 RubyによるScheme処理系の実装](https://tatsu-zine.com/books/scheme-in-ruby) - 渡辺昌寛
 * [ホワイの(感動的)Rubyガイド](http://www.aoky.net/articles/why_poignant_guide_to_ruby) - why the lucky stiff, `trl:` 青木靖
 * [実用的Rubyスクリプティング](https://www.gentei.org/~yuuji/support/sr/scrp-2020-05.pdf) - 広瀬雄二 (PDF)

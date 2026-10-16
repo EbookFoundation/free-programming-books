@@ -90,7 +90,7 @@
 ### Cloud Computing
 
 * [Cloud Computing](https://www.youtube.com/playlist?list=PL35ft-0sAlPhkcplnefpnc7U4BzLTh_Uh) - Cloud Computing in Telugu
-* [Cloud Computing || Introduction to Cloud Computing || Cloud Computing in Telugu](https://www.youtube.com/watch?v=jXuv9X8T-ZY) - Cloud Computing in Telugu
+* [Cloud Computing \|\| Introduction to Cloud Computing \|\| Cloud Computing in Telugu](https://www.youtube.com/watch?v=jXuv9X8T-ZY) - Cloud Computing in Telugu
 
 
 ### Compiler Design

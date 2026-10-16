@@ -327,9 +327,11 @@
 
 ### Python
 
+* [BugBot Lab](https://app.bugbotlab.com) - BugBotLab
 * [Codepad](http://codepad.org/?lang=Python)
 * [InterviewBit - Online Python Compiler IDE](https://www.interviewbit.com/online-python-compiler/)
 * [Online Python](https://www.online-python.com)
+* [Online Python Compiler](https://coddy.tech/playground/python) - Coddy
 * [Online Python Compiler](https://www.programiz.com/python-programming/online-compiler/) - Programiz
 * [Online Python Compiler](https://www.tutorialspoint.com/online_python_compiler.php) - Tutorialspoint
 * [OnlineGDB](https://www.onlinegdb.com/online_python_compiler)
@@ -338,6 +340,7 @@
 * [Python Trinket](https://trinket.io/python)
 * [Python Tutor](https://pythontutor.com)
 * [Python.org Shell](https://www.python.org/shell)
+* [Pyxel Code Maker](https://kitao.github.io/pyxel/web/code-maker/) - Takashi Kitao
 * [Repl.it - NiceDualPoint](https://repl.it/repls/NiceDualPoint#main.py)
 * [SoloLearn](https://code.sololearn.com/python)
 * [Try Python](https://trypython.jcubic.pl) - Jakub T. Jankiewicz

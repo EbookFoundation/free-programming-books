@@ -306,6 +306,7 @@
 * [Retrieval Augmented Generation for Production with LangChain & LlamaIndex](https://learn.activeloop.ai/courses/rag) - Activeloop *(account required)*
 * [Training & Fine-Tuning LLMs for Production](https://learn.activeloop.ai/courses/llms) - Activeloop *(account required)*
 * [Understanding Large Language Models — Foundations and Safety (CS 194/294-267)](https://www.youtube.com/playlist?list=PLJ66BAXN6D8H_gRQJGjmbnS5qCWoxJNfe) - Responsible Decentralized Intelligence (UC Berkeley EECS)
+* [Vibe Coding for Beginners](https://www.youtube.com/playlist?list=PLLRVNOCjAuec) - Amplified Architect
 
 
 ### Assembly
@@ -897,8 +898,8 @@
 * [C9 : Functional Programming Fundamentals](http://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals) - Erik Meijer
 * [CIS 194: Introduction to Haskell](http://www.seas.upenn.edu/~cis194/) - Brent Yorgey
 * [CS240h: Functional Systems in Haskell](http://www.scs.stanford.edu/11au-cs240h/notes/) - Bryan O'Sullivan
-* [edX: Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0) - Erik Meijer
 * [Functional Programming in Haskell](http://www.cs.nott.ac.uk/~pszgmh/pgp.html) - Graham Hutton
+* [Introduction to Functional Programming (TU Delft OCW)](https://ocw.tudelft.nl/courses/introduction-to-functional-programming/) - Erik Meijer
 * [RWTH Aachen University: Functional Programming](https://videoag.fsmpi.rwth-aachen.de/?course=12ss-funkprog) - Jürgen Giesl
 
 
@@ -937,7 +938,7 @@
 * [Learn CSS](https://www.codecademy.com/learn/learn-css) - Codecademy
 * [Learn CSS Grid](https://scrimba.com/learn/cssgrid) - Per Harald Borgen (Scrimba)
 * [Learn Flexbox](https://scrimba.com/learn/flexbox) - Per Harald Borgen (Scrimba)
-* [Learn how to program: CSS](https://www.learnhowtoprogram.com/css) - Epicodus Inc.
+* [Learn how to program: CSS](https://web.archive.org/web/20191209165033/https://www.learnhowtoprogram.com/css) - Epicodus Inc. *( :card_file_box: archived)*
 * [Learn HTML](https://www.codecademy.com/learn/learn-html) - Codecademy
 * [Learn HTML and CSS](https://www.bitdegree.org/courses/coding-for-beginners-space-doggos) (BitDegree)
 * [Learn HTML and CSS with 5 projects](https://scrimba.com/learn/htmlandcss) - Per Harald Borgen (Scrimba)
@@ -1028,7 +1029,7 @@
 * [Java Tutorial For Beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7oZ-fxDYkOToURHhMuWD1BK) - Telusko
 * [Java Tutorial for Complete Beginners](https://www.udemy.com/course/java-tutorial/) - John Purcell (Udemy)
 * [JSP (Java server pages) and servlet basics](https://www.udemy.com/course/jsp-servlet-free/) - StudyEasy Organisation, Chaand Sheikh (Udemy)
-* [Learn how to program: Java](https://www.learnhowtoprogram.com/java) - Epicodus Inc.
+* [Learn how to program: Java](https://web.archive.org/web/20191209171755/http://www.learnhowtoprogram.com/java) - Epicodus Inc. *( :card_file_box: archived)*
 * [Learn Java](https://www.codecademy.com/learn/learn-java) - CodeAcademy *(Need to create a CodeAcademy account to access)*
 * [Learn Java Programming](https://www.programiz.com/java-programming) - Programiz
 * [Learn Java Programming - Java for Testers and Developers](https://www.udemy.com/course/learn-java-programming-a/) - Pavan Kumar (Udemy)
@@ -1251,7 +1252,7 @@
 #### React Native
 
 * [CS50's Mobile App Development with React Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native) - edX
-* [Introduction to React Native](https://fullstackopen.com/en/part10/introduction_to_react_native) - Full Stack Open
+* [Introduction to React Native](https://courses.mooc.fi/org/uh-cs/courses/full-stack-open-react-native) - Full Stack Open (MOOC.fi)
 * [React Native for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ) - The Net Ninja
 * [React Native Mastery with 10 apps](https://www.youtube.com/playlist?list=PLRAV69dS1uWSjBBJ-egNNOd4mdblt1P4c) - Hitesh Choudary(Youtube)
 * [React Native Tutorial (2021)](https://www.youtube.com/playlist?list=PL8kfZyp--gEXs4YsSLtB3KqDtdOFHMjWZ) - Programming with Mash, MAhdi SHarifimehr
@@ -1369,7 +1370,6 @@
 
 ### Kubernetes
 
-* [Fundamentals of Containers, Kubernetes, and Red Hat OpenShift](https://www.edx.org/course/fundamentals-of-containers-kubernetes-and-red-hat) - Zach Gutterman, Richard Allred (edX)
 * [Kubernetes 101 workshop - complete hands-on](https://www.youtube.com/live/PN3VqbZqmD8?feature=shared) - Kubesimplify
 * [Kubernetes Core Concepts](https://kube.academy/paths/kubernetes-core-concepts) - KubeAcademy (VMware)
 * [Kubernetes Course](https://www.youtube.com/watch?v=d6WC5n9G_sM) - Bogdan Stashchuk (FreeCoodeCamp)
@@ -1809,6 +1809,7 @@
 * [Ethical Hacking for beginners: Beginner to Advance](https://www.udemy.com/course/ethical-hacking-for-beginners-beginner-to-advance) - PaceIT Academy (Udemy)
 * [Ethical hacking with Hak5 devices](https://www.udemy.com/course/ethical-hacking-with-hak5-devices) - David Bombal (Udemy)
 * [Foundations of Hacking and Pentesting Android Apps](https://www.udemy.com/course/foundations-of-hacking-and-pentesting-android-apps) - Scott Cosentino (Udemy)
+* [Free Security Awareness Training For Everyone](https://ransomleak.com/learning/) - RansomLeak
 * [Full Length Hacking Courses](https://youtube.com/playlist?list=PLLKT__MCUeixqHJ1TRqrHsEd6_EdEvo47) - The Cyber Mentor
 * [Hacker Skills // OSINT (Information Gathering)](https://www.youtube.com/playlist?list=PLIhvC56v63IJ9SYBtdDsNnORfTNFCXR8_) - NetworkChuck
 * [Introduction to Dark Web, Anonymity and Cryptocurrency](https://www.udemy.com/course/introduction-to-dark-web-anonymity-and-cryptocurrency) - Rajneesh Gupta (Udemy)
@@ -1866,7 +1867,7 @@
 
 #### Vapor
 
-* [Vapor University](https://vapor.university)
+* [Vapor University](https://web.archive.org/web/20231102091423/http://vapor.university/) *( :card_file_box: archived)*
 
 
 ### System Design
@@ -1932,7 +1933,7 @@
 * [Flask(A Python Microframework) Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 * [Foundations of Front End Web Development](https://www.udemy.com/course/foundations-of-front-end-development/) - Davide Molin (Udemy)
 * [Frontend UI Development with React](https://www.youtube.com/playlist?list=PL0vfts4VzfNgUUEtEjxDVfh4iocVR3qIb) - Jeff Delaney, Fireship.io
-* [Full Course Web Development 22 Hours | Learn Full Stack Web Development From Scratch](https://www.youtube.com/watch?v=ZxKM3DCV2kE) - Mehul Mohan (codedamn)
+* [Full Course Web Development 22 Hours \| Learn Full Stack Web Development From Scratch](https://www.youtube.com/watch?v=ZxKM3DCV2kE) - Mehul Mohan (codedamn)
 * [Full Stack Foundations](https://www.udacity.com/course/full-stack-foundations--ud088) - by AWS on Udacity
 * [Full stack open](https://fullstackopen.com/en/) - University of Helsinki, Houston Inc., Terveystalo, Elisa, K-ryhmä, Unity Technologies, Konecranes
 * [Full Stack Web Development Tutorial Course](https://www.youtube.com/playlist?list=PLwoh6bBAszPrES-EOajos_E9gvRbL27wz) - WB Web Development Solutions

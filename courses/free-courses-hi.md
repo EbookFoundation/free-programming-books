@@ -92,7 +92,7 @@
 
 * [All Sorting algorithms and Programs](https://www.youtube.com/playlist?list=PLsFNQxKNzefK_DAUwnQwBizOmcY7aDLoY) - Saurabh Shukla
 * [Binary Search \| Interview Questions \| Coding \| Tutorials \| Algorithm](https://www.youtube.com/playlist?list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2) - Aditya Verma
-* [Complete DAA Design and Analysis of Algorithm in one shot \| Semester Exam | Hindi](https://www.youtube.com/watch?v=z6DY_YSdyww) - KnowledgeGATE by Sanchit Sir
+* [Complete DAA Design and Analysis of Algorithm in one shot \| Semester Exam \| Hindi](https://www.youtube.com/watch?v=z6DY_YSdyww) - KnowledgeGATE by Sanchit Sir
 * [Design And Analysis Of Algorithms](https://www.youtube.com/playlist?list=PLxCzCOWd7aiHcmS4i14bI0VrMbZTUvlTa) - Gate Smashers
 * [Design and Analysis of Algorithms](https://www.youtube.com/playlist?list=PL1QH9gyQXfgs7foRxIbIH8wmJyDh5QzAm) - The Gatehub
 * [Dynamic Programming Playlist \| Coding \| Interview Questions \| Tutorials \| Algorithm](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go) - Aditya Verma
@@ -192,12 +192,12 @@
 
 ### Bash and Shell
 
-* [Bash Scripting | Complete Course In Hindi](https://www.youtube.com/playlist?list=PLDnEHblf8hExnR-Xpmrpu3GdeO_4YJ_tD) - ENCODERSPRO
+* [Bash Scripting \| Complete Course In Hindi](https://www.youtube.com/playlist?list=PLDnEHblf8hExnR-Xpmrpu3GdeO_4YJ_tD) - ENCODERSPRO
 * [Bash Scripting tutorial](https://www.youtube.com/playlist?list=PLxLRoXCDIalcosmDOQizh31EIHEK1njfO) - Fortify Solutions
 * [Shell Scripting and Bash Programming for Beginners In Hindi](https://www.youtube.com/playlist?list=PLZqV_M3p_p10yhNExLIKj497ZkdUz1KuB) - LogicOps Lab - Hindi
 * [shell scripting complete tutorial in hindi](https://www.youtube.com/playlist?list=PL9A0tISr5Ow5nZSY8-ICNAyXHJKesl_XL) - Cybersploit
 * [Shell Scripting For DevOps 2024 (Hindi)](https://www.youtube.com/playlist?list=PLlfy9GnSVerQu-uL0AdI3O5VzUmIv5pPf) - TrainWithShubham
-* [Shell Scripting Linux Beginners to Advanced in Hindi | Shell Scripting Tutorials for Beginner to Advanced in Hindi](https://www.youtube.com/playlist?list=PLrFWmDe-rblpqyEzyAW6TMJyut-pbQHlr) - Cloud Tech Burner
+* [Shell Scripting Linux Beginners to Advanced in Hindi \| Shell Scripting Tutorials for Beginner to Advanced in Hindi](https://www.youtube.com/playlist?list=PLrFWmDe-rblpqyEzyAW6TMJyut-pbQHlr) - Cloud Tech Burner
 * [SHELL SCRIPTING Tutorial For Beginners](https://www.youtube.com/playlist?list=PL0tP8lerTbX3MeIyMxGW2sLhWnPdn_xhd) - M Prashant
 * [Unix Shell Scripting Full Course](https://www.youtube.com/playlist?list=PL6UwySlcwEYIZGsbXnUxsojD0yeUA67lb) - AmpCode
 
@@ -648,7 +648,7 @@
 
 * [Discrete Mathematics](https://www.youtube.com/playlist?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3) - Gate Smashers, `tch.:` Varun Singla, `tch.:` Naina Wadhwa Singla
 * [Discrete Mathematics (Full Course) By Dr.Gajendra Purohit](https://www.youtube.com/playlist?list=PLU6SqdYcYsfJ27O0dvuMwafS3X8CecqUg) - Gajendra Purohit
-* [Discrete Mathematics Tutorials In Hindi | B.TECH- B.E.-UGC NET- GATE- LECTURES In Hindi](https://www.youtube.com/playlist?list=PLL8qj6F8dGlTX359q-PBBUFw3BrBvAxq3) - Deepak Garg
+* [Discrete Mathematics Tutorials In Hindi \| B.TECH- B.E.-UGC NET- GATE- LECTURES In Hindi](https://www.youtube.com/playlist?list=PLL8qj6F8dGlTX359q-PBBUFw3BrBvAxq3) - Deepak Garg
 * [Maths for CP](https://www.youtube.com/playlist?list=PL-Jc9J83PIiFs8E0EGeckM89cD8E6sFro) - Pepcoding
 * [Maths for Machine Learning](https://www.youtube.com/playlist?list=PLKnIA16_RmvbYFaaeLY28cWeqV-3vADST) - CampusX
 * [Statistics And Probability](https://www.youtube.com/playlist?list=PLU6SqdYcYsfLRq3tu-g_hvkHDcorrtcBK) - Gajendra Purohit

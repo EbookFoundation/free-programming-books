@@ -181,6 +181,7 @@
 
 * [Go Playground](https://play.golang.org)
 * [Go-Vim](https://go-vim.appspot.com)
+* [Online Go Compiler](https://coddy.tech/playground/golang) - Coddy
 * [SoloLearn](https://code.sololearn.com/go)
 
 
@@ -393,6 +394,7 @@
 ### Rust
 
 * [Codapi](https://codapi.org/rust)
+* [Online Rust Compiler](https://coddy.tech/playground/rust) - Coddy
 * [Rust Explorer](https://www.rustexplorer.com)
 * [Rust Playground](https://play.rust-lang.org)
 * [Rustfinity](https://www.rustfinity.com/playground)
@@ -446,6 +448,7 @@
 
 ### TypeScript
 
+* [Online TypeScript Compiler](https://coddy.tech/playground/typescript) - Coddy
 * [Playground](https://www.typescriptlang.org/play/index.html)
 * [StackBlitz](https://stackblitz.com/fork/typescript)
 * [TypeScript: TS Playground](https://www.typescriptlang.org/play)

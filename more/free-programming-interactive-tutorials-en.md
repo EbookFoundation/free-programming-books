@@ -408,6 +408,7 @@
 * [futurecoder](https://futurecoder.io) - Alex Hall
 * [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](https://runestone.academy/ns/books/published/thinkcspy/index.html) - Brad Miller, David Ranum
 * [Learn Python](http://www.learnpython.org)
+* [Learn Python](https://coddy.tech/landing/python) - Coddy
 * [Learn Python Step by Step](https://techbeamers.com/python-tutorial-step-by-step/)
 * [Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python) - FreeCodeCamp
 * [Python for Everybody - Interactive](https://runestone.academy/runestone/books/published/py4e-int/index.html) - Barbara Ericson

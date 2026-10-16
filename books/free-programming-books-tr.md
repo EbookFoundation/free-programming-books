@@ -50,6 +50,7 @@
 
 ### <a id="cpp"></a>C++
 
+* [C++ Başvuru Kitabı](https://github.com/Ahmopasha/cppofplepa/releases/latest) - Ahmet Kandemir Pehlivanlı (PDF) (CC BY-NC-ND)
 * [C++ Dersleri](https://www.yusufsezer.com.tr/cpp-dersleri/) - Yusuf Sezer
 
 

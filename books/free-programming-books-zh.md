@@ -53,6 +53,7 @@
         * [React.js](#reactjs)
         * [Vue.js](#vuejs)
         * [Zepto.js](#zeptojs)
+    * [LabVIEW](#labview)
     * [LaTeX](#latex)
     * [Lisp](#lisp)
     * [Lua](#lua)
@@ -205,9 +206,9 @@
 
 ### 软件开发方法
 
-* [重构程序员](https://cocode.qizhen.xyz) - 阮奇桢 *( :construction: in process)*
 * [傻瓜函数编程](https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn) (《Functional Programming For The Rest of Us》中文版)
 * [硝烟中的 Scrum 和 XP](http://www.infoq.com/cn/minibooks/scrum-xp-from-the-trenches)
+* [重构程序员](https://cocode.qizhen.xyz) - 阮奇桢 *( :construction: in process)*
 
 
 ### 设计模式
@@ -576,6 +577,11 @@
 * [Zepto.js 中文文档](https://web.archive.org/web/20210303025214/https://www.css88.com/doc/zeptojs_api/) *( :card_file_box: archived)*
 
 
+### LabVIEW
+
+* [The LabVIEW Journey](https://lv.qizhen.xyz) - 阮奇桢 (HTML)
+
+
 ### LaTeX
 
 * [大家來學 LaTeX](https://github.com/49951331/graduate-project-102pj/blob/master/docs/latex123.pdf) (PDF)
@@ -677,8 +683,8 @@
 * [Python Cookbook第三版](https://python3-cookbook.readthedocs.io/zh_CN/latest/) - David Beazley、Brian K.Jones、熊能(翻译)
 * [Python教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1016959663602400)
 * [Python进阶](https://interpy.eastlakeside.com) - eastlakeside
-* [Python之旅](https://web.archive.org/web/20191217091745/http://funhacks.net/explore-python/) - Ethan *( :card_file_box: archived)*
 * [Python 教程](https://py.qizhen.xyz) - 阮奇桢
+* [Python之旅](https://web.archive.org/web/20191217091745/http://funhacks.net/explore-python/) - Ethan *( :card_file_box: archived)*
 * [Tornado 6.1 中文文档](https://www.osgeo.cn/tornado/) (Online) *(网络上其他的都是较旧版本的)*
 
 

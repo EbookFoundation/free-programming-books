@@ -123,7 +123,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [LaTeX / TeX](#latex--tex)
     * [LaTeX](#latex)
     * [TeX](#tex)
-* [LabVIEW](#labview)
 * [Limbo](#limbo)
 * [Linux](#linux)
 * [Lisp](#lisp)
@@ -1488,11 +1487,6 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Notes On Programming in TeX](http://pgfplots.sourceforge.net/TeX-programming-notes.pdf) - Christian Feursänger (PDF)
 * [TeX by Topic, A TeXnician's Reference](http://eijkhout.net/texbytopic/texbytopic.html) - Victor Eijkhout
 * [TeX for the Impatient](https://www.gnu.org/software/teximpatient/) - Paul Abrahams, Kathryn Hargreaves, Karl Berry
-
-
-### LabVIEW
-
-* [The LabVIEW Journey](https://lv.qizhen.xyz) - Qizhen Ruan (HTML)
 
 
 ### Language Agnostic

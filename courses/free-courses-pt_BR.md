@@ -231,6 +231,7 @@
 * [Desenvolvimento Ágil com Padrões de Projeto](https://www.coursera.org/learn/desenvolvimento-agil-com-padroes-de-projeto) - Eduardo Guerra e Clovis Fernandes - ITA (Coursera)
 * [Estrutura de Dados com Java](https://loiane.training/curso/estrutura-de-dados) - Loiane Groner
 * [Estrutura de Dados com Java](https://www.youtube.com/playlist?list=PLCUSYmPGwekcXnzf6_UtgRM0OsOEGoiG_) - Matheus Leandro Ferreira
+* [Formação Java Completa - Do Zero à Arquitetura](https://formacao-java.vercel.app) - Thiago Jorge Pacheco
 * [Fundamentos do Java para Iniciantes](https://www.youtube.com/playlist?list=PLiFLtuN04BS2GSi8Q-haYkRy8KEv6Grvf) - Giuliana Bezerra
 * [Introdução à Interfaces Gráficas em Java com o NetBeans](https://www.udemy.com/introducao-a-interface-grafica-em-java-com-o-netbeans/) - Cezar Augusto Crummenauer (Udemy)
 * [Introdução a Programação Linguagem Java](https://www.youtube.com/playlist?list=PLCUSYmPGwekfDhQHllAkUZ30vOsxhVfhM) - Matheus Leandro Ferreira

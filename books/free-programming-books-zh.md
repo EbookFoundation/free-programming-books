@@ -682,8 +682,8 @@
 * [Python 最佳实践指南](https://pythonguidecn.readthedocs.io/zh/latest/)
 * [Python Cookbook第三版](https://python3-cookbook.readthedocs.io/zh_CN/latest/) - David Beazley、Brian K.Jones、熊能(翻译)
 * [Python教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1016959663602400)
-* [Python进阶](https://interpy.eastlakeside.com) - eastlakeside
 * [Python 教程](https://py.qizhen.xyz) - 阮奇桢
+* [Python进阶](https://interpy.eastlakeside.com) - eastlakeside
 * [Python之旅](https://web.archive.org/web/20191217091745/http://funhacks.net/explore-python/) - Ethan *( :card_file_box: archived)*
 * [Tornado 6.1 中文文档](https://www.osgeo.cn/tornado/) (Online) *(网络上其他的都是较旧版本的)*
 

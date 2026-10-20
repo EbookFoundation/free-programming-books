@@ -166,7 +166,7 @@
 * [Руководство по языку программирования C](https://metanit.com/cpp/c) - Евгений Попов
 * [Сетевое программирование от Биджа - Использование Интернет Сокетов](http://beej.us/guide/bgnet/translations/bgnet_A4_rus.pdf) - Brian "Beej Jorgensen" Hall, Перевод Андрея Косенко (PDF)
 * [Си/Си++. От дилетанта до профессионала](http://ermak.cs.nstu.ru/cprog/html) - Романов Е.Л.
-* [Язык Си в примерах](https://web.archive.org/web/20260613155538/https://ru.wikibooks.org/wiki/Язык_Си_в_примерах) - Викиучебник *( :card_file_box: archived)*
+* [Язык Си в примерах](https://web.archive.org/web/20250321174717/https://ru.wikibooks.org/wiki/Язык_Си_в_примерах) - Викиучебник *( :card_file_box: archived)*
 
 
 ### <a id="csharp"></a>C\#

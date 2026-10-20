@@ -527,9 +527,9 @@
 
 #### RSpec
 
-
-
 * [Better Specs (RSpec Guidelines with Ruby)](http://betterspecs.org/ru)
+
+
 #### Ruby on Rails
 
 * [Ruby on Rails по-русски](http://rusrails.ru)

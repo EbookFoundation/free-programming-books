@@ -53,7 +53,6 @@
         * [React.js](#reactjs)
         * [Vue.js](#vuejs)
         * [Zepto.js](#zeptojs)
-    * [LabVIEW](#labview)
     * [LaTeX](#latex)
     * [Lisp](#lisp)
     * [Lua](#lua)
@@ -188,6 +187,7 @@
 * [深入理解并行编程](http://ifeve.com/perfbook/)
 * [SAN 管理入门系列](https://community.emc.com/docs/DOC-16067)
 * [Sketch 中文手册](http://sketchcn.com/sketch-chinese-user-manual.html#introduce)
+* [The LabVIEW Journey](https://lv.qizhen.xyz) - 阮奇桢 (HTML)
 
 
 ### 人工智能
@@ -575,11 +575,6 @@
 #### Zepto.js
 
 * [Zepto.js 中文文档](https://web.archive.org/web/20210303025214/https://www.css88.com/doc/zeptojs_api/) *( :card_file_box: archived)*
-
-
-### LabVIEW
-
-* [The LabVIEW Journey](https://lv.qizhen.xyz) - 阮奇桢 (HTML)
 
 
 ### LaTeX

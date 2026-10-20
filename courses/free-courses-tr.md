@@ -19,7 +19,6 @@
 
 * [Algoritma Analizi](https://www.youtube.com/playlist?list=PLh9ECzBB8tJPTWIUbZjHZMMGuZcpHUv5h) - BilgisayarKavramlari
 * [Algoritmalar ve Veri Yapıları](https://www.youtube.com/playlist?list=PLMQXT_yvb6DUV3usqrNYMfAXoYGXtpmSq) - Berat Ersarı
-* [Algoritmalara giriş](https://web.archive.org/web/20260610035505/https://acikders.tuba.gov.tr/course/view.php?id=133) - Charles Leiserson / Erik Demaine (Çev. Ali Yazıcı - Haluk Ar) *( :card_file_box: archived)*
 * [Algoritmaları Anlamak](https://www.youtube.com/playlist?list=PLR_3k5Bkz0SBA9PoV6DrxpghD7pqPScGJ) - Fatih Özkaynak
 * [On Derste Algoritma ve Programlama](https://www.youtube.com/playlist?list=PLKnjBHu2xXNNiJdlhiEl_RMkK0PbJ1_DB) - Murat Yücedağ
 

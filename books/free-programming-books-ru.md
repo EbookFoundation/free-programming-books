@@ -527,7 +527,6 @@
 
 #### RSpec
 
-* [Better Specs (RSpec Guidelines with Ruby)](https://web.archive.org/web/20200627123033/http://betterspecs.org/ru) *( :card_file_box: archived)*
 
 
 #### Ruby on Rails

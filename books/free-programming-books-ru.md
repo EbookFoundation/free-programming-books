@@ -527,7 +527,7 @@
 
 #### RSpec
 
-* [Better Specs (RSpec Guidelines with Ruby)](https://www.betterspecs.org/)
+* [Better Specs (RSpec Guidelines with Ruby)](https://www.betterspecs.org)
 
 
 #### Ruby on Rails

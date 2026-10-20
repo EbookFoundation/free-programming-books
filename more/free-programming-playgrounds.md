@@ -59,7 +59,7 @@
 ### Algorithms
 
 * [Data Structures Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - David Galles
-* [ntree.ai](https://ntree.ai) - Problems practice platform with a real debugger that can visualise all data structures with your code line-by-line.
+* [Prepare for your coding interview](https://ntree.ai)
 * [The Algorithm Visualizer](https://algorithm-visualizer.org)
 * [visualising data structures and algorithms through animation](https://visualgo.net/en)
 

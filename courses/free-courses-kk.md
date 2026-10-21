@@ -29,10 +29,6 @@ ADVANCED - дамытушы. Детальді кодты үйрену.
 * [Javascript. Java курсының негізі](https://bilgen.academy/course/view.php?id=506) (BEGINNER)
 
 
-### PHP
-
-
-
 ### Python
 
 * [Python тiлiнде бағдарламалау негiздерi.](https://openu.kz/kz/courses/python-tilinde-badarlamalau-negizderi) - Жасдәурен Дүйсебеков (Қазақстанның ашық университеті) *(тіркелуді талап етпейді)*

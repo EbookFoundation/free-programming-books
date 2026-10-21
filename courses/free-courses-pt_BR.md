@@ -495,7 +495,7 @@
 * [Ruby on Rails 5 na Prática](https://www.udemy.com/ruby-on-rails-5-na-pratica/) - Bruno Paulino (Udemy)
 * [Ruby Para Iniciantes](https://www.udemy.com/ruby-para-iniciantes/) - Bruno Paulino (Udemy)
 * [Ruby Puro](https://onebitcode.com/course/ruby-puro/) - One Bit Code (Site One Bit Code)
-* [Tutorial Rails Girls](http://guides.railsgirls.com/guides-ptbr/)
+* [Tutorial Rails Girls](https://railsgirls.github.io/guides-ptbr/)
 
 
 ### Rust

@@ -881,7 +881,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 #### Gradle
 
-* [Building Java Projects with Gradle](http://spring.io/guides/gs/gradle/)
+* [Building Java Projects with Gradle](https://web.archive.org/web/20190102195807/http://spring.io/guides/gs/gradle/) *( :card_file_box: archived)*
 * [Gradle Succinctly](https://www.syncfusion.com/ebooks/gradle_succinctly) - José Roberto Olivas Mendoza
 * [Gradle User Guide](https://docs.gradle.org/current/userguide/userguide.html) - Hans Dockter, Adam Murdoch (CC BY-NC-SA)
 
@@ -2567,7 +2567,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Introducing Microsoft SQL Server 2012](http://social.technet.microsoft.com/wiki/contents/articles/11608.e-book-gallery-for-microsoft-technologies-en.aspx#IntroducingMicrosoftSQLServer2012)
 * [Introducing Microsoft SQL Server 2014](http://blogs.msdn.com/b/microsoft_press/archive/2014/04/02/free-ebook-introducing-microsoft-sql-server-2014.aspx)
 * [Learning Microsoft SQL Server](https://riptutorial.com/Download/microsoft-sql-server.pdf) - Compiled from StackOverflow Documentation (PDF) 
-* [Mastering SQL Server Profiler](http://www.red-gate.com/community/books/mastering-sql-server-profiler) - Brad McGehee (PDF)
+* [Mastering SQL Server Profiler](https://www.red-gate.com/simple-talk/resources/books/simple-talk-published-books/mastering-sql-server-profiler/) - Brad McGehee (PDF)
 * [Microsoft SQL Server Notes for Professionals](http://goalkicker.com/MicrosoftSQLServerBook/) - Compiled from StackOverflow Documentation (PDF)
 * [Performance Tuning with SQL Server Dynamic Management Views](http://www.red-gate.com/community/books/dynamic-management-views) - Tim Ford, Louis Davidson (PDF)
 * [Protecting SQL Server Data](http://www.red-gate.com/community/books/protecting-data) - John Magnabosco (PDF)

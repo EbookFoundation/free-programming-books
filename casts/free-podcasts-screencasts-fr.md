@@ -19,7 +19,7 @@
 
 * [Artisan Developpeur](https://artisandeveloppeur.fr/podcast) (podcast)
 * [AXOPEN](https://podcast.ausha.co/axopen) (podcast)
-* [Code-Garage](https://code-garage.fr/podcast-code-garage) Code Garage (podcast)
+* [Code-Garage](https://code-garage.fr) Code Garage (podcast)
 * [Dev'Obs](https://devobs.p7t.tech) (podcast)
 * [IFTTD - If This Then Dev](https://ifttd.io) (podcast)
 * [Le Comptoir Sécu](https://www.comptoirsecu.fr) (podcast)

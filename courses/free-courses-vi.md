@@ -23,6 +23,7 @@
     * [AngularJS](#angularjs)
     * [jQuery](#jquery)
     * [Vue.js](#vuejs)
+* [Kiến trúc máy tính](#kiến-trúc-máy-tính)
 * [Kotlin](#kotlin)
 * [Machine-Learning](#machine-learning)
 * [MongoDB](#mongodb)
@@ -344,6 +345,12 @@
 * [Vue js 3 Cơ Bản](https://www.youtube.com/playlist?list=PL7akNQhSmpsZUB7aP-ttyYVHHaKjn0W7P) - Tips Web Hay
 * [Vue JS cơ bản](https://www.youtube.com/playlist?list=PLU4OBh9yHE95G_Y1cUVY-5Mc9P-rQBY3F) - RHP Team
 * [VueJS Dành Cho Người Mới Bắt Đầu 2024](https://www.youtube.com/playlist?list=PLnRJxWEhhmzrtVhPAzNCv4DbQk1R7_fS4) - Ninedev
+
+
+### Kiến trúc máy tính
+
+* [Bộ nhớ máy tính hoạt động như thế nào?](https://nguyenly.dev/khoa-hoc/bo-nho-may-tinh-hoat-dong-nhu-the-nao) - Tùng Nguyễn
+* [CPU hoạt động như thế nào?](https://nguyenly.dev/khoa-hoc/cpu-hoat-dong-nhu-the-nao) - Tùng Nguyễn
 
 
 ### Kotlin

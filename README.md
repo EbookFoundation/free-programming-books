@@ -121,6 +121,7 @@ This project lists books and other resources grouped by genres:
 + [Turkish / Türkçe](books/free-programming-books-tr.md)
 + [Ukrainian / Українська](books/free-programming-books-uk.md)
 + [Urdu / اردو](books/free-programming-books-ur.md)
++ [Uzbek / Oʻzbekcha / Ўзбекча](books/free-programming-books-uz.md)
 + [Vietnamese / Tiếng Việt](books/free-programming-books-vi.md)
 
 ### Cheat Sheets

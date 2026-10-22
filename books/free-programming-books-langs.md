@@ -270,7 +270,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Android Tutorial](https://www.tutorialspoint.com/android/) - Tutorials Point (HTML, PDF)
 * [Codelabs for Advanced Android Development](https://developer.android.com/courses/advanced-training/toc)
 * [CodePath Android Cliffnotes](https://github.com/codepath/android_guides/wiki)
-* [Essential Android](https://www.programming-books.io/essential/android/) - Krzysztof Kowalczyk, StackOverflow Contributors
+* [Essential Android](https://web.archive.org/web/20221102153513/https://www.programming-books.io/essential/android/) - Krzysztof Kowalczyk, StackOverflow Contributors *( :card_file_box: archived)*
 * [Expert Android and Eclipse development knowledge](https://www.vogella.com/tutorials/android.html)
 * [Google Android Developer Training](https://developer.android.com/guide)
 * [Styling Android](https://blog.stylingandroid.com)
@@ -400,7 +400,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Computing from the Command Line](https://learnbyexample.github.io/cli-computing/) - Sundeep Agarwal
 * [Conquer the Command Line](https://www.mclibre.org/descargar/docs/revistas/magpi-books/the-magpi-essentials-bash-02-en-201902.pdf) - Richard Smedley (PDF)
 * [Conquering the Command Line](https://www.softcover.io/read/fc6c09de/unix_commands) - Mark Bates (HTML)
-* [Essential Bash](https://www.programming-books.io/essential/bash/) - Krzysztof Kowalczyk, StackOverflow Contributors
+* [Essential Bash](https://web.archive.org/web/20221102153513/https://www.programming-books.io/essential/bash/) - Krzysztof Kowalczyk, StackOverflow Contributors *( :card_file_box: archived)*
 * [Getting Started with BASH](https://www.hypexr.org/bash_tutorial.php) (HTML)
 * [GNU Bash manual](https://www.gnu.org/software/bash/manual/bash.pdf) (PDF)
 * [Google Shell Style Guide](https://google.github.io/styleguide/shellguide.html) - Paul Armstrong (HTML)
@@ -459,7 +459,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Coursebook](https://github.com/illinois-cs241/coursebook) - B. Venkatesh, L. Angrave, et al.
 * [Deep C](https://www.slideshare.net/olvemaudal/deep-c)
 * [Essential C](https://cs.stanford.edu/people/nick/compdocs/Essential_C.pdf) - Nick Parlante (PDF)
-* [Essential C](https://www.programming-books.io/essential/c/) - Krzysztof Kowalczyk, StackOverflow Contributors
+* [Essential C](https://web.archive.org/web/20231113093047/https://www.programming-books.io/essential/c/) - Krzysztof Kowalczyk, StackOverflow Contributors *( :card_file_box: archived)*
 * [Everything you need to know about pointers in C ](https://boredzo.org/pointers/) - Peter Hosey (HTML)
 * [Functional C (1997)](https://research.utwente.nl/files/5128727/book.pdf) - Pieter H. Hartel, Henk Muller (PDF)
 * [Hashing](https://www.smashwords.com/books/view/737188) - Prakash Hegade
@@ -496,7 +496,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Daily Design Patterns](https://web.archive.org/web/20170930132000/https://www.exceptionnotfound.net/downloads/dailydesignpattern.pdf) - Matthew P Jones (PDF) *( :card_file_box: archived)*
 * [Data Structures and Algorithms with Object-Oriented Design Patterns in C#](https://web.archive.org/web/20161220072449/http://www.brpreiss.com/books/opus6/) - Bruno Preiss *( :card_file_box: archived)*
 * [Dissecting a C# Application](https://damieng.com/blog/2007/11/08/dissecting-a-c-application-inside-sharpdevelop) - Christian Holm, Bernhard Spuida, Mike Kruger
-* [Essential C#](https://www.programming-books.io/essential/csharp/) - Krzysztof Kowalczyk, StackOverflow Contributors
+* [Essential C#](https://web.archive.org/web/20231113093108/https://www.programming-books.io/essential/csharp/) - Krzysztof Kowalczyk, StackOverflow Contributors *( :card_file_box: archived)*
 * [Fundamentals of Computer Programming with C# (the Bulgarian Book)](http://www.introprogramming.info/english-intro-csharp-book/read-online/) - Svetlin Nakov, Veselin Kolev, et al. (HTML, [PDF, EPUB](https://introprogramming.info/english-intro-csharp-book/downloads/))
 * [High level asynchronous programming with Reactive Extensions](https://github.com/petroemil/Rx.Book) - Emil Petro
 * [Introduction to Rx](http://www.introtorx.com)
@@ -536,7 +536,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [C++ Tutorial](https://www.cprogramming.com/tutorial/c++-tutorial.html) - Alex Allain
 * [CS106X Programming Abstractions in C++](https://web.stanford.edu/class/cs106x/)
 * [Elements of Programming](http://elementsofprogramming.com) - Alexander Stepanov, Paul McJones (PDF)
-* [Essential C++](https://www.programming-books.io/essential/cpp/) - Krzysztof Kowalczyk, StackOverflow Contributors (CC BY-SA)
+* [Essential C++](https://web.archive.org/web/20250313233804/https://www.programming-books.io/essential/cpp/) - Krzysztof Kowalczyk, StackOverflow Contributors (CC BY-SA) *( :card_file_box: archived)*
 * [Financial Numerical Recipes in C++](https://ba-odegaard.no/gcc_prog/recipes/) - Bernt Arne Ødegaard (PDF)
 * [Fundamentals of C++ Programming](https://web.archive.org/web/20191005170118/https://python.cs.southern.edu/cppbook/progcpp.pdf) - Richard L. Halterman (PDF) *( :card_file_box: archived)*
 * [Game Programming Patterns](http://gameprogrammingpatterns.com/contents.html) (HTML)
@@ -672,7 +672,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Dart
 
-* [Essential Dart](https://www.programming-books.io/essential/dart/) - Krzysztof Kowalczyk, StackOverflow Contributors
+* [Essential Dart](https://web.archive.org/web/20260113102516/https://www.programming-books.io/essential/dart/) - Krzysztof Kowalczyk, StackOverflow Contributors *( :card_file_box: archived)*
 * [Learning Dart](https://riptutorial.com/Download/dart.pdf) - Compiled from StackOverflow documentation (PDF)
 
 
@@ -825,7 +825,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Building Web Apps with Go](https://codegangsta.gitbooks.io/building-web-apps-with-go/content/)
 * [Darker Corners of Go](https://rytisbiel.com/2021/03/06/darker-corners-of-go/) - Rytis Bieliunas
 * [Effective Go](https://golang.org/doc/effective_go.html)
-* [Essential Go](https://www.programming-books.io/essential/go/) - Krzysztof Kowalczyk, StackOverflow Contributors (CC BY-SA)
+* [Essential Go](https://web.archive.org/web/20230714024053/https://www.programming-books.io/essential/go/) - Krzysztof Kowalczyk, StackOverflow Contributors (CC BY-SA) *( :card_file_box: archived)*
 * [Essentials of Go Programming](https://essentials-of-go-programming.readthedocs.io) - Baiju Muthukadan (HTML) (CC BY-SA)
 * [Gin Web Framework](https://chenyitian.gitbooks.io/gin-web-framework/content/)
 * [Go 101](https://go101.org/article/101.html) - [@TapirLiu](https://twitter.com/TapirLiu)
@@ -965,9 +965,9 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Dive Into HTML5](http://diveinto.html5doctor.com) - Mark Pilgrim ([PDF](http://mislav.net/2011/10/dive-into-html5/))
 * [DOM Enlightenment](http://domenlightenment.com) - Cody Lindley (HTML)
 * [Enduring CSS](https://ecss.benfrain.com/preface.html) - Ben Frain (HTML)
-* [Essential CSS](https://www.programming-books.io/essential/css/) - Krzysztof Kowalczyk, StackOverflow Contributors
-* [Essential HTML](https://www.programming-books.io/essential/html/) - Krzysztof Kowalczyk, StackOverflow Contributors
-* [Essential HTML Canvas](https://www.programming-books.io/essential/htmlcanvas/) - Krzysztof Kowalczyk, StackOverflow Contributors
+* [Essential CSS](https://web.archive.org/web/20231113093010/https://www.programming-books.io/essential/css/) - Krzysztof Kowalczyk, StackOverflow Contributors *( :card_file_box: archived)*
+* [Essential HTML](https://web.archive.org/web/20221102153513/https://www.programming-books.io/essential/html/) - Krzysztof Kowalczyk, StackOverflow Contributors *( :card_file_box: archived)*
+* [Essential HTML Canvas](https://web.archive.org/web/20221102153513/https://www.programming-books.io/essential/htmlcanvas/) - Krzysztof Kowalczyk, StackOverflow Contributors *( :card_file_box: archived)*
 * [GA Dash](https://dash.generalassemb.ly)
 * [Google's HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html)
 * [How To Build a Website with HTML](https://www.digitalocean.com/community/books/how-to-build-a-website-with-html-ebook) - Erin Glass (PDF, EPUB) (CC BY-NC-SA)
@@ -1024,7 +1024,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 * [Cocoa Dev Central](http://cocoadevcentral.com)
 * [Develop in Swift Explorations](https://books.apple.com/in/book/develop-in-swift-explorations/id1581182728) - Apple Education (iBook)
-* [Essential iOS](https://www.programming-books.io/essential/ios/) - Krzysztof Kowalczyk, StackOverflow Contributors
+* [Essential iOS](https://web.archive.org/web/20231113093029/https://www.programming-books.io/essential/ios/) - Krzysztof Kowalczyk, StackOverflow Contributors *( :card_file_box: archived)*
 * [iOS Developer Notes for Professionals](https://goalkicker.com/iOSBook/) - Compiled from StackOverflow Documentation (PDF)
 * [iOS Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/ios) (PDF, Kindle) (email address *requested*, not required)
 * [NSHipster](http://nshipster.com/#archive) (Resource)
@@ -1072,7 +1072,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Core Servlets and JavaServer Pages, 2nd Ed. (2003)](https://web.archive.org/web/20210126062450/https://pdf.coreservlets.com/) - Marty Hall, Larry Brown *( :card_file_box: archived)*
 * [Data Structures in Java for the Principled Programmer (2007)](https://web.archive.org/web/20190302130416/http://dept.cs.williams.edu/~bailey/JavaStructures/Book_files/JavaStructures.pdf) - Duane A. Bailey (PDF) *( :card_file_box: archived)*
 * [Effective Java, Third Edition](https://ia801009.us.archive.org/16/items/effectivejava2017addisonwesley/Effective%20Java%20%282017%2C%20Addison-Wesley%29.pdf) - Joshua Bloch (PDF) *( :card_file_box: archived)*
-* [Essential Java](https://www.programming-books.io/essential/java/) - Krzysztof Kowalczyk, StackOverflow Contributors
+* [Essential Java](https://web.archive.org/web/20221102153513/https://www.programming-books.io/essential/java/) - Krzysztof Kowalczyk, StackOverflow Contributors *( :card_file_box: archived)*
 * [Google's Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 * [Hibernate Notes for Professionals](https://books.goalkicker.com/HibernateBook) - Compiled from StackOverflow Documentation (PDF)
 * [Introduction to Computer Science "booksite"](https://introcs.cs.princeton.edu/java/cs/) - Robert Sedgewick, Kevin Wayne (HTML)
@@ -1168,7 +1168,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Dev Docs](https://devdocs.io/javascript/) - Various (HTML)
 * [DOM Enlightenment](https://frontendmasters.com/guides/javascript-enlightenment/) - Cody Linley (HTML)
 * [Eloquent JavaScript 4th edition](https://eloquentjavascript.net) - Marijn Haverbeke (HTML, PDF, EPUB, MOBI) (CC BY-NC)
-* [Essential Javascript](https://www.programming-books.io/essential/javascript/) - Krzysztof Kowalczyk, StackOverflow Contributors (HTML)
+* [Essential Javascript](https://web.archive.org/web/20231113093036/https://www.programming-books.io/essential/javascript/) - Krzysztof Kowalczyk, StackOverflow Contributors (HTML) *( :card_file_box: archived)*
 * [Exploring ES6](http://exploringjs.com/es6/) - Axel Rauschmayer (HTML)
 * [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS) - Kyle Simpson (HTML)
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/javascriptguide.xml) - Aaron Whyte, Bob Jervis, Dan Pupius, Erik Arvidsson, Fritz Schneider, Robby Walker (HTML)
@@ -1346,7 +1346,7 @@ Books on general-purpose programming that don't focus on a specific language are
 #### Node.js
 
 * [An Introduction to libuv](https://nikhilm.github.io/uvbook/) - Nikhil Marathe ([PDF](http://nikhilm.github.io/uvbook/An%20Introduction%20to%20libuv.pdf) - [ePub](http://nikhilm.github.io/uvbook/An%20Introduction%20to%20libuv.epub))
-* [Essential Node.js](https://www.programming-books.io/essential/nodejs/) - Krzysztof Kowalczyk, StackOverflow Contributors
+* [Essential Node.js](https://web.archive.org/web/20231113093008/https://www.programming-books.io/essential/nodejs/) - Krzysztof Kowalczyk, StackOverflow Contributors *( :card_file_box: archived)*
 * [From Containers to Kubernetes with Node.js](https://www.digitalocean.com/community/books/from-containers-to-kubernetes-with-node-js-ebook) - Kathleen Juell (PDF, EPUB)
 * [Full Stack JavaScript: Learn Backbone.js, Node.js and MongoDB](https://github.com/azat-co/fullstack-javascript) - Azat Mardan
 * [How To Code in Node.js - eBook](https://www.digitalocean.com/community/books/how-to-code-in-node-js-ebook) - David Landup, Marcus Sanatan @ Stack Abuse, Digital Ocean (PDF, EPUB)
@@ -1409,7 +1409,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 #### React Native
 
-* [Essential React Native](https://www.programming-books.io/essential/reactnative/) - Krzysztof Kowalczyk, StackOverflow Contributors (CC BY-SA)
+* [Essential React Native](https://web.archive.org/web/20231113093007/https://www.programming-books.io/essential/reactnative/) - Krzysztof Kowalczyk, StackOverflow Contributors (CC BY-SA) *( :card_file_box: archived)*
 * [React Native Animation Book](https://web.archive.org/web/20180303022501/http://browniefed.com/react-native-animation-book/) *( :card_file_box: archived)*
 * [React Native Express](http://www.reactnativeexpress.com)
 * [React Native Notes for Professionals](https://goalkicker.com/ReactNativeBook) - Compiled from StackOverflow documentation (PDF) (CC BY-SA)
@@ -1463,7 +1463,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Kotlin
 
-* [Essential Kotlin](https://www.programming-books.io/essential/kotlin/) - Krzysztof Kowalczyk, StackOverflow Contributors (CC BY-SA)
+* [Essential Kotlin](https://web.archive.org/web/20221102153513/https://www.programming-books.io/essential/kotlin/) - Krzysztof Kowalczyk, StackOverflow Contributors (CC BY-SA) *( :card_file_box: archived)*
 * [Kotlin Notes for Professionals](https://goalkicker.com/KotlinBook/) - Compiled from StackOverflow documentation (PDF) (CC BY-SA)
 * [Kotlin Official Documentation](https://kotlinlang.org/docs/reference/)
 * [Kotlin Quick Reference](https://kotlin-quick-reference.com) - Alvin Alexander (gitbook) (CC BY-SA)
@@ -1676,7 +1676,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### MySQL
 
-* [Essential MySQL](https://www.programming-books.io/essential/mysql/) - Krzysztof Kowalczyk, StackOverflow Contributors
+* [Essential MySQL](https://web.archive.org/web/20230627191456/https://www.programming-books.io/essential/mysql/) - Krzysztof Kowalczyk, StackOverflow Contributors *( :card_file_box: archived)*
 * [Learning MySQL](https://riptutorial.com/Download/mysql.pdf) - Compiled from StackOverflow Documentation (PDF)
 * [MySQL 8.0 Tutorial Excerpt](https://dev.mysql.com/doc/mysql-tutorial-excerpt/8.0/en/tutorial.html) (HTML) [(PDF)](https://downloads.mysql.com/docs/mysql-tutorial-excerpt-8.0-en.pdf)
 * [MySQL Notes for Professionals](https://goalkicker.com/MySQLBook/) - Compiled from StackOverflow Documentation (PDF)
@@ -1697,7 +1697,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Cryptography in .NET Succinctly](https://www.syncfusion.com/ebooks/cryptography_in_net_succinctly) - Dirk Strauss
 * [Entity Framework](http://weblogs.asp.net/zeeshanhirani/my-christmas-present-to-the-entity-framework-community)
 * [Entity Framework Notes for Professionals](https://books.goalkicker.com/EntityFrameworkBook) - Compiled from StackOverflow Documentation (PDF)
-* [Essential .NET Framework](https://www.programming-books.io/essential/netframework/) - Krzysztof Kowalczyk, StackOverflow Contributors
+* [Essential .NET Framework](https://web.archive.org/web/20231113093103/https://www.programming-books.io/essential/netframework/) - Krzysztof Kowalczyk, StackOverflow Contributors *( :card_file_box: archived)*
 * [Game Creation with XNA](https://en.wikibooks.org/wiki/Game_Creation_with_XNA) - Wikibooks
 * [Getting the Most from LINQPad Succinctly](https://www.syncfusion.com/ebooks/getting-the-most-from-linqpad-succinctly) - José Roberto Olivas Mendoza
 * [MonoGame Role-Playing Game Development Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/monogame-role-playing-game-development-succinctly) - Jim Perry and Charles Humphrey
@@ -1744,7 +1744,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Objective-C
 
-* [Essential Objective-C](https://www.programming-books.io/essential/objectivec/) - Krzysztof Kowalczyk, StackOverflow Contributors
+* [Essential Objective-C](https://web.archive.org/web/20231113093040/https://www.programming-books.io/essential/objectivec/) - Krzysztof Kowalczyk, StackOverflow Contributors *( :card_file_box: archived)*
 * [Google's Objective-C Style Guide](https://github.com/google/styleguide/blob/gh-pages/objcguide.md)
 * [Object-Oriented Programming with Objective-C](https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/OOP_ObjC/Introduction/Introduction.html#//apple_ref/doc/uid/TP40005149)
 * [Objective-C Notes for Professionals](https://goalkicker.com/ObjectiveCBook/) - Compiled from StackOverflow Documentation (PDF)
@@ -1843,7 +1843,7 @@ Books on general-purpose programming that don't focus on a specific language are
 ### PHP
 
 * [Clean Code PHP](https://github.com/jupeter/clean-code-php)
-* [Essential PHP](https://www.programming-books.io/essential/php/) - Krzysztof Kowalczyk, StackOverflow Contributors
+* [Essential PHP](https://web.archive.org/web/20241209082612/https://www.programming-books.io/essential/php/) - Krzysztof Kowalczyk, StackOverflow Contributors *( :card_file_box: archived)*
 * [PHP 5 Power Programming](http://www.informit.com/content/images/013147149X/downloads/013147149X_book.pdf) (PDF)
 * [PHP Apprentice](https://phpapprentice.com) - Andrew Davis *( :construction: in process)*
 * [PHP Best Practices](https://phpbestpractices.org)
@@ -1913,7 +1913,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### PostgreSQL
 
-* [Essential PostgreSQL](https://www.programming-books.io/essential/postgresql/) - Krzysztof Kowalczyk, StackOverflow Contributors
+* [Essential PostgreSQL](https://web.archive.org/web/20231113093019/https://www.programming-books.io/essential/postgresql/) - Krzysztof Kowalczyk, StackOverflow Contributors *( :card_file_box: archived)*
 * [Lift the Elephant: Scaling PostgreSQL Beyond Query Optimization](https://leanpub.com/lift-the-elephant) - Alex Yarotsky (PDF) *(Leanpub account or valid email requested)*
 * [Postgres Official Documentation](http://www.postgresql.org/docs/)
 * [Postgres Succinctly](https://www.syncfusion.com/resources/techportal/ebooks/postgres) (PDF, Kindle) (email address *requested*, not required)
@@ -1929,7 +1929,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Creating HTML Reports in PowerShell](https://leanpub.com/creatinghtmlreportsinwindowspowershell/read) - The DevOps Collective Inc. (HTML)
 * [DevOps: The Ops Perspective](https://leanpub.com/devopstheopsperspective/read) - The DevOps Collective Inc. (HTML)
 * [Ditch Excel: Making Historical & Trend Reports in PowerShell](https://leanpub.com/ditchexcelmakinghistoricalandtrendreportsinpowershell/read) - The DevOps Collective Inc. (HTML)
-* [Essential PowerShell](https://www.programming-books.io/essential/powershell/) - Krzysztof Kowalczyk, StackOverflow Contributors
+* [Essential PowerShell](https://web.archive.org/web/20231113093020/https://www.programming-books.io/essential/powershell/) - Krzysztof Kowalczyk, StackOverflow Contributors *( :card_file_box: archived)*
 * [Layman’s Guide to PowerShell 2.0 remoting](https://ravichaganti.com/ebooks/AlaymansguidetoPowerShell2remotingv2.pdf) (PDF)
 * [Learn PowerShell Core 6.0](https://www.packtpub.com/free-ebooks/learn-powershell-core-60) - David das Neves, Jan-Hendrik Peters (Packt account *required*)
 * [Learn PowerShell in Y Minutes](https://learnxinyminutes.com/docs/powershell/)
@@ -2016,7 +2016,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Data Structures and Information Retrieval in Python](https://greenteapress.com/wp/data-structures-and-information-retrieval-in-python/) - Allen B. Downey
 * [Dive into Python 3](https://web.archive.org/web/20251226102127/https://diveintopython3.problemsolving.io/) - Mark Pilgrim (3.0) (CC BY-SA) *( :card_file_box: archived)*
     * [Dive into Python](https://linux.die.net/diveintopython/html/toc/index.html) - Mark Pilgrim (2.3)
-* [Essential Python](https://www.programming-books.io/essential/python/) - Krzysztof Kowalczyk, StackOverflow Contributors
+* [Essential Python](https://web.archive.org/web/20230331044155/https://www.programming-books.io/essential/python/) - Krzysztof Kowalczyk, StackOverflow Contributors *( :card_file_box: archived)*
 * [Full Stack Python](https://www.fullstackpython.com) - Matt Makai
 * [Functional Programming in Python](https://www.oreilly.com/ideas/functional-programming-in-python) - David Mertz  
 * [Fundamentals of  Python Programming](https://web.archive.org/web/20191005170430/http://python.cs.southern.edu/pythonbook/pythonbook.pdf) - Richard L. Halterman (PDF) *( :construction: in process)*
@@ -2308,7 +2308,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [A community-driven Ruby style guide](https://github.com/bbatsov/ruby-style-guide)
 * [Core Ruby Tools](https://launchschool.com/books/core_ruby_tools) - Launch School (HTML)
 * [Developing Games With Ruby](https://leanpub.com/developing-games-with-ruby/read) - Tomas Varaneckas (HTML)
-* [Essential Ruby](https://www.programming-books.io/essential/ruby/) - Krzysztof Kowalczyk, StackOverflow Contributors
+* [Essential Ruby](https://web.archive.org/web/20231113093038/https://www.programming-books.io/essential/ruby/) - Krzysztof Kowalczyk, StackOverflow Contributors *( :card_file_box: archived)*
 * [I Love Ruby](https://i-love-ruby.gitlab.io)
 * [Introduction to Programming with Ruby](https://launchschool.com/books/ruby) - Launch School
 * [Just Enough Ruby to Get By](http://jasonkim.ca/projects/just_enough_ruby_to_get_by/)
@@ -2350,7 +2350,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 * [Api on Rails 6](https://github.com/madeindjs/api_on_rails) - Alexandre Rousseau
 * [Building REST APIs with Rails](https://www.softcover.io/read/06acc071/api_on_rails) - Abraham Kuri Vargas
-* [Essential Ruby on Rails](https://www.programming-books.io/essential/rubyonrails/) - Krzysztof Kowalczyk, StackOverflow Contributors
+* [Essential Ruby on Rails](https://web.archive.org/web/20231113093045/https://www.programming-books.io/essential/rubyonrails/) - Krzysztof Kowalczyk, StackOverflow Contributors *( :card_file_box: archived)*
 * [Kestrels, Quirky Birds, and Hopeless Egocentricity](https://leanpub.com/combinators/read) - Reg Braithwaite (HTML)
 * [Learn Ruby on Rails: Book One](https://learn-rails.com/content/learnrails1) - Daniel Kehoe
 * [Learn Ruby on Rails: Book Two](https://learn-rails.com/content/learnrails2) - Daniel Kehoe
@@ -2540,7 +2540,7 @@ Books on general-purpose programming that don't focus on a specific language are
 ### SQL (implementation agnostic)
 
 * [Developing Time-Oriented Database Applications in SQL](https://www2.cs.arizona.edu/~rts/tdbbook.pdf) - Richard T. Snodgrass (PDF)
-* [Essential SQL](https://www.programming-books.io/essential/sql/index.html) - Krzysztof Kowalczyk, Stack Overflow Documentation project (HTML) (CC BY-SA)
+* [Essential SQL](https://web.archive.org/web/20240905221230/https://www.programming-books.io/essential/sql/index.html) - Krzysztof Kowalczyk, Stack Overflow Documentation project (HTML) (CC BY-SA) *( :card_file_box: archived)*
 * [How to Design Structured Database Systems Using SQL](https://www.freecodecamp.org/news/how-to-design-structured-database-systems-using-sql-full-book/) -  Daniel García Solla, freeCodeCamp (HTML)
 * [Introduction to SQL](https://github.com/bobbyiliev/introduction-to-sql) - Bobby Iliev (Markdown, PDF)
 * [Learning SQL](https://riptutorial.com/Download/sql.pdf) - Compiled from StackOverflow Documentation (PDF)
@@ -2605,7 +2605,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Swift
 
-* [Essential Swift](https://www.programming-books.io/essential/swift/) - Krzysztof Kowalczyk (Compiled from StackOverflow Documentation)
+* [Essential Swift](https://web.archive.org/web/20221102153513/https://www.programming-books.io/essential/swift/) - Krzysztof Kowalczyk (Compiled from StackOverflow Documentation) *( :card_file_box: archived)*
 * [Hacking with Swift](https://www.hackingwithswift.com)
 * [Swift Handbook](https://thevalleyofcode.com/swift/) - Flavio Copes (HTML, PDF)
 * [Swift Notes for Professionals](https://goalkicker.com/SwiftBook/) - Compiled from StackOverflow Documentation (PDF)
@@ -2647,7 +2647,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### TypeScript
 
-* [Essential TypeScript](https://www.programming-books.io/essential/typescript/) - Krzysztof Kowalczyk, StackOverflow Contributors (HTML)
+* [Essential TypeScript](https://web.archive.org/web/20221102153513/https://www.programming-books.io/essential/typescript/) - Krzysztof Kowalczyk, StackOverflow Contributors (HTML) *( :card_file_box: archived)*
 * [Learn TypeScript in Y Minutes](https://learnxinyminutes.com/docs/typescript/) (HTML)
 * [Tackling TypeScript: Upgrading from JavaScript](https://exploringjs.com/tackling-ts/toc.html) - Axel Rauschmayer (HTML)
 * [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) - Simone Poggiali (HTML, PDF, EPUB) (CC BY)

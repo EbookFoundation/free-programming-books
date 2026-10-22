@@ -997,7 +997,6 @@
 
 * [Advanced Software Construction in Java](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.005.2x+1T2017/about) - MIT Open Learning Library
 * [Building Microservices With Spring Boot – Free Course With Practical Project](https://javatodev.com/building-microservices-with-spring-boot-free-course-with-practical-project/) Chinthaka Dinadasa (javatodev)
-* [Central Connecticut State University, Introduction to CS Using Java](http://chortle.ccsu.edu/CS151/cs151java.html)
 * [CS106A - Programming Methodology](https://see.stanford.edu/Course/CS106A) (Stanford)
 * [Fundamentals of Java EE Development](https://www.edx.org/course/fundamentals-of-java-ee-development) -  Will Dinyes (edX)
 * [Hibernate Tutorial for Beginners](https://www.youtube.com/playlist?list=PLsyeobzWxl7qBZtsEvp_n2A7sJs2MpF3r) - Telusko (Navin Reddy)
@@ -1480,7 +1479,6 @@
 
 ### Misc
 
-* [Advanced Adobe XD (Web Design)](https://webdesign.tutsplus.com/courses/advanced-adobe-xd-for-everyone) - Adi Purdila
 * [An Introduction to Developing With NVIDIA Omniverse](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-11+V1) - NVIDIA Deep Learning Institute
 * [Assembling Your First Digital Twin With Omniverse and OpenUSD](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-OV-49+V1) - NVIDIA Deep Learning Institute
 * [Computer Graphics](http://nptel.ac.in/courses/106106090/) 

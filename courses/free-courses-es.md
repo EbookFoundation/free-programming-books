@@ -295,7 +295,7 @@
 
 ### Técnico de Software & Hardware
 
-* [Codificación de audio: más allá del MP3](https://www.edx.org/es/course/codificacion-de-audio-mas-alla-del-mp3-upvalenciax-mp3201x-0)
+* [Codificación de audio: más allá del MP3](https://www.edx.org/es/learn/music-business/universitat-politecnica-de-valencia-codificacion-de-audio-mas-alla-del-mp3)
 * [Compresión de vídeo (2017)](https://ocw.unican.es/course/view.php?id=13) - Univ. de Cantabria
 * [Desarrollo de sistemas de información (2013)](https://ocw.unican.es/course/view.php?id=99)
 * [Sistemas de Información y ordenadores, Parte 1: Sistemas de información para la empresa](https://www.edx.org/course/sistemas-de-informacion-y-ordenadores-upvalenciax-sic101-1x)

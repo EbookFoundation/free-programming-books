@@ -301,7 +301,7 @@
 * [Hacker Culture](https://anchor.fm/hackerculture) - Jaron Swab (podcast)
 * [IBM Developer Podcast](https://developer.ibm.com/podcasts/ibm_developer_podcast/) - IBM (podcast)
 * [IEEE Software's "On Computing" with Grady Booch](http://www.computer.org/web/computingnow/oncomputing) - Grady Booch (podcast)
-* [In the Open with Luke and Joe](https://web.archive.org/web/20260216214428/https://developer.ibm.com/podcasts/in-the-open-with-luke-and-joe/) - Luke Schantz, Joe Sepi (podcast) *( :card_file_box: archived)*
+* [In the Open with Luke and Joe](https://web.archive.org/web/20210616141744/https://developer.ibm.com/podcasts/in-the-open-with-luke-and-joe/) - Luke Schantz, Joe Sepi (podcast) *( :card_file_box: archived)*
 * [Ladybug Podcast](https://www.ladybug.dev) - Kelly Vaughn, Ali Spittel, Emma Bostian, Sidney Buckner (podcast)
 * [Learn to Code with Me](https://learntocodewith.me/podcast/) - Laurence Bradford (podcast)
 * [Lex Fridman Podcast](https://lexfridman.com/podcast) - Lex Fridman (podcast)

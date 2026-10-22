@@ -187,6 +187,7 @@
 * [深入理解并行编程](http://ifeve.com/perfbook/)
 * [SAN 管理入门系列](https://community.emc.com/docs/DOC-16067)
 * [Sketch 中文手册](http://sketchcn.com/sketch-chinese-user-manual.html#introduce)
+* [The LabVIEW Journey](https://lv.qizhen.xyz) - 阮奇桢 (HTML)
 
 
 ### 人工智能
@@ -207,6 +208,7 @@
 
 * [傻瓜函数编程](https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn) (《Functional Programming For The Rest of Us》中文版)
 * [硝烟中的 Scrum 和 XP](http://www.infoq.com/cn/minibooks/scrum-xp-from-the-trenches)
+* [重构程序员](https://cocode.qizhen.xyz) - 阮奇桢 *( :construction: in process)*
 
 
 ### 设计模式
@@ -672,6 +674,7 @@
 * [Numpy 1.16 中文文档](https://www.osgeo.cn/numpy/) (Online)
 * [Python 3 文档(简体中文) 3.2.2 documentation](https://docspy3zh.readthedocs.org/en/latest/)
 * [Python 3.8.0a3中文文档](https://www.osgeo.cn/cpython/) (Online) *(目前在线最全的中文文档了)*
+* [Python 教程](https://py.qizhen.xyz) - 阮奇桢
 * [Python 最佳实践指南](https://pythonguidecn.readthedocs.io/zh/latest/)
 * [Python Cookbook第三版](https://python3-cookbook.readthedocs.io/zh_CN/latest/) - David Beazley、Brian K.Jones、熊能(翻译)
 * [Python教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1016959663602400)

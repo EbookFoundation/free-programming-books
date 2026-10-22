@@ -2072,6 +2072,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Programming Basics with Python](https://python-book.softuni.org) - Svetlin Nakov & Team
 * [Programming Computer Vision with Python](http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf) (PDF)
 * [Programming for Non-Programmers, Release 2.6.2](https://web.archive.org/web/20180921063136/http://buildingskills.itmaybeahack.com/book/programming-2.6/latex/ProgrammingforNon-Programmers.pdf) - Steven F. Lott (PDF) (2.6) *( :card_file_box: archived)*
+* [Programming with Python](https://thomasweise.github.io/programmingWithPython/programmingWithPython.pdf) - Thomas Weise (PDF) (CC BY‑NC‑SA)
 * [PySDR: A Guide to SDR and DSP using Python](https://pysdr.org) - Marc Lichtman (3.x)
 * [Python 101](https://python101.pythonlibrary.org) - Michael Driscoll (HTML, TEXT)
 * [Python 2 Official Documentation](https://docs.python.org/2/download.html) (PDF, HTML, TEXT) (2.x)

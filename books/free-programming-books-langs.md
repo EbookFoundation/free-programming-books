@@ -678,9 +678,9 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### DB2
 
-* [Getting started with DB2 Express-C](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_Started_with_DB2_Express_v9.7_p4.pdf) (PDF)
-* [Getting started with IBM Data Studio for DB2](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_Started_with_IBM_Data_Studio_for_DB2_p3.pdf) (PDF)
-* [Getting started with IBM DB2 development](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_Started_with_DB2_App_Dev_p2.pdf) (PDF)
+* [Getting started with DB2 Express-C](https://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_Started_with_DB2_Express_v9.7_p4.pdf) (PDF)
+* [Getting started with IBM Data Studio for DB2](https://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_Started_with_IBM_Data_Studio_for_DB2_p3.pdf) (PDF)
+* [Getting started with IBM DB2 development](https://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Getting_Started_with_DB2_App_Dev_p2.pdf) (PDF)
 
 
 ### DBMS
@@ -1041,8 +1041,8 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Isabelle/HOL
 
-* [Concrete Semantics - A Proof Assistant Approach](http://www21.in.tum.de/~nipkow/Concrete-Semantics/) - Tobias Nipkow, Gerwin Klein (PDF)
-* [Isabelle/HOL - A Proof Assistant for Higher-Order Logic](http://isabelle.in.tum.de/doc/tutorial.pdf) - Tobias Nipkow, Lawrence C. Paulson, Markus Wenzel (PDF)
+* [Concrete Semantics - A Proof Assistant Approach](https://www21.in.tum.de/~nipkow/Concrete-Semantics/) - Tobias Nipkow, Gerwin Klein (PDF)
+* [Isabelle/HOL - A Proof Assistant for Higher-Order Logic](https://isabelle.in.tum.de/doc/tutorial.pdf) - Tobias Nipkow, Lawrence C. Paulson, Markus Wenzel (PDF)
 
 
 ### J
@@ -1780,7 +1780,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### OpenMP
 
-* [A Guide To OpenMP](http://bisqwit.iki.fi/story/howto/openmp/)
+* [A Guide To OpenMP](https://bisqwit.iki.fi/story/howto/openmp/)
 * [OpenMP Application Programming Interface Standard Version 4.0](http://www.openmp.org/mp-documents/OpenMP4.0.0.pdf) (PDF)
 * [OpenMP Application Programming Interface Standard Version 5.0](https://www.openmp.org/wp-content/uploads/OpenMP-API-Specification-5.0.pdf) (PDF)
 

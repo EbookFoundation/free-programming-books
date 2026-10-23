@@ -81,10 +81,10 @@
 
 ### 0 - Language Agnostic
 
-* [Введение в методы машинной обработки данных](https://mkurnosov.net/docs/dsa-book-2020.pdf) - Курносов М.Г. (PDF)
-* [Документация по Markdown: Спецификация стандарта языка текстовой разметки](https://github.com/Cultus-Tenebrae/Markdown-documentation/releases/latest/download/Markdown-documentation.pdf) - Изергиль Ван Дер Вельде (PDF)
+* [Введение в методы машинной обработки данных](https://mkurnosov.net/files/dsa-book-2020.pdf) - Курносов М.Г. (PDF)
+* [Документация по Markdown: Спецификация стандарта языка текстовой разметки](https://github.com/Cultus-Tenebrae/Markdown-documentation/releases/latest) - Изергиль Ван Дер Вельде (PDF)
 * [Операционные системы](https://vseloved.github.io/pdf/os-ru.pdf) - Всеволод Дёмкин (PDF)
-* [Параллельные технологии](http://www.inp.nsk.su/~baldin/Parallel/index.html)
+* [Параллельные технологии](http://www.inp.nsk.su/~baldin/Parallel/index.html) - Евгений Балдин (PDF)
 * [Программирование: введение в профессию](http://stolyarov.info/books/programming_intro) - Столяров Андрей Викторович (PDF)
 * [Руководство по HTTP](http://proselyte.net/tutorials/http-tutorial) - Евгений Сулейманов
 * [Руководство по SOAP](http://proselyte.net/tutorials/soap-tutorial) - Евгений Сулейманов
@@ -103,7 +103,7 @@
 #### Облачные вычисления
 
 * [Программирование Cloud Native. Микросервисы, Docker и Kubernetes](https://ipsoftware.ru/books/cloud-k8s/) - Иван Портянкин (PDF, EPUB, MOBI)
-* [Разработка мультитенантных приложений для облака, издание 3-е](http://www.microsoft.com/ru-ru/download/details.aspx?id=29263)
+* [Разработка мультитенантных приложений для облака, издание 3-е](http://www.microsoft.com/ru-ru/download/details.aspx?id=29263) - Доминик Беттс, Алекс Хомер, Алехандро Езерски, Масаши Нарумото, Ганц Чжан (PDF)
 
 
 #### Парадигмы программирования

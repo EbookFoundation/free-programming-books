@@ -123,6 +123,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [LaTeX / TeX](#latex--tex)
     * [LaTeX](#latex)
     * [TeX](#tex)
+* [Lean](#lean)
 * [Limbo](#limbo)
 * [Linux](#linux)
 * [Lisp](#lisp)
@@ -1492,6 +1493,11 @@ Books on general-purpose programming that don't focus on a specific language are
 ### Language Agnostic
 
 * [BY SUBJECT](free-programming-books-subjects.md) This section has been moved to its own file.
+
+
+### Lean
+
+* [Functional Programming in Lean](https://lean-lang.org/functional_programming_in_lean/) - David Thrane Christiansen (HTML) (CC BY)
 
 
 ### Limbo

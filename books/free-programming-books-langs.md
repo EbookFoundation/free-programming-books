@@ -297,7 +297,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 * [Arduino-docs : A beginner's guide](https://arduino-doc.readthedocs.io/en/latest/) - Paramesh Chandra (HTML)
 * [Arduino Programming Notebook](https://unglue.it/work/152452) - Brian Evans (PDF) ( :card_file_box: *archived at unglue.it*) (CC BY-NC-SA)
-* [Arduino Projects Book](https://www.eitkw.com/wp-content/uploads/2020/03/Arduino_Projects_Book.pdf) - Scott Fitzgerald and Michael Shiloh (PDF)
+* [Arduino Projects Book](https://web.archive.org/web/20240922220334/https://www.eitkw.com/wp-content/uploads/2020/03/Arduino_Projects_Book.pdf) - Scott Fitzgerald and Michael Shiloh (PDF) *( :card_file_box: archived)*
 * [Arduino Tips, Tricks, and Techniques](https://cdn-learn.adafruit.com/downloads/pdf/arduino-tips-tricks-and-techniques.pdf) - lady ada (PDF)
 * [Getting started with Arduino – A Beginner’s Guide](http://manuals.makeuseof.com.s3.amazonaws.com/for-mobile/Arduino_-_MakeUseOf.com.pdf) - Brad Kendall (PDF)
 * [Getting Started with Arduino products](https://www.arduino.cc/en/Guide) - Official Arduino Documentation *( :construction: in process)*
@@ -1214,7 +1214,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Single page apps in depth](http://singlepageappbook.com) - Mixu (HTML)
 * [Software Design by Example: A Tool-Based Introduction with JavaScript](https://third-bit.com/sdxjs/) - Greg Wilson (HTML)
 * [Some drops of JavaScript](https://drops-of-javascript.hi-folks.dev) - Roberto Butti (HTML) (CC BY-NC-SA) *( :construction: in process)*
-* [Speaking JavaScript](https://exploringjs.com/es5/) - Axel Rauschmayer (HTML)
+* [Speaking JavaScript](https://web.archive.org/web/20251211171153/https://exploringjs.com/es5/) - Axel Rauschmayer (HTML) *( :card_file_box: archived)*
 * [Standard ECMA-262 ECMAScript 2016 Language Specification](https://www.ecma-international.org/publications/standards/Ecma-262.htm) - Ecma International (HTML, PDF)
 * [The Code Challenge Book](https://s3.amazonaws.com/coderbytestaticimages/CoderbyteEbook.pdf) - Daniel Borowski (PDF)
 * [The JavaScript Beginner's Handbook](https://flaviocopes.com/page/javascript-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
@@ -1533,7 +1533,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Linux Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/linux) (PDF, Kindle) (email address *requested*, not required)
 * [Linux System Administration](https://linux-training.be/linuxsys.pdf) - Paul Cobbaut (PDF)
 * [Secure Programming HOWTO - Creating Secure Software](http://www.dwheeler.com/secure-programs/) - D. A. Wheeler (HTML, PDF)
-* [Ten Steps to Linux Survival: Bash for Windows People](http://dullroar.com/book/TenStepsToLinuxSurvival.html) - Jim Lehmer
+* [Ten Steps to Linux Survival: Bash for Windows People](https://github.com/dullroar/ten-steps-to-linux-survival) - Jim Lehmer (HTML)
 * [The Debian Administrator's Handbook](https://debian-handbook.info)
 * [The Linux Command Line](http://linuxcommand.org/tlcl.php) (PDF)
 * [The Linux Commands Handbook](https://flaviocopes.com/page/linux-commands-handbook/) - Flavio Copes (PDF, EPUB, Kindle) *(email address requested)*
@@ -2291,7 +2291,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Raspberry Pi
 
-* [Raspberry Pi Beginner's Guide 4th Edition](https://magpi.raspberrypi.com/books/beginners-guide-4th-ed) - The MagPi magazine (PDF)
+* [Raspberry Pi Beginner's Guide 4th Edition](https://magazine.raspberrypi.com/downloads/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcEFEIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--540c7c346727955efc69906f55637a5a2f2b9c9c/BeginnersGuide-4thEd-Eng_v2.pdf) - The MagPi magazine (PDF)
 * [Raspberry Pi: Measure, Record, Explore](https://leanpub.com/RPiMRE/read) - Malcolm Maclean (HTML)
 * [Raspberry Pi Users Guide (2012)](http://www.cs.unca.edu/~bruce/Fall14/360/RPiUsersGuide.pdf) - Eben Upton (PDF)
 * [The Official Raspberry Pi Handbook 2023](https://magpi.raspberrypi.com/books/handbook-2023) - The MagPi magazine (PDF)
@@ -2650,7 +2650,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 * [Essential TypeScript](https://www.programming-books.io/essential/typescript/) - Krzysztof Kowalczyk, StackOverflow Contributors (HTML)
 * [Learn TypeScript in Y Minutes](https://learnxinyminutes.com/docs/typescript/) (HTML)
-* [Tackling TypeScript: Upgrading from JavaScript](https://exploringjs.com/tackling-ts/toc.html) - Axel Rauschmayer (HTML)
+* [Tackling TypeScript: Upgrading from JavaScript](https://web.archive.org/web/20250221154104/https://exploringjs.com/tackling-ts/toc.html) - Axel Rauschmayer (HTML) *( :card_file_box: archived)*
 * [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) - Simone Poggiali (HTML, PDF, EPUB) (CC BY)
 * [Total TypeScript: Essentials](https://www.totaltypescript.com/books/total-typescript-essentials) (HTML)
 * [TypeScript Accelerated](https://accelerated.amimetic.co.uk) - James Porter (HTML)

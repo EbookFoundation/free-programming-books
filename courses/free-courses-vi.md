@@ -52,7 +52,7 @@
 
 ### AJAX
 
-* [Học AJAX cơ bản và nâng cao](https://hoclaptrinh.vn/tutorial/hoc-ajax)
+* [Học AJAX cơ bản và nâng cao](https://web.archive.org/web/20231203174733/https://hoclaptrinh.vn/tutorial/hoc-ajax) *( :card_file_box: archived)*
 
 
 ### Android
@@ -258,16 +258,16 @@
 
 ### HTML and CSS
 
-* [CSS Cơ Bản](https://www.codehub.com.vn/CSS-Co-Ban) - Codehub
+* [CSS Cơ Bản](https://web.archive.org/web/20231031081349/https://www.codehub.com.vn/CSS-Co-Ban) - Codehub *( :card_file_box: archived)*
 * [CSS Cơ Bản](https://www.youtube.com/playlist?list=PLl4nkmb3a8w1cnIhegAj5_mE8w_mbYvY4) - Thạch Phạm
-* [Học HTML](https://www.codehub.com.vn/Hoc-HTML) - Codehub
-* [HTML](https://www.codehub.com.vn/HTML) - Codehub
-* [HTML Cơ Bản](https://www.codehub.com.vn/HTML-Co-Ban) - Codehub
+* [Học HTML](https://web.archive.org/web/20241106060920/https://www.codehub.com.vn/Hoc-HTML) - Codehub *( :card_file_box: archived)*
+* [HTML](https://web.archive.org/web/20241009065814/https://www.codehub.com.vn/HTML) - Codehub *( :card_file_box: archived)*
+* [HTML Cơ Bản](https://web.archive.org/web/20231031081352/https://www.codehub.com.vn/HTML-Co-Ban) - Codehub *( :card_file_box: archived)*
 * [HTML Cơ Bản](https://www.youtube.com/playlist?list=PLl4nkmb3a8w135_M4YRPzYD9_6tERz3ce) - Thạch Phạm
 * [HTML, CSS cơ bản dễ hiểu- học lập trình online miễn phí](https://www.youtube.com/playlist?list=PLPt6-BtUI22oveeGAyckbAXRSmTBGLZP4) - Gà Lại Lập Trình
 * [HTML, CSS từ Zero Tới Hero](https://www.youtube.com/playlist?list=PL_-VfJajZj0U9nEXa4qyfB4U5ZIYCMPlz) - F8 Official
 * [HTML Dành Cho Lập Trình Viên Web](https://zendvn.com/mien-phi-html-danh-cho-lap-trinh-vien-web-68) - Nguyen Van Linh (ZendVN)
-* [Tự Học Thiết Kế Website với HTML và CSS](https://www.codehub.com.vn/Tu-Hoc-Thiet-Ke-Website-voi-HTML-va-CSS) - Codehub
+* [Tự Học Thiết Kế Website với HTML và CSS](https://web.archive.org/web/20240921032507/https://www.codehub.com.vn/Tu-Hoc-Thiet-Ke-Website-voi-HTML-va-CSS) - Codehub *( :card_file_box: archived)*
 
 
 ### Java
@@ -300,7 +300,7 @@
 * [Học Javascript cùng F8](https://www.youtube.com/playlist?list=PLwJIrGynFq9APduetgi3l9xehOCZCTZEG) - Tech Mely
 * [JavaScript A-Z 2020](https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-uPZnTdScfuH0xD-O6Kb-V-) - CodersX
 * [JavaScript Advanced 2020](https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-tVbSFcv-p1yOaHiG8fo0kP) - CodersX
-* [JavaScript Cơ Bản](https://www.codehub.com.vn/JavaScript-Co-Ban) - Codehub
+* [JavaScript Cơ Bản](https://web.archive.org/web/20241106041514/https://www.codehub.com.vn/JavaScript-Co-Ban) - Codehub *( :card_file_box: archived)*
 * [Javascript Cơ Bản](https://www.youtube.com/playlist?list=PL_-VfJajZj0VgpFpEVFzS5Z-lkXtBe-x5) - F8 Official
 * [JavaScript siêu tốc - Khóa học lập trình JavaScript từ cơ bản đến nâng cao](https://www.youtube.com/playlist?list=PLPt6-BtUI22pYwpfmkP4EuJkf6GRe63KU) - Gà Lại Lập Trình
 * [Khóa học Javascript siêu dễ 2023 - Lập trình thật dễ](https://www.youtube.com/playlist?list=PL_QEvEi9neNS1rdD8jeQR0xP0EZEiSELT) - Lập trình thật dễ
@@ -308,7 +308,7 @@
 * [Tự học Javascript - Lập trình Javascript](https://www.youtube.com/playlist?list=PLv6GftO355AvAl13CUVcVvWu0hOZnpfW8) - ZendVN
 * [Tự Học Javascript Cơ Bản Từ A đến Z Cho Người Mới Bắt Đầu với Hỏi Dân IT](https://www.youtube.com/playlist?list=PLncHg6Kn2JT5dfQqpVtfNYvv3EBVHHVKo) - Hỏi Dân IT
 * [Tự Học JavaScript Nâng Cao -  Modern JavaScript Từ A đến Z Cho Beginners](https://www.youtube.com/playlist?list=PLncHg6Kn2JT4eGJ__iQv6BrvL_YnZLHyX) - Hỏi Dân IT
-* [Tự Học Thiết Kế Website với HTML, CSS và JavaScript](https://www.codehub.com.vn/Tu-Hoc-Thiet-Ke-Website-voi-HTML-CSS-va-JavaScript/Tao-Hieu-Ung-Accordion) - Codehub
+* [Tự Học Thiết Kế Website với HTML, CSS và JavaScript](https://web.archive.org/web/20241009055117/https://www.codehub.com.vn/Tu-Hoc-Thiet-Ke-Website-voi-HTML-CSS-va-JavaScript/Tao-Hieu-Ung-Accordion) - Codehub *( :card_file_box: archived)*
 
 
 #### AngularJS
@@ -326,7 +326,7 @@
 * [Học jQuery cơ bản](https://www.youtube.com/playlist?list=PL75xdq9Y-GaQly0pFP2pFO8xYYfLQXjtG) - CiOne eLearning
 * [Học jQuery từ cơ bản đến nâng cao](https://www.youtube.com/playlist?list=PLuEp4OGUFN9s2Lw4msL-5xevemYEPcLCS) - Học online
 * [Học jQuery từ cơ bản đến nâng cao](https://www.youtube.com/playlist?list=PLjjB_k3ljmLRu_Xvtq7pxOEhgikS6xonm) - Ngọc Hoàng IT
-* [jQuery Cơ Bản](https://www.codehub.com.vn/jQuery-Co-Ban) - Codehub
+* [jQuery Cơ Bản](https://web.archive.org/web/20231031081244/https://www.codehub.com.vn/jQuery-Co-Ban) - Codehub *( :card_file_box: archived)*
 * [Khóa Học Lập Trình Jquery Với Project Thực Tế](https://www.youtube.com/playlist?list=PLttNL2ipMblsb9w03TUDAInwnH-bXaTft) - Coding Is Life
 * [Lập trình jQuery từ cơ bản đến nâng cao](https://www.youtube.com/playlist?list=PLRhlTlpDUWsyAGY7FDGSndEhOD3F2Ruhm) - TEDU
 * [Tự Học JQuery](https://www.youtube.com/playlist?list=PLepCFdNQOPNfY15_XAp-cRN3XrKYCvT-h) - T.A.N
@@ -419,18 +419,18 @@
 ### Objective-C
 
 * [Học lập trình objective-c miễn phí](https://www.youtube.com/playlist?list=PLgT92sqeoAUC6gHyrbdZTbulFF8qwxGSK) - Kênh học miễn phí qua video trên youtube
-* [Objective-C Cơ Bản](https://www.codehub.com.vn/Objective-C-Co-Ban) - Codehub
+* [Objective-C Cơ Bản](https://web.archive.org/web/20241009064838/https://www.codehub.com.vn/Objective-C-Co-Ban) - Codehub *( :card_file_box: archived)*
 
 
 ### PHP
 
 * [Học Lập Trình PHP + Mysql](https://www.youtube.com/playlist?list=PLaevEBkXyvnXEMoe6ZHFJGjPDb_eCCVNc) - Hoàng Thương Official
-* [Học PHP qua các hàm thông dụng](https://www.codehub.com.vn/PHP) - Codehub
+* [Học PHP qua các hàm thông dụng](https://web.archive.org/web/20240813183257/https://www.codehub.com.vn/PHP) - Codehub *( :card_file_box: archived)*
 * [Học php từ cơ bản đến nâng cao - web bán hàng](https://www.youtube.com/playlist?list=PLSMUwja5VsJWoq5VmD5cW2Xoy52FILBV3) - gv cybersoft
 * [Khoá học PHP & MYSQL bài bản từ A-Z](https://www.youtube.com/playlist?list=PL88QwC-jiH9ByYqO0mVStNEHB6QT24yx1) - Học Lập Trình - Hienu
 * [Lập trình PHP1 - SU22](https://www.youtube.com/playlist?list=PLieAxB9_noZlWuur0Hxw7BIYVbGJ-hS0N) - Thầy Hộ Fpoly
-* [Lập Trình Website Với PHP và MySQL](https://www.codehub.com.vn/Lap-Trinh-Website-Voi-PHP-va-MySQL) - Codehub
-* [PHP Cơ Bản](https://www.codehub.com.vn/PHP-Co-Ban) - Codehub
+* [Lập Trình Website Với PHP và MySQL](https://web.archive.org/web/20240921033453/https://www.codehub.com.vn/Lap-Trinh-Website-Voi-PHP-va-MySQL) - Codehub *( :card_file_box: archived)*
+* [PHP Cơ Bản](https://web.archive.org/web/20241009064041/https://www.codehub.com.vn/PHP-Co-Ban) - Codehub *( :card_file_box: archived)*
 * [PHP Cơ Bản](https://www.youtube.com/playlist?list=PLU4OBh9yHE940f_T2IyAWHAjXhMxYFZky) - RHP Team
 * [Tự Học Lập trình PHP](https://www.youtube.com/playlist?list=PLv6GftO355AsZFXlWLKob6tMsWZa4VCY1) - ZendVN - Học Lập Trình Online
 * [Tự học PHP - Các đối tượng khác trong PHP](https://www.youtube.com/playlist?list=PLv6GftO355Av7YIhRHajDEWCHq1viEKEy) - ZendVN
@@ -457,7 +457,7 @@
 * [Lập trình Python cơ bản cho người mới bắt đầu](https://www.youtube.com/playlist?list=PLyxSzL3F7486SaHaQayPdKJUScVFh1UwA) - TITV
 * [LẬP TRÌNH PYTHON TỪ CƠ BẢN TỚI NÂNG CAO](https://www.youtube.com/playlist?list=PLux-_phi0Rz0Ngc01o_GYe0JUGjL1yIAm) - 28tech
 * [Lập trình website với Python Django](https://www.youtube.com/playlist?list=PL33lvabfss1z8GYxjyMulCnhcYGk5ah8P) - Kteam
-* [Python Cơ Bản](https://www.codehub.com.vn/Python-Co-Ban) - Codehub
+* [Python Cơ Bản](https://web.archive.org/web/20240525115906/https://www.codehub.com.vn/Python-Co-Ban) - Codehub *( :card_file_box: archived)*
 * [Python Cơ Bản](https://www.youtube.com/playlist?list=PLyiioioEJSxEh_S_XFvG0d2xKRMSWLfN_) - Dạy Nhau Học
 * [Python Cơ Bản](https://www.youtube.com/playlist?list=PL33lvabfss1xczCv2BA0SaNJHu_VXsFtg) - Kteam
 * [Tự học lập trình python](https://www.youtube.com/playlist?list=PLPt6-BtUI22oGqQwAEF6xwrFL6aOjtHWl) - Gà Lại Lập Trình
@@ -537,7 +537,7 @@
 
 * [Hiểu toàn bộ MySQL Database trong 1 giờ 42 phút](https://www.youtube.com/watch?v=TslBGnENTFw) - Trần Quốc Huy
 * [Học SQL Cơ Bản](https://www.youtube.com/playlist?list=PLE1qPKuGSJaDkQQB5vK7t7-PRIVjtqeHB) - Thân Triệu
-* [Học SQL Cơ Bản](https://www.codehub.com.vn/Hoc-SQL) - Codehub
+* [Học SQL Cơ Bản](https://web.archive.org/web/20231031081300/https://www.codehub.com.vn/Hoc-SQL) - Codehub *( :card_file_box: archived)*
 * [Lập trình SQL Server căn bản](https://tedu.com.vn/khoa-hoc/lap-trinh-sql-server-can-ban-6.html) - TEDU
 * [SQL](https://www.youtube.com/playlist?list=PLiyVagO7GfBEOReFCMbcffzkgfWaGl-AN) - J2Team
 * [SQL Cơ Bản](https://www.youtube.com/playlist?list=PL33lvabfss1xnFpWQF6YH11kMTS1HmLsw) - Kteam
@@ -651,4 +651,4 @@
 
 ### XML
 
-* [Học XML cơ bản và nâng cao](https://hoclaptrinh.vn/tutorial/hoc-xml-co-ban-va-nang-cao)
+* [Học XML cơ bản và nâng cao](https://web.archive.org/web/20231203165523/https://hoclaptrinh.vn/tutorial/hoc-xml-co-ban-va-nang-cao) *( :card_file_box: archived)*

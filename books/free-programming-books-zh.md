@@ -720,7 +720,7 @@
 * [通过例子学习 Rust](https://github.com/rustcc/rust-by-example/)
 * [Rust 官方教程](https://github.com/KaiserY/rust-book-chinese)
 * [Rust 宏小册](https://zjp-cn.github.io/tlborm/)
-* [Rust 语言圣经](https://course.rs)
+* [Rust 语言圣经](https://web.archive.org/web/20220309064127/https://course.rs) *( :card_file_box: archived)*
 * [Rust 语言学习笔记](https://github.com/photino/rust-notes)
 * [RustPrimer](https://github.com/rustcc/RustPrimer)
 * [Tour of Rust](https://tourofrust.com/00_zh-cn.html)

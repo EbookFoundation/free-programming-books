@@ -123,7 +123,7 @@
 
     ```text
     ПЛОХО : * [Другая шикарная книга](http://example.com/)- Джон Доу (HTML)
-    ПЛОХО : * [Другая шикарная книга](https://downloads.example.org/book.html)- Джон Доу (cайт для загрузки)
+    ПЛОХО : * [Другая шикарная книга](https://downloads.example.org/book.html)- Джон Доу (сайт для загрузки)
     ХОРОШО: * [Другая шикарная книга](http://example.com/) - Джон Доу (HTML) [(PDF, EPUB)](https://downloads.example.org/book.html)
     ```
 

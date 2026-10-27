@@ -18,12 +18,13 @@ Key Features:
 - Filters to ignore code blocks, inline code, and text within parentheses.
 - Specific check for RTL authors followed by LTR metadata.
 """
-import sys
-import os
 import argparse
+import os
 import re
-import yaml
+import sys
+
 from bidi.algorithm import get_display
+import yaml
 
 
 def load_config(path):
@@ -210,7 +211,8 @@ def lint_file(path, cfg):
 
     # Try to read the file content and handle potential errors
     try:
-        lines = open(path, encoding='utf-8').read().splitlines()
+        with open(path, encoding='utf-8') as f:
+            lines = f.read().splitlines()
     except Exception as e:
         return [f"::error file={path},line=1::Cannot read file: {e}"] # Return as a list of issues
 
@@ -501,7 +503,7 @@ def main():
     annotated_errs = 0
 
     # Normalize changed file paths for consistent comparison
-    changed_files_set = set(os.path.normpath(f) for f in args.changed_files) if args.changed_files else set()
+    changed_files_set = {os.path.normpath(f) for f in args.changed_files} if args.changed_files else set()
 
     # Build a map: {filepath: set(line_numbers)} for changed files
     changed_lines_map = {}
@@ -552,7 +554,7 @@ def main():
                                             annotated_errs += 1
                                 
                                 # Count all errors/warnings for reporting/debugging purposes
-                                if issue_str.startswith("::error") or issue_str.startswith("::warning"):
+                                if issue_str.startswith(("::error", "::warning")):
                                     errs += 1
 
             # If the path is a Markdown file, lint it directly
@@ -585,7 +587,7 @@ def main():
                                 annotated_errs += 1
 
                     # Count all errors/warnings for reporting/debugging purposes
-                    if issue_str.startswith("::error") or issue_str.startswith("::warning"):
+                    if issue_str.startswith(("::error", "::warning")):
                         errs += 1
 
     # If no issues were found, remove the log file

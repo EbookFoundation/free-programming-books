@@ -1414,7 +1414,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [React Native Express](http://www.reactnativeexpress.com)
 * [React Native Notes for Professionals](https://goalkicker.com/ReactNativeBook) - Compiled from StackOverflow documentation (PDF) (CC BY-SA)
 * [React Native Training](https://www.gitbook.com/book/unbug/react-native-training/details)
-* [The Ultimate Guide to React Native Optimization](https://www.callstack.com/blog/download-the-ultimate-guide-to-react-native-optimization-ebook) (PDF) *(email requested, not required)*
+* [The Ultimate Guide to React Native Optimization](https://www.callstack.com/ebooks/the-ultimate-guide-to-react-native-optimization) (PDF) *(email requested, not required)*
 
 
 #### Redux
@@ -2135,7 +2135,7 @@ Books on general-purpose programming that don't focus on a specific language are
 #### Django
 
 * [All-Auth](https://django-allauth.readthedocs.io/en/latest/overview.html) (HTML)
-* [AutoComplete-Light](https://django-autocomplete-light.readthedocs.io/en/master/tutorial.html) (HTML)
+* [AutoComplete-Light](https://web.archive.org/web/20250213001855/https://django-autocomplete-light.readthedocs.io/en/master/tutorial.html) (HTML) *( :card_file_box: archived)*
 * [Django Filters](https://django-filter.readthedocs.io/en/stable/) (HTML)
 * [Django Girls Tutorial](https://tutorial.djangogirls.org/en/) (1.11)
 * [Django Official Documentation](https://media.readthedocs.org/pdf/django/1.5.x/django.pdf) (PDF) (1.5)

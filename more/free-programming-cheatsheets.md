@@ -92,7 +92,7 @@
 
 * [101 Gen-AI Cheat Sheets](https://medium.com/@anushka.datascoop/101-gen-ai-cheat-sheets-831e17f1e6a7) - Anushka (Medium)
 * [AI is confusing — here’s your cheat sheet](https://www.theverge.com/24201441/ai-terminology-explained-humans) Jay Peters (HTML)
-* [What is Artificial Intelligence?](https://intelligencereborn.com/ArtificialIntelligence.html) IntelligenceReborn (HTML)
+* [What is Artificial Intelligence?](https://web.archive.org/web/20250422232835/https://intelligencereborn.com/ArtificialIntelligence.html) IntelligenceReborn (HTML) *( :card_file_box: archived)*
 
 
 ### Blockchain
@@ -460,7 +460,7 @@
 
 ### Octave
 
-* [Octave Cheat Sheet](https://www.lehman.edu/academics/cmacs/documents/refcard-a4.pdf) - John W. Eaton (PDF)
+* [Octave Cheat Sheet](https://web.archive.org/web/20231129162425/https://www.lehman.edu/academics/cmacs/documents/refcard-a4.pdf) - John W. Eaton (PDF) *( :card_file_box: archived)*
 
 
 ### Perl

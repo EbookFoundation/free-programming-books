@@ -249,7 +249,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Implementing Functional Languages: A Tutorial](https://research.microsoft.com/en-us/um/people/simonpj/Papers/pj-lester-book/) - Simon Peyton Jones, David Lester
 * [Introduction to Compilers and Language Design](https://www3.nd.edu/~dthain/compilerbook/compilerbook.pdf) - Douglas Thain (PDF)
 * [Let's Build a Compiler](https://www.stack.nl/~marcov/compiler.pdf) - Jack W. Crenshaw (PDF)
-* [Pebble: Build your own programming language in Python](https://robcox2910.github.io/pebble-lang/) - Rob Cox (HTML)
+* [Pebble: Build your own programming language and compiler in Python](https://robcox2910.github.io/pebble-lang/) - Rob Cox (HTML)
 * [Practical and Theoretical Aspects of Compiler Construction](https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/) (class lectures and slides)
 * [The ANTLR Mega Tutorial](https://tomassetti.me/antlr-mega-tutorial/)
 

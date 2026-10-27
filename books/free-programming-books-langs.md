@@ -254,7 +254,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Agda
 
-* [Agda Tutorial](https://people.inf.elte.hu/pgj/agda/tutorial/Index.html)
+* [Agda Tutorial](https://web.archive.org/web/20261003035100/https://people.inf.elte.hu/pgj/agda/tutorial/Index.html) *( :card_file_box: archived)*
 * [Programming Language Foundations in Agda](https://plfa.github.io) - Philip Wadler, Wen Kokke
 
 
@@ -636,7 +636,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Component Pascal
 
-* [Computing Fundamentals](http://www.cslab.pepperdine.edu/warford/ComputingFundamentals/) - Stan Warford (PDF)
+* [Computing Fundamentals](https://www.stanwarford.com/ComputingFundamentals) - Stan Warford (PDF)
 
 
 ### Cool
@@ -707,7 +707,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Eiffel
 
-* [A Functional Pattern System for Object-Oriented Design](http://homepages.mcs.vuw.ac.nz/~tk/fps/fps-sans-escher.pdf) - Thomas Kuhne (PDF)
+* [A Functional Pattern System for Object-Oriented Design](https://homepages.ecs.vuw.ac.nz/~tk/fps/fps-sans-escher.pdf) - Thomas Kuhne (PDF)
 
 
 ### Elixir
@@ -816,7 +816,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 * [Books and Articles from FreeBSD Site](http://www.freebsd.org/docs/books.html)
 * [The Complete FreeBSD](http://www.lemis.com/grog/Documentation/CFBSD/)
-* [Using C on the UNIX System](http://www.bitsinthewind.com/about-dac/publications/using-c-on-the-unix-system) - David A. Curry
+* [Using C on the UNIX System](https://web.archive.org/web/20180809111826/http://www.bitsinthewind.com/about-dac/publications/using-c-on-the-unix-system) - David A. Curry *( :card_file_box: archived)*
 
 
 ### Go
@@ -1543,7 +1543,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Ubuntu Pocket Guide and Reference](http://www.ubuntupocketguide.com/index_main.html)
 * [Ubuntu Server Guide](https://help.ubuntu.com/20.04/serverguide/serverguide.pdf) (PDF)
 * [Understanding the Linux Virtual Memory Manager](https://www.kernel.org/doc/gorman/) - Mel Gorman (HTML, PDF)
-* [UNIX Systems Programming for SVR4](http://www.bitsinthewind.com/about-dac/publications/unix-systems-programming) - David A. Curry
+* [UNIX Systems Programming for SVR4](https://web.archive.org/web/20210412023513/https://www.bitsinthewind.com/about-dac/publications/unix-systems-programming) - David A. Curry *( :card_file_box: archived)*
 * [Upstart Intro, Cookbook and Best Practises](http://upstart.ubuntu.com/cookbook/)
 * [What Every Programmer Should Know About Memory](http://www.akkadia.org/drepper/cpumemory.pdf) (PDF)
 

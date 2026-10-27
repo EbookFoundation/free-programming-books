@@ -44,6 +44,7 @@
 * [Kotlin](#kotlin)
 * [LaTeX](#latex)
 * [Lisp](#lisp)
+* [Markdown](#markdown)
 * [MetaPost](#metapost)
 * [.NET](#net)
 * [NoSQL](#nosql)
@@ -88,7 +89,7 @@
 * [Программирование: введение в профессию](http://stolyarov.info/books/programming_intro) - Столяров Андрей Викторович (PDF)
 * [Руководство по HTTP](http://proselyte.net/tutorials/http-tutorial) - Евгений Сулейманов
 * [Руководство по SOAP](http://proselyte.net/tutorials/soap-tutorial) - Евгений Сулейманов
-* [Структура и интерпретация компьютерных программ](http://newstar.rinet.ru/~goga/sicp/sicp-ru-screen.pdf) - Гарольд Абельсон, Джералд Джей Сассман (PDF)
+* [Структура и интерпретация компьютерных программ](http://newstar.rinet.ru/~goga/sicp/sicp-ru-screen.pdf) - Гарольд Абельсон, Джера�[...]
 * [Тестирование программного обеспечения. Базовый курс.](http://svyatoslav.biz/software_testing_book/) - Святослав Куликов (PDF)
 * [Эффективные алгоритмы и сложность вычислений](http://discopal.ispras.ru/Ru.book-advanced-algorithms.htm) - Кузюрин Н.Н., Фомин С.А.
 * [E-maxx.ru: Сборник алгоритмов с примерами на C++](http://e-maxx.ru/upload/e-maxx_algo.pdf) (PDF)
@@ -166,7 +167,7 @@
 * [Особенности языка C. Учебное пособие](https://younglinux.info/c) - C. Шапошникова (PDF)
 * [Разработка сетевых приложений](http://zed.karelia.ru/mmedia/docs/nets.pdf) (PDF)
 * [Руководство по языку программирования C](https://metanit.com/cpp/c) - Евгений Попов
-* [Сетевое программирование от Биджа - Использование Интернет Сокетов](http://beej.us/guide/bgnet/translations/bgnet_A4_rus.pdf) - Brian "Beej Jorgensen" Hall, Перевод Андрея Косенко (PDF)
+* [Сетевое программирование от Биджа - Использование Интернет Сокетов](http://beej.us/guide/bgnet/translations/bgnet_A4_rus.pdf) - Brian [...]
 * [Си/Си++. От дилетанта до профессионала](http://ermak.cs.nstu.ru/cprog/html) - Романов Е.Л.
 * [Язык Си в примерах](https://ru.wikibooks.org/wiki/Язык_Си_в_примерах) - Викиучебник
 
@@ -230,7 +231,7 @@
 * [Эффективный Go](https://github.com/0x0FACED/effective-go-ru)
 * [Go в примерах](https://web.archive.org/web/20210727024101/https://gobyexample.ru) *( :card_file_box: archived)*
 * [Go для PHP-разработчиков](https://github.com/pahanini/go-for-php-developers-book/blob/master/SUMMARY.md) - Pavel Tetyaev
-* [The Little Go Book (перевод)](https://sefus.ru/little-go-book) - Karl Seguin, `trl.:` Roman Dolgolopov, Evgeny Popov, Alexander Dunin ([HTML](https://github.com/sefus/the-little-go-book/blob/master/ru/go.md), [EPUB](https://sefus.ru/dl/go.epub))
+* [The Little Go Book (перевод)](https://sefus.ru/little-go-book) - Karl Seguin, `trl.:` Roman Dolgolopov, Evgeny Popov, Alexander Dunin ([HTML](https://github.com/sefus/the-little-go-book))
 
 
 ### Haskell
@@ -317,7 +318,7 @@
 
 #### Swing UI
 
-* [Java Swing: Эффектные пользовательские интерфейсы - Издание второе](https://ipsoftware.ru/books/swing_book_2/) - Иван Портянкин (PDF, EPUB)
+* [Java Swing: Эффектные пользовательские интерфейсы - Издание второе](https://ipsoftware.ru/books/swing_book_2/) - Иван Портянкин (PDF)
 
 
 ### JavaScript
@@ -334,7 +335,7 @@
 
 #### AngularJS
 
-> :information_source: See also &#8230; [Angular](#angular)
+> :information_source: See also ... [Angular](#angular)
 
 * [Онлайн-руководство по AngularJS](https://metanit.com/web/angular) - Евгений Попов
 * [AngularJS Tutorial](https://coderlessons.com/tutorials/veb-razrabotka/vyuchit-angularjs/angularjs-tutorial) - CoderLessons.com
@@ -392,6 +393,11 @@
 
 * [Lisp In Small Pieces (translation)](https://github.com/ilammy/lisp)
 * [Practical Common Lisp (перевод)](https://web.archive.org/web/20220130051228/http://lisper.ru/pcl/) (HTML) *( :card_file_box: archived)*
+
+
+### Markdown
+
+* [Документация по языку текстовой разметки — Markdown](https://github.com/Cultus-Tenebrae/Markdown-documentation/releases/latest/download/Markdown-documentation.pdf) - Изергиль Ван Дер Вельде (PDF) (MIT)
 
 
 ### MetaPost
@@ -515,7 +521,7 @@
 
 * [Анализ данных с R](http://www.inp.nsk.su/~baldin/DataAnalysis/index.html)
 * [Наглядная статистика. Используем R!](https://cran.r-project.org/doc/contrib/Shipunov-rbook.pdf) (PDF)
-* [Рандомизация и бутстреп: статистический анализ в биологии и экологии с использованием R.](https://web.archive.org/web/20240714101645/http://www.ievbras.ru/ecostat/Kiril/Article/A32/Starb.pdf) (PDF) *( :card_file_box: archived)*
+* [Рандомизация и бутстреп: статистический анализ в биологии и экологии с использованием R.](https://web.archive.org/web/[...])
 
 
 ### Ruby
@@ -548,7 +554,7 @@
 
 ### Scala
 
-* [Путеводитель неофита по Scala (перевод серии статей Даниеля Вестсайда)](https://github.com/anton-k/ru-neophyte-guide-to-scala) - Антон Холомьёв
+* [Путеводитель неофита по Scala (перевод серии статей Даниеля Вестсайда)](https://github.com/anton-k/ru-neophyte-guide-to-scala) - Антон К.
 * [Руководство по Scala](http://proselyte.net/tutorials/scala) - Евгений Сулейманов
 * [Effective Scala](http://twitter.github.io/effectivescala/index-ru.html) - Marius Eriksen
 * [Scala Школа!](http://twitter.github.io/scala_school/ru) - Twitter
@@ -582,9 +588,9 @@
 
 * [Краткое руководство по миграции на Firebird 4.0](https://github.com/sim1984/fbmigrgd40/releases/download/1.0/doc.rus.pdf) - Denis Simonov (PDF)
 * [Руководство по аппаратному обеспечению для Firebird](http://www.ibase.ru/files/firebird/Firebird_Hardware_Guide_2015_rus.pdf) - IBSurgeon (PDF)
-* [Руководство по написанию UDR на Pascal](https://github.com/sim1984/udr-book) - Denis Simonov ([PDF](https://github.com/sim1984/udr-book/releases/download/1/udr.pdf), [:package: code examples](https://github.com/sim1984/udr-book/tree/master/examples))
-* [Руководство по языку Firebird 3.0](http://www.ibase.ru/files/firebird/Firebird_3_0_Language_Reference_RUS.pdf) - Denis Simonov, Paul Vinkenug, Dmitry Filippov, Dmitry Emanov, Alexander Karpeikin, Dmitry Kuzmenko, Alexey Kovyazin (PDF)
-* [Руководство по языку Firebird 4.0](http://www.ibase.ru/files/firebird/Firebird_4_0_Language_Reference_RUS.pdf) - Dmitry Filippov, Alexander Karpeikin, Alexey Kovyazin, Dmitry Kuzmenko, Denis Simonov, Paul Vinkenoog, Dmitry Emanov, Mark Rotteveel (PDF)
+* [Руководство по написанию UDR на Pascal](https://github.com/sim1984/udr-book) - Denis Simonov ([PDF](https://github.com/sim1984/udr-book/releases/download/1/udr.pdf), [HTML](https://github.com/sim1984/udr-book))
+* [Руководство по языку Firebird 3.0](http://www.ibase.ru/files/firebird/Firebird_3_0_Language_Reference_RUS.pdf) - Denis Simonov, Paul Vinkenug, Dmitry Filippov, Dmitry Emanov, et al.
+* [Руководство по языку Firebird 4.0](http://www.ibase.ru/files/firebird/Firebird_4_0_Language_Reference_RUS.pdf) - Dmitry Filippov, Alexander Karpeikin, Alexey Kovyazin, Dmitry Emanov, et al.
 
 
 #### PostgreSQL
@@ -604,7 +610,7 @@
 
 ### Symbian
 
-* [Symbian C++](https://github.com/trufanov-nok/SymbianBook_ru) -  А. Н Труфанов
+* [Symbian C++](https://github.com/trufanov-nok/SymbianBook_ru) - А. Н Труфанов
 
 
 ### TypeScript
@@ -615,7 +621,7 @@
 
 #### Angular
 
-> :information_source: See also &#8230; [AngularJS](#angularjs)
+> :information_source: See also ... [AngularJS](#angularjs)
 
 * [Руководство по Angular](https://metanit.com/web/angular2) - Евгений Попов
 * [Русская версия документация Angular 10](https://angular24.ru) - Alexey Okhrimenko
@@ -632,6 +638,6 @@
 * [Руководство программиста для Linux](http://www.opennet.ru/docs/RUS/Lpg) - Sven Goldt, Matt Welsh
 * [Энциклопедия программиста Linux](http://www.opennet.ru/docs/RUS/lpg) - Алексей Паутов
 * [Энциклопедия разработчика модулей ядра Linux](http://www.opennet.ru/docs/RUS/lkmpg) - Ori Pomerantz
-* [Beyond Linux From Scratch (version 2011-12-30)](http://rus-linux.net/nlib.php?name=/MyLDP/BOOKS/BLFS-ru/blfs-ru-index.html) - The BLFS Development Team, `trl.:` Н.Ромоданов, `trl.:` Сергея Каминского, `trl.:` Александра Андреева
+* [Beyond Linux From Scratch (version 2011-12-30)](http://rus-linux.net/nlib.php?name=/MyLDP/BOOKS/BLFS-ru/blfs-ru-index.html) - The BLFS Development Team, `trl.:` Н.Ромоданов, `trl.:` [...]
 * [Linux From Scratch (version 6.8)](http://rus-linux.net/nlib.php?name=/MyLDP/BOOKS/LFS-BOOK-6.8-ru/lfs-6.8-ru-index.html)
 * [The Linux Kernel Module Programming Guide](http://www.opennet.ru/docs/RUS/lkmpg26) - Peter Jay Salzman, Michael Burian, Ori Pomerantz

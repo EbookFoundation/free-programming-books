@@ -114,7 +114,7 @@
 
 ### Groovy
 
-* [Groovy für Java-Entwickler](http://examples.oreilly.de/openbooks/pdf_groovyger.pdf) - Jörg Staudemeyer (PDF)
+* [Groovy für Java-Entwickler](https://web.archive.org/web/20251210174103/http://examples.oreilly.de/openbooks/pdf_groovyger.pdf) - Jörg Staudemeyer (PDF)
 
 
 ### HTML and CSS

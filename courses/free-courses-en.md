@@ -558,7 +558,7 @@
 ### Cypress
 
 * [Cypress Course Playlist](https://www.youtube.com/playlist?list=PLYDwWPRvXB8-8LG2hZv25HO6C3w_vezZb) - JoanMedia
-* [Cypress Official Course - Best Documnetation](https://learn.cypress.io) - Cypress.io
+* [Cypress Official Course - Best Documentation](https://learn.cypress.io) - Cypress.io
 * [Test Automation - Cypress Tutorial](https://testautomationu.applitools.com/cypress-tutorial/) - Elliot Arledge (FreeCodeCamp)
 
 

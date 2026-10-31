@@ -64,6 +64,7 @@
 ### Linux
 
 * [تائوی برنامه نویسان](https://aidinhut.com/fa/books/the_tao_of_programming.pdf) (PDF)
+* [خط فرمان لینوکس](https://linuxcli.ir) - William Shotts&rlm;, `trl.:` محمد مهدی‌نژاد&rlm; (PDF, HTML) (CC BY-NC-ND)
 * [فقط برای تفریح؛ داستان یک انقلابی اتفاقی](https://linuxstory.ir)
 * [لینوکس و زندگی؛‌ درس‌هایی برای گیک های جوان](https://linuxbook.ir)
 

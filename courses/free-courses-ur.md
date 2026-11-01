@@ -29,6 +29,7 @@
 ### Assembly
 
 * [Assembly Language Programming Tutorials in Urdu / Hindi](https://www.youtube.com/playlist?list=PLR2FqYUVaFJpHPw1ExSVJZFNlXzJYGAT1) - Programology&rlm;
+* [Computer Organization & Assembly Language](https://www.youtube.com/playlist?list=PLnd7R4Mcw3rJCvAduQxyySvejtBIaPs0O) - recluze&rlm;
 
 
 ### C

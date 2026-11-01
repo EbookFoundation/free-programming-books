@@ -40,7 +40,7 @@
 
 ### Git
 
-* [Pro Git](https://git-scm.com/book/fa/v2) - Scott Chacon, Ben Straub&rlm; (HTML) (CC BY-NC-SA)
+* [Pro Git](https://git-scm.com/book/fa/v2) - Scott Chacon, Ben Straub&rlm; (HTML) (CC BY-NC-SA&rlm;)
 
 
 ### HTML and CSS

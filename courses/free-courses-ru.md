@@ -22,6 +22,7 @@
 * [R](#r)
 * [Ruby](#ruby)
 * [Rust](#rust)
+* [SQL](#sql)
 
 
 ### Уровни
@@ -193,3 +194,9 @@ ADV - Продвинутый. Тонкости.
 
 * [Введение в Rust](https://stepik.org/course/228001) - Stepik (BEG)
 * [Rust: Начальный уровень](https://stepik.org/course/195449) - Stepik (BEG)
+
+
+### SQL
+
+* [JOIN в SQL простым языком](https://stepik.org/course/302901) - Илья Калакуцкий (Stepik) (BEG)
+* [SQL с нуля для начинающих](https://stepik.org/course/302924) - Илья Калакуцкий (Stepik) (BEG)

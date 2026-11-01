@@ -62,15 +62,10 @@
 * [Android với kolin cho người mới](https://www.youtube.com/playlist?list=PLPt6-BtUI22qf3KE1V1PyAm1v8M2qqwL5) - Gà Lại Lập Trình
 * [Học Android + Kotlin cơ bản](https://www.youtube.com/playlist?list=PLpgD-OxlvlqFNyyaFlan2-WTtSaBkWllm) - Xin chào, mình là Sữa
 * [Lập trình Android - Android Studio](https://www.youtube.com/playlist?list=PLwJr0JSP7i8AU_esH4BC0NDz_m_yLV4PW) - XuanThuLab
-* [Lập trình Android - Android Widgets - Các điều khiển](https://www.youtube.com/playlist?list=PLv6GftO355At6jjYThbMn-5r164GJ5Vyb) - ZendVN
-* [Lập trình Android - Menu - Context Menu - Dialog](https://www.youtube.com/playlist?list=PLv6GftO355Avjf5iuNbEUsIZbltzDEuIU) - ZendVN
-* [Lập trình Android - Xây dựng bố cục giao diện với Android Layout](https://www.youtube.com/playlist?list=PLv6GftO355AtfPQx7M3dkWgi9KPUB9S0V) - ZendVN
 * [Lập trình Android A-Z](https://www.youtube.com/playlist?list=PL5uqQAwS_KDjAgLGiaCakwJV1f4vRnTLS) - Khoa Phạm
 * [Lập trình Android cơ bản](https://www.youtube.com/playlist?list=PL33lvabfss1wDeQMvegg_OZQfaXcbqOQh) - Kteam
 * [Lập trình Android cơ bản - v2022](https://www.youtube.com/playlist?list=PLn9lhDYvf_3FDMIcSTSuXZIAB1NJuPuaS) - Anh Nguyen Ngoc
 * [Lập Trình Android Rest API](https://www.youtube.com/playlist?list=PLFPekWzEN9zMPU_se3HtbdmPDvXnX7V80) - Nam Nguyen Poly Lab
-* [Lập trình Android với Kotlin](https://www.youtube.com/playlist?list=PLzrVYRai0riRFcvx8VYTF7fx4hXbd_nhU) - Khoa Phạm
-* [Lập trình Android với new Firebase](https://www.youtube.com/playlist?list=PLzrVYRai0riTLPLclyGuByHvZ8_tDZZIr) - Khoa Phạm
 * [Tự học Lập Trình Android từ A đến Z](https://www.youtube.com/playlist?list=PL6aoXCbsHwIayYCo9aDuzZ3dMC9oShs1u) - Kênh Công nghệ
 
 
@@ -105,7 +100,6 @@
 
 ### AutoIt
 
-* [Auto Game Tutorial](https://www.youtube.com/playlist?list=PLlhlxkw8o0Ga8Vg3Sw5iXHubFxoOvV6aq) - Tool By Autoit
 * [AutoIT - Cách làm Auto Chuột và Bàn Phím](https://www.youtube.com/playlist?list=PLNeDQQ_ukvRpn7NfdLvtQ9PgVJfkNEsAr) - LeeSai
 * [Học AutoIT](https://www.youtube.com/playlist?list=PLYi1bpA-AvSC7cGGZTTwLXP4azlMaUVKN) - nghịch máy tính
 * [Học AutoIT - Auto game BoomOnline](https://www.youtube.com/playlist?list=PLMz2PqxT4j96uqILfWfypxsUPz9UiZZOM) - Triển IS Official
@@ -119,7 +113,6 @@
 
 * [Khóa học Bash Shell cơ bản cho người mới](https://nguyenvanhieu.vn/hoc-bash-shell-co-ban)
 * [Lập trình Bash Shell Script cơ bản](https://www.youtube.com/playlist?list=PLcW6QFb7l0G7ukw6LBcPJbvxbFhgfX9-S) - Curry
-* [SHELL/BASH](https://www.youtube.com/playlist?list=PL1HxRSJMOMPKOJhefnyfYLICczYTiUGaK) - Toan Nguyen
 
 
 ### Blazor
@@ -148,7 +141,6 @@
 * [Lập trình C++ cơ bản - HowKteam](https://www.youtube.com/playlist?list=PL33lvabfss1xagFyyQPRcppjFKMQ7lvJM) - K team
 * [Ngôn Ngữ Lập Trình C](https://www.youtube.com/playlist?list=PLyiioioEJSxHr5X8RNY3QXUGcjzeZeI7l) - Dạy Nhau Học
 * [Ngôn Ngữ Lập Trình C](https://www.youtube.com/playlist?list=PLux-_phi0Rz2TB5D16sJzy3MgOht3IlND) - 28tech
-* [Ngôn Ngữ Lập Trình C \|IUH](https://www.youtube.com/playlist?list=PLOWHQCkFdTueoPoil-FTma3-q-_uxsvhR) - Jerry Thắng
 * [Ngôn ngữ lập trình C-GV. Nguyễn Văn Phúc](https://www.youtube.com/playlist?list=PLdgLBTCcFWkfWhf3qSPX-pNGyLOj8IA3w) - CCE- eLEARN
 * [Nhập môn lập trình C cơ bản](https://www.youtube.com/playlist?list=PLQj93CJe0N72nRYDYEdVpV3ZzGHMJvgqt) - Đỗ Phúc Hảo
 * [Nhập môn LẬP TRÌNH CĂN BẢN với C](https://www.youtube.com/playlist?list=PLayYhLZuuO9t9F8tIKR5RE7HQbDwNtnSV) - giáo.làng
@@ -216,7 +208,6 @@
 * [MERN Stack (MongoDB, Express, React, Node.js)- Lập trình web bán hàng fullstack](https://www.youtube.com/playlist?list=PL_QEvEi9neNSOGrmYOZSYFk9DpYr-Zd9p) - Lập trình thật dễ
 * [NodeJS & ExpressJS](https://www.youtube.com/playlist?list=PL_-VfJajZj0VatBpaXkEHK_UPHL7dW6I3) - F8 Official
 * [React Native EventHub Fullstack với NodeJS ExpressJS MongoDB](https://www.youtube.com/playlist?list=PLwRuTV6YR6x1_CzgvKEDEPH1Czl6Mmu6h) - Đào Quang
-* [UDEMY - Backend RESTFul Server với Node.JS và Express (SQL/MongoDB)](https://www.youtube.com/playlist?list=PLncHg6Kn2JT734qFpgJeSfFR0mMOklC_3) - Hỏi Dân IT
 
 
 ### Flutter
@@ -350,7 +341,6 @@
 
 * [Android với kolin cho người mới](https://www.youtube.com/playlist?list=PLPt6-BtUI22qf3KE1V1PyAm1v8M2qqwL5) - Gà Lại Lập Trình
 * [Học Android + Kotlin cơ bản](https://www.youtube.com/playlist?list=PLpgD-OxlvlqFNyyaFlan2-WTtSaBkWllm) - Xin chào, mình là Sữa
-* [Lập trình Android với Kotlin full tại Khoa Phạm](https://www.youtube.com/playlist?list=PLzrVYRai0riRFcvx8VYTF7fx4hXbd_nhU) - Khoa Phạm
 * [Lập trình Kotlin từ cơ bản đến nâng cao](https://www.youtube.com/playlist?list=PLn9lhDYvf_3E_5JZ-1jlk67o9101Lu9N6) - Anh Nguyen Ngoc
 
 
@@ -404,7 +394,6 @@
 * [Khóa học Fullstack SERN (SQL, Express.js, React.js, Node.js) Web Developer](https://www.youtube.com/playlist?list=PLncHg6Kn2JT6E38Z3kit9Hnif1xC_9VqI) - Hỏi Dân IT
 * [Khóa học NodeJS căn bản](https://tedu.com.vn/khoa-hoc/khoa-hoc-nodejs-can-ban-20.html) - TEDU
 * [Khóa học NodeJs trọn bộ](https://www.youtube.com/playlist?list=PLqnlyu33Xy-6g7IqU5-3BXOfewcJKoL08) - TK Vlogs
-* [Lập Trình Nodejs Cơ Bản Tại Khoa Phạm](https://www.youtube.com/playlist?list=PLzrVYRai0riQXAXJL9rg62tBvwD0ltJn-) - Trung Tâm Đào Tạo Tin Học Khoa Phạm
 * [NodeJS & ExpressJS](https://www.youtube.com/playlist?list=PL_-VfJajZj0VatBpaXkEHK_UPHL7dW6I3) - F8 Official
 * [NodeJS Cơ Bản](https://www.youtube.com/playlist?list=PLU4OBh9yHE950LJR6uH_MqcgUC0-NCV2k) - RHP Team
 * [NodeJS Cơ Bản](https://www.youtube.com/playlist?list=PL4VEtQ6PTTQEZp2kLIC7OE0E8OsObv0k8) - Ide Academy
@@ -412,7 +401,6 @@
 * [NodeJS Web Server Sử Dụng Express 2020](https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-s-m-qFBQFoeNSfpCTBiwMU) - CodersX
 * [Thực chiến Back-end NodeJS + MongoDB](https://www.youtube.com/playlist?list=PLP6tw4Zpj-RIMgUPYxhLBVCpaBs94D73V) - TrungQuanDev
 * [Tự Học Node.JS Cơ Bản Từ A Đến Z Cho Người Mới Bắt Đầu](https://www.youtube.com/playlist?list=PLncHg6Kn2JT4smWdJceM0bDg4YUF3yqLu) - Hỏi Dân IT
-* [UDEMY - Backend RESTFul Server với Node.JS và Express (SQL/MongoDB)](https://www.youtube.com/playlist?list=PLncHg6Kn2JT734qFpgJeSfFR0mMOklC_3) - Hỏi Dân IT
 * [Xây dựng Backend ứng dụng ShopApp với NodeJS, MySQL, Google Firebase](https://www.youtube.com/playlist?list=PLWBrqglnjNl271vpuIiKZtn-xrAZcX92a) - Nguyen Duc Hoang
 
 
@@ -433,9 +421,6 @@
 * [PHP Cơ Bản](https://www.codehub.com.vn/PHP-Co-Ban) - Codehub
 * [PHP Cơ Bản](https://www.youtube.com/playlist?list=PLU4OBh9yHE940f_T2IyAWHAjXhMxYFZky) - RHP Team
 * [Tự Học Lập trình PHP](https://www.youtube.com/playlist?list=PLv6GftO355AsZFXlWLKob6tMsWZa4VCY1) - ZendVN - Học Lập Trình Online
-* [Tự học PHP - Các đối tượng khác trong PHP](https://www.youtube.com/playlist?list=PLv6GftO355Av7YIhRHajDEWCHq1viEKEy) - ZendVN
-* [Tự học PHP - Căn Bản](https://www.youtube.com/playlist?list=PLv6GftO355AulVlaWLp41kieNB9dTG1_l) - ZendVN
-* [Tự học PHP - Làm việc với ASNT](https://www.youtube.com/playlist?list=PLv6GftO355At4rfAAqGCtokc3W1uDnv28) - ZendVN
 * [Tự học PHP  Laravel Framework cho người mới bắt đầu](https://www.youtube.com/playlist?list=PLsVJaIeVT78qJEPWJ9rIwgPCcmuVI-r4k) - Đặng Kim Thi
 
 
@@ -483,8 +468,6 @@
 * [Khóa Học Fullstack SERN (SQL, Express.js, React.js, Node.js) Web Developer](https://youtube.com/playlist?list=PLncHg6Kn2JT6E38Z3kit9Hnif1xC_9VqI) - Hỏi Dân IT
 * [Khóa Học Lập Trình React.js - Redux](https://www.youtube.com/playlist?list=PLJ5qtRQovuEOoKffoCBzTfvzMTTORnoyp) - nghiepuit
 * [Khoá học ReactJS căn bản](https://tedu.com.vn/khoa-hoc/khoa-hoc-reactjs-can-ban-25.html) - TEDU
-* [Lập trình ReactJS với Redux](https://www.youtube.com/playlist?list=PLzrVYRai0riQFEN586LOz3eMv2Rgy6WXS) - Khoa Phạm
-* [React.js Cơ Bản](https://www.youtube.com/playlist?list=PLzrVYRai0riSPcINVFvaCaM7Ul55DzpLd)
 * [ReactJS - Demo các project trong khóa học](https://www.youtube.com/playlist?list=PLv6GftO355Av08p6Zi1I67VYw47nMS8xO) - ZendVN - Học Lập Trình Online
 * [Redux Cơ Bản](https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-tmotihDcWZN0LvtXFyxmRZ) - CodersX
 
@@ -510,7 +493,6 @@
 * [Khóa Học Lập Trình SASS](https://www.youtube.com/playlist?list=PLIRbquK6vGyf7sCUAGAYFOrS-kgbBc-O1) - IT News
 * [Khóa Học Lập Trình SCSS Từ Căn Bản Đến Nâng Cao](https://www.youtube.com/playlist?list=PLJ5qtRQovuEMWzLVs3iuwcNsWeElizTwF) - Nghiep Phan
 * [SASS](https://www.youtube.com/playlist?list=PLw_erwgZq4-EGs9VEEKROpDbjCuzgx01W) - ZenDvn
-* [Sass Cơ Bản](https://www.youtube.com/playlist?list=PLzrVYRai0riSWPPRE6Ib99zd5fV4YYH0Q) - Khoa Phạm
 * [Tự Học Sass](https://www.youtube.com/playlist?list=PLv6GftO355AtWld1EE7SBAH-OkKKt23Bb) - ZendVN
 
 
@@ -523,7 +505,6 @@
 * [Hướng dẫn Bug Bounty cho người mới](https://www.youtube.com/playlist?list=PLu9yx0lLtsRgpVspJJeZ_CfcsDY-onsCo) - Cookie Han Hoan
 * [Introduction to Web Application Security](https://www.youtube.com/playlist?list=PLu9yx0lLtsRiWkLUlOyQg-U4Gu0VTPMe_) - Cookie Han Hoan
 * [Khoá học an ninh mạng của Cisco về CyberSecurity](https://www.youtube.com/playlist?list=PLRSnr8eajoQyUdyywoUOvDRd9FLoovfg3) - VQT Network
-* [Khóa Học Hacker Mũ Trắng-AEH](https://www.youtube.com/playlist?list=PLSzZlHir9jJSSygXLtqkhPQNIYkYqGTAU) - Trung Tam Athena
 * [Khóa Học Hacker Mũ Trắng Và Bảo Mật Thông Tin](https://www.youtube.com/playlist?list=PLggwtzPh_8VkV50VGVpvybnnqCdgIBCVb) - Nguyễn Thế Lợi
 * [NHẬP MÔN AN TOÀN THÔNG TIN](https://www.youtube.com/playlist?list=PLijX7E_0LDO_-v_UhGNujj_NBTysTwzkC) - CyberJutsuTV
 * [OWASP Top 10 Vulnerabilities](https://www.youtube.com/playlist?list=PLu9yx0lLtsRiaeIQ-yn0huBD3YKgJ6wzC) - Cookie Han Hoan
@@ -561,9 +542,7 @@
 * [Hướng dẫn lập trình Swift iOS từ A đến Z](https://www.youtube.com/playlist?list=PLRb-vAn1juPSOsB7sUhs6QYLkMg1mYawl) - Thạch Phạm Dev
 * [Kỹ thuật làm app camera scan QR code](https://www.youtube.com/playlist?list=PL4VEtQ6PTTQGKBD6EVZXqPZr_YUbxXBMM) - Ide Academy
 * [Lập trình iOS - Swift](https://www.youtube.com/playlist?list=PLBgIyLVk3GlT07wf1UPCDg6duV2iDKVbu) - laptrinh0kho
-* [Lập trình iOS cơ bản với Swift 3 và Xcode 8](https://www.youtube.com/playlist?list=PLzrVYRai0riSlAocQR3BvHCtEhcKa204E) - Khoa Phạm
 * [Lập trình iOS với SwiftUI](https://www.youtube.com/playlist?list=PLBgIyLVk3GlSGQ68t3Qvfqg_x_RacLXje) - laptrinh0kho
-* [Swift - Tổng quan](https://www.youtube.com/playlist?list=PLR1-CgtL7hK6bbuXUSgAKZveZsKa2tehl) - Dev Step by Step
 * [Swift 3 Căn Bản](https://www.youtube.com/playlist?list=PL4VEtQ6PTTQFCBxdxUIS3h6h7wSTEHrPu) - Ide Academy
 * [Swift Căn Bản](https://www.youtube.com/playlist?list=PLq6u-dSlAr2QBxCn8pbcCK2cE8PMdbar8) - Gramy
 * [Tổng hợp các vấn đề mới và hóc búa trong Swift](https://www.youtube.com/playlist?list=PL4VEtQ6PTTQGMYPnBh-2MqKhvWcPg9oNk) - Ide Academy
@@ -592,13 +571,11 @@
 * [Angular 12 - Hướng dẫn từ căn bản](https://www.youtube.com/playlist?list=PLiNjao7yG417iy0SwSuaGDZ7GBJs654ME) - Code là Ghiền
 * [Angular 16 - 2023](https://www.youtube.com/playlist?list=PLFWDoeAHRLTYaOhywzqEOwYk9sCVbIBB-) - Lửng Code
 * [Angular 2 Cơ Bản](https://tedu.com.vn/khoa-hoc/khoa-hoc-angular2-can-ban-10.html) - TEDU
-* [Angular 4 Cơ Bản](https://www.youtube.com/playlist?list=PLzrVYRai0riTA1m7Dasg8eraBr6R9nFgC) - Khoa Phạm
 * [Angular căn bản 2023](https://www.youtube.com/playlist?list=PLRhlTlpDUWswOJnLxzotd7MgqaRrBlZOG) - TEDU
 * [Học Angular 8+ qua các ví dụ thực tế](https://www.youtube.com/playlist?list=PLlahAO-uyDzJ2tRFJ8hFkiPf6xuSg9IQa) - TechMaster Vietnam
 * [Khóa học Angular Mới Nhất 2024](https://www.youtube.com/playlist?list=PLnRJxWEhhmzrta5bu4gJsZX_kdDff3Y4R) - Ninedev
 * [Làm dự án thực tế với Angular 2+ Web API](https://tedu.com.vn/khoa-hoc/lam-du-an-thuc-te-voi-angular-2-web-api-13.html) - TEDU
 * [Tự học Angular 2020](https://www.youtube.com/playlist?list=PLkY6Xj8Sg8-uBQaBU8wMLo2CrFkE-9VIZ) - CodersX
-* [Tự học Angular 5](https://www.youtube.com/playlist?list=PLWBrqglnjNl1qQw2nH5O1A8W_DVC3xo-V) - Nguyen Duc Hoang
 
 
 ### Unity
@@ -612,12 +589,9 @@
 * [G2: Cách làm Game 2D và Tower Defense](https://www.youtube.com/playlist?list=PL9YFzEkTXjbMkbjtjdxHFySO5rhPN1uMx) - Sai Game
 * [G3: Cách làm game thẻ bài - Game Card](https://www.youtube.com/playlist?list=PL9YFzEkTXjbP7XXmElG-bRc5R84Hxifes) - Sai Game
 * [Học làm game 2D trên Unity](https://www.youtube.com/playlist?list=PLw2nfWzUTIAkZGD8r2jPjVw-sSCIIV1wa) - Tech Lap
-* [Học Lập Trình Game Unity3D - Cơ Bản](https://www.youtube.com/playlist?list=PLzrVYRai0riS2khouy_siPTcR0ajoS8a6) - Khoa Phạm
 * [Học Lập Trình Game Unity3D - Cờ Vua 3D](https://www.youtube.com/playlist?list=PLqLksqdSk4b2VcB_yvIkqRPCymXE-q48e) - The Brown Box
 * [Học Lập Trình Game Unity3D - Doge Game](https://www.youtube.com/playlist?list=PL33lvabfss1xyYt5jGWqGlITZQCrNwHd6) - K team
-* [Học Lập Trình Game Unity3D - Flappy Bird](https://www.youtube.com/playlist?list=PLzrVYRai0riRwq876NCjZuulv5BjuDCBk) - Khoa Phạm
 * [Học Lập Trình Game Unity3D - Flappy Bird](https://www.youtube.com/playlist?list=PL33lvabfss1x9P0eiUcr8f-3g2mG-PNTz) - K team
-* [Học Lập Trình Game Unity3D - Game Sprider Cave](https://www.youtube.com/playlist?list=PLzrVYRai0riT-fZ_Wgi_NrELvqzbASetQ) - Khoa Phạm
 * [Học Lập Trình Game Unity3D - Zombie Hunter](https://www.youtube.com/playlist?list=PL33lvabfss1zGxMf1P-ReSoOoFN7L_jo0) - K team
 * [Khóa học lập trình Game Unity](https://www.youtube.com/playlist?list=PL4voWW1tQT6qfAR8XTD6VcYglb8Kvdw5F) - CodeGym
 * [Lập Trình Game 2D Trên Unity3D](https://www.youtube.com/playlist?list=PLl-dkipSQUGcQQgvh9j8a75Sz4zx9vWo8) - U DEV

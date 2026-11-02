@@ -17,5 +17,5 @@
 
 ### <a id="python"></a>Python
 
-* [Tư duy Python: Cách tư duy như một Nhà khoa học máy tính](https://bitbucket.org/tanhuynhng/thinking-python/src/master/) - Allen B.Downey, `trl.:` Tan H. Nguyen (HTML)
+* [Tư duy Python: Cách tư duy như một Nhà khoa học máy tính](https://web.archive.org/web/20231207213828/https://bitbucket.org/tanhuynhng/thinking-python/src/master/) - Allen B.Downey, `trl.:` Tan H. Nguyen (HTML) *( :card_file_box: archived)*
 

@@ -130,7 +130,7 @@
 
 * [Apps programmieren für iPhone und iPad](http://openbook.rheinwerk-verlag.de/apps_programmieren_fuer_iphone_und_ipad) - Klaus M. Rodewig, Clemens Wagner (Online)
 * [iOS-Rezepte](http://examples.oreilly.de/openbooks/iosrecipesger.zip)
-* [iPad-Programmierung](http://examples.oreilly.de/openbooks/pdf_ipadprogpragger.pdf) - Daniel H. Steinberg, Eric T. Freeman (PDF)
+* [iPad-Programmierung](https://web.archive.org/web/20250507071057/http://examples.oreilly.de/openbooks/pdf_ipadprogpragger.pdf) - Daniel H. Steinberg, Eric T. Freeman (PDF) *( :card_file_box: archived)*
 
 
 ### Java
@@ -185,14 +185,14 @@
 
 ### Neo4j
 
-* [Neo4j 2.0 – Eine Graphdatenbank für alle](https://neo4j.com/neo4j-graphdatenbank-book) - Michael Hunger (PDF) *(email requested)*
+* [Neo4j 2.0 – Eine Graphdatenbank für alle](https://web.archive.org/web/20230225180741/https://neo4j.com/neo4j-graphdatenbank-book/) - Michael Hunger (PDF) *(email requested)* *( :card_file_box: archived)*
 
 
 ### PHP
 
 * [PHP](http://www.peterkropff.de/site/php/php.htm) - Peter Kropff (Grundlagen, OOP, MySQLi, PDO) [Online, PDF]
 * [PHP PEAR](http://openbook.rheinwerk-verlag.de/php_pear) - Carsten Möhrke (Online)
-* [Praktischer Einstieg in MySQL mit PHP](http://examples.oreilly.de/openbooks/pdf_einmysql2ger.pdf) - Sascha Kersken (PDF)
+* [Praktischer Einstieg in MySQL mit PHP](https://web.archive.org/web/20250705000713/http://examples.oreilly.de/openbooks/pdf_einmysql2ger.pdf) - Sascha Kersken (PDF) *( :card_file_box: archived)*
 
 
 #### Joomla

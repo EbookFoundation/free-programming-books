@@ -176,6 +176,7 @@
 * [Kanban e Scrum - obtendo o melhor de ambos](http://www.infoq.com/br/minibooks/kanban-scrum-minibook) *(account required)*
 * [Kanban em 10 Passos](http://www.infoq.com/br/minibooks/priming-kanban-jesper-boeg) *(account required)*
 * [Scrum e XP direto das Trincheiras](http://www.infoq.com/br/minibooks/scrum-xp-from-the-trenches) *(account required)*
+* [Spec-Driven Development: O Guia Definitivo para Construir Software com Agentes de IA](https://github.com/felipefontoura/spec-driven-development-book/blob/main/BOOK.pt-BR.md) - Felipe Fontoura (Markdown) (CC BY-NC-SA)
 
 
 #### Arquitetura de Software
@@ -379,7 +380,7 @@
 
 ### Lisp
 
-* [Introdução a linguagem LISP](http://www.dca.fee.unicamp.br/courses/EA072/lisp9596/Lisp9596.html) (HTML)
+* [Introdução a linguagem LISP](https://web.archive.org/web/20250321161507/https://www.dca.fee.unicamp.br/courses/EA072/lisp9596/Lisp9596.html) (HTML) *( :card_file_box: archived)*
 * [Linguagem LISP - Primeiros passos com Common LISP (CL)](https://novo.manzano.pro.br/wp/download/linguagem-lisp-primeiros-passos-com-common-lisp-cl/) - José Augusto N. G. Manzano (PDF)
 
 
@@ -418,12 +419,12 @@
 * [Apostila de Python](https://www1.univap.br/alberson/apostilas/pooi/apostila_pooi_1bi.pdf) - Alberson Wander Sá dos Santos (PDF)
 * [Aprenda computação com Python](https://aprendendo-computacao-com-python.readthedocs.org/en/latest/index.html)
 * [Curso de Python e Django](https://osantana.me/curso-de-python-e-django)
-* [Django 101 - Introdução ao Django](http://turing.com.br/material/acpython/mod3/django/index.html)
+* [Django 101 - Introdução ao Django](https://web.archive.org/web/20240412184408/http://turing.com.br/material/acpython/mod3/django/index.html) *( :card_file_box: archived)*
 * [FastAPI do Zero](https://fastapidozero.dunossauro.com) - Eduardo Mendes (HTML) (CC BY-NC-SA)
 * [Introdução a Visão Computacional com Python e OpenCV](http://professor.luzerna.ifc.edu.br/ricardo-antonello/wp-content/uploads/sites/8/2017/02/Livro-Introdu%C3%A7%C3%A3o-a-Vis%C3%A3o-Computacional-com-Python-e-OpenCV-3.pdf) (PDF)
 * [Introdução ao Python](https://files.cercomp.ufg.br/weby/up/688/o/M2_IP_24-09-24.pdf) - Rafael Divino Ferreira Feitosa (PDF)
 * [O Guia do Mochileiro para Python!](https://python-guide-pt-br.readthedocs.io/pt_BR/latest/)
-* [O tutorial de Python](http://turing.com.br/pydoc/2.7/tutorial/)
+* [O tutorial de Python](https://web.archive.org/web/20240412174012/http://turing.com.br/pydoc/2.7/tutorial/) *( :card_file_box: archived)*
 * [Pensando Tkinter](https://www.dcc.ufrj.br/~fabiom/mab225/PensandoTkinter.pdf) - Steven Ferg (PDF)
 * [Pense em Python](https://penseallen.github.io/PensePython2e)
 * [Python e Orientação a Objetos](https://www.caelum.com.br/apostila-python-orientacao-a-objetos/)

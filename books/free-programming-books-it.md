@@ -73,7 +73,7 @@
 * [Breve storia dell'informatica](http://apav.it/informatica_file1.pdf) - F. Eugeni (PDF)
 * [Corso di storia dell'informatica](http://nid.dimi.uniud.it/computing_history/computing_history.html) - C. Bonfanti, P. Giangrandi (PDF)
 * [Guida pratica all'uso delle Intelligenze Artificiali](https://github.com/matteobaccan/CorsoAIBook) - M. Baccan, D. Ferrero (MD, PDF)
-* [La storia dell'informatica in Mondo Digitale](http://www.aicanet.it/storia-informatica/storia-dell-informatica-in-mondo-digitale) (PDF)
+* [La storia dell'informatica in Mondo Digitale](https://web.archive.org/web/20240616023829/http://www.aicanet.it/storia-informatica/storia-dell-informatica-in-mondo-digitale) (PDF) *( :card_file_box: archived)*
 * [STI: il corso di storia dell'Informatica](https://www.progettohmr.it/Corso/) - G.A. Cignoni (PDF)
 * [Storia dell'informatica](http://www.dsi.unive.it/~pelillo/Didattica/Storia%20dell'informatica/) - M. Pelillo (PDF)
 
@@ -189,12 +189,12 @@
 
 ### Kotlin
 
-* [Kotlin](http://www.vittal.it/wp-content/uploads/2019/07/kotlin.pdf) - V. Albertoni (PDF)
+* [Kotlin](https://web.archive.org/web/20260420223922/http://www.vittal.it/wp-content/uploads/2019/07/kotlin.pdf) - V. Albertoni (PDF) *( :card_file_box: archived)*
 
 
 ### LaTeX
 
-* [Appunti di programmazione in LaTeX e TeX](http://profs.sci.univr.it/~gregorio/introtex.pdf) - Enrico Gregorio (PDF)
+* [Appunti di programmazione in LaTeX e TeX](https://web.archive.org/web/20210820033738/http://profs.sci.univr.it/~gregorio/introtex.pdf) - Enrico Gregorio (PDF) *( :card_file_box: archived)*
 * [Il LaTex mediante esempi](http://www.discretephysics.org/MANUALI/Latex.pdf) - E. Tonti (PDF)
 * [Impara LaTeX! (... e mettilo da parte)](https://users.dimi.uniud.it/~gianluca.gorni/TeX/itTeXdoc/impara_latex.pdf) - Marc Baudoin (PDF)
 * [Introduzione all'arte della composizione tipografica con LaTeX](http://www.guitex.org/home/images/doc/guidaguit-b5.pdf) - GuIT (PDF)

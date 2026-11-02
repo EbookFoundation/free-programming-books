@@ -189,7 +189,6 @@
 * [CSS Grid](https://www.youtube.com/playlist?list=PLFIM0718LjIXmbwX0dEsoRVX-PC16vmuw) - Web Programming UNPAS
 * [CSS Layouting](https://www.youtube.com/playlist?list=PLFIM0718LjIVCmrSWbZPKCccCkfFw-Naa) - Web Programming UNPAS
 * [CSS Tailwind](https://buildwithangga.com/kelas/css-tailwind-web-design?thumbnail=nk4neM2UyG.46&main_leads=browse) - BuildWithAngga
-* [CSS Website Design](https://www.buildwithangga.com/kelas/css-website-design) - BuildWithAngga
 * [CSS3](https://www.youtube.com/playlist?list=PLFIM0718LjIVCmrSWbZPKCccCkfFw-Naa) - Web Programming UNPAS
 * [HTML Dasar](https://www.youtube.com/playlist?list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F) - Web Programming UNPAS
 * [HTML Dasar](https://www.youtube.com/playlist?list=PLZS-MHyEIRo7FTCFuVfsbpllsoAs53xDn) - Kelas Terbuka
@@ -392,7 +391,7 @@
 * [OpenCV untuk Pemula](https://www.youtube.com/playlist?list=PLl-Zj2iuqlwt4cBsBy_Ej7gNlXdQ7blCB) - NgodingPython
 * [Python](https://codesaya.com/python/) - CodeSaya
 * [Python (dasar)](https://www.youtube.com/playlist?list=PLT2AwM1dOOUe27iCPe68Z0qwwDeNyJawN) - beecoder id *(Dalam Proses)*
-* [Tutorial Belajar Machine Learning Dasar | Python Scikit-Learn](https://www.youtube.com/playlist?list=PL2O3HdJI4voHNEv59SdXKRQVRZAFmwN9E) - Indonesia Belajar
+* [Tutorial Belajar Machine Learning Dasar \| Python Scikit-Learn](https://www.youtube.com/playlist?list=PL2O3HdJI4voHNEv59SdXKRQVRZAFmwN9E) - Indonesia Belajar
 * [Tutorial Belajar Python Pandas](https://www.youtube.com/playlist?list=PL2O3HdJI4voGdD_9xhVCTBoDTDNHpajm5) - Indonesia Belajar
 * [Tutorial Python Beginner Bahasa Indonesia](https://www.youtube.com/watch?v=rWC2iFlN3TM) - Agung Setiawan
 * [Tutorial Python GUI dengan TKinter](https://www.youtube.com/playlist?list=PL2O3HdJI4voHjX09IpdsiSBNnLRaR-CbJ) - Indonesia Belajar

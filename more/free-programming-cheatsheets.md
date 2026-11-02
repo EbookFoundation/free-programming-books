@@ -255,6 +255,7 @@
 * [Git cheat sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet) - Atlassian (PDF)
 * [Git Cheat Sheet](https://web.archive.org/web/20230816231123/https://programmingwithmosh.com/wp-content/uploads/2020/09/Git-Cheat-Sheet.pdf) - Moshfegh Hamedani (PDF) *( :card_file_box: archived)*
 * [Git Cheat Sheet](https://www.geeksforgeeks.org/git/git-cheat-sheet) - Geeksforgeeks
+* [Git Cheat Sheet](https://learn.webterm.app/en/cheatsheet/git) - WebTerm Learn (HTML, PDF) (CC BY)
 * [Git Cheat Sheet (id)](https://reyhanhamidi.medium.com/buku-saku-git-cheatsheet-git-bahasa-indonesia-3af42e42156e) - Reyhan Alhafizal (HTML)
 * [Git Cheatsheet](https://github.com/mixseomin/dev-cheatsheets/blob/main/01-git.md) - mixseomin (Markdown)
 * [Git ściąga (pl)](https://training.github.com/downloads/pl/github-git-cheat-sheet/) - GitHub (HTML)
@@ -324,6 +325,7 @@
 * [Vim Básico (pt)](https://aurelio.net/vim/vim-basico.txt) - Aurelio Marinho Jargas (HTML)
 * [Vim Cheat Sheet](https://www.cs.cmu.edu/~15131/f17/topics/vim/vim-cheatsheet.pdf) - Allison McKnight (PDF)
 * [Vim Cheat Sheet](https://vim.rtorr.com) - Richard Torruellas (HTML)
+* [Vim Cheat Sheet](https://learn.webterm.app/en/cheatsheet/vim) - WebTerm Learn (HTML, PDF) (CC BY)
 * [Vim Cheatsheet](https://devhints.io/vim) - Devhints, Rico Santa Cruz (HTML)
 * [Vim Médio (pt)](https://aurelio.net/vim/vim-medio.txt) - Aurelio Marinho Jargas (HTML)
 * [Visual Studio Code: Keyboard shortcuts for Linux](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf) - Visual Studio Code (PDF)
@@ -609,6 +611,7 @@
 * [Bash Scripting Cheatsheet](https://github.com/mixseomin/dev-cheatsheets/blob/main/13-bash.md) - mixseomin (Markdown)
 * [Cron Cheatsheet](https://devhints.io/cron) - DevHints, Rico Santa Cruz (HTML)
 * [Fish Shell cheatsheet](https://devhints.io/fish-shell) - DevHints, Rico Santa Cruz (HTML)
+* [Linux Commands Cheat Sheet](https://learn.webterm.app/en/cheatsheet/linux) - WebTerm Learn (HTML, PDF) (CC BY)
 
 
 ### Solidity

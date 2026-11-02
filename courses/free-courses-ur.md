@@ -55,7 +55,7 @@
 
 ### Figma
 
-* [Figma Design Complete Course in Urdu | Hindi](https://youtube.com/playlist?list=PLspW40rZgNekDbMeeuV8VLt3JoCMg8pQt&si=_J8tYEL3W0YFiHNh) - Tutorials Town&rlm;
+* [Figma Design Complete Course in Urdu \| Hindi](https://youtube.com/playlist?list=PLspW40rZgNekDbMeeuV8VLt3JoCMg8pQt&si=_J8tYEL3W0YFiHNh) - Tutorials Town&rlm;
 
 
 ### <a id="html-and-css"></a>HTML and CSS

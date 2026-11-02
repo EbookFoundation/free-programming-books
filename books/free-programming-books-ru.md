@@ -5,7 +5,7 @@
     * [Облачные Вычисления](#облачные-вычисления)
     * [Парадигмы Программирования](#парадигмы-программирования)
     * [Производительность](#производительность)
-    * [Работа c cетью](#работа-с-сетью)
+    * [Работа с сетью](#работа-с-сетью)
     * [Управление конфигурациями](#управление-конфигурациями)
     * [Экосистема открытого исходного кода](#экосистема-открытого-исходного-кода)
     * [IDE and editors](#ide-and-editors)
@@ -81,9 +81,10 @@
 
 ### 0 - Language Agnostic
 
-* [Введение в методы машинной обработки данных](https://mkurnosov.net/docs/dsa-book-2020.pdf) - Курносов М.Г. (PDF)
+* [Введение в методы машинной обработки данных](https://mkurnosov.net/files/dsa-book-2020.pdf) - Курносов М.Г. (PDF)
+* [Документация по Markdown: Спецификация стандарта языка текстовой разметки](https://github.com/Cultus-Tenebrae/Markdown-documentation/releases/latest) - Изергиль Ван Дер Вельде (PDF)
 * [Операционные системы](https://vseloved.github.io/pdf/os-ru.pdf) - Всеволод Дёмкин (PDF)
-* [Параллельные технологии](http://www.inp.nsk.su/~baldin/Parallel/index.html)
+* [Параллельные технологии](http://www.inp.nsk.su/~baldin/Parallel/index.html) - Евгений Балдин (PDF)
 * [Программирование: введение в профессию](http://stolyarov.info/books/programming_intro) - Столяров Андрей Викторович (PDF)
 * [Руководство по HTTP](http://proselyte.net/tutorials/http-tutorial) - Евгений Сулейманов
 * [Руководство по SOAP](http://proselyte.net/tutorials/soap-tutorial) - Евгений Сулейманов
@@ -102,7 +103,7 @@
 #### Облачные вычисления
 
 * [Программирование Cloud Native. Микросервисы, Docker и Kubernetes](https://ipsoftware.ru/books/cloud-k8s/) - Иван Портянкин (PDF, EPUB, MOBI)
-* [Разработка мультитенантных приложений для облака, издание 3-е](http://www.microsoft.com/ru-ru/download/details.aspx?id=29263)
+* [Разработка мультитенантных приложений для облака, издание 3-е](http://www.microsoft.com/ru-ru/download/details.aspx?id=29263) - Доминик Беттс, Алекс Хомер, Алехандро Езерски, Масаши Нарумото, Ганц Чжан (PDF)
 
 
 #### Парадигмы программирования
@@ -132,6 +133,7 @@
 #### Экосистема открытого исходного кода
 
 * [Архитектура приложений с открытым исходным кодом](http://rus-linux.net/MyLDP/BOOKS/Architecture-Open-Source-Applications/index.html)
+* [Документация по языку текстовой разметки — Markdown](https://github.com/Cultus-Tenebrae/Markdown-documentation/releases/latest/download/Markdown-documentation.pdf) - Изергиль Ван Дер Вельде (PDF) (MIT)
 
 
 #### IDE and editors
@@ -485,7 +487,7 @@
 * [Python. Введение в программирование](https://younglinux.info/python.php) - C. Шапошникова
 * [Python. Уроки](https://devpractice.ru/book-python-lessons) - Абдрахманов М.И.
 * [Python. unittest](https://devpractice.ru/book-python-unittest) - Абдрахманов М.И
-* [Tkinter. Программирование графического интерфейса](https://younglinux.info/tkinter.php) - C. Шапошникова
+* [Tkinter. Программирование графического интерфейса](https://younglinux.info/tkinter/) - C. Шапошникова
 
 
 #### Django
@@ -513,7 +515,7 @@
 
 * [Анализ данных с R](http://www.inp.nsk.su/~baldin/DataAnalysis/index.html)
 * [Наглядная статистика. Используем R!](https://cran.r-project.org/doc/contrib/Shipunov-rbook.pdf) (PDF)
-* [Рандомизация и бутстреп: статистический анализ в биологии и экологии с использованием R.](http://www.ievbras.ru/ecostat/Kiril/Article/A32/Starb.pdf) (PDF)
+* [Рандомизация и бутстреп: статистический анализ в биологии и экологии с использованием R.](https://web.archive.org/web/20240714101645/http://www.ievbras.ru/ecostat/Kiril/Article/A32/Starb.pdf) (PDF) *( :card_file_box: archived)*
 
 
 ### Ruby
@@ -607,7 +609,6 @@
 
 ### TypeScript
 
-* [Карманная книга по TypeScript](https://typescript-handbook.ru) - Igor Agapov
 * [Руководство по TypeScript](https://metanit.com/web/typescript) - Евгений Попов
 
 

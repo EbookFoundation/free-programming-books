@@ -424,6 +424,7 @@
 * [Online SQL Editor](https://www.tutorialspoint.com/compilers/online-sql-editor.htm) - Tutorialspoint
 * [Oracle Live SQL](https://livesql.oracle.com)
 * [Practice SQL](https://www.sql-practice.com)
+* [SQL Practice](https://pyspark.in/sql-practice/) - PySpark.in
 * [SQL Server Online Editor & Compiler](https://onecompiler.com/sqlserver) - OneCompiler
 * [SQLFiddle](http://sqlfiddle.com)
 * [SQLite Online](https://sqliteonline.com)

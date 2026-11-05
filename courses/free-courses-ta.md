@@ -206,12 +206,12 @@
 * [FastAPI Beginners Tutorial in Tamil](https://www.youtube.com/playlist?list=PLIFRUdRwOM08B9M7HVuiUWWto8eDxVryI) - Santra TechSpot
 * [Flask in Python](https://www.youtube.com/playlist?list=PLBngtsPyn30GbfwGhOD_cPoQtkoIQQnHg) - Learn All In Tamil
 * [Python DJango in Tamil - Full Course](https://www.youtube.com/playlist?list=PLgWpUXNR_WCch5K1nkemWWsm3rvr-7YmO) - Payilagam
+* [Python Full Course for Beginners \| Master Python in 10 Hours](https://www.youtube.com/watch?v=dHzYLjfr-uY) - code io - Tamil
 * [Python Full Course Tamil](https://www.youtube.com/playlist?list=PLvepBxfiuao1hO1vPOskQ1X4dbjGXF9bm) - Error Makes Clever Academy
 * [Python in Tamil for Beginners](https://youtube.com/playlist?list=PLA2UBjeRwle3OLO3qmXTbmCvuTlqhHRVb) - GURUKULA
 * [Python Programming in Tami](https://www.youtube.com/playlist?list=PLWbtDrDnmTHBdEnUKuLNdH2-zKSDD8OA4) - CS in Tamil
 * [Python Programming Tutorial Series - In Tamil - You can become a Python Developer.](https://www.youtube.com/playlist?list=PLvepBxfiuao1hO1vPOskQ1X4dbjGXF9bm) - Error Makes Clever Academy
 * [Python Tutorial in Tamil](https://youtube.com/playlist?list=PLIFRUdRwOM0_hcLruKbsHWnU5P2uLBgsp) - SANTRA TECHSPOT
-
 
 ### R
 

@@ -131,7 +131,7 @@
 
 #### Экосистема открытого исходного кода
 
-* [Архитектура приложений с открытым исходным кодом](http://rus-linux.net/MyLDP/BOOKS/Architecture-Open-Source-Applications/index.html)
+* [Архитектура приложений с открытым исходным кодом](http://rus-linux.net/MyLDP/BOOKS/Architecture-Open-Source-Applications/index.html) - Эми Браун и Грег Уилсон, перевод Ромоданова Н., Панина А. и Vlad (HTML)
 * [Документация по Markdown: Спецификация стандарта языка текстовой разметки](https://github.com/Cultus-Tenebrae/Markdown-documentation/releases/latest) - Изергиль Ван Дер Вельде (PDF)
 
 

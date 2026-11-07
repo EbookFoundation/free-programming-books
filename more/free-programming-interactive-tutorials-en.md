@@ -84,6 +84,7 @@
 
 ### Artificial Intelligence
 
+* [AI Agents Foundations](https://beginnercoder.net/learn/ai-agents) - BeginnerCoder
 * [Generative AI tutorial](https://www.geeksforgeeks.org/artificial-intelligence/generative-ai-tutorial/) - GeeksforGeeks
 
 
@@ -411,6 +412,7 @@
 * [Learn Python Step by Step](https://techbeamers.com/python-tutorial-step-by-step/)
 * [Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python) - FreeCodeCamp
 * [Python for Everybody - Interactive](https://runestone.academy/runestone/books/published/py4e-int/index.html) - Barbara Ericson
+* [Python Foundations](https://beginnercoder.net/learn/python-foundations) - BeginnerCoder
 * [Python Introduction](https://a1lab.tech/python/introduction) - A1Lab
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
 * [Python Pandas Tutorial: A Complete Introduction for Beginners](https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/) - George McIntire, Brendan Martin, Lauren Washington

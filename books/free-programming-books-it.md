@@ -128,7 +128,7 @@
 
 * [Guida MongoDB](http://www.html.it/guide/guida-mongodb/?cref=system) (HTML)
 * [Guida OrientDB](http://www.html.it/guide/guida-orientdb/?cref=system) (HTML)
-* [Il piccolo libro di MongoDB](https://nicolaiarocci.com/mongodb/il-piccolo-libro-di-mongodb.pdf) - Karl Seguin, `trl.:` N. Iarocci (PDF)
+* [Il piccolo libro di MongoDB](https://github.com/nicolaiarocci/the-little-mongodb-book) - Karl Seguin, `trl.:` N. Iarocci ([HTML](https://github.com/nicolaiarocci/the-little-mongodb-book/blob/master/it/mongodb.markdown))
 * [Redis: la guida](http://www.html.it/guide/redis-la-guida/?cref=system) (HTML)
 
 

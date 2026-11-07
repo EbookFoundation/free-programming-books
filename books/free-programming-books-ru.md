@@ -82,7 +82,6 @@
 ### 0 - Language Agnostic
 
 * [Введение в методы машинной обработки данных](https://mkurnosov.net/files/dsa-book-2020.pdf) - Курносов М.Г. (PDF)
-* [Документация по Markdown: Спецификация стандарта языка текстовой разметки](https://github.com/Cultus-Tenebrae/Markdown-documentation/releases/latest) - Изергиль Ван Дер Вельде (PDF)
 * [Операционные системы](https://vseloved.github.io/pdf/os-ru.pdf) - Всеволод Дёмкин (PDF)
 * [Параллельные технологии](http://www.inp.nsk.su/~baldin/Parallel/index.html) - Евгений Балдин (PDF)
 * [Программирование: введение в профессию](http://stolyarov.info/books/programming_intro) - Столяров Андрей Викторович (PDF)
@@ -132,8 +131,8 @@
 
 #### Экосистема открытого исходного кода
 
-* [Архитектура приложений с открытым исходным кодом](http://rus-linux.net/MyLDP/BOOKS/Architecture-Open-Source-Applications/index.html)
-* [Документация по языку текстовой разметки — Markdown](https://github.com/Cultus-Tenebrae/Markdown-documentation/releases/latest/download/Markdown-documentation.pdf) - Изергиль Ван Дер Вельде (PDF) (MIT)
+* [Архитектура приложений с открытым исходным кодом](http://rus-linux.net/MyLDP/BOOKS/Architecture-Open-Source-Applications/index.html) - Эми Браун и Грег Уилсон, перевод Ромоданова Н., Панина А. и Vlad (HTML)
+* [Документация по Markdown: Спецификация стандарта языка текстовой разметки](https://github.com/Cultus-Tenebrae/Markdown-documentation/releases/latest) - Изергиль Ван Дер Вельде (PDF)
 
 
 #### IDE and editors

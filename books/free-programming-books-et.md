@@ -36,7 +36,7 @@
 
 #### Vue.js
 
-* [Vue.js raamistiku õppematerjal](https://www.cs.tlu.ee/teemaderegister/get_file.php?id=715) - Fred Korts (PDF)
+* [Vue.js raamistiku õppematerjal](https://web.archive.org/web/20260807161735/https://www.cs.tlu.ee/teemaderegister/get_file.php?id=715) - Fred Korts (PDF)
 
 
 ### LaTex

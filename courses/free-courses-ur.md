@@ -16,6 +16,7 @@
 ### Algorithms
 
 * [Data Structures and Algorithms Analysis Complete Course in Hindi/Urdu \| Data structures by Fahad Hussain \| data structures and algorithms tutorial](https://www.youtube.com/playlist?list=PLtCBuHKmdxOfPNlAKWxBqdznCcXV4iWCz) - Fahad Hussain&rlm;
+* [Data Structures with Python (Urdu)](https://www.youtube.com/playlist?list=PLnd7R4Mcw3rK0bGYlR32Y084AKimVepDk) - Recluze&rlm;
 
 
 ### Android

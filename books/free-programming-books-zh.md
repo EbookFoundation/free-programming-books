@@ -92,7 +92,7 @@
 * [Git - 简易指南](https://rogerdudler.github.io/git-guide/index.zh.html) - Roger Dudler, `trl.:` 罗杰·杜德勒 (HTML)
 * [Git 参考手册](http://gitref.justjavac.com) - CHEN Yangjian
 * [Git-Cheat-Sheet](https://github.com/flyhigher139/Git-Cheat-Sheet) - flyhigher139
-* [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html) - Daniel Kummer, et al.
+* [git-flow 备忘清单](https://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html) - Daniel Kummer, et al.
 * [Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/zh_cn/) - Ben Lynn, `trl.:` 俊杰, 萌和江薇, et al. (HTML)
 * [Git教程](https://www.liaoxuefeng.com/wiki/896043488029600) - 廖雪峰
 * [Github帮助文档](https://github.com/waylau/github-help) - Way Lau
@@ -134,11 +134,11 @@
 * [Linux 构建指南](http://works.jinbuguo.com/lfs/lfs62/index.html)
 * [Linux 系统高级编程](http://sourceforge.net/projects/elpi/)
 * [Linux Documentation (中文版)](https://tinylab.gitbooks.io/linux-doc/content/zh-cn/)
-* [Linux Guide for Complete Beginners](http://happypeter.github.io/LGCB/book/)
+* [Linux Guide for Complete Beginners](https://happypeter.github.io/LGCB/book/)
 * [Linux工具快速教程](https://github.com/me115/linuxtools_rst)
 * [Mac 开发配置手册](https://aaaaaashu.gitbooks.io/mac-dev-setup/content/)
 * [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
-* [The Linux Command Line](http://billie66.github.io/TLCL/index.html)
+* [The Linux Command Line](https://billie66.github.io/TLCL/index.html)
 * [Ubuntu 参考手册](http://wiki.ubuntu.org.cn/UbuntuManual)
 * [uCore Lab: Operating System Course in Tsinghua University](https://www.gitbook.com/book/objectkuan/ucore-docs/details)
 * [UNIX TOOLBOX](https://web.archive.org/web/20210812021003/cb.vu/unixtoolbox_zh_CN.xhtml) *( :card_file_box: archived)*
@@ -158,7 +158,7 @@
 
 ### 分布式系统
 
-* [走向分布式](http://dcaoyuan.github.io/papers/pdfs/Scalability.pdf) (PDF)
+* [走向分布式](https://dcaoyuan.github.io/papers/pdfs/Scalability.pdf) (PDF)
 
 
 ### 管理和监控

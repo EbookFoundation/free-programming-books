@@ -165,6 +165,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Machine Learning For Dummies®, IBM Limited Edition](https://www.ibm.com/downloads/cas/GB8ZMQZ3) - Daniel Kirsch, Judith Hurwitz (PDF)
 * [Mastering Generative AI and Prompt Engineering: A Practical Guide for Data Scientists](https://datasciencehorizons.com/pub/Mastering_Generative_AI_Prompt_Engineering_Data_Science_Horizons_v2.pdf) - Data Science Horizons (PDF)
 * [On the Path to AI: Law’s prophecies and the conceptual foundations of the machine learning age](https://link.springer.com/book/10.1007/978-3-030-43582-0) - Thomas D. Grant, Damon J. Wischik (PDF, EPUB)
+* [Open LLM: From Nothing to the Frontier of Language Models](https://open-llm.saatvik333.workers.dev) - Open LLM Project (HTML, PDF, EPUB) (CC BY)
 * [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp](https://github.com/norvig/paip-lisp) - Peter Norvig (Git repo)
 * [Probabilistic Programming & Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) - Cam Davidson-Pilon (HTML, Jupyter Notebook)
 * [PyLLM: Build your own GPT from scratch in Python](https://robcox2910.github.io/pyllm/) - Rob Cox (HTML)

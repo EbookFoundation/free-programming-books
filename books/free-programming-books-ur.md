@@ -17,4 +17,4 @@
 
 ### Python
 
-* [Python Knights (Roman Urdu)](https://needideveloper.com/wp-content/uploads/2025/10/Python-Knights-Book-by-Needi-Developer-.pdf) - Needi Developer (PDF)
+* [Python Knights (Roman Urdu)](https://needideveloper.com/wp-content/uploads/2025/10/Python-Knights-Book-by-Needi-Developer-.pdf) - Needi Developer (PDF)&rlm;

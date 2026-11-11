@@ -15,6 +15,7 @@
 * [MySQL](#mysql)
 * [Pandas Python](#pandas-python)
 * [PHP](#php)
+* [Python](#python)
 * [Ruby](#ruby)
 * [Selenium](#selenium)
 * [Software Architecture](#software-architecture)

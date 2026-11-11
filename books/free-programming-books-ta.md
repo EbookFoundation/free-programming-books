@@ -126,3 +126,7 @@
 ### WordPress
 
 * [எளிய தமிழில் WordPress](https://freetamilebooks.com/ebooks/learn-wordpress-in-tamil/) - த.சீனிவாசன் (PDF)
+
+### Python
+
+* [எளிய தமிழில் பைதான்](https://freetamilebooks.com/ebooks/learn-python-in-tamil/) - த.சீனிவாசன் (PDF)

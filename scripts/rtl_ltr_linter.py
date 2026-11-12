@@ -85,7 +85,7 @@ def is_rtl_filename(path):
         bool: True if the filename suggests an RTL language, False otherwise.
     '''
     name = os.path.basename(path).lower()
-    return any(name.endswith(suf) for suf in ['-ar.md','_ar.md','-he.md','_he.md','-fa.md','_fa.md','-ur.md','_ur.md'])
+    return re.search(r'[-_](ar|he|fa|ur)(?:[-_][a-z]{2})?\.md\Z', name) is not None
 
 # Regex to identify a Markdown list item (e.g., "* text", "- text")
 LIST_ITEM_RE = re.compile(r'^\s*[\*\-\+]\s+(.*)')

@@ -29,6 +29,9 @@ jobs:
       run: |
         pip install python-bidi PyYAML
 
+    - name: Test RTL/LTR linter configuration
+      run: python -m unittest discover -s scripts -p 'test_rtl_ltr_cli.py' -v
+
     # (Optional) List files for debugging purposes
     - name: List files in scripts directory and current path
       run: |

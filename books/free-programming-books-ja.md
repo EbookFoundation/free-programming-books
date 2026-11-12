@@ -443,7 +443,7 @@
 
 #### Svelte
 
-* [Svelte Tutorial](https://svelte.jp/tutorial/basics) - Svelte.dev
+* [Svelte Tutorial](https://svelte.jp/tutorial) - Svelte.dev
 * [Svelte をはじめる](https://developer.mozilla.org/ja/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started) - MDN
 
 
@@ -454,7 +454,7 @@
 
 ### Julia
 
-* [Julia Language Programming](http://www.nct9.ne.jp/m_hiroi/light/julia.html) - 広井誠
+* [Julia Language Programming](http://www.nct9.ne.jp/m_hiroi/julia/index.html) - 広井誠
 * [実例で学ぶ Julia-0.4.1](https://www.dropbox.com/s/lk7y8lifjcr1vf2/JuliaBook-20151201.pdf) - Yuichi Motoyama (PDF)
 * [物理で使う数値計算入門：Julia言語による簡単数値計算](https://github.com/cometscome/Julianotes) - 永井佑紀
 

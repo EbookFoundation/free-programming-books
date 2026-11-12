@@ -126,6 +126,7 @@
 * [Coding Bat](http://codingbat.com/java)
 * [Coding Interview Questions and answers for practice \| Python, Java & C++](https://www.codingninjas.com/codestudio/problems) - CodingNinjas
 * [Coding Ninjas Guided Paths](https://www.codingninjas.com/codestudio/guided-paths/data-structures-algorithms)
+* [CompTIA A+ & Security+ PBQ Practice](https://www.examwizardz.app/pbq-practice) - ExamWizardz
 * [CSES Problem Set](https://cses.fi/problemset/)
 * [DSA Learning Series](https://www.codechef.com/LEARNDSA)
 * [Dynamic A2OJ Ladder](https://a2oj.herokuapp.com)

@@ -137,6 +137,48 @@
     GOOD: * [A Way-backed Interesting Book](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) *( :card_file_box: archived)*
     ```
 
+- <a id="license"></a>자유 라이선스 (무료로 읽을 수 있다면 "All Rights Reserved"인 자료도 목록에 포함하지만, 크리에이티브 커먼즈와 같은 자유 라이선스의 사용을 권장합니다):
+
+    ```text
+    GOOD: * [A Very Awesome Book](https://example.org/book.pdf) - Jane Roe (PDF) (CC BY-SA)
+    ```
+
+    지원하는 라이선스 (버전 번호 제외):
+
+    - `CC BY` '크리에이티브 커먼즈 저작자표시'
+    - `CC BY-NC` '크리에이티브 커먼즈 비영리'
+    - `CC BY-SA` '크리에이티브 커먼즈 동일조건변경허락'
+    - `CC BY-NC-SA` '크리에이티브 커먼즈 비영리, 동일조건변경허락'
+    - `CC BY-ND` '크리에이티브 커먼즈 변경금지'
+    - `CC BY-NC-ND` '크리에이티브 커먼즈 비영리, 변경금지'
+    - `GFDL` 'GNU 자유 문서 사용 허가서'
+
+#### 라이선스 표기 추가하기 (단계별 안내)
+
+자료가 자유/오픈 라이선스로 배포된다면, 파일 형식 표기 뒤에 괄호로 짧은 라이선스 표기를 추가하세요. 다음 단계를 따라주세요:
+
+1. 자료가 제공되는 페이지에서 라이선스를 확인하세요.
+   - 사이트 하단, 소개 페이지 또는 LICENSE/법적 고지 항목을 찾아보세요.
+   - 자유/오픈 콘텐츠 라이선스에 대해서만 표기를 추가하세요 (위의 지원 목록 참조). "All Rights Reserved"와 같은 표기는 추가하지 마세요.
+2. 라이선스 이름을 버전 번호 없이 지원되는 약어 중 하나로 통일하세요.
+   - 예시: "Creative Commons Attribution 4.0" → `CC BY`; "CC BY-SA 3.0" → `CC BY-SA`; "GNU Free Documentation License" → `GFDL`.
+3. 라이선스는 파일 형식 뒤, 다른 참고 사항 앞에 배치하세요.
+   - 파일 형식이 하나인 경우:
+     ```markdown
+     * [A Very Awesome Book](https://example.org/book.pdf) - Jane Roe (PDF) (CC BY-SA)
+     ```
+   - 파일 형식이 여러 개인 경우:
+     ```markdown
+     * [Awesome Guide](https://example.org/) - Jane Roe (HTML, PDF) (CC BY)
+     ```
+   - 추가 참고 사항이 있는 경우 (예: 아카이브됨 또는 작성 중):
+     ```markdown
+     * [Old but Gold](https://web.archive.org/web/20211016123456/http://example.com/) - John Doe (HTML) (CC BY) *( :card_file_box: archived)*
+     ```
+4. 판본이나 파일 형식에 따라 라이선스가 다르면, 별도 항목으로 나열하고 각 항목에 올바른 라이선스를 표기하세요.
+5. 확실하지 않다면, 해당 자료가 자유 라이선스로 제공된다고 생각하는 이유와 그 정보를 찾은 위치를 PR 코멘트에 설명하세요.
+
+
 ### 알파벳 순서
 
 - 같은 알파벳으로 시작하는 제목이 여러 개 있는 경우 두 번째 알파벳의 순서로 정렬합니다. 예시: aa가 ab 앞에옵니다. 

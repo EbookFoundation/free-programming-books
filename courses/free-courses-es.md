@@ -188,6 +188,7 @@
 * [Emacs Lisp UI](https://andros.dev/cursos/5495168e/emacs-lisp-ui/1/introduccion/) - Andros Fenollosa
 * [Fundamentos de informática en lenguaje C - I](https://ocw.uca.es/course/view.php?id=31)
 * [Fundamentos de informática en lenguaje C y Arduino - II](https://ocw.uca.es/course/view.php?id=74)
+* [IA práctica para el trabajo real](https://riocodelab-ia-practica.basicfield6.chatgpt.site/#minicurso) - RioCodeLab
 * [Introducción a la programación](https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=11663) - Carlos Slim Foundation (cuenta requerida)
 * [Introducción a la programación orientada a objetos en Java](https://www.coursera.org/learn/introduccion-programacion-java)
 * [Introducción a la programación, Python I](https://www.coursera.org/learn/aprendiendo-programar-python)

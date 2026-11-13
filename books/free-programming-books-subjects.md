@@ -153,7 +153,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Artificial Intelligence for a Better Future: An Ecosystem Perspective on the Ethics of AI and Emerging Digital Technologies](https://link.springer.com/book/10.1007/978-3-030-69978-9) - Bernd Carsten Stahl (PDF, EPUB)
 * [Artificial Intelligence: Foundations of Computational Agents (2010), 1st Edition](https://artint.info/aifca1e.html) - David L. Poole, Alan K. Mackworth @ Cambridge University Press (HTML)
 * [Artificial Intelligence: Foundations of Computational Agents (2017), 2nd Edition](https://artint.info) - David L. Poole, Alan K. Mackworth @ Cambridge University Press (HTML, Slides)
-* [Clever Algorithms Nature-Inspired Programming Recipes](https://bjpcjp.github.io/pdfs/ruby/Clever-Algorithms.pdf) - Jason Brownlee (PDF) (CC BY-NC-SA)
+* [Clever Algorithms Nature-Inspired Programming Recipes](https://raw.githubusercontent.com/Jason2Brownlee/CleverAlgorithms/master/release/clever_algorithms.pdf) - Jason Brownlee (PDF) (CC BY-NC-SA)
 * [Generative AI in Higher Education: The ChatGPT Effect](https://www.taylorfrancis.com/books/oa-mono/10.4324/9781003459026/generative-ai-higher-education-cecilia-ka-yuk-chan-tom-colloton) - Cecilia Ka Yuk Chan, Tom Colloton (PDF) (CC BY)
 * [Getting Started with Artificial Intelligence , 2nd Edition](https://www.ibm.com/downloads/cas/OJ6WX73V) - Tom Markiewicz, Josh Zheng (PDF)
 * [Graph Representational Learning Book](https://www.cs.mcgill.ca/~wlh/grl_book/) - William L. Hamilton (PDF)
@@ -403,7 +403,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [GUI development with Rust and GTK 4](https://gtk-rs.org/gtk4-rs/stable/latest/book/) - Julian Hofer
 * [Programming with gtkmm 4](https://developer.gnome.org/gtkmm-tutorial/stable/)
 * [Search User Interfaces](https://searchuserinterfaces.com/book/) - Marti A. Hearst
-* [Web Design Primer](https://pressbooks.library.ryerson.ca/webdesign/) - Richard Adams, Ahmed Sagarwala
+* [Web Design Primer](https://pressbooks.library.torontomu.ca/webdesign/) - Richard Adams, Ahmed Sagarwala
 * [Web Style Guide Online](https://www.webstyleguide.com/wsg3/index.html) - Patrick J. Lynch, Sarah Horton
 
 
@@ -510,7 +510,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 
 * [A Computational Logic (1979)](https://www.cs.utexas.edu/users/boyer/acl.pdf) - Robert S. Boyer, J Strother Moore (PDF)
 * [A Cool Brisk Walk Through Discrete Mathematics](http://stephendavies.org/brisk.pdf) - Stephen Davies (PDF)
-* [A First Course in Complex Analysis](https://matthbeck.github.io/papers/complexorth.pdf) - Matthias Beck, Gerald Marchesi, Dennis Pixton, Lucas Sabalka (PDF)
+* [A First Course in Complex Analysis](https://matthbeck.github.io/papers/complex.pdf) - Matthias Beck, Gerald Marchesi, Dennis Pixton, Lucas Sabalka (PDF)
 * [A Friendly Introduction to Mathematical Logic](https://milneopentextbooks.org/a-friendly-introduction-to-mathematical-logic/) - Christopher C. Leary, Lars Kristiansen
 * [A Gentle Introduction to the Art of Mathematics](https://osj1961.github.io/giam/) - Joseph E. Fields
 * [A Programmer's Introduction to Mathematics](https://pimbook.org) - Jeremy Kun
@@ -979,7 +979,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Architectural Metapatterns: The Pattern Language of Software Architecture](https://github.com/denyspoltorak/publications/tree/main/ArchitecturalMetapatterns) - Denys Poltorak, `edt.:` Lars Noodén (PDF, EPUB, ODT) (CC BY)
 * [Architectural Styles and the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) - Roy Thomas Fielding
 * [Best Kept Secrets of Peer Code Review](https://smartbear.com/lp/ebook/collaborator/secrets-of-peer-code-review/)
-* [Building Secure & Reliable Systems](https://static.googleusercontent.com/media/landing.google.com/en//sre/static/pdf/Building_Secure_and_Reliable_Systems.pdf) - Heather Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana Oprea, Adam Stubblefield (PDF)
+* [Building Secure & Reliable Systems](https://google.github.io/building-secure-and-reliable-systems/raw/toc.html) - Heather Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana Oprea, Adam Stubblefield (HTML)
 * [Code Simplicity: The Fundamentals of Software](https://www.codesimplicity.com/book.pdf) - Max Kanat-Alexander (PDF)
 * [Data-Oriented Design](https://www.dataorienteddesign.com/dodmain/dodmain.html)
 * [Designing Event-Driven Systems. Concepts and Patterns for Streaming Services with Apache Kafka](https://assets.confluent.io/m/7a91acf41502a75e/original/20180328-EB-Confluent_Designing_Event_Driven_Systems.pdf) - Ben Stopford (PDF)

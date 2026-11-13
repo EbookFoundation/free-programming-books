@@ -753,7 +753,7 @@
 
 ### Swift
 
-* [《The Swift Programming Language》中文版](https://www.gitbook.com/book/numbbbbb/-the-swift-programming-language-/details)
+* [《The Swift Programming Language》中文版](https://doc.swiftgg.team)
 
 
 ### TypeScript

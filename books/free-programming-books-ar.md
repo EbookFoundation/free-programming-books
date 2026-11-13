@@ -51,7 +51,7 @@
 
 ### Introduction to Programming in Arabic
 
-* [مختصر دليل لغات البرمجة](https://alyassen.github.io/Brief-guide-to-programming-languages-v1.2.4.pdf) - Ali Al-Yassen&rlm; (PDF)
+* [مختصر دليل لغات البرمجة](https://web.archive.org/web/20251116084400/https://alyassen.github.io/Brief-guide-to-programming-languages-v1.2.4.pdf) - Ali Al-Yassen&rlm; (PDF) *( :card_file_box: archived)*
 
 
 ### JavaScript

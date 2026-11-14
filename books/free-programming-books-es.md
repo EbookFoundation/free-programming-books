@@ -74,11 +74,11 @@
 * [Algoritmos y Programación (Guía para docentes)](http://www.eduteka.org/pdfdir/AlgoritmosProgramacion.pdf) - Juan Carlos López García (PDF)
 * [Análisis, Diseño e Implantación de Algoritmos](http://fcasua.contad.unam.mx/apuntes/interiores/docs/20181/informatica/1/LI_1164_06097_A_Analisis_Diseno_Implantacion_Algoritmos_Plan2016.pdf) - Universidad Nacional Autónoma de México, Juan Alberto Adam Siade, Gilberto Manzano Peñaloza, René Montesano Brand, Luis Fernando Zúñiga López, et al. (PDF)
 * [Apuntes de Algoritmos y Estructuras de Datos](https://openlibra.com/en/book/download/apuntes-de-algoritmos-y-estructuras-de-datos) - Alejandro Santos (PDF)
-* [Breves Notas sobre Análisis de Algoritmos](https://lya.fciencias.unam.mx/jloa/publicaciones/analisisdeAlgoritmos.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF)
+* [Breves Notas sobre Análisis de Algoritmos](https://web.archive.org/web/20230705151221/https://lya.fciencias.unam.mx/jloa/publicaciones/analisisdeAlgoritmos.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF) *( :card_file_box: archived)*
 * [Fundamentos de Informática y Programación](https://informatica.uv.es/docencia/fguia/TI/Libro/Libro_Fundamentos_Inform_Program.htm) - Gregorio Martín Quetglás, Francisco Toledo Lobo, Vicente Cerverón Lleó (HTML)
 * [Fundamentos de programación](https://es.wikibooks.org/wiki/Fundamentos_de_programaci%C3%B3n) - WikiLibros
 * [Introducción a la programación](https://es.wikibooks.org/wiki/Introducci%C3%B3n_a_la_Programaci%C3%B3n) - WikiLibros
-* [Temas selectos de estructuras de datos](https://lya.fciencias.unam.mx/jloa/publicaciones/estructurasdeDatos.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF)
+* [Temas selectos de estructuras de datos](https://web.archive.org/web/20230705150642/https://lya.fciencias.unam.mx/jloa/publicaciones/estructurasdeDatos.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF) *( :card_file_box: archived)*
 
 
 #### Base de Datos
@@ -93,8 +93,8 @@
 #### Ciencia Computacional
 
 * [Breves Notas sobre Autómatas y Lenguajes](https://web.archive.org/web/20230705150350/http://lya.fciencias.unam.mx/jloa/publicaciones/automatasyLenguajes.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF) *( :card_file_box: archived)*
-* [Breves Notas sobre Complejidad](https://lya.fciencias.unam.mx/jloa/publicaciones/complejidad.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF)
-* [Breves Notas sobre Teoría de la Computación](https://lya.fciencias.unam.mx/jloa/publicaciones/teoria.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF)
+* [Breves Notas sobre Complejidad](https://web.archive.org/web/20230225181058/https://lya.fciencias.unam.mx/jloa/publicaciones/complejidad.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF) *( :card_file_box: archived)*
+* [Breves Notas sobre Teoría de la Computación](https://web.archive.org/web/20230705193355/https://lya.fciencias.unam.mx/jloa/publicaciones/teoria.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF) *( :card_file_box: archived)*
 * [Teoría de la Computación: Lenguajes, Autómatas, Gramáticas](http://ciencias.bogota.unal.edu.co/fileadmin/Facultad_de_Ciencias/Publicaciones/Archivos_Libros/Libros_Matematicas/_Teoria_de_la_Computacion___lenguajes__automatas__gramaticas._/teoriacomputacion.pdf) - Rodrigo De Castro Korgi (PDF)
 
 
@@ -194,7 +194,7 @@
 * [Desarrollando con Java 8: Poker](https://ia601504.us.archive.org/21/items/DesarrollandoConJava8Poker/DesarrollandoConJava8Poker.pdf) - David Pérez Cabrera (PDF)
 * [Desarrollo de proyectos informáticos con Java](http://www3.uji.es/~belfern/libroJava.pdf) - Óscar Belmonte Fernández, Carlos Granell Canut, María del Carmen Erdozain Navarro, et al. (PDF)
 * [Ejercicios de Programación en Java](https://www.arkaitzgarro.com/java/) - Arkaitz Garro, Javier Eguíluz Pérez, A. García-Beltrán, J.M. Arranz (PDF)
-* [Notas de Introducción al Lenguaje de Programación Java (2004)](https://lya.fciencias.unam.mx/jloa/publicaciones/introduccionJava.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF)
+* [Notas de Introducción al Lenguaje de Programación Java (2004)](https://web.archive.org/web/20240411125154/https://lya.fciencias.unam.mx/jloa/publicaciones/introduccionJava.pdf) - Universidad Nacional Autónoma de México, Jorge L. Ortega Arjona (PDF) *( :card_file_box: archived)*
 * [Pensando la computación como un científico (con Java)](http://www.ungs.edu.ar/cm/uploaded_files/publicaciones/476_cid03-Pensar%20la%20computacion.pdf) (PDF)
 * [PlugIn Apache Tapestry: desarrollo de aplicaciones y páginas web](https://picodotdev.github.io/blog-bitix/assets/custom/PlugInTapestry.pdf) - picodotdev (PDF) ([EPUB](https://picodotdev.github.io/blog-bitix/assets/custom/PlugInTapestry.epub), [Kindle](https://picodotdev.github.io/blog-bitix/assets/custom/PlugInTapestry.mobi), [:package: código fuente ejemplos](https://github.com/picodotdev/blog-ejemplos/tree/HEAD/PlugInTapestry))
 * [Prácticas de Java (2009)](https://openlibra.com/es/book/download/practicas-de-java) - Gorka Prieto Agujeta, et al. (PDF)

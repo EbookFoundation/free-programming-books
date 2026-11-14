@@ -396,6 +396,7 @@
 
 * [PostgreSQL Tutorial](https://www.postgresqltutorial.com)
 * [PostgreSQL Tutorial](https://www.w3schools.com/postgresql/) - W3Schools
+* [SQL Course: Learn SQL in 66 Interactive Lessons](https://sqlmaxx.com/learn-sql/) - SQLMaxx
 
 
 ### Python

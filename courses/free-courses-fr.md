@@ -9,6 +9,7 @@
 * [Delphi](#delphi)
 * [Git](#git)
 * [HTML / CSS](#html--css)
+* [Intelligence Artificielle](#intelligence-artificielle)
 * [Java](#java)
 * [JavaScript](#javascript)
     * [jQuery](#jquery)
@@ -69,11 +70,6 @@
 * [Formation Git en vidéo, Cours Complet](https://www.youtube.com/playlist?list=PLjwdMgw5TTLXuY5i7RW0QqGdW0NZntqiP) - Grafikart
 
 
-### Intelligence Artificielle
-
-* [Générative AI pour Débutants .NET - Un Cours](https://github.com/microsoft/Generative-AI-for-beginners-dotnet/tree/main/translations/fr) - Microsoft (GitHub)
-
-
 ### HTML / CSS
 
 * [Apprendre à coder en HTML et CSS \| Cours complet (2020)](https://www.pierre-giraud.com/html-css-apprendre-coder-cours/) - Pierre Giraud (HTML)
@@ -88,6 +84,12 @@
 * [Tutoriel CSS](https://web.archive.org/web/20240807215319/http://fr.html.net/tutorials/css/) - `trl.:` Jean Jacques Solari (HTML) *( :card_file_box: archived)*
 * [Tutoriel HTML](https://web.archive.org/web/20240910145639/http://fr.html.net/tutorials/html/) - `trl.:` Jean Jacques Solari (HTML) *( :card_file_box: archived)*
 * [TUTOS HTML et CSS](https://www.youtube.com/playlist?list=PLEagTQfI6nPObScwsDmTCbLuZXRYfiUM-) - Boris 'PrimFX'
+
+
+### Intelligence Artificielle
+
+* [Générative AI pour Débutants .NET - Un Cours](https://github.com/microsoft/Generative-AI-for-beginners-dotnet/tree/main/translations/fr) - Microsoft (GitHub)
+* [MiniLab LLM](https://minilab-llm.com) - Stéphane Malho (HTML)
 
 
 ### Java

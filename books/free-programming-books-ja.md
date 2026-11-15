@@ -119,7 +119,7 @@
 
 * [DirectX プログラミング](https://docs.microsoft.com/ja-jp/windows/uwp/gaming/directx-programming) - Microsoft Docs
 * [GLUTによる「手抜き」OpenGL入門](https://www.wakayama-u.ac.jp/~tokoi/opengl/libglut.html) - 床井浩平
-* [iOS OpenGL ES プログラミングガイド](https://developer.apple.com/jp/documentation/3DDrawing/Conceptual/OpenGLES_ProgrammingGuide/Introduction/Introduction.html) - Apple Developer (HTML)
+* [iOS OpenGL ES プログラミングガイド](https://web.archive.org/web/20170616044853/https://developer.apple.com/jp/documentation/3DDrawing/Conceptual/OpenGLES_ProgrammingGuide/Introduction/Introduction.html) - Apple Developer (HTML) *( :card_file_box: archived)*
 * [はじめてのBlenderアドオン開発 (Blender 2.7版)](https://colorful-pico.net/introduction-to-addon-development-in-blender/2.7/) - nutti
 * [仮想物理実験室構築のためのOpenGL, WebGL, GLSL入門](http://www.natural-science.or.jp/laboratory/opengl_intro.php) - 遠藤理平
 
@@ -300,7 +300,7 @@
 
 ### CoffeeScript
 
-* [CoffeeScript基礎文法最速マスター](https://blog.bokuweb.me/entry/2015/01/06/190240) - @bokuweb
+* [CoffeeScript基礎文法最速マスター](https://web.archive.org/web/20231003103501/https://blog.bokuweb.me/entry/2015/01/06/190240) - @bokuweb *( :card_file_box: archived)*
 * [The Little Book on CoffeeScript](https://minghai.github.io/library/coffeescript) - Alex MacCaw, `trl:` Narumi Katoh
 * [基本操作逆引きリファレンス（CoffeeScript）](https://kyu-mu.net/coffeescript/revref) - 飯塚直
 * [正規表現リファレンス（CoffeeScript)](https://kyu-mu.net/coffeescript/regexp) - 飯塚直
@@ -379,7 +379,7 @@
 
 * [Cocoa Programming Tips 1001](https://web.archive.org/web/20170507034234/http://hmdt.jp/tips/cocoa/index.html) - 木下誠
 * [iOSアプリケーション プログラミングガイド](https://web.archive.org/web/20170616051042/https://developer.apple.com/jp/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html) - Apple Developer (PDF) *( :card_file_box: archived)*
-* [RubyMotion Tutorial: Ruby で iOS アプリを作ろう](http://tutorial.rubymotion.jp) - Clay Allsopp, `trl:` RubyMotion JP
+* [RubyMotion Tutorial: Ruby で iOS アプリを作ろう](https://web.archive.org/web/20260715015504/http://tutorial.rubymotion.jp) - Clay Allsopp, `trl:` RubyMotion JP *( :card_file_box: archived)*
 
 
 ### Java
@@ -401,7 +401,7 @@
 * [JavaScript 言語リファレンス](https://msdn.microsoft.com/ja-jp/library/d1et7k7c.aspx) - MSDN Library
 * [Mozilla Developer Network 日本語ドキュメント](https://developer.mozilla.org/ja/docs/Web/JavaScript) - MDN
 * [The little book of Buster.JS](https://the-little-book-of-busterjs.readthedocs.io/en/latest) - azu
-* [お気楽 JavaScript プログラミング超入門](http://www.nct9.ne.jp/m_hiroi/light/javascript.html) - 広井誠
+* [お気楽 JavaScript プログラミング超入門](https://web.archive.org/web/20250701031539/http://www.nct9.ne.jp/m_hiroi/light/javascript.html) - 広井誠 *( :card_file_box: archived)*
 * [とほほのJavaScriptリファレンス](https://www.tohoho-web.com/js) - 杜甫々
 * [一撃必殺JavaScript日本語リファレンス](http://www.openspc2.org/JavaScript) - 古籏一浩
 * [現代の JavaScript チュートリアル](https://ja.javascript.info) - Ilya Kantor
@@ -477,7 +477,7 @@
 
 * [Common Lisp 入門](http://www.nct9.ne.jp/m_hiroi/xyzzy_lisp.html#abclisp) - 広井誠
 * [Emacs Lisp基礎文法最速マスター](https://d.hatena.ne.jp/rubikitch/20100201/elispsyntax) - るびきち
-* [GNU Emacs Lispリファレンスマニュアル](http://www.fan.gr.jp/~ring/doc/elisp_20/elisp.html)
+* [GNU Emacs Lispリファレンスマニュアル](https://web.archive.org/web/20220408160737/http://www.fan.gr.jp/~ring/doc/elisp_20/elisp.html) *( :card_file_box: archived)*
 * [LISP and PROLOG](https://web.archive.org/web/20060526095202/http://home.soka.ac.jp/~unemi/LispProlog) - 畝見達夫
 * [Lisp 一夜漬け](https://www.haun.org/kent/lisp1/) - TAMURA Kent
 * [On Lisp (草稿)](http://www.asahi-net.or.jp/~kc7k-nd) - Paul Graham, `trl:` 野田開
@@ -499,7 +499,7 @@
 
 ### Mercurial
 
-* [Mercurial: The Definitive Guide](http://foozy.bitbucket.org/hgbook-ja/index.ja.html) - Bryan O'Sullivan, `trl:` 藤原克則
+* [Mercurial: The Definitive Guide](https://web.archive.org/web/20160817164704/http://foozy.bitbucket.org/hgbook-ja/index.ja.html) - Bryan O'Sullivan, `trl:` 藤原克則 *( :card_file_box: archived)*
 * [Mercurial チュートリアル hginit.com の和訳](https://mmitou.hatenadiary.org/entry/20100501/1272680474) - Joel Spolsky, `trl:` mmitou
 
 
@@ -682,8 +682,8 @@
 ### Standard ML
 
 * [お気楽 Standard ML of New Jersey 入門](http://www.nct9.ne.jp/m_hiroi/func/#sml) - 広井誠
-* [プログラミング言語SML#解説](https://www.pllab.riec.tohoku.ac.jp/smlsharp/docs/3.0/ja/manual.xhtml) - 大堀淳, 上野 雄大
-* [プログラミング言語Standard ML入門](https://www.pllab.riec.tohoku.ac.jp/smlsharp/smlIntroSlidesJP.pdf) - 大堀淳 (PDF)
+* [プログラミング言語SML#解説](https://web.archive.org/web/20240227162223/https://www.pllab.riec.tohoku.ac.jp/smlsharp/docs/3.0/ja/manual.xhtml) - 大堀淳, 上野 雄大 *( :card_file_box: archived)*
+* [プログラミング言語Standard ML入門](https://web.archive.org/web/20231212034642/https://www.pllab.riec.tohoku.ac.jp/smlsharp/smlIntroSlidesJP.pdf) - 大堀淳 (PDF) *( :card_file_box: archived)*
 
 
 ### Swift

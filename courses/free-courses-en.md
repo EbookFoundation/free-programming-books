@@ -303,6 +303,7 @@
 * [Generative AI for Beginners (.NET Edition)](https://github.com/microsoft/Generative-AI-for-beginners-dotnet) - Microsoft (GitHub)
 * [Generative AI for beginners with JavaScript](https://github.com/microsoft/generative-ai-with-javascript) - Microsoft (GitHub)
 * [Getting Started with NVIDIA Tools for Generative AI in Digital Health](https://learn.nvidia.com/courses/course-detail?course_id=course-v1:DLI+S-HX-03+V1) - NVIDIA Deep Learning Institute
+* [Intro to AI Automation](https://learn.ynteractive.com/courses/intro-to-ai-automation) - Robert Breen (Stepthrough)
 * [Intro to Generative AI](https://www.codecademy.com/learn/intro-to-generative-ai) - Codecademy
 * [LangChain & Vector Databases in Production](https://learn.activeloop.ai/courses/langchain) - Activeloop *(account required)*
 * [LangChain for LLM Application Development](https://www.deeplearning.ai/short-courses/langchain-for-llm-application-development) - Harrison Chase, Andrew Ng (DeepLearning.AI)

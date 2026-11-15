@@ -36,7 +36,7 @@
 ### Android
 
 * [Android Developers Fundamental Course Concepts and Practicals (Bahasa Indonesia)](https://yukcoding.id/download-ebook-android-gratis/)
-* [Tutorial Membuat Aplikasi Galeri Foto Android](https://www.smashwords.com/books/view/533096)
+* [Tutorial Membuat Aplikasi Galeri Foto Android](https://web.archive.org/web/20260509080306/https://www.smashwords.com/books/view/533096) *( :card_file_box: archived)*
 
 
 ### C
@@ -47,7 +47,7 @@
 
 ### <a id="csharp"></a>C\#
 
-* [Menguasai Pemrograman Berorientasi Objek Dengan Bahasa C#](https://mahirkoding.id/ebook-pemrograman-berorientasi-objek-c-pdf/)
+* [Menguasai Pemrograman Berorientasi Objek Dengan Bahasa C#](https://web.archive.org/web/20230602223437/https://mahirkoding.id/ebook-pemrograman-berorientasi-objek-c-pdf/) *( :card_file_box: archived)*
 
 
 ### <a id="cpp"></a>C++
@@ -72,7 +72,7 @@
 
 * [Belajar Dengan Jenius Golang](https://raw.githubusercontent.com/gungunfebrianza/Belajar-Dengan-Jenius-Golang/master/Belajar%20Dengan%20Jenius%20Golang.pdf) - Gun Gun Febrianza (PDF)
 * [Dasar Pemrograman Golang](https://dasarpemrogramangolang.novalagung.com) - Noval Agung Prayogo
-* [Mari Belajar Golang](https://www.smashwords.com/books/view/938003) - Risal (PDF)
+* [Mari Belajar Golang](https://web.archive.org/web/20260508190625/https://www.smashwords.com/books/view/938003) - Risal (PDF) *( :card_file_box: archived)*
 
 
 ### HTML and CSS
@@ -150,7 +150,7 @@
 
 #### Vue.js
 
-* [Belajar Vue.js](https://variancode.com/belajar-vue-js/) - Varian Hermianto
+* [Belajar Vue.js](https://web.archive.org/web/20220528200713/https://variancode.com/belajar-vue-js/) - Varian Hermianto *( :card_file_box: archived)*
 * [Dokumentasi Vue Bahasa Indonesia](https://github.com/vuejs-id/docs)
 
 

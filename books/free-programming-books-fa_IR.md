@@ -51,7 +51,7 @@
 ### Java
 
 * [آموزش اسپرينگ](https://github.com/raaminz/training/tree/master/slides/spring)
-* [آموزش جاوا از صفر](https://toplearn.com/courses/85/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AC%D8%A7%D9%88%D8%A7-%D8%A7%D8%B2-%D8%B5%D9%81%D8%B1)
+* [آموزش جاوا از صفر](https://web.archive.org/web/20220829015014/https://toplearn.com/courses/85/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%AC%D8%A7%D9%88%D8%A7-%D8%A7%D8%B2-%D8%B5%D9%81%D8%B1) *( :card_file_box: archived)*
 * [آموزش هايبرنيت](https://github.com/raaminz/training/tree/master/slides/hibernate)
 
 
@@ -84,7 +84,7 @@
 
 ### Python
 
-* [پایتون به پارسی](https://python.coderz.ir) - سعید درویش&rlm; (HTML)
+* [پایتون به پارسی](https://web.archive.org/web/20230602123214/https://python.coderz.ir/) - سعید درویش&rlm; (HTML) *( :card_file_box: archived)*
 * [ترجمه آزاد کتاب Asyncio in Python&rlm;](https://github.com/ftg-iran/aip-persian)
 * [ترجمه آزاد کتاب ThinkPython&rlm;](https://github.com/ThinkPythonPersian/thinkbook) - جمعی از مترجمان
 

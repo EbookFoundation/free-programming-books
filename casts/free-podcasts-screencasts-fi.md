@@ -6,4 +6,4 @@
 * [Koodikahvit](https://audioboom.com/channels/5016335) - Anniina ja Pauliina (podcast)
 * [Koodikrapula](https://koodikrapula.fi) - Hannes Kinnunen ja Matias Kinnunen (podcast)
 * [Prochat - Identio](https://podtail.com/fi/podcast/prochat) - Identio (podcast)
-* [Webbidevaus](https://webbidevaus.fi) - Antti Mattila, Tommi Pääkkö ja Riku Rouvila (podcast)
+* [Webbidevaus](https://web.archive.org/web/20221004134637/https://webbidevaus.fi/) - Antti Mattila, Tommi Pääkkö ja Riku Rouvila (podcast) *( :card_file_box: archived)*

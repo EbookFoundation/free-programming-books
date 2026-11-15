@@ -387,7 +387,7 @@
 * [Javaプログラミング学習支援システムのソフトウェアアーキテクチャと2種類の新問題形式の提案](https://ousar.lib.okayama-u.ac.jp/files/public/5/55952/20180614114854955908/K0005730_fulltext.pdf) - 石原信也 (PDF)
 * [Java基礎文法最速マスター](https://d.hatena.ne.jp/nattou_curry_2/20100130/1264821094) - id:nattou\_curry
 * [お気楽 Java プログラミング入門](http://www.nct9.ne.jp/m_hiroi/java) - 広井誠
-* [頑健なJavaプログラムの書き方](http://seiza.dip.jp/link/files/writingrobustjavacode.pdf) - Scott W. Ambler, `trl:` 高橋徹 (PDF)
+* [頑健なJavaプログラムの書き方](https://web.archive.org/web/20191208203727/http://seiza.dip.jp/link/files/writingrobustjavacode.pdf) - Scott W. Ambler, `trl:` 高橋徹 (PDF) *( :card_file_box: archived)*
 
 
 ### JavaScript
@@ -481,7 +481,7 @@
 * [LISP and PROLOG](https://web.archive.org/web/20060526095202/http://home.soka.ac.jp/~unemi/LispProlog) - 畝見達夫
 * [Lisp 一夜漬け](https://www.haun.org/kent/lisp1/) - TAMURA Kent
 * [On Lisp (草稿)](http://www.asahi-net.or.jp/~kc7k-nd) - Paul Graham, `trl:` 野田開
-* [マンガで分かるLisp(Manga Guide to Lisp)](http://lambda.bugyo.tk/cdr/mwl) - λ組
+* [マンガで分かるLisp(Manga Guide to Lisp)](https://web.archive.org/web/20250301003518/http://lambda.bugyo.tk/cdr/mwl) - λ組 *( :card_file_box: archived)*
 
 
 ### Lua

@@ -247,6 +247,7 @@
 * [ABC of JavaScript : An Interactive JavaScript Tutorial](http://www.openjs.com/tutorials/basic_tutorial/)
 * [Codecademy jquery track](https://www.codecademy.com/learn/jquery)
 * [Functional Programming in Javascript](https://github.com/ReactiveX/learnrx)
+* [Indentwise JavaScript](https://learn.steadypathcompany.com/js/) *(free Beginner lessons, no sign-up; Intermediate and Advanced are paid)*
 * [JavaScript Algorithms and Data Structures Certification](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) - freeCodeCamp
 * [JavaScript in 14 minutes](https://jgthms.com/javascript-in-14-minutes/) - Jeremy Thomas
 * [JavaScript interactive tutorial on CodeCademy](https://www.codecademy.com/learn/javascript)
@@ -408,6 +409,7 @@
 * [Free Online Python Course for Beginners](https://code-basics.com/languages/python) - CodeBasics
 * [futurecoder](https://futurecoder.io) - Alex Hall
 * [How to Think Like a Computer Scientist: Learning with Python, Interactive Edition](https://runestone.academy/ns/books/published/thinkcspy/index.html) - Brad Miller, David Ranum
+* [Indentwise Python](https://learn.steadypathcompany.com) *(free Beginner lessons, no sign-up; Intermediate and Advanced are paid)*
 * [Learn Python](http://www.learnpython.org)
 * [Learn Python Step by Step](https://techbeamers.com/python-tutorial-step-by-step/)
 * [Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python) - FreeCodeCamp

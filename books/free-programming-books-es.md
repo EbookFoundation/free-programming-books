@@ -88,6 +88,7 @@
 * [Base de Datos (2011)](https://openlibra.com/es/book/download/bases-de-datos-2) - Mercedes Marqués (PDF)
 * [Base de Datos Avanzadas (2013)](https://openlibra.com/es/book/download/bases-de-datos-avanzadas) - María José Aramburu Cabo, Ismael Sanz Blasco (PDF)
 * [Diseño Conceptual de Bases de Datos](https://openlibra.com/es/book/download/diseno-conceptual-de-bases-de-datos) - Jorge Sánchez (PDF)
+* [Patrones de diseño de bases de datos](https://mokevnin.github.io/database-design-patterns/es/) - Kirill Mokevnin (HTML) *( :construction: in process)*
 
 
 #### Ciencia Computacional
@@ -100,6 +101,7 @@
 
 #### Inteligencia Artificial
 
+* [Agentic Design Patterns](https://mokevnin.github.io/agentic-coding-design-patterns/es/) - Kirill Mokevnin (HTML) *( :construction: in process)*
 * [Deep Learning](http://www.uhu.es/publicaciones/?q=libros&code=1252) - Isaac Pérez Borrero, Manuel E. Gegúndez Arias (PDF)
 * [Libro online de IAAR](https://iaarbook.github.io) - Raúl E. López Briega, IAAR (HTML)
 

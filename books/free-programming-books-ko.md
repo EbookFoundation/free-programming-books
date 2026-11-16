@@ -222,7 +222,7 @@
 ### R
 
 * [Must Learning with R (개정판)](https://wikidocs.net/book/4315) - DoublekPark 외 1명
-* [The R Manuals (translated in Korean)](http://www.openstatistics.net/ko.html)
+* [The R Manuals (translated in Korean)](https://web.archive.org/web/20260717053806/http://www.openstatistics.net/ko.html) *( :card_file_box: archived)*
 
 
 ### Raspberry Pi
@@ -238,7 +238,7 @@
 ### Rust
 
 * [러스트 프로그래밍 언어](https://rinthel.github.io/rust-lang-book-ko/) - 스티브 클라브닉, 캐롤 니콜스
-* [예제로 배우는 Rust 프로그래밍](http://rust-lang.xyz)
+* [예제로 배우는 Rust 프로그래밍](https://web.archive.org/web/20260714041534/http://rust-lang.xyz) *( :card_file_box: archived)*
 * [파이썬과 비교하며 배우는 러스트 프로그래밍](https://indosaram.github.io/rust-python-book/) - 윤인도
 * [Comprehensive Rust](https://google.github.io/comprehensive-rust/ko/index.html)
 * [The Rust Programming Language](https://doc.rust-kr.org/title-page.html)

@@ -42,7 +42,7 @@
 
 ### PHP
 
-* [PHP](http://php.punctsivirgula.ro)
+* [PHP](https://web.archive.org/web/20260906083226/http://php.punctsivirgula.ro) *( :card_file_box: archived)*
 
 
 ### Scratch

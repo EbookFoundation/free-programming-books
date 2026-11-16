@@ -485,6 +485,7 @@
 
 ### SQL
 
+* [Indentwise SQL](https://learn.steadypathcompany.com/sql/) *(free Beginner lessons, no sign-up; Intermediate and Advanced are paid)*
 * [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql) - Khan Academy
 * [MySQL Tutorial](https://www.w3schools.com/MySQL/) - W3Schools
 * [MySQL Tutorial](https://www.mysqltutorial.org) - Anthony Pham (mysqltutorial.org)

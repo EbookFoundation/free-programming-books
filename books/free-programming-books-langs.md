@@ -844,6 +844,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/) - Chris James
 * [Learning Go](https://miek.nl/go/) (CC BY-NC-SA)
 * [Let's learn Go!](http://go-book.readthedocs.io/en/latest/) (CC BY-NC-SA)
+* [Networking with Go, Made Easy](https://sazardev.github.io/networking-with-go/) - Omar Flores Salazar (HTML, PDF, EPUB) (CC BY-NC 4.0)
 * [Practical Cryptography With Go](https://leanpub.com/gocrypto/read) - Kyle Isom (HTML)
 * [Practical Go Lessons](https://www.practical-go-lessons.com) - Maximilien Andile
 * [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html) - Dave Cheney (HTML)

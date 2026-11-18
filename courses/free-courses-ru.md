@@ -96,6 +96,7 @@ ADV - Продвинутый. Тонкости.
 * [Java для начинающих](https://ru.code-basics.com/languages/java) - Code-basics (BEG)
 * [Java Core](https://www.examclouds.com/ru/java-core-russian) - ExamClouds (BEG)
 
+
 ### JavaScript
 
 * [Алгоритмы и структуры данных](https://github.com/HowProgrammingWorks/Index/blob/master/Courses/AlgAndData.md) - Тимур Шемсединов (INT)

@@ -94,7 +94,7 @@ ADV - Продвинутый. Тонкости.
 * [Курс тест по Java](https://github.com/peterarsentev/course_test) - Пётр Арсентьев (BEG)
 * [Легкий старт в Java. Вводный курс для чайников](https://stepik.org/course/90684) - Stepik (BEG)
 * [Java для начинающих](https://ru.code-basics.com/languages/java) - Code-basics (BEG)
-
+* [Java Core](https://www.examclouds.com/ru/java-core-russian) - ExamClouds (BEG)
 
 ### JavaScript
 

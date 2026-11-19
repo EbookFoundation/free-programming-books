@@ -114,7 +114,7 @@
 
 ### Groovy
 
-* [Groovy für Java-Entwickler](http://examples.oreilly.de/openbooks/pdf_groovyger.pdf) - Jörg Staudemeyer (PDF)
+* [Groovy für Java-Entwickler](https://web.archive.org/web/20250902131237/http://examples.oreilly.de/openbooks/pdf_groovyger.pdf) - Jörg Staudemeyer (PDF) *( :card_file_box: archived)*
 
 
 ### HTML and CSS
@@ -226,8 +226,8 @@
 ### Ruby on Rails
 
 * [Praxiswissen Ruby](https://web.archive.org/web/20160328183933/https://oreilly.de/german/freebooks/rubybasger/pdf_rubybasger.pdf) - Sascha Kersken (PDF) *( :card_file_box: archived)*
-* [Praxiswissen Ruby On Rails](http://examples.oreilly.de/openbooks/pdf_rubyonrailsbasger.pdf) - Denny Carl (PDF)
-* [Rails Kochbuch](http://examples.oreilly.de/openbooks/pdf_railsckbkger.pdf) - Rob Orsini (PDF)
+* [Praxiswissen Ruby On Rails](https://web.archive.org/web/20251128144655/http://examples.oreilly.de/openbooks/pdf_rubyonrailsbasger.pdf) - Denny Carl (PDF) *( :card_file_box: archived)*
+* [Rails Kochbuch](https://web.archive.org/web/20251128144707/http://examples.oreilly.de/openbooks/pdf_railsckbkger.pdf) - Rob Orsini (PDF) *( :card_file_box: archived)*
 * [Ruby on Rails 2](http://openbook.rheinwerk-verlag.de/ruby_on_rails/) - Hussein Morsy, Tanja Otto (Online)
 * [Ruby on Rails 3.2 für Ein-, Um- und Quereinsteiger](http://ruby-auf-schienen.de/3.2/) (Online)
 

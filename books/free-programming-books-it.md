@@ -128,7 +128,7 @@
 
 * [Guida MongoDB](http://www.html.it/guide/guida-mongodb/?cref=system) (HTML)
 * [Guida OrientDB](http://www.html.it/guide/guida-orientdb/?cref=system) (HTML)
-* [Il piccolo libro di MongoDB](https://nicolaiarocci.com/mongodb/il-piccolo-libro-di-mongodb.pdf) - Karl Seguin, `trl.:` N. Iarocci (PDF)
+* [Il piccolo libro di MongoDB](https://web.archive.org/web/20160629230644/http://nicolaiarocci.com/mongodb/il-piccolo-libro-di-mongodb.pdf) - Karl Seguin, `trl.:` N. Iarocci (PDF) *( :card_file_box: archived)*
 * [Redis: la guida](http://www.html.it/guide/redis-la-guida/?cref=system) (HTML)
 
 
@@ -195,7 +195,7 @@
 ### LaTeX
 
 * [Appunti di programmazione in LaTeX e TeX](https://web.archive.org/web/20210820033738/http://profs.sci.univr.it/~gregorio/introtex.pdf) - Enrico Gregorio (PDF) *( :card_file_box: archived)*
-* [Il LaTex mediante esempi](http://www.discretephysics.org/MANUALI/Latex.pdf) - E. Tonti (PDF)
+* [Il LaTex mediante esempi](https://web.archive.org/web/20210819223506/http://www.discretephysics.org/MANUALI/Latex.pdf) - E. Tonti (PDF) *( :card_file_box: archived)*
 * [Impara LaTeX! (... e mettilo da parte)](https://users.dimi.uniud.it/~gianluca.gorni/TeX/itTeXdoc/impara_latex.pdf) - Marc Baudoin (PDF)
 * [Introduzione all'arte della composizione tipografica con LaTeX](http://www.guitex.org/home/images/doc/guidaguit-b5.pdf) - GuIT (PDF)
 * [L'arte di scrivere con LaTeX](http://www.lorenzopantieri.net/LaTeX_files/ArteLaTeX.pdf) - L. Pantieri, T. Gordini (PDF)

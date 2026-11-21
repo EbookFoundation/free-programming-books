@@ -24,7 +24,7 @@
 ### C
 
 * [বাংলায় C প্রোগ্রামিং ল্যাঙ্গুয়েজ শেখার কোর্স](https://c.howtocode.dev) - Jakir Hossain, et al.
-* [Computer Programming «কম্পিউটার প্রোগ্রামিং ১ম খণ্ড»](http://cpbook.subeen.com) - Tamim Shahriar Subeen (HTML)
+* [Computer Programming «কম্পিউটার প্রোগ্রামিং ১ম খণ্ড»](https://web.archive.org/web/20260516181231/http://cpbook.subeen.com) - Tamim Shahriar Subeen (HTML) *( :card_file_box: archived)*
 * [Computer Programming Part 3](https://archive.org/details/computer-programming-part-3-tamim-shaharier-subin) - Tamim Shahriar Subeen (PDF)
 
 
@@ -72,12 +72,12 @@
 
 ### Problem Sets
 
-* [৫২ টি প্রোগ্রামিং সমস্যা](http://cpbook.subeen.com/p/blog-page_11.html) - Tamim Shahriar Subeen (HTML)
+* [৫২ টি প্রোগ্রামিং সমস্যা](https://web.archive.org/web/20260807161734/http://cpbook.subeen.com/p/blog-page_11.html) - Tamim Shahriar Subeen (HTML) *( :card_file_box: archived)*
 
 
 ### Python
 
-* [পাইথন প্রোগ্রামিং বই](http://pybook.subeen.com) - Tamim Shahriar Subeen
+* [পাইথন প্রোগ্রামিং বই](https://web.archive.org/web/20230607225917/https://pybook.subeen.com) - Tamim Shahriar Subeen *( :card_file_box: archived)*
 * [বাংলায় পাইথন](https://python.howtocode.dev) - Nuhil Mehdy
 * [সহজ ভাষায় পাইথন ৩](https://python.maateen.me) - Maksudur Rahman Maateen
 * [হুকুশ পাকুশের প্রোগ্রামিং শিক্ষা](https://hukush-pakush.com) - Ikram Mahmud (HTML)
@@ -85,7 +85,7 @@
 
 ### Sql
 
-* [এসকিউএল পরিচিতি(SQL Introduction in Bangla)](https://www.sattacademy.org/sql/index.php) - Satt Academy
+* [এসকিউএল পরিচিতি(SQL Introduction in Bangla)](https://web.archive.org/web/20250125063219/https://www.sattacademy.org/sql/index.php) - Satt Academy *( :card_file_box: archived)*
 * [বাংলায় SQL টিউটোরিয়াল](https://sql.howtocode.dev) - Saiful, et al.
 
 

@@ -495,6 +495,7 @@
 * [SQL Tutorial](https://www.w3schools.com/sql) - W3Schools
 * [SQL Tutorial](https://www.scaler.com/topics/sql/) - Scaler Topics
 * [SQLBolt](http://sqlbolt.com)
+* [SQLMaxx Learn](https://sqlmaxx.com/learn-sql/)
 * [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial)
 
 

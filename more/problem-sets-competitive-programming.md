@@ -117,6 +117,7 @@
 * [APL Practice Problems](https://problems.tryapl.org)
 * [BaekJoon Online Judge](http://www.acmicpc.net)
 * [beecrowd](https://www.beecrowd.com.br)
+* [Bugger](https://bugger.in/practice) (account *required* to run code)
 * [CareerCup](http://www.careercup.com)
 * [CheckIO](http://www.checkio.org)
 * [Codechef](https://www.codechef.com/problems/school)

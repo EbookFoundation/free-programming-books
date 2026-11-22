@@ -481,7 +481,6 @@
 * [LISP and PROLOG](https://web.archive.org/web/20060526095202/http://home.soka.ac.jp/~unemi/LispProlog) - 畝見達夫
 * [Lisp 一夜漬け](https://www.haun.org/kent/lisp1/) - TAMURA Kent
 * [On Lisp (草稿)](http://www.asahi-net.or.jp/~kc7k-nd) - Paul Graham, `trl:` 野田開
-* [マンガで分かるLisp(Manga Guide to Lisp)](https://web.archive.org/web/20250301003518/http://lambda.bugyo.tk/cdr/mwl) - λ組 *( :card_file_box: archived)*
 
 
 ### Lua

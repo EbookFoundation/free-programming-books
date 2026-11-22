@@ -499,7 +499,6 @@
 
 ### Mercurial
 
-* [Mercurial: The Definitive Guide](https://web.archive.org/web/20160817164704/http://foozy.bitbucket.org/hgbook-ja/index.ja.html) - Bryan O'Sullivan, `trl:` 藤原克則 *( :card_file_box: archived)*
 * [Mercurial チュートリアル hginit.com の和訳](https://mmitou.hatenadiary.org/entry/20100501/1272680474) - Joel Spolsky, `trl:` mmitou
 
 

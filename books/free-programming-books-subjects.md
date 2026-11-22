@@ -663,7 +663,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 
 ### Misc
 
-* [10 Keys to Great Landing Pages](https://ithemes.com/wp-content/uploads/downloads/2012/09/10-keys-to-great-landing-pages-eBook.pdf) - iThemes Media (PDF)
+* [10 Keys to Great Landing Pages](https://web.archive.org/web/20230204173516/https://ithemes.com/wp-content/uploads/downloads/2012/09/10-keys-to-great-landing-pages-eBook.pdf) - iThemes Media (PDF) *( :card_file_box: archived)*
 * [2016 European Software Development Salary Survey](https://www.oreilly.com/radar/2016-european-software-development-salary-survey/) - Andy Oram, John King (HTML)
 * [2016 Software Development Salary Survey](https://www.oreilly.com/radar/2016-software-development-salary-survey-report/) - John King, Roger Magoulas (HTML)
 * [A MACHINE MADE THIS BOOK ten sketches of computer science](https://ocaml-book.com/s/popbook.pdf) - JOHN WHITINGTON (PDF)

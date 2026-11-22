@@ -2299,7 +2299,7 @@ Books on general-purpose programming that don't focus on a specific language are
 
 ### Raspberry Pi
 
-* [Raspberry Pi Beginner's Guide 4th Edition](https://magpi.raspberrypi.com/books/beginners-guide-4th-ed) - The MagPi magazine (PDF)
+* [Raspberry Pi Beginner's Guide 4th Edition](https://web.archive.org/web/20230319151500/https://magpi.raspberrypi.com/books/beginners-guide-4th-ed) - The MagPi magazine (PDF) *( :card_file_box: archived)*
 * [Raspberry Pi: Measure, Record, Explore](https://leanpub.com/RPiMRE/read) - Malcolm Maclean (HTML)
 * [Raspberry Pi Users Guide (2012)](http://www.cs.unca.edu/~bruce/Fall14/360/RPiUsersGuide.pdf) - Eben Upton (PDF)
 * [The Official Raspberry Pi Handbook 2023](https://magpi.raspberrypi.com/books/handbook-2023) - The MagPi magazine (PDF)

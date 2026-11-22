@@ -14,7 +14,6 @@
 * [Codezilla Codecast -&rlm; بودكاست البرمجة](https://youtube.com/playlist?list=PLsqPSxnrsWLuE-O3IKIUWy6Hmelz3bMWy) - Islam Hesham&rlm; (podcast)
 * [Essam Cafe -&rlm; قهوة عصام](https://essamcafe.com) - Ahmed Essam&rlm; (podcast)
 * [Nakerah Podcast&rlm;](https://nakerah.net/podcast) - Nakerah Network&rlm; (podcast)
-* [null++:&lrm; بالعربي](https://web.archive.org/web/20250806155250/https://nullplus.plus) - Mohamed Luay, Ahmad Alfy&rlm; (podcast) *( :card_file_box: archived)*
 * [Tech Podcast&rlm; بالعربي](https://anchor.fm/ahmdelemam) - Ahmed Elemam&rlm; (podcast)
 * [The Egyptian Guy&rlm;](https://anchor.fm/refaie) - Mohamed Refaie&rlm; (podcast)
 * [The Weekly Noob&rlm;](https://theweeklynoob.netlify.app) - Nabil Tharwat&rlm; (podcast)

@@ -2,13 +2,8 @@
 
 ### Index
 
-* [C++](#cpp)
 * [Python](#python)
 * [R](#r)
-
-
-### <a id="cpp"></a>C++
-
 
 
 ### Python
@@ -17,7 +12,6 @@
 
 
 ### R
-
 
 
 </div>

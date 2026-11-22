@@ -74,7 +74,6 @@
 
 ### <a id="csharp"></a>C\#
 
-* [Darmowy kurs C#](https://web.archive.org/web/20250710235637/http://kurs.aspnetmvc.pl/Csharp) *( :card_file_box: archived)*
 * [Kurs C#](http://zajacmarek.com/kurs-c-sharp/) - Marek Zając
 * [Kurs podstawy C#](https://cezarywalenciuk.pl/blog/programing/kurs/kurs-podstaw-c-sharp) - Cezary Walenciuk
 * [Programowanie w języku C#](https://4programmers.net/C_sharp)

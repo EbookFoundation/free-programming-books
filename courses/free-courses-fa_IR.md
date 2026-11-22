@@ -88,7 +88,6 @@
 ### Kotlin
 
 * [آموزش کامل برنامه نویسی با کاتلین](https://www.youtube.com/watch?v=SwhXvaXx078) - Amirahmad Adibi&rlm;
-* [دوره آموزشی کاتلین](https://web.archive.org/web/20180810192946/https://mskm.ir/category/programming/kotlin/) - Mehrdad Dolatkhah&rlm; *( :card_file_box: archived)*
 * [دوره رایگان برنامه نویسی اندروید](https://www.youtube.com/playlist?list=PLoBWKLYZlNi7lecoeYXHC868ZH_AE1uXg) - Omid Sharifmehr&rlm;
 
 

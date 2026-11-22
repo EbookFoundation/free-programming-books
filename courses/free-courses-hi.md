@@ -775,7 +775,6 @@
 #### Flask
 
 * [Flask (Python) In Hindi](https://www.youtube.com/playlist?list=PLy-CGmBdq2VGQGbhmSQEOD3Ty-Fp19pGC) - HindiSiksha
-* [Flask for Machine Learning](https://web.archive.org/web/20250325085726/https://learnwith.campusx.in/courses/Flask-for-Machine-Learning-Introduction-to-Flask--Dynamic-URL-Redirection-URL-Building-Jinja-Templates-Forms--Input-Validation-Databases-Sessions-Cookies-Training--Deloyment-of-ML-Model-6658698ad54433398d1a487b) - Mohammed Misbahullah Sheriff (CampusX) *( :card_file_box: archived)*
 * [Flask Tutorial in Hindi](https://www.youtube.com/playlist?list=PLQ623tNax05w6xydSxUSWpBuIUDe_SBNb) - Knowledge Gainer
 * [Web Development Using Flask and Python](https://www.youtube.com/playlist?list=PLu0W_9lII9agAiWp6Y41ueUKx1VcTRxmf) - CodeWithHarry
 

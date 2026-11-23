@@ -33,8 +33,8 @@
 
 ### Python
 
-* [Pythontutor](https://pythontutor.ru)
 * [Твоя первая программа. Твоя история.](https://3-tochki.ru/learn/) - Три точки (для детей от 9 лет, без регистрации)
+* [Pythontutor](https://pythontutor.ru)
 
 
 ### Solidity

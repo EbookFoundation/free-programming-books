@@ -9,7 +9,6 @@
 
 * [codefiction](https://codefiction.tech) (podcast)
 * [devPod](https://devpod.org) (screencast)
-* [kodpod](https://web.archive.org/web/20210726202540/https://kodpod.live/) (podcast) *( :card_file_box: archived)*
 * [Trendyol Tech Podcasts](https://trendyol.simplecast.com) (podcast)
 
 

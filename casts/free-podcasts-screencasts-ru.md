@@ -131,11 +131,6 @@
 * [RWPod Podcast](http://rwpod.com) (Podcast)
 
 
-### Scala
-
-* [Русскоязычный подкаст о Scala](https://scalalaz.ru) (Podcast)
-
-
 ### Webpack
 
 * [Скринкаст Webpack](https://learn.javascript.ru/screencast/webpack) - Илья Кантор (Screencast)

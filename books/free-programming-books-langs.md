@@ -1854,6 +1854,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Essential PHP](https://www.programming-books.io/essential/php/) - Krzysztof Kowalczyk, StackOverflow Contributors
 * [PHP 5 Power Programming](http://www.informit.com/content/images/013147149X/downloads/013147149X_book.pdf) (PDF)
 * [PHP Apprentice](https://phpapprentice.com) - Andrew Davis *( :construction: in process)*
+* [PHP Basics: Free Beginner Course With a Blog Project](https://codewithphp.com/series/php-basics/) - Code with PHP (HTML)
 * [PHP Best Practices](https://phpbestpractices.org)
 * [PHP Documentor - Documentation](https://docs.phpdoc.org) - phpdoc.org
 * [PHP Handbook](https://thevalleyofcode.com/php/) - Flavio Copes (HTML, PDF)

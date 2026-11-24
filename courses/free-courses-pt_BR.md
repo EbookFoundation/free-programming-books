@@ -441,7 +441,6 @@
 * [Python 3 na Web com Django (Básico e Intermediário)](https://www.udemy.com/python-3-na-web-com-django-basico-intermediario/) - Gileno Alves Santa Cruz Filho (Udemy)
 * [Python Básico](https://solyd.com.br/treinamentos/python-basico) - Guilherme Junqueira (Solyd Offensive Security)
 * [Python Com Bancos de Dados](https://www.youtube.com/playlist?list=PLucm8g_ezqNp7ECP-fidzdgeVDufBTYDV) - Bóson Treinamentos
-* [Python Fundamentos para Análise de Dados](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) - Data Science Academy
 * [Python Orientado a Objetos Python POO](https://www.youtube.com/playlist?list=PLbIBj8vQhvm34qAAEEH_PdL2tMG9rz-P7) - Otávio Miranda
 * [Python para Competições de Programação](https://www.youtube.com/playlist?list=PLMxflQ9_eOd9CY6Id5gfs3Edqt8vLC47p) - Adorilson
 * [Python para Iniciantes](https://www.udemy.com/python-para-iniciantes/) - Tiago Miguel (Udemy)
@@ -494,8 +493,7 @@
 * [Curso de Ruby on Rails para Iniciantes](https://www.youtube.com/playlist?list=PLe3LRfCs4go-mkvHRMSXEOG-HDbzesyaP) - Jackson Pires
 * [Ruby on Rails 5 na Prática](https://www.udemy.com/ruby-on-rails-5-na-pratica/) - Bruno Paulino (Udemy)
 * [Ruby Para Iniciantes](https://www.udemy.com/ruby-para-iniciantes/) - Bruno Paulino (Udemy)
-* [Ruby Puro](https://onebitcode.com/course/ruby-puro/) - One Bit Code (Site One Bit Code)
-* [Tutorial Rails Girls](http://guides.railsgirls.com/guides-ptbr/)
+* [Tutorial Rails Girls](https://web.archive.org/web/20221218131256/https://guides.railsgirls.com/guides-ptbr/) *( :card_file_box: archived)*
 
 
 ### Rust

@@ -2,7 +2,6 @@
 
 * [0 - Programozási nyelv független](#0---programozasi-nyelv-fuggetlen)
 * [Ada](#ada)
-* [Arduino](#arduino)
 * [C](#c)
 * [C++](#cpp)
 * [HTML and CSS](#html-and-css)
@@ -33,11 +32,6 @@
 * [Az Ada programozási nyelv](http://mek.oszk.hu/01200/01256/index.phtml) - Kozics Sándor (PDF)
 
 
-### Arduino
-
-* [Arduino programozási kézikönyv](http://avr.tavir.hu) - Brian W. Evans, `trl.:` Cseh Róbert (PDF - regisztráció szükséges)
-
-
 ### C
 
 * [Beej útmutatója a hálózati programozáshoz - Internet Socketek használatával](https://web.archive.org/web/20180630204236/http://weknowyourdreams.com/bgnet-sw.html) - Brian "Beej Jorgensen" Hall, Hajdu Gábor (HTML) *( :card_file_box: archived)*
@@ -63,7 +57,7 @@
 * [Java alapú webtechnológiák](http://www.ms.sapientia.ro/~manyi/index_java_techn.html) - Antal Margit (PDF)
 * [Java programozás](https://nagygusztav.hu/pdf/java-programozas.pdf) - Nagy Gusztáv (PDF)
 * [Objektumorientált programozás](http://www.ms.sapientia.ro/~manyi/teaching/oop/oop.pdf) - Antal Margit (PDF)
-* [Programozás III.](http://www.sze.hu/~varjasin/oktat.html) - Varjasi Norbert (PDF)
+* [Programozás III.](https://web.archive.org/web/20200113211428/http://www.sze.hu/~varjasin/publikaciok/Programozas_III.pdf) - Varjasi Norbert (PDF) *( :card_file_box: archived)*
 * [RMI](http://mek.oszk.hu/01200/01263/index.phtml) - Dékány Dániel (PDF)
 
 

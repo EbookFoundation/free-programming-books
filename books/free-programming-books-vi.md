@@ -1,8 +1,14 @@
 ### Index
 
+* [Git](#git)
 * [Go](#golang)
 * [Học máy](#machine-learning)
 * [Python](#python)
+
+
+### Git
+
+* [Git Magic](https://theory.stanford.edu/~blynn/gitmagic/intl/vi/) - Ben Lynn, `trl.:` Trần Ngọc Quân (HTML) [(PDF)](https://theory.stanford.edu/~blynn/gitmagic/intl/vi/book.pdf)
 
 
 ### <a id="golang"></a>Go

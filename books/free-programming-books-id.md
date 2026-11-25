@@ -2,7 +2,6 @@
 
 * [Android](#android)
 * [C](#c)
-* [C#](#csharp)
 * [C++](#cpp)
 * [Game Development](#game-development)
 * [Git](#git)
@@ -36,18 +35,12 @@
 ### Android
 
 * [Android Developers Fundamental Course Concepts and Practicals (Bahasa Indonesia)](https://yukcoding.id/download-ebook-android-gratis/)
-* [Tutorial Membuat Aplikasi Galeri Foto Android](https://www.smashwords.com/books/view/533096)
 
 
 ### C
 
 * [Belajar Pemrograman C untuk Pemula](https://www.petanikode.com/tutorial/c/) - Ahmad Muhardian *( :construction: in process)*
 * [Tutorial Belajar Bahasa Pemrograman C Untuk Pemula](https://www.duniailkom.com/tutorial-belajar-bahasa-pemrograman-c-bagi-pemula/) - Duniailkom
-
-
-### <a id="csharp"></a>C\#
-
-* [Menguasai Pemrograman Berorientasi Objek Dengan Bahasa C#](https://mahirkoding.id/ebook-pemrograman-berorientasi-objek-c-pdf/)
 
 
 ### <a id="cpp"></a>C++
@@ -72,7 +65,6 @@
 
 * [Belajar Dengan Jenius Golang](https://raw.githubusercontent.com/gungunfebrianza/Belajar-Dengan-Jenius-Golang/master/Belajar%20Dengan%20Jenius%20Golang.pdf) - Gun Gun Febrianza (PDF)
 * [Dasar Pemrograman Golang](https://dasarpemrogramangolang.novalagung.com) - Noval Agung Prayogo
-* [Mari Belajar Golang](https://www.smashwords.com/books/view/938003) - Risal (PDF)
 
 
 ### HTML and CSS
@@ -150,7 +142,7 @@
 
 #### Vue.js
 
-* [Belajar Vue.js](https://variancode.com/belajar-vue-js/) - Varian Hermianto
+* [Belajar Vue.js](https://web.archive.org/web/20220528200713/https://variancode.com/belajar-vue-js/) - Varian Hermianto *( :card_file_box: archived)*
 * [Dokumentasi Vue Bahasa Indonesia](https://github.com/vuejs-id/docs)
 
 

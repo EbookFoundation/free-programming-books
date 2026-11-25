@@ -12,7 +12,7 @@
 
 ### <a id="machine-learning"></a>Học máy
 
-* [Đắm chìm vào Học sâu](https://d2l.aivivn.com) - `trl.:` Nhóm dịch thuật Đắm chìm vào Học sâu (HTML)
+* [Đắm mình vào Học Sâu](https://web.archive.org/web/20251112211003/https://d2l.aivivn.com/) - `trl.:` Nhóm dịch thuật Đắm mình vào Học Sâu (HTML) *( :card_file_box: archived)*
 
 
 ### <a id="python"></a>Python

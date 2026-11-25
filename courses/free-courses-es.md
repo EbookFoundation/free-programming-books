@@ -38,7 +38,6 @@
 * [Android Módulo 1](https://www.pildorasinformaticas.es/course/android-con-android-studio) - Juan Díaz (Píldoras Informáticas)
 * [Android Módulo 2](https://www.pildorasinformaticas.es/course/android-modulo-2) - Juan Díaz (Píldoras Informáticas)
 * [Android Módulo 3](https://www.pildorasinformaticas.es/course/android-modulo-3) - Juan Díaz (Píldoras Informáticas)
-* [Aprende a programar tu primera app](https://www.edx.org/es/course/jugando-con-android-aprende-programar-tu-uamx-android301x-4)
 * [Introducción a la programación Android](https://web.archive.org/web/20200516175902/https://www.edx.org/es/course/android-introduccion-la-programacion-upvalenciax-aip201x-1) - Jesús Tomás Gironés *( :card_file_box: archived)*
 * [Introducción a la programación Android](https://campusvirtual.ull.es/ocw/course/view.php?id=130) - Cándido Caballero Gil, Jezabel Molina Gil
 * [Material Design con Android Studio](https://www.youtube.com/playlist?list=PLEtcGQaT56ch37mnavd8p5cbnkDvXLGsX) - Jesús Conde
@@ -96,7 +95,6 @@
 
 ### Flujos de Trabajo
 
-* [Agilidad y Lean. Gestionando los proyectos y negocios del Siglo XXI](https://miriadax.net/curso/agilidad-y-lean-gestionando-los-proyectos-y-negocios-del-s-xxi-16-a-edicion) (Miriadax)
 * [Cómo implantar grupos de mejora de procesos](https://www.edx.org/course/como-implantar-grupos-de-mejora-de-upvalenciax-gm201x-0)
 * [Gestión de proyectos software (2015)](https://ocw.unican.es/course/view.php?id=206)
 * [Gestión Participativa: motivación y liderazgo organizacional](https://www.edx.org/course/gestion-participativa-high-involvement-upvalenciax-gp201x-0)
@@ -155,7 +153,6 @@
 * [OpenOffice Calc. Gestión de datos sobre hojas de cálculo (2014)](https://ocw.unican.es/course/view.php?id=61)
 * [PowerPoint (2013)](https://www.pildorasinformaticas.es/course/powerpoint-2013) - Juan Díaz (Píldoras Informáticas)
 * [Presentaciones eficaces (2012)](https://ocw.unican.es/course/view.php?id=188)
-* [Presentaciones eficaces con PowerPoint](https://www.edx.org/es/course/disena-presentaciones-eficaces-con-upvalenciax-ppt101x-0)
 * [VBA Access](https://www.pildorasinformaticas.es/course/vba-access) - Juan Díaz (Píldoras Informáticas)
 * [VBA Excel](https://www.pildorasinformaticas.es/course/vba-excel) - Juan Díaz (Píldoras Informáticas)
 * [Word Avanzado (2010)](https://www.pildorasinformaticas.es/course/word-avanzado-2010) - Juan Díaz (Píldoras Informáticas)
@@ -232,7 +229,6 @@
 * [Curso JSON. De Novato a Experto](https://www.youtube.com/playlist?list=PLrDTf5qnZdEAiHO19QB9hq5QXAef1h8oY) - Camilo Martínez "Equimancho"
 * [Curso React Native desde cero](https://www.youtube.com/watch?v=qi87b6VcIHY&t=1004s) - Miguel Ángel Durán "midudev"
 * [Curso React.js desde cero - Crea una aplicación paso a paso](https://www.youtube.com/playlist?list=PLV8x_i1fqBw0B008sQn79YxCjkHJU84pC) - Miguel Ángel Durán «midudev»
-* [Detección de objetos](https://www.coursera.org/learn/deteccion-objetos)
 * [Diseño Web - Principios de CSS](https://andros.dev/cursos/766a97bf/css/1/introduccion/) - Andros Fenollosa
 * [Diseño Web - Principios de HTML](https://andros.dev/cursos/bd45ce00/html/1/introduccion/) - Andros Fenollosa
 * [Full Stack open: profundización en el desarrollo web moderno](https://fullstackopen.com/es/) - Universidad de Helsinki, Houston Inc., Terveystalo, Elisa, K-ryhmä, Unity Technologies, Konecranes
@@ -324,5 +320,4 @@
 
 ### Web & Webmaster
 
-* [Como crear y administrar un curso en MOODLE - TecNMx](https://mooc.tecnm.mx/courses/course-v1:TecNM+CCACM-003+2022-3/about) (TecNMx)
 * [Visual Studio Code: Mejora tu velocidad para codificar](https://www.udemy.com/course/vscode-mejora-tu-velocidad-para-codificar/) - Fernando Herrera (udemy)

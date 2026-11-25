@@ -19,6 +19,7 @@
 ### <a id="machine-learning"></a>Học máy
 
 * [Đắm mình vào Học Sâu](https://web.archive.org/web/20251112211003/https://d2l.aivivn.com/) - `trl.:` Nhóm dịch thuật Đắm mình vào Học Sâu (HTML) *( :card_file_box: archived)*
+* [Machine Learning cơ bản](https://github.com/tiepvupsu/ebookMLCB) - Vũ Hữu Tiệp (PDF)
 
 
 ### <a id="python"></a>Python

@@ -189,7 +189,6 @@
 
 ### JavaScript
 
-* [20 Min JS](https://20minjs.com) - Agustinus Theodorus, Chris Bongers, Mark Volkmann, et al. (podcast)
 * [devMode.fm](https://devmode.fm) - Andrew Welch, Ryan Ire­lan, Patrick Harrington, Jonathan Melville, Michael Rog, Earl John­ston, Mar­i­on Newlevant, Lau­ren Dorman, Matt Stein, Jen­nifer Blumberg (podcast)
 * [FiveJS](https://fivejs.codeschool.com) - CodeSchool (podcast)
 * [Front End Happy Hour](https://frontendhappyhour.com) - Ryan Burgess, Jem Young, Stacy London, Augustus Yuan, Mars Jullian, Shirley Wu (podcast)
@@ -250,7 +249,6 @@
 
 * [Chats with Kent C. Dodds](https://kentcdodds.com/chats) - Kent C. Dodds (podcast)
 * [Epic React](https://epicreact.dev/podcast) - Kent C. Dodds (podcast)
-* [React Native Nerds](https://www.reactnativenerds.com) - Spencer Carli, Jonathan Wheat (podcast)
 * [React Native Radio](https://www.reactnativeradio.com/episodes) - Jamon Holmgren, Robin Heinze, Mazen Chami, Jon Major (podcast)
 * [React Podcast](https://reactpodcast.simplecast.fm) - Michael Chan (podcast)
 * [React Round Up](https://reactroundup.com/episodes) - Carl Mungazi, Charles Max Wood, TJ VanToll, Paige Niedringhaus, Jack Herrington, et al. (podcast)
@@ -421,7 +419,6 @@
 * [Ruby Tapas \| Free Screencasts](https://www.rubytapas.com/category/episodes/) - Avdi Grimm (screencast)
 * [The Bike Shed](https://www.bikeshed.fm) - Chris Toomey, Steph Viccari (podcast)
 * [The Ruby on Rails Podcast](https://www.therubyonrailspodcast.com) - Brittany Martin, Brian Mariani, Jemma Issroff, Nick Schwaderer (podcast)
-* [The Ruby Show](http://rubyshow.com) - Peter Cooper, Jason Seifer (podcast)
 
 
 ### Rust

@@ -268,7 +268,7 @@
 
 ### Processing
 
-* [Processing](https://fr.flossmanuals.net/processing/) - Œuvre collective (HTML)
+* [Processing](https://web.archive.org/web/20140529103131/https://fr.flossmanuals.net/processing/) - Œuvre collective (HTML) *( :card_file_box: archived)*
 
 
 ### Python
@@ -291,7 +291,7 @@
 
 ### Rocq Prover
 
-* [Le Coq'Art (V8)](http://www.labri.fr/perso/casteran/CoqArt/) - Yves Bertot, Pierre Castéran
+* [Le Coq'Art (V8)](https://www.labri.fr/perso/casteran/CoqArt/) - Yves Bertot, Pierre Castéran
 
 
 ### Ruby

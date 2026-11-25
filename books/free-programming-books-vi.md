@@ -4,6 +4,7 @@
 * [Go](#golang)
 * [Học máy](#machine-learning)
 * [Python](#python)
+* [Rust](#rust)
 
 
 ### Git
@@ -26,3 +27,7 @@
 
 * [Tư duy Python: Cách tư duy như một Nhà khoa học máy tính](https://web.archive.org/web/20231207213828/https://bitbucket.org/tanhuynhng/thinking-python/src/master/) - Allen B.Downey, `trl.:` Tan H. Nguyen (HTML) *( :card_file_box: archived)*
 
+
+### Rust
+
+* [Rust Tiếng Việt](https://rust-tieng-viet.github.io) - Duyet Le (HTML)

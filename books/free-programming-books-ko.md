@@ -153,6 +153,7 @@
 
 * [<랭체인LangChain 노트> - LangChain 한국어 튜토리얼](https://wikidocs.net/book/14314) - 테디노트
 * [딥 러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155) - 유원준, 상준
+* [파운데이션 모델 엔지니어링](https://sungeuns.github.io/foundation-model-engineering/ko/) - Seongeun So (HTML) *( :construction: in process)*
 * [Pytorch로 시작하는 딥 러닝 입문](https://wikidocs.net/book/2788) - 유원준, 상준
 
 

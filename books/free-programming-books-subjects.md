@@ -977,6 +977,7 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Software Architecture
 
 * [Agile Planning: From Ideas to Story Cards](https://launchschool.com/books/agile_planning) - Launch School
+*  [Anatomy of a Payment: Clearing, Settlement & Ledger Architecture](https://doi.org/10.5281/zenodo.24444210) - Jay Thorne (CC-BY-4.0 working paper; companion [Apache-2.0 interactive workbench](https://digbijoylabs.github.io/anatomy-of-a-payment/))
 * [Architectural Metapatterns: The Pattern Language of Software Architecture](https://github.com/denyspoltorak/publications/tree/main/ArchitecturalMetapatterns) - Denys Poltorak, `edt.:` Lars Noodén (PDF, EPUB, ODT) (CC BY)
 * [Architectural Styles and the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm) - Roy Thomas Fielding
 * [Best Kept Secrets of Peer Code Review](https://smartbear.com/lp/ebook/collaborator/secrets-of-peer-code-review/)

@@ -38,8 +38,8 @@
 
 ### Java
 
-* [โครงสร้างข้อมูลฉบับวาจาจาวา](https://www.cp.eng.chula.ac.th/books/ds-vjjv/) - สมชาย ประสิทธิ์จูตระกูล
-* [แบบฝึกปฏิบัติฉบับวาจาจาวา](https://www.cp.eng.chula.ac.th/books/java101-lb/) - สมชาย ประสิทธิ์จูตระกูล
+* [โครงสร้างข้อมูลฉบับวาจาจาวา](https://web.archive.org/web/20230207041832/https://www.cp.eng.chula.ac.th/books/wp-content/uploads/sites/5/2022/01/DataStructure_vjjv_2.0.2.pdf) (PDF) *( :card_file_box: archived)*
+* [แบบฝึกปฏิบัติฉบับวาจาจาวา](https://web.archive.org/web/20240809045847/https://www.cp.eng.chula.ac.th/books/wp-content/uploads/sites/5/2022/01/java101_labbook_v1.0.2.pdf) (PDF) *( :card_file_box: archived)*
 * [เริ่มเรียนเขียนโปรแกรมฉบับวาจาจาวา](https://www.cp.eng.chula.ac.th/wp-content/uploads/2022/01/JavaProg_vjjv_3.0.1.pdf) - สมชาย ประสิทธิ์จูตระกูล (PDF)
 * [เริ่มเรียนเขียนโปรแกรม: ฉบับวาจาจาวา](https://www.cp.eng.chula.ac.th/books/bp-vjjv/) - สมชาย ประสิทธิ์จูตระกูล
 * [Java Programming Concept](http://it.e-tech.ac.th/poohdevil/JavaConcepts/) - Rungrote Phonkam
@@ -52,4 +52,4 @@
 
 ### Python
 
-* [Python ๑๐๑](https://www.cp.eng.chula.ac.th/books/python101/) - กิตติภณ พละการ, กิตติภพ พละการ, สมชาย ประสิทธิ์จูตระกูล, สุกรี สินธุภิญโญ
+* [Python ๑๐๑](https://web.archive.org/web/20210702122720/https://www.cp.eng.chula.ac.th/books/wp-content/uploads/sites/5/2018/08/python101_workbook_v1.0.2.pdf) (PDF) *( :card_file_box: archived)*

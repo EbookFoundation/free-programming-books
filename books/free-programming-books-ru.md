@@ -482,8 +482,8 @@
 * [Укус Питона](http://wombat.org.ua/AByteOfPython) - Swaroop C H
 * [Учебник Python 2.6](https://ru.wikibooks.org/wiki/Учебник_Python_2.6) - Викиучебник
 * [Problem Solving with Algorithms and Data Structures](https://aliev.github.io/runestone)
-* [Python. Введение в объектно-ориентированное программирование](https://younglinux.info/oopython.php) - C. Шапошникова
-* [Python. Введение в программирование](https://younglinux.info/python.php) - C. Шапошникова
+* [Python. Введение в объектно-ориентированное программирование](https://web.archive.org/web/20200131165058/https://younglinux.info/oopython.php) - C. Шапошникова *( :card_file_box: archived)*
+* [Python. Введение в программирование](https://web.archive.org/web/20200131165119/https://younglinux.info/python.php) - C. Шапошникова *( :card_file_box: archived)*
 * [Python. Уроки](https://devpractice.ru/book-python-lessons) - Абдрахманов М.И.
 * [Python. unittest](https://devpractice.ru/book-python-unittest) - Абдрахманов М.И
 * [Tkinter. Программирование графического интерфейса](https://younglinux.info/tkinter/) - C. Шапошникова
@@ -520,7 +520,6 @@
 ### Ruby
 
 * [Руководство пользователя](http://linux.yaroslavl.ru/docs/prog/ruby.html) - matz
-* [Учись программировать](http://www.shokhirev.com/mikhail/ruby/ltp/title.html) - Крис Пайн
 * [Ruby](https://ru.wikibooks.org/wiki/Ruby) - Викиучебник
 * [Ruby за двадцать минут](https://www.ruby-lang.org/ru/documentation/quickstart)
 * [Ruby Book](https://github.com/Krugloff/rus_ruby_book) - Круглов А.

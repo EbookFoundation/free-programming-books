@@ -2029,6 +2029,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Full Stack Python](https://www.fullstackpython.com) - Matt Makai
 * [Functional Programming in Python](https://www.oreilly.com/ideas/functional-programming-in-python) - David Mertz  
 * [Fundamentals of  Python Programming](https://web.archive.org/web/20191005170430/http://python.cs.southern.edu/pythonbook/pythonbook.pdf) - Richard L. Halterman (PDF) *( :construction: in process)*
+* [Geocomputation with Python](https://py.geocompx.org) - Michael Dorman, Anita Graser, Jakub Nowosad, Robin Lovelace (HTML) (CC BY-NC-SA)
 * [Geographic Data Science with Python](https://geographicdata.science/book/) - Sergio Rey, Dani Arribas-Bel, Levi John Wolf (HTML)
 * [Google's Python Class](https://developers.google.com/edu/python/) (2.4 - 2.x)
 * [Google's Python Style Guide](https://google.github.io/styleguide/pyguide.html)

@@ -2415,6 +2415,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [The Rustc Book](https://doc.rust-lang.org/rustc) (HTML)
 * [The Rustonomicon](https://doc.rust-lang.org/nomicon) (HTML)
 * [Why Rust?](https://www.oreilly.com/content/why-rust) (HTML)
+* [Zero to Beginner Rust](https://dogukancengiz.com/assets/Zero-to-Beginner-Rust.pdf) - Muhammed Doğukan Cengiz (PDF)
 
 
 ### Sage

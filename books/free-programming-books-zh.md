@@ -206,6 +206,7 @@
 
 ### 软件开发方法
 
+* [从 Demo 到商用](https://luochen211.github.io/demo-to-production/) - 落尘 (HTML) *( :construction: in process)*
 * [傻瓜函数编程](https://github.com/justinyhuang/Functional-Programming-For-The-Rest-of-Us-Cn) (《Functional Programming For The Rest of Us》中文版)
 * [硝烟中的 Scrum 和 XP](http://www.infoq.com/cn/minibooks/scrum-xp-from-the-trenches)
 * [重构程序员](https://cocode.qizhen.xyz) - 阮奇桢 *( :construction: in process)*

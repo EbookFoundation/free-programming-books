@@ -15,6 +15,7 @@
 * [MySQL](#mysql)
 * [Pandas Python](#pandas-python)
 * [PHP](#php)
+* [Python](#python)
 * [Ruby](#ruby)
 * [Selenium](#selenium)
 * [Software Architecture](#software-architecture)
@@ -126,3 +127,7 @@
 ### WordPress
 
 * [எளிய தமிழில் WordPress](https://freetamilebooks.com/ebooks/learn-wordpress-in-tamil/) - த.சீனிவாசன் (PDF)
+
+### Python
+
+* [எளிய தமிழில் பைதான்](https://freetamilebooks.com/ebooks/learn-python-in-tamil/) - த.சீனிவாசன் (PDF)

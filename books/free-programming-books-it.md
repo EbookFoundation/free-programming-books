@@ -58,6 +58,7 @@
 
 #### Sistemi
 
+* [Anatomia di Tor](https://github.com/aleff-github/onion-routing-anatomy/releases/tag/v1.0.0-it) - Alessandro Greco (PDF, EPUB)
 * [Programmazione di Sistema in Linguaggio C - Esempi ed esercizi](https://www.disi.unige.it/person/DelzannoG/BIOMED/Programmazione-C/dispense_avanzate_C.pdf) - V. Gervasi, S. Pelagatti, S. Ruggieri, F. Scozzari, A. Sperduti (PDF)
 
 

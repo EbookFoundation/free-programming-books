@@ -452,7 +452,6 @@
 ### iOS
 
 * [网易斯坦福大学公开课：iOS 7应用开发字幕文件](https://github.com/jkyin/Subtitle)
-* [Apple Watch开发初探](http://nilsun.github.io/apple-watch/)
 * [Google Objective-C Style Guide 中文版](http://zh-google-styleguide.readthedocs.org/en/latest/google-objc-styleguide/)
 * [iOS开发60分钟入门](https://github.com/qinjx/30min_guides/blob/master/ios.md)
 * [iPhone 6 屏幕揭秘](http://wileam.com/iphone-6-screen-cn/)
@@ -563,7 +562,6 @@
 * [Learn React & Webpack by building the Hacker News front page](https://github.com/theJian/build-a-hn-front-page)
 * [React-Bits 中文文档](https://github.com/hateonion/react-bits-CN)
 * [React webpack-cookbook](https://github.com/fakefish/react-webpack-cookbook)
-* [React.js 入门教程](http://fraserxu.me/intro-to-react/)
 * [React.js 中文文档](https://discountry.github.io/react/)
 
 
@@ -720,7 +718,7 @@
 * [通过例子学习 Rust](https://github.com/rustcc/rust-by-example/)
 * [Rust 官方教程](https://github.com/KaiserY/rust-book-chinese)
 * [Rust 宏小册](https://zjp-cn.github.io/tlborm/)
-* [Rust 语言圣经](https://course.rs)
+* [Rust 语言圣经](https://web.archive.org/web/20220309064127/https://course.rs/) *( :card_file_box: archived)*
 * [Rust 语言学习笔记](https://github.com/photino/rust-notes)
 * [RustPrimer](https://github.com/rustcc/RustPrimer)
 * [Tour of Rust](https://tourofrust.com/00_zh-cn.html)

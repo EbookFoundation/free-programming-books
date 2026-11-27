@@ -186,9 +186,8 @@
 * [Belajar PHP Dasar](https://www.malasngoding.com/belajar-php-dasar-pengenalan-dan-kegunaan-php/) - Malasngoding
 * [Membuat Bot Telegram dengan PHP](https://www.slideshare.net/HasanudinHS/ebook-i-membuat-bot-telegram-dengan-php) - Hasanudin H Syafaat (PDF)
 * [Panduan Lengkap PHP AJAX jQuery](https://gilacoding.com/upload/file/Panduan%20Lengkap%20PHP%20Ajax%20jQuery.pdf) - Desrizal (PDF)
-* [Pemrograman Berbasis Objek Modern dengan PHP](https://arsiteknologi.com/wp-content/uploads/Pemrograman_Berbasis_Objek_Modern_dengan_PHP_Google_Play_Book.pdf) - Muhamad Surya Iksanudin (PDF)
+* [Pemrograman Berbasis Objek Modern dengan PHP](https://web.archive.org/web/20201022025653/https://arsiteknologi.com/wp-content/uploads/Pemrograman_Berbasis_Objek_Modern_dengan_PHP_Google_Play_Book.pdf) - Muhamad Surya Iksanudin (PDF) *( :card_file_box: archived)*
 * [Pemrograman Berorientasi Objek Dengan PHP5](https://endangcahyapermana.files.wordpress.com/2016/03/belajar-singkat-pemrograman-berorientasi-objek-dengan-php5.pdf) - Gerry Sabar (PDF)
-* [Pemrograman Web dengan PHP dan MySQL](http://achmatim.net/2009/04/15/buku-gratis-pemrograman-web-dengan-php-dan-mysql/)
 * [PHP Dasar Tutorial](https://gilacoding.com/upload/file/PHP%20Dasar%20Tutorial.pdf) - Rosihan Ari Yuana (PDF)
 * [PHP: The Right Way Bahasa Indonesia](http://id.phptherightway.com/#site-header/)
 * [Tutorial Belajar PHP Dasar Untuk Pemula](https://www.duniailkom.com/tutorial-belajar-php-dasar-untuk-pemula/) - Duniailkom

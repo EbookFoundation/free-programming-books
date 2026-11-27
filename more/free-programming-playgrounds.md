@@ -180,7 +180,7 @@
 ### Go
 
 * [Go Playground](https://play.golang.org)
-* [Go-Vim](https://go-vim.appspot.com)
+* [Go-Vim](https://github.com/fatih/vim-go)
 * [Online Go Compiler](https://coddy.tech/playground/golang) - Coddy
 * [SoloLearn](https://code.sololearn.com/go)
 

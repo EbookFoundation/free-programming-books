@@ -256,7 +256,7 @@
 * [React Round Up](https://reactroundup.com/episodes) - Carl Mungazi, Charles Max Wood, TJ VanToll, Paige Niedringhaus, Jack Herrington, et al. (podcast)
 * [React Wednesdays](https://www.telerik.com/react-wednesdays) - Kathryn Grayson Nanz (screencast)
 * [ReactCasts](https://www.youtube.com/channel/UCZkjWyyLvzWeoVWEpRemrDQ) - Cassio Zen (screencast, [:package: code sources](https://github.com/cassiozen/ReactCasts)
-* [The React Native Show](https://www.callstack.com/podcast-react-native-show) - Mike Grabowski, Mike Chudziak, Satyajit Sahoo, Michał Pierzchała, et al. (screencast)
+* [The React Native Show](https://www.callstack.com/podcast) - Mike Grabowski, Mike Chudziak, Satyajit Sahoo, Michał Pierzchała, et al. (screencast)
 
 
 ### Kotlin
@@ -301,7 +301,7 @@
 * [Hacker Culture](https://anchor.fm/hackerculture) - Jaron Swab (podcast)
 * [IBM Developer Podcast](https://developer.ibm.com/podcasts/ibm_developer_podcast/) - IBM (podcast)
 * [IEEE Software's "On Computing" with Grady Booch](http://www.computer.org/web/computingnow/oncomputing) - Grady Booch (podcast)
-* [In the Open with Luke and Joe](https://developer.ibm.com/podcasts/in-the-open-with-luke-and-joe/) - Luke Schantz, Joe Sepi (podcast)
+* [In the Open with Luke and Joe](https://web.archive.org/web/20210616141744/https://developer.ibm.com/podcasts/in-the-open-with-luke-and-joe/) - Luke Schantz, Joe Sepi (podcast) *( :card_file_box: archived)*
 * [Ladybug Podcast](https://www.ladybug.dev) - Kelly Vaughn, Ali Spittel, Emma Bostian, Sidney Buckner (podcast)
 * [Learn to Code with Me](https://learntocodewith.me/podcast/) - Laurence Bradford (podcast)
 * [Lex Fridman Podcast](https://lexfridman.com/podcast) - Lex Fridman (podcast)
@@ -342,7 +342,6 @@
 * [TTL Podcast](https://podtail.com/es/podcast/ttl-podcast/) - Rebecca Murphey (podcast)
 * [Under the Radar](https://www.relay.fm/radar) - Marco Arment, David Smith (podcast)
 * [Web Security Warriors](https://www.stitcher.com/show/web-security-warriors) (podcast)
-* [Women in TECH with Ariana](https://www.wallwaytech.com/podcast) - Ariana The Techie (podcast)
 
 
 ### Lisp

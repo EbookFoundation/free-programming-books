@@ -36,7 +36,7 @@
 
 #### Vue.js
 
-* [Vue.js raamistiku õppematerjal](https://www.cs.tlu.ee/teemaderegister/get_file.php?id=715) - Fred Korts (PDF)
+* [Vue.js raamistiku õppematerjal](https://web.archive.org/web/20260807161735/https://www.cs.tlu.ee/teemaderegister/get_file.php?id=715) - Fred Korts (PDF) *( :card_file_box: archived)*
 
 
 ### LaTex
@@ -52,7 +52,6 @@
 ### Python
 
 * [Programmeerimise õpik](https://progeopik.cs.ut.ee) - Tartu Ülikooli Arvutiteaduse Instituut
-* [Pythoni algteadmised](https://courses.cs.ut.ee/MTAT.03.100/2012_fall/uploads/opik/00_eessona.html) - Tartu Ülikooli Arvutiteaduse Instituut
 * [Pythoni wikiraamat](https://et.wikibooks.org/wiki/Python) - Wikiõpikud
 * [Pythoni õppematerjalid](https://pydoc.pages.taltech.ee) - TalTech
 

@@ -88,7 +88,6 @@
 ### Kotlin
 
 * [آموزش کامل برنامه نویسی با کاتلین](https://www.youtube.com/watch?v=SwhXvaXx078) - Amirahmad Adibi&rlm;
-* [دوره آموزشی کاتلین](https://mskm.ir/category/programming/kotlin/) - Mehrdad Dolatkhah&rlm;
 * [دوره رایگان برنامه نویسی اندروید](https://www.youtube.com/playlist?list=PLoBWKLYZlNi7lecoeYXHC868ZH_AE1uXg) - Omid Sharifmehr&rlm;
 
 
@@ -113,7 +112,7 @@
 
 ### PHP
 
-* [آموزش پی‌اچ‌پی - سکان آکادمی](https://sokanacademy.com/courses/php/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-PHP) - Behzad Moradi&rlm;
+* [آموزش پی‌اچ‌پی - سکان آکادمی](https://sokanacademy.com/academy/courses/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-php) - Behzad Moradi&rlm;
 * [آموزش PHP -&rlm; سبز دانش](https://sabzdanesh.com/php-tutorial/) - Omid Rajaei&rlm;
 
 

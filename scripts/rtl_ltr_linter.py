@@ -107,9 +107,15 @@ SPAN_DIR_RE = re.compile(r'<span[^>]*dir=["\'](rtl|ltr)["\'][^>]*>', re.IGNORECA
 # Regex to identify inline code (text enclosed in single backticks)
 INLINE_CODE_RE = re.compile(r'^`.*`$')
 
-# Regex to identify the start of a code block (```)
+# Regex to identify code block fences (``` or ~~~)
 # Can be preceded by spaces or a '>' character (for blockquotes)
-CODE_FENCE_START = re.compile(r'^\s*>?\s*```')
+CODE_FENCE_RE = re.compile(r'^\s*>?\s*(?:```|~~~)')
+CODE_FENCE_START = CODE_FENCE_RE
+
+# Regex to find HTML div tags (opening and closing)
+DIV_TAG_RE = re.compile(r'(<div\b[^>]*>|</div\s*>)', re.IGNORECASE)
+DIR_ATTR_RE = re.compile(r"dir\s*=\s*['\"](rtl|ltr)['\"]", re.IGNORECASE)
+MARKDOWN_ATTR_RE = re.compile(r"markdown\s*=\s*['\"]1['\"]", re.IGNORECASE)
 
 # Regex to identify text entirely enclosed in parentheses or square brackets.
 # Useful for skipping segments like "(PDF)" or "[Free]" during analysis.
@@ -210,7 +216,8 @@ def lint_file(path, cfg):
 
     # Try to read the file content and handle potential errors
     try:
-        lines = open(path, encoding='utf-8').read().splitlines()
+        with open(path, encoding='utf-8') as f:
+            lines = f.read().splitlines()
     except Exception as e:
         return [f"::error file={path},line=1::Cannot read file: {e}"] # Return as a list of issues
 
@@ -235,35 +242,46 @@ def lint_file(path, cfg):
     file_direction_ctx = 'rtl' if is_rtl_filename(path) else 'ltr'
 
     # Stack to manage block-level direction contexts for nested divs.
-    # Initialized with the file's base direction context.
-    block_context_stack = [file_direction_ctx]
+    # Entries can be 'rtl', 'ltr', or None (for plain divs with no direction specified).
+    block_context_stack = []
+
+    # Track whether the parser is currently inside a fenced code block
+    in_code_block = False
 
     # Iterate over each line of the file with its line number
     for idx, line in enumerate(lines, 1):
 
-        # The active block direction context for the current line is the top of the stack.
-        active_block_direction_ctx = block_context_stack[-1]
+        # Skip code fences and all lines inside fenced code blocks
+        if CODE_FENCE_RE.match(line):
+            in_code_block = not in_code_block
+            continue
 
-        # Skip lines that start a code block (```)
-        if CODE_FENCE_START.match(line): continue
+        if in_code_block:
+            continue
 
         # Find all opening and closing <div> tags on the line to handle cases
         # where there can be multiple <div> opening and closing on the same line
-        div_tags = re.findall(r"(<div[^>]*dir=['\"](rtl|ltr)['\"][^>]*>|</div>)", line, re.IGNORECASE)
+        div_tags = DIV_TAG_RE.findall(line)
 
         # Process each found tag in order to correctly update the context stack
-        for tag_tuple in div_tags:
-            # re.findall with multiple capture groups returns a list of tuples:
-            # tag: The full matched tag (e.g., '<div...>' or '</div>')
-            # direction: The captured direction ('rtl' or 'ltr'), or empty for a closing tag
-            tag, direction = tag_tuple
-
-            # If it's an opening tag with 'markdown="1"', push the new context
-            if tag.startswith('<div') and 'markdown="1"' in tag:
-                block_context_stack.append(direction.lower())
-            # If it's a closing tag and we are inside a div, pop the context
-            elif tag == '</div>' and len(block_context_stack) > 1:
+        for tag in div_tags:
+            tag_lower = tag.lower()
+            if tag_lower.startswith('<div'):
+                dir_match = DIR_ATTR_RE.search(tag)
+                md_match = MARKDOWN_ATTR_RE.search(tag)
+                if dir_match and md_match:
+                    block_context_stack.append(dir_match.group(1).lower())
+                else:
+                    block_context_stack.append(None)
+            elif tag_lower.startswith('</div') and block_context_stack:
                 block_context_stack.pop()
+
+        # The active block direction context for the current line is the top non-None entry,
+        # or the file's base direction context if the stack has no directional context.
+        active_block_direction_ctx = next(
+            (c for c in reversed(block_context_stack) if c is not None),
+            file_direction_ctx
+        )
         # Check if the line is a Markdown list item
         list_item = LIST_ITEM_RE.match(line)
 
@@ -391,11 +409,12 @@ def lint_file(path, cfg):
                         f"::{sev['pure_ltr'].lower()} file={path},line={idx}::Pure LTR text '{s}' in {part} of RTL context may need trailing '&rlm;' marker."
                     )
     
-    # Check for unclosed div tags at the end of the file
-    if len(block_context_stack) > 1:
+    # Check for unclosed directional div tags at the end of the file
+    unclosed_contexts = [c for c in block_context_stack if c is not None]
+    if unclosed_contexts:
         issues.append(
             f"::error file={path},line={len(lines)}::Found unclosed <div dir='...'> tag. "
-            f"The final block context is '{block_context_stack[-1]}', not the file's base '{file_direction_ctx}'."
+            f"The final block context is '{unclosed_contexts[-1]}', not the file's base '{file_direction_ctx}'."
         )
 
     # Return the list of found issues

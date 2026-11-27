@@ -49,7 +49,7 @@
 
 * [O Androidzie ludzkim głosem](https://andrzejklusiewicz-android.blogspot.com/p/bezpatny-kurs-programowania-android-java.html) - Andrzej Klusiewicz
 * [O Androidzie ludzkim głosem](https://web.archive.org/web/20251212194832/https://jsystems.pl/storage/kurs_android/ebook/ebook-android.pdf) (PDF) *( :card_file_box: archived)*
-* [Przybornik pragmatycznego programisty Android](http://soldiersofmobile.com/przybornik/przybornik_8_02.pdf) (PDF)
+* [Przybornik pragmatycznego programisty Android](https://web.archive.org/web/20220314155508/http://soldiersofmobile.com/przybornik/przybornik_8_02.pdf) (PDF) *( :card_file_box: archived)*
 
 
 ### Assembly
@@ -74,11 +74,10 @@
 
 ### <a id="csharp"></a>C\#
 
-* [Darmowy kurs C#](http://kurs.aspnetmvc.pl/Csharp)
 * [Kurs C#](http://zajacmarek.com/kurs-c-sharp/) - Marek Zając
 * [Kurs podstawy C#](https://cezarywalenciuk.pl/blog/programing/kurs/kurs-podstaw-c-sharp) - Cezary Walenciuk
 * [Programowanie w języku C#](https://4programmers.net/C_sharp)
-* [Wstęp do programowania w C#](http://c-sharp.ue.katowice.pl/ksiazka/c_sharp_wer2_0.pdf) - Anna Kempa, Tomasz Staś (PDF)
+* [Wstęp do programowania w C#](https://web.archive.org/web/20240714101101/http://c-sharp.ue.katowice.pl/ksiazka/c_sharp_wer2_0.pdf) - Anna Kempa, Tomasz Staś (PDF) *( :card_file_box: archived)*
 
 
 ### <a id="cpp"></a>C++

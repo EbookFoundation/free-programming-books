@@ -57,7 +57,7 @@
 ### 0 - Meta-Listas
 
 * [Aprender Python](https://wiki.python.org.ar/aprendiendopython/) - Python Argentina
-* [Apuntes Completos de Desarrollo Web](http://jorgesanchez.net) - Jorge Sánchez
+* [Apuntes Completos de Desarrollo Web](https://jorgesanchez.net) - Jorge Sánchez
 * [Asombroso DDD: Una lista curada de recursos sobre Domain Driven Design](https://github.com/ddd-espanol/asombroso-ddd)
 * [Desarrollo de Aplicaciones Web - Temario Completo](https://github.com/statickidz/TemarioDAW#temario-daw) - José Luis Comesaña (GitHub)
 * [Desarrollo de Aplicaciones Web y Sistemas Microinformáticos y Redes](https://javiergarciaescobedo.es) - Javier García Escobedo
@@ -115,9 +115,9 @@
 
 #### Misceláneos
 
-* [97 cosas que todo programador debería saber](http://97cosas.com/programador/) - Kevlin Henney, `trl.:` Espartaco Palma, `trl.:` Natán Calzolari (HTML)
+* [97 cosas que todo programador debería saber](https://97cosas.com/programador/) - Kevlin Henney, `trl.:` Espartaco Palma, `trl.:` Natán Calzolari (HTML)
 * [Docker](https://github.com/brunocascio/docker-espanol#docker) - Bruno Cascio (GitHub)
-* [El camino a un mejor programador](http://emanchado.github.io/camino-mejor-programador/downloads/camino_2013-01-19_0688b6e.html) - Esteban Manchado Velázquez, Joaquín Caraballo Moreno, Yeray Darias Camacho (HTML) [(PDF, ePub)](http://emanchado.github.io/camino-mejor-programador/)
+* [El camino a un mejor programador](https://emanchado.github.io/camino-mejor-programador/downloads/camino_2013-01-19_0688b6e.html) - Esteban Manchado Velázquez, Joaquín Caraballo Moreno, Yeray Darias Camacho (HTML) [(PDF, ePub)](https://emanchado.github.io/camino-mejor-programador/)
 * [Introducción a Docker](https://www.rediris.es/tecniris/archie/doc/TECNIRIS47-1b.pdf) - Benito Cuesta, Salvador González (PDF)
 * [Los Apuntes de Majo](https://losapuntesdemajo.vercel.app) - Majo Ledesma (PDF)
 * [Programación de videojuegos SDL](http://libros.metabiblioteca.org/bitstream/001/271/8/Programacion_Videojuegos_SDL.pdf) - Alberto García Serrano (PDF)
@@ -125,8 +125,8 @@
 
 #### Sistemas Operativos
 
-* [Fundamentos de Sistemas Operativos](http://sistop.org/pdf/sistemas_operativos.pdf) - Gunnar Wolf, Esteban Ruiz, Federico Bergero, Erwin Meza, et al. (PDF)
-* [Sistemas Operativos](http://sistop.gwolf.org/html/biblio/Sistemas_Operativos_-_Luis_La_Red_Martinez.pdf) - David Luis la Red Martinez (PDF)
+* [Fundamentos de Sistemas Operativos](https://sistop.org/pdf/sistemas_operativos.pdf) - Gunnar Wolf, Esteban Ruiz, Federico Bergero, Erwin Meza, et al. (PDF)
+* [Sistemas Operativos](https://sistop.gwolf.org/html/biblio/Sistemas_Operativos_-_Luis_La_Red_Martinez.pdf) - David Luis la Red Martinez (PDF)
 
 
 ### Android
@@ -140,7 +140,7 @@
 * [Aprenda C++ avanzado como si estuviera en primero](https://web.archive.org/web/20100701020037/http://www.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/cpp/avanzado/cppavan.pdf) - Paul Bustamante, Iker Aguinaga, Miguel Aybar, Luis Olaizola, Iñigo Lazcano (PDF)
 * [Aprenda C++ básico como si estuviera en primero](https://web.archive.org/web/20100701020025/http://www.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/cpp/basico/cppbasico.pdf) - Paul Bustamante, Iker Aguinaga, Miguel Aybar, Luis Olaizola, Iñigo Lazcano (PDF)
 * [Curso de C++](https://conclase.net/c/curso) - Salvador Pozo (HTML)
-* [Ejercicios de programación creativos y recreativos en C++](http://antares.sip.ucm.es/cpareja/libroCPP/) - Luis Llana, Carlos Gregorio, Raquel Martínez, Pedro Palao, Cristóbal Pareja (HTML)
+* [Ejercicios de programación creativos y recreativos en C++](https://antares.sip.ucm.es/cpareja/libroCPP/) - Luis Llana, Carlos Gregorio, Raquel Martínez, Pedro Palao, Cristóbal Pareja (HTML)
 
 
 ### Ensamblador
@@ -159,7 +159,7 @@
 * [Git Immersión en Español](https://esparta.github.io/gitimmersion-spanish) - Jim Weirich, `trl.:` Espartaco Palma
 * [Git. La guía simple](https://rogerdudler.github.io/git-guide/index.es.html) - Roger Dudler, `trl.:` Luis Barragan, `trl.:` Adrian Matellanes (HTML)
 * [Gitmagic](http://www-cs-students.stanford.edu/~blynn/gitmagic/intl/es) - Ben Lynn, `trl.:` Rodrigo Toledo, `trl.:` Ariset Llerena Tapia (HTML, PDF)
-* [Pro Git](http://git-scm.com/book/es/) - Scott Chacon, Ben Straub, `trl.:` Andres Mancera, `trl.:` Antonino Ingargiola, et al. (HTML, PDF, EPUB)
+* [Pro Git](https://git-scm.com/book/es/) - Scott Chacon, Ben Straub, `trl.:` Andres Mancera, `trl.:` Antonino Ingargiola, et al. (HTML, PDF, EPUB)
 
 
 ### Go
@@ -171,7 +171,7 @@
 ### Haskell
 
 * [¡Aprende Haskell por el bien de todos!](http://aprendehaskell.es/main.html) (HTML)
-* [Piensa en Haskell (ejercicios de programación funcional)](http://www.cs.us.es/~jalonso/publicaciones/Piensa_en_Haskell.pdf) - José A. Alonso Jiménez, Mª José Hidalgo Doblado (PDF)
+* [Piensa en Haskell (ejercicios de programación funcional)](https://www.cs.us.es/~jalonso/publicaciones/Piensa_en_Haskell.pdf) - José A. Alonso Jiménez, Mª José Hidalgo Doblado (PDF)
 
 
 ### HTML and CSS
@@ -179,9 +179,9 @@
 * [99 tips para Web Development](https://fmontes.gumroad.com/l/99tips) - Freddy Montes (PDF) (se solicita email)
 * [CSS avanzado](http://librosweb.es/libro/css_avanzado) - Javier Eguíluz Pérez (HTML) [(PDF)](https://openlibra.com/es/book/download/css-avanzado)
 * [CSS3 y JavaScript avanzado](https://openlibra.com/es/book/download/css3-y-javascript-avanzado) - Jordi Collell Puig (PDF)
-* [Diseño de Interfaces Web](http://interfacesweb.github.io/unidades/) - Pedro Prieto (HTML)
+* [Diseño de Interfaces Web](https://interfacesweb.github.io/unidades/) - Pedro Prieto (HTML)
 * [El gran libro del diseño web](https://freeditorial.com/es/books/el-gran-libro-del-diseno-web) - Rither Cobeña C (HTML, PDF, EPUB, Kindle)
-* [Estructura con CSS](http://es.learnlayout.com) - Greg Smith, Isaac Durazo, `trl.:` Isaac Durazo (HTML)
+* [Estructura con CSS](https://es.learnlayout.com) - Greg Smith, Isaac Durazo, `trl.:` Isaac Durazo (HTML)
 * [Guía Completa de CSS3](https://openlibra.com/es/book/download/guia-completa-de-css3) - Antonio Navajas Ojeda (PDF)
 * [HTML5](https://openlibra.com/es/book/html5) - Arkaitz Garro (PDF)
 * [Introducción a CSS](http://librosweb.es/libro/css/) - Javier Eguíluz Pérez (HTML) [(PDF)](https://openlibra.com/es/book/download/introduccion-a-css)
@@ -200,8 +200,8 @@
 * [Prácticas de Java (2009)](https://openlibra.com/es/book/download/practicas-de-java) - Gorka Prieto Agujeta, et al. (PDF)
 * [Preparando JavaSun 6 - OCPJP6](https://github.com/PabloReyes/ocpjp-resumen-espanol#ocpjp6-resumen-español) - Pablo Reyes Almagro (GitHub) [(PDF)](https://github.com/PabloReyes/ocpjp-resumen-espanol/blob/master/OCPJP6%20Resumen.pdf)
 * [Programación en Java](http://elvex.ugr.es/decsai/java/) - Fernando Berzal Galiano (HTML)
-* [Tutorial básico de Java EE](http://static1.1.sqspcdn.com/static/f/923743/14770633/1416082087870/JavaEE.pdf) - Abraham Otero (PDF)
-* [Tutorial introducción a Maven 3](http://static1.1.sqspcdn.com/static/f/923743/15025126/1320942755733/Tutorial_de_Maven_3_Erick_Camacho.pdf) - Erick Camacho (PDF)
+* [Tutorial básico de Java EE](https://static1.1.sqspcdn.com/static/f/923743/14770633/1416082087870/JavaEE.pdf) - Abraham Otero (PDF)
+* [Tutorial introducción a Maven 3](https://static1.1.sqspcdn.com/static/f/923743/15025126/1320942755733/Tutorial_de_Maven_3_Erick_Camacho.pdf) - Erick Camacho (PDF)
 
 
 ### JavaScript
@@ -230,19 +230,19 @@
 
 #### D3.js
 
-* [Tutorial de D3](http://gcoch.github.io/D3-tutorial/index.html) - Scott Murray, `trl.:` Gabriel Coch (HTML)
+* [Tutorial de D3](https://gcoch.github.io/D3-tutorial/index.html) - Scott Murray, `trl.:` Gabriel Coch (HTML)
 
 
 #### jQuery
 
 * [Fundamentos de jQuery](https://librosweb.es/libro/fundamentos_jquery) - Rebecca Murphey, `trl.:` Leandro D'Onofrio (HTML) [(PDF)](https://openlibra.com/es/book/download/fundamentos-de-jquery)
-* [Manual de jQuery](http://mundosica.github.io/tutorial_hispano_jQuery/) - MundoSICA, et al. (HTML, PDF)
+* [Manual de jQuery](https://mundosica.github.io/tutorial_hispano_jQuery/) - MundoSICA, et al. (HTML, PDF)
 
 
 #### Node.js
 
 * [El Libro para Principiantes en Node.js](https://www.nodebeginner.org/index-es.html) -  Manuel Kiessling, Herman A. Junge (HTML)
-* [Introducción a Node.js a través de Koans](http://nodejskoans.com) - Arturo Muñoz de la Torre (PDF)
+* [Introducción a Node.js a través de Koans](https://nodejskoans.com) - Arturo Muñoz de la Torre (PDF)
 
 
 #### React
@@ -349,7 +349,7 @@
 * [Inmersión en Python](https://code.google.com/archive/p/inmersionenpython3/) (HTML)
 * [Inmersión en Python 3](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/inmersionenpython3/inmersionEnPython3.0.11.pdf) - Mark Pilgrim, `trl.:` José Miguel González Aguilera (PDF) (descarga directa)
 * [Introducción a la programación con Python](http://repositori.uji.es/xmlui/bitstream/handle/10234/24305/s23.pdf) - Andrés Marzal, Isabel Gracia (PDF)
-* [Introducción a Programando con Python](http://opentechschool.github.io/python-beginners/es_CL/) - OpenTechSchool, et al. (HTML)
+* [Introducción a Programando con Python](https://opentechschool.github.io/python-beginners/es_CL/) - OpenTechSchool, et al. (HTML)
 * [JJ_PYTHON_BOOK](https://github.com/joedejesus/JJ_PYTHON_BOOK) - Joe De Jesus
 * [Python para ciencia e ingeniería](https://github.com/mgaitan/curso-python-cientifico#curso-de-python-para-ciencias-e-ingenierías) - Martín Gaitán (GitHub)
 * [Python para principiantes](http://librosweb.es/libro/python) - Eugenia Bahit (HTML) [(PDF)](https://web.archive.org/web/20150421012120/http://www.cursosdeprogramacionadistancia.com/static/pdf/material-sin-personalizar-python.pdf)
@@ -364,7 +364,7 @@
 
 #### Web2py
 
-* [Web2py - Manual de Referencia Completo, 5a Edición](http://www.web2py.com/books/default/chapter/41) - Massimo Di Pierro, `trl.:` Alan Etkin (HTML)
+* [Web2py - Manual de Referencia Completo, 5a Edición](https://www.web2py.com/books/default/chapter/41) - Massimo Di Pierro, `trl.:` Alan Etkin (HTML)
 
 
 ### Ruby
@@ -372,7 +372,7 @@
 * [Aprende a programar con Ruby](http://rubysur.org/aprende.a.programar) - RubySur (HTML)
 * [La Guía de Estilos de Ruby](https://github.com/alemohamad/ruby-style-guide/blob/master/README-esLA.md#preludio) - Ale Mohamad (GitHub)
 * [Ruby en 20 minutos](https://www.ruby-lang.org/es/documentation/quickstart) (HTML)
-* [Ruby tutorial o cómo pasar un buen rato programando](http://rubytutorial.wikidot.com/introduccion) - Andrés Suárez García (HTML)
+* [Ruby tutorial o cómo pasar un buen rato programando](https://rubytutorial.wikidot.com/introduccion) - Andrés Suárez García (HTML)
 
 
 #### Ruby on Rails
@@ -387,19 +387,19 @@
 
 ### R
 
-* [Cartas sobre Estadística de la Revista Argentina de Bioingeniería](http://cran.r-project.org/doc/contrib/Risk-Cartas-sobre-Estadistica.pdf) - Marcelo R. Risk (PDF)
-* [Generación automática de reportes con R y LaTeX](http://cran.r-project.org/doc/contrib/Rivera-Tutorial_Sweave.pdf) - Mario Alfonso Morales Rivera (PDF)
-* [Gráficos Estadísticos con R](http://cran.r-project.org/doc/contrib/grafi3.pdf) - Juan Carlos Correa, Nelfi González (PDF)
-* [Introducción a R](http://cran.r-project.org/doc/contrib/R-intro-1.1.0-espanol.1.pdf) - R Development Core Team, `trl.:` Andrés González, `trl.:` Silvia González (PDF)
-* [Introducción al uso y programación del sistema estadístico R](http://cran.r-project.org/doc/contrib/curso-R.Diaz-Uriarte.pdf) - Ramón Díaz-Uriarte (PDF)
-* [Métodos Estadísticos con R y R Commander](http://cran.r-project.org/doc/contrib/Saez-Castillo-RRCmdrv21.pdf) - Antonio José Sáez Castillo (PDF)
-* [Optimización Matemática con R: Volúmen I](http://cran.r-project.org/doc/contrib/Optimizacion_Matematica_con_R_Volumen_I.pdf) - Enrique Gabriel Baquela, Andrés Redchuk (PDF)
-* [R para Principiantes](http://cran.r-project.org/doc/contrib/rdebuts_es.pdf) - Michel Schinz, Philipp Haller, `trl.:` Juanjo Bazán (PDF)
+* [Cartas sobre Estadística de la Revista Argentina de Bioingeniería](https://cran.r-project.org/doc/contrib/Risk-Cartas-sobre-Estadistica.pdf) - Marcelo R. Risk (PDF)
+* [Generación automática de reportes con R y LaTeX](https://cran.r-project.org/doc/contrib/Rivera-Tutorial_Sweave.pdf) - Mario Alfonso Morales Rivera (PDF)
+* [Gráficos Estadísticos con R](https://cran.r-project.org/doc/contrib/grafi3.pdf) - Juan Carlos Correa, Nelfi González (PDF)
+* [Introducción a R](https://cran.r-project.org/doc/contrib/R-intro-1.1.0-espanol.1.pdf) - R Development Core Team, `trl.:` Andrés González, `trl.:` Silvia González (PDF)
+* [Introducción al uso y programación del sistema estadístico R](https://cran.r-project.org/doc/contrib/curso-R.Diaz-Uriarte.pdf) - Ramón Díaz-Uriarte (PDF)
+* [Métodos Estadísticos con R y R Commander](https://cran.r-project.org/doc/contrib/Saez-Castillo-RRCmdrv21.pdf) - Antonio José Sáez Castillo (PDF)
+* [Optimización Matemática con R: Volúmen I](https://cran.r-project.org/doc/contrib/Optimizacion_Matematica_con_R_Volumen_I.pdf) - Enrique Gabriel Baquela, Andrés Redchuk (PDF)
+* [R para Principiantes](https://cran.r-project.org/doc/contrib/rdebuts_es.pdf) - Michel Schinz, Philipp Haller, `trl.:` Juanjo Bazán (PDF)
 
 
 ### Scala
 
-* [Manual de Scala para programadores Java](http://www.scala-lang.org/docu/files/ScalaTutorial-es_ES.pdf) - Emmanuel Paradis, `trl.:` Jorge A. Ahumada (PDF)
+* [Manual de Scala para programadores Java](https://www.scala-lang.org/docu/files/ScalaTutorial-es_ES.pdf) - Emmanuel Paradis, `trl.:` Jorge A. Ahumada (PDF)
 * [Scala con Ejemplos](https://github.com/ErunamoJAZZ/ScalaByExample-es) - Martin Odersky, `trl.:` Daniel Erunamo *( :construction: en proceso)*
 
 
@@ -411,13 +411,13 @@
 
 ### SQL
 
-* [Manual de SQL](http://jorgesanchez.net/manuales/sql/intro-sql-sql2016.html) - Jorge Sanchez Asenjo (HTML)
+* [Manual de SQL](https://jorgesanchez.net/manuales/sql/intro-sql-sql2016.html) - Jorge Sanchez Asenjo (HTML)
 * [Tutorial de SQL](http://www.desarrolloweb.com/manuales/9/) (HTML)
 
 
 ### Subversion
 
-* [Control de versiones con Subversion](http://svnbook.red-bean.com/nightly/es/index.html) - Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato (HTML)
+* [Control de versiones con Subversion](https://svnbook.red-bean.com/nightly/es/index.html) - Ben Collins-Sussman, Brian W. Fitzpatrick, C. Michael Pilato (HTML)
 
 
 ### TypeScript

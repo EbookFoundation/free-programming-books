@@ -285,6 +285,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Computer Vision: Algorithms and Applications](https://szeliski.org/Book/) - Richard Szeliski
 * [Computer Vision: Foundations and Applications](http://vision.stanford.edu/teaching/cs131_fall1718/files/cs131-class-notes.pdf) - Ranjay Krishna (PDF)
 * [Computer Vision: Models, Learning, and Inference](http://www.computervisionmodels.com) - Simon J.D. Prince
+* [Foundations of Computer Vision](https://visionbook.mit.edu) - Antonio Torralba, Phillip Isola, William T. Freeman (HTML)
 * [Programming Computer Vision with Python](http://programmingcomputervision.com) - Jan Erik Solem
 
 

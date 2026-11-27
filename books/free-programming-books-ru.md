@@ -119,6 +119,7 @@
 
 #### Работа с сетью
 
+* [Анатомия Tor](https://github.com/aleff-github/onion-routing-anatomy/releases/tag/v1.0.0-ru) - Alessandro Greco (PDF, EPUB)
 * [Наука о Сетях](http://networksciencebook.com) - Альберто Лазло-Барабаси *( :construction: в процессе написания)*
 * [Разъяснение HTTP2](https://github.com/vlet/http2-explained/blob/master/http2.ru.pdf?raw=true) - Даниэль Штенберг (PDF)
 * [IPv6 для знатоков IPv4](https://sites.google.com/site/yartikhiy/home/ipv6book) - Ярослав Тихий (PDF, HTML, EPUB)

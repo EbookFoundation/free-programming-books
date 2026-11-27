@@ -116,6 +116,7 @@
 #### Misceláneos
 
 * [97 cosas que todo programador debería saber](http://97cosas.com/programador/) - Kevlin Henney, `trl.:` Espartaco Palma, `trl.:` Natán Calzolari (HTML)
+* [Anatomía de Tor](https://github.com/aleff-github/onion-routing-anatomy/releases/tag/v1.0.0-es) - Alessandro Greco (PDF, EPUB)
 * [Docker](https://github.com/brunocascio/docker-espanol#docker) - Bruno Cascio (GitHub)
 * [El camino a un mejor programador](http://emanchado.github.io/camino-mejor-programador/downloads/camino_2013-01-19_0688b6e.html) - Esteban Manchado Velázquez, Joaquín Caraballo Moreno, Yeray Darias Camacho (HTML) [(PDF, ePub)](http://emanchado.github.io/camino-mejor-programador/)
 * [Introducción a Docker](https://www.rediris.es/tecniris/archie/doc/TECNIRIS47-1b.pdf) - Benito Cuesta, Salvador González (PDF)

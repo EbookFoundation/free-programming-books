@@ -188,6 +188,7 @@
 * [SAN 管理入门系列](https://community.emc.com/docs/DOC-16067)
 * [Sketch 中文手册](http://sketchcn.com/sketch-chinese-user-manual.html#introduce)
 * [The LabVIEW Journey](https://lv.qizhen.xyz) - 阮奇桢 (HTML)
+* [Tor 解剖](https://github.com/aleff-github/onion-routing-anatomy/releases/tag/v1.0.0-zh-Hans) - Alessandro Greco (PDF, EPUB)
 
 
 ### 人工智能

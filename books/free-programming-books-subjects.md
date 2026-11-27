@@ -948,6 +948,7 @@ Kerridge (PDF) (email address *requested*, not required)
 ### Security & Privacy
 
 * [A Graduate Course in Applied Cryptography](https://toc.cryptobook.us)
+* [Anatomy of Tor](https://github.com/aleff-github/onion-routing-anatomy/releases/tag/v1.0.0-en) - Alessandro Greco (PDF, EPUB)
 * [Crypto 101 - Crypto for everyone](https://www.crypto101.io)
 * [Cryptography](https://en.wikibooks.org/wiki/Cryptography) - Wikibooks (HTML) *( :construction: in process)*
 * [CryptoParty Handbook](https://unglue.it/work/141611/)

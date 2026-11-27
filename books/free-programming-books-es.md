@@ -348,7 +348,7 @@
 * [El tutorial de Python](https://docs.python.org/es/3/tutorial/) - Python Software Foundation (HTML)
 * [Inmersión en Python](https://code.google.com/archive/p/inmersionenpython3/) (HTML)
 * [Inmersión en Python 3](https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/inmersionenpython3/inmersionEnPython3.0.11.pdf) - Mark Pilgrim, `trl.:` José Miguel González Aguilera (PDF) (descarga directa)
-* [Introducción a la programación con Python](https://repositori.uji.es/xmlui/bitstream/handle/10234/24305/s23.pdf) - Andrés Marzal, Isabel Gracia (PDF)
+* [Introducción a la programación con Python](http://repositori.uji.es/xmlui/bitstream/handle/10234/24305/s23.pdf) - Andrés Marzal, Isabel Gracia (PDF)
 * [Introducción a Programando con Python](https://opentechschool.github.io/python-beginners/es_CL/) - OpenTechSchool, et al. (HTML)
 * [JJ_PYTHON_BOOK](https://github.com/joedejesus/JJ_PYTHON_BOOK) - Joe De Jesus
 * [Python para ciencia e ingeniería](https://github.com/mgaitan/curso-python-cientifico#curso-de-python-para-ciencias-e-ingenierías) - Martín Gaitán (GitHub)

@@ -199,4 +199,5 @@ ADV - Продвинутый. Тонкости.
 ### SQL
 
 * [JOIN в SQL простым языком](https://stepik.org/course/302901) - Илья Калакуцкий (Stepik) (BEG)
+* [SQL с нуля: 40 задач на базе маркетплейса](https://stepik.org/course/307511) - Алексей Смоленков (Stepik) (BEG)
 * [SQL с нуля для начинающих](https://stepik.org/course/302924) - Илья Калакуцкий (Stepik) (BEG)

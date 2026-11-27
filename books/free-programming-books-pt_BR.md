@@ -367,7 +367,7 @@
 
 ### Kubernetes
 
-* [Descomplicando Kubernetes](https://livro.descomplicandokubernetes.com.br) - Jeferson Fernando
+* [Descomplicando Kubernetes](https://github.com/badtuxx/DescomplicandoKubernetes) - Jeferson Fernando
 * [Introdução ao Kubernetes no Azure](https://docs.microsoft.com/pt-br/learn/paths/intro-to-kubernetes-on-azure/)
 
 
@@ -425,7 +425,7 @@
 * [Introdução ao Python](https://files.cercomp.ufg.br/weby/up/688/o/M2_IP_24-09-24.pdf) - Rafael Divino Ferreira Feitosa (PDF)
 * [O Guia do Mochileiro para Python!](https://python-guide-pt-br.readthedocs.io/pt_BR/latest/)
 * [O tutorial de Python](https://web.archive.org/web/20240412174012/http://turing.com.br/pydoc/2.7/tutorial/) *( :card_file_box: archived)*
-* [Pensando Tkinter](https://www.dcc.ufrj.br/~fabiom/mab225/PensandoTkinter.pdf) - Steven Ferg (PDF)
+* [Pensando Tkinter](https://web.archive.org/web/20250628053832/https://dcc.ufrj.br/~fabiom/mab225/PensandoTkinter.pdf) - Steven Ferg (PDF) *( :card_file_box: archived)*
 * [Pense em Python](https://penseallen.github.io/PensePython2e)
 * [Python e Orientação a Objetos](https://www.caelum.com.br/apostila-python-orientacao-a-objetos/)
 * [Python Fluente, Segunda Edição (2023)](https://pythonfluente.com) - Luciano Ramalho (HTML)

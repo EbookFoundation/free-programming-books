@@ -4,7 +4,7 @@ RTL/LTR Markdown Linter.
 
 This script analyzes Markdown files to identify potential issues
 in the display of mixed Right-To-Left (RTL) and Left-To-Right (LTR) text.
-It reads configuration from a `rtl_linter_config.yml` file located in the same
+It reads configuration from a `rtl_ltr_linter_config.yml` file located in the same
 directory as the script.
 
 Key Features:
@@ -491,8 +491,8 @@ def main():
     # Determine the directory where the script is located to find the config file
     script_dir = os.path.dirname(os.path.abspath(__file__))
 
-    # Load the configuration from 'rtl_linter_config.yml'
-    cfg = load_config(os.path.join(script_dir, 'rtl_linter_config.yml'))
+    # Load the configuration from 'rtl_ltr_linter_config.yml'
+    cfg = load_config(os.path.join(script_dir, 'rtl_ltr_linter_config.yml'))
 
     # Initialize counters for total files processed and errors/warnings found
     total = errs = 0

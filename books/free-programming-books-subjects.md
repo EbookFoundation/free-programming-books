@@ -226,6 +226,7 @@ Books that cover a specific programming language can be found in the [BY PROGRAM
 * [Openstack CERN Admin guide](https://clouddocs.web.cern.ch/index.html)
 * [OpenStack Operations Guide](https://docs.openstack.org/ops-guide/index.html)
 * [Streamline microservice management with Istio Service Mesh](https://developers.redhat.com/books/introducing-istio-service-mesh-microservices/) *(account required)*
+* [The Comprehensive Ceph Guide](https://book.ceph-s3.ir/en/) - Ramin Najarbashi (HTML, PDF, EPUB) (CC BY-NC-SA)
 * [The Developer’s Guide to Azure](https://azure.microsoft.com/en-us/campaigns/developer-guide/)
 
 

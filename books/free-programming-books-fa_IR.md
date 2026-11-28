@@ -23,6 +23,7 @@
 
 ### رایانش ابری
 
+* [راهنمای جامع Ceph&rlm;](https://book.ceph-s3.ir/fa/) - رامین نجارباشی (HTML, PDF, EPUB) (CC BY-NC-SA&rlm;)
 * [رایانش ابری](http://docs.occc.ir/books/Main%20Book-20110110_2.pdf) (PDF)
 
 

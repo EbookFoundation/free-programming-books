@@ -70,7 +70,7 @@
 
 * [Code on the Rocks](http://codeontherocks.fm) - Jorge Barroso, Jorge Lería, Davide Mendolia (podcast)
 * [Codely.TV screencasts](https://codely.com/blog/category/screencasts) - Codely.TV (screencasts)
-* [Cosas de Internet](https://cosasdeinternet.fm/episodios) - Santiago Espinosa, Laura Rojas Aponte (podcast)
+* [Cosas de Internet](https://web.archive.org/web/20240828000030/https://www.cosasdeinternet.fm/episodios) - Santiago Espinosa, Laura Rojas Aponte (podcast) *( :card_file_box: archived)*
 * [Día30](https://www.dia30.mx) - Víctor Velázquez, Mariana Ruiz (podcast) *(Última Actualización: Noviembre 2021)*
 * [Digital. Innovation. Engineers.](https://anchor.fm/mimacom) - Mimacom (podcast)
 * [Doomling & Chill](https://anchor.fm/bel-rey) - Bel Rey (podcast) *(Última Actualización: Marzo 2021)*
@@ -81,7 +81,7 @@
 * [iCharlas](https://www.ivoox.com/podcast-icharlas-podcast_sq_f155400_1.html) - Manuel Terrón, Philippe Rochette (podcast) *(Última Actualización: Enero 2020)*
 * [La Tecnologería](https://tecnologeria.com) - Pablo Trinidad, Frank Blanco, Clarisa Guerra, Adrián Mesa, Jorge Cantón, José María García, Manuel Fernández, Iñigo Sendino (podcast)
 * [Mangocast](https://www.mangocast.net) - Luis Benitez, Pablo Santa Cruz, Miguel Balsevich, Luis Corvalán, Rolando Natalizia (podcast)
-* [Más allá de la innovación](https://masalladelainnovacion.com/todos-los-podcasts/) - Philippe Lardy, Rosa Cano, Jose Miguel Parella, Paco Estrada, Mónica del Valle, Beatriz Ferrolasa (podcast) *(Última Actualización: Julio 2021)*
+* [Más allá de la innovación](https://web.archive.org/web/20250115015121/https://masalladelainnovacion.com/todos-los-podcasts/) - Philippe Lardy, Rosa Cano, Jose Miguel Parella, Paco Estrada, Mónica del Valle, Beatriz Ferrolasa (podcast) *(Última Actualización: Julio 2021)* *( :card_file_box: archived)*
 * [Mixx.io](https://mixx.io/podcasts) - Álex Barredo, Matías S. Zavia (podcast)
 * [Ni cero, ni uno - Habilidades esenciales en un mundo tecnológico](https://savvily.es/podcasts/ni-cero-ni-uno/) - Carlos Blé Jurado (podcast)
 * [NoSoloTech](https://www.ivoox.com/podcast-nosolotech-podcast_sq_f1851397_1.html) - Diana Aceves, Félix López, Katia Aresti, Jorge Barrachina (podcast) *(Última Actualización: Octubre 2021)*
